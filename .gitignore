@@ -1,0 +1,9 @@
+.DS_Store
+/dist/
+node_modules/
+yarn-error.log
+.venv/
+/__pycache__/
+json_planet_statistics.json
+current_api_output.json
+planet_statistics.csv
