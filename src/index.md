@@ -39,8 +39,21 @@ import {
     missionsWonAndLost
   } from "./components/dataplots.js";
 const planets = FileAttachment("./data/planets.json").json();
+const lasttime = FileAttachment("./data/lasttime.json").json();
+```
+```js
+import { format } from "d3-format";
+import { timeFormat } from "d3-time-format";
+import { inputs } from "@observablehq/inputs";
+
+const timestamp = new Date();
+const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
+const update_time = "This table was last updated on " + lasttime['update_time'];
+
+
 ```
 
+${update_time}
 
 ```js
 
@@ -56,11 +69,12 @@ const factcolor = Plot.scale({
 
 
 ```js
-function planetTable(data, {width, factcolor, front_filter,show_if}) {
+
+function planetTable(data, {width, factcolor, front_filter,show_if,hidecol}) {
   let filteredData = data.filter(d => front_filter.includes(d.front));
   filteredData= filteredData.filter(d => (show_if.includes(1) && d.missionsWon > 0) || !show_if.includes(1));
-return Inputs.table(filteredData,{
-  columns:[ 'index',"planet_name",
+  let all_columns=[ 'index',
+  "planet_name",
         "sector_name",
         "front",
         "missionsWon",
@@ -85,10 +99,14 @@ return Inputs.table(filteredData,{
         "bug_kills",
         "bot_kills",
         "squid_kills",
-        
         "current_owner",
         "initial_owner",
-        "revives",],
+        "revives",];
+const filteredColumns = all_columns.filter(col => !hidecol.includes(col));
+
+
+return Inputs.table(filteredData,{
+  columns:filteredColumns,
                     header: {
     index: "Index",
     planet_name: "Planet Name",
@@ -139,6 +157,48 @@ const show_if = view(
     {value: [1], label: "Filter on missions", format: ([name, value]) => `${name}`}
   )
 );
+
+const headerMapReversed = new Map([
+    ["Index", "index"],
+    ["Planet Name", "planet_name"],
+    ["Sector Name", "sector_name"],
+    ["Front", "front"],
+    
+    ["Missions Won", "missionsWon"],
+    ["Missions Lost", "missionsLost"],
+    ["Kills", "kills"],
+    ["Deaths", "deaths"],
+    ["Friendlies", "friendlies"],
+    ["DPM", "DPM"],
+    ["KPM", "KPM"],
+    ["KTD", "KTD"],
+    ["WTL", "WTL"],
+    ["Biome", "biome"],
+    ["Hazards", "hazards"],
+    ["MSR", "MSR"],
+    ["Mission Time", "missionTime"],
+    ["Time Per Mission", "timePerMission"],
+    ["Time Played", "timePlayed"],
+    ["Time Played Per Mission", "timePlayedPerMission"],
+    ["Bullets Fired", "bulletsFired"],
+    ["Bullets Hit", "bulletsHit"],
+    ["Accuracy", "accuracy"],
+    ["Bug Kills", "bug_kills"],
+    ["Bot Kills", "bot_kills"],
+    ["Current Owner", "current_owner"],
+    ["Squid Kills", "squid_kills"],
+    ["Initial Owner", "initial_owner"],
+    ["Revives", "revives"]
+]);
+
+const hidecol = view(
+  Inputs.checkbox(
+    headerMapReversed,
+    {value: [], label: "Show/hide columns", format: ([name, value]) => `${name}`}
+  )
+);
+
+
 ```
 
 
@@ -146,7 +206,7 @@ const show_if = view(
 
 <div class="grid grid-cols-1">
   <div class="card">
-    ${resize((width) => planetTable(planets, {width, factcolor, front_filter, show_if}))}
+    ${resize((width) => planetTable(planets, {width, factcolor, front_filter, show_if,hidecol}))}
   </div>
 </div>
 <!-- Cards with big numbers -->
