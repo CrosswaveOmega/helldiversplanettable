@@ -85,7 +85,8 @@ function initializeControl(label) {
 //
 function createSortButton(label) {
   return Inputs.button([
-    ["Increment", value => {console.log(value); return !value;}]
+    ["Lowest", value => {console.log(value); return false;}]
+    ["Highest", value => {console.log(value); return true;}]
   ], {value: true, label: `Reverse Sort ${label}`});
 }
 
