@@ -139,6 +139,7 @@ def make_rows(planets: Dict, allplanet: Dict):
             "missionsWon": stats.missionsWon,
             "missionsLost": stats.missionsLost,
             "missionTime": stats.missionTime,
+            "missionsTotal": missions,
             "timePerMission": (
                 0 if missions <= 0 else (stats.missionTime or 0) / missions
             ),
@@ -160,7 +161,7 @@ def make_rows(planets: Dict, allplanet: Dict):
             "DPM": 0 if missions <= 0 else (stats.deaths or 0) / missions,
             "KPM": 0 if missions <= 0 else kills / missions,
             "KTD": kills / max(stats.deaths or 1, 1),
-            "WTL": (stats.missionsWon or 0) / max(stats.missionsLost or 1, 1),
+            "WTL": 0 if stats.missionsLost<=0 or stats.missionsWon<=0 else (stats.missionsWon or 0) / max(stats.missionsLost or 1, 1),
             "biome": biome,
             "hazards": hazards,
         }

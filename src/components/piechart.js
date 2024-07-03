@@ -25,7 +25,7 @@ export function pieChart(bdata, {
     
     
     for (const entry of bdata) {
-        data.push([entry.biome,entry.count]);
+        data.push([entry.biome,entry.missions]);
     }
     const N = d3.map(data, name);
     const V = d3.map(data, value);

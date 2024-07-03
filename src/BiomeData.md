@@ -4,7 +4,7 @@ title: Biome Data.
 toc: false
 ---
 
-# Helldivers Data Table
+# Helldivers Data Table - Biome Data
 <style>
   
 @import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
@@ -88,25 +88,10 @@ BiomeData(planets, parentElement)
 </div>
 
 
-```js
-const canvas = document.querySelector("#canvas");
-const context = canvas.getContext("2d");
-context.fillStyle = getComputedStyle(canvas).color;
-```
-
-```js 
-replay; // run this block when the button is clicked
-const progress = (function* () {
-  for (let i = canvas.width; i >= 0; --i) {
-    context.clearRect(0, 0, canvas.width, canvas.height);
-    context.fillRect(0, 0, i, canvas.height);
-    yield canvas;
-  }
-})();
-```
 
 
-<div class="grid grid-cols-1">
+
+<div class="grid grid-cols-3">
 <div class="card">
     ${resize((width) => BiomeStats(biome_data['all'],0, {width, biocolors, title:'Biome wins and losses.'}))}
   </div>
@@ -120,61 +105,56 @@ const progress = (function* () {
 
 </div>
 
-<div class="grid grid-cols-1">
+<div class="grid grid-cols-4">
   <div class="card">
     ${resize((width) => BiomeStats(biome_data['all'],3, {width, biocolors, title:'Average Helldiver statistics per biome'}))}
   </div>
-  <div class="card">
-    ${resize((width, height) => pieChart(biome_data['all'], {width, height, biocolors}))}
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['all'],4, {width, biocolors, title:'Average Helldiver statistics per biome'}))}
   </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['all'],5, {width, biocolors, title:'Average Helldiver statistics per biome'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['all'],6, {width, biocolors, title:'Average Helldiver statistics per biome'}))}
+  </div>
+
 </div>
 
 
 
-<div class="grid grid-cols-1">
-<div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],0, {width, biocolors, title:'TERMINID Biome wins and losses.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],1, {width, biocolors, title:'TERMINID  Biome kills.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],2, {width, biocolors,  title:'TERMINID Biome lethality.'}))}
-  </div>
-  
 
-</div>
-
-<div class="grid grid-cols-1">
+<div class="grid grid-cols-4">
   <div class="card">
     ${resize((width) => BiomeStats(biome_data['TERMINIDS'],3, {width, biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
   </div>
-  <div class="card">
-    ${resize((width, height) => pieChart(biome_data['TERMINIDS'], {width, height, biocolors}))}
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],4, {width, biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
   </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],5, {width, biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],6, {width, biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+  </div>
+
 </div>
 
 
 
-<div class="grid grid-cols-1">
-<div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],0, {width, biocolors, title:'AUTOMATON Biome wins and losses.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],1, {width, biocolors, title:'AUTOMATON Biome kills.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],2, {width, biocolors,  title:'AUTOMATON Biome lethality.'}))}
-  </div>
-  
 
-</div>
-
-<div class="grid grid-cols-1">
+<div class="grid grid-cols-4">
   <div class="card">
     ${resize((width) => BiomeStats(biome_data['AUTOMATON'],3, {width, biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
   </div>
-  <div class="card">
-    ${resize((width, height) => pieChart(biome_data['AUTOMATON'], {width, height, biocolors}))}
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],4, {width, biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
   </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],5, {width, biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],6, {width, biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+  </div>
+
 </div>

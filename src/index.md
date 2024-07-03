@@ -256,23 +256,7 @@ const hidecol = view(
 
 
 
-```js
-const canvas = document.querySelector("#canvas");
-const context = canvas.getContext("2d");
-context.fillStyle = getComputedStyle(canvas).color;
-```
 
-```js
-const replay = view(Inputs.button("Replay"));
-replay; // run this block when the button is clicked
-const progress = (function* () {
-  for (let i = canvas.width; i >= 0; --i) {
-    context.clearRect(0, 0, canvas.width, canvas.height);
-    context.fillRect(0, 0, i, canvas.height);
-    yield canvas;
-  }
-})();
-```
  -->
 
 <div class="grid grid-cols-3">
