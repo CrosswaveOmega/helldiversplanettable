@@ -1,6 +1,8 @@
 name: Deploy
 
 on:
+  schedule:
+    - cron:  '14 17 * * *'
   workflow_dispatch:
   push:
     branches:
