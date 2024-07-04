@@ -18,7 +18,9 @@ export default {
   // ],
 
   // Content to add to the head of the page, e.g. for a favicon:
-  head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
+  head: `<meta content="Helldivers 2 Planet Table" property="og:title" />
+<meta content="Tables and graphs gathered across the entire Helldivers 2 Galactic War, split by front." property="og:description" />
+  <link rel="icon" href="observable.png" type="image/png" sizes="32x32">`,
   // The path to the source root.
   root: "src",
   ".py": ["./.venv/Scripts/python.exe"],
