@@ -65,7 +65,8 @@ const factcolor = Plot.scale({
 
 function planetTable(data, {width, factcolor, front_filter,show_if,hidecol}) {
   let filteredData = data.filter(d => front_filter.includes(d.front));
-  filteredData= filteredData.filter(d => (show_if.includes(1) && d.missionsWon > 0) || !show_if.includes(1));
+  filteredData= filteredData.filter(d => (show_if.includes(1) && d.missionsWon > 1) || !show_if.includes(1));
+  filteredData= filteredData.filter(d => (show_if.includes(10) && d.missionsWon > 10 && d.missionsLost >10) || !show_if.includes(10));
   let all_columns=[ 'index',
   "planet_name",
         "sector_name",
@@ -147,8 +148,9 @@ const front_filterg= Generators.input(front_filter);
 const show_if =   Inputs.checkbox(
     new Map([
       ["Has at least one missions", 1],
+      ["Has at least ten missions won and ten missions lost", 10],
     ]),
-    {value: [1], label: "Filter on missions", format: ([name, value]) => `${name}`}
+    {value: [1,10], label: "Filter on missions", format: ([name, value]) => `${name}`}
   );
 const show_ifg= Generators.input(show_if);
 const headerMapReversed = new Map([
