@@ -214,10 +214,11 @@ function missionsLost(data, { width, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsWonAndLost(data, { width, factcolor } = {}) {
+function missionsWonAndLost(data2, { width, front_filter, factcolor, title, sortv=true } = {}) {
   // Function to measure text size
 
   // Measure the largest text size
+  let data = data2.filter(d => front_filter.includes(d.front));
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   let maxTextWidth = Math.max(...textSizes.map((size) => size.width));
@@ -228,18 +229,22 @@ function missionsWonAndLost(data, { width, factcolor } = {}) {
   // Transform data to include separate entries for missionsWon and missionsLost
   let transformedData = [];
   data.forEach((d) => {
+    if (d.missionsWon+d.missionsLost>0){
     transformedData.push({
       ...d,
       type: "missionsWon",
       value: d.missionsWon,
       color: d.front,
+      offset:d.missionsWon,
     });
     transformedData.push({
       ...d,
       type: "missionsLost",
       value: d.missionsLost,
       color: d.front + "L",
+      offset:d.missionsWon+d.missionsLost,
     });
+    }
   });
 
   // Create the plot with adjusted margins
@@ -261,10 +266,12 @@ function missionsWonAndLost(data, { width, factcolor } = {}) {
         x: "value",
         fill: "color",
         stroke: (d) => (d.type === "missionsWon" ? "#1f77b4" : "#ff7f0e"), // Outline color based on type
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: 50, reverse: sortv },
         tip: true,
         title: (d) => `${d.type}: ${d.value}`,
+        
       }),
+      
     ],
   });
 
@@ -392,6 +399,13 @@ function genericGraph(data2, column, { width, front_filter, factcolor, title, ti
         }},
        
       }),
+      Plot.text(data, {
+        y: "planet_name",
+        x: column,
+        text: (d) => d[column].toFixed(1),
+        dx: 15,//(d) => getTextSize(d[column].toFixed(1)).width / 2,
+        lineAnchor: "bottom",
+      })
     ],
   });
   return plotnew;

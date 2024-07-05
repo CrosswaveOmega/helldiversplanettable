@@ -86,7 +86,7 @@ function initializeControl(label) {
 function createSortButton(label) {
   return Inputs.button([
     ["High To Low", value => {console.log(value); return true;}], ["Low To High", value => {console.log(value); return false;}]
-  ], {value: true, label: `Reverse Sort ${label}`});
+  ], {value: true, label: `Reverse Sort direction`});
 }
 
 const card1FrontFilter = initializeControl('Card 1');
@@ -111,7 +111,7 @@ const card4FrontGenerator= Generators.input(card4FrontFilter);
 const card4Sortv = createSortButton('Card 4');
 const card4SortGenerator = Generators.input(card4Sortv);
 
-//const industry = Generators.input(industryInput);
+
 ```
 
 <div class="grid grid-cols-2">
@@ -138,22 +138,64 @@ const card4SortGenerator = Generators.input(card4Sortv);
   </div>
 </div>
 
+```js
 
+const cardwFrontFilter = initializeControl('Card W');
+const cardwFrontGenerator= Generators.input(cardwFrontFilter);
+const cardwSortv = createSortButton('Card W');
+const cardwSortGenerator = Generators.input(cardwSortv);
+
+const cardlFrontFilter = initializeControl('Card L');
+const cardlFrontGenerator= Generators.input(cardlFrontFilter);
+const cardlSortv = createSortButton('Card L');
+const cardlSortGenerator = Generators.input(cardlSortv);
+
+const cardwlFrontFilter = initializeControl('Card WL');
+const cardwlFrontGenerator= Generators.input(cardwlFrontFilter);
+const cardwlSortv = createSortButton('Card WL');
+const cardwlSortGenerator = Generators.input(cardwlSortv);
+
+const cardKDFrontFilter = initializeControl('Card KD');
+const cardKDFrontGenerator= Generators.input(cardKDFrontFilter);
+const cardKDSortv = createSortButton('Card WL');
+const cardKDSortGenerator = Generators.input(cardKDSortv);
+
+
+const cardDFrontFilter = initializeControl('Card D');
+const cardDFrontGenerator= Generators.input(cardDFrontFilter);
+const cardDSortv = createSortButton('Card D');
+const cardDSortGenerator = Generators.input(cardDSortv);
+```
 
 <div class="grid grid-cols-2">
   <div class="card">
-    ${resize((width) => missionsWon(planets, {width, factcolor}))}
+      ${cardwSortv}
+      ${cardwFrontFilter}
+    ${resize((width) => genericGraph(planets, 'missionsWon', {width, factcolor, title:"Missions Won",front_filter:cardwFrontGenerator,sortv:cardwSortGenerator}))}
   </div>
-      <div class="card">
-    ${resize((width) => missionsLost(planets, {width, factcolor}))}
+  <div class="card">
+      ${cardlSortv}
+      ${cardlFrontFilter}
+    ${resize((width) => genericGraph(planets,'missionsLost', {width, factcolor,title:"Missions Lost",front_filter:cardlFrontGenerator,sortv:cardlSortGenerator}))}
   </div>
-    
+  <div class="card">
+    ${cardKDFrontFilter}
+    ${cardKDSortv}
+    ${resize((width) => genericGraph(planets, 'kills',{width, factcolor,title:"Kills Per Planet",front_filter:cardKDFrontGenerator,sortv:cardKDSortGenerator}))}
+  </div>
+    <div class="card">
+     ${cardDFrontFilter}
+     ${cardDSortv}
+    ${resize((width) => genericGraph(planets, 'deaths',{width, factcolor,title:"Deaths Per Planet",front_filter:cardDFrontGenerator,sortv:cardDSortGenerator}))}
+  </div>
 </div>
 
 
 <div class="grid grid-cols-1">
 <div class="card">
-    ${resize((width) => missionsWonAndLost(planets, {width, factcolor}))}
+      ${cardwlSortv}
+      ${cardwlFrontFilter}
+    ${resize((width) => missionsWonAndLost(planets, {width, factcolor,front_filter:cardwlFrontGenerator,sortv:cardwlSortGenerator}))}
   </div>
   </div>
 

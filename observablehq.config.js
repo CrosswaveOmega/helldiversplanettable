@@ -7,15 +7,21 @@ export default {
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
   // lets you organize them into sections and have unlisted pages.
-  // pages: [
-  //   {
-  //     name: "Examples",
-  //     pages: [
-  //       {name: "Dashboard", path: "/example-dashboard"},
-  //       {name: "Report", path: "/example-report"}
-  //     ]
-  //   }
-  // ],
+  pages: [
+    {
+      name: "Planet Statistics",
+      pages: [
+        {name: "Planet Table", path: "/index"},
+        {name: "Planet Charts", path: "/index2"}
+      ]
+    },
+    {
+      name: "Biome Statistics",
+      pages: [
+        {name: "Biome Data", path: "/BiomeData"},
+      ]
+    }
+  ],
 
   // Content to add to the head of the page, e.g. for a favicon:
   head: `<meta content="Helldivers 2 Planet Table" property="og:title" />

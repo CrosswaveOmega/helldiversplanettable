@@ -138,7 +138,7 @@ return Inputs.table(filteredData,{
     initial_owner: "Initial Owner",
     revives: "Revives"
 }, 
-sort:'sector_name', reverse:false,
+sort:'index', reverse:false,
 
 width:width,
 
@@ -148,16 +148,15 @@ width:width,
 
 }
 
-const front_filter = view(Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['HUMANS','AUTOMATON','TERMINIDS'], label:'Filter by front'}))
-const show_if = view(
-  Inputs.checkbox(
+const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['HUMANS','AUTOMATON','TERMINIDS'], label:'Filter by front'})
+const front_filterg= Generators.input(front_filter);
+const show_if =   Inputs.checkbox(
     new Map([
       ["Has at least one missions", 1],
     ]),
     {value: [1], label: "Filter on missions", format: ([name, value]) => `${name}`}
-  )
-);
-
+  );
+const show_ifg= Generators.input(show_if);
 const headerMapReversed = new Map([
     ["Index", "index"],
     ["Planet Name", "planet_name"],
@@ -191,13 +190,13 @@ const headerMapReversed = new Map([
     ["Revives", "revives"]
 ]);
 
-const hidecol = view(
+const hidecol = 
   Inputs.checkbox(
     headerMapReversed,
-    {value: [], label: "Show/hide columns", format: ([name, value]) => `${name}`}
+    {value: ['bulletsFired','bulletsHit','accuracy','bug_kills','bot_kills','current_owner','squid_kills','initial_owner','revives'], label: "Show/hide columns", format: ([name, value]) => `${name}`}
   )
-);
-
+;
+const hidecolg= Generators.input(hidecol);
 
 ```
 
@@ -206,7 +205,10 @@ const hidecol = view(
 
 <div class="grid grid-cols-1">
   <div class="card">
-    ${resize((width) => planetTable(planets, {width, factcolor, front_filter, show_if,hidecol}))}
+  ${front_filter}
+  ${show_if}
+  ${hidecol}
+    ${resize((width) => planetTable(planets, {width, factcolor, front_filter:front_filterg, show_if:show_ifg,hidecol:hidecolg}))}
   </div>
 </div>
 <!-- Cards with big numbers -->
@@ -252,41 +254,20 @@ const hidecol = view(
 </div>
 
 
+### Some notes.
+
+A planet's "Front" is determined by if that planet is connected to a Terminid or Automaton controlled planet via supply line chain.  
+
+Human front planets merely mean that the planet is not connected to an adversarial faction.
+
+
+
 <!-- <canvas id="canvas" width="360" height="20" style="max-width: 100%; color: var(--theme-foreground-focus); border: solid 1px var(--theme-foreground);"></canvas>
+
 
 
 
 
  -->
 
-<div class="grid grid-cols-3">
-  <div class="card">
-    ${resize((width) => allKills(planets, {width, factcolor}))}
-  </div>
-    <div class="card">
-    ${resize((width) => allDeaths(planets, {width, factcolor}))}
-  </div>
-    <div class="card">
-    ${resize((width) => kdRatio(planets, {width, factcolor}))}
-  </div>
-</div>
-
-
-
-<div class="grid grid-cols-2">
-  <div class="card">
-    ${resize((width) => missionsWon(planets, {width, factcolor}))}
-  </div>
-      <div class="card">
-    ${resize((width) => missionsLost(planets, {width, factcolor}))}
-  </div>
-    
-</div>
-
-
-<div class="grid grid-cols-1">
-<div class="card">
-    ${resize((width) => missionsWonAndLost(planets, {width, factcolor}))}
-  </div>
-  </div>
 
