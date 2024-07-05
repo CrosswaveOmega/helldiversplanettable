@@ -49,7 +49,7 @@ function botKills(data, { width } = {}) {
   return plotnew;
 }
 
-function allKills(data, { width, factcolor } = {}) {
+function allKills(data, { width, limitby=32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -76,14 +76,14 @@ function allKills(data, { width, factcolor } = {}) {
         y: "planet_name",
         x: "kills",
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: limitby, reverse: true },
         tip: true,
       }),
     ],
   });
   return plotnew;
 }
-function allDeaths(data, { width, factcolor } = {}) {
+function allDeaths(data, { width, limitby=32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -110,7 +110,7 @@ function allDeaths(data, { width, factcolor } = {}) {
         y: "planet_name",
         x: "deaths",
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: limitby, reverse: true },
         tip: true,
       }),
     ],
@@ -118,7 +118,7 @@ function allDeaths(data, { width, factcolor } = {}) {
   return plotnew;
 }
 
-function kdRatio(data, { width, factcolor } = {}) {
+function kdRatio(data, { width, limitby=32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -145,7 +145,7 @@ function kdRatio(data, { width, factcolor } = {}) {
         y: "planet_name",
         x: "KTD",
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: limitby, reverse: true },
         tip: true,
       }),
     ],
@@ -153,7 +153,7 @@ function kdRatio(data, { width, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsWon(data, { width, factcolor } = {}) {
+function missionsWon(data, { width, limitby=32, factcolor } = {}) {
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   console.log(textSizes);
@@ -175,7 +175,7 @@ function missionsWon(data, { width, factcolor } = {}) {
         y: "planet_name",
         x: "missionsWon",
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: limitby, reverse: true },
         tip: true,
       }),
     ],
@@ -183,7 +183,7 @@ function missionsWon(data, { width, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsLost(data, { width, factcolor } = {}) {
+function missionsLost(data, { width, limitby=32, factcolor } = {}) {
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   console.log(textSizes);
@@ -206,7 +206,7 @@ function missionsLost(data, { width, factcolor } = {}) {
         y: "planet_name",
         x: "missionsLost",
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: true },
+        sort: { y: "x", limit: limitby, reverse: true },
         tip: true,
       }),
     ],
@@ -214,7 +214,7 @@ function missionsLost(data, { width, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsWonAndLost(data2, { width, front_filter, factcolor, title, sortv=true } = {}) {
+function missionsWonAndLost(data2, { width, limitby=32, front_filter, factcolor, title, sortv=true } = {}) {
   // Function to measure text size
 
   // Measure the largest text size
@@ -266,7 +266,7 @@ function missionsWonAndLost(data2, { width, front_filter, factcolor, title, sort
         x: "value",
         fill: "color",
         stroke: (d) => (d.type === "missionsWon" ? "#1f77b4" : "#ff7f0e"), // Outline color based on type
-        sort: { y: "x", limit: 50, reverse: sortv },
+        sort: { y: "x", limit: limitby, reverse: sortv },
         tip: true,
         title: (d) => `${d.type}: ${d.value}`,
         
@@ -353,7 +353,7 @@ function make_biome_data(data) {
 }
 
 
-function genericGraph(data2, column, { width, front_filter, factcolor, title, titleFormat,sortv=true, showtext=true} = {}) {
+function genericGraph(data2, column, { width, limitby=32, front_filter, factcolor, title, titleFormat,sortv=true, showtext=true} = {}) {
 
   // Measure the largest text size\
   let data = data2.filter(d => front_filter.includes(d.front));
@@ -383,7 +383,7 @@ function genericGraph(data2, column, { width, front_filter, factcolor, title, ti
         y: "planet_name",
         x: column,
         fill: "front",
-        sort: { y: "x", limit: 50, reverse: sortv },
+        sort: { y: "x", limit: limitby, reverse: sortv },
         tip: true,
         channels:{year: {
           value: {
@@ -414,7 +414,7 @@ function genericGraph(data2, column, { width, front_filter, factcolor, title, ti
 function BiomeStats(
   data,
   mode,
-  { width, biocolors, title = "Biome stats" } = {}
+  { width, limitby=32, biocolors, title = "Biome stats" } = {}
 ) {
   // Function to measure text size
 
