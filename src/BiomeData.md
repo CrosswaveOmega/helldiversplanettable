@@ -5,27 +5,7 @@ toc: false
 ---
 
 # Helldivers Data Table - Biome Data
-<style>
-  
-@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Rationale&display=swap');
-body{ 
-  font-family: 'Goldman' !important;
-}
-.card, .big {
-  font-family: 'Goldman' !important;
-}
-figure > h2, figure > h3{
-  font-family: 'Goldman' !important;
-}
-[class*="inputs"] {
-  font-family: 'Rationale' !important;
-}
-[class*="plot"] {
-  font-family: 'Goldman' !important;
-}
-</style>
 <!-- Load and transform the data -->
 
 ```js

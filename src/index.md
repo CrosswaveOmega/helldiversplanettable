@@ -7,24 +7,7 @@ toc: false
 
 # Helldivers Data Table
 
-<style>
-  
-@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Rationale&display=swap');
-body{ 
-  font-family: 'Goldman' !important;
-}
-.card, .big {
-  font-family: 'Goldman' !important;
-}
-[class*="inputs"] {
-  font-family: 'Rationale' !important;
-}
-[class*="plot"] {
-  font-family: 'Goldman' !important;
-}
-</style>
 
 ```js
 
@@ -49,8 +32,18 @@ import { inputs } from "@observablehq/inputs";
 const timestamp = new Date();
 const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
 const update_time = "This table was last updated on " + lasttime['update_time'];
-
-
+const ns = Inputs.text().classList[0];
+console.log(ns);
+function addDynamicCSS(ns) {
+  const style = document.createElement("style");
+  style.innerHTML = `
+    .${ns}, .${ns}-checkbox {
+      max-width: 100% !important;
+    }
+  `;
+  document.head.appendChild(style);
+}
+addDynamicCSS(ns);
 ```
 
 ${update_time}
@@ -77,6 +70,8 @@ function planetTable(data, {width, factcolor, front_filter,show_if,hidecol}) {
   "planet_name",
         "sector_name",
         "front",
+        "biome",
+        "hazards",
         "missionsWon",
         "missionsLost",
         "kills",
@@ -86,8 +81,7 @@ function planetTable(data, {width, factcolor, front_filter,show_if,hidecol}) {
         "KPM",
         "KTD",
         "WTL",
-        "biome",
-        "hazards",
+
         "MSR",
         "missionTime",
         "timePerMission",
@@ -148,7 +142,7 @@ width:width,
 
 }
 
-const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['HUMANS','AUTOMATON','TERMINIDS'], label:'Filter by front'})
+const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['AUTOMATON','TERMINIDS'], label:'Filter by front'})
 const front_filterg= Generators.input(front_filter);
 const show_if =   Inputs.checkbox(
     new Map([
@@ -161,8 +155,10 @@ const headerMapReversed = new Map([
     ["Index", "index"],
     ["Planet Name", "planet_name"],
     ["Sector Name", "sector_name"],
+
     ["Front", "front"],
-    
+    ["Biome", "biome"],
+    ["Hazards", "hazards"],
     ["Missions Won", "missionsWon"],
     ["Missions Lost", "missionsLost"],
     ["Kills", "kills"],
@@ -172,8 +168,8 @@ const headerMapReversed = new Map([
     ["KPM", "KPM"],
     ["KTD", "KTD"],
     ["WTL", "WTL"],
-    ["Biome", "biome"],
-    ["Hazards", "hazards"],
+    
+    
     ["MSR", "MSR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
@@ -193,7 +189,7 @@ const headerMapReversed = new Map([
 const hidecol = 
   Inputs.checkbox(
     headerMapReversed,
-    {value: ['bulletsFired','bulletsHit','accuracy','bug_kills','bot_kills','current_owner','squid_kills','initial_owner','revives'], label: "Show/hide columns", format: ([name, value]) => `${name}`}
+    {value: ['index','hazards','bulletsFired','bulletsHit','accuracy','bug_kills','bot_kills','current_owner','squid_kills','initial_owner','revives'], label: "Show/hide columns", format: ([name, value]) => `${name}`}
   )
 ;
 const hidecolg= Generators.input(hidecol);
@@ -215,11 +211,11 @@ const hidecolg= Generators.input(hidecol);
 
 <div class="grid grid-cols-3">
   <div class="card">
-    <h2>Terminid planets</h2>
+    <h2>Terminid front planets</h2>
     <span class="big">${planets.filter((d) => d.front === "TERMINIDS").length.toLocaleString("en-US")}</span>
   </div>
   <div class="card">
-    <h2>Bot planets</h2>
+    <h2>Bot front planets</h2>
     <span class="big">${planets.filter((d) => d.front=== "AUTOMATON").length.toLocaleString("en-US")}</span>
   </div>
   <div class="card">
@@ -256,7 +252,7 @@ const hidecolg= Generators.input(hidecol);
 
 ### Some notes.
 
-A planet's "Front" is determined by if that planet is connected to a Terminid or Automaton controlled planet via supply line chain.  
+A planet's "Front" is based on if that planet is connected to a Terminid or Automaton controlled planet via supply line chain.  
 
 Human front planets merely mean that the planet is not connected to an adversarial faction.
 

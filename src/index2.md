@@ -8,24 +8,6 @@ sidebar: true
 
 # Helldivers Data Table
 ### Planet Charts
-<style>
-  
-@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Rationale&display=swap');
-body{ 
-  font-family: 'Goldman' !important;
-}
-.card, .big {
-  font-family: 'Goldman' !important;
-}
-[class*="inputs"] {
-  font-family: 'Rationale' !important;
-}
-[class*="plot"] {
-  font-family: 'Goldman' !important;
-}
-</style>
 
 ```js
 
@@ -171,22 +153,22 @@ const cardDSortGenerator = Generators.input(cardDSortv);
   <div class="card">
       ${cardwSortv}
       ${cardwFrontFilter}
-    ${resize((width) => genericGraph(planets, 'missionsWon', {width, factcolor, title:"Missions Won",front_filter:cardwFrontGenerator,sortv:cardwSortGenerator}))}
+    ${resize((width) => genericGraph(planets, 'missionsWon', {width, factcolor, title:"Missions Won",front_filter:cardwFrontGenerator,sortv:cardwSortGenerator,showtext:false}))}
   </div>
   <div class="card">
       ${cardlSortv}
       ${cardlFrontFilter}
-    ${resize((width) => genericGraph(planets,'missionsLost', {width, factcolor,title:"Missions Lost",front_filter:cardlFrontGenerator,sortv:cardlSortGenerator}))}
+    ${resize((width) => genericGraph(planets,'missionsLost', {width, factcolor,title:"Missions Lost",front_filter:cardlFrontGenerator,sortv:cardlSortGenerator,showtext:false}))}
   </div>
   <div class="card">
     ${cardKDFrontFilter}
     ${cardKDSortv}
-    ${resize((width) => genericGraph(planets, 'kills',{width, factcolor,title:"Kills Per Planet",front_filter:cardKDFrontGenerator,sortv:cardKDSortGenerator}))}
+    ${resize((width) => genericGraph(planets, 'kills',{width, factcolor,title:"Kills Per Planet",front_filter:cardKDFrontGenerator,sortv:cardKDSortGenerator,showtext:false}))}
   </div>
     <div class="card">
      ${cardDFrontFilter}
      ${cardDSortv}
-    ${resize((width) => genericGraph(planets, 'deaths',{width, factcolor,title:"Deaths Per Planet",front_filter:cardDFrontGenerator,sortv:cardDSortGenerator}))}
+    ${resize((width) => genericGraph(planets, 'deaths',{width, factcolor,title:"Deaths Per Planet",front_filter:cardDFrontGenerator,sortv:cardDSortGenerator,showtext:false}))}
   </div>
 </div>
 

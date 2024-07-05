@@ -353,7 +353,7 @@ function make_biome_data(data) {
 }
 
 
-function genericGraph(data2, column, { width, front_filter, factcolor, title, titleFormat,sortv=true } = {}) {
+function genericGraph(data2, column, { width, front_filter, factcolor, title, titleFormat,sortv=true, showtext=true} = {}) {
 
   // Measure the largest text size\
   let data = data2.filter(d => front_filter.includes(d.front));
@@ -402,10 +402,10 @@ function genericGraph(data2, column, { width, front_filter, factcolor, title, ti
       Plot.text(data, {
         y: "planet_name",
         x: column,
-        text: (d) => d[column].toFixed(1),
+        text: (d) => {if (showtext){return d[column].toFixed(1);}else{return "";}},
         dx: 15,//(d) => getTextSize(d[column].toFixed(1)).width / 2,
         lineAnchor: "bottom",
-      })
+      }, { showtext })
     ],
   });
   return plotnew;

@@ -26,7 +26,44 @@ export default {
   // Content to add to the head of the page, e.g. for a favicon:
   head: `<meta content="Helldivers 2 Planet Table" property="og:title" />
 <meta content="Tables and graphs gathered across the entire Helldivers 2 Galactic War, split by front." property="og:description" />
-  <link rel="icon" href="observable.png" type="image/png" sizes="32x32">`,
+  <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
+  <style>
+  
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+body{ 
+  font-family: 'Goldman' !important;
+}
+p,
+table,
+figure,
+figcaption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.katex-display {
+  max-width: 100%;
+}
+#observablehq-sidebar {
+  font-family: 'Goldman' !important;
+
+}
+.card, .big {
+  font-family: 'Goldman' !important;
+}
+[class*="inputs"] {
+  font-family: 'Roboto Condensed' !important;
+}
+[class*="plot"] {
+  font-family: 'Goldman' !important;
+}
+</style>
+  
+  `,
   // The path to the source root.
   root: "src",
   ".py": ["./.venv/Scripts/python.exe"],
