@@ -16,11 +16,18 @@ export default {
       ]
     },
     {
-      name: "Biome Statistics",
+      name: "Biome/Sector Statistics",
       pages: [
         {name: "Biome Data", path: "/BiomeData"},
+        {name: "Sector Data", path: "/SectorData"},
       ]
-    }
+    },
+    {
+      name: "About",
+      pages: [
+        {name: "About", path: "/report"},
+      ]
+    },
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:

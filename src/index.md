@@ -21,6 +21,10 @@ import {
     missionsLost,
     missionsWonAndLost
   } from "./components/dataplots.js";
+  import {
+    planetTable, headerMapReversed,
+  } from "./components/tables.js";
+  
 const planets = FileAttachment("./data/planets.json").json();
 const lasttime = FileAttachment("./data/lasttime.json").json();
 ```
@@ -63,85 +67,6 @@ const factcolor = Plot.scale({
 
 ```js
 
-function planetTable(data, {width, factcolor, front_filter,show_if,hidecol}) {
-  let filteredData = data.filter(d => front_filter.includes(d.front));
-  filteredData= filteredData.filter(d => (show_if.includes(1) && d.missionsWon > 1) || !show_if.includes(1));
-  filteredData= filteredData.filter(d => (show_if.includes(10) && d.missionsWon > 10 && d.missionsLost >10) || !show_if.includes(10));
-  let all_columns=[ 'index',
-  "planet_name",
-        "sector_name",
-        "front",
-        "biome",
-        "hazards",
-        "missionsWon",
-        "missionsLost",
-        "kills",
-        "deaths",
-        "friendlies",
-        "DPM",
-        "KPM",
-        "KTD",
-        "WTL",
-
-        "MSR",
-        "missionTime",
-        "timePerMission",
-        "timePlayed",
-        "timePlayedPerMission",
-        "bulletsFired",
-        "bulletsHit",
-        "accuracy",
-        "bug_kills",
-        "bot_kills",
-        "squid_kills",
-        "current_owner",
-        "initial_owner",
-        "revives",];
-const filteredColumns = all_columns.filter(col => !hidecol.includes(col));
-
-
-return Inputs.table(filteredData,{
-  columns:filteredColumns,
-                    header: {
-    index: "Index",
-    planet_name: "Planet Name",
-    sector_name: "Sector Name",
-    front: "Front",
-    current_owner: "Current Owner",
-    missionsWon: "Missions Won",
-    missionsLost: "Missions Lost",
-    kills: "Kills",
-    deaths: "Deaths",
-    friendlies: "Friendlies",
-    DPM: "DPM",
-    KPM: "KPM",
-    KTD: "KTD",
-    WTL: "WTL",
-    biome: "Biome",
-    hazards: "Hazards",
-    MSR: "MSR",
-    missionTime: "Mission Time",
-    timePerMission: "Time Per Mission",
-    timePlayed: "Time Played",
-    timePlayedPerMission: "Time Played Per Mission",
-    bulletsFired: "Bullets Fired",
-    bulletsHit: "Bullets Hit",
-    accuracy: "Accuracy",
-    bug_kills: "Bug Kills",
-    bot_kills: "Bot Kills",
-    squid_kills: "Squid Kills",
-    initial_owner: "Initial Owner",
-    revives: "Revives"
-}, 
-sort:'index', reverse:false,
-
-width:width,
-
-
-
-});
-
-}
 
 const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['AUTOMATON','TERMINIDS'], label:'Filter by front'})
 const front_filterg= Generators.input(front_filter);
@@ -187,7 +112,36 @@ const headerMapReversed = new Map([
     ["Initial Owner", "initial_owner"],
     ["Revives", "revives"]
 ]);
+let all_columns=[ 'index',
+  "planet_name",
+        "sector_name",
+        "front",
+        "biome",
+        "hazards",
+        "missionsWon",
+        "missionsLost",
+        "kills",
+        "deaths",
+        "friendlies",
+        "DPM",
+        "KPM",
+        "KTD",
+        "WTL",
 
+        "MSR",
+        "missionTime",
+        "timePerMission",
+        "timePlayed",
+        "timePlayedPerMission",
+        "bulletsFired",
+        "bulletsHit",
+        "accuracy",
+        "bug_kills",
+        "bot_kills",
+        "squid_kills",
+        "current_owner",
+        "initial_owner",
+        "revives",];
 const hidecol = 
   Inputs.checkbox(
     headerMapReversed,
@@ -206,7 +160,7 @@ const hidecolg= Generators.input(hidecol);
   ${front_filter}
   ${show_if}
   ${hidecol}
-    ${resize((width) => planetTable(planets, {width, factcolor, front_filter:front_filterg, show_if:show_ifg,hidecol:hidecolg}))}
+    ${resize((width) => planetTable(planets, {width, all_columns, front_filter:front_filterg, sortby:'index',show_if:show_ifg,hidecol:hidecolg}))}
   </div>
 </div>
 <!-- Cards with big numbers -->

@@ -18,38 +18,51 @@ function make_biome_data(data) {
   let biome_data = data.reduce((acc, entry) => {
     let front = entry.front;
     if (!fronts.includes(front)) fronts.unshift(front);
-
     if (!acc["all"]) {
       acc["all"] = {};
     }
-
+    let targetcolumn=entry.biome;
+    if (!acc["all"][targetcolumn]) {
+      acc["all"][targetcolumn] = { ...entry, count: 1 };
+    } else {
+      acc["all"][targetcolumn].missionsWon += entry.missionsWon;
+      acc["all"][targetcolumn].missionsLost += entry.missionsLost;
+      acc["all"][targetcolumn].bot_kills += entry.bot_kills;
+      acc["all"][targetcolumn].bug_kills += entry.bug_kills;
+      acc["all"][targetcolumn].squid_kills += entry.squid_kills;
+      acc["all"][targetcolumn].revives += entry.revives;
+      acc["all"][targetcolumn].deaths += entry.deaths;
+      acc["all"][targetcolumn].friendlies += entry.friendlies;
+      acc["all"][targetcolumn].bulletsFired += entry.bulletsFired;
+      acc["all"][targetcolumn].bulletsHit += entry.bulletsHit;
+      acc["all"][targetcolumn].missionTime += entry.missionTime;
+      acc["all"][targetcolumn].timePlayed += entry.timePlayed;
+      
+      acc["all"][targetcolumn].count += 1;
+    }
     if (!acc[front]) {
       acc[front] = {};
     }
-
-    if (!acc["all"][entry.biome]) {
-      acc["all"][entry.biome] = { ...entry, count: 1 };
+    if (!acc[front][targetcolumn]) {
+      acc[front][targetcolumn] = { ...entry, count: 1 };
     } else {
-      acc["all"][entry.biome].missionsWon += entry.missionsWon;
-      acc["all"][entry.biome].missionsLost += entry.missionsLost;
-      acc["all"][entry.biome].bot_kills += entry.bot_kills;
-      acc["all"][entry.biome].bug_kills += entry.bug_kills;
-      acc["all"][entry.biome].deaths += entry.deaths;
-      acc["all"][entry.biome].friendlies += entry.friendlies;
-      acc["all"][entry.biome].count += 1;
+      acc[front][targetcolumn].missionsWon += entry.missionsWon;
+      acc[front][targetcolumn].missionsLost += entry.missionsLost;
+      acc[front][targetcolumn].bot_kills += entry.bot_kills;
+      acc[front][targetcolumn].bug_kills += entry.bug_kills;
+      acc[front][targetcolumn].squid_kills += entry.squid_kills;
+      acc[front][targetcolumn].revives += entry.revives;
+      acc[front][targetcolumn].deaths += entry.deaths;
+      acc[front][targetcolumn].friendlies += entry.friendlies;
+      acc[front][targetcolumn].bulletsFired += entry.bulletsFired;
+      acc[front][targetcolumn].bulletsHit += entry.bulletsHit;
+      acc[front][targetcolumn].missionTime += entry.missionTime;
+      acc[front][targetcolumn].timePlayed += entry.timePlayed;
+      
+      acc[front][targetcolumn].count += 1;
     }
 
-    if (!acc[front][entry.biome]) {
-      acc[front][entry.biome] = { ...entry, count: 1 };
-    } else {
-      acc[front][entry.biome].missionsWon += entry.missionsWon;
-      acc[front][entry.biome].missionsLost += entry.missionsLost;
-      acc[front][entry.biome].bot_kills += entry.bot_kills;
-      acc[front][entry.biome].bug_kills += entry.bug_kills;
-      acc[front][entry.biome].deaths += entry.deaths;
-      acc[front][entry.biome].friendlies += entry.friendlies;
-      acc[front][entry.biome].count += 1;
-    }
+    
     return acc;
   }, {});
   console.log(biome_data);
@@ -58,13 +71,18 @@ function make_biome_data(data) {
   for (const front of fronts) {
     let thislist = [];
     for (const [, entry] of Object.entries(biome_data[front])) {
+      
       let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
       let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
-      let dpm = entry.deaths / missions;
-      let kpm = killsum / missions;
-      let ktd = killsum / Math.max(entry.deaths, 1);
-      let wtl = entry.missionsWon / Math.max(entry.missionsLost, 1);
-      thislist.push({ ...entry, missions, killsum, dpm, kpm, ktd, wtl });
+      let DPM = entry.deaths / missions;
+      let KPM = killsum / missions;
+      let KTD = killsum / Math.max(entry.deaths, 1);
+      let timePerMission = entry.missionTime/missions;
+      let timePlayedPerMission = entry.timePlayed/missions;
+      let MSR = entry.missionsWon/missions;
+      let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
+      thislist.push({ ...entry, missions, killsum,kills:killsum, DPM, KPM, KTD, WTL,timePerMission,timePlayedPerMission,MSR});
+      
     }
     transformedData[front] = thislist;
     console.log(transformedData);
@@ -72,9 +90,11 @@ function make_biome_data(data) {
   return transformedData;
 }
 
+
+
 function make_sector_data(data) {
   /**
-   * Aggregates and transforms sector data.
+   * Aggregates and transforms targetcolumn data.
    *
    * This function processes the input data to aggregate statistics for each biome and then
    * calculates derived metrics such as deaths per mission, kills per mission, kills to deaths ratio,
@@ -89,22 +109,52 @@ function make_sector_data(data) {
   console.log("DATA");
   console.log(data);
   let fronts = ["all"];
+  
   let sector_data = data.reduce((acc, entry) => {
-    
+    let front = entry.front;
+    if (!fronts.includes(front)) fronts.unshift(front);
     if (!acc["all"]) {
       acc["all"] = {};
     }
-    let sector=entry.sector_name;
-    if (!acc["all"][sector]) {
-      acc["all"][sector] = { ...entry, count: 1 };
+    let targetcolumn=entry.sector_name;
+    if (!acc["all"][targetcolumn]) {
+      acc["all"][targetcolumn] = { ...entry, count: 1 };
     } else {
-      acc["all"][sector].missionsWon += entry.missionsWon;
-      acc["all"][sector].missionsLost += entry.missionsLost;
-      acc["all"][sector].bot_kills += entry.bot_kills;
-      acc["all"][sector].bug_kills += entry.bug_kills;
-      acc["all"][sector].deaths += entry.deaths;
-      acc["all"][sector].friendlies += entry.friendlies;
-      acc["all"][sector].count += 1;
+      acc["all"][targetcolumn].missionsWon += entry.missionsWon;
+      acc["all"][targetcolumn].missionsLost += entry.missionsLost;
+      acc["all"][targetcolumn].bot_kills += entry.bot_kills;
+      acc["all"][targetcolumn].bug_kills += entry.bug_kills;
+      acc["all"][targetcolumn].squid_kills += entry.squid_kills;
+      acc["all"][targetcolumn].revives += entry.revives;
+      acc["all"][targetcolumn].deaths += entry.deaths;
+      acc["all"][targetcolumn].friendlies += entry.friendlies;
+      acc["all"][targetcolumn].bulletsFired += entry.bulletsFired;
+      acc["all"][targetcolumn].bulletsHit += entry.bulletsHit;
+      acc["all"][targetcolumn].missionTime += entry.missionTime;
+      acc["all"][targetcolumn].timePlayed += entry.timePlayed;
+      
+      acc["all"][targetcolumn].count += 1;
+    }
+    if (!acc[front]) {
+      acc[front] = {};
+    }
+    if (!acc[front][targetcolumn]) {
+      acc[front][targetcolumn] = { ...entry, count: 1 };
+    } else {
+      acc[front][targetcolumn].missionsWon += entry.missionsWon;
+      acc[front][targetcolumn].missionsLost += entry.missionsLost;
+      acc[front][targetcolumn].bot_kills += entry.bot_kills;
+      acc[front][targetcolumn].bug_kills += entry.bug_kills;
+      acc[front][targetcolumn].squid_kills += entry.squid_kills;
+      acc[front][targetcolumn].revives += entry.revives;
+      acc[front][targetcolumn].deaths += entry.deaths;
+      acc[front][targetcolumn].friendlies += entry.friendlies;
+      acc[front][targetcolumn].bulletsFired += entry.bulletsFired;
+      acc[front][targetcolumn].bulletsHit += entry.bulletsHit;
+      acc[front][targetcolumn].missionTime += entry.missionTime;
+      acc[front][targetcolumn].timePlayed += entry.timePlayed;
+      
+      acc[front][targetcolumn].count += 1;
     }
 
     
@@ -118,11 +168,15 @@ function make_sector_data(data) {
     for (const [, entry] of Object.entries(sector_data[front])) {
       let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
       let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
-      let dpm = entry.deaths / missions;
-      let kpm = killsum / missions;
-      let ktd = killsum / Math.max(entry.deaths, 1);
-      let wtl = entry.missionsWon / Math.max(entry.missionsLost, 1);
-      thislist.push({ ...entry, missions, killsum, dpm, kpm, ktd, wtl });
+      let DPM = entry.deaths / missions;
+      let KPM = killsum / missions;
+      let KTD = killsum / Math.max(entry.deaths, 1);
+      let timePerMission = entry.missionTime/missions;
+      let timePlayedPerMission = entry.timePlayed/missions;
+      let MSR = entry.missionsWon/missions;
+      let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
+      thislist.push({ ...entry, missions, killsum,kills:killsum, DPM, KPM, KTD, WTL,timePerMission,timePlayedPerMission,MSR});
+      
     }
     transformedData[front] = thislist;
     console.log(transformedData);

@@ -278,79 +278,6 @@ function missionsWonAndLost(data2, { width, limitby=32, front_filter, factcolor,
   return plotnew;
 }
 
-function make_biome_data(data) {
-  /**
-   * Aggregates and transforms biome data.
-   *
-   * This function processes the input data to aggregate statistics for each biome and then
-   * calculates derived metrics such as deaths per mission, kills per mission, kills to deaths ratio,
-   * and win to loss ratio.
-   *
-   * @param {Array} data - An array of objects where each object contains data for a specific entry,
-   *                       including fields like biome, missionsWon, missionsLost, bot_kills, bug_kills,
-   *                       deaths, and friendlies.
-   *
-   * @returns {Array} An array of transformed objects containing aggregated data and derived metrics for each biome.
-   */
-  console.log("DATA");
-  console.log(data);
-  let fronts = ["all"];
-  let biome_data = data.reduce((acc, entry) => {
-    let front = entry.front;
-    if (!fronts.includes(front)) fronts.unshift(front);
-
-    if (!acc["all"]) {
-      acc["all"] = {};
-    }
-
-    if (!acc[front]) {
-      acc[front] = {};
-    }
-
-    if (!acc["all"][entry.biome]) {
-      acc["all"][entry.biome] = { ...entry, count: 1 };
-    } else {
-      acc["all"][entry.biome].missionsWon += entry.missionsWon;
-      acc["all"][entry.biome].missionsLost += entry.missionsLost;
-      acc["all"][entry.biome].bot_kills += entry.bot_kills;
-      acc["all"][entry.biome].bug_kills += entry.bug_kills;
-      acc["all"][entry.biome].deaths += entry.deaths;
-      acc["all"][entry.biome].friendlies += entry.friendlies;
-      acc["all"][entry.biome].count += 1;
-    }
-
-    if (!acc[front][entry.biome]) {
-      acc[front][entry.biome] = { ...entry, count: 1 };
-    } else {
-      acc[front][entry.biome].missionsWon += entry.missionsWon;
-      acc[front][entry.biome].missionsLost += entry.missionsLost;
-      acc[front][entry.biome].bot_kills += entry.bot_kills;
-      acc[front][entry.biome].bug_kills += entry.bug_kills;
-      acc[front][entry.biome].deaths += entry.deaths;
-      acc[front][entry.biome].friendlies += entry.friendlies;
-      acc[front][entry.biome].count += 1;
-    }
-    return acc;
-  }, {});
-  console.log(biome_data);
-
-  let transformedData = {};
-  for (const front of fronts) {
-    let thislist = [];
-    for (const [, entry] of Object.entries(biome_data[front])) {
-      let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
-      let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
-      let dpm = entry.deaths / missions;
-      let kpm = killsum / missions;
-      let ktd = killsum / Math.max(entry.deaths, 1);
-      let wtl = entry.missionsWon / Math.max(entry.missionsLost, 1);
-      thislist.push({ ...entry, missions, killsum, dpm, kpm, ktd, wtl });
-    }
-    transformedData[front] = thislist;
-    console.log(transformedData);
-  }
-  return transformedData;
-}
 
 
 function genericGraph(data2, column, { width, limitby=32, front_filter, factcolor, title, titleFormat,sortv=true, showtext=true} = {}) {
@@ -414,12 +341,13 @@ function genericGraph(data2, column, { width, limitby=32, front_filter, factcolo
 function BiomeStats(
   data,
   mode,
-  { width, limitby=32, biocolors, title = "Biome stats" } = {}
+  column,
+  { width, limitby=32, threshold=20, biocolors, title = "Biome stats" } = {}
 ) {
   // Function to measure text size
 
   // Measure the largest text size
-  let labels = data.map((planet) => planet.biome);
+  let labels = data.map((planet) => planet[column]);
   let textSizes = labels.map((label) => getTextSize(label));
   let maxTextWidth = Math.max(...textSizes.map((size) => size.width));
   let maxTextHeight = Math.max(...textSizes.map((size) => size.height));
@@ -431,19 +359,22 @@ function BiomeStats(
   for (const entry of data) {
     let missions = Math.max(entry.missionsWon + entry.missionsLost, 0);
     let killsum = Math.max(entry.bot_kills + entry.bug_kills, 0);
+    if (missions<threshold){
+      continue;
+    }
     let deaths = entry.deaths;
     if (mode == 0) {
       transformedData.push({
         order: missions,
         disp: "",
-        biome: entry.biome,
+        biome: entry[column],
         key: "missionsWon",
         value: entry.missionsWon,
       });
       transformedData.push({
         order: missions,
         disp: "",
-        biome: entry.biome,
+        biome: entry[column],
         key: "missionsLost",
         value: entry.missionsLost,
       });
@@ -452,14 +383,14 @@ function BiomeStats(
       transformedData.push({
         order: killsum,
         disp: `${entry.bot_kills}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: "Bot kills",
         value: entry.bot_kills,
       });
       transformedData.push({
         order: killsum,
         disp: `${entry.bug_kills}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: "Bug kills",
         value: entry.bug_kills,
       });
@@ -468,14 +399,14 @@ function BiomeStats(
       transformedData.push({
         order: deaths,
         disp: `${entry.deaths}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: "deaths",
         value: entry.deaths,
       });
       transformedData.push({
         order: deaths,
         disp: `${entry.friendlies}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: "friendly",
         value: entry.friendlies,
       });
@@ -484,34 +415,34 @@ function BiomeStats(
       transformedData.push({
         order: entry.count,
         disp: `${entry.deaths}/${entry.missions}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: `deaths per mission`,
-        value: entry.dpm,
+        value: entry.DPM,
       });
     }
     if (mode == 4)
       transformedData.push({
         order: entry.count,
         disp: `${entry.killsum}/${entry.missions}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: `kills per mission`,
-        value: entry.kpm,
+        value: entry.KPM,
       });
     if (mode == 5)
       transformedData.push({
         order: entry.count,
         disp: `${entry.killsum}/${entry.deaths}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: `kills to deaths`,
-        value: entry.ktd,
+        value: entry.KTD,
       });
     if (mode == 6)
       transformedData.push({
         order: entry.count,
         disp: `${entry.missionsWon}/${entry.missionsLost}`,
-        biome: entry.biome,
+        biome: entry[column],
         key: `wins to losses`,
-        value: entry.wtl,
+        value: entry.WTL,
       });
   }
   transformedData.sort((a, b) => b.order - a.order);
@@ -537,7 +468,7 @@ function BiomeStats(
       },
       title,
       width, // Set the width of the plot
-      color: { ...biocolors, legend: true }, // Use factcolor for fill colors
+      color: { ...biocolors, legend: false }, // Use factcolor for fill colors
       marks: [
         Plot.barY(transformedData, {
           y: "value",
@@ -584,7 +515,7 @@ function BiomeStats(
     y: { label: null, axis: "right" },
     title,
     width, // Set the width of the plot
-    color: { ...biocolors, legend: true }, // Use factcolor for fill colors
+    color: { ...biocolors, legend: false }, // Use factcolor for fill colors
     marks: [
       Plot.barX(transformedData, {
         y: "key",
@@ -601,19 +532,19 @@ function BiomeStats(
   return plotnew;
 }
 
-function BiomeData(data, parentElement) {
+function BiomeData(data, column, parentElement) {
   // Sum of all entries with the set biome value
   let summedData = data.reduce((acc, entry) => {
-    if (!acc[entry.biome]) {
-      acc[entry.biome] = { ...entry, count: 1 };
+    if (!acc[entry[column]]) {
+      acc[entry[column]] = { ...entry, count: 1 };
     } else {
-      acc[entry.biome].missionsWon += entry.missionsWon;
-      acc[entry.biome].missionsLost += entry.missionsLost;
-      acc[entry.biome].bot_kills += entry.bot_kills;
-      acc[entry.biome].bug_kills += entry.bug_kills;
-      acc[entry.biome].deaths += entry.deaths;
-      acc[entry.biome].friendlies += entry.friendlies;
-      acc[entry.biome].count += 1;
+      acc[entry[column]].missionsWon += entry.missionsWon;
+      acc[entry[column]].missionsLost += entry.missionsLost;
+      acc[entry[column]].bot_kills += entry.bot_kills;
+      acc[entry[column]].bug_kills += entry.bug_kills;
+      acc[entry[column]].deaths += entry.deaths;
+      acc[entry[column]].friendlies += entry.friendlies;
+      acc[entry[column]].count += 1;
     }
     return acc;
   }, {});
@@ -624,7 +555,7 @@ function BiomeData(data, parentElement) {
     card.className = "card";
 
     const title = document.createElement("h2");
-    title.appendChild(document.createTextNode(`${entry.biome} Stats`));
+    title.appendChild(document.createTextNode(`${entry[column]} Stats`));
     card.appendChild(title);
 
     const missionsWon = document.createElement("span");
@@ -712,5 +643,4 @@ export {
   missionsWonAndLost,
   BiomeStats,
   BiomeData,
-  make_biome_data,
 };

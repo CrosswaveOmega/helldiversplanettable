@@ -1,10 +1,10 @@
 ---
 theme: dashboard
-title: Biome Data.
+title: Sector Data
 toc: false
 ---
 
-# Helldivers Data Table - Biome Data
+# Helldivers Data Table - Sector Data
 
 <!-- Load and transform the data -->
 
@@ -21,22 +21,20 @@ import {
     missionsWonAndLost,BiomeData, BiomeStats,
   } from "./components/dataplots.js";
 
-  
 import {
-    make_biome_data
+    make_sector_data,
   } from "./components/data_transformers.js";
-
-import {
-  pieChart
-} from "./components/piechart.js";
-
-import {
-  planetTable, headerMapBiome,
-} from "./components/tables.js";
   
+import {
+    planetTable, headerMapSector,
+  } from "./components/tables.js";
+  
+import {
+    pieChart
+  } from "./components/piechart.js";
 const planets = FileAttachment("./data/planets.json").json();
 
-let biome_data = await planets.then(data => make_biome_data(data));
+let sector_data = await planets.then(data => make_sector_data(data));
 
 const lasttime = FileAttachment("./data/lasttime.json").json();
 ```
@@ -49,7 +47,6 @@ const timestamp = new Date();
 const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
 const update_time = "This table was last updated on " + lasttime['update_time'];
 const ns = Inputs.text().classList[0];
-console.log(ns);
 function addDynamicCSS(ns) {
   const style = document.createElement("style");
   style.innerHTML = `
@@ -62,15 +59,13 @@ function addDynamicCSS(ns) {
 addDynamicCSS(ns);
 ```
 
-${update_time}
-
 
 ```js
 
 const biocolors = Plot.scale({
   color: {
     type: "categorical",
-    domain: d3.groupSort(planets, (D) => -D.length, (d) => d.biome).filter((d) => d !== "Other"),
+    domain: d3.groupSort(planets, (D) => -D.length, (d) => d.sector_name).filter((d) => d !== "Other"),
     unknown: "var(--theme-foreground-muted)"
   }
 });
@@ -86,12 +81,11 @@ const factcolor = Plot.scale({
 
 
 
-<!-- Plot of launch history -->
 
-
+${update_time}
 ```js
     let all_columns=[ 
-          "biome",
+          "sector_name",
           "front",
           "missionsWon",
           "missionsLost",
@@ -127,12 +121,11 @@ const factcolor = Plot.scale({
   const show_ifg= Generators.input(show_if);
   const hidecol = 
     Inputs.checkbox(
-      headerMapBiome,
+      headerMapSector,
       {value: ['bulletsFired','bulletsHit','accuracy','bug_kills','bot_kills','squid_kills','revives'], label: "Show/hide columns", format: ([name, value]) => `${name}`}
     )
   ;
   const hidecolg= Generators.input(hidecol);
-  
   const threshold = view(Inputs.range([0, 1000], {value: 5, step: 1,width:1000, label: "Minimum missions limit"}))
 ```
 
@@ -141,25 +134,24 @@ const factcolor = Plot.scale({
 
 <div class="grid grid-cols-1">
   <div class="card">
+  ${front_filter}
   ${show_if}
   ${hidecol}
-    ${resize((width) => planetTable(biome_data['all'], {width, all_columns, front_filter:['HUMANS','AUTOMATON','TERMINIDS'], sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
+    ${resize((width) => planetTable(sector_data['all'], {width, all_columns, front_filter:front_filterg, sortby:'sector_name',show_if:show_ifg,hidecol:hidecolg}))}
   </div>
 </div>
 
 
 
-
-
 <div class="grid grid-cols-3">
 <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],0,'biome', {width, threshold,biocolors, title:'Biome wins and losses.'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],0,'sector_name', {width, threshold,biocolors, title:'Sector wins and losses.'}))}
   </div>
   <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],1,'biome', {width, threshold,biocolors, title:'Biome kills.'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],1,'sector_name', {width, threshold,biocolors, title:'Sector kills.'}))}
   </div>
   <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],2,'biome', {width, threshold,biocolors,  title:'Biome lethality.'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],2,'sector_name', {width, threshold,biocolors,  title:'Sector lethality.'}))}
   </div>
   
 
@@ -167,16 +159,16 @@ const factcolor = Plot.scale({
 
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],3,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per biome'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],4,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per biome'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],5,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per biome'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['all'],6,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per biome'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
   </div>
 
 </div>
@@ -186,16 +178,16 @@ const factcolor = Plot.scale({
 
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],3,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],4,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],5,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['TERMINIDS'],6,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID biome'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
   </div>
 
 </div>
@@ -205,16 +197,16 @@ const factcolor = Plot.scale({
 
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],3,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],4,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],5,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(biome_data['AUTOMATON'],6,'biome', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON biome'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
   </div>
 
 </div>
