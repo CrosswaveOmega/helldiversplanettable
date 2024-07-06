@@ -143,32 +143,18 @@ ${update_time}
 
 
 
-<div class="grid grid-cols-3">
-<div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],0,'sector_name', {width, threshold,biocolors, title:'Sector wins and losses.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],1,'sector_name', {width, threshold,biocolors, title:'Sector kills.'}))}
-  </div>
-  <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],2,'sector_name', {width, threshold,biocolors,  title:'Sector lethality.'}))}
-  </div>
-  
-
-</div>
-
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],3,'sector_name', {width, threshold,biocolors, title:'Helldiver deaths per mission across all sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],4,'sector_name', {width, threshold,biocolors, title:'Helldiver kills per mission across all sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],5,'sector_name', {width, threshold,biocolors, title:'Helldiver kills to deaths across all sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['all'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per sector'}))}
+    ${resize((width) => BiomeStats(sector_data['all'],6,'sector_name', {width, threshold,biocolors, title:'Helldiver mission wins to losses across all sectors'}))}
   </div>
 
 </div>
@@ -178,16 +164,16 @@ ${update_time}
 
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],3,'sector_name', {width, threshold,biocolors, title:'Helldiver deaths per mission across all TERMINID sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],4,'sector_name', {width, threshold,biocolors, title:'Helldiver kills per mission across all TERMINID sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],5,'sector_name', {width, threshold,biocolors, title:'Helldiver kills to deaths across all TERMINID sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per TERMINID sector'}))}
+    ${resize((width) => BiomeStats(sector_data['TERMINIDS'],6,'sector_name', {width, threshold,biocolors, title:'Helldiver mission wins to losses across all TERMINID sectors'}))}
   </div>
 
 </div>
@@ -197,16 +183,16 @@ ${update_time}
 
 <div class="grid grid-cols-4">
   <div class="card">
-    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],3,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],3,'sector_name', {width, threshold,biocolors, title:'Helldiver deaths per mission across all AUTOMATON sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],4,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],4,'sector_name', {width, threshold,biocolors, title:'Helldiver kills per mission across all AUTOMATON sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],5,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],5,'sector_name', {width, threshold,biocolors, title:'Helldiver kills to deaths across all AUTOMATON sectors'}))}
   </div>
     <div class="card">
-    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],6,'sector_name', {width, threshold,biocolors, title:'Average Helldiver statistics per AUTOMATON sector'}))}
+    ${resize((width) => BiomeStats(sector_data['AUTOMATON'],6,'sector_name', {width, threshold,biocolors, title:'Helldiver mission wins to losses across all AUTOMATON sectors'}))}
   </div>
 
 </div>

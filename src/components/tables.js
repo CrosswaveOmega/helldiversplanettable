@@ -81,8 +81,7 @@ function planetTable(data, {width, all_columns, sortby='index',front_filter,show
 
   const headerMapBiome = new Map([
     ["Biome", "biome"],
-      ["Front", "front"],
-      ["Missions Won", "missionsWon"],
+    ["Missions Won", "missionsWon"],
     ["Missions Lost", "missionsLost"],
     ["Kills", "kills"],
     ["Deaths", "deaths"],
