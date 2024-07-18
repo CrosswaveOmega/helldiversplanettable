@@ -7,3 +7,5 @@ yarn-error.log
 json_planet_statistics.json
 current_api_output.json
 planet_statistics.csv
+src/data/planets
+src/data/pass.py

@@ -129,6 +129,7 @@ def make_rows(planets: Dict, allplanet: Dict):
         # Remove human faction from front list for easier reading.
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
+        # print(planet['waypoints'])
         row = {
             'index':planet['index'],
             "planet_name": planet["name"],
@@ -136,6 +137,11 @@ def make_rows(planets: Dict, allplanet: Dict):
             "front": ",".join(front),
             "initial_owner": planet["initialOwner"],
             "current_owner": planet["currentOwner"],
+            'position':planet['position'],
+            'waypoints':planet['waypoints'],
+            'player_count':stats.playerCount,
+            'image':f"planet_{planet['index']}_rotate.gif",
+            
             "missionsWon": stats.missionsWon,
             "missionsLost": stats.missionsLost,
             "missionTime": stats.missionTime,

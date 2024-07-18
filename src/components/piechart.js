@@ -1,4 +1,7 @@
 import * as d3 from "d3";
+import * as Plot from "npm:@observablehq/plot";
+
+
 
 export function pieChart(bdata, {
     
@@ -96,3 +99,69 @@ export function pieChart(bdata, {
   
     return Object.assign(svg.node(), {scales: {color}});
   }
+
+
+  function getColor(owner) {
+    switch(owner){
+      case 'Terminids':
+        return '#EF8E20';
+        case 'Automaton':
+          return '#EF2020';
+        case 'Humans':
+          return '#79E0FF';
+
+    }
+  }
+ export function makeplot(planets,waypoints,backround,{width}){
+    console.log(backround);
+    let plot= Plot.plot({
+            width: width,
+            title: " ",
+            aspectRatio: 1,
+            height: width,
+            projection: {type: "identity", domain: {type: "MultiPoint", coordinates: [[100,-100],[100,100],[-100,100],[-100,-100]]}},
+            marks: [
+              Plot.image([{}], {
+                x: () => 0,
+                y: () => 0,
+                width: width,
+                height: width,
+                src: backround
+              }),
+              Plot.dot(planets, {
+                x: p => p.position.x*(100),
+                y: p => p.position.y*(-100),
+                r: width/100,
+                stroke: p => getColor(p.current_owner),
+                fill: p => getColor(p.current_owner),
+                strokeWidth: width/500,
+                opacity: 1.0,
+              }),
+              Plot.link(waypoints, {
+                x1: p => p.from.x*(100),
+                y1: p => p.from.y*(-100),
+                x2: p => p.to.x*(100),
+                y2: p => p.to.y*(-100),
+                inset: width/110,
+                strokeWidth: width/880,
+              }),
+              Plot.image(planets, {
+                x: p => p.position.x*(100),
+                y: p => p.position.y*(-100),
+                r: width/100,
+                src: 'image',
+
+              }),
+
+
+              Plot.tip(planets, Plot.pointer({
+                x: p => p.position.x*(100),
+                y: p => p.position.y*(-100),
+                title: p => [`${p.planet_name}\n`, `Liberation: ${p.current_owner}`, `Players: ${p.player_count}`].join("\n"), fontSize: 20})
+              ),
+            ],
+            tip: true,
+          });
+
+        return plot
+    }

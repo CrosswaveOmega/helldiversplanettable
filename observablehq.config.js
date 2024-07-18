@@ -20,6 +20,8 @@ export default {
       pages: [
         {name: "Biome Data", path: "/BiomeData"},
         {name: "Sector Data", path: "/SectorData"},
+        {name: "PAST", path: "/day"},
+        
       ]
     },
     {
