@@ -9,3 +9,5 @@ current_api_output.json
 planet_statistics.csv
 src/data/planets
 src/data/pass.py
+src/data/make_historydata.py
+src/data/gen_data

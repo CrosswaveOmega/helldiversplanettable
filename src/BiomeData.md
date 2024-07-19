@@ -28,7 +28,7 @@ import {
 
 import {
   pieChart
-} from "./components/piechart.js";
+} from "./components/HistoryLog.js";
 
 import {
   planetTable, headerMapBiome,

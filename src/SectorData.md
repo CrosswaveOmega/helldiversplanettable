@@ -31,7 +31,7 @@ import {
   
 import {
     pieChart
-  } from "./components/piechart.js";
+  } from "./components/HistoryLog.js";
 const planets = FileAttachment("./data/planets.json").json();
 
 let sector_data = await planets.then(data => make_sector_data(data));

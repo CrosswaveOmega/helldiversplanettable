@@ -20,8 +20,14 @@ export default {
       pages: [
         {name: "Biome Data", path: "/BiomeData"},
         {name: "Sector Data", path: "/SectorData"},
-        {name: "PAST", path: "/day"},
         
+      ]
+    },
+    {
+      name: "Historical Data",
+      pages: [
+        {name: "Galactic War History Map", path: "/day"},
+        {name: "Galactic War Log", path: "/history_log_ordered"},
       ]
     },
     {
