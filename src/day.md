@@ -121,7 +121,7 @@ eventSlider.addEventListener("input", () => {
 const theseinputs=Inputs.button([["Last Event", backevent],["Next Event", addevent]])
 
 // Define Generators
-const showImages = view(Inputs.toggle({label: "Show Images", value: false}));
+const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
 
 ```
 
