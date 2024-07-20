@@ -26,7 +26,7 @@ export default {
     {
       name: "Historical Data",
       pages: [
-        {name: "Galactic War History Map", path: "/day"},
+        {name: "Galactic War History Map", path: "/history_map"},
         {name: "Galactic War Log", path: "/history_log_ordered"},
       ]
     },
@@ -40,7 +40,7 @@ export default {
 
   // Content to add to the head of the page, e.g. for a favicon:
   head: `<meta content="Helldivers 2 Planet Table" property="og:title" />
-<meta content="Tables and graphs gathered across the entire Helldivers 2 Galactic War, split by front." property="og:description" />
+<meta content="Historical Logs and Maps, as well as Tables and graphs gathered across the entire Helldivers 2 Galactic War, split by front." property="og:description" />
   <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
   <style>
   
