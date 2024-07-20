@@ -324,7 +324,7 @@ export function makeplot(
               }`,
               `Players: ${p.players}`,
             ].join("\n"),
-          fontSize: 20,
+          fontSize: 10,
         })
       ),
     ],

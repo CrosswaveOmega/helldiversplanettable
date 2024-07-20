@@ -6,27 +6,6 @@ title: The Great Big Galactic War History Map
 ### The Great Big Galactic War History Map
 
 
-<style>
-
-
-
-#map-container {
-  position:relative;
-}
-
-#map {
-  position: absolute;
-  pointer-events: none;
-  object-fit:cover;
-  width: calc(100% - 2rem)
-}
-
-#map img {
-}
-
-
-
-</style>
 
 ```js
 
@@ -140,8 +119,6 @@ const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
 
 
 ```js
-const waypoints = planets.flatMap(x => x.waypoints.map(y => ({from:x.position, to:planets[y].position})));
-console.log(waypoints);
 
 function count_distinct_planets_table(historydata, mode, {width}) {
   const countDistinctPlanetsData = count_distinct_planets(historydata);
