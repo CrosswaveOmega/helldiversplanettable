@@ -119,16 +119,85 @@ function getColor(owner) {
       return "#79E0FF";
   }
 }
+
+export function countDistinctTypes(history) {
+  const typeCounts = history.events.reduce((acc, event) => {
+    if (!acc[event.type]) {
+      acc[event.type] = 0;
+    }
+    acc[event.type]++;
+    return acc;
+  }, {});
+  
+  return JSON.stringify(typeCounts);
+}
+
+
+function add_to_entry(acc, planet,value){
+  if (!acc[planet[1]]) {
+    acc[planet[1]] = {'name':planet[0],'index':planet[1]};
+  }
+  if (!acc[planet[1]][value]){
+    acc[planet[1]][value]=0;
+  }
+  acc[planet[1]][value]+=1;
+}
+
+export function count_distinct_planets(history) {
+
+  const planetTypes = history.events.reduce((acc, event) => {
+    if (event.planet) {
+      event.planet.forEach(planet => {
+        
+        if (event.type === "cstart" || event.type === "defense start") {
+          add_to_entry(acc, planet,'campaigns')
+        }
+        if (event.type === "cend" || event.type === "defense start") {
+          add_to_entry(acc, planet,'liblost')
+        }
+        if (event.type==='cstart'){
+          add_to_entry(acc, planet,'lib_campaigns')
+        }
+        if ( event.type === "defense start") {
+          add_to_entry(acc, planet,'defenses')
+        }
+        if ( event.type === "planet won" ||event.type === "planet superwon" ) {
+          add_to_entry(acc, planet,'libwins')
+        }
+        if ( event.type === "defense won") {
+          add_to_entry(acc, planet,'defenses_won')
+        }
+        if ( event.type === "defense lost") {
+          add_to_entry(acc, planet,'defenses_lost')
+          //add_to_entry(acc, planet,'campaigns')
+          //add_to_entry(acc, planet,'lib_campaigns')
+        }
+        if ( event.type === "planet flip") {
+          add_to_entry(acc, planet,'planet_flips')
+        }
+        /*if (!acc[planet[1]][event.type]){
+          acc[planet[1]][event.type] =0;
+        }
+          acc[planet[1]][event.type] +=1;*/
+        
+      });
+    }
+    return acc;
+  }, {});
+
+  return planetTypes;
+}
+
 export function makeplot(
   history,
   planetimages,
   backround,
+  target,
   slider,
-  { width, showImages = true }
+  { width, showImages = true,  }
 ) {
-  console.log(history.events);
   let current_event = history.events[slider];
-  console.log(current_event);
+
   //let planets=current_event.galaxystate;
 
   let galaxystate = current_event.galaxystate;
@@ -143,13 +212,10 @@ export function makeplot(
   );
 
   let planets = Object.values(current_event.galaxystate);
-  let truePlanets = planets.filter((planet) => planet.e > 0);
-
   console.log(planets);
+  let truePlanets = planets.filter((planet) => planet.e > 0);
+  let activePlanets = planets.filter((planet) => planet.a >0);
 
-  console.log(truePlanets);
-
-  console.log(backround);
   let plot = Plot.plot({
     width: width,
     title: " ",
@@ -192,6 +258,7 @@ export function makeplot(
         strokeWidth: width / 500,
         opacity: 1.0,
       }),
+      
 
       Plot.link(waypoints, {
         x1: (p) => p.from.x * 100,
@@ -227,6 +294,17 @@ export function makeplot(
         },
         {}
       ),
+      Plot.image(activePlanets, {
+        x: (p) => p.position.x * 100,
+        y: (p) => p.position.y * -100,
+        stroke: "#ff0000", // fixed stroke color change
+        fill: p => getColor(p.co),
+        width: width / 25,
+        height: width/25,
+        src: target,
+       // strokeWidth: width / 200,
+        //symbol: "plus",
+      }),
 
       Plot.tip(
         planets,

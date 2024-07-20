@@ -32,7 +32,7 @@ title: The Great Big Galactic War History Map
 
 
   import {
-    makeplot,eList
+    makeplot,eList, count_distinct_planets
   } from "./components/HistoryLog.js";
   
 ```
@@ -44,6 +44,7 @@ const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
+const target = FileAttachment("./data/target.svg").url();
 planets.forEach((planet) => {
   const key = Object.keys(planetimages).find(k => k === planet.image);
   if (key) {
@@ -127,16 +128,64 @@ const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
 
 
 ```js
-//const showWaypoints = view(Inputs.toggle({label:"Show routes", value:false}))
 const waypoints = planets.flatMap(x => x.waypoints.map(y => ({from:x.position, to:planets[y].position})));
 console.log(waypoints);
+
+function count_distinct_planets_table(historydata, mode, {width}) {
+  const countDistinctPlanetsData = count_distinct_planets(historydata);
+  let planets = Object.values(countDistinctPlanetsData);
+  let columns = [];
+  let header = {};
+
+  if (mode === 0) {
+    columns = ['name', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
+    header = {
+      name: 'Name',
+      campaigns: "Campaigns",
+      lib_campaigns: "Liberation Campaigns",
+       defenses: "Defense Campaigns",
+      planet_flips: "Planet Flips"
+    };
+  } else if (mode === 1) {
+    columns = ['name', 'campaigns','lib_campaigns', 'libwins', 'liblost'];
+    header = {
+      name: 'Name',
+      
+      campaigns: "Campaigns",
+      lib_campaigns: "Liberation Campaigns",
+      libwins: "Liberations Won",
+      liblost: "Liberations Lost"
+    };
+  } else if (mode === 2) {
+    columns = ['name','campaigns', 'defenses', 'defenses_won', 'defenses_lost'];
+    header = {
+      name: 'Name',
+      
+      campaigns: "Campaigns",
+      defenses: "Defense Campaigns",
+      defenses_won: "Defenses Won",
+      defenses_lost: "Defenses Lost"
+    };
+  }
+
+  return Inputs.table(planets, {
+    columns: columns,
+    header: header,
+    width: width,
+  sort:'campaigns',
+  reverse:true,
+    
+  });
+}
+
 ```
 
 <div class="grid grid-cols-4" style="grid-auto-rows: auto;">
   <div  class="card grid-colspan-2 grid-rowspan-2">
   ${theseinputs}
   ${daysSlider}
-    ${resize((width) => makeplot(historydata,planetimages,backround,count,{width, showImages}))}
+  <strong>${historydata.events[count].text}</strong><br>
+    ${resize((width) => makeplot(historydata,planetimages,backround,target,count,{width, showImages}))}
   </div>
 
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
@@ -149,10 +198,22 @@ console.log(waypoints);
     <strong>Timestamp:</strong> ${historydata.events[count].timestamp};
     
   </div>
-  <div id="Days" class='card big grid-colspan-2' style="font-size: 1.1em;">
+  <div id="Days" class='card big grid-colspan-2'>
   <div id="DAYVIEW"></div>
   ${eList(historydata,count,document.getElementById("DAYVIEW"))}
    </div>
+
+  <div class='card grid-colspan-2' style="font-size: 1.1em;">
+    ${resize((width) => count_distinct_planets_table(historydata,0,{width}))}
+  </div>
+
+  <div  class='card grid-colspan-2' style="font-size: 1.1em;">
+    ${resize((width) => count_distinct_planets_table(historydata,1,{width}))}
+  </div>
+
+  <div class='card grid-colspan-2' style="font-size: 1.1em;'">
+    ${resize((width) => count_distinct_planets_table(historydata,2,{width}))}
+  </div>
 </div>
 
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
