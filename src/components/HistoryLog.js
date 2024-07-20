@@ -194,10 +194,14 @@ export function makeplot(
   backround,
   target,
   slider,
-  { width, showImages = true,  }
+  { width, htarget,ttarget,atarget,showImages = true,  }
 ) {
   let current_event = history.events[slider];
-
+  const targets = {
+    1: htarget,
+    2: ttarget,
+    3: atarget,
+  };
   //let planets=current_event.galaxystate;
 
   let galaxystate = current_event.galaxystate;
@@ -301,7 +305,7 @@ export function makeplot(
         fill: p => getColor(p.co),
         width: width / 25,
         height: width/25,
-        src: target,
+        src: p => {console.log(target[p.co]);return target[p.co]},
        // strokeWidth: width / 200,
         //symbol: "plus",
       }),

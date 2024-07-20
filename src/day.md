@@ -44,7 +44,10 @@ const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
-const target = FileAttachment("./data/target.svg").url();
+const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
+const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
+const atarget = FileAttachment("./data/libtargets/aTarget.svg").url();
+
 planets.forEach((planet) => {
   const key = Object.keys(planetimages).find(k => k === planet.image);
   if (key) {
@@ -65,6 +68,15 @@ const update_time = "This map was last updated on " + lasttime['update_time'];
 
 ```
 ```js
+function getTarget(owner) {
+  
+  return targets[owner];
+}
+const targets = {
+    1: htarget,
+    2: ttarget,
+    3: atarget,
+  };
 function list_planets(planets){
   return planets.map(planet => planet[0]).join(', ');
 }
@@ -185,7 +197,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   ${theseinputs}
   ${daysSlider}
   <strong>${historydata.events[count].text}</strong><br>
-    ${resize((width) => makeplot(historydata,planetimages,backround,target,count,{width, showImages}))}
+    ${resize((width) => makeplot(historydata,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
   </div>
 
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">

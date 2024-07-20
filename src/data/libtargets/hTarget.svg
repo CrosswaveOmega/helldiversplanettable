@@ -22,8 +22,8 @@
 
 <style>
     .common-style {
-      fill: #006400;
-      stroke: #8FBC8F;
+      fill: #79E0FF;
+      stroke: #3496ff;
       stroke-width: 1px;
     }
   </style>
