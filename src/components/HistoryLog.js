@@ -209,6 +209,9 @@ export function makeplot(
     for (const [key, value] of Object.entries(values)) {
       galaxystate[planet][key] = value;
     }
+    if (!galaxystate[planet]['link']){
+      galaxystate[planet]['link']=[];
+    }
   }
 
   const waypoints = Object.values(galaxystate).flatMap((x) =>
@@ -217,8 +220,8 @@ export function makeplot(
 
   let planets = Object.values(current_event.galaxystate);
   console.log(planets);
-  let truePlanets = planets.filter((planet) => planet.e > 0);
-  let activePlanets = planets.filter((planet) => planet.a >0);
+  let truePlanets = planets.filter((planet) => planet.t[1] > 0);
+  let activePlanets = planets.filter((planet) => planet.t[2] >0);
 
   let plot = Plot.plot({
     width: width,
@@ -249,16 +252,16 @@ export function makeplot(
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         r: width / 100,
-        stroke: (p) => getColor(p.e),
-        //fill: p => getColor(p.e),
+        stroke: (p) => getColor(p.t[1]),
+        //fill: p => getColor(p.t[1]),
         strokeWidth: width / 200,
       }),
       Plot.dot(planets, {
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         r: width / 100,
-        stroke: (p) => getColor(p.co),
-        fill: (p) => getColor(p.co),
+        stroke: (p) => getColor(p.t[0]),
+        fill: (p) => getColor(p.t[0]),
         strokeWidth: width / 500,
         opacity: 1.0,
       }),
@@ -302,10 +305,10 @@ export function makeplot(
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         stroke: "#ff0000", // fixed stroke color change
-        fill: p => getColor(p.co),
+        fill: p => getColor(p.t[0]),
         width: width / 25,
         height: width/25,
-        src: p => {console.log(target[p.co]);return target[p.co]},
+        src: p => {console.log(target[p.t[0]]);return target[p.t[0]]},
        // strokeWidth: width / 200,
         //symbol: "plus",
       }),
@@ -318,11 +321,15 @@ export function makeplot(
 
           title: (p) =>
             [
-              `${p.name}\n${p.e ? "under attack" : ""}`,
+              `${p.name}\n${p.t[1] ? "under attack" : ""}`,
               `Planet HP: ${
                 Math.round((p.hp / 1000000) * 100 * 10000) / 10000
               }`,
-              `Players: ${p.players}`,
+              
+              `Decay Rate: ${
+                Math.round(((p.r *60*60) / 1000000) * 100 * 10000) / 10000
+              }`,
+              `Players: ${p.pl}`,
             ].join("\n"),
           fontSize: 10,
         })
