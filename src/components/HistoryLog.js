@@ -358,11 +358,14 @@ export function eList(history, count, parentCard) {
 
     parentCard.appendChild(headingElement);
 
-    const textElement = document.createElement("strong");
-    textElement.textContent = entry.text;
-    parentCard.appendChild(textElement);
+    for (const each of entry.log){
+        
+        const textElement = document.createElement("span");
+        textElement.textContent = each.text;
+        parentCard.appendChild(textElement);
 
-    parentCard.appendChild(document.createElement("br"));
+        parentCard.appendChild(document.createElement("br"));
+    }
     const timeElement = document.createElement("strong");
     timeElement.textContent = entry.time;
     parentCard.appendChild(timeElement);
@@ -411,28 +414,80 @@ export function eList(history, count, parentCard) {
 }
 
 
+export function list_text(history, count, parentCard) {
+  // Function to create a card element
+  function createCard(entry_main, parentCard) {
+    /*
+              <strong>${entry.text}</strong><br>
+    <p> <strong>Time:</strong> ${entry.time} UTC </p>
+      <p><strong>Type:</strong> $entry.type}</p>
+      <p><strong>Planets Affected:</strong> ${entry.planet}</p>
+    <strong>Timestamp:</strong> ${entry.timestamp}</strong>*/
+
+
+    for (const entry of entry_main.log){
+      let planet="";
+       if (entry.planet && entry.planet.length > 0) {
+            planet = entry.planet.map(p => p[0]).join(", ");
+            planet = ", on "+planet;
+          }
+        let text = entry.text+" (type "+entry.type+planet+")";
+  
+        const textElement = document.createElement("span");
+        textElement.textContent = text;
+        parentCard.appendChild(textElement);
+
+        parentCard.appendChild(document.createElement("br"));
+    }
+
+
+    return parentCard;
+  }
+
+  // Function to create the grid element
+
+  function createGrid(data, count, parentElement) {
+    // Find and clear the 'cont' div
+    while (parentElement.firstChild) {
+      parentElement.removeChild(parentElement.firstChild);
+    }
+
+      const card = createCard(data.events[count], parentElement);
+    
+  }
+  // Generate the grid with cards
+  createGrid(history, count,  parentCard);
+  return "";
+}
+
+
+
 
 export function ListAll(history, parentCard) {
 
   function createCard(entry, index, current, parentCard) {
-    if (entry.type==='Day Start'){
+    for (const each of entry.log){
+        
+      if (each.type==='Day Start'){
       
-    parentCard.appendChild(document.createElement("br"));
-      const headingElement2 = document.createElement("h2");
-      headingElement2.textContent =  ` Day:#${entry.day}`;
-  
-      parentCard.appendChild(headingElement2);
-  
-    }
-    else{
-
-    const textElement = document.createElement("span");
-    textElement.textContent = ` ${entry.text} (${entry.time} UTC)`
-    parentCard.appendChild(textElement);
-
-    parentCard.appendChild(document.createElement("br"));
-
-    }
+        parentCard.appendChild(document.createElement("br"));
+          const headingElement2 = document.createElement("h2");
+          headingElement2.textContent =  ` Day:#${entry.day}`;
+      
+          parentCard.appendChild(headingElement2);
+      
+        }
+        else{
+    
+        const textElement = document.createElement("span");
+        textElement.textContent = ` ${each.text} (${entry.time} UTC)`
+        parentCard.appendChild(textElement);
+    
+        parentCard.appendChild(document.createElement("br"));
+    
+        }
+  }
+    
 
     return parentCard;
   }

@@ -11,7 +11,7 @@ title: The Great Big Galactic War History Map
 
 
   import {
-    makeplot,eList, count_distinct_planets
+    makeplot,eList, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
   
 ```
@@ -44,6 +44,20 @@ const timestamp = new Date();
 const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
 const update_time = "This map was last updated on " + lasttime['update_time'];
 
+for (const event of historydata.events){
+  // You can process each event here
+  let text = "";
+  for (const entry of event.log){
+    let planet = "";
+    if (entry.planet && entry.planet.length > 0) {
+      planet = entry.planet.map(p => p[0]).join(", ");
+      planet = ", on " + planet;
+    }
+    text += entry.text + " (type " + entry.type + planet + ")<br/>\n";
+  }
+  event.text = '';
+}
+
 
 ```
 ```js
@@ -71,7 +85,7 @@ const daysSlider = Inputs.range([1, historydata.lastday], { step: 1, label: "Day
 
 let mutableEventIndex = Mutable(1);
 
-let count = Mutable(1);
+let count = Mutable(0);
 const addevent = () => {
   if (count.value < historydata.events.length - 1) {
     ++count.value;
@@ -179,13 +193,12 @@ function count_distinct_planets_table(historydata, mode, {width}) {
 
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
     <h1>Day ${historydata.events[count].day}, Event Index ${count}</h1>
-    <strong>${historydata.events[count].text}</strong><br>
+    <div id="EventView"></div>
+    <p>${list_text(historydata,count,document.getElementById("EventView"))}</p>
     <p> <strong>Time:</strong> ${historydata.events[count].time} UTC </p>
     <p><strong>Current Major Order:</strong> ${historydata.events[count].mo} </p>
-      <p><strong>Type:</strong> ${historydata.events[count].type}, </p>
-      <p><strong>Planets:</strong> ${list_planets(historydata.events[count].planet)} </p>
-    <strong>Timestamp:</strong> ${historydata.events[count].timestamp};
-    
+    <strong>Timestamp:${historydata.events[count].timestamp};</strong> 
+
   </div>
   <div id="Days" class='card big grid-colspan-2'>
   <div id="DAYVIEW"></div>
