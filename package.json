@@ -6,7 +6,11 @@
     "build": "rimraf dist && observable build",
     "dev": "observable preview",
     "deploy": "observable deploy",
-    "observable": "observable"
+    "observable": "observable",
+    "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   },
   "dependencies": {
     "@fontsource/michroma": "^5.0.20",

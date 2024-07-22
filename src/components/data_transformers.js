@@ -21,7 +21,7 @@ function make_biome_data(data) {
     if (!acc["all"]) {
       acc["all"] = {};
     }
-    let targetcolumn=entry.biome;
+    let targetcolumn = entry.biome;
     if (!acc["all"][targetcolumn]) {
       acc["all"][targetcolumn] = { ...entry, count: 1 };
     } else {
@@ -37,7 +37,7 @@ function make_biome_data(data) {
       acc["all"][targetcolumn].bulletsHit += entry.bulletsHit;
       acc["all"][targetcolumn].missionTime += entry.missionTime;
       acc["all"][targetcolumn].timePlayed += entry.timePlayed;
-      
+
       acc["all"][targetcolumn].count += 1;
     }
     if (!acc[front]) {
@@ -58,11 +58,10 @@ function make_biome_data(data) {
       acc[front][targetcolumn].bulletsHit += entry.bulletsHit;
       acc[front][targetcolumn].missionTime += entry.missionTime;
       acc[front][targetcolumn].timePlayed += entry.timePlayed;
-      
+
       acc[front][targetcolumn].count += 1;
     }
 
-    
     return acc;
   }, {});
   console.log(biome_data);
@@ -71,26 +70,34 @@ function make_biome_data(data) {
   for (const front of fronts) {
     let thislist = [];
     for (const [, entry] of Object.entries(biome_data[front])) {
-      
       let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
       let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
       let DPM = entry.deaths / missions;
       let KPM = killsum / missions;
       let KTD = killsum / Math.max(entry.deaths, 1);
-      let timePerMission = entry.missionTime/missions;
-      let timePlayedPerMission = entry.timePlayed/missions;
-      let MSR = entry.missionsWon/missions;
+      let timePerMission = entry.missionTime / missions;
+      let timePlayedPerMission = entry.timePlayed / missions;
+      let MSR = entry.missionsWon / missions;
       let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
-      thislist.push({ ...entry, missions, killsum,kills:killsum, DPM, KPM, KTD, WTL,timePerMission,timePlayedPerMission,MSR});
-      
+      thislist.push({
+        ...entry,
+        missions,
+        killsum,
+        kills: killsum,
+        DPM,
+        KPM,
+        KTD,
+        WTL,
+        timePerMission,
+        timePlayedPerMission,
+        MSR,
+      });
     }
     transformedData[front] = thislist;
     console.log(transformedData);
   }
   return transformedData;
 }
-
-
 
 function make_sector_data(data) {
   /**
@@ -109,14 +116,14 @@ function make_sector_data(data) {
   console.log("DATA");
   console.log(data);
   let fronts = ["all"];
-  
+
   let sector_data = data.reduce((acc, entry) => {
     let front = entry.front;
     if (!fronts.includes(front)) fronts.unshift(front);
     if (!acc["all"]) {
       acc["all"] = {};
     }
-    let targetcolumn=entry.sector_name;
+    let targetcolumn = entry.sector_name;
     if (!acc["all"][targetcolumn]) {
       acc["all"][targetcolumn] = { ...entry, count: 1 };
     } else {
@@ -132,7 +139,7 @@ function make_sector_data(data) {
       acc["all"][targetcolumn].bulletsHit += entry.bulletsHit;
       acc["all"][targetcolumn].missionTime += entry.missionTime;
       acc["all"][targetcolumn].timePlayed += entry.timePlayed;
-      
+
       acc["all"][targetcolumn].count += 1;
     }
     if (!acc[front]) {
@@ -153,11 +160,10 @@ function make_sector_data(data) {
       acc[front][targetcolumn].bulletsHit += entry.bulletsHit;
       acc[front][targetcolumn].missionTime += entry.missionTime;
       acc[front][targetcolumn].timePlayed += entry.timePlayed;
-      
+
       acc[front][targetcolumn].count += 1;
     }
 
-    
     return acc;
   }, {});
   console.log(sector_data);
@@ -171,12 +177,23 @@ function make_sector_data(data) {
       let DPM = entry.deaths / missions;
       let KPM = killsum / missions;
       let KTD = killsum / Math.max(entry.deaths, 1);
-      let timePerMission = entry.missionTime/missions;
-      let timePlayedPerMission = entry.timePlayed/missions;
-      let MSR = entry.missionsWon/missions;
+      let timePerMission = entry.missionTime / missions;
+      let timePlayedPerMission = entry.timePlayed / missions;
+      let MSR = entry.missionsWon / missions;
       let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
-      thislist.push({ ...entry, missions, killsum,kills:killsum, DPM, KPM, KTD, WTL,timePerMission,timePlayedPerMission,MSR});
-      
+      thislist.push({
+        ...entry,
+        missions,
+        killsum,
+        kills: killsum,
+        DPM,
+        KPM,
+        KTD,
+        WTL,
+        timePerMission,
+        timePlayedPerMission,
+        MSR,
+      });
     }
     transformedData[front] = thislist;
     console.log(transformedData);
@@ -184,7 +201,4 @@ function make_sector_data(data) {
   return transformedData;
 }
 
-export {
-make_biome_data,
-make_sector_data
-};
+export { make_biome_data, make_sector_data };

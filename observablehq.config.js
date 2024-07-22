@@ -11,30 +11,28 @@ export default {
     {
       name: "Planet Statistics",
       pages: [
-        {name: "Planet Table", path: "/index"},
-        {name: "Planet Charts", path: "/index2"}
-      ]
+        { name: "Planet Table", path: "/index" },
+        { name: "Planet Charts", path: "/index2" },
+      ],
     },
     {
       name: "Biome/Sector Statistics",
       pages: [
-        {name: "Biome Data", path: "/BiomeData"},
-        {name: "Sector Data", path: "/SectorData"},
-        
-      ]
+        { name: "Biome Data", path: "/BiomeData" },
+        { name: "Sector Data", path: "/SectorData" },
+      ],
     },
     {
       name: "Historical Data",
       pages: [
-        {name: "Galactic War History Map", path: "/history_map"},
-        {name: "Galactic War Log", path: "/history_log_ordered"},
-      ]
+        { name: "Galactic War History Map", path: "/history_map" },
+        { name: "Galactic War Log", path: "/history_log_ordered" },
+        { name: "Galactic War Battle Tracker", path: "/battle_tracker" },
+      ],
     },
     {
       name: "About",
-      pages: [
-        {name: "About", path: "/report"},
-      ]
+      pages: [{ name: "About", path: "/report" }],
     },
   ],
 
@@ -60,6 +58,11 @@ h3,
 h4,
 h5,
 h6,
+li,
+.katex-display {
+  max-width: 100%;
+}
+ul,
 .katex-display {
   max-width: 100%;
 }

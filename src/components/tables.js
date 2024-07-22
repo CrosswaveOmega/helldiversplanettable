@@ -1,16 +1,16 @@
 import * as Inputs from "npm:@observablehq/inputs";
 function planetTable(
   data,
-  { width, all_columns, sortby = "index", front_filter, show_if, hidecol }
+  { width, all_columns, sortby = "index", front_filter, show_if, hidecol },
 ) {
   let filteredData = data.filter((d) => front_filter.includes(d.front));
   filteredData = filteredData.filter(
-    (d) => (show_if.includes(1) && d.missionsWon > 1) || !show_if.includes(1)
+    (d) => (show_if.includes(1) && d.missionsWon > 1) || !show_if.includes(1),
   );
   filteredData = filteredData.filter(
     (d) =>
       (show_if.includes(10) && d.missionsWon > 10 && d.missionsLost > 10) ||
-      !show_if.includes(10)
+      !show_if.includes(10),
   );
 
   const filteredColumns = all_columns.filter((col) => !hidecol.includes(col));

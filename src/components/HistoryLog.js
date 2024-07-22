@@ -19,7 +19,7 @@ export function pieChart(
     strokeWidth = 1, // width of stroke separating wedges
     strokeLinejoin = "round", // line join of stroke separating wedges
     padAngle = stroke === "none" ? 1 / outerRadius : 0, // angular separation between wedges, in radians
-  } = {}
+  } = {},
 ) {
   // Compute values.
 
@@ -41,7 +41,7 @@ export function pieChart(
   if (colors === undefined)
     colors = d3.quantize(
       (t) => d3.interpolateSpectral(t * 0.8 + 0.1),
-      names.size
+      names.size,
     );
 
   // Construct scales.
@@ -128,60 +128,61 @@ export function countDistinctTypes(history) {
     acc[event.type]++;
     return acc;
   }, {});
-  
+
   return JSON.stringify(typeCounts);
 }
 
-
-function add_to_entry(acc, planet,value){
+function add_to_entry(acc, planet, value, time) {
   if (!acc[planet[1]]) {
-    acc[planet[1]] = {'name':planet[0],'index':planet[1]};
+    acc[planet[1]] = { name: planet[0], index: planet[1] };
   }
-  if (!acc[planet[1]][value]){
-    acc[planet[1]][value]=0;
+  if (!acc[planet[1]][value]) {
+    acc[planet[1]][value] = 0;
   }
-  acc[planet[1]][value]+=1;
+  acc[planet[1]][value] += 1;
 }
 
 export function count_distinct_planets(history) {
-
   const planetTypes = history.events.reduce((acc, event) => {
-    if (event.planet) {
-      event.planet.forEach(planet => {
-        
-        if (event.type === "cstart" || event.type === "defense start") {
-          add_to_entry(acc, planet,'campaigns')
-        }
-        if (event.type === "cend" || event.type === "defense start") {
-          add_to_entry(acc, planet,'liblost')
-        }
-        if (event.type==='cstart'){
-          add_to_entry(acc, planet,'lib_campaigns')
-        }
-        if ( event.type === "defense start") {
-          add_to_entry(acc, planet,'defenses')
-        }
-        if ( event.type === "planet won" ||event.type === "planet superwon" ) {
-          add_to_entry(acc, planet,'libwins')
-        }
-        if ( event.type === "defense won") {
-          add_to_entry(acc, planet,'defenses_won')
-        }
-        if ( event.type === "defense lost") {
-          add_to_entry(acc, planet,'defenses_lost')
-          //add_to_entry(acc, planet,'campaigns')
-          //add_to_entry(acc, planet,'lib_campaigns')
-        }
-        if ( event.type === "planet flip") {
-          add_to_entry(acc, planet,'planet_flips')
-        }
-        /*if (!acc[planet[1]][event.type]){
-          acc[planet[1]][event.type] =0;
-        }
-          acc[planet[1]][event.type] +=1;*/
-        
-      });
-    }
+    event.log.forEach((logEntry) => {
+      if (logEntry.planet) {
+        logEntry.planet.forEach((planet) => {
+          if (logEntry.type === "cstart" || logEntry.type === "defense start") {
+            add_to_entry(acc, planet, "campaigns", event.time);
+          }
+          if (logEntry.type === "cend" || logEntry.type === "defense start") {
+            add_to_entry(acc, planet, "liblost", event.time);
+          }
+          if (logEntry.type === "cstart") {
+            add_to_entry(acc, planet, "lib_campaigns", event.time);
+          }
+          if (logEntry.type === "defense start") {
+            add_to_entry(acc, planet, "defenses", event.time);
+          }
+          if (
+            logEntry.type === "planet won" ||
+            logEntry.type === "planet superwon"
+          ) {
+            add_to_entry(acc, planet, "libwins", event.time);
+          }
+          if (logEntry.type === "defense won") {
+            add_to_entry(acc, planet, "defenses_won", event.time);
+          }
+          if (logEntry.type === "defense lost") {
+            add_to_entry(acc, planet, "defenses_lost", event.time);
+            //add_to_entry(acc, planet,'campaigns')
+            //add_to_entry(acc, planet,'lib_campaigns')
+          }
+          if (logEntry.type === "planet flip") {
+            add_to_entry(acc, planet, "planet_flips", event.time);
+          }
+          /*if (!acc[planet[1]][logEntry.type]){
+            acc[planet[1]][logEntry.type] =0;
+          }
+          acc[planet[1]][logEntry.type] +=1;*/
+        });
+      }
+    });
     return acc;
   }, {});
 
@@ -194,7 +195,7 @@ export function makeplot(
   backround,
   target,
   slider,
-  { width, htarget,ttarget,atarget,showImages = true,  }
+  { width, htarget, ttarget, atarget, showImages = true },
 ) {
   let current_event = history.events[slider];
   const targets = {
@@ -209,19 +210,19 @@ export function makeplot(
     for (const [key, value] of Object.entries(values)) {
       galaxystate[planet][key] = value;
     }
-    if (!galaxystate[planet]['link']){
-      galaxystate[planet]['link']=[];
+    if (!galaxystate[planet]["link"]) {
+      galaxystate[planet]["link"] = [];
     }
   }
 
   const waypoints = Object.values(galaxystate).flatMap((x) =>
-    x.link.map((y) => ({ from: x.position, to: galaxystate[y].position }))
+    x.link.map((y) => ({ from: x.position, to: galaxystate[y].position })),
   );
 
   let planets = Object.values(current_event.galaxystate);
   console.log(planets);
   let truePlanets = planets.filter((planet) => planet.t[1] > 0);
-  let activePlanets = planets.filter((planet) => planet.t[2] >0);
+  let activePlanets = planets.filter((planet) => planet.t[2] > 0);
 
   let plot = Plot.plot({
     width: width,
@@ -265,7 +266,6 @@ export function makeplot(
         strokeWidth: width / 500,
         opacity: 1.0,
       }),
-      
 
       Plot.link(waypoints, {
         x1: (p) => p.from.x * 100,
@@ -299,17 +299,20 @@ export function makeplot(
           stroke: "black",
           strokeWidth: 2,
         },
-        {}
+        {},
       ),
       Plot.image(activePlanets, {
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         stroke: "#ff0000", // fixed stroke color change
-        fill: p => getColor(p.t[0]),
+        fill: (p) => getColor(p.t[0]),
         width: width / 25,
-        height: width/25,
-        src: p => {console.log(target[p.t[0]]);return target[p.t[0]]},
-       // strokeWidth: width / 200,
+        height: width / 25,
+        src: (p) => {
+          console.log(target[p.t[0]]);
+          return target[p.t[0]];
+        },
+        // strokeWidth: width / 200,
         //symbol: "plus",
       }),
 
@@ -325,14 +328,14 @@ export function makeplot(
               `Planet HP: ${
                 Math.round((p.hp / 1000000) * 100 * 10000) / 10000
               }`,
-              
+
               `Decay Rate: ${
-                Math.round(((p.r *60*60) / 1000000) * 100 * 10000) / 10000
+                Math.round(((p.r * 60 * 60) / 1000000) * 100 * 10000) / 10000
               }`,
               `Players: ${p.pl}`,
             ].join("\n"),
           fontSize: 10,
-        })
+        }),
       ),
     ],
     tip: true,
@@ -358,13 +361,12 @@ export function eList(history, count, parentCard) {
 
     parentCard.appendChild(headingElement);
 
-    for (const each of entry.log){
-        
-        const textElement = document.createElement("span");
-        textElement.textContent = each.text;
-        parentCard.appendChild(textElement);
+    for (const each of entry.log) {
+      const textElement = document.createElement("span");
+      textElement.textContent = each.text;
+      parentCard.appendChild(textElement);
 
-        parentCard.appendChild(document.createElement("br"));
+      parentCard.appendChild(document.createElement("br"));
     }
     const timeElement = document.createElement("strong");
     timeElement.textContent = entry.time;
@@ -413,7 +415,6 @@ export function eList(history, count, parentCard) {
   return "";
 }
 
-
 export function list_text(history, count, parentCard) {
   // Function to create a card element
   function createCard(entry_main, parentCard) {
@@ -424,22 +425,20 @@ export function list_text(history, count, parentCard) {
       <p><strong>Planets Affected:</strong> ${entry.planet}</p>
     <strong>Timestamp:</strong> ${entry.timestamp}</strong>*/
 
+    for (const entry of entry_main.log) {
+      let planet = "";
+      if (entry.planet && entry.planet.length > 0) {
+        planet = entry.planet.map((p) => p[0]).join(", ");
+        planet = ", on " + planet;
+      }
+      let text = entry.text + " (type " + entry.type + planet + ")";
 
-    for (const entry of entry_main.log){
-      let planet="";
-       if (entry.planet && entry.planet.length > 0) {
-            planet = entry.planet.map(p => p[0]).join(", ");
-            planet = ", on "+planet;
-          }
-        let text = entry.text+" (type "+entry.type+planet+")";
-  
-        const textElement = document.createElement("span");
-        textElement.textContent = text;
-        parentCard.appendChild(textElement);
+      const textElement = document.createElement("span");
+      textElement.textContent = text;
+      parentCard.appendChild(textElement);
 
-        parentCard.appendChild(document.createElement("br"));
+      parentCard.appendChild(document.createElement("br"));
     }
-
 
     return parentCard;
   }
@@ -452,42 +451,30 @@ export function list_text(history, count, parentCard) {
       parentElement.removeChild(parentElement.firstChild);
     }
 
-      const card = createCard(data.events[count], parentElement);
-    
+    const card = createCard(data.events[count], parentElement);
   }
   // Generate the grid with cards
-  createGrid(history, count,  parentCard);
+  createGrid(history, count, parentCard);
   return "";
 }
 
-
-
-
 export function ListAll(history, parentCard) {
-
   function createCard(entry, index, current, parentCard) {
-    for (const each of entry.log){
-        
-      if (each.type==='Day Start'){
-      
+    for (const each of entry.log) {
+      if (each.type === "Day Start") {
         parentCard.appendChild(document.createElement("br"));
-          const headingElement2 = document.createElement("h2");
-          headingElement2.textContent =  ` Day:#${entry.day}`;
-      
-          parentCard.appendChild(headingElement2);
-      
-        }
-        else{
-    
+        const headingElement2 = document.createElement("h2");
+        headingElement2.textContent = ` Day:#${entry.day}`;
+
+        parentCard.appendChild(headingElement2);
+      } else {
         const textElement = document.createElement("span");
-        textElement.textContent = ` ${each.text} (${entry.time} UTC)`
+        textElement.textContent = ` ${each.text} (${entry.time} UTC)`;
         parentCard.appendChild(textElement);
-    
+
         parentCard.appendChild(document.createElement("br"));
-    
-        }
-  }
-    
+      }
+    }
 
     return parentCard;
   }

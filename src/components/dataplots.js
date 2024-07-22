@@ -49,7 +49,7 @@ function botKills(data, { width } = {}) {
   return plotnew;
 }
 
-function allKills(data, { width, limitby=32, factcolor } = {}) {
+function allKills(data, { width, limitby = 32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -83,7 +83,7 @@ function allKills(data, { width, limitby=32, factcolor } = {}) {
   });
   return plotnew;
 }
-function allDeaths(data, { width, limitby=32, factcolor } = {}) {
+function allDeaths(data, { width, limitby = 32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -118,7 +118,7 @@ function allDeaths(data, { width, limitby=32, factcolor } = {}) {
   return plotnew;
 }
 
-function kdRatio(data, { width, limitby=32, factcolor } = {}) {
+function kdRatio(data, { width, limitby = 32, factcolor } = {}) {
   // Measure the largest text size
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
@@ -153,7 +153,7 @@ function kdRatio(data, { width, limitby=32, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsWon(data, { width, limitby=32, factcolor } = {}) {
+function missionsWon(data, { width, limitby = 32, factcolor } = {}) {
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   console.log(textSizes);
@@ -183,7 +183,7 @@ function missionsWon(data, { width, limitby=32, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsLost(data, { width, limitby=32, factcolor } = {}) {
+function missionsLost(data, { width, limitby = 32, factcolor } = {}) {
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   console.log(textSizes);
@@ -214,11 +214,14 @@ function missionsLost(data, { width, limitby=32, factcolor } = {}) {
   return plotnew;
 }
 
-function missionsWonAndLost(data2, { width, limitby=32, front_filter, factcolor, title, sortv=true } = {}) {
+function missionsWonAndLost(
+  data2,
+  { width, limitby = 32, front_filter, factcolor, title, sortv = true } = {},
+) {
   // Function to measure text size
 
   // Measure the largest text size
-  let data = data2.filter(d => front_filter.includes(d.front));
+  let data = data2.filter((d) => front_filter.includes(d.front));
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
   let maxTextWidth = Math.max(...textSizes.map((size) => size.width));
@@ -229,21 +232,21 @@ function missionsWonAndLost(data2, { width, limitby=32, front_filter, factcolor,
   // Transform data to include separate entries for missionsWon and missionsLost
   let transformedData = [];
   data.forEach((d) => {
-    if (d.missionsWon+d.missionsLost>0){
-    transformedData.push({
-      ...d,
-      type: "missionsWon",
-      value: d.missionsWon,
-      color: d.front,
-      offset:d.missionsWon,
-    });
-    transformedData.push({
-      ...d,
-      type: "missionsLost",
-      value: d.missionsLost,
-      color: d.front + "L",
-      offset:d.missionsWon+d.missionsLost,
-    });
+    if (d.missionsWon + d.missionsLost > 0) {
+      transformedData.push({
+        ...d,
+        type: "missionsWon",
+        value: d.missionsWon,
+        color: d.front,
+        offset: d.missionsWon,
+      });
+      transformedData.push({
+        ...d,
+        type: "missionsLost",
+        value: d.missionsLost,
+        color: d.front + "L",
+        offset: d.missionsWon + d.missionsLost,
+      });
     }
   });
 
@@ -269,25 +272,32 @@ function missionsWonAndLost(data2, { width, limitby=32, front_filter, factcolor,
         sort: { y: "x", limit: limitby, reverse: sortv },
         tip: true,
         title: (d) => `${d.type}: ${d.value}`,
-        
       }),
-      
     ],
   });
 
   return plotnew;
 }
 
-
-
-function genericGraph(data2, column, { width, limitby=32, front_filter, factcolor, title, titleFormat,sortv=true, showtext=true} = {}) {
-
+function genericGraph(
+  data2,
+  column,
+  {
+    width,
+    limitby = 32,
+    front_filter,
+    factcolor,
+    title,
+    titleFormat,
+    sortv = true,
+    showtext = true,
+  } = {},
+) {
   // Measure the largest text size\
-  let data = data2.filter(d => front_filter.includes(d.front));
-  data=data.filter(d =>  d[column]>0);
+  let data = data2.filter((d) => front_filter.includes(d.front));
+  data = data.filter((d) => d[column] > 0);
   let labels = data.map((planet) => planet.planet_name);
   let textSizes = labels.map((label) => getTextSize(label));
-  
 
   let maxTextWidth = Math.max(...textSizes.map((size) => size.width));
 
@@ -312,27 +322,42 @@ function genericGraph(data2, column, { width, limitby=32, front_filter, factcolo
         fill: "front",
         sort: { y: "x", limit: limitby, reverse: sortv },
         tip: true,
-        channels:{year: {
-          value: {
-            transform: (data) => data.map((d) => {
-            if (titleFormat) {
-              const customTitle = titleFormat.replace(/\[(\w+)\]/g, (_, columnName) => d[columnName]);
-              return `${customTitle}`;
-            } 
-              return "";
-            }),
-            label: ""
-          }
-        }},
-       
+        channels: {
+          year: {
+            value: {
+              transform: (data) =>
+                data.map((d) => {
+                  if (titleFormat) {
+                    const customTitle = titleFormat.replace(
+                      /\[(\w+)\]/g,
+                      (_, columnName) => d[columnName],
+                    );
+                    return `${customTitle}`;
+                  }
+                  return "";
+                }),
+              label: "",
+            },
+          },
+        },
       }),
-      Plot.text(data, {
-        y: "planet_name",
-        x: column,
-        text: (d) => {if (showtext){return d[column].toFixed(1);}else{return "";}},
-        dx: 15,//(d) => getTextSize(d[column].toFixed(1)).width / 2,
-        lineAnchor: "bottom",
-      }, { showtext })
+      Plot.text(
+        data,
+        {
+          y: "planet_name",
+          x: column,
+          text: (d) => {
+            if (showtext) {
+              return d[column].toFixed(1);
+            } else {
+              return "";
+            }
+          },
+          dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
+          lineAnchor: "bottom",
+        },
+        { showtext },
+      ),
     ],
   });
   return plotnew;
@@ -342,7 +367,13 @@ function BiomeStats(
   data,
   mode,
   column,
-  { width, limitby=32, threshold=20, biocolors, title = "Biome stats" } = {}
+  {
+    width,
+    limitby = 32,
+    threshold = 20,
+    biocolors,
+    title = "Biome stats",
+  } = {},
 ) {
   // Function to measure text size
 
@@ -359,7 +390,7 @@ function BiomeStats(
   for (const entry of data) {
     let missions = Math.max(entry.missionsWon + entry.missionsLost, 0);
     let killsum = Math.max(entry.bot_kills + entry.bug_kills, 0);
-    if (missions<threshold){
+    if (missions < threshold) {
       continue;
     }
     let deaths = entry.deaths;
@@ -561,8 +592,8 @@ function BiomeData(data, column, parentElement) {
     const missionsWon = document.createElement("span");
     missionsWon.appendChild(
       document.createTextNode(
-        `Missions Won: ${entry.missionsWon.toLocaleString("en-US")}`
-      )
+        `Missions Won: ${entry.missionsWon.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(missionsWon);
     card.appendChild(document.createElement("br"));
@@ -570,8 +601,8 @@ function BiomeData(data, column, parentElement) {
     const missionsLost = document.createElement("span");
     missionsLost.appendChild(
       document.createTextNode(
-        `Missions Lost: ${entry.missionsLost.toLocaleString("en-US")}`
-      )
+        `Missions Lost: ${entry.missionsLost.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(missionsLost);
     card.appendChild(document.createElement("br"));
@@ -579,8 +610,8 @@ function BiomeData(data, column, parentElement) {
     const botKills = document.createElement("span");
     botKills.appendChild(
       document.createTextNode(
-        `Bot Kills: ${entry.bot_kills.toLocaleString("en-US")}`
-      )
+        `Bot Kills: ${entry.bot_kills.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(botKills);
     card.appendChild(document.createElement("br"));
@@ -588,15 +619,17 @@ function BiomeData(data, column, parentElement) {
     const bugKills = document.createElement("span");
     bugKills.appendChild(
       document.createTextNode(
-        `Bug Kills: ${entry.bug_kills.toLocaleString("en-US")}`
-      )
+        `Bug Kills: ${entry.bug_kills.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(bugKills);
     card.appendChild(document.createElement("br"));
 
     const deaths = document.createElement("span");
     deaths.appendChild(
-      document.createTextNode(`Deaths: ${entry.deaths.toLocaleString("en-US")}`)
+      document.createTextNode(
+        `Deaths: ${entry.deaths.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(deaths);
     card.appendChild(document.createElement("br"));
@@ -604,15 +637,15 @@ function BiomeData(data, column, parentElement) {
     const friendlies = document.createElement("span");
     friendlies.appendChild(
       document.createTextNode(
-        `Friendlies: ${entry.friendlies.toLocaleString("en-US")}`
-      )
+        `Friendlies: ${entry.friendlies.toLocaleString("en-US")}`,
+      ),
     );
     card.appendChild(friendlies);
     card.appendChild(document.createElement("br"));
 
     const count = document.createElement("span");
     count.appendChild(
-      document.createTextNode(`Count: ${entry.count.toLocaleString("en-US")}`)
+      document.createTextNode(`Count: ${entry.count.toLocaleString("en-US")}`),
     );
     card.appendChild(count);
 
