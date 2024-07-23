@@ -187,7 +187,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div  class="card grid-colspan-2 grid-rowspan-2">
   ${theseinputs}
   ${daysSlider}
-  <strong>${historydata.events[count].text}</strong><br>
+  <strong>${historydata.events[count].time}</strong><br>
     ${resize((width) => makeplot(historydata,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
   </div>
 
