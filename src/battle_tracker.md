@@ -193,9 +193,9 @@ const showEvents = view(Inputs.toggle({label: "Show Events", value: false}));
 
 <div class="grid grid-cols-1">
   <div class="card big">
-
+${BattleList(historydata,showEvents,document.getElementById("history"))}
   <div id="history">
-  ${BattleList(historydata,showEvents,document.getElementById("history"))}
+  
   </div>
 
   </div>

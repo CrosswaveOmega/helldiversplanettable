@@ -459,13 +459,14 @@ export function list_text(history, count, parentCard) {
 }
 
 export function ListAll(history, parentCard) {
-  function createCard(entry, index, current, parentCard) {
+  function createCard(entry, parentCard) {
     for (const each of entry.log) {
       if (each.type === "Day Start") {
         parentCard.appendChild(document.createElement("br"));
-        const headingElement2 = document.createElement("h2");
+        const headingElement2 = document.createElement("h1");
         headingElement2.textContent = ` Day:#${entry.day}`;
-
+        headingElement2.id=`day${entry.day}`;
+        headingElement2.href=`#day${entry.day}`;
         parentCard.appendChild(headingElement2);
       } else {
         const textElement = document.createElement("span");
@@ -481,7 +482,7 @@ export function ListAll(history, parentCard) {
 
   // Function to create the grid element
 
-  function createGrid(data, count, factorby, parentElement) {
+  function createGrid(data, parentElement) {
     // Find and clear the 'cont' div
 
     while (parentElement.firstChild) {
@@ -491,12 +492,11 @@ export function ListAll(history, parentCard) {
     // Add new elements into the 'cont' div
     for (let index = 0; index < data.events.length; index++) {
       let event = data.events[index];
-      let current = index === count;
-      const card = createCard(event, index, current, parentElement);
+      const card = createCard(event, parentElement);
     }
   }
 
   // Generate the grid with cards
-  createGrid(history, -1, 8, parentCard);
+  createGrid(history, parentCard);
   return "";
 }

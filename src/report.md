@@ -1,6 +1,6 @@
 ---
 title: About
-toc: false
+toc: true
 sidebar: true
 ---
 
