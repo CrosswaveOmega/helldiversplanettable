@@ -13,13 +13,7 @@ sidebar: true
 
 ```js
 
-const backround = FileAttachment("./data/sectors.svg").url();
-planets.forEach((planet) => {
-  const key = Object.keys(planetimages).find(k => k === planet.image);
-  if (key) {
-    planet.image = planetimages[key].base64_image;
-  }
-});
+
 const historydata= await FileAttachment("./data/historydata.json").json();
 ```
 
