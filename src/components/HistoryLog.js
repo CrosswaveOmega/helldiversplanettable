@@ -150,7 +150,7 @@ export function count_distinct_planets(history) {
           if (logEntry.type === "cstart" || logEntry.type === "defense start") {
             add_to_entry(acc, planet, "campaigns", event.time);
           }
-          if (logEntry.type === "cend" l) {
+          if (logEntry.type === "cend") {
             add_to_entry(acc, planet, "liblost", event.time);
           }
           if (logEntry.type === "cstart") {
