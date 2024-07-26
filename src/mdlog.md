@@ -942,6 +942,7 @@ sidebar: true
 - Meridia - Turing supply line is added (2024-05-30 15:35:00 UTC)
 - Meridia - Estanu supply line is added (2024-05-30 15:35:00 UTC)
 - Meridia - Crimsica supply line is added (2024-05-30 15:35:00 UTC)
+- Meridia liberation campaign starts (2024-05-30 15:35:00 UTC)
 - Major Order | Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36:00 UTC)
 - Heeth defense is won (2024-05-30 22:04:00 UTC)
 
@@ -1329,3 +1330,29 @@ sidebar: true
 - Major Order | Operation Righteous Expunge is won | Objective: Liberate (2024-07-21 14:03:00 UTC)
 - Wasat of the Ymir sector is attacked by Automatons (2024-07-21 18:14:00 UTC)
 - Turing of the Umlaut sector is attacked by Terminids (2024-07-21 18:22:00 UTC)
+
+### Day: #165
+- Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024-07-22 15:33:00 UTC)
+- Wasat defense is failed (2024-07-22 18:20:00 UTC)
+- Wasat liberation campaign starts (2024-07-22 18:20:00 UTC)
+- Turing defense is won (2024-07-22 20:08:00 UTC)
+- Acamar IV is liberated (2024-07-23 07:47:00 UTC)
+
+### Day: #166
+
+### Day: #167
+- Bore Rock of the Falstaff sector is attacked by Terminids (2024-07-24 19:40:00 UTC)
+- Fenrir III of the Umlaut sector is attacked by Terminids (2024-07-24 19:41:00 UTC)
+- Choepessa IV of the Trigon sector is attacked by Automatons (2024-07-24 21:29:00 UTC)
+
+### Day: #168
+- Fenrir III defense is won (2024-07-25 11:57:00 UTC)
+- Bore Rock defense is failed (2024-07-25 19:43:00 UTC)
+- Choepessa IV defense is failed (2024-07-25 21:32:00 UTC)
+- Trigon sector is fully under Automaton control (2024-07-25 21:32:00 UTC)
+- Choepessa IV liberation campaign starts (2024-07-25 21:32:00 UTC)
+- Gacrux is liberated (2024-07-25 22:33:00 UTC)
+- Jin Xi sector is fully liberated (2024-07-25 22:33:00 UTC)
+- Fori Prime liberation campaign starts (2024-07-25 22:33:00 UTC)
+
+### Day: #169

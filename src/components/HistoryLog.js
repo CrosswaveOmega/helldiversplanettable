@@ -292,7 +292,8 @@ export function makeplot(
           text: (p) =>
             isNaN(Math.round((p.hp / 1000000) * 100 * 10000) / 10000)
               ? ""
-              : ` ${Math.round((p.hp / 1000000) * 100 * 10000) / 10000}`,
+              : ` ${Math.round((p.hp / 1000000) * 100 * 10000) / 10000}
+              ${p.pl}`,
           dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
           textAnchor: "top",
           fill: "white",

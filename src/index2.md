@@ -61,7 +61,7 @@ const factcolor = Plot.scale({
 ```js
 const factions=[]
 function initializeControl(label) {
-  return Inputs.checkbox(planets.map((d)=>d.front), {value:['TERMINIDS','AUTOMATON'],unique:true,label: `Filter by  front`});
+  return Inputs.checkbox(planets.map((d)=>d.front), {value:['TERMINIDS','AUTOMATON'],unique:true,label: `Filter by front`});
 }
 //const card1FrontFilter = Inputs.checkbox(planets.map((d)=>d.front), {label: `Filter by  front`});
 //
