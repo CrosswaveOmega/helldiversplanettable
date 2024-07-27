@@ -47,4 +47,4 @@ in and out of a mission.
 
 ## What this website does NOT display:
 
-Due to limitations, this website does not display anything related to the liberation rates of planets, as not only does that requires taking constant measurements over time, but the liberation rate is scaled based on the total proportion of players online.
+Due to limitations, this website does not display anything related to the liberation amounts of planets before March 5th, 2024.
