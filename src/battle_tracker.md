@@ -139,12 +139,11 @@ function sector_battle_table(historydata, mode, {width}) {
   if (mode === 0) {
     columns = ['name', 'front','battles', 'win','loss'];
     header = {
-      name: 'Name',
+      name: 'Sector',
       front: "Front",
       battles: "Campaigns",
       win: "Campaigns Won",
-      loss: "Campaigns Lost",
-      planet_flips: "Planet Flips"
+      loss: "Campaigns Lost"
     };
   } 
 
@@ -152,6 +151,7 @@ function sector_battle_table(historydata, mode, {width}) {
     columns: columns,
     header: header,
     width: width,
+    height:(planets.length)*22-1,
   sort:'campaigns',
   reverse:true,
     
@@ -168,7 +168,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   if (mode === 0) {
     columns = ['name', 'front', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
     header = {
-      name: 'Name',
+      name: 'Planet',
       front: 'Front',
       campaigns: "Campaigns",
       lib_campaigns: "Liberations",
@@ -178,7 +178,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   } else if (mode === 1) {
     columns = ['name', 'campaigns','lib_campaigns', 'libwins', 'liblost'];
     header = {
-      name: 'Name',
+      name: 'Planet',
       
       campaigns: "Campaigns",
       lib_campaigns: "Liberation Campaigns",
@@ -188,7 +188,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   } else if (mode === 2) {
     columns = ['name','campaigns', 'defenses', 'defenses_won', 'defenses_lost'];
     header = {
-      name: 'Name',
+      name: 'Planet',
       
       campaigns: "Campaigns",
       defenses: "Defense Campaigns",
@@ -200,7 +200,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   return Inputs.table(planet_data, {
     columns: columns,
     header: header,
-    width: width,
+    width: width, 
   sort:'campaigns',
   reverse:true,
     
@@ -275,19 +275,23 @@ const showEvents = view(Inputs.toggle({label: "Show Events", value: false}));
 
 
 ```
+  
+<div class="grid grid-cols-1">
+<div class="card big grid-colspan-2" >
+${BattleList(historydata,showEvents,document.getElementById("history"))}
+  <div id="history" style="max-height: 500px; overflow-y: auto;">
+
+  </div>
+  </div>
+  </div>
 
 <div class="grid grid-cols-1">
-  <div class="card big">
-${BattleList(historydata,showEvents,document.getElementById("history"))}
-  <div id="history">
-  
-  </div>
-
-  </div>
     <div  class='card' style="font-size: 1.1em;">
     ${resize((width) => sector_battle_table(historydata,0,{width}))}
   </div>
+</div>
 
+<div class="grid grid-cols-1">
   <div class='card' style="font-size: 1.1em;">
     ${resize((width) => count_distinct_planets_table(historydata,0,{width}))}
   </div>
@@ -299,5 +303,5 @@ ${BattleList(historydata,showEvents,document.getElementById("history"))}
   <div class='card' style="font-size: 1.1em;'">
     ${resize((width) => count_distinct_planets_table(historydata,2,{width}))}
   </div>
-
+  
 </div>
