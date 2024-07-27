@@ -5,17 +5,19 @@ sidebar: true
 ---
 
 
-# Helldivers Data Table: About
+# Helldivers War History Central: About
 
 ## What is this website?
 
-This website is, essentially, an interactive table using the in game statistics from Helldivers 2.  
-It updates automatically every day at 1pm est.
+This website is two things.  Firstly, an interactive log of the game history from Helldivers 2, complete with battle trackers and a dynamic recreation of the game map across each in game war day, and interactive tables of the in game statistics from Helldivers 2.  
 
-Data is collated based on individual planets.
-All values used from this website are gathered from the Helldivers 2 Community API, found [here](https://github.com/helldivers-2/api).
+The statistical tables update automatically every day at 1pm est, though the history log components have to be updated manually.
 
-## What this website displays:
+All values by the Planet/Sector/Biome Tables and Graphs are gathered from the Helldivers 2 Community API, found [here](https://github.com/helldivers-2/api).
+
+The History Data is gathered from Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API).
+
+## What Each Stat means:
 
 
 ### Base Stats
