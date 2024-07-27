@@ -113,6 +113,19 @@ def add_overrides(allplanet: Dict[str, Any], index: int) -> Tuple[str, str]:
 def make_rows(planets: Dict, allplanet: Dict):
     # format the data retrieved from API into a list of CSV rows.
     rows = []
+    sector_fronts={}
+    for _, planet in planets.items():
+        index = planet["index"]
+        front = get_planet_fronts(index, planets)
+        # Remove human faction from front list for easier reading.
+        if "HUMANS" in front and len(front) > 1:
+            front.remove("HUMANS")
+        tf=",".join(front)
+        if planet["sector"].upper() in sector_fronts:
+            if sector_fronts[planet["sector"].upper()]=='HUMANS':
+                sector_fronts[planet["sector"].upper()]=tf
+        else:
+            sector_fronts[planet["sector"].upper()]=tf
     for _, planet in planets.items():
         # Each planet is identified by an integer, not a name.
         index = planet["index"]
@@ -134,7 +147,8 @@ def make_rows(planets: Dict, allplanet: Dict):
             'index':planet['index'],
             "planet_name": planet["name"],
             "sector_name": planet["sector"].upper(),
-            "front": ",".join(front),
+            "front":",".join(front),
+            "sector_front": sector_fronts[planet["sector"].upper()],
             "initial_owner": planet["initialOwner"],
             "current_owner": planet["currentOwner"],
             'position':planet['position'],

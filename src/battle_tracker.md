@@ -1,5 +1,5 @@
 ---
-title: Ordered History Log
+title: Battle Tracker History Log
 toc: True
 sidebar: true
 ---
@@ -9,8 +9,11 @@ sidebar: true
 
 ```js
   import {
-    ListAll
+    ListAll, count_distinct_planets
   } from "./components/HistoryLog.js";
+  import {
+    make_sector_data,
+  } from "./components/data_transformers.js";
   
 ```
 
@@ -18,15 +21,12 @@ sidebar: true
 
 
 const lasttime = FileAttachment("./data/lasttime.json").json();
-const planets = await FileAttachment("./data/planets.json").json();
+const planets = FileAttachment("./data/planets.json").json();
+
+let sector_data = await planets.then(data => make_sector_data(data));
 const planetimages= await FileAttachment("./data/images.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
-planets.forEach((planet) => {
-  const key = Object.keys(planetimages).find(k => k === planet.image);
-  if (key) {
-    planet.image = planetimages[key].base64_image;
-  }
-});
+
 const historydata= await FileAttachment("./data/historydata.json").json();
 ```
 ```js
@@ -58,7 +58,7 @@ function calculateElapsedTime(timestamp1, timestamp2) {
   return `${days}d ${hours}h ${minutes}m`;
 }
 
-function count_distinct_planets(history,showEvts) {
+function count_distinct_planet_battles(history,showEvts) {
 
   const planetTypes = {};
   const battles = {};
@@ -76,7 +76,11 @@ function count_distinct_planets(history,showEvts) {
             console.log(history.galaxystatic[pid.toString()]);
           }
           if (!planetTypes[sector]) {
-            planetTypes[sector] = { 'name': sector, 'planets': {} };
+            planetTypes[sector] = { 'name': sector, 'front':'ALL','planets': {},'battles':0,'win':0,'loss':0};
+            let tofind=sector_data['all'].find(el => el.sector_name === sector.toUpperCase())
+            if (tofind) {
+              planetTypes[sector].front= tofind.sector_front;
+            }
           }
           if (showEvts){
             
@@ -85,31 +89,36 @@ function count_distinct_planets(history,showEvts) {
           if (logEntry.type === "cend") {
             let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, failure)`
             add_to_entry(planetTypes[sector].planets, planet, battle, null);
+            planetTypes[sector].loss+=1;
           }
           if (logEntry.type === 'cstart') {
             battles[pid].pc += 1;
             battles[pid].lc += 1;
             battles[pid].start = event.timestamp;
+            planetTypes[sector].battles+=1;
           }
           if (logEntry.type === "defense start") {
             battles[pid].pc += 1;
             battles[pid].dc += 1;
 
             battles[pid].start = event.timestamp;
+             planetTypes[sector].battles+=1;
           }
           if (logEntry.type === "planet won" || logEntry.type === "planet superwon") {
             let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, victory)`
             add_to_entry(planetTypes[sector].planets, planet, battle, null);
+            planetTypes[sector].win+=1;
           }
           if (logEntry.type === "defense won") {
             let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, victory)`
 
             add_to_entry(planetTypes[sector].planets, planet, battle, null);
+            planetTypes[sector].win+=1;
           }
           if (logEntry.type === "defense lost") {
             let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, failure)`
             add_to_entry(planetTypes[sector].planets, planet, battle, null);
-
+            planetTypes[sector].loss+=1;
           }
 
         }
@@ -120,7 +129,83 @@ function count_distinct_planets(history,showEvts) {
   return planetTypes;
 }
 
+function sector_battle_table(historydata, mode, {width}) {
+  const countDistinctPlanetsData = count_distinct_planet_battles(historydata,false);
+  let planets = Object.values(countDistinctPlanetsData);
+  
+  let columns = [];
+  let header = {};
+  //planetTypes[sector] = { 'name': sector, 'planets': {},'battles':0,'win':0,'loss':0};
+  if (mode === 0) {
+    columns = ['name', 'front','battles', 'win','loss'];
+    header = {
+      name: 'Name',
+      front: "Front",
+      battles: "Campaigns",
+      win: "Campaigns Won",
+      loss: "Campaigns Lost",
+      planet_flips: "Planet Flips"
+    };
+  } 
 
+  return Inputs.table(planets, {
+    columns: columns,
+    header: header,
+    width: width,
+  sort:'campaigns',
+  reverse:true,
+    
+  });
+}
+
+function count_distinct_planets_table(historydata, mode, {width}) {
+  const countDistinctPlanetsData = count_distinct_planets(historydata,planets);
+  let planet_data = Object.values(countDistinctPlanetsData);
+
+  let columns = [];
+  let header = {};
+
+  if (mode === 0) {
+    columns = ['name', 'front', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
+    header = {
+      name: 'Name',
+      front: 'Front',
+      campaigns: "Campaigns",
+      lib_campaigns: "Liberations",
+       defenses: "Defenses",
+      planet_flips: "Planet Flips"
+    };
+  } else if (mode === 1) {
+    columns = ['name', 'campaigns','lib_campaigns', 'libwins', 'liblost'];
+    header = {
+      name: 'Name',
+      
+      campaigns: "Campaigns",
+      lib_campaigns: "Liberation Campaigns",
+      libwins: "Liberations Won",
+      liblost: "Liberations Lost"
+    };
+  } else if (mode === 2) {
+    columns = ['name','campaigns', 'defenses', 'defenses_won', 'defenses_lost'];
+    header = {
+      name: 'Name',
+      
+      campaigns: "Campaigns",
+      defenses: "Defense Campaigns",
+      defenses_won: "Defenses Won",
+      defenses_lost: "Defenses Lost"
+    };
+  }
+
+  return Inputs.table(planet_data, {
+    columns: columns,
+    header: header,
+    width: width,
+  sort:'campaigns',
+  reverse:true,
+    
+  });
+}
 
 function BattleList(history, showEvt,parentCard) {
 
@@ -164,7 +249,7 @@ function BattleList(history, showEvt,parentCard) {
   }
 
   // Function to create the grid element
-  let distinct_elements = count_distinct_planets(history,showEvt);
+  let distinct_elements = count_distinct_planet_battles(history,showEvt);
 
   function createGrid(planetdata, parentElement) {
     // Find and clear the 'cont' div
@@ -199,4 +284,20 @@ ${BattleList(historydata,showEvents,document.getElementById("history"))}
   </div>
 
   </div>
+    <div  class='card' style="font-size: 1.1em;">
+    ${resize((width) => sector_battle_table(historydata,0,{width}))}
+  </div>
+
+  <div class='card' style="font-size: 1.1em;">
+    ${resize((width) => count_distinct_planets_table(historydata,0,{width}))}
+  </div>
+
+  <div  class='card' style="font-size: 1.1em;">
+    ${resize((width) => count_distinct_planets_table(historydata,1,{width}))}
+  </div>
+
+  <div class='card' style="font-size: 1.1em;'">
+    ${resize((width) => count_distinct_planets_table(historydata,2,{width}))}
+  </div>
+
 </div>

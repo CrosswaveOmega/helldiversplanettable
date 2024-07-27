@@ -2,7 +2,7 @@
 
 export default {
   // The project’s title; used in the sidebar and webpage titles.
-  title: "Helldivers 2 Planet Table",
+  title: "Helldivers 2 War History Central",
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
@@ -11,7 +11,7 @@ export default {
     {
       name: "Planet Statistics",
       pages: [
-        { name: "Planet Table", path: "/index" },
+        { name: "Planet Table", path: "/planet_table" },
         { name: "Planet Charts", path: "/index2" },
       ],
     },
@@ -26,7 +26,7 @@ export default {
       name: "Historical Data",
       pages: [
         { name: "Galactic War History Map", path: "/history_map" },
-        { name: "Galactic War Log", path: "/history_log_ordered" },
+        { name: "Galactic War Full History Log", path: "/history_log_full" },
         { name: "Galactic War Battle Tracker", path: "/battle_tracker" },
       ],
     },
@@ -37,8 +37,8 @@ export default {
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:
-  head: `<meta content="Helldivers 2 Planet Table" property="og:title" />
-<meta content="Historical Logs and Maps, as well as Tables and graphs gathered across the entire Helldivers 2 Galactic War, split by front." property="og:description" />
+  head: `<meta content="Helldivers 2 War History Central" property="og:title" />
+<meta content="Everything you could ever hope to learn about the Galactic War's past and present in Helldivers 2.  View historcal logs and maps, as well as Tables and graphs gathered across the entire Helldivers 2 Galactic War." property="og:description" />
   <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
   <style>
   
@@ -88,7 +88,7 @@ ul,
   // Some additional configuration options and their defaults:
   // theme: "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  // footer: "Built with Observable.", // what to show in the footer (HTML)
+  footer: "Contact tauceti.v on discord if you have any suggestions or notice any mistakes.", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   // pager: true, // whether to show previous & next links in the footer

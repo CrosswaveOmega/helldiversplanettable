@@ -132,9 +132,15 @@ export function countDistinctTypes(history) {
   return JSON.stringify(typeCounts);
 }
 
-function add_to_entry(acc, planet, value, time) {
+function add_to_entry(acc, planet, value, time,planets) {
   if (!acc[planet[1]]) {
-    acc[planet[1]] = { name: planet[0], index: planet[1] };
+    console.log(planet[1]);
+    let tofind=planets.find(el => el['index'] == planet[1]);
+    let front="UNKNOWN";
+    if (tofind) {
+      front= tofind.sector_front;
+    }
+    acc[planet[1]] = { name: planet[0], index: planet[1], front:front};
   }
   if (!acc[planet[1]][value]) {
     acc[planet[1]][value] = 0;
@@ -142,39 +148,40 @@ function add_to_entry(acc, planet, value, time) {
   acc[planet[1]][value] += 1;
 }
 
-export function count_distinct_planets(history) {
+export function count_distinct_planets(history,planets) {
   const planetTypes = history.events.reduce((acc, event) => {
     event.log.forEach((logEntry) => {
       if (logEntry.planet) {
         logEntry.planet.forEach((planet) => {
+
           if (logEntry.type === "cstart" || logEntry.type === "defense start") {
-            add_to_entry(acc, planet, "campaigns", event.time);
+            add_to_entry(acc, planet, "campaigns", event.time,planets);
           }
           if (logEntry.type === "cend") {
-            add_to_entry(acc, planet, "liblost", event.time);
+            add_to_entry(acc, planet, "liblost", event.time,planets);
           }
           if (logEntry.type === "cstart") {
-            add_to_entry(acc, planet, "lib_campaigns", event.time);
+            add_to_entry(acc, planet, "lib_campaigns", event.time,planets);
           }
           if (logEntry.type === "defense start") {
-            add_to_entry(acc, planet, "defenses", event.time);
+            add_to_entry(acc, planet, "defenses", event.time,planets);
           }
           if (
             logEntry.type === "planet won" ||
             logEntry.type === "planet superwon"
           ) {
-            add_to_entry(acc, planet, "libwins", event.time);
+            add_to_entry(acc, planet, "libwins", event.time,planets);
           }
           if (logEntry.type === "defense won") {
-            add_to_entry(acc, planet, "defenses_won", event.time);
+            add_to_entry(acc, planet, "defenses_won", event.time,planets);
           }
           if (logEntry.type === "defense lost") {
-            add_to_entry(acc, planet, "defenses_lost", event.time);
+            add_to_entry(acc, planet, "defenses_lost", event.time,planets);
             //add_to_entry(acc, planet,'campaigns')
             //add_to_entry(acc, planet,'lib_campaigns')
           }
           if (logEntry.type === "planet flip") {
-            add_to_entry(acc, planet, "planet_flips", event.time);
+            add_to_entry(acc, planet, "planet_flips", event.time,planets);
           }
           /*if (!acc[planet[1]][logEntry.type]){
             acc[planet[1]][logEntry.type] =0;
@@ -345,7 +352,7 @@ export function makeplot(
   return plot;
 }
 
-export function eList(history, count, parentCard) {
+export function eList(history, count, parentCard, mode = 0) {
   // Function to create a card element
   function createCard(entry, index, current, parentCard) {
     /*
@@ -393,26 +400,43 @@ export function eList(history, count, parentCard) {
 
   // Function to create the grid element
 
-  function createGrid(data, count, factorby, parentElement) {
+  function createGrid(data, count, factorby, parentElement, mode) {
     // Find and clear the 'cont' div
 
     while (parentElement.firstChild) {
-      parentElement.removeChild(parentElement.firstChild);
+      parentElement.innerHTML = '';
     }
 
-    // Add new elements into the 'cont' div
-    let lower = Math.floor(count / factorby) * factorby;
-    for (let index = lower; index < lower + factorby; index++) {
-      if (index >= data.events.length) break;
-      let event = data.events[index];
-      let current = index === count;
-      const card = createCard(event, index, current, parentElement);
+    let lower, index;
+    switch(mode) {
+      case 0:
+        lower = Math.floor(count / factorby) * factorby;
+        for (index = lower; index < lower + factorby; index++) {
+          if (index >= data.events.length) break;
+          let event = data.events[index];
+          let current = index === count;
+          const card = createCard(event, index, current, parentElement);
+        }
+        break;
+      case 1:
+        lower = Math.max(count-factorby,0)
+        for (index = lower; index < data.events.length; index++) {
+          if (index >= data.events.length) break;
+          let event = data.events[index];
+          let current = index == count;
+          const card = createCard(event, index, current, parentElement);
+        }
+        parentElement.scrollTop = parentElement.scrollHeight;
+        break;
+      default:
+        
+        break;
     }
   }
 
   let dayv = history.events[count].day;
   // Generate the grid with cards
-  createGrid(history, count, 8, parentCard);
+  createGrid(history, count, 8, parentCard, mode);
   return "";
 }
 
@@ -449,7 +473,7 @@ export function list_text(history, count, parentCard) {
   function createGrid(data, count, parentElement) {
     // Find and clear the 'cont' div
     while (parentElement.firstChild) {
-      parentElement.removeChild(parentElement.firstChild);
+      parentElement.innerHTML = '';
     }
 
     const card = createCard(data.events[count], parentElement);
@@ -459,7 +483,7 @@ export function list_text(history, count, parentCard) {
   return "";
 }
 
-export function ListAll(history, parentCard) {
+export function ListAll(history, parentCard, mode=0) {
   function createCard(entry, parentCard) {
     for (const each of entry.log) {
       if (each.type === "Day Start") {
@@ -483,21 +507,49 @@ export function ListAll(history, parentCard) {
 
   // Function to create the grid element
 
-  function createGrid(data, parentElement) {
+  function createGrid(data, parentElement,mode) {
     // Find and clear the 'cont' div
 
     while (parentElement.firstChild) {
-      parentElement.removeChild(parentElement.firstChild);
+      parentElement.innerHTML = '';
     }
 
     // Add new elements into the 'cont' div
-    for (let index = 0; index < data.events.length; index++) {
-      let event = data.events[index];
-      const card = createCard(event, parentElement);
+    
+    let lower, index, day, newlower, i;
+    switch(mode) {
+      case 0:
+        for (index = 0; index < data.events.length; index++) {
+          let event = data.events[index];
+          const card = createCard(event, parentElement);
+        }
+        break;
+      case 1:
+          lower = Math.max(data.events.length - 20, 0)
+          day=data.events[lower].day;
+          newlower=lower;
+          for (i = lower; i > 0; i--) {
+            if (data.events[i].day==day){
+             
+              console.log(newlower,data.events[i].day,day);
+               newlower--;
+            }else{newlower=i+1;break;}
+            console.log(newlower);
+          }
+          for (index = newlower; index < data.events.length; index++) {
+            let event = data.events[index];
+            const card = createCard(event, parentElement);
+          }
+          
+          parentElement.scrollTop = parentElement.scrollHeight;
+          break;
+      default:
+        break;
     }
+    
   }
 
   // Generate the grid with cards
-  createGrid(history, parentCard);
+  createGrid(history, parentCard,mode);
   return "";
 }

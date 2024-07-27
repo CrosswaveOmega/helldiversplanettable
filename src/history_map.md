@@ -135,18 +135,20 @@ const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
 ```js
 
 function count_distinct_planets_table(historydata, mode, {width}) {
-  const countDistinctPlanetsData = count_distinct_planets(historydata);
-  let planets = Object.values(countDistinctPlanetsData);
+  const countDistinctPlanetsData = count_distinct_planets(historydata,planets);
+  let planet_data = Object.values(countDistinctPlanetsData);
+
   let columns = [];
   let header = {};
 
   if (mode === 0) {
-    columns = ['name', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
+    columns = ['name', 'front', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
     header = {
       name: 'Name',
+      front: 'Front',
       campaigns: "Campaigns",
-      lib_campaigns: "Liberation Campaigns",
-       defenses: "Defense Campaigns",
+      lib_campaigns: "Liberations",
+       defenses: "Defenses",
       planet_flips: "Planet Flips"
     };
   } else if (mode === 1) {
@@ -171,7 +173,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
     };
   }
 
-  return Inputs.table(planets, {
+  return Inputs.table(planet_data, {
     columns: columns,
     header: header,
     width: width,
