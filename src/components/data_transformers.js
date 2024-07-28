@@ -103,7 +103,7 @@ function make_sector_data(data) {
   /**
    * Aggregates and transforms targetcolumn data.
    *
-   * This function processes the input data to aggregate statistics for each biome and then
+   * This function processes the input data to aggregate statistics for each sector and then
    * calculates derived metrics such as deaths per mission, kills per mission, kills to deaths ratio,
    * and win to loss ratio.
    *
@@ -111,7 +111,7 @@ function make_sector_data(data) {
    *                       including fields like biome, missionsWon, missionsLost, bot_kills, bug_kills,
    *                       deaths, and friendlies.
    *
-   * @returns {Array} An array of transformed objects containing aggregated data and derived metrics for each biome.
+   * @returns {Array} An array of transformed objects containing aggregated data and derived metrics for each sector.
    */
   console.log("DATA");
   console.log(data);

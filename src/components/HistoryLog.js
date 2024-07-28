@@ -134,7 +134,7 @@ export function countDistinctTypes(history) {
 
 function add_to_entry(acc, planet, value, time,planets) {
   if (!acc[planet[1]]) {
-    console.log(planet[1]);
+    //console.log(planet[1]);
     let tofind=planets.find(el => el['index'] == planet[1]);
     let front="UNKNOWN";
     if (tofind) {
@@ -195,7 +195,13 @@ export function count_distinct_planets(history,planets) {
 
   return planetTypes;
 }
-
+function DECODE(number) {
+  let CO = (number >> 4) & 0b111;
+  let AT = (number >> 1) & 0b111;
+  let L = number & 0b1;
+  console.log(CO,AT,L)
+  return [CO, AT, L];
+}
 export function makeplot(
   history,
   planetimages,
@@ -217,6 +223,7 @@ export function makeplot(
     for (const [key, value] of Object.entries(values)) {
       galaxystate[planet][key] = value;
     }
+    galaxystate[planet]['ta']=DECODE(galaxystate[planet]['t']);
     if (!galaxystate[planet]["link"]) {
       galaxystate[planet]["link"] = [];
     }
@@ -228,8 +235,8 @@ export function makeplot(
 
   let planets = Object.values(current_event.galaxystate);
   console.log(planets);
-  let truePlanets = planets.filter((planet) => planet.t[1] > 0);
-  let activePlanets = planets.filter((planet) => planet.t[2] > 0);
+  let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
+  let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
 
   let plot = Plot.plot({
     width: width,
@@ -260,16 +267,16 @@ export function makeplot(
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         r: width / 100,
-        stroke: (p) => getColor(p.t[1]),
-        //fill: p => getColor(p.t[1]),
+        stroke: (p) => getColor(p.ta[1]),
+        //fill: p => getColor(p.ta[1]),
         strokeWidth: width / 200,
       }),
       Plot.dot(planets, {
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         r: width / 100,
-        stroke: (p) => getColor(p.t[0]),
-        fill: (p) => getColor(p.t[0]),
+        stroke: (p) => getColor(p.ta[0]),
+        fill: (p) => getColor(p.ta[0]),
         strokeWidth: width / 500,
         opacity: 1.0,
       }),
@@ -313,12 +320,12 @@ export function makeplot(
         x: (p) => p.position.x * 100,
         y: (p) => p.position.y * -100,
         stroke: "#ff0000", // fixed stroke color change
-        fill: (p) => getColor(p.t[0]),
+        fill: (p) => getColor(p.ta[0]),
         width: width / 25,
         height: width / 25,
         src: (p) => {
-          console.log(target[p.t[0]]);
-          return target[p.t[0]];
+          console.log(target[p.ta[0]]);
+          return target[p.ta[0]];
         },
         // strokeWidth: width / 200,
         //symbol: "plus",
@@ -332,7 +339,7 @@ export function makeplot(
 
           title: (p) =>
             [
-              `${p.name}\n${p.t[1] ? "under attack" : ""}`,
+              `${p.name}\n${p.ta[1] ? "under attack" : ""}`,
               `Planet HP: ${
                 Math.round((p.hp / 1000000) * 100 * 10000) / 10000
               }`,

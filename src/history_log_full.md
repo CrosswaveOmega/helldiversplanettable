@@ -110,7 +110,6 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #18
 - Draupnir is liberated (2024-02-25 17:59:00 UTC)
-- Xzar sector is fully liberated (2024-02-25 17:59:00 UTC)
 - Ubanea liberation campaign starts (2024-02-25 17:59:00 UTC)
 - Mantes defense is failed (2024-02-25 22:09:00 UTC)
 - Mantes liberation campaign starts (2024-02-25 22:09:00 UTC)
@@ -207,6 +206,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Draupnir liberation campaign starts (2024-03-04 21:47:00 UTC)
 - Angel's Venture of the Orion sector is attacked by Terminids (2024-03-04 23:34:00 UTC)
 - Angel's Venture defense is won (2024-03-05 04:01:00 UTC)
+- Orion sector is fully liberated (2024-03-05 04:01:00 UTC)
 
 ### Day: #27
 - War monitoring satellites are launched, allowing helldiver counts and planet liberation amounts to be properly recorded from here on (2024-03-05 19:00:00 UTC)
@@ -228,6 +228,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Ustotu defense is failed (2024-03-06 20:21:00 UTC)
 - Ustotu liberation campaign starts (2024-03-06 20:21:00 UTC)
 - Vandalon IV liberation campaign ends (2024-03-06 20:21:00 UTC)
+- Midday (2024-03-07 00:21:00 UTC)
 
 ### Day: #29
 - Major Order | Operation Defense of Heeth and Angel's Venture is won | Objective: Control (2024-03-07 13:46:00 UTC)
@@ -241,6 +242,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Tien Kwan liberation campaign starts (2024-03-07 13:49:00 UTC)
 - Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51:00 UTC)
 - Angel's Venture of the Orion sector is attacked by Terminids (2024-03-07 19:35:00 UTC)
+- Midday (2024-03-08 00:35:00 UTC)
 
 ### Day: #29
 - Tien Kwan is liberated (2024-03-08 15:49:00 UTC)
@@ -250,20 +252,29 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Angel's Venture liberation campaign starts (2024-03-08 19:39:00 UTC)
 - Meridia liberation campaign ends (2024-03-08 19:39:00 UTC)
 - Turing liberation campaign ends (2024-03-08 19:39:00 UTC)
+- Midday (2024-03-09 00:39:00 UTC)
 
 # Day: #30
+- Midday (2024-03-09 12:00:00 UTC)
+- Midday (2024-03-10 00:00:00 UTC)
 
 ### Day: #31
+- Midday (2024-03-10 12:00:00 UTC)
+- Midday (2024-03-11 00:00:00 UTC)
 
 ### Day: #32
 - Angel's Venture is liberated (2024-03-11 19:57:00 UTC)
+- Orion sector is fully liberated (2024-03-11 19:57:00 UTC)
 - Meridia liberation campaign starts (2024-03-11 19:57:00 UTC)
 - Turing liberation campaign starts (2024-03-11 19:57:00 UTC)
+- Midday (2024-03-12 00:57:00 UTC)
 
 ### Day: #33
 - Major Order | Operation TCS Bulwark is issued | Objective: Liberate (2024-03-12 13:46:00 UTC)
+- Midday (2024-03-13 00:46:00 UTC)
 
 ### Day: #34
+- Midday (2024-03-13 12:00:00 UTC)
 - Fenrir III is liberated (2024-03-13 22:03:00 UTC)
 - Hellmire liberation campaign starts (2024-03-13 22:03:00 UTC)
 
@@ -273,6 +284,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #36
 - Heeth defense is won (2024-03-15 16:31:00 UTC)
+- Orion sector is fully liberated (2024-03-15 16:31:00 UTC)
 - Meridia is liberated (2024-03-15 19:22:00 UTC)
 - Estanu liberation campaign starts (2024-03-15 19:22:00 UTC)
 - Crimsica liberation campaigns starts (2024-03-15 19:22:00 UTC)
@@ -281,16 +293,20 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Major Order | Operation TCS Bulwark is won | Objective: Liberate (2024-03-16 03:50:00 UTC)
 
 ### Day: #37
+- Midday (2024-03-16 12:00:00 UTC)
+- Midday (2024-03-17 00:00:00 UTC)
 
 ### Day: #38
 - Estanu is liberated (2024-03-17 19:55:00 UTC)
 - Fori Prime liberation campaign starts (2024-03-17 19:55:00 UTC)
+- Midday (2024-03-18 00:55:00 UTC)
 
 ### Day: #39
 - Estanu of the Draco sector is attacked by Terminids (2024-03-18 12:11:00 UTC)
 - Draupnir is liberated (2024-03-18 16:11:00 UTC)
 - Xzar sector is fully liberated (2024-03-18 16:11:00 UTC)
 - Ubanea liberation campaign starts (2024-03-18 16:11:00 UTC)
+- Midday (2024-03-19 00:11:00 UTC)
 
 # Day: #40
 - Estanu defense is failed (2024-03-19 12:14:00 UTC)
@@ -298,19 +314,24 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Estanu liberation campaign starts (2024-03-19 12:14:00 UTC)
 - Fori Prime liberation campaign ends (2024-03-19 12:14:00 UTC)
 - Major Order | Operation Prime Liberation is issued | Objective: Liberate (2024-03-19 16:13:00 UTC)
+- Midday (2024-03-20 00:13:00 UTC)
 - Estanu is liberated (2024-03-20 05:15:00 UTC)
 - Fori Prime liberation campaign starts (2024-03-20 05:15:00 UTC)
 
 ### Day: #41
+- Midday (2024-03-20 12:00:00 UTC)
+- Midday (2024-03-21 00:00:00 UTC)
 
 ### Day: #42
 - Fori Prime is liberated (2024-03-21 16:36:00 UTC)
 - Oshaune liberation campaign starts (2024-03-21 16:36:00 UTC)
+- Midday (2024-03-22 00:36:00 UTC)
 
 ### Day: #43
 - Major Order | Operation Prime Liberation is failed | Objective: Liberate (2024-03-22 12:21:00 UTC)
 - Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-22 13:01:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-03-22 14:35:00 UTC)
+- Midday (2024-03-23 00:35:00 UTC)
 
 ### Day: #44
 - Estanu defense is won (2024-03-23 10:06:00 UTC)
@@ -364,6 +385,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #49
 - Vandalon IV is liberated (2024-03-28 15:44:00 UTC)
 - Troost liberation campaign starts (2024-03-28 15:44:00 UTC)
+- Midday (2024-03-29 00:44:00 UTC)
 - Oshaune defense is failed (2024-03-29 08:14:00 UTC)
 - Mirin sector is fully under Terminid control (2024-03-29 08:14:00 UTC)
 - Oshaune liberation campaign starts (2024-03-29 08:14:00 UTC)
@@ -376,6 +398,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Fori Prime of the Draco sector is attacked by Terminids (2024-03-29 12:51:00 UTC)
 - Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53:00 UTC)
 - Draupnir of the Xzar sector is attacked by Automatons (2024-03-29 19:05:00 UTC)
+- Midday (2024-03-30 00:05:00 UTC)
 
 ### Day: #51
 - Fori Prime defense is failed (2024-03-30 12:52:00 UTC)
@@ -385,6 +408,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Draupnir liberation campaign starts (2024-03-30 19:05:00 UTC)
 - Ubanea liberation campaign ends (2024-03-30 19:05:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-03-30 20:55:00 UTC)
+- Midday (2024-03-31 00:55:00 UTC)
 
 ### Day: #52
 - Estanu defense is won (2024-03-31 20:12:00 UTC)
@@ -418,6 +442,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #55
 - Estanu of the Draco sector is attacked by Terminids (2024-04-03 12:33:00 UTC)
+- Midday (2024-04-04 00:33:00 UTC)
 - Estanu defense is won (2024-04-04 06:16:00 UTC)
 - Vandalon IV defense is won (2024-04-04 07:02:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-04-04 07:52:00 UTC)
@@ -425,15 +450,20 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #56
 - Major Order | Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15:00 UTC)
 - Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27:00 UTC)
+- Midday (2024-04-04 12:27:00 UTC)
+- Midday (2024-04-05 00:27:00 UTC)
 - Estanu defense is failed (2024-04-05 07:51:00 UTC)
 - Draco sector is fully under Terminid control (2024-04-05 07:51:00 UTC)
 - Estanu liberation campaign starts (2024-04-05 07:51:00 UTC)
 - Fori Prime liberation campaign ends (2024-04-05 07:51:00 UTC)
 
 ### Day: #57
+- Midday (2024-04-05 12:00:00 UTC)
 - Maia is liberated (2024-04-05 23:17:00 UTC)
 
 ### Day: #58
+- Midday (2024-04-06 12:00:00 UTC)
+- Midday (2024-04-07 00:00:00 UTC)
 - Tibit is liberated (2024-04-07 02:36:00 UTC)
 
 ### Day: #59
@@ -447,6 +477,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 # Day: #60
 - Crimsica is liberated (2024-04-08 12:28:00 UTC)
+- Midday (2024-04-09 00:28:00 UTC)
 - Hellmire is liberated (2024-04-09 05:10:00 UTC)
 - Nivel 43 liberation campaign starts (2024-04-09 05:10:00 UTC)
 
@@ -492,6 +523,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Martale - Charon Prime supply line is added (2024-04-09 12:15:00 UTC)
 - Charon Prime - Charbal-VII supply line is added (2024-04-09 12:15:00 UTC)
 - Matar Bay - Martale supply line is added (2024-04-09 16:16:00 UTC)
+- Midday (2024-04-10 00:16:00 UTC)
 - Menkent defense is won (2024-04-10 07:14:00 UTC)
 
 ### Day: #62
@@ -504,6 +536,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Matar Bay of the Andromeda sector is attacked by Automatons (2024-04-10 11:50:00 UTC)
 - Menkent of the Hydra sector is attacked by Automatons (2024-04-10 11:50:00 UTC)
 - Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-10 11:50:00 UTC)
+- Midday (2024-04-10 12:50:00 UTC)
+- Midday (2024-04-11 00:50:00 UTC)
 - Vernen Wells defense is won (2024-04-11 06:11:00 UTC)
 
 ### Day: #63
@@ -516,6 +550,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Martale of the Andromeda sector is attacked by Automatons (2024-04-11 11:52:00 UTC)
 - Marfark of the Andromeda sector is attacked by Automatons (2024-04-11 11:52:00 UTC)
 - Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-11 11:53:00 UTC)
+- Midday (2024-04-11 12:53:00 UTC)
+- Midday (2024-04-12 00:53:00 UTC)
 
 ### Day: #64
 - Vernen Wells defense is won (2024-04-12 10:22:00 UTC)
@@ -528,6 +564,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Matar Bay liberation campaign ends (2024-04-12 11:52:00 UTC)
 - Major Order | Operation Courageous Defense is failed | Objective: Defend (2024-04-12 11:59:00 UTC)
 - Major Order | Operation Menkent Line is issued | Objective: Control (2024-04-12 12:00:00 UTC)
+- Midday (2024-04-13 00:00:00 UTC)
 
 ### Day: #65
 - Crimsica defense is failed (2024-04-13 10:33:00 UTC)
@@ -536,6 +573,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Mirin sector is fully under Terminid control (2024-04-13 10:35:00 UTC)
 - Hellmire liberation campaign starts (2024-04-13 10:35:00 UTC)
 - Nivel 43 liberation campaign ends (2024-04-13 10:35:00 UTC)
+- Midday (2024-04-13 12:35:00 UTC)
+- Midday (2024-04-14 00:35:00 UTC)
 - Fori Prime is liberated (2024-04-14 04:57:00 UTC)
 - Oshaune liberation campaign starts (2024-04-14 04:57:00 UTC)
 - Menkent is liberated (2024-04-14 05:17:00 UTC)
@@ -553,9 +592,11 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #67
 - Crimsica is liberated (2024-04-15 13:24:00 UTC)
 - Draco sector is fully liberated (2024-04-15 13:24:00 UTC)
+- Midday (2024-04-16 00:24:00 UTC)
 
 ### Day: #68
 - Major Order | Operation Menkent Line is won | Objective: Control (2024-04-16 12:09:00 UTC)
+- Midday (2024-04-17 00:09:00 UTC)
 - Major Order | Operation Marfark defense is issued | Objective: Control (2024-04-17 03:17:00 UTC)
 - Fori Prime defense is failed (2024-04-17 07:58:00 UTC)
 - Fori Prime liberation campaign starts (2024-04-17 07:58:00 UTC)
@@ -564,6 +605,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Matar Bay liberation campaign starts (2024-04-17 08:47:00 UTC)
 
 ### Day: #69
+- Midday (2024-04-17 12:00:00 UTC)
+- Midday (2024-04-18 00:00:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-04-18 07:37:00 UTC)
 - Major Order | Operation Marfark Defense is won | Objective: Control (2024-04-18 07:51:00 UTC)
 - Matar Bay - Meissa supply line is added (2024-04-18 07:54:00 UTC)
@@ -590,6 +633,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Lesath of the Lacaille sector is attacked by Automatons (2024-04-19 15:08:00 UTC)
 - Charon Prime of the Andromeda sector is attacked by Automatons (2024-04-19 15:09:00 UTC)
 - Marfark of the Andromeda sector is attacked by Automatons (2024-04-19 15:10:00 UTC)
+- Midday (2024-04-20 00:10:00 UTC)
 - Estanu defense is won (2024-04-20 07:38:00 UTC)
 
 ### Day: #72
@@ -598,6 +642,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Choepessa IV - Charon Prime supply line is added (2024-04-20 10:41:00 UTC)
 - Choepessa IV - Charbal-VII supply line is added (2024-04-20 10:41:00 UTC)
 - Mort - Charbal-VII supply line is added (2024-04-20 10:41:00 UTC)
+- Midday (2024-04-20 12:41:00 UTC)
+- Midday (2024-04-21 00:41:00 UTC)
 - Oshaune defense is failed (2024-04-21 03:08:00 UTC)
 - Mirin sector is fully under Terminid control (2024-04-21 03:08:00 UTC)
 - Oshaune liberation campaign starts (2024-04-21 03:08:00 UTC)
@@ -616,6 +662,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Meissa of the Ymir sector is attacked by Automatons (2024-04-21 03:13:00 UTC)
 
 ### Day: #73
+- Midday (2024-04-21 12:00:00 UTC)
+- Midday (2024-04-22 00:00:00 UTC)
 
 ### Day: #74
 - Estanu defense is won (2024-04-22 11:58:00 UTC)
@@ -655,6 +703,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #76
 - Mort defense is won (2024-04-24 11:14:00 UTC)
+- Xzar sector is fully liberated (2024-04-24 11:14:00 UTC)
 - Varylia 5 of the Trigon sector is attacked by Automatons (2024-04-24 11:28:00 UTC)
 - Oshaune of the Mirin sector is attacked by Terminids (2024-04-24 11:30:00 UTC)
 - Estanu defense is won (2024-04-24 11:59:00 UTC)
@@ -671,21 +720,25 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Ustotu defense is won (2024-04-25 12:46:00 UTC)
 - Major Order | Operation Enduring Bulwark is won | Objective: Defend (2024-04-25 13:43:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-04-25 19:26:00 UTC)
+- Midday (2024-04-26 00:26:00 UTC)
 
 ### Day: #78
 - Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06:00 UTC)
 - Estanu defense is won (2024-04-26 12:12:00 UTC)
+- Midday (2024-04-27 00:12:00 UTC)
 - Lesath is liberated (2024-04-27 08:45:00 UTC)
 - Chort Bay liberation campaign starts (2024-04-27 08:45:00 UTC)
 - Penta liberation campaign starts (2024-04-27 08:45:00 UTC)
 
 ### Day: #79
 - Oshaune of the Mirin sector is attacked by Terminids (2024-04-27 19:51:00 UTC)
+- Midday (2024-04-28 00:51:00 UTC)
 
 # Day: #80
 - Penta is liberated (2024-04-28 09:49:00 UTC)
 - Merak liberation campaign starts (2024-04-28 09:49:00 UTC)
 - Oshaune defense is won (2024-04-28 18:38:00 UTC)
+- Midday (2024-04-29 00:38:00 UTC)
 
 ### Day: #81
 - Major Order | Operation Legitimate Undertaking Phase One is failed | Objective: Liberate (2024-04-29 12:21:00 UTC)
@@ -705,11 +758,13 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Major Order | Operation Umlaut Firebreak is issued | Objective: Liberate (2024-04-29 14:24:00 UTC)
 - Emergency Dispatch | TCS Failure Emergency defense is issued (2024-04-29 14:28:00 UTC)
 - Crimsica of the Draco sector is attacked by Terminids (2024-04-29 14:31:00 UTC)
+- Midday (2024-04-30 00:31:00 UTC)
 
 ### Day: #82
 - Crimsica defense is failed (2024-04-30 14:33:00 UTC)
 - Crimsica liberation campaign starts (2024-04-30 14:33:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-04-30 14:38:00 UTC)
+- Midday (2024-05-01 00:38:00 UTC)
 
 ### Day: #83
 - Fenrir III is liberated (2024-05-01 13:12:00 UTC)
@@ -717,6 +772,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Estanu liberation campaign starts (2024-05-01 14:40:00 UTC)
 - Oshaune of the Mirin sector is attacked by Terminids (2024-05-01 18:47:00 UTC)
 - Meridia of the Umlaut sector's supply lines are obliterated (2024-05-01 19:40:00 UTC)
+- Midday (2024-05-02 00:40:00 UTC)
 - Penta of the Lacaille sector is attacked by Automatons (2024-05-02 07:57:00 UTC)
 
 ### Day: #84
@@ -724,6 +780,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Mirin sector is fully under Terminid control (2024-05-02 18:50:00 UTC)
 - Oshaune liberation campaign starts (2024-05-02 18:50:00 UTC)
 - Omicron liberation campaign ends (2024-05-02 18:50:00 UTC)
+- Midday (2024-05-03 00:50:00 UTC)
 - Penta defense is failed (2024-05-03 08:00:00 UTC)
 - Penta liberation campaign starts (2024-05-03 08:00:00 UTC)
 - Merak liberation campaign ends (2024-05-03 08:00:00 UTC)
@@ -736,6 +793,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #85
 - Turing is liberated (2024-05-03 10:56:00 UTC)
 - Fori Prime of the Draco sector is attacked by Terminids (2024-05-03 13:31:00 UTC)
+- Midday (2024-05-04 00:31:00 UTC)
 
 ### Day: #86
 - Fori Prime defense is failed (2024-05-04 13:33:00 UTC)
@@ -743,11 +801,14 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Oshaune liberation campaign ends (2024-05-04 13:33:00 UTC)
 - Estanu liberation campaign ends (2024-05-04 13:33:00 UTC)
 - Crimsica liberation campaign ends (2024-05-04 13:33:00 UTC)
+- Midday (2024-05-05 00:33:00 UTC)
 - Erata Prime is liberated (2024-05-05 07:06:00 UTC)
 - Lesath of the Lacaille sector is attacked by Automatons (2024-05-05 08:11:00 UTC)
 - Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-05 08:36:00 UTC)
 
 ### Day: #87
+- Midday (2024-05-05 12:00:00 UTC)
+- Midday (2024-05-06 00:00:00 UTC)
 - Lesath defense is won (2024-05-06 07:51:00 UTC)
 
 ### Day: #88
@@ -767,11 +828,13 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49:00 UTC)
 - Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-05-06 13:50:00 UTC)
 - Turing - Acamar IV supply line is added (2024-05-06 20:46:00 UTC)
+- Midday (2024-05-07 00:46:00 UTC)
 
 ### Day: #89
 - Pandion-XXIV defense is failed (2024-05-07 13:54:00 UTC)
 - Pandion-XXIV liberation campaign starts (2024-05-07 13:54:00 UTC)
 - Heeth is liberated (2024-05-07 20:53:00 UTC)
+- Midday (2024-05-08 00:53:00 UTC)
 
 # Day: #90
 - Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-08 15:15:00 UTC)
@@ -805,9 +868,11 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Angel's Venture of the Orion sector is attacked by Terminids (2024-05-11 19:02:00 UTC)
 - Acamar IV is liberated (2024-05-11 20:34:00 UTC)
 - Pandion-XXIV liberation campaign starts (2024-05-11 20:34:00 UTC)
+- Midday (2024-05-12 00:34:00 UTC)
 
 ### Day: #94
 - Angel's Venture defense is won (2024-05-12 15:09:00 UTC)
+- Orion sector is fully liberated (2024-05-12 15:09:00 UTC)
 - Wasat defense is failed (2024-05-12 19:03:00 UTC)
 - Wasat liberation campaign starts (2024-05-12 19:03:00 UTC)
 - Meissa liberation campaign ends (2024-05-12 19:03:00 UTC)
@@ -817,10 +882,13 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #95
 - Vernen Wells of the Hydra sector is attacked by Automatons (2024-05-13 11:47:00 UTC)
+- Midday (2024-05-13 12:47:00 UTC)
+- Midday (2024-05-14 00:47:00 UTC)
 - Vernen Wells defense is won (2024-05-14 05:18:00 UTC)
 
 ### Day: #96
 - Lesath of the Lacaille sector is attacked by Automatons (2024-05-14 12:13:00 UTC)
+- Midday (2024-05-15 00:13:00 UTC)
 - Lesath defense is won (2024-05-15 05:27:00 UTC)
 
 ### Day: #97
@@ -830,6 +898,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Angel's Venture of the Orion sector instantly flips to Terminid control (2024-05-15 15:12:00 UTC)
 - Angel's Venture liberation campaign starts (2024-05-15 15:12:00 UTC)
 - Erata Prime of the Umlaut sector is attacked by Terminids (2024-05-15 15:13:00 UTC)
+- Midday (2024-05-16 00:13:00 UTC)
 - Fenrir III of the Umlaut sector instantly flips to Terminid control (2024-05-16 07:55:00 UTC)
 - Fenrir III liberation campaign starts (2024-05-16 07:55:00 UTC)
 
@@ -844,10 +913,13 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Fenrir III is liberated (2024-05-16 16:18:00 UTC)
 - Hellmire liberation campaign starts (2024-05-16 16:18:00 UTC)
 - Heeth of the Orion sector is attacked by Terminids (2024-05-16 18:35:00 UTC)
+- Midday (2024-05-17 00:35:00 UTC)
 
 ### Day: #99
 - Heeth defense is won (2024-05-17 19:17:00 UTC)
+- Orion sector is fully liberated (2024-05-17 19:17:00 UTC)
 - Aesir Pass defense is won (2024-05-17 20:57:00 UTC)
+- Midday (2024-05-18 00:57:00 UTC)
 
 # Day: #100
 - Acamar IV of the Jin Xi sector is attacked by Terminids (2024-05-18 10:44:00 UTC)
@@ -866,6 +938,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Chort Bay liberation campaign ends (2024-05-19 12:04:00 UTC)
 - Penta liberation campaign ends (2024-05-19 12:04:00 UTC)
 - Angel's Venture defense is won (2024-05-19 21:59:00 UTC)
+- Orion sector is fully liberated (2024-05-19 21:59:00 UTC)
 - Fenrir III defense is won (2024-05-20 05:58:00 UTC)
 - Vernen Wells of the Hydra sector is attacked by Automatons (2024-05-20 06:44:00 UTC)
 - Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-20 06:44:00 UTC)
@@ -873,6 +946,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #102
 - Fenrir III defense is won (2024-05-20 17:00:00 UTC)
+- Midday (2024-05-21 00:00:00 UTC)
 - Vernen Wells defense is failed (2024-05-21 06:46:00 UTC)
 - Vernen Wells liberation campaign starts (2024-05-21 06:46:00 UTC)
 - Menkent liberation campaign ends (2024-05-21 06:46:00 UTC)
@@ -882,9 +956,11 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #103
 - Turing of the Umlaut sector is attacked by Terminids (2024-05-21 09:20:00 UTC)
+- Midday (2024-05-21 12:20:00 UTC)
 - Turing defense is won (2024-05-21 23:30:00 UTC)
 
 ### Day: #104
+- Midday (2024-05-22 12:00:00 UTC)
 - Pandion-XXIV is liberated (2024-05-22 22:29:00 UTC)
 
 ### Day: #105
@@ -892,6 +968,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Wezen of the Ymir sector is attacked by Automatons (2024-05-23 11:16:00 UTC)
 - Major Order | Operation Freedom's Calling is failed | Objective: Eradicate (2024-05-23 15:42:00 UTC)
 - Major Order | Operation Yellow Steel is issued | Objective: Liberate (2024-05-23 15:51:00 UTC)
+- Midday (2024-05-24 00:51:00 UTC)
 
 ### Day: #106
 - Erata Prime defense is failed (2024-05-24 11:19:00 UTC)
@@ -901,9 +978,12 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Angel's Venture of the Orion sector is attacked by Terminids (2024-05-24 19:29:00 UTC)
 - Turing of the Umlaut sector instantly flips to Terminid control (2024-05-24 19:32:00 UTC)
 - Turing liberation campaign starts (2024-05-24 19:32:00 UTC)
+- Midday (2024-05-25 00:32:00 UTC)
 
 ### Day: #107
 - Angel's Venture defense is won (2024-05-25 16:58:00 UTC)
+- Orion sector is fully liberated (2024-05-25 16:58:00 UTC)
+- Midday (2024-05-26 00:58:00 UTC)
 - Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-26 06:23:00 UTC)
 
 ### Day: #108
@@ -914,13 +994,16 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Umlaut sector is fully under Terminid control (2024-05-26 18:26:00 UTC)
 - Fenrir III liberation campaign starts (2024-05-26 18:26:00 UTC)
 - Hellmire liberation campaign ends (2024-05-26 18:26:00 UTC)
+- Midday (2024-05-27 00:26:00 UTC)
 - Heeth defense is won (2024-05-27 06:40:00 UTC)
+- Orion sector is fully liberated (2024-05-27 06:40:00 UTC)
 
 ### Day: #109
 - Major Order | Operation Enduring Peace Phase One is issued | Objective: Control (2024-05-27 15:14:00 UTC)
 - Acamar IV of the Jin Xi sector is attacked by Terminids (2024-05-27 15:57:00 UTC)
 - Fenrir III is liberated (2024-05-27 17:16:00 UTC)
 - Hellmire liberation campaign starts (2024-05-27 17:16:00 UTC)
+- Midday (2024-05-28 00:16:00 UTC)
 
 # Day: #110
 - Veld of the Orion sector is attacked by Terminids (2024-05-28 09:58:00 UTC)
@@ -933,7 +1016,9 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #111
 - Cirrus defense is failed (2024-05-29 10:02:00 UTC)
 - Cirrus liberation campaign starts (2024-05-29 10:02:00 UTC)
+- Midday (2024-05-29 12:02:00 UTC)
 - Cirrus is liberated (2024-05-29 23:35:00 UTC)
+- Orion sector is fully liberated (2024-05-29 23:35:00 UTC)
 - Acamar IV is liberated (2024-05-30 05:22:00 UTC)
 - Heeth of the Orion sector is attacked by Terminids (2024-05-30 08:02:00 UTC)
 
@@ -947,12 +1032,16 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Meridia liberation campaign starts (2024-05-30 15:35:00 UTC)
 - Major Order | Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36:00 UTC)
 - Heeth defense is won (2024-05-30 22:04:00 UTC)
+- Orion sector is fully liberated (2024-05-30 22:04:00 UTC)
 
 ### Day: #113
+- Midday (2024-05-31 12:00:00 UTC)
+- Midday (2024-06-01 00:00:00 UTC)
 
 ### Day: #114
 - Turing of the Umlaut sector is attacked by Terminids (2024-06-01 15:19:00 UTC)
 - Acamar IV of the Jin Xi sector is attacked by Terminids (2024-06-01 15:19:00 UTC)
+- Midday (2024-06-02 00:19:00 UTC)
 
 ### Day: #115
 - Fenrir III of the Umlaut sector is attacked by Terminids (2024-06-02 09:52:00 UTC)
@@ -966,6 +1055,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Crimsica liberation campaign starts (2024-06-02 19:13:00 UTC)
 - Fenrir III defense is auto-won via gambit (2024-06-02 19:16:00 UTC)
 - Vega Bay of the Ymir sector is attacked by Automatons (2024-06-02 19:37:00 UTC)
+- Midday (2024-06-03 00:37:00 UTC)
 
 ### Day: #116
 - Major Order | Operation Destiny Manifested is issued | Objective: Liberate (2024-06-03 18:46:00 UTC)
@@ -974,11 +1064,14 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Turing is liberated (2024-06-04 02:51:00 UTC)
 
 ### Day: #117
+- Midday (2024-06-04 12:00:00 UTC)
+- Midday (2024-06-05 00:00:00 UTC)
 
 ### Day: #118
 - Erata Prime is liberated (2024-06-05 11:48:00 UTC)
 - Umlaut sector is fully liberated (2024-06-05 11:48:00 UTC)
 - Aesir Pass of the Hydra sector is attacked by Automatons (2024-06-05 15:40:00 UTC)
+- Midday (2024-06-06 00:40:00 UTC)
 
 ### Day: #119
 - Acamar IV is liberated (2024-06-06 13:27:00 UTC)
@@ -1000,8 +1093,11 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 # Day: #120
 - Major Order | Operation Destiny Manifested is won | Objective: Liberate (2024-06-07 11:15:00 UTC)
 - Major Order | Operation Valiant Resistance is issued | Objective: Liberate (2024-06-07 11:20:00 UTC)
+- Midday (2024-06-07 12:20:00 UTC)
+- Midday (2024-06-08 00:20:00 UTC)
 
 ### Day: #121
+- Midday (2024-06-08 12:00:00 UTC)
 - Wezen is liberated (2024-06-08 22:28:00 UTC)
 - Vega Bay liberation campaign starts (2024-06-08 22:28:00 UTC)
 
@@ -1019,8 +1115,10 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #124
 - Major Order | Operation Trolley Problem is issued | Objective: Liberate (2024-06-11 13:57:00 UTC)
+- Midday (2024-06-12 00:57:00 UTC)
 
 ### Day: #125
+- Midday (2024-06-12 12:00:00 UTC)
 - Aesir Pass is liberated (2024-06-12 21:03:00 UTC)
 - Marfark liberation campaign starts (2024-06-12 21:03:00 UTC)
 - Vernen Wells liberation campaign starts (2024-06-12 21:03:00 UTC)
@@ -1056,21 +1154,29 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - X-45 - Vega Bay supply line is added (2024-06-13 11:37:00 UTC)
 - X-45 - Wasat supply line is added (2024-06-13 11:37:00 UTC)
 - X-45 - Meissa supply line is added (2024-06-13 11:37:00 UTC)
+- Midday (2024-06-13 12:37:00 UTC)
+- Midday (2024-06-14 00:37:00 UTC)
 
 ### Day: #127
 - Vernen Wells is liberated (2024-06-14 13:52:00 UTC)
 - Menkent liberation campaign starts (2024-06-14 13:52:00 UTC)
 - Lesath liberation campaign starts (2024-06-14 13:52:00 UTC)
+- Midday (2024-06-15 00:52:00 UTC)
 
 ### Day: #128
 - Major Order | Operation Trolley Problem is failed | Objective: Liberate (2024-06-15 14:12:00 UTC)
 - Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15 15:55:00 UTC)
+- Midday (2024-06-16 00:55:00 UTC)
 
 ### Day: #129
+- Midday (2024-06-16 12:00:00 UTC)
+- Midday (2024-06-17 00:00:00 UTC)
 - Crimsica is liberated (2024-06-17 01:12:00 UTC)
 - Fori Prime liberation campaign starts (2024-06-17 01:12:00 UTC)
 
 # Day: #130
+- Midday (2024-06-17 12:00:00 UTC)
+- Midday (2024-06-18 00:00:00 UTC)
 - Estanu is liberated (2024-06-18 00:32:00 UTC)
 
 ### Day: #131
@@ -1084,6 +1190,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Nivel 43 is not accessible despite connecting to the liberated world of Esker (2024-06-18 20:19:00 UTC)
 - Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-06-18 20:19:00 UTC)
 - Esker of the Falstaff sector is attacked by Terminids (2024-06-18 20:20:00 UTC)
+- Midday (2024-06-19 00:20:00 UTC)
 
 ### Day: #132
 - Fori Prime of the Draco sector is attacked by Terminids (2024-06-19 13:21:00 UTC)
@@ -1100,6 +1207,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Crimsica - Acamar IV supply line is added (2024-06-20 15:08:00 UTC)
 - Gacrux - Fori Prime supply line is added (2024-06-20 15:08:00 UTC)
 - Gacrux of the Jin Xi sector is attacked by Terminids (2024-06-20 15:08:00 UTC)
+- Midday (2024-06-21 00:08:00 UTC)
 
 ### Day: #134
 - Mort defense is failed (2024-06-21 13:28:00 UTC)
@@ -1135,16 +1243,19 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #136
 - Ingmar of the Xzar sector is attacked by Automatons (2024-06-23 09:53:00 UTC)
 - Ingmar defense is won (2024-06-23 20:29:00 UTC)
+- Xzar sector is fully liberated (2024-06-23 20:29:00 UTC)
 - Phact Bay of the Jin Xi sector is attacked by Terminids (2024-06-23 21:56:00 UTC)
 - Mantes - Vandalon IV supply line is added (2024-06-23 21:58:00 UTC)
 - Mantes of the Xzar sector is attacked by Automatons (2024-06-23 21:58:00 UTC)
 - Mantes defense is won (2024-06-24 07:38:00 UTC)
+- Xzar sector is fully liberated (2024-06-24 07:38:00 UTC)
 
 ### Day: #137
 - Varylia 5 of the Trigon sector is attacked by Automatons (2024-06-24 09:04:00 UTC)
 - Ingmar of the Xzar sector is attacked by Automatons (2024-06-24 09:24:00 UTC)
 - Troost of the Trigon sector is attacked by Automatons (2024-06-24 09:24:00 UTC)
 - Ingmar defense is won (2024-06-24 18:14:00 UTC)
+- Xzar sector is fully liberated (2024-06-24 18:14:00 UTC)
 - Phact Bay defense is failed (2024-06-24 22:00:00 UTC)
 - Phact Bay liberation campaign starts (2024-06-24 22:00:00 UTC)
 - Mort of the Xzar sector is attacked by Automatons (2024-06-25 07:55:00 UTC)
@@ -1156,6 +1267,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Choepessa IV liberation campaign ends (2024-06-25 09:00:00 UTC)
 - Gar Haren of the Jin Xi sector's supply lines are obliterated (2024-06-25 14:04:00 UTC)
 - Mort defense is won (2024-06-25 14:41:00 UTC)
+- Xzar sector is fully liberated (2024-06-25 14:41:00 UTC)
 - Troost defense is failed (2024-06-25 21:28:00 UTC)
 - Trigon sector is fully under Automaton control (2024-06-25 21:28:00 UTC)
 - Ustotu liberation campaign ends (2024-06-25 21:28:00 UTC)
@@ -1169,6 +1281,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Fori Prime of the Draco sector is attacked by Terminids (2024-06-26 11:06:00 UTC)
 - Acamar IV of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06:00 UTC)
 - Bore Rock of the Falstaff sector is attacked by Terminids (2024-06-26 11:06:00 UTC)
+- Midday (2024-06-26 12:06:00 UTC)
 - Bore Rock defense is won (2024-06-26 23:28:00 UTC)
 - Acamar IV defense is won (2024-06-27 02:06:00 UTC)
 - Fori Prime defense is failed (2024-06-27 08:07:00 UTC)
@@ -1176,6 +1289,8 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Oshaune liberation campaign ends (2024-06-27 08:07:00 UTC)
 
 # Day: #140
+- Midday (2024-06-27 12:00:00 UTC)
+- Midday (2024-06-28 00:00:00 UTC)
 - Phact Bay is liberated (2024-06-28 08:36:00 UTC)
 
 ### Day: #141
@@ -1201,10 +1316,14 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Phact Bay defense is won (2024-07-01 01:02:00 UTC)
 
 ### Day: #144
+- Midday (2024-07-01 12:00:00 UTC)
+- Midday (2024-07-02 00:00:00 UTC)
 - Esker is liberated (2024-07-02 03:20:00 UTC)
 - Erson Sands liberation campaign starts (2024-07-02 03:20:00 UTC)
 
 ### Day: #145
+- Midday (2024-07-02 12:00:00 UTC)
+- Midday (2024-07-03 00:00:00 UTC)
 - Erson Sands is liberated (2024-07-03 03:28:00 UTC)
 - Falstaff sector is fully liberated (2024-07-03 03:28:00 UTC)
 
@@ -1214,6 +1333,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - X-45 of the Ymir sector is attacked by Automatons (2024-07-03 11:45:00 UTC)
 - Wezen of the Ymir sector is attacked by Automatons (2024-07-03 11:45:00 UTC)
 - X-45 defense is won (2024-07-03 17:44:00 UTC)
+- Midday (2024-07-04 00:44:00 UTC)
 
 ### Day: #147
 - Wezen defense is failed (2024-07-04 11:49:00 UTC)
@@ -1259,6 +1379,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #152
 - Major Order | Operation Starslayer is won | Objective: Control (2024-07-09 12:08:00 UTC)
+- Midday (2024-07-10 00:08:00 UTC)
 
 ### Day: #153
 - Major Order | Operation Workday is issued | Objective: Eradicate (2024-07-10 13:03:00 UTC)
@@ -1269,9 +1390,12 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 ### Day: #154
 - Hellmire defense is won (2024-07-11 12:40:00 UTC)
 - Major Order | Operation Winged Helldivers is issued | Objective: Liberate (2024-07-11 19:38:00 UTC)
+- Midday (2024-07-12 00:38:00 UTC)
 - Estanu of the Draco sector is attacked by Terminids (2024-07-12 07:53:00 UTC)
 
 ### Day: #155
+- Midday (2024-07-12 12:00:00 UTC)
+- Midday (2024-07-13 00:00:00 UTC)
 - Estanu defense is failed (2024-07-13 07:57:00 UTC)
 - Draco sector is fully under Terminid control (2024-07-13 07:57:00 UTC)
 - Estanu liberation campaign starts (2024-07-13 07:57:00 UTC)
@@ -1283,6 +1407,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Aesir Pass is liberated (2024-07-13 14:40:00 UTC)
 - Marfark liberation campaign starts (2024-07-13 14:40:00 UTC)
 - Vernen Wells liberation campaign starts (2024-07-13 14:40:00 UTC)
+- Midday (2024-07-14 00:40:00 UTC)
 
 ### Day: #157
 - Hellmire defense is failed (2024-07-14 14:06:00 UTC)
@@ -1294,16 +1419,23 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Matar Bay is liberated (2024-07-14 19:55:00 UTC)
 - Martale liberation campaign starts (2024-07-14 19:55:00 UTC)
 - Choohe liberation campaign starts (2024-07-14 19:55:00 UTC)
+- Midday (2024-07-15 00:55:00 UTC)
 
 ### Day: #158
+- Midday (2024-07-15 12:00:00 UTC)
+- Midday (2024-07-16 00:00:00 UTC)
 
 ### Day: #159
 - Marfark is liberated (2024-07-16 09:18:00 UTC)
+- Midday (2024-07-16 12:18:00 UTC)
+- Midday (2024-07-17 00:18:00 UTC)
 
 # Day: #160
 - Martale is liberated (2024-07-17 11:14:00 UTC)
 - Major Order | Operation Winged Helldivers is won | Objective: Liberate (2024-07-17 11:14:00 UTC)
 - Charon Prime liberation campaign starts (2024-07-17 11:14:00 UTC)
+- Midday (2024-07-17 12:14:00 UTC)
+- Midday (2024-07-18 00:14:00 UTC)
 
 ### Day: #161
 - Major Order | Operation Righteous Expunge is issued | Objective: Liberate (2024-07-18 14:15:00 UTC)
@@ -1313,10 +1445,13 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #162
 - Matar Bay defense is won (2024-07-19 20:19:00 UTC)
+- Midday (2024-07-20 00:19:00 UTC)
 - Aesir Pass of the Hydra sector is attacked by Automatons (2024-07-20 08:25:00 UTC)
 - Acamar IV of the Jin Xi sector is attacked by Terminids (2024-07-20 08:26:00 UTC)
 
 ### Day: #163
+- Midday (2024-07-20 12:00:00 UTC)
+- Midday (2024-07-21 00:00:00 UTC)
 - Charbal-VII is liberated (2024-07-21 01:54:00 UTC)
 - Andromeda sector is fully liberated (2024-07-21 01:54:00 UTC)
 - Aesir Pass defense is failed (2024-07-21 08:29:00 UTC)
@@ -1333,15 +1468,19 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 - Major Order | Operation Righteous Expunge is won | Objective: Liberate (2024-07-21 14:03:00 UTC)
 - Wasat of the Ymir sector is attacked by Automatons (2024-07-21 18:14:00 UTC)
 - Turing of the Umlaut sector is attacked by Terminids (2024-07-21 18:22:00 UTC)
+- Midday (2024-07-22 00:22:00 UTC)
 - Turing defense is won (2024-07-22 08:08:00 UTC)
 
 ### Day: #165
 - Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024-07-22 15:33:00 UTC)
 - Wasat defense is failed (2024-07-22 18:20:00 UTC)
 - Wasat liberation campaign starts (2024-07-22 18:20:00 UTC)
+- Midday (2024-07-23 00:20:00 UTC)
 - Acamar IV is liberated (2024-07-23 07:47:00 UTC)
 
 ### Day: #166
+- Midday (2024-07-23 12:00:00 UTC)
+- Midday (2024-07-24 00:00:00 UTC)
 
 ### Day: #167
 - Bore Rock of the Falstaff sector is attacked by Terminids (2024-07-24 19:40:00 UTC)
@@ -1362,3 +1501,12 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 ### Day: #169
 - Major Order | Operation Glorious Xenocide is won | Objective: Eradicate (2024-07-26 20:30:00 UTC)
+- Midday (2024-07-27 00:30:00 UTC)
+
+# Day: #170
+- Major Order | Operation Eagle Protector is issued | Objective: Liberate (2024-07-27 16:59:00 UTC)
+- Choepessa IV is liberated (2024-07-27 23:20:00 UTC)
+- Varylia 5 liberation campaign starts (2024-07-27 23:20:00 UTC)
+- Ustotu liberation campaign starts (2024-07-27 23:20:00 UTC)
+
+### Day: #171
