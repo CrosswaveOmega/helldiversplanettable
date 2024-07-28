@@ -80,7 +80,7 @@ function list_planets(planets){
 const eventSlider = Inputs.range([0, historydata.events.length - 1], { step: 1, label: "Event Slider", value: 0 });
 
 // Days Slider
-const daysSlider = Inputs.range([1, historydata.lastday], { step: 1, label: "Days Slider", value: 1 });
+const daysSlider = Inputs.range([1, historydata.lastday], { step: 1, label: "Days Slider", value: 1, width:'100%' });
 
 
 let mutableEventIndex = Mutable(1);
