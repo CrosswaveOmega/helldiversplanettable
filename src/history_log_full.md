@@ -1542,3 +1542,12 @@ Midday Status (2024-07-31 03:20)
 
 ### Day: #175
 Varylia 5 is liberated (2024-07-31 16:13)
+Midday Status (2024-07-31 18:13)
+Midday Status (2024-08-01 03:13)
+
+### Day: #176
+Midday Status (2024-08-01 18:00)
+Ustotu is liberated (2024-08-02 01:22)
+↳ Troost liberation campaign starts (2024-08-02 01:22)
+
+### Day: #177
