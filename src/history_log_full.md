@@ -1537,8 +1537,11 @@ Midday Status (2024-07-30 03:56)
 
 ### Day: #174
 X-45 of the Ymir sector is attacked by Automatons (2024-07-30 11:20)
-Midday Status (2024-07-30 18:20)
-Midday Status (2024-07-31 03:20)
+Vega Bay is liberated (2024-07-30 14:16)
+↳ X-45 defense is auto-won via gambit (2024-07-30 14:16)
+↳ Wezen liberation campaign starts (2024-07-30 14:16)
+Midday Status (2024-07-30 18:16)
+Midday Status (2024-07-31 03:16)
 
 ### Day: #175
 Varylia 5 is liberated (2024-07-31 16:13)
@@ -1551,3 +1554,10 @@ Ustotu is liberated (2024-08-02 01:22)
 ↳ Troost liberation campaign starts (2024-08-02 01:22)
 
 ### Day: #177
+Major Order | Operation Eagle Protector is failed | Objective: Liberate (2024-08-02 17:23)
+Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (2024-08-02 17:24)
+Midday Status (2024-08-02 18:24)
+Midday Status (2024-08-03 03:24)
+
+### Day: #178
+Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51)
