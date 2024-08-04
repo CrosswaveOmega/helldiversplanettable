@@ -230,7 +230,7 @@ export function makeplot(
   }
 
   const waypoints = Object.values(galaxystate).flatMap((x) =>
-    x.link.map((y) => ({ from: x.position, to: galaxystate[y].position })),
+    Array.isArray(x.link) ? x.link.map((y) => ({ from: x.position, to: galaxystate[y].position })) : []
   );
 
   let planets = Object.values(current_event.galaxystate);
