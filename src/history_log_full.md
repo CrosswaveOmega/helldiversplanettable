@@ -1559,6 +1559,8 @@ Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (202
 Midday Status (2024-08-02 18:24)<br/>
 Midday Status (2024-08-03 03:24)<br/>
 
-### Day: #178
+### Day: #179
+
+### Day: #179
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51)<br/>
 Gacrux defense is won (2024-08-03 18:56)<br/>
