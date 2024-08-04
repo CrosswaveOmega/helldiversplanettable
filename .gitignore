@@ -3,6 +3,7 @@
 node_modules/
 yarn-error.log
 .venv/
+env/
 /__pycache__/
 json_planet_statistics.json
 current_api_output.json
