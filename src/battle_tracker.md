@@ -227,7 +227,8 @@ const showEvents = view(Inputs.toggle({label: "Show Events", value: false}));
 
 const entry_sums=sum_entries_by_front(historydata);
 ```
-  
+
+Log of completed battles.
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 ${BattleList(historydata,showEvents,document.getElementById("history"))}
