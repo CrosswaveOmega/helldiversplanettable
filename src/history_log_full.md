@@ -270,7 +270,7 @@ Angel's Venture is liberated (2024-03-11 19:57)<br/>
 Midday Status (2024-03-12 03:57)<br/>
 
 ### Day: #34
-Major Order | Operation TCS Bulwark is issued | Objective: Liberate (2024-03-12 13:46)<br/>
+Major Order | Operation TCS Activation is issued | Objective: Liberate (2024-03-12 13:46)<br/>
 Midday Status (2024-03-12 18:46)<br/>
 Midday Status (2024-03-13 03:46)<br/>
 
@@ -291,7 +291,7 @@ Meridia is liberated (2024-03-15 19:22)<br/>
 ↳ Crimsica liberation campaign starts (2024-03-15 19:22)<br/>
 Erata Prime is liberated (2024-03-16 03:50)<br/>
 ↳ Umlaut sector is fully liberated (2024-03-16 03:50)<br/>
-↳ Major Order | Operation TCS Bulwark is won | Objective: Liberate (2024-03-16 03:50)<br/>
+↳ Major Order | Operation TCS Activation is won | Objective: Liberate (2024-03-16 03:50)<br/>
 
 ### Day: #38
 Midday Status (2024-03-16 18:00)<br/>
@@ -1565,3 +1565,4 @@ Gacrux defense is won (2024-08-03 18:56)<br/>
 Midday Status (2024-08-04 03:56)<br/>
 
 ### Day: #179
+Marfark of the Andromeda sector is attacked by Automatons (2024-08-04 17:30)<br/>
