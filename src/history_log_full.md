@@ -1566,3 +1566,10 @@ Midday Status (2024-08-04 03:56)<br/>
 
 ### Day: #179
 Marfark of the Andromeda sector is attacked by Automatons (2024-08-04 17:30)<br/>
+Estanu is liberated (2024-08-04 23:10)<br/>
+Wezen is liberated (2024-08-05 07:26)<br/>
+↳ Ymir sector is fully liberated (2024-08-05 07:26)<br/>
+Marfark defense is won (2024-08-05 08:37)<br/>
+↳ Andromeda sector is fully liberated (2024-08-05 08:37)<br/>
+
+# Day: #180
