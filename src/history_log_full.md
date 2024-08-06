@@ -1573,3 +1573,13 @@ Marfark defense is won (2024-08-05 08:37)<br/>
 ↳ Andromeda sector is fully liberated (2024-08-05 08:37)<br/>
 
 # Day: #180
+Midday Status (2024-08-05 18:00)<br/>
+Midday Status (2024-08-06 03:00)<br/>
+
+### Day: #181
+Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
+Major Order | Operation Spooky Steve is issued | Objective: Eradicate and Liberate (2024-08-06 14:56)<br/>
+Socorro III of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
+Esker - Socorro III supply line is added (2024-08-06 14:57)<br/>
+Erson Sands - Nivel 43 supply line is added (2024-08-06 14:57)<br/>
+Nivel 43 - Erson Sands supply line is added (2024-08-06 14:57)<br/>
