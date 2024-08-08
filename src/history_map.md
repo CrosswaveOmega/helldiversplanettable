@@ -116,7 +116,6 @@ eventSlider.addEventListener("input", () => {
   daysSlider.addEventListener("input", () => {
     const eventIndex = historydata.events.findIndex(event => event.day.toString() === daysSlider.value.toString());
     if (eventIndex !== -1) {
-      console.log(eventIndex)
       mutableEventIndex.value = eventIndex;
       eventSlider.value=eventIndex;
     }
@@ -196,7 +195,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
     <h1>Day ${historydata.events[count].day}, Event Index ${count}</h1>
     <div id="EventView"></div>
-    <p>${list_text(historydata,count,document.getElementById("EventView"))}</p>
+   
     <p> <strong>Time:</strong> ${historydata.events[count].time} UTC </p>
     <p><strong>Current Major Order:</strong> ${historydata.events[count].mo} </p>
     <strong>Timestamp:${historydata.events[count].timestamp};</strong> 
@@ -204,7 +203,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   </div>
   <div id="Days" class='card big grid-colspan-2'>
   <div id="DAYVIEW"></div>
-  
+
    </div>
 
   <div class='card grid-colspan-2' style="font-size: 1.1em;">
