@@ -32,12 +32,12 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
     const battles = {};
     for (let event of history.events) {
       for (let logEntry of event.log) {
-        console.log(logEntry,event.time);
+        //console.log(logEntry,event.time);
         if (logEntry.planet) {
           for (let planet of logEntry.planet) {
             let pid = planet[1];
             if (!battles[pid]) {
-              battles[pid] = { 'start': null, 'pc': 0, 'lc': 0, 'dc': 0, 'cl':0, 'def':null };
+              battles[pid] = { 'start': null, 'sector':null,'planet':null,'pc': 0, 'lc': 0, 'dc': 0, 'cl':0, 'def':null };
             }
             let sector = 'unknown';
             if (history.galaxystatic[pid.toString()]) {
@@ -71,6 +71,7 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
             if (logEntry.type === "cend") {
               let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, failure)`;
               add_to_entry(planetTypes[sector].planets, planet, battle, null);
+              battles[pid].planet = null;
               planetTypes[sector].loss += 1;
               planetTypes[sector].cend += 1;
               planetTypes[sector].current -=1;
@@ -79,6 +80,9 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
               battles[pid].pc += 1;
               battles[pid].lc += 1;
               battles[pid].start = event.timestamp;
+              battles[pid].planet = planet;
+              battles[pid].sector = sector;
+              
               planetTypes[sector].battles += 1;
               planetTypes[sector].current +=1;
               planetTypes[sector].cstart += 1;
@@ -92,7 +96,9 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
               battles[pid].now =  `${logEntry.text}, ${event.time}`;
               
               battles[pid].start = event.timestamp;
+              battles[pid].planet = planet;
               planetTypes[sector].battles += 1;
+              battles[pid].sector = sector;
               planetTypes[sector].defensestart += 1;
               planetTypes[sector].current +=1;
             }
@@ -100,6 +106,7 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
               let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, victory)`;
               
               add_to_entry(planetTypes[sector].planets, planet, battle, null);
+              battles[pid].planet = null;
               planetTypes[sector].win += 1;
               planetTypes[sector].planetwon += 1;
               planetTypes[sector].current -=1;
@@ -117,6 +124,7 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
                 console.log(pid, 'DEFENSE WON BUT NOT STARTED');
               }
               battles[pid].now = null;
+              battles[pid].planet = null;
               planetTypes[sector].win += 1;
               planetTypes[sector].defensewon += 1;
               planetTypes[sector].current -=1;
@@ -129,6 +137,7 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
                 console.log(pid, 'DEFENSE LOST BUT NOT STARTED');
               }
               battles[pid].now = null;
+              battles[pid].planet = null;
               planetTypes[sector].loss += 1;
               planetTypes[sector].defenselost += 1;
               planetTypes[sector].current -=1;
@@ -137,10 +146,23 @@ export function count_distinct_planet_battles(history, showEvts,sector_data) {
         }
       }
     }
+  let ongoing={};
   for (let [key, value] of Object.entries(battles)) {
     if (value.dc!=value.cl){
       console.log("PLANET ID",key,"IS MISSING A DEFENCE WON/LOST", value.now,value.start)
     }
+        if (value.planet !== null){
+          let planet=value.planet;
+          let battle = `Battle ${value.pc} for ${planet[0]}, ${displayUTCTime(value.start)} onwards (${calculateElapsedTime(value.start, new Date().getTime() / 1000)}, ongoing)`;
+          let sector=value.sector;
+          add_to_entry(planetTypes[value.sector].planets, planet, battle, null);
+          if(!ongoing[sector]){
+          ongoing[value.sector]= {'name': sector, 
+          'front': 'ALL', 
+          'planets': {}}}
+          
+          add_to_entry(ongoing[sector].planets, planet, battle, null);
+        }
   }
-    return planetTypes;
+    return [planetTypes,ongoing];
   }

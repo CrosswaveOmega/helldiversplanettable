@@ -27,20 +27,19 @@ const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = FileAttachment("./data/planets.json").json();
 
 let sector_data = await planets.then(data => make_sector_data(data));
-const planetimages= await FileAttachment("./data/images.json").json();
-const backround = FileAttachment("./data/sectors.svg").url();
 
 const historydata= await FileAttachment("./data/historydata.json").json();
 ```
 ```js
 
+const update_time = "This website was last updated on " + lasttime['update_time'];
 
 
 
 
 
 function sector_battle_table(historydata, mode, {width}) {
-  const countDistinctPlanetsData = count_distinct_planet_battles(historydata,false,sector_data);
+  const countDistinctPlanetsData = count_distinct_planet_battles(historydata,false,sector_data)[0];
   let planets = Object.values(countDistinctPlanetsData);
   
   let columns = [];
@@ -72,7 +71,7 @@ function sector_battle_table(historydata, mode, {width}) {
 function sum_entries_by_front(historydata) {
   const frontSums = {};
   
-  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data);
+  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data)[0];
   for (const sector in planetTypes) {
     const { front, battles, win, loss, current, cstart, cend, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
 
@@ -159,7 +158,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   });
 }
 
-function BattleList(history, showEvt,parentCard) {
+function BattleList(history, showEvt,parentCard,use) {
 
   function createCard(sector, index, current, parentCard) {
     let planets = Object.values(sector.planets);
@@ -201,7 +200,7 @@ function BattleList(history, showEvt,parentCard) {
   }
 
   // Function to create the grid element
-  let distinct_elements = count_distinct_planet_battles(history,showEvt,sector_data);
+  let distinct_elements = count_distinct_planet_battles(history,showEvt,sector_data)[use];
 
   function createGrid(planetdata, parentElement) {
     // Find and clear the 'cont' div
@@ -222,16 +221,34 @@ function BattleList(history, showEvt,parentCard) {
   createGrid(distinct_elements, parentCard);
   return [];
 }
-const showEvents = view(Inputs.toggle({label: "Show Events", value: false}));
-
 
 const entry_sums=sum_entries_by_front(historydata);
 ```
 
-Log of completed battles.
+
+${update_time}
+
+Ongoing Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
-${BattleList(historydata,showEvents,document.getElementById("history"))}
+${BattleList(historydata,false,document.getElementById("history2"),1)}
+  <div id="history2" style="max-height: 500px; overflow-y: auto;">
+
+  </div>
+  </div>
+  </div>
+
+```js
+const showEventsBox = Inputs.toggle({label: "Show Events", value: false});
+
+const showEvents= Generators.input(showEventsBox);
+
+```
+All Battles
+<div class="grid grid-cols-1">
+<div class="card big grid-colspan-2" >
+${showEventsBox}
+${BattleList(historydata,showEvents,document.getElementById("history"),0)}
   <div id="history" style="max-height: 500px; overflow-y: auto;">
 
   </div>

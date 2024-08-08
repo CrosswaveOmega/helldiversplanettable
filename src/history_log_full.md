@@ -150,9 +150,11 @@ Veld is liberated (2024-03-01 20:28)<br/>
 Major Order | Operation Defense of Heeth and Angel's Venture is issued | Objective: Control (2024-03-01 20:30)<br/>
 Fenrir III of the Umlaut sector instantly flips to Terminid control (2024-03-01 21:04)<br/>
 ↳ Fenrir III liberation campaign starts (2024-03-01 21:04)<br/>
+↳ Hellmire liberation campaign is failed (2024-03-01 21:04)<br/>
 Angel's Venture is liberated (2024-03-01 23:41)<br/>
 ↳ Orion sector is fully liberated (2024-03-01 23:41)<br/>
 Fenrir III is liberated (2024-03-02 03:38)<br/>
+↳ Hellmire liberation campaign starts (2024-03-02 03:38)<br/>
 Pöpli IX is liberated (2024-03-02 03:38)<br/>
 
 ### Day: #24
@@ -1079,7 +1081,13 @@ Turing is liberated (2024-06-04 02:51)<br/>
 
 ### Day: #118
 Midday Status (2024-06-04 18:00)<br/>
-Midday Status (2024-06-05 03:00)<br/>
+Tarsh of the Marspira sector's supply lines are obliterated (2024-06-04 23:38)<br/>
+Mastia - Shallus supply line is added (2024-06-04 23:38)<br/>
+Mastia - Shelt supply line is added (2024-06-04 23:38)<br/>
+Shallus - Shelt supply line is added (2024-06-04 23:38)<br/>
+Shelt - Gaellivare supply line is added (2024-06-04 23:38)<br/>
+Shelt - Imber supply line is added (2024-06-04 23:38)<br/>
+Imber - Gaellivare supply line is added (2024-06-04 23:38)<br/>
 
 ### Day: #119
 Erata Prime is liberated (2024-06-05 11:48)<br/>
@@ -1095,13 +1103,8 @@ Aesir Pass defense is failed (2024-06-06 15:43)<br/>
 ↳ Aesir Pass liberation campaign starts (2024-06-06 15:43)<br/>
 ↳ Marfark liberation campaign ends (2024-06-06 15:43)<br/>
 ↳ Vernen Wells liberation campaign ends (2024-06-06 15:43)<br/>
-Tarsh of the Marspira sector's supply lines are obliterated (2024-06-06 23:38)<br/>
-Mastia - Shallus supply line is added (2024-06-06 23:38)<br/>
-Mastia - Shelt supply line is added (2024-06-06 23:38)<br/>
-Shallus - Shelt supply line is added (2024-06-06 23:38)<br/>
-Shelt - Gaellivare supply line is added (2024-06-06 23:38)<br/>
-Shelt - Imber supply line is added (2024-06-06 23:38)<br/>
-Imber - Gaellivare supply line is added (2024-06-06 23:38)<br/>
+Midday Status (2024-06-06 18:43)<br/>
+Midday Status (2024-06-07 03:43)<br/>
 Phact Bay is liberated (2024-06-07 07:15)<br/>
 ↳ Jin Xi sector is fully liberated (2024-06-07 07:15)<br/>
 
@@ -1578,8 +1581,21 @@ Midday Status (2024-08-06 03:00)<br/>
 
 ### Day: #181
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
-Major Order | Operation Spooky Steve is issued | Objective: Eradicate and Liberate (2024-08-06 14:56)<br/>
+Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
 Socorro III of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
 Esker - Socorro III supply line is added (2024-08-06 14:57)<br/>
-Erson Sands - Nivel 43 supply line is added (2024-08-06 14:57)<br/>
+Socorro III - Nivel 43 supply line is added (2024-08-06 14:57)<br/>
 Nivel 43 - Erson Sands supply line is added (2024-08-06 14:57)<br/>
+Nivel 43 is not accessible despite connecting to the liberated world of Erson Sands (2024-08-06 14:57)<br/>
+Midday Status (2024-08-06 18:57)<br/>
+Midday Status (2024-08-07 03:57)<br/>
+
+### Day: #182
+Erson Sands of the Falstaff sector is attacked by Terminids (2024-08-07 10:41)<br/>
+Midday Status (2024-08-07 18:41)<br/>
+Midday Status (2024-08-08 03:41)<br/>
+Socorro III defense is won (2024-08-08 08:51)<br/>
+
+### Day: #183
+Erson Sands defense is failed (2024-08-08 10:45)<br/>
+Erson Sands liberation campaign starts (2024-08-08 10:45)<br/>
