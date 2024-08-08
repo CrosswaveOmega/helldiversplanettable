@@ -204,7 +204,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   </div>
   <div id="Days" class='card big grid-colspan-2'>
   <div id="DAYVIEW"></div>
-  ${eList(historydata,count,document.getElementById("DAYVIEW"))}
+  
    </div>
 
   <div class='card grid-colspan-2' style="font-size: 1.1em;">
