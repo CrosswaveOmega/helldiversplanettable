@@ -309,8 +309,8 @@ Estanu of the Draco sector is attacked by Terminids (2024-03-18 12:11)<br/>
 Draupnir is liberated (2024-03-18 16:11)<br/>
 ↳ Xzar sector is fully liberated (2024-03-18 16:11)<br/>
 ↳ Ubanea liberation campaign starts (2024-03-18 16:11)<br/>
-Midday Status (2024-03-18 18:11)<br/>
-Midday Status (2024-03-19 03:11)<br/>
+Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-03-18 20:19)<br/>
+Midday Status (2024-03-19 03:19)<br/>
 
 ### Day: #41
 Estanu defense is failed (2024-03-19 12:14)<br/>
@@ -1207,7 +1207,6 @@ Erson Sands - Esker supply line is added (2024-06-18 20:19)<br/>
 Nivel 43 - Esker supply line is added (2024-06-18 20:19)<br/>
 Socorro III of the Falstaff sector's supply lines are obliterated (2024-06-18 20:19)<br/>
 Nivel 43 is not accessible despite connecting to the liberated world of Esker (2024-06-18 20:19)<br/>
-Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-06-18 20:19)<br/>
 Esker of the Falstaff sector is attacked by Terminids (2024-06-18 20:20)<br/>
 Midday Status (2024-06-19 03:20)<br/>
 
