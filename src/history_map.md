@@ -109,13 +109,14 @@ const set_day = (day) => {
 // Synchronize counts
 eventSlider.addEventListener("input", () => {
   mutableEventIndex.value = eventSlider.value;
-  daysSlider.value=historydata.events[eventSlider.value].day;
+  //daysSlider.value=historydata.events[eventSlider.value].day;
   //mutableDayValue.value = historydata.events[eventSlider.value].day;
 });
 
   daysSlider.addEventListener("input", () => {
     const eventIndex = historydata.events.findIndex(event => event.day.toString() === daysSlider.value.toString());
     if (eventIndex !== -1) {
+      console.log(eventIndex)
       mutableEventIndex.value = eventIndex;
       eventSlider.value=eventIndex;
     }
@@ -186,8 +187,8 @@ function count_distinct_planets_table(historydata, mode, {width}) {
 
 <div class="grid grid-cols-4" style="grid-auto-rows: auto;">
   <div  class="card grid-colspan-2 grid-rowspan-2">
-  ${theseinputs}
-  ${daysSlider}
+
+  ${eventSlider}
   <strong>${historydata.events[count].time}</strong><br>
     ${resize((width) => makeplot(historydata,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
   </div>
@@ -195,7 +196,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
     <h1>Day ${historydata.events[count].day}, Event Index ${count}</h1>
     <div id="EventView"></div>
-   
+    <p>${list_text(historydata,count,document.getElementById("EventView"))}</p>
     <p> <strong>Time:</strong> ${historydata.events[count].time} UTC </p>
     <p><strong>Current Major Order:</strong> ${historydata.events[count].mo} </p>
     <strong>Timestamp:${historydata.events[count].timestamp};</strong> 
@@ -203,7 +204,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   </div>
   <div id="Days" class='card big grid-colspan-2'>
   <div id="DAYVIEW"></div>
-
+  ${eList(historydata,count,document.getElementById("DAYVIEW"))}
    </div>
 
   <div class='card grid-colspan-2' style="font-size: 1.1em;">
