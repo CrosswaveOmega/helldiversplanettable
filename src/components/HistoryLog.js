@@ -237,7 +237,10 @@ export function makeplot(
   console.log(planets);
   let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
   let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
-
+  
+  eList(history,slider,document.getElementById("DAYVIEW"))
+  
+  list_text(history,slider,document.getElementById("Superdayview"))
   let plot = Plot.plot({
     width: width,
     title: " ",
@@ -360,6 +363,7 @@ export function makeplot(
 
 export function eList(history, count, parentCard, mode = 0) {
   // Function to create a card element
+  console.log("Elist")
   function createCard(entry, index, current, parentCard) {
     /*
               <strong>${entry.text}</strong><br>
@@ -449,13 +453,28 @@ export function eList(history, count, parentCard, mode = 0) {
 export function list_text(history, count, parentCard) {
   // Function to create a card element
   function createCard(entry_main, parentCard) {
-    /*
-              <strong>${entry.text}</strong><br>
-    <p> <strong>Time:</strong> ${entry.time} UTC </p>
-      <p><strong>Type:</strong> $entry.type}</p>
-      <p><strong>Planets Affected:</strong> ${entry.planet}</p>
-    <strong>Timestamp:</strong> ${entry.timestamp}</strong>*/
+    /*<p> <strong>Time:</strong> ${entry.time} UTC </p>
+     <p><strong>Current Major Order:</strong> ${entry.mo} </p>
+     <strong>Timestamp:${entry.timestamp};</strong>
+*/
+    const h1 = document.createElement("h1");
+    h1.textContent=`Day ${entry_main.day}, Event index ${count}`
 
+    parentCard.appendChild(h1);
+
+    const timeElement = document.createElement("p");
+    timeElement.innerHTML = `<strong>Time:</strong> ${entry_main.time} UTC`;
+    parentCard.appendChild(timeElement);
+
+    // Create and append Current Major Order paragraph
+    const moElement = document.createElement("p");
+    moElement.innerHTML = `<strong>Current Major Order:</strong> ${entry_main.mo}`;
+    parentCard.appendChild(moElement);
+
+    // Create and append Timestamp paragraph
+    const timestampElement = document.createElement("p");
+    timestampElement.innerHTML = `<strong>Timestamp:</strong> ${entry_main.timestamp}`;
+    parentCard.appendChild(timestampElement);
     for (const entry of entry_main.log) {
       let planet = "";
       if (entry.planet && entry.planet.length > 0) {
@@ -554,7 +573,7 @@ export function ListAll(history, parentCard, mode=0) {
     }
     
   }
-
+  
   // Generate the grid with cards
   createGrid(history, parentCard,mode);
   return "";

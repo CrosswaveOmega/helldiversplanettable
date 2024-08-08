@@ -89,17 +89,18 @@ let count = Mutable(0);
 const addevent = () => {
   if (count.value < historydata.events.length - 1) {
     ++count.value;
-    //daysSlider.value=historydata.events[count.value].day;
+    daysSlider.value=historydata.events[count.value].day;
   }
 };
 const backevent = () => {
   if (count.value > 0) {
     --count.value;
-    //daysSlider.value=historydata.events[count.value].day;
+    daysSlider.value=historydata.events[count.value].day;
   }
 };
 
 const set_day = (day) => {  
+  console.log("Getting day");
   const eventIndex = historydata.days[day];
   if (eventIndex !== -1) {
     count.value=eventIndex;
@@ -107,28 +108,23 @@ const set_day = (day) => {
   };
 //let mutableDayValue = Mutable(historydata.events[0].day);
 // Synchronize counts
-eventSlider.addEventListener("input", () => {
-  count.value = eventSlider.value;
-  //daysSlider.value=historydata.events[eventSlider.value].day;
-  //mutableDayValue.value = historydata.events[eventSlider.value].day;
-});
-/*
-  daysSlider.addEventListener("input", () => {
+
+daysSlider.addEventListener("input", () => {
     const eventIndex = historydata.events.findIndex(event => event.day.toString() === daysSlider.value.toString());
     if (eventIndex !== -1) {
-      console.log(eventIndex)
+      console.log(eventIndex);
       mutableEventIndex.value = eventIndex;
       //eventSlider.value=eventIndex;
     }
     set_day(daysSlider.value);  // Trigger the set_day function with daysSlider.value
   });
-*/
+
 
 const theseinputs=Inputs.button([["Last Event", backevent],["Next Event", addevent]])
 
 // Define Generators
 const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
-const cv=Generators.input(eventSlider);
+
 ```
 
 
@@ -187,37 +183,21 @@ function count_distinct_planets_table(historydata, mode, {width}) {
 
 <div class="grid grid-cols-4" style="grid-auto-rows: auto;">
   <div  class="card grid-colspan-2 grid-rowspan-2">
-
-  ${eventSlider}
-  <strong>${historydata.events[count].time}</strong><br>
-    ${resize((width) => makeplot(historydata,planetimages,backround,targets,cv,{width, showImages,htarget,ttarget,atarget}))}
+ ${theseinputs}
+  ${daysSlider}
+    ${resize((width) => makeplot(historydata,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
   </div>
-
+  
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
-    <h1>Day ${historydata.events[cv].day}, Event Index ${cv}</h1>
-    <div id="EventView"></div>
-    <p>${list_text(historydata,cv,document.getElementById("EventView"))}</p>
-    <p> <strong>Time:</strong> ${historydata.events[cv].time} UTC </p>
-    <p><strong>Current Major Order:</strong> ${historydata.events[cv].mo} </p>
-    <strong>Timestamp:${historydata.events[cv].timestamp};</strong> 
-
+    <div id="Superdayview"></div>
+     
   </div>
   <div id="Days" class='card big grid-colspan-2'>
-  <div id="DAYVIEW"></div>
-  ${eList(historydata,cv,document.getElementById("DAYVIEW"))}
-   </div>
+    <div id="DAYVIEW"></div>
+     </div>
 
-  <div class='card grid-colspan-2' style="font-size: 1.1em;">
-    ${resize((width) => count_distinct_planets_table(historydata,0,{width}))}
-  </div>
 
-  <div  class='card grid-colspan-2' style="font-size: 1.1em;">
-    ${resize((width) => count_distinct_planets_table(historydata,1,{width}))}
-  </div>
 
-  <div class='card grid-colspan-2' style="font-size: 1.1em;'">
-    ${resize((width) => count_distinct_planets_table(historydata,2,{width}))}
-  </div>
 </div>
 
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
