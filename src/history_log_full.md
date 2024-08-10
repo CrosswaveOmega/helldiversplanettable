@@ -1597,4 +1597,16 @@ Socorro III defense is won (2024-08-08 08:51)<br/>
 
 ### Day: #183
 Erson Sands defense is failed (2024-08-08 10:45)<br/>
-Erson Sands liberation campaign starts (2024-08-08 10:45)<br/>
+↳ Erson Sands liberation campaign starts (2024-08-08 10:45)<br/>
+Midday Status (2024-08-08 18:45)<br/>
+Midday Status (2024-08-09 03:45)<br/>
+Esker is liberated (2024-08-09 07:52)<br/>
+↳ Bore Rock liberation campaign starts (2024-08-09 07:52)<br/>
+↳ Nivel 43 liberation campaign starts (2024-08-09 07:52)<br/>
+Socorro III of the Falstaff sector is attacked by Terminids (2024-08-09 08:20)<br/>
+
+### Day: #184
+Midday Status (2024-08-09 18:00)<br/>
+Socorro III defense is won (2024-08-09 22:13)<br/>
+
+### Day: #185
