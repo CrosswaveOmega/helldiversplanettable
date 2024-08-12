@@ -72,6 +72,7 @@ Mantes is liberated (2024-02-18 07:39)<br/>
 ### Day: #11
 Mantes of the Xzar sector is attacked by Automatons (2024-02-18 17:33)<br/>
 Vandalon IV defense is won (2024-02-18 17:33)<br/>
+↳ Trigon sector is fully liberated (2024-02-18 17:33)<br/>
 Fenrir III is liberated (2024-02-19 07:50)<br/>
 ↳ Hellmire liberation campaign starts (2024-02-19 07:50)<br/>
 
@@ -452,6 +453,7 @@ Estanu of the Draco sector is attacked by Terminids (2024-04-03 12:33)<br/>
 Midday Status (2024-04-03 18:33)<br/>
 Estanu defense is won (2024-04-04 06:16)<br/>
 Vandalon IV defense is won (2024-04-04 07:02)<br/>
+↳ Trigon sector is fully liberated (2024-04-04 07:02)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-04-04 07:52)<br/>
 
 ### Day: #57
@@ -1489,6 +1491,7 @@ Wasat of the Ymir sector is attacked by Automatons (2024-07-21 18:14)<br/>
 Turing of the Umlaut sector is attacked by Terminids (2024-07-21 18:22)<br/>
 Midday Status (2024-07-22 03:22)<br/>
 Turing defense is won (2024-07-22 08:08)<br/>
+↳ Umlaut sector is fully liberated (2024-07-22 08:08)<br/>
 
 ### Day: #166
 Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024-07-22 15:33)<br/>
@@ -1508,6 +1511,7 @@ Choepessa IV of the Trigon sector is attacked by Automatons (2024-07-24 21:29)<b
 
 ### Day: #169
 Fenrir III defense is won (2024-07-25 11:57)<br/>
+↳ Umlaut sector is fully liberated (2024-07-25 11:57)<br/>
 Bore Rock defense is failed (2024-07-25 19:43)<br/>
 Choepessa IV defense is failed (2024-07-25 21:32)<br/>
 ↳ Trigon sector is fully under Automaton control (2024-07-25 21:32)<br/>
@@ -1564,6 +1568,7 @@ Midday Status (2024-08-03 03:24)<br/>
 ### Day: #178
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51)<br/>
 Gacrux defense is won (2024-08-03 18:56)<br/>
+↳ Jin Xi sector is fully liberated (2024-08-03 18:56)<br/>
 Midday Status (2024-08-04 03:56)<br/>
 
 ### Day: #179
@@ -1610,3 +1615,20 @@ Midday Status (2024-08-09 18:00)<br/>
 Socorro III defense is won (2024-08-09 22:13)<br/>
 
 ### Day: #185
+Bore Rock is liberated (2024-08-10 10:21)<br/>
+↳ Major Order | Operation Benevolent Sanitation is won | Objective: Eradicate/Liberate (2024-08-10 10:21)<br/>
+Curia of the Marspira sector is attacked by Automatons (2024-08-10 11:28)<br/>
+Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-10 11:30)<br/>
+Major Order | Operation Banana Split is issued | Objective: Defend/Liberate (2024-08-10 15:19)<br/>
+Acamar IV defense is won (2024-08-11 01:49)<br/>
+↳ Jin Xi sector is fully liberated (2024-08-11 01:49)<br/>
+
+### Day: #186
+Curia defense is failed (2024-08-11 11:32)<br/>
+↳ Curia liberation campaign starts (2024-08-11 11:32)<br/>
+Fenrir III of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26)<br/>
+Midday Status (2024-08-12 03:26)<br/>
+
+### Day: #187
+Fenrir III defense is won (2024-08-12 14:15)<br/>
+↳ Umlaut sector is fully liberated (2024-08-12 14:15)<br/>
