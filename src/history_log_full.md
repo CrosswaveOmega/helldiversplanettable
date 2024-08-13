@@ -151,7 +151,7 @@ Veld is liberated (2024-03-01 20:28)<br/>
 Major Order | Operation Defense of Heeth and Angel's Venture is issued | Objective: Control (2024-03-01 20:30)<br/>
 Fenrir III of the Umlaut sector instantly flips to Terminid control (2024-03-01 21:04)<br/>
 ↳ Fenrir III liberation campaign starts (2024-03-01 21:04)<br/>
-↳ Hellmire liberation campaign is failed (2024-03-01 21:04)<br/>
+↳ Hellmire liberation campaign ends (2024-03-01 21:04)<br/>
 Angel's Venture is liberated (2024-03-01 23:41)<br/>
 ↳ Orion sector is fully liberated (2024-03-01 23:41)<br/>
 Fenrir III is liberated (2024-03-02 03:38)<br/>

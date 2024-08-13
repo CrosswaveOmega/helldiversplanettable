@@ -113,19 +113,19 @@ def add_overrides(allplanet: Dict[str, Any], index: int) -> Tuple[str, str]:
 def make_rows(planets: Dict, allplanet: Dict):
     # format the data retrieved from API into a list of CSV rows.
     rows = []
-    sector_fronts={}
+    sector_fronts = {}
     for _, planet in planets.items():
         index = planet["index"]
         front = get_planet_fronts(index, planets)
         # Remove human faction from front list for easier reading.
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
-        tf=",".join(front)
+        tf = ",".join(front)
         if planet["sector"].upper() in sector_fronts:
-            if sector_fronts[planet["sector"].upper()]=='HUMANS':
-                sector_fronts[planet["sector"].upper()]=tf
+            if sector_fronts[planet["sector"].upper()] == "HUMANS":
+                sector_fronts[planet["sector"].upper()] = tf
         else:
-            sector_fronts[planet["sector"].upper()]=tf
+            sector_fronts[planet["sector"].upper()] = tf
     for _, planet in planets.items():
         # Each planet is identified by an integer, not a name.
         index = planet["index"]
@@ -144,18 +144,17 @@ def make_rows(planets: Dict, allplanet: Dict):
             front.remove("HUMANS")
         # print(planet['waypoints'])
         row = {
-            'index':planet['index'],
+            "index": planet["index"],
             "planet_name": planet["name"],
             "sector_name": planet["sector"].upper(),
-            "front":",".join(front),
+            "front": ",".join(front),
             "sector_front": sector_fronts[planet["sector"].upper()],
             "initial_owner": planet["initialOwner"],
             "current_owner": planet["currentOwner"],
-            'position':planet['position'],
-            'waypoints':planet['waypoints'],
-            'player_count':stats.playerCount,
-            'image':f"planet_{planet['index']}_rotate.gif",
-            
+            "position": planet["position"],
+            "waypoints": planet["waypoints"],
+            "player_count": stats.playerCount,
+            "image": f"planet_{planet['index']}_rotate.gif",
             "missionsWon": stats.missionsWon,
             "missionsLost": stats.missionsLost,
             "missionTime": stats.missionTime,
@@ -181,7 +180,11 @@ def make_rows(planets: Dict, allplanet: Dict):
             "DPM": 0 if missions <= 0 else (stats.deaths or 0) / missions,
             "KPM": 0 if missions <= 0 else kills / missions,
             "KTD": kills / max(stats.deaths or 1, 1),
-            "WTL": 0 if stats.missionsLost<=0 or stats.missionsWon<=0 else (stats.missionsWon or 0) / max(stats.missionsLost or 1, 1),
+            "WTL": (
+                0
+                if stats.missionsLost <= 0 or stats.missionsWon <= 0
+                else (stats.missionsWon or 0) / max(stats.missionsLost or 1, 1)
+            ),
             "biome": biome,
             "hazards": hazards,
         }
@@ -202,11 +205,10 @@ async def main():
         allplanet = json.load(f)
 
     #
-    #with open("current_api_output.json", "w+") as jsonf:  json.dump(planet_list, jsonf, sort_keys=True, indent=4)
+    # with open("current_api_output.json", "w+") as jsonf:  json.dump(planet_list, jsonf, sort_keys=True, indent=4)
 
     planets = {p["index"]: p for p in planet_list}
     rows = make_rows(planets, allplanet)
-
 
     json.dump(rows, sys.stdout)
 
