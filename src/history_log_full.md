@@ -1638,3 +1638,14 @@ Midday Status (2024-08-13 03:04)<br/>
 ### Day: #188
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-13 16:04)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-13 16:06)<br/>
+Midday Status (2024-08-13 18:06)<br/>
+Midday Status (2024-08-14 03:06)<br/>
+Troost is liberated (2024-08-14 07:23)<br/>
+↳ Trigon sector is fully liberated (2024-08-14 07:23)<br/>
+
+### Day: #189
+Estanu of the Draco sector is attacked by Terminids (2024-08-14 13:34)<br/>
+Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-14 13:35)<br/>
+Gacrux defense is failed (2024-08-14 16:09)<br/>
+↳ Gacrux liberation campaign starts (2024-08-14 16:09)<br/>
+Acamar IV defense is won (2024-08-14 23:19)<br/>
