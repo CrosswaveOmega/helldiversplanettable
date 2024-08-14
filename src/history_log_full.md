@@ -1633,3 +1633,8 @@ Midday Status (2024-08-12 03:26)<br/>
 Fenrir III defense is won (2024-08-12 14:15)<br/>
 ↳ Umlaut sector is fully liberated (2024-08-12 14:15)<br/>
 Vandalon IV is liberated (2024-08-12 18:04)<br/>
+Midday Status (2024-08-13 03:04)<br/>
+
+### Day: #188
+Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-13 16:04)<br/>
+Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-13 16:06)<br/>
