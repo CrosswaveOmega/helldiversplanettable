@@ -231,7 +231,7 @@ Angel's Venture is liberated (2024-03-06 17:39)<br/>
 Ustotu defense is failed (2024-03-06 20:21)<br/>
 ↳ Ustotu liberation campaign starts (2024-03-06 20:21)<br/>
 ↳ Vandalon IV liberation campaign ends (2024-03-06 20:21)<br/>
-Midday Status (2024-03-07 03:21)<br/>
+Midday Status (2024-03-07 03:00)<br/>
 
 ### Day: #29
 Major Order | Operation Defense of Heeth and Angel's Venture is won | Objective: Control (2024-03-07 13:46)<br/>
@@ -245,7 +245,7 @@ Tien Kwan of the Theseus sector instantly flips to Automaton control (2024-03-07
 ↳ Tien Kwan liberation campaign starts (2024-03-07 13:49)<br/>
 Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51)<br/>
 Angel's Venture of the Orion sector is attacked by Terminids (2024-03-07 19:35)<br/>
-Midday Status (2024-03-08 03:35)<br/>
+Midday Status (2024-03-08 03:00)<br/>
 
 # Day: #30
 Tien Kwan is liberated (2024-03-08 15:49)<br/>
@@ -255,7 +255,7 @@ Angel's Venture defense is failed (2024-03-08 19:39)<br/>
 ↳ Angel's Venture liberation campaign starts (2024-03-08 19:39)<br/>
 ↳ Meridia liberation campaign ends (2024-03-08 19:39)<br/>
 ↳ Turing liberation campaign ends (2024-03-08 19:39)<br/>
-Midday Status (2024-03-09 03:39)<br/>
+Midday Status (2024-03-09 03:00)<br/>
 
 ### Day: #31
 Midday Status (2024-03-09 18:00)<br/>
@@ -270,12 +270,12 @@ Angel's Venture is liberated (2024-03-11 19:57)<br/>
 ↳ Orion sector is fully liberated (2024-03-11 19:57)<br/>
 ↳ Meridia liberation campaign starts (2024-03-11 19:57)<br/>
 ↳ Turing liberation campaign starts (2024-03-11 19:57)<br/>
-Midday Status (2024-03-12 03:57)<br/>
+Midday Status (2024-03-12 03:00)<br/>
 
 ### Day: #34
 Major Order | Operation TCS Activation is issued | Objective: Liberate (2024-03-12 13:46)<br/>
-Midday Status (2024-03-12 18:46)<br/>
-Midday Status (2024-03-13 03:46)<br/>
+Midday Status (2024-03-12 18:00)<br/>
+Midday Status (2024-03-13 03:00)<br/>
 
 ### Day: #35
 Midday Status (2024-03-13 18:00)<br/>
@@ -303,7 +303,7 @@ Midday Status (2024-03-17 03:00)<br/>
 ### Day: #39
 Estanu is liberated (2024-03-17 19:55)<br/>
 ↳ Fori Prime liberation campaign starts (2024-03-17 19:55)<br/>
-Midday Status (2024-03-18 03:55)<br/>
+Midday Status (2024-03-18 03:00)<br/>
 
 # Day: #40
 Estanu of the Draco sector is attacked by Terminids (2024-03-18 12:11)<br/>
@@ -311,7 +311,7 @@ Draupnir is liberated (2024-03-18 16:11)<br/>
 ↳ Xzar sector is fully liberated (2024-03-18 16:11)<br/>
 ↳ Ubanea liberation campaign starts (2024-03-18 16:11)<br/>
 Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-03-18 20:19)<br/>
-Midday Status (2024-03-19 03:19)<br/>
+Midday Status (2024-03-19 03:00)<br/>
 
 ### Day: #41
 Estanu defense is failed (2024-03-19 12:14)<br/>
@@ -319,7 +319,7 @@ Estanu defense is failed (2024-03-19 12:14)<br/>
 ↳ Estanu liberation campaign starts (2024-03-19 12:14)<br/>
 ↳ Fori Prime liberation campaign ends (2024-03-19 12:14)<br/>
 Major Order | Operation Prime Liberation is issued | Objective: Liberate (2024-03-19 16:13)<br/>
-Midday Status (2024-03-19 18:13)<br/>
+Midday Status (2024-03-19 18:00)<br/>
 Estanu is liberated (2024-03-20 05:15)<br/>
 ↳ Fori Prime liberation campaign starts (2024-03-20 05:15)<br/>
 
@@ -330,15 +330,15 @@ Midday Status (2024-03-21 03:00)<br/>
 ### Day: #43
 Fori Prime is liberated (2024-03-21 16:36)<br/>
 ↳ Oshaune liberation campaign starts (2024-03-21 16:36)<br/>
-Midday Status (2024-03-21 18:36)<br/>
-Midday Status (2024-03-22 03:36)<br/>
+Midday Status (2024-03-21 18:00)<br/>
+Midday Status (2024-03-22 03:00)<br/>
 
 ### Day: #44
 Major Order | Operation Prime Liberation is failed | Objective: Liberate (2024-03-22 12:21)<br/>
 Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-22 13:01)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-03-22 14:35)<br/>
-Midday Status (2024-03-22 18:35)<br/>
-Midday Status (2024-03-23 03:35)<br/>
+Midday Status (2024-03-22 18:00)<br/>
+Midday Status (2024-03-23 03:00)<br/>
 
 ### Day: #45
 Estanu defense is won (2024-03-23 10:06)<br/>
@@ -392,8 +392,8 @@ Oshaune of the Mirin sector is attacked by Terminids (2024-03-28 08:13)<br/>
 # Day: #50
 Vandalon IV is liberated (2024-03-28 15:44)<br/>
 ↳ Troost liberation campaign starts (2024-03-28 15:44)<br/>
-Midday Status (2024-03-28 18:44)<br/>
-Midday Status (2024-03-29 03:44)<br/>
+Midday Status (2024-03-28 18:00)<br/>
+Midday Status (2024-03-29 03:00)<br/>
 Oshaune defense is failed (2024-03-29 08:14)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-03-29 08:14)<br/>
 ↳ Oshaune liberation campaign starts (2024-03-29 08:14)<br/>
@@ -406,7 +406,7 @@ Troost is liberated (2024-03-29 12:39)<br/>
 Fori Prime of the Draco sector is attacked by Terminids (2024-03-29 12:51)<br/>
 Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53)<br/>
 Draupnir of the Xzar sector is attacked by Automatons (2024-03-29 19:05)<br/>
-Midday Status (2024-03-30 03:05)<br/>
+Midday Status (2024-03-30 03:00)<br/>
 
 ### Day: #52
 Fori Prime defense is failed (2024-03-30 12:52)<br/>
@@ -416,7 +416,7 @@ Draupnir defense is failed (2024-03-30 19:05)<br/>
 ↳ Draupnir liberation campaign starts (2024-03-30 19:05)<br/>
 ↳ Ubanea liberation campaign ends (2024-03-30 19:05)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-03-30 20:55)<br/>
-Midday Status (2024-03-31 03:55)<br/>
+Midday Status (2024-03-31 03:00)<br/>
 
 ### Day: #53
 Estanu defense is won (2024-03-31 20:12)<br/>
@@ -450,7 +450,7 @@ Vandalon IV of the Trigon sector is attacked by Automatons (2024-04-03 07:41)<br
 
 ### Day: #56
 Estanu of the Draco sector is attacked by Terminids (2024-04-03 12:33)<br/>
-Midday Status (2024-04-03 18:33)<br/>
+Midday Status (2024-04-03 18:00)<br/>
 Estanu defense is won (2024-04-04 06:16)<br/>
 Vandalon IV defense is won (2024-04-04 07:02)<br/>
 ↳ Trigon sector is fully liberated (2024-04-04 07:02)<br/>
@@ -459,8 +459,8 @@ Estanu of the Draco sector is attacked by Terminids (2024-04-04 07:52)<br/>
 ### Day: #57
 Major Order | Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15)<br/>
 Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27)<br/>
-Midday Status (2024-04-04 18:27)<br/>
-Midday Status (2024-04-05 03:27)<br/>
+Midday Status (2024-04-04 18:00)<br/>
+Midday Status (2024-04-05 03:00)<br/>
 Estanu defense is failed (2024-04-05 07:51)<br/>
 ↳ Draco sector is fully under Terminid control (2024-04-05 07:51)<br/>
 ↳ Estanu liberation campaign starts (2024-04-05 07:51)<br/>
@@ -485,7 +485,7 @@ Estanu is liberated (2024-04-08 05:24)<br/>
 
 ### Day: #61
 Crimsica is liberated (2024-04-08 12:28)<br/>
-Midday Status (2024-04-08 18:28)<br/>
+Midday Status (2024-04-08 18:00)<br/>
 Hellmire is liberated (2024-04-09 05:10)<br/>
 ↳ Nivel 43 liberation campaign starts (2024-04-09 05:10)<br/>
 
@@ -531,8 +531,8 @@ Marfark - Martale supply line is added (2024-04-09 12:15)<br/>
 Martale - Charon Prime supply line is added (2024-04-09 12:15)<br/>
 Charon Prime - Charbal-VII supply line is added (2024-04-09 12:15)<br/>
 Matar Bay - Martale supply line is added (2024-04-09 16:16)<br/>
-Midday Status (2024-04-09 18:16)<br/>
-Midday Status (2024-04-10 03:16)<br/>
+Midday Status (2024-04-09 18:00)<br/>
+Midday Status (2024-04-10 03:00)<br/>
 Menkent defense is won (2024-04-10 07:14)<br/>
 
 ### Day: #63
@@ -545,7 +545,7 @@ Lesath defense is failed (2024-04-10 11:45)<br/>
 Matar Bay of the Andromeda sector is attacked by Automatons (2024-04-10 11:50)<br/>
 Menkent of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
 Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
-Midday Status (2024-04-10 18:50)<br/>
+Midday Status (2024-04-10 18:00)<br/>
 Vernen Wells defense is won (2024-04-11 06:11)<br/>
 
 ### Day: #64
@@ -558,8 +558,8 @@ Menkent defense is failed (2024-04-11 11:50)<br/>
 Martale of the Andromeda sector is attacked by Automatons (2024-04-11 11:52)<br/>
 Marfark of the Andromeda sector is attacked by Automatons (2024-04-11 11:52)<br/>
 Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-11 11:53)<br/>
-Midday Status (2024-04-11 18:53)<br/>
-Midday Status (2024-04-12 03:53)<br/>
+Midday Status (2024-04-11 18:00)<br/>
+Midday Status (2024-04-12 03:00)<br/>
 
 ### Day: #65
 Vernen Wells defense is won (2024-04-12 10:22)<br/>
@@ -582,7 +582,7 @@ Hellmire defense is failed (2024-04-13 10:35)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-04-13 10:35)<br/>
 ↳ Hellmire liberation campaign starts (2024-04-13 10:35)<br/>
 ↳ Nivel 43 liberation campaign ends (2024-04-13 10:35)<br/>
-Midday Status (2024-04-13 18:35)<br/>
+Midday Status (2024-04-13 18:00)<br/>
 Fori Prime is liberated (2024-04-14 04:57)<br/>
 ↳ Oshaune liberation campaign starts (2024-04-14 04:57)<br/>
 Menkent is liberated (2024-04-14 05:17)<br/>
@@ -600,12 +600,12 @@ Fori Prime of the Draco sector is attacked by Terminids (2024-04-15 07:59)<br/>
 ### Day: #68
 Crimsica is liberated (2024-04-15 13:24)<br/>
 ↳ Draco sector is fully liberated (2024-04-15 13:24)<br/>
-Midday Status (2024-04-15 18:24)<br/>
-Midday Status (2024-04-16 03:24)<br/>
+Midday Status (2024-04-15 18:00)<br/>
+Midday Status (2024-04-16 03:00)<br/>
 
 ### Day: #69
 Major Order | Operation Menkent Line is won | Objective: Control (2024-04-16 12:09)<br/>
-Midday Status (2024-04-16 18:09)<br/>
+Midday Status (2024-04-16 18:00)<br/>
 Major Order | Operation Marfark defense is issued | Objective: Control (2024-04-17 03:17)<br/>
 Fori Prime defense is failed (2024-04-17 07:58)<br/>
 ↳ Fori Prime liberation campaign starts (2024-04-17 07:58)<br/>
@@ -642,8 +642,8 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 Lesath of the Lacaille sector is attacked by Automatons (2024-04-19 15:08)<br/>
 Charon Prime of the Andromeda sector is attacked by Automatons (2024-04-19 15:09)<br/>
 Marfark of the Andromeda sector is attacked by Automatons (2024-04-19 15:10)<br/>
-Midday Status (2024-04-19 18:10)<br/>
-Midday Status (2024-04-20 03:10)<br/>
+Midday Status (2024-04-19 18:00)<br/>
+Midday Status (2024-04-20 03:00)<br/>
 Estanu defense is won (2024-04-20 07:38)<br/>
 
 ### Day: #73
@@ -652,7 +652,7 @@ Troost - Ustotu supply line is added (2024-04-20 10:41)<br/>
 Choepessa IV - Charon Prime supply line is added (2024-04-20 10:41)<br/>
 Choepessa IV - Charbal-VII supply line is added (2024-04-20 10:41)<br/>
 Mort - Charbal-VII supply line is added (2024-04-20 10:41)<br/>
-Midday Status (2024-04-20 18:41)<br/>
+Midday Status (2024-04-20 18:00)<br/>
 Oshaune defense is failed (2024-04-21 03:08)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-04-21 03:08)<br/>
 ↳ Oshaune liberation campaign starts (2024-04-21 03:08)<br/>
@@ -729,26 +729,26 @@ Varylia 5 defense is won (2024-04-25 05:21)<br/>
 Ustotu defense is won (2024-04-25 12:46)<br/>
 ↳ Major Order | Operation Enduring Bulwark is won | Objective: Defend (2024-04-25 13:43)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-04-25 19:26)<br/>
-Midday Status (2024-04-26 03:26)<br/>
+Midday Status (2024-04-26 03:00)<br/>
 
 ### Day: #79
 Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06)<br/>
 Estanu defense is won (2024-04-26 12:12)<br/>
-Midday Status (2024-04-26 18:12)<br/>
-Midday Status (2024-04-27 03:12)<br/>
+Midday Status (2024-04-26 18:00)<br/>
+Midday Status (2024-04-27 03:00)<br/>
 Lesath is liberated (2024-04-27 08:45)<br/>
 ↳ Chort Bay liberation campaign starts (2024-04-27 08:45)<br/>
 ↳ Penta liberation campaign starts (2024-04-27 08:45)<br/>
 
 # Day: #80
 Oshaune of the Mirin sector is attacked by Terminids (2024-04-27 19:51)<br/>
-Midday Status (2024-04-28 03:51)<br/>
+Midday Status (2024-04-28 03:00)<br/>
 
 ### Day: #81
 Penta is liberated (2024-04-28 09:49)<br/>
 ↳ Merak liberation campaign starts (2024-04-28 09:49)<br/>
 Oshaune defense is won (2024-04-28 18:38)<br/>
-Midday Status (2024-04-29 03:38)<br/>
+Midday Status (2024-04-29 03:00)<br/>
 
 ### Day: #82
 Major Order | Operation Legitimate Undertaking Phase One is failed | Objective: Liberate (2024-04-29 12:21)<br/>
@@ -768,15 +768,15 @@ Meridia is not accessible despite connecting to the liberated world of Estanu (2
 Major Order | Operation Umlaut Firebreak is issued | Objective: Liberate (2024-04-29 14:24)<br/>
 Emergency Dispatch | TCS Failure Emergency defense is issued (2024-04-29 14:28)<br/>
 Crimsica of the Draco sector is attacked by Terminids (2024-04-29 14:31)<br/>
-Midday Status (2024-04-29 18:31)<br/>
-Midday Status (2024-04-30 03:31)<br/>
+Midday Status (2024-04-29 18:00)<br/>
+Midday Status (2024-04-30 03:00)<br/>
 
 ### Day: #83
 Crimsica defense is failed (2024-04-30 14:33)<br/>
 ↳ Crimsica liberation campaign starts (2024-04-30 14:33)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-04-30 14:38)<br/>
-Midday Status (2024-04-30 18:38)<br/>
-Midday Status (2024-05-01 03:38)<br/>
+Midday Status (2024-04-30 18:00)<br/>
+Midday Status (2024-05-01 03:00)<br/>
 
 ### Day: #84
 Fenrir III is liberated (2024-05-01 13:12)<br/>
@@ -784,7 +784,6 @@ Estanu defense is failed (2024-05-01 14:40)<br/>
 ↳ Estanu liberation campaign starts (2024-05-01 14:40)<br/>
 Oshaune of the Mirin sector is attacked by Terminids (2024-05-01 18:47)<br/>
 Meridia of the Umlaut sector's supply lines are obliterated (2024-05-01 19:40)<br/>
-Midday Status (2024-05-02 03:40)<br/>
 Penta of the Lacaille sector is attacked by Automatons (2024-05-02 07:57)<br/>
 
 ### Day: #85
@@ -792,7 +791,7 @@ Oshaune defense is failed (2024-05-02 18:50)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-05-02 18:50)<br/>
 ↳ Oshaune liberation campaign starts (2024-05-02 18:50)<br/>
 ↳ Omicron liberation campaign ends (2024-05-02 18:50)<br/>
-Midday Status (2024-05-03 03:50)<br/>
+Midday Status (2024-05-03 03:00)<br/>
 Penta defense is failed (2024-05-03 08:00)<br/>
 ↳ Penta liberation campaign starts (2024-05-03 08:00)<br/>
 ↳ Merak liberation campaign ends (2024-05-03 08:00)<br/>
@@ -805,8 +804,8 @@ Ivis - Krakatwo supply line is added (2024-05-03 08:31)<br/>
 ### Day: #86
 Turing is liberated (2024-05-03 10:56)<br/>
 Fori Prime of the Draco sector is attacked by Terminids (2024-05-03 13:31)<br/>
-Midday Status (2024-05-03 18:31)<br/>
-Midday Status (2024-05-04 03:31)<br/>
+Midday Status (2024-05-03 18:00)<br/>
+Midday Status (2024-05-04 03:00)<br/>
 
 ### Day: #87
 Fori Prime defense is failed (2024-05-04 13:33)<br/>
@@ -814,8 +813,8 @@ Fori Prime defense is failed (2024-05-04 13:33)<br/>
 ↳ Oshaune liberation campaign ends (2024-05-04 13:33)<br/>
 ↳ Estanu liberation campaign ends (2024-05-04 13:33)<br/>
 ↳ Crimsica liberation campaign ends (2024-05-04 13:33)<br/>
-Midday Status (2024-05-04 18:33)<br/>
-Midday Status (2024-05-05 03:33)<br/>
+Midday Status (2024-05-04 18:00)<br/>
+Midday Status (2024-05-05 03:00)<br/>
 Erata Prime is liberated (2024-05-05 07:06)<br/>
 ↓ Lesath of the Lacaille sector is attacked by Automatons (2024-05-05 08:11)<br/>
 ↳ Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-05 08:36)<br/>
@@ -842,13 +841,13 @@ Acamar IV of the Jin Xi sector instantly flips to Terminid control (2024-05-06 1
 Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49)<br/>
 Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-05-06 13:50)<br/>
 Turing - Acamar IV supply line is added (2024-05-06 20:46)<br/>
-Midday Status (2024-05-07 03:46)<br/>
+Midday Status (2024-05-07 03:00)<br/>
 
 # Day: #90
 Pandion-XXIV defense is failed (2024-05-07 13:54)<br/>
 ↳ Pandion-XXIV liberation campaign starts (2024-05-07 13:54)<br/>
 Heeth is liberated (2024-05-07 20:53)<br/>
-Midday Status (2024-05-08 03:53)<br/>
+Midday Status (2024-05-08 03:00)<br/>
 
 ### Day: #91
 Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-08 15:15)<br/>
@@ -882,7 +881,7 @@ Wasat of the Ymir sector is attacked by Automatons (2024-05-11 19:01)<br/>
 Angel's Venture of the Orion sector is attacked by Terminids (2024-05-11 19:02)<br/>
 Acamar IV is liberated (2024-05-11 20:34)<br/>
 Pandion-XXIV liberation campaign starts (2024-05-11 20:34)<br/>
-Midday Status (2024-05-12 03:34)<br/>
+Midday Status (2024-05-12 03:00)<br/>
 
 ### Day: #95
 Angel's Venture defense is won (2024-05-12 15:09)<br/>
@@ -896,12 +895,12 @@ Lesath is liberated (2024-05-13 03:36)<br/>
 
 ### Day: #96
 Vernen Wells of the Hydra sector is attacked by Automatons (2024-05-13 11:47)<br/>
-Midday Status (2024-05-13 18:47)<br/>
+Midday Status (2024-05-13 18:00)<br/>
 Vernen Wells defense is won (2024-05-14 05:18)<br/>
 
 ### Day: #97
 Lesath of the Lacaille sector is attacked by Automatons (2024-05-14 12:13)<br/>
-Midday Status (2024-05-14 18:13)<br/>
+Midday Status (2024-05-14 18:00)<br/>
 Lesath defense is won (2024-05-15 05:27)<br/>
 
 ### Day: #98
@@ -911,8 +910,8 @@ Vernen Wells of the Hydra sector is attacked by Automatons (2024-05-15 15:11)<br
 Angel's Venture of the Orion sector instantly flips to Terminid control (2024-05-15 15:12)<br/>
 ↳ Angel's Venture liberation campaign starts (2024-05-15 15:12)<br/>
 Erata Prime of the Umlaut sector is attacked by Terminids (2024-05-15 15:13)<br/>
-Midday Status (2024-05-15 18:13)<br/>
-Midday Status (2024-05-16 03:13)<br/>
+Midday Status (2024-05-15 18:00)<br/>
+Midday Status (2024-05-16 03:00)<br/>
 Fenrir III of the Umlaut sector instantly flips to Terminid control (2024-05-16 07:55)<br/>
 ↳ Fenrir III liberation campaign starts (2024-05-16 07:55)<br/>
 
@@ -927,13 +926,13 @@ Erata Prime defense is failed (2024-05-16 15:21)<br/>
 Fenrir III is liberated (2024-05-16 16:18)<br/>
 ↳ Hellmire liberation campaign starts (2024-05-16 16:18)<br/>
 Heeth of the Orion sector is attacked by Terminids (2024-05-16 18:35)<br/>
-Midday Status (2024-05-17 03:35)<br/>
+Midday Status (2024-05-17 03:00)<br/>
 
 # Day: #100
 Heeth defense is won (2024-05-17 19:17)<br/>
 ↳ Orion sector is fully liberated (2024-05-17 19:17)<br/>
 Aesir Pass defense is won (2024-05-17 20:57)<br/>
-Midday Status (2024-05-18 03:57)<br/>
+Midday Status (2024-05-18 03:00)<br/>
 
 ### Day: #101
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-05-18 10:44)<br/>
@@ -961,7 +960,6 @@ Varylia 5 of the Trigon sector is attacked by Automatons (2024-05-20 08:42)<br/>
 ### Day: #103
 Fenrir III defense is won (2024-05-20 17:00)<br/>
 Midday Status (2024-05-20 18:00)<br/>
-Midday Status (2024-05-21 03:00)<br/>
 Vernen Wells defense is failed (2024-05-21 06:46)<br/>
 ↳ Vernen Wells liberation campaign starts (2024-05-21 06:46)<br/>
 ↳ Menkent liberation campaign ends (2024-05-21 06:46)<br/>
@@ -971,7 +969,7 @@ Varylia 5 defense is failed (2024-05-21 08:44)<br/>
 
 ### Day: #104
 Turing of the Umlaut sector is attacked by Terminids (2024-05-21 09:20)<br/>
-Midday Status (2024-05-21 18:20)<br/>
+Midday Status (2024-05-21 18:00)<br/>
 Turing defense is won (2024-05-21 23:30)<br/>
 
 ### Day: #105
@@ -983,8 +981,8 @@ Erata Prime of the Umlaut sector is attacked by Terminids (2024-05-23 11:16)<br/
 Wezen of the Ymir sector is attacked by Automatons (2024-05-23 11:16)<br/>
 Major Order | Operation Freedom's Calling is failed | Objective: Eradicate (2024-05-23 15:42)<br/>
 Major Order | Operation Yellow Steel is issued | Objective: Liberate (2024-05-23 15:51)<br/>
-Midday Status (2024-05-23 18:51)<br/>
-Midday Status (2024-05-24 03:51)<br/>
+Midday Status (2024-05-23 18:00)<br/>
+Midday Status (2024-05-24 03:00)<br/>
 
 ### Day: #107
 Erata Prime defense is failed (2024-05-24 11:19)<br/>
@@ -994,12 +992,12 @@ Wezen defense is failed (2024-05-24 11:20)<br/>
 Angel's Venture of the Orion sector is attacked by Terminids (2024-05-24 19:29)<br/>
 Turing of the Umlaut sector instantly flips to Terminid control (2024-05-24 19:32)<br/>
 ↳ Turing liberation campaign starts (2024-05-24 19:32)<br/>
-Midday Status (2024-05-25 03:32)<br/>
+Midday Status (2024-05-25 03:00)<br/>
 
 ### Day: #108
 Angel's Venture defense is won (2024-05-25 16:58)<br/>
 ↳ Orion sector is fully liberated (2024-05-25 16:58)<br/>
-Midday Status (2024-05-25 18:58)<br/>
+Midday Status (2024-05-25 18:00)<br/>
 Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-26 06:23)<br/>
 
 ### Day: #109
@@ -1010,7 +1008,6 @@ Fenrir III defense is failed (2024-05-26 18:26)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-05-26 18:26)<br/>
 ↳ Fenrir III liberation campaign starts (2024-05-26 18:26)<br/>
 ↳ Hellmire liberation campaign ends (2024-05-26 18:26)<br/>
-Midday Status (2024-05-27 03:26)<br/>
 Heeth defense is won (2024-05-27 06:40)<br/>
 ↳ Orion sector is fully liberated (2024-05-27 06:40)<br/>
 
@@ -1019,8 +1016,8 @@ Major Order | Operation Enduring Peace Phase One is issued | Objective: Control 
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-05-27 15:57)<br/>
 Fenrir III is liberated (2024-05-27 17:16)<br/>
 ↳ Hellmire liberation campaign starts (2024-05-27 17:16)<br/>
-Midday Status (2024-05-27 18:16)<br/>
-Midday Status (2024-05-28 03:16)<br/>
+Midday Status (2024-05-27 18:00)<br/>
+Midday Status (2024-05-28 03:00)<br/>
 
 ### Day: #111
 Veld of the Orion sector is attacked by Terminids (2024-05-28 09:58)<br/>
@@ -1033,7 +1030,7 @@ Veld defense is won (2024-05-29 06:50)<br/>
 ### Day: #112
 Cirrus defense is failed (2024-05-29 10:02)<br/>
 ↳ Cirrus liberation campaign starts (2024-05-29 10:02)<br/>
-Midday Status (2024-05-29 18:02)<br/>
+Midday Status (2024-05-29 18:00)<br/>
 Cirrus is liberated (2024-05-29 23:35)<br/>
 ↳ Orion sector is fully liberated (2024-05-29 23:35)<br/>
 Acamar IV is liberated (2024-05-30 05:22)<br/>
@@ -1058,8 +1055,8 @@ Midday Status (2024-06-01 03:00)<br/>
 ### Day: #115
 Turing of the Umlaut sector is attacked by Terminids (2024-06-01 15:19)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-06-01 15:19)<br/>
-Midday Status (2024-06-01 18:19)<br/>
-Midday Status (2024-06-02 03:19)<br/>
+Midday Status (2024-06-01 18:00)<br/>
+Midday Status (2024-06-02 03:00)<br/>
 
 ### Day: #116
 Fenrir III of the Umlaut sector is attacked by Terminids (2024-06-02 09:52)<br/>
@@ -1073,7 +1070,7 @@ Meridia is destroyed via planetary implosion (2024-06-02 19:13)<br/>
 ↳ Crimsica liberation campaign starts (2024-06-02 19:13)<br/>
 ↳ Fenrir III defense is auto-won via gambit (2024-06-02 19:16)<br/>
 Vega Bay of the Ymir sector is attacked by Automatons (2024-06-02 19:37)<br/>
-Midday Status (2024-06-03 03:37)<br/>
+Midday Status (2024-06-03 03:00)<br/>
 
 ### Day: #117
 Major Order | Operation Destiny Manifested is issued | Objective: Liberate (2024-06-03 18:46)<br/>
@@ -1095,8 +1092,8 @@ Imber - Gaellivare supply line is added (2024-06-04 23:38)<br/>
 Erata Prime is liberated (2024-06-05 11:48)<br/>
 ↳ Umlaut sector is fully liberated (2024-06-05 11:48)<br/>
 Aesir Pass of the Hydra sector is attacked by Automatons (2024-06-05 15:40)<br/>
-Midday Status (2024-06-05 18:40)<br/>
-Midday Status (2024-06-06 03:40)<br/>
+Midday Status (2024-06-05 18:00)<br/>
+Midday Status (2024-06-06 03:00)<br/>
 
 # Day: #120
 Acamar IV is liberated (2024-06-06 13:27)<br/>
@@ -1105,16 +1102,16 @@ Aesir Pass defense is failed (2024-06-06 15:43)<br/>
 ↳ Aesir Pass liberation campaign starts (2024-06-06 15:43)<br/>
 ↳ Marfark liberation campaign ends (2024-06-06 15:43)<br/>
 ↳ Vernen Wells liberation campaign ends (2024-06-06 15:43)<br/>
-Midday Status (2024-06-06 18:43)<br/>
-Midday Status (2024-06-07 03:43)<br/>
+Midday Status (2024-06-06 18:00)<br/>
+Midday Status (2024-06-07 03:00)<br/>
 Phact Bay is liberated (2024-06-07 07:15)<br/>
 ↳ Jin Xi sector is fully liberated (2024-06-07 07:15)<br/>
 
 ### Day: #121
 Major Order | Operation Destiny Manifested is won | Objective: Liberate (2024-06-07 11:15)<br/>
 Major Order | Operation Valiant Resistance is issued | Objective: Liberate (2024-06-07 11:20)<br/>
-Midday Status (2024-06-07 18:20)<br/>
-Midday Status (2024-06-08 03:20)<br/>
+Midday Status (2024-06-07 18:00)<br/>
+Midday Status (2024-06-08 03:00)<br/>
 
 ### Day: #122
 Midday Status (2024-06-08 18:00)<br/>
@@ -1135,11 +1132,10 @@ Major Order | Operation Valiant Resistance is won | Objective: Liberate (2024-06
 
 ### Day: #125
 Major Order | Operation Trolley Problem is issued | Objective: Liberate (2024-06-11 13:57)<br/>
-Midday Status (2024-06-11 18:57)<br/>
-Midday Status (2024-06-12 03:57)<br/>
+Midday Status (2024-06-11 18:00)<br/>
+Midday Status (2024-06-12 03:00)<br/>
 
 ### Day: #126
-Midday Status (2024-06-12 18:00)<br/>
 Aesir Pass is liberated (2024-06-12 21:03)<br/>
 ↳ Marfark liberation campaign starts (2024-06-12 21:03)<br/>
 ↳ Vernen Wells liberation campaign starts (2024-06-12 21:03)<br/>
@@ -1175,21 +1171,21 @@ Gacrux - Pandion-XXIV supply line is added (2024-06-13 11:37)<br/>
 X-45 - Vega Bay supply line is added (2024-06-13 11:37)<br/>
 X-45 - Wasat supply line is added (2024-06-13 11:37)<br/>
 X-45 - Meissa supply line is added (2024-06-13 11:37)<br/>
-Midday Status (2024-06-13 18:37)<br/>
-Midday Status (2024-06-14 03:37)<br/>
+Midday Status (2024-06-13 18:00)<br/>
+Midday Status (2024-06-14 03:00)<br/>
 
 ### Day: #128
 Vernen Wells is liberated (2024-06-14 13:52)<br/>
 ↳ Menkent liberation campaign starts (2024-06-14 13:52)<br/>
 ↳ Lesath liberation campaign starts (2024-06-14 13:52)<br/>
-Midday Status (2024-06-14 18:52)<br/>
-Midday Status (2024-06-15 03:52)<br/>
+Midday Status (2024-06-14 18:00)<br/>
+Midday Status (2024-06-15 03:00)<br/>
 
 ### Day: #129
 Major Order | Operation Trolley Problem is failed | Objective: Liberate (2024-06-15 14:12)<br/>
 Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15 15:55)<br/>
-Midday Status (2024-06-15 18:55)<br/>
-Midday Status (2024-06-16 03:55)<br/>
+Midday Status (2024-06-15 18:00)<br/>
+Midday Status (2024-06-16 03:00)<br/>
 
 # Day: #130
 Midday Status (2024-06-16 18:00)<br/>
@@ -1210,7 +1206,7 @@ Nivel 43 - Esker supply line is added (2024-06-18 20:19)<br/>
 Socorro III of the Falstaff sector's supply lines are obliterated (2024-06-18 20:19)<br/>
 Nivel 43 is not accessible despite connecting to the liberated world of Esker (2024-06-18 20:19)<br/>
 Esker of the Falstaff sector is attacked by Terminids (2024-06-18 20:20)<br/>
-Midday Status (2024-06-19 03:20)<br/>
+Midday Status (2024-06-19 03:00)<br/>
 
 ### Day: #133
 Fori Prime of the Draco sector is attacked by Terminids (2024-06-19 13:21)<br/>
@@ -1227,8 +1223,8 @@ Mort of the Xzar sector is attacked by Automatons (2024-06-20 13:28)<br/>
 Crimsica - Acamar IV supply line is added (2024-06-20 15:08)<br/>
 Gacrux - Fori Prime supply line is added (2024-06-20 15:08)<br/>
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-06-20 15:08)<br/>
-Midday Status (2024-06-20 18:08)<br/>
-Midday Status (2024-06-21 03:08)<br/>
+Midday Status (2024-06-20 18:00)<br/>
+Midday Status (2024-06-21 03:00)<br/>
 
 ### Day: #135
 Mort defense is failed (2024-06-21 13:28)<br/>
@@ -1302,7 +1298,6 @@ Major Order | Operation Jin Xi-Falstaff Lockdown is issued | Objective: Control 
 Fori Prime of the Draco sector is attacked by Terminids (2024-06-26 11:06)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06)<br/>
 Bore Rock of the Falstaff sector is attacked by Terminids (2024-06-26 11:06)<br/>
-Midday Status (2024-06-26 18:06)<br/>
 Bore Rock defense is won (2024-06-26 23:28)<br/>
 Acamar IV defense is won (2024-06-27 02:06)<br/>
 Fori Prime defense is failed (2024-06-27 08:07)<br/>
@@ -1352,8 +1347,8 @@ Major Order | Operation Starslayer is issued | Objective: Control (2024-07-03 11
 X-45 of the Ymir sector is attacked by Automatons (2024-07-03 11:45)<br/>
 Wezen of the Ymir sector is attacked by Automatons (2024-07-03 11:45)<br/>
 X-45 defense is won (2024-07-03 17:44)<br/>
-Midday Status (2024-07-03 18:44)<br/>
-Midday Status (2024-07-04 03:44)<br/>
+Midday Status (2024-07-03 18:00)<br/>
+Midday Status (2024-07-04 03:00)<br/>
 
 ### Day: #148
 Wezen defense is failed (2024-07-04 11:49)<br/>
@@ -1399,8 +1394,8 @@ X-45 defense is won (2024-07-09 03:33)<br/>
 
 ### Day: #153
 Major Order | Operation Starslayer is won | Objective: Control (2024-07-09 12:08)<br/>
-Midday Status (2024-07-09 18:08)<br/>
-Midday Status (2024-07-10 03:08)<br/>
+Midday Status (2024-07-09 18:00)<br/>
+Midday Status (2024-07-10 03:00)<br/>
 
 ### Day: #154
 Major Order | Operation Workday is issued | Objective: Eradicate (2024-07-10 13:03)<br/>
@@ -1411,7 +1406,6 @@ Gatria is liberated (2024-07-11 00:47)<br/>
 ### Day: #155
 Hellmire defense is won (2024-07-11 12:40)<br/>
 Major Order | Operation Winged Helldivers is issued | Objective: Liberate (2024-07-11 19:38)<br/>
-Midday Status (2024-07-12 03:38)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-07-12 07:53)<br/>
 
 ### Day: #156
@@ -1428,8 +1422,8 @@ Esker of the Falstaff sector is attacked by Terminids (2024-07-13 14:02)<br/>
 Aesir Pass is liberated (2024-07-13 14:40)<br/>
 ↳ Marfark liberation campaign starts (2024-07-13 14:40)<br/>
 ↳ Vernen Wells liberation campaign starts (2024-07-13 14:40)<br/>
-Midday Status (2024-07-13 18:40)<br/>
-Midday Status (2024-07-14 03:40)<br/>
+Midday Status (2024-07-13 18:00)<br/>
+Midday Status (2024-07-14 03:00)<br/>
 
 ### Day: #158
 Hellmire defense is failed (2024-07-14 14:06)<br/>
@@ -1441,7 +1435,7 @@ Esker defense is failed (2024-07-14 14:07)<br/>
 Matar Bay is liberated (2024-07-14 19:55)<br/>
 ↳ Martale liberation campaign starts (2024-07-14 19:55)<br/>
 ↳ Choohe liberation campaign starts (2024-07-14 19:55)<br/>
-Midday Status (2024-07-15 03:55)<br/>
+Midday Status (2024-07-15 03:00)<br/>
 
 ### Day: #159
 Midday Status (2024-07-15 18:00)<br/>
@@ -1449,15 +1443,15 @@ Midday Status (2024-07-16 03:00)<br/>
 
 # Day: #160
 Marfark is liberated (2024-07-16 09:18)<br/>
-Midday Status (2024-07-16 18:18)<br/>
-Midday Status (2024-07-17 03:18)<br/>
+Midday Status (2024-07-16 18:00)<br/>
+Midday Status (2024-07-17 03:00)<br/>
 
 ### Day: #161
 Martale is liberated (2024-07-17 11:14)<br/>
 ↳ Major Order | Operation Winged Helldivers is won | Objective: Liberate (2024-07-17 11:14)<br/>
 ↳ Charon Prime liberation campaign starts (2024-07-17 11:14)<br/>
-Midday Status (2024-07-17 18:14)<br/>
-Midday Status (2024-07-18 03:14)<br/>
+Midday Status (2024-07-17 18:00)<br/>
+Midday Status (2024-07-18 03:00)<br/>
 
 ### Day: #162
 Major Order | Operation Righteous Expunge is issued | Objective: Liberate (2024-07-18 14:15)<br/>
@@ -1467,7 +1461,6 @@ Charon Prime is liberated (2024-07-19 02:28)<br/>
 
 ### Day: #163
 Matar Bay defense is won (2024-07-19 20:19)<br/>
-Midday Status (2024-07-20 03:19)<br/>
 Aesir Pass of the Hydra sector is attacked by Automatons (2024-07-20 08:25)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-07-20 08:26)<br/>
 
@@ -1489,7 +1482,7 @@ Choepessa IV is liberated (2024-07-21 14:03)<br/>
 Major Order | Operation Righteous Expunge is won | Objective: Liberate (2024-07-21 14:03)<br/>
 Wasat of the Ymir sector is attacked by Automatons (2024-07-21 18:14)<br/>
 Turing of the Umlaut sector is attacked by Terminids (2024-07-21 18:22)<br/>
-Midday Status (2024-07-22 03:22)<br/>
+Midday Status (2024-07-22 03:00)<br/>
 Turing defense is won (2024-07-22 08:08)<br/>
 ↳ Umlaut sector is fully liberated (2024-07-22 08:08)<br/>
 
@@ -1497,7 +1490,7 @@ Turing defense is won (2024-07-22 08:08)<br/>
 Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024-07-22 15:33)<br/>
 Wasat defense is failed (2024-07-22 18:20)<br/>
 ↳ Wasat liberation campaign starts (2024-07-22 18:20)<br/>
-Midday Status (2024-07-23 03:20)<br/>
+Midday Status (2024-07-23 03:00)<br/>
 Acamar IV is liberated (2024-07-23 07:47)<br/>
 
 ### Day: #167
@@ -1524,7 +1517,7 @@ Gacrux is liberated (2024-07-25 22:33)<br/>
 
 # Day: #170
 Major Order | Operation Glorious Xenocide is won | Objective: Eradicate (2024-07-26 20:30)<br/>
-Midday Status (2024-07-27 03:30)<br/>
+Midday Status (2024-07-27 03:00)<br/>
 
 ### Day: #171
 Major Order | Operation Eagle Protector is issued | Objective: Liberate (2024-07-27 16:59)<br/>
@@ -1538,21 +1531,21 @@ Midday Status (2024-07-29 03:00)<br/>
 
 ### Day: #173
 Wasat is liberated (2024-07-29 09:56)<br/>
-Midday Status (2024-07-29 18:56)<br/>
-Midday Status (2024-07-30 03:56)<br/>
+Midday Status (2024-07-29 18:00)<br/>
+Midday Status (2024-07-30 03:00)<br/>
 
 ### Day: #174
 X-45 of the Ymir sector is attacked by Automatons (2024-07-30 11:20)<br/>
 Vega Bay is liberated (2024-07-30 14:16)<br/>
 ↳ X-45 defense is auto-won via gambit (2024-07-30 14:16)<br/>
 ↳ Wezen liberation campaign starts (2024-07-30 14:16)<br/>
-Midday Status (2024-07-30 18:16)<br/>
-Midday Status (2024-07-31 03:16)<br/>
+Midday Status (2024-07-30 18:00)<br/>
+Midday Status (2024-07-31 03:00)<br/>
 
 ### Day: #175
 Varylia 5 is liberated (2024-07-31 16:13)<br/>
-Midday Status (2024-07-31 18:13)<br/>
-Midday Status (2024-08-01 03:13)<br/>
+Midday Status (2024-07-31 18:00)<br/>
+Midday Status (2024-08-01 03:00)<br/>
 
 ### Day: #176
 Midday Status (2024-08-01 18:00)<br/>
@@ -1562,14 +1555,14 @@ Ustotu is liberated (2024-08-02 01:22)<br/>
 ### Day: #177
 Major Order | Operation Eagle Protector is failed | Objective: Liberate (2024-08-02 17:23)<br/>
 Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (2024-08-02 17:24)<br/>
-Midday Status (2024-08-02 18:24)<br/>
-Midday Status (2024-08-03 03:24)<br/>
+Midday Status (2024-08-02 18:00)<br/>
+Midday Status (2024-08-03 03:00)<br/>
 
 ### Day: #178
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51)<br/>
 Gacrux defense is won (2024-08-03 18:56)<br/>
 ↳ Jin Xi sector is fully liberated (2024-08-03 18:56)<br/>
-Midday Status (2024-08-04 03:56)<br/>
+Midday Status (2024-08-04 03:00)<br/>
 
 ### Day: #179
 Marfark of the Andromeda sector is attacked by Automatons (2024-08-04 17:30)<br/>
@@ -1591,20 +1584,20 @@ Esker - Socorro III supply line is added (2024-08-06 14:57)<br/>
 Socorro III - Nivel 43 supply line is added (2024-08-06 14:57)<br/>
 Nivel 43 - Erson Sands supply line is added (2024-08-06 14:57)<br/>
 Nivel 43 is not accessible despite connecting to the liberated world of Erson Sands (2024-08-06 14:57)<br/>
-Midday Status (2024-08-06 18:57)<br/>
-Midday Status (2024-08-07 03:57)<br/>
+Midday Status (2024-08-06 18:00)<br/>
+Midday Status (2024-08-07 03:00)<br/>
 
 ### Day: #182
 Erson Sands of the Falstaff sector is attacked by Terminids (2024-08-07 10:41)<br/>
-Midday Status (2024-08-07 18:41)<br/>
-Midday Status (2024-08-08 03:41)<br/>
+Midday Status (2024-08-07 18:00)<br/>
+Midday Status (2024-08-08 03:00)<br/>
 Socorro III defense is won (2024-08-08 08:51)<br/>
 
 ### Day: #183
 Erson Sands defense is failed (2024-08-08 10:45)<br/>
 ↳ Erson Sands liberation campaign starts (2024-08-08 10:45)<br/>
-Midday Status (2024-08-08 18:45)<br/>
-Midday Status (2024-08-09 03:45)<br/>
+Midday Status (2024-08-08 18:00)<br/>
+Midday Status (2024-08-09 03:00)<br/>
 Esker is liberated (2024-08-09 07:52)<br/>
 ↳ Bore Rock liberation campaign starts (2024-08-09 07:52)<br/>
 ↳ Nivel 43 liberation campaign starts (2024-08-09 07:52)<br/>
@@ -1627,25 +1620,26 @@ Acamar IV defense is won (2024-08-11 01:49)<br/>
 Curia defense is failed (2024-08-11 11:32)<br/>
 ↳ Curia liberation campaign starts (2024-08-11 11:32)<br/>
 Fenrir III of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26)<br/>
-Midday Status (2024-08-12 03:26)<br/>
+Midday Status (2024-08-12 03:00)<br/>
 
 ### Day: #187
 Fenrir III defense is won (2024-08-12 14:15)<br/>
 ↳ Umlaut sector is fully liberated (2024-08-12 14:15)<br/>
 Vandalon IV is liberated (2024-08-12 18:04)<br/>
-Midday Status (2024-08-13 03:04)<br/>
+Midday Status (2024-08-13 03:00)<br/>
 
 ### Day: #188
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-13 16:04)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-13 16:06)<br/>
-Midday Status (2024-08-13 18:06)<br/>
-Midday Status (2024-08-14 03:06)<br/>
+Midday Status (2024-08-13 18:00)<br/>
+Midday Status (2024-08-14 03:00)<br/>
 Troost is liberated (2024-08-14 07:23)<br/>
 ↳ Trigon sector is fully liberated (2024-08-14 07:23)<br/>
 
 ### Day: #189
+Acamar IV defense is won (2024-08-14 11:19)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-14 13:34)<br/>
 Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-14 13:35)<br/>
 Gacrux defense is failed (2024-08-14 16:09)<br/>
 ↳ Gacrux liberation campaign starts (2024-08-14 16:09)<br/>
-Acamar IV defense is won (2024-08-14 23:19)<br/>
+Estanu defense is won (2024-08-15 00:50)<br/>
