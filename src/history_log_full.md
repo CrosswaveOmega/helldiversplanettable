@@ -652,23 +652,24 @@ Troost - Ustotu supply line is added (2024-04-20 10:41)<br/>
 Choepessa IV - Charon Prime supply line is added (2024-04-20 10:41)<br/>
 Choepessa IV - Charbal-VII supply line is added (2024-04-20 10:41)<br/>
 Mort - Charbal-VII supply line is added (2024-04-20 10:41)<br/>
+Oshaune defense is failed (2024-04-20 15:08)<br/>
+↳ Mirin sector is fully under Terminid control (2024-04-20 15:08)<br/>
+↳ Oshaune liberation campaign starts (2024-04-20 15:08)<br/>
+↳ Omicron liberation campaign ends (2024-04-20 15:08)<br/>
+Fori Prime of the Draco sector is attacked by Terminids (2024-04-20 15:10)<br/>
+Lesath defense is failed (2024-04-20 15:10)<br/>
+↳ Lesath liberation campaign starts (2024-04-20 15:10)<br/>
+↳ Penta liberation campaign ends (2024-04-20 15:10)<br/>
+Charon Prime defense is failed (2024-04-20 15:11)<br/>
+↳ Charon Prime liberation campaign starts (2024-04-20 15:11)<br/>
+Estanu of the Draco sector is attacked by Terminids (2024-04-20 15:11)<br/>
+Marfark defense is failed (2024-04-20 15:12)<br/>
+↳ Marfark liberation campaign starts (2024-04-20 15:12)<br/>
+↳ Martale liberation campaign ends (2024-04-20 15:12)<br/>
+Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-20 15:12)<br/>
+Meissa of the Ymir sector is attacked by Automatons (2024-04-20 15:13)<br/>
 Midday Status (2024-04-20 18:00)<br/>
-Oshaune defense is failed (2024-04-21 03:08)<br/>
-↳ Mirin sector is fully under Terminid control (2024-04-21 03:08)<br/>
-↳ Oshaune liberation campaign starts (2024-04-21 03:08)<br/>
-↳ Omicron liberation campaign ends (2024-04-21 03:08)<br/>
-Fori Prime of the Draco sector is attacked by Terminids (2024-04-21 03:10)<br/>
-Lesath defense is failed (2024-04-21 03:10)<br/>
-↳ Lesath liberation campaign starts (2024-04-21 03:10)<br/>
-↳ Penta liberation campaign ends (2024-04-21 03:10)<br/>
-Charon Prime defense is failed (2024-04-21 03:11)<br/>
-↳ Charon Prime liberation campaign starts (2024-04-21 03:11)<br/>
-Estanu of the Draco sector is attacked by Terminids (2024-04-21 03:11)<br/>
-Marfark defense is failed (2024-04-21 03:12)<br/>
-↳ Marfark liberation campaign starts (2024-04-21 03:12)<br/>
-↳ Martale liberation campaign ends (2024-04-21 03:12)<br/>
-Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-21 03:12)<br/>
-Meissa of the Ymir sector is attacked by Automatons (2024-04-21 03:13)<br/>
+Midday Status (2024-04-21 03:00)<br/>
 
 ### Day: #74
 Midday Status (2024-04-21 18:00)<br/>
@@ -1643,3 +1644,13 @@ Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-14 13:35)<br/
 Gacrux defense is failed (2024-08-14 16:09)<br/>
 ↳ Gacrux liberation campaign starts (2024-08-14 16:09)<br/>
 Estanu defense is won (2024-08-15 00:50)<br/>
+Erata Prime defense is won (2024-08-15 07:28)<br/>
+Major Order | Operation Banana Split is won | Objective: Defend/Liberate (2024-08-15 08:52)<br/>
+
+# Day: #190
+Midday Status (2024-08-15 18:00)<br/>
+Midday Status (2024-08-16 03:00)<br/>
+
+### Day: #191
+Estanu of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
+Major Order | Operation Gloomy Globs of Doom is issued | Objective: Gather (2024-08-16 15:27)<br/>
