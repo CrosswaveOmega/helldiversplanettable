@@ -1,6 +1,6 @@
-# Helldivers 2 Planet Table
+# Helldivers 2 War Statistics and History Central
 
-Work in progress site to format statistics gathered from the Helldivers 2 api.
+Work in progress site to format statistics and planet history gathered from the Helldivers 2 api. 
 
 Requires a python enviornment to grab the statistics.
 
