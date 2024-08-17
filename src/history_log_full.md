@@ -1653,4 +1653,9 @@ Midday Status (2024-08-16 03:00)<br/>
 
 ### Day: #191
 Estanu of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
-Major Order | Operation Gloomy Globs of Doom is issued | Objective: Gather (2024-08-16 15:27)<br/>
+Major Order | Operation Gloom Gathering is issued | Objective: Sample (2024-08-16 15:27)<br/>
+Major Order | Operation Gloom Gathering was compromised | Objective: Sample (2024-08-17 01:47)<br/>
+↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an absurd amount of counterfeit samples(estimated 4.23 billion versus the mere ).  While medals were still rewarded, it was a dent in the official . (2024-08-17 01:47)<br/>
+
+### Day: #192
+Estanu defense is won (2024-08-17 13:50)<br/>

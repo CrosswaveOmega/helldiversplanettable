@@ -204,6 +204,7 @@ function DECODE(number) {
 }
 export function makeplot(
   history,
+  gstates,
   planetimages,
   backround,
   target,
@@ -217,23 +218,27 @@ export function makeplot(
     3: atarget,
   };
   //let planets=current_event.galaxystate;
-
-  let galaxystate = current_event.galaxystate;
-  for (const [planet, values] of Object.entries(history.galaxystatic)) {
+  let galaxy_time=current_event.timestamp;
+  let galaxystate = gstates.states[String(galaxy_time)];
+  for (const [planet, values] of Object.entries(gstates.gstatic)) {
     for (const [key, value] of Object.entries(values)) {
       galaxystate[planet][key] = value;
     }
     galaxystate[planet]['ta']=DECODE(galaxystate[planet]['t']);
-    if (!galaxystate[planet]["link"]) {
+    if (!galaxystate[planet]["link2"]) {
       galaxystate[planet]["link"] = [];
+    }else{
+      let lastlink= galaxystate[planet]["link2"];
+      console.log(Object.values(gstates.links));
+      galaxystate[planet]["link"]=gstates.links[String(lastlink)];
     }
   }
-
+  //Link is in gstates[]
   const waypoints = Object.values(galaxystate).flatMap((x) =>
     Array.isArray(x.link) ? x.link.map((y) => ({ from: x.position, to: galaxystate[y].position })) : []
   );
 
-  let planets = Object.values(current_event.galaxystate);
+  let planets = Object.values(gstates.states[galaxy_time]);
   console.log(planets);
   let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
   let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
@@ -301,13 +306,29 @@ export function makeplot(
               planetimages["planet_" + p.index + "_rotate.gif"].base64_image,
           })
         : null,
+      Plot.image(activePlanets, {
+          x: (p) => p.position.x * 100,
+          y: (p) => p.position.y * -100,
+          stroke: "#ff0000", // fixed stroke color change
+          fill: (p) => getColor(p.ta[0]),
+          width: width / 25,
+          height: width / 25,
+          src: (p) => {
+            console.log(target[p.ta[0]]);
+            return target[p.ta[0]];
+          },
+          // strokeWidth: width / 200,
+          //symbol: "plus",
+        }),
+  
       Plot.text(
         planets,
         {
           x: (p) => p.position.x * 100 - width / 300,
           y: (p) => p.position.y * -100 - width / 300,
           text: (p) =>
-            isNaN(Math.round((p.hp / 1000000) * 100 * 10000) / 10000)
+            isNaN(Math.round((p.hp / 1000000) * 100 * 10000) / 10000) ||
+            Math.round((p.hp / 1000000) * 100 * 10000) / 10000 === 100
               ? ""
               : ` ${Math.round((p.hp / 1000000) * 100 * 10000) / 10000}`,
           dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
@@ -318,21 +339,7 @@ export function makeplot(
         },
         {},
       ),
-      Plot.image(activePlanets, {
-        x: (p) => p.position.x * 100,
-        y: (p) => p.position.y * -100,
-        stroke: "#ff0000", // fixed stroke color change
-        fill: (p) => getColor(p.ta[0]),
-        width: width / 25,
-        height: width / 25,
-        src: (p) => {
-          console.log(target[p.ta[0]]);
-          return target[p.ta[0]];
-        },
-        // strokeWidth: width / 200,
-        //symbol: "plus",
-      }),
-
+      
       Plot.tip(
         planets,
         Plot.pointer({

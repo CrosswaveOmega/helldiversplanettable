@@ -96,7 +96,7 @@ def parse_timestamp(timestamp_str: str) -> datetime:
 
 
 def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
-    pattern = r"^(?P<type>.*?)\s*\|\s*(?P<name>.*?)(?P<case>\s(is issued|is won|is failed))\s*\|\s*Objective:\s*(?P<objective>.*)$"
+    pattern = r"^(?P<type>.*?)\s*\|\s*(?P<name>.*?)(?P<case>\s(is issued|is won|is failed|was compromised))\s*\|\s*Objective:\s*(?P<objective>.*)$"
     match = re.match(pattern, text)
     if match:
         type_ = match.group("type")
@@ -142,10 +142,15 @@ def get_event_type(text: str) -> Tuple[str, str]:
             return "Major Order Won", match
         if "is failed" in text.lower():
             return "Major Order Lost", match
+        if "was compromised" in text.lower():
+            return "Major Order Compromised", match
         return "Major Order EVENT", match
     if "is liberated" in text.lower():
         match = "is liberated"
         return "planet won", match
+    if "note:" in text.lower():
+        match = "note:"
+        return "note", match
     if "instantly flips to" in text.lower():
         match = "instantly flips to"
         return "planet flip", match
@@ -404,9 +409,10 @@ async def main_code() -> None:
     laststats: Dict[int, Dict[str, Any]] = {}
     march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
     store: Dict[str, str] = {}
-    galaxy_states = {}
+    galaxy_states = {'states':{},'gstatic':{}}
     days_out["days"] = {}
     days_out["galaxystatic"] = planets
+    galaxy_states['gstatic']= planets
     days_out["lastday"] = 1
     days_out["dayind"] = {}
     days_out["new_events"] = []
@@ -447,8 +453,8 @@ async def main_code() -> None:
                     "faction": event["faction"],
                 }
             )
-            ne["galaxystate"] = event["galaxystate"]
-            galaxy_states[ne["timestamp"]] = event["galaxystate"]
+            #ne["galaxystate"] = event["galaxystate"]
+            galaxy_states['states'][int(ne["timestamp"])] = event["galaxystate"]
             ne["mo"] = event["mo"]
         ne["log"] = elog
         newevt.append(ne)
@@ -479,6 +485,24 @@ async def main_code() -> None:
     print("saving time cache")
     for d, v in all_times_new.items():
         save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
+    hashlinks={}
+    for t, s in galaxy_states['states'].items():
+        for p, res in s.items():
+            if 'link' in res:
+                link=unordered_list_hash(res['link'])
+                if not link in hashlinks:
+                    hashlinks[link]=res['link']
+                else:
+                    #print(link)
+                    if sorted(res['link'])!=sorted(hashlinks[link]):
+                        print("MISMATCH",res['link'],hashlinks[link])
+                    #hashlists[link][1]+=1
+                bef+=len(str(res['link']))
+                res['link2']=link
+                res.pop('link')
+                aft+=len(str(link))
+    print("saving galaxy states.")
+    galaxy_states['links']=hashlinks
     save_json_data("./src/data/gstates.json", galaxy_states)
     print(bef, aft)
     print(hashlists)
@@ -537,15 +561,17 @@ def unordered_list_hash(int_list: List[int]):
     xor_hash = 0
     sum_hash = 0
     # Iterate through the given list of integers
-    for num in int_list:
+    for num in sorted(int_list):
         # Compute the XOR for all elements in the list
         xor_hash ^= num
         # Compute the sum for all elements in the list
         sum_hash += num
     # print(xor_hash,sum_hash)
     # Return the combined hash
-    hashc = xor_hash * sum_hash
+    #hashc = hash((xor_hash,sum_hash))
+    hashc=list(sorted(int_list))
     if not hashc in valid_waypoints.values():
+        print("adding hash")
         valid_waypoints[len(valid_waypoints.keys())] = hashc
     for i, v in valid_waypoints.items():
         if v == hashc:
@@ -691,15 +717,15 @@ async def process_event(
         update_planet_ownership(event, planetclone)
     # Create hash list for waypoints, this is to eventually
     #cut down on the file size
-    for ind in planetclone.keys():
-        if "link" in planetclone[str(ind)]:
-            link = unordered_list_hash(planetclone[str(ind)]["link"])
-            if link not in hashlists:
-                hashlists[link] = [planetclone[str(ind)]["link"], 1]
-            else:
-                if sorted(planetclone[str(ind)]["link"]) != sorted(hashlists[link][0]):
-                    print("MISMATCH", planetclone[str(ind)]["link"], hashlists[link][0])
-                hashlists[link][1] += 1
+    # for ind in planetclone.keys():
+    #     if "link" in planetclone[str(ind)]:
+    #         link = unordered_list_hash(planetclone[str(ind)]["link"])
+    #         if link not in hashlists:
+    #             hashlists[link] = [planetclone[str(ind)]["link"], 1]
+    #         else:
+    #             if sorted(planetclone[str(ind)]["link"]) != sorted(hashlists[link][0]):
+    #                 print("MISMATCH", planetclone[str(ind)]["link"], hashlists[link][0])
+    #             hashlists[link][1] += 1
 
     event["galaxystate"] = planetclone
     return planetclone

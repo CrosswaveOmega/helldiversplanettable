@@ -22,6 +22,7 @@ title: The Great Big Galactic War History Map
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
+const gstates = FileAttachment("./data/gstates.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
 const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
@@ -185,7 +186,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div  class="card grid-colspan-2 grid-rowspan-2">
  ${theseinputs}
   ${daysSlider}
-    ${resize((width) => makeplot(historydata,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
+    ${resize((width) => makeplot(historydata,gstates,planetimages,backround,targets,count,{width, showImages,htarget,ttarget,atarget}))}
   </div>
   
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
