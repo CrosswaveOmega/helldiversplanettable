@@ -36,6 +36,7 @@ async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
 
 
 def check_and_load_json(filepath: str):
+    '''Make sure the json at filepath exists, and load it.'''
     if os.path.exists(filepath) and os.path.isfile(filepath):
         with open(filepath, "r", encoding="utf8") as json_file:
             return json.load(json_file)
@@ -363,6 +364,7 @@ async def create_planet_sectors():
     """Create the planet sectors file, given an inital set of all planets,
       with a waypoint configuration"""
     pda = check_and_load_json("./src/data/gen_data/theseplanets.json")
+    sectors_present=check_and_load_json("./src/data/gen_data/sectorplanets.json")
     sectors = {}
     for ind, planet in pda.items():
         if not planet["sector"] in sectors:
@@ -372,6 +374,8 @@ async def create_planet_sectors():
     for ind, value in sectors.items():
         isvalid = [planet for planet in value if planet.get("link")]
         # print(len(isvalid))
+        if ind not in sectors_present:
+            st2[ind] = [planet for planet in value]
         if len(isvalid) >= 0:
             st2[ind] = [planet for planet in value]
     sectors = {ind: value for ind, value in st2.items() if value}
@@ -503,7 +507,7 @@ def custom_strftime(format, t):
 def list_all(history):
     markdown_output = ["\n"]
 
-    def create_card(entry):
+    def make_entry(entry):
         for each in entry["log"]:
             # print(markdown_output[-1]);
             if each["type"] == "Day Start":
@@ -521,7 +525,7 @@ def list_all(history):
                 markdown_output.append(f"{each['text']} ({formatted_time})<br/>\n")
 
     for event in history["events"]:
-        create_card(event)
+        make_entry(event)
     return mainHeader + "".join(markdown_output)
 
 
@@ -829,7 +833,7 @@ if not os.path.exists("./src/data/gen_data"):
 
 
 
-asyncio.run(create_planet_sectors())
+#asyncio.run(create_planet_sectors())
 make_day_obj()
 format_event_obj()
 asyncio.run(main_code())
