@@ -101,7 +101,7 @@ const backevent = () => {
 };
 
 const set_day = (day) => {  
-  console.log("Getting day");
+  //console.log("Getting day");
   const eventIndex = historydata.days[day];
   if (eventIndex !== -1) {
     count.value=eventIndex;
@@ -113,7 +113,7 @@ const set_day = (day) => {
 daysSlider.addEventListener("input", () => {
     const eventIndex = historydata.events.findIndex(event => event.day.toString() === daysSlider.value.toString());
     if (eventIndex !== -1) {
-      console.log(eventIndex);
+      //console.log(eventIndex);
       mutableEventIndex.value = eventIndex;
       //eventSlider.value=eventIndex;
     }

@@ -162,6 +162,7 @@ Pöpli IX is liberated (2024-03-02 03:38)<br/>
 Cirrus of the Orion sector instantly flips to Terminid control (2024-03-02 09:46)<br/>
 ↳ Cirrus liberation campaign starts (2024-03-02 09:46)<br/>
 Cirrus is liberated (2024-03-02 15:25)<br/>
+↳ Orion sector is fully liberated (2024-03-02 15:25)<br/>
 Heeth of the Orion sector instantly flips to Terminid control (2024-03-02 19:22)<br/>
 ↳ Heeth liberation campaign starts (2024-03-02 19:22)<br/>
 Fenrir III of the Umlaut sector instantly flips to Terminid control (2024-03-02 19:23)<br/>
@@ -1214,7 +1215,7 @@ Fori Prime of the Draco sector is attacked by Terminids (2024-06-19 13:21)<br/>
 Esker defense is failed (2024-06-19 20:20)<br/>
 ↳ Esker liberation campaign starts (2024-06-19 20:20)<br/>
 Hellmire is liberated (2024-06-19 21:59)<br/>
-Nivel 43 liberation campaign starts (2024-06-19 21:59)<br/>
+↳ Nivel 43 liberation campaign starts (2024-06-19 21:59)<br/>
 
 ### Day: #134
 Fori Prime defense is failed (2024-06-20 13:21)<br/>
@@ -1655,7 +1656,13 @@ Midday Status (2024-08-16 03:00)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
 Major Order | Operation Gloom Gathering is issued | Objective: Sample (2024-08-16 15:27)<br/>
 Major Order | Operation Gloom Gathering was compromised | Objective: Sample (2024-08-17 01:47)<br/>
-↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an absurd amount of counterfeit samples(estimated 4.23 billion versus the mere ).  While medals were still rewarded, it was a dent in the official . (2024-08-17 01:47)<br/>
+↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a loss. (2024-08-17 01:47)<br/>
 
 ### Day: #192
 Estanu defense is won (2024-08-17 13:50)<br/>
+Major Order | Operation People's Shield is issued | Objective: Defend/Liberate (2024-08-17 19:03)<br/>
+Tarsh - Mastia supply line is added (2024-08-17 22:34)<br/>
+Tarsh - Curia supply line is added (2024-08-17 22:34)<br/>
+Tarsh of the Marspira sector is attacked by Automatons (2024-08-17 22:37)<br/>
+
+### Day: #193

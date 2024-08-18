@@ -462,19 +462,7 @@ async def main_code() -> None:
     bef = 0
     aft = 0
 
-    # for t, s in galaxy_states.items():
-    #     for p, res in s.items():
-    #         if 'link' in res:
-    #             link=unordered_list_hash(res['link'])
-    #             if not link in hashlists:
-    #                 hashlists[link]=[res['link'],1]
-    #             else:
-    #                 if sorted(res['link'])!=sorted(hashlists[link][0]):
-    #                     print("MISMATCH",res['link'],hashlists[link][0])
-    #                 hashlists[link][1]+=1
-    #             bef+=len(str(res['link']))
-    #             res['link']=link
-    #             aft+=len(str(link))
+
 
     markdowncode = list_all(days_out)
     # print(markdowncode)
@@ -486,6 +474,9 @@ async def main_code() -> None:
     for d, v in all_times_new.items():
         save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
     hashlinks={}
+
+    resort={}
+    laststate={}
     for t, s in galaxy_states['states'].items():
         for p, res in s.items():
             if 'link' in res:
@@ -501,11 +492,42 @@ async def main_code() -> None:
                 res['link2']=link
                 res.pop('link')
                 aft+=len(str(link))
+        if laststate:
+            for p, res in s.items():
+                if not p in resort:
+                    resort[p]=[]
+                
+                last=laststate[p]
+                keys_all=list(res.keys())
+                keysb=list(last.keys())
+
+                keysa=set(last.keys())
+                keysb=set(res.keys())
+
+                toad={}
+                for key in keys_all:
+                    if key not in laststate[p]:
+                        laststate[p][key]=None
+                    if laststate[p][key]!=res[key]:
+                        toad[key]=res[key]
+                if toad:
+                    toad['timestamp']=t
+                    resort[p].append(toad)
+        else:
+            for p, res in s.items():
+                if not p in resort:
+                    resort[p]=[res]
+                    resort[p][0]['timestamp']=t
+        laststate=s
     print("saving galaxy states.")
+    galaxy_states['states']={}
+    galaxy_states['gstate']=resort
     galaxy_states['links']=hashlinks
     save_json_data("./src/data/gstates.json", galaxy_states)
     print(bef, aft)
     print(hashlists)
+    
+    save_json_data("./src/data/resort.json", resort)
 
 
 mainHeader = """---
@@ -665,10 +687,17 @@ async def process_event(
     planetclone = json.loads(json.dumps(planets))
     for i, v in laststats.items():
         if str(i) in planetclone:
+            # if v["health"]!=1000000:
+            #     planetclone[str(i)]["hp"] = v["health"]
+            # else:
+            #     planetclone[str(i)]["hp"]=0
+            #     planetclone[str(i)].pop("hp")
             planetclone[str(i)]["hp"] = v["health"]
             planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-
             planetclone[str(i)]["pl"] = v["players"]
+            # else:
+            #     planetclone[str(i)]["pl"]=0
+            #     planetclone[str(i)].pop("pl")
 
     timestamp = str(event["timestamp"])
     dc = str(int(event["day"]) // 30)
@@ -737,10 +766,19 @@ def update_planet_stats(
     '''Update HP, regenPerSecond, and playercount'''
     for i, v in planetstats.items():
         if str(i) in planetclone:
+            # if v["health"]!=1000000:
+            #     planetclone[str(i)]["hp"] = v["health"]
+            # else:
+            #     planetclone[str(i)]["hp"]=0
+            #     planetclone[str(i)].pop("hp")
             planetclone[str(i)]["hp"] = v["health"]
             planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-
             planetclone[str(i)]["pl"] = v["players"]
+            # if v['players']>0:
+            #     planetclone[str(i)]["pl"] = v["players"]
+            # else:
+            #     planetclone[str(i)]["pl"]=0
+            #     planetclone[str(i)].pop("pl")
 
 
 def update_planet_ownership(
@@ -792,14 +830,14 @@ def update_planet_ownership(
                     while int(id2) in planetclone[str(ind)]["link"]:
                         # print('founda')
                         planetclone[str(ind)]["link"].remove(int(id2))
-                    if not planetclone[str(ind)]["link"]:
-                        planetclone[str(ind)].pop("link")
+                    #if not planetclone[str(ind)]["link"]:
+                    #    planetclone[str(ind)].pop("link")
                 if "link" in planetclone[str(id2)]:
                     while int(ind) in planetclone[str(id2)]["link"]:
                         # print('foundb')
                         planetclone[str(id2)]["link"].remove(int(ind))
-                    if not planetclone[str(id2)]["link"]:
-                        planetclone[str(id2)].pop("link")
+                    #if not planetclone[str(id2)]["link"]:
+                    #    planetclone[str(id2)].pop("link")
                         
 def add_waypoint(
     planetclone: Dict[str, Dict[str, Any]], ind: int, other_ind: int
@@ -820,13 +858,13 @@ def remove_waypoint(
     if "link" in planetclone[str(ind)]:
         while int(other_ind) in planetclone[str(ind)]["link"]:
             planetclone[str(ind)]["link"].remove(int(other_ind))
-        if not planetclone[str(ind)]["link"]:
-            planetclone[str(ind)].pop("link")
+        #if not planetclone[str(ind)]["link"]:
+        #    planetclone[str(ind)].pop("link")
     if "link" in planetclone[str(other_ind)]:
         while int(ind) in planetclone[str(other_ind)]["link"]:
             planetclone[str(other_ind)]["link"].remove(int(ind))
-        if not planetclone[str(other_ind)]["link"]:
-            planetclone[str(other_ind)].pop("link")
+        #if not planetclone[str(other_ind)]["link"]:
+        #    planetclone[str(other_ind)].pop("link")
 
 
 def update_waypoints(

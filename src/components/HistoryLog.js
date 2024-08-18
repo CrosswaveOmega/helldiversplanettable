@@ -199,9 +199,13 @@ function DECODE(number) {
   let CO = (number >> 4) & 0b111;
   let AT = (number >> 1) & 0b111;
   let L = number & 0b1;
-  console.log(CO,AT,L)
   return [CO, AT, L];
 }
+
+
+
+
+
 export function makeplot(
   history,
   gstates,
@@ -219,17 +223,28 @@ export function makeplot(
   };
   //let planets=current_event.galaxystate;
   let galaxy_time=current_event.timestamp;
-  let galaxystate = gstates.states[String(galaxy_time)];
+  let galaxystate = {} //gstates.states[String(galaxy_time)];
   for (const [planet, values] of Object.entries(gstates.gstatic)) {
+    galaxystate[planet]={};
     for (const [key, value] of Object.entries(values)) {
       galaxystate[planet][key] = value;
     }
+    for (const element of gstates.gstate[planet]) {
+      // Your code here
+      if (element.timestamp<=galaxy_time){
+        for (const [k, v] of Object.entries(element)) {
+          galaxystate[planet][k] = v;
+        }
+      }
+
+    }
+        
     galaxystate[planet]['ta']=DECODE(galaxystate[planet]['t']);
     if (!galaxystate[planet]["link2"]) {
       galaxystate[planet]["link"] = [];
     }else{
       let lastlink= galaxystate[planet]["link2"];
-      console.log(Object.values(gstates.links));
+     // console.log(Object.values(gstates.links));
       galaxystate[planet]["link"]=gstates.links[String(lastlink)];
     }
   }
@@ -238,8 +253,8 @@ export function makeplot(
     Array.isArray(x.link) ? x.link.map((y) => ({ from: x.position, to: galaxystate[y].position })) : []
   );
 
-  let planets = Object.values(gstates.states[galaxy_time]);
-  console.log(planets);
+  let planets = Object.values(galaxystate);
+  //console.log(planets);
   let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
   let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
   
@@ -314,7 +329,6 @@ export function makeplot(
           width: width / 25,
           height: width / 25,
           src: (p) => {
-            console.log(target[p.ta[0]]);
             return target[p.ta[0]];
           },
           // strokeWidth: width / 200,
@@ -370,7 +384,6 @@ export function makeplot(
 
 export function eList(history, count, parentCard, mode = 0) {
   // Function to create a card element
-  console.log("Elist")
   function createCard(entry, index, current, parentCard) {
     /*
               <strong>${entry.text}</strong><br>
