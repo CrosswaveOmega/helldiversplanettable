@@ -240,7 +240,8 @@ export function makeplot(
     }
         
     galaxystate[planet]['ta']=DECODE(galaxystate[planet]['t']);
-    if (!galaxystate[planet]["link2"]) {
+
+    if (!('link2' in galaxystate[planet])) {
       galaxystate[planet]["link"] = [];
     }else{
       let lastlink= galaxystate[planet]["link2"];
@@ -576,10 +577,10 @@ export function ListAll(history, parentCard, mode=0) {
           for (i = lower; i > 0; i--) {
             if (data.events[i].day==day){
              
-              console.log(newlower,data.events[i].day,day);
+              //console.log(newlower,data.events[i].day,day);
                newlower--;
             }else{newlower=i+1;break;}
-            console.log(newlower);
+            //console.log(newlower);
           }
           for (index = newlower; index < data.events.length; index++) {
             let event = data.events[index];

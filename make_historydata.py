@@ -392,7 +392,7 @@ async def create_planet_sectors():
 
 
 hashlists = {}
-valid_waypoints = {}
+valid_waypoints = {0:[]}
 
 async def main_code() -> None:
     '''Create the historydata.json file using result from format_event_object.'''
@@ -634,8 +634,6 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
                 "link": [int(w) for w in p["waypoints"]],
                 "t": ENCODE(get_faction(p["currentOwner"]), 0, 0),
             }
-            if not t["link"]:
-                t.pop("link")
             per = {
                 "name": p["name"],
                 "position": p["position"],
