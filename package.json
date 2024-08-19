@@ -1,26 +1,26 @@
 {
-  "type": "module",
-  "private": true,
-  "scripts": {
-    "clean": "rimraf src/.observablehq/cache",
-    "build": "rimraf dist && observable build",
-    "dev": "observable preview",
-    "deploy": "observable deploy",
-    "observable": "observable",
-    "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
-  },
-  "devDependencies": {
-    "prettier": "^3.3.3"
-  },
-  "dependencies": {
-    "@fontsource/michroma": "^5.0.20",
-    "@observablehq/framework": "^1.10.0",
-    "d3": "^7.9.0",
-    "d3-dsv": "^3.0.1",
-    "d3-time-format": "^4.1.0",
-    "rimraf": "^6.0.1"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "clean": "rimraf src/.observablehq/cache",
+        "build": "rimraf dist && observable build",
+        "dev": "observable preview",
+        "deploy": "observable deploy",
+        "observable": "observable",
+        "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
+    },
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    },
+    "dependencies": {
+        "@fontsource/michroma": "^5.0.20",
+        "@observablehq/framework": "^1.10.0",
+        "d3": "^7.9.0",
+        "d3-dsv": "^3.0.1",
+        "d3-time-format": "^4.1.0",
+        "rimraf": "^6.0.1"
+    },
+    "engines": {
+        "node": ">=18"
+    }
 }

@@ -596,13 +596,13 @@ Menkent of the Hydra sector is attacked by Automatons (2024-04-14 17:22)<br/>
 Lesath is liberated (2024-04-14 21:23)<br/>
 ↳ Penta liberation campaign starts (2024-04-14 21:23)<br/>
 Menkent defense is won (2024-04-15 04:56)<br/>
-Fori Prime of the Draco sector is attacked by Terminids (2024-04-15 07:59)<br/>
 
 ### Day: #68
 Crimsica is liberated (2024-04-15 13:24)<br/>
 ↳ Draco sector is fully liberated (2024-04-15 13:24)<br/>
 Midday Status (2024-04-15 18:00)<br/>
 Midday Status (2024-04-16 03:00)<br/>
+Fori Prime of the Draco sector is attacked by Terminids (2024-04-16 07:59)<br/>
 
 ### Day: #69
 Major Order | Operation Menkent Line is won | Objective: Control (2024-04-16 12:09)<br/>
@@ -626,12 +626,12 @@ X-45 - Vega Bay supply line is added (2024-04-18 07:54)<br/>
 Vega Bay - Wezen supply line is added (2024-04-18 07:54)<br/>
 Wezen - Varylia 5 supply line is added (2024-04-18 07:54)<br/>
 Fori Prime is liberated (2024-04-18 08:55)<br/>
-↳ Draco sector is fully liberated (2024-04-18 08:55)<br/>
 ↳ Oshaune liberation campaign starts (2024-04-18 08:55)<br/>
 
 ### Day: #71
 Major Order | Operation Organic Harvest is issued | Objective: Eradicate (2024-04-18 10:31)<br/>
 Estanu defense is won (2024-04-18 20:42)<br/>
+↳ Draco sector is fully liberated (2024-04-18 20:42)<br/>
 Major Order | Operation Organic Harvest is won | Objective: Eradicate (2024-04-18 23:10)<br/>
 
 ### Day: #72
@@ -646,6 +646,7 @@ Marfark of the Andromeda sector is attacked by Automatons (2024-04-19 15:10)<br/
 Midday Status (2024-04-19 18:00)<br/>
 Midday Status (2024-04-20 03:00)<br/>
 Estanu defense is won (2024-04-20 07:38)<br/>
+↳ Draco sector is fully liberated (2024-04-20 07:38)<br/>
 
 ### Day: #73
 Wasat - Vega Bay supply line is added (2024-04-20 10:41)<br/>
@@ -679,6 +680,7 @@ Midday Status (2024-04-22 03:00)<br/>
 ### Day: #75
 Estanu defense is won (2024-04-22 11:58)<br/>
 Fori Prime defense is won (2024-04-22 18:46)<br/>
+↳ Draco sector is fully liberated (2024-04-22 18:46)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-04-22 20:07)<br/>
 Charbal-VII of the Andromeda sector is attacked by Automatons (2024-04-22 20:10)<br/>
 Vernen Wells defense is failed (2024-04-22 20:29)<br/>
@@ -695,6 +697,7 @@ Tarsh - Mastia supply line is added (2024-04-22 20:49)<br/>
 Curia - Fenmire supply line is added (2024-04-22 20:49)<br/>
 Fenmire - Barabos supply line is added (2024-04-22 20:49)<br/>
 Estanu defense is won (2024-04-23 05:19)<br/>
+↳ Draco sector is fully liberated (2024-04-23 05:19)<br/>
 
 ### Day: #76
 Charbal-VII defense is failed (2024-04-23 20:12)<br/>
@@ -718,9 +721,11 @@ Mort defense is won (2024-04-24 11:14)<br/>
 Varylia 5 of the Trigon sector is attacked by Automatons (2024-04-24 11:28)<br/>
 Oshaune of the Mirin sector is attacked by Terminids (2024-04-24 11:30)<br/>
 Estanu defense is won (2024-04-24 11:59)<br/>
+↳ Draco sector is fully liberated (2024-04-24 11:59)<br/>
 Fori Prime of the Draco sector is attacked by Terminids (2024-04-24 20:33)<br/>
 Oshaune defense is won (2024-04-24 20:39)<br/>
 ↳ Fori Prime defense is auto-won via gambit (2024-04-24 21:02)<br/>
+     ↳ Draco sector is fully liberated (2024-04-24 21:02)<br/>
 Ustotu of the Trigon sector is attacked by Automatons (2024-04-24 21:06)<br/>
 Vernen Wells is liberated (2024-04-24 22:56)<br/>
 ↳ Menkent liberation campaign starts (2024-04-24 22:56)<br/>
@@ -736,6 +741,7 @@ Midday Status (2024-04-26 03:00)<br/>
 ### Day: #79
 Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06)<br/>
 Estanu defense is won (2024-04-26 12:12)<br/>
+↳ Draco sector is fully liberated (2024-04-26 12:12)<br/>
 Midday Status (2024-04-26 18:00)<br/>
 Midday Status (2024-04-27 03:00)<br/>
 Lesath is liberated (2024-04-27 08:45)<br/>
@@ -1666,3 +1672,6 @@ Tarsh - Curia supply line is added (2024-08-17 22:34)<br/>
 Tarsh of the Marspira sector is attacked by Automatons (2024-08-17 22:37)<br/>
 
 ### Day: #193
+Midday Status (2024-08-18 18:00)<br/>
+Curia is liberated (2024-08-18 22:08)<br/>
+↳ Tarsh defense is auto-won via gambit (2024-08-18 22:08)<br/>

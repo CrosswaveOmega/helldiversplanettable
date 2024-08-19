@@ -15,7 +15,7 @@ sidebar: true
     make_sector_data,
   } from "./components/data_transformers.js";
     import {
-    count_distinct_planet_battles,
+    count_distinct_planet_battles,count_distinct_sector_battles
   } from "./components/battle_tracker.js";
   
 ```
@@ -39,7 +39,7 @@ const update_time = "This website was last updated on " + lasttime['update_time'
 
 
 function sector_battle_table(historydata, mode, {width}) {
-  const countDistinctPlanetsData = count_distinct_planet_battles(historydata,false,sector_data)[0];
+  const countDistinctPlanetsData = count_distinct_sector_battles(historydata,false,sector_data)[0];
   let planets = Object.values(countDistinctPlanetsData);
   
   let columns = [];
@@ -222,6 +222,62 @@ function BattleList(history, showEvt,parentCard,use) {
   return [];
 }
 
+function SectorBattleList(history, showEvt,parentCard,use) {
+
+  function createCard(sector, index, current, parentCard) {
+    if (sector.events.length <= 0) {
+      return parentCard;
+    }
+    
+    const sectorList = document.createElement("ul");
+    const sectorItem = document.createElement("li");
+    const sectorHeader = document.createElement("h2");
+    sectorHeader.textContent = `${sector.name}`;
+    parentCard.appendChild(sectorHeader);
+    
+    
+    const eventList = document.createElement("ul");
+
+
+    for (const each of sector.events) {
+      const eventItem = document.createElement("li");
+      let eventText = `${each.event}`;
+      if (each.time) {
+        eventText += ` (${each.time} UTC)`;
+      }
+      eventItem.textContent = eventText;
+      eventList.appendChild(eventItem);
+    }
+    
+    
+    parentCard.appendChild(eventList);
+
+    return parentCard;
+  }
+
+  // Function to create the grid element
+  let distinct_elements = count_distinct_sector_battles(history,showEvt,sector_data)[use];
+
+  function createGrid(planetdata, parentElement) {
+    // Find and clear the 'cont' div
+    while (parentElement.firstChild) {
+      parentElement.removeChild(parentElement.firstChild);
+    }
+    
+    let data = Object.values(planetdata);
+    // Add new elements into the 'cont' div
+    for (let index = 0; index < data.length; index++) {
+      let sector = data[index];
+      let current = index === 0;
+      console.log(sector);
+      const card = createCard(sector, index, current, parentElement);
+    }
+  }
+
+  // Generate the grid with cards
+  createGrid(distinct_elements, parentCard);
+  return [];
+}
 const entry_sums=sum_entries_by_front(historydata);
 ```
 
@@ -244,7 +300,7 @@ const showEventsBox = Inputs.toggle({label: "Show Events", value: false});
 const showEvents= Generators.input(showEventsBox);
 
 ```
-All Battles
+All Planet Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 ${showEventsBox}
@@ -255,6 +311,19 @@ ${BattleList(historydata,showEvents,document.getElementById("history"),0)}
   </div>
   </div>
 
+All Sector Battles
+
+<div class="grid grid-cols-1">
+<div class="card big grid-colspan-2" >
+
+  ${SectorBattleList(historydata,showEvents,document.getElementById("history3"),0)}
+  <div id="history3" style="max-height: 500px; overflow-y: auto;">
+
+  </div>
+</div>
+
+</div>
+</div>
 <div class="grid grid-cols-3">
     <div  class='card' style="font-size: 1.1em;">
     <h2>Terminid Front Campaigns</h2>
