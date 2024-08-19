@@ -1675,3 +1675,6 @@ Tarsh of the Marspira sector is attacked by Automatons (2024-08-17 22:37)<br/>
 Midday Status (2024-08-18 18:00)<br/>
 Curia is liberated (2024-08-18 22:08)<br/>
 ↳ Tarsh defense is auto-won via gambit (2024-08-18 22:08)<br/>
+
+### Day: #194
+Curia of the Marspira sector is attacked by Automatons (2024-08-19 09:43)<br/>
