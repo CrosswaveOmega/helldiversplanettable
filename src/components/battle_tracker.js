@@ -390,7 +390,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                     logEntry.type == "cend"
                 ) {
                     let battle = `Battle ${planetTypes[sector].battles} for ${sector}, ${displayUTCTime(sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(sector_battles[sector].start, event.timestamp)}, failure)`;
-                planetTypes[sector]["events"].push({ time: null, event: battle });
+                    planetTypes[sector]["events"].push({ time: null, event: battle });
                     planetTypes[sector].loss += 1;
 
                     planetTypes[sector].current -= 1;
@@ -401,6 +401,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                     logEntry.type === "defense won"
                 ) {
                     let battle = `Battle ${planetTypes[sector].battles} for ${sector}, ${displayUTCTime(sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(sector_battles[sector].start, event.timestamp)}, victory)`;
+                    planetTypes[sector]["events"].push({ time: null, event: battle });
                     planetTypes[sector].win += 1;
                     planetTypes[sector].current -= 1;
                 }
