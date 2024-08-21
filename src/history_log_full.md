@@ -59,7 +59,7 @@ Ustotu - Varylia 5 supply line is added (2024-02-17 23:16)<br/>
 Ustotu - Choepessa IV supply line is added (2024-02-17 23:16)<br/>
 Varylia 5 - Choepessa IV supply line is added (2024-02-17 23:16)<br/>
 Vandalon IV of the Trigon sector is attacked by Automatons (2024-02-17 23:16)<br/>
-Maia is not accessible despite attacking a liberated planet (2024-02-17 23:16)<br/>
+↳ Maia is not accessible despite attacking a liberated planet (2024-02-17 23:16)<br/>
 Meridia is liberated (2024-02-18 01:25)<br/>
 ↳ Estanu liberation campaign starts (2024-02-18 01:25)<br/>
 ↳ Crimsica liberation campaign starts (2024-02-18 01:25)<br/>
@@ -311,7 +311,7 @@ Estanu of the Draco sector is attacked by Terminids (2024-03-18 12:11)<br/>
 Draupnir is liberated (2024-03-18 16:11)<br/>
 ↳ Xzar sector is fully liberated (2024-03-18 16:11)<br/>
 ↳ Ubanea liberation campaign starts (2024-03-18 16:11)<br/>
-Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-03-18 20:19)<br/>
+Midday Status (2024-03-18 18:00)<br/>
 Midday Status (2024-03-19 03:00)<br/>
 
 ### Day: #41
@@ -362,6 +362,7 @@ Hellmire of the Mirin sector instantly flips to Terminid control (2024-03-24 21:
 ↳ Nivel 43 liberation campaign ends (2024-03-24 21:59)<br/>
 Maia - Vandalon IV supply line is added (2024-03-24 22:49)<br/>
 Ingmar - Vandalon IV supply line is added (2024-03-24 22:49)<br/>
+Vandalon IV is not accessible despite connecting to the liberated world of Ingmar (2024-03-24 22:49)<br/>
 Hellmire is liberated (2024-03-25 02:00)<br/>
 ↳ Nivel 43 liberation campaign starts (2024-03-25 02:00)<br/>
 
@@ -444,8 +445,8 @@ Ubanea of the Severin sector is attacked by Automatons (2024-04-02 07:53)<br/>
 
 ### Day: #55
 Malevelon Creek defense is won (2024-04-02 17:01)<br/>
-Crimsica defense is failed (2024-04-02 17:17)<br/>
-↳ Crimsica liberation campaign starts (2024-04-02 17:17)<br/>
+Crimsica defense is failed (2024-04-02 17:47)<br/>
+↳ Crimsica liberation campaign starts (2024-04-02 17:47)<br/>
 Ubanea defense is won (2024-04-02 23:05)<br/>
 Vandalon IV of the Trigon sector is attacked by Automatons (2024-04-03 07:41)<br/>
 
@@ -462,10 +463,10 @@ Major Order | Operation Swift Disassembly Phase Three is won | Objective: Contro
 Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27)<br/>
 Midday Status (2024-04-04 18:00)<br/>
 Midday Status (2024-04-05 03:00)<br/>
-Estanu defense is failed (2024-04-05 07:51)<br/>
-↳ Draco sector is fully under Terminid control (2024-04-05 07:51)<br/>
-↳ Estanu liberation campaign starts (2024-04-05 07:51)<br/>
-↳ Fori Prime liberation campaign ends (2024-04-05 07:51)<br/>
+Estanu defense is failed (2024-04-05 07:54)<br/>
+↳ Draco sector is fully under Terminid control (2024-04-05 07:54)<br/>
+↳ Estanu liberation campaign starts (2024-04-05 07:54)<br/>
+↳ Fori Prime liberation campaign ends (2024-04-05 07:54)<br/>
 
 ### Day: #58
 Midday Status (2024-04-05 18:00)<br/>
@@ -543,21 +544,21 @@ Lesath defense is failed (2024-04-10 11:45)<br/>
 ↳ Lacille sector is fully under Automaton control (2024-04-10 11:45)<br/>
 ↳ Lesath liberation campaign starts (2024-04-10 11:45)<br/>
 ↳ Penta liberation campaign ends (2024-04-10 11:45)<br/>
-Matar Bay of the Andromeda sector is attacked by Automatons (2024-04-10 11:50)<br/>
+Matar Bay of the Andromeda sector is attacked by Automatons (2024-04-10 11:49)<br/>
 Menkent of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
 Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
 Midday Status (2024-04-10 18:00)<br/>
 Vernen Wells defense is won (2024-04-11 06:11)<br/>
 
 ### Day: #64
-Matar Bay defense is failed (2024-04-11 11:49)<br/>
-↳ Matar Bay liberation campaign starts (2024-04-11 11:49)<br/>
 Menkent defense is failed (2024-04-11 11:50)<br/>
 ↳ Menkent liberation campaign starts (2024-04-11 11:50)<br/>
 ↳ Choohe liberation campaign ends (2024-04-11 11:50)<br/>
 ↳ Chort Bay liberation campaign ends (2024-04-11 11:50)<br/>
 Martale of the Andromeda sector is attacked by Automatons (2024-04-11 11:52)<br/>
 Marfark of the Andromeda sector is attacked by Automatons (2024-04-11 11:52)<br/>
+Matar Bay defense is failed (2024-04-11 11:53)<br/>
+↳ Matar Bay liberation campaign starts (2024-04-11 11:53)<br/>
 Vernen Wells of the Hydra sector is attacked by Automatons (2024-04-11 11:53)<br/>
 Midday Status (2024-04-11 18:00)<br/>
 Midday Status (2024-04-12 03:00)<br/>
@@ -602,15 +603,15 @@ Crimsica is liberated (2024-04-15 13:24)<br/>
 ↳ Draco sector is fully liberated (2024-04-15 13:24)<br/>
 Midday Status (2024-04-15 18:00)<br/>
 Midday Status (2024-04-16 03:00)<br/>
-Fori Prime of the Draco sector is attacked by Terminids (2024-04-16 07:59)<br/>
+Fori Prime of the Draco sector is attacked by Terminids (2024-04-16 07:57)<br/>
 
 ### Day: #69
 Major Order | Operation Menkent Line is won | Objective: Control (2024-04-16 12:09)<br/>
 Midday Status (2024-04-16 18:00)<br/>
 Major Order | Operation Marfark defense is issued | Objective: Control (2024-04-17 03:17)<br/>
-Fori Prime defense is failed (2024-04-17 07:58)<br/>
-↳ Fori Prime liberation campaign starts (2024-04-17 07:58)<br/>
-↳ Oshaune liberation campaign ends (2024-04-17 07:58)<br/>
+Fori Prime defense is failed (2024-04-17 08:00)<br/>
+↳ Fori Prime liberation campaign starts (2024-04-17 08:00)<br/>
+↳ Oshaune liberation campaign ends (2024-04-17 08:00)<br/>
 Marfark is liberated (2024-04-17 08:47)<br/>
 ↳ Matar Bay liberation campaign starts (2024-04-17 08:47)<br/>
 
@@ -1005,8 +1006,8 @@ Midday Status (2024-05-25 03:00)<br/>
 ### Day: #108
 Angel's Venture defense is won (2024-05-25 16:58)<br/>
 ↳ Orion sector is fully liberated (2024-05-25 16:58)<br/>
-Midday Status (2024-05-25 18:00)<br/>
-Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-26 06:23)<br/>
+Fenrir III of the Umlaut sector is attacked by Terminids (2024-05-25 18:23)<br/>
+Midday Status (2024-05-26 03:00)<br/>
 
 ### Day: #109
 Varylia 5 is liberated (2024-05-26 14:28)<br/>
@@ -1274,31 +1275,31 @@ Mantes - Vandalon IV supply line is added (2024-06-23 21:58)<br/>
 Mantes of the Xzar sector is attacked by Automatons (2024-06-23 21:58)<br/>
 Mantes defense is won (2024-06-24 07:38)<br/>
 ↳ Xzar sector is fully liberated (2024-06-24 07:38)<br/>
+Varylia 5 of the Trigon sector is attacked by Automatons (2024-06-24 08:57)<br/>
 
 ### Day: #138
-Varylia 5 of the Trigon sector is attacked by Automatons (2024-06-24 09:04)<br/>
 Ingmar of the Xzar sector is attacked by Automatons (2024-06-24 09:24)<br/>
 Troost of the Trigon sector is attacked by Automatons (2024-06-24 09:24)<br/>
 Ingmar defense is won (2024-06-24 18:14)<br/>
 ↳ Xzar sector is fully liberated (2024-06-24 18:14)<br/>
 Phact Bay defense is failed (2024-06-24 22:00)<br/>
 ↳ Phact Bay liberation campaign starts (2024-06-24 22:00)<br/>
+Nivel 43 of the Mirin sector is attacked by Terminids (2024-06-25 07:48)<br/>
 Mort of the Xzar sector is attacked by Automatons (2024-06-25 07:55)<br/>
-Nivel 43 of the Mirin sector is attacked by Terminids (2024-06-25 07:57)<br/>
 
 ### Day: #139
-Varylia 5 defense is failed (2024-06-25 09:00)<br/>
-↳ Varylia 5 liberation campaign starts (2024-06-25 09:00)<br/>
-↳ Choepessa IV liberation campaign ends (2024-06-25 09:00)<br/>
+Varylia 5 defense is failed (2024-06-25 09:01)<br/>
+↳ Varylia 5 liberation campaign starts (2024-06-25 09:01)<br/>
+↳ Choepessa IV liberation campaign ends (2024-06-25 09:01)<br/>
 Gar Haren of the Jin Xi sector's supply lines are obliterated (2024-06-25 14:04)<br/>
 Mort defense is won (2024-06-25 14:41)<br/>
 ↳ Xzar sector is fully liberated (2024-06-25 14:41)<br/>
 Troost defense is failed (2024-06-25 21:28)<br/>
 ↳ Trigon sector is fully under Automaton control (2024-06-25 21:28)<br/>
 ↳ Ustotu liberation campaign ends (2024-06-25 21:28)<br/>
-Nivel 43 defense is failed (2024-06-26 07:51)<br/>
-↳ Nivel 43 liberation campaign starts (2024-06-26 07:51)<br/>
-↳ Zagon Prime liberation campaign ends (2024-06-26 07:51)<br/>
+Nivel 43 defense is failed (2024-06-26 07:54)<br/>
+↳ Nivel 43 liberation campaign starts (2024-06-26 07:54)<br/>
+↳ Zagon Prime liberation campaign ends (2024-06-26 07:54)<br/>
 
 # Day: #140
 Major Order | Operation Xzar Lockdown is won | Objective: Control (2024-06-26 09:37)<br/>
@@ -1308,11 +1309,11 @@ Acamar IV of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06)<br/>
 Bore Rock of the Falstaff sector is attacked by Terminids (2024-06-26 11:06)<br/>
 Bore Rock defense is won (2024-06-26 23:28)<br/>
 Acamar IV defense is won (2024-06-27 02:06)<br/>
-Fori Prime defense is failed (2024-06-27 08:07)<br/>
-↳ Fori Prime liberation campaign starts (2024-06-27 08:07)<br/>
-↳ Oshaune liberation campaign ends (2024-06-27 08:07)<br/>
 
 ### Day: #141
+Fori Prime defense is failed (2024-06-27 11:08)<br/>
+↳ Fori Prime liberation campaign starts (2024-06-27 11:08)<br/>
+↳ Oshaune liberation campaign ends (2024-06-27 11:08)<br/>
 Midday Status (2024-06-27 18:00)<br/>
 Midday Status (2024-06-28 03:00)<br/>
 Phact Bay is liberated (2024-06-28 08:36)<br/>
@@ -1675,6 +1676,27 @@ Tarsh of the Marspira sector is attacked by Automatons (2024-08-17 22:37)<br/>
 Midday Status (2024-08-18 18:00)<br/>
 Curia is liberated (2024-08-18 22:08)<br/>
 ↳ Tarsh defense is auto-won via gambit (2024-08-18 22:08)<br/>
+↳ Marspira sector is fully liberated (2024-08-18 22:08)<br/>
 
 ### Day: #194
 Curia of the Marspira sector is attacked by Automatons (2024-08-19 09:43)<br/>
+Curia defense is won (2024-08-19 21:44)<br/>
+↳ Marspira sector is fully liberated (2024-08-19 21:44)<br/>
+Vernen Wells - Tarsh supply line is added (2024-08-20 07:33)<br/>
+Vernen Wells is not accessible despite connecting to the liberated world of Tarsh (2024-08-20 07:33)<br/>
+Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-20 07:41)<br/>
+
+### Day: #195
+Curia of the Marspira sector is attacked by Automatons (2024-08-20 11:11)<br/>
+Tarsh of the Marspira sector is attacked by Automatons (2024-08-20 11:12)<br/>
+Midday Status (2024-08-20 18:00)<br/>
+Curia defense is won (2024-08-21 04:36)<br/>
+Major Order | Operation People's Shield is won | Objective Defend/Liberate (2024-08-21 04:36)<br/>
+Acamar IV defense is failed (2024-08-21 07:47)<br/>
+Acamar IV liberation campaign starts (2024-08-21 07:47)<br/>
+
+### Day: #196
+Tarsh defense is failed (2024-08-21 11:16)<br/>
+Tarsh liberation campaign starts (2024-08-21 11:16)<br/>
+Major Order | Operation Colossus Shadow is issued | Objective: Hold/Eradicate (2024-08-21 14:33)<br/>
+Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-08-21 14:38)<br/>
