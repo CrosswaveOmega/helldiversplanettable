@@ -1693,10 +1693,18 @@ Midday Status (2024-08-20 18:00)<br/>
 Curia defense is won (2024-08-21 04:36)<br/>
 Major Order | Operation People's Shield is won | Objective Defend/Liberate (2024-08-21 04:36)<br/>
 Acamar IV defense is failed (2024-08-21 07:47)<br/>
-Acamar IV liberation campaign starts (2024-08-21 07:47)<br/>
+↳ Acamar IV liberation campaign starts (2024-08-21 07:47)<br/>
 
 ### Day: #196
 Tarsh defense is failed (2024-08-21 11:16)<br/>
-Tarsh liberation campaign starts (2024-08-21 11:16)<br/>
+↳ Tarsh liberation campaign starts (2024-08-21 11:16)<br/>
 Major Order | Operation Colossus Shadow is issued | Objective: Hold/Eradicate (2024-08-21 14:33)<br/>
 Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-08-21 14:38)<br/>
+Midday Status (2024-08-21 18:00)<br/>
+Midday Status (2024-08-22 03:00)<br/>
+
+### Day: #197
+Pandion-XXIV defense is failed (2024-08-22 14:41)<br/>
+↳ Pandion-XXIV liberation campaign starts (2024-08-22 14:41)<br/>
+↳ Gacrux liberation campaign ends (2024-08-22 14:41)<br/>
+Crimsica is liberated (2024-08-22 16:52)<br/>
