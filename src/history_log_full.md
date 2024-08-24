@@ -51,7 +51,7 @@ Draupnir defense is failed (2024-02-17 00:58)<br/>
 # Day: #10
 Mantes defense is failed (2024-02-17 13:42)<br/>
 ↳ Mantes liberation campaign starts (2024-02-17 13:42)<br/>
-↳ Malevelon Creek liberation campaign ends (2024-02-17 13:42)<br/>
+↳ Malevelon Creek is still accessible despite being cut off (2024-02-17 13:42)<br/>
 Ubanea of the Severin sector is attacked by Automatons (2024-02-17 13:52)<br/>
 Troost - Vandalon IV supply line is added (2024-02-17 23:16)<br/>
 Vandalon IV - Ustotu supply line is added (2024-02-17 23:16)<br/>
@@ -65,7 +65,6 @@ Meridia is liberated (2024-02-18 01:25)<br/>
 ↳ Crimsica liberation campaign starts (2024-02-18 01:25)<br/>
 Ubanea defense is won (2024-02-18 01:53)<br/>
 Draupnir is liberated (2024-02-18 05:40)<br/>
-↳ Malevelon Creek liberation campaign starts (2024-02-18 05:40)<br/>
 Mantes is liberated (2024-02-18 07:39)<br/>
 ↳ Xzar sector is fully liberated (2024-02-18 07:39)<br/>
 
@@ -78,7 +77,7 @@ Fenrir III is liberated (2024-02-19 07:50)<br/>
 
 ### Day: #12
 Ubanea of the Severin sector is attacked by Automatons (2024-02-19 10:26)<br/>
-Draupnir of the Xzar sector is attacked by Automatons (2024-02-19 10:27)<br/>
+Draupnir of the Xzar sector is attacked by Automatons (2024-02-19 10:26)<br/>
 Mantes defense is won (2024-02-19 16:19)<br/>
 
 ### Day: #13
@@ -106,7 +105,7 @@ Ingmar of the Xzar sector is attacked by Automatons (2024-02-23 06:58)<br/>
 ### Day: #17
 Ingmar defense is won (2024-02-24 15:19)<br/>
 Mantes of the Xzar sector is attacked by Automatons (2024-02-24 22:09)<br/>
-Pöpli IX of the Xzar sector is attacked by Automatons (2024-02-24 22:10)<br/>
+Pöpli IX of the Xzar sector is attacked by Automatons (2024-02-24 22:09)<br/>
 Troost defense is failed (2024-02-25 06:48)<br/>
 
 ### Day: #18
@@ -122,11 +121,13 @@ Mort of the Xzar sector is attacked by Automatons (2024-02-26 00:02)<br/>
 Draupnir of the Xzar sector is attacked by Automatons (2024-02-26 21:27)<br/>
 
 # Day: #20
-Draupnir defense is failed (2024-02-27 21:37)<br/>
-↳ Ubanea liberation campaign ends (2024-02-27 21:37)<br/>
-↳ Malevelon Creek liberation campaign ends (2024-02-27 21:37)<br/>
-Mort defense is won (2024-02-27 21:55)<br/>
+Draupnir defense is failed (2024-02-27 21:34)<br/>
+↳ Ubanea is still accessible despite being cut off (2024-02-27 21:34)<br/>
+↳ Malevelon Creek is still accessible despite being cut off (2024-02-27 21:34)<br/>
+↳ Ubanea liberation campaign ends (2024-02-27 21:53)<br/>
+↳ Malevelon Creek liberation campaign ends (2024-02-27 21:53)<br/>
 Ingmar of the Xzar sector is attacked by Automatons (2024-02-27 21:56)<br/>
+Mort defense is won (2024-02-27 23:55)<br/>
 Mantes is liberated (2024-02-28 06:41)<br/>
 ↳ Draupnir liberation campaign starts (2024-02-28 06:41)<br/>
 ↳ Malevelon Creek liberation campaign starts (2024-02-28 06:41)<br/>
@@ -231,8 +232,8 @@ Angel's Venture is liberated (2024-03-06 17:39)<br/>
 ↳ Turing liberation campaign starts (2024-03-06 17:39)<br/>
 Ustotu defense is failed (2024-03-06 20:21)<br/>
 ↳ Ustotu liberation campaign starts (2024-03-06 20:21)<br/>
-↳ Vandalon IV liberation campaign ends (2024-03-06 20:21)<br/>
-Midday Status (2024-03-07 03:00)<br/>
+↳ Vandalon IV is still accessible despite being cut off (2024-03-06 20:21)<br/>
+↳ Vandalon IV liberation campaign ends (2024-03-06 23:56)<br/>
 
 ### Day: #29
 Major Order | Operation Defense of Heeth and Angel's Venture is won | Objective: Control (2024-03-07 13:46)<br/>
@@ -254,8 +255,8 @@ Tien Kwan is liberated (2024-03-08 15:49)<br/>
 ↳ Major Order | Operation Patriot is won | Objective: Liberate (2024-03-08 15:49)<br/>
 Angel's Venture defense is failed (2024-03-08 19:39)<br/>
 ↳ Angel's Venture liberation campaign starts (2024-03-08 19:39)<br/>
-↳ Meridia liberation campaign ends (2024-03-08 19:39)<br/>
-↳ Turing liberation campaign ends (2024-03-08 19:39)<br/>
+↳ Meridia is still accessible despite being cut off (2024-03-08 19:39)<br/>
+↳ Turing is still accessible despite being cut off (2024-03-08 19:39)<br/>
 Midday Status (2024-03-09 03:00)<br/>
 
 ### Day: #31
@@ -269,8 +270,6 @@ Midday Status (2024-03-11 03:00)<br/>
 ### Day: #33
 Angel's Venture is liberated (2024-03-11 19:57)<br/>
 ↳ Orion sector is fully liberated (2024-03-11 19:57)<br/>
-↳ Meridia liberation campaign starts (2024-03-11 19:57)<br/>
-↳ Turing liberation campaign starts (2024-03-11 19:57)<br/>
 Midday Status (2024-03-12 03:00)<br/>
 
 ### Day: #34
@@ -318,7 +317,8 @@ Midday Status (2024-03-19 03:00)<br/>
 Estanu defense is failed (2024-03-19 12:14)<br/>
 ↳ Draco sector is fully under Terminid control (2024-03-19 12:14)<br/>
 ↳ Estanu liberation campaign starts (2024-03-19 12:14)<br/>
-↳ Fori Prime liberation campaign ends (2024-03-19 12:14)<br/>
+↳ Fori Prime is still accessible despite being cut off (2024-03-19 12:14)<br/>
+↳ Fori Prime liberation campaign ends (2024-03-19 13:47)<br/>
 Major Order | Operation Prime Liberation is issued | Objective: Liberate (2024-03-19 16:13)<br/>
 Midday Status (2024-03-19 18:00)<br/>
 Estanu is liberated (2024-03-20 05:15)<br/>
@@ -399,7 +399,7 @@ Midday Status (2024-03-29 03:00)<br/>
 Oshaune defense is failed (2024-03-29 08:14)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-03-29 08:14)<br/>
 ↳ Oshaune liberation campaign starts (2024-03-29 08:14)<br/>
-↳ Omicron liberation campaign ends (2024-03-29 08:14)<br/>
+↳ Omicron is still accessible despite being cut off (2024-03-29 08:14)<br/>
 
 ### Day: #51
 Troost is liberated (2024-03-29 12:39)<br/>
@@ -407,16 +407,19 @@ Troost is liberated (2024-03-29 12:39)<br/>
 ↳ Major Order | Operation Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39)<br/>
 Fori Prime of the Draco sector is attacked by Terminids (2024-03-29 12:51)<br/>
 Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53)<br/>
+Omicron liberation campaign ends (2024-03-29 13:47)<br/>
 Draupnir of the Xzar sector is attacked by Automatons (2024-03-29 19:05)<br/>
 Midday Status (2024-03-30 03:00)<br/>
 
 ### Day: #52
 Fori Prime defense is failed (2024-03-30 12:52)<br/>
 ↳ Fori Prime liberation campaign starts (2024-03-30 12:52)<br/>
-↳ Oshaune liberation campaign ends (2024-03-30 12:52)<br/>
+↳ Oshaune is still accessible despite being cut off (2024-03-30 12:52)<br/>
 Draupnir defense is failed (2024-03-30 19:05)<br/>
 ↳ Draupnir liberation campaign starts (2024-03-30 19:05)<br/>
-↳ Ubanea liberation campaign ends (2024-03-30 19:05)<br/>
+↳ Ubanea is still accessible despite being cut off (2024-03-30 19:05)<br/>
+↳ Ubanea liberation campaign ends (2024-03-30 19:25)<br/>
+Oshaune liberation campaign ends (2024-03-30 19:28)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-03-30 20:55)<br/>
 Midday Status (2024-03-31 03:00)<br/>
 
@@ -1708,3 +1711,7 @@ Pandion-XXIV defense is failed (2024-08-22 14:41)<br/>
 ↳ Pandion-XXIV liberation campaign starts (2024-08-22 14:41)<br/>
 ↳ Gacrux liberation campaign ends (2024-08-22 14:41)<br/>
 Crimsica is liberated (2024-08-22 16:52)<br/>
+Midday Status (2024-08-22 18:00)<br/>
+Midday Status (2024-08-23 03:00)<br/>
+
+### Day: #198
