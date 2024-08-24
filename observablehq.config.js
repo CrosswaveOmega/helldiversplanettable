@@ -38,7 +38,7 @@ export default {
         },
         {
             name: "About",
-            pages: [{ name: "About", path: "/report" }],
+            pages: [{ name: "About", path: "/report" },{ name: "Galactic War Guide", path: "/galacticwarguide" }],
         },
     ],
 

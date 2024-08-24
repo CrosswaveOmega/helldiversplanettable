@@ -17,6 +17,10 @@ sidebar: true
     import {
     count_distinct_planet_battles,count_distinct_sector_battles
   } from "./components/battle_tracker.js";
+
+      import {
+    BattleList,SectorBattleList
+  } from "./components/battle_list_gen.js";
   
 ```
 
@@ -158,126 +162,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   });
 }
 
-function BattleList(history, showEvt,parentCard,use) {
 
-  function createCard(sector, index, current, parentCard) {
-    let planets = Object.values(sector.planets);
-    if (planets.length <= 0) {
-      return parentCard;
-    }
-    
-    const sectorList = document.createElement("ul");
-    const sectorItem = document.createElement("li");
-    const sectorHeader = document.createElement("h2");
-    sectorHeader.textContent = `${sector.name}`;
-   parentCard.appendChild(sectorHeader);
-    
-    const planetList = document.createElement("ul");
-    for (const entry of planets) {
-      const planetItem = document.createElement("li");
-      const planetHeader = document.createElement("h3");
-      planetHeader.textContent = `${entry.name}`;
-      planetItem.appendChild(planetHeader);
-      
-      const eventList = document.createElement("ul");
-      for (const each of entry.events) {
-        const eventItem = document.createElement("li");
-        let eventText = `${each.event}`;
-        if (each.time) {
-          eventText += ` (${each.time} UTC)`;
-        }
-        eventItem.textContent = eventText;
-        eventList.appendChild(eventItem);
-      }
-      
-      planetItem.appendChild(eventList);
-      planetList.appendChild(planetItem);
-    }
-    
-    parentCard.appendChild(planetList);
-
-    return parentCard;
-  }
-
-  // Function to create the grid element
-  let distinct_elements = count_distinct_planet_battles(history,showEvt,sector_data)[use];
-
-  function createGrid(planetdata, parentElement) {
-    // Find and clear the 'cont' div
-    while (parentElement.firstChild) {
-      parentElement.removeChild(parentElement.firstChild);
-    }
-    
-    let data = Object.values(planetdata);
-    // Add new elements into the 'cont' div
-    for (let index = 0; index < data.length; index++) {
-      let sector = data[index];
-      let current = index === 0;
-      const card = createCard(sector, index, current, parentElement);
-    }
-  }
-
-  // Generate the grid with cards
-  createGrid(distinct_elements, parentCard);
-  return [];
-}
-
-function SectorBattleList(history, showEvt,parentCard,use) {
-
-  function createCard(sector, index, current, parentCard) {
-    if (sector.events.length <= 0) {
-      return parentCard;
-    }
-    
-    const sectorList = document.createElement("ul");
-    const sectorItem = document.createElement("li");
-    const sectorHeader = document.createElement("h2");
-    sectorHeader.textContent = `${sector.name}`;
-    parentCard.appendChild(sectorHeader);
-    
-    
-    const eventList = document.createElement("ul");
-
-
-    for (const each of sector.events) {
-      const eventItem = document.createElement("li");
-      let eventText = `${each.event}`;
-      if (each.time) {
-        eventText += ` (${each.time} UTC)`;
-      }
-      eventItem.textContent = eventText;
-      eventList.appendChild(eventItem);
-    }
-    
-    
-    parentCard.appendChild(eventList);
-
-    return parentCard;
-  }
-
-  // Function to create the grid element
-  let distinct_elements = count_distinct_sector_battles(history,showEvt,sector_data)[use];
-
-  function createGrid(planetdata, parentElement) {
-    // Find and clear the 'cont' div
-    while (parentElement.firstChild) {
-      parentElement.removeChild(parentElement.firstChild);
-    }
-    
-    let data = Object.values(planetdata);
-    // Add new elements into the 'cont' div
-    for (let index = 0; index < data.length; index++) {
-      let sector = data[index];
-      let current = index === 0;
-      console.log(sector);
-      const card = createCard(sector, index, current, parentElement);
-    }
-  }
-
-  // Generate the grid with cards
-  createGrid(distinct_elements, parentCard);
-  return [];
-}
 const entry_sums=sum_entries_by_front(historydata);
 ```
 
@@ -287,7 +172,7 @@ ${update_time}
 Ongoing Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
-${BattleList(historydata,false,document.getElementById("history2"),1)}
+${BattleList(historydata,false,document.getElementById("history2"),1,count_distinct_planet_battles,sector_data)}
   <div id="history2" style="max-height: 500px; overflow-y: auto;">
 
   </div>
@@ -304,7 +189,7 @@ All Planet Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 ${showEventsBox}
-${BattleList(historydata,showEvents,document.getElementById("history"),0)}
+${BattleList(historydata,showEvents,document.getElementById("history"),0,count_distinct_planet_battles,sector_data)}
   <div id="history" style="max-height: 500px; overflow-y: auto;">
 
   </div>
@@ -316,7 +201,7 @@ All Sector Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 
-  ${SectorBattleList(historydata,showEvents,document.getElementById("history3"),0)}
+  ${SectorBattleList(historydata,showEvents,document.getElementById("history3"),0,count_distinct_sector_battles,sector_data)}
   <div id="history3" style="max-height: 500px; overflow-y: auto;">
 
   </div>
