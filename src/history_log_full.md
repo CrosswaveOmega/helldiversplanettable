@@ -1715,3 +1715,11 @@ Midday Status (2024-08-22 18:00)<br/>
 Midday Status (2024-08-23 03:00)<br/>
 
 ### Day: #198
+Midday Status (2024-08-23 18:00)<br/>
+Midday Status (2024-08-24 03:00)<br/>
+
+### Day: #199
+Pandion-XXIV is liberated (2024-08-24 21:03)<br/>
+↳ Gacrux liberation campaign starts (2024-08-24 21:03)<br/>
+
+# Day: #200
