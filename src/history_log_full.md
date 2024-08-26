@@ -539,6 +539,7 @@ Matar Bay - Martale supply line is added (2024-04-09 16:16)<br/>
 Midday Status (2024-04-09 18:00)<br/>
 Midday Status (2024-04-10 03:00)<br/>
 Menkent defense is won (2024-04-10 07:14)<br/>
+↳ Hydra sector is fully liberated (2024-04-10 07:14)<br/>
 
 ### Day: #63
 Chort Bay defense is failed (2024-04-10 11:44)<br/>
@@ -600,6 +601,7 @@ Menkent of the Hydra sector is attacked by Automatons (2024-04-14 17:22)<br/>
 Lesath is liberated (2024-04-14 21:23)<br/>
 ↳ Penta liberation campaign starts (2024-04-14 21:23)<br/>
 Menkent defense is won (2024-04-15 04:56)<br/>
+↳ Hydra sector is fully liberated (2024-04-15 04:56)<br/>
 
 ### Day: #68
 Crimsica is liberated (2024-04-15 13:24)<br/>
@@ -666,6 +668,7 @@ Fori Prime of the Draco sector is attacked by Terminids (2024-04-20 15:10)<br/>
 Lesath defense is failed (2024-04-20 15:10)<br/>
 ↳ Lesath liberation campaign starts (2024-04-20 15:10)<br/>
 ↳ Penta liberation campaign ends (2024-04-20 15:10)<br/>
+↳ Lacaille sector is fully under Automaton control (2024-04-20 15:10)<br/>
 Charon Prime defense is failed (2024-04-20 15:11)<br/>
 ↳ Charon Prime liberation campaign starts (2024-04-20 15:11)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-04-20 15:11)<br/>
@@ -1266,7 +1269,7 @@ Vandalon IV defense is failed (2024-06-22 23:05)<br/>
 ↳ Vandalon IV liberation campaign starts (2024-06-22 23:05)<br/>
 Mort is liberated (2024-06-23 08:02)<br/>
 ↳ Pöpli IX defense is auto-won via gambit (2024-06-23 08:02)<br/>
-↳ The Xzar sector is fully liberated (2024-06-23 08:02)<br/>
+↳ Xzar sector is fully liberated (2024-06-23 08:02)<br/>
 ↳ Charbal-VII liberation campaign starts (2024-06-23 08:02)<br/>
 
 ### Day: #137
@@ -1723,3 +1726,9 @@ Pandion-XXIV is liberated (2024-08-24 21:03)<br/>
 ↳ Gacrux liberation campaign starts (2024-08-24 21:03)<br/>
 
 # Day: #200
+Esker of the Falstaff sector is attacked by Terminids (2024-08-25 21:49)<br/>
+
+### Day: #201
+Estanu of the Draco sector is attacked by Terminids (2024-08-26 13:36)<br/>
+Socorro III of the Falstaff sector is attacked by Terminids (2024-08-26 13:36)<br/>
+Esker defense is won (2024-08-26 15:39)<br/>
