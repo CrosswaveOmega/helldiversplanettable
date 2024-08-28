@@ -1697,7 +1697,7 @@ Curia of the Marspira sector is attacked by Automatons (2024-08-20 11:11)<br/>
 Tarsh of the Marspira sector is attacked by Automatons (2024-08-20 11:12)<br/>
 Midday Status (2024-08-20 18:00)<br/>
 Curia defense is won (2024-08-21 04:36)<br/>
-Major Order | Operation People's Shield is won | Objective Defend/Liberate (2024-08-21 04:36)<br/>
+Major Order | Operation People's Shield is won | Objective: Defend/Liberate (2024-08-21 04:36)<br/>
 Acamar IV defense is failed (2024-08-21 07:47)<br/>
 ↳ Acamar IV liberation campaign starts (2024-08-21 07:47)<br/>
 
@@ -1746,6 +1746,7 @@ Fori Prime liberation campaign is still active despite being inaccessible (2024-
 Erson Sands liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
 Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-27 15:14)<br/>
 Matar Bay defense is won (2024-08-27 16:55)<br/>
+↳ Andromeda sector is fully liberated (2024-08-27 16:55)<br/>
 Hellmire liberation campaign ends (2024-08-27 17:42)<br/>
 Fori Prime liberation campaign ends (2024-08-27 17:42)<br/>
 Nivel 43 liberation campaign ends (2024-08-27 17:42)<br/>

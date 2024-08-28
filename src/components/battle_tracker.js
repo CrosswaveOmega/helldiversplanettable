@@ -62,8 +62,8 @@ export function count_distinct_planet_battles(history, showEvts, sector_data) {
                             win: 0,
                             loss: 0,
                             current: 0,
-                            cstart: 0,
-                            cend: 0,
+                            campaign_start: 0,
+                            campaign_end: 0,
                             flips: 0,
                             planetwon: 0,
                             defensestart: 0,
@@ -85,7 +85,7 @@ export function count_distinct_planet_battles(history, showEvts, sector_data) {
                             event.time,
                         );
                     }
-                    if (logEntry.type === "cend") {
+                    if (logEntry.type === "campaign_end") {
                         let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, failure)`;
                         add_to_entry(
                             planetTypes[sector].planets,
@@ -95,10 +95,10 @@ export function count_distinct_planet_battles(history, showEvts, sector_data) {
                         );
                         battles[pid].planet = null;
                         planetTypes[sector].loss += 1;
-                        planetTypes[sector].cend += 1;
+                        planetTypes[sector].campaign_end += 1;
                         planetTypes[sector].current -= 1;
                     }
-                    if (logEntry.type === "cstart") {
+                    if (logEntry.type === "campaign_start") {
                         battles[pid].pc += 1;
                         battles[pid].lc += 1;
                         battles[pid].start = event.timestamp;
@@ -107,7 +107,7 @@ export function count_distinct_planet_battles(history, showEvts, sector_data) {
 
                         planetTypes[sector].battles += 1;
                         planetTypes[sector].current += 1;
-                        planetTypes[sector].cstart += 1;
+                        planetTypes[sector].campaign_start += 1;
                     }
                     if (logEntry.type === "defense start") {
                         battles[pid].pc += 1;
@@ -279,8 +279,8 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                             win: 0,
                             loss: 0,
                             current: 0,
-                            cstart: 0,
-                            cend: 0,
+                            campaign_start: 0,
+                            campaign_end: 0,
                             flips: 0,
                             activeCampaigns: 0,
                         };
@@ -293,7 +293,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                     }
 
                     if (
-                        logEntry.type === "cstart" ||
+                        logEntry.type === "campaign_start" ||
                         logEntry.type === "defense start"
                     ) {
                         if (battles[pid].planet === null) {
@@ -316,7 +316,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                         }
                     }
                     if (
-                        logEntry.type === "cend" ||
+                        logEntry.type === "campaign_end" ||
                         logEntry.type === "planet won" ||
                         logEntry.type === "planet superwon" ||
                         logEntry.type === "defense won" ||
@@ -329,7 +329,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                             }
                         }
                     }
-                    if (logEntry.type === "cend") {
+                    if (logEntry.type === "campaign_end") {
                         let battle = `Battle ${battles[pid].pc} for ${planet[0]}, ${displayUTCTime(battles[pid].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(battles[pid].start, event.timestamp)}, failure)`;
                         add_to_entry(
                             planetTypes[sector].sub,
@@ -339,7 +339,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                         );
                         battles[pid].planet = null;
                     }
-                    if (logEntry.type === "cstart") {
+                    if (logEntry.type === "campaign_start") {
                         battles[pid].pc += 1;
                         battles[pid].lc += 1;
                         battles[pid].start = event.timestamp;
@@ -417,7 +417,7 @@ export function count_distinct_sector_battles(history, showEvts, sector_data) {
                 
                 if (
                     logEntry.type == "defense lost" ||
-                    logEntry.type == "cend"
+                    logEntry.type == "campaign_end"
                 ) {
                     let battle = `Battle ${planetTypes[sector].battles} for ${sector}, ${displayUTCTime(sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(sector_battles[sector].start, event.timestamp)}, failure)`;
                     planetTypes[sector]["events"].push({ time: null, event: battle, subevents:planetTypes[sector]['sub']})

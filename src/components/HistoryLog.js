@@ -152,7 +152,7 @@ export function count_distinct_planets(history, planets) {
             if (logEntry.planet) {
                 logEntry.planet.forEach((planet) => {
                     if (
-                        logEntry.type === "cstart" ||
+                        logEntry.type === "campaign_start" ||
                         logEntry.type === "defense start"
                     ) {
                         add_to_entry(
@@ -163,7 +163,7 @@ export function count_distinct_planets(history, planets) {
                             planets,
                         );
                     }
-                    if (logEntry.type === "cend") {
+                    if (logEntry.type === "campaign_end") {
                         add_to_entry(
                             acc,
                             planet,
@@ -172,7 +172,7 @@ export function count_distinct_planets(history, planets) {
                             planets,
                         );
                     }
-                    if (logEntry.type === "cstart") {
+                    if (logEntry.type === "campaign_start") {
                         add_to_entry(
                             acc,
                             planet,
@@ -266,7 +266,7 @@ export function makeplot(
         3: atarget,
     };
     //let planets=current_event.galaxystate;
-    let galaxy_time = current_event.ind;
+    let galaxy_time = current_event.eind;
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
@@ -469,7 +469,7 @@ export function eList(history, count, parentCard, mode = 0) {
         parentCard.appendChild(document.createElement("br"));
 
         parentCard.appendChild(document.createElement("br"));
-        /*         if (!['unknown','cstart','cend'].includes(entry.type)) {
+        /*         if (!['unknown','campaign_start','campaign_end'].includes(entry.type)) {
           const typeElement = document.createElement("p");
           typeElement.innerHTML = `<strong>Type:</strong> ${entry.type}`;
           parentCard.appendChild(typeElement);

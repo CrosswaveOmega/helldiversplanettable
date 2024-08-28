@@ -131,7 +131,7 @@ def get_faction(text: str) -> int:
     return 0
 
 
-def get_event_type(text: str) -> Tuple[str, str]:
+def get_event_type_old(text: str) -> Tuple[str, str]:
     """Get the event type from the text"""
     match = None
     if "note:" in text.lower():
@@ -187,10 +187,10 @@ def get_event_type(text: str) -> Tuple[str, str]:
         return "clearlinks", match
     if "campaign starts" in text.lower():
         match = "campaign starts"
-        return "cstart", match
+        return "campaign_start", match
     if "campaign ends" in text.lower():
         match = "campaign ends"
-        return "cend", match
+        return "campaign_end", match
     if "fully liberated" in text.lower():
         match = "fully liberated"
         return "full_lib", match
@@ -210,6 +210,50 @@ def get_event_type(text: str) -> Tuple[str, str]:
         match = "day start"
         return "Day Start", match
     return "unknown", "?????"
+
+
+def load_event_types(json_file: str) -> Dict[str, Any]:
+    """Load event types from a JSON file."""
+    with open(json_file, 'r') as file:
+        return json.load(file)
+
+def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
+    """Get the event type from the text."""
+    text_lower = text.lower()
+    
+    for main_event, details in event_types.items():
+        main_name = details.get("name", "")
+        matchable_phrases = details.get("matchable", [])
+        sub_events = details.get("sub", [])
+        mode= details.get('mode','or')
+
+        # Check main event matchable phrases
+        if mode=='and':
+            it=True
+            for phrase in matchable_phrases:
+                if phrase not in text_lower:
+                    it=False
+            if it:
+                return main_name, ' '.join(matchable_phrases)
+            continue
+        for phrase in matchable_phrases:
+            if phrase.lower() in text_lower:
+                if not sub_events:
+                    return main_name, phrase
+                for sub_event in sub_events:
+                    sub_name = sub_event.get("name", "")
+                    sub_phrases = sub_event.get("matchable", [])
+                    for sub_phrase in sub_phrases:
+                        if sub_phrase.lower() in text_lower:
+                            return sub_name, sub_phrase
+                
+
+        # Check sub events matchable phrases
+        
+
+    # Default return if no matches found
+    return "unknown", "?????"
+
 
 
 def make_day_obj() -> None:
@@ -267,11 +311,11 @@ def format_event_obj() -> None:
     lasttime = None
     newevents = []
     event_type_sort = {"unknown": []}
-
+    event_types = load_event_types("event_types.json")
     for event in days_out["events"]:
         text = event["text"]
         event["planet"] = get_planet(planets_Dict2, text)
-        event["type"], match = get_event_type(text)
+        event["type"], match = get_event_type(text, event_types)
         
         print(event['text'], event['time'],event['planet'],event['type'])
 
@@ -292,7 +336,7 @@ def format_event_obj() -> None:
 
     save_json_data("./src/data/gen_data/out2.json", days_out)
     with open("./src/data/gen_data/typesort.json", "w", encoding="utf8") as json_file:
-        json.dump(event_type_sort, json_file,indent=2)
+        json.dump(event_type_sort, json_file,indent=2,sort_keys=True,default=str)
 
 
 def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
@@ -352,10 +396,10 @@ def format_event_text(event: Dict[str, Any], text: str, match: str, sectors: Lis
         if result:
             type_, name, case, objective = result
             text = text.replace(type_, "[TYPE]").replace(name, "[MO NAME]").replace(case, "[MO CASE]").replace(objective, "[MO OBJECTIVE]")
-            special={'type':type_,'case':case,'objective':objective}
+            special={'TYPE':type_,'CASE':case,'OBJECTIVE':objective}
     else:
         text = text.replace(match, "[TYPETEXT]")
-        special['type']=match
+        special['TYPETEXT']=match
         for e, v in enumerate(event["planet"]):
             p, ind = v
             text = text.replace(p, f"[PLANET {e}]")
@@ -364,7 +408,7 @@ def format_event_text(event: Dict[str, Any], text: str, match: str, sectors: Lis
         faction=faction_dict.get(event["faction"], "UNKNOWN")
         if faction in text:
             text = text.replace(faction, f"[FACTION]")
-            special['faction']=faction
+            special['FACTION']=faction
         text = re.sub(r"\#[0-9]*", lambda m: f"[DAY]", text)
         
     return text, special
@@ -454,7 +498,7 @@ async def main_code() -> None:
         if not int(ne["timestamp"]) in days_out['timestamps']:
             days_out['timestamps'].append(ne["timestamp"])
         ind=days_out['timestamps'].index(ne['timestamp'])
-        ne['ind']=ind
+        ne['eind']=ind
         for e, event in enumerate(event_group):
             temp = await process_event(
                 days_out,
@@ -476,7 +520,7 @@ async def main_code() -> None:
                 }
             )
             #ne["galaxystate"] = event["galaxystate"]
-            galaxy_states['states'][int(ne["ind"])] = event["galaxystate"]
+            galaxy_states['states'][int(ne["eind"])] = event["galaxystate"]
             
             ne["mo"] = event["mo"]
         ne["log"] = elog
@@ -619,7 +663,6 @@ def unordered_list_hash(int_list: List[int]):
     #hashc = hash((xor_hash,sum_hash))
     hashc=list(sorted(int_list))
     if not hashc in valid_waypoints.values():
-        print("adding hash")
         valid_waypoints[len(valid_waypoints.keys())] = hashc
     for i, v in valid_waypoints.items():
         if v == hashc:
@@ -815,9 +858,9 @@ def update_planet_ownership(
         if str(ind) not in planetclone:
             print("WARNING,", ind, name, "Not in planetclone!")
         dec = list(DECODE(planetclone[str(ind)]["t"]))
-        if event["type"] == "cstart":
+        if event["type"] == "campaign_start":
             dec[2] = 1
-        if event["type"] == "cend":
+        if event["type"] == "campaign_end":
             dec[2] = 0
 
         if event["type"] == "planet won":

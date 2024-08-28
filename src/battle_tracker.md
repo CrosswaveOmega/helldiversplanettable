@@ -77,7 +77,7 @@ function sum_entries_by_front(historydata) {
   
   const planetTypes = count_distinct_planet_battles(historydata,false,sector_data)[0];
   for (const sector in planetTypes) {
-    const { front, battles, win, loss, current, cstart, cend, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
+    const { front, battles, win, loss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
 
     if (!frontSums[front]) {
       frontSums[front] = {
@@ -86,8 +86,8 @@ function sum_entries_by_front(historydata) {
         win: 0,
         loss: 0,
         current: 0,
-        cstart: 0,
-        cend: 0,
+        campaign_start: 0,
+        campaign_end: 0,
         flips: 0,
         planetwon: 0,
         defensestart: 0,
@@ -100,8 +100,8 @@ function sum_entries_by_front(historydata) {
     frontSums[front].win += win;
     frontSums[front].loss += loss;
     frontSums[front].current += current;
-    frontSums[front].cstart += cstart;
-    frontSums[front].cend += cend;
+    frontSums[front].campaign_start += campaign_start;
+    frontSums[front].campaign_end += campaign_end;
     frontSums[front].flips += flips;
     frontSums[front].planetwon += planetwon;
     frontSums[front].defensestart += defensestart;
@@ -220,10 +220,10 @@ All Sector Battles
   </div>
     <div  class='card' style="font-size: 1.1em;">
     <h2>Terminid Front Liberation Campaigns</h2>
-    <span >Total: ${entry_sums['TERMINIDS'].cstart}</span><br/>
+    <span >Total: ${entry_sums['TERMINIDS'].campaign_start}</span><br/>
       <span >Won: ${entry_sums['TERMINIDS'].planetwon}</span><br/>
-      <span >Lost: ${entry_sums['TERMINIDS'].cend}</span><br/>
-      <span >Win%: ${(100*entry_sums['TERMINIDS'].planetwon/(entry_sums['TERMINIDS'].cend+entry_sums['TERMINIDS'].planetwon)).toFixed(2)}</span><br/>
+      <span >Lost: ${entry_sums['TERMINIDS'].campaign_end}</span><br/>
+      <span >Win%: ${(100*entry_sums['TERMINIDS'].planetwon/(entry_sums['TERMINIDS'].campaign_end+entry_sums['TERMINIDS'].planetwon)).toFixed(2)}</span><br/>
   </div>
 
   <div  class='card' style="font-size: 1.1em;">
@@ -244,10 +244,10 @@ All Sector Battles
   </div>
     <div  class='card' style="font-size: 1.1em;">
     <h2>Automaton Front Liberation Campaigns</h2>
-    <span >Total: ${entry_sums['AUTOMATON'].cstart}</span><br/>
+    <span >Total: ${entry_sums['AUTOMATON'].campaign_start}</span><br/>
       <span >Won: ${entry_sums['AUTOMATON'].planetwon}</span><br/>
-      <span >Lost: ${entry_sums['AUTOMATON'].cend}</span><br/>
-      <span >Win%: ${(100*entry_sums['AUTOMATON'].planetwon/(entry_sums['AUTOMATON'].cend+entry_sums['AUTOMATON'].planetwon)).toFixed(2)}</span><br/>
+      <span >Lost: ${entry_sums['AUTOMATON'].campaign_end}</span><br/>
+      <span >Win%: ${(100*entry_sums['AUTOMATON'].planetwon/(entry_sums['AUTOMATON'].campaign_end+entry_sums['AUTOMATON'].planetwon)).toFixed(2)}</span><br/>
   </div>
       <div  class='card' style="font-size: 1.1em;">
     <h2>Automaton Front Defence Campaigns</h2>
