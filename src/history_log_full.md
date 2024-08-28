@@ -1752,5 +1752,9 @@ Nivel 43 liberation campaign ends (2024-08-27 17:42)<br/>
 Erson Sands liberation campaign ends (2024-08-27 17:43)<br/>
 Erata Prime defense is won (2024-08-27 23:18)<br/>
 Mastia defense is won (2024-08-28 01:18)<br/>
+Esker of the Falstaff sector is attacked by Terminids (2024-08-28 08:21)<br/>
+Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-08-28 08:22)<br/>
 
 ### Day: #203
+Major Order | Operation Blazing Barrage is issued | Objective: Eradicate/Liberate (2024-08-28 11:08)<br/>
+Marfark of the Andromeda sector is attacked by Automatons (2024-08-28 11:10)<br/>
