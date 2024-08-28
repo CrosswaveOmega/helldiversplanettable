@@ -134,6 +134,9 @@ def get_faction(text: str) -> int:
 def get_event_type(text: str) -> Tuple[str, str]:
     """Get the event type from the text"""
     match = None
+    if "note:" in text.lower():
+        match = "note:"
+        return "note", match
     if "MAJOR ORDER" in text.upper():
         match = "Major Order"
         if "is issued" in text.lower():
@@ -148,9 +151,6 @@ def get_event_type(text: str) -> Tuple[str, str]:
     if "is liberated" in text.lower():
         match = "is liberated"
         return "planet won", match
-    if "note:" in text.lower():
-        match = "note:"
-        return "note", match
     if "instantly flips to" in text.lower():
         match = "instantly flips to"
         return "planet flip", match
@@ -272,6 +272,8 @@ def format_event_obj() -> None:
         text = event["text"]
         event["planet"] = get_planet(planets_Dict2, text)
         event["type"], match = get_event_type(text)
+        
+        print(event['text'], event['time'],event['planet'],event['type'])
 
         if monitoring:
             newevents, lasttime = monitor_event(event, lasttime, newevents)
@@ -289,7 +291,8 @@ def format_event_obj() -> None:
     days_out["events"].sort(key=lambda event: event["timestamp"])
 
     save_json_data("./src/data/gen_data/out2.json", days_out)
-    save_json_data("./src/data/gen_data/typesort.json", event_type_sort)
+    with open("./src/data/gen_data/typesort.json", "w", encoding="utf8") as json_file:
+        json.dump(event_type_sort, json_file,indent=2)
 
 
 def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
@@ -328,29 +331,43 @@ def sort_event_type(event: Dict[str, Any], text: str, match: str, sectors: List[
         event_type_sort["unknown"].append(text)
     else:
         if not event["type"] in event_type_sort:
-            event_type_sort[event["type"]] = [text, [], []]
+            event_type_sort[event["type"]] = [text, [], {}]
 
-        nt = format_event_text(event, text, match, sectors)
+        nt,dx = format_event_text(event, text, match, sectors)
         if nt not in event_type_sort[event["type"]][1]:
             event_type_sort[event["type"]][1].append(nt)
+        for key, value in dx.items():
+            if key not in event_type_sort[event["type"]][2]:
+                event_type_sort[event["type"]][2][key]=[]
+            if value not in  event_type_sort[event["type"]][2][key]:
+                event_type_sort[event["type"]][2][key].append(value)
     return event_type_sort
 
 
 def format_event_text(event: Dict[str, Any], text: str, match: str, sectors: List[str]) -> str:
+    '''For the typesort dictionary, format the event's text.'''
+    special={}
     if "Major Order" in event["type"]:
         result = extract_mo_details(event["text"])
         if result:
             type_, name, case, objective = result
             text = text.replace(type_, "[TYPE]").replace(name, "[MO NAME]").replace(case, "[MO CASE]").replace(objective, "[MO OBJECTIVE]")
+            special={'type':type_,'case':case,'objective':objective}
     else:
         text = text.replace(match, "[TYPETEXT]")
+        special['type']=match
         for e, v in enumerate(event["planet"]):
             p, ind = v
             text = text.replace(p, f"[PLANET {e}]")
         e = sum(1 for s in sectors if s in text)
         text = re.sub(f"({'|'.join(sectors)})", lambda m: f"[SECTOR {e}]", text)
-        text = text.replace(faction_dict.get(event["faction"], "UNKNOWN"), f"[FACTION]")
-    return text
+        faction=faction_dict.get(event["faction"], "UNKNOWN")
+        if faction in text:
+            text = text.replace(faction, f"[FACTION]")
+            special['faction']=faction
+        text = re.sub(r"\#[0-9]*", lambda m: f"[DAY]", text)
+        
+    return text, special
 
 
 def update_defenses(event: Dict[str, Any], defenses: Dict[str, str]) -> Dict[str, str]:
@@ -426,6 +443,7 @@ async def main_code() -> None:
         events_by_timestamp[timestamp].append(event)
     newevt = []
     grouped_events = list(events_by_timestamp.values())
+    days_out['timestamps']=[]
     for i, event_group in enumerate(grouped_events):
         elog = []
         ne = {
@@ -433,6 +451,10 @@ async def main_code() -> None:
             "time": event_group[0]["time"],
             "day": event_group[0]["day"],
         }
+        if not int(ne["timestamp"]) in days_out['timestamps']:
+            days_out['timestamps'].append(ne["timestamp"])
+        ind=days_out['timestamps'].index(ne['timestamp'])
+        ne['ind']=ind
         for e, event in enumerate(event_group):
             temp = await process_event(
                 days_out,
@@ -454,7 +476,8 @@ async def main_code() -> None:
                 }
             )
             #ne["galaxystate"] = event["galaxystate"]
-            galaxy_states['states'][int(ne["timestamp"])] = event["galaxystate"]
+            galaxy_states['states'][int(ne["ind"])] = event["galaxystate"]
+            
             ne["mo"] = event["mo"]
         ne["log"] = elog
         newevt.append(ne)
@@ -470,8 +493,9 @@ async def main_code() -> None:
         file.write(markdowncode)
     print("saving data")
     save_json_data("./src/data/historydata.json", days_out)
-    print("saving time cache")
+    print("saving time caches...")
     for d, v in all_times_new.items():
+        print(f"saving time cache for day set {d}")
         save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
     hashlinks={}
 
@@ -511,13 +535,15 @@ async def main_code() -> None:
                     if laststate[p][key]!=res[key]:
                         toad[key]=res[key]
                 if toad:
-                    toad['timestamp']=t
+                    #eind is event index
+                    toad['eind']=t
                     resort[p].append(toad)
         else:
             for p, res in s.items():
                 if not p in resort:
+                    #eind is event index
                     resort[p]=[res]
-                    resort[p][0]['timestamp']=t
+                    resort[p][0]['eind']=t
         laststate=s
     print("saving galaxy states.")
     galaxy_states['states']={}

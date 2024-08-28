@@ -1595,8 +1595,8 @@ Midday Status (2024-08-06 03:00)<br/>
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
 Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
 Socorro III of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
+Socorro III - Erson Sands supply line is added (2024-08-06 14:57)<br/>
 Esker - Socorro III supply line is added (2024-08-06 14:57)<br/>
-Socorro III - Nivel 43 supply line is added (2024-08-06 14:57)<br/>
 Nivel 43 - Erson Sands supply line is added (2024-08-06 14:57)<br/>
 Nivel 43 is not accessible despite connecting to the liberated world of Erson Sands (2024-08-06 14:57)<br/>
 Midday Status (2024-08-06 18:00)<br/>
@@ -1732,3 +1732,25 @@ Esker of the Falstaff sector is attacked by Terminids (2024-08-25 21:49)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-26 13:36)<br/>
 Socorro III of the Falstaff sector is attacked by Terminids (2024-08-26 13:36)<br/>
 Esker defense is won (2024-08-26 15:39)<br/>
+Matar Bay of the Andromeda sector is attacked by Automatons (2024-08-26 17:16)<br/>
+Acamar IV is liberated (2024-08-27 01:01)<br/>
+Estanu defense is won (2024-08-27 04:16)<br/>
+
+### Day: #202
+Socorro III defense is won (2024-08-27 09:53)<br/>
+Mastia of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
+Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57)<br/>
+Nivel 43 liberation campaign is still active despite being inaccessible (2024-08-27 15:02)<br/>
+Hellmire liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+Fori Prime liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+Erson Sands liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
+Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-27 15:14)<br/>
+Matar Bay defense is won (2024-08-27 16:55)<br/>
+Hellmire liberation campaign ends (2024-08-27 17:42)<br/>
+Fori Prime liberation campaign ends (2024-08-27 17:42)<br/>
+Nivel 43 liberation campaign ends (2024-08-27 17:42)<br/>
+Erson Sands liberation campaign ends (2024-08-27 17:43)<br/>
+Erata Prime defense is won (2024-08-27 23:18)<br/>
+Mastia defense is won (2024-08-28 01:18)<br/>
+
+### Day: #203

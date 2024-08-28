@@ -266,7 +266,7 @@ export function makeplot(
         3: atarget,
     };
     //let planets=current_event.galaxystate;
-    let galaxy_time = current_event.timestamp;
+    let galaxy_time = current_event.ind;
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
@@ -275,7 +275,7 @@ export function makeplot(
         }
         for (const element of gstates.gstate[planet]) {
             // Your code here
-            if (element.timestamp <= galaxy_time) {
+            if (element.eind <= galaxy_time) {
                 for (const [k, v] of Object.entries(element)) {
                     galaxystate[planet][k] = v;
                 }
