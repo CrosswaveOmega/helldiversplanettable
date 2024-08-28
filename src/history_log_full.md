@@ -1080,6 +1080,7 @@ Turing defense is failed (2024-06-02 15:21)<br/>
 Acamar IV defense is failed (2024-06-02 15:22)<br/>
 ↳ Acamar IV liberation campaign starts (2024-06-02 15:22)<br/>
 Meridia is destroyed via planetary implosion (2024-06-02 19:13)<br/>
+↳ Meridia  is now a black hole (2024-06-02 19:13)<br/>
 ↳ Major Order | Operation Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13)<br/>
 ↳ Estanu liberation campaign starts (2024-06-02 19:13)<br/>
 ↳ Crimsica liberation campaign starts (2024-06-02 19:13)<br/>

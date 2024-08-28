@@ -23,7 +23,17 @@
     },
     "PlanetEvent": {
       "name": "planet won",
-      "matchable": ["is liberated"]
+      "matchable": ["is liberated"],
+      "sub":[
+        {
+          "name": "planet superwon",
+          "matchable": ["via planetary implosion"]
+        }
+      ]
+    },
+    "PlanetSuperWinEvent": {
+      "name": "planet superwon",
+      "matchable": ["is destroyed via planetary implosion"]
     },
     "FlipEvent": {
       "name": "planet flip",
@@ -49,10 +59,7 @@
       "name": "warhistoryapilaunch",
       "matchable": ["monitoring satellites are launched"]
     },
-    "PlanetSuperWinEvent": {
-      "name": "planet superwon",
-      "matchable": ["is destroyed via planetary implosion"]
-    },
+    
     "NewLinkEvent": {
       "name": "newlink",
       "matchable": ["is added"]
@@ -140,7 +147,7 @@
     "BlackHoleEffect":{
       "name":"Black Hole",
       
-      "matchable": ["imploded into a blackhole"]
+      "matchable": ["into a black hole"]
       
     }
   }
