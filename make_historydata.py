@@ -246,6 +246,7 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
                     for sub_phrase in sub_phrases:
                         if sub_phrase.lower() in text_lower:
                             return sub_name, sub_phrase
+                return main_name, phrase
                 
 
         # Check sub events matchable phrases
