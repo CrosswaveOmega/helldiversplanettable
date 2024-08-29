@@ -2,6 +2,7 @@
     "MajorEvent": {
       "name": "Major Order",
       "matchable": ["MAJOR ORDER"],
+      "must":true,
       "sub": [
         {
           "name": "Major Order Start",

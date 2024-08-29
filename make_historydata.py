@@ -225,6 +225,7 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
         main_name = details.get("name", "")
         matchable_phrases = details.get("matchable", [])
         sub_events = details.get("sub", [])
+        must=details.get("must", False)
         mode= details.get('mode','or')
 
         # Check main event matchable phrases
@@ -246,7 +247,8 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
                     for sub_phrase in sub_phrases:
                         if sub_phrase.lower() in text_lower:
                             return sub_name, sub_phrase
-                return main_name, phrase
+                if not must:
+                    return main_name, phrase
                 
 
         # Check sub events matchable phrases
