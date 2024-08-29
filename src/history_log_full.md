@@ -1593,7 +1593,8 @@ Midday Status (2024-08-05 18:00)<br/>
 Midday Status (2024-08-06 03:00)<br/>
 
 ### Day: #181
-Enuliale is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
+Enuliale is moderately enveloped by the Gloom (2024-08-06 09:38)<br/>
+Socorro III is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
 Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
 Socorro III of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
@@ -1631,10 +1632,9 @@ Socorro III defense is won (2024-08-09 22:13)<br/>
 Bore Rock is liberated (2024-08-10 10:21)<br/>
 ↳ Major Order | Operation Benevolent Sanitation is won | Objective: Eradicate/Liberate (2024-08-10 10:21)<br/>
 Erson Sands is moderately enveloped by the Gloom (2024-08-10 10:23)<br/>
-Diaspora X is moderately enveloped by the Gloom (2024-08-10 10:23)<br/>
-Gemstone Bluffs is moderately enveloped by the Gloom (2024-08-10 10:26)<br/>
-Nabatea Secundus is lightly enveloped by the Gloom (2024-08-10 10:27)<br/>
-Oshaune is moderately enveloped by the Gloom (2024-08-10 10:27)<br/>
+Gemstone Bluffs is moderately enveloped by the Gloom (2024-08-10 10:24)<br/>
+Nabatea Secundus is lightly enveloped by the Gloom (2024-08-10 10:24)<br/>
+Oshaune is moderately enveloped by the Gloom (2024-08-10 10:24)<br/>
 Diaspora X is heavily enveloped by the Gloom (2024-08-10 10:29)<br/>
 ↳ Diaspora X is now unobservable due to the Gloom (2024-08-10 10:29)<br/>
 Curia of the Marspira sector is attacked by Automatons (2024-08-10 11:28)<br/>
@@ -1646,8 +1646,6 @@ Acamar IV defense is won (2024-08-11 01:49)<br/>
 ### Day: #186
 Curia defense is failed (2024-08-11 11:32)<br/>
 ↳ Curia liberation campaign starts (2024-08-11 11:32)<br/>
-Enuliale is moderately enveloped by the Gloom (2024-08-11 14:07)<br/>
-Socorro III is lightly enveloped by the Gloom (2024-08-11 14:07)<br/>
 Fenrir III of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26)<br/>
 Nabatea Secundus is moderately enveloped by the Gloom (2024-08-11 19:27)<br/>
 Omicron is heavily enveloped by the Gloom (2024-08-11 19:28)<br/>
