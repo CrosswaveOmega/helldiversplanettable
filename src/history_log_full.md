@@ -1079,8 +1079,8 @@ Turing defense is failed (2024-06-02 15:21)<br/>
 ↳ Turing liberation campaign starts (2024-06-02 15:21)<br/>
 Acamar IV defense is failed (2024-06-02 15:22)<br/>
 ↳ Acamar IV liberation campaign starts (2024-06-02 15:22)<br/>
-Meridia is destroyed via planetary implosion (2024-06-02 19:13)<br/>
-↳ Meridia  is now a black hole (2024-06-02 19:13)<br/>
+Meridia is liberated via planetary implosion (2024-06-02 19:13)<br/>
+↳ Meridia collapses into a black hole (2024-06-02 19:13)<br/>
 ↳ Major Order | Operation Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13)<br/>
 ↳ Estanu liberation campaign starts (2024-06-02 19:13)<br/>
 ↳ Crimsica liberation campaign starts (2024-06-02 19:13)<br/>
@@ -1593,6 +1593,7 @@ Midday Status (2024-08-05 18:00)<br/>
 Midday Status (2024-08-06 03:00)<br/>
 
 ### Day: #181
+Enuliale is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
 Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
 Socorro III of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
@@ -1614,6 +1615,9 @@ Erson Sands defense is failed (2024-08-08 10:45)<br/>
 ↳ Erson Sands liberation campaign starts (2024-08-08 10:45)<br/>
 Midday Status (2024-08-08 18:00)<br/>
 Midday Status (2024-08-09 03:00)<br/>
+Diaspora X is moderately enveloped by the Gloom (2024-08-09 07:04)<br/>
+Zagon Prime is moderately enveloped by the Gloom (2024-08-09 07:04)<br/>
+Omicron is moderately enveloped by the Gloom (2024-08-09 07:05)<br/>
 Esker is liberated (2024-08-09 07:52)<br/>
 ↳ Bore Rock liberation campaign starts (2024-08-09 07:52)<br/>
 ↳ Nivel 43 liberation campaign starts (2024-08-09 07:52)<br/>
@@ -1626,6 +1630,13 @@ Socorro III defense is won (2024-08-09 22:13)<br/>
 ### Day: #185
 Bore Rock is liberated (2024-08-10 10:21)<br/>
 ↳ Major Order | Operation Benevolent Sanitation is won | Objective: Eradicate/Liberate (2024-08-10 10:21)<br/>
+Erson Sands is moderately enveloped by the Gloom (2024-08-10 10:23)<br/>
+Diaspora X is moderately enveloped by the Gloom (2024-08-10 10:23)<br/>
+Gemstone Bluffs is moderately enveloped by the Gloom (2024-08-10 10:26)<br/>
+Nabatea Secundus is lightly enveloped by the Gloom (2024-08-10 10:27)<br/>
+Oshaune is moderately enveloped by the Gloom (2024-08-10 10:27)<br/>
+Diaspora X is heavily enveloped by the Gloom (2024-08-10 10:29)<br/>
+↳ Diaspora X is now unobservable due to the Gloom (2024-08-10 10:29)<br/>
 Curia of the Marspira sector is attacked by Automatons (2024-08-10 11:28)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-10 11:30)<br/>
 Major Order | Operation Banana Split is issued | Objective: Defend/Liberate (2024-08-10 15:19)<br/>
@@ -1635,7 +1646,12 @@ Acamar IV defense is won (2024-08-11 01:49)<br/>
 ### Day: #186
 Curia defense is failed (2024-08-11 11:32)<br/>
 ↳ Curia liberation campaign starts (2024-08-11 11:32)<br/>
+Enuliale is moderately enveloped by the Gloom (2024-08-11 14:07)<br/>
+Socorro III is lightly enveloped by the Gloom (2024-08-11 14:07)<br/>
 Fenrir III of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26)<br/>
+Nabatea Secundus is moderately enveloped by the Gloom (2024-08-11 19:27)<br/>
+Omicron is heavily enveloped by the Gloom (2024-08-11 19:28)<br/>
+↳ Omicron is now unobservable due to the Gloom (2024-08-11 19:28)<br/>
 Midday Status (2024-08-12 03:00)<br/>
 
 ### Day: #187
@@ -1647,6 +1663,7 @@ Midday Status (2024-08-13 03:00)<br/>
 ### Day: #188
 Gacrux of the Jin Xi sector is attacked by Terminids (2024-08-13 16:04)<br/>
 Acamar IV of the Jin Xi sector is attacked by Terminids (2024-08-13 16:06)<br/>
+Navi VII is lightly enveloped by the Gloom (2024-08-13 16:08)<br/>
 Midday Status (2024-08-13 18:00)<br/>
 Midday Status (2024-08-14 03:00)<br/>
 Troost is liberated (2024-08-14 07:23)<br/>
@@ -1656,6 +1673,11 @@ Troost is liberated (2024-08-14 07:23)<br/>
 Acamar IV defense is won (2024-08-14 11:19)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-14 13:34)<br/>
 Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-14 13:35)<br/>
+Azur Secundus is moderately enveloped by the Gloom (2024-08-14 13:37)<br/>
+Navi VII is moderately enveloped by the Gloom (2024-08-14 13:37)<br/>
+Overgoe Prime is lightly enveloped by the Gloom (2024-08-14 13:38)<br/>
+Epsilon Phoencis VI is heavily enveloped by the Gloom (2024-08-14 13:38)<br/>
+↳ Epsilon Phoencis VI is now unobservable due to the Gloom (2024-08-14 13:38)<br/>
 Gacrux defense is failed (2024-08-14 16:09)<br/>
 ↳ Gacrux liberation campaign starts (2024-08-14 16:09)<br/>
 Estanu defense is won (2024-08-15 00:50)<br/>
@@ -1667,6 +1689,14 @@ Midday Status (2024-08-15 18:00)<br/>
 Midday Status (2024-08-16 03:00)<br/>
 
 ### Day: #191
+Zagon Prime is heavily enveloped by the Gloom (2024-08-16 14:21)<br/>
+↳ Zagon Prime is now unobservable due to the Gloom (2024-08-16 14:21)<br/>
+Nivel 43 is moderately enveloped by the Gloom (2024-08-16 14:21)<br/>
+Hellmire is lightly enveloped by the Gloom (2024-08-16 14:22)<br/>
+Oshaune is heavily enveloped by the Gloom (2024-08-16 14:28)<br/>
+↳Oshaune is now unobservable due to the Gloom (2024-08-16 14:28)<br/>
+Fori Prime is moderately enveloped by the Gloom (2024-08-16 14:29)<br/>
+Crimsica is lightly enveloped by the Gloom (2024-08-16 14:29)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
 Major Order | Operation Gloom Gathering is issued | Objective: Sample (2024-08-16 15:27)<br/>
 Major Order | Operation Gloom Gathering was compromised | Objective: Sample (2024-08-17 01:47)<br/>
@@ -1715,6 +1745,7 @@ Pandion-XXIV defense is failed (2024-08-22 14:41)<br/>
 ↳ Pandion-XXIV liberation campaign starts (2024-08-22 14:41)<br/>
 ↳ Gacrux liberation campaign ends (2024-08-22 14:41)<br/>
 Crimsica is liberated (2024-08-22 16:52)<br/>
+↳ Crimsica is no longer enveloped by the Gloom (2024-08-22 16:52)<br/>
 Midday Status (2024-08-22 18:00)<br/>
 Midday Status (2024-08-23 03:00)<br/>
 
@@ -1740,11 +1771,31 @@ Estanu defense is won (2024-08-27 04:16)<br/>
 ### Day: #202
 Socorro III defense is won (2024-08-27 09:53)<br/>
 Mastia of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
+Diaspora X is very heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
+Enuliale is very heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
+↳ Enuliale is now unobservable due to the Gloom (2024-08-27 11:50)<br/>
+Gemstone Bluffs is heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
+↳ Gemstone Bluffs is now unobservable due to the Gloom (2024-08-27 11:50)<br/>
+Nabatea Secundus is heavily enveloped by the Gloom (2024-08-27 11:51)<br/>
+↳ Nabatea Secundus is now unobservable due to the Gloom (2024-08-27 11:51)<br/>
+Navi VII is very heavily enveloped by the Gloom (2024-08-27 11:52)<br/>
+↳ Navi VII is now unobservable due to the Gloom (2024-08-27 11:52)<br/>
 Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57)<br/>
-Nivel 43 liberation campaign is still active despite being inaccessible (2024-08-27 15:02)<br/>
-Hellmire liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
-Fori Prime liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
-Erson Sands liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
+Nivel 43 is very heavily enveloped by the Gloom (2024-08-27 15:02)<br/>
+↳ Nivel 43 is now unobservable due to the Gloom (2024-08-27 15:02)<br/>
+↳ Nivel 43 liberation campaign is still active despite being inaccessible (2024-08-27 15:02)<br/>
+Hellmire is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+↳ Hellmire is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
+↳ Hellmire liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+Fori Prime is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+↳ Fori Prime is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
+↳ Fori Prime liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+Azur Secundus is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+↳ Azur Secundus is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
+Erson Sands is very heavily enveloped by the Gloom (2024-08-27 15:04)<br/>
+↳ Erson Sands is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
+↳ Erson Sands liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
+Overgoe Prime is no longer enveloped by the Gloom (2024-08-27 15:04)<br/>
 Erata Prime of the Umlaut sector is attacked by Terminids (2024-08-27 15:14)<br/>
 Matar Bay defense is won (2024-08-27 16:55)<br/>
 ↳ Andromeda sector is fully liberated (2024-08-27 16:55)<br/>
@@ -1760,3 +1811,9 @@ Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-08-28 08:22)<br
 ### Day: #203
 Major Order | Operation Blazing Barrage is issued | Objective: Eradicate/Liberate (2024-08-28 11:08)<br/>
 Marfark of the Andromeda sector is attacked by Automatons (2024-08-28 11:10)<br/>
+Midday Status (2024-08-28 18:00)<br/>
+Marfark defense is won (2024-08-29 02:29)<br/>
+
+### Day: #204
+Pandion-XXIV defense is won (2024-08-29 09:55)<br/>
+Esker defense is won (2024-08-29 15:48)<br/>
