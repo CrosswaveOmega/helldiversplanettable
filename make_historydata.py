@@ -511,10 +511,7 @@ async def get_planet_stats(ne, all_times_new,march_5th):
             planetstats = await get_game_stat_at_time(time)
             # all_times[timestamp] = planetstats
             all_times_new[str(dc)][timestamp] = planetstats
-            if lastday != ne["day"]:
-                lastday = ne["day"]
-                print("SAVING")
-                # save_json_data("./src/data/gen_data/alltimes.json", all_times)
+            # save_json_data("./src/data/gen_data/alltimes.json", all_times)
         else:
             all_times_new[str(dc)][timestamp] = {}
             # all_times[timestamp] = {}
