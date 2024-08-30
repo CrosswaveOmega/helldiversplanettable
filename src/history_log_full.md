@@ -1820,5 +1820,5 @@ Aesir Pass is liberated (2024-08-30 00:53)<br/>
 Fenrir III of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
 Mastia of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
 Mastia defense is won (2024-08-30 07:43)<br/>
-↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24.  The GM elected to fix it by ending the defense as a victory and then started a new campaign with the correct time (2024-08-30 07:44)<br/>
+↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24.  To correct this, this defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:44)<br/>
 Mastia of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
