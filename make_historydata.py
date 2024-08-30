@@ -452,11 +452,79 @@ async def create_planet_sectors():
         "./src/data/gen_data/planet_sectors_2.json", "w", encoding="utf8"
     ) as json_file:
         json.dump(sectors, json_file, indent=4)
+        
+def power_of_10(number: int) -> int:
+    from math import floor, log10
+    if number == 0:
+        return 1
+    return 10 ** floor(log10(abs(number)))
 
 
+def human_format(num:float):
+    """Format a large number"""
+
+    # Format the number to 2 significant digits, converting it to float
+    num = float("{:.3g}".format(num))
+
+    magnitude = 0
+    # Divide the number by 1000 until it's less than 1000, increasing the magnitude with each division
+    while abs(num) >= 1000:
+        magnitude += 1
+        num /= 1000.0
+
+    suffixes = ["", "K", "M", "B", "T", "Q", "Qi"]  # Suffixes for each magnitude step
+    # Convert the number to string, remove trailing zeros and dots, and append the appropriate suffix
+    numa="{:f}".format(num).rstrip("0").rstrip(".")
+    return int(float(numa)*(1000**magnitude))
+    return "{}{}".format(
+        numa, suffixes[magnitude]
+    )
+
+
+def enote(num:int):
+    #Anything smaller than 100 is to be ignored.
+    num=(num//100)*100
+    if num<100:
+        return "<100"
+    return human_format(num)
+    
+    
 
 hashlists = {}
 valid_waypoints = {0:[]}
+
+async def get_planet_stats(ne, all_times_new,march_5th):
+    timestamp = str(ne["timestamp"])
+    dc = str(int(ne["day"]) // 30)
+    if str(dc) not in all_times_new:
+        all_times_new[str(dc)] = check_and_load_json(
+            f"./src/data/gen_data/alltimes_{dc}.json"
+        )
+    if timestamp not in all_times_new[str(dc)]:
+        time = datetime.fromtimestamp(ne["timestamp"], tz=timezone.utc)
+
+        if time > march_5th:
+
+            print(
+                f"{ne['text']},{ne['time']} fetching game data for time {timestamp}"
+            )
+            planetstats = await get_game_stat_at_time(time)
+            # all_times[timestamp] = planetstats
+            all_times_new[str(dc)][timestamp] = planetstats
+            if lastday != ne["day"]:
+                lastday = ne["day"]
+                print("SAVING")
+                # save_json_data("./src/data/gen_data/alltimes.json", all_times)
+        else:
+            all_times_new[str(dc)][timestamp] = {}
+            # all_times[timestamp] = {}
+    else:
+        pass
+
+    time = datetime.fromtimestamp(ne["timestamp"], tz=timezone.utc)
+    planetstats = all_times_new[str(dc)][timestamp]
+    return planetstats
+
 
 async def main_code() -> None:
     '''Create the historydata.json file using result from format_event_object.'''
@@ -482,6 +550,7 @@ async def main_code() -> None:
     days_out["new_events"] = []
 
     events_by_timestamp = {}
+    # Inital event grouping.
     for i, event in enumerate(days_out["events"]):
         # Group all events by the timestamp in which they occoured.
         timestamp = event["timestamp"]
@@ -502,6 +571,14 @@ async def main_code() -> None:
             days_out['timestamps'].append(ne["timestamp"])
         ind=days_out['timestamps'].index(ne['timestamp'])
         ne['eind']=ind
+        planetstats=await get_planet_stats(ne,all_times_new,march_5th)
+        all_players=0
+        for i, v in planetstats.items():
+            if 'players' in v:
+                all_players+=v['players']
+        ne['all_players']=all_players
+        
+
         for e, event in enumerate(event_group):
             temp = await process_event(
                 days_out,
@@ -600,7 +677,7 @@ async def main_code() -> None:
     print(bef, aft)
     print(hashlists)
     
-    save_json_data("./src/data/resort.json", resort)
+    save_json_data("./src/data/resort.json", resort,indent=3)
 
 
 mainHeader = """---
@@ -764,7 +841,7 @@ async def process_event(
             #     planetclone[str(i)].pop("hp")
             planetclone[str(i)]["hp"] = v["health"]
             planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-            planetclone[str(i)]["pl"] = v["players"]
+            planetclone[str(i)]["pl"] = enote(v["players"])
             # else:
             #     planetclone[str(i)]["pl"]=0
             #     planetclone[str(i)].pop("pl")
@@ -843,7 +920,7 @@ def update_planet_stats(
             #     planetclone[str(i)].pop("hp")
             planetclone[str(i)]["hp"] = v["health"]
             planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-            planetclone[str(i)]["pl"] = v["players"]
+            planetclone[str(i)]["pl"] = enote(v["players"])
             # if v['players']>0:
             #     planetclone[str(i)]["pl"] = v["players"]
             # else:
@@ -954,10 +1031,10 @@ def update_waypoints(
 
 
 
-def save_json_data(file_path: str, data: Any) -> None:
+def save_json_data(file_path: str, data: Any,**kwargs) -> None:
     '''Save json data to a file.'''
     with open(file_path, "w", encoding="utf8") as json_file:
-        json.dump(data, json_file)
+        json.dump(data, json_file,**kwargs)
 
 
 if not os.path.exists("./src/data/gen_data"):
