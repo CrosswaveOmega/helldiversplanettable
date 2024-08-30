@@ -506,7 +506,7 @@ async def get_planet_stats(ne, all_times_new,march_5th):
         if time > march_5th:
 
             print(
-                f"{ne['text']},{ne['time']} fetching game data for time {timestamp}"
+                f"{ne['time']} fetching game data for time {timestamp}"
             )
             planetstats = await get_game_stat_at_time(time)
             # all_times[timestamp] = planetstats
