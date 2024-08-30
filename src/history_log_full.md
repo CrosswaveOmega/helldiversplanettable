@@ -831,8 +831,8 @@ Fori Prime defense is failed (2024-05-04 13:33)<br/>
 Midday Status (2024-05-04 18:00)<br/>
 Midday Status (2024-05-05 03:00)<br/>
 Erata Prime is liberated (2024-05-05 07:06)<br/>
-↓ Lesath of the Lacaille sector is attacked by Automatons (2024-05-05 08:11)<br/>
-↳ Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-05 08:36)<br/>
+Lesath of the Lacaille sector is attacked by Automatons (2024-05-05 08:11)<br/>
+Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-05 08:36)<br/>
 
 ### Day: #88
 Midday Status (2024-05-05 18:00)<br/>
@@ -1698,7 +1698,7 @@ Crimsica is lightly enveloped by the Gloom (2024-08-16 14:29)<br/>
 Estanu of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
 Major Order | Operation Gloom Gathering is issued | Objective: Sample (2024-08-16 15:27)<br/>
 Major Order | Operation Gloom Gathering was compromised | Objective: Sample (2024-08-17 01:47)<br/>
-↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a loss. (2024-08-17 01:47)<br/>
+↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a narrative loss but a statistical victory. (2024-08-17 01:47)<br/>
 
 ### Day: #192
 Estanu defense is won (2024-08-17 13:50)<br/>
@@ -1815,3 +1815,10 @@ Marfark defense is won (2024-08-29 02:29)<br/>
 ### Day: #204
 Pandion-XXIV defense is won (2024-08-29 09:55)<br/>
 Esker defense is won (2024-08-29 15:48)<br/>
+Aesir Pass is liberated (2024-08-30 00:53)<br/>
+↳ Vernen Wells liberation campaign starts (2024-08-30 00:53)<br/>
+Fenrir III of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
+Mastia of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
+Mastia defense is won (2024-08-30 07:43)<br/>
+↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24.  The GM elected to fix it by ending the defense as a victory and then started a new campaign with the correct time (2024-08-30 07:44)<br/>
+Mastia of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
