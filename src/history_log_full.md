@@ -1822,3 +1822,12 @@ Mastia of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
 Mastia defense is won (2024-08-30 07:43)<br/>
 ↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24.  To correct this, this defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:44)<br/>
 Mastia of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
+
+### Day: #205
+Midday Status (2024-08-30 18:00)<br/>
+Fenrir III defense is failed (2024-08-31 06:36)<br/>
+↳ Fenrir III liberation campaign starts (2024-08-31 06:36)<br/>
+Mastia defense is failed (2024-08-31 07:47)<br/>
+↳ Mastia liberation campaign starts (2024-08-31 07:47)<br/>
+
+### Day: #206

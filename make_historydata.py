@@ -7,6 +7,71 @@ import asyncio
 import aiohttp
 import urllib.request
 
+from pydantic import BaseModel, Field
+from datetime import datetime
+
+import os
+import sys
+
+is_redirected = not sys.stdout.isatty()
+if is_redirected:
+    is_power_shell = len(os.getenv('PSModulePath', '').split(os.pathsep)) >= 3
+    if is_power_shell:
+        sys.stdout.reconfigure(encoding='utf-16')
+    else:
+        sys.stdout.reconfigure(encoding='utf-8')
+
+class GameSubEvent(BaseModel):
+    text:Optional[str]=Field(alias='text',default=None)
+    type:Optional[str]=Field(alias='type',default=None)
+    faction:Optional[int]=Field(alias='faction',default=0)
+    planet: Optional[List[Tuple[str,int]]]=Field(alias='planet',default=[])
+
+class GameEvent(BaseModel):
+
+    timestamp: float
+    time: str
+    day: int
+    text:Optional[str]=Field(alias='text',default=None)
+    type:Optional[str]=Field(alias='type',default=None)
+    faction:Optional[int]=Field(alias='faction',default=0)
+    planet: Optional[List[Tuple[str,str]]]=Field(alias='planet',default=[])
+
+    mo:Optional[str]=Field(alias='mo',default=None)
+    mo_name:Optional[str]=Field(alias='mo_name',default=None)
+    mo_case:Optional[str]=Field(alias='mo_case',default=None)
+    mo_objective:Optional[str]=Field(alias='type',default=None)
+    galaxystate:Dict[str, Any] = Field(default_factory=dict)
+    log:Optional[List[GameSubEvent]]=Field(default_factory=list)
+    all_players: Optional[int]=Field(alias='all_players',default=None)
+    eind:int=Field(default=0)
+
+    # Comparator to sort GameEvent objects by timestamp
+    def __lt__(self, other: 'GameEvent') -> bool:
+        return self.timestamp < other.timestamp
+
+# Now you can simply sort a list of GameEvent using the sorted() built-in function or list.sort()
+
+
+    
+    
+class PlanetStatic(BaseModel):
+    name: str
+    position: str
+    sector: str
+    index: int
+
+class DaysObject(BaseModel):
+    events: List[GameEvent] = Field(default_factory=list, alias='events')
+    days: Dict[int, int] = Field(default_factory=dict)
+    dayind: Dict[int, List[int]] = Field(default_factory=dict)
+    
+    timestamps: List[float] = Field(default_factory=list)
+    lastday: int = Field(default=1)
+
+    galaxystatic: Dict[str, Dict[str,Any]] = Field(default_factory=dict)
+
+
 def get_web_file():
     """Parse the google doc into a text format."""
 
@@ -265,7 +330,7 @@ def make_day_obj() -> None:
     pattern = r"^(Day #(?P<day>\d+)\s+(?P<day_time>\d{1,2}:\d{2}+\s*(am|pm)\s+\d{1,2}(st|nd|rd|th)\s+\w+\s+(\d{4})*)|(?P<text>.*?)\s+\((?P<time>\d{1,2}:\d{2}+\s*(am|pm)?\s+UTC\s+\d{1,2}(st|nd|rd|th)\s+\w+\s*\d*)\))"
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
     text = text.replace("’", "'")
-    days: Dict[str, Any] = {"events": []}
+    days= DaysObject()
     daykey = "DK"
     #Create the inital days dictionary.
     for line in text.split("\n"):
@@ -274,70 +339,71 @@ def make_day_obj() -> None:
             if match.group("day"):
                 timestamp = parse_timestamp(match.group("day_time"))
                 daykey = f"{match.group('day')}"
-                days["events"].append(
-                    {
-                        "text": f"Day #{daykey} Start",
-                        "timestamp": timestamp.timestamp(),
-                        "time": timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        "day": daykey,
-                    }
+                days.events.append(
+                    GameEvent(
+                        text=f"Day #{daykey} Start",
+                        timestamp=timestamp.timestamp(),
+                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                        day=daykey,
+                    )
                 )
             else:
                 timestamp = parse_timestamp(match.group("time"))
                 print(match.group("text"), timestamp)
-                days["events"].append(
-                    {
-                        "text": match.group("text"),
-                        "timestamp": timestamp.timestamp(),
-                        "time": timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        "day": daykey,
-                    }
+                days.events.append(
+                    GameEvent(
+                        text=match.group("text"),
+                        timestamp=timestamp.timestamp(),
+                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                        day=daykey,
+                    )
                 )
-
     with open("./src/data/gen_data/out.json", "w", encoding="utf8") as json_file:
-        json.dump(days, json_file, indent=4)
+        json.dump(days.model_dump(), json_file, indent=4)
 
 
 def format_event_obj() -> None:
     '''Using the dictionary at out.json,
       determine the type of each event and the event parameters using the
       event text strings.'''
-    days_out = check_and_load_json("./src/data/gen_data/out.json")
+
+    days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
     sectors = get_unique_sectors(planets_Dict)
 
     defenses: Dict[str, str] = {}
-    days_out["events"].sort(key=lambda event: event["timestamp"])
+    days_out.events.sort(key=lambda event: event.timestamp)  # pylint: disable=no-member
     monitoring = False
     lasttime = None
     newevents = []
     event_type_sort = {"unknown": []}
     event_types = load_event_types("event_types.json")
-    for event in days_out["events"]:
-        text = event["text"]
-        event["planet"] = get_planet(planets_Dict2, text)
-        event["type"], match = get_event_type(text, event_types)
-        
-        print(event['text'], event['time'],event['planet'],event['type'])
+    for event in days_out.events:
+        text = event.text
+        event.planet = get_planet(planets_Dict2, text)
+        event.type, match = get_event_type(text, event_types)
+
+        print(event.text, event.time, event.planet, event.type)
 
         if monitoring:
             newevents, lasttime = monitor_event(event, lasttime, newevents)
-        if event["type"] == "warhistoryapilaunch":
+        if event.type == "warhistoryapilaunch":
             monitoring = True
 
-        lasttime = datetime.fromtimestamp(event["timestamp"], tz=timezone.utc)
-        event["faction"] = get_faction(text)
+        lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
+        event.faction = get_faction(text)
+        
         event_type_sort = sort_event_type(event, text, match, sectors, event_type_sort)
 
-        if event["planet"]:
+        if event.planet:
             defenses = update_defenses(event, defenses)
 
-    days_out["events"].extend(newevents)
-    days_out["events"].sort(key=lambda event: event["timestamp"])
 
-    save_json_data("./src/data/gen_data/out2.json", days_out)
+    days_out.events.extend(newevents)
+    days_out.events.sort()
+    save_json_data("./src/data/gen_data/out2.json", days_out.model_dump(warnings='error'))
     with open("./src/data/gen_data/typesort.json", "w", encoding="utf8") as json_file:
         json.dump(event_type_sort, json_file,indent=2,sort_keys=True,default=str)
 
@@ -348,54 +414,53 @@ def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
     return list(set(sectors))
 
 
-def monitor_event(event: Dict[str, Any], lasttime: datetime, newevents: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], datetime]:
+def monitor_event(event: GameEvent, lasttime: datetime, newevents: List[GameEvent]) -> Tuple[List[GameEvent], datetime]:
     '''Add events between between two timestamps if the distance is great enough.'''
-    time = datetime.fromtimestamp(event["timestamp"], tz=timezone.utc)
-    time=time-timedelta(minutes=time.minute)
-    lasttime=lasttime-timedelta(minutes=lasttime.minute)
+    time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
+    time = time - timedelta(minutes=time.minute)
+    lasttime = lasttime - timedelta(minutes=lasttime.minute)
     while (time - lasttime) > timedelta(hours=12):
         timestamp = lasttime + timedelta(
             hours=(9 - lasttime.hour % 9), minutes=(60-lasttime.minute)%60
         )
+        new_evt=GameEvent(
+                text="Midday Status",
+                timestamp=timestamp.timestamp(),
+                time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                day=event.day,
+                planet=[],
+                faction=0,
+                type="monitor",
+            )
         newevents.append(
-            {
-                "text": "Midday Status",
-                "timestamp": timestamp.timestamp(),
-                "time": timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                "day": event["day"],
-                "planet": [],
-                "faction": "unknown",
-                "type": "monitor",
-            }
+            new_evt
         )
         lasttime = timestamp
     return newevents, lasttime
 
-
-def sort_event_type(event: Dict[str, Any], text: str, match: str, sectors: List[str], event_type_sort: Dict[str, Any]) -> Dict[str, Any]:
+def sort_event_type(event: GameEvent, text: str, match: str, sectors: List[str], event_type_sort: Dict[str, Any]) -> Dict[str, Any]:
     '''Modify the event type sort dictionary, which determines which lines have an UNKNOWN event.'''
-    if event["type"] == "unknown":
+    if event.type == "unknown":
         event_type_sort["unknown"].append(text)
     else:
-        if not event["type"] in event_type_sort:
-            event_type_sort[event["type"]] = [text, [], {}]
+        if not event.type in event_type_sort:
+            event_type_sort[event.type] = [text, [], {}]
 
         nt,dx = format_event_text(event, text, match, sectors)
-        if nt not in event_type_sort[event["type"]][1]:
-            event_type_sort[event["type"]][1].append(nt)
+        if nt not in event_type_sort[event.type][1]:
+            event_type_sort[event.type][1].append(nt)
         for key, value in dx.items():
-            if key not in event_type_sort[event["type"]][2]:
-                event_type_sort[event["type"]][2][key]=[]
-            if value not in  event_type_sort[event["type"]][2][key]:
-                event_type_sort[event["type"]][2][key].append(value)
+            if key not in event_type_sort[event.type][2]:
+                event_type_sort[event.type][2][key]=[]
+            if value not in  event_type_sort[event.type][2][key]:
+                event_type_sort[event.type][2][key].append(value)
     return event_type_sort
 
-
-def format_event_text(event: Dict[str, Any], text: str, match: str, sectors: List[str]) -> str:
+def format_event_text(event: GameEvent, text: str, match: str, sectors: List[str]) -> str:
     '''For the typesort dictionary, format the event's text.'''
     special={}
-    if "Major Order" in event["type"]:
-        result = extract_mo_details(event["text"])
+    if "Major Order" in event.type:
+        result = extract_mo_details(event.text)
         if result:
             type_, name, case, objective = result
             text = text.replace(type_, "[TYPE]").replace(name, "[MO NAME]").replace(case, "[MO CASE]").replace(objective, "[MO OBJECTIVE]")
@@ -403,61 +468,31 @@ def format_event_text(event: Dict[str, Any], text: str, match: str, sectors: Lis
     else:
         text = text.replace(match, "[TYPETEXT]")
         special['TYPETEXT']=match
-        for e, v in enumerate(event["planet"]):
+        for e, v in enumerate(event.planet):
             p, ind = v
             text = text.replace(p, f"[PLANET {e}]")
         e = sum(1 for s in sectors if s in text)
         text = re.sub(f"({'|'.join(sectors)})", lambda m: f"[SECTOR {e}]", text)
-        faction=faction_dict.get(event["faction"], "UNKNOWN")
+        faction=faction_dict.get(event.faction, "UNKNOWN")
         if faction in text:
             text = text.replace(faction, f"[FACTION]")
             special['FACTION']=faction
         text = re.sub(r"\#[0-9]*", lambda m: f"[DAY]", text)
-        
+
     return text, special
 
 
-def update_defenses(event: Dict[str, Any], defenses: Dict[str, str]) -> Dict[str, str]:
-    for p in event["planet"]:
+def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str]:
+    for p in event.planet:
         planet = p[1]
-        if event["type"] == "defense start":
-            defenses[planet] = event["faction"]
-        if event["type"] == "defense won":
+        if event.type == "defense start":
+            defenses[planet] = event.faction
+        if event.type == "defense won":
             defenses.pop(str(planet))
-        if event["type"] == "defense lost":
-            event["faction"] = defenses.pop(str(planet))
+        if event.type == "defense lost":
+            event.faction = defenses.pop(str(planet))
     return defenses
 
-
-async def create_planet_sectors():
-    """Create the planet sectors file, given an inital set of all planets,
-      with a waypoint configuration"""
-    pda = check_and_load_json("./src/data/gen_data/theseplanets.json")
-    sectors_present=check_and_load_json("./src/data/gen_data/sectorplanets.json")
-    sectors = {}
-    for ind, planet in pda.items():
-        if not planet["sector"] in sectors:
-            sectors[planet["sector"]] = []
-        sectors[planet["sector"]].append(planet)
-    st2 = {}
-    for ind, value in sectors.items():
-        isvalid = [planet for planet in value if planet.get("link")]
-        # print(len(isvalid))
-        if ind not in sectors_present:
-            st2[ind] = [planet for planet in value]
-        if len(isvalid) >= 0:
-            st2[ind] = [planet for planet in value]
-    sectors = {ind: value for ind, value in st2.items() if value}
-    with open(
-        "./src/data/gen_data/planet_sectors_2.json", "w", encoding="utf8"
-    ) as json_file:
-        json.dump(sectors, json_file, indent=4)
-        
-def power_of_10(number: int) -> int:
-    from math import floor, log10
-    if number == 0:
-        return 1
-    return 10 ** floor(log10(abs(number)))
 
 
 def human_format(num:float):
@@ -476,9 +511,6 @@ def human_format(num:float):
     # Convert the number to string, remove trailing zeros and dots, and append the appropriate suffix
     numa="{:f}".format(num).rstrip("0").rstrip(".")
     return int(float(numa)*(1000**magnitude))
-    return "{}{}".format(
-        numa, suffixes[magnitude]
-    )
 
 
 def enote(num:int):
@@ -493,34 +525,28 @@ def enote(num:int):
 hashlists = {}
 valid_waypoints = {0:[]}
 
-async def get_planet_stats(ne, all_times_new,march_5th):
-    timestamp = str(ne["timestamp"])
-    dc = str(int(ne["day"]) // 30)
-    if str(dc) not in all_times_new:
-        all_times_new[str(dc)] = check_and_load_json(
-            f"./src/data/gen_data/alltimes_{dc}.json"
-        )
-    if timestamp not in all_times_new[str(dc)]:
-        time = datetime.fromtimestamp(ne["timestamp"], tz=timezone.utc)
+async def get_planet_stats(ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime) -> Dict[int, Dict[str, Any]]:
+    timestamp = str(ne.timestamp)
+    dc = str(int(ne.day) // 30)
+
+    if dc not in all_times_new:
+        all_times_new[dc] = check_and_load_json(f"./src/data/gen_data/alltimes_{dc}.json")
+
+    if timestamp not in all_times_new[dc]:
+        time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
 
         if time > march_5th:
-
-            print(
-                f"{ne['time']} fetching game data for time {timestamp}"
-            )
+            print(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
-            # all_times[timestamp] = planetstats
-            all_times_new[str(dc)][timestamp] = planetstats
-            # save_json_data("./src/data/gen_data/alltimes.json", all_times)
+            all_times_new[dc][timestamp] = planetstats
         else:
-            all_times_new[str(dc)][timestamp] = {}
-            # all_times[timestamp] = {}
+            all_times_new[dc][timestamp] = {}
     else:
         pass
 
-    time = datetime.fromtimestamp(ne["timestamp"], tz=timezone.utc)
-    planetstats = all_times_new[str(dc)][timestamp]
+    planetstats = all_times_new[dc][timestamp]
     return planetstats
+
 
 
 async def main_code() -> None:
@@ -528,8 +554,9 @@ async def main_code() -> None:
     planetlist: List[Tuple[int, Dict[str, Any]]] = []
     planets, temp = initialize_planets()
     planetlist.append((0, planets))
-
-    days_out =check_and_load_json("./src/data/gen_data/out2.json")
+    print("loading objects")
+    days_out =DaysObject(**check_and_load_json("./src/data/gen_data/out2.json"))
+    print('done')
     d = 0
 
     all_times_new = {}
@@ -539,41 +566,44 @@ async def main_code() -> None:
     march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
     store: Dict[str, str] = {}
     galaxy_states = {'states':{},'gstatic':{}}
-    days_out["days"] = {}
-    days_out["galaxystatic"] = planets
-    galaxy_states['gstatic']= planets
-    days_out["lastday"] = 1
-    days_out["dayind"] = {}
-    days_out["new_events"] = []
+    galaxy_states['gstatic'] = planets
+    days_out.days = {}
+    days_out.galaxystatic = planets
+    
+    days_out.lastday = 1
+    days_out.dayind = {}
+    #days_out["new_events"] = []
 
     events_by_timestamp = {}
     # Inital event grouping.
-    for i, event in enumerate(days_out["events"]):
+    for i, event in enumerate(days_out.events):
         # Group all events by the timestamp in which they occoured.
-        timestamp = event["timestamp"]
+        timestamp = event.timestamp
         if timestamp not in events_by_timestamp:
             events_by_timestamp[timestamp] = []
         events_by_timestamp[timestamp].append(event)
     newevt = []
     grouped_events = list(events_by_timestamp.values())
-    days_out['timestamps']=[]
+    days_out.timestamps=[]
     for i, event_group in enumerate(grouped_events):
         elog = []
-        ne = {
-            "timestamp": event_group[0]["timestamp"],
-            "time": event_group[0]["time"],
-            "day": event_group[0]["day"],
-        }
-        if not int(ne["timestamp"]) in days_out['timestamps']:
-            days_out['timestamps'].append(ne["timestamp"])
-        ind=days_out['timestamps'].index(ne['timestamp'])
-        ne['eind']=ind
+        #(i,event_group)
+        ne = GameEvent(
+            timestamp=event_group[0].timestamp,
+            time=event_group[0].time,
+            day=event_group[0].day,
+        )
+
+        if not int(ne.timestamp) in days_out.timestamps:
+            days_out.timestamps.append(ne.timestamp)
+        ind = days_out.timestamps.index(ne.timestamp)
+        ne.eind=ind
         planetstats=await get_planet_stats(ne,all_times_new,march_5th)
         all_players=0
         for i, v in planetstats.items():
             if 'players' in v:
                 all_players+=v['players']
-        ne['all_players']=all_players
+        ne.all_players=all_players
         
 
         for e, event in enumerate(event_group):
@@ -581,28 +611,26 @@ async def main_code() -> None:
                 days_out,
                 temp,
                 laststats,
-                lastday,
                 event,
                 i,
-                march_5th,
                 store,
                 all_times_new,
             )
             elog.append(
-                {
-                    "planet": event["planet"],
-                    "text": event["text"],
-                    "type": event["type"],
-                    "faction": event["faction"],
-                }
+                GameSubEvent(
+                    planet=event.planet,
+                    text=event.text,
+                    type=event.type,
+                    faction=event.faction,
+                )
             )
-            #ne["galaxystate"] = event["galaxystate"]
-            galaxy_states['states'][int(ne["eind"])] = event["galaxystate"]
+            #ne.galaxystate = event.galaxystate
+            galaxy_states['states'][int(ne.eind)] = event.galaxystate
             
-            ne["mo"] = event["mo"]
-        ne["log"] = elog
+            ne.mo = event.mo
+        ne.log = elog
         newevt.append(ne)
-    days_out["events"] = newevt
+    days_out.events = newevt
     bef = 0
     aft = 0
 
@@ -613,7 +641,7 @@ async def main_code() -> None:
     with open("./src/history_log_full.md", "w", encoding="utf8") as file:
         file.write(markdowncode)
     print("saving data")
-    save_json_data("./src/data/historydata.json", days_out)
+    save_json_data("./src/data/historydata.json", days_out.model_dump(warnings='error'))
     print("saving time caches...")
     for d, v in all_times_new.items():
         print(f"saving time cache for day set {d}")
@@ -701,23 +729,23 @@ def list_all(history):
     markdown_output = ["\n"]
 
     def make_entry(entry):
-        for each in entry["log"]:
+        for each in entry.log:
             # print(markdown_output[-1]);
-            if each["type"] == "Day Start":
-                if (int(entry["day"]) % 10) == 0 or int(entry["day"]) == 1:
-                    markdown_output.append(f"\n# Day: #{entry['day']}\n")
+            if each.type == "Day Start":
+                if (int(entry.day) % 10) == 0 or int(entry.day) == 1:
+                    markdown_output.append(f"\n# Day: #{entry.day}\n")
                 else:
-                    markdown_output.append(f"\n### Day: #{entry['day']}\n")
+                    markdown_output.append(f"\n### Day: #{entry.day}\n")
             else:
-                timestamp = datetime.fromtimestamp(entry["timestamp"], tz=timezone.utc)
+                timestamp = datetime.fromtimestamp(entry.timestamp, tz=timezone.utc)
                 formatted_time = timestamp.strftime("%Y-%m-%d %H:%M")
                 # formatted_time = custom_strftime("%#I:%M%p UTC %b {S} %Y",timestamp)
                 # formatted_time=formatted_time.replace("AM",'am')
                 # formatted_time=formatted_time.replace("PM",'pm')
 
-                markdown_output.append(f"{each['text']} ({formatted_time})<br/>\n")
+                markdown_output.append(f"{each.text} ({formatted_time})<br/>\n")
 
-    for event in history["events"]:
+    for event in history.events:
         make_entry(event)
     return mainHeader + "".join(markdown_output)
 
@@ -793,115 +821,57 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
 
 
 async def process_event(
-    days_out: Dict[str, Any],
+    days_out: DaysObject,
     planets: Dict[str, Dict[str, Any]],
     laststats: Dict[int, Dict[str, Any]],
-    lastday: int,
-    event: Dict[str, Any],
+    event: GameEvent,
     index: int,
-    march_5th: datetime,
     store: Dict[str, str],
     all_times_new: Dict[str, Dict[int, Dict[str, Any]]],
 ) -> Dict[str, Dict[str, Any]]:
-    """Process each event, extrapoliating the current state of the game at each step."""
-    # Apply major order details to event
-    if "Major Order" in event["type"]:
-        result = extract_mo_details(event["text"])
+    """Process each event, extrapolating the current state of the game at each step."""
+    if event.type and "Major Order" in event.type:
+        result = extract_mo_details(event.text or "")
         if result:
             type_, name, case, objective = result
-            event["mo_name"] = name
-            event["mo_case"] = case
-            event["mo_objective"] = objective
-            if case == "is issued":
-                store["mo"] = f"{name}, {objective}"
-            else:
-                store["mo"] = "Awaiting orders"
-            # print(index, event["day"], event["time"], event["text"])
-    event["mo"] = store.get("mo", "")
+            event.mo_name = name
+            event.mo_case = case
+            event.mo_objective = objective
+            store['mo'] = f"{name}, {objective}" if case == "is issued" else "Awaiting orders"
 
-    # Extract day data
-    if not event["day"] in days_out["days"]:
-        days_out["days"][event["day"]] = index
-        days_out["dayind"][event["day"]] = []
-    if days_out["lastday"] < int(event["day"]):
-        days_out["lastday"] = int(event["day"])
-    days_out["dayind"][event["day"]].append(index)
+    event.mo = store.get("mo", "")
 
-    # Apply last stats
+    if event.day not in days_out.days:
+        days_out.days[int(event.day)] = int(index)
+        days_out.dayind[int(event.day)] = []
+    if days_out.lastday < int(event.day):
+        days_out.lastday = int(event.day)
+    days_out.dayind[int(event.day)].append(int(index))
+
     planetclone = json.loads(json.dumps(planets))
     for i, v in laststats.items():
         if str(i) in planetclone:
-            # if v["health"]!=1000000:
-            #     planetclone[str(i)]["hp"] = v["health"]
-            # else:
-            #     planetclone[str(i)]["hp"]=0
-            #     planetclone[str(i)].pop("hp")
-            planetclone[str(i)]["hp"] = v["health"]
-            planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-            planetclone[str(i)]["pl"] = enote(v["players"])
-            # else:
-            #     planetclone[str(i)]["pl"]=0
-            #     planetclone[str(i)].pop("pl")
+            planetclone[str(i)]["hp"] = v.get("health", 0)
+            planetclone[str(i)]["r"] = float(v.get("regenPerSecond", 0))
+            planetclone[str(i)]["pl"] = enote(v.get("players", 0))
 
-    timestamp = str(event["timestamp"])
-    dc = str(int(event["day"]) // 30)
-    if str(dc) not in all_times_new:
-        all_times_new[str(dc)] = check_and_load_json(
-            f"./src/data/gen_data/alltimes_{dc}.json"
-        )
-    if timestamp not in all_times_new[str(dc)]:
-        time = datetime.fromtimestamp(event["timestamp"], tz=timezone.utc)
-
-        if time > march_5th:
-
-            print(
-                f"{event['text']},{event['time']} fetching game data for time {timestamp}"
-            )
-            planetstats = await get_game_stat_at_time(time)
-            # all_times[timestamp] = planetstats
-            all_times_new[str(dc)][timestamp] = planetstats
-            if lastday != event["day"]:
-                lastday = event["day"]
-                print("SAVING")
-                # save_json_data("./src/data/gen_data/alltimes.json", all_times)
-        else:
-            all_times_new[str(dc)][timestamp] = {}
-            # all_times[timestamp] = {}
-    else:
-        pass
-
-    time = datetime.fromtimestamp(event["timestamp"], tz=timezone.utc)
+    timestamp = str(event.timestamp)
+    dc = str(int(event.day) // 30)
+    
+    time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     planetstats = all_times_new[str(dc)][timestamp]
 
     update_planet_stats(planetclone, planetstats)
 
     if planetstats:
-        all_differences = {
-            k: {"health": v["health"], "players": v["players"]}
-            for k, v in planetstats.items()
-            if k not in laststats
-            or v["health"] != laststats[k]["health"]
-            or v["players"] != laststats[k]["players"]
-        }
-        # event["changes"] = all_differences
-        laststats = planetstats
+        laststats.update(planetstats)
 
-    if event["planet"]:
+    if event.planet:
         update_planet_ownership(event, planetclone)
-    # Create hash list for waypoints, this is to eventually
-    #cut down on the file size
-    # for ind in planetclone.keys():
-    #     if "link" in planetclone[str(ind)]:
-    #         link = unordered_list_hash(planetclone[str(ind)]["link"])
-    #         if link not in hashlists:
-    #             hashlists[link] = [planetclone[str(ind)]["link"], 1]
-    #         else:
-    #             if sorted(planetclone[str(ind)]["link"]) != sorted(hashlists[link][0]):
-    #                 print("MISMATCH", planetclone[str(ind)]["link"], hashlists[link][0])
-    #             hashlists[link][1] += 1
 
-    event["galaxystate"] = planetclone
+    event.galaxystate = planetclone
     return planetclone
+
 
 
 def update_planet_stats(
@@ -910,79 +880,65 @@ def update_planet_stats(
     '''Update HP, regenPerSecond, and playercount'''
     for i, v in planetstats.items():
         if str(i) in planetclone:
-            # if v["health"]!=1000000:
-            #     planetclone[str(i)]["hp"] = v["health"]
-            # else:
-            #     planetclone[str(i)]["hp"]=0
-            #     planetclone[str(i)].pop("hp")
             planetclone[str(i)]["hp"] = v["health"]
             planetclone[str(i)]["r"] = float(v["regenPerSecond"])
             planetclone[str(i)]["pl"] = enote(v["players"])
-            # if v['players']>0:
-            #     planetclone[str(i)]["pl"] = v["players"]
-            # else:
-            #     planetclone[str(i)]["pl"]=0
-            #     planetclone[str(i)].pop("pl")
+
 
 
 def update_planet_ownership(
-    event: Dict[str, Any], planetclone: Dict[str, Dict[str, Any]]
+    event: GameEvent, planetclone: Dict[str, Dict[str, Any]]
 ) -> None:
     '''Update planet ownership and warp links, if applicable.'''
-    for p in event["planet"]:
+    for p in event.planet:
         name, ind = p
         ind = int(ind)
         if str(ind) not in planetclone:
             print("WARNING,", ind, name, "Not in planetclone!")
         dec = list(DECODE(planetclone[str(ind)]["t"]))
-        if event["type"] == "campaign_start":
+        if event.type == "campaign_start":
             dec[2] = 1
-        if event["type"] == "campaign_end":
+        if event.type == "campaign_end":
             dec[2] = 0
-
-        if event["type"] == "planet won":
+        if event.type == "planet won":
             dec[0] = 1
             dec[2] = 0
-        if event["type"] == "planet superwon":
+        if event.type == "planet superwon":
             dec[0] = 1
             dec[2] = 0
-        if event["type"] == "defense lost":
-            dec[0] = event["faction"]
+        if event.type == "defense lost":
+            dec[0] = event.faction
             dec[1] = 0
             dec[2] = 0
-        if event["type"] == "planet flip":
-            dec[0] = event["faction"]
-        if event["type"] == "defense start":
-            dec[1] = event["faction"]
+        if event.type == "planet flip":
+            dec[0] = event.faction
+        if event.type == "defense start":
+            dec[1] = event.faction
             dec[2] = 1
-        if event["type"] == "defense won":
+        if event.type == "defense won":
             dec[1] = 0
             dec[2] = 0
         planetclone[str(ind)]["t"] = ENCODE(dec[0], dec[1], dec[2])
-    #Warp link updates
-    if event["type"] == "newlink":
-        update_waypoints(event["planet"], planetclone, add=True)
+    # Warp link updates
+    if event.type == "newlink":
+        update_waypoints(event.planet, planetclone, add=True)
 
-    if event["type"] == "destroylink":
-        update_waypoints(event["planet"], planetclone, add=False)
+    if event.type == "destroylink":
+        update_waypoints(event.planet, planetclone, add=False)
 
-    if event["type"] == "clearlinks":
-        for name, ind in event["planet"]:
+    if event.type == "clearlinks":
+        for name, ind in event.planet:
             planetclone[str(ind)]["link"] = []
             for id2 in planetclone.keys():
                 if "link" in planetclone[str(ind)]:
                     while int(id2) in planetclone[str(ind)]["link"]:
-                        # print('founda')
                         planetclone[str(ind)]["link"].remove(int(id2))
-                    #if not planetclone[str(ind)]["link"]:
-                    #    planetclone[str(ind)].pop("link")
+
                 if "link" in planetclone[str(id2)]:
                     while int(ind) in planetclone[str(id2)]["link"]:
-                        # print('foundb')
                         planetclone[str(id2)]["link"].remove(int(ind))
-                    #if not planetclone[str(id2)]["link"]:
-                    #    planetclone[str(id2)].pop("link")
-                        
+
+
 def add_waypoint(
     planetclone: Dict[str, Dict[str, Any]], ind: int, other_ind: int
 ) -> None:
@@ -1002,14 +958,10 @@ def remove_waypoint(
     if "link" in planetclone[str(ind)]:
         while int(other_ind) in planetclone[str(ind)]["link"]:
             planetclone[str(ind)]["link"].remove(int(other_ind))
-        #if not planetclone[str(ind)]["link"]:
-        #    planetclone[str(ind)].pop("link")
+
     if "link" in planetclone[str(other_ind)]:
         while int(ind) in planetclone[str(other_ind)]["link"]:
             planetclone[str(other_ind)]["link"].remove(int(ind))
-        #if not planetclone[str(other_ind)]["link"]:
-        #    planetclone[str(other_ind)].pop("link")
-
 
 def update_waypoints(
     planet_list: List[Tuple[str, int]],
@@ -1039,9 +991,8 @@ if not os.path.exists("./src/data/gen_data"):
     os.makedirs("./src/data/gen_data", exist_ok=True)
     raise FileNotFoundError("The directory ./src/data/gen_data does not exist.")
 
-
-
 #asyncio.run(create_planet_sectors())
 make_day_obj()
 format_event_obj()
+
 asyncio.run(main_code())
