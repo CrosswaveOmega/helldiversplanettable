@@ -44,7 +44,7 @@ class GameEvent(BaseModel):
     galaxystate:Dict[str, Any] = Field(default_factory=dict)
     log:Optional[List[GameSubEvent]]=Field(default_factory=list)
     all_players: Optional[int]=Field(alias='all_players',default=None)
-    eind:int=Field(default=0)
+    eind:Optional[int]=Field(alias='eind',default=None)
 
     # Comparator to sort GameEvent objects by timestamp
     def __lt__(self, other: 'GameEvent') -> bool:
@@ -66,7 +66,7 @@ class DaysObject(BaseModel):
     days: Dict[int, int] = Field(default_factory=dict)
     dayind: Dict[int, List[int]] = Field(default_factory=dict)
     
-    timestamps: List[float] = Field(default_factory=list)
+    timestamps: List[int] = Field(default_factory=list)
     lastday: int = Field(default=1)
 
     galaxystatic: Dict[str, Dict[str,Any]] = Field(default_factory=dict)
@@ -517,7 +517,7 @@ def enote(num:int):
     #Anything smaller than 100 is to be ignored.
     num=(num//100)*100
     if num<100:
-        return "<100"
+        return 100
     return human_format(num)
     
     
@@ -587,7 +587,7 @@ async def main_code() -> None:
     days_out.timestamps=[]
     for i, event_group in enumerate(grouped_events):
         elog = []
-        #(i,event_group)
+        print(i,event_group)
         ne = GameEvent(
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
@@ -595,12 +595,13 @@ async def main_code() -> None:
         )
 
         if not int(ne.timestamp) in days_out.timestamps:
-            days_out.timestamps.append(ne.timestamp)
-        ind = days_out.timestamps.index(ne.timestamp)
+            days_out.timestamps.append(int(ne.timestamp))
+        ind = days_out.timestamps.index(int(ne.timestamp))
+        print(ind)
         ne.eind=ind
         planetstats=await get_planet_stats(ne,all_times_new,march_5th)
         all_players=0
-        for i, v in planetstats.items():
+        for ie, v in planetstats.items():
             if 'players' in v:
                 all_players+=v['players']
         ne.all_players=all_players

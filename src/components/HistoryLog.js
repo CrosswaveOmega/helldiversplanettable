@@ -267,6 +267,7 @@ export function makeplot(
     };
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
+    console.log(slider,galaxy_time);
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
