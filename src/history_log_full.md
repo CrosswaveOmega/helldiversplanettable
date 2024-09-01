@@ -1831,3 +1831,9 @@ Mastia defense is failed (2024-08-31 07:47)<br/>
 ↳ Mastia liberation campaign starts (2024-08-31 07:47)<br/>
 
 ### Day: #206
+Pandion-XXIV of the Jin Xi sector is attacked by Terminids (2024-08-31 19:23)<br/>
+Vernen Wells is liberated (2024-09-01 04:45)<br/>
+↳ Menkent liberation campaign starts (2024-09-01 04:45)<br/>
+↳ Lesath liberation campaign starts (2024-09-01 04:45)<br/>
+
+### Day: #207
