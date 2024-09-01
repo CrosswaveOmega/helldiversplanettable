@@ -1769,6 +1769,7 @@ Midday Status (2024-08-24 03:00)<br/>
 ### Day: #202
 *Socorro III* defense is won (2024-08-27 09:53)<br/>
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
+The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall (2024-08-27 11:50)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 ↳ *Enuliale* is now unobservable due to the Gloom (2024-08-27 11:50)<br/>

@@ -203,9 +203,13 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
 def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     "Search through planet keys, and return the planets with the matching keys."
     planets = []
-    for planet in myplanets.keys():
-        if planet in text:
+    t2=text
+    keys = sorted(list(myplanets.keys()), key=len,reverse=True)
+    for planet in keys:
+        if planet.upper() in t2.upper():
             planets.append((planet, myplanets[planet]))
+            t2 = re.sub(planet, '[PLANETPROCESSED]', t2, flags=re.IGNORECASE)
+                        
     return planets
 
 
@@ -398,6 +402,11 @@ def format_event_obj() -> None:
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
+
+    for k1 in planets_Dict2:
+        for k2 in planets_Dict2:
+            if k1.upper() != k2.upper() and k1.upper() in k2.upper():
+                print(f"'{k1}' is a substring of '{k2}'")
     sectors = get_unique_sectors(planets_Dict)
 
     defenses: Dict[str, str] = {}
@@ -613,7 +622,6 @@ async def main_code() -> None:
     days_out.timestamps=[]
     for i, event_group in enumerate(grouped_events):
         elog = []
-        print(i,event_group)
         ne = GameEvent(
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
