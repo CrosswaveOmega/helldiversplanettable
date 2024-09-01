@@ -1769,28 +1769,28 @@ Estanu defense is won (2024-08-27 04:16)<br/>
 ### Day: #202
 Socorro III defense is won (2024-08-27 09:53)<br/>
 Mastia of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
-Diaspora X is very heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
-Enuliale is very heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
+Diaspora X is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
+Enuliale is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 ↳ Enuliale is now unobservable due to the Gloom (2024-08-27 11:50)<br/>
 Gemstone Bluffs is heavily enveloped by the Gloom (2024-08-27 11:50)<br/>
 ↳ Gemstone Bluffs is now unobservable due to the Gloom (2024-08-27 11:50)<br/>
 Nabatea Secundus is heavily enveloped by the Gloom (2024-08-27 11:51)<br/>
 ↳ Nabatea Secundus is now unobservable due to the Gloom (2024-08-27 11:51)<br/>
-Navi VII is very heavily enveloped by the Gloom (2024-08-27 11:52)<br/>
+Navi VII is overtaken by the Gloomwall (2024-08-27 11:52)<br/>
 ↳ Navi VII is now unobservable due to the Gloom (2024-08-27 11:52)<br/>
 Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57)<br/>
-Nivel 43 is very heavily enveloped by the Gloom (2024-08-27 15:02)<br/>
+Nivel 43 is overtaken by the Gloomwall (2024-08-27 15:02)<br/>
 ↳ Nivel 43 is now unobservable due to the Gloom (2024-08-27 15:02)<br/>
 ↳ Nivel 43 liberation campaign is still active despite being inaccessible (2024-08-27 15:02)<br/>
-Hellmire is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+Hellmire is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ Hellmire is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
 ↳ Hellmire liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
-Fori Prime is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+Fori Prime is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ Fori Prime is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
 ↳ Fori Prime liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
-Azur Secundus is very heavily enveloped by the Gloom (2024-08-27 15:03)<br/>
+Azur Secundus is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ Azur Secundus is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
-Erson Sands is very heavily enveloped by the Gloom (2024-08-27 15:04)<br/>
+Erson Sands is overtaken by the Gloomwall (2024-08-27 15:04)<br/>
 ↳ Erson Sands is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
 ↳ Erson Sands liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
 Overgoe Prime is no longer enveloped by the Gloom (2024-08-27 15:04)<br/>
