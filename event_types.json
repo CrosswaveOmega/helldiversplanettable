@@ -115,27 +115,27 @@
     "GloomEffect":{
       "name":"Gloom Effect",
       
-      "matchable": ["enveloped by the gloom"],
+      "matchable": ["by the gloom"],
       "sub": [
         {
           "name": "No Gloom",
-          "matchable": ["no longer"]
+          "matchable": ["no longer enveloped"]
         },
         {
           "name": "Light Gloom",
-          "matchable": ["lightly"]
+          "matchable": ["lightly enveloped"]
         },
         {
           "name": "Medium Gloom",
-          "matchable": ["moderately"]
+          "matchable": ["moderately enveloped"]
         },
         {
           "name": "Heavy Gloom",
-          "matchable": ["heavily"]
+          "matchable": ["heavily enveloped"]
         },
         {
-          "name": "Very Heavy Gloom",
-          "matchable": ["very heavily"]
+          "name": "Gloom Border",
+          "matchable": [" gloomwall"]
         }
       ]
     },

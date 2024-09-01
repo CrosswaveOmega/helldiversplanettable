@@ -54,12 +54,27 @@ class GameEvent(BaseModel):
 
 
     
-    
+class Position(BaseModel):
+    x: float
+    y: float
+
 class PlanetStatic(BaseModel):
     name: str
-    position: str
+    position: Position
     sector: str
     index: int
+
+
+class PlanetState(BaseModel):
+    hp: Optional[int]=Field(alias='hp',default=None)
+    pl: Optional[Union[str,int]]=Field(alias='pl',default=None)
+    r: Optional[float]=Field(alias='float',default=None)
+    t: int
+    link: Optional[List[int]]=Field(alias='link',default=[])
+    link2: Optional[int]=Field(alias='link2',default=None)
+
+
+
 
 class DaysObject(BaseModel):
     events: List[GameEvent] = Field(default_factory=list, alias='events')
@@ -69,7 +84,19 @@ class DaysObject(BaseModel):
     timestamps: List[int] = Field(default_factory=list)
     lastday: int = Field(default=1)
 
-    galaxystatic: Dict[str, Dict[str,Any]] = Field(default_factory=dict)
+    galaxystatic: Dict[str,PlanetStatic] = Field(default_factory=dict)
+
+
+
+
+class GalaxyStates(BaseModel):
+   
+    gstatic: Optional[Dict[str,PlanetStatic]] = Field(default=None,alias='gstatic')
+    states: Optional[Dict[str,PlanetState]]=Field(default=None,alias='states')
+    gstate: Optional[Dict[str,Any]]=Field(default_factory=dict,alias='gstate')
+    links: Optional[Dict[int,List[int]]]=Field(default_factory=dict)
+    
+
 
 
 def get_web_file():
@@ -517,7 +544,7 @@ def enote(num:int):
     #Anything smaller than 100 is to be ignored.
     num=(num//100)*100
     if num<100:
-        return 100
+        return '<100'
     return human_format(num)
     
     
@@ -565,8 +592,7 @@ async def main_code() -> None:
     laststats: Dict[int, Dict[str, Any]] = {}
     march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
     store: Dict[str, str] = {}
-    galaxy_states = {'states':{},'gstatic':{}}
-    galaxy_states['gstatic'] = planets
+    galaxy_states =GalaxyStates(gstatic=planets,states={})
     days_out.days = {}
     days_out.galaxystatic = planets
     
@@ -594,10 +620,10 @@ async def main_code() -> None:
             day=event_group[0].day,
         )
 
+        #Add eind- this is the overall event group index.
         if not int(ne.timestamp) in days_out.timestamps:
             days_out.timestamps.append(int(ne.timestamp))
         ind = days_out.timestamps.index(int(ne.timestamp))
-        print(ind)
         ne.eind=ind
         planetstats=await get_planet_stats(ne,all_times_new,march_5th)
         all_players=0
@@ -606,11 +632,14 @@ async def main_code() -> None:
                 all_players+=v['players']
         ne.all_players=all_players
         
+        
 
         for e, event in enumerate(event_group):
-            temp = await process_event(
+            #
+            ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
+            ptemp = await process_event(
                 days_out,
-                temp,
+                ptemp,
                 laststats,
                 event,
                 i,
@@ -626,8 +655,8 @@ async def main_code() -> None:
                 )
             )
             #ne.galaxystate = event.galaxystate
-            galaxy_states['states'][int(ne.eind)] = event.galaxystate
-            
+            galaxy_states.states[int(ne.eind)] = ptemp
+            temp=ptemp
             ne.mo = event.mo
         ne.log = elog
         newevt.append(ne)
@@ -637,7 +666,7 @@ async def main_code() -> None:
 
 
 
-    markdowncode = list_all(days_out)
+    markdowncode = make_markdown_log(days_out)
     # print(markdowncode)
     with open("./src/history_log_full.md", "w", encoding="utf8") as file:
         file.write(markdowncode)
@@ -651,23 +680,25 @@ async def main_code() -> None:
 
     resort={}
     laststate={}
-    for t, s in galaxy_states['states'].items():
-        for p, res in s.items():
-            if 'link' in res:
-                link=unordered_list_hash(res['link'])
+    
+    for t, s in galaxy_states.states.items():
+        for p, resa in s.items():
+            if isinstance(resa.link,list):
+                link=unordered_list_hash(resa.link)
                 if not link in hashlinks:
-                    hashlinks[link]=res['link']
+                    hashlinks[link]=resa.link
                 else:
                     #print(link)
-                    if sorted(res['link'])!=sorted(hashlinks[link]):
-                        print("MISMATCH",res['link'],hashlinks[link])
+                    if sorted(resa.link)!=sorted(hashlinks[link]):
+                        print("MISMATCH",resa.link,hashlinks[link])
                     #hashlists[link][1]+=1
-                bef+=len(str(res['link']))
-                res['link2']=link
-                res.pop('link')
+                bef+=len(str(resa.link))
+                resa.link2=link
+                resa.link=None
                 aft+=len(str(link))
         if laststate:
-            for p, res in s.items():
+            for p, rese in s.items():
+                res=rese.model_dump(warnings='error')
                 if not p in resort:
                     resort[p]=[]
                 
@@ -689,17 +720,27 @@ async def main_code() -> None:
                     toad['eind']=t
                     resort[p].append(toad)
         else:
-            for p, res in s.items():
+            for p, rese in s.items():
+                res=rese.model_dump(warnings='error')
                 if not p in resort:
                     #eind is event index
                     resort[p]=[res]
                     resort[p][0]['eind']=t
-        laststate=s
+        laststate={k: v.model_dump(warnings='error') for k, v in s.items() }
     print("saving galaxy states.")
-    galaxy_states['states']={}
-    galaxy_states['gstate']=resort
-    galaxy_states['links']=hashlinks
-    save_json_data("./src/data/gstates.json", galaxy_states)
+    galaxy_states.states={}
+    galaxy_states.gstate=resort
+    galaxy_states.links=hashlinks
+    for state_name, state_value in galaxy_states.__dict__.items():
+        # process each state as needed
+        print(state_name)
+        if isinstance(state_value, BaseModel):
+            print(state_value.model_dump(warnings='error'))
+        else:
+            print(f"Expected BaseModel but got {type(state_value).__name__} for {state_name}")
+
+    
+    save_json_data("./src/data/gstates.json", galaxy_states.model_dump(warnings='error'))
     print(bef, aft)
     print(hashlists)
     
@@ -726,10 +767,10 @@ def custom_strftime(format, t):
     return t.strftime(format).replace("{S}", str(t.day) + suffix(t.day))
 
 
-def list_all(history):
+def make_markdown_log(history:DaysObject):
     markdown_output = ["\n"]
 
-    def make_entry(entry):
+    def make_entry(entry:GameEvent):
         for each in entry.log:
             # print(markdown_output[-1]);
             if each.type == "Day Start":
@@ -743,8 +784,10 @@ def list_all(history):
                 # formatted_time = custom_strftime("%#I:%M%p UTC %b {S} %Y",timestamp)
                 # formatted_time=formatted_time.replace("AM",'am')
                 # formatted_time=formatted_time.replace("PM",'pm')
-
-                markdown_output.append(f"{each.text} ({formatted_time})<br/>\n")
+                text=f"{each.text}"
+                for i, v in each.planet:
+                    text=text.replace(i,f"*{i}*")
+                markdown_output.append(f"{text} ({formatted_time})<br/>\n")
 
     for event in history.events:
         make_entry(event)
@@ -815,21 +858,21 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
                 "sector": p["sector"],
                 "index": p["index"],
             }
-            planets[str(p["index"])] = per
-            temp[str(p["index"])] = t
+            planets[str(p["index"])] = PlanetStatic(**per)
+            temp[str(p["index"])] = PlanetState(**t)
 
     return planets, temp
 
 
 async def process_event(
     days_out: DaysObject,
-    planets: Dict[str, Dict[str, Any]],
+    planets: Dict[str, PlanetState],
     laststats: Dict[int, Dict[str, Any]],
     event: GameEvent,
     index: int,
     store: Dict[str, str],
     all_times_new: Dict[str, Dict[int, Dict[str, Any]]],
-) -> Dict[str, Dict[str, Any]]:
+) -> Dict[str, PlanetState]:
     """Process each event, extrapolating the current state of the game at each step."""
     if event.type and "Major Order" in event.type:
         result = extract_mo_details(event.text or "")
@@ -849,12 +892,12 @@ async def process_event(
         days_out.lastday = int(event.day)
     days_out.dayind[int(event.day)].append(int(index))
 
-    planetclone = json.loads(json.dumps(planets))
+    planetclone = planets.copy()
     for i, v in laststats.items():
         if str(i) in planetclone:
-            planetclone[str(i)]["hp"] = v.get("health", 0)
-            planetclone[str(i)]["r"] = float(v.get("regenPerSecond", 0))
-            planetclone[str(i)]["pl"] = enote(v.get("players", 0))
+            planetclone[str(i)].hp = v.get("health", 0)
+            planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
+            planetclone[str(i)].pl = enote(v.get("players", 0))
 
     timestamp = str(event.timestamp)
     dc = str(int(event.day) // 30)
@@ -876,19 +919,19 @@ async def process_event(
 
 
 def update_planet_stats(
-    planetclone: Dict[str, Dict[str, Any]], planetstats: Dict[int, Dict[str, Any]]
+    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
 ) -> None:
     '''Update HP, regenPerSecond, and playercount'''
     for i, v in planetstats.items():
         if str(i) in planetclone:
-            planetclone[str(i)]["hp"] = v["health"]
-            planetclone[str(i)]["r"] = float(v["regenPerSecond"])
-            planetclone[str(i)]["pl"] = enote(v["players"])
+            planetclone[str(i)].hp = v.get("health", 0)
+            planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
+            planetclone[str(i)].pl = enote(v.get("players", 0))
 
 
 
 def update_planet_ownership(
-    event: GameEvent, planetclone: Dict[str, Dict[str, Any]]
+    event: GameEvent, planetclone: Dict[str, PlanetState]
 ) -> None:
     '''Update planet ownership and warp links, if applicable.'''
     for p in event.planet:
@@ -896,7 +939,7 @@ def update_planet_ownership(
         ind = int(ind)
         if str(ind) not in planetclone:
             print("WARNING,", ind, name, "Not in planetclone!")
-        dec = list(DECODE(planetclone[str(ind)]["t"]))
+        dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
             dec[2] = 1
         if event.type == "campaign_end":
@@ -919,7 +962,7 @@ def update_planet_ownership(
         if event.type == "defense won":
             dec[1] = 0
             dec[2] = 0
-        planetclone[str(ind)]["t"] = ENCODE(dec[0], dec[1], dec[2])
+        planetclone[str(ind)].t = ENCODE(dec[0], dec[1], dec[2])
     # Warp link updates
     if event.type == "newlink":
         update_waypoints(event.planet, planetclone, add=True)
@@ -929,40 +972,40 @@ def update_planet_ownership(
 
     if event.type == "clearlinks":
         for name, ind in event.planet:
-            planetclone[str(ind)]["link"] = []
+            planetclone[str(ind)].link = []
             for id2 in planetclone.keys():
-                if "link" in planetclone[str(ind)]:
-                    while int(id2) in planetclone[str(ind)]["link"]:
-                        planetclone[str(ind)]["link"].remove(int(id2))
+                if planetclone[str(ind)].link:
+                    while int(id2) in planetclone[str(ind)].link:
+                        planetclone[str(ind)].link.remove(int(id2))
 
-                if "link" in planetclone[str(id2)]:
-                    while int(ind) in planetclone[str(id2)]["link"]:
-                        planetclone[str(id2)]["link"].remove(int(ind))
+                if planetclone[str(id2)].link:
+                    while int(ind) in planetclone[str(id2)].link:
+                        planetclone[str(id2)].link.remove(int(ind))
 
 
 def add_waypoint(
-    planetclone: Dict[str, Dict[str, Any]], ind: int, other_ind: int
+    planetclone: Dict[str, PlanetState], ind: int, other_ind: int
 ) -> None:
-    if "link" not in planetclone[str(ind)]:
-        planetclone[str(ind)]["link"] = []
-    if int(other_ind) not in planetclone[str(ind)]["link"]:
-        if "link" in planetclone[str(other_ind)] and (
-            int(ind) in planetclone[str(other_ind)]["link"]
+    if not planetclone[str(ind)].link:
+        planetclone[str(ind)].link = []
+    if int(other_ind) not in planetclone[str(ind)].link:
+        if planetclone[str(other_ind)].link and (
+            int(ind) in planetclone[str(other_ind)].link
         ):
             return
-        planetclone[str(ind)]["link"].append(int(other_ind))
+        planetclone[str(ind)].link.append(int(other_ind))
 
 
 def remove_waypoint(
-    planetclone: Dict[str, Dict[str, Any]], ind: int, other_ind: int
+    planetclone: Dict[str,PlanetState], ind: int, other_ind: int
 ) -> None:
-    if "link" in planetclone[str(ind)]:
-        while int(other_ind) in planetclone[str(ind)]["link"]:
-            planetclone[str(ind)]["link"].remove(int(other_ind))
+    if planetclone[str(ind)].link:
+        while int(other_ind) in planetclone[str(ind)].link:
+            planetclone[str(ind)].link.remove(int(other_ind))
 
-    if "link" in planetclone[str(other_ind)]:
-        while int(ind) in planetclone[str(other_ind)]["link"]:
-            planetclone[str(other_ind)]["link"].remove(int(ind))
+    if planetclone[str(other_ind)].link:
+        while int(ind) in planetclone[str(other_ind)].link:
+            planetclone[str(other_ind)].link.remove(int(ind))
 
 def update_waypoints(
     planet_list: List[Tuple[str, int]],
