@@ -1782,18 +1782,18 @@ The edge of the interstellar Gloom spore cloud became more defined/distinct from
 Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57)<br/>
 *Nivel 43* is overtaken by the Gloomwall (2024-08-27 15:02)<br/>
 ↳ *Nivel 43* is now unobservable due to the Gloom (2024-08-27 15:02)<br/>
-↳ *Nivel 43* liberation campaign is still active despite being inaccessible (2024-08-27 15:02)<br/>
+↳ *Nivel 43* liberation campaign is active despite being inaccessible (2024-08-27 15:02)<br/>
 *Hellmire* is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ *Hellmire* is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
-↳ *Hellmire* liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-08-27 15:03)<br/>
 *Fori Prime* is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ *Fori Prime* is now unobservable due to the Gloom (2024-08-27 15:03)<br/>
-↳ *Fori Prime* liberation campaign is still active despite being inaccessible (2024-08-27 15:03)<br/>
+↳ *Fori Prime* liberation campaign is active despite being inaccessible (2024-08-27 15:03)<br/>
 *Azur Secundus* is overtaken by the Gloomwall (2024-08-27 15:03)<br/>
 ↳ *Azur Secundus* is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
 *Erson Sands* is overtaken by the Gloomwall (2024-08-27 15:04)<br/>
 ↳ *Erson Sands* is now unobservable due to the Gloom (2024-08-27 15:04)<br/>
-↳ *Erson Sands* liberation campaign is still active despite being inaccessible (2024-08-27 15:04)<br/>
+↳ *Erson Sands* liberation campaign is active despite being inaccessible (2024-08-27 15:04)<br/>
 *Overgoe Prime* is no longer enveloped by the Gloom (2024-08-27 15:04)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-27 15:14)<br/>
 *Matar Bay* defense is won (2024-08-27 16:55)<br/>
@@ -1821,7 +1821,7 @@ Midday Status (2024-08-28 18:00)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
 *Mastia* defense is won (2024-08-30 07:43)<br/>
-↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24.  To correct this, this defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:44)<br/>
+↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24. To correct this, the defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:44)<br/>
 *Mastia* of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
 
 ### Day: #205
@@ -1838,3 +1838,21 @@ Midday Status (2024-08-30 18:00)<br/>
 ↳ *Lesath* liberation campaign starts (2024-09-01 04:45)<br/>
 
 ### Day: #207
+*Pandion-XXIV* defense is failed (2024-09-01 19:24)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2024-09-01 19:24)<br/>
+*Fenrir III* is liberated (2024-09-01 19:59)<br/>
+↳ *Hellmire* liberation campaign starts (2024-09-01 19:59)<br/>
+↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59)<br/>
+↳ NOTE: At the time of writing the exact nature of counting a liberation campaign start and end is up for debate for if going by the api definition or by the “supply line” definition given the nature of the gloom and api shenanigans happening behind the scenes (with their said theoretical implications). This will be resolved eventually but for the time being its not decided upon. As for statistical purposes, they will not be recorded there until a resolution is more clear. (2024-09-01 19:59)<br/>
+Midday Status (2024-09-02 03:00)<br/>
+
+### Day: #208
+Major Order | Operation Blazing Barrage is failed | Objective: Eradicate/Liberate (2024-09-02 11:24)<br/>
+*Trandor* - *Gatria* supply line is added (2024-09-02 16:07)<br/>
+*Gar Haren* - *Gatria* supply line is added (2024-09-02 16:07)<br/>
+*Partion* - *Gacrux* supply line is added (2024-09-02 16:07)<br/>
+*Partion* - *Phact Bay* supply line is added (2024-09-02 16:07)<br/>
+*Phact Bay* - Garen Haren supply line is added (2024-09-02 16:07)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09)<br/>
+Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10)<br/>
