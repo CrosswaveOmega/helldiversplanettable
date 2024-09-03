@@ -118,23 +118,23 @@
       "matchable": ["by the gloom"],
       "sub": [
         {
-          "name": "No Gloom",
+          "name": "no_gloom",
           "matchable": ["no longer enveloped"]
         },
         {
-          "name": "Light Gloom",
+          "name": "light_gloom",
           "matchable": ["lightly enveloped"]
         },
         {
-          "name": "Medium Gloom",
+          "name": "medium_gloom",
           "matchable": ["moderately enveloped"]
         },
         {
-          "name": "Heavy Gloom",
+          "name": "heavy_gloom",
           "matchable": ["heavily enveloped"]
         },
         {
-          "name": "Gloom Border",
+          "name": "gloom_border",
           "matchable": [" gloomwall"]
         }
       ]

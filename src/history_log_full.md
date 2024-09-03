@@ -1821,7 +1821,6 @@ Midday Status (2024-08-28 18:00)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
 *Mastia* defense is won (2024-08-30 07:43)<br/>
-↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24. To correct this, the defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:44)<br/>
 *Mastia* of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
 
 ### Day: #205
@@ -1843,16 +1842,25 @@ Midday Status (2024-08-30 18:00)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59)<br/>
-↳ NOTE: At the time of writing the exact nature of counting a liberation campaign start and end is up for debate for if going by the api definition or by the “supply line” definition given the nature of the gloom and api shenanigans happening behind the scenes (with their said theoretical implications). This will be resolved eventually but for the time being its not decided upon. As for statistical purposes, they will not be recorded there until a resolution is more clear. (2024-09-01 19:59)<br/>
 Midday Status (2024-09-02 03:00)<br/>
 
 ### Day: #208
 Major Order | Operation Blazing Barrage is failed | Objective: Eradicate/Liberate (2024-09-02 11:24)<br/>
 *Trandor* - *Gatria* supply line is added (2024-09-02 16:07)<br/>
+*Trandor* is not accessible despite connecting to the liberated world of *Gatria* (2024-09-02 16:07)<br/>
 *Gar Haren* - *Gatria* supply line is added (2024-09-02 16:07)<br/>
 *Partion* - *Gacrux* supply line is added (2024-09-02 16:07)<br/>
 *Partion* - *Phact Bay* supply line is added (2024-09-02 16:07)<br/>
+*Partion* is not accessible despite connecting to the liberated world of *Phact Bay* (2024-09-02 16:07)<br/>
 *Phact Bay* - Garen Haren supply line is added (2024-09-02 16:07)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09)<br/>
 Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10)<br/>
+Midday Status (2024-09-02 18:00)<br/>
+*Gatria* defense is won (2024-09-03 05:18)<br/>
+*Hellmire* liberation campaign ends (2024-09-03 06:42)<br/>
+
+### Day: #209
+*Phact Bay* defense is won (2024-09-03 09:37)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-03 10:01)<br/>
+*Trandor* liberation campaign starts (2024-09-03 10:01)<br/>

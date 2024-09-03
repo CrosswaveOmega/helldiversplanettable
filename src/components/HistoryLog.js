@@ -117,6 +117,30 @@ function getColor(owner) {
             return "#79E0FF";
     }
 }
+function getGloomName(level) {
+    switch (level) {
+        case 1:
+            return "Light Gloom";
+        case 2:
+            return "Gloom";
+        case 3:
+            return "Dense Gloom";
+        case 4:
+            return "Gloom Wall"
+    }
+}
+function getGloomObscurity(level) {
+    switch (level) {
+        case 1:
+            return 0.5
+        case 2:
+            return 0.4
+        case 3:
+            return 0.8
+        case 4:
+            return 0.7
+    }
+}
 
 export function countDistinctTypes(history) {
     const typeCounts = history.events.reduce((acc, event) => {
@@ -249,7 +273,12 @@ function DECODE(number) {
     let L = number & 0b1;
     return [CO, AT, L];
 }
-
+function getRandomInt(min, max) {
+    const minCeiled = Math.ceil(min);
+    const maxFloored = Math.floor(max);
+    return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
+  }
+  
 export function makeplot(
     history,
     gstates,
@@ -308,6 +337,34 @@ export function makeplot(
     let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
     let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
 
+    let gloomPlanets = planets.filter((planet) => planet.gls != null);
+
+    let gloompoints=[];
+    function generateRandomCoordinates(p,gls) {
+        const coordinates = [];
+        for (let i = 0; i < gls*4; i++) {
+            const offsetX = getRandomInt(-3,3);
+            const offsetY = getRandomInt(-3,3);
+            
+            coordinates.push({
+                x: p.x + offsetX,
+                y: p.y + offsetY,
+                gls:gls
+            });
+            
+        }
+        return coordinates;
+    }
+    gloomPlanets.forEach((p) => {
+
+ 
+
+        let pos = { x: p.position.x*100, y: p.position.y*-100 }; // example point
+        const randomCoords = generateRandomCoordinates(pos,p.gls);
+        gloompoints.push(...randomCoords);
+    });
+    
+    
     eList(history, slider, document.getElementById("DAYVIEW"));
 
     list_text(history, slider, document.getElementById("Superdayview"));
@@ -322,7 +379,7 @@ export function makeplot(
                 type: "MultiPoint",
                 coordinates: [
                     [100, -100],
-                    [100, 100],
+                    [100, 100], 
                     [-100, 100],
                     [-100, -100],
                 ],
@@ -344,6 +401,7 @@ export function makeplot(
                 //fill: p => getColor(p.ta[1]),
                 strokeWidth: width / 200,
             }),
+            
             Plot.dot(planets, {
                 x: (p) => p.position.x * 100,
                 y: (p) => p.position.y * -100,
@@ -385,6 +443,14 @@ export function makeplot(
                 // strokeWidth: width / 200,
                 //symbol: "plus",
             }),
+            Plot.dot(gloompoints, {
+                x: (p) => p.x,
+                y: (p) => p.y,
+                r: (p) => width / Math.max(100,500-100*p.gls),
+                fill: "#EF8E20",
+                strokeWidth: width / 500,
+                opacity:  (p) => getGloomObscurity(p.gls),
+            }),
 
             Plot.text(
                 planets,
@@ -407,6 +473,7 @@ export function makeplot(
                 },
                 {},
             ),
+            
 
             Plot.tip(
                 planets,
@@ -414,8 +481,8 @@ export function makeplot(
                     x: (p) => p.position.x * 100,
                     y: (p) => p.position.y * -100,
 
-                    title: (p) =>
-                        [
+                    title: (p) =>{
+                        let main=[
                             `${p.name}\n${p.ta[1] ? "under attack" : ""}`,
                             `Planet HP: ${
                                 Math.round((p.hp / 1000000) * 100 * 10000) /
@@ -428,7 +495,13 @@ export function makeplot(
                                 ) / 10000
                             }`,
                             `Players: ${p.pl}`,
-                        ].join("\n"),
+                        ]
+                        if (p.gls!=null){
+                            main.push(
+                                `${getGloomName(p.gls)}`)
+                        }
+                        return main.join("\n");
+                    },
                     fontSize: 10,
                 }),
             ),

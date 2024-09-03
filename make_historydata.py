@@ -72,6 +72,7 @@ class PlanetState(BaseModel):
     t: int
     link: Optional[List[int]]=Field(alias='link',default=[])
     link2: Optional[int]=Field(alias='link2',default=None)
+    gls: Optional[int]=Field(alias='gloom',default=None)
 
 
 
@@ -129,9 +130,12 @@ async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
 
 def check_and_load_json(filepath: str):
     '''Make sure the json at filepath exists, and load it.'''
-    if os.path.exists(filepath) and os.path.isfile(filepath):
-        with open(filepath, "r", encoding="utf8") as json_file:
-            return json.load(json_file)
+    try:
+        if os.path.exists(filepath) and os.path.isfile(filepath):
+            with open(filepath, "r", encoding="utf8") as json_file:
+                return json.load(json_file)
+    except Exception as e:
+        print(e)
     return {}
 
 
@@ -370,23 +374,26 @@ def make_day_obj() -> None:
             if match.group("day"):
                 timestamp = parse_timestamp(match.group("day_time"))
                 daykey = f"{match.group('day')}"
+                
+                daykey = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
                 days.events.append(
                     GameEvent(
                         text=f"Day #{daykey} Start",
                         timestamp=timestamp.timestamp(),
                         time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        day=daykey,
+                        day=int(daykey),
                     )
                 )
             else:
                 timestamp = parse_timestamp(match.group("time"))
                 print(match.group("text"), timestamp)
+                day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
                 days.events.append(
                     GameEvent(
                         text=match.group("text"),
                         timestamp=timestamp.timestamp(),
                         time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        day=daykey,
+                        day=day,
                     )
                 )
     with open("./src/data/gen_data/out.json", "w", encoding="utf8") as json_file:
@@ -585,174 +592,6 @@ async def get_planet_stats(ne: GameEvent, all_times_new: Dict[str, Dict[str, Any
 
 
 
-async def main_code() -> None:
-    '''Create the historydata.json file using result from format_event_object.'''
-    planetlist: List[Tuple[int, Dict[str, Any]]] = []
-    planets, temp = initialize_planets()
-    planetlist.append((0, planets))
-    print("loading objects")
-    days_out =DaysObject(**check_and_load_json("./src/data/gen_data/out2.json"))
-    print('done')
-    d = 0
-
-    all_times_new = {}
-
-    lastday: int = 0
-    laststats: Dict[int, Dict[str, Any]] = {}
-    march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
-    store: Dict[str, str] = {}
-    galaxy_states =GalaxyStates(gstatic=planets,states={})
-    days_out.days = {}
-    days_out.galaxystatic = planets
-    
-    days_out.lastday = 1
-    days_out.dayind = {}
-    #days_out["new_events"] = []
-
-    events_by_timestamp = {}
-    # Inital event grouping.
-    for i, event in enumerate(days_out.events):
-        # Group all events by the timestamp in which they occoured.
-        timestamp = event.timestamp
-        if timestamp not in events_by_timestamp:
-            events_by_timestamp[timestamp] = []
-        events_by_timestamp[timestamp].append(event)
-    newevt = []
-    grouped_events = list(events_by_timestamp.values())
-    days_out.timestamps=[]
-    for i, event_group in enumerate(grouped_events):
-        elog = []
-        ne = GameEvent(
-            timestamp=event_group[0].timestamp,
-            time=event_group[0].time,
-            day=event_group[0].day,
-        )
-
-        #Add eind- this is the overall event group index.
-        if not int(ne.timestamp) in days_out.timestamps:
-            days_out.timestamps.append(int(ne.timestamp))
-        ind = days_out.timestamps.index(int(ne.timestamp))
-        ne.eind=ind
-        planetstats=await get_planet_stats(ne,all_times_new,march_5th)
-        all_players=0
-        for ie, v in planetstats.items():
-            if 'players' in v:
-                all_players+=v['players']
-        ne.all_players=all_players
-        
-        
-
-        for e, event in enumerate(event_group):
-            #
-            ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
-            ptemp = await process_event(
-                days_out,
-                ptemp,
-                laststats,
-                event,
-                i,
-                store,
-                all_times_new,
-            )
-            elog.append(
-                GameSubEvent(
-                    planet=event.planet,
-                    text=event.text,
-                    type=event.type,
-                    faction=event.faction,
-                )
-            )
-            #ne.galaxystate = event.galaxystate
-            galaxy_states.states[int(ne.eind)] = ptemp
-            temp=ptemp
-            ne.mo = event.mo
-        ne.log = elog
-        newevt.append(ne)
-    days_out.events = newevt
-    bef = 0
-    aft = 0
-
-
-
-    markdowncode = make_markdown_log(days_out)
-    # print(markdowncode)
-    with open("./src/history_log_full.md", "w", encoding="utf8") as file:
-        file.write(markdowncode)
-    print("saving data")
-    save_json_data("./src/data/historydata.json", days_out.model_dump(warnings='error'))
-    print("saving time caches...")
-    for d, v in all_times_new.items():
-        print(f"saving time cache for day set {d}")
-        save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
-    hashlinks={}
-
-    resort={}
-    laststate={}
-    
-    for t, s in galaxy_states.states.items():
-        for p, resa in s.items():
-            if isinstance(resa.link,list):
-                link=unordered_list_hash(resa.link)
-                if not link in hashlinks:
-                    hashlinks[link]=resa.link
-                else:
-                    #print(link)
-                    if sorted(resa.link)!=sorted(hashlinks[link]):
-                        print("MISMATCH",resa.link,hashlinks[link])
-                    #hashlists[link][1]+=1
-                bef+=len(str(resa.link))
-                resa.link2=link
-                resa.link=None
-                aft+=len(str(link))
-        if laststate:
-            for p, rese in s.items():
-                res=rese.model_dump(warnings='error')
-                if not p in resort:
-                    resort[p]=[]
-                
-                last=laststate[p]
-                keys_all=list(res.keys())
-                keysb=list(last.keys())
-
-                keysa=set(last.keys())
-                keysb=set(res.keys())
-
-                toad={}
-                for key in keys_all:
-                    if key not in laststate[p]:
-                        laststate[p][key]=None
-                    if laststate[p][key]!=res[key]:
-                        toad[key]=res[key]
-                if toad:
-                    #eind is event index
-                    toad['eind']=t
-                    resort[p].append(toad)
-        else:
-            for p, rese in s.items():
-                res=rese.model_dump(warnings='error')
-                if not p in resort:
-                    #eind is event index
-                    resort[p]=[res]
-                    resort[p][0]['eind']=t
-        laststate={k: v.model_dump(warnings='error') for k, v in s.items() }
-    print("saving galaxy states.")
-    galaxy_states.states={}
-    galaxy_states.gstate=resort
-    galaxy_states.links=hashlinks
-    for state_name, state_value in galaxy_states.__dict__.items():
-        # process each state as needed
-        print(state_name)
-        if isinstance(state_value, BaseModel):
-            print(state_value.model_dump(warnings='error'))
-        else:
-            print(f"Expected BaseModel but got {type(state_value).__name__} for {state_name}")
-
-    
-    save_json_data("./src/data/gstates.json", galaxy_states.model_dump(warnings='error'))
-    print(bef, aft)
-    print(hashlists)
-    
-    save_json_data("./src/data/resort.json", resort,indent=3)
 
 
 mainHeader = """---
@@ -972,11 +811,23 @@ def update_planet_ownership(
             dec[2] = 0
         planetclone[str(ind)].t = ENCODE(dec[0], dec[1], dec[2])
     # Warp link updates
+    if "gloom" in event.type:
+        if event.type=="no_gloom":
+            planetclone[str(ind)].gls=None
+        elif event.type=="light_gloom":
+            planetclone[str(ind)].gls=1
+        elif event.type=="medium_gloom":
+            planetclone[str(ind)].gls=2
+        elif event.type=="heavy_gloom":
+            planetclone[str(ind)].gls=3
+        elif event.type=="gloom_border":
+            planetclone[str(ind)].gls=4
     if event.type == "newlink":
         update_waypoints(event.planet, planetclone, add=True)
 
     if event.type == "destroylink":
         update_waypoints(event.planet, planetclone, add=False)
+
 
     if event.type == "clearlinks":
         for name, ind in event.planet:
@@ -1032,10 +883,184 @@ def update_waypoints(
 
 
 
+
+async def main_code() -> None:
+    '''Create the historydata.json file using result from format_event_object.'''
+    planetlist: List[Tuple[int, Dict[str, Any]]] = []
+    planets, temp = initialize_planets()
+    planetlist.append((0, planets))
+    print("loading objects")
+    days_out =DaysObject(**check_and_load_json("./src/data/gen_data/out2.json"))
+    print('done')
+    d = 0
+
+    all_times_new = {}
+
+    lastday: int = 0
+    laststats: Dict[int, Dict[str, Any]] = {}
+    march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
+    store: Dict[str, str] = {}
+    galaxy_states =GalaxyStates(gstatic=planets,states={})
+    days_out.days = {}
+    days_out.galaxystatic = planets
+    
+    days_out.lastday = 1
+    days_out.dayind = {}
+    #days_out["new_events"] = []
+
+    events_by_timestamp = {}
+    # Inital event grouping.
+    for i, event in enumerate(days_out.events):
+        # Group all events by the timestamp in which they occoured.
+        timestamp = event.timestamp
+        if timestamp not in events_by_timestamp:
+            events_by_timestamp[timestamp] = []
+        events_by_timestamp[timestamp].append(event)
+    newevt = []
+    grouped_events = list(events_by_timestamp.values())
+    days_out.timestamps=[]
+    for i, event_group in enumerate(grouped_events):
+        elog = []
+        ne = GameEvent(
+            timestamp=event_group[0].timestamp,
+            time=event_group[0].time,
+            day=event_group[0].day,
+        )
+
+        #Add eind- this is the overall event group index.
+        if not int(ne.timestamp) in days_out.timestamps:
+            days_out.timestamps.append(int(ne.timestamp))
+        ind = days_out.timestamps.index(int(ne.timestamp))
+        ne.eind=ind
+        planetstats=await get_planet_stats(ne,all_times_new,march_5th)
+        all_players=0
+        for ie, v in planetstats.items():
+            if 'players' in v:
+                all_players+=v['players']
+        ne.all_players=all_players
+        
+        
+
+        for e, event in enumerate(event_group):
+            #
+            ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
+            ptemp = await process_event(
+                days_out,
+                ptemp,
+                laststats,
+                event,
+                i,
+                store,
+                all_times_new,
+            )
+            elog.append(
+                GameSubEvent(
+                    planet=event.planet,
+                    text=event.text,
+                    type=event.type,
+                    faction=event.faction,
+                )
+            )
+            #ne.galaxystate = event.galaxystate
+            galaxy_states.states[int(ne.eind)] = ptemp
+            temp=ptemp
+            ne.mo = event.mo
+        ne.log = elog
+        newevt.append(ne)
+    days_out.events = newevt
+    bef = 0
+    aft = 0
+
+
+
+    markdowncode = make_markdown_log(days_out)
+    # print(markdowncode)
+    with open("./src/history_log_full.md", "w", encoding="utf8") as file:
+        file.write(markdowncode)
+    print("saving data")
+    save_json_data("./src/data/historydata.json", days_out.model_dump(warnings='error'))
+    print("saving time caches...")
+    for d, v in all_times_new.items():
+        print(f"saving time cache for day set {d}")
+        save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
+    hashlinks={}
+
+    resort={}
+    laststate={}
+    
+    for t, s in galaxy_states.states.items():
+        for p, resa in s.items():
+            if isinstance(resa.link,list):
+                link=unordered_list_hash(resa.link)
+                if not link in hashlinks:
+                    hashlinks[link]=resa.link
+                else:
+                    #print(link)
+                    if sorted(resa.link)!=sorted(hashlinks[link]):
+                        print("MISMATCH",resa.link,hashlinks[link])
+                    #hashlists[link][1]+=1
+                bef+=len(str(resa.link))
+                resa.link2=link
+                resa.link=None
+                aft+=len(str(link))
+        if laststate:
+            for p, rese in s.items():
+                res=rese.model_dump(warnings='error')
+                if not p in resort:
+                    resort[p]=[]
+                
+                last=laststate[p]
+                keys_all=list(res.keys())
+                keysb=list(last.keys())
+
+                keysa=set(last.keys())
+                keysb=set(res.keys())
+
+                toad={}
+                for key in keys_all:
+                    if key not in laststate[p]:
+                        laststate[p][key]=None
+                    if laststate[p][key]!=res[key]:
+                        toad[key]=res[key]
+                if toad:
+                    #eind is event index
+                    toad['eind']=t
+                    resort[p].append(toad)
+        else:
+            for p, rese in s.items():
+                res=rese.model_dump(warnings='error')
+                if not p in resort:
+                    #eind is event index
+                    resort[p]=[res]
+                    resort[p][0]['eind']=t
+        laststate={k: v.model_dump(warnings='error') for k, v in s.items() }
+    print("saving galaxy states.")
+    galaxy_states.states={}
+    galaxy_states.gstate=resort
+    galaxy_states.links=hashlinks
+    for state_name, state_value in galaxy_states.__dict__.items():
+        # process each state as needed
+        print(state_name)
+        if isinstance(state_value, BaseModel):
+            print(state_value.model_dump(warnings='error'))
+        else:
+            print(f"Expected BaseModel but got {type(state_value).__name__} for {state_name}")
+
+    
+    save_json_data("./src/data/gstates.json", galaxy_states.model_dump(warnings='error'))
+    print(bef, aft)
+    print(hashlists)
+    
+    save_json_data("./src/data/resort.json", resort,indent=3)
+
+
 def save_json_data(file_path: str, data: Any,**kwargs) -> None:
     '''Save json data to a file.'''
     with open(file_path, "w", encoding="utf8") as json_file:
         json.dump(data, json_file,**kwargs)
+
+
+
 
 
 if not os.path.exists("./src/data/gen_data"):

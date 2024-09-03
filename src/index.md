@@ -50,7 +50,7 @@ function addDynamicCSS(ns) {
   const style = document.createElement("style");
   style.innerHTML = `
     .${ns}, .${ns}-checkbox {
-      max-width: 100% !important;
+      max-width: 4000% !important;
     }
   `;
   document.head.appendChild(style);
@@ -142,3 +142,4 @@ See the [Historical War Map](./history_map) to view a recreated map of the galac
 See the [Battle Tracker](./battle_tracker)  to view all battles fought across every planet in the game.
 
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
+
