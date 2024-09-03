@@ -134,7 +134,7 @@ function getGloomObscurity(level) {
         case 1:
             return 0.5
         case 2:
-            return 0.4
+            return 0.6
         case 3:
             return 0.8
         case 4:
