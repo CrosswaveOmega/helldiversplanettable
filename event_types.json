@@ -104,7 +104,7 @@
     },
     "Note": {
       "name": "Note",
-      "matchable": ["note:"]
+      "matchable": ["note:", "NOTE"]
     },
     "Effect":{
       "name":"Currently Unknown Effect",
