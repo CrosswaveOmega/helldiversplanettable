@@ -35,6 +35,7 @@ function planetTable(
             KPM: "KPM",
             KTD: "KTD",
             WTL: "WTL",
+            FKR: "FKR",
             biome: "Biome",
             hazards: "Hazards",
             MSR: "MSR",
@@ -50,6 +51,8 @@ function planetTable(
             squid_kills: "Squid Kills",
             initial_owner: "Initial Owner",
             revives: "Revives",
+            planets: "Planets",
+            sectors: "Sectors",
         },
         sort: sortby,
         reverse: false,
@@ -84,7 +87,37 @@ const headerMapSector = new Map([
     ["Squid Kills", "squid_kills"],
     ["Revives", "revives"],
 ]);
+const headerMapFront = new Map([
+    ["Front", "front"],
+    
+    ["Planets", "planets"],
+    
+    ["Sectors", "sectors"],
+    ["Missions Won", "missionsWon"],
+    ["Missions Lost", "missionsLost"],
+    ["Kills", "kills"],
+    ["Deaths", "deaths"],
+    ["Friendlies", "friendlies"],
+    ["Deaths Per Mission", "DPM"],
+    ["Kills Per Mission", "KPM"],
+    ["Kills to Deaths", "KTD"],
+    ["Wins to Losses", "WTL"],
 
+    ["Mission Success Rate", "MSR"],
+    
+    ["Friendly Kill Rate","FKR"],
+    ["Mission Time", "missionTime"],
+    ["Time Per Mission", "timePerMission"],
+    ["Time Played", "timePlayed"],
+    ["Time Played Per Mission", "timePlayedPerMission"],
+    ["Bullets Fired", "bulletsFired"],
+    ["Bullets Hit", "bulletsHit"],
+    ["Accuracy", "accuracy"],
+    ["Bug Kills", "bug_kills"],
+    ["Bot Kills", "bot_kills"],
+    ["Squid Kills", "squid_kills"],
+    ["Revives", "revives"],
+]);
 const headerMapBiome = new Map([
     ["Biome", "biome"],
     ["Missions Won", "missionsWon"],
@@ -111,4 +144,4 @@ const headerMapBiome = new Map([
     ["Revives", "revives"],
 ]);
 
-export { planetTable, headerMapSector, headerMapBiome };
+export { planetTable, headerMapSector, headerMapBiome, headerMapFront};
