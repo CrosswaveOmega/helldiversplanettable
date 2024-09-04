@@ -1595,6 +1595,7 @@ Midday Status (2024-08-06 03:00)<br/>
 ### Day: #181
 *Enuliale* is moderately enveloped by the Gloom (2024-08-06 09:38)<br/>
 *Socorro III* is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
+↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38)<br/>
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
 Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
@@ -1821,7 +1822,7 @@ Midday Status (2024-08-28 18:00)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-30 06:33)<br/>
 *Mastia* defense is won (2024-08-30 07:43)<br/>
-↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24. To correct this, the defense ended as a victory and a new campaign was started with the correct time. (2024-08-30 07:43)<br/>
+↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24. To correct this, the defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:43)<br/>
 *Mastia* of the Maspira sector is attacked by Automatons (2024-08-30 07:44)<br/>
 
 ### Day: #205
@@ -1843,7 +1844,7 @@ Midday Status (2024-08-30 18:00)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59)<br/>
-↳ NOTE: The *Hellmire* campaign was not selectable from the map due to it manually having the unselectable modifier but it did exist and it was possible to liberate the planet during this duration and as such it is treated as an actual battle due to the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59)<br/>
+↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59)<br/>
 Midday Status (2024-09-02 03:00)<br/>
 
 ### Day: #208
@@ -1861,8 +1862,15 @@ Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-
 Midday Status (2024-09-02 18:00)<br/>
 *Gatria* defense is won (2024-09-03 05:18)<br/>
 *Hellmire* liberation campaign ends (2024-09-03 06:42)<br/>
+↳ NOTE: See Day 207 (2024-09-03 06:42)<br/>
 
 ### Day: #209
 *Phact Bay* defense is won (2024-09-03 09:37)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-03 10:01)<br/>
 *Trandor* liberation campaign starts (2024-09-03 10:01)<br/>
+Midday Status (2024-09-03 18:00)<br/>
+Midday Status (2024-09-04 03:00)<br/>
+
+# Day: #210
+*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-04 11:59)<br/>
+*Partion* liberation campaign starts (2024-09-04 11:59)<br/>
