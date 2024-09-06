@@ -1681,6 +1681,7 @@ Midday Status (2024-08-14 03:00)<br/>
 ↳ *Gacrux* liberation campaign starts (2024-08-14 16:09)<br/>
 *Estanu* defense is won (2024-08-15 00:50)<br/>
 *Erata Prime* defense is won (2024-08-15 07:28)<br/>
+↳ Umlaut sector is fully liberated (2024-08-15 07:28)<br/>
 Major Order | Operation Banana Split is won | Objective: Defend/Liberate (2024-08-15 08:52)<br/>
 
 # Day: #190
@@ -1804,6 +1805,7 @@ Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024
 *Nivel 43* liberation campaign ends (2024-08-27 17:42)<br/>
 *Erson Sands* liberation campaign ends (2024-08-27 17:43)<br/>
 *Erata Prime* defense is won (2024-08-27 23:18)<br/>
+↳ Umlaut sector is fully liberated (2024-08-27 23:18)<br/>
 *Mastia* defense is won (2024-08-28 01:18)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-08-28 08:21)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-28 08:22)<br/>
@@ -1842,6 +1844,7 @@ Midday Status (2024-08-30 18:00)<br/>
 *Pandion-XXIV* defense is failed (2024-09-01 19:24)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2024-09-01 19:24)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59)<br/>
+↳ Umlaut sector is fully liberated (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59)<br/>
 ↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59)<br/>
@@ -1874,3 +1877,10 @@ Midday Status (2024-09-04 03:00)<br/>
 # Day: #210
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-04 11:59)<br/>
 *Partion* liberation campaign starts (2024-09-04 11:59)<br/>
+*Gatria* defense is won (2024-09-04 23:27)<br/>
+
+### Day: #211
+Midday Status (2024-09-05 18:00)<br/>
+*Phact Bay* defense is won (2024-09-06 04:34)<br/>
+
+### Day: #212
