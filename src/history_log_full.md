@@ -1884,3 +1884,21 @@ Midday Status (2024-09-05 18:00)<br/>
 *Phact Bay* defense is won (2024-09-06 04:34)<br/>
 
 ### Day: #212
+*Mastia* - *Gaellivare* supply line is added (2024-09-06 16:23)<br/>
+*Mastia* - *Shelt* supply line is added (2024-09-06 16:23)<br/>
+*Shallus* - *Mastia* supply line is added (2024-09-06 16:23)<br/>
+*Shallus* - *Shelt* supply line is added (2024-09-06 16:23)<br/>
+*Shelt* - *Imber* supply line is added (2024-09-06 16:23)<br/>
+*Gaellivare* - *Imber* supply line is added (2024-09-06 16:23)<br/>
+*Vog-Sojoth* - *Claorell* supply line is added (2024-09-06 16:23)<br/>
+*Claorell* - *Imber* supply line is added (2024-09-06 16:23)<br/>
+*Lesath* - *Gaellivare* supply line is added (2024-09-06 16:23)<br/>
+*Lesath* - *Vog-Sojoth* supply line is added (2024-09-06 16:23)<br/>
+*Yed Prior* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Zefia* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Clasa* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Demiurg* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+Major Order | Operation Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23)<br/>
+*Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25)<br/>
+*Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:26)<br/>
+Major Order | Operation Titanium Bastion is issued | Objective: Defend/Hold (2024-09-06 16:34)<br/>
