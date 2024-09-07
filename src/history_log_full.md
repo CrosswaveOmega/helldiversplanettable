@@ -1900,5 +1900,10 @@ Midday Status (2024-09-05 18:00)<br/>
 *Demiurg* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
 Major Order | Operation Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25)<br/>
-*Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:26)<br/>
+*Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:25)<br/>
 Major Order | Operation Titanium Bastion is issued | Objective: Defend/Hold (2024-09-06 16:34)<br/>
+Midday Status (2024-09-06 18:00)<br/>
+Midday Status (2024-09-07 03:00)<br/>
+
+### Day: #213
+*Shelt* defense is won (2024-09-07 10:30)<br/>
