@@ -1907,3 +1907,7 @@ Midday Status (2024-09-07 03:00)<br/>
 
 ### Day: #213
 *Shelt* defense is won (2024-09-07 10:30)<br/>
+Midday Status (2024-09-07 18:00)<br/>
+Midday Status (2024-09-08 03:00)<br/>
+
+### Day: #214
