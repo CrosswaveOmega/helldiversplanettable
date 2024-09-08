@@ -231,87 +231,6 @@ def get_faction(text: str) -> int:
     return 0
 
 
-def get_event_type_old(text: str) -> Tuple[str, str]:
-    """Get the event type from the text"""
-    match = None
-    if "note:" in text.lower():
-        match = "note:"
-        return "note", match
-    if "MAJOR ORDER" in text.upper():
-        match = "Major Order"
-        if "is issued" in text.lower():
-            return "Major Order Start", match
-        if "is won" in text.lower():
-            return "Major Order Won", match
-        if "is failed" in text.lower():
-            return "Major Order Lost", match
-        if "was compromised" in text.lower():
-            return "Major Order Compromised", match
-        return "Major Order EVENT", match
-    if "is liberated" in text.lower():
-        match = "is liberated"
-        return "planet won", match
-    if "instantly flips to" in text.lower():
-        match = "instantly flips to"
-        return "planet flip", match
-    if "defense is failed" in text.lower():
-        match = "defense is failed"
-        return "defense lost", match
-    if "is attacked by" in text.lower() or "assaulted into a defense" in text.lower():
-        match = (
-            "is attacked by"
-            if "is attacked by" in text.lower()
-            else "assaulted into a defense"
-        )
-        return "defense start", match
-    if "monitoring satellites are launched" in text.lower():
-        match = "monitoring satellites are launched"
-        return "warhistoryapilaunch", match
-    if "defense is won" in text.lower():
-        match = "defense is won"
-        return "defense won", match
-    if "defense is auto-won" in text.lower():
-        match = "defense is auto-won"
-        return "defense won", match
-    if "is destroyed via planetary implosion" in text.lower():
-        match = "is destroyed via planetary implosion"
-        return "planet superwon", match
-    if "is added" in text.lower():
-        match = "is added"
-        return "newlink", match
-    if "is removed" in text.lower():
-        match = "is removed"
-        return "destroylink", match
-    if "are obliterated" in text.lower():
-        match = "are obliterated"
-        return "clearlinks", match
-    if "campaign starts" in text.lower():
-        match = "campaign starts"
-        return "campaign_start", match
-    if "campaign ends" in text.lower():
-        match = "campaign ends"
-        return "campaign_end", match
-    if "fully liberated" in text.lower():
-        match = "fully liberated"
-        return "full_lib", match
-    if "is fully under" in text.lower():
-        match = "is fully under"
-        return "full_occ", match
-    if "is not accessible despite" in text.lower():
-        match = "is not accessible despite"
-        return "inaccessable", match
-    if "is still accessible despite" in text.lower():
-        match = "is still accessible despite"
-        return "accessible_anomaly", match
-
-    text_lower = text.lower()
-    keywords = ["day", "start"]
-    if all(keyword in text_lower for keyword in keywords):
-        match = "day start"
-        return "Day Start", match
-    return "unknown", "?????"
-
-
 def load_event_types(json_file: str) -> Dict[str, Any]:
     """Load event types from a JSON file."""
     with open(json_file, 'r') as file:
@@ -350,11 +269,6 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
                 if not must:
                     return main_name, phrase
                 
-
-        # Check sub events matchable phrases
-        
-
-    # Default return if no matches found
     return "unknown", "?????"
 
 

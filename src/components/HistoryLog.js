@@ -278,6 +278,13 @@ function getRandomInt(min, max) {
     const maxFloored = Math.floor(max);
     return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
   }
+
+function x_c(x){
+    return x*2000+2000;
+}
+function y_c(y){
+    return y*-2000+2000;
+}
   
 export function makeplot(
     history,
@@ -286,6 +293,7 @@ export function makeplot(
     backround,
     target,
     slider,
+    world,
     { width, htarget, ttarget, atarget, showImages = true },
 ) {
     let current_event = history.events[slider];
@@ -343,8 +351,8 @@ export function makeplot(
     function generateRandomCoordinates(p,gls) {
         const coordinates = [];
         for (let i = 0; i < gls*4; i++) {
-            const offsetX = getRandomInt(-3,3);
-            const offsetY = getRandomInt(-3,3);
+            const offsetX = getRandomInt(-50,50);
+            const offsetY = getRandomInt(-50,50);
             
             coordinates.push({
                 x: p.x + offsetX,
@@ -359,7 +367,7 @@ export function makeplot(
 
  
 
-        let pos = { x: p.position.x*100, y: p.position.y*-100 }; // example point
+        let pos = { x: x_c(p.position.x), y: y_c(p.position.y) }; // example point
         const randomCoords = generateRandomCoordinates(pos,p.gls);
         gloompoints.push(...randomCoords);
     });
@@ -373,7 +381,8 @@ export function makeplot(
         title: " ",
         aspectRatio: 1,
         height: width,
-        projection: {
+        projection: {type: "identity", domain: world},
+        /*{
             type: "identity",
             domain: {
                 type: "MultiPoint",
@@ -384,18 +393,23 @@ export function makeplot(
                     [-100, -100],
                 ],
             },
-        },
+        }*/
         marks: [
-            Plot.image([{}], {
-                x: () => 0,
-                y: () => 0,
-                width: width,
-                height: width,
-                src: backround,
+            // Plot.image([{}], {
+            //     x: () => 0,
+            //     y: () => 0,
+            //     width: width,
+            //     height: width,
+            //     src: backround,
+            // }),
+            Plot.geo(world,{
+                stroke:'#c0c0c0',
+                strokeWidth: width / 2000,
+                
             }),
             Plot.dot(truePlanets, {
-                x: (p) => p.position.x * 100,
-                y: (p) => p.position.y * -100,
+                x: (p) =>x_c(p.position.x),
+                y: (p) =>y_c(p.position.y),
                 r: width / 100,
                 stroke: (p) => getColor(p.ta[1]),
                 //fill: p => getColor(p.ta[1]),
@@ -403,8 +417,8 @@ export function makeplot(
             }),
             
             Plot.dot(planets, {
-                x: (p) => p.position.x * 100,
-                y: (p) => p.position.y * -100,
+                x: (p) =>x_c(p.position.x),
+                y: (p) =>y_c(p.position.y),
                 r: width / 100,
                 stroke: (p) => getColor(p.ta[0]),
                 fill: (p) => getColor(p.ta[0]),
@@ -413,17 +427,17 @@ export function makeplot(
             }),
 
             Plot.link(waypoints, {
-                x1: (p) => p.from.x * 100,
-                y1: (p) => p.from.y * -100,
-                x2: (p) => p.to.x * 100,
-                y2: (p) => p.to.y * -100,
+                x1: (p) => x_c(p.from.x),
+                y1: (p) => y_c(p.from.y) ,
+                x2: (p) => x_c(p.to.x) ,
+                y2: (p) => y_c(p.to.y),
                 inset: width / 110,
                 strokeWidth: width / 880,
             }),
             showImages
                 ? Plot.image(planets, {
-                      x: (p) => p.position.x * 100,
-                      y: (p) => p.position.y * -100,
+                      x: (p) =>x_c(p.position.x),
+                      y: (p) =>y_c(p.position.y),
                       r: width / 100,
                       src: (p) =>
                           planetimages["planet_" + p.index + "_rotate.gif"]
@@ -431,8 +445,8 @@ export function makeplot(
                   })
                 : null,
             Plot.image(activePlanets, {
-                x: (p) => p.position.x * 100,
-                y: (p) => p.position.y * -100,
+                x: (p) =>x_c(p.position.x),
+                y: (p) =>y_c(p.position.y),
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 25,
@@ -455,8 +469,8 @@ export function makeplot(
             Plot.text(
                 planets,
                 {
-                    x: (p) => p.position.x * 100 - width / 300,
-                    y: (p) => p.position.y * -100 - width / 300,
+                    x: (p) =>x_c(p.position.x) - width / 300,
+                    y: (p) =>y_c(p.position.y) - width / 300,
                     text: (p) =>
                         isNaN(
                             Math.round((p.hp / 1000000) * 100 * 10000) / 10000,
@@ -478,8 +492,8 @@ export function makeplot(
             Plot.tip(
                 planets,
                 Plot.pointer({
-                    x: (p) => p.position.x * 100,
-                    y: (p) => p.position.y * -100,
+                    x: (p) =>x_c(p.position.x),
+                    y: (p) =>y_c(p.position.y),
 
                     title: (p) =>{
                         let main=[
