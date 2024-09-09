@@ -1917,3 +1917,5 @@ Midday Status (2024-09-08 03:00)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-08 21:57)<br/>
 
 ### Day: #215
+*Vog-Sojoth* defense is failed (2024-09-09 10:25)<br/>
+↳ *Vog-Sojoth* liberation campaign starts (2024-09-09 10:25)<br/>
