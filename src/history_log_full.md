@@ -1858,7 +1858,7 @@ Major Order | Operation Blazing Barrage is failed | Objective: Eradicate/Liberat
 *Partion* - *Gacrux* supply line is added (2024-09-02 16:07)<br/>
 *Partion* - *Phact Bay* supply line is added (2024-09-02 16:07)<br/>
 *Partion* is not accessible despite connecting to the liberated world of *Phact Bay* (2024-09-02 16:07)<br/>
-*Phact Bay* - Garen Haren supply line is added (2024-09-02 16:07)<br/>
+*Phact Bay* - *Gar Haren* supply line is added (2024-09-02 16:07)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09)<br/>
 Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10)<br/>
@@ -1911,3 +1911,9 @@ Midday Status (2024-09-07 18:00)<br/>
 Midday Status (2024-09-08 03:00)<br/>
 
 ### Day: #214
+*Vog-Sojoth* of the Tanis sector is attacked by Automatons (2024-09-08 10:22)<br/>
+*Gaellivare* defense is failed (2024-09-08 18:06)<br/>
+↳ *Gaellivare* liberation campaign starts (2024-09-08 18:06)<br/>
+*Imber* of the Talus sector is attacked by Automatons (2024-09-08 21:57)<br/>
+
+### Day: #215
