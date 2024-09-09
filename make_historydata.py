@@ -852,12 +852,10 @@ async def main_code() -> None:
             if 'players' in v:
                 all_players+=v['players']
         ne.all_players=all_players
-        
-        
-
+        print(f"On event group number {i}, timestamp {ne.time}")
+        ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
         for e, event in enumerate(event_group):
             #
-            ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
             ptemp = await process_event(
                 days_out,
                 ptemp,
