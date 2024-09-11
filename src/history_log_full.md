@@ -1919,3 +1919,17 @@ Midday Status (2024-09-08 03:00)<br/>
 ### Day: #215
 *Vog-Sojoth* defense is failed (2024-09-09 10:25)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-09-09 10:25)<br/>
+Midday Status (2024-09-09 18:00)<br/>
+Midday Status (2024-09-10 03:00)<br/>
+
+### Day: #216
+*Imber* defense is won (2024-09-10 09:02)<br/>
+*Shallus* of the Talus sector is attacked by Automatons (2024-09-10 09:08)<br/>
+*Shelt* of the Talus sector is attacked by Automatons (2024-09-10 09:09)<br/>
+Midday Status (2024-09-10 18:00)<br/>
+*Shelt* defense is won (2024-09-10 22:55)<br/>
+*Shallus* defense is won (2024-09-11 03:35)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2024-09-11 07:03)<br/>
+*Imber* of the Talus sector is attacked by Automatons (2024-09-11 07:04)<br/>
+
+### Day: #217
