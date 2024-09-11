@@ -25,7 +25,7 @@ const planetimages= await FileAttachment("./data/images.json").json();
 const gstates = FileAttachment("./data/gstates.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 
-const world = FileAttachment("./data/output.geojson").json();
+const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
 const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
 const atarget = FileAttachment("./data/libtargets/aTarget.svg").url();

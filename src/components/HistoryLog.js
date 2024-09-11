@@ -1,5 +1,7 @@
 import * as d3 from "d3";
 import * as Plot from "npm:@observablehq/plot";
+import * as topojson from "npm:topojson-client";
+
 
 export function pieChart(
     bdata,
@@ -280,10 +282,10 @@ function getRandomInt(min, max) {
   }
 
 function x_c(x){
-    return x*2000+2000;
+    return x;//*2000+2000;
 }
 function y_c(y){
-    return y*-2000+2000;
+    return -y;//*-2000+2000;
 }
   
 export function makeplot(
@@ -305,6 +307,8 @@ export function makeplot(
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
     console.log(slider,galaxy_time);
+    
+    const sectorValuesMap = new Map();
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
@@ -329,6 +333,23 @@ export function makeplot(
             // console.log(Object.values(gstates.links));
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
+        let sector=galaxystate[planet].sector.replace(/[^a-zA-Z]/g, "").toLowerCase();
+
+        if (sectorValuesMap.has(sector)) {
+            const existingColor = d3.color(sectorValuesMap.get(sector));
+            const newColor = d3.color(getColor(galaxystate[planet].ta[0]));
+
+            const averagedColor = d3.rgb(
+                (existingColor.r + newColor.r) / 2,
+                (existingColor.g + newColor.g) / 2,
+                (existingColor.b + newColor.b) / 2
+            ).formatRgb();
+
+            sectorValuesMap.set(sector, averagedColor);
+        }
+        else{
+            sectorValuesMap.set(sector, getColor(galaxystate[planet].ta[0]));
+        }
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>
@@ -339,8 +360,10 @@ export function makeplot(
               }))
             : [],
     );
+    
 
     let planets = Object.values(galaxystate);
+
     //console.log(planets);
     let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
     let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
@@ -371,7 +394,6 @@ export function makeplot(
         const randomCoords = generateRandomCoordinates(pos,p.gls);
         gloompoints.push(...randomCoords);
     });
-    
     
     eList(history, slider, document.getElementById("DAYVIEW"));
 
@@ -407,6 +429,8 @@ export function makeplot(
                 strokeWidth: width / 2000,
                 
             }),
+            Plot.geo(world, {opacity:0.25,
+                fill: d => {return sectorValuesMap.get(d.properties.id)}}),
             Plot.dot(truePlanets, {
                 x: (p) =>x_c(p.position.x),
                 y: (p) =>y_c(p.position.y),
@@ -469,8 +493,8 @@ export function makeplot(
             Plot.text(
                 planets,
                 {
-                    x: (p) =>x_c(p.position.x) - width / 300,
-                    y: (p) =>y_c(p.position.y) - width / 300,
+                    x: (p) =>x_c(p.position.x),
+                    y: (p) =>y_c(p.position.y)-0.02,
                     text: (p) =>
                         isNaN(
                             Math.round((p.hp / 1000000) * 100 * 10000) / 10000,
