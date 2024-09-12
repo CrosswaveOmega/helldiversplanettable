@@ -328,7 +328,7 @@ def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-    planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
+    planets_Dict2 = {planet["name"] +" ": key for key, planet in planets_Dict.items()}
 
     for k1 in planets_Dict2:
         for k2 in planets_Dict2:
