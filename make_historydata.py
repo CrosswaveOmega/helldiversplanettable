@@ -210,16 +210,32 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
         return None
 
 
-def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
+def get_planet_old(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     "Search through planet keys, and return the planets with the matching keys."
     planets = []
     t2=text
     keys = sorted(list(myplanets.keys()), key=len,reverse=True)
     for planet in keys:
         if planet.upper() in t2.upper():
+            
             planets.append((planet, myplanets[planet]))
             t2 = re.sub(planet, '[PLANETPROCESSED]', t2, flags=re.IGNORECASE)
                         
+    return planets
+
+def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
+    "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
+    planets = []
+    t2 = text
+    keys = sorted(list(myplanets.keys()), key=len, reverse=True)
+
+    for planet in keys:
+        # Use \b word boundaries to ensure we match the full planet name
+        if re.search(rf'\b{re.escape(planet)}\b', t2, flags=re.IGNORECASE):
+            planets.append((planet, myplanets[planet]))
+            # Replace the matched planet name with a placeholder to prevent re-matching
+            t2 = re.sub(rf'\b{re.escape(planet)}\b', '[PLANETPROCESSED]', t2, flags=re.IGNORECASE)
+
     return planets
 
 
@@ -328,7 +344,7 @@ def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-    planets_Dict2 = {planet["name"] +" ": key for key, planet in planets_Dict.items()}
+    planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
 
     for k1 in planets_Dict2:
         for k2 in planets_Dict2:
@@ -706,6 +722,7 @@ def update_planet_ownership(
         ind = int(ind)
         if str(ind) not in planetclone:
             print("WARNING,", ind, name, "Not in planetclone!")
+            continue
         dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
             dec[2] = 1

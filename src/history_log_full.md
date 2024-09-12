@@ -775,6 +775,7 @@ Major Order | Operation Legitimate Undertaking Phase One is failed | Objective: 
 ↳ *Turing* liberation campaign starts (2024-04-29 14:22)<br/>
 *Meridia* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-04-29 14:22)<br/>
+*Meridia* of the Umlaut sector's biome is changed from Volcanic Jungle [Primordial] to Supercolony [Primordial] (2024-04-29 14:22)<br/>
 *Meridia* - *Turing* supply line is removed (2024-04-29 14:22)<br/>
 *Meridia* - *Fenrir III* supply line is removed (2024-04-29 14:22)<br/>
 *Meridia* - *Angel's Venture* supply line is removed (2024-04-29 14:22)<br/>
@@ -1157,6 +1158,21 @@ Midday Status (2024-06-12 03:00)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2024-06-12 21:03)<br/>
 
 ### Day: #127
+*Fornskogur II* of the Barnard sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Barabos* of the Marspira sector's biome is changed from Boneyard [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Krakabos* of the Iptus sector's biome is changed from Boneyard [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Ivis* of the Celeste sector's biome is changed from Icy Glaciers [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Gacrux* of the Jin Xi sector's biome is changed from Tundra [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Parsh* of the Rictus sector's biome is changed from Icy Glaciers [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Caph* of the Theseus sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*X-45* of the Ymir sector's biome is changed from Deadlands [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Haldus* of the Ferris sector's biome is changed from Moon [Sandy] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Nabatea Secundus* of the L'estrade sector's biome is changed from Ion Rainforest [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Pherkad Secundus* of the Farsight sector's biome is changed from Plains [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Bore Rock* of the Falstaff sector's biome is changed from Scorched Moor [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Seasse* of the Omega sector's biome is changed from Ion Rainforest [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
 *Terrek* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Azterra* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Ivis* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00)<br/>
@@ -1593,6 +1609,19 @@ Midday Status (2024-08-05 18:00)<br/>
 Midday Status (2024-08-06 03:00)<br/>
 
 ### Day: #181
+*Atrama* of the Idun sector's biome is changed from Ion Rainforest [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Tarsh* of the Maspira sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Ratch* of the Iptus sector's biome is changed from Rolling Dunes [Sandy] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Nublaria I* of the Celeste sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Gar Haren* of the Jin Xi sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Bashyr* of the Gallux sector's biome is changed from Deadlands [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Iro* of the Rictus sector's biome is changed from Plains [Moor] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Khandark* of the Guang sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Merga IV* of the Valdis sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Socorro III* of the Falstaff sector's biome is changed from Ethereal Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Setia* of the Omega sector's biome is changed from Rolling Dunes [Sandy] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Klaka 5* of the Alstrad sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Skitter* of the Hawking sector's biome is changed from Plains [Moor] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
 *Enuliale* is moderately enveloped by the Gloom (2024-08-06 09:38)<br/>
 *Socorro III* is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
 ↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38)<br/>
@@ -1933,3 +1962,8 @@ Midday Status (2024-09-10 18:00)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-11 07:04)<br/>
 
 ### Day: #217
+Midday Status (2024-09-11 18:00)<br/>
+*Imber* defense is won (2024-09-11 22:50)<br/>
+*Claorell* defense is won (2024-09-12 05:20)<br/>
+
+### Day: #218
