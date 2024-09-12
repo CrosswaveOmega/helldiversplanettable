@@ -13,6 +13,12 @@ from datetime import datetime
 import os
 import sys
 
+from hd2json.jsonutils import load_and_merge_json_files
+
+# Create allplanet.json if not done already
+vjson = load_and_merge_json_files("./hd2json/planets/")
+json.dump(vjson, open("allplanet.json", "w+",encoding="utf8"), indent=4)
+
 is_redirected = not sys.stdout.isatty()
 if is_redirected:
     is_power_shell = len(os.getenv('PSModulePath', '').split(os.pathsep)) >= 3
