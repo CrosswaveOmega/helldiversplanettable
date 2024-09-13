@@ -1967,3 +1967,12 @@ Midday Status (2024-09-11 18:00)<br/>
 *Claorell* defense is won (2024-09-12 05:20)<br/>
 
 ### Day: #218
+Major Order | Operation Titanium Bastion is won | Objective: Defend/Hold (2024-09-12 10:53)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-12 15:44)<br/>
+Midday Status (2024-09-12 18:00)<br/>
+Midday Status (2024-09-13 03:00)<br/>
+
+### Day: #219
+*Gatria* defense is won (2024-09-13 09:12)<br/>
+Major Order | Operation Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23)<br/>
+↳ NOTE: This major order had a side objective delivered via dispatch.  Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition. (2024-09-13 14:23)<br/>
