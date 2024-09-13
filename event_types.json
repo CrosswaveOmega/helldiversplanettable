@@ -106,6 +106,10 @@
       "name": "Note",
       "matchable": ["note:", "NOTE"]
     },
+    "biome_change":{
+      "name": "Biome Change",
+      "matchable": ["biome is changed"]
+    },
     "Effect":{
       "name":"Currently Unknown Effect",
       

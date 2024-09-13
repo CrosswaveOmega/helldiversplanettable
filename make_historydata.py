@@ -13,7 +13,34 @@ from datetime import datetime
 import os
 import sys
 
+import logging
+import logging.handlers
+
 from hd2json.jsonutils import load_and_merge_json_files
+
+if not os.path.exists("./logs/"):
+    os.makedirs("./logs/")
+
+
+logger = logging.getLogger("StatusLogger")
+logger.setLevel(logging.DEBUG)
+
+warn_error_handler = logging.handlers.RotatingFileHandler("./logs/warn_error.log", maxBytes=8 * 1024 * 1024, backupCount=1, encoding="utf8")
+warn_error_handler.setLevel(logging.WARNING)
+
+info_handler = logging.handlers.RotatingFileHandler("./logs/info.log", maxBytes=8 * 1024 * 1024, backupCount=1, encoding="utf8")
+info_handler.setLevel(logging.INFO)
+
+dt_fmt = "%Y-%m-%d %H:%M:%S"
+formatter = logging.Formatter(
+            "[LINE] [{asctime}] [{levelname:<8}] {name}: {message}", dt_fmt, style="{"
+        )
+warn_error_handler.setFormatter(formatter)
+info_handler.setFormatter(formatter)
+
+logger.addHandler(warn_error_handler)
+logger.addHandler(info_handler)
+
 
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("./hd2json/planets/")
@@ -79,6 +106,7 @@ class PlanetState(BaseModel):
     link: Optional[List[int]]=Field(alias='link',default=[])
     link2: Optional[int]=Field(alias='link2',default=None)
     gls: Optional[int]=Field(alias='gloom',default=None)
+    biome: Optional[str]=Field(alias='biome',default=None)
 
 
 
@@ -130,7 +158,7 @@ async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
                 outv = {p["index"]: p for p in response_json}
                 return outv
     except Exception as e:
-        print(e)
+        logger.warning(str(e))
         return {}
 
 
@@ -141,7 +169,7 @@ def check_and_load_json(filepath: str):
             with open(filepath, "r", encoding="utf8") as json_file:
                 return json.load(json_file)
     except Exception as e:
-        print(e)
+        logger.error(str(e))
     return {}
 
 
@@ -191,7 +219,8 @@ def parse_timestamp(timestamp_str: str) -> datetime:
         naive_datetime = datetime(
             int(year), month, day, time_obj.hour, time_obj.minute, tzinfo=timezone.utc
         )
-        print(naive_datetime, timestamp_str)
+        logger.info("Naive datetime: %s, Timestamp string: %s", naive_datetime, timestamp_str)
+
         return naive_datetime
     else:
         raise ValueError("The timestamp string does not match the expected format.")
@@ -210,6 +239,39 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
         return None
 
 
+
+def extract_biome_change_details(text: str) -> Optional[Tuple[str, str, str, str, str, str,str]]:
+    """
+    Extracts biome change details from a text.
+
+    Args:
+        text (str): The input text containing biome change details.
+
+    Returns:
+        Optional[Tuple[str, str, str, str, str, str,str]]: Returns a tuple containing
+        planet name, sector name, original biome, original type, new biome, new type, and slug if matched, else None.
+    """
+    
+    pattern = r"(?P<planet>.*?) of the (?P<sector>.*?) sector's biome is changed from (?P<orig_biome>.*?) \[(?P<orig_type>.*?)\] to (?P<new_biome>.*?) \[(?P<new_type>.*?)\]"
+    match = re.match(pattern, text)
+    if match:
+        planet = match.group("planet").strip()
+        sector = match.group("sector").strip()
+        orig_biome = match.group("orig_biome").strip()
+        orig_type = match.group("orig_type").strip()
+        new_biome = match.group("new_biome").strip()
+        new_type = match.group("new_type").strip()
+        slug='moor_baseplanet'
+        for i, v in vjson['biomes'].items():
+            if new_biome in v['name'] and new_type in v['name']:
+                slug=i
+
+            
+        return planet, sector, orig_biome, orig_type, new_biome, new_type, slug
+    else:
+        return None
+
+
 def get_planet_old(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     "Search through planet keys, and return the planets with the matching keys."
     planets = []
@@ -220,7 +282,7 @@ def get_planet_old(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]
             
             planets.append((planet, myplanets[planet]))
             t2 = re.sub(planet, '[PLANETPROCESSED]', t2, flags=re.IGNORECASE)
-                        
+                
     return planets
 
 def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
@@ -322,7 +384,7 @@ def make_day_obj() -> None:
                 )
             else:
                 timestamp = parse_timestamp(match.group("time"))
-                print(match.group("text"), timestamp)
+                logger.info("Text: %s, Timestamp string: %s", match.group("text"), timestamp)
                 day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
                 days.events.append(
                     GameEvent(
@@ -349,7 +411,7 @@ def format_event_obj() -> None:
     for k1 in planets_Dict2:
         for k2 in planets_Dict2:
             if k1.upper() != k2.upper() and k1.upper() in k2.upper():
-                print(f"'{k1}' is a substring of '{k2}'")
+                logger.warning(f"'{k1}' is a substring of '{k2}'")
     sectors = get_unique_sectors(planets_Dict)
 
     defenses: Dict[str, str] = {}
@@ -365,7 +427,7 @@ def format_event_obj() -> None:
         event.type, match = get_event_type(text, event_types)
 
         print(event.text, event.time, event.planet, event.type)
-
+        logger.info("Text: %s, Time: %s, Planet: %s, Type: %s", event.text, event.time, event.planet, event.type)
         if monitoring:
             newevents, lasttime = monitor_event(event, lasttime, newevents)
         if event.type == "warhistoryapilaunch":
@@ -516,6 +578,7 @@ async def get_planet_stats(ne: GameEvent, all_times_new: Dict[str, Dict[str, Any
 
         if time > march_5th:
             print(f"{ne.time} fetching game data for time {timestamp}")
+            logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
             all_times_new[dc][timestamp] = planetstats
         else:
@@ -617,6 +680,8 @@ def DECODE(number):
     return CO, AT, L
 
 
+
+
 def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str, Any]]]:
     """Open the planet data inside gen_data/sectorplanets.json,
     and create the inital galaxy state object."""
@@ -634,6 +699,7 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
             t = {
                 "link": [int(w) for w in p["waypoints"]],
                 "t": ENCODE(get_faction(p["currentOwner"]), 0, 0),
+                "biome":p.get('biome','unknown')
             }
             per = {
                 "name": p["name"],
@@ -721,7 +787,7 @@ def update_planet_ownership(
         name, ind = p
         ind = int(ind)
         if str(ind) not in planetclone:
-            print("WARNING,", ind, name, "Not in planetclone!")
+            logger.warning("WARNING, %s %s Not in planetclone!", ind, name)
             continue
         dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
@@ -747,36 +813,45 @@ def update_planet_ownership(
             dec[1] = 0
             dec[2] = 0
         planetclone[str(ind)].t = ENCODE(dec[0], dec[1], dec[2])
-    # Warp link updates
-    if "gloom" in event.type:
-        if event.type=="no_gloom":
-            planetclone[str(ind)].gls=None
-        elif event.type=="light_gloom":
-            planetclone[str(ind)].gls=1
-        elif event.type=="medium_gloom":
-            planetclone[str(ind)].gls=2
-        elif event.type=="heavy_gloom":
-            planetclone[str(ind)].gls=3
-        elif event.type=="gloom_border":
-            planetclone[str(ind)].gls=4
-    if event.type == "newlink":
-        update_waypoints(event.planet, planetclone, add=True)
+        # Warp link updates
+        if "gloom" in event.type:
+            if event.type=="no_gloom":
+                planetclone[str(ind)].gls=None
+            elif event.type=="light_gloom":
+                planetclone[str(ind)].gls=1
+            elif event.type=="medium_gloom":
+                planetclone[str(ind)].gls=2
+            elif event.type=="heavy_gloom":
+                planetclone[str(ind)].gls=3
+            elif event.type=="gloom_border":
+                planetclone[str(ind)].gls=4
+        if event.type == "newlink":
+            update_waypoints(event.planet, planetclone, add=True)
 
-    if event.type == "destroylink":
-        update_waypoints(event.planet, planetclone, add=False)
+        if event.type == "destroylink":
+            update_waypoints(event.planet, planetclone, add=False)
+
+        if event.type =="Black Hole":
+            planetclone[str(ind)].biome='blackhole'
 
 
-    if event.type == "clearlinks":
-        for name, ind in event.planet:
-            planetclone[str(ind)].link = []
-            for id2 in planetclone.keys():
-                if planetclone[str(ind)].link:
-                    while int(id2) in planetclone[str(ind)].link:
-                        planetclone[str(ind)].link.remove(int(id2))
+        if event.type == "clearlinks":
+            for name, ind in event.planet:
+                planetclone[str(ind)].link = []
+                for id2 in planetclone.keys():
+                    if planetclone[str(ind)].link:
+                        while int(id2) in planetclone[str(ind)].link:
+                            planetclone[str(ind)].link.remove(int(id2))
 
-                if planetclone[str(id2)].link:
-                    while int(ind) in planetclone[str(id2)].link:
-                        planetclone[str(id2)].link.remove(int(ind))
+                    if planetclone[str(id2)].link:
+                        while int(ind) in planetclone[str(id2)].link:
+                            planetclone[str(id2)].link.remove(int(ind))
+        
+        if event.type == "Biome Change":
+            _,_,_,_,_,_,slug= extract_biome_change_details(event.text)
+            planetclone[str(ind)].biome=slug
+
+
 
 
 def add_waypoint(
@@ -826,9 +901,9 @@ async def main_code() -> None:
     planetlist: List[Tuple[int, Dict[str, Any]]] = []
     planets, temp = initialize_planets()
     planetlist.append((0, planets))
-    print("loading objects")
+    logger.info("loading objects")
     days_out =DaysObject(**check_and_load_json("./src/data/gen_data/out2.json"))
-    print('done')
+    logger.info('done')
     d = 0
 
     all_times_new = {}
@@ -876,6 +951,7 @@ async def main_code() -> None:
                 all_players+=v['players']
         ne.all_players=all_players
         print(f"On event group number {i}, timestamp {ne.time}")
+        logger.info(f"On event group number {i}, timestamp {ne.time}")
         ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
         for e, event in enumerate(event_group):
             #
@@ -912,10 +988,13 @@ async def main_code() -> None:
     # print(markdowncode)
     with open("./src/history_log_full.md", "w", encoding="utf8") as file:
         file.write(markdowncode)
+    logger.info("saving data")
     print("saving data")
     save_json_data("./src/data/historydata.json", days_out.model_dump(warnings='error'))
+    logger.info("saving time caches...")
     print("saving time caches...")
     for d, v in all_times_new.items():
+        logger.info(f"saving time cache for day set {d}")
         print(f"saving time cache for day set {d}")
         save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
     hashlinks={}
@@ -932,7 +1011,7 @@ async def main_code() -> None:
                 else:
                     #print(link)
                     if sorted(resa.link)!=sorted(hashlinks[link]):
-                        print("MISMATCH",resa.link,hashlinks[link])
+                        logger.warning("MISMATCH: resa.link=%s, hashlinks[link]=%s", resa.link, hashlinks[link])
                     #hashlists[link][1]+=1
                 bef+=len(str(resa.link))
                 resa.link2=link
@@ -970,21 +1049,27 @@ async def main_code() -> None:
                     resort[p][0]['eind']=t
         laststate={k: v.model_dump(warnings='error') for k, v in s.items() }
     print("saving galaxy states.")
+    logger.info("saving galaxy states.")
     galaxy_states.states={}
     galaxy_states.gstate=resort
     galaxy_states.links=hashlinks
     for state_name, state_value in galaxy_states.__dict__.items():
         # process each state as needed
         print(state_name)
+        logger.info("%s", state_name)
         if isinstance(state_value, BaseModel):
             print(state_value.model_dump(warnings='error'))
+            logger.info("%s", state_value.model_dump(warnings='error'))
         else:
             print(f"Expected BaseModel but got {type(state_value).__name__} for {state_name}")
+            logger.info("Expected BaseModel but got %s for %s", type(state_value).__name__, state_name)
 
-    
+
     save_json_data("./src/data/gstates.json", galaxy_states.model_dump(warnings='error'))
     print(bef, aft)
+    logger.info("%s %s", bef, aft)
     print(hashlists)
+    logger.info("%s", hashlists)
     
     save_json_data("./src/data/resort.json", resort,indent=3)
 
@@ -993,8 +1078,6 @@ def save_json_data(file_path: str, data: Any,**kwargs) -> None:
     '''Save json data to a file.'''
     with open(file_path, "w", encoding="utf8") as json_file:
         json.dump(data, json_file,**kwargs)
-
-
 
 
 

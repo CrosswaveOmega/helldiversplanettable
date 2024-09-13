@@ -306,6 +306,7 @@ export function makeplot(
     };
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
+    console.log(planetimages);
     console.log(slider,galaxy_time);
     
     const sectorValuesMap = new Map();
@@ -386,6 +387,7 @@ export function makeplot(
         }
         return coordinates;
     }
+    console.log(planets);
     gloomPlanets.forEach((p) => {
 
  
@@ -463,9 +465,11 @@ export function makeplot(
                       x: (p) =>x_c(p.position.x),
                       y: (p) =>y_c(p.position.y),
                       r: width / 100,
-                      src: (p) =>
-                          planetimages["planet_" + p.index + "_rotate.gif"]
-                              .base64_image,
+                      src: (p) =>{
+                        console.log(p.biome);
+                          return planetimages["planet_" + p.biome + "_rotate.gif"]
+                              .base64_image;
+                      },
                   })
                 : null,
             Plot.image(activePlanets, {
