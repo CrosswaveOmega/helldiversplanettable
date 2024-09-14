@@ -77,6 +77,8 @@ function make_biome_data(data) {
             let KTD = killsum / Math.max(entry.deaths, 1);
             let timePerMission = entry.missionTime / missions;
             let timePlayedPerMission = entry.timePlayed / missions;
+            
+            let FKR = ((entry.friendlies) / Math.max(entry.deaths,1))*100.0;
             let MSR = entry.missionsWon / missions;
             let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
             thislist.push({
@@ -88,6 +90,7 @@ function make_biome_data(data) {
                 KPM,
                 KTD,
                 WTL,
+                FKR,
                 timePerMission,
                 timePlayedPerMission,
                 MSR,
@@ -180,6 +183,8 @@ function make_sector_data(data) {
             let timePerMission = entry.missionTime / missions;
             let timePlayedPerMission = entry.timePlayed / missions;
             let MSR = entry.missionsWon / missions;
+            
+            let FKR = ((entry.friendlies) / Math.max(entry.deaths,1))*100.0;
             let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
             thislist.push({
                 ...entry,
@@ -190,6 +195,7 @@ function make_sector_data(data) {
                 KPM,
                 KTD,
                 WTL,
+                FKR,
                 timePerMission,
                 timePlayedPerMission,
                 MSR,

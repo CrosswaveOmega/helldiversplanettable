@@ -103,6 +103,7 @@ const factcolor = Plot.scale({
           "WTL",
   
           "MSR",
+          "FKR",
           "missionTime",
           "timePerMission",
           "timePlayed",

@@ -1973,6 +1973,10 @@ Midday Status (2024-09-12 18:00)<br/>
 Midday Status (2024-09-13 03:00)<br/>
 
 ### Day: #219
-*Gatria* defense is won (2024-09-13 09:12)<br/>
+*Gatria* defense is won (2024-09-13 09:11)<br/>
 Major Order | Operation Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23)<br/>
-↳ NOTE: This major order had a side objective delivered via dispatch.  Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition. (2024-09-13 14:23)<br/>
+↳ NOTE: This major order had a side objective delivered via dispatch. Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition. (2024-09-13 14:23)<br/>
+Midday Status (2024-09-13 18:00)<br/>
+Midday Status (2024-09-14 03:00)<br/>
+
+# Day: #220

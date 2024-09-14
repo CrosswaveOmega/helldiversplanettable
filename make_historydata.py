@@ -557,9 +557,11 @@ def human_format(num:float):
 def enote(num:int):
     #Anything smaller than 100 is to be ignored.
     num=(num//100)*100
+    if num<10:
+        return '<10'
     if num<100:
         return '<100'
-    return human_format(num)
+    return num
     
     
 
@@ -825,31 +827,29 @@ def update_planet_ownership(
                 planetclone[str(ind)].gls=3
             elif event.type=="gloom_border":
                 planetclone[str(ind)].gls=4
-        if event.type == "newlink":
-            update_waypoints(event.planet, planetclone, add=True)
-
-        if event.type == "destroylink":
-            update_waypoints(event.planet, planetclone, add=False)
-
-        if event.type =="Black Hole":
-            planetclone[str(ind)].biome='blackhole'
-
-
-        if event.type == "clearlinks":
-            for name, ind in event.planet:
-                planetclone[str(ind)].link = []
-                for id2 in planetclone.keys():
-                    if planetclone[str(ind)].link:
-                        while int(id2) in planetclone[str(ind)].link:
-                            planetclone[str(ind)].link.remove(int(id2))
-
-                    if planetclone[str(id2)].link:
-                        while int(ind) in planetclone[str(id2)].link:
-                            planetclone[str(id2)].link.remove(int(ind))
         
         if event.type == "Biome Change":
             _,_,_,_,_,_,slug= extract_biome_change_details(event.text)
             planetclone[str(ind)].biome=slug
+        if event.type =="Black Hole":
+            planetclone[str(ind)].biome='blackhole'
+
+    if event.type == "newlink":
+        update_waypoints(event.planet, planetclone, add=True)
+
+    if event.type == "destroylink":
+        update_waypoints(event.planet, planetclone, add=False)
+    if event.type == "clearlinks":
+        for name, ind in event.planet:
+            planetclone[str(ind)].link = []
+            for id2 in planetclone.keys():
+                if planetclone[str(ind)].link:
+                    while int(id2) in planetclone[str(ind)].link:
+                        planetclone[str(ind)].link.remove(int(id2))
+
+                if planetclone[str(id2)].link:
+                    while int(ind) in planetclone[str(id2)].link:
+                        planetclone[str(id2)].link.remove(int(ind))
 
 
 

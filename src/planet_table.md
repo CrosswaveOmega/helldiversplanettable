@@ -99,6 +99,8 @@ const headerMapReversed = new Map([
     
     
     ["MSR", "MSR"],
+    
+    ["Friendly Kill Rate","FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],
@@ -128,6 +130,7 @@ let all_columns=[ 'index',
         "KPM",
         "KTD",
         "WTL",
+        "FKR",
 
         "MSR",
         "missionTime",

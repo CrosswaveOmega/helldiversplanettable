@@ -75,6 +75,8 @@ const headerMapSector = new Map([
     ["WTL", "WTL"],
 
     ["MSR", "MSR"],
+    
+    ["Friendly Kill Rate","FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],
@@ -131,6 +133,8 @@ const headerMapBiome = new Map([
     ["WTL", "WTL"],
 
     ["MSR", "MSR"],
+    
+    ["Friendly Kill Rate","FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],

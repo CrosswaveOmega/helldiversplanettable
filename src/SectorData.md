@@ -98,6 +98,7 @@ ${update_time}
           "WTL",
   
           "MSR",
+          "FKR",
           "missionTime",
           "timePerMission",
           "timePlayed",
