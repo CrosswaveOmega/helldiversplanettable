@@ -1158,21 +1158,21 @@ Midday Status (2024-06-12 03:00)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2024-06-12 21:03)<br/>
 
 ### Day: #127
-*Fornskogur II* of the Barnard sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Barabos* of the Marspira sector's biome is changed from Boneyard [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Krakabos* of the Iptus sector's biome is changed from Boneyard [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Ivis* of the Celeste sector's biome is changed from Icy Glaciers [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Gacrux* of the Jin Xi sector's biome is changed from Tundra [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Parsh* of the Rictus sector's biome is changed from Icy Glaciers [Arctic] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Caph* of the Theseus sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*X-45* of the Ymir sector's biome is changed from Deadlands [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Haldus* of the Ferris sector's biome is changed from Moon [Sandy] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Nabatea Secundus* of the L'estrade sector's biome is changed from Ion Rainforest [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Pherkad Secundus* of the Farsight sector's biome is changed from Plains [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Bore Rock* of the Falstaff sector's biome is changed from Scorched Moor [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Seasse* of the Omega sector's biome is changed from Ion Rainforest [Primordial] to Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Fornskogur II* of the Barnard sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Barabos* of the Marspira sector's biome is changed from Boneyard [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Krakabos* of the Iptus sector's biome is changed from Boneyard [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Ivis* of the Celeste sector's biome is changed from Icy Glaciers [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Gacrux* of the Jin Xi sector's biome is changed from Tundra [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Parsh* of the Rictus sector's biome is changed from Icy Glaciers [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Caph* of the Theseus sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*X-45* of the Ymir sector's biome is changed from Deadlands [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Haldus* of the Ferris sector's biome is changed from Moon [Sandy] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Nabatea Secundus* of the L'estrade sector's biome is changed from Ion Rainforest [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Pherkad Secundus* of the Farsight sector's biome is changed from Plains [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Bore Rock* of the Falstaff sector's biome is changed from Scorched Moor [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Seasse* of the Omega sector's biome is changed from Ion Rainforest [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
 *Terrek* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Azterra* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Ivis* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00)<br/>
