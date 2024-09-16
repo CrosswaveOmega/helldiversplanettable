@@ -1975,8 +1975,22 @@ Midday Status (2024-09-13 03:00)<br/>
 ### Day: #219
 *Gatria* defense is won (2024-09-13 09:11)<br/>
 Major Order | Operation Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23)<br/>
-↳ NOTE: This major order had a side objective delivered via dispatch. Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition. (2024-09-13 14:23)<br/>
+↳ NOTE: This major order had a side objective delivered via dispatch. Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition (2024-09-13 14:23)<br/>
 Midday Status (2024-09-13 18:00)<br/>
 Midday Status (2024-09-14 03:00)<br/>
 
 # Day: #220
+Midday Status (2024-09-14 18:00)<br/>
+Midday Status (2024-09-15 03:00)<br/>
+
+### Day: #221
+*Mastia* is liberated (2024-09-15 18:48)<br/>
+*Tarsh* planetary resistance dropped to -1.0 per hour (2024-09-15 19:05)<br/>
+↳ Note: Strategic Update. *Tarsh* has been cutoff from all adjacent Automaton systems, and as a result their resistance is crumbling! While the isolated bots on *Tarsh* will fight fiercely, their organization is failing. Press the advantage Helldivers! (2024-09-15 19:08)<br/>
+Midday Status (2024-09-16 03:00)<br/>
+
+### Day: #222
+*Tarsh* is liberated (2024-09-16 11:55)<br/>
+↳ Marspira sector is fully liberated (2024-09-16 11:55)<br/>
+Major Order | Operation Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:34)<br/>
+↳ NOTE: Only 1 out of 2 tasks got cleared for this Major Order. The uncleared task mandated the extermination of Bile Spewers, which do not regularly appear in generated Terminid missions. (2024-09-16 14:34)<br/>
