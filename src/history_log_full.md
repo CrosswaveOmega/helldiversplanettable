@@ -1985,12 +1985,16 @@ Midday Status (2024-09-15 03:00)<br/>
 
 ### Day: #221
 *Mastia* is liberated (2024-09-15 18:48)<br/>
-*Tarsh* planetary resistance dropped to -1.0 per hour (2024-09-15 19:05)<br/>
-↳ Note: Strategic Update. *Tarsh* has been cutoff from all adjacent Automaton systems, and as a result their resistance is crumbling! While the isolated bots on *Tarsh* will fight fiercely, their organization is failing. Press the advantage Helldivers! (2024-09-15 19:08)<br/>
+*Tarsh* decay rate changes to -1.0% per hour (2024-09-15 19:05)<br/>
+↳ NOTE: This is the first time negative decay has happened after completely surrounding a world. (2024-09-15 19:05)<br/>
 Midday Status (2024-09-16 03:00)<br/>
 
 ### Day: #222
-*Tarsh* is liberated (2024-09-16 11:55)<br/>
-↳ Marspira sector is fully liberated (2024-09-16 11:55)<br/>
-Major Order | Operation Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:34)<br/>
-↳ NOTE: Only 1 out of 2 tasks got cleared for this Major Order. The uncleared task mandated the extermination of Bile Spewers, which do not regularly appear in generated Terminid missions. (2024-09-16 14:34)<br/>
+*Tarsh* is liberated (2024-09-16 11:54)<br/>
+↳ Marspira sector is fully liberated (2024-09-16 11:54)<br/>
+Major Order | Operation Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33)<br/>
+↳ NOTE: Only 1 out of 2 tasks got cleared for this Major Order. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33)<br/>
+Midday Status (2024-09-16 18:00)<br/>
+Midday Status (2024-09-17 03:00)<br/>
+
+### Day: #223
