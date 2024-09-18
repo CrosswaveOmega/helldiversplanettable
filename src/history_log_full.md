@@ -1998,3 +1998,18 @@ Midday Status (2024-09-16 18:00)<br/>
 Midday Status (2024-09-17 03:00)<br/>
 
 ### Day: #223
+Major Order | Operation Freedom's Audit | Objective: Conquest (2024-09-17 15:20)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-17 15:38)<br/>
+Midday Status (2024-09-17 18:00)<br/>
+Midday Status (2024-09-18 03:00)<br/>
+
+### Day: #224
+*Gatria* defense is won (2024-09-18 11:05)<br/>
+*Vog-Sojoth* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
+*Claorell* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
+*Yed Prior* - *Zefia* supply line is added (2024-09-18 11:15)<br/>
+*Yed Prior* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
+*Zefia* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
+*Demiurg* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
+*Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2024-09-18 11:24)<br/>
