@@ -1998,7 +1998,7 @@ Midday Status (2024-09-16 18:00)<br/>
 Midday Status (2024-09-17 03:00)<br/>
 
 ### Day: #223
-Major Order | Operation Freedom's Audit | Objective: Conquest (2024-09-17 15:20)<br/>
+Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09-17 15:20)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-17 15:38)<br/>
 Midday Status (2024-09-17 18:00)<br/>
 Midday Status (2024-09-18 03:00)<br/>
