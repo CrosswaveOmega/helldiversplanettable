@@ -2013,3 +2013,16 @@ Midday Status (2024-09-18 03:00)<br/>
 *Demiurg* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
 *Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-18 11:24)<br/>
+Midday Status (2024-09-18 18:00)<br/>
+Midday Status (2024-09-19 03:00)<br/>
+
+### Day: #225
+*Clasa* defense is failed (2024-09-19 11:21)<br/>
+↳ *Clasa* liberation campaign starts (2024-09-19 11:21)<br/>
+*Claorell* defense is failed (2024-09-19 11:27)<br/>
+↳ *Claorell* liberation campaign starts (2024-09-19 11:27)<br/>
+↳ *Vog-Sojoth* liberation campaign ends (2024-09-19 11:27)<br/>
+Midday Status (2024-09-19 18:00)<br/>
+Midday Status (2024-09-20 03:00)<br/>
+
+### Day: #226
