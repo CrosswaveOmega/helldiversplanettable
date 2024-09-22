@@ -2026,3 +2026,12 @@ Midday Status (2024-09-19 18:00)<br/>
 Midday Status (2024-09-20 03:00)<br/>
 
 ### Day: #226
+Midday Status (2024-09-20 18:00)<br/>
+*Trandor* is liberated (2024-09-21 05:12)<br/>
+↳ *Peacock* liberation campaign starts (2024-09-21 05:12)<br/>
+
+### Day: #227
+*Imber* of the Talus sector is attacked by Automatons (2024-09-21 21:54)<br/>
+*Claorell* is liberated (2024-09-22 05:40)<br/>
+↳ *Imber* defense is auto-won via gambit (2024-09-22 05:40)<br/>
+↳ *Vog-Sojoth* liberation campaign starts (2024-09-22 05:40)<br/>
