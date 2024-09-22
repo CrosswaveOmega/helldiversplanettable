@@ -460,15 +460,17 @@ def monitor_event(event: GameEvent, lasttime: datetime, newevents: List[GameEven
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
-    while (time - lasttime) > timedelta(hours=12):
+    while (time - lasttime) > timedelta(hours=3):
         timestamp = lasttime + timedelta(
-            hours=(9 - lasttime.hour % 9), minutes=(60-lasttime.minute)%60
+            hours=(3 - lasttime.hour % 3), minutes=(60-lasttime.minute)%60
         )
+        dayval = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
+
         new_evt=GameEvent(
                 text="Midday Status",
                 timestamp=timestamp.timestamp(),
                 time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                day=event.day,
+                day=dayval,
                 planet=[],
                 faction=0,
                 type="monitor",

@@ -205,12 +205,16 @@ function count_distinct_planets_table(historydata, mode, {width}) {
 
 
 
+### Notes:
+* The default decay rate for Super Earth planets is **500% per hour**, but only if the planet is not under attack from an enemy faction.  
+
+
+
+
+
+###
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
-
 ```js
-
-```
-```js
-Plot.geo(world).plot({projection: {type: "identity", domain: world}})
+// Plot.geo(world).plot({projection: {type: "identity", domain: world}})
 ```

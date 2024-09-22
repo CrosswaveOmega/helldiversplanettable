@@ -532,9 +532,7 @@ export function makeplot(
                             }`,
 
                             `Decay Rate: ${
-                                Math.round(
-                                    ((p.r * 60 * 60) / 1000000) * 100 * 10000,
-                                ) / 10000
+                                Math.round(((p.r * 60 * 60) / 1000000) * 100 * 10000) / 10000
                             }`,
                             `Players: ${p.pl}`,
                         ]
