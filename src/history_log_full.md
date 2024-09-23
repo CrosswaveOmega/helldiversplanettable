@@ -1834,3 +1834,6 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 ↳ *Vog-Sojoth* liberation campaign starts (2024-09-22 05:40)<br/>
 
 ### Day: #228
+
+### Day: #229
+*Imber* of the Talus sector is attacked by Automatons (2024-09-23 14:18)<br/>
