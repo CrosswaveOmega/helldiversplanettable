@@ -460,14 +460,14 @@ def monitor_event(event: GameEvent, lasttime: datetime, newevents: List[GameEven
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
-    while (time - lasttime) > timedelta(hours=3):
+    while (time - lasttime) > timedelta(hours=6):
         timestamp = lasttime + timedelta(
-            hours=(3 - lasttime.hour % 3), minutes=(60-lasttime.minute)%60
+            hours=(6 - lasttime.hour % 6), minutes=(60-lasttime.minute)%60
         )
         dayval = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
 
         new_evt=GameEvent(
-                text="Midday Status",
+                text="Quarterly status update",
                 timestamp=timestamp.timestamp(),
                 time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
                 day=dayval,
@@ -622,12 +622,14 @@ def make_markdown_log(history:DaysObject):
 
     def make_entry(entry:GameEvent):
         for each in entry.log:
-            # print(markdown_output[-1]);
             if each.type == "Day Start":
                 if (int(entry.day) % 10) == 0 or int(entry.day) == 1:
                     markdown_output.append(f"\n# Day: #{entry.day}\n")
                 else:
                     markdown_output.append(f"\n### Day: #{entry.day}\n")
+            elif each.type == "monitor":
+                print("Skipping addition, monitoring")
+                logger.info("Skipping addition, monitoring.")
             else:
                 timestamp = datetime.fromtimestamp(entry.timestamp, tz=timezone.utc)
                 formatted_time = timestamp.strftime("%Y-%m-%d %H:%M")
@@ -939,7 +941,12 @@ async def main_code() -> None:
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
             day=event_group[0].day,
+            
         )
+        if event_group[0].type=='monitor':
+            ne.type='m'
+        else:
+            ne.type='g'
 
         #Add eind- this is the overall event group index.
         if not int(ne.timestamp) in days_out.timestamps:

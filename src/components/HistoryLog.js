@@ -317,7 +317,6 @@ export function makeplot(
             galaxystate[planet][key] = value;
         }
         for (const element of gstates.gstate[planet]) {
-            // Your code here
             if (element.eind <= galaxy_time) {
                 for (const [k, v] of Object.entries(element)) {
                     galaxystate[planet][k] = v;
@@ -331,7 +330,6 @@ export function makeplot(
             galaxystate[planet]["link"] = [];
         } else {
             let lastlink = galaxystate[planet]["link2"];
-            // console.log(Object.values(gstates.links));
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
         let sector=galaxystate[planet].sector.replace(/[^a-zA-Z]/g, "").toLowerCase();
@@ -552,15 +550,29 @@ export function makeplot(
     return plot;
 }
 
+
 export function eList(history, count, parentCard, mode = 0) {
-    // Function to create a card element
+    /**
+     * Generates a list of events using the provided DaysObject history.
+     * Each event is displayed as a card on the parent HTML element.
+     * 
+     * @param {DaysObject} history - The historical data containing game events.
+     * @param {number} count - The current event index to highlight.
+     * @param {HTMLElement} parentCard - The parent container for event cards.
+     * @param {number} [mode=0] - Mode for displaying events (0: batch mode, 1: scroll mode).
+     * @returns {string} - Empty string as a dummy return value.
+     */
+
     function createCard(entry, index, current, parentCard) {
-        /*
-              <strong>${entry.text}</strong><br>
-    <p> <strong>Time:</strong> ${entry.time} UTC </p>
-      <p><strong>Type:</strong> $entry.type}</p>
-      <p><strong>Planets Affected:</strong> ${entry.planet}</p>
-    <strong>Timestamp:</strong> ${entry.timestamp}</strong>*/
+        /**
+         * Creates and appends a card to display details of a game event entry.
+         * 
+         * @param {GameEvent} entry - The game event data to display.
+         * @param {number} index - The index of the event.
+         * @param {boolean} current - Whether this event is the current one (highlighted).
+         * @param {HTMLElement} parentCard - The parent HTML element to append the card to.
+         * @returns {HTMLElement} - The parent card element with the appended details.
+         */
 
         const headingElement = document.createElement("h3");
         headingElement.textContent = current
@@ -583,44 +595,49 @@ export function eList(history, count, parentCard, mode = 0) {
         parentCard.appendChild(document.createElement("br"));
 
         parentCard.appendChild(document.createElement("br"));
-        /*         if (!['unknown','campaign_start','campaign_end'].includes(entry.type)) {
-          const typeElement = document.createElement("p");
-          typeElement.innerHTML = `<strong>Type:</strong> ${entry.type}`;
-          parentCard.appendChild(typeElement);
-        }
-        console.log(current);
-        if (entry.planet && entry.planet.length > 0) {
-          const planetElement = document.createElement("p");
-          planetElement.innerHTML = `<strong>Planets Affected:</strong> ${entry.planet}`;
-          parentCard.appendChild(planetElement);
-        } */
 
         return parentCard;
     }
 
-    // Function to create the grid element
-
-    function createGrid(data, count, factorby, parentElement, mode) {
-        // Find and clear the 'cont' div
+    function createEventCards(data, count, factorby, parentElement, mode) {
+        /**
+         * Create the text for all elements up to factorby
+         * 
+         * @param {DaysObject} data - The historical data containing game events.
+         * @param {number} count - The current event index to highlight.
+         * @param {number} factorby - The number of events to display in a single mode batch.
+         * @param {HTMLElement} parentElement - The parent element to clear and append cards to.
+         * @param {number} mode - Display mode: 0 for batch, 1 for scrolling.
+         */
 
         while (parentElement.firstChild) {
             parentElement.innerHTML = "";
         }
-
+        let curr_over=true;
         let lower, index;
         switch (mode) {
             case 0:
+                let off = 0;
                 lower = Math.floor(count / factorby) * factorby;
-                for (index = lower; index < lower + factorby; index++) {
+                for (index = lower; index < lower + factorby +off; index++) {
                     if (index >= data.events.length) break;
                     let event = data.events[index];
                     let current = index === count;
-                    const card = createCard(
-                        event,
-                        index,
-                        current,
-                        parentElement,
-                    );
+                    if (event.type =='m'){
+                        off+=1;
+                        if (current){
+                            curr_over=true;
+                        }
+                    }
+                    else{
+                        const card = createCard(
+                            event,
+                            index,
+                            current || curr_over,
+                            parentElement,
+                        );
+                        curr_over=false;
+                    }
                 }
                 break;
             case 1:
@@ -644,18 +661,30 @@ export function eList(history, count, parentCard, mode = 0) {
     }
 
     let dayv = history.events[count].day;
-    // Generate the grid with cards
-    createGrid(history, count, 8, parentCard, mode);
+    createEventCards(history, count, 8, parentCard, mode);
     return "";
 }
 
 export function list_text(history, count, parentCard) {
-    // Function to create a card element
+    /**
+     * Create the text for the event at index count inside parentCart
+     * Each event is displayed as a card on the parent HTML element.
+     * 
+     * @param {DaysObject} history - The historical data containing game events.
+     * @param {number} count - The current event index to highlight.
+     * @param {HTMLElement} parentCard - The parent container for event cards.
+     * @returns {string} - Empty string as a dummy return value.
+     */
+
     function createCard(entry_main, parentCard) {
-        /*<p> <strong>Time:</strong> ${entry.time} UTC </p>
-     <p><strong>Current Major Order:</strong> ${entry.mo} </p>
-     <strong>Timestamp:${entry.timestamp};</strong>
-*/
+        /**
+         * Creates and appends a card created based on the game_event
+         * 
+         * @param {GameEvent} entry - The game event data to display.
+         * @param {HTMLElement} parentCard - The parent HTML element to append the card to.
+         * @returns {HTMLElement} - The parent card element with the appended details.
+         */
+
         const h1 = document.createElement("h1");
         h1.textContent = `Day ${entry_main.day}, Event index ${count}`;
 
@@ -694,8 +723,15 @@ export function list_text(history, count, parentCard) {
 
     // Function to create the grid element
 
-    function createGrid(data, count, parentElement) {
-        // Find and clear the 'cont' div
+    function createEventCard(data, count, parentElement) {
+        /**
+         * Clear the text inside parentElement, and format the event at count
+         * 
+         * @param {DaysObject} data - The historical data containing game events.
+         * @param {number} count - The current event index to highlight.
+         * @param {HTMLElement} parentElement - The parent element to clear and append cards to.
+         */
+
         while (parentElement.firstChild) {
             parentElement.innerHTML = "";
         }
@@ -703,12 +739,30 @@ export function list_text(history, count, parentCard) {
         const card = createCard(data.events[count], parentElement);
     }
     // Generate the grid with cards
-    createGrid(history, count, parentCard);
+    createEventCard(history, count, parentCard);
     return "";
 }
 
 export function ListAll(history, parentCard, mode = 0) {
+    /**
+     * Create the text for the event at index count inside parentCart
+     * Each event is displayed as a card on the parent HTML element.
+     * 
+     * @param {DaysObject} history - The historical data containing game events.
+     * @param {HTMLElement} parentCard - The parent container for event cards.
+     * @param {int} mode - mode for listing all
+     * @returns {string} - Empty string as a dummy return value.
+     */
+
     function createCard(entry, parentCard) {
+        /**
+         * Creates and appends a card created based on the game_event
+         * 
+         * @param {GameEvent} entry - The game event data to display.
+         * @param {HTMLElement} parentCard - The parent HTML element to append the card to.
+         * @returns {HTMLElement} - The parent card element with the appended details.
+         */
+
         for (const each of entry.log) {
             if (each.type === "Day Start") {
                 parentCard.appendChild(document.createElement("br"));
@@ -731,8 +785,14 @@ export function ListAll(history, parentCard, mode = 0) {
 
     // Function to create the grid element
 
-    function createGrid(data, parentElement, mode) {
-        // Find and clear the 'cont' div
+    function createEventCards(data, parentElement, mode) {
+        /**
+         * Create the text for all elements up to factorby
+         * 
+         * @param {DaysObject} data - The historical data containing game events.
+         * @param {HTMLElement} parentElement - The parent element to clear and append cards to.
+         * @param {number} mode - Display mode: 0 for everything, 1 for last 20.
+         */
 
         while (parentElement.firstChild) {
             parentElement.innerHTML = "";
@@ -754,17 +814,17 @@ export function ListAll(history, parentCard, mode = 0) {
                 newlower = lower;
                 for (i = lower; i > 0; i--) {
                     if (data.events[i].day == day) {
-                        //console.log(newlower,data.events[i].day,day);
                         newlower--;
                     } else {
                         newlower = i + 1;
                         break;
                     }
-                    //console.log(newlower);
                 }
                 for (index = newlower; index < data.events.length; index++) {
                     let event = data.events[index];
+                    if (event.type!='m'){
                     const card = createCard(event, parentElement);
+                    }
                 }
 
                 parentElement.scrollTop = parentElement.scrollHeight;
@@ -774,7 +834,6 @@ export function ListAll(history, parentCard, mode = 0) {
         }
     }
 
-    // Generate the grid with cards
-    createGrid(history, parentCard, mode);
+    createEventCards(history, parentCard, mode);
     return "";
 }
