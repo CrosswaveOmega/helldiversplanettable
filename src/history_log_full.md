@@ -1836,4 +1836,6 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 ### Day: #228
 
 ### Day: #229
+Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probability of an imminent Automaton offensive. Several frontline planets are under threat of invasion. All signs indicate a powerful and sustained offensive. Hold as much ground as you can. (2024-09-23 11:17)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-23 14:18)<br/>
+*Pandion-XXIV* is liberated (2024-09-23 21:03)<br/>
