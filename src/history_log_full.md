@@ -1839,3 +1839,11 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probability of an imminent Automaton offensive. Several frontline planets are under threat of invasion. All signs indicate a powerful and sustained offensive. Hold as much ground as you can. (2024-09-23 11:17)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-23 14:18)<br/>
 *Pandion-XXIV* is liberated (2024-09-23 21:03)<br/>
+
+# Day: #230
+*Imber* defense is failed (2024-09-24 14:21)<br/>
+↳ *Imber* liberation campaign starts (2024-09-24 14:21)<br/>
+Major Order | Operation Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39)<br/>
+Major Order | Operation DDS Construction Site is issued | Objective: Liberate (2024-09-24 16:00)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08)<br/>

@@ -306,6 +306,7 @@ export function makeplot(
     };
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
+    let elist=[current_event];
     console.log(planetimages);
     console.log(slider,galaxy_time);
     
@@ -398,9 +399,15 @@ export function makeplot(
     eList(history, slider, document.getElementById("DAYVIEW"));
 
     list_text(history, slider, document.getElementById("Superdayview"));
+
+    let textv=`${slider}:`;
+    textv+=current_event.log.map(entry => entry.text).join(',');
+
     let plot = Plot.plot({
         width: width,
         title: " ",
+        subtitle: `Current Time:${current_event.time}`,
+        caption:textv,
         aspectRatio: 1,
         height: width,
         projection: {type: "identity", domain: world},
@@ -424,6 +431,7 @@ export function makeplot(
             //     height: width,
             //     src: backround,
             // }),
+            
             Plot.geo(world,{
                 stroke:'#c0c0c0',
                 strokeWidth: width / 2000,

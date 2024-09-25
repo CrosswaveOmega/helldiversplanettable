@@ -21,6 +21,9 @@ from hd2json.jsonutils import load_and_merge_json_files
 if not os.path.exists("./logs/"):
     os.makedirs("./logs/")
 
+MAX_HOUR_DISTANCE=6
+MIN_HOUR_CHANGE=6
+
 
 logger = logging.getLogger("StatusLogger")
 logger.setLevel(logging.DEBUG)
@@ -460,14 +463,14 @@ def monitor_event(event: GameEvent, lasttime: datetime, newevents: List[GameEven
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
-    while (time - lasttime) > timedelta(hours=6):
+    while (time - lasttime) > timedelta(hours=MAX_HOUR_DISTANCE):
         timestamp = lasttime + timedelta(
-            hours=(6 - lasttime.hour % 6), minutes=(60-lasttime.minute)%60
+            hours=(MIN_HOUR_CHANGE - lasttime.hour % MIN_HOUR_CHANGE), minutes=(60-lasttime.minute)%60
         )
         dayval = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
 
         new_evt=GameEvent(
-                text="Quarterly status update",
+                text="Monitoring",
                 timestamp=timestamp.timestamp(),
                 time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
                 day=dayval,
@@ -745,7 +748,8 @@ async def process_event(
         days_out.dayind[int(event.day)] = []
     if days_out.lastday < int(event.day):
         days_out.lastday = int(event.day)
-    days_out.dayind[int(event.day)].append(int(index))
+    if not int(index) in days_out.dayind[int(event.day)]:
+        days_out.dayind[int(event.day)].append(int(index))
 
     planetclone = planets.copy()
     for i, v in laststats.items():
@@ -999,7 +1003,7 @@ async def main_code() -> None:
         file.write(markdowncode)
     logger.info("saving data")
     print("saving data")
-    save_json_data("./src/data/historydata.json", days_out.model_dump(warnings='error'))
+    save_json_data("./src/data/historydata.json", days_out.model_dump(exclude_none=True,warnings='error'))
     logger.info("saving time caches...")
     print("saving time caches...")
     for d, v in all_times_new.items():
