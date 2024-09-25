@@ -155,8 +155,9 @@ async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
         current_time = timev.isoformat()
         url = "https://api-helldivers.kejax.net/api/planets/at"
         params = {"time": current_time}
+        timeout = aiohttp.ClientTimeout(total=10)  # Set the timeout to 10 seconds
 
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(timeout=timeout) as session:
             async with session.get(url, params=params) as response:
                 response_json = await response.json()
                 outv = {p["index"]: p for p in response_json}
