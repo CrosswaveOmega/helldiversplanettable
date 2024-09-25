@@ -22,7 +22,7 @@ if not os.path.exists("./logs/"):
     os.makedirs("./logs/")
 
 MAX_HOUR_DISTANCE=6
-MIN_HOUR_CHANGE=6
+MIN_HOUR_CHANGE=3
 
 
 logger = logging.getLogger("StatusLogger")
@@ -142,6 +142,7 @@ def get_web_file():
 
     url = "https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA/export?format=txt"
     with urllib.request.urlopen(url) as response:
+        print("reading...")
         data = response.read()
 
     with open("./src/data/gen_data/text.md", "wb") as file:
@@ -362,6 +363,7 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
 
 def make_day_obj() -> None:
     '''Load the HOWL google doc, create day/event/date dictionary'''
+    print("Getting web file...")
     get_web_file()
     pattern = r"^(Day #(?P<day>\d+)\s+(?P<day_time>\d{1,2}:\d{2}+\s*(am|pm)\s+\d{1,2}(st|nd|rd|th)\s+\w+\s+(\d{4})*)|(?P<text>.*?)\s+\((?P<time>\d{1,2}:\d{2}+\s*(am|pm)?\s+UTC\s+\d{1,2}(st|nd|rd|th)\s+\w+\s*\d*)\))"
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
@@ -463,7 +465,7 @@ def monitor_event(event: GameEvent, lasttime: datetime, newevents: List[GameEven
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
-    while (time - lasttime) > timedelta(hours=MAX_HOUR_DISTANCE):
+    while (time - lasttime) > timedelta(hours=MIN_HOUR_CHANGE):
         timestamp = lasttime + timedelta(
             hours=(MIN_HOUR_CHANGE - lasttime.hour % MIN_HOUR_CHANGE), minutes=(60-lasttime.minute)%60
         )
@@ -587,6 +589,7 @@ async def get_planet_stats(ne: GameEvent, all_times_new: Dict[str, Dict[str, Any
             print(f"{ne.time} fetching game data for time {timestamp}")
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
+            print("fetch complete")
             all_times_new[dc][timestamp] = planetstats
         else:
             all_times_new[dc][timestamp] = {}
@@ -752,6 +755,7 @@ async def process_event(
         days_out.dayind[int(event.day)].append(int(index))
 
     planetclone = planets.copy()
+    #Copy in last planet status
     for i, v in laststats.items():
         if str(i) in planetclone:
             planetclone[str(i)].hp = v.get("health", 0)
@@ -784,10 +788,34 @@ def update_planet_stats(
     for i, v in planetstats.items():
         if str(i) in planetclone:
             planetclone[str(i)].hp = v.get("health", 0)
+            lastregen=planetclone[str(i)].r 
+            if lastregen!=float(v.get("regenPerSecond", 0)):
+                print(f"planet {i} decay change to {lastregen}")
             planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
             planetclone[str(i)].pl = enote(v.get("players", 0))
 
-
+def check_planet_stats_for_change(
+    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
+) -> bool:
+    '''check HP, regenPerSecond, and playercount'''
+    decay_change=False
+    hp_change=False
+    times=100000
+    for i, v in planetstats.items():
+        if str(i) in planetclone:
+            lasthp=planetclone[str(i)].hp
+            if lasthp:
+                if lasthp//times!=v.get("health",0)//times:
+                    hp_change=True
+            lastregen=planetclone[str(i)].r 
+            if lastregen!=float(v.get("regenPerSecond", 0)):
+                decay_change=True
+                print(f"planet {i} decay change to {lastregen}")
+            #planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
+            #planetclone[str(i)].pl = enote(v.get("players", 0))
+    
+    logger.info(f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant")
+    return decay_change or hp_change
 
 def update_planet_ownership(
     event: GameEvent, planetclone: Dict[str, PlanetState]
@@ -939,6 +967,7 @@ async def main_code() -> None:
     newevt = []
     grouped_events = list(events_by_timestamp.values())
     days_out.timestamps=[]
+    last_time=0
     for i, event_group in enumerate(grouped_events):
         elog = []
         ne = GameEvent(
@@ -951,6 +980,7 @@ async def main_code() -> None:
             ne.type='m'
         else:
             ne.type='g'
+            last_time=ne.timestamp
 
         #Add eind- this is the overall event group index.
         if not int(ne.timestamp) in days_out.timestamps:
@@ -966,6 +996,23 @@ async def main_code() -> None:
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
         ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
+        if ne.type=='m':
+            
+            time_since=ne.timestamp-last_time
+            if time_since<MAX_HOUR_DISTANCE*60*60:
+                dc = str(int(ne.day) // 30)
+    
+                time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
+                planetstats = all_times_new[str(dc)][str(ne.timestamp)]
+                if check_planet_stats_for_change(ptemp,planetstats):
+                    print("Checking for max hour difference...")
+                    logger.info(f"On event group number {i}, Planet Stats changed significantly between calls.")
+                else:
+                    logger.info(f"On event group number {i}, disreguarding outcome.")
+                    continue
+            time_since=ne.timestamp
+
+
         for e, event in enumerate(event_group):
             #
             ptemp = await process_event(
@@ -1100,6 +1147,7 @@ if not os.path.exists("./src/data/gen_data"):
     raise FileNotFoundError("The directory ./src/data/gen_data does not exist.")
 
 #asyncio.run(create_planet_sectors())
+print("Starting up...")
 make_day_obj()
 format_event_obj()
 
