@@ -1847,3 +1847,9 @@ Major Order | Operation Freedom's Audit is failed | Objective: Conquest (2024-09
 Major Order | Operation DDS Construction Site is issued | Objective: Liberate (2024-09-24 16:00)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08)<br/>
+
+### Day: #231
+*Acamar IV* defense is failed (2024-09-25 16:10)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-09-25 16:10)<br/>
+*Claorell* defense is failed (2024-09-25 16:11)<br/>
+↳ *Vog-Sojoth* liberation campaign ends (2024-09-25 16:11)<br/>
