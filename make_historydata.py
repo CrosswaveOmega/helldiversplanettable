@@ -1061,10 +1061,7 @@ async def main_code() -> None:
             last_time=ne.timestamp
 
         #Add eind- this is the overall event group index.
-        if not int(ne.timestamp) in days_out.timestamps:
-            days_out.timestamps.append(int(ne.timestamp))
-        ind = days_out.timestamps.index(int(ne.timestamp))
-        ne.eind=ind
+        
         planetstats=await get_planet_stats(conn,ne,all_times_new,march_5th)
         all_players=0
         for ie, v in planetstats.items():
@@ -1075,7 +1072,6 @@ async def main_code() -> None:
         logger.info(f"On event group number {i}, timestamp {ne.time}")
         ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
         if ne.type=='m':
-            
             time_since=ne.timestamp-last_time
             if time_since<MAX_HOUR_DISTANCE*60*60:
                 dc = str(int(ne.day) // 30)
@@ -1089,6 +1085,10 @@ async def main_code() -> None:
                     logger.info(f"On event group number {i}, disreguarding outcome.")
                     continue
             time_since=ne.timestamp
+        if not int(ne.timestamp) in days_out.timestamps:
+            days_out.timestamps.append(int(ne.timestamp))
+        ind = days_out.timestamps.index(int(ne.timestamp))
+        ne.eind=ind
 
 
         for e, event in enumerate(event_group):
@@ -1098,7 +1098,7 @@ async def main_code() -> None:
                 ptemp,
                 laststats,
                 event,
-                i,
+                ind,
                 store,
                 all_times_new,
             )
