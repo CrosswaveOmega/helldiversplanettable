@@ -27,7 +27,7 @@ if not os.path.exists("./logs/"):
     os.makedirs("./logs/")
 
 MAX_HOUR_DISTANCE=6
-MIN_HOUR_CHANGE=3
+MIN_HOUR_CHANGE=4
 
 
 logger = logging.getLogger("StatusLogger")

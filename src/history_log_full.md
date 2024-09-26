@@ -234,8 +234,10 @@ War monitoring satellites are launched, allowing helldiver counts and planet lib
 ↳ *Ustotu* liberation campaign starts (2024-03-06 20:21)<br/>
 ↳ *Vandalon IV* is still accessible despite being cut off (2024-03-06 20:21)<br/>
 ↳ *Vandalon IV* liberation campaign ends (2024-03-06 23:56)<br/>
+Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets. Your fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive. (2024-03-07 05:10)<br/>
 
 ### Day: #29
+Dispatch: The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset. (2024-03-07 12:15)<br/>
 Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46)<br/>
 *Tien Kwan* - *Draupnir* supply line is added (2024-03-07 13:49)<br/>
 *Tien Kwan* - *Castor* supply line is added (2024-03-07 13:49)<br/>
@@ -246,12 +248,15 @@ Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Object
 *Tien Kwan* of the Theseus sector instantly flips to Automaton control (2024-03-07 13:49)<br/>
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49)<br/>
 Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51)<br/>
+Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate *Tien Kwan*, before its too late. (2024-03-07 14:29)<br/>
 *Angel's Venture* of the Orion sector is attacked by Terminids (2024-03-07 19:35)<br/>
+Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-07 21:12)<br/>
 
 # Day: #30
-*Tien Kwan* is liberated (2024-03-08 15:49)<br/>
-↳ Theseus sector is fully liberated (2024-03-08 15:49)<br/>
-↳ Major Order | Operation Patriot is won | Objective: Liberate (2024-03-08 15:49)<br/>
+*Tien Kwan* is liberated (2024-03-08 15:48)<br/>
+↳ Theseus sector is fully liberated (2024-03-08 15:48)<br/>
+↳ Major Order | Operation Patriot is won | Objective: Liberate (2024-03-08 15:48)<br/>
+Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (2024-03-08 15:51)<br/>
 *Angel's Venture* defense is failed (2024-03-08 19:39)<br/>
 ↳ *Angel's Venture* liberation campaign starts (2024-03-08 19:39)<br/>
 ↳ *Meridia* is still accessible despite being cut off (2024-03-08 19:39)<br/>
@@ -267,24 +272,33 @@ Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:5
 
 ### Day: #34
 Major Order | Operation TCS Activation is issued | Objective: Liberate (2024-03-12 13:46)<br/>
+Dispatch: Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. However, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens. The Terminid Control System must be activated--at any cost. (2024-03-12 13:47)<br/>
+Dispatch: NEW MAJOR ORDER. Activate Terminid Control System (2024-03-12 13:47)<br/>
 
 ### Day: #35
 *Fenrir III* is liberated (2024-03-13 22:03)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-13 22:03)<br/>
+Dispatch: FENRIR III SECURED. The Terminid Control System is now fully activated on *Fenrir III*. (2024-03-13 22:29)<br/>
 
 ### Day: #36
 *Turing* is liberated (2024-03-14 19:31)<br/>
+Dispatch: TURING SECURED. The Terminid Control System is now fully activated on *Turing*. (2024-03-14 19:46)<br/>
+Dispatch: The TCS has been fully activated on half of the Barrier Planets. (2024-03-14 19:47)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2024-03-14 21:13)<br/>
 
 ### Day: #37
 *Heeth* defense is won (2024-03-15 16:31)<br/>
 ↳ Orion sector is fully liberated (2024-03-15 16:31)<br/>
+Dispatch: HEETH DEFENDED. After countless noble and unavoidable sacrifices, *Heeth* has been defended from the Terminids. (2024-03-15 18:41)<br/>
 *Meridia* is liberated (2024-03-15 19:22)<br/>
 ↳ *Estanu* liberation campaign starts (2024-03-15 19:22)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-03-15 19:22)<br/>
+Dispatch: MERIDIA SECURED. The Terminid Control System is now fully activated on *Meridia*. (2024-03-15 19:24)<br/>
 *Erata Prime* is liberated (2024-03-16 03:50)<br/>
 ↳ Umlaut sector is fully liberated (2024-03-16 03:50)<br/>
 ↳ Major Order | Operation TCS Activation is won | Objective: Liberate (2024-03-16 03:50)<br/>
+Dispatch: ERATA PRIME SECURED. The Terminid Control System is now fully activated on *Erata Prime*. (2024-03-16 07:47)<br/>
+Dispatch: The Terminid Control System is fully activated. The Termicide is working as intended, culling millions of Terminids on the Barrier Planets. Our citizens may finally rest easy, knowing their children are forever safe from being eaten alive by fascist insects. (2024-03-16 07:47)<br/>
 
 ### Day: #38
 
@@ -305,12 +319,14 @@ Major Order | Operation TCS Activation is issued | Objective: Liberate (2024-03-
 ↳ *Fori Prime* is still accessible despite being cut off (2024-03-19 12:14)<br/>
 ↳ *Fori Prime* liberation campaign ends (2024-03-19 13:47)<br/>
 Major Order | Operation Prime Liberation is issued | Objective: Liberate (2024-03-19 16:13)<br/>
+Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets. (2024-03-19 16:13)<br/>
 *Estanu* is liberated (2024-03-20 05:15)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-03-20 05:15)<br/>
 
 ### Day: #42
 
 ### Day: #43
+Dispatch: CYBERSECURITY UPDATE. A recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation. Any discrepancies are to be considered the result of dissident misinformation. Rest assured that the parties responsible have been identified, arrested, tried, and executed. (2024-03-21 09:26)<br/>
 *Fori Prime* is liberated (2024-03-21 16:36)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-03-21 16:36)<br/>
 
@@ -1844,7 +1860,7 @@ Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probabil
 *Imber* defense is failed (2024-09-24 14:21)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-24 14:21)<br/>
 Major Order | Operation Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39)<br/>
-Major Order | Operation DDS Construction Site is issued | Objective: Liberate (2024-09-24 16:00)<br/>
+Major Order | Operation Starslayer Frontier is issued | Objective: Liberate (2024-09-24 16:00)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08)<br/>
 
