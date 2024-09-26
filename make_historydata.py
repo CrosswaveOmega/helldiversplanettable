@@ -17,6 +17,11 @@ import logging
 import logging.handlers
 
 from hd2json.jsonutils import load_and_merge_json_files
+import sqlite3
+
+# Define the database file
+DATABASE_FILE = './src/data/gen_data/alltimedata.db'
+
 
 if not os.path.exists("./logs/"):
     os.makedirs("./logs/")
@@ -166,6 +171,59 @@ async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
         logger.warning(str(e))
         return {}
 
+def fetch_entries_by_timestamp(conn, timestamp):
+    """Fetch all entries with a given timestamp."""
+    cursor = conn.cursor()
+
+    cursor.execute('''
+    SELECT * FROM alltimedata WHERE timestamp = ?
+    ''', (timestamp,))
+    entries = cursor.fetchall()
+    keys = [column[0] for column in cursor.description]
+    all_entries = {}
+    for index, entry in enumerate(entries):
+        indexv={key: entry[i] for i, key in enumerate(keys)}
+        all_entries[indexv['pindex']] = indexv
+    return all_entries
+
+def fetch_entries_by_dayval(conn, dayval):
+    """Fetch all entries with the same dayval."""
+    cursor = conn.cursor()
+
+    cursor.execute('''
+    SELECT * FROM alltimedata WHERE dayval = ?
+    ''', (dayval,))
+    entries = cursor.fetchall()
+    keys = [column[0] for column in cursor.description]
+    all_entries = {}
+    for entry in entries:
+        indexv = {key: entry[i] for i, key in enumerate(keys)}
+        timestamp = indexv['timestamp']
+        if timestamp not in all_entries:
+            all_entries[timestamp] = {}
+        all_entries[timestamp][indexv['pindex']] = indexv
+    print(all_entries.keys())
+    #input()
+    return all_entries
+
+
+def add_entry(conn, timestamp, index, warID, health, owner, regenPerSecond, players):
+    """Add a new entry using the provided data."""
+    cursor = conn.cursor()
+
+    cursor.execute('''
+    INSERT INTO alltimedata (timestamp, index, warID, health, owner, regenPerSecond, players)
+    VALUES (?, ?, ?, ?, ?, ?, ?)
+    ''', (
+        float(timestamp),
+        int(index),
+        int(warID),
+        int(health),
+        int(owner),
+        float(regenPerSecond),
+        int(players)
+    ))
+    conn.commit()
 
 def check_and_load_json(filepath: str):
     '''Make sure the json at filepath exists, and load it.'''
@@ -576,20 +634,38 @@ def enote(num:int):
 hashlists = {}
 valid_waypoints = {0:[]}
 
-async def get_planet_stats(ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime) -> Dict[int, Dict[str, Any]]:
+async def get_planet_stats(conn,ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime) -> Dict[int, Dict[str, Any]]:
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
+    cursor = conn.cursor()
 
     if dc not in all_times_new:
-        all_times_new[dc] = check_and_load_json(f"./src/data/gen_data/alltimes_{dc}.json")
+        ents=fetch_entries_by_dayval(conn,dc)
+        #print(ents)
+        all_times_new[dc] = ents
 
     if timestamp not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
-
+        
         if time > march_5th:
             print(f"{ne.time} fetching game data for time {timestamp}")
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
+            for pindex, details in planetstats.items():
+                cursor.execute('''
+                INSERT INTO alltimedata (timestamp, dayval,pindex, warID, health, owner, regenPerSecond, players)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (
+                    str(timestamp),
+                    str(dc),
+                    int(pindex),
+                    int(details['warId']),
+                    int(details['health']),
+                    int(details['owner']),
+                    float(details['regenPerSecond']),
+                    int(details['players'])
+                ))
+            conn.commit()
             print("fetch complete")
             all_times_new[dc][timestamp] = planetstats
         else:
@@ -935,6 +1011,7 @@ def update_waypoints(
 
 async def main_code() -> None:
     '''Create the historydata.json file using result from format_event_object.'''
+    conn = sqlite3.connect(DATABASE_FILE)
     planetlist: List[Tuple[int, Dict[str, Any]]] = []
     planets, temp = initialize_planets()
     planetlist.append((0, planets))
@@ -988,7 +1065,7 @@ async def main_code() -> None:
             days_out.timestamps.append(int(ne.timestamp))
         ind = days_out.timestamps.index(int(ne.timestamp))
         ne.eind=ind
-        planetstats=await get_planet_stats(ne,all_times_new,march_5th)
+        planetstats=await get_planet_stats(conn,ne,all_times_new,march_5th)
         all_players=0
         for ie, v in planetstats.items():
             if 'players' in v:
@@ -1054,10 +1131,10 @@ async def main_code() -> None:
     save_json_data("./src/data/historydata.json", days_out.model_dump(exclude_none=True,warnings='error'))
     logger.info("saving time caches...")
     print("saving time caches...")
-    for d, v in all_times_new.items():
-        logger.info(f"saving time cache for day set {d}")
-        print(f"saving time cache for day set {d}")
-        save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
+    # for d, v in all_times_new.items():
+    #     logger.info(f"saving time cache for day set {d}")
+    #     print(f"saving time cache for day set {d}")
+    #     save_json_data(f"./src/data/gen_data/alltimes_{d}.json", all_times_new[d])
     hashlinks={}
 
     resort={}
@@ -1133,6 +1210,7 @@ async def main_code() -> None:
     logger.info("%s", hashlists)
     
     save_json_data("./src/data/resort.json", resort,indent=3)
+    conn.close()
 
 
 def save_json_data(file_path: str, data: Any,**kwargs) -> None:
