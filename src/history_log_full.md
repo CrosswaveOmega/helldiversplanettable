@@ -1869,3 +1869,7 @@ Major Order | Operation Starslayer Frontier is issued | Objective: Liberate (202
 ↳ *Acamar IV* liberation campaign starts (2024-09-25 16:10)<br/>
 *Claorell* defense is failed (2024-09-25 16:11)<br/>
 ↳ *Vog-Sojoth* liberation campaign ends (2024-09-25 16:11)<br/>
+
+### Day: #232
+*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-26 21:17)<br/>
+*Shelt* of the Talus sector is attacked by Automatons (2024-09-26 21:18)<br/>
