@@ -1873,3 +1873,33 @@ Major Order | Operation Starslayer Frontier is issued | Objective: Liberate (202
 ### Day: #232
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-26 21:17)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-26 21:18)<br/>
+
+### Day: #233
+*Shelt* defense is failed (2024-09-27 21:20)<br/>
+↳ *Shelt* liberation campaign starts (2024-09-27 21:20)<br/>
+↳ *Imber* liberation campaign ends (2024-09-27 21:20)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2024-09-27 22:51)<br/>
+*Gaellivare* is liberated (2024-09-28 01:05)<br/>
+↳ *Imber* liberation campaign starts (2024-09-28 01:05)<br/>
+↳ Major Order | Operation Starslayer Frontier is won | Objective: Liberate (2024-09-28 01:05)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (2024-09-28 01:14)<br/>
+
+### Day: #234
+Major Order | Operation Warp Drives is issued | Objective: Control (2024-09-28 18:35)<br/>
+Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs. The Helldivers are ordered to clear *Turing* of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS. (2024-09-28 18:35)<br/>
+*Ursica XI* - *Achird III* supply line is added (2024-09-28 20:54)<br/>
+*Darius II* - *Acamar IV* supply line is added (2024-09-28 20:54)<br/>
+*Achernar Secundus* - *Ursica XI* supply line is added (2024-09-28 20:54)<br/>
+*Achernar Secundus* - *Darius II* supply line is added (2024-09-28 20:54)<br/>
+*Achird III* - *Turing* supply line is added (2024-09-28 20:54)<br/>
+*Achird III* - *Darius II* supply line is added (2024-09-28 20:54)<br/>
+*Gar Haren* - *Achernar Secundus* supply line is added (2024-09-28 20:54)<br/>
+*Phact Bay* - *Darius II* supply line is added (2024-09-28 20:54)<br/>
+*Phact Bay* defense is failed (2024-09-28 21:23)<br/>
+↳ *Phact Bay* liberation campaign starts (2024-09-28 21:23)<br/>
+↳ *Partion* liberation campaign ends (2024-09-28 21:23)<br/>
+*Darius II* of the Borgus sector is attacked by Terminids (2024-09-28 21:27)<br/>
+*Turing* defense is won (2024-09-29 07:35)<br/>
+↳ Umlaut sector is fully liberated (2024-09-29 07:35)<br/>
+
+### Day: #235
