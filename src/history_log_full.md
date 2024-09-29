@@ -215,17 +215,23 @@ Major Order | Operation Defense of *Heeth* and *Angel's Venture* is issued | Obj
 
 ### Day: #27
 War monitoring satellites are launched, allowing helldiver counts and planet liberation amounts to be properly recorded from here on (2024-03-05 19:00)<br/>
+Decay changes: Super Earth,Klen Dahth II,Pathfinder V,Widow's Harbor,New Haven,Pilen V,Hydrofall Prime,Zea Rugosia,Darrowsport,Fornskogur II,Midasburg,Cerberus IIIc,Prosperity Falls,Okul VI,Martyr's Bay,Freedom Peak,Fort Union,Kelvinor,Wraith,Igla,New Kiruna,Fort Justice,Zegema Paradise,Providence,Primordia,Sulfura,Nublaria I,Krakatwo,Volterra,Crucible,Veil,Marre IV,Fort Sanctuary,Seyshel Beach,Effluvia,Solghast,Diluvia,Viridia Prime,Obari,Myradesh,Atrama,Emeria,Barabos,Fenmire,Mastia,Shallus,Krakabos,Iridica,Azterra,Ivis,Slif,Caramoor,Kharst,Eukoria,Myrium,Kerth Secundus,Parsh,Reaf,Irulta,Emorath,Ilduna Prime,Maw,Borea,Curia,Tarsh,Shelt,Imber,Blistica,Ratch,Julheim,Valgaard,Arkturus,Esker,Terrek,Cirrus,Heeth,Veld,Alta V,Ursica XI,Inari,Skaash,Moradesh,Rasp,Bashyr,Regnus,Mog,Valmox,Iro,Grafmere,New Stockholm,Oasis,Genesis Prime,Outpost 32,Calypso,Elysian Meadows,Alderidge Cove,East Iridium Trading Bay,Liberty Ridge,Baldrick Prime,The Weir,Kuper,Oslo Station,Pöpli IX,Gunvald,Dolph,Bekvam III,Duma Tyr,Vernen Wells,Aesir Pass,Aurora Bay,Penta,Gaellivare,Vog-Sojoth,Kirrik,Mortax Prime,Wilford Station,Pioneer II,Erson Sands,Socorro III,Bore Rock,Angel's Venture,Darius II,Acamar IV,Achernar Secundus,Achird III,Acrab XI,Acrux IX,Acubens Prime,Adhara,Afoyay Bay,Ain-5,Alairt III,Alamak VII,Alaraph,Alathfar XI,Andar,Asperoth Prime,Bellatrix,Botein,Osupsam,Brink-2,Bunda Secundus,Canopus,Caph,Castor,Mort,Ingmar,Charbal-VII,Charon Prime,Choepessa IV,Choohe,Chort Bay,Claorell,Clasa,Demiurg,Deneb Secundus,Electra Bay,Gacrux,Gar Haren,Gatria,Gemma,Grand Errant,Hadar,Haka,Haldus,Halies Port,Herthon Secundus,Hesoe Prime,Heze Bay,Hort,Hydrobius,Karlia,Keid,Khandark,Klaka 5,Kneth Port,Kraz,Kuma,Lastofe,Leng Secundus,Lesath,Mantes,Marfark,Martale,Matar Bay,Meissa,Mekbuda,Menkent,Merak,Merga IV,Minchir,Mintoria,Mordia 9,Pandion-XXIV,Phact Bay,Pherkad Secundus,Polaris Prime,Pollux 31,Prasa,Propus,Ras Algethi,RD-4,Rogue 5,Rirga Bay,Seasse,Senge 23,Setia,Shete,Siemnot,Sirius,Skat Bay,Spherion,Stor Tha Prime,Stout,Termadon,Tien Kwan,Ustotu,Varylia 5,Wasat,Vega Bay,Wezen,Vindemitarix Prime,X-45,Yed Prior,Zefia,Zosma,Zzaniah Prime,Skitter,Euphoria III,Cyberstan decay changed to 500.0 and Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 5.0 and Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Troost,Ubanea,Vandalon IV decay changed to 1.0 (2024-03-05 19:00)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-03-05 20:17)<br/>
 ↳ *Veld* liberation campaign starts (2024-03-05 20:17)<br/>
 *Ustotu* of the Trigon sector is attacked by Automatons (2024-03-05 20:21)<br/>
+Decay changes: Veld decay changed to 5.0 (2024-03-05 22:00)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Troost,Ubanea,Vandalon IV decay changed to 1.25 (2024-03-06 00:00)<br/>
 *Veld* is liberated (2024-03-06 01:31)<br/>
 ↳ Orion sector is fully liberated (2024-03-06 01:31)<br/>
+Decay changes: Veld decay changed to 500.0 (2024-03-06 02:00)<br/>
 
 ### Day: #28
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-03-06 12:56)<br/>
 ↳ *Angel's Venture* liberation campaign starts (2024-03-06 12:56)<br/>
 ↳ *Meridia* liberation campaign ends (2024-03-06 12:56)<br/>
 ↳ *Turing* liberation campaign ends (2024-03-06 12:56)<br/>
+Decay changes: Angel's Venture decay changed to 5.0 (2024-03-06 14:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Angel's Venture,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 4.0 (2024-03-06 16:00)<br/>
 *Angel's Venture* is liberated (2024-03-06 17:39)<br/>
 ↳ Orion sector is fully liberated (2024-03-06 17:39)<br/>
 ↳ *Meridia* liberation campaign starts (2024-03-06 17:39)<br/>
@@ -233,6 +239,8 @@ War monitoring satellites are launched, allowing helldiver counts and planet lib
 *Ustotu* defense is failed (2024-03-06 20:21)<br/>
 ↳ *Ustotu* liberation campaign starts (2024-03-06 20:21)<br/>
 ↳ *Vandalon IV* is still accessible despite being cut off (2024-03-06 20:21)<br/>
+Decay changes: Angel's Venture decay changed to 500.0 (2024-03-06 20:21)<br/>
+Decay changes: Ustotu decay changed to 1.25 (2024-03-06 22:00)<br/>
 ↳ *Vandalon IV* liberation campaign ends (2024-03-06 23:56)<br/>
 Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets. Your fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive. (2024-03-07 05:10)<br/>
 
@@ -249,18 +257,30 @@ Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Object
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49)<br/>
 Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51)<br/>
 Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate *Tien Kwan*, before its too late. (2024-03-07 14:29)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 2.0 (2024-03-07 14:29)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 4.0 (2024-03-07 16:00)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 5.0 (2024-03-07 18:00)<br/>
 *Angel's Venture* of the Orion sector is attacked by Terminids (2024-03-07 19:35)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 5.0 and Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 7.5 (2024-03-07 19:35)<br/>
 Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-07 21:12)<br/>
 
 # Day: #30
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 7.0 (2024-03-08 09:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 2.5 and Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 6.5 (2024-03-08 10:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.5 and Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 4.0 (2024-03-08 12:00)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 6.0 (2024-03-08 14:00)<br/>
 *Tien Kwan* is liberated (2024-03-08 15:48)<br/>
 ↳ Theseus sector is fully liberated (2024-03-08 15:48)<br/>
 ↳ Major Order | Operation Patriot is won | Objective: Liberate (2024-03-08 15:48)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Tien Kwan,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 6.5 (2024-03-08 15:48)<br/>
 Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (2024-03-08 15:51)<br/>
+Decay changes: Tien Kwan decay changed to 500.0 (2024-03-08 18:00)<br/>
 *Angel's Venture* defense is failed (2024-03-08 19:39)<br/>
 ↳ *Angel's Venture* liberation campaign starts (2024-03-08 19:39)<br/>
 ↳ *Meridia* is still accessible despite being cut off (2024-03-08 19:39)<br/>
 ↳ *Turing* is still accessible despite being cut off (2024-03-08 19:39)<br/>
+Decay changes: Durgen,Draupnir,Maia,Malevelon Creek,Tibit,Troost,Ubanea,Ustotu,Vandalon IV decay changed to 1.5 (2024-03-08 19:39)<br/>
+Decay changes: Angel's Venture decay changed to 1.5 (2024-03-08 22:00)<br/>
 
 ### Day: #31
 
@@ -269,24 +289,33 @@ Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Ma
 ### Day: #33
 *Angel's Venture* is liberated (2024-03-11 19:57)<br/>
 ↳ Orion sector is fully liberated (2024-03-11 19:57)<br/>
+Decay changes: Angel's Venture decay changed to 500.0 (2024-03-11 22:00)<br/>
 
 ### Day: #34
 Major Order | Operation TCS Activation is issued | Objective: Liberate (2024-03-12 13:46)<br/>
 Dispatch: Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. However, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens. The Terminid Control System must be activated--at any cost. (2024-03-12 13:47)<br/>
 Dispatch: NEW MAJOR ORDER. Activate Terminid Control System (2024-03-12 13:47)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 4.5 (2024-03-12 16:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 4.0 (2024-03-13 02:00)<br/>
 
 ### Day: #35
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 2.0 (2024-03-13 09:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.5 (2024-03-13 12:00)<br/>
 *Fenrir III* is liberated (2024-03-13 22:03)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-13 22:03)<br/>
 Dispatch: FENRIR III SECURED. The Terminid Control System is now fully activated on *Fenrir III*. (2024-03-13 22:29)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 3.0 and Fenrir III decay changed to 500.0 (2024-03-14 00:00)<br/>
 
 ### Day: #36
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.5 (2024-03-14 10:00)<br/>
 *Turing* is liberated (2024-03-14 19:31)<br/>
 Dispatch: TURING SECURED. The Terminid Control System is now fully activated on *Turing*. (2024-03-14 19:46)<br/>
 Dispatch: The TCS has been fully activated on half of the Barrier Planets. (2024-03-14 19:47)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2024-03-14 21:13)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 3.0 and Turing decay changed to 500.0 (2024-03-14 21:13)<br/>
 
 ### Day: #37
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 4.0 (2024-03-15 09:00)<br/>
 *Heeth* defense is won (2024-03-15 16:31)<br/>
 ↳ Orion sector is fully liberated (2024-03-15 16:31)<br/>
 Dispatch: HEETH DEFENDED. After countless noble and unavoidable sacrifices, *Heeth* has been defended from the Terminids. (2024-03-15 18:41)<br/>
@@ -294,9 +323,11 @@ Dispatch: HEETH DEFENDED. After countless noble and unavoidable sacrifices, *Hee
 ↳ *Estanu* liberation campaign starts (2024-03-15 19:22)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-03-15 19:22)<br/>
 Dispatch: MERIDIA SECURED. The Terminid Control System is now fully activated on *Meridia*. (2024-03-15 19:24)<br/>
+Decay changes: Hellmire,Azur Secundus,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Erata Prime,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 5.0 and Meridia decay changed to 500.0 (2024-03-15 20:00)<br/>
 *Erata Prime* is liberated (2024-03-16 03:50)<br/>
 ↳ Umlaut sector is fully liberated (2024-03-16 03:50)<br/>
 ↳ Major Order | Operation TCS Activation is won | Objective: Liberate (2024-03-16 03:50)<br/>
+Decay changes: Erata Prime decay changed to 500.0 (2024-03-16 06:00)<br/>
 Dispatch: ERATA PRIME SECURED. The Terminid Control System is now fully activated on *Erata Prime*. (2024-03-16 07:47)<br/>
 Dispatch: The Terminid Control System is fully activated. The Termicide is working as intended, culling millions of Terminids on the Barrier Planets. Our citizens may finally rest easy, knowing their children are forever safe from being eaten alive by fascist insects. (2024-03-16 07:47)<br/>
 
@@ -305,12 +336,14 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
 ### Day: #39
 *Estanu* is liberated (2024-03-17 19:55)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-03-17 19:55)<br/>
+Decay changes: Estanu decay changed to 500.0 (2024-03-17 22:00)<br/>
 
 # Day: #40
 *Estanu* of the Draco sector is attacked by Terminids (2024-03-18 12:11)<br/>
 *Draupnir* is liberated (2024-03-18 16:11)<br/>
 ↳ Xzar sector is fully liberated (2024-03-18 16:11)<br/>
 ↳ *Ubanea* liberation campaign starts (2024-03-18 16:11)<br/>
+Decay changes: Draupnir decay changed to 500.0 (2024-03-18 18:00)<br/>
 
 ### Day: #41
 *Estanu* defense is failed (2024-03-19 12:14)<br/>
@@ -318,10 +351,14 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
 ↳ *Estanu* liberation campaign starts (2024-03-19 12:14)<br/>
 ↳ *Fori Prime* is still accessible despite being cut off (2024-03-19 12:14)<br/>
 ↳ *Fori Prime* liberation campaign ends (2024-03-19 13:47)<br/>
+Decay changes: Estanu decay changed to 5.0 (2024-03-19 13:47)<br/>
 Major Order | Operation Prime Liberation is issued | Objective: Liberate (2024-03-19 16:13)<br/>
 Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets. (2024-03-19 16:13)<br/>
+Decay changes: Hellmire,Azur Secundus,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 3.0 (2024-03-19 18:00)<br/>
+Decay changes: Hellmire,Azur Secundus,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.5 (2024-03-20 00:00)<br/>
 *Estanu* is liberated (2024-03-20 05:15)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-03-20 05:15)<br/>
+Decay changes: Estanu decay changed to 500.0 (2024-03-20 06:00)<br/>
 
 ### Day: #42
 
@@ -341,24 +378,31 @@ Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-
 ↳ Draco sector is fully liberated (2024-03-23 19:46)<br/>
 *Crimsica* of the Draco sector instantly flips to Terminid control (2024-03-23 22:47)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-03-23 22:47)<br/>
+Decay changes: Crimsica decay changed to 500.0 (2024-03-23 22:47)<br/>
+Decay changes: Hellmire,Azur Secundus,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.0 (2024-03-24 00:00)<br/>
 *Crimsica* is liberated (2024-03-24 02:26)<br/>
 ↳ Draco sector is fully liberated (2024-03-24 02:26)<br/>
+Decay changes: Crimsica decay changed to 500.0 (2024-03-24 04:00)<br/>
 
 ### Day: #46
 *Mantes* of the Xzar sector is attacked by Automatons (2024-03-24 12:45)<br/>
 *Hellmire* is liberated (2024-03-24 12:57)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-03-24 12:57)<br/>
+Decay changes: Hellmire decay changed to 500.0 (2024-03-24 14:00)<br/>
 *Oshaune* is liberated (2024-03-24 19:58)<br/>
 ↳ *Omicron* liberation campaign starts (2024-03-24 19:58)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-03-24 21:47)<br/>
+Decay changes: Oshaune decay changed to 500.0 (2024-03-24 21:47)<br/>
 *Hellmire* of the Mirin sector instantly flips to Terminid control (2024-03-24 21:59)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-24 21:59)<br/>
 ↳ *Nivel 43* liberation campaign ends (2024-03-24 21:59)<br/>
 *Maia* - *Vandalon IV* supply line is added (2024-03-24 22:49)<br/>
 *Ingmar* - *Vandalon IV* supply line is added (2024-03-24 22:49)<br/>
 *Vandalon IV* is not accessible despite connecting to the liberated world of *Ingmar* (2024-03-24 22:49)<br/>
+Decay changes: Hellmire decay changed to 1.0 (2024-03-24 22:49)<br/>
 *Hellmire* is liberated (2024-03-25 02:00)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-03-25 02:00)<br/>
+Decay changes: Hellmire decay changed to 500.0 (2024-03-25 04:00)<br/>
 
 ### Day: #47
 *Mantes* defense is failed (2024-03-25 12:47)<br/>
@@ -366,6 +410,7 @@ Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-
 *Oshaune* defense is failed (2024-03-25 21:47)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-03-25 21:47)<br/>
 ↳ *Omicron* liberation campaign ends (2024-03-25 21:47)<br/>
+Decay changes: Oshaune decay changed to 1.0 (2024-03-26 00:00)<br/>
 *Maia* - *Vandalon IV* supply line is removed (2024-03-26 04:06)<br/>
 
 ### Day: #48
@@ -374,61 +419,76 @@ Major Order | Operation Swift Disassembly Phase One is issued | Objective: Liber
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-03-26 21:02)<br/>
 *Mantes* is liberated (2024-03-26 21:12)<br/>
 ↳ Xzar sector is fully liberated (2024-03-26 21:12)<br/>
+Decay changes: Mantes decay changed to 500.0 (2024-03-26 22:00)<br/>
 
 ### Day: #49
 *Oshaune* is liberated (2024-03-27 13:21)<br/>
 ↳ *Omicron* liberation campaign starts (2024-03-27 13:21)<br/>
 *Ustotu* is liberated (2024-03-27 15:31)<br/>
 ↳ *Vandalon IV* liberation campaign starts (2024-03-27 15:31)<br/>
+Decay changes: Oshaune decay changed to 500.0 (2024-03-27 15:31)<br/>
 *Hellmire* defense is failed (2024-03-27 21:04)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-27 21:04)<br/>
 ↳ *Nivel 43* liberation campaign ends (2024-03-27 21:04)<br/>
+Decay changes: Hellmire decay changed to 1.0 (2024-03-27 22:00)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-03-28 08:13)<br/>
 
 # Day: #50
 *Vandalon IV* is liberated (2024-03-28 15:44)<br/>
 ↳ *Troost* liberation campaign starts (2024-03-28 15:44)<br/>
+Decay changes: Troost decay changed to 0.0 and Vandalon IV decay changed to 500.0 (2024-03-28 16:00)<br/>
 *Oshaune* defense is failed (2024-03-29 08:14)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-03-29 08:14)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-03-29 08:14)<br/>
 ↳ *Omicron* is still accessible despite being cut off (2024-03-29 08:14)<br/>
 
 ### Day: #51
+Decay changes: Oshaune decay changed to 1.0 (2024-03-29 09:00)<br/>
 *Troost* is liberated (2024-03-29 12:39)<br/>
 ↳ Trigon sector is fully liberated (2024-03-29 12:39)<br/>
 ↳ Major Order | Operation Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-03-29 12:51)<br/>
+Decay changes: Troost decay changed to 500.0 (2024-03-29 12:51)<br/>
 Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53)<br/>
 *Omicron* liberation campaign ends (2024-03-29 13:47)<br/>
 *Draupnir* of the Xzar sector is attacked by Automatons (2024-03-29 19:05)<br/>
+Decay changes: Durgen,Maia,Tibit decay changed to 1.0 and Malevelon Creek,Ubanea decay changed to 0.5 (2024-03-29 20:00)<br/>
+Decay changes: Durgen,Tibit decay changed to 0.5 (2024-03-29 22:00)<br/>
 
 ### Day: #52
 *Fori Prime* defense is failed (2024-03-30 12:52)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-03-30 12:52)<br/>
 ↳ *Oshaune* is still accessible despite being cut off (2024-03-30 12:52)<br/>
+Decay changes: Fori Prime decay changed to 1.0 (2024-03-30 14:00)<br/>
 *Draupnir* defense is failed (2024-03-30 19:05)<br/>
 ↳ *Draupnir* liberation campaign starts (2024-03-30 19:05)<br/>
 ↳ *Ubanea* is still accessible despite being cut off (2024-03-30 19:05)<br/>
 ↳ *Ubanea* liberation campaign ends (2024-03-30 19:25)<br/>
+Decay changes: Draupnir decay changed to 0.5 (2024-03-30 19:25)<br/>
 *Oshaune* liberation campaign ends (2024-03-30 19:28)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-03-30 20:55)<br/>
+Decay changes: Maia decay changed to 0.5 (2024-03-30 22:00)<br/>
 
 ### Day: #53
 *Estanu* defense is won (2024-03-31 20:12)<br/>
 *Draupnir* is liberated (2024-03-31 21:28)<br/>
 ↳ Xzar sector is fully liberated (2024-03-31 21:28)<br/>
 ↳ *Ubanea* liberation campaign starts (2024-03-31 21:28)<br/>
+Decay changes: Draupnir decay changed to 500.0 (2024-03-31 22:00)<br/>
 *Ubanea* is liberated (2024-04-01 03:38)<br/>
 ↳ *Durgen* liberation campaign starts (2024-04-01 03:38)<br/>
 ↳ *Tibit* liberation campaign starts (2024-04-01 03:38)<br/>
+Decay changes: Ubanea decay changed to 500.0 (2024-04-01 04:00)<br/>
 
 ### Day: #54
 Major Order | Operation Swift Disassembly Phase Two is failed | Objective: Liberate (2024-04-01 13:00)<br/>
 Major Order | Operation Creek Liberation is issued | Objective: Liberate (2024-04-01 13:04)<br/>
+Decay changes: Durgen,Maia,Malevelon Creek,Tibit decay changed to 1.5 (2024-04-01 14:00)<br/>
 *Malevelon Creek* is liberated (2024-04-01 17:22)<br/>
 ↳ *Maia* liberation campaign starts (2024-04-01 17:22)<br/>
 ↳ Major Order | Operation Creek Liberation is won | Objective: Liberate (2024-04-01 17:23)<br/>
 *Ubanea* of the Severin sector is attacked by Automatons (2024-04-01 17:33)<br/>
+Decay changes: Malevelon Creek decay changed to 500.0 (2024-04-01 17:33)<br/>
 Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Control (2024-04-01 17:44)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-01 17:45)<br/>
 *Ubanea* defense is won (2024-04-02 05:09)<br/>
@@ -440,6 +500,7 @@ Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Con
 *Malevelon Creek* defense is won (2024-04-02 17:01)<br/>
 *Crimsica* defense is failed (2024-04-02 17:47)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-04-02 17:47)<br/>
+Decay changes: Crimsica decay changed to 1.0 (2024-04-02 20:00)<br/>
 *Ubanea* defense is won (2024-04-02 23:05)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-04-03 07:41)<br/>
 
@@ -459,10 +520,13 @@ Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Cont
 ↳ *Fori Prime* liberation campaign ends (2024-04-05 07:54)<br/>
 
 ### Day: #58
+Decay changes: Durgen,Maia,Tibit decay changed to 0.5 and Estanu decay changed to 1.0 (2024-04-05 09:00)<br/>
 *Maia* is liberated (2024-04-05 23:17)<br/>
+Decay changes: Maia decay changed to 500.0 (2024-04-06 00:00)<br/>
 
 ### Day: #59
 *Tibit* is liberated (2024-04-07 02:36)<br/>
+Decay changes: Tibit decay changed to 500.0 (2024-04-07 04:00)<br/>
 
 # Day: #60
 *Durgen* is liberated (2024-04-07 19:22)<br/>
@@ -470,11 +534,14 @@ Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Cont
 ↳ Automaton first wave is eradicated (2024-04-07 19:22)<br/>
 ↳ Major Order | Operation Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22)<br/>
 Major Order | Operation E-710 Farms is issued | Objective: Liberate (2024-04-07 20:06)<br/>
+Decay changes: Durgen decay changed to 500.0 (2024-04-07 20:06)<br/>
 *Estanu* is liberated (2024-04-08 05:24)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-04-08 05:24)<br/>
+Decay changes: Estanu decay changed to 500.0 (2024-04-08 06:00)<br/>
 
 ### Day: #61
 *Crimsica* is liberated (2024-04-08 12:28)<br/>
+Decay changes: Crimsica decay changed to 500.0 (2024-04-08 14:00)<br/>
 *Hellmire* is liberated (2024-04-09 05:10)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-04-09 05:10)<br/>
 
@@ -513,6 +580,7 @@ Automaton second wave starts (2024-04-09 11:41)<br/>
 ↳ Emergency Dispatch | Reclamation Emergency Defense is issued (2024-04-09 11:47)<br/>
 Major Order | Operation E-710 Farms is won | Objective: Liberate (2024-04-09 12:02)<br/>
 Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-04-09 12:02)<br/>
+Decay changes: Azur Secundus,Trandor,Aurora Bay,Penta,Choohe,Enuliale,Epsilon Phoencis VI,Fori Prime,Mekbuda,Merak,Merga IV,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Vindemitarix Prime,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron,Cyberstan decay changed to 1.5 (2024-04-09 12:02)<br/>
 *Choohe* - *Matar Bay* supply line is added (2024-04-09 12:15)<br/>
 *Matar Bay* - *Marfark* supply line is added (2024-04-09 12:15)<br/>
 *Marfark* - *Aesir Pass* supply line is added (2024-04-09 12:15)<br/>
@@ -533,6 +601,7 @@ Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-0
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-04-10 11:49)<br/>
 *Menkent* of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-10 11:50)<br/>
+Decay changes: Chort Bay,Lesath decay changed to 1.5 (2024-04-10 14:00)<br/>
 *Vernen Wells* defense is won (2024-04-11 06:11)<br/>
 
 ### Day: #64
@@ -545,6 +614,7 @@ Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-0
 *Matar Bay* defense is failed (2024-04-11 11:53)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-04-11 11:53)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-11 11:53)<br/>
+Decay changes: Matar Bay,Menkent decay changed to 1.5 (2024-04-11 14:00)<br/>
 
 ### Day: #65
 *Vernen Wells* defense is won (2024-04-12 10:22)<br/>
@@ -555,8 +625,10 @@ Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-0
 *Marfark* defense is failed (2024-04-12 11:52)<br/>
 ↳ *Marfark* liberation campaign starts (2024-04-12 11:52)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-12 11:52)<br/>
+Decay changes: Aurora Bay,Penta,Choohe,Chort Bay,Lesath,Matar Bay,Mekbuda,Menkent,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 1.0 (2024-04-12 11:52)<br/>
 Major Order | Operation Courageous Defense is failed | Objective: Defend (2024-04-12 11:59)<br/>
 Major Order | Operation *Menkent* Line is issued | Objective: Control (2024-04-12 12:00)<br/>
+Decay changes: Marfark,Martale decay changed to 1.0 (2024-04-12 14:00)<br/>
 
 ### Day: #66
 *Crimsica* defense is failed (2024-04-13 10:33)<br/>
@@ -571,31 +643,39 @@ Major Order | Operation *Menkent* Line is issued | Objective: Control (2024-04-1
 ↳ Hydra sector is fully liberated (2024-04-14 05:17)<br/>
 ↳ *Choohe* liberation campaign starts (2024-04-14 05:17)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-04-14 05:17)<br/>
+Decay changes: Fori Prime decay changed to 500.0 (2024-04-14 05:17)<br/>
+Decay changes: Choohe,Chort Bay decay changed to 0.0 and Menkent decay changed to 500.0 (2024-04-14 06:00)<br/>
 
 ### Day: #67
 *Menkent* of the Hydra sector is attacked by Automatons (2024-04-14 17:22)<br/>
 *Lesath* is liberated (2024-04-14 21:23)<br/>
 ↳ *Penta* liberation campaign starts (2024-04-14 21:23)<br/>
+Decay changes: Penta decay changed to 0.0 and Lesath decay changed to 500.0 (2024-04-14 22:00)<br/>
 *Menkent* defense is won (2024-04-15 04:56)<br/>
 ↳ Hydra sector is fully liberated (2024-04-15 04:56)<br/>
 
 ### Day: #68
 *Crimsica* is liberated (2024-04-15 13:24)<br/>
 ↳ Draco sector is fully liberated (2024-04-15 13:24)<br/>
+Decay changes: Crimsica decay changed to 500.0 (2024-04-15 14:00)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-04-16 07:57)<br/>
 
 ### Day: #69
 Major Order | Operation *Menkent* Line is won | Objective: Control (2024-04-16 12:09)<br/>
+Decay changes: Aurora Bay,Penta,Choohe,Chort Bay,Marfark,Martale,Matar Bay,Mekbuda,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 2.0 (2024-04-16 16:00)<br/>
 Major Order | Operation *Marfark* defense is issued | Objective: Control (2024-04-17 03:17)<br/>
 *Fori Prime* defense is failed (2024-04-17 08:00)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-04-17 08:00)<br/>
 ↳ *Oshaune* liberation campaign ends (2024-04-17 08:00)<br/>
 *Marfark* is liberated (2024-04-17 08:47)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-04-17 08:47)<br/>
+Decay changes: Fori Prime decay changed to 1.0 (2024-04-17 08:47)<br/>
 
 # Day: #70
+Decay changes: Marfark decay changed to 500.0 (2024-04-17 10:00)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-18 07:37)<br/>
 Major Order | Operation *Marfark* Defense is won | Objective: Control (2024-04-18 07:51)<br/>
+Decay changes: Aurora Bay,Penta,Choohe,Chort Bay,Martale,Matar Bay,Mekbuda,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 1.0 (2024-04-18 07:51)<br/>
 *Matar Bay* - *Meissa* supply line is added (2024-04-18 07:54)<br/>
 *Meissa* - *Wasat* supply line is added (2024-04-18 07:54)<br/>
 *Wasat* - *X-45* supply line is added (2024-04-18 07:54)<br/>
@@ -607,6 +687,7 @@ Major Order | Operation *Marfark* Defense is won | Objective: Control (2024-04-1
 
 ### Day: #71
 Major Order | Operation Organic Harvest is issued | Objective: Eradicate (2024-04-18 10:31)<br/>
+Decay changes: Fori Prime decay changed to 500.0 (2024-04-18 10:31)<br/>
 *Estanu* defense is won (2024-04-18 20:42)<br/>
 ↳ Draco sector is fully liberated (2024-04-18 20:42)<br/>
 Major Order | Operation Organic Harvest is won | Objective: Eradicate (2024-04-18 23:10)<br/>
@@ -614,6 +695,7 @@ Major Order | Operation Organic Harvest is won | Objective: Eradicate (2024-04-1
 ### Day: #72
 *Oshaune* is liberated (2024-04-19 12:08)<br/>
 ↳ *Omicron* liberation campaign starts (2024-04-19 12:08)<br/>
+Decay changes: Oshaune decay changed to 500.0 (2024-04-19 14:00)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-04-19 15:07)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-19 15:07)<br/>
 Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-19 15:07)<br/>
@@ -629,6 +711,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 *Choepessa IV* - *Charon Prime* supply line is added (2024-04-20 10:41)<br/>
 *Choepessa IV* - *Charbal-VII* supply line is added (2024-04-20 10:41)<br/>
 *Mort* - *Charbal-VII* supply line is added (2024-04-20 10:41)<br/>
+Decay changes: Aurora Bay,Penta,Choohe,Chort Bay,Martale,Matar Bay,Mekbuda,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 0.5 (2024-04-20 10:41)<br/>
 *Oshaune* defense is failed (2024-04-20 15:08)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-04-20 15:08)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-04-20 15:08)<br/>
@@ -646,6 +729,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 ↳ *Martale* liberation campaign ends (2024-04-20 15:12)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-20 15:12)<br/>
 *Meissa* of the Ymir sector is attacked by Automatons (2024-04-20 15:13)<br/>
+Decay changes: Charon Prime,Lesath,Marfark decay changed to 0.5 and Oshaune decay changed to 1.0 (2024-04-20 16:00)<br/>
 
 ### Day: #74
 
@@ -661,6 +745,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 ↳ *Meissa* liberation campaign starts (2024-04-22 20:30)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-22 20:30)<br/>
 *Menkent* of the Hydra sector is attacked by Automatons (2024-04-22 20:39)<br/>
+Decay changes: Vernen Wells decay changed to 0.5 (2024-04-22 20:39)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2024-04-22 20:41)<br/>
 *Aesir Pass* - *Curia* supply line is added (2024-04-22 20:49)<br/>
 *Aesir Pass* - *Tarsh* supply line is added (2024-04-22 20:49)<br/>
@@ -668,6 +753,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 *Tarsh* - *Mastia* supply line is added (2024-04-22 20:49)<br/>
 *Curia* - *Fenmire* supply line is added (2024-04-22 20:49)<br/>
 *Fenmire* - *Barabos* supply line is added (2024-04-22 20:49)<br/>
+Decay changes: Meissa decay changed to 0.5 (2024-04-22 20:49)<br/>
 *Estanu* defense is won (2024-04-23 05:19)<br/>
 ↳ Draco sector is fully liberated (2024-04-23 05:19)<br/>
 
@@ -686,8 +772,10 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 *Mort* of the Xzar sector is attacked by Automatons (2024-04-23 20:45)<br/>
 *Oshaune* is liberated (2024-04-24 03:35)<br/>
 ↳ *Omicron* liberation campaign starts (2024-04-24 03:35)<br/>
+Decay changes: Oshaune decay changed to 500.0 (2024-04-24 04:00)<br/>
 
 ### Day: #77
+Decay changes: Aurora Bay,Penta,Charon Prime,Choohe,Chort Bay,Lesath,Martale,Matar Bay,Mekbuda,Menkent,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 1.0 (2024-04-24 09:00)<br/>
 *Mort* defense is won (2024-04-24 11:14)<br/>
 ↳ Xzar sector is fully liberated (2024-04-24 11:14)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2024-04-24 11:28)<br/>
@@ -708,6 +796,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 *Ustotu* defense is won (2024-04-25 12:46)<br/>
 ↳ Major Order | Operation Enduring Bulwark is won | Objective: Defend (2024-04-25 13:43)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-25 19:26)<br/>
+Decay changes: Charbal-VII,Choepessa IV,Lesath,Marfark,Meissa,Menkent decay changed to 1.0 (2024-04-25 19:26)<br/>
 
 ### Day: #79
 Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06)<br/>
@@ -718,6 +807,7 @@ Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: 
 ↳ *Penta* liberation campaign starts (2024-04-27 08:45)<br/>
 
 # Day: #80
+Decay changes: Penta,Chort Bay decay changed to 0.0 and Lesath decay changed to 500.0 (2024-04-27 10:00)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-04-27 19:51)<br/>
 
 ### Day: #81
@@ -741,32 +831,43 @@ Major Order | Operation Legitimate Undertaking Phase One is failed | Objective: 
 *Meridia* - *Angel's Venture* supply line is removed (2024-04-29 14:22)<br/>
 *Meridia* is not accessible despite connecting to the liberated world of *Crimsica* (2024-04-29 14:22)<br/>
 *Meridia* is not accessible despite connecting to the liberated world of *Estanu* (2024-04-29 14:22)<br/>
+Decay changes: Charbal-VII,Choepessa IV,Chort Bay,Marfark,Meissa,Menkent,Merak decay changed to 1.0 (2024-04-29 14:22)<br/>
 Major Order | Operation Umlaut Firebreak is issued | Objective: Liberate (2024-04-29 14:24)<br/>
 Emergency Dispatch | TCS Failure Emergency defense is issued (2024-04-29 14:28)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-29 14:31)<br/>
+Decay changes: Hellmire,Azur Secundus,Meridia,Trandor,Fenrir III,Turing,Enuliale,Epsilon Phoencis VI,Erata Prime,Nabatea Secundus,Navi VII,Nivel 43,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 3.0 (2024-04-29 14:31)<br/>
+Decay changes: Fenrir III,Turing,Erata Prime decay changed to 4.0 (2024-04-29 16:00)<br/>
+Decay changes: Fenrir III decay changed to 3.5 (2024-04-30 08:00)<br/>
 
 ### Day: #83
 *Crimsica* defense is failed (2024-04-30 14:33)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-04-30 14:33)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-30 14:38)<br/>
+Decay changes: Crimsica decay changed to 3.0 (2024-04-30 16:00)<br/>
+Decay changes: Fenrir III decay changed to 3.0 (2024-05-01 00:00)<br/>
 
 ### Day: #84
 *Fenrir III* is liberated (2024-05-01 13:12)<br/>
 *Estanu* defense is failed (2024-05-01 14:40)<br/>
 ↳ *Estanu* liberation campaign starts (2024-05-01 14:40)<br/>
+Decay changes: Estanu decay changed to 3.0 (2024-05-01 16:00)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-05-01 18:47)<br/>
+Decay changes: Turing decay changed to 3.5 (2024-05-01 18:47)<br/>
 *Meridia* of the Umlaut sector's supply lines are obliterated (2024-05-01 19:40)<br/>
 *Penta* of the Lacaille sector is attacked by Automatons (2024-05-02 07:57)<br/>
 
 ### Day: #85
+Decay changes: Hellmire,Azur Secundus,Meridia,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Estanu,Nabatea Secundus,Navi VII,Nivel 43,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 2.5 and Turing decay changed to 3.0 (2024-05-02 09:00)<br/>
 *Oshaune* defense is failed (2024-05-02 18:50)<br/>
 ↳ Mirin sector is fully under Terminid control (2024-05-02 18:50)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-05-02 18:50)<br/>
 ↳ *Omicron* liberation campaign ends (2024-05-02 18:50)<br/>
+Decay changes: Oshaune decay changed to 2.5 (2024-05-02 20:00)<br/>
 *Penta* defense is failed (2024-05-03 08:00)<br/>
 ↳ *Penta* liberation campaign starts (2024-05-03 08:00)<br/>
 ↳ *Merak* liberation campaign ends (2024-05-03 08:00)<br/>
 *X-45* of the Ymir sector's supply lines are obliterated (2024-05-03 08:26)<br/>
+Decay changes: Penta decay changed to 1.0 (2024-05-03 08:26)<br/>
 *Ivis* - *Fort Union* supply line is removed (2024-05-03 08:31)<br/>
 *Ivis* - *Moradesh* supply line is removed (2024-05-03 08:31)<br/>
 *Ivis* - *Slif* supply line is removed (2024-05-03 08:31)<br/>
@@ -782,6 +883,7 @@ Emergency Dispatch | TCS Failure Emergency defense is issued (2024-04-29 14:28)<
 ↳ *Oshaune* liberation campaign ends (2024-05-04 13:33)<br/>
 ↳ *Estanu* liberation campaign ends (2024-05-04 13:33)<br/>
 ↳ *Crimsica* liberation campaign ends (2024-05-04 13:33)<br/>
+Decay changes: Fori Prime decay changed to 2.5 (2024-05-04 14:00)<br/>
 *Erata Prime* is liberated (2024-05-05 07:06)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-05-05 08:11)<br/>
 Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-05 08:36)<br/>
@@ -805,16 +907,20 @@ Major Order | Operation Umlaut Firebreak is won | Objective: Liberate (2024-05-0
 ↳ *Acamar IV* liberation campaign starts (2024-05-06 13:48)<br/>
 Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-05-06 13:50)<br/>
+Decay changes: Heeth,Veld decay changed to 3.0 and Angel's Venture decay changed to 2.5 and Acamar IV decay changed to 3.5 (2024-05-06 16:00)<br/>
 *Turing* - *Acamar IV* supply line is added (2024-05-06 20:46)<br/>
 
 # Day: #90
+Decay changes: Heeth,Veld decay changed to 2.5 and Acamar IV decay changed to 3.0 (2024-05-07 10:00)<br/>
 *Pandion-XXIV* defense is failed (2024-05-07 13:54)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2024-05-07 13:54)<br/>
+Decay changes: Pandion-XXIV decay changed to 2.5 (2024-05-07 16:00)<br/>
 *Heeth* is liberated (2024-05-07 20:53)<br/>
 
 ### Day: #91
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-08 15:15)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-05-08 15:16)<br/>
+Decay changes: Veld,Angel's Venture,Acamar IV decay changed to 1.5 (2024-05-08 15:16)<br/>
 *Angel's Venture* is liberated (2024-05-08 23:22)<br/>
 
 ### Day: #92
@@ -825,6 +931,7 @@ Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Libera
 ↳ *Lesath* liberation campaign starts (2024-05-09 15:18)<br/>
 ↳ *Chort Bay* liberation campaign ends (2024-05-09 15:18)<br/>
 ↳ *Penta* liberation campaign ends (2024-05-09 15:18)<br/>
+Decay changes: Lesath decay changed to 1.0 (2024-05-09 16:00)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-05-09 18:55)<br/>
 *Veld* is liberated (2024-05-10 04:48)<br/>
 ↳ Orion sector is fully liberated (2024-05-10 04:48)<br/>
@@ -836,6 +943,7 @@ Major Order | Operation Metallic Harvest is issued | Objective: Eradicate (2024-
 *Phact Bay* defense is failed (2024-05-10 19:00)<br/>
 ↳ *Phact Bay* liberation campaign starts (2024-05-10 19:00)<br/>
 ↳ *Pandion-XXIV* liberation campaign ends (2024-05-10 19:00)<br/>
+Decay changes: Phact Bay decay changed to 2.5 (2024-05-10 20:00)<br/>
 *Vernen Wells* defense is won (2024-05-11 07:00)<br/>
 
 ### Day: #94
@@ -851,9 +959,11 @@ Major Order | Operation Metallic Harvest is issued | Objective: Eradicate (2024-
 *Wasat* defense is failed (2024-05-12 19:03)<br/>
 ↳ *Wasat* liberation campaign starts (2024-05-12 19:03)<br/>
 ↳ *Meissa* liberation campaign ends (2024-05-12 19:03)<br/>
+Decay changes: Wasat decay changed to 1.0 (2024-05-12 20:00)<br/>
 *Lesath* is liberated (2024-05-13 03:36)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-05-13 03:36)<br/>
 ↳ *Penta* liberation campaign starts (2024-05-13 03:36)<br/>
+Decay changes: Lesath decay changed to 500.0 (2024-05-13 04:00)<br/>
 
 ### Day: #96
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-13 11:47)<br/>
@@ -870,6 +980,7 @@ Major Order | Operation SEAF Camps is issued | Objective: Control (2024-05-15 15
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-05-15 15:12)<br/>
 ↳ *Angel's Venture* liberation campaign starts (2024-05-15 15:12)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-05-15 15:13)<br/>
+Decay changes: Angel's Venture decay changed to 2.5 (2024-05-15 16:00)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-05-16 07:55)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-05-16 07:55)<br/>
 
@@ -884,6 +995,7 @@ Major Order | Operation SEAF Camps is issued | Objective: Control (2024-05-15 15
 *Fenrir III* is liberated (2024-05-16 16:18)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-05-16 16:18)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2024-05-16 18:35)<br/>
+Decay changes: Erata Prime decay changed to 1.0 (2024-05-16 20:00)<br/>
 
 # Day: #100
 *Heeth* defense is won (2024-05-17 19:17)<br/>
@@ -906,6 +1018,7 @@ Major Order | Operation Freedom's Calling is issued | Objective: Eradicate (2024
 ↳ *Lesath* liberation campaign starts (2024-05-19 12:04)<br/>
 ↳ *Chort Bay* liberation campaign ends (2024-05-19 12:04)<br/>
 ↳ *Penta* liberation campaign ends (2024-05-19 12:04)<br/>
+Decay changes: Lesath decay changed to 1.0 (2024-05-19 14:00)<br/>
 *Angel's Venture* defense is won (2024-05-19 21:59)<br/>
 ↳ Orion sector is fully liberated (2024-05-19 21:59)<br/>
 *Fenrir III* defense is won (2024-05-20 05:58)<br/>
@@ -921,25 +1034,31 @@ Major Order | Operation Freedom's Calling is issued | Objective: Eradicate (2024
 ↳ *Lesath* liberation campaign ends (2024-05-21 06:46)<br/>
 *Varylia 5* defense is failed (2024-05-21 08:44)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-05-21 08:44)<br/>
+Decay changes: Vernen Wells decay changed to 1.0 (2024-05-21 08:44)<br/>
 
 ### Day: #104
+Decay changes: Varylia 5 decay changed to 1.0 (2024-05-21 09:00)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-05-21 09:20)<br/>
 *Turing* defense is won (2024-05-21 23:30)<br/>
 
 ### Day: #105
 *Pandion-XXIV* is liberated (2024-05-22 22:29)<br/>
+Decay changes: Pandion-XXIV decay changed to 500.0 (2024-05-23 00:00)<br/>
+Decay changes: Varylia 5 decay changed to 3.5 (2024-05-23 08:00)<br/>
 
 ### Day: #106
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-05-23 11:16)<br/>
 *Wezen* of the Ymir sector is attacked by Automatons (2024-05-23 11:16)<br/>
 Major Order | Operation Freedom's Calling is failed | Objective: Eradicate (2024-05-23 15:42)<br/>
 Major Order | Operation Yellow Steel is issued | Objective: Liberate (2024-05-23 15:51)<br/>
+Decay changes: Varylia 5 decay changed to 5.0 (2024-05-24 00:00)<br/>
 
 ### Day: #107
 *Erata Prime* defense is failed (2024-05-24 11:19)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-05-24 11:19)<br/>
 *Wezen* defense is failed (2024-05-24 11:20)<br/>
 ↳ *Wezen* liberation campaign starts (2024-05-24 11:20)<br/>
+Decay changes: Wezen decay changed to 1.0 (2024-05-24 12:00)<br/>
 *Angel's Venture* of the Orion sector is attacked by Terminids (2024-05-24 19:29)<br/>
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-05-24 19:32)<br/>
 ↳ *Turing* liberation campaign starts (2024-05-24 19:32)<br/>
@@ -948,6 +1067,7 @@ Major Order | Operation Yellow Steel is issued | Objective: Liberate (2024-05-23
 *Angel's Venture* defense is won (2024-05-25 16:58)<br/>
 ↳ Orion sector is fully liberated (2024-05-25 16:58)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-25 18:23)<br/>
+Decay changes: Varylia 5 decay changed to 3.5 (2024-05-25 20:00)<br/>
 
 ### Day: #109
 *Varylia 5* is liberated (2024-05-26 14:28)<br/>
@@ -961,14 +1081,17 @@ Major Order | Operation Yellow Steel is issued | Objective: Liberate (2024-05-23
 ↳ Orion sector is fully liberated (2024-05-27 06:40)<br/>
 
 # Day: #110
+Decay changes: Meridia decay changed to 1.0 (2024-05-27 14:00)<br/>
 Major Order | Operation Enduring Peace Phase One is issued | Objective: Control (2024-05-27 15:14)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-05-27 15:57)<br/>
+Decay changes: Hellmire,Azur Secundus,Crimsica,Trandor,Enuliale,Epsilon Phoencis VI,Estanu,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Phact Bay,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 3.0 (2024-05-27 15:57)<br/>
 *Fenrir III* is liberated (2024-05-27 17:16)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-05-27 17:16)<br/>
 
 ### Day: #111
 *Veld* of the Orion sector is attacked by Terminids (2024-05-28 09:58)<br/>
 *Cirrus* of the Orion sector is attacked by Terminids (2024-05-28 09:59)<br/>
+Decay changes: Turing decay changed to 2.0 (2024-05-28 12:00)<br/>
 *Acamar IV* defense is failed (2024-05-28 16:01)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-05-28 16:01)<br/>
 *Turing* is liberated (2024-05-28 19:15)<br/>
@@ -977,6 +1100,7 @@ Major Order | Operation Enduring Peace Phase One is issued | Objective: Control 
 ### Day: #112
 *Cirrus* defense is failed (2024-05-29 10:02)<br/>
 ↳ *Cirrus* liberation campaign starts (2024-05-29 10:02)<br/>
+Decay changes: Cirrus decay changed to 1.0 (2024-05-29 12:00)<br/>
 *Cirrus* is liberated (2024-05-29 23:35)<br/>
 ↳ Orion sector is fully liberated (2024-05-29 23:35)<br/>
 *Acamar IV* is liberated (2024-05-30 05:22)<br/>
@@ -991,21 +1115,37 @@ Major Order | Operation Enduring Peace Phase One is won | Objective: Control (20
 ⤹ *Meridia* - *Crimsica* supply line is added (2024-05-30 15:35)<br/>
 ↳ *Meridia* liberation campaign starts (2024-05-30 15:35)<br/>
 Major Order | Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36)<br/>
+Decay changes: Meridia decay changed to 10.0 (2024-05-30 16:00)<br/>
+Decay changes: Meridia decay changed to 9.9 (2024-05-30 20:00)<br/>
 *Heeth* defense is won (2024-05-30 22:04)<br/>
 ↳ Orion sector is fully liberated (2024-05-30 22:04)<br/>
+Decay changes: Meridia decay changed to 9.5 (2024-05-31 00:00)<br/>
+Decay changes: Meridia decay changed to 8.7 (2024-05-31 06:00)<br/>
 
 ### Day: #114
+Decay changes: Meridia decay changed to 8.2 (2024-05-31 10:00)<br/>
+Decay changes: Meridia decay changed to 7.8 (2024-05-31 14:00)<br/>
+Decay changes: Meridia decay changed to 7.3 (2024-05-31 16:00)<br/>
+Decay changes: Meridia decay changed to 6.8 (2024-05-31 20:00)<br/>
+Decay changes: Meridia decay changed to 6.3 (2024-06-01 00:00)<br/>
 
 ### Day: #115
+Decay changes: Meridia decay changed to 5.5 (2024-06-01 09:00)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-06-01 15:19)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-01 15:19)<br/>
+Decay changes: Meridia decay changed to 4.5 (2024-06-01 20:00)<br/>
+Decay changes: Meridia decay changed to 3.8 (2024-06-01 22:00)<br/>
+Decay changes: Meridia decay changed to 2.4 (2024-06-02 06:00)<br/>
 
 ### Day: #116
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-06-02 09:52)<br/>
+Decay changes: Meridia decay changed to 1.6 (2024-06-02 12:00)<br/>
 *Turing* defense is failed (2024-06-02 15:21)<br/>
 ↳ *Turing* liberation campaign starts (2024-06-02 15:21)<br/>
+Decay changes: Meridia decay changed to 0.9 (2024-06-02 15:21)<br/>
 *Acamar IV* defense is failed (2024-06-02 15:22)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-06-02 15:22)<br/>
+Decay changes: Meridia decay changed to 0.0 and Turing decay changed to 3.5 and Acamar IV,Erata Prime decay changed to 2.5 (2024-06-02 18:00)<br/>
 *Meridia* is liberated via planetary implosion (2024-06-02 19:13)<br/>
 ↳ *Meridia* collapses into a black hole (2024-06-02 19:13)<br/>
 ↳ Major Order | Operation Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13)<br/>
@@ -1018,9 +1158,12 @@ Major Order | Operation Enduring Peace Phase Two is issued | Objective: Liberate
 Major Order | Operation Destiny Manifested is issued | Objective: Liberate (2024-06-03 18:46)<br/>
 *Vega Bay* defense is failed (2024-06-03 19:39)<br/>
 ↳ *Wasat* liberation campaign ends (2024-06-03 19:39)<br/>
+Decay changes: Turing decay changed to 2.5 (2024-06-03 19:39)<br/>
+Decay changes: Vega Bay decay changed to 1.0 (2024-06-03 20:00)<br/>
 *Turing* is liberated (2024-06-04 02:51)<br/>
 
 ### Day: #118
+Decay changes: Erata Prime decay changed to 1.5 (2024-06-04 16:00)<br/>
 *Tarsh* of the Marspira sector's supply lines are obliterated (2024-06-04 23:38)<br/>
 *Mastia* - *Shallus* supply line is added (2024-06-04 23:38)<br/>
 *Mastia* - *Shelt* supply line is added (2024-06-04 23:38)<br/>
@@ -1033,39 +1176,50 @@ Major Order | Operation Destiny Manifested is issued | Objective: Liberate (2024
 *Erata Prime* is liberated (2024-06-05 11:48)<br/>
 ↳ Umlaut sector is fully liberated (2024-06-05 11:48)<br/>
 *Aesir Pass* of the Hydra sector is attacked by Automatons (2024-06-05 15:40)<br/>
+Decay changes: Aesir Pass decay changed to 0.0 and Acamar IV decay changed to 1.5 (2024-06-05 18:00)<br/>
 
 # Day: #120
 *Acamar IV* is liberated (2024-06-06 13:27)<br/>
+Decay changes: Phact Bay decay changed to 1.0 (2024-06-06 13:27)<br/>
 *Aesir Pass* defense is failed (2024-06-06 15:43)<br/>
 ↳ Hydra sector is fully under Automaton control (2024-06-06 15:43)<br/>
 ↳ *Aesir Pass* liberation campaign starts (2024-06-06 15:43)<br/>
 ↳ *Marfark* liberation campaign ends (2024-06-06 15:43)<br/>
 ↳ *Vernen Wells* liberation campaign ends (2024-06-06 15:43)<br/>
+Decay changes: Aesir Pass decay changed to 1.0 (2024-06-06 16:00)<br/>
 *Phact Bay* is liberated (2024-06-07 07:15)<br/>
 ↳ Jin Xi sector is fully liberated (2024-06-07 07:15)<br/>
 
 ### Day: #121
 Major Order | Operation Destiny Manifested is won | Objective: Liberate (2024-06-07 11:15)<br/>
+Decay changes: Vernen Wells,Aesir Pass,Aurora Bay,Penta,Charbal-VII,Charon Prime,Choepessa IV,Choohe,Chort Bay,Lesath,Marfark,Martale,Matar Bay,Meissa,Mekbuda,Menkent,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 2.0 and Wasat decay changed to 3.0 and Vega Bay,Wezen decay changed to 2.5 (2024-06-07 11:15)<br/>
 Major Order | Operation Valiant Resistance is issued | Objective: Liberate (2024-06-07 11:20)<br/>
+Decay changes: Aesir Pass,Varylia 5 decay changed to 1.5 (2024-06-07 11:20)<br/>
+Decay changes: Wezen decay changed to 2.0 (2024-06-07 14:00)<br/>
+Decay changes: Vega Bay decay changed to 2.0 and Wezen decay changed to 1.5 (2024-06-07 20:00)<br/>
 
 ### Day: #122
+Decay changes: Wasat decay changed to 2.0 and Vega Bay decay changed to 1.5 and Wezen decay changed to 1.0 (2024-06-08 10:00)<br/>
 *Wezen* is liberated (2024-06-08 22:28)<br/>
 ↳ *Vega Bay* liberation campaign starts (2024-06-08 22:28)<br/>
 
 ### Day: #123
 *Ustotu* of the Trigon sector is attacked by Automatons (2024-06-09 16:07)<br/>
+Decay changes: Ustotu decay changed to 0.0 and Wasat,Vega Bay decay changed to 1.0 (2024-06-09 18:00)<br/>
 *Vega Bay* is liberated (2024-06-10 01:22)<br/>
 ↳ *Wasat* liberation campaign starts (2024-06-10 01:22)<br/>
 
 ### Day: #124
 *Ustotu* defense is failed (2024-06-10 16:10)<br/>
 ↳ *Ustotu* liberation campaign starts (2024-06-10 16:10)<br/>
+Decay changes: Aesir Pass decay changed to 2.5 and Ustotu decay changed to 2.0 (2024-06-10 18:00)<br/>
 *Wasat* is liberated (2024-06-11 02:09)<br/>
 ↳ *Meissa* liberation campaign starts (2024-06-11 02:09)<br/>
 Major Order | Operation Valiant Resistance is won | Objective: Liberate (2024-06-11 08:35)<br/>
 
 ### Day: #125
 Major Order | Operation Trolley Problem is issued | Objective: Liberate (2024-06-11 13:57)<br/>
+Decay changes: Vernen Wells,Marfark decay changed to 2.5 (2024-06-11 16:00)<br/>
 
 ### Day: #126
 *Aesir Pass* is liberated (2024-06-12 21:03)<br/>
@@ -1123,12 +1277,16 @@ Major Order | Operation Trolley Problem is issued | Objective: Liberate (2024-06
 *Vernen Wells* is liberated (2024-06-14 13:52)<br/>
 ↳ *Menkent* liberation campaign starts (2024-06-14 13:52)<br/>
 ↳ *Lesath* liberation campaign starts (2024-06-14 13:52)<br/>
+Decay changes: Vernen Wells decay changed to 0.0 (2024-06-14 16:00)<br/>
 
 ### Day: #129
 Major Order | Operation Trolley Problem is failed | Objective: Liberate (2024-06-15 14:12)<br/>
 Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15 15:55)<br/>
+Decay changes: Hellmire decay changed to 2.0 and Estanu decay changed to 2.5 (2024-06-15 18:00)<br/>
 
 # Day: #130
+Decay changes: Hellmire decay changed to 1.5 and Crimsica,Estanu decay changed to 2.0 (2024-06-16 14:00)<br/>
+Decay changes: Azur Secundus,Trandor,Enuliale,Epsilon Phoencis VI,Fori Prime,Nabatea Secundus,Navi VII,Nivel 43,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Zagon Prime,Omicron decay changed to 1.5 and Aurora Bay,Penta,Charbal-VII,Charon Prime,Choepessa IV,Choohe,Chort Bay,Lesath,Martale,Matar Bay,Meissa,Mekbuda,Menkent,Merak,Merga IV,Ustotu,Vindemitarix Prime,Cyberstan decay changed to 1.0 (2024-06-16 18:00)<br/>
 *Crimsica* is liberated (2024-06-17 01:12)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-06-17 01:12)<br/>
 
@@ -1144,7 +1302,9 @@ Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15
 *Nivel 43* - *Esker* supply line is added (2024-06-18 20:19)<br/>
 *Socorro III* of the Falstaff sector's supply lines are obliterated (2024-06-18 20:19)<br/>
 *Nivel 43* is not accessible despite connecting to the liberated world of *Esker* (2024-06-18 20:19)<br/>
+Decay changes: Fori Prime decay changed to 500.0 (2024-06-18 20:19)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-06-18 20:20)<br/>
+Decay changes: Esker decay changed to 0.0 and Nivel 43 decay changed to 2.5 and Zagon Prime decay changed to 3.0 (2024-06-18 22:00)<br/>
 
 ### Day: #133
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-06-19 13:21)<br/>
@@ -1152,6 +1312,7 @@ Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15
 ↳ *Esker* liberation campaign starts (2024-06-19 20:20)<br/>
 *Hellmire* is liberated (2024-06-19 21:59)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-06-19 21:59)<br/>
+Decay changes: Esker decay changed to 1.5 (2024-06-19 21:59)<br/>
 
 ### Day: #134
 *Fori Prime* defense is failed (2024-06-20 13:21)<br/>
@@ -1161,6 +1322,8 @@ Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15
 *Crimsica* - *Acamar IV* supply line is added (2024-06-20 15:08)<br/>
 *Gacrux* - *Fori Prime* supply line is added (2024-06-20 15:08)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-06-20 15:08)<br/>
+Decay changes: Mort decay changed to 0.0 and Fori Prime decay changed to 1.5 (2024-06-20 15:08)<br/>
+Decay changes: Fori Prime decay changed to 1.0 and Gacrux decay changed to 0.0 and Nivel 43 decay changed to 2.0 (2024-06-20 16:00)<br/>
 
 ### Day: #135
 *Mort* defense is failed (2024-06-21 13:28)<br/>
@@ -1168,49 +1331,60 @@ Major Order | Operation Hive Breaker is issued | Objective: Liberate (2024-06-15
 ↳ *Charbal-VII* liberation campaign ends (2024-06-21 13:28)<br/>
 *Gacrux* defense is failed (2024-06-21 15:10)<br/>
 ↳ *Gacrux* liberation campaign starts (2024-06-21 15:10)<br/>
+Decay changes: Mort decay changed to 1.0 (2024-06-21 15:10)<br/>
 *Nivel 43* is liberated (2024-06-21 17:02)<br/>
 ↳ *Zagon Prime* liberation campaign starts (2024-06-21 17:02)<br/>
+Decay changes: Gacrux decay changed to 1.5 (2024-06-21 17:02)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-06-21 19:57)<br/>
 *Erson Sands* of the Falstaff sector is attacked by Terminids (2024-06-21 19:58)<br/>
 *Fori Prime* is liberated (2024-06-21 21:12)<br/>
 ↳ The Draco sector is fully liberated (2024-06-21 21:12)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-21 21:12)<br/>
 ↳ Major Order | Operation Hive Breaker is won | Objective: Liberate (2024-06-21 21:12)<br/>
+Decay changes: Erson Sands,Pandion-XXIV decay changed to 0.0 and Gacrux decay changed to 2.0 (2024-06-21 21:12)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-06-21 21:19)<br/>
 Major Order | Operation Xzar Lockdown is issued | Objective: Control (2024-06-21 21:22)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-06-21 23:03)<br/>
 
 ### Day: #136
 *Ingmar* defense is won (2024-06-22 10:41)<br/>
+Decay changes: Ingmar decay changed to 500.0 (2024-06-22 12:00)<br/>
 *Pöpli IX* of the Xzar sector is attacked by Automatons (2024-06-22 14:58)<br/>
 *Pandion-XXIV* defense is failed (2024-06-22 20:59)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2024-06-22 20:59)<br/>
+Decay changes: Pöpli IX decay changed to 0.0 and Erson Sands,Pandion-XXIV decay changed to 1.5 (2024-06-22 20:59)<br/>
 *Erson Sands* defense is failed (2024-06-22 21:00)<br/>
 *Vandalon IV* defense is failed (2024-06-22 23:05)<br/>
 ↳ *Vandalon IV* liberation campaign starts (2024-06-22 23:05)<br/>
+Decay changes: Vandalon IV decay changed to 1.0 (2024-06-23 00:00)<br/>
 *Mort* is liberated (2024-06-23 08:02)<br/>
 ↳ *Pöpli IX* defense is auto-won via gambit (2024-06-23 08:02)<br/>
 ↳ Xzar sector is fully liberated (2024-06-23 08:02)<br/>
 ↳ *Charbal-VII* liberation campaign starts (2024-06-23 08:02)<br/>
 
 ### Day: #137
+Decay changes: Pöpli IX,Mort decay changed to 500.0 (2024-06-23 09:00)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-06-23 09:53)<br/>
 *Ingmar* defense is won (2024-06-23 20:29)<br/>
 ↳ Xzar sector is fully liberated (2024-06-23 20:29)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-23 21:56)<br/>
+Decay changes: Ingmar decay changed to 500.0 (2024-06-23 21:56)<br/>
 *Mantes* - *Vandalon IV* supply line is added (2024-06-23 21:58)<br/>
 *Mantes* of the Xzar sector is attacked by Automatons (2024-06-23 21:58)<br/>
 *Mantes* defense is won (2024-06-24 07:38)<br/>
 ↳ Xzar sector is fully liberated (2024-06-24 07:38)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2024-06-24 08:57)<br/>
+Decay changes: Mantes decay changed to 500.0 (2024-06-24 08:57)<br/>
 
 ### Day: #138
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-06-24 09:24)<br/>
 *Troost* of the Trigon sector is attacked by Automatons (2024-06-24 09:24)<br/>
 *Ingmar* defense is won (2024-06-24 18:14)<br/>
 ↳ Xzar sector is fully liberated (2024-06-24 18:14)<br/>
+Decay changes: Ingmar decay changed to 500.0 (2024-06-24 20:00)<br/>
 *Phact Bay* defense is failed (2024-06-24 22:00)<br/>
 ↳ *Phact Bay* liberation campaign starts (2024-06-24 22:00)<br/>
+Decay changes: Phact Bay decay changed to 1.0 (2024-06-25 00:00)<br/>
 *Nivel 43* of the Mirin sector is attacked by Terminids (2024-06-25 07:48)<br/>
 *Mort* of the Xzar sector is attacked by Automatons (2024-06-25 07:55)<br/>
 
@@ -1218,29 +1392,39 @@ Major Order | Operation Xzar Lockdown is issued | Objective: Control (2024-06-21
 *Varylia 5* defense is failed (2024-06-25 09:01)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-06-25 09:01)<br/>
 ↳ *Choepessa IV* liberation campaign ends (2024-06-25 09:01)<br/>
+Decay changes: Varylia 5 decay changed to 1.5 (2024-06-25 10:00)<br/>
 *Gar Haren* of the Jin Xi sector's supply lines are obliterated (2024-06-25 14:04)<br/>
 *Mort* defense is won (2024-06-25 14:41)<br/>
 ↳ Xzar sector is fully liberated (2024-06-25 14:41)<br/>
+Decay changes: Mort decay changed to 500.0 (2024-06-25 16:00)<br/>
 *Troost* defense is failed (2024-06-25 21:28)<br/>
 ↳ Trigon sector is fully under Automaton control (2024-06-25 21:28)<br/>
 ↳ *Ustotu* liberation campaign ends (2024-06-25 21:28)<br/>
+Decay changes: Troost decay changed to 1.0 (2024-06-25 22:00)<br/>
 *Nivel 43* defense is failed (2024-06-26 07:54)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-06-26 07:54)<br/>
 ↳ *Zagon Prime* liberation campaign ends (2024-06-26 07:54)<br/>
 
 # Day: #140
+Decay changes: Nivel 43 decay changed to 2.0 and Phact Bay decay changed to 1.5 (2024-06-26 09:00)<br/>
 Major Order | Operation Xzar Lockdown is won | Objective: Control (2024-06-26 09:37)<br/>
 Major Order | Operation Jin Xi-Falstaff Lockdown is issued | Objective: Control (2024-06-26 11:04)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-06-26 11:06)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06)<br/>
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-06-26 11:06)<br/>
+Decay changes: Bore Rock,Acamar IV,Fori Prime,Nivel 43 decay changed to 0.0 and Gacrux decay changed to 1.5 and Vandalon IV decay changed to 0.75 (2024-06-26 12:00)<br/>
 *Bore Rock* defense is won (2024-06-26 23:28)<br/>
+Decay changes: Bore Rock decay changed to 500.0 (2024-06-27 00:00)<br/>
 *Acamar IV* defense is won (2024-06-27 02:06)<br/>
+Decay changes: Acamar IV decay changed to 1.5 (2024-06-27 04:00)<br/>
+Decay changes: Lesath decay changed to 2.5 and Menkent decay changed to 2.0 and Nivel 43,Varylia 5 decay changed to 1.0 (2024-06-27 08:00)<br/>
 
 ### Day: #141
 *Fori Prime* defense is failed (2024-06-27 11:08)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-06-27 11:08)<br/>
 ↳ *Oshaune* liberation campaign ends (2024-06-27 11:08)<br/>
+Decay changes: Fori Prime decay changed to 1.0 (2024-06-27 12:00)<br/>
+Decay changes: Fori Prime decay changed to 1.5 and Gacrux decay changed to 1.0 (2024-06-27 14:00)<br/>
 *Phact Bay* is liberated (2024-06-28 08:36)<br/>
 
 ### Day: #142
@@ -1249,23 +1433,34 @@ Major Order | Operation Jin Xi-Falstaff Lockdown is issued | Objective: Control 
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:53)<br/>
 *Acamar IV* defense is won (2024-06-29 06:31)<br/>
 *Phact Bay* defense is won (2024-06-29 08:29)<br/>
+Decay changes: Acamar IV decay changed to 1.5 (2024-06-29 08:29)<br/>
 
 ### Day: #143
+Decay changes: Phact Bay decay changed to 1.5 (2024-06-29 09:00)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-06-29 10:29)<br/>
+Decay changes: Nivel 43 decay changed to 1.5 and Pandion-XXIV decay changed to 2.0 (2024-06-29 10:29)<br/>
 *Bore Rock* defense is won (2024-06-29 17:37)<br/>
+Decay changes: Bore Rock decay changed to 500.0 (2024-06-29 18:00)<br/>
+Decay changes: Esker decay changed to 2.5 and Gacrux decay changed to 2.0 and Pandion-XXIV decay changed to 3.0 (2024-06-30 00:00)<br/>
 *Pandion-XXIV* is liberated (2024-06-30 04:02)<br/>
 
 ### Day: #144
 *Crimsica* defense is failed (2024-06-30 10:29)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-06-30 10:29)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-30 10:52)<br/>
+Decay changes: Crimsica decay changed to 2.0 (2024-06-30 10:52)<br/>
 *Gatria* of the Jin Xi sector instantly flips to Terminid control (2024-06-30 10:57)<br/>
 ↳ *Gatria* liberation campaign starts (2024-06-30 10:57)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-30 10:57)<br/>
+Decay changes: Esker decay changed to 2.0 and Acamar IV,Phact Bay decay changed to 0.0 and Gatria decay changed to 1.5 (2024-06-30 12:00)<br/>
+Decay changes: Gatria decay changed to 3.0 (2024-06-30 16:00)<br/>
 *Acamar IV* defense is won (2024-06-30 20:42)<br/>
+Decay changes: Acamar IV decay changed to 1.5 (2024-06-30 22:00)<br/>
 *Phact Bay* defense is won (2024-07-01 01:02)<br/>
+Decay changes: Phact Bay decay changed to 1.5 (2024-07-01 02:00)<br/>
 
 ### Day: #145
+Decay changes: Esker decay changed to 1.5 and Erson Sands decay changed to 2.0 (2024-07-01 12:00)<br/>
 *Esker* is liberated (2024-07-02 03:20)<br/>
 ↳ *Erson Sands* liberation campaign starts (2024-07-02 03:20)<br/>
 
@@ -1279,6 +1474,7 @@ Major Order | Operation Starslayer is issued | Objective: Control (2024-07-03 11
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-03 11:45)<br/>
 *Wezen* of the Ymir sector is attacked by Automatons (2024-07-03 11:45)<br/>
 *X-45* defense is won (2024-07-03 17:44)<br/>
+Decay changes: X-45 decay changed to 500.0 (2024-07-03 18:00)<br/>
 
 ### Day: #148
 *Wezen* defense is failed (2024-07-04 11:49)<br/>
@@ -1286,6 +1482,7 @@ Major Order | Operation Starslayer is issued | Objective: Control (2024-07-03 11
 ↳ *Varylia 5* liberation campaign ends (2024-07-04 11:49)<br/>
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-04 11:58)<br/>
 *X-45* defense is won (2024-07-04 20:46)<br/>
+Decay changes: X-45 decay changed to 500.0 (2024-07-04 22:00)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2024-07-05 08:00)<br/>
 
 ### Day: #149
@@ -1294,33 +1491,47 @@ Major Order | Operation Starslayer is issued | Objective: Control (2024-07-03 11
 ↳ *Wasat* defense is auto-won via gambit (2024-07-05 23:04)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-07-05 23:04)<br/>
 *Vega Bay* defense is won (2024-07-05 23:28)<br/>
+Decay changes: Meissa decay changed to 500.0 and Wasat decay changed to 1.0 (2024-07-05 23:28)<br/>
 *Meissa* of the Ymir sector is attacked by Automatons (2024-07-06 01:04)<br/>
+Decay changes: Matar Bay decay changed to 2.0 and Vega Bay decay changed to 1.0 (2024-07-06 01:04)<br/>
+Decay changes: Meissa decay changed to 0.0 and Vandalon IV decay changed to 1.0 and Wezen decay changed to 1.5 (2024-07-06 02:00)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2024-07-06 05:15)<br/>
 
 # Day: #150
 *Aesir Pass* of the Hydra sector is attacked by Automatons (2024-07-06 12:03)<br/>
+Decay changes: Aesir Pass decay changed to 0.0 and Marfark decay changed to 0.5 and Matar Bay decay changed to 0.75 and Wezen decay changed to 1.0 (2024-07-06 14:00)<br/>
+Decay changes: Fori Prime,Nivel 43 decay changed to 2.0 and Gacrux,Gatria decay changed to 1.5 (2024-07-06 22:00)<br/>
 *Meissa* defense is won (2024-07-06 23:55)<br/>
 *Vega Bay* defense is failed (2024-07-07 01:18)<br/>
 ↳ *Vega Bay* liberation campaign starts (2024-07-07 01:18)<br/>
 ↳ *Wezen* liberation campaign ends (2024-07-07 01:18)<br/>
+Decay changes: Meissa decay changed to 500.0 (2024-07-07 01:18)<br/>
+Decay changes: Vega Bay decay changed to 2.5 (2024-07-07 02:00)<br/>
 *Aesir Pass* defense is failed (2024-07-07 04:06)<br/>
 ↳ *Aesir Pass* liberation campaign starts (2024-07-07 04:06)<br/>
 ↳ *Marfark* liberation campaign ends (2024-07-07 04:06)<br/>
+Decay changes: Marfark decay changed to 1.25 and Vega Bay,Wezen decay changed to 2.0 (2024-07-07 04:06)<br/>
+Decay changes: Aesir Pass decay changed to 1.5 (2024-07-07 06:00)<br/>
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-07 08:16)<br/>
 
 ### Day: #151
 *Wasat* of the Ymir sector is attacked by Automatons (2024-07-07 20:43)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-07-07 20:43)<br/>
 *X-45* defense is won (2024-07-07 22:29)<br/>
+Decay changes: Vernen Wells,Wasat decay changed to 0.0 and Aesir Pass decay changed to 2.0 (2024-07-07 22:29)<br/>
+Decay changes: X-45 decay changed to 500.0 (2024-07-08 00:00)<br/>
 
 ### Day: #152
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-08 11:57)<br/>
 *Wasat* defense is won (2024-07-08 16:32)<br/>
+Decay changes: Wasat decay changed to 1.0 (2024-07-08 18:00)<br/>
 *Vernen Wells* defense is failed (2024-07-08 20:48)<br/>
 ↳ Hydra sector is fully under Automaton control (2024-07-08 20:48)<br/>
 ↳ *Menkent* liberation campaign ends (2024-07-08 20:48)<br/>
 ↳ *Lesath* liberation campaign ends (2024-07-08 20:48)<br/>
+Decay changes: Vernen Wells decay changed to 1.0 (2024-07-08 22:00)<br/>
 *X-45* defense is won (2024-07-09 03:33)<br/>
+Decay changes: X-45 decay changed to 500.0 (2024-07-09 04:00)<br/>
 
 ### Day: #153
 Major Order | Operation Starslayer is won | Objective: Control (2024-07-09 12:08)<br/>
@@ -1333,16 +1544,21 @@ Major Order | Operation Workday is won | Objective: Eradicate (2024-07-10 20:48)
 
 ### Day: #155
 *Hellmire* defense is won (2024-07-11 12:40)<br/>
+Decay changes: Hellmire decay changed to 1.5 (2024-07-11 14:00)<br/>
 Major Order | Operation Winged Helldivers is issued | Objective: Liberate (2024-07-11 19:38)<br/>
+Decay changes: Marfark decay changed to 2.0 and Martale decay changed to 3.0 and Matar Bay decay changed to 1.5 (2024-07-11 19:38)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-07-12 07:53)<br/>
 
 ### Day: #156
+Decay changes: Aesir Pass decay changed to 1.5 and Estanu decay changed to 0.0 and Matar Bay decay changed to 1.0 (2024-07-12 09:00)<br/>
+Decay changes: Aesir Pass decay changed to 1.0 and Matar Bay decay changed to 0.5 (2024-07-13 00:00)<br/>
 *Estanu* defense is failed (2024-07-13 07:57)<br/>
 ↳ Draco sector is fully under Terminid control (2024-07-13 07:57)<br/>
 ↳ *Estanu* liberation campaign starts (2024-07-13 07:57)<br/>
 ↳ *Fori Prime* liberation campaign ends (2024-07-13 07:57)<br/>
 
 ### Day: #157
+Decay changes: Estanu decay changed to 2.0 (2024-07-13 09:00)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-07-13 14:01)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-07-13 14:02)<br/>
 *Aesir Pass* is liberated (2024-07-13 14:40)<br/>
@@ -1356,11 +1572,15 @@ Major Order | Operation Winged Helldivers is issued | Objective: Liberate (2024-
 *Esker* defense is failed (2024-07-14 14:07)<br/>
 ↳ *Esker* liberation campaign starts (2024-07-14 14:07)<br/>
 ↳ *Nivel 43* liberation campaign ends (2024-07-14 14:07)<br/>
+Decay changes: Hellmire,Esker decay changed to 1.5 (2024-07-14 16:00)<br/>
 *Matar Bay* is liberated (2024-07-14 19:55)<br/>
 ↳ *Martale* liberation campaign starts (2024-07-14 19:55)<br/>
 ↳ *Choohe* liberation campaign starts (2024-07-14 19:55)<br/>
+Decay changes: Marfark decay changed to 1.5 and Martale decay changed to 2.0 and Matar Bay decay changed to 0.0 (2024-07-14 19:55)<br/>
 
 ### Day: #159
+Decay changes: Marfark decay changed to 1.0 and Martale decay changed to 1.5 (2024-07-15 09:00)<br/>
+Decay changes: Marfark decay changed to 0.5 and Martale decay changed to 1.0 (2024-07-16 08:00)<br/>
 
 # Day: #160
 *Marfark* is liberated (2024-07-16 09:18)<br/>
@@ -1369,6 +1589,7 @@ Major Order | Operation Winged Helldivers is issued | Objective: Liberate (2024-
 *Martale* is liberated (2024-07-17 11:14)<br/>
 ↳ Major Order | Operation Winged Helldivers is won | Objective: Liberate (2024-07-17 11:14)<br/>
 ↳ *Charon Prime* liberation campaign starts (2024-07-17 11:14)<br/>
+Decay changes: Vernen Wells decay changed to 2.0 and Charbal-VII,Charon Prime,Choepessa IV,Troost,Ustotu,Vandalon IV,Varylia 5,Vega Bay,Wezen decay changed to 0.0 and Choohe decay changed to 2.5 (2024-07-17 12:00)<br/>
 
 ### Day: #162
 Major Order | Operation Righteous Expunge is issued | Objective: Liberate (2024-07-18 14:15)<br/>
@@ -1378,6 +1599,7 @@ Major Order | Operation Righteous Expunge is issued | Objective: Liberate (2024-
 
 ### Day: #163
 *Matar Bay* defense is won (2024-07-19 20:19)<br/>
+Decay changes: Matar Bay decay changed to 0.0 (2024-07-19 22:00)<br/>
 *Aesir Pass* of the Hydra sector is attacked by Automatons (2024-07-20 08:25)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-07-20 08:26)<br/>
 
@@ -1392,6 +1614,7 @@ Major Order | Operation Righteous Expunge is issued | Objective: Liberate (2024-
 ↳ *Acamar IV* liberation campaign starts (2024-07-21 08:30)<br/>
 
 ### Day: #165
+Decay changes: Aesir Pass decay changed to 1.0 and Acamar IV decay changed to 1.5 (2024-07-21 09:00)<br/>
 *Choepessa IV* is liberated (2024-07-21 14:03)<br/>
 ↳ *Ustotu* liberation campaign starts (2024-07-21 14:03)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-07-21 14:03)<br/>
@@ -1402,9 +1625,11 @@ Major Order | Operation Righteous Expunge is won | Objective: Liberate (2024-07-
 ↳ Umlaut sector is fully liberated (2024-07-22 08:08)<br/>
 
 ### Day: #166
+Decay changes: Turing decay changed to 2.5 (2024-07-22 09:00)<br/>
 Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024-07-22 15:33)<br/>
 *Wasat* defense is failed (2024-07-22 18:20)<br/>
 ↳ *Wasat* liberation campaign starts (2024-07-22 18:20)<br/>
+Decay changes: Wasat decay changed to 0.0 (2024-07-22 20:00)<br/>
 *Acamar IV* is liberated (2024-07-23 07:47)<br/>
 
 ### Day: #167
@@ -1413,8 +1638,10 @@ Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-07-24 19:40)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-07-24 19:41)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2024-07-24 21:29)<br/>
+Decay changes: Choepessa IV decay changed to 0.0 and Troost,Ustotu,Vandalon IV,Varylia 5,Wasat,Vega Bay,Wezen decay changed to 0.25 (2024-07-25 00:00)<br/>
 
 ### Day: #169
+Decay changes: Troost,Ustotu,Vandalon IV,Varylia 5,Wasat,Vega Bay,Wezen decay changed to 0.45 (2024-07-25 09:00)<br/>
 *Fenrir III* defense is won (2024-07-25 11:57)<br/>
 ↳ Umlaut sector is fully liberated (2024-07-25 11:57)<br/>
 *Bore Rock* defense is failed (2024-07-25 19:43)<br/>
@@ -1423,9 +1650,11 @@ Major Order | Operation Glorious Xenocide is issued | Objective: Eradicate (2024
 ↳ *Choepessa IV* liberation campaign starts (2024-07-25 21:32)<br/>
 ↳ *Varylia 5* liberation campaign ends (2024-07-25 21:32)<br/>
 ↳ *Ustotu* liberation campaign ends (2024-07-25 21:32)<br/>
+Decay changes: Bore Rock decay changed to 1.5 (2024-07-25 21:32)<br/>
 *Gacrux* is liberated (2024-07-25 22:33)<br/>
 ↳ Jin Xi sector is fully liberated (2024-07-25 22:33)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-07-25 22:33)<br/>
+Decay changes: Choepessa IV decay changed to 0.0 (2024-07-25 22:33)<br/>
 
 # Day: #170
 Major Order | Operation Glorious Xenocide is won | Objective: Eradicate (2024-07-26 20:30)<br/>
@@ -1440,12 +1669,14 @@ Major Order | Operation Eagle Protector is issued | Objective: Liberate (2024-07
 
 ### Day: #173
 *Wasat* is liberated (2024-07-29 09:56)<br/>
+Decay changes: Troost,Ustotu,Vandalon IV,Varylia 5,Vega Bay,Wezen decay changed to 0.65 (2024-07-29 14:00)<br/>
 
 ### Day: #174
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-30 11:20)<br/>
 *Vega Bay* is liberated (2024-07-30 14:16)<br/>
 ↳ *X-45* defense is auto-won via gambit (2024-07-30 14:16)<br/>
 ↳ *Wezen* liberation campaign starts (2024-07-30 14:16)<br/>
+Decay changes: X-45 decay changed to 500.0 (2024-07-30 16:00)<br/>
 
 ### Day: #175
 *Varylia 5* is liberated (2024-07-31 16:13)<br/>
@@ -1462,6 +1693,7 @@ Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (202
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51)<br/>
 *Gacrux* defense is won (2024-08-03 18:56)<br/>
 ↳ Jin Xi sector is fully liberated (2024-08-03 18:56)<br/>
+Decay changes: Gacrux decay changed to 1.5 (2024-08-03 20:00)<br/>
 
 ### Day: #179
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-08-04 17:30)<br/>
@@ -1472,6 +1704,7 @@ Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (202
 ↳ Andromeda sector is fully liberated (2024-08-05 08:37)<br/>
 
 # Day: #180
+Decay changes: Marfark decay changed to 0.5 (2024-08-05 09:00)<br/>
 
 ### Day: #181
 *Atrama* of the Idun sector's biome is changed from Ion Rainforest [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
@@ -1492,6 +1725,7 @@ Major Order | Operation Reverse Psychology is issued | Objective: Eradicate (202
 ↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38)<br/>
 Major Order | Operation Reverse Psychology is failed | Objective: Eradicate (2024-08-06 10:39)<br/>
 Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:56)<br/>
+Decay changes: Azur Secundus,Trandor,Bore Rock,Enuliale,Epsilon Phoencis VI,Nabatea Secundus,Navi VII,Oshaune,Overgoe Prime,Partion,Peacock,Diaspora X,Gemstone Bluffs,Omicron decay changed to 2.5 and Aurora Bay,Penta,Chort Bay,Mekbuda,Merak,Merga IV,Vindemitarix Prime,Cyberstan decay changed to 1.5 (2024-08-06 14:56)<br/>
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-06 14:57)<br/>
 *Socorro III* - *Erson Sands* supply line is added (2024-08-06 14:57)<br/>
 *Esker* - *Socorro III* supply line is added (2024-08-06 14:57)<br/>
@@ -1505,6 +1739,8 @@ Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/L
 ### Day: #183
 *Erson Sands* defense is failed (2024-08-08 10:45)<br/>
 ↳ *Erson Sands* liberation campaign starts (2024-08-08 10:45)<br/>
+Decay changes: Esker,Bore Rock decay changed to 0.0 and Socorro III decay changed to 500.0 (2024-08-08 10:45)<br/>
+Decay changes: Erson Sands decay changed to 2.0 (2024-08-08 12:00)<br/>
 *Diaspora X* is moderately enveloped by the Gloom (2024-08-09 07:04)<br/>
 *Zagon Prime* is moderately enveloped by the Gloom (2024-08-09 07:04)<br/>
 *Omicron* is moderately enveloped by the Gloom (2024-08-09 07:05)<br/>
@@ -1515,6 +1751,7 @@ Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/L
 
 ### Day: #184
 *Socorro III* defense is won (2024-08-09 22:13)<br/>
+Decay changes: Socorro III decay changed to 500.0 (2024-08-10 00:00)<br/>
 
 ### Day: #185
 *Bore Rock* is liberated (2024-08-10 10:21)<br/>
@@ -1530,10 +1767,12 @@ Major Order | Operation Benevolent Sanitation is issued | Objective: Eradicate/L
 Major Order | Operation Banana Split is issued | Objective: Defend/Liberate (2024-08-10 15:19)<br/>
 *Acamar IV* defense is won (2024-08-11 01:49)<br/>
 ↳ Jin Xi sector is fully liberated (2024-08-11 01:49)<br/>
+Decay changes: Acamar IV decay changed to 1.5 (2024-08-11 04:00)<br/>
 
 ### Day: #186
 *Curia* defense is failed (2024-08-11 11:32)<br/>
 ↳ *Curia* liberation campaign starts (2024-08-11 11:32)<br/>
+Decay changes: Curia decay changed to 1.5 (2024-08-11 12:00)<br/>
 *Fenrir III* of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26)<br/>
 *Nabatea Secundus* is moderately enveloped by the Gloom (2024-08-11 19:27)<br/>
 *Omicron* is heavily enveloped by the Gloom (2024-08-11 19:28)<br/>
@@ -1554,6 +1793,7 @@ Major Order | Operation Banana Split is issued | Objective: Defend/Liberate (202
 ### Day: #189
 *Acamar IV* defense is won (2024-08-14 11:19)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-08-14 13:34)<br/>
+Decay changes: Acamar IV decay changed to 1.5 (2024-08-14 13:34)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-14 13:35)<br/>
 *Azur Secundus* is moderately enveloped by the Gloom (2024-08-14 13:37)<br/>
 *Navi VII* is moderately enveloped by the Gloom (2024-08-14 13:37)<br/>
@@ -1562,10 +1802,13 @@ Major Order | Operation Banana Split is issued | Objective: Defend/Liberate (202
 ↳ *Epsilon Phoencis VI* is now unobservable due to the Gloom (2024-08-14 13:38)<br/>
 *Gacrux* defense is failed (2024-08-14 16:09)<br/>
 ↳ *Gacrux* liberation campaign starts (2024-08-14 16:09)<br/>
+Decay changes: Gacrux decay changed to 1.5 (2024-08-14 18:00)<br/>
 *Estanu* defense is won (2024-08-15 00:50)<br/>
+Decay changes: Estanu decay changed to 1.5 (2024-08-15 02:00)<br/>
 *Erata Prime* defense is won (2024-08-15 07:28)<br/>
 ↳ Umlaut sector is fully liberated (2024-08-15 07:28)<br/>
 Major Order | Operation Banana Split is won | Objective: Defend/Liberate (2024-08-15 08:52)<br/>
+Decay changes: Erata Prime decay changed to 1.5 (2024-08-15 08:52)<br/>
 
 # Day: #190
 
@@ -1585,6 +1828,7 @@ Major Order | Operation Gloom Gathering was compromised | Objective: Sample (202
 
 ### Day: #192
 *Estanu* defense is won (2024-08-17 13:50)<br/>
+Decay changes: Curia decay changed to 1.0 and Estanu decay changed to 1.5 (2024-08-17 16:00)<br/>
 Major Order | Operation People's Shield is issued | Objective: Defend/Liberate (2024-08-17 19:03)<br/>
 *Tarsh* - *Mastia* supply line is added (2024-08-17 22:34)<br/>
 *Tarsh* - *Curia* supply line is added (2024-08-17 22:34)<br/>
@@ -1594,11 +1838,13 @@ Major Order | Operation People's Shield is issued | Objective: Defend/Liberate (
 *Curia* is liberated (2024-08-18 22:08)<br/>
 ↳ *Tarsh* defense is auto-won via gambit (2024-08-18 22:08)<br/>
 ↳ Marspira sector is fully liberated (2024-08-18 22:08)<br/>
+Decay changes: Tarsh decay changed to 500.0 (2024-08-19 00:00)<br/>
 
 ### Day: #194
 *Curia* of the Marspira sector is attacked by Automatons (2024-08-19 09:43)<br/>
 *Curia* defense is won (2024-08-19 21:44)<br/>
 ↳ Marspira sector is fully liberated (2024-08-19 21:44)<br/>
+Decay changes: Curia decay changed to 1.0 (2024-08-19 22:00)<br/>
 *Vernen Wells* - *Tarsh* supply line is added (2024-08-20 07:33)<br/>
 *Vernen Wells* is not accessible despite connecting to the liberated world of *Tarsh* (2024-08-20 07:33)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-20 07:41)<br/>
@@ -1608,12 +1854,15 @@ Major Order | Operation People's Shield is issued | Objective: Defend/Liberate (
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-08-20 11:12)<br/>
 *Curia* defense is won (2024-08-21 04:36)<br/>
 Major Order | Operation People's Shield is won | Objective: Defend/Liberate (2024-08-21 04:36)<br/>
+Decay changes: Curia decay changed to 1.0 (2024-08-21 06:00)<br/>
 *Acamar IV* defense is failed (2024-08-21 07:47)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-08-21 07:47)<br/>
 
 ### Day: #196
+Decay changes: Acamar IV decay changed to 1.5 (2024-08-21 09:00)<br/>
 *Tarsh* defense is failed (2024-08-21 11:16)<br/>
 ↳ *Tarsh* liberation campaign starts (2024-08-21 11:16)<br/>
+Decay changes: Tarsh decay changed to 1.5 (2024-08-21 12:00)<br/>
 Major Order | Operation Colossus Shadow is issued | Objective: Hold/Eradicate (2024-08-21 14:33)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-21 14:38)<br/>
 
@@ -1623,6 +1872,7 @@ Major Order | Operation Colossus Shadow is issued | Objective: Hold/Eradicate (2
 ↳ *Gacrux* liberation campaign ends (2024-08-22 14:41)<br/>
 *Crimsica* is liberated (2024-08-22 16:52)<br/>
 ↳ *Crimsica* is no longer enveloped by the Gloom (2024-08-22 16:52)<br/>
+Decay changes: Pandion-XXIV decay changed to 3.0 (2024-08-22 16:52)<br/>
 
 ### Day: #198
 
@@ -1638,12 +1888,15 @@ Major Order | Operation Colossus Shadow is issued | Objective: Hold/Eradicate (2
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-26 13:36)<br/>
 *Esker* defense is won (2024-08-26 15:39)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-08-26 17:16)<br/>
+Decay changes: Esker decay changed to 1.5 (2024-08-26 17:16)<br/>
 *Acamar IV* is liberated (2024-08-27 01:01)<br/>
 *Estanu* defense is won (2024-08-27 04:16)<br/>
+Decay changes: Estanu decay changed to 1.5 (2024-08-27 06:00)<br/>
 
 ### Day: #202
 *Socorro III* defense is won (2024-08-27 09:53)<br/>
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
+Decay changes: Socorro III decay changed to 500.0 (2024-08-27 11:46)<br/>
 The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall (2024-08-27 11:50)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
@@ -1676,21 +1929,29 @@ Major Order | Operation Colossus Shadow is won | Objective: Hold/Eradicate (2024
 *Hellmire* liberation campaign ends (2024-08-27 17:42)<br/>
 *Fori Prime* liberation campaign ends (2024-08-27 17:42)<br/>
 *Nivel 43* liberation campaign ends (2024-08-27 17:42)<br/>
+Decay changes: Matar Bay decay changed to 500.0 (2024-08-27 17:42)<br/>
 *Erson Sands* liberation campaign ends (2024-08-27 17:43)<br/>
 *Erata Prime* defense is won (2024-08-27 23:18)<br/>
 ↳ Umlaut sector is fully liberated (2024-08-27 23:18)<br/>
 *Mastia* defense is won (2024-08-28 01:18)<br/>
+Decay changes: Erata Prime decay changed to 500.0 (2024-08-28 01:18)<br/>
+Decay changes: Mastia decay changed to 500.0 (2024-08-28 02:00)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-08-28 08:21)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-28 08:22)<br/>
 
 ### Day: #203
 Major Order | Operation Blazing Barrage is issued | Objective: Eradicate/Liberate (2024-08-28 11:08)<br/>
+Decay changes: Vernen Wells decay changed to 2.5 (2024-08-28 11:08)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-08-28 11:10)<br/>
 *Marfark* defense is won (2024-08-29 02:29)<br/>
+Decay changes: Marfark decay changed to 0.5 (2024-08-29 04:00)<br/>
+Decay changes: Aesir Pass decay changed to 1.0 (2024-08-29 08:00)<br/>
 
 ### Day: #204
 *Pandion-XXIV* defense is won (2024-08-29 09:55)<br/>
+Decay changes: Pandion-XXIV decay changed to 3.0 (2024-08-29 12:00)<br/>
 *Esker* defense is won (2024-08-29 15:48)<br/>
+Decay changes: Esker decay changed to 1.5 (2024-08-29 18:00)<br/>
 *Aesir Pass* is liberated (2024-08-30 00:53)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2024-08-30 00:53)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-08-30 06:33)<br/>
@@ -1706,6 +1967,7 @@ Major Order | Operation Blazing Barrage is issued | Objective: Eradicate/Liberat
 ↳ *Mastia* liberation campaign starts (2024-08-31 07:47)<br/>
 
 ### Day: #206
+Decay changes: Mastia decay changed to 1.5 (2024-08-31 09:00)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-31 19:23)<br/>
 *Vernen Wells* is liberated (2024-09-01 04:45)<br/>
 ↳ *Menkent* liberation campaign starts (2024-09-01 04:45)<br/>
@@ -1719,6 +1981,7 @@ Major Order | Operation Blazing Barrage is issued | Objective: Eradicate/Liberat
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59)<br/>
 ↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59)<br/>
 ↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59)<br/>
+Decay changes: Pandion-XXIV decay changed to 3.0 (2024-09-01 19:59)<br/>
 
 ### Day: #208
 Major Order | Operation Blazing Barrage is failed | Objective: Eradicate/Liberate (2024-09-02 11:24)<br/>
@@ -1735,19 +1998,23 @@ Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-
 *Gatria* defense is won (2024-09-03 05:18)<br/>
 *Hellmire* liberation campaign ends (2024-09-03 06:42)<br/>
 ↳ NOTE: See Day 207 (2024-09-03 06:42)<br/>
+Decay changes: Gatria decay changed to 1.5 (2024-09-03 06:42)<br/>
 
 ### Day: #209
 *Phact Bay* defense is won (2024-09-03 09:37)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-03 10:01)<br/>
 *Trandor* liberation campaign starts (2024-09-03 10:01)<br/>
+Decay changes: Phact Bay decay changed to 1.5 (2024-09-03 10:01)<br/>
 
 # Day: #210
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-04 11:59)<br/>
 *Partion* liberation campaign starts (2024-09-04 11:59)<br/>
 *Gatria* defense is won (2024-09-04 23:27)<br/>
+Decay changes: Gatria decay changed to 1.5 (2024-09-05 00:00)<br/>
 
 ### Day: #211
 *Phact Bay* defense is won (2024-09-06 04:34)<br/>
+Decay changes: Phact Bay decay changed to 1.5 (2024-09-06 06:00)<br/>
 
 ### Day: #212
 *Mastia* - *Gaellivare* supply line is added (2024-09-06 16:23)<br/>
@@ -1771,29 +2038,38 @@ Major Order | Operation Titanium Bastion is issued | Objective: Defend/Hold (202
 
 ### Day: #213
 *Shelt* defense is won (2024-09-07 10:30)<br/>
+Decay changes: Shelt decay changed to 500.0 (2024-09-07 12:00)<br/>
 
 ### Day: #214
 *Vog-Sojoth* of the Tanis sector is attacked by Automatons (2024-09-08 10:22)<br/>
 *Gaellivare* defense is failed (2024-09-08 18:06)<br/>
 ↳ *Gaellivare* liberation campaign starts (2024-09-08 18:06)<br/>
+Decay changes: Gaellivare decay changed to 1.5 (2024-09-08 20:00)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-08 21:57)<br/>
+Decay changes: Imber decay changed to 0.0 and Gaellivare decay changed to 1.0 (2024-09-09 00:00)<br/>
 
 ### Day: #215
 *Vog-Sojoth* defense is failed (2024-09-09 10:25)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-09-09 10:25)<br/>
+Decay changes: Vog-Sojoth decay changed to 1.5 (2024-09-09 12:00)<br/>
 
 ### Day: #216
 *Imber* defense is won (2024-09-10 09:02)<br/>
 *Shallus* of the Talus sector is attacked by Automatons (2024-09-10 09:08)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-10 09:09)<br/>
+Decay changes: Shallus,Shelt decay changed to 0.0 and Imber decay changed to 500.0 (2024-09-10 10:00)<br/>
 *Shelt* defense is won (2024-09-10 22:55)<br/>
+Decay changes: Shelt decay changed to 500.0 (2024-09-11 00:00)<br/>
 *Shallus* defense is won (2024-09-11 03:35)<br/>
+Decay changes: Shallus decay changed to 500.0 (2024-09-11 04:00)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-11 07:03)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-11 07:04)<br/>
 
 ### Day: #217
 *Imber* defense is won (2024-09-11 22:50)<br/>
+Decay changes: Imber decay changed to 500.0 (2024-09-12 00:00)<br/>
 *Claorell* defense is won (2024-09-12 05:20)<br/>
+Decay changes: Claorell decay changed to 500.0 (2024-09-12 06:00)<br/>
 
 ### Day: #218
 Major Order | Operation Titanium Bastion is won | Objective: Defend/Hold (2024-09-12 10:53)<br/>
@@ -1801,8 +2077,11 @@ Major Order | Operation Titanium Bastion is won | Objective: Defend/Hold (2024-0
 
 ### Day: #219
 *Gatria* defense is won (2024-09-13 09:11)<br/>
+Decay changes: Gatria decay changed to 1.5 (2024-09-13 10:00)<br/>
+Decay changes: Tarsh decay changed to 1.0 (2024-09-13 12:00)<br/>
 Major Order | Operation Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23)<br/>
 ↳ NOTE: This major order had a side objective delivered via dispatch. Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order would allow the Orbital Napalm Barrage, previously offered and failed during Blazing Barrage, to be available for immediate fleetwide requisition (2024-09-13 14:23)<br/>
+Decay changes: Mastia,Tarsh decay changed to 0.0 (2024-09-13 16:00)<br/>
 
 # Day: #220
 
@@ -1810,12 +2089,14 @@ Major Order | Operation Blazing Purge is issued | Objective: Eradicate (2024-09-
 *Mastia* is liberated (2024-09-15 18:48)<br/>
 *Tarsh* decay rate changes to -1.0% per hour (2024-09-15 19:05)<br/>
 ↳ NOTE: This is the first time negative decay has happened after completely surrounding a world. (2024-09-15 19:05)<br/>
+Decay changes: Tarsh decay changed to -1.0 (2024-09-15 20:00)<br/>
 
 ### Day: #222
 *Tarsh* is liberated (2024-09-16 11:54)<br/>
 ↳ Marspira sector is fully liberated (2024-09-16 11:54)<br/>
 Major Order | Operation Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33)<br/>
 ↳ NOTE: Only 1 out of 2 tasks got cleared for this Major Order. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33)<br/>
+Decay changes: Mastia,Tarsh decay changed to 1.5 (2024-09-16 14:33)<br/>
 
 ### Day: #223
 Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09-17 15:20)<br/>
@@ -1830,6 +2111,7 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 *Zefia* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
 *Demiurg* - *Clasa* supply line is added (2024-09-18 11:15)<br/>
 *Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18)<br/>
+Decay changes: Trandor decay changed to 1.0 and Gatria decay changed to 1.5 (2024-09-18 11:18)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-18 11:24)<br/>
 
 ### Day: #225
@@ -1838,6 +2120,8 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 *Claorell* defense is failed (2024-09-19 11:27)<br/>
 ↳ *Claorell* liberation campaign starts (2024-09-19 11:27)<br/>
 ↳ *Vog-Sojoth* liberation campaign ends (2024-09-19 11:27)<br/>
+Decay changes: Claorell,Clasa decay changed to 1.5 (2024-09-19 12:00)<br/>
+Decay changes: Trandor,Claorell decay changed to 0.5 and Gaellivare,Partion decay changed to 1.5 and Clasa decay changed to 1.0 (2024-09-19 14:00)<br/>
 
 ### Day: #226
 *Trandor* is liberated (2024-09-21 05:12)<br/>
@@ -1845,21 +2129,29 @@ Major Order | Operation Freedom's Audit is issued | Objective: Conquest (2024-09
 
 ### Day: #227
 *Imber* of the Talus sector is attacked by Automatons (2024-09-21 21:54)<br/>
+Decay changes: Imber decay changed to 0.0 and Pandion-XXIV,Peacock decay changed to 2.0 (2024-09-22 00:00)<br/>
 *Claorell* is liberated (2024-09-22 05:40)<br/>
 ↳ *Imber* defense is auto-won via gambit (2024-09-22 05:40)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-09-22 05:40)<br/>
+Decay changes: Imber decay changed to 500.0 (2024-09-22 06:00)<br/>
 
 ### Day: #228
+Decay changes: Pandion-XXIV decay changed to 1.5 (2024-09-22 12:00)<br/>
 
 ### Day: #229
 Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probability of an imminent Automaton offensive. Several frontline planets are under threat of invasion. All signs indicate a powerful and sustained offensive. Hold as much ground as you can. (2024-09-23 11:17)<br/>
+Decay changes: Clasa decay changed to 1.5 (2024-09-23 12:00)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-09-23 14:18)<br/>
+Decay changes: Gaellivare decay changed to 2.0 (2024-09-23 14:18)<br/>
 *Pandion-XXIV* is liberated (2024-09-23 21:03)<br/>
+Decay changes: Clasa decay changed to 2.0 (2024-09-24 08:00)<br/>
 
 # Day: #230
+Decay changes: Gaellivare,Clasa decay changed to 2.5 (2024-09-24 12:00)<br/>
 *Imber* defense is failed (2024-09-24 14:21)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-24 14:21)<br/>
 Major Order | Operation Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39)<br/>
+Decay changes: Imber decay changed to 1.5 and Gaellivare,Clasa decay changed to 3.0 (2024-09-24 15:39)<br/>
 Major Order | Operation Starslayer Frontier is issued | Objective: Liberate (2024-09-24 16:00)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08)<br/>
@@ -1869,16 +2161,19 @@ Major Order | Operation Starslayer Frontier is issued | Objective: Liberate (202
 ↳ *Acamar IV* liberation campaign starts (2024-09-25 16:10)<br/>
 *Claorell* defense is failed (2024-09-25 16:11)<br/>
 ↳ *Vog-Sojoth* liberation campaign ends (2024-09-25 16:11)<br/>
+Decay changes: Acamar IV decay changed to 1.5 and Claorell decay changed to 0.5 (2024-09-25 18:00)<br/>
 
 ### Day: #232
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-26 21:17)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-26 21:18)<br/>
 
 ### Day: #233
+Decay changes: Acamar IV decay changed to 2.0 (2024-09-27 20:00)<br/>
 *Shelt* defense is failed (2024-09-27 21:20)<br/>
 ↳ *Shelt* liberation campaign starts (2024-09-27 21:20)<br/>
 ↳ *Imber* liberation campaign ends (2024-09-27 21:20)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-09-27 22:51)<br/>
+Decay changes: Shelt decay changed to 1.5 (2024-09-27 22:51)<br/>
 *Gaellivare* is liberated (2024-09-28 01:05)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-28 01:05)<br/>
 ↳ Major Order | Operation Starslayer Frontier is won | Objective: Liberate (2024-09-28 01:05)<br/>
@@ -1899,7 +2194,9 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 ↳ *Phact Bay* liberation campaign starts (2024-09-28 21:23)<br/>
 ↳ *Partion* liberation campaign ends (2024-09-28 21:23)<br/>
 *Darius II* of the Borgus sector is attacked by Terminids (2024-09-28 21:27)<br/>
+Decay changes: Darius II decay changed to 0.0 and Phact Bay decay changed to 2.0 (2024-09-28 22:00)<br/>
 *Turing* defense is won (2024-09-29 07:35)<br/>
 ↳ Umlaut sector is fully liberated (2024-09-29 07:35)<br/>
 
 ### Day: #235
+Decay changes: Turing decay changed to 2.5 (2024-09-29 09:00)<br/>
