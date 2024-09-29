@@ -1139,8 +1139,9 @@ async def main_code() -> None:
 
     resort={}
     laststate={}
-    
+    print("Updating galaxy")
     for t, s in galaxy_states.states.items():
+        print(t)
         for p, resa in s.items():
             if isinstance(resa.link,list):
                 link=unordered_list_hash(resa.link)
@@ -1163,11 +1164,6 @@ async def main_code() -> None:
                 
                 last=laststate[p]
                 keys_all=list(res.keys())
-                keysb=list(last.keys())
-
-                keysa=set(last.keys())
-                keysb=set(res.keys())
-
                 toad={}
                 for key in keys_all:
                     if key not in laststate[p]:
