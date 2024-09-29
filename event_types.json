@@ -154,6 +154,11 @@
       
       "matchable": ["into a black hole"]
       
+    },
+
+    "Dispatch":{
+      "name":"Dispatch",
+      "matchable":["Dispatch: "]
     }
   }
   

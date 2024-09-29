@@ -621,16 +621,17 @@ export function eList(history, count, parentCard, mode = 0) {
         while (parentElement.firstChild) {
             parentElement.innerHTML = "";
         }
-        let curr_over=true;
+        let curr_over=false;
         let lower, index;
         switch (mode) {
             case 0:
                 let off = 0;
                 lower = Math.floor(count / factorby) * factorby;
+                let current=false;
                 for (index = lower; index < lower + factorby +off; index++) {
                     if (index >= data.events.length) break;
                     let event = data.events[index];
-                    let current = index === count;
+                    current = (index === count);
                     if (event.type =='m'){
                         off+=1;
                         if (current){

@@ -6,6 +6,7 @@ import os
 import asyncio
 import aiohttp
 import urllib.request
+from collections import defaultdict
 
 from pydantic import BaseModel, Field
 from datetime import datetime
@@ -189,7 +190,7 @@ def fetch_entries_by_timestamp(conn, timestamp):
 def fetch_entries_by_dayval(conn, dayval):
     """Fetch all entries with the same dayval."""
     cursor = conn.cursor()
-
+    print(f"FETCHING ALL VALUES FOR DAYVAL {dayval}")
     cursor.execute('''
     SELECT * FROM alltimedata WHERE dayval = ?
     ''', (dayval,))
@@ -862,12 +863,12 @@ def update_planet_stats(
     planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
 ) -> None:
     '''Update HP, regenPerSecond, and playercount'''
+
     for i, v in planetstats.items():
         if str(i) in planetclone:
             planetclone[str(i)].hp = v.get("health", 0)
             lastregen=planetclone[str(i)].r 
-            if lastregen!=float(v.get("regenPerSecond", 0)):
-                print(f"planet {i} decay change to {lastregen}")
+            #if lastregen!=float(v.get("regenPerSecond", 0)):   print(f"planet {i} decay change to {lastregen}")
             planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
             planetclone[str(i)].pl = enote(v.get("players", 0))
 
@@ -878,21 +879,26 @@ def check_planet_stats_for_change(
     decay_change=False
     hp_change=False
     times=100000
+    decay_changed_on = []
+    hp_changed_on =[]
     for i, v in planetstats.items():
         if str(i) in planetclone:
             lasthp=planetclone[str(i)].hp
             if lasthp:
                 if lasthp//times!=v.get("health",0)//times:
                     hp_change=True
+                    hp_changed_on.append((i, v.get("health",0)))
             lastregen=planetclone[str(i)].r 
             if lastregen!=float(v.get("regenPerSecond", 0)):
                 decay_change=True
-                print(f"planet {i} decay change to {lastregen}")
+                newregen=v.get("regenPerSecond", 0)
+                decay_changed_on.append((i, newregen))
+                print(f"planet {i} decay change to {newregen}")
             #planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
             #planetclone[str(i)].pl = enote(v.get("players", 0))
     
     logger.info(f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant")
-    return decay_change or hp_change
+    return decay_changed_on, hp_changed_on
 
 def update_planet_ownership(
     event: GameEvent, planetclone: Dict[str, PlanetState]
@@ -1061,7 +1067,6 @@ async def main_code() -> None:
             last_time=ne.timestamp
 
         #Add eind- this is the overall event group index.
-        
         planetstats=await get_planet_stats(conn,ne,all_times_new,march_5th)
         all_players=0
         for ie, v in planetstats.items():
@@ -1071,20 +1076,51 @@ async def main_code() -> None:
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
         ptemp={k:v.model_copy(deep=True) for k, v in temp.items()}
+        #Check for HP Checkpoint or decay change.
+        dc = str(int(ne.day) // 30)
+        planetstats = all_times_new[str(dc)][str(ne.timestamp)]
+        decay, hp_checkpoint=check_planet_stats_for_change(ptemp,planetstats)
+        outtext=[]
+        if decay:
+            decay_for_planets = {}
+            for ind, p in decay:
+                planet=vjson['planets'].get(str(ind))
+                if not p in decay_for_planets:
+                    decay_for_planets[p]=[]
+                if planet:
+                    decay_for_planets[p].append(planet['name'])
+            for decay, names in decay_for_planets.items():
+                change=round((float(decay)*3600)/10000,2)
+                outtext.append(",".join(names) + f" decay changed to {change}")
+                print(outtext)
+                
         if ne.type=='m':
             time_since=ne.timestamp-last_time
-            if time_since<MAX_HOUR_DISTANCE*60*60:
-                dc = str(int(ne.day) // 30)
-    
-                time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
-                planetstats = all_times_new[str(dc)][str(ne.timestamp)]
-                if check_planet_stats_for_change(ptemp,planetstats):
-                    print("Checking for max hour difference...")
+            if decay:
+                event_group[0].text="Decay changes: "+" and ".join(outtext)
+                event_group[0].type="decaychange"
+                ne.type='g'
+            elif time_since<MAX_HOUR_DISTANCE*60*60:
+                if decay or hp_checkpoint:
+                    print("Checking for max hour difference...")                    
+                    if hp_checkpoint:
+                        event_group[0].text='Planet HP has reached a checkpoint.'
                     logger.info(f"On event group number {i}, Planet Stats changed significantly between calls.")
                 else:
                     logger.info(f"On event group number {i}, disreguarding outcome.")
                     continue
             time_since=ne.timestamp
+        elif ne.type=="g":
+            if decay and outtext:
+                decayevent = GameEvent(
+                    timestamp=event_group[0].timestamp,
+                    time=event_group[0].time,
+                    day=event_group[0].day,
+                    type="decaychange",
+                    text="Decay changes: "+" and ".join(outtext)
+                )
+                event_group.append(decayevent)
+                
         if not int(ne.timestamp) in days_out.timestamps:
             days_out.timestamps.append(int(ne.timestamp))
         ind = days_out.timestamps.index(int(ne.timestamp))
@@ -1141,7 +1177,8 @@ async def main_code() -> None:
     laststate={}
     print("Updating galaxy")
     for t, s in galaxy_states.states.items():
-        print(t)
+        if t%25==0:
+            print(t)
         for p, resa in s.items():
             if isinstance(resa.link,list):
                 link=unordered_list_hash(resa.link)
