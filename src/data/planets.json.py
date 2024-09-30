@@ -180,7 +180,7 @@ def make_rows(planets: Dict, allplanet: Dict):
             "DPM": 0 if missions <= 0 else (stats.deaths or 0) / missions,
             "KPM": 0 if missions <= 0 else kills / missions,
             "KTD": kills / max(stats.deaths or 1, 1),
-            "FKR":((stats.friendlies) / max(stats.deaths,1))*100.0,
+            "FKR": ((stats.friendlies) / max(stats.deaths, 1)) * 100.0,
             "WTL": (
                 0
                 if stats.missionsLost <= 0 or stats.missionsWon <= 0

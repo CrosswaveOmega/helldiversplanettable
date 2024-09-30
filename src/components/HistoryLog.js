@@ -590,11 +590,24 @@ export function eList(history, count, parentCard, mode = 0) {
         parentCard.appendChild(headingElement);
 
         for (const each of entry.log) {
-            const textElement = document.createElement("span");
-            textElement.textContent = each.text;
-            parentCard.appendChild(textElement);
+            if (/<br\/>/.test(each.text)) {
+                // Extract list items
+                const listItems = each.text.split('<br/>');
+                listItems.forEach((itemString) => {
+                    const textElement = document.createElement("span");
+                    textElement.textContent = "+ "+itemString;
+                    parentCard.appendChild(textElement);
+                    parentCard.appendChild(document.createElement("br"));
+                });
+              } else {
+                // Handle text that doesn't contain unordered lists
 
-            parentCard.appendChild(document.createElement("br"));
+                const textElement = document.createElement("span");
+                textElement.textContent = each.text;
+                parentCard.appendChild(textElement);
+                parentCard.appendChild(document.createElement("br"));
+              }
+
         }
         const timeElement = document.createElement("strong");
         timeElement.textContent = entry.time;
@@ -781,11 +794,26 @@ export function ListAll(history, parentCard, mode = 0) {
                 headingElement2.href = `#day${entry.day}`;
                 parentCard.appendChild(headingElement2);
             } else {
-                const textElement = document.createElement("span");
-                textElement.textContent = ` ${each.text} (${entry.time} UTC)`;
-                parentCard.appendChild(textElement);
 
-                parentCard.appendChild(document.createElement("br"));
+                    if (/<br\/>/.test(each.text)) {
+                        // Extract list items
+                        const listItems = each.text.split('<br/>');
+                        listItems.forEach((itemString) => {
+                            const textElement = document.createElement("span");
+                            textElement.textContent = "+ "+itemString;
+                            parentCard.appendChild(textElement);
+                            parentCard.appendChild(document.createElement("br"));
+                        });
+                      } else {
+                        // Handle text that doesn't contain unordered lists
+
+                        const textElement = document.createElement("span");
+                        textElement.textContent = each.text;
+                        parentCard.appendChild(textElement);
+                        parentCard.appendChild(document.createElement("br"));
+                      }
+
+
             }
         }
 

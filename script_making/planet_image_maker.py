@@ -14,15 +14,17 @@ from sklearn.cluster import KMeans
 CLOUD_ALPHA = 180
 
 
-'''This script makes unique planet images.'''
+"""This script makes unique planet images."""
 
 
+BIOME_IMAGE_PATH = r"./src/data/biome_images/*"
+OUTPUT_PATH = "./src/data/planets/"
+FONT_PATH = "./src/data/gen_data/Michroma-Regular.ttf"
 
-BIOME_IMAGE_PATH =r"./src/data/biome_images/*"
-OUTPUT_PATH="./src/data/planets/"
-FONT_PATH="./src/data/gen_data/Michroma-Regular.ttf"
 
-def draw_streak(draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]):
+def draw_streak(
+    draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]
+):
     """
     Draw a streak on the given image with random start and end points.
 
@@ -51,7 +53,9 @@ def draw_streak(draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int
     )
 
 
-def draw_spiral(draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]):
+def draw_spiral(
+    draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]
+):
     """
     Draw a spiral pattern in the image center.
 
@@ -83,7 +87,9 @@ def draw_spiral(draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int
     )
 
 
-def draw_squacked_ellipse(draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]):
+def draw_squacked_ellipse(
+    draw: ImageDraw, xpix: int, ypix: int, lightest_color: Tuple[int, int, int]
+):
     """
     Draw a squashed ellipse at a random position in the image.
 
@@ -112,7 +118,14 @@ def draw_squacked_ellipse(draw: ImageDraw, xpix: int, ypix: int, lightest_color:
         outline=None,
     )
 
-def generate_random_clouds(xpix: int, ypix: int, num_clouds: int, lightest_color: Tuple[int, int, int], img: Image.Image):
+
+def generate_random_clouds(
+    xpix: int,
+    ypix: int,
+    num_clouds: int,
+    lightest_color: Tuple[int, int, int],
+    img: Image.Image,
+):
     cloudimg = Image.new("RGBA", (xpix, ypix), (0, 0, 0, 0))
     draw = ImageDraw.Draw(cloudimg)
 
@@ -154,7 +167,9 @@ def saturation(color: Tuple[int, int, int]) -> float:
     return saturation_value
 
 
-def sort_colors_by_saturation(colors: List[Tuple[int, int, int]]) -> List[Tuple[int, int, int]]:
+def sort_colors_by_saturation(
+    colors: List[Tuple[int, int, int]]
+) -> List[Tuple[int, int, int]]:
     """
     Sort a list of colors by their saturation.
 
@@ -200,8 +215,14 @@ def extract_colors(image_path: str, num_colors: int = 7) -> np.ndarray:
 
 
 def render_planet(
-    texture: np.ndarray, xpix: int, ypix: int, sphere_center: Tuple[int, int],
-    sphere_radius: int, angle: float, light_dir: np.ndarray, biome: str
+    texture: np.ndarray,
+    xpix: int,
+    ypix: int,
+    sphere_center: Tuple[int, int],
+    sphere_radius: int,
+    angle: float,
+    light_dir: np.ndarray,
+    biome: str,
 ) -> Image.Image:
     """
     Render a planet texture with lighting and biome effects.
@@ -288,7 +309,13 @@ def render_planet(
 
 
 def make_new_texture(
-    colors: np.ndarray, nme: str, num_craters: int, num_clouds: int, xpix: int, ypix: int, biome_name: str
+    colors: np.ndarray,
+    nme: str,
+    num_craters: int,
+    num_clouds: int,
+    xpix: int,
+    ypix: int,
+    biome_name: str,
 ) -> Image.Image:
     """
     Generate a new texture for a planet based on noise and color mapping.
@@ -365,7 +392,12 @@ def make_new_texture(
 
 
 def generate_planet_texture(
-    colors: np.ndarray, num_craters: int, num_clouds: int, nme: str = "", biome_name: str = "Unknown", make_a_new_texture: bool = True
+    colors: np.ndarray,
+    num_craters: int,
+    num_clouds: int,
+    nme: str = "",
+    biome_name: str = "Unknown",
+    make_a_new_texture: bool = True,
 ):
     """
     Generate a planet texture and create a rotating gif.
@@ -429,6 +461,7 @@ def generate_planet_texture(
         texture, sphere_center, sphere_radius, frames, output_path, biome_name
     )
 
+
 def threshold_color(color_tuple: Tuple[int, int, int]) -> Tuple[int, int, int]:
     """
     Apply a threshold to the RGB values of a color.
@@ -439,7 +472,7 @@ def threshold_color(color_tuple: Tuple[int, int, int]) -> Tuple[int, int, int]:
     Returns:
         The thresholded color.
     """
-        # Divide each RGB value by 32 and round up to the nearest integer
+    # Divide each RGB value by 32 and round up to the nearest integer
     thresholded_tuple = tuple(int(math.ceil(value / 8) * 8) for value in color_tuple)
     return thresholded_tuple
 
@@ -535,5 +568,6 @@ def get_planet(ind: int, biome_name: str):
         return generate_planet_texture(use, 0, 2, f"planet_{ind}", biome_name)
     return None
 
+
 for i, v in all_colors.items():
-    get_planet(i,i)
+    get_planet(i, i)
