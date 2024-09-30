@@ -2017,6 +2017,10 @@ Decay changes: Gatria decay changed to 1.5 (2024-09-05 00:00)<br/>
 Decay changes: Phact Bay decay changed to 1.5 (2024-09-06 06:00)<br/>
 
 ### Day: #212
+*Yed Prior* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Zefia* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Clasa* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
+*Demiurg* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
 *Mastia* - *Gaellivare* supply line is added (2024-09-06 16:23)<br/>
 *Mastia* - *Shelt* supply line is added (2024-09-06 16:23)<br/>
 *Shallus* - *Mastia* supply line is added (2024-09-06 16:23)<br/>
@@ -2027,10 +2031,6 @@ Decay changes: Phact Bay decay changed to 1.5 (2024-09-06 06:00)<br/>
 *Claorell* - *Imber* supply line is added (2024-09-06 16:23)<br/>
 *Lesath* - *Gaellivare* supply line is added (2024-09-06 16:23)<br/>
 *Lesath* - *Vog-Sojoth* supply line is added (2024-09-06 16:23)<br/>
-*Yed Prior* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
-*Zefia* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
-*Clasa* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
-*Demiurg* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23)<br/>
 Major Order | Operation Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:25)<br/>
@@ -2182,6 +2182,10 @@ Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* fr
 ### Day: #234
 Major Order | Operation Warp Drives is issued | Objective: Control (2024-09-28 18:35)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs. The Helldivers are ordered to clear *Turing* of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS. (2024-09-28 18:35)<br/>
+*Achird III* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50)<br/>
+*Achernar Secundus* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50)<br/>
+*Darius II* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50)<br/>
+*Ursica XI* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50)<br/>
 *Ursica XI* - *Achird III* supply line is added (2024-09-28 20:54)<br/>
 *Darius II* - *Acamar IV* supply line is added (2024-09-28 20:54)<br/>
 *Achernar Secundus* - *Ursica XI* supply line is added (2024-09-28 20:54)<br/>
@@ -2200,3 +2204,10 @@ Decay changes: Darius II decay changed to 0.0 and Phact Bay decay changed to 2.0
 
 ### Day: #235
 Decay changes: Turing decay changed to 2.5 (2024-09-29 09:00)<br/>
+*Darius II* defense is failed (2024-09-29 21:30)<br/>
+↳ *Darius II* liberation campaign starts (2024-09-29 21:30)<br/>
+Decay changes: Darius II decay changed to 2.5 (2024-09-29 22:00)<br/>
+*Achird III* of the Borgus sector is attacked by Terminids (2024-09-30 07:05)<br/>
+
+### Day: #236
+Decay changes: Shelt decay changed to 1.0 and Darius II decay changed to 1.5 and Achird III decay changed to 0.0 (2024-09-30 09:00)<br/>
