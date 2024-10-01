@@ -694,7 +694,8 @@ async def get_planet_stats(
 
     if dc not in all_times_new:
         ents = fetch_entries_by_dayval(conn, dc)
-        # print(ents)
+        for k in list(all_times_new.keys()):
+            all_times_new.pop(k)
         all_times_new[dc] = ents
 
     if timestamp not in all_times_new[dc]:
@@ -1142,159 +1143,160 @@ def derive_decay_names(names):
         return [s["name"] for s in names]
 
 
+class PlanetHistoryDelta():
+    '''Calculate a history delta of all changes that happened across each planet.'''
+
+    def __init__(self):
+        self.hashlinks={}
+        self.resort={}
+        self.laststate={}
+
+    def delta_format(
+        self, t, ptemp: Optional[Dict[str, PlanetState]]
+    ):
+        '''Add to the ongoing history delta.'''
+        for p, resa in ptemp.items():
+            if isinstance(resa.link, list):
+                link = unordered_list_hash(resa.link)
+                if not link in self.hashlinks:
+                    self.hashlinks[link] = resa.link
+                else:
+                    if sorted(resa.link) != sorted(self.hashlinks[link]):
+                        logger.warning(
+                            "MISMATCH: resa.link=%s, hashlinks[link]=%s",
+                            resa.link,
+                            self.hashlinks[link],
+                        )
+                resa.link2 = link
+        if self.laststate:
+            for p, rese in ptemp.items():
+                res = rese.model_dump(warnings="error", exclude=["link"])
+                if not p in self.resort:
+                    self.resort[p] = []
+
+                keys_all = list(res.keys())
+                toad = {}
+                for key in keys_all:
+                    if key not in self.laststate[p]:
+                        self.laststate[p][key] = None
+                    if self.laststate[p][key] != res[key]:
+                        toad[key] = res[key]
+                if toad:
+                    toad["eind"] = t
+                    self.resort[p].append(toad)
+        else:
+            for p, rese in ptemp.items():
+                res = rese.model_dump(warnings="error", exclude=["link"])
+                if not p in self.resort:
+                    self.resort[p] = [res]
+                    self.resort[p][0]["eind"] = t
+        self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
 
-def delta_format(
-    t, ptemp: Optional[Dict[str, PlanetState]], hashlinks, resort, laststate
-):
-    for p, resa in ptemp.items():
-        if isinstance(resa.link, list):
-            link = unordered_list_hash(resa.link)
-            if not link in hashlinks:
-                hashlinks[link] = resa.link
-            else:
-                if sorted(resa.link) != sorted(hashlinks[link]):
-                    logger.warning(
-                        "MISMATCH: resa.link=%s, hashlinks[link]=%s",
-                        resa.link,
-                        hashlinks[link],
-                    )
-            resa.link2 = link
-    if laststate:
-        for p, rese in ptemp.items():
-            res = rese.model_dump(warnings="error", exclude=["link"])
-            if not p in resort:
-                resort[p] = []
-
-            keys_all = list(res.keys())
-            toad = {}
-            for key in keys_all:
-                if key not in laststate[p]:
-                    laststate[p][key] = None
-                if laststate[p][key] != res[key]:
-                    toad[key] = res[key]
-            if toad:
-                toad["eind"] = t
-                resort[p].append(toad)
-    else:
-        for p, rese in ptemp.items():
-            res = rese.model_dump(warnings="error", exclude=["link"])
-            if not p in resort:
-                resort[p] = [res]
-                resort[p][0]["eind"] = t
-    laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
-    return hashlinks, resort, laststate
 
 
-async def main_code() -> None:
-    """Create the historydata.json file using result from format_event_object."""
-    conn = sqlite3.connect(DATABASE_FILE)
-    planetlist: List[Tuple[int, Dict[str, Any]]] = []
-    planets, temp = initialize_planets()
-    planetlist.append((0, planets))
-    logger.info("loading objects")
+class GalaxyEventProcessor:
+    '''Specialized processing object for the historydata.json file and galaxy_states.'''
+    def __init__(self, db_file: str, planets: Dict[str, Any], temp: Dict[str, PlanetState]):
+        self.conn = sqlite3.connect(db_file)
+        self.planets = planets
+        self.temp = temp
+        self.march_5th = datetime(2024, 3, 5,7, tzinfo=timezone.utc)
+        self.all_times_new = {}
+        self.store={}
+        self.laststats={}
+        self.galaxy_states = GalaxyStates(gstatic=planets, states={})
+        self.phistdelta = PlanetHistoryDelta()
+        self.last_time = 0
+        self.newevt = []
+        self.days_out = None
 
-    # LOAD DAYS OBJECT
-    days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out2.json"))
-    logger.info("done")
+    def initialize_days(self, days_out_data: Dict[str, Any]):
+        self.days_out = DaysObject(**days_out_data)
+        self.days_out.days = {}
+        self.days_out.galaxystatic = self.planets
+        self.days_out.lastday = 1
+        self.days_out.dayind = {}
+        self.days_out.timestamps = []
 
-    all_times_new = {}
+    def load_days_object(self):
+        days_out_data = check_and_load_json("./src/data/gen_data/out2.json")
+        self.initialize_days(days_out_data)
 
-    laststats: Dict[int, Dict[str, Any]] = {}
-    march_5th = datetime(2024, 3, 5, tzinfo=timezone.utc)
-    store: Dict[str, str] = {}
-    galaxy_states = GalaxyStates(gstatic=planets, states={})
-    days_out.days = {}
-    days_out.galaxystatic = planets
-    days_out.lastday = 1
-    days_out.dayind = {}
-    days_out.timestamps = []
-    grouped_events = group_events_by_timestamp(days_out)
-
-    last_time = 0
-    newevt = []
-    hashlinks = {}
-    resort = {}
-    laststate = {}
-
-    # EVENT GROUP LIST
-    for i, event_group in enumerate(grouped_events):
+    async def process_event_group(self, i: int, event_group: List[GameEvent]):
         elog = []
         ne = GameEvent(
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
             day=event_group[0].day,
         )
-        if event_group[0].type == "monitor":
-            ne.type = "m"
-        else:
-            ne.type = "g"
-            last_time = ne.timestamp
+        ne.type = "m" if event_group[0].type == "monitor" else "g"
+        if ne.type == "g":
+            self.last_time = ne.timestamp
 
-        # retrieve planet stats from cache
-        planetstats = await get_planet_stats(conn, ne, all_times_new, march_5th)
-        all_players = 0
-
-        for v in planetstats.values():
-            if "players" in v:
-                all_players += v["players"]
-
+        planetstats = await get_planet_stats(self.conn, ne, self.all_times_new, self.march_5th)
+        all_players = sum(v.get("players", 0) for v in planetstats.values())
         ne.all_players = all_players
+
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
-        ptemp = {k: v.model_copy(deep=True) for k, v in temp.items()}
 
-        # Check for HP Checkpoint or decay change.
+        ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
-        planetstats = all_times_new[str(dc)][str(ne.timestamp)]
+        planetstats = self.all_times_new[dc][str(ne.timestamp)]
         decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
         outtext = handle_decay_events(decay)
 
-        # CHECK IF MONITOR EVENT SHOULD BE SKIPPED.
         if ne.type == "m":
-            time_since = ne.timestamp - last_time
-            if decay:
-                event_group[0].text = "" + "<br/>".join(outtext) + "\n"
-                event_group[0].type = "decaychange"
-                ne.type = "g"
-            elif time_since < MAX_HOUR_DISTANCE * 60 * 60:
-                if decay or hp_checkpoint:
-                    print("Checking for max hour difference...")
-                    if hp_checkpoint:
-                        event_group[0].text = "Planet HP has reached a checkpoint."
-                    logger.info(
-                        f"On event group number {i}, Planet Stats changed significantly between calls."
-                    )
-                else:
-                    logger.info(f"On event group number {i}, disreguarding outcome.")
-                    continue
-            time_since = ne.timestamp
-        elif ne.type == "g":
-            if decay and outtext:
-                decayevent = GameEvent(
-                    timestamp=event_group[0].timestamp,
-                    time=event_group[0].time,
-                    day=event_group[0].day,
-                    type="decaychange",
-                    text="" + "<br/>".join(outtext) + "\n",
-                )
-                event_group.append(decayevent)
+            if not self.process_monitor_event(event_group, ne, decay, hp_checkpoint, outtext):
+                return  # Skip the event group
+        elif ne.type == "g" and decay and outtext:
+            self.handle_decay_event(event_group, ne, outtext)
 
-        if not int(ne.timestamp) in days_out.timestamps:
-            days_out.timestamps.append(int(ne.timestamp))
-        ind = days_out.timestamps.index(int(ne.timestamp))
-        ne.eind = ind
+        await self.process_event_logs(event_group, ne, ptemp)
+        self.phistdelta.delta_format(ne.eind, ptemp)
+        self.newevt.append(ne)
 
-        for e, event in enumerate(event_group):
-            #add sub events
+    def process_monitor_event(self, event_group: List[GameEvent], ne: GameEvent, decay: bool, hp_checkpoint: bool, outtext: List[str]):
+        time_since = ne.timestamp - self.last_time
+        if decay:
+            event_group[0].text = "" + "<br/>".join(outtext) + "\n"
+            event_group[0].type = "decaychange"
+            ne.type = "g"
+        elif hp_checkpoint:
+            event_group[0].text = "Planet HP has reached a checkpoint."
+        elif time_since < MAX_HOUR_DISTANCE * 60 * 60:
+            return False  # Skip event
+        self.last_time = ne.timestamp
+        return True
+
+    def handle_decay_event(self, event_group: List[GameEvent], ne: GameEvent, outtext: List[str]):
+        '''Add a new decaychange event based on the given event group.'''
+        decay_event = GameEvent(
+            timestamp=event_group[0].timestamp,
+            time=event_group[0].time,
+            day=event_group[0].day,
+            type="decaychange",
+            text="" + "<br/>".join(outtext) + "\n",
+        )
+        event_group.append(decay_event)
+
+    async def process_event_logs(self, event_group: List[GameEvent], ne: GameEvent, ptemp: Dict[str, Any]):
+        '''Turn each event in event_group into a GameSubEvent'''
+        elog=[]
+        if int(ne.timestamp) not in self.days_out.timestamps:
+            self.days_out.timestamps.append(int(ne.timestamp))
+        ne.eind = self.days_out.timestamps.index(int(ne.timestamp))
+
+        for event in event_group:
             ptemp = await process_event(
-                days_out,
+                self.days_out,
                 ptemp,
-                laststats,
+                self.laststats,
                 event,
-                ind,
-                store,
-                all_times_new,
+                ne.eind,
+                self.store,  
+                self.all_times_new,
             )
             elog.append(
                 GameSubEvent(
@@ -1304,62 +1306,43 @@ async def main_code() -> None:
                     faction=event.faction,
                 )
             )
-            temp = ptemp
-            ne.mo = event.mo
+        self.temp=ptemp
         ne.log = elog
-        newevt.append(ne)
 
-        # galaxystate delta processing.
-        hashlinks, resort, laststate = delta_format(
-            ne.eind, ptemp, hashlinks, resort, laststate
-        )
+    def save_results(self):
 
-    days_out.events = newevt
-    galaxy_states.states = {}
-    galaxy_states.gstate = resort
-    galaxy_states.links = hashlinks
+        '''Save Results'''
+        print("Saving galaxy states.")
+        logger.info("Saving galaxy states.")
+        galaxy_states_dump = self.galaxy_states.model_dump(warnings="error")
+        save_json_data("./src/data/gstates.json", galaxy_states_dump)
+        save_json_data("./src/data/resort.json", self.phistdelta.resort, indent=3)
+        markdowncode = make_markdown_log(self.days_out)
+        with open("./src/history_log_full.md", "w", encoding="utf8") as file:
+            file.write(markdowncode)
+        logger.info("Saving data")
+        print("Saving data")
+        history_dump = self.days_out.model_dump(exclude_none=True, warnings="error")
+        save_json_data("./src/data/historydata.json", history_dump)
 
-    print(hashlists)
-    logger.info("%s", hashlists)
+    async def run(self):
+        self.load_days_object()
+        grouped_events = group_events_by_timestamp(self.days_out)
 
-    markdowncode = make_markdown_log(days_out)
+        for i, event_group in enumerate(grouped_events):
+            await self.process_event_group(i, event_group)
 
-    with open("./src/history_log_full.md", "w", encoding="utf8") as file:
-        file.write(markdowncode)
-    logger.info("saving data")
-    print("saving data")
-    save_json_data(
-        "./src/data/historydata.json",
-        days_out.model_dump(exclude_none=True, warnings="error"),
-    )
+        self.days_out.events=self.newevt
+        self.galaxy_states.states = {}
+        self.galaxy_states.gstate = self.phistdelta.resort
+        self.galaxy_states.links = self.phistdelta.hashlinks
+        self.save_results()
+        self.conn.close()
 
-    print("saving galaxy states.")
-    logger.info("saving galaxy states.")
-
-    for state_name, state_value in galaxy_states.__dict__.items():
-        # process each state as needed
-        print(state_name)
-        logger.info("%s", state_name)
-        if isinstance(state_value, BaseModel):
-            print(state_value.model_dump(warnings="error"))
-            logger.info("%s", state_value.model_dump(warnings="error"))
-        else:
-            print(
-                f"Expected BaseModel but got {type(state_value).__name__} for {state_name}"
-            )
-            logger.info(
-                "Expected BaseModel but got %s for %s",
-                type(state_value).__name__,
-                state_name,
-            )
-
-    save_json_data(
-        "./src/data/gstates.json", galaxy_states.model_dump(warnings="error")
-    )
-
-    save_json_data("./src/data/resort.json", resort, indent=3)
-    conn.close()
-
+async def main_code():
+    planets, temp = initialize_planets()
+    processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
+    await processor.run()
 
 def save_json_data(file_path: str, data: Any, **kwargs) -> None:
     """Save json data to a file."""
