@@ -403,6 +403,7 @@ Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new e
 
 ### Day: #43
 Dispatch: CYBERSECURITY UPDATE. A recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation. Any discrepancies are to be considered the result of dissident misinformation. Rest assured that the parties responsible have been identified, arrested, tried, and executed. (2024-03-21 09:26)<br/>
+Dispatch: INTELLIGENCE BRIEF. A new strain of flying Terminids has suddenly appeared across all Terminid planets, with no prior warning or indication of any kind. While the Ministry of Intelligence has always known this was a possibility, the abruptness of the evolution indicates a high possibility of dissident concealment. The deployment of Termicide was fortuitously timed—doubtlessly, it averted an even worse evolution. Helldivers are advised to exterminate these mutations whenever encountered. (2024-03-21 10:24)<br/>
 *Fori Prime* is liberated (2024-03-21 16:36)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-03-21 16:36)<br/>
  Decay: 500.0 on Fori Prime<br/> Decay: 0.0 on Oshaune
@@ -2680,3 +2681,12 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 ### Day: #236
  Decay: 1.0 on Shelt<br/> Decay: 1.5 on Darius II<br/> Decay: 0.0 on Achird III
  (2024-09-30 09:00)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-09-30 17:54)<br/>
+ Decay: 0.0 on Pandion-XXIV
+ (2024-09-30 20:00)<br/>
+*Achird III* defense is won (2024-09-30 22:02)<br/>
+ Decay: 500.0 on Achird III
+ (2024-10-01 00:00)<br/>
+
+### Day: #237
+*Pandion-XXIV* defense is won (2024-10-01 15:15)<br/>
