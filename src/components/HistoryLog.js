@@ -301,7 +301,6 @@ export function makeplot(
     history,
     gstates,
     planetimages,
-    backround,
     target,
     slider,
     world,

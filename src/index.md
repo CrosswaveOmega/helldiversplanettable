@@ -32,6 +32,13 @@ import {
   import {
     makeplot,eList,ListAll, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
+
+
+  
+import {
+  get_update_time_local, get_update_time_utc
+} from "./components/time_utils.js";
+
 const planets = FileAttachment("./data/planets.json").json();
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const historydata= await FileAttachment("./data/historydata.json").json();
@@ -41,9 +48,8 @@ import { format } from "d3-format";
 import { timeFormat } from "d3-time-format";
 import { inputs } from "@observablehq/inputs";
 
-const timestamp = new Date();
-const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
-const update_time = "This website was last updated on " + lasttime['update_time'];
+
+const update_time = "This table was last updated on " + get_update_time_local(lasttime['update_time']);
 const ns = Inputs.text().classList[0];
 console.log(ns);
 function addDynamicCSS(ns) {
@@ -143,3 +149,10 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
+### Changelog
+
+* October 2nd, 2024
+  * Changed the primary website font to Chakra Petch, which looks much closer to the in game font.
+  * Decay rate changes are now recorded on the history log.
+  * Last update time is now (hopefully) displayed in the browser's local timezone.
+  

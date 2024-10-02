@@ -21,7 +21,8 @@ sidebar: true
       import {
     BattleList,SectorBattleList
   } from "./components/battle_list_gen.js";
-  
+  import {get_update_time_local, get_update_time_utc} from "./components/time_utils.js";
+
 ```
 
 ```js
@@ -36,16 +37,25 @@ const historydata= await FileAttachment("./data/historydata.json").json();
 ```
 ```js
 
-const update_time = "This website was last updated on " + lasttime['update_time'];
+var update_time_string = lasttime['update_time']
 
+var update_time_local = get_update_time_local(lasttime['update_time'])
+var update_time_utc =get_update_time_utc(lasttime['update_time'])
 
 
 
 
 function sector_battle_table(historydata, mode, {width}) {
+  /**
+   * Generates a table representation of sector battles.
+   * @param {DaysObject} historydata - The historical battle data.
+   * @param {number} mode - Determines the table mode for display formatting.
+   * @param {Object} width - The width configuration for the table.
+   * @returns {Object} - The table object for rendering sector battles information.
+   */
   const countDistinctPlanetsData = count_distinct_sector_battles(historydata,false,sector_data)[0];
   let planets = Object.values(countDistinctPlanetsData);
-  
+
   let columns = [];
   let header = {};
   //planetTypes[sector] = { 'name': sector, 'planets': {},'battles':0,'win':0,'loss':0};
@@ -59,7 +69,7 @@ function sector_battle_table(historydata, mode, {width}) {
       loss: "Campaigns Lost",
       current: "Campaigns Ongoing"
     };
-  } 
+  }
 
   return Inputs.table(planets, {
     columns: columns,
@@ -68,13 +78,18 @@ function sector_battle_table(historydata, mode, {width}) {
     height:(planets.length)*22-1,
   sort:'campaigns',
   reverse:true,
-    
+
   });
 }
 
 function sum_entries_by_front(historydata) {
+  /**
+   * Sums up entries related to each front from historical data.
+   * @param {DaysObject} historydata - The historical battle data.
+   * @returns {Object} - An object containing summed up battle data by fronts.
+   */
   const frontSums = {};
-  
+
   const planetTypes = count_distinct_planet_battles(historydata,false,sector_data)[0];
   for (const sector in planetTypes) {
     const { front, battles, win, loss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
@@ -114,6 +129,13 @@ function sum_entries_by_front(historydata) {
 
 
 function count_distinct_planets_table(historydata, mode, {width}) {
+  /**
+   * Generates a table representation of distinct planets.
+   * @param {DaysObject} historydata - The historical planet data.
+   * @param {number} mode - Determines the table mode for display formatting.
+   * @param {Object} width - The width configuration for the table.
+   * @returns {Object} - The table object for rendering distinct planet information.
+   */
   const countDistinctPlanetsData = count_distinct_planets(historydata,planets);
   let planet_data = Object.values(countDistinctPlanetsData);
 
@@ -134,7 +156,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
     columns = ['name', 'campaigns','lib_campaigns', 'libwins', 'liblost'];
     header = {
       name: 'Planet',
-      
+
       campaigns: "Campaigns",
       lib_campaigns: "Liberation Campaigns",
       libwins: "Liberations Won",
@@ -144,7 +166,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
     columns = ['name','campaigns', 'defenses', 'defenses_won', 'defenses_lost'];
     header = {
       name: 'Planet',
-      
+
       campaigns: "Campaigns",
       defenses: "Defense Campaigns",
       defenses_won: "Defenses Won",
@@ -155,10 +177,10 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   return Inputs.table(planet_data, {
     columns: columns,
     header: header,
-    width: width, 
+    width: width,
   sort:'campaigns',
   reverse:true,
-    
+
   });
 }
 
@@ -167,7 +189,27 @@ const entry_sums=sum_entries_by_front(historydata);
 ```
 
 
-${update_time}
+### ${update_time_utc} 
+### ${update_time_local}
+
+**ALL DISPLAYED TIMES ARE IN UTC**
+
+<details>
+<summary><bold>What does this all mean?</bold></summary>
+
+A Battle is any liberation or defence campaign on a world.
+
+Battles end when a planet is liberated, we lose access to a planet's supply lines, or we successfully defend a world.
+
+We win battles if we successfully liberate or defend a world.
+
+We lose battles if we fail to defend a world, or the world in question can't be reached from supply lines.
+
+</details>
+
+
+
+
 
 Ongoing Battles
 <div class="grid grid-cols-1">
@@ -256,8 +298,14 @@ All Sector Battles
       <span >Lost: ${entry_sums['AUTOMATON'].defenselost}</span><br/>
       <span >Win%: ${(100*entry_sums['AUTOMATON'].defensewon/(entry_sums['AUTOMATON'].defensewon+entry_sums['AUTOMATON'].defenselost)).toFixed(2)}</span><br/>
   </div>
-
 </div>
+
+
+
+
+
+
+### Data Tables.
 <div class="grid grid-cols-1">
     <div  class='card' style="font-size: 1.1em;">
     ${resize((width) => sector_battle_table(historydata,0,{width}))}

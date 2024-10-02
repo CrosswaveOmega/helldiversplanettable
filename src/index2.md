@@ -24,16 +24,15 @@ import {
   } from "./components/dataplots.js";
 const planets = FileAttachment("./data/planets.json").json();
 const lasttime = FileAttachment("./data/lasttime.json").json();
+import {get_update_time_local, get_update_time_utc} from "./components/time_utils.js";
 ```
 ```js
 import { format } from "d3-format";
 import { timeFormat } from "d3-time-format";
 import { inputs } from "@observablehq/inputs";
 
-const timestamp = new Date();
-const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
-const update_time = "This data was last updated on " + lasttime['update_time'];
 
+const update_time = "This table was last updated on " + get_update_time_local(lasttime['update_time']);
 
 ```
 

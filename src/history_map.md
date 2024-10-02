@@ -13,7 +13,7 @@ title: The Great Big Galactic War History Map
   import {
     makeplot,eList, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
-  
+    import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
 ```
 
 ```js
@@ -24,7 +24,6 @@ const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
 const gstates = FileAttachment("./data/gstates.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
-
 const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
 const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
@@ -40,12 +39,10 @@ const historydata= await FileAttachment("./data/historydata.json").json();
 ```
 ```js
 import { format } from "d3-format";
-import { timeFormat } from "d3-time-format";
+
 import { inputs } from "@observablehq/inputs";
 
-const timestamp = new Date();
-const formattedTimestamp = timeFormat("%Y-%m-%d %H:%M:%S %Z")(timestamp);
-const update_time = "This map was last updated on " + lasttime['update_time'];
+const update_time = "This table was last updated on " + get_update_time_local(lasttime['update_time']);
 
 for (const event of historydata.events){
   // You can process each event here
@@ -188,7 +185,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div  class="card grid-colspan-2 grid-rowspan-2">
  ${theseinputs}
   ${daysSlider}
-    ${resize((width) => makeplot(historydata,gstates,planetimages,backround,targets,count,world,{width, showImages,htarget,ttarget,atarget}))}
+    ${resize((width) => makeplot(historydata,gstates,planetimages,targets,count,world,{width, showImages,htarget,ttarget,atarget}))}
   </div>
   
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">
