@@ -375,7 +375,6 @@ def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     keys = sorted(list(myplanets.keys()), key=len, reverse=True)
 
     for planet in keys:
-        # Use \b word boundaries to ensure we match the full planet name
         if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
             planets.append((planet, myplanets[planet]))
             # Replace the matched planet name with a placeholder to prevent re-matching
@@ -688,6 +687,7 @@ valid_waypoints = {0: []}
 async def get_planet_stats(
     conn, ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime
 ) -> Dict[int, Dict[str, Any]]:
+    '''Retrieve the current planet status if present.'''
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
     cursor = conn.cursor()
@@ -1092,9 +1092,8 @@ def group_by_sector(planet_list, all_planets):
             logger.info(f"Sector {sector_name} is filled properly.")
 
 
-def group_events_by_timestamp(days_out):
+def group_events_by_timestamp(days_out: DaysObject):
     events_by_timestamp = {}
-
     # Inital event grouping.
     for i, event in enumerate(days_out.events):
         print(i, event)
@@ -1117,8 +1116,8 @@ def handle_decay_events(decay):
             if planet:
                 decay_for_planets[p].append(planet)
 
-        for decay, names in decay_for_planets.items():
-            usenames = derive_decay_names(names)
+        for decay, planets in decay_for_planets.items():
+            usenames = derive_decay_names(planets)
             change = round((float(decay) * 3600) / 10000, 2)
             outtext.append(f" Decay: {change} on " + ", ".join(usenames))
             print(outtext)
@@ -1143,19 +1142,18 @@ def derive_decay_names(names):
         return [s["name"] for s in names]
 
 
-class PlanetHistoryDelta():
-    '''Calculate a history delta of all changes that happened across each planet.'''
+class PlanetHistoryDelta:
+    """Calculate a history delta of all changes that happened across each planet."""
 
     def __init__(self):
-        self.hashlinks={}
-        self.resort={}
-        self.laststate={}
+        self.hashlinks = {}
+        self.resort: Dict[str, List[Dict[str, Any]]] = {}
+        self.laststate = {}
 
-    def delta_format(
-        self, t, ptemp: Optional[Dict[str, PlanetState]]
-    ):
-        '''Add to the ongoing history delta.'''
+    def delta_format(self, t, ptemp: Optional[Dict[str, PlanetState]]):
+        """Add to the ongoing history delta."""
         for p, resa in ptemp.items():
+            # Add in links to hashlinks.
             if isinstance(resa.link, list):
                 link = unordered_list_hash(resa.link)
                 if not link in self.hashlinks:
@@ -1169,6 +1167,8 @@ class PlanetHistoryDelta():
                         )
                 resa.link2 = link
         if self.laststate:
+            # Check for changes between Last state and the
+            # Current temporary planet
             for p, rese in ptemp.items():
                 res = rese.model_dump(warnings="error", exclude=["link"])
                 if not p in self.resort:
@@ -1193,18 +1193,19 @@ class PlanetHistoryDelta():
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
 
-
-
 class GalaxyEventProcessor:
-    '''Specialized processing object for the historydata.json file and galaxy_states.'''
-    def __init__(self, db_file: str, planets: Dict[str, Any], temp: Dict[str, PlanetState]):
+    """Specialized processing object for the historydata.json file and galaxy_states."""
+
+    def __init__(
+        self, db_file: str, planets: Dict[str, Any], temp: Dict[str, PlanetState]
+    ):
         self.conn = sqlite3.connect(db_file)
         self.planets = planets
         self.temp = temp
-        self.march_5th = datetime(2024, 3, 5,7, tzinfo=timezone.utc)
+        self.march_5th = datetime(2024, 3, 5, 7, tzinfo=timezone.utc)
         self.all_times_new = {}
-        self.store={}
-        self.laststats={}
+        self.store = {}
+        self.laststats = {}
         self.galaxy_states = GalaxyStates(gstatic=planets, states={})
         self.phistdelta = PlanetHistoryDelta()
         self.last_time = 0
@@ -1234,7 +1235,9 @@ class GalaxyEventProcessor:
         if ne.type == "g":
             self.last_time = ne.timestamp
 
-        planetstats = await get_planet_stats(self.conn, ne, self.all_times_new, self.march_5th)
+        planetstats = await get_planet_stats(
+            self.conn, ne, self.all_times_new, self.march_5th
+        )
         all_players = sum(v.get("players", 0) for v in planetstats.values())
         ne.all_players = all_players
 
@@ -1248,7 +1251,9 @@ class GalaxyEventProcessor:
         outtext = handle_decay_events(decay)
 
         if ne.type == "m":
-            if not self.process_monitor_event(event_group, ne, decay, hp_checkpoint, outtext):
+            if not self.process_monitor_event(
+                event_group, ne, decay, hp_checkpoint, outtext
+            ):
                 return  # Skip the event group
         elif ne.type == "g" and decay and outtext:
             self.handle_decay_event(event_group, ne, outtext)
@@ -1257,7 +1262,18 @@ class GalaxyEventProcessor:
         self.phistdelta.delta_format(ne.eind, ptemp)
         self.newevt.append(ne)
 
-    def process_monitor_event(self, event_group: List[GameEvent], ne: GameEvent, decay: bool, hp_checkpoint: bool, outtext: List[str]):
+    def process_monitor_event(
+        self,
+        event_group: List[GameEvent],
+        ne: GameEvent,
+        decay: bool,
+        hp_checkpoint: bool,
+        outtext: List[str],
+    ):
+        """
+        The event group in question is a monitor type,
+        so make sure that there's a significant enough change to actually add it.
+        """
         time_since = ne.timestamp - self.last_time
         if decay:
             event_group[0].text = "" + "<br/>".join(outtext) + "\n"
@@ -1270,8 +1286,10 @@ class GalaxyEventProcessor:
         self.last_time = ne.timestamp
         return True
 
-    def handle_decay_event(self, event_group: List[GameEvent], ne: GameEvent, outtext: List[str]):
-        '''Add a new decaychange event based on the given event group.'''
+    def handle_decay_event(
+        self, event_group: List[GameEvent], ne: GameEvent, outtext: List[str]
+    ):
+        """Add a new decaychange event based on the given event group."""
         decay_event = GameEvent(
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
@@ -1281,9 +1299,11 @@ class GalaxyEventProcessor:
         )
         event_group.append(decay_event)
 
-    async def process_event_logs(self, event_group: List[GameEvent], ne: GameEvent, ptemp: Dict[str, Any]):
-        '''Turn each event in event_group into a GameSubEvent'''
-        elog=[]
+    async def process_event_logs(
+        self, event_group: List[GameEvent], ne: GameEvent, ptemp: Dict[str, Any]
+    ):
+        """Turn each event in event_group into a GameSubEvent"""
+        elog = []
         if int(ne.timestamp) not in self.days_out.timestamps:
             self.days_out.timestamps.append(int(ne.timestamp))
         ne.eind = self.days_out.timestamps.index(int(ne.timestamp))
@@ -1295,7 +1315,7 @@ class GalaxyEventProcessor:
                 self.laststats,
                 event,
                 ne.eind,
-                self.store,  
+                self.store,
                 self.all_times_new,
             )
             elog.append(
@@ -1306,12 +1326,13 @@ class GalaxyEventProcessor:
                     faction=event.faction,
                 )
             )
-        self.temp=ptemp
+        self.temp = ptemp
         ne.log = elog
+        ne.mo=self.store.get("mo", "")
+
 
     def save_results(self):
-
-        '''Save Results'''
+        """Save Results"""
         print("Saving galaxy states.")
         logger.info("Saving galaxy states.")
         galaxy_states_dump = self.galaxy_states.model_dump(warnings="error")
@@ -1328,21 +1349,28 @@ class GalaxyEventProcessor:
     async def run(self):
         self.load_days_object()
         grouped_events = group_events_by_timestamp(self.days_out)
-
-        for i, event_group in enumerate(grouped_events):
+        i = 0
+        while grouped_events:
+            event_group = grouped_events.pop(0)
             await self.process_event_group(i, event_group)
+            i += 1
 
-        self.days_out.events=self.newevt
+        # for i, event_group in enumerate(grouped_events):
+        #    await self.process_event_group(i, event_group)
+
+        self.days_out.events = self.newevt
         self.galaxy_states.states = {}
         self.galaxy_states.gstate = self.phistdelta.resort
         self.galaxy_states.links = self.phistdelta.hashlinks
         self.save_results()
         self.conn.close()
 
+
 async def main_code():
     planets, temp = initialize_planets()
     processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
     await processor.run()
+
 
 def save_json_data(file_path: str, data: Any, **kwargs) -> None:
     """Save json data to a file."""
@@ -1351,11 +1379,9 @@ def save_json_data(file_path: str, data: Any, **kwargs) -> None:
 
 
 if not os.path.exists("./src/data/gen_data"):
-
     os.makedirs("./src/data/gen_data", exist_ok=True)
     raise FileNotFoundError("The directory ./src/data/gen_data does not exist.")
 
-# asyncio.run(create_planet_sectors())
 print("Starting up...")
 make_day_obj()
 format_event_obj()

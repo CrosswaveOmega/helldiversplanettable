@@ -50,11 +50,11 @@ export default {
   <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
   <style>
   
-@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 body{ 
-  font-family: 'Goldman' !important;
+  font-family: 'Chakra Petch' !important;
 }
 p,
 table,
@@ -75,17 +75,17 @@ ul,
   max-width: 100%;
 }
 #observablehq-sidebar {
-  font-family: 'Goldman' !important;
+  font-family: 'Chakra Petch' !important;
 
 }
 .card, .big {
-  font-family: 'Goldman' !important;
+  font-family: 'Chakra Petch' !important;
 }
 [class*="inputs"] {
   font-family: 'Roboto Condensed' !important;
 }
 [class*="plot"] {
-  font-family: 'Goldman' !important;
+  font-family: 'Chakra Petch' !important;
 }
 </style>
   

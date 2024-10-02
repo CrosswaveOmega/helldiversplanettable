@@ -151,7 +151,6 @@
     },
     "BlackHoleEffect":{
       "name":"Black Hole",
-      
       "matchable": ["into a black hole"]
       
     },

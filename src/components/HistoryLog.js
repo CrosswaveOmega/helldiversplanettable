@@ -287,6 +287,15 @@ function x_c(x){
 function y_c(y){
     return -y;//*-2000+2000;
 }
+function get_percent(hp){
+    /**
+     * Calculate and return the liberation percentage based on the given hit points (hp).
+     *
+     * @param {number} hp - The hit points value representing the health or state of liberation.
+     * @returns {number} - The calculated liberation percentage rounded to four decimal places.
+     */
+    return Math.round((hp / 1000000) * 100 * 10000) / 10000;
+}
   
 export function makeplot(
     history,
@@ -374,12 +383,12 @@ export function makeplot(
     function generateRandomCoordinates(p,gls) {
         const coordinates = [];
         for (let i = 0; i < gls*4; i++) {
-            const offsetX = getRandomInt(-50,50);
-            const offsetY = getRandomInt(-50,50);
+            const offsetX = getRandomInt(-2,2);
+            const offsetY = getRandomInt(-2,2);
             
             coordinates.push({
-                x: p.x + offsetX,
-                y: p.y + offsetY,
+                x: p.x + offsetX*0.01,
+                y: p.y + offsetY*0.01,
                 gls:gls
             });
             
@@ -388,9 +397,6 @@ export function makeplot(
     }
     console.log(planets);
     gloomPlanets.forEach((p) => {
-
- 
-
         let pos = { x: x_c(p.position.x), y: y_c(p.position.y) }; // example point
         const randomCoords = generateRandomCoordinates(pos,p.gls);
         gloompoints.push(...randomCoords);
@@ -507,17 +513,16 @@ export function makeplot(
                     y: (p) =>y_c(p.position.y)-0.02,
                     text: (p) =>
                         isNaN(
-                            Math.round((p.hp / 1000000) * 100 * 10000) / 10000,
+                            get_percent(p.hp),
                         ) ||
-                        Math.round((p.hp / 1000000) * 100 * 10000) / 10000 ===
-                            100
+                        ((get_percent(p.hp) ===100)||(get_percent(p.hp)===0))
                             ? ""
-                            : ` ${Math.round((p.hp / 1000000) * 100 * 10000) / 10000}`,
+                            : ` ${get_percent(p.hp)}`,
                     dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
                     textAnchor: "top",
                     fill: "white",
                     stroke: "black",
-                    strokeWidth: 2,
+                    strokeWidth: 3,
                 },
                 {},
             ),
@@ -533,8 +538,7 @@ export function makeplot(
                         let main=[
                             `${p.name}\n${p.ta[1] ? "under attack" : ""}`,
                             `Planet HP: ${
-                                Math.round((p.hp / 1000000) * 100 * 10000) /
-                                10000
+                                get_percent(p.hp)
                             }`,
 
                             `Decay Rate: ${
@@ -561,7 +565,8 @@ export function makeplot(
 
 export function eList(history, count, parentCard, mode = 0) {
     /**
-     * Generates a list of events using the provided DaysObject history.
+     * Generates a list of events using the provided DaysObject history,
+     * meant for use with the history map timeline.
      * Each event is displayed as a card on the parent HTML element.
      * 
      * @param {DaysObject} history - The historical data containing game events.
@@ -689,7 +694,7 @@ export function eList(history, count, parentCard, mode = 0) {
 
 export function list_text(history, count, parentCard) {
     /**
-     * Create the text for the event at index count inside parentCart
+     * Create the text for the event at index count inside parentCard
      * Each event is displayed as a card on the parent HTML element.
      * 
      * @param {DaysObject} history - The historical data containing game events.
@@ -732,12 +737,20 @@ export function list_text(history, count, parentCard) {
                 planet = ", on " + planet;
             }
             let text = entry.text + " (type " + entry.type + planet + ")";
-
-            const textElement = document.createElement("span");
-            textElement.textContent = text;
-            parentCard.appendChild(textElement);
-
-            parentCard.appendChild(document.createElement("br"));
+            if (/<br\/>/.test(text)) {
+                const listItems = text.split('<br/>');
+                listItems.forEach((itemString) => {
+                    const textElement = document.createElement("span");
+                    textElement.textContent = "+ "+itemString;
+                    parentCard.appendChild(textElement);
+                    parentCard.appendChild(document.createElement("br"));
+                });
+              } else {
+                const textElement = document.createElement("span");
+                textElement.textContent =text;
+                parentCard.appendChild(textElement);
+                parentCard.appendChild(document.createElement("br"));
+              }
         }
 
         return parentCard;
@@ -794,24 +807,21 @@ export function ListAll(history, parentCard, mode = 0) {
                 headingElement2.href = `#day${entry.day}`;
                 parentCard.appendChild(headingElement2);
             } else {
-
-                    if (/<br\/>/.test(each.text)) {
-                        // Extract list items
-                        const listItems = each.text.split('<br/>');
-                        listItems.forEach((itemString) => {
-                            const textElement = document.createElement("span");
-                            textElement.textContent = "+ "+itemString;
-                            parentCard.appendChild(textElement);
-                            parentCard.appendChild(document.createElement("br"));
-                        });
-                      } else {
-                        // Handle text that doesn't contain unordered lists
-
+                // Split up newlines
+                if (/<br\/>/.test(each.text)) {
+                    const listItems = each.text.split('<br/>');
+                    listItems.forEach((itemString) => {
                         const textElement = document.createElement("span");
-                        textElement.textContent = each.text;
+                        textElement.textContent = "+ "+itemString;
                         parentCard.appendChild(textElement);
                         parentCard.appendChild(document.createElement("br"));
-                      }
+                    });
+                    } else {
+                    const textElement = document.createElement("span");
+                    textElement.textContent = each.text;
+                    parentCard.appendChild(textElement);
+                    parentCard.appendChild(document.createElement("br"));
+                    }
 
 
             }
