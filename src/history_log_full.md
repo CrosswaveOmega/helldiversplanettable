@@ -2690,3 +2690,12 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 
 ### Day: #237
 *Pandion-XXIV* defense is won (2024-10-01 15:15)<br/>
+ Decay: 1.5 on Pandion-XXIV
+ (2024-10-01 16:00)<br/>
+ Decay: 0.5 on Shelt
+ (2024-10-01 22:00)<br/>
+*Mastia* of the Marspira sector is attacked by Automatons (2024-10-02 08:37)<br/>
+
+### Day: #238
+ Decay: 0.0 on Mastia
+ (2024-10-02 09:00)<br/>
