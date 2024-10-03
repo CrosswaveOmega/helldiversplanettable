@@ -411,17 +411,20 @@ Dispatch: INTELLIGENCE BRIEF. A new strain of flying Terminids has suddenly appe
 
 ### Day: #44
 Major Order | Operation Prime Liberation is failed | Objective: Liberate (2024-03-22 12:21)<br/>
+Dispatch: MAJOR ORDER FAILED. Though many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered. The expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice. (2024-03-22 12:21)<br/>
 Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-22 13:01)<br/>
+Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete. (2024-03-22 13:01)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-03-22 14:35)<br/>
 
 ### Day: #45
 *Estanu* defense is won (2024-03-23 10:06)<br/>
 *Crimsica* is liberated (2024-03-23 19:46)<br/>
 ↳ Draco sector is fully liberated (2024-03-23 19:46)<br/>
+Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets. (2024-03-23 22:43)<br/>
+ Decay: 500.0 on Crimsica
+ (2024-03-23 22:43)<br/>
 *Crimsica* of the Draco sector instantly flips to Terminid control (2024-03-23 22:47)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-03-23 22:47)<br/>
- Decay: 500.0 on Crimsica
- (2024-03-23 22:47)<br/>
  Decay: 1.0 on Terminid worlds
  (2024-03-24 00:00)<br/>
 *Crimsica* is liberated (2024-03-24 02:26)<br/>
@@ -467,6 +470,9 @@ Major Order | Operation CBCT Protection is issued | Objective: Control (2024-03-
 
 ### Day: #48
 Major Order | Operation CBCT Protection is won | Objective: Control (2024-03-26 13:07)<br/>
+Dispatch: MAJOR ORDER SUCCEEDED. The last of the crude solid E-710 has been collected, processed, and shipped off-planet, providing a healthy boost to our colony settlement efforts. The planets can now be left behind to allow the Terminids to repopulate—under careful supervision. (2024-03-26 13:18)<br/>
+Dispatch: NEW MAJOR ORDER. Interrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called "The Reclamation," which appears to be a massive invasion of unprecedented scale. Further details are scarce. In response, High Command has authorized OPERATION SWIFT DISASSEMBLY. The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success. (2024-03-26 14:48)<br/>
+Dispatch: OPERATION SWIFT DISASSEMBLY. PHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans. (2024-03-26 14:48)<br/>
 Major Order | Operation Swift Disassembly Phase One is issued | Objective: Liberate (2024-03-26 14:49)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-03-26 21:02)<br/>
 *Mantes* is liberated (2024-03-26 21:12)<br/>
@@ -491,6 +497,7 @@ Major Order | Operation Swift Disassembly Phase One is issued | Objective: Liber
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-03-28 08:13)<br/>
 
 # Day: #50
+Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the Automatons, the Ministry of Defense has fast-tracked new support weapons for immediate distribution. The LAS-99 Quasar Cannon and MG-101 Heavy Machine Gun are now available for requisition. (2024-03-28 12:33)<br/>
 *Vandalon IV* is liberated (2024-03-28 15:44)<br/>
 ↳ *Troost* liberation campaign starts (2024-03-28 15:44)<br/>
  Decay: 0.0 on Troost<br/> Decay: 500.0 on Vandalon IV
@@ -506,11 +513,14 @@ Major Order | Operation Swift Disassembly Phase One is issued | Objective: Liber
 *Troost* is liberated (2024-03-29 12:39)<br/>
 ↳ Trigon sector is fully liberated (2024-03-29 12:39)<br/>
 ↳ Major Order | Operation Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-03-29 12:51)<br/>
+Dispatch: OP SWIFT DISASSEMBLY, PHASE I—COMPLETED. The Automaton Comms Array on *Troost* has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted. However, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry. (2024-03-29 12:47)<br/>
  Decay: 500.0 on Troost
- (2024-03-29 12:51)<br/>
+ (2024-03-29 12:47)<br/>
+*Fori Prime* of the Draco sector is attacked by Terminids (2024-03-29 12:51)<br/>
 Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53)<br/>
+Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE II: Reduce Non-Sentient Combatant Production. Intel analysis have identified the planet *Tibit* as the most significant producer of illegal Automaton combatants. Liberating this planet would significantly impact the enemy's capacity to replenish decommissioned socialists. It would also limit further theft of the planet's natural resources from future generations of inarguably sentient humans. (2024-03-29 12:53)<br/>
 *Omicron* liberation campaign ends (2024-03-29 13:47)<br/>
+Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-29 19:01)<br/>
 *Draupnir* of the Xzar sector is attacked by Automatons (2024-03-29 19:05)<br/>
  Decay: 1.0 on Durgen, Maia, Tibit<br/> Decay: 0.5 on Malevelon Creek, Ubanea
  (2024-03-29 20:00)<br/>
@@ -549,17 +559,21 @@ Major Order | Operation Swift Disassembly Phase Two is issued | Objective: Liber
 
 ### Day: #54
 Major Order | Operation Swift Disassembly Phase Two is failed | Objective: Liberate (2024-04-01 13:00)<br/>
+Dispatch: OP SWIFT DISASSEMBLY, PHASE II—FAILED. The Automatons have retained *Tibit*, and its manufacturing facilities. Reports indicate they have already begun increasing production elsewhere. Intercepted bot chatter includes expressions of great sorrow for the "murder" of in-development bots—a transparent attempt at disinformation, as bots can neither feel nor be considered alive. However, the simulated oaths of vengeance may indicate actual strategic intent. A counteroffensive is likely. (2024-04-01 13:00)<br/>
 Major Order | Operation Creek Liberation is issued | Objective: Liberate (2024-04-01 13:04)<br/>
+Dispatch: NEW MAJOR ORDER. Several weeks ago, our citizens watched in horror as *Malevelon Creek* fell to the Automatons. Millions of valiant heroes perished attempting to defend it. For too long, the bots have maintained their illegal occupation, desecrating the memory of the fallen by rapidly depleting the planet's exceptionally rich rhodium deposits. This travesty will be allowed to continue no longer. Take vengeance for the fallen. Honor our heroes. End the theft of valuable minerals. Liberate *Malevelon Creek*. (2024-04-01 13:04)<br/>
  Decay: 1.5 on Severin sector
  (2024-04-01 14:00)<br/>
 *Malevelon Creek* is liberated (2024-04-01 17:22)<br/>
 ↳ *Maia* liberation campaign starts (2024-04-01 17:22)<br/>
-↳ Major Order | Operation Creek Liberation is won | Objective: Liberate (2024-04-01 17:23)<br/>
-*Ubanea* of the Severin sector is attacked by Automatons (2024-04-01 17:33)<br/>
+↳ Major Order | Operation Creek Liberation is won | Objective: Liberate (2024-04-01 17:22)<br/>
+Dispatch: MALEVELON CREEK LIBERATED. At long last, *Malevelon Creek* is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them. Colonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek. (2024-04-01 17:32)<br/>
  Decay: 500.0 on Malevelon Creek
- (2024-04-01 17:33)<br/>
+ (2024-04-01 17:32)<br/>
+*Ubanea* of the Severin sector is attacked by Automatons (2024-04-01 17:33)<br/>
 Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Control (2024-04-01 17:44)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-01 17:45)<br/>
+Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Automatons, clearly having calculated their impending shutdown, have put their remaining resources into a large-scale counterattack. Desperate as it is, should this re-invasion succeed, it may jeopardize our ability to destroy the bots in time to prevent their incoming invasion. Hold your ground. (2024-04-01 17:47)<br/>
 *Ubanea* defense is won (2024-04-02 05:09)<br/>
 *Maia* - *Vandalon IV* supply line is added (2024-04-02 05:44)<br/>
 *Malevelon Creek* of the Severin sector is attacked by Automatons (2024-04-02 07:53)<br/>
@@ -575,6 +589,7 @@ Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Con
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-04-03 07:41)<br/>
 
 ### Day: #56
+Dispatch: PRESIDENTIAL DECREE. The President of *Super Earth* has officially recognized this day as *Malevelon Creek* Memorial Day. Every year on this day, *Super Earth* citizens will unite for a full 3 minutes of their lunch break in solemn remembrance of those who gave their lives to free *Malevelon Creek*. In addition, all Helldivers have been issued a special commemorative cape, so they may carry the memory of their fallen companions into battle. (2024-04-03 09:45)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-03 12:33)<br/>
 *Estanu* defense is won (2024-04-04 06:16)<br/>
 *Vandalon IV* defense is won (2024-04-04 07:02)<br/>
@@ -583,7 +598,10 @@ Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Con
 
 ### Day: #57
 Major Order | Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15)<br/>
+Dispatch: OP SWIFT DISASSEMBLY, PHASE III—COMPLETED. The Automaton counterattack has been repelled. They no longer have the resources to sustain an offensive on such a scale. While the timeline of their phaseout has been extended, it remains within reach. (2024-04-04 09:15)<br/>
 Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27)<br/>
+Dispatch: The Automatons have been a thorn in the side of Freedom long enough. Though the Ministry of Intelligence has not yet discovered where they came from, or what they want, we can wait no longer. There is only one sure way to defend our citizens from the bots: total eradication. (2024-04-04 10:04)<br/>
+Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE IV (FINAL): ANNIHILATION. All Helldivers are ordered to make an all-out push to completely destroy the Automaton Legion. Despite the enemy's losses, Automaton messages still include references to "The Reclamation." They must be annihilated before this plan can be carried out. Countless Helldivers gave their lives to acquire this opportunity. Do not let their sacrifices be in vain. Protect our way of life. Destroy the Automatons at any cost. (2024-04-04 10:04)<br/>
 *Estanu* defense is failed (2024-04-05 07:54)<br/>
 ↳ Draco sector is fully under Terminid control (2024-04-05 07:54)<br/>
 ↳ *Estanu* liberation campaign starts (2024-04-05 07:54)<br/>
@@ -597,16 +615,20 @@ Major Order | Operation Swift Disassembly Phase Four is issued | Objective: Cont
  (2024-04-06 00:00)<br/>
 
 ### Day: #59
+Dispatch: MOTIVATIONAL REINFORCEMENT. The Automatons are lifeless, emotionless, hateful socialists. They murdered innocent families. They ravaged *Malevelon Creek*. Worst of all, they threatened our way of life. All without any provocation or cause save a hard-coded hatred of Freedom. Save our citizens. Save Managed Democracy. Annihilate the Automaton threat, once and for all. (2024-04-06 10:23)<br/>
 *Tibit* is liberated (2024-04-07 02:36)<br/>
  Decay: 500.0 on Tibit
  (2024-04-07 04:00)<br/>
 
 # Day: #60
+Dispatch: TIBIT LIBERATED. The factories on *Tibit* have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack. (2024-04-07 17:23)<br/>
 *Durgen* is liberated (2024-04-07 19:22)<br/>
 ↳ Severin sector is fully liberated (2024-04-07 19:22)<br/>
 ↳ Automaton first wave is eradicated (2024-04-07 19:22)<br/>
 ↳ Major Order | Operation Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22)<br/>
+Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (2024-04-07 19:30)<br/>
 Major Order | Operation E-710 Farms is issued | Objective: Liberate (2024-04-07 20:06)<br/>
+Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids contained, the time has come to work towards a more prosperous future for all citizens. To that end, construction of new, safer, and more efficient E-710 farms will soon commence. On these farms, Terminids will be raised in spacious enclosures and enriched with state-of-the-art nutritional supplements, all under careful supervision. Clear the way for the safe construction of the E-710 farms. (2024-04-07 20:06)<br/>
  Decay: 500.0 on Durgen
  (2024-04-07 20:06)<br/>
 *Estanu* is liberated (2024-04-08 05:24)<br/>
@@ -661,6 +683,7 @@ Automaton second wave starts (2024-04-09 11:41)<br/>
  Decay: 0.36 on Valdis sector<br/> Decay: 0.0 on Penta, Choohe
  (2024-04-09 11:47)<br/>
 Major Order | Operation E-710 Farms is won | Objective: Liberate (2024-04-09 12:02)<br/>
+Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02)<br/>
 Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-04-09 12:02)<br/>
  Decay: 1.5 on Sten sector, Valdis sector, Lacaille sector, L'estrade sector, Draco sector, Mirin sector
  (2024-04-09 12:02)<br/>
@@ -671,6 +694,7 @@ Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-0
 *Martale* - *Charon Prime* supply line is added (2024-04-09 12:15)<br/>
 *Charon Prime* - *Charbal-VII* supply line is added (2024-04-09 12:15)<br/>
 *Matar Bay* - *Martale* supply line is added (2024-04-09 16:16)<br/>
+Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the Valdis Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (2024-04-09 23:47)<br/>
 *Menkent* defense is won (2024-04-10 07:14)<br/>
 ↳ Hydra sector is fully liberated (2024-04-10 07:14)<br/>
 
@@ -896,7 +920,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-04-24 20:33)<br/>
 *Oshaune* defense is won (2024-04-24 20:39)<br/>
 ↳ *Fori Prime* defense is auto-won via gambit (2024-04-24 21:02)<br/>
-     ↳ Draco sector is fully liberated (2024-04-24 21:02)<br/>
+↳ Draco sector is fully liberated (2024-04-24 21:02)<br/>
 *Ustotu* of the Trigon sector is attacked by Automatons (2024-04-24 21:06)<br/>
 *Vernen Wells* is liberated (2024-04-24 22:56)<br/>
 ↳ *Menkent* liberation campaign starts (2024-04-24 22:56)<br/>
@@ -913,7 +937,7 @@ Major Order | Operation Enduring Bulwark is issued | Objective: Defend (2024-04-
  (2024-04-25 19:26)<br/>
 
 ### Day: #79
-Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06)<br/>
+Major Order | Operation Legitimate Undertaking is issued | Objective: Liberate (2024-04-26 12:06)<br/>
 *Estanu* defense is won (2024-04-26 12:12)<br/>
 ↳ Draco sector is fully liberated (2024-04-26 12:12)<br/>
  Decay: 1.5 on Terminid worlds<br/> Decay: 0.0 on Automaton worlds
@@ -935,7 +959,7 @@ Major Order | Operation Legitimate Undertaking Phase One is issued | Objective: 
 *Oshaune* defense is won (2024-04-28 18:38)<br/>
 
 ### Day: #82
-Major Order | Operation Legitimate Undertaking Phase One is failed | Objective: Liberate (2024-04-29 12:21)<br/>
+Major Order | Operation Legitimate Undertaking is failed | Objective: Liberate (2024-04-29 12:21)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-04-29 14:22)<br/>
 *Erata Prime* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22)<br/>
@@ -2176,7 +2200,7 @@ Major Order | Operation Banana Split is won | Objective: Defend/Liberate (2024-0
 *Nivel 43* is moderately enveloped by the Gloom (2024-08-16 14:21)<br/>
 *Hellmire* is lightly enveloped by the Gloom (2024-08-16 14:22)<br/>
 *Oshaune* is heavily enveloped by the Gloom (2024-08-16 14:28)<br/>
-↳*Oshaune* is now unobservable due to the Gloom (2024-08-16 14:28)<br/>
+↳ *Oshaune* is now unobservable due to the Gloom (2024-08-16 14:28)<br/>
 *Fori Prime* is moderately enveloped by the Gloom (2024-08-16 14:29)<br/>
 *Crimsica* is lightly enveloped by the Gloom (2024-08-16 14:29)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-08-16 15:22)<br/>
@@ -2699,3 +2723,9 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 ### Day: #238
  Decay: 0.0 on Mastia
  (2024-10-02 09:00)<br/>
+*Shelt* is liberated (2024-10-03 04:03)<br/>
+↳ *Mastia* defense is auto-won via gambit (2024-10-03 04:03)<br/>
+↳ Marspira sector is fully liberated (2024-10-03 04:03)<br/>
+ Decay: 1.5 on Mastia
+ (2024-10-03 06:00)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2024-10-03 07:26)<br/>
