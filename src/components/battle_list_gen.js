@@ -31,10 +31,10 @@ function make_planet_battle_list(planets){
 export function BattleList(history, showEvt, parentContainer, use, funct,sectorData) {
   /**
    * Generate and populate a battle list for a given sector.
-   * @param {Object} history - Historical data.
+   * @param {DaysObject} history - Historical data.
    * @param {boolean} showEvt - Flag to show events.
    * @param {HTMLElement} parentContainer - The parent container to append the battle list.
-   * @param {string} use - Key to access specific data.
+   * @param {int} use - 1 if the battlelist should only show the ongoing planet battles, 0 otherwise
    * @param {Function} funct - Function to distinct and filter data.
    * @param {Object} sectorData - Data of the sectors.
    * @returns {Array} - An empty array.
@@ -55,7 +55,14 @@ export function BattleList(history, showEvt, parentContainer, use, funct,sectorD
     return parentContainer;
   }
 
-  let distinctElements = funct(history, showEvt, sectorData)[use];
+  //Create list of unique battles.
+  let distinctElements = funct(history, showEvt, sectorData);
+  if (use==0){
+    distinctElements=distinctElements.planetTypes
+  }
+  else{
+    distinctElements=distinctElements.ongoing
+  }
 
   function populateGrid(planetData, parentElement) {
     // Remove all current children of the parent element
@@ -82,7 +89,7 @@ export function SectorBattleList(history, showEvt, parentContainer, use,funct,se
    * @param {Object} history - Historical data.
    * @param {boolean} showEvt - Flag to show events.
    * @param {HTMLElement} parentContainer - The parent container to append the battle list.
-   * @param {string} use - Key to access specific data.
+   * @param {int} use - 1 if the battlelist should only show the ongoing planet battles, 0 otherwise
    * @param {Function} funct - Function to distinct and filter data.
    * @param {Object} sectorData - Data of the sectors.
    * @returns {Array} - An empty array.
@@ -118,7 +125,14 @@ export function SectorBattleList(history, showEvt, parentContainer, use,funct,se
     return parentContainer;
   }
 
-  let distinctElements = funct(history, showEvt, sectorData)[use];
+
+  let distinctElements = funct(history, showEvt, sectorData);
+  if (use==0){
+    distinctElements=distinctElements.planetTypes
+  }
+  else{
+    distinctElements=distinctElements.ongoing
+  }
 
   function populateGrid(sectorData, parentElement) {
     // Remove all current children of the parent element

@@ -9,13 +9,13 @@ sidebar: true
 
 ```js
   import {
-    ListAll, count_distinct_planets
+    ListAll, count_distinct_planets,
   } from "./components/HistoryLog.js";
   import {
     make_sector_data,
   } from "./components/data_transformers.js";
     import {
-    count_distinct_planet_battles,count_distinct_sector_battles
+    count_distinct_planet_battles,
   } from "./components/battle_tracker.js";
 
       import {
@@ -53,7 +53,7 @@ function sector_battle_table(historydata, mode, {width}) {
    * @param {Object} width - The width configuration for the table.
    * @returns {Object} - The table object for rendering sector battles information.
    */
-  const countDistinctPlanetsData = count_distinct_sector_battles(historydata,false,sector_data)[0];
+  const countDistinctPlanetsData = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
   let planets = Object.values(countDistinctPlanetsData);
 
   let columns = [];
@@ -90,7 +90,7 @@ function sum_entries_by_front(historydata) {
    */
   const frontSums = {};
 
-  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data)[0];
+  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
   for (const sector in planetTypes) {
     const { front, battles, win, loss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
 
@@ -243,7 +243,7 @@ All Sector Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 
-  ${SectorBattleList(historydata,showEvents,document.getElementById("history3"),0,count_distinct_sector_battles,sector_data)}
+  ${SectorBattleList(historydata,showEvents,document.getElementById("history3"),0,count_distinct_planet_battles,sector_data)}
   <div id="history3" style="max-height: 500px; overflow-y: auto;">
 
   </div>

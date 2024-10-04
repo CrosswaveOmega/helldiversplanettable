@@ -63,5 +63,82 @@ class DaysObject {
         this.galaxystatic = galaxystatic; // Assume mapping to PlanetStatic instances
     }
 }
+class Row {
+    constructor({
+        index = 0,
+        planet_name = '',
+        sector_name = '',
+        front = '',
+        sector_front = '',
+        initial_owner = '',
+        current_owner = '',
+        position = null,  // specify concrete types if possible
+        waypoints = [],
+        player_count = 0,
+        image = '',
+        missionsWon = 0,
+        missionsLost = 0,
+        missionTime = 0,
+        missionsTotal = 0,
+        timePerMission = 0.0,
+        kills = 0,
+        bug_kills = 0,
+        bot_kills = 0,
+        squid_kills = 0,
+        bulletsFired = 0,
+        bulletsHit = 0,
+        timePlayed = 0,
+        timePlayedPerMission = 0.0,
+        deaths = 0,
+        revives = 0,
+        friendlies = 0,
+        MSR = 0,
+        accuracy = 0,
+        DPM = 0.0,
+        KPM = 0.0,
+        KTD = 0.0,
+        FKR = 0.0,
+        WTL = 0.0,
+        biome = '',
+        hazards = ''
+    } = {}) {
+        this.index = index;
+        this.planet_name = planet_name;
+        this.sector_name = sector_name;
+        this.front = front;
+        this.sector_front = sector_front;
+        this.initial_owner = initial_owner;
+        this.current_owner = current_owner;
+        this.position = position;
+        this.waypoints = waypoints;
+        this.player_count = player_count;
+        this.image = image;
+        this.missionsWon = missionsWon;
+        this.missionsLost = missionsLost;
+        this.missionTime = missionTime;
+        this.missionsTotal = missionsTotal;
+        this.timePerMission = timePerMission;
+        this.kills = kills;
+        this.bug_kills = bug_kills;
+        this.bot_kills = bot_kills;
+        this.squid_kills = squid_kills;
+        this.bulletsFired = bulletsFired;
+        this.bulletsHit = bulletsHit;
+        this.timePlayed = timePlayed;
+        this.timePlayedPerMission = timePlayedPerMission;
+        this.deaths = deaths;
+        this.revives = revives;
+        this.friendlies = friendlies;
+        this.MSR = MSR;
+        this.accuracy = accuracy;
+        this.DPM = DPM;
+        this.KPM = KPM;
+        this.KTD = KTD;
+        this.FKR = FKR;
+        this.WTL = WTL;
+        this.biome = biome;
+        this.hazards = hazards;
+    }
+}
 
-export {DaysObject,GameSubEvent,GameEvent}
+export {DaysObject,GameSubEvent,GameEvent, Row}

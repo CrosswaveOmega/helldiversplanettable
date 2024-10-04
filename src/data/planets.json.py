@@ -142,7 +142,7 @@ def make_rows(planets: Dict, allplanet: Dict):
         # Remove human faction from front list for easier reading.
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
-        # print(planet['waypoints'])
+            
         row = {
             "index": planet["index"],
             "planet_name": planet["name"],
