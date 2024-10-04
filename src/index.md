@@ -151,6 +151,8 @@ See the [Full War History Log](./history_log_full)  to read the entire history o
 
 ### Changelog
 
+* October 4nd, 2024
+  * Refactored the battle tracker's formatting code.
 * October 2nd, 2024
   * Changed the primary website font to Chakra Petch, which looks much closer to the in game font.
   * Decay rate changes are now recorded on the history log.

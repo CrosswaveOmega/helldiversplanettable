@@ -6,7 +6,7 @@ function make_biome_data(data) {
      * calculates derived metrics such as deaths per mission, kills per mission, kills to deaths ratio,
      * and win to loss ratio.
      *
-     * @param {Array} data - An array of objects where each object contains data for a specific entry,
+     * @param {Array<Row>} data - An array of objects where each object contains data for a specific entry,
      *                       including fields like biome, missionsWon, missionsLost, bot_kills, bug_kills,
      *                       deaths, and friendlies.
      *
