@@ -729,15 +729,18 @@ Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTAC
 *Vernen Wells* defense is won (2024-04-12 10:22)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-12 10:33)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-04-12 10:35)<br/>
+Dispatch: SUPER DESTROYER FLEET UPGRADE. In response to increased enemy threat, Helldivers are now authorized to requisition Level 4 Modules for all Super Destroyer systems. Like previous upgrades, the Level 4 Suite significantly upgrades the Super Destroyer with cutting-edge technology, provided by defense contractors who are galactic leaders in quality and safety. These critical upgrades will be installed without delay upon submission of the requisite number of samples, proof of commitment to furthering the cause of Liberty. (2024-04-12 11:35)<br/>
+ Decay: 1.0 on Automaton worlds
+ (2024-04-12 11:35)<br/>
 *Martale* defense is failed (2024-04-12 11:52)<br/>
 ↳ *Martale* liberation campaign starts (2024-04-12 11:52)<br/>
 *Marfark* defense is failed (2024-04-12 11:52)<br/>
 ↳ *Marfark* liberation campaign starts (2024-04-12 11:52)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-12 11:52)<br/>
- Decay: 1.0 on Automaton worlds
- (2024-04-12 11:52)<br/>
 Major Order | Operation Courageous Defense is failed | Objective: Defend (2024-04-12 11:59)<br/>
+Dispatch: MAJOR ORDER LOST. The Automatons have seized control of many innocent and once-beautiful worlds. The valiant and tireless defense raised by the Helldivers was commendable, but it was not enough to stop such a large and cowardly assault. Any colonists not driven from their homes were likely slaughtered, their votes forever lost. (2024-04-12 11:59)<br/>
 Major Order | Operation *Menkent* Line is issued | Objective: Control (2024-04-12 12:00)<br/>
+Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are ordered to establish and hold the *Menkent* Line, consisting of the planets *Menkent* and *Lesath*. Establishing this defensive line will allow SEAF Engineers to begin construction of orbital defenses on those planets, deterring the advance of the Automaton Fleet and allowing counteroffensive preparations to begin. (2024-04-12 12:00)<br/>
  Decay: 1.0 on Marfark, Martale
  (2024-04-12 14:00)<br/>
 
@@ -779,9 +782,12 @@ Major Order | Operation *Menkent* Line is issued | Objective: Control (2024-04-1
 
 ### Day: #69
 Major Order | Operation *Menkent* Line is won | Objective: Control (2024-04-16 12:09)<br/>
+Dispatch: MAJOR ORDER WON. The defense held. The *Menkent* Line has been established. The Automaton advance has been arrested. Rudimentary orbital defenses have been established along the line, and are being augmented by hardworking SEAF and civilian laborers. Meanwhile, the SEAF Forward Command Base on *Vernen Wells* is up and running, providing fresh recruits and supplies to the front. (2024-04-16 12:09)<br/>
+Major Order | Operation *Marfark* defense is issued | Objective: Control (2024-04-16 15:17)<br/>
+Dispatch: NEW MAJOR ORDER. With the *Menkent* Line established, the Automaton Fleet has been forced to divert their plans. Now, they are attempting a concerted effort to punch through at a single planet. The Automatons are likely to muster the entirety of their strength for this endeavor. You must outlast the enemy. Hold the planet, no matter the cost. (2024-04-16 15:17)<br/>
+Dispatch: INTELLIGENCE BRIEF. The Automatons have deployed a new heavy unit: the Factory Strider. Previously deployed in very limited quantities, likely prototypes, this massive abomination is a walking Automaton fabricator. It is heavily armed and armored, and should be engaged with coordinated firepower and unhesitating aggression. (2024-04-16 16:10)<br/>
  Decay: 2.0 on Automaton worlds
- (2024-04-16 16:00)<br/>
-Major Order | Operation *Marfark* defense is issued | Objective: Control (2024-04-17 03:17)<br/>
+ (2024-04-16 16:10)<br/>
 *Fori Prime* defense is failed (2024-04-17 08:00)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-04-17 08:00)<br/>
 ↳ *Oshaune* liberation campaign ends (2024-04-17 08:00)<br/>
@@ -795,6 +801,7 @@ Major Order | Operation *Marfark* defense is issued | Objective: Control (2024-0
  (2024-04-17 10:00)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-18 07:37)<br/>
 Major Order | Operation *Marfark* Defense is won | Objective: Control (2024-04-18 07:51)<br/>
+Dispatch: MAJOR ORDER WON. The Automaton Invasion Fleet has been repelled. The bots committed much of their reserves to this attack. Even the large-scale deployment of the Factory Strider could not break the resolve of the Helldivers. The situation remains dire. The Automatons still illegally occupy vast swaths of our territory. But with this victory, the Helldivers have won the opportunity to turn back the tide. (2024-04-18 07:51)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-18 07:51)<br/>
 *Matar Bay* - *Meissa* supply line is added (2024-04-18 07:54)<br/>
@@ -808,6 +815,7 @@ Major Order | Operation *Marfark* Defense is won | Objective: Control (2024-04-1
 
 ### Day: #71
 Major Order | Operation Organic Harvest is issued | Objective: Eradicate (2024-04-18 10:31)<br/>
+Dispatch: NEW MAJOR ORDER. Thanks to the valiant and unceasing defense of the Helldivers, a robust defensive line has been established. This is likely only a temporary respite, while the bots refit in preparation to break through our defenses once more. We now have the opportunity to refuel our war effort. The defense effort depleted our E-710 reserves. In order to allow for a counter-offensive, the Helldivers are ordered to manually produce Terminid corpses for conversion into E-710. (2024-04-18 10:31)<br/>
  Decay: 500.0 on Fori Prime
  (2024-04-18 10:31)<br/>
 *Estanu* defense is won (2024-04-18 20:42)<br/>
@@ -2729,3 +2737,12 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  Decay: 1.5 on Mastia
  (2024-10-03 06:00)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-10-03 07:26)<br/>
+
+### Day: #239
+ Decay: 0.0 on Turing
+ (2024-10-03 09:00)<br/>
+*Turing* defense is won (2024-10-04 02:10)<br/>
+↳ Umlaut sector is fully liberated (2024-10-04 02:10)<br/>
+*Acamar IV* is liberated (2024-10-04 02:58)<br/>
+ Decay: 2.5 on Turing
+ (2024-10-04 02:58)<br/>
