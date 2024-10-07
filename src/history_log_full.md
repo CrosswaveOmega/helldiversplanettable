@@ -2828,3 +2828,9 @@ Dispatch: NEW MAJOR ORDER. The DSS will require the construction of the Deep Man
 ### Day: #241
 
 ### Day: #242
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-06 14:16)<br/>
+ Decay: 1.0 on Imber<br/> Decay: 0.0 on Pandion-XXIV
+ (2024-10-06 16:00)<br/>
+*Imber* is liberated (2024-10-06 19:16)<br/>
+↳ *Claorell* liberation campaign starts (2024-10-06 19:16)<br/>
+↳ Talus sector is fully liberated (2024-10-06 19:16)<br/>
