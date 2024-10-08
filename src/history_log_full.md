@@ -2829,8 +2829,27 @@ Dispatch: NEW MAJOR ORDER. The DSS will require the construction of the Deep Man
 
 ### Day: #242
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-06 14:16)<br/>
+Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage! (2024-10-06 14:20)<br/>
  Decay: 1.0 on Imber<br/> Decay: 0.0 on Pandion-XXIV
  (2024-10-06 16:00)<br/>
 *Imber* is liberated (2024-10-06 19:16)<br/>
 ↳ *Claorell* liberation campaign starts (2024-10-06 19:16)<br/>
 ↳ Talus sector is fully liberated (2024-10-06 19:16)<br/>
+
+### Day: #243
+*Pandion-XXIV* defense is failed (2024-10-07 14:21)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2024-10-07 14:21)<br/>
+ Decay: 1.5 on Pandion-XXIV
+ (2024-10-07 16:00)<br/>
+*Claorell* is liberated (2024-10-08 03:06)<br/>
+↳ *Vog-Sojoth* liberation campaign starts (2024-10-08 03:06)<br/>
+↳ Major Order | Operation Embers of Steel is won | Objective: Liberate (2024-10-08 03:06)<br/>
+Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager *Super Earth* miners ready to construct the Deep Mantle Forge Complex. (2024-10-08 04:53)<br/>
+
+### Day: #244
+*Claorell* of the Tanis sector is attacked by Automatons (2024-10-08 13:35)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-10-08 13:35)<br/>
+ Decay: 2.0 on Clasa
+ (2024-10-08 13:35)<br/>
+Major Order | Operation *Claorell* Lockdown is issued | Objective: Control/Defend (2024-10-08 13:41)<br/>
+Dispatch: The Automatons have refused to accept the peaceful and righteous liberation of *Claorell*. In an act of brazen escalation, they seek to steal the planet so many Helldivers gave their lives to liberate. This wanton aggression will not be tolerated. The Helldivers are ordered to hold *Claorell* at all costs. (2024-10-08 13:43)<br/>
