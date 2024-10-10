@@ -2412,7 +2412,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46)<br/>
  Decay: 500.0 on Socorro III
  (2024-08-27 11:46)<br/>
-The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall (2024-08-27 11:50)<br/>
+Note: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall (2024-08-27 11:50)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50)<br/>
 ↳ *Enuliale* is now unobservable due to the Gloom (2024-08-27 11:50)<br/>
@@ -2903,3 +2903,19 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
  (2024-10-09 06:00)<br/>
 
 ### Day: #245
+*Vernen Wells* defense is failed (2024-10-09 13:38)<br/>
+↳ *Vernen Wells* liberation campaign starts (2024-10-09 13:38)<br/>
+↳ *Menkent* liberation campaign ends (2024-10-09 13:38)<br/>
+ Decay: 2.5 on Vernen Wells
+ (2024-10-09 14:00)<br/>
+*Zefia* of the Tanis sector is attacked by Automatons (2024-10-09 16:19)<br/>
+ Decay: 1.5 on Vernen Wells
+ (2024-10-09 16:19)<br/>
+ Decay: 0.0 on Zefia
+ (2024-10-09 18:00)<br/>
+*Zefia* defense is won (2024-10-10 08:53)<br/>
+
+### Day: #246
+*Claorell* of the Tanis sector is attacked by Automatons (2024-10-10 11:48)<br/>
+ Decay: 500.0 on Zefia
+ (2024-10-10 11:48)<br/>
