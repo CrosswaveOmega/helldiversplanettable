@@ -2919,3 +2919,10 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
 *Claorell* of the Tanis sector is attacked by Automatons (2024-10-10 11:48)<br/>
  Decay: 500.0 on Zefia
  (2024-10-10 11:48)<br/>
+ Decay: 0.0 on Claorell
+ (2024-10-10 14:00)<br/>
+*Claorell* defense is won (2024-10-11 04:36)<br/>
+ Decay: 2.0 on Claorell
+ (2024-10-11 06:00)<br/>
+
+### Day: #247
