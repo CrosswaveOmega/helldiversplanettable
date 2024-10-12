@@ -17,12 +17,12 @@
             "description": "The planet is gone, the ultimate price to pay in the war for humanity's survival."
         },
         "sandy_base": {
-            "name": "Desert Dunes [Sandy]",
-            "description": "A blazing-hot desert planet, its rocky mesas are the sole interruptions to the endless sea of dunes.",
+            "name": "Rolling Dunes [Sandy]",
+            "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes.",
             "old_slug": "mesa"
         },
         "sandy_acid": {
-            "name": "Acidic Badlands [Sandy]",
+            "name": "Acid [Sandy]",
             "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze.",
             "old_slug": "toxic"
         },
@@ -37,8 +37,8 @@
             "old_slug": "canyon"
         },
         "sandy_spiky": {
-            "name": "Desert Cliffs [Sandy]",
-            "description": "A desert planet prone to unpredictable and dangerous sand twisters.",
+            "name": "Mesa Desert [Sandy]",
+            "description": "A desert planet prone to unpredictable and dangerous,sand twisters.",
             "old_slug": "desert"
         },
         "primordial_base": {
@@ -57,7 +57,7 @@
             "old_slug": "ethereal"
         },
         "primordial_blue": {
-            "name": "Ionic Jungle [Primordial]",
+            "name": "Ion Rainforest [Primordial]",
             "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists.",
             "old_slug": "rainforest"
         },
@@ -83,7 +83,7 @@
         },
         "moor_tundra": {
             "name": "Tundra [Moor]",
-            "description": "A perennially chilly climate has allowed short, colorful shrubs to flourish across this planet's surface.",
+            "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface.",
             "old_slug": "tundra"
         },
         "moor_arid": {
@@ -97,7 +97,7 @@
             "old_slug": "crimsonmoor"
         },
         "swamp_base": {
-            "name": "Basic Swamp [Swamp]",
+            "name": "Green Swamp [Swamp]",
             "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below.",
             "old_slug": "swamp"
         },
@@ -105,64 +105,6 @@
             "name": "Haunted Swamp [Swamp]",
             "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass.",
             "old_slug": "haunted_swamp"
-        }
-    },
-    "environmentals": {
-        "none": {
-            "name": "None",
-            "description": "This planet's environment is not yet known, or has no environmental modifiers."
-        },
-        "extreme_cold": {
-            "name": "Extreme Cold",
-            "description": "Icy temperatures reduce rate of fire and delay heat buildup in weapons."
-        },
-        "normal_temp": {
-            "name": "Normal Temperature",
-            "description": "Average temperatures convey no significant change to weapons or stamina."
-        },
-        "thick_fog": {
-            "name": "Thick Fog",
-            "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
-        },
-        "rainstorms": {
-            "name": "Rainstorms",
-            "description": "Torrential rainstorms reduce visibility."
-        },
-        "intense_heat": {
-            "name": "Intense Heat",
-            "description": "High temperatures increase stamina drain and speed up heat buildup in weapons."
-        },
-        "tremors": {
-            "name": "Tremors",
-            "description": "Frequent earthquakes stun players and enemies alike."
-        },
-        "blizzards": {
-            "name": "Blizzards",
-            "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
-        },
-        "meteor_storms": {
-            "name": "Meteor Storms",
-            "description": "Meteors impact the surface causing massive damage."
-        },
-        "sandstorms": {
-            "name": "Sandstorms",
-            "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
-        },
-        "ion_storms": {
-            "name": "Ion Storms",
-            "description": "Ion storms intermittently disable Stratagems."
-        },
-        "acid_storms": {
-            "name": "Acid Storms",
-            "description": "Corrosive acid storms temporarily reduce armor effectiveness for both enemy and friendly units."
-        },
-        "volcanic_activity": {
-            "name": "Volcanic Activity",
-            "description": "Volcanoes throw burning rocks around this planet."
-        },
-        "fire_tornadoes": {
-            "name": "Fire Tornadoes",
-            "description": "Planet is ravaged by deadly fire tornadoes."
         }
     },
     "planets": {
@@ -1829,7 +1771,7 @@
         "64": {
             "name": "Meridia",
             "sector": "Umlaut",
-            "biome": "primordial_bug",
+            "biome": "blackhole",
             "environmentals": [
                 "none"
             ],
@@ -6946,6 +6888,64 @@
                 "zh-Hans": "\u751f\u5316\u65af\u5766",
                 "zh-Hant": "\u751f\u5316\u65af\u5766"
             }
+        }
+    },
+    "environmentals": {
+        "none": {
+            "name": "None",
+            "description": "This planet's environment is not yet known, or has no environmental modifiers."
+        },
+        "extreme_cold": {
+            "name": "Extreme Cold",
+            "description": "Icy temperatures reduce rate of fire and delay heat buildup in weapons."
+        },
+        "normal_temp": {
+            "name": "Normal Temperature",
+            "description": "Average temperatures convey no significant change to weapons or stamina."
+        },
+        "thick_fog": {
+            "name": "Thick Fog",
+            "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
+        },
+        "rainstorms": {
+            "name": "Rainstorms",
+            "description": "Torrential rainstorms reduce visibility."
+        },
+        "intense_heat": {
+            "name": "Intense Heat",
+            "description": "High temperatures increase stamina drain and speed up heat buildup in weapons."
+        },
+        "tremors": {
+            "name": "Tremors",
+            "description": "Frequent earthquakes stun players and enemies alike."
+        },
+        "blizzards": {
+            "name": "Blizzards",
+            "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
+        },
+        "meteor_storms": {
+            "name": "Meteor Storms",
+            "description": "Meteors impact the surface causing massive damage."
+        },
+        "sandstorms": {
+            "name": "Sandstorms",
+            "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
+        },
+        "ion_storms": {
+            "name": "Ion Storms",
+            "description": "Ion storms intermittently disable Stratagems."
+        },
+        "acid_storms": {
+            "name": "Acid Storms",
+            "description": "Corrosive acid storms temporarily reduce armor effectiveness for both enemy and friendly units."
+        },
+        "volcanic_activity": {
+            "name": "Volcanic Activity",
+            "description": "Volcanoes throw burning rocks around this planet."
+        },
+        "fire_tornadoes": {
+            "name": "Fire Tornadoes",
+            "description": "Planet is ravaged by deadly fire tornadoes."
         }
     }
 }
