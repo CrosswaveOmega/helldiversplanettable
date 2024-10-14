@@ -2970,7 +2970,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 *Acamar IV* liberation campaign ends (2024-10-14 08:39)<br/>
 
 # Day: #250
-*Achernar Secundus* defense is won (2024-10-14 16:46)<br/>
-↳ Borgus sector is fully liberated (2024-10-14 16:46)<br/>
+*Achernar Secundus* defense is won (2024-10-14 16:45)<br/>
+↳ Borgus sector is fully liberated (2024-10-14 16:45)<br/>
  Decay: 3.5 on Choohe
- (2024-10-14 16:46)<br/>
+ (2024-10-14 16:45)<br/>
