@@ -101,12 +101,11 @@ def parse_timestamp(timestamp_str: str) -> datetime:
         raise ValueError("The timestamp string does not match the expected format.")
 
 
-def make_day_obj() -> None:
+def make_day_obj(text:str) -> None:
     """Load the HOWL google doc, create day/event/date dictionary"""
     print("Getting web file...")
-    get_web_file()
+
     pattern = r"^(Day #(?P<day>\d+)\s+(?P<day_time>\d{1,2}:\d{2}+\s*(am|pm)\s+\d{1,2}(st|nd|rd|th)\s+\w+\s+(\d{4})*)|(?P<text>.*?)\s+\((?P<time>\d{1,2}:\d{2}+\s*(am|pm)?\s+UTC\s+\d{1,2}(st|nd|rd|th)\s+\w+\s*\d*)\))"
-    text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
     text = text.replace("’", "'")
     days = DaysObject()
     daykey = "DK"

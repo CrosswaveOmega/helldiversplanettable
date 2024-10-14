@@ -38,7 +38,7 @@ import logging.handlers
 from hd2json.jsonutils import load_and_merge_json_files
 import sqlite3
 
-from script_making.web_utils import get_game_stat_at_time
+from script_making.web_utils import get_game_stat_at_time, get_web_file
 from script_making.format_utils import (
     enote,
     extract_biome_change_details,
@@ -682,8 +682,19 @@ if not os.path.exists("./src/data/gen_data"):
     os.makedirs("./src/data/gen_data", exist_ok=True)
     raise FileNotFoundError("The directory ./src/data/gen_data does not exist.")
 
-print("Starting up...")
-make_day_obj()
-format_event_obj()
 
-asyncio.run(main_code())
+if __name__=='__main__':
+    print("Starting up...")
+    old_text=""
+
+    if os.path.exists("src/data/gen_data/text.md"):
+        with open("src/data/gen_data/text.md", "r", encoding="utf-8") as file:
+            old_text = file.read()
+    get_web_file()
+    text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
+    if text!=old_text:
+        make_day_obj()
+        format_event_obj()
+        asyncio.run(main_code())
+    else:
+        print("NO CHANGE DETECTED.  SKIPPING.")
