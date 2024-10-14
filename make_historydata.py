@@ -687,14 +687,18 @@ if __name__=='__main__':
     print("Starting up...")
     old_text=""
 
-    if os.path.exists("src/data/gen_data/text.md"):
-        with open("src/data/gen_data/text.md", "r", encoding="utf-8") as file:
+    if os.path.exists("src/data/gen_data/lasttext.md"):
+        with open("src/data/gen_data/lasttext.md", "r", encoding="utf-8") as file:
             old_text = file.read()
     get_web_file()
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
     if text!=old_text:
-        make_day_obj()
+        make_day_obj(text)
         format_event_obj()
         asyncio.run(main_code())
+        with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
+            file.write(text)
+
+        
     else:
         print("NO CHANGE DETECTED.  SKIPPING.")

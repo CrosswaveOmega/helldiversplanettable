@@ -2965,6 +2965,12 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-13 19:02)<br/>
  Decay: 0.0 on Achernar Secundus<br/> Decay: 3.0 on Choohe<br/> Decay: 1.5 on Gar Haren
  (2024-10-13 20:00)<br/>
-*Achernar Secundus* defense is won (2024-10-14 07:45)<br/>
+*Darius II* is liberated (2024-10-14 07:45)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-10-14 07:45)<br/>
 *Acamar IV* liberation campaign ends (2024-10-14 08:39)<br/>
+
+# Day: #250
+*Achernar Secundus* defense is won (2024-10-14 16:46)<br/>
+↳ Borgus sector is fully liberated (2024-10-14 16:46)<br/>
+ Decay: 3.5 on Choohe
+ (2024-10-14 16:46)<br/>

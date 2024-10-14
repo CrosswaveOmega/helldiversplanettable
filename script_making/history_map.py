@@ -95,7 +95,9 @@ def group_events_by_timestamp(days_out: DaysObject):
         if timestamp not in events_by_timestamp:
             events_by_timestamp[timestamp] = []
         events_by_timestamp[timestamp].append(event)
-    return list(events_by_timestamp.values())
+    outs= list(events_by_timestamp.values())
+    days_out.events=[]
+    return outs
 
 
 def check_planet_stats_for_change(
