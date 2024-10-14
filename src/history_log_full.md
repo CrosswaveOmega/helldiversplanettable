@@ -2958,3 +2958,13 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-12 20:17)<br/>
 
 ### Day: #249
+*Gar Haren* defense is failed (2024-10-13 18:51)<br/>
+↳ *Gar Haren* liberation campaign starts (2024-10-13 18:51)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2024-10-13 19:02)<br/>
+ Decay: 2.5 on Gar Haren
+ (2024-10-13 19:02)<br/>
+ Decay: 0.0 on Achernar Secundus<br/> Decay: 3.0 on Choohe<br/> Decay: 1.5 on Gar Haren
+ (2024-10-13 20:00)<br/>
+*Achernar Secundus* defense is won (2024-10-14 07:45)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-10-14 07:45)<br/>
+*Acamar IV* liberation campaign ends (2024-10-14 08:39)<br/>

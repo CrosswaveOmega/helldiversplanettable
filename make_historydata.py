@@ -1,13 +1,33 @@
 import json
-import re
-from typing import Any, Dict, List, Optional, Tuple, Union
+from typing import Any, Dict, List, Optional, Tuple
 from datetime import datetime, timezone, timedelta
 import os
 import asyncio
-import aiohttp
-import urllib.request
-from pydantic import BaseModel, Field
 from datetime import datetime
+
+from script_making.history_map import (
+    check_planet_stats_for_change,
+    derive_decay_names,
+    group_events_by_timestamp,
+    update_waypoints,
+)
+from script_making.md_log import make_markdown_log
+from script_making.models import (
+    GameSubEvent,
+    GameEvent,
+    PlanetStatic,
+    PlanetState,
+    DaysObject,
+    GalaxyStates,
+)
+from script_making.json_file_utils import (
+    check_and_load_json,
+    save_json_data,
+    load_event_types,
+)
+from script_making.logs import setup_logger
+from script_making.dbload import fetch_entries_by_dayval
+
 
 import os
 import sys
@@ -18,39 +38,28 @@ import logging.handlers
 from hd2json.jsonutils import load_and_merge_json_files
 import sqlite3
 
+from script_making.web_utils import get_game_stat_at_time
+from script_making.format_utils import (
+    enote,
+    extract_biome_change_details,
+    extract_mo_details,
+    get_event_type,
+    get_faction,
+    get_planet,
+    get_unique_sectors,
+    make_day_obj,
+    sort_event_type,
+    update_defenses,
+)
+
+setup_logger()
+
+logger = logging.getLogger("StatusLogger")
 # Define the database file
 DATABASE_FILE = "./src/data/gen_data/alltimedata.db"
 
-
-if not os.path.exists("./logs/"):
-    os.makedirs("./logs/")
-
 MAX_HOUR_DISTANCE = 6
 MIN_HOUR_CHANGE = 2
-
-
-logger = logging.getLogger("StatusLogger")
-logger.setLevel(logging.DEBUG)
-
-warn_error_handler = logging.handlers.RotatingFileHandler(
-    "./logs/warn_error.log", maxBytes=8 * 1024 * 1024, backupCount=1, encoding="utf8"
-)
-warn_error_handler.setLevel(logging.WARNING)
-
-info_handler = logging.handlers.RotatingFileHandler(
-    "./logs/info.log", maxBytes=8 * 1024 * 1024, backupCount=1, encoding="utf8"
-)
-info_handler.setLevel(logging.INFO)
-
-dt_fmt = "%Y-%m-%d %H:%M:%S"
-formatter = logging.Formatter(
-    "[LINE] [{asctime}] [{levelname:<8}] {name}: {message}", dt_fmt, style="{"
-)
-warn_error_handler.setFormatter(formatter)
-info_handler.setFormatter(formatter)
-
-logger.addHandler(warn_error_handler)
-logger.addHandler(info_handler)
 
 
 # Create allplanet.json if not done already
@@ -64,430 +73,6 @@ if is_redirected:
         sys.stdout.reconfigure(encoding="utf-16")
     else:
         sys.stdout.reconfigure(encoding="utf-8")
-
-
-class GameSubEvent(BaseModel):
-    text: Optional[str] = Field(alias="text", default=None)
-    type: Optional[str] = Field(alias="type", default=None)
-    faction: Optional[int] = Field(alias="faction", default=0)
-    planet: Optional[List[Tuple[str, int]]] = Field(alias="planet", default=[])
-
-
-class GameEvent(BaseModel):
-
-    timestamp: float
-    time: str
-    day: int
-    text: Optional[str] = Field(alias="text", default=None)
-    type: Optional[str] = Field(alias="type", default=None)
-    faction: Optional[int] = Field(alias="faction", default=0)
-    planet: Optional[List[Tuple[str, str]]] = Field(alias="planet", default=[])
-
-    mo: Optional[str] = Field(alias="mo", default=None)
-    mo_name: Optional[str] = Field(alias="mo_name", default=None)
-    mo_case: Optional[str] = Field(alias="mo_case", default=None)
-    mo_objective: Optional[str] = Field(alias="type", default=None)
-    #galaxystate: Dict[str, Any] = Field(default_factory=dict)
-    log: Optional[List[GameSubEvent]] = Field(default_factory=list)
-    all_players: Optional[int] = Field(alias="all_players", default=None)
-    eind: Optional[int] = Field(alias="eind", default=None)
-
-    # Comparator to sort GameEvent objects by timestamp
-    def __lt__(self, other: "GameEvent") -> bool:
-        return self.timestamp < other.timestamp
-
-
-# Now you can simply sort a list of GameEvent using the sorted() built-in function or list.sort()
-
-
-class Position(BaseModel):
-    x: float
-    y: float
-
-
-class PlanetStatic(BaseModel):
-    name: str
-    position: Position
-    sector: str
-    index: int
-
-
-class PlanetState(BaseModel):
-    hp: Optional[int] = Field(alias="hp", default=None)
-    pl: Optional[Union[str, int]] = Field(alias="pl", default=None)
-    r: Optional[float] = Field(alias="float", default=None)
-    t: int
-    link: Optional[List[int]] = Field(alias="link", default=[])
-    link2: Optional[int] = Field(alias="link2", default=None)
-    gls: Optional[int] = Field(alias="gloom", default=None)
-    biome: Optional[str] = Field(alias="biome", default=None)
-
-
-class DaysObject(BaseModel):
-    events: List[GameEvent] = Field(default_factory=list, alias="events")
-    days: Dict[int, int] = Field(default_factory=dict)
-    dayind: Dict[int, List[int]] = Field(default_factory=dict)
-
-    timestamps: List[int] = Field(default_factory=list)
-    lastday: int = Field(default=1)
-
-    galaxystatic: Dict[str, PlanetStatic] = Field(default_factory=dict)
-
-
-class GalaxyStates(BaseModel):
-
-    gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
-    states: Optional[Dict[str, PlanetState]] = Field(default=None, alias="states")
-    gstate: Optional[Dict[str, Any]] = Field(default_factory=dict, alias="gstate")
-    links: Optional[Dict[int, List[int]]] = Field(default_factory=dict)
-
-
-def get_web_file():
-    """Parse the google doc into a text format."""
-
-    url = "https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA/export?format=txt"
-    with urllib.request.urlopen(url) as response:
-        print("reading...")
-        data = response.read()
-
-    with open("./src/data/gen_data/text.md", "wb") as file:
-        file.write(data)
-
-
-async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
-    """Request the game's status at the given datetime using the war history api."""
-    try:
-        current_time = timev.isoformat()
-        url = "https://api-helldivers.kejax.net/api/planets/at"
-        params = {"time": current_time}
-        timeout = aiohttp.ClientTimeout(total=10)  # Set the timeout to 10 seconds
-
-        async with aiohttp.ClientSession(timeout=timeout) as session:
-            async with session.get(url, params=params) as response:
-                response_json = await response.json()
-                outv = {p["index"]: p for p in response_json}
-                return outv
-    except Exception as e:
-        logger.warning(str(e))
-        return {}
-
-
-def fetch_entries_by_timestamp(conn, timestamp):
-    """Fetch all entries with a given timestamp."""
-    cursor = conn.cursor()
-
-    cursor.execute(
-        """
-    SELECT * FROM alltimedata WHERE timestamp = ?
-    """,
-        (timestamp,),
-    )
-    entries = cursor.fetchall()
-    keys = [column[0] for column in cursor.description]
-    all_entries = {}
-    for index, entry in enumerate(entries):
-        indexv = {key: entry[i] for i, key in enumerate(keys)}
-        all_entries[indexv["pindex"]] = indexv
-    return all_entries
-
-
-def fetch_entries_by_dayval(conn, dayval):
-    """Fetch all entries with the same dayval."""
-    cursor = conn.cursor()
-    print(f"FETCHING ALL VALUES FOR DAYVAL {dayval}")
-    cursor.execute(
-        """
-    SELECT * FROM alltimedata WHERE dayval = ?
-    """,
-        (dayval,),
-    )
-    entries = cursor.fetchall()
-    keys = [column[0] for column in cursor.description]
-    all_entries = {}
-    for entry in entries:
-        indexv = {key: entry[i] for i, key in enumerate(keys)}
-        timestamp = indexv["timestamp"]
-        if timestamp not in all_entries:
-            all_entries[timestamp] = {}
-        all_entries[timestamp][indexv["pindex"]] = indexv
-    print(all_entries.keys())
-    # input()
-    return all_entries
-
-
-def add_entry(conn, timestamp, index, warID, health, owner, regenPerSecond, players):
-    """Add a new entry using the provided data."""
-    cursor = conn.cursor()
-
-    cursor.execute(
-        """
-    INSERT INTO alltimedata (timestamp, index, warID, health, owner, regenPerSecond, players)
-    VALUES (?, ?, ?, ?, ?, ?, ?)
-    """,
-        (
-            float(timestamp),
-            int(index),
-            int(warID),
-            int(health),
-            int(owner),
-            float(regenPerSecond),
-            int(players),
-        ),
-    )
-    conn.commit()
-
-
-def check_and_load_json(filepath: str):
-    """Make sure the json at filepath exists, and load it."""
-    try:
-        exists = os.path.exists(filepath)
-        isfile = os.path.isfile(filepath)
-        print(exists, isfile)
-        if os.path.exists(filepath) and os.path.isfile(filepath):
-            with open(filepath, "r", encoding="utf8") as json_file:
-                output = json.load(json_file)
-                return output
-    except Exception as e:
-        print(e)
-        logger.error(str(e))
-    return {}
-
-
-def parse_timestamp(timestamp_str: str) -> datetime:
-    """Parse the history log's timestamp formatting into a valid datetime object."""
-    pattern = r"(?P<time>\d{1,2}:\d{2}+\s*(am|pm))\s+(UTC\s)*(?P<day>\d{1,2}(st|nd|rd|th))+\s+(?P<month>\w+)\s+((?P<year>\d{4})*)?"
-    match = re.match(pattern, timestamp_str, re.MULTILINE)
-    if match:
-        time_str = match.group("time")
-        month_str = match.group("month")
-        day_str = match.group("day")[:-2]
-        year_str = match.group("year")
-        year = 2024
-        if year_str:
-            year = int(year_str)
-
-        month_map = {
-            "January": 1,
-            "Jan": 1,
-            "Feb": 2,
-            "March": 3,
-            "Mar": 3,
-            "April": 4,
-            "Apr": 4,
-            "May": 5,
-            "June": 6,
-            "Jun": 6,
-            "July": 7,
-            "Jul": 7,
-            "August": 8,
-            "Aug": 8,
-            "September": 9,
-            "Sep": 9,
-            "October": 10,
-            "Oct": 10,
-            "November": 11,
-            "Nov": 11,
-            "December": 12,
-            "Dec": 12,
-        }
-        month = month_map[month_str]
-        day = int(day_str)
-
-        time_format = "%I:%M%p"
-        time_obj = datetime.strptime(time_str, time_format)
-
-        naive_datetime = datetime(
-            int(year), month, day, time_obj.hour, time_obj.minute, tzinfo=timezone.utc
-        )
-        logger.info(
-            "Naive datetime: %s, Timestamp string: %s", naive_datetime, timestamp_str
-        )
-
-        return naive_datetime
-    else:
-        raise ValueError("The timestamp string does not match the expected format.")
-
-
-def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
-    pattern = r"^(?P<type>.*?)\s*\|\s*(?P<name>.*?)(?P<case>\s(is issued|is won|is failed|was compromised))\s*\|\s*Objective:\s*(?P<objective>.*)$"
-    match = re.match(pattern, text)
-    if match:
-        type_ = match.group("type")
-        name = match.group("name").strip()
-        case = match.group("case").strip()
-        objective = match.group("objective").strip()
-        return type_, name, case, objective
-    else:
-        return None
-
-
-def extract_biome_change_details(
-    text: str,
-) -> Optional[Tuple[str, str, str, str, str, str, str]]:
-    """
-    Extracts biome change details from a text.
-
-    Args:
-        text (str): The input text containing biome change details.
-
-    Returns:
-        Optional[Tuple[str, str, str, str, str, str,str]]: Returns a tuple containing
-        planet name, sector name, original biome, original type, new biome, new type, and slug if matched, else None.
-    """
-
-    pattern = r"(?P<planet>.*?) of the (?P<sector>.*?) sector's biome is changed from (?P<orig_biome>.*?) \[(?P<orig_type>.*?)\] to (?P<new_biome>.*?) \[(?P<new_type>.*?)\]"
-    match = re.match(pattern, text)
-    if match:
-        planet = match.group("planet").strip()
-        sector = match.group("sector").strip()
-        orig_biome = match.group("orig_biome").strip()
-        orig_type = match.group("orig_type").strip()
-        new_biome = match.group("new_biome").strip()
-        new_type = match.group("new_type").strip()
-        slug = "moor_baseplanet"
-        for i, v in vjson["biomes"].items():
-            if new_biome in v["name"] and new_type in v["name"]:
-                slug = i
-
-        return planet, sector, orig_biome, orig_type, new_biome, new_type, slug
-    else:
-        return None
-
-
-def get_planet_old(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
-    "Search through planet keys, and return the planets with the matching keys."
-    planets = []
-    t2 = text
-    keys = sorted(list(myplanets.keys()), key=len, reverse=True)
-    for planet in keys:
-        if planet.upper() in t2.upper():
-
-            planets.append((planet, myplanets[planet]))
-            t2 = re.sub(planet, "[PLANETPROCESSED]", t2, flags=re.IGNORECASE)
-
-    return planets
-
-
-def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
-    "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
-    planets = []
-    t2 = text
-    keys = sorted(list(myplanets.keys()), key=len, reverse=True)
-
-    for planet in keys:
-        if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
-            planets.append((planet, myplanets[planet]))
-            # Replace the matched planet name with a placeholder to prevent re-matching
-            t2 = re.sub(
-                rf"\b{re.escape(planet)}\b",
-                "[PLANETPROCESSED]",
-                t2,
-                flags=re.IGNORECASE,
-            )
-
-    return planets
-
-
-faction_dict = {1: "Human", 2: "Terminid", 3: "Automaton", 4: "Illuminate"}
-
-
-def get_faction(text: str) -> int:
-    "Get the Faction from the text."
-    if "AUTOMATON" in text.upper() or "AUTOMAT" in text.upper():
-        return 3
-    if "TERMINID" in text.upper():
-        return 2
-    if "HUMAN" in text.upper():
-        return 1
-    return 0
-
-
-def load_event_types(json_file: str) -> Dict[str, Any]:
-    """Load event types from a JSON file."""
-    with open(json_file, "r") as file:
-        return json.load(file)
-
-
-def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
-    """Get the event type from the text."""
-    text_lower = text.lower()
-
-    for main_event, details in event_types.items():
-        main_name = details.get("name", "")
-        matchable_phrases = details.get("matchable", [])
-        sub_events = details.get("sub", [])
-        must = details.get("must", False)
-        mode = details.get("mode", "or")
-
-        # Check main event matchable phrases
-        if mode == "and":
-            it = True
-            for phrase in matchable_phrases:
-                if phrase not in text_lower:
-                    it = False
-            if it:
-                return main_name, " ".join(matchable_phrases)
-            continue
-        for phrase in matchable_phrases:
-            if phrase.lower() in text_lower:
-                if not sub_events:
-                    return main_name, phrase
-                for sub_event in sub_events:
-                    sub_name = sub_event.get("name", "")
-                    sub_phrases = sub_event.get("matchable", [])
-                    for sub_phrase in sub_phrases:
-                        if sub_phrase.lower() in text_lower:
-                            return sub_name, sub_phrase
-                if not must:
-                    return main_name, phrase
-
-    return "unknown", "?????"
-
-
-def make_day_obj() -> None:
-    """Load the HOWL google doc, create day/event/date dictionary"""
-    print("Getting web file...")
-    get_web_file()
-    pattern = r"^(Day #(?P<day>\d+)\s+(?P<day_time>\d{1,2}:\d{2}+\s*(am|pm)\s+\d{1,2}(st|nd|rd|th)\s+\w+\s+(\d{4})*)|(?P<text>.*?)\s+\((?P<time>\d{1,2}:\d{2}+\s*(am|pm)?\s+UTC\s+\d{1,2}(st|nd|rd|th)\s+\w+\s*\d*)\))"
-    text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
-    text = text.replace("’", "'")
-    days = DaysObject()
-    daykey = "DK"
-    # Create the inital days dictionary.
-    for line in text.split("\n"):
-        matches = re.finditer(pattern, line, re.MULTILINE)
-        for match in matches:
-            if match.group("day"):
-                timestamp = parse_timestamp(match.group("day_time"))
-                daykey = f"{match.group('day')}"
-
-                daykey = (
-                    timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)
-                ).days
-                days.events.append(
-                    GameEvent(
-                        text=f"Day #{daykey} Start",
-                        timestamp=timestamp.timestamp(),
-                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        day=int(daykey),
-                    )
-                )
-            else:
-                timestamp = parse_timestamp(match.group("time"))
-                logger.info(
-                    "Text: %s, Timestamp string: %s", match.group("text"), timestamp
-                )
-                day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
-                days.events.append(
-                    GameEvent(
-                        text=match.group("text"),
-                        timestamp=timestamp.timestamp(),
-                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-                        day=day,
-                    )
-                )
-    with open("./src/data/gen_data/out.json", "w", encoding="utf8") as json_file:
-        json.dump(days.model_dump(), json_file, indent=4)
 
 
 def format_event_obj() -> None:
@@ -548,12 +133,6 @@ def format_event_obj() -> None:
         json.dump(event_type_sort, json_file, indent=2, sort_keys=True, default=str)
 
 
-def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
-    """Return all unique sectors."""
-    sectors = [planet["sector"] for planet in planets_Dict.values()]
-    return list(set(sectors))
-
-
 def monitor_event(
     event: GameEvent, lasttime: datetime, newevents: List[GameEvent]
 ) -> Tuple[List[GameEvent], datetime]:
@@ -582,104 +161,6 @@ def monitor_event(
     return newevents, lasttime
 
 
-def sort_event_type(
-    event: GameEvent,
-    text: str,
-    match: str,
-    sectors: List[str],
-    event_type_sort: Dict[str, Any],
-) -> Dict[str, Any]:
-    """Modify the event type sort dictionary, which determines which lines have an UNKNOWN event."""
-    if event.type == "unknown":
-        event_type_sort["unknown"].append(text)
-    else:
-        if not event.type in event_type_sort:
-            event_type_sort[event.type] = [text, [], {}]
-
-        nt, dx = format_event_text(event, text, match, sectors)
-        if nt not in event_type_sort[event.type][1]:
-            event_type_sort[event.type][1].append(nt)
-        for key, value in dx.items():
-            if key not in event_type_sort[event.type][2]:
-                event_type_sort[event.type][2][key] = []
-            if value not in event_type_sort[event.type][2][key]:
-                event_type_sort[event.type][2][key].append(value)
-    return event_type_sort
-
-
-def format_event_text(
-    event: GameEvent, text: str, match: str, sectors: List[str]
-) -> str:
-    """For the typesort dictionary, format the event's text."""
-    special = {}
-    if "Major Order" in event.type:
-        result = extract_mo_details(event.text)
-        if result:
-            type_, name, case, objective = result
-            text = (
-                text.replace(type_, "[TYPE]")
-                .replace(name, "[MO NAME]")
-                .replace(case, "[MO CASE]")
-                .replace(objective, "[MO OBJECTIVE]")
-            )
-            special = {"TYPE": type_, "CASE": case, "OBJECTIVE": objective}
-    else:
-        text = text.replace(match, "[TYPETEXT]")
-        special["TYPETEXT"] = match
-        for e, v in enumerate(event.planet):
-            p, ind = v
-            text = text.replace(p, f"[PLANET {e}]")
-        e = sum(1 for s in sectors if s in text)
-        text = re.sub(f"({'|'.join(sectors)})", lambda m: f"[SECTOR {e}]", text)
-        faction = faction_dict.get(event.faction, "UNKNOWN")
-        if faction in text:
-            text = text.replace(faction, f"[FACTION]")
-            special["FACTION"] = faction
-        text = re.sub(r"\#[0-9]*", lambda m: f"[DAY]", text)
-
-    return text, special
-
-
-def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str]:
-    for p in event.planet:
-        planet = p[1]
-        if event.type == "defense start":
-            defenses[planet] = event.faction
-        if event.type == "defense won":
-            defenses.pop(str(planet))
-        if event.type == "defense lost":
-            event.faction = defenses.pop(str(planet))
-    return defenses
-
-
-def human_format(num: float):
-    """Format a large number"""
-
-    # Format the number to 2 significant digits, converting it to float
-    num = float("{:.3g}".format(num))
-
-    magnitude = 0
-    # Divide the number by 1000 until it's less than 1000, increasing the magnitude with each division
-    while abs(num) >= 1000:
-        magnitude += 1
-        num /= 1000.0
-
-    suffixes = ["", "K", "M", "B", "T", "Q", "Qi"]  # Suffixes for each magnitude step
-    # Convert the number to string, remove trailing zeros and dots, and append the appropriate suffix
-    numa = "{:f}".format(num).rstrip("0").rstrip(".")
-    return int(float(numa) * (1000**magnitude))
-
-
-def enote(num: int):
-    # Anything smaller than 100 is to be ignored.
-    num = (num // 100) * 100
-    if num < 10:
-        return "<10"
-    if num < 100:
-        return "<100"
-    return num
-
-
 hashlists = {}
 valid_waypoints = {0: []}
 
@@ -687,7 +168,7 @@ valid_waypoints = {0: []}
 async def get_planet_stats(
     conn, ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime
 ) -> Dict[int, Dict[str, Any]]:
-    '''Retrieve the current planet status if present.'''
+    """Retrieve the current planet status if present."""
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
     cursor = conn.cursor()
@@ -734,53 +215,18 @@ async def get_planet_stats(
     return planetstats
 
 
-mainHeader = """---
-title: Galactic War History Log Full
-toc: True
-sidebar: true
----
-# Full Galactic War History Log
+def update_planet_stats(
+    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
+) -> None:
+    """Update HP, regenPerSecond, and playercount"""
 
-Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
-
-"""
-
-
-def suffix(d):
-    return {1: "st", 2: "nd", 3: "rd"}.get(d % 20, "th")
-
-
-def custom_strftime(format, t):
-    return t.strftime(format).replace("{S}", str(t.day) + suffix(t.day))
-
-
-def make_markdown_log(history: DaysObject):
-    markdown_output = ["\n"]
-
-    def make_entry(entry: GameEvent):
-        for each in entry.log:
-            if each.type == "Day Start":
-                if (int(entry.day) % 10) == 0 or int(entry.day) == 1:
-                    markdown_output.append(f"\n# Day: #{entry.day}\n")
-                else:
-                    markdown_output.append(f"\n### Day: #{entry.day}\n")
-            elif each.type == "monitor":
-                print("Skipping addition, monitoring")
-                logger.info("Skipping addition, monitoring.")
-            else:
-                timestamp = datetime.fromtimestamp(entry.timestamp, tz=timezone.utc)
-                formatted_time = timestamp.strftime("%Y-%m-%d %H:%M")
-                # formatted_time = custom_strftime("%#I:%M%p UTC %b {S} %Y",timestamp)
-                # formatted_time=formatted_time.replace("AM",'am')
-                # formatted_time=formatted_time.replace("PM",'pm')
-                text = f"{each.text}"
-                for i, v in each.planet:
-                    text = text.replace(i, f"*{i}*")
-                markdown_output.append(f"{text} ({formatted_time})<br/>\n")
-
-    for event in history.events:
-        make_entry(event)
-    return mainHeader + "".join(markdown_output)
+    for i, v in planetstats.items():
+        if str(i) in planetclone:
+            planetclone[str(i)].hp = v.get("health", 0)
+            lastregen = planetclone[str(i)].r
+            # if lastregen!=float(v.get("regenPerSecond", 0)):   print(f"planet {i} decay change to {lastregen}")
+            planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
+            planetclone[str(i)].pl = enote(v.get("players", 0))
 
 
 def unordered_list_hash(int_list: List[int]):
@@ -904,55 +350,8 @@ async def process_event(
     if event.planet:
         update_planet_ownership(event, planetclone)
 
-    #event.galaxystate = planetclone
+    # event.galaxystate = planetclone
     return planetclone
-
-
-def update_planet_stats(
-    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
-) -> None:
-    """Update HP, regenPerSecond, and playercount"""
-
-    for i, v in planetstats.items():
-        if str(i) in planetclone:
-            planetclone[str(i)].hp = v.get("health", 0)
-            lastregen = planetclone[str(i)].r
-            # if lastregen!=float(v.get("regenPerSecond", 0)):   print(f"planet {i} decay change to {lastregen}")
-            planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
-            planetclone[str(i)].pl = enote(v.get("players", 0))
-
-
-def check_planet_stats_for_change(
-    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
-) -> bool:
-    """check if HP or decay changed"""
-    decay_change = False
-    hp_change = False
-    times = 100000
-
-    decay_changed_on = []
-    hp_changed_on = []
-
-    for i, v in planetstats.items():
-        if str(i) in planetclone:
-            lasthp = planetclone[str(i)].hp
-            if lasthp:
-                if lasthp // times != v.get("health", 0) // times:
-                    hp_change = True
-                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
-            lastregen = planetclone[str(i)].r
-            if lastregen != float(v.get("regenPerSecond", 0)):
-                decay_change = True
-                newregen = v.get("regenPerSecond", 0)
-                decay_changed_on.append((i, v.get("owner", 0), newregen))
-                print(f"planet {i} decay change to {newregen}")
-            # planetclone[str(i)].r = float(v.get("regenPerSecond", 0))
-            # planetclone[str(i)].pl = enote(v.get("players", 0))
-
-    logger.info(
-        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
-    )
-    return decay_changed_on, hp_changed_on
 
 
 def update_planet_ownership(
@@ -1003,7 +402,9 @@ def update_planet_ownership(
                 planetclone[str(ind)].gls = 4
 
         if event.type == "Biome Change":
-            _, _, _, _, _, _, slug = extract_biome_change_details(event.text)
+            _, _, _, _, _, _, slug = extract_biome_change_details(
+                event.text, vjson["biomes"]
+            )
             planetclone[str(ind)].biome = slug
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
@@ -1027,83 +428,6 @@ def update_planet_ownership(
                         planetclone[str(id2)].link.remove(int(ind))
 
 
-def add_waypoint(planetclone: Dict[str, PlanetState], ind: int, other_ind: int) -> None:
-    if not planetclone[str(ind)].link:
-        planetclone[str(ind)].link = []
-    if int(other_ind) not in planetclone[str(ind)].link:
-        if planetclone[str(other_ind)].link and (
-            int(ind) in planetclone[str(other_ind)].link
-        ):
-            return
-        planetclone[str(ind)].link.append(int(other_ind))
-
-
-def remove_waypoint(
-    planetclone: Dict[str, PlanetState], ind: int, other_ind: int
-) -> None:
-    if planetclone[str(ind)].link:
-        while int(other_ind) in planetclone[str(ind)].link:
-            planetclone[str(ind)].link.remove(int(other_ind))
-
-    if planetclone[str(other_ind)].link:
-        while int(ind) in planetclone[str(other_ind)].link:
-            planetclone[str(other_ind)].link.remove(int(ind))
-
-
-def update_waypoints(
-    planet_list: List[Tuple[str, int]],
-    planetclone: Dict[str, Dict[str, Any]],
-    add: bool = True,
-) -> None:
-    """Add/Remove waypoints between planets in planetslist."""
-    planet_pairs = ((p1, p2) for p1 in planet_list for p2 in planet_list)
-    for (name, ind), (other_name, other_ind) in planet_pairs:
-        if name == other_name:
-            continue
-        if add:
-            add_waypoint(planetclone, ind, other_ind)
-        else:
-            remove_waypoint(planetclone, ind, other_ind)
-
-
-def all_in_same_sector(planet_list, all_planets):
-    first_sector = planet_list[0]["sector"]
-    return all(planet["sector"] == first_sector for planet in planet_list)
-
-
-def all_have_same_owner(planet_list, all_planets):
-    first_owner = planet_list[0]["owner"]
-    return all(planet["owner"] == first_owner for planet in planet_list)
-
-
-def group_by_sector(planet_list, all_planets):
-    # Get the sector of the first planet in the list
-    sectors = {}
-    for pl in planet_list:
-        if not pl["sector"] in sectors:
-            sectors[pl["sector"]] = []
-        sectors[pl["sector"]].append(pl)
-    print(sectors)
-    return list(sectors.keys())
-    for sector_name, sector_planets in sectors.items():
-        if not all_in_same_sector(sector_planets, all_planets):
-            logger.warning(f"Sector {sector_name} does not have all planets.")
-        else:
-            logger.info(f"Sector {sector_name} is filled properly.")
-
-
-def group_events_by_timestamp(days_out: DaysObject):
-    events_by_timestamp = {}
-    # Inital event grouping.
-    for i, event in enumerate(days_out.events):
-        print(i, event)
-        timestamp = event.timestamp
-        if timestamp not in events_by_timestamp:
-            events_by_timestamp[timestamp] = []
-        events_by_timestamp[timestamp].append(event)
-    return list(events_by_timestamp.values())
-
-
 def handle_decay_events(decay):
     outtext = []
     if decay:
@@ -1117,29 +441,12 @@ def handle_decay_events(decay):
                 decay_for_planets[p].append(planet)
 
         for decay, planets in decay_for_planets.items():
-            usenames = derive_decay_names(planets)
+            usenames = derive_decay_names(planets, vjson)
             change = round((float(decay) * 3600) / 10000, 2)
             outtext.append(f" Decay: {change} on " + ", ".join(usenames))
             print(outtext)
 
     return outtext
-
-
-def derive_decay_names(names):
-    if len(names) <= 3:
-        return [s["name"] for s in names]
-    same_sector = all_in_same_sector(names, vjson["planets"])
-    same_owner = all_have_same_owner(names, vjson["planets"])
-
-    if same_sector:
-        return [names[0]["sector"] + " sector"]
-    elif same_owner:
-        return [faction_dict.get(names[0]["owner"], "???") + " worlds"]
-    elif len(names) > 7:
-        sectors = group_by_sector(names, vjson)
-        return [s + " sector" for s in sectors]
-    else:
-        return [s["name"] for s in names]
 
 
 class PlanetHistoryDelta:
@@ -1328,8 +635,7 @@ class GalaxyEventProcessor:
             )
         self.temp = ptemp
         ne.log = elog
-        ne.mo=self.store.get("mo", "")
-
+        ne.mo = self.store.get("mo", "")
 
     def save_results(self):
         """Save Results"""
@@ -1370,12 +676,6 @@ async def main_code():
     planets, temp = initialize_planets()
     processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
     await processor.run()
-
-
-def save_json_data(file_path: str, data: Any, **kwargs) -> None:
-    """Save json data to a file."""
-    with open(file_path, "w", encoding="utf8") as json_file:
-        json.dump(data, json_file, **kwargs)
 
 
 if not os.path.exists("./src/data/gen_data"):
