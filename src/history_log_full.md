@@ -127,6 +127,8 @@ Major Order | Operation Bulwark is issued | Objective: Defend (2024-02-15 12:17)
 ↳ *Ubanea* liberation campaign ends (2024-02-27 21:53)<br/>
 ↳ *Malevelon Creek* liberation campaign ends (2024-02-27 21:53)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-02-27 21:56)<br/>
+*Ingmar* defense is won (2024-02-27 22:00)<br/>
+*Ingmar* of the Xzar sector is attacked by Automatons (2024-02-27 22:00)<br/>
 *Mort* defense is won (2024-02-27 23:55)<br/>
 *Mantes* is liberated (2024-02-28 06:41)<br/>
 ↳ *Draupnir* liberation campaign starts (2024-02-28 06:41)<br/>
@@ -672,6 +674,8 @@ Automaton second wave starts (2024-04-09 11:41)<br/>
 ↳ Valdis sector is fully under Automaton control (2024-04-09 11:41)<br/>
 ↳ *Chort Bay* - *Merak* supply line is removed (2024-04-09 11:42)<br/>
 ↳ *Chort Bay* - *Menkent* supply line is added (2024-04-09 11:42)<br/>
+↳ *Choohe* of the Lacaille sector is attacked by Automatons (2024-04-09 11:42)<br/>
+↳ *Choohe* defense is won (2024-04-09 11:43)<br/>
 ↳ *Choohe* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43)<br/>
 ↳ ↳ *Choohe* liberation campaign starts (2024-04-09 11:43)<br/>
 ↳ *Penta* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43)<br/>
@@ -2954,8 +2958,10 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-12 16:00)<br/>
 *Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-10-12 18:48)<br/>
 *Pandion-XXIV* is liberated (2024-10-12 20:17)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-10-12 20:17)<br/>
  Decay: 0.0 on Gar Haren
  (2024-10-12 20:17)<br/>
+*Acamar IV* liberation campaign ends (2024-10-12 20:18)<br/>
 
 ### Day: #249
 *Gar Haren* defense is failed (2024-10-13 18:51)<br/>
@@ -2974,3 +2980,17 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 ↳ Borgus sector is fully liberated (2024-10-14 16:45)<br/>
  Decay: 3.5 on Choohe
  (2024-10-14 16:45)<br/>
+ Decay: 500.0 on Achernar Secundus
+ (2024-10-14 18:00)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminds (2024-10-15 08:28)<br/>
+
+### Day: #251
+ Decay: 0.0 on Gatria
+ (2024-10-15 09:00)<br/>
+*Gacrux* is liberated (2024-10-15 13:51)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-10-15 13:51)<br/>
+↳ *Fori Prime* liberation campaign starts (2024-10-15 13:51)<br/>
+↳ *Partion* liberation campaign starts (2024-10-15 13:51)<br/>
+*Acamar IV* liberation campaign ends (2024-10-15 13:52)<br/>
+*Fori Prime* liberation campaign ends (2024-10-15 13:52)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-15 15:06)<br/>
