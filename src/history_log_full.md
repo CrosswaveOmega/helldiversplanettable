@@ -1502,21 +1502,21 @@ Dispatch: NEW MAJOR ORDER. High Command has received two urgent requests for aid
 ↳ *Vernen Wells* liberation campaign starts (2024-06-12 21:03)<br/>
 
 ### Day: #127
-*Fornskogur II* of the Barnard sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Barabos* of the Marspira sector's biome is changed from Boneyard [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Krakabos* of the Iptus sector's biome is changed from Boneyard [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Ivis* of the Celeste sector's biome is changed from Icy Glaciers [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Gacrux* of the Jin Xi sector's biome is changed from Tundra [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Parsh* of the Rictus sector's biome is changed from Icy Glaciers [Arctic] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Caph* of the Theseus sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*X-45* of the Ymir sector's biome is changed from Deadlands [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Haldus* of the Ferris sector's biome is changed from Moon [Sandy] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Nabatea Secundus* of the L'estrade sector's biome is changed from Ion Rainforest [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Pherkad Secundus* of the Farsight sector's biome is changed from Plains [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Bore Rock* of the Falstaff sector's biome is changed from Scorched Moor [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
-*Seasse* of the Omega sector's biome is changed from Ion Rainforest [Primordial] to Green Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Fornskogur II* of the Barnard sector's biome is changed from Volcanic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Barabos* of the Marspira sector's biome is changed from Boneyard [Arctic] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Krakabos* of the Iptus sector's biome is changed from Boneyard [Arctic] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Ivis* of the Celeste sector's biome is changed from Icy Glaciers [Arctic] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Gacrux* of the Jin Xi sector's biome is changed from Tundra [Moor] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Parsh* of the Rictus sector's biome is changed from Icy Glaciers [Arctic] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Caph* of the Theseus sector's biome is changed from Volcanic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*X-45* of the Ymir sector's biome is changed from Deadlands [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Haldus* of the Ferris sector's biome is changed from Moon [Sandy] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Nabatea Secundus* of the L'estrade sector's biome is changed from Ionic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Pherkad Secundus* of the Farsight sector's biome is changed from Plains [Moor] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Bore Rock* of the Falstaff sector's biome is changed from Scorched Moor [Moor] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
+*Seasse* of the Omega sector's biome is changed from Ionic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00)<br/>
 *Terrek* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Azterra* of the Orion sector's supply lines are obliterated (2024-06-13 09:00)<br/>
 *Ivis* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00)<br/>
@@ -2162,19 +2162,19 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
  (2024-08-05 09:00)<br/>
 
 ### Day: #181
-*Atrama* of the Idun sector's biome is changed from Ion Rainforest [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Tarsh* of the Maspira sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Ratch* of the Iptus sector's biome is changed from Rolling Dunes [Sandy] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Nublaria I* of the Celeste sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Gar Haren* of the Jin Xi sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Bashyr* of the Gallux sector's biome is changed from Deadlands [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Iro* of the Rictus sector's biome is changed from Plains [Moor] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Khandark* of the Guang sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Merga IV* of the Valdis sector's biome is changed from Icy Glaciers [Arctic] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Socorro III* of the Falstaff sector's biome is changed from Ethereal Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Setia* of the Omega sector's biome is changed from Rolling Dunes [Sandy] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Klaka 5* of the Alstrad sector's biome is changed from Volcanic Jungle [Primordial] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
-*Skitter* of the Hawking sector's biome is changed from Plains [Moor] to Dark Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Atrama* of the Idun sector's biome is changed from Ionic Jungle [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Tarsh* of the Maspira sector's biome is changed from Icy Glaciers [Arctic] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Ratch* of the Iptus sector's biome is changed from Desert Dunes [Sandy] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Nublaria I* of the Celeste sector's biome is changed from Volcanic Jungle [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Gar Haren* of the Jin Xi sector's biome is changed from Volcanic Jungle [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Bashyr* of the Gallux sector's biome is changed from Deadlands [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Iro* of the Rictus sector's biome is changed from Plains [Moor] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Khandark* of the Guang sector's biome is changed from Icy Glaciers [Arctic] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Merga IV* of the Valdis sector's biome is changed from Icy Glaciers [Arctic] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Socorro III* of the Falstaff sector's biome is changed from Ethereal Jungle [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Setia* of the Omega sector's biome is changed from Desert Dunes [Sandy] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Klaka 5* of the Alstrad sector's biome is changed from Volcanic Jungle [Primordial] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
+*Skitter* of the Hawking sector's biome is changed from Plains [Moor] to Haunted Swamp [Swamp] (2024-08-06 09:00)<br/>
 *Enuliale* is moderately enveloped by the Gloom (2024-08-06 09:38)<br/>
 *Socorro III* is lightly enveloped by the Gloom (2024-08-06 09:38)<br/>
 ↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38)<br/>
@@ -2994,3 +2994,16 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 *Acamar IV* liberation campaign ends (2024-10-15 13:52)<br/>
 *Fori Prime* liberation campaign ends (2024-10-15 13:52)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-15 15:06)<br/>
+ Decay: 0.0 on Pandion-XXIV
+ (2024-10-15 16:00)<br/>
+*Gatria* defense is won (2024-10-16 01:37)<br/>
+ Decay: 1.5 on Gatria
+ (2024-10-16 02:00)<br/>
+*Pandion-XXIV* defense is won (2024-10-16 08:10)<br/>
+ Decay: 4.0 on Choohe
+ (2024-10-16 08:10)<br/>
+
+### Day: #252
+ Decay: 1.0 on Pandion-XXIV
+ (2024-10-16 09:00)<br/>
+Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to secure *Acamar IV*. The Defense of *Achird III*, won on a razor's edge, has been recognized by High Command as a show of valor not seen since the Battle of *Mort* in the first days of the war. Achird stands, as does Freedom. But the fight is not yet over. Readings indicate imminent Terminid invasions of the defensive ring. Hold the line, so the Terminid Research Preserve can be built. (2024-10-16 11:07)<br/>
