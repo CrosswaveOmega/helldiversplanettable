@@ -75,8 +75,8 @@ const headerMapSector = new Map([
     ["WTL", "WTL"],
 
     ["MSR", "MSR"],
-    
-    ["Friendly Kill Rate","FKR"],
+
+    ["Friendly Kill Rate", "FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],
@@ -91,9 +91,9 @@ const headerMapSector = new Map([
 ]);
 const headerMapFront = new Map([
     ["Front", "front"],
-    
+
     ["Planets", "planets"],
-    
+
     ["Sectors", "sectors"],
     ["Missions Won", "missionsWon"],
     ["Missions Lost", "missionsLost"],
@@ -106,8 +106,8 @@ const headerMapFront = new Map([
     ["Wins to Losses", "WTL"],
 
     ["Mission Success Rate", "MSR"],
-    
-    ["Friendly Kill Rate","FKR"],
+
+    ["Friendly Kill Rate", "FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],
@@ -133,8 +133,8 @@ const headerMapBiome = new Map([
     ["WTL", "WTL"],
 
     ["MSR", "MSR"],
-    
-    ["Friendly Kill Rate","FKR"],
+
+    ["Friendly Kill Rate", "FKR"],
     ["Mission Time", "missionTime"],
     ["Time Per Mission", "timePerMission"],
     ["Time Played", "timePlayed"],
@@ -148,4 +148,4 @@ const headerMapBiome = new Map([
     ["Revives", "revives"],
 ]);
 
-export { planetTable, headerMapSector, headerMapBiome, headerMapFront};
+export { planetTable, headerMapSector, headerMapBiome, headerMapFront };

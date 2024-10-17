@@ -10,19 +10,29 @@ function getTextSize(text, fontSize = "12px", fontFamily = "sans-serif") {
 function TimeTrack(data, { width } = {}) {
     let vals = Object.values(data);
     vals.sort((a, b) => a.timestamp - b.timestamp);
-    
+
     let differences = vals.map((d, i) => {
-        if (i === 0) return {ts:d.timestamp, date: new Date(d.timestamp*1000).toLocaleString(), timestamp: d.timestamp, diff: 0 };
-        return { timestamp:d.timestamp,
-            date: new Date(d.timestamp*1000).toLocaleString(),
-            ts: d.timestamp-vals[i - 1].timestamp, 
-            diff: d.timestamp-vals[i - 1].timestamp, 
-            diffa:d.time - vals[i - 1].time,
-             diff2:(d.time - vals[i - 1].time) - (d.timestamp - vals[i - 1].timestamp)};
+        if (i === 0)
+            return {
+                ts: d.timestamp,
+                date: new Date(d.timestamp * 1000).toLocaleString(),
+                timestamp: d.timestamp,
+                diff: 0,
+            };
+        return {
+            timestamp: d.timestamp,
+            date: new Date(d.timestamp * 1000).toLocaleString(),
+            ts: d.timestamp - vals[i - 1].timestamp,
+            diff: d.timestamp - vals[i - 1].timestamp,
+            diffa: d.time - vals[i - 1].time,
+            diff2:
+                d.time -
+                vals[i - 1].time -
+                (d.timestamp - vals[i - 1].timestamp),
+        };
     });
 
     differences.shift();
-    
 
     let plotnew = Plot.plot({
         x: {
@@ -44,23 +54,25 @@ function TimeTrack(data, { width } = {}) {
             //     title: (d) => `timestamp: ${d.timestamp}\ndiff: ${d.diff}`, // Add tooltip for markers
             //     tip: true,
             // }),
-        
+
             Plot.line(differences, {
                 x: "timestamp",
                 y: "diff2",
-                title: (d) => `timestamp: ${d.date}\n offset: ${d.diff2}\n game_diff: ${d.diffa}\n tsdiff: ${d.diff}`, // Add tooltip
-                stroke:'blue',
-                strokeOpacity:0.7,
+                title: (d) =>
+                    `timestamp: ${d.date}\n offset: ${d.diff2}\n game_diff: ${d.diffa}\n tsdiff: ${d.diff}`, // Add tooltip
+                stroke: "blue",
+                strokeOpacity: 0.7,
             }),
             Plot.dot(differences, {
                 x: "timestamp",
                 y: "diff2",
-                title: (d) => `timestamp: ${d.date}\n offset: ${d.diff2}\n game_diff: ${d.diffa}\n tsdiff: ${d.diff}`, // Add tooltip
+                title: (d) =>
+                    `timestamp: ${d.date}\n offset: ${d.diff2}\n game_diff: ${d.diffa}\n tsdiff: ${d.diff}`, // Add tooltip
                 tip: true,
                 r: 2, // Make the dot small
-                stroke:'blue',
-                fill:null,
-                fillOpacity:0.7,
+                stroke: "blue",
+                fill: null,
+                fillOpacity: 0.7,
             }),
         ],
     });
@@ -86,7 +98,6 @@ function bugKills(data, { width } = {}) {
     });
     return plotnew;
 }
-
 
 function botKills(data, { width } = {}) {
     let plotnew = Plot.plot({
@@ -744,5 +755,5 @@ export {
     missionsWonAndLost,
     BiomeStats,
     BiomeData,
-    TimeTrack
+    TimeTrack,
 };

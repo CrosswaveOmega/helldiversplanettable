@@ -22,7 +22,7 @@ class GameEvent {
         mo_objective = null,
         log = [],
         all_players = null,
-        eind = null
+        eind = null,
     } = {}) {
         this.timestamp = timestamp;
         this.time = time;
@@ -35,7 +35,7 @@ class GameEvent {
         this.mo_name = mo_name;
         this.mo_case = mo_case;
         this.mo_objective = mo_objective;
-        this.log = log.map(subEvent => new GameSubEvent(subEvent)); // Array of GameSubEvent instances
+        this.log = log.map((subEvent) => new GameSubEvent(subEvent)); // Array of GameSubEvent instances
         this.all_players = all_players;
         this.eind = eind;
     }
@@ -53,9 +53,9 @@ class DaysObject {
         dayind = {},
         timestamps = [],
         lastday = 1,
-        galaxystatic = {}
+        galaxystatic = {},
     } = {}) {
-        this.events = events.map(event => new GameEvent(event)); // Array of GameEvent instances
+        this.events = events.map((event) => new GameEvent(event)); // Array of GameEvent instances
         this.days = days;
         this.dayind = dayind;
         this.timestamps = timestamps;
@@ -66,16 +66,16 @@ class DaysObject {
 class Row {
     constructor({
         index = 0,
-        planet_name = '',
-        sector_name = '',
-        front = '',
-        sector_front = '',
-        initial_owner = '',
-        current_owner = '',
-        position = null,  // specify concrete types if possible
+        planet_name = "",
+        sector_name = "",
+        front = "",
+        sector_front = "",
+        initial_owner = "",
+        current_owner = "",
+        position = null, // specify concrete types if possible
         waypoints = [],
         player_count = 0,
-        image = '',
+        image = "",
         missionsWon = 0,
         missionsLost = 0,
         missionTime = 0,
@@ -99,8 +99,8 @@ class Row {
         KTD = 0.0,
         FKR = 0.0,
         WTL = 0.0,
-        biome = '',
-        hazards = ''
+        biome = "",
+        hazards = "",
     } = {}) {
         this.index = index;
         this.planet_name = planet_name;
@@ -141,4 +141,4 @@ class Row {
     }
 }
 
-export {DaysObject,GameSubEvent,GameEvent, Row}
+export { DaysObject, GameSubEvent, GameEvent, Row };

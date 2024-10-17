@@ -1,163 +1,159 @@
 {
     "MajorEvent": {
-      "name": "Major Order",
-      "matchable": ["MAJOR ORDER"],
-      "must":true,
-      "sub": [
-        {
-          "name": "Major Order Start",
-          "matchable": ["is issued"]
-        },
-        {
-          "name": "Major Order Won",
-          "matchable": ["is won"]
-        },
-        {
-          "name": "Major Order Lost",
-          "matchable": ["is failed"]
-        },
-        {
-          "name": "Major Order Compromised",
-          "matchable": ["was compromised"]
-        }
-      ]
+        "name": "Major Order",
+        "matchable": ["MAJOR ORDER"],
+        "must": true,
+        "sub": [
+            {
+                "name": "Major Order Start",
+                "matchable": ["is issued"]
+            },
+            {
+                "name": "Major Order Won",
+                "matchable": ["is won"]
+            },
+            {
+                "name": "Major Order Lost",
+                "matchable": ["is failed"]
+            },
+            {
+                "name": "Major Order Compromised",
+                "matchable": ["was compromised"]
+            }
+        ]
     },
     "PlanetEvent": {
-      "name": "planet won",
-      "matchable": ["is liberated"],
-      "sub":[
-        {
-          "name": "planet superwon",
-          "matchable": ["via planetary implosion"]
-        }
-      ]
+        "name": "planet won",
+        "matchable": ["is liberated"],
+        "sub": [
+            {
+                "name": "planet superwon",
+                "matchable": ["via planetary implosion"]
+            }
+        ]
     },
     "PlanetSuperWinEvent": {
-      "name": "planet superwon",
-      "matchable": ["is destroyed via planetary implosion"]
+        "name": "planet superwon",
+        "matchable": ["is destroyed via planetary implosion"]
     },
     "FlipEvent": {
-      "name": "planet flip",
-      "matchable": ["instantly flips to"]
+        "name": "planet flip",
+        "matchable": ["instantly flips to"]
     },
     "DefenseFailedEvent": {
-      "name": "defense lost",
-      "matchable": ["defense is failed"]
+        "name": "defense lost",
+        "matchable": ["defense is failed"]
     },
     "DefenseWonEvent": {
-      "name": "defense won",
-      "matchable": ["defense is won"]
+        "name": "defense won",
+        "matchable": ["defense is won"]
     },
     "DefenseAutoWonEvent": {
-      "name": "defense won",
-      "matchable": ["defense is auto-won"]
+        "name": "defense won",
+        "matchable": ["defense is auto-won"]
     },
     "DefenseStartEvent": {
-      "name": "defense start",
-      "matchable": ["is attacked by", "assaulted into a defense"]
+        "name": "defense start",
+        "matchable": ["is attacked by", "assaulted into a defense"]
     },
     "WarHistoryEvent": {
-      "name": "warhistoryapilaunch",
-      "matchable": ["monitoring satellites are launched"]
-    },
-    
-    "NewLinkEvent": {
-      "name": "newlink",
-      "matchable": ["is added"]
-    },
-    "DestroyLinkEvent": {
-      "name": "destroylink",
-      "matchable": ["is removed"]
-    },
-    "ClearLinksEvent": {
-      "name": "clearlinks",
-      "matchable": ["are obliterated"]
-    },
-    "CampaignStartEvent": {
-      "name": "campaign_start",
-      "matchable": ["campaign starts"]
-    },
-    "CampaignEndEvent": {
-      "name": "campaign_end",
-      "matchable": ["campaign ends"]
-    },
-    "FullLibEvent": {
-      "name": "full_lib",
-      "matchable": ["fully liberated"]
-    },
-    "FullOccEvent": {
-      "name": "full_occ",
-      "matchable": ["is fully under"]
-    },
-    "InaccessibleEvent": {
-      "name": "inaccessable",
-      "matchable": ["is not accessible despite"]
-    },
-    "AccessibleAnomalyEvent": {
-      "name": "accessible_anomaly",
-      "matchable": ["is still accessible despite"]
-    },
-    "DayStartEvent": {
-      "name": "Day Start",
-      "matchable": ["day","start"],
-      "mode":"and"
-    },
-    "Note": {
-      "name": "Note",
-      "matchable": ["note:", "NOTE"]
-    },
-    "biome_change":{
-      "name": "Biome Change",
-      "matchable": ["biome is changed"]
-    },
-    "Effect":{
-      "name":"Currently Unknown Effect",
-      
-      "matchable": ["effect"]
-      
-    },
-    "GloomEffect":{
-      "name":"Gloom Effect",
-      
-      "matchable": ["by the gloom"],
-      "sub": [
-        {
-          "name": "no_gloom",
-          "matchable": ["no longer enveloped"]
-        },
-        {
-          "name": "light_gloom",
-          "matchable": ["lightly enveloped"]
-        },
-        {
-          "name": "medium_gloom",
-          "matchable": ["moderately enveloped"]
-        },
-        {
-          "name": "heavy_gloom",
-          "matchable": ["heavily enveloped"]
-        },
-        {
-          "name": "gloom_border",
-          "matchable": [" gloomwall"]
-        }
-      ]
-    },
-    "LostContactEffect":{
-      "name":"No Contact",
-      
-      "matchable": ["contact is lost","now unobservable"]
-      
-    },
-    "BlackHoleEffect":{
-      "name":"Black Hole",
-      "matchable": ["into a black hole"]
-      
+        "name": "warhistoryapilaunch",
+        "matchable": ["monitoring satellites are launched"]
     },
 
-    "Dispatch":{
-      "name":"Dispatch",
-      "matchable":["Dispatch: "]
+    "NewLinkEvent": {
+        "name": "newlink",
+        "matchable": ["is added"]
+    },
+    "DestroyLinkEvent": {
+        "name": "destroylink",
+        "matchable": ["is removed"]
+    },
+    "ClearLinksEvent": {
+        "name": "clearlinks",
+        "matchable": ["are obliterated"]
+    },
+    "CampaignStartEvent": {
+        "name": "campaign_start",
+        "matchable": ["campaign starts"]
+    },
+    "CampaignEndEvent": {
+        "name": "campaign_end",
+        "matchable": ["campaign ends"]
+    },
+    "FullLibEvent": {
+        "name": "full_lib",
+        "matchable": ["fully liberated"]
+    },
+    "FullOccEvent": {
+        "name": "full_occ",
+        "matchable": ["is fully under"]
+    },
+    "InaccessibleEvent": {
+        "name": "inaccessable",
+        "matchable": ["is not accessible despite"]
+    },
+    "AccessibleAnomalyEvent": {
+        "name": "accessible_anomaly",
+        "matchable": ["is still accessible despite"]
+    },
+    "DayStartEvent": {
+        "name": "Day Start",
+        "matchable": ["day", "start"],
+        "mode": "and"
+    },
+    "Note": {
+        "name": "Note",
+        "matchable": ["note:", "NOTE"]
+    },
+    "biome_change": {
+        "name": "Biome Change",
+        "matchable": ["biome is changed"]
+    },
+    "Effect": {
+        "name": "Currently Unknown Effect",
+
+        "matchable": ["effect"]
+    },
+    "GloomEffect": {
+        "name": "Gloom Effect",
+
+        "matchable": ["by the gloom"],
+        "sub": [
+            {
+                "name": "no_gloom",
+                "matchable": ["no longer enveloped"]
+            },
+            {
+                "name": "light_gloom",
+                "matchable": ["lightly enveloped"]
+            },
+            {
+                "name": "medium_gloom",
+                "matchable": ["moderately enveloped"]
+            },
+            {
+                "name": "heavy_gloom",
+                "matchable": ["heavily enveloped"]
+            },
+            {
+                "name": "gloom_border",
+                "matchable": [" gloomwall"]
+            }
+        ]
+    },
+    "LostContactEffect": {
+        "name": "No Contact",
+
+        "matchable": ["contact is lost", "now unobservable"]
+    },
+    "BlackHoleEffect": {
+        "name": "Black Hole",
+        "matchable": ["into a black hole"]
+    },
+
+    "Dispatch": {
+        "name": "Dispatch",
+        "matchable": ["Dispatch: "]
     }
-  }
-  
+}

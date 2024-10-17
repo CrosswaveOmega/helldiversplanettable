@@ -2,7 +2,6 @@ import * as d3 from "d3";
 import * as Plot from "npm:@observablehq/plot";
 import * as topojson from "npm:topojson-client";
 
-
 export function pieChart(
     bdata,
     {
@@ -128,19 +127,19 @@ function getGloomName(level) {
         case 3:
             return "Dense Gloom";
         case 4:
-            return "Gloom Wall"
+            return "Gloom Wall";
     }
 }
 function getGloomObscurity(level) {
     switch (level) {
         case 1:
-            return 0.5
+            return 0.5;
         case 2:
-            return 0.6
+            return 0.6;
         case 3:
-            return 0.8
+            return 0.8;
         case 4:
-            return 0.7
+            return 0.7;
     }
 }
 
@@ -279,15 +278,15 @@ function getRandomInt(min, max) {
     const minCeiled = Math.ceil(min);
     const maxFloored = Math.floor(max);
     return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
-  }
+}
 
-function x_c(x){
-    return x;//*2000+2000;
+function x_c(x) {
+    return x; //*2000+2000;
 }
-function y_c(y){
-    return -y;//*-2000+2000;
+function y_c(y) {
+    return -y; //*-2000+2000;
 }
-function get_percent(hp){
+function get_percent(hp) {
     /**
      * Calculate and return the liberation percentage based on the given hit points (hp).
      *
@@ -296,7 +295,7 @@ function get_percent(hp){
      */
     return Math.round((hp / 1000000) * 100 * 10000) / 10000;
 }
-  
+
 export function makeplot(
     history,
     gstates,
@@ -314,10 +313,10 @@ export function makeplot(
     };
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
-    let elist=[current_event];
+    let elist = [current_event];
     console.log(planetimages);
-    console.log(slider,galaxy_time);
-    
+    console.log(slider, galaxy_time);
+
     const sectorValuesMap = new Map();
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
@@ -341,21 +340,24 @@ export function makeplot(
             let lastlink = galaxystate[planet]["link2"];
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
-        let sector=galaxystate[planet].sector.replace(/[^a-zA-Z]/g, "").toLowerCase();
+        let sector = galaxystate[planet].sector
+            .replace(/[^a-zA-Z]/g, "")
+            .toLowerCase();
 
         if (sectorValuesMap.has(sector)) {
             const existingColor = d3.color(sectorValuesMap.get(sector));
             const newColor = d3.color(getColor(galaxystate[planet].ta[0]));
 
-            const averagedColor = d3.rgb(
-                (existingColor.r + newColor.r) / 2,
-                (existingColor.g + newColor.g) / 2,
-                (existingColor.b + newColor.b) / 2
-            ).formatRgb();
+            const averagedColor = d3
+                .rgb(
+                    (existingColor.r + newColor.r) / 2,
+                    (existingColor.g + newColor.g) / 2,
+                    (existingColor.b + newColor.b) / 2,
+                )
+                .formatRgb();
 
             sectorValuesMap.set(sector, averagedColor);
-        }
-        else{
+        } else {
             sectorValuesMap.set(sector, getColor(galaxystate[planet].ta[0]));
         }
     }
@@ -368,7 +370,6 @@ export function makeplot(
               }))
             : [],
     );
-    
 
     let planets = Object.values(galaxystate);
 
@@ -378,44 +379,43 @@ export function makeplot(
 
     let gloomPlanets = planets.filter((planet) => planet.gls != null);
 
-    let gloompoints=[];
-    function generateRandomCoordinates(p,gls) {
+    let gloompoints = [];
+    function generateRandomCoordinates(p, gls) {
         const coordinates = [];
-        for (let i = 0; i < gls*4; i++) {
-            const offsetX = getRandomInt(-2,2);
-            const offsetY = getRandomInt(-2,2);
-            
+        for (let i = 0; i < gls * 4; i++) {
+            const offsetX = getRandomInt(-2, 2);
+            const offsetY = getRandomInt(-2, 2);
+
             coordinates.push({
-                x: p.x + offsetX*0.01,
-                y: p.y + offsetY*0.01,
-                gls:gls
+                x: p.x + offsetX * 0.01,
+                y: p.y + offsetY * 0.01,
+                gls: gls,
             });
-            
         }
         return coordinates;
     }
     console.log(planets);
     gloomPlanets.forEach((p) => {
         let pos = { x: x_c(p.position.x), y: y_c(p.position.y) }; // example point
-        const randomCoords = generateRandomCoordinates(pos,p.gls);
+        const randomCoords = generateRandomCoordinates(pos, p.gls);
         gloompoints.push(...randomCoords);
     });
-    
+
     eList(history, slider, document.getElementById("DAYVIEW"));
 
     list_text(history, slider, document.getElementById("Superdayview"));
 
-    let textv=`${slider}:`;
-    textv+=current_event.log.map(entry => entry.text).join(',');
+    let textv = `${slider}:`;
+    textv += current_event.log.map((entry) => entry.text).join(",");
 
     let plot = Plot.plot({
         width: width,
         title: " ",
         subtitle: `Current Time:${current_event.time}`,
-        caption:textv,
+        caption: textv,
         aspectRatio: 1,
         height: width,
-        projection: {type: "identity", domain: world},
+        projection: { type: "identity", domain: world },
         /*{
             type: "identity",
             domain: {
@@ -436,26 +436,29 @@ export function makeplot(
             //     height: width,
             //     src: backround,
             // }),
-            
-            Plot.geo(world,{
-                stroke:'#c0c0c0',
+
+            Plot.geo(world, {
+                stroke: "#c0c0c0",
                 strokeWidth: width / 2000,
-                
             }),
-            Plot.geo(world, {opacity:0.25,
-                fill: d => {return sectorValuesMap.get(d.properties.id)}}),
+            Plot.geo(world, {
+                opacity: 0.25,
+                fill: (d) => {
+                    return sectorValuesMap.get(d.properties.id);
+                },
+            }),
             Plot.dot(truePlanets, {
-                x: (p) =>x_c(p.position.x),
-                y: (p) =>y_c(p.position.y),
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
                 r: width / 100,
                 stroke: (p) => getColor(p.ta[1]),
                 //fill: p => getColor(p.ta[1]),
                 strokeWidth: width / 200,
             }),
-            
+
             Plot.dot(planets, {
-                x: (p) =>x_c(p.position.x),
-                y: (p) =>y_c(p.position.y),
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
                 r: width / 100,
                 stroke: (p) => getColor(p.ta[0]),
                 fill: (p) => getColor(p.ta[0]),
@@ -465,27 +468,28 @@ export function makeplot(
 
             Plot.link(waypoints, {
                 x1: (p) => x_c(p.from.x),
-                y1: (p) => y_c(p.from.y) ,
-                x2: (p) => x_c(p.to.x) ,
+                y1: (p) => y_c(p.from.y),
+                x2: (p) => x_c(p.to.x),
                 y2: (p) => y_c(p.to.y),
                 inset: width / 110,
                 strokeWidth: width / 880,
             }),
             showImages
                 ? Plot.image(planets, {
-                      x: (p) =>x_c(p.position.x),
-                      y: (p) =>y_c(p.position.y),
+                      x: (p) => x_c(p.position.x),
+                      y: (p) => y_c(p.position.y),
                       r: width / 100,
-                      src: (p) =>{
-                        console.log(p.biome);
-                          return planetimages["planet_" + p.biome + "_rotate.gif"]
-                              .base64_image;
+                      src: (p) => {
+                          console.log(p.biome);
+                          return planetimages[
+                              "planet_" + p.biome + "_rotate.gif"
+                          ].base64_image;
                       },
                   })
                 : null,
             Plot.image(activePlanets, {
-                x: (p) =>x_c(p.position.x),
-                y: (p) =>y_c(p.position.y),
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 25,
@@ -499,22 +503,21 @@ export function makeplot(
             Plot.dot(gloompoints, {
                 x: (p) => p.x,
                 y: (p) => p.y,
-                r: (p) => width / Math.max(100,500-100*p.gls),
+                r: (p) => width / Math.max(100, 500 - 100 * p.gls),
                 fill: "#EF8E20",
                 strokeWidth: width / 500,
-                opacity:  (p) => getGloomObscurity(p.gls),
+                opacity: (p) => getGloomObscurity(p.gls),
             }),
 
             Plot.text(
                 planets,
                 {
-                    x: (p) =>x_c(p.position.x),
-                    y: (p) =>y_c(p.position.y)-0.02,
+                    x: (p) => x_c(p.position.x),
+                    y: (p) => y_c(p.position.y) - 0.02,
                     text: (p) =>
-                        isNaN(
-                            get_percent(p.hp),
-                        ) ||
-                        ((get_percent(p.hp) ===100)||(get_percent(p.hp)===0))
+                        isNaN(get_percent(p.hp)) ||
+                        get_percent(p.hp) === 100 ||
+                        get_percent(p.hp) === 0
                             ? ""
                             : ` ${get_percent(p.hp)}`,
                     dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
@@ -525,29 +528,27 @@ export function makeplot(
                 },
                 {},
             ),
-            
 
             Plot.tip(
                 planets,
                 Plot.pointer({
-                    x: (p) =>x_c(p.position.x),
-                    y: (p) =>y_c(p.position.y),
+                    x: (p) => x_c(p.position.x),
+                    y: (p) => y_c(p.position.y),
 
-                    title: (p) =>{
-                        let main=[
+                    title: (p) => {
+                        let main = [
                             `${p.name}\n${p.ta[1] ? "under attack" : ""}`,
-                            `Planet HP: ${
-                                get_percent(p.hp)
-                            }`,
+                            `Planet HP: ${get_percent(p.hp)}`,
 
                             `Decay Rate: ${
-                                Math.round(((p.r * 60 * 60) / 1000000) * 100 * 10000) / 10000
+                                Math.round(
+                                    ((p.r * 60 * 60) / 1000000) * 100 * 10000,
+                                ) / 10000
                             }`,
                             `Players: ${p.pl}`,
-                        ]
-                        if (p.gls!=null){
-                            main.push(
-                                `${getGloomName(p.gls)}`)
+                        ];
+                        if (p.gls != null) {
+                            main.push(`${getGloomName(p.gls)}`);
                         }
                         return main.join("\n");
                     },
@@ -561,13 +562,12 @@ export function makeplot(
     return plot;
 }
 
-
 export function eList(history, count, parentCard, mode = 0) {
     /**
      * Generates a list of events using the provided DaysObject history,
      * meant for use with the history map timeline.
      * Each event is displayed as a card on the parent HTML element.
-     * 
+     *
      * @param {DaysObject} history - The historical data containing game events.
      * @param {number} count - The current event index to highlight.
      * @param {HTMLElement} parentCard - The parent container for event cards.
@@ -578,7 +578,7 @@ export function eList(history, count, parentCard, mode = 0) {
     function createCard(entry, index, current, parentCard) {
         /**
          * Creates and appends a card to display details of a game event entry.
-         * 
+         *
          * @param {GameEvent} entry - The game event data to display.
          * @param {number} index - The index of the event.
          * @param {boolean} current - Whether this event is the current one (highlighted).
@@ -596,22 +596,21 @@ export function eList(history, count, parentCard, mode = 0) {
         for (const each of entry.log) {
             if (/<br\/>/.test(each.text)) {
                 // Extract list items
-                const listItems = each.text.split('<br/>');
+                const listItems = each.text.split("<br/>");
                 listItems.forEach((itemString) => {
                     const textElement = document.createElement("span");
-                    textElement.textContent = "+ "+itemString;
+                    textElement.textContent = "+ " + itemString;
                     parentCard.appendChild(textElement);
                     parentCard.appendChild(document.createElement("br"));
                 });
-              } else {
+            } else {
                 // Handle text that doesn't contain unordered lists
 
                 const textElement = document.createElement("span");
                 textElement.textContent = each.text;
                 parentCard.appendChild(textElement);
                 parentCard.appendChild(document.createElement("br"));
-              }
-
+            }
         }
         const timeElement = document.createElement("strong");
         timeElement.textContent = entry.time;
@@ -627,7 +626,7 @@ export function eList(history, count, parentCard, mode = 0) {
     function createEventCards(data, count, factorby, parentElement, mode) {
         /**
          * Create the text for all elements up to factorby
-         * 
+         *
          * @param {DaysObject} data - The historical data containing game events.
          * @param {number} count - The current event index to highlight.
          * @param {number} factorby - The number of events to display in a single mode batch.
@@ -638,31 +637,30 @@ export function eList(history, count, parentCard, mode = 0) {
         while (parentElement.firstChild) {
             parentElement.innerHTML = "";
         }
-        let curr_over=false;
+        let curr_over = false;
         let lower, index;
         switch (mode) {
             case 0:
                 let off = 0;
                 lower = Math.floor(count / factorby) * factorby;
-                let current=false;
-                for (index = lower; index < lower + factorby +off; index++) {
+                let current = false;
+                for (index = lower; index < lower + factorby + off; index++) {
                     if (index >= data.events.length) break;
                     let event = data.events[index];
-                    current = (index === count);
-                    if (event.type =='m'){
-                        off+=1;
-                        if (current){
-                            curr_over=true;
+                    current = index === count;
+                    if (event.type == "m") {
+                        off += 1;
+                        if (current) {
+                            curr_over = true;
                         }
-                    }
-                    else{
+                    } else {
                         const card = createCard(
                             event,
                             index,
                             current || curr_over,
                             parentElement,
                         );
-                        curr_over=false;
+                        curr_over = false;
                     }
                 }
                 break;
@@ -695,7 +693,7 @@ export function list_text(history, count, parentCard) {
     /**
      * Create the text for the event at index count inside parentCard
      * Each event is displayed as a card on the parent HTML element.
-     * 
+     *
      * @param {DaysObject} history - The historical data containing game events.
      * @param {number} count - The current event index to highlight.
      * @param {HTMLElement} parentCard - The parent container for event cards.
@@ -705,7 +703,7 @@ export function list_text(history, count, parentCard) {
     function createCard(entry_main, parentCard) {
         /**
          * Creates and appends a card created based on the game_event
-         * 
+         *
          * @param {GameEvent} entry - The game event data to display.
          * @param {HTMLElement} parentCard - The parent HTML element to append the card to.
          * @returns {HTMLElement} - The parent card element with the appended details.
@@ -737,19 +735,19 @@ export function list_text(history, count, parentCard) {
             }
             let text = entry.text + " (type " + entry.type + planet + ")";
             if (/<br\/>/.test(text)) {
-                const listItems = text.split('<br/>');
+                const listItems = text.split("<br/>");
                 listItems.forEach((itemString) => {
                     const textElement = document.createElement("span");
-                    textElement.textContent = "+ "+itemString;
+                    textElement.textContent = "+ " + itemString;
                     parentCard.appendChild(textElement);
                     parentCard.appendChild(document.createElement("br"));
                 });
-              } else {
+            } else {
                 const textElement = document.createElement("span");
-                textElement.textContent =text;
+                textElement.textContent = text;
                 parentCard.appendChild(textElement);
                 parentCard.appendChild(document.createElement("br"));
-              }
+            }
         }
 
         return parentCard;
@@ -760,7 +758,7 @@ export function list_text(history, count, parentCard) {
     function createEventCard(data, count, parentElement) {
         /**
          * Clear the text inside parentElement, and format the event at count
-         * 
+         *
          * @param {DaysObject} data - The historical data containing game events.
          * @param {number} count - The current event index to highlight.
          * @param {HTMLElement} parentElement - The parent element to clear and append cards to.
@@ -781,7 +779,7 @@ export function ListAll(history, parentCard, mode = 0) {
     /**
      * Create the text for the event at index count inside parentCart
      * Each event is displayed as a card on the parent HTML element.
-     * 
+     *
      * @param {DaysObject} history - The historical data containing game events.
      * @param {HTMLElement} parentCard - The parent container for event cards.
      * @param {int} mode - mode for listing all
@@ -791,7 +789,7 @@ export function ListAll(history, parentCard, mode = 0) {
     function createCard(entry, parentCard) {
         /**
          * Creates and appends a card created based on the game_event
-         * 
+         *
          * @param {GameEvent} entry - The game event data to display.
          * @param {HTMLElement} parentCard - The parent HTML element to append the card to.
          * @returns {HTMLElement} - The parent card element with the appended details.
@@ -808,21 +806,19 @@ export function ListAll(history, parentCard, mode = 0) {
             } else {
                 // Split up newlines
                 if (/<br\/>/.test(each.text)) {
-                    const listItems = each.text.split('<br/>');
+                    const listItems = each.text.split("<br/>");
                     listItems.forEach((itemString) => {
                         const textElement = document.createElement("span");
-                        textElement.textContent = "+ "+itemString;
+                        textElement.textContent = "+ " + itemString;
                         parentCard.appendChild(textElement);
                         parentCard.appendChild(document.createElement("br"));
                     });
-                    } else {
+                } else {
                     const textElement = document.createElement("span");
                     textElement.textContent = each.text;
                     parentCard.appendChild(textElement);
                     parentCard.appendChild(document.createElement("br"));
-                    }
-
-
+                }
             }
         }
 
@@ -834,7 +830,7 @@ export function ListAll(history, parentCard, mode = 0) {
     function createEventCards(data, parentElement, mode) {
         /**
          * Create the text for all elements up to factorby
-         * 
+         *
          * @param {DaysObject} data - The historical data containing game events.
          * @param {HTMLElement} parentElement - The parent element to clear and append cards to.
          * @param {number} mode - Display mode: 0 for everything, 1 for last 20.
@@ -868,8 +864,8 @@ export function ListAll(history, parentCard, mode = 0) {
                 }
                 for (index = newlower; index < data.events.length; index++) {
                     let event = data.events[index];
-                    if (event.type!='m'){
-                    const card = createCard(event, parentElement);
+                    if (event.type != "m") {
+                        const card = createCard(event, parentElement);
                     }
                 }
 

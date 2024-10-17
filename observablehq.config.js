@@ -21,7 +21,6 @@ export default {
                 { name: "Biome Data", path: "/BiomeData" },
                 { name: "Sector Data", path: "/SectorData" },
                 { name: "Front Data", path: "/FrontData" },
-                
             ],
         },
         {
@@ -40,7 +39,10 @@ export default {
         },
         {
             name: "About",
-            pages: [{ name: "About", path: "/report" },{ name: "Galactic War Guide", path: "/galacticwarguide" }],
+            pages: [
+                { name: "About", path: "/report" },
+                { name: "Galactic War Guide", path: "/galacticwarguide" },
+            ],
         },
     ],
 

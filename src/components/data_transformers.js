@@ -77,8 +77,8 @@ function make_biome_data(data) {
             let KTD = killsum / Math.max(entry.deaths, 1);
             let timePerMission = entry.missionTime / missions;
             let timePlayedPerMission = entry.timePlayed / missions;
-            
-            let FKR = ((entry.friendlies) / Math.max(entry.deaths,1))*100.0;
+
+            let FKR = (entry.friendlies / Math.max(entry.deaths, 1)) * 100.0;
             let MSR = entry.missionsWon / missions;
             let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
             thislist.push({
@@ -183,8 +183,8 @@ function make_sector_data(data) {
             let timePerMission = entry.missionTime / missions;
             let timePlayedPerMission = entry.timePlayed / missions;
             let MSR = entry.missionsWon / missions;
-            
-            let FKR = ((entry.friendlies) / Math.max(entry.deaths,1))*100.0;
+
+            let FKR = (entry.friendlies / Math.max(entry.deaths, 1)) * 100.0;
             let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
             thislist.push({
                 ...entry,
@@ -228,72 +228,76 @@ function make_front_data(data) {
     let sector_data = data.reduce((acc, entry) => {
         let front = entry.front;
         if (!fronts.includes(front)) fronts.unshift(front);
-        let targetcolumn = entry.front;
         if (!acc[front]) {
-            acc[front] = { ...entry, count: 1, planets:[entry.planet_name],sectors:[entry.sector_name] };
+            acc[front] = {
+                ...entry,
+                count: 1,
+                planets: [entry.planet_name],
+                sectors: [entry.sector_name],
+            };
         } else {
-            acc[front].missionsWon  += entry.missionsWon;
+            acc[front].missionsWon += entry.missionsWon;
             acc[front].missionsLost += entry.missionsLost;
-            acc[front].bot_kills    += entry.bot_kills;
-            acc[front].bug_kills    += entry.bug_kills;
-            acc[front].squid_kills  += entry.squid_kills;
-            acc[front].revives      += entry.revives;
-            acc[front].deaths       += entry.deaths;
-            acc[front].friendlies   += entry.friendlies;
+            acc[front].bot_kills += entry.bot_kills;
+            acc[front].bug_kills += entry.bug_kills;
+            acc[front].squid_kills += entry.squid_kills;
+            acc[front].revives += entry.revives;
+            acc[front].deaths += entry.deaths;
+            acc[front].friendlies += entry.friendlies;
             acc[front].bulletsFired += entry.bulletsFired;
-            acc[front].bulletsHit   += entry.bulletsHit;
-            acc[front].missionTime  += entry.missionTime;
-            acc[front].timePlayed   += entry.timePlayed;
-            if (!acc[front].planets.includes(entry.planet_name)){
+            acc[front].bulletsHit += entry.bulletsHit;
+            acc[front].missionTime += entry.missionTime;
+            acc[front].timePlayed += entry.timePlayed;
+            if (!acc[front].planets.includes(entry.planet_name)) {
                 acc[front].planets.unshift(entry.planet_name);
             }
-            
-            if (!acc[front].sectors.includes(entry.sector_name)){
+
+            if (!acc[front].sectors.includes(entry.sector_name)) {
                 acc[front].sectors.unshift(entry.sector_name);
             }
-            
 
             acc[front].count += 1;
         }
         return acc;
     }, {});
-    let everything = { planets: [], sectors: [],
-        front:"TOTAL",
-        missionsWon:0,
-        missionsLost:0,
-        bot_kills:0,
-        bug_kills:0,
-        squid_kills:0,
-        revives:0,
-        deaths:0,
-        friendlies:0,
-        bulletsFired:0,
-        bulletsHit:0,
-        missionTime:0,
-        timePlayed:0,
+    let everything = {
+        planets: [],
+        sectors: [],
+        front: "TOTAL",
+        missionsWon: 0,
+        missionsLost: 0,
+        bot_kills: 0,
+        bug_kills: 0,
+        squid_kills: 0,
+        revives: 0,
+        deaths: 0,
+        friendlies: 0,
+        bulletsFired: 0,
+        bulletsHit: 0,
+        missionTime: 0,
+        timePlayed: 0,
     };
     for (const [, entry] of Object.entries(sector_data)) {
-        everything.missionsWon  += entry.missionsWon;
+        everything.missionsWon += entry.missionsWon;
         everything.missionsLost += entry.missionsLost;
-        everything.bot_kills    += entry.bot_kills;
-        everything.bug_kills    += entry.bug_kills;
-        everything.squid_kills  += entry.squid_kills;
-        everything.revives      += entry.revives;
-        everything.deaths       += entry.deaths;
-        everything.friendlies   += entry.friendlies;
+        everything.bot_kills += entry.bot_kills;
+        everything.bug_kills += entry.bug_kills;
+        everything.squid_kills += entry.squid_kills;
+        everything.revives += entry.revives;
+        everything.deaths += entry.deaths;
+        everything.friendlies += entry.friendlies;
         everything.bulletsFired += entry.bulletsFired;
-        everything.bulletsHit   += entry.bulletsHit;
-        everything.missionTime  += entry.missionTime;
-        everything.timePlayed   += entry.timePlayed;
-        
+        everything.bulletsHit += entry.bulletsHit;
+        everything.missionTime += entry.missionTime;
+        everything.timePlayed += entry.timePlayed;
+
         everything.planets.push(...entry.planets);
         everything.sectors.push(...entry.sectors);
 
-
         everything.count += 1;
     }
-    sector_data['TOTAL']=everything;
-    
+    sector_data["TOTAL"] = everything;
+
     console.log(sector_data);
     let transformedData = {};
     let thislist = [];
@@ -307,8 +311,8 @@ function make_front_data(data) {
         let timePlayedPerMission = entry.timePlayed / missions;
         let MSR = entry.missionsWon / missions;
         let WTL = entry.missionsWon / Math.max(entry.missionsLost, 1);
-        let FKR = ((entry.friendlies) / Math.max(entry.deaths,1))*100.0;
-        let planets =entry.planets.length;
+        let FKR = (entry.friendlies / Math.max(entry.deaths, 1)) * 100.0;
+        let planets = entry.planets.length;
         let sectors = entry.sectors.length;
         thislist.push({
             ...entry,
@@ -324,10 +328,10 @@ function make_front_data(data) {
             MSR,
             FKR,
             planets,
-            sectors
+            sectors,
         });
     }
-    transformedData['all'] = thislist;
+    transformedData["all"] = thislist;
 
     return transformedData;
 }
