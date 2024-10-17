@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 class GameSubEvent(BaseModel):
     text: Optional[str] = Field(alias="text", default=None)
     type: Optional[str] = Field(alias="type", default=None)
-    faction: Optional[int] = Field(alias="faction", default=0)
+    faction: Optional[int] = Field(alias="faction", default=None)
     planet: Optional[List[Tuple[str, int]]] = Field(alias="planet", default=[])
 
 
@@ -31,6 +31,25 @@ class GameEvent(BaseModel):
     def __lt__(self, other: "GameEvent") -> bool:
         return self.timestamp < other.timestamp
 
+class GameEventGroup(BaseModel):
+    timestamp: float
+    time: str
+    day: int
+    text: Optional[str] = Field(alias="text", default=None)
+    type: Optional[str] = Field(alias="type", default=None)
+
+    mo: Optional[str] = Field(alias="mo", default=None)
+    mo_name: Optional[str] = Field(alias="mo_name", default=None)
+    mo_case: Optional[str] = Field(alias="mo_case", default=None)
+    mo_objective: Optional[str] = Field(alias="type", default=None)
+    # galaxystate: Dict[str, Any] = Field(default_factory=dict)
+    log: Optional[List[GameSubEvent]] = Field(default_factory=list)
+    all_players: Optional[int] = Field(alias="all_players", default=None)
+    eind: Optional[int] = Field(alias="eind", default=None)
+
+    # Comparator to sort GameEvent objects by timestamp
+    def __lt__(self, other: "GameEvent") -> bool:
+        return self.timestamp < other.timestamp
 
 class Position(BaseModel):
     x: float

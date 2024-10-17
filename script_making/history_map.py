@@ -106,7 +106,7 @@ def check_planet_stats_for_change(
     """check if HP or decay changed"""
     decay_change = False
     hp_change = False
-    times = 100000
+    times = 250000
 
     decay_changed_on = []
     hp_changed_on = []

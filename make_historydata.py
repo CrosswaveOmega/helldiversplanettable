@@ -13,6 +13,7 @@ from script_making.history_map import (
 )
 from script_making.md_log import make_markdown_log
 from script_making.models import (
+    GameEventGroup,
     GameSubEvent,
     GameEvent,
     PlanetStatic,
@@ -533,7 +534,7 @@ class GalaxyEventProcessor:
 
     async def process_event_group(self, i: int, event_group: List[GameEvent]):
         elog = []
-        ne = GameEvent(
+        ne = GameEventGroup(
             timestamp=event_group[0].timestamp,
             time=event_group[0].time,
             day=event_group[0].day,
