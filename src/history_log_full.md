@@ -3017,4 +3017,8 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 ### Day: #253
  Decay: 5.0 on Choohe
  (2024-10-17 16:00)<br/>
-*Crimsica* defense is won (2024-10-17 18:32)<br/>
+*Crimsica* defense is won (2024-10-17 18:31)<br/>
+*Estanu* defense is failed (2024-10-17 20:19)<br/>
+↳ *Estanu* liberation campaign starts (2024-10-17 20:19)<br/>
+ Decay: 1.5 on Crimsica, Phact Bay<br/> Decay: 1.0 on Trandor
+ (2024-10-17 20:19)<br/>
