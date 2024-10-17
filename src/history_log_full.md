@@ -3011,3 +3011,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 *Crimsica* of the Draco sector is attacked by Terminids (2024-10-16 20:15)<br/>
  Decay: 4.5 on Choohe
  (2024-10-16 20:15)<br/>
+ Decay: 0.0 on Crimsica, Estanu
+ (2024-10-16 22:00)<br/>
+
+### Day: #253
