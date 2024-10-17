@@ -3015,3 +3015,6 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
  (2024-10-16 22:00)<br/>
 
 ### Day: #253
+ Decay: 5.0 on Choohe
+ (2024-10-17 16:00)<br/>
+*Crimsica* defense is won (2024-10-17 18:32)<br/>
