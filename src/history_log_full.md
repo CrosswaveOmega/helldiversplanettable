@@ -3007,3 +3007,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  Decay: 1.0 on Pandion-XXIV
  (2024-10-16 09:00)<br/>
 Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to secure *Acamar IV*. The Defense of *Achird III*, won on a razor's edge, has been recognized by High Command as a show of valor not seen since the Battle of *Mort* in the first days of the war. Achird stands, as does Freedom. But the fight is not yet over. Readings indicate imminent Terminid invasions of the defensive ring. Hold the line, so the Terminid Research Preserve can be built. (2024-10-16 11:07)<br/>
+*Estanu* of the Draco sector is attacked by Terminids (2024-10-16 20:15)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2024-10-16 20:15)<br/>
+ Decay: 4.5 on Choohe
+ (2024-10-16 20:15)<br/>
