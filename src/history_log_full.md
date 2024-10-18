@@ -3026,6 +3026,8 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
  (2024-10-17 22:00)<br/>
 
 ### Day: #254
-Major Order | Operation Terminid Preserve is won| Objective: Control (2024-10-18 09:38)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:02)<br/>
-Major Order | Operation Jet Brigade is issued| Objective: Defend (2024-10-18 13:04)<br/>
+Major Order | Operation Terminid Preserve is won| Objective: Control (2024-10-18 09:30)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01)<br/>
+Emergency Dispatch | Jet Brigade Offensive is issued (2024-10-18 13:03)<br/>
+Major Order | Operation Jet Brigade is issued | Objective: Defend (2024-10-18 13:03)<br/>
