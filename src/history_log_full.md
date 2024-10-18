@@ -3022,3 +3022,10 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 ↳ *Estanu* liberation campaign starts (2024-10-17 20:19)<br/>
  Decay: 1.5 on Crimsica, Phact Bay<br/> Decay: 1.0 on Trandor
  (2024-10-17 20:19)<br/>
+ Decay: 1.5 on Estanu
+ (2024-10-17 22:00)<br/>
+
+### Day: #254
+Major Order | Operation Terminid Preserve is won| Objective: Control (2024-10-18 09:38)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:02)<br/>
+Major Order | Operation Jet Brigade is issued| Objective: Defend (2024-10-18 13:04)<br/>
