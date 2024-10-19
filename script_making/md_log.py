@@ -19,6 +19,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 def make_markdown_log(history: DaysObject):
+    '''Create the markdown log from the History Object'''
     markdown_output = ["\n"]
 
     def make_entry(entry: GameEvent):
@@ -33,7 +34,7 @@ def make_markdown_log(history: DaysObject):
                 logger.info("Skipping addition, monitoring.")
             else:
                 timestamp = datetime.fromtimestamp(entry.timestamp, tz=timezone.utc)
-                formatted_time = timestamp.strftime("%Y-%m-%d %H:%M")
+                formatted_time = timestamp.strftime("%Y-%m-%d %H:%M  UTC")
                 # formatted_time = custom_strftime("%#I:%M%p UTC %b {S} %Y",timestamp)
 
                 text = f"{each.text}"

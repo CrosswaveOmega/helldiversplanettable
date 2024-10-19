@@ -118,6 +118,18 @@ function getColor(owner) {
             return "#79E0FF";
     }
 }
+
+function getSectorColor(owner) {
+    switch (owner) {
+        case 2:
+            return "#EF8E2044";
+        case 3:
+            return "#EF202044";
+        case 1:
+            return "#79E0FF22";
+    }
+}
+
 function getGloomName(level) {
     switch (level) {
         case 1:
@@ -313,7 +325,7 @@ export function makeplot(
     };
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
-    let elist = [current_event];
+
     console.log(planetimages);
     console.log(slider, galaxy_time);
 
@@ -344,21 +356,24 @@ export function makeplot(
             .replace(/[^a-zA-Z]/g, "")
             .toLowerCase();
 
+
+        //Sector Values
         if (sectorValuesMap.has(sector)) {
             const existingColor = d3.color(sectorValuesMap.get(sector));
-            const newColor = d3.color(getColor(galaxystate[planet].ta[0]));
+            const newColor = d3.color(getSectorColor(galaxystate[planet].ta[0]));
 
             const averagedColor = d3
                 .rgb(
                     (existingColor.r + newColor.r) / 2,
                     (existingColor.g + newColor.g) / 2,
                     (existingColor.b + newColor.b) / 2,
+                    (existingColor.opacity + newColor.opacity) / 2
                 )
                 .formatRgb();
 
             sectorValuesMap.set(sector, averagedColor);
         } else {
-            sectorValuesMap.set(sector, getColor(galaxystate[planet].ta[0]));
+            sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
         }
     }
     //Link is in gstates[]
@@ -401,8 +416,10 @@ export function makeplot(
         gloompoints.push(...randomCoords);
     });
 
+    // eslint-disable-next-line no-undef
     eList(history, slider, document.getElementById("DAYVIEW"));
 
+    // eslint-disable-next-line no-undef
     list_text(history, slider, document.getElementById("Superdayview"));
 
     let textv = `${slider}:`;
@@ -442,7 +459,7 @@ export function makeplot(
                 strokeWidth: width / 2000,
             }),
             Plot.geo(world, {
-                opacity: 0.25,
+                //opacity: 0.25,
                 fill: (d) => {
                     return sectorValuesMap.get(d.properties.id);
                 },
