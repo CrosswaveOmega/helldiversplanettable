@@ -3047,3 +3047,5 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
  (2024-10-20 00:00  UTC)<br/>
 
 ### Day: #256
+*Martale* defense is failed (2024-10-20 22:10  UTC)<br/>
+↳ *Martale* liberation campaign starts (2024-10-20 22:10  UTC)<br/>
