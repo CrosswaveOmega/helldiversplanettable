@@ -3049,3 +3049,6 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
 ### Day: #256
 *Martale* defense is failed (2024-10-20 22:10  UTC)<br/>
 ↳ *Martale* liberation campaign starts (2024-10-20 22:10  UTC)<br/>
+ Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
+ (2024-10-21 00:00  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:12  UTC)<br/>
