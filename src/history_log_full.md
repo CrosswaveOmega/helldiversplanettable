@@ -3029,6 +3029,8 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 ### Day: #254
 Major Order | Operation Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
+The Automaton Legion debuted a new Assault Division: the Jet Brigade! (2024-10-18 11:43  UTC)<br/>
+The Automaton Jet Brigade retreats back into Automaton territory. (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
 Emergency Alert | Jet Brigade Emergency Defense is issued (2024-10-18 13:03  UTC)<br/>
 Major Order | Operation Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
@@ -3042,27 +3044,33 @@ Major Order | Operation Jet Brigade is issued | Objective: Defend (2024-10-18 13
 Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has taken *Matar Bay*. A subsequent invasion of one of the adjacent planets is imminent. However, the lives lost were not in vain. The Jet Brigade sustained heavy losses, which will reduce the strength of their next attack. A planet has been lost, and more may follow. But a vigorous defense will wear down this invasion force over time. Fight to the last, Helldivers. (2024-10-19 13:09  UTC)<br/>
  Decay: 4.0 on Matar Bay
  (2024-10-19 14:00  UTC)<br/>
-*Martale* of the Andromeda sector is attacked by Automatons (2024-10-19 22:06  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Automatons. (2024-10-19 22:06  UTC)<br/>
+The Automaton Jet Brigade is redeployed to assist in the siege of *Martale*. (2024-10-19 22:07  UTC)<br/>
  Decay: 0.0 on Martale
  (2024-10-20 00:00  UTC)<br/>
 
 ### Day: #256
 *Martale* defense is failed (2024-10-20 22:10  UTC)<br/>
 ↳ *Martale* liberation campaign starts (2024-10-20 22:10  UTC)<br/>
+↳ The Automaton Jet Brigade switches to guarding *Martale*. (2024-10-20 22:10  UTC)<br/>
  Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-10-21 00:00  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:12  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
+The Automaton Jet Brigade is redeployed to siege every single planet in the galaxy. (2024-10-21 04:11  UTC)<br/>
+↳ Note: It is unclear if the Jet Brigade was able to appear on other planets at the time.  This was written off as an in-universe software bug by a later dispatch. (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
+The Automaton Jet Brigade is redeployed to siege *Marfark*. (2024-10-21 08:01  UTC)<br/>
 
 ### Day: #257
 Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: -a fluttering *Super Earth* flag -a filled-out ballot -the inevitable destruction of Freedom's enemies. (2024-10-21 18:51  UTC)<br/>
 *Marfark* defense is won (2024-10-22 03:36  UTC)<br/>
 ↳ Major Order | Operation Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
  Decay: 0.5 on Marfark
- (2024-10-22 06:00  UTC)<br/>
+ (2024-10-22 04:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
  Decay: 1.5 on Martale
  (2024-10-22 07:09  UTC)<br/>
+The Automaton Jet Brigade retreats back into Automaton territory to replenish their numbers. (2024-10-22 07:17  UTC)<br/>
 
 ### Day: #258

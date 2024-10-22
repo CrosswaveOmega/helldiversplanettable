@@ -4,12 +4,14 @@ from datetime import datetime, timezone, timedelta
 import os
 import asyncio
 from datetime import datetime
+import argparse
 
 from script_making.history_map import (
     check_planet_stats_for_change,
     derive_decay_names,
     group_events_by_timestamp,
     update_waypoints,
+    check_planet_stats_dict_for_change,
 )
 from script_making.md_log import make_markdown_log
 from script_making.models import (
@@ -76,7 +78,78 @@ if is_redirected:
         sys.stdout.reconfigure(encoding="utf-8")
 
 
-def format_event_obj() -> None:
+async def handle_monitoring(
+    conn: sqlite3.Connection,
+    event_set: List[GameEvent],
+    newevents: List[GameEvent],
+    all_times_new: Dict[int, Any],
+    march_5th: datetime,
+    laststats: Dict[int, Any],
+):
+    for evt in event_set:
+        this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
+        decay, hp = check_planet_stats_dict_for_change(laststats, this_check)
+        if decay or hp:
+            if decay:
+                outtext = handle_decay_events(decay)
+                #print("VALID DECAY B", evt.time, outtext)
+                evt.text = "" + "<br/>".join(outtext) + "\n"
+                evt.type = "decaychange"
+            elif hp:
+                evt.text = "HP reached a checkpoint."
+            newevents.append(evt)
+            laststats = this_check.copy()
+    return laststats, newevents
+
+
+async def handle_planet_stats(
+    conn: sqlite3.Connection,
+    event: GameEvent,
+    newevents: List[GameEvent],
+    all_times_new: Dict[int, Any],
+    march_5th: datetime,
+    laststats: Dict[int, Any],
+):
+    planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
+    decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
+    if decay:
+        outtext = handle_decay_events(decay)
+        ne = GameEvent(
+            timestamp=event.timestamp,
+            time=event.time,
+            day=event.day,
+            type="decaychange",
+            text="" + "<br/>".join(outtext) + "\n",
+        )
+        newevents.append(ne)
+
+    laststats = planetstats.copy()
+    return laststats, newevents
+
+
+async def process_war_history_launch(
+    conn: sqlite3.Connection,
+    event: GameEvent,
+    newevents: List[GameEvent],
+    all_times_new: Dict[int, Any],
+    march_5th: datetime,
+):
+    laststats = await get_planet_stats(conn, event, all_times_new, march_5th)
+    decay, _ = check_planet_stats_dict_for_change({}, laststats)
+    if decay:
+        outtext = handle_decay_events(decay)
+        ne = GameEvent(
+            timestamp=event.timestamp,
+            time=event.time,
+            day=event.day,
+            type="decaychange",
+            text="" + "<br/>".join(outtext) + "\n",
+        )
+        newevents.append(ne)
+    return laststats, newevents
+
+
+async def format_event_obj() -> None:
     """Using the dictionary at out.json,
     determine the type of each event and the event parameters using the
     event text strings."""
@@ -85,21 +158,26 @@ def format_event_obj() -> None:
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
-
+    conn = sqlite3.connect(DATABASE_FILE)
     for k1 in planets_Dict2:
         for k2 in planets_Dict2:
             if k1.upper() != k2.upper() and k1.upper() in k2.upper():
                 logger.warning(f"'{k1}' is a substring of '{k2}'")
     sectors = get_unique_sectors(planets_Dict)
+    all_times_new = {}
 
     defenses: Dict[str, str] = {}
-    days_out.events.sort(key=lambda event: event.timestamp)  # pylint: disable=no-member
+    days_out.events_all.sort(
+        key=lambda event: event.timestamp
+    )  # pylint: disable=no-member
     monitoring = False
+    march_5th = None
     lasttime = None
     newevents = []
     event_type_sort = {"unknown": []}
     event_types = load_event_types("event_types.json")
-    for event in days_out.events:
+    laststats = None
+    for event in days_out.events_all:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
         event.type, match = get_event_type(text, event_types)
@@ -112,26 +190,36 @@ def format_event_obj() -> None:
             event.planet,
             event.type,
         )
+
         if monitoring:
-            newevents, lasttime = monitor_event(event, lasttime, newevents)
+            event_set, _ = monitor_event(event, lasttime, [])
+            laststats, newevents = await handle_monitoring(
+                conn, event_set, newevents, all_times_new, march_5th, laststats
+            )
+            laststats, newevents = await handle_planet_stats(
+                conn, event, newevents, all_times_new, march_5th, laststats
+            )
         if event.type == "warhistoryapilaunch":
             monitoring = True
+            march_5th = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
+            laststats, newevents = await process_war_history_launch(
+                conn,event, newevents, all_times_new, march_5th
+            )
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
-
         event_type_sort = sort_event_type(event, text, match, sectors, event_type_sort)
-
         if event.planet:
             defenses = update_defenses(event, defenses)
 
-    days_out.events.extend(newevents)
-    days_out.events.sort()
+    days_out.events_all.extend(newevents)
+    days_out.events_all.sort()
     save_json_data(
         "./src/data/gen_data/out2.json", days_out.model_dump(warnings="error")
     )
     with open("./src/data/gen_data/typesort.json", "w", encoding="utf8") as json_file:
         json.dump(event_type_sort, json_file, indent=2, sort_keys=True, default=str)
+    conn.close()
 
 
 def monitor_event(
@@ -141,6 +229,7 @@ def monitor_event(
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
+    new_events = []
     while (time - lasttime) > timedelta(hours=MIN_HOUR_CHANGE):
         timestamp = lasttime + timedelta(
             hours=(MIN_HOUR_CHANGE - lasttime.hour % MIN_HOUR_CHANGE),
@@ -157,9 +246,10 @@ def monitor_event(
             faction=0,
             type="monitor",
         )
-        newevents.append(new_evt)
+        new_events.append(new_evt)
         lasttime = timestamp
-    return newevents, lasttime
+    new_events.sort(key=lambda event: event.timestamp)
+    return new_events, lasttime
 
 
 hashlists = {}
@@ -177,9 +267,9 @@ async def get_planet_stats(
     if dc not in all_times_new:
         ents = fetch_entries_by_dayval(conn, dc)
         for k in list(all_times_new.keys()):
-            all_times_new.pop(k)
+            if k != str(int(dc) - 1) and k != str(int(dc) + 1):
+                all_times_new.pop(k)
         all_times_new[dc] = ents
-
     if timestamp not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
 
@@ -323,11 +413,11 @@ async def process_event(
 
     if event.day not in days_out.days:
         days_out.days[int(event.day)] = int(index)
-        days_out.dayind[int(event.day)] = []
+    #    days_out.dayind[int(event.day)] = []
     if days_out.lastday < int(event.day):
         days_out.lastday = int(event.day)
-    if not int(index) in days_out.dayind[int(event.day)]:
-        days_out.dayind[int(event.day)].append(int(index))
+    # if not int(index) in days_out.dayind[int(event.day)]:
+    #    days_out.dayind[int(event.day)].append(int(index))
 
     planetclone = planets.copy()
     # Copy in last planet status
@@ -339,8 +429,6 @@ async def process_event(
 
     timestamp = str(event.timestamp)
     dc = str(int(event.day) // 30)
-
-    time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     planetstats = all_times_new[str(dc)][timestamp]
 
     update_planet_stats(planetclone, planetstats)
@@ -500,12 +588,35 @@ class PlanetHistoryDelta:
                     self.resort[p][0]["eind"] = t
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
+    def rebuild_state_up_to(self, eind: int) -> Dict[str, Dict[str, Any]]:
+        """Rebuild the planet state up to a specific eind value."""
+        reconstructed_state = {}
+
+        for planet, changes in self.resort.items():
+            current_state = {}
+            for change in changes:
+                if change["eind"] <= eind:
+                    # Apply changes up to the specific eind
+                    for key, value in change.items():
+                        if key != "eind":
+                            current_state[key] = value
+                else:
+                    # Stop processing changes once we pass the target eind
+                    break
+            reconstructed_state[planet] = current_state
+
+        return reconstructed_state
+
 
 class GalaxyEventProcessor:
     """Specialized processing object for the historydata.json file and galaxy_states."""
 
     def __init__(
-        self, db_file: str, planets: Dict[str, Any], temp: Dict[str, PlanetState]
+        self,
+        db_file: str,
+        planets: Dict[str, Any],
+        temp: Dict[str, PlanetState],
+        skip_mode: bool = False,
     ):
         self.conn = sqlite3.connect(db_file)
         self.planets = planets
@@ -519,6 +630,7 @@ class GalaxyEventProcessor:
         self.last_time = 0
         self.newevt = []
         self.days_out = None
+        self.skip_mode = True
 
     def initialize_days(self, days_out_data: Dict[str, Any]):
         self.days_out = DaysObject(**days_out_data)
@@ -555,16 +667,17 @@ class GalaxyEventProcessor:
         ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
         planetstats = self.all_times_new[dc][str(ne.timestamp)]
-        decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
-        outtext = handle_decay_events(decay)
 
         if ne.type == "m":
+            decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
+            outtext = handle_decay_events(decay)
+            # print(event_group,ne,decay,hp_checkpoint,outtext)
             if not self.process_monitor_event(
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
                 return  # Skip the event group
-        elif ne.type == "g" and decay and outtext:
-            self.handle_decay_event(event_group, ne, outtext)
+        # elif ne.type == "g" and decay and outtext:
+        #    self.handle_decay_event(event_group, ne, outtext)
 
         await self.process_event_logs(event_group, ne, ptemp)
         self.phistdelta.delta_format(ne.eind, ptemp)
@@ -577,7 +690,7 @@ class GalaxyEventProcessor:
         decay: bool,
         hp_checkpoint: bool,
         outtext: List[str],
-    ):
+    ) -> bool:
         """
         The event group in question is a monitor type,
         so make sure that there's a significant enough change to actually add it.
@@ -589,8 +702,6 @@ class GalaxyEventProcessor:
             ne.type = "g"
         elif hp_checkpoint:
             event_group[0].text = "Planet HP has reached a checkpoint."
-        elif time_since < MAX_HOUR_DISTANCE * 60 * 60:
-            return False  # Skip event
         self.last_time = ne.timestamp
         return True
 
@@ -662,18 +773,19 @@ class GalaxyEventProcessor:
             await self.process_event_group(i, event_group)
             i += 1
 
-        # for i, event_group in enumerate(grouped_events):
-        #    await self.process_event_group(i, event_group)
-
         self.days_out.events = self.newevt
+        self.days_out.events_all = None
         self.galaxy_states.states = {}
         self.galaxy_states.gstate = self.phistdelta.resort
         self.galaxy_states.links = self.phistdelta.hashlinks
         self.save_results()
+        rebuilt = self.phistdelta.rebuild_state_up_to(70)
+        print(json.dumps(rebuilt))
         self.conn.close()
 
 
 async def main_code():
+    await format_event_obj()
     planets, temp = initialize_planets()
     processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
     await processor.run()
@@ -683,23 +795,31 @@ if not os.path.exists("./src/data/gen_data"):
     os.makedirs("./src/data/gen_data", exist_ok=True)
     raise FileNotFoundError("The directory ./src/data/gen_data does not exist.")
 
-
-if __name__=='__main__':
+if __name__ == "__main__":
     print("Starting up...")
-    old_text=""
 
+    parser = argparse.ArgumentParser(description="Check for changes.")
+    parser.add_argument(
+        "--force", action="store_true", help="force build even if no changes detected"
+    )
+
+    args = parser.parse_args()
+
+    # Determine if any significant change was made.
+    old_text = ""
     if os.path.exists("src/data/gen_data/lasttext.md"):
         with open("src/data/gen_data/lasttext.md", "r", encoding="utf-8") as file:
             old_text = file.read()
+
     get_web_file()
+
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
-    if text!=old_text:
+
+    if text != old_text or args.force:
         make_day_obj(text)
-        format_event_obj()
+
         asyncio.run(main_code())
         with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
             file.write(text)
-
-        
     else:
         print("NO CHANGE DETECTED.  SKIPPING.")

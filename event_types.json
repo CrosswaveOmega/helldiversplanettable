@@ -155,5 +155,21 @@
     "Dispatch": {
         "name": "Dispatch",
         "matchable": ["Dispatch: "]
+    },
+    "JetBrigade": {
+        "name": "Jet Brigade",
+        "matchable": ["Jet Brigade is deployed"]
+    },
+    "JetBrigadeMove": {
+        "name": "Jet Brigade Moved",
+        "matchable": ["Jet Brigade is redeployed"]
+    },
+    "JetBrigadeRetreat": {
+        "name": "Jet Brigade Retreat",
+        "matchable": ["Jet Brigade retreats"]
+    },
+    "JetBrigadeSwitch": {
+        "name": "Jet Brigade Retreat",
+        "matchable": ["Jet Brigade switches"]
     }
 }

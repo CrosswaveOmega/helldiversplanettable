@@ -101,13 +101,13 @@ def parse_timestamp(timestamp_str: str) -> datetime:
         raise ValueError("The timestamp string does not match the expected format.")
 
 
-def make_day_obj(text:str) -> None:
+def make_day_obj(text: str) -> None:
     """Load the HOWL google doc, create day/event/date dictionary"""
     print("Getting web file...")
 
     pattern = r"^(Day #(?P<day>\d+)\s+(?P<day_time>\d{1,2}:\d{2}+\s*(am|pm)\s+\d{1,2}(st|nd|rd|th)\s+\w+\s+(\d{4})*)|(?P<text>.*?)\s+\((?P<time>\d{1,2}:\d{2}+\s*(am|pm)?\s+UTC\s+\d{1,2}(st|nd|rd|th)\s+\w+\s*\d*)\))"
     text = text.replace("’", "'")
-    days = DaysObject()
+    days = DaysObject(events_all=[])
     daykey = "DK"
     # Create the inital days dictionary.
     for line in text.split("\n"):
@@ -120,7 +120,7 @@ def make_day_obj(text:str) -> None:
                 daykey = (
                     timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)
                 ).days
-                days.events.append(
+                days.events_all.append(
                     GameEvent(
                         text=f"Day #{daykey} Start",
                         timestamp=timestamp.timestamp(),
@@ -134,7 +134,7 @@ def make_day_obj(text:str) -> None:
                     "Text: %s, Timestamp string: %s", match.group("text"), timestamp
                 )
                 day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
-                days.events.append(
+                days.events_all.append(
                     GameEvent(
                         text=match.group("text"),
                         timestamp=timestamp.timestamp(),

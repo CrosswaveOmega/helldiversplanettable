@@ -1,10 +1,10 @@
 import logging
 from typing import Any, Dict, List, Tuple
 from script_making.format_utils import enote, faction_dict
-from script_making.models import (
-    DaysObject,
-    PlanetState,
-)
+from script_making.models import DaysObject, PlanetState, GameEvent
+
+
+MAX_HOUR_DISTANCE = 6
 
 logger = logging.getLogger("StatusLogger")
 
@@ -86,17 +86,27 @@ def derive_decay_names(names, vjson):
         return [s["name"] for s in names]
 
 
-def group_events_by_timestamp(days_out: DaysObject):
+def group_events_by_timestamp(days_out: DaysObject) -> List[List[GameEvent]]:
+    """
+    Groups events by their timestamps.
+
+    Args:
+        days_out (DaysObject): Object containing a list of events.
+
+    Returns:
+        List[List[GameEvent]]: A list of lists, where each sublist
+        contains events that occurred at the same timestamp.
+    """
     events_by_timestamp = {}
     # Inital event grouping.
-    for i, event in enumerate(days_out.events):
+    for i, event in enumerate(days_out.events_all):
         print(i, event)
         timestamp = event.timestamp
         if timestamp not in events_by_timestamp:
             events_by_timestamp[timestamp] = []
         events_by_timestamp[timestamp].append(event)
-    outs= list(events_by_timestamp.values())
-    days_out.events=[]
+    outs = list(events_by_timestamp.values())
+    days_out.events_all = []
     return outs
 
 
@@ -123,7 +133,41 @@ def check_planet_stats_for_change(
                 decay_change = True
                 newregen = v.get("regenPerSecond", 0)
                 decay_changed_on.append((i, v.get("owner", 0), newregen))
-                print(f"planet {i} decay change to {newregen}")
+                # print(f"planet {i} decay change to {newregen}")
+
+    logger.info(
+        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+    )
+    return decay_changed_on, hp_changed_on
+
+
+def check_planet_stats_dict_for_change(
+    planetclone: Dict[str, Dict[str, Any]], planetstats: Dict[int, Dict[str, Any]]
+) -> bool:
+    """check if HP or decay changed"""
+    decay_change = False
+    hp_change = False
+    times = 250000
+
+    decay_changed_on = []
+    hp_changed_on = []
+
+    for i, v in planetstats.items():
+        if i in planetclone:
+            lasthp = planetclone[i]["health"]
+            if lasthp:
+                if lasthp // times != v.get("health", 0) // times:
+                    hp_change = True
+                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
+            lastregen = planetclone[i]["regenPerSecond"]
+            if lastregen != float(v.get("regenPerSecond", 0)):
+                decay_change = True
+                newregen = v.get("regenPerSecond", 0)
+                decay_changed_on.append((i, v.get("owner", 0), newregen))
+                # print(f"planet {i} decay change to {newregen}")
+        else:
+            newregen = v.get("regenPerSecond", 0)
+            decay_changed_on.append((i, v.get("owner", 0), newregen))
 
     logger.info(
         f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"

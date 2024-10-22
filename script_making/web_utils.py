@@ -21,6 +21,7 @@ def get_web_file():
     with urllib.request.urlopen(url) as response:
         print("reading...")
         data = response.read()
+        print("clear")
 
     with open("./src/data/gen_data/text.md", "wb") as file:
         file.write(data)

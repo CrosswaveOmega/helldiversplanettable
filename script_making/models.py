@@ -1,12 +1,17 @@
 from typing import Any, Dict, List, Optional, Tuple, Union
 from pydantic import BaseModel, Field
+import re
+import hashlib
 
 
-class GameSubEvent(BaseModel):
-    text: Optional[str] = Field(alias="text", default=None)
-    type: Optional[str] = Field(alias="type", default=None)
-    faction: Optional[int] = Field(alias="faction", default=None)
-    planet: Optional[List[Tuple[str, int]]] = Field(alias="planet", default=[])
+def filter_alphanumeric(input_string: str) -> str:
+    return re.sub(r"[^a-zA-Z0-9]+", "", input_string)
+
+
+def hash_string_to_32bit(inp: str) -> int:
+    text = filter_alphanumeric(inp)
+    print(f"hash to '{text}'", text)
+    return int(hashlib.md5(text.encode("utf-8")).hexdigest(), 16) & 0xFFFFFFFF
 
 
 class GameEvent(BaseModel):
@@ -22,14 +27,20 @@ class GameEvent(BaseModel):
     mo_name: Optional[str] = Field(alias="mo_name", default=None)
     mo_case: Optional[str] = Field(alias="mo_case", default=None)
     mo_objective: Optional[str] = Field(alias="type", default=None)
-    # galaxystate: Dict[str, Any] = Field(default_factory=dict)
-    log: Optional[List[GameSubEvent]] = Field(default_factory=list)
     all_players: Optional[int] = Field(alias="all_players", default=None)
     eind: Optional[int] = Field(alias="eind", default=None)
 
     # Comparator to sort GameEvent objects by timestamp
     def __lt__(self, other: "GameEvent") -> bool:
         return self.timestamp < other.timestamp
+
+
+class GameSubEvent(BaseModel):
+    text: Optional[str] = Field(alias="text", default=None)
+    type: Optional[str] = Field(alias="type", default=None)
+    faction: Optional[int] = Field(alias="faction", default=None)
+    planet: Optional[List[Tuple[str, int]]] = Field(alias="planet", default=[])
+
 
 class GameEventGroup(BaseModel):
     timestamp: float
@@ -47,9 +58,19 @@ class GameEventGroup(BaseModel):
     all_players: Optional[int] = Field(alias="all_players", default=None)
     eind: Optional[int] = Field(alias="eind", default=None)
 
-    # Comparator to sort GameEvent objects by timestamp
-    def __lt__(self, other: "GameEvent") -> bool:
+    # Comparator to sort GameEventGroup objects by timestamp
+    def __lt__(self, other: "GameEventGroup") -> bool:
         return self.timestamp < other.timestamp
+
+    def get_hash(self):
+        allt = hash_string_to_32bit("".join(e.text for e in self.log))
+        return allt
+
+
+class SubEventList(BaseModel):
+
+    log: Optional[List[GameSubEvent]] = Field(default_factory=list)
+
 
 class Position(BaseModel):
     x: float
@@ -75,7 +96,10 @@ class PlanetState(BaseModel):
 
 
 class DaysObject(BaseModel):
-    events: List[GameEvent] = Field(default_factory=list, alias="events")
+    events_all: Optional[List[GameEvent]] = Field(
+        default_factory=list, alias="events_all"
+    )
+    events: Optional[List[GameEventGroup]] = Field(default_factory=list, alias="events")
     days: Dict[int, int] = Field(default_factory=dict)
     dayind: Dict[int, List[int]] = Field(default_factory=dict)
     timestamps: List[int] = Field(default_factory=list)

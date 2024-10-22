@@ -19,7 +19,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 def make_markdown_log(history: DaysObject):
-    '''Create the markdown log from the History Object'''
+    """Create the markdown log from the History Object"""
     markdown_output = ["\n"]
 
     def make_entry(entry: GameEvent):
