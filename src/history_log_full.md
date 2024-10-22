@@ -3052,3 +3052,17 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
  Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:12  UTC)<br/>
+ Decay: 0.0 on Marfark
+ (2024-10-21 06:00  UTC)<br/>
+
+### Day: #257
+Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: -a fluttering *Super Earth* flag -a filled-out ballot -the inevitable destruction of Freedom's enemies. (2024-10-21 18:51  UTC)<br/>
+*Marfark* defense is won (2024-10-22 03:36  UTC)<br/>
+↳ Major Order | Operation Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
+ Decay: 0.5 on Marfark
+ (2024-10-22 06:00  UTC)<br/>
+Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
+ Decay: 1.5 on Martale
+ (2024-10-22 07:09  UTC)<br/>
+
+### Day: #258
