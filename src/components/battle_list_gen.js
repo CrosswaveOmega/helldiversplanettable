@@ -81,8 +81,7 @@ export function BattleList(
 
         // Generate battle sublists for each sector
         let data = Object.values(planetData);
-        data.sort((a, b) => a.mins - b.mins);
-        
+                
         for (let index = 0; index < data.length; index++) {
             console.log(index,data[index])
             let sector = data[index];

@@ -157,6 +157,12 @@ async def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
+    sector_dict={}
+    for key, planet in planets_Dict.items():
+        sect=planet['sector']
+        if not sect in sector_dict:
+            sector_dict[sect]=[]
+        sector_dict[sect].append(planet['name'])
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
     conn = sqlite3.connect(DATABASE_FILE)
     for k1 in planets_Dict2:
@@ -205,6 +211,17 @@ async def format_event_obj() -> None:
             laststats, newevents = await process_war_history_launch(
                 conn,event, newevents, all_times_new, march_5th
             )
+        if event.type=="clear_sector_links":
+            sectors_in_text = [sector for sector in sectors if sector in event.text]
+            ext=""
+            for s, i in sector_dict.items():
+                if s in sectors_in_text:
+                    ext+=' '.join(i)
+            event.planet= get_planet(planets_Dict2, ext)
+            print(ext,event.planet)
+            #input()
+            event.type='clearlinks'
+            
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
@@ -505,6 +522,7 @@ def update_planet_ownership(
         update_waypoints(event.planet, planetclone, add=False)
 
     if event.type == "clearlinks":
+        
         for name, ind in event.planet:
             planetclone[str(ind)].link = []
             for id2 in planetclone.keys():

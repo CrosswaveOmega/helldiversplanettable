@@ -73,6 +73,10 @@
         "name": "clearlinks",
         "matchable": ["are obliterated"]
     },
+    "ClearSectorLinks":{
+        "name":"clear_sector_links",
+        "matchable":["warp links are hidden"]
+    },
     "CampaignStartEvent": {
         "name": "campaign_start",
         "matchable": ["campaign starts"]

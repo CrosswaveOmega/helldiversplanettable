@@ -53,11 +53,11 @@ Major Order | Operation Bulwark is issued | Objective: Defend (2024-02-15 12:17 
 ↳ *Mantes* liberation campaign starts (2024-02-17 13:42  UTC)<br/>
 ↳ *Malevelon Creek* is still accessible despite being cut off (2024-02-17 13:42  UTC)<br/>
 *Ubanea* of the Severin sector is attacked by Automatons (2024-02-17 13:52  UTC)<br/>
-*Troost* - *Vandalon IV* supply line is added (2024-02-17 23:16  UTC)<br/>
-*Vandalon IV* - *Ustotu* supply line is added (2024-02-17 23:16  UTC)<br/>
-*Ustotu* - *Varylia 5* supply line is added (2024-02-17 23:16  UTC)<br/>
-*Ustotu* - *Choepessa IV* supply line is added (2024-02-17 23:16  UTC)<br/>
-*Varylia 5* - *Choepessa IV* supply line is added (2024-02-17 23:16  UTC)<br/>
+*Troost* - *Vandalon IV* warp link is added (2024-02-17 23:16  UTC)<br/>
+*Vandalon IV* - *Ustotu* warp link is added (2024-02-17 23:16  UTC)<br/>
+*Ustotu* - *Varylia 5* warp link is added (2024-02-17 23:16  UTC)<br/>
+*Ustotu* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
+*Varylia 5* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-02-17 23:16  UTC)<br/>
 ↳ *Maia* is not accessible despite attacking a liberated planet (2024-02-17 23:16  UTC)<br/>
 *Meridia* is liberated (2024-02-18 01:25  UTC)<br/>
@@ -257,12 +257,12 @@ Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning h
 ### Day: #29
 Dispatch: The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset. (2024-03-07 12:15  UTC)<br/>
 Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
-*Tien Kwan* - *Draupnir* supply line is added (2024-03-07 13:49  UTC)<br/>
-*Tien Kwan* - *Castor* supply line is added (2024-03-07 13:49  UTC)<br/>
-*Castor* - *Caph* supply line is added (2024-03-07 13:49  UTC)<br/>
-*Lastofe* - *Caph* supply line is added (2024-03-07 13:49  UTC)<br/>
-*Kuper* - *Caph* supply line is added (2024-03-07 13:49  UTC)<br/>
-*Kuper* - *The Weir* supply line is added (2024-03-07 13:49  UTC)<br/>
+*Tien Kwan* - *Draupnir* warp link is added (2024-03-07 13:49  UTC)<br/>
+*Tien Kwan* - *Castor* warp link is added (2024-03-07 13:49  UTC)<br/>
+*Castor* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
+*Lastofe* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
+*Kuper* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
+*Kuper* - *The Weir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* of the Theseus sector instantly flips to Automaton control (2024-03-07 13:49  UTC)<br/>
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49  UTC)<br/>
 Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
@@ -448,8 +448,8 @@ Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in 
 *Hellmire* of the Mirin sector instantly flips to Terminid control (2024-03-24 21:59  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-24 21:59  UTC)<br/>
 ↳ *Nivel 43* liberation campaign ends (2024-03-24 21:59  UTC)<br/>
-*Maia* - *Vandalon IV* supply line is added (2024-03-24 22:49  UTC)<br/>
-*Ingmar* - *Vandalon IV* supply line is added (2024-03-24 22:49  UTC)<br/>
+*Maia* - *Vandalon IV* warp link is added (2024-03-24 22:49  UTC)<br/>
+*Ingmar* - *Vandalon IV* warp link is added (2024-03-24 22:49  UTC)<br/>
 *Vandalon IV* is not accessible despite connecting to the liberated world of *Ingmar* (2024-03-24 22:49  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2024-03-24 22:49  UTC)<br/>
@@ -468,7 +468,7 @@ Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in 
 ↳ *Omicron* liberation campaign ends (2024-03-25 21:47  UTC)<br/>
  Decay: 1.0 on Oshaune
  (2024-03-26 00:00  UTC)<br/>
-*Maia* - *Vandalon IV* supply line is removed (2024-03-26 04:06  UTC)<br/>
+*Maia* - *Vandalon IV* warp link is removed (2024-03-26 04:06  UTC)<br/>
 
 ### Day: #48
 Major Order | Operation CBCT Protection is won | Objective: Control (2024-03-26 13:07  UTC)<br/>
@@ -577,7 +577,7 @@ Major Order | Operation Swift Disassembly Phase Three is issued | Objective: Con
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-01 17:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Automatons, clearly having calculated their impending shutdown, have put their remaining resources into a large-scale counterattack. Desperate as it is, should this re-invasion succeed, it may jeopardize our ability to destroy the bots in time to prevent their incoming invasion. Hold your ground. (2024-04-01 17:47  UTC)<br/>
 *Ubanea* defense is won (2024-04-02 05:09  UTC)<br/>
-*Maia* - *Vandalon IV* supply line is added (2024-04-02 05:44  UTC)<br/>
+*Maia* - *Vandalon IV* warp link is added (2024-04-02 05:44  UTC)<br/>
 *Malevelon Creek* of the Severin sector is attacked by Automatons (2024-04-02 07:53  UTC)<br/>
 *Ubanea* of the Severin sector is attacked by Automatons (2024-04-02 07:53  UTC)<br/>
 
@@ -651,20 +651,20 @@ Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids containe
 
 ### Day: #62
 Automaton second wave starts (2024-04-09 11:41  UTC)<br/>
-↳ *Cyberstan* - *Mekbuda* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Mekbuda* - *Vindemitarix Prime* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vindemitarix Prime* - *Merga IV* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Merak* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Choohe* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Penta* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Lesath* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Merak* - *Penta* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Penta* - *Lesath* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Lesath* - *Menkent* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Menkent* - *Choohe* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Choohe* - *Aurora Bay* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vernen Wells* - *Menkent* supply line is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vernen Wells* - *Lesath* supply line is added (2024-04-09 11:41  UTC)<br/>
+↳ *Cyberstan* - *Mekbuda* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Mekbuda* - *Vindemitarix Prime* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Vindemitarix Prime* - *Merga IV* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Chort Bay* - *Merak* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Chort Bay* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Chort Bay* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Chort Bay* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Merak* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Penta* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Lesath* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Menkent* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Choohe* - *Aurora Bay* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Vernen Wells* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
+↳ *Vernen Wells* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
 ↳ *Vindemitarix Prime* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 ↳ *Mekbuda* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 ↳ *Merga IV* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
@@ -672,8 +672,8 @@ Automaton second wave starts (2024-04-09 11:41  UTC)<br/>
 ↳ *Aurora Bay* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 ↳ *Merak* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 ↳ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Merak* supply line is removed (2024-04-09 11:42  UTC)<br/>
-↳ *Chort Bay* - *Menkent* supply line is added (2024-04-09 11:42  UTC)<br/>
+↳ *Chort Bay* - *Merak* warp link is removed (2024-04-09 11:42  UTC)<br/>
+↳ *Chort Bay* - *Menkent* warp link is added (2024-04-09 11:42  UTC)<br/>
 ↳ *Choohe* of the Lacaille sector is attacked by Automatons (2024-04-09 11:42  UTC)<br/>
 ↳ *Choohe* defense is won (2024-04-09 11:43  UTC)<br/>
 ↳ *Choohe* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
@@ -691,13 +691,13 @@ Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground 
 Major Order | Operation Courageous Defense is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
  Decay: 1.5 on Sten sector, Valdis sector, Lacaille sector, L'estrade sector, Draco sector, Mirin sector
  (2024-04-09 12:02  UTC)<br/>
-*Choohe* - *Matar Bay* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Matar Bay* - *Marfark* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Marfark* - *Aesir Pass* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Marfark* - *Martale* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Martale* - *Charon Prime* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Charon Prime* - *Charbal-VII* supply line is added (2024-04-09 12:15  UTC)<br/>
-*Matar Bay* - *Martale* supply line is added (2024-04-09 16:16  UTC)<br/>
+*Choohe* - *Matar Bay* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Matar Bay* - *Marfark* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Marfark* - *Aesir Pass* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Marfark* - *Martale* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Martale* - *Charon Prime* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Charon Prime* - *Charbal-VII* warp link is added (2024-04-09 12:15  UTC)<br/>
+*Matar Bay* - *Martale* warp link is added (2024-04-09 16:16  UTC)<br/>
 Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the Valdis Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (2024-04-09 23:47  UTC)<br/>
 *Menkent* defense is won (2024-04-10 07:14  UTC)<br/>
 ↳ Hydra sector is fully liberated (2024-04-10 07:14  UTC)<br/>
@@ -808,12 +808,12 @@ Major Order | Operation *Marfark* Defense is won | Objective: Control (2024-04-1
 Dispatch: MAJOR ORDER WON. The Automaton Invasion Fleet has been repelled. The bots committed much of their reserves to this attack. Even the large-scale deployment of the Factory Strider could not break the resolve of the Helldivers. The situation remains dire. The Automatons still illegally occupy vast swaths of our territory. But with this victory, the Helldivers have won the opportunity to turn back the tide. (2024-04-18 07:51  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-18 07:51  UTC)<br/>
-*Matar Bay* - *Meissa* supply line is added (2024-04-18 07:54  UTC)<br/>
-*Meissa* - *Wasat* supply line is added (2024-04-18 07:54  UTC)<br/>
-*Wasat* - *X-45* supply line is added (2024-04-18 07:54  UTC)<br/>
-*X-45* - *Vega Bay* supply line is added (2024-04-18 07:54  UTC)<br/>
-*Vega Bay* - *Wezen* supply line is added (2024-04-18 07:54  UTC)<br/>
-*Wezen* - *Varylia 5* supply line is added (2024-04-18 07:54  UTC)<br/>
+*Matar Bay* - *Meissa* warp link is added (2024-04-18 07:54  UTC)<br/>
+*Meissa* - *Wasat* warp link is added (2024-04-18 07:54  UTC)<br/>
+*Wasat* - *X-45* warp link is added (2024-04-18 07:54  UTC)<br/>
+*X-45* - *Vega Bay* warp link is added (2024-04-18 07:54  UTC)<br/>
+*Vega Bay* - *Wezen* warp link is added (2024-04-18 07:54  UTC)<br/>
+*Wezen* - *Varylia 5* warp link is added (2024-04-18 07:54  UTC)<br/>
 *Fori Prime* is liberated (2024-04-18 08:55  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-04-18 08:55  UTC)<br/>
 
@@ -844,11 +844,11 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 ↳ Draco sector is fully liberated (2024-04-20 07:38  UTC)<br/>
 
 ### Day: #73
-*Wasat* - *Vega Bay* supply line is added (2024-04-20 10:41  UTC)<br/>
-*Troost* - *Ustotu* supply line is added (2024-04-20 10:41  UTC)<br/>
-*Choepessa IV* - *Charon Prime* supply line is added (2024-04-20 10:41  UTC)<br/>
-*Choepessa IV* - *Charbal-VII* supply line is added (2024-04-20 10:41  UTC)<br/>
-*Mort* - *Charbal-VII* supply line is added (2024-04-20 10:41  UTC)<br/>
+*Wasat* - *Vega Bay* warp link is added (2024-04-20 10:41  UTC)<br/>
+*Troost* - *Ustotu* warp link is added (2024-04-20 10:41  UTC)<br/>
+*Choepessa IV* - *Charon Prime* warp link is added (2024-04-20 10:41  UTC)<br/>
+*Choepessa IV* - *Charbal-VII* warp link is added (2024-04-20 10:41  UTC)<br/>
+*Mort* - *Charbal-VII* warp link is added (2024-04-20 10:41  UTC)<br/>
  Decay: 0.5 on Automaton worlds
  (2024-04-20 10:41  UTC)<br/>
 *Oshaune* defense is failed (2024-04-20 15:08  UTC)<br/>
@@ -888,12 +888,12 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
  Decay: 0.5 on Vernen Wells
  (2024-04-22 20:39  UTC)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2024-04-22 20:41  UTC)<br/>
-*Aesir Pass* - *Curia* supply line is added (2024-04-22 20:49  UTC)<br/>
-*Aesir Pass* - *Tarsh* supply line is added (2024-04-22 20:49  UTC)<br/>
-*Curia* - *Tarsh* supply line is added (2024-04-22 20:49  UTC)<br/>
-*Tarsh* - *Mastia* supply line is added (2024-04-22 20:49  UTC)<br/>
-*Curia* - *Fenmire* supply line is added (2024-04-22 20:49  UTC)<br/>
-*Fenmire* - *Barabos* supply line is added (2024-04-22 20:49  UTC)<br/>
+*Aesir Pass* - *Curia* warp link is added (2024-04-22 20:49  UTC)<br/>
+*Aesir Pass* - *Tarsh* warp link is added (2024-04-22 20:49  UTC)<br/>
+*Curia* - *Tarsh* warp link is added (2024-04-22 20:49  UTC)<br/>
+*Tarsh* - *Mastia* warp link is added (2024-04-22 20:49  UTC)<br/>
+*Curia* - *Fenmire* warp link is added (2024-04-22 20:49  UTC)<br/>
+*Fenmire* - *Barabos* warp link is added (2024-04-22 20:49  UTC)<br/>
  Decay: 0.5 on Meissa
  (2024-04-22 20:49  UTC)<br/>
  Decay: 0.0 on Automaton worlds
@@ -988,9 +988,9 @@ Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their ca
 *Meridia* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-04-29 14:22  UTC)<br/>
 *Meridia* of the Umlaut sector's biome is changed from Volcanic Jungle [Primordial] to Supercolony [Primordial] (2024-04-29 14:22  UTC)<br/>
-*Meridia* - *Turing* supply line is removed (2024-04-29 14:22  UTC)<br/>
-*Meridia* - *Fenrir III* supply line is removed (2024-04-29 14:22  UTC)<br/>
-*Meridia* - *Angel's Venture* supply line is removed (2024-04-29 14:22  UTC)<br/>
+*Meridia* - *Turing* warp link is removed (2024-04-29 14:22  UTC)<br/>
+*Meridia* - *Fenrir III* warp link is removed (2024-04-29 14:22  UTC)<br/>
+*Meridia* - *Angel's Venture* warp link is removed (2024-04-29 14:22  UTC)<br/>
 *Meridia* is not accessible despite connecting to the liberated world of *Crimsica* (2024-04-29 14:22  UTC)<br/>
 *Meridia* is not accessible despite connecting to the liberated world of *Estanu* (2024-04-29 14:22  UTC)<br/>
  Decay: 1.0 on Automaton worlds
@@ -1024,7 +1024,7 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-05-01 18:47  UTC)<br/>
  Decay: 3.5 on Turing
  (2024-05-01 18:47  UTC)<br/>
-*Meridia* of the Umlaut sector's supply lines are obliterated (2024-05-01 19:40  UTC)<br/>
+*Meridia* of the Umlaut sector's warp links are obliterated (2024-05-01 19:40  UTC)<br/>
 *Penta* of the Lacaille sector is attacked by Automatons (2024-05-02 07:57  UTC)<br/>
 
 ### Day: #85
@@ -1039,13 +1039,13 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
 *Penta* defense is failed (2024-05-03 08:00  UTC)<br/>
 ↳ *Penta* liberation campaign starts (2024-05-03 08:00  UTC)<br/>
 ↳ *Merak* liberation campaign ends (2024-05-03 08:00  UTC)<br/>
-*X-45* of the Ymir sector's supply lines are obliterated (2024-05-03 08:26  UTC)<br/>
+*X-45* of the Ymir sector's warp links are obliterated (2024-05-03 08:26  UTC)<br/>
  Decay: 1.0 on Penta
  (2024-05-03 08:26  UTC)<br/>
-*Ivis* - *Fort Union* supply line is removed (2024-05-03 08:31  UTC)<br/>
-*Ivis* - *Moradesh* supply line is removed (2024-05-03 08:31  UTC)<br/>
-*Ivis* - *Slif* supply line is removed (2024-05-03 08:31  UTC)<br/>
-*Ivis* - *Krakatwo* supply line is added (2024-05-03 08:31  UTC)<br/>
+*Ivis* - *Fort Union* warp link is removed (2024-05-03 08:31  UTC)<br/>
+*Ivis* - *Moradesh* warp link is removed (2024-05-03 08:31  UTC)<br/>
+*Ivis* - *Slif* warp link is removed (2024-05-03 08:31  UTC)<br/>
+*Ivis* - *Krakatwo* warp link is added (2024-05-03 08:31  UTC)<br/>
 
 ### Day: #86
 *Turing* is liberated (2024-05-03 10:56  UTC)<br/>
@@ -1074,11 +1074,11 @@ Dispatch: MAJOR ORDER WON. Further calamity has been averted, thanks to the swif
 ↳ *Angel's Venture* liberation campaign starts (2024-05-06 13:47  UTC)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-05-06 13:48  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2024-05-06 13:48  UTC)<br/>
-*Acamar IV* - *Pandion-XXIV* supply line is added (2024-05-06 13:48  UTC)<br/>
-*Pandion-XXIV* - *Phact Bay* supply line is added (2024-05-06 13:48  UTC)<br/>
-*Phact Bay* - *Gatria* supply line is added (2024-05-06 13:48  UTC)<br/>
-*Gatria* - *Gar Haren* supply line is added (2024-05-06 13:48  UTC)<br/>
-*Gacrux* of the Jin Xi sector's supply lines are obliterated (2024-05-06 13:48  UTC)<br/>
+*Acamar IV* - *Pandion-XXIV* warp link is added (2024-05-06 13:48  UTC)<br/>
+*Pandion-XXIV* - *Phact Bay* warp link is added (2024-05-06 13:48  UTC)<br/>
+*Phact Bay* - *Gatria* warp link is added (2024-05-06 13:48  UTC)<br/>
+*Gatria* - *Gar Haren* warp link is added (2024-05-06 13:48  UTC)<br/>
+*Gacrux* of the Jin Xi sector's warp links are obliterated (2024-05-06 13:48  UTC)<br/>
 *Acamar IV* of the Jin Xi sector instantly flips to Terminid control (2024-05-06 13:48  UTC)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-05-06 13:48  UTC)<br/>
 Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49  UTC)<br/>
@@ -1086,7 +1086,7 @@ Major Order | Operation Supercolony Spore Outbreak is issued | Objective: Libera
 Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridia* Supercolony, have erupted on multiple planets. The Supercolony appears to be producing far more Terminid spores than other infested planets, leading to unpredictable outbreaks within its vicinity. The Helldivers must contain these outbreaks immediately, before they spread out of control. (2024-05-06 13:55  UTC)<br/>
  Decay: 3.0 on Heeth, Veld<br/> Decay: 2.5 on Angel's Venture<br/> Decay: 3.5 on Acamar IV
  (2024-05-06 16:00  UTC)<br/>
-*Turing* - *Acamar IV* supply line is added (2024-05-06 20:46  UTC)<br/>
+*Turing* - *Acamar IV* warp link is added (2024-05-06 20:46  UTC)<br/>
 
 # Day: #90
  Decay: 2.5 on Heeth, Veld<br/> Decay: 3.0 on Acamar IV
@@ -1334,11 +1334,11 @@ Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a
 ### Day: #113
 Major Order | Operation Enduring Peace Phase One is won | Objective: Control (2024-05-30 15:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The path to the Terminid Supercolony on *Meridia* is clear. Weaponized payloads of Dark Fluid have been constructed and deployed across the Super Destroyer Fleet. Phase 2 will begin imminently. (2024-05-30 15:30  UTC)<br/>
-⤹ *Meridia* - *Fenrir III* supply line is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Angel's Venture* supply line is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Turing* supply line is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Estanu* supply line is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Crimsica* supply line is added (2024-05-30 15:35  UTC)<br/>
+⤹ *Meridia* - *Fenrir III* warp link is added (2024-05-30 15:35  UTC)<br/>
+⤹ *Meridia* - *Angel's Venture* warp link is added (2024-05-30 15:35  UTC)<br/>
+⤹ *Meridia* - *Turing* warp link is added (2024-05-30 15:35  UTC)<br/>
+⤹ *Meridia* - *Estanu* warp link is added (2024-05-30 15:35  UTC)<br/>
+⤹ *Meridia* - *Crimsica* warp link is added (2024-05-30 15:35  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-05-30 15:35  UTC)<br/>
 Major Order | Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36  UTC)<br/>
 Dispatch: OPERATION "ENDURING PEACE"—PHASE II (FINAL). The time has come to eradicate the Terminid Supercolony completely. The Helldivers will deploy to the surface of *Meridia* to deploy partial payloads of Dark Fluid across the planet. Once a critical mass is reached, the Dark Fluid will accrete into a superdense mass, triggering total planetary implosion. The Supercolony, and its hyper-reproductive Terminids, will be destroyed. The fate of the galaxy is in your hands, Helldivers. (2024-05-30 15:39  UTC)<br/>
@@ -1420,13 +1420,13 @@ Dispatch: NEW MAJOR ORDER. With the Supercolony destroyed, it is now finally pos
 ### Day: #118
  Decay: 1.5 on Erata Prime
  (2024-06-04 16:00  UTC)<br/>
-*Tarsh* of the Marspira sector's supply lines are obliterated (2024-06-04 23:38  UTC)<br/>
-*Mastia* - *Shallus* supply line is added (2024-06-04 23:38  UTC)<br/>
-*Mastia* - *Shelt* supply line is added (2024-06-04 23:38  UTC)<br/>
-*Shallus* - *Shelt* supply line is added (2024-06-04 23:38  UTC)<br/>
-*Shelt* - *Gaellivare* supply line is added (2024-06-04 23:38  UTC)<br/>
-*Shelt* - *Imber* supply line is added (2024-06-04 23:38  UTC)<br/>
-*Imber* - *Gaellivare* supply line is added (2024-06-04 23:38  UTC)<br/>
+*Tarsh* of the Marspira sector's warp links are obliterated (2024-06-04 23:38  UTC)<br/>
+*Mastia* - *Shallus* warp link is added (2024-06-04 23:38  UTC)<br/>
+*Mastia* - *Shelt* warp link is added (2024-06-04 23:38  UTC)<br/>
+*Shallus* - *Shelt* warp link is added (2024-06-04 23:38  UTC)<br/>
+*Shelt* - *Gaellivare* warp link is added (2024-06-04 23:38  UTC)<br/>
+*Shelt* - *Imber* warp link is added (2024-06-04 23:38  UTC)<br/>
+*Imber* - *Gaellivare* warp link is added (2024-06-04 23:38  UTC)<br/>
 
 ### Day: #119
 *Erata Prime* is liberated (2024-06-05 11:48  UTC)<br/>
@@ -1517,36 +1517,71 @@ Dispatch: NEW MAJOR ORDER. High Command has received two urgent requests for aid
 *East Iridium Trading Bay* of the Tarragon sector's biome is changed from Volcanic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00  UTC)<br/>
 *Asperoth Prime* of the Akira sector's biome is changed from Scorched Moor [Moor] to Basic Swamp [Swamp] (2024-06-13 09:00  UTC)<br/>
 *Seasse* of the Omega sector's biome is changed from Ionic Jungle [Primordial] to Basic Swamp [Swamp] (2024-06-13 09:00  UTC)<br/>
-*Terrek* of the Orion sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Azterra* of the Orion sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Ivis* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Sulfura* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Nublaria I* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Krakatwo* of the Celeste sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Cyberstan* of the Valdis sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Mekbuda* of the Valdis sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Vindemitarix Prime* of the Valdis sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Merga IV* of the Valdis sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Mastia* - *Fenmire* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Mastia* - *Shelt* supply line is removed (2024-06-13 09:00  UTC)<br/>
-*Mastia* - *Shallus* supply line is removed (2024-06-13 09:00  UTC)<br/>
-*Gaellivare* of the Talus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Imber* of the Talus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Shelt* of the Talus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Shallus* of the Talus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*The Weir* of the Theseus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Kuper* of the Theseus sector's supply lines are obliterated (2024-06-13 09:00  UTC)<br/>
-*Tien Kwan* - *Lastofe* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Gar Haren* - *Phact Bay* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Azur Secundus* - *Overgoe Prime* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Overgoe Prime* - *Partion* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Partion* - *Peacock* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Peacock* - *Trandor* supply line is added (2024-06-13 09:00  UTC)<br/>
-*Gacrux* - *Acamar IV* supply line is added (2024-06-13 11:37  UTC)<br/>
-*Gacrux* - *Pandion-XXIV* supply line is added (2024-06-13 11:37  UTC)<br/>
-*X-45* - *Vega Bay* supply line is added (2024-06-13 11:37  UTC)<br/>
-*X-45* - *Wasat* supply line is added (2024-06-13 11:37  UTC)<br/>
-*X-45* - *Meissa* supply line is added (2024-06-13 11:37  UTC)<br/>
+*Terrek* of the Orion sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Azterra* of the Orion sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Ivis* of the Celeste sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Sulfura* of the Celeste sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Nublaria I* of the Celeste sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Krakatwo* of the Celeste sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Cyberstan* of the Valdis sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Mekbuda* of the Valdis sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Vindemitarix Prime* of the Valdis sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Merga IV* of the Valdis sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Mastia* - *Fenmire* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Mastia* - *Shelt* warp link is removed (2024-06-13 09:00  UTC)<br/>
+*Mastia* - *Shallus* warp link is removed (2024-06-13 09:00  UTC)<br/>
+*Gaellivare* of the Talus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Imber* of the Talus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Shelt* of the Talus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Shallus* of the Talus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*The Weir* of the Theseus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Kuper* of the Theseus sector's warp links are obliterated (2024-06-13 09:00  UTC)<br/>
+*Tien Kwan* - *Lastofe* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Gar Haren* - *Phact Bay* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Azur Secundus* - *Overgoe Prime* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Overgoe Prime* - *Partion* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Partion* - *Peacock* warp link is added (2024-06-13 09:00  UTC)<br/>
+*Peacock* - *Trandor* warp link is added (2024-06-13 09:00  UTC)<br/>
+Gellert sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Hawking sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Arturion sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Falstaff sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Tanis sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Iptus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Altus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Kelvin sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Sagan sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Nanos sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Idun sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Cantolus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Meridian sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Tarragon sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Alstrad sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Quintus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Gothmar sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Saleria sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Guang sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Xi Tauri sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Akira sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Cancri sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Rictus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Omega sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Hanzo sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Rigel sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Morgon sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Gallux sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Ferris sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Leo sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Farsight sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Ursa sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Borgus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Korpus sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+Barnard sector's warp links are hidden (2024-06-13 09:00  UTC)<br/>
+*Gacrux* - *Acamar IV* warp link is added (2024-06-13 11:37  UTC)<br/>
+*Gacrux* - *Pandion-XXIV* warp link is added (2024-06-13 11:37  UTC)<br/>
+*X-45* - *Vega Bay* warp link is added (2024-06-13 11:37  UTC)<br/>
+*X-45* - *Wasat* warp link is added (2024-06-13 11:37  UTC)<br/>
+*X-45* - *Meissa* warp link is added (2024-06-13 11:37  UTC)<br/>
 
 ### Day: #128
 *Vernen Wells* is liberated (2024-06-14 13:52  UTC)<br/>
@@ -1581,10 +1616,10 @@ Dispatch: INTEL REPORT. Abnormally high levels of interstellar spore emissions h
 *Fori Prime* is liberated (2024-06-18 20:02  UTC)<br/>
 ↳ Draco sector is fully liberated (2024-06-18 20:02  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-18 20:02  UTC)<br/>
-*Bore Rock* - *Esker* supply line is added (2024-06-18 20:19  UTC)<br/>
-*Erson Sands* - *Esker* supply line is added (2024-06-18 20:19  UTC)<br/>
-*Nivel 43* - *Esker* supply line is added (2024-06-18 20:19  UTC)<br/>
-*Socorro III* of the Falstaff sector's supply lines are obliterated (2024-06-18 20:19  UTC)<br/>
+*Bore Rock* - *Esker* warp link is added (2024-06-18 20:19  UTC)<br/>
+*Erson Sands* - *Esker* warp link is added (2024-06-18 20:19  UTC)<br/>
+*Nivel 43* - *Esker* warp link is added (2024-06-18 20:19  UTC)<br/>
+*Socorro III* of the Falstaff sector's warp links are obliterated (2024-06-18 20:19  UTC)<br/>
 *Nivel 43* is not accessible despite connecting to the liberated world of *Esker* (2024-06-18 20:19  UTC)<br/>
  Decay: 500.0 on Fori Prime
  (2024-06-18 20:19  UTC)<br/>
@@ -1609,8 +1644,8 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 ↳ *Fori Prime* liberation campaign starts (2024-06-20 13:21  UTC)<br/>
 ↳ *Oshaune* liberation campaign ends (2024-06-20 13:21  UTC)<br/>
 *Mort* of the Xzar sector is attacked by Automatons (2024-06-20 13:28  UTC)<br/>
-*Crimsica* - *Acamar IV* supply line is added (2024-06-20 15:08  UTC)<br/>
-*Gacrux* - *Fori Prime* supply line is added (2024-06-20 15:08  UTC)<br/>
+*Crimsica* - *Acamar IV* warp link is added (2024-06-20 15:08  UTC)<br/>
+*Gacrux* - *Fori Prime* warp link is added (2024-06-20 15:08  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-06-20 15:08  UTC)<br/>
  Decay: 0.0 on Mort<br/> Decay: 1.5 on Fori Prime
  (2024-06-20 15:08  UTC)<br/>
@@ -1679,7 +1714,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-23 21:56  UTC)<br/>
  Decay: 500.0 on Ingmar
  (2024-06-23 21:56  UTC)<br/>
-*Mantes* - *Vandalon IV* supply line is added (2024-06-23 21:58  UTC)<br/>
+*Mantes* - *Vandalon IV* warp link is added (2024-06-23 21:58  UTC)<br/>
 *Mantes* of the Xzar sector is attacked by Automatons (2024-06-23 21:58  UTC)<br/>
  Decay: 0.0 on Mantes, Phact Bay
  (2024-06-24 00:00  UTC)<br/>
@@ -1715,7 +1750,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 ↳ *Choepessa IV* liberation campaign ends (2024-06-25 09:01  UTC)<br/>
  Decay: 1.5 on Varylia 5
  (2024-06-25 10:00  UTC)<br/>
-*Gar Haren* of the Jin Xi sector's supply lines are obliterated (2024-06-25 14:04  UTC)<br/>
+*Gar Haren* of the Jin Xi sector's warp links are obliterated (2024-06-25 14:04  UTC)<br/>
 *Mort* defense is won (2024-06-25 14:41  UTC)<br/>
 ↳ Xzar sector is fully liberated (2024-06-25 14:41  UTC)<br/>
  Decay: 500.0 on Mort
@@ -2185,9 +2220,9 @@ Dispatch: NEW MAJOR ORDER. Terminids have overrun SEAF recon posts on *Socorro I
  Decay: 2.5 on Terminid worlds<br/> Decay: 1.5 on Automaton worlds
  (2024-08-06 14:55  UTC)<br/>
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-06 14:57  UTC)<br/>
-*Socorro III* - *Erson Sands* supply line is added (2024-08-06 14:57  UTC)<br/>
-*Esker* - *Socorro III* supply line is added (2024-08-06 14:57  UTC)<br/>
-*Nivel 43* - *Erson Sands* supply line is added (2024-08-06 14:57  UTC)<br/>
+*Socorro III* - *Erson Sands* warp link is added (2024-08-06 14:57  UTC)<br/>
+*Esker* - *Socorro III* warp link is added (2024-08-06 14:57  UTC)<br/>
+*Nivel 43* - *Erson Sands* warp link is added (2024-08-06 14:57  UTC)<br/>
 *Nivel 43* is not accessible despite connecting to the liberated world of *Erson Sands* (2024-08-06 14:57  UTC)<br/>
  Decay: 0.0 on Socorro III
  (2024-08-06 16:00  UTC)<br/>
@@ -2322,8 +2357,8 @@ Dispatch: Major Order Update: *Super Earth* High Command has detected a large ba
 Major Order | Operation People's Shield is issued | Objective: Defend/Liberate (2024-08-17 19:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. While our attention has been diverted by the Gloom, the Automatons have crept closer to *Super Earth*. The Helldivers are ordered to launch an assault on the Automatons to push them back. Intel indicates that additional Automaton attacks are expected within the next few days. Remain vigilant, and defend against any further Automaton incursions. (2024-08-17 19:00  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a recent Order have been reassigned to Chemical Weapon facilities, where they will be given the opportunity to repay their debt to Managed Democracy with strenuous labor. The Orbital Gas Strike stratagem will be temporarily added to all loadouts. (2024-08-17 19:40  UTC)<br/>
-*Tarsh* - *Mastia* supply line is added (2024-08-17 22:34  UTC)<br/>
-*Tarsh* - *Curia* supply line is added (2024-08-17 22:34  UTC)<br/>
+*Tarsh* - *Mastia* warp link is added (2024-08-17 22:34  UTC)<br/>
+*Tarsh* - *Curia* warp link is added (2024-08-17 22:34  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-08-17 22:37  UTC)<br/>
  Decay: 0.0 on Tarsh
  (2024-08-18 00:00  UTC)<br/>
@@ -2343,7 +2378,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
 ↳ Marspira sector is fully liberated (2024-08-19 21:44  UTC)<br/>
  Decay: 1.0 on Curia
  (2024-08-19 22:00  UTC)<br/>
-*Vernen Wells* - *Tarsh* supply line is added (2024-08-20 07:33  UTC)<br/>
+*Vernen Wells* - *Tarsh* warp link is added (2024-08-20 07:33  UTC)<br/>
 *Vernen Wells* is not accessible despite connecting to the liberated world of *Tarsh* (2024-08-20 07:33  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-20 07:41  UTC)<br/>
 
@@ -2530,13 +2565,13 @@ Andromeda sector is fully liberated (2024-08-29 02:29  UTC)<br/>
 ### Day: #208
 Major Order | Operation Blazing Barrage is failed | Objective: Eradicate/Liberate (2024-09-02 11:24  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite heroic conservation efforts, and millions of Automaton militants recycled into useful scrap metals, the Helldivers were unable to secure sufficient resources to rectify supply shortages. Fleetwide distribution of the Orbital Napalm Barrage will be delayed. (2024-09-02 11:26  UTC)<br/>
-*Trandor* - *Gatria* supply line is added (2024-09-02 16:07  UTC)<br/>
+*Trandor* - *Gatria* warp link is added (2024-09-02 16:07  UTC)<br/>
 *Trandor* is not accessible despite connecting to the liberated world of *Gatria* (2024-09-02 16:07  UTC)<br/>
-*Gar Haren* - *Gatria* supply line is added (2024-09-02 16:07  UTC)<br/>
-*Partion* - *Gacrux* supply line is added (2024-09-02 16:07  UTC)<br/>
-*Partion* - *Phact Bay* supply line is added (2024-09-02 16:07  UTC)<br/>
+*Gar Haren* - *Gatria* warp link is added (2024-09-02 16:07  UTC)<br/>
+*Partion* - *Gacrux* warp link is added (2024-09-02 16:07  UTC)<br/>
+*Partion* - *Phact Bay* warp link is added (2024-09-02 16:07  UTC)<br/>
 *Partion* is not accessible despite connecting to the liberated world of *Phact Bay* (2024-09-02 16:07  UTC)<br/>
-*Phact Bay* - *Gar Haren* supply line is added (2024-09-02 16:07  UTC)<br/>
+*Phact Bay* - *Gar Haren* warp link is added (2024-09-02 16:07  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09  UTC)<br/>
 Major Order | Operation Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10  UTC)<br/>
@@ -2575,20 +2610,20 @@ Dispatch: TEMPORARY ARSENAL AUGMENTATION. While the supplies recovered by the He
  (2024-09-06 06:00  UTC)<br/>
 
 ### Day: #212
-*Yed Prior* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23  UTC)<br/>
-*Zefia* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23  UTC)<br/>
-*Clasa* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23  UTC)<br/>
-*Demiurg* of the Tanis sector's supply lines are obliterated (2024-09-06 16:23  UTC)<br/>
-*Mastia* - *Gaellivare* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Mastia* - *Shelt* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Shallus* - *Mastia* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Shallus* - *Shelt* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Shelt* - *Imber* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Gaellivare* - *Imber* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Vog-Sojoth* - *Claorell* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Claorell* - *Imber* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Lesath* - *Gaellivare* supply line is added (2024-09-06 16:23  UTC)<br/>
-*Lesath* - *Vog-Sojoth* supply line is added (2024-09-06 16:23  UTC)<br/>
+*Yed Prior* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
+*Zefia* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
+*Clasa* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
+*Demiurg* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
+*Mastia* - *Gaellivare* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Mastia* - *Shelt* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Shallus* - *Mastia* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Shallus* - *Shelt* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Shelt* - *Imber* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Gaellivare* - *Imber* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Vog-Sojoth* - *Claorell* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Claorell* - *Imber* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Lesath* - *Gaellivare* warp link is added (2024-09-06 16:23  UTC)<br/>
+*Lesath* - *Vog-Sojoth* warp link is added (2024-09-06 16:23  UTC)<br/>
 Major Order | Operation Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
@@ -2696,12 +2731,12 @@ Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation 
 
 ### Day: #224
 *Gatria* defense is won (2024-09-18 11:05  UTC)<br/>
-*Vog-Sojoth* - *Clasa* supply line is added (2024-09-18 11:15  UTC)<br/>
-*Claorell* - *Clasa* supply line is added (2024-09-18 11:15  UTC)<br/>
-*Yed Prior* - *Zefia* supply line is added (2024-09-18 11:15  UTC)<br/>
-*Yed Prior* - *Clasa* supply line is added (2024-09-18 11:15  UTC)<br/>
-*Zefia* - *Clasa* supply line is added (2024-09-18 11:15  UTC)<br/>
-*Demiurg* - *Clasa* supply line is added (2024-09-18 11:15  UTC)<br/>
+*Vog-Sojoth* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
+*Claorell* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
+*Yed Prior* - *Zefia* warp link is added (2024-09-18 11:15  UTC)<br/>
+*Yed Prior* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
+*Zefia* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
+*Demiurg* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
 *Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18  UTC)<br/>
  Decay: 1.0 on Trandor<br/> Decay: 1.5 on Gatria
  (2024-09-18 11:18  UTC)<br/>
@@ -2798,18 +2833,18 @@ Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* fr
 ### Day: #234
 Major Order | Operation Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs. The Helldivers are ordered to clear *Turing* of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS. (2024-09-28 18:35  UTC)<br/>
-*Achird III* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50  UTC)<br/>
-*Achernar Secundus* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50  UTC)<br/>
-*Darius II* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50  UTC)<br/>
-*Ursica XI* of the Borgus sector's supply lines are obliterated (2024-09-28 20:50  UTC)<br/>
-*Ursica XI* - *Achird III* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Darius II* - *Acamar IV* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Achernar Secundus* - *Ursica XI* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Achernar Secundus* - *Darius II* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Achird III* - *Turing* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Achird III* - *Darius II* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Gar Haren* - *Achernar Secundus* supply line is added (2024-09-28 20:54  UTC)<br/>
-*Phact Bay* - *Darius II* supply line is added (2024-09-28 20:54  UTC)<br/>
+*Achird III* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
+*Achernar Secundus* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
+*Darius II* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
+*Ursica XI* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
+*Ursica XI* - *Achird III* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Darius II* - *Acamar IV* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Achernar Secundus* - *Ursica XI* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Achernar Secundus* - *Darius II* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Achird III* - *Turing* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Achird III* - *Darius II* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Gar Haren* - *Achernar Secundus* warp link is added (2024-09-28 20:54  UTC)<br/>
+*Phact Bay* - *Darius II* warp link is added (2024-09-28 20:54  UTC)<br/>
 *Phact Bay* defense is failed (2024-09-28 21:23  UTC)<br/>
 ↳ *Phact Bay* liberation campaign starts (2024-09-28 21:23  UTC)<br/>
 ↳ *Partion* liberation campaign ends (2024-09-28 21:23  UTC)<br/>
@@ -3029,7 +3064,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 ### Day: #254
 Major Order | Operation Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
-Automaton Legion debuts a new Assault Division: Jet Brigade (2024-10-18 11:43  UTC)<br/>
+Automaton Legion debuts a new Assault Division: The Automaton Jet Brigade (2024-10-18 11:43  UTC)<br/>
 Automaton Jet Brigade deploys to guard *Choohe* (2024-10-18 11:43  UTC)<br/>
 Automaton Jet Brigade retreats to replenish their numbers (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
@@ -3059,12 +3094,11 @@ Automaton Jet Brigade redeploys to assist in the siege of *Martale* (2024-10-19 
  Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
-Automaton Jet Brigade deploys to every enemy faction controlled world (2024-10-21 04:11  UTC)<br/>
+Automaton Jet Brigade redeploys to every enemy faction controlled world (2024-10-21 04:11  UTC)<br/>
 ↳ Note: This was an error produced by the Gamemaster not properly filling a value making it appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
 Automaton Jet Brigade stops guarding every enemy faction controlled world (2024-10-21 08:01  UTC)<br/>
-Automaton Jet Brigade deploys to guard *Martale* (2024-10-21 08:01  UTC)<br/>
 Automaton Jet Brigade redeploys to assist in the siege of *Marfark* (2024-10-21 08:01  UTC)<br/>
 
 ### Day: #257
@@ -3079,62 +3113,24 @@ Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance
 Automaton Jet Brigade retreats to replenish their numbers (2024-10-22 07:17  UTC)<br/>
 
 ### Day: #258
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 12:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 14:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 16:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 18:00  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-22 19:25  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 19:25  UTC)<br/>
 *Zefia* of the Tanis sector is attacked by Automatons (2024-10-22 19:27  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 19:27  UTC)<br/>
 *Estanu* is liberated (2024-10-22 21:52  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-10-22 21:52  UTC)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-10-22 21:52  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ Decay: 0.0 on Gatria, Zefia
  (2024-10-22 21:52  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 21:52  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 21:52  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-22 22:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 00:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 02:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 04:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 06:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 08:00  UTC)<br/>
 
 ### Day: #259
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 09:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 10:00  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 12:00  UTC)<br/>
 *Gatria* defense is won (2024-10-23 13:06  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gatria, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 13:06  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-10-23 15:45  UTC)<br/>
 *Fori Prime* liberation campaign ends (2024-10-23 15:45  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 15:45  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ Decay: 1.5 on Gatria
  (2024-10-23 15:45  UTC)<br/>
 Major Order | Operation DSS Protection is issued | Objective: Defend/Liberate (2024-10-23 15:58  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Meridia, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ Decay: 2.0 on Penta, Lesath
  (2024-10-23 15:58  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-10-23 16:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer surrounding the DSS has become clear. Liberating *Lesath* would insulate the DSS from a sudden assault by a resurgent Jet Brigade. However, a Terminid outbreak has just erupted, threatening the Terminid Research Preserve on *Acamar IV*. What to prioritize is a difficult decision—one which High Command leaves in the capable and united hands of the Helldivers. (2024-10-23 16:12  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gacrux, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ Decay: 0.0 on Gacrux
  (2024-10-23 16:12  UTC)<br/>
