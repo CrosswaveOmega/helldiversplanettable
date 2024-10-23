@@ -214,7 +214,7 @@ We lose battles if we fail to defend a world, or the world in question can't be 
 Ongoing Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
-${BattleList(historydata,false,document.getElementById("history2"),1,count_distinct_planet_battles,sector_data)}
+${BattleList(historydata,false,false,document.getElementById("history2"),1,count_distinct_planet_battles,sector_data)}
   <div id="history2" style="max-height: 500px; overflow-y: auto;">
 
   </div>
@@ -226,12 +226,19 @@ const showEventsBox = Inputs.toggle({label: "Show Events", value: false});
 
 const showEvents= Generators.input(showEventsBox);
 
+const NoSectorBox = Inputs.toggle({label: "Don't Show Sectors", value: false});
+
+const noSectors= Generators.input(NoSectorBox);
+
+
 ```
 All Planet Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 ${showEventsBox}
-${BattleList(historydata,showEvents,document.getElementById("history"),0,count_distinct_planet_battles,sector_data)}
+${NoSectorBox}
+
+${BattleList(historydata,showEvents,noSectors,document.getElementById("history"),0,count_distinct_planet_battles,sector_data)}
   <div id="history" style="max-height: 500px; overflow-y: auto;">
 
   </div>

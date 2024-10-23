@@ -63,6 +63,7 @@ class DaysObject {
         this.galaxystatic = galaxystatic; // Assume mapping to PlanetStatic instances
     }
 }
+
 class Row {
     constructor({
         index = 0,

@@ -1,3 +1,4 @@
+import { format_minutes } from "./battle_tracker.js";
 function make_planet_battle_list(planets) {
     /**
      * Create an unordered list of planets with their respective events.
@@ -8,7 +9,8 @@ function make_planet_battle_list(planets) {
     for (const planet of planets) {
         const planetItem = document.createElement("li");
         const planetHeader = document.createElement("h3");
-        planetHeader.textContent = `${planet.name}`;
+        const minutes=format_minutes(planet.mins);
+        planetHeader.textContent = `${planet.name}, ${minutes}`;
         planetItem.appendChild(planetHeader);
 
         const eventList = document.createElement("ul");
@@ -31,6 +33,7 @@ function make_planet_battle_list(planets) {
 export function BattleList(
     history,
     showEvt,
+    noSectors,
     parentContainer,
     use,
     funct,
@@ -78,14 +81,46 @@ export function BattleList(
 
         // Generate battle sublists for each sector
         let data = Object.values(planetData);
+        data.sort((a, b) => a.mins - b.mins);
+        
         for (let index = 0; index < data.length; index++) {
+            console.log(index,data[index])
             let sector = data[index];
             let current = index === 0;
             generate_battle_sublist(sector, index, current, parentElement);
         }
     }
+    
 
-    populateGrid(distinctElements, parentContainer);
+    function populateGridPlanets(planetData, parentElement) {
+        // Remove all current children of the parent element
+        while (parentElement.firstChild) {
+            parentElement.removeChild(parentElement.firstChild);
+        }
+
+        // Generate battle sublists for each sector
+        let data = Object.values(planetData);
+        let planets_list=[];
+        for (const sector of data){
+            console.log(sector.planets);
+            let planets = Object.values(sector.planets);
+            if (planets.length !== 0) {
+                for (const planet of planets){
+                    console.log(planet);
+                    planets_list.push(planet);
+                }
+            }
+        }
+        planets_list.sort((a, b) => a.mins - b.mins);
+        console.log(planets_list);
+        let planetList = make_planet_battle_list(planets_list);
+
+        parentContainer.appendChild(planetList);        
+    }
+    
+    if (noSectors){ 
+        populateGridPlanets(distinctElements, parentContainer);
+    }else{    populateGrid(distinctElements, parentContainer);}
     return [];
 }
 
@@ -120,7 +155,9 @@ export function SectorBattleList(
         }
 
         const sectorHeader = document.createElement("h2");
-        sectorHeader.textContent = `${sector.name}`;
+        const minutes=format_minutes(sector.mins);
+        sectorHeader.textContent = `${sector.name}, accumulated ${minutes}`;
+        
         parentContainer.appendChild(sectorHeader);
 
         const eventList = document.createElement("ol");
