@@ -356,7 +356,7 @@ class BattleManager {
             if (value.planet !== null) {
                 let planet = value.planet;
                 let out=`(${calculateElapsedTime(value.start, new Date().getTime() / 1000)}, ongoing)`;
-                let timev=`${displayUTCTime(value.start) }onwards`;
+                let timev=`${displayUTCTime(value.start)} onwards`;
                 let battle = `${value.type} Battle ${value.pc} for ${planet[0]} ${out}: ${timev} `;
                 //let battle = `${value.type} Battle ${value.pc} for ${planet[0]}, ${displayUTCTime(value.start)} onwards `;
                 let mins=calculateMinutes(value.start, new Date().getTime() / 1000);
@@ -395,7 +395,7 @@ class BattleManager {
         for (let [key, value] of Object.entries(this.sector_battles)) {
             if (value.planet !== null) {
                 let out=`(${calculateElapsedTime(value.start, new Date().getTime() / 1000)}, ongoing)`;
-                let timev=`${displayUTCTime(value.start) }onwards`;
+                let timev=`${displayUTCTime(value.start)} onwards`;
                 let battle = `${value.sector} Battle ${value.pc} for ${value.sector} ${out}: ${timev} `;
                 let sector = value.sector;
                 
