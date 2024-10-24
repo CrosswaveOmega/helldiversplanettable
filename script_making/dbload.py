@@ -2,6 +2,11 @@ import sqlite3
 
 from typing import Any, Dict, List, Optional, Tuple, Union
 
+PlanetStatusDict = Dict[str, Dict[str, float]]
+
+PlanetStatusTimestamp = Dict[str, PlanetStatusDict]
+PlanetStatusDays = Dict[str, PlanetStatusTimestamp]
+
 
 def fetch_entries_by_timestamp(
     conn: sqlite3.Connection, timestamp: float
@@ -24,9 +29,7 @@ def fetch_entries_by_timestamp(
     return all_entries
 
 
-def fetch_entries_by_dayval(
-    conn: sqlite3.Connection, dayval: int
-) -> Dict[int, Dict[str, Dict[str, Any]]]:
+def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStatusDays:
     """Fetch all entries with the same dayval."""
     cursor = conn.cursor()
     print(f"FETCHING ALL VALUES FOR DAYVAL {dayval}")

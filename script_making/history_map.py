@@ -2,7 +2,7 @@ import logging
 from typing import Any, Dict, List, Tuple
 from script_making.format_utils import enote, faction_dict
 from script_making.models import DaysObject, PlanetState, GameEvent
-
+from script_making.dbload import PlanetStatusDict
 
 MAX_HOUR_DISTANCE = 6
 
@@ -111,7 +111,7 @@ def group_events_by_timestamp(days_out: DaysObject) -> List[List[GameEvent]]:
 
 
 def check_planet_stats_for_change(
-    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
+    planetclone: Dict[str, PlanetState], planetstats: PlanetStatusDict
 ) -> bool:
     """check if HP or decay changed"""
     decay_change = False
@@ -142,7 +142,7 @@ def check_planet_stats_for_change(
 
 
 def check_planet_stats_dict_for_change(
-    planetclone: Dict[str, Dict[str, Any]], planetstats: Dict[int, Dict[str, Any]]
+    planetclone: PlanetStatusDict, planetstats: PlanetStatusDict
 ) -> bool:
     """check if HP or decay changed"""
     decay_change = False
@@ -160,7 +160,8 @@ def check_planet_stats_dict_for_change(
                     hp_change = True
                     hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
             lastregen = planetclone[i]["regenPerSecond"]
-            if lastregen != float(v.get("regenPerSecond", 0)):
+            if float(lastregen) != float(v.get("regenPerSecond", 0)):
+                print(i, lastregen, float(v.get("regenPerSecond", 0)))
                 decay_change = True
                 newregen = v.get("regenPerSecond", 0)
                 decay_changed_on.append((i, v.get("owner", 0), newregen))

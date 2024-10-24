@@ -4,6 +4,7 @@ import aiohttp
 import urllib.request
 from datetime import datetime
 
+from script_making.dbload import PlanetStatusDict
 
 import os
 
@@ -27,7 +28,7 @@ def get_web_file():
         file.write(data)
 
 
-async def get_game_stat_at_time(timev: datetime) -> Dict[int, Dict[str, Any]]:
+async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
     """Request the game's status at the given datetime using the war history api."""
     try:
         current_time = timev.isoformat()

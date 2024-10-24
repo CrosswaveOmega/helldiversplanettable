@@ -150,8 +150,10 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
-
-* October 4nd, 2024
+* October 24th, 2024
+ * Battle tracker now displays total accumulated battle time.
+ * Decay Changes are fixed
+* October 4th, 2024
   * Refactored the battle tracker's formatting code.
 * October 2nd, 2024
   * Changed the primary website font to Chakra Petch, which looks much closer to the in game font.

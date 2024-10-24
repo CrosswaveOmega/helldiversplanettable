@@ -29,7 +29,11 @@ from script_making.json_file_utils import (
     load_event_types,
 )
 from script_making.logs import setup_logger
-from script_making.dbload import fetch_entries_by_dayval
+from script_making.dbload import (
+    fetch_entries_by_dayval,
+    PlanetStatusDict,
+    PlanetStatusDays,
+)
 
 
 import os
@@ -82,20 +86,23 @@ async def handle_monitoring(
     conn: sqlite3.Connection,
     event_set: List[GameEvent],
     newevents: List[GameEvent],
-    all_times_new: Dict[int, Any],
+    all_times_new: PlanetStatusDays,
     march_5th: datetime,
-    laststats: Dict[int, Any],
-):
+    laststats: PlanetStatusDict,
+) -> Tuple[PlanetStatusDict, List[GameEvent]]:
+    """
+    If the space between two logged events is too much, add events
+    which log the game's stats."""
     for evt in event_set:
         this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
         decay, hp = check_planet_stats_dict_for_change(laststats, this_check)
         if decay or hp:
             if decay:
                 outtext = handle_decay_events(decay)
-                #print("VALID DECAY B", evt.time, outtext)
                 evt.text = "" + "<br/>".join(outtext) + "\n"
                 evt.type = "decaychange"
             elif hp:
+                # whenever the lib% is divisible by 25
                 evt.text = "HP reached a checkpoint."
             newevents.append(evt)
             laststats = this_check.copy()
@@ -106,13 +113,14 @@ async def handle_planet_stats(
     conn: sqlite3.Connection,
     event: GameEvent,
     newevents: List[GameEvent],
-    all_times_new: Dict[int, Any],
+    all_times_new: PlanetStatusDays,
     march_5th: datetime,
-    laststats: Dict[int, Any],
-):
+    laststats: PlanetStatusDict,
+) -> Tuple[PlanetStatusDict, List[GameEvent]]:
     planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
     if decay:
+        print(decay)
         outtext = handle_decay_events(decay)
         ne = GameEvent(
             timestamp=event.timestamp,
@@ -131,9 +139,9 @@ async def process_war_history_launch(
     conn: sqlite3.Connection,
     event: GameEvent,
     newevents: List[GameEvent],
-    all_times_new: Dict[int, Any],
+    all_times_new: PlanetStatusDays,
     march_5th: datetime,
-):
+) -> Tuple[PlanetStatusDict, List[GameEvent]]:
     laststats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change({}, laststats)
     if decay:
@@ -157,12 +165,15 @@ async def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-    sector_dict={}
+
+    # map sectors to planets.
+    sector_dict = {}
     for key, planet in planets_Dict.items():
-        sect=planet['sector']
+        sect = planet["sector"]
         if not sect in sector_dict:
-            sector_dict[sect]=[]
-        sector_dict[sect].append(planet['name'])
+            sector_dict[sect] = []
+        sector_dict[sect].append(planet["name"])
+
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
     conn = sqlite3.connect(DATABASE_FILE)
     for k1 in planets_Dict2:
@@ -209,19 +220,18 @@ async def format_event_obj() -> None:
             monitoring = True
             march_5th = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
             laststats, newevents = await process_war_history_launch(
-                conn,event, newevents, all_times_new, march_5th
+                conn, event, newevents, all_times_new, march_5th
             )
-        if event.type=="clear_sector_links":
+        if event.type == "clear_sector_links":
             sectors_in_text = [sector for sector in sectors if sector in event.text]
-            ext=""
+            ext = ""
             for s, i in sector_dict.items():
                 if s in sectors_in_text:
-                    ext+=' '.join(i)
-            event.planet= get_planet(planets_Dict2, ext)
-            print(ext,event.planet)
-            #input()
-            event.type='clearlinks'
-            
+                    ext += " ".join(i)
+            event.planet = get_planet(planets_Dict2, ext)
+            print(ext, event.planet)
+            # input()
+            event.type = "clearlinks"
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
@@ -231,6 +241,7 @@ async def format_event_obj() -> None:
 
     days_out.events_all.extend(newevents)
     days_out.events_all.sort()
+
     save_json_data(
         "./src/data/gen_data/out2.json", days_out.model_dump(warnings="error")
     )
@@ -274,7 +285,7 @@ valid_waypoints = {0: []}
 
 
 async def get_planet_stats(
-    conn, ne: GameEvent, all_times_new: Dict[str, Dict[str, Any]], march_5th: datetime
+    conn, ne: GameEvent, all_times_new: PlanetStatusDays, march_5th: datetime
 ) -> Dict[int, Dict[str, Any]]:
     """Retrieve the current planet status if present."""
     timestamp = str(ne.timestamp)
@@ -324,7 +335,7 @@ async def get_planet_stats(
 
 
 def update_planet_stats(
-    planetclone: Dict[str, PlanetState], planetstats: Dict[int, Dict[str, Any]]
+    planetclone: Dict[str, PlanetState], planetstats: PlanetStatusDict
 ) -> None:
     """Update HP, regenPerSecond, and playercount"""
 
@@ -408,11 +419,11 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
 async def process_event(
     days_out: DaysObject,
     planets: Dict[str, PlanetState],
-    laststats: Dict[int, Dict[str, Any]],
+    laststats: PlanetStatusDict,
     event: GameEvent,
     index: int,
     store: Dict[str, str],
-    all_times_new: Dict[str, Dict[int, Dict[str, Any]]],
+    all_times_new: PlanetStatusDays,
 ) -> Dict[str, PlanetState]:
     """Process each event, extrapolating the current state of the game at each step."""
     if event.type and "Major Order" in event.type:
@@ -522,7 +533,7 @@ def update_planet_ownership(
         update_waypoints(event.planet, planetclone, add=False)
 
     if event.type == "clearlinks":
-        
+
         for name, ind in event.planet:
             planetclone[str(ind)].link = []
             for id2 in planetclone.keys():

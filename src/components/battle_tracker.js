@@ -19,7 +19,7 @@ function calculateMinutes(timestamp1,timestamp2){
 
 export function format_minutes(total_minutes) {
 
-    
+
     const weeks = Math.floor(total_minutes / ( 60 * 24 *7));
     const days = Math.floor(
         (total_minutes% ( 60 * 24 *7)) / ( 60 * 24)
@@ -29,14 +29,17 @@ export function format_minutes(total_minutes) {
     );
     const minutes = Math.floor((total_minutes % ( 60)));
 
-    if (days === 0) {
-        return `${hours}h ${minutes}m`;
-    }
-    if (weeks ===0){
-    return `${days}d ${hours}h ${minutes}m`;
-    }
-    return `${weeks}w ${days}d ${hours}h ${minutes}m`;
+
+    const parts = [];
+    if (weeks > 0) parts.push(`${weeks}w`);
+    if (days > 0) parts.push(`${days}d`);
+    if (hours > 0) parts.push(`${hours}h`);
+    if (minutes > 0) parts.push(`${minutes}m`);
+
+    return parts.join(' ');
 }
+
+
 function calculateElapsedTime(timestamp1, timestamp2) {
     const total_minutes=calculateMinutes(timestamp1,timestamp2)
     return format_minutes(total_minutes);
@@ -375,7 +378,7 @@ class BattleManager {
                     };
                 }
 
-                this.addToEntry(ongoing[sector].planets, planet, battle, null,mins,0);
+                this.addToEntry(ongoing[sector].planets, planet, battle, null,lastminutetotal);
             }
         }
         for (let [key, value] of Object.entries(this.sector_battles)) {

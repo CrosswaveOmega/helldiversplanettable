@@ -3136,7 +3136,6 @@ Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer su
  (2024-10-23 16:12  UTC)<br/>
 *Zefia* defense is failed (2024-10-23 19:31  UTC)<br/>
 ↳ *Zefia* liberation campaign starts (2024-10-23 19:31  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gacrux, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 19:31  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gacrux, Zefia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-10-23 19:31  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-23 21:57  UTC)<br/>
+ Decay: 1.5 on Zefia
+ (2024-10-23 21:57  UTC)<br/>
