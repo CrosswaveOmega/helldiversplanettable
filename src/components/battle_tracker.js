@@ -364,7 +364,6 @@ class BattleManager {
                     mins,
                 );
                 let lastminutetotal=this.planetTypes[value.sector].planets[planet[1]].mins
-                let lastminutetotal2=this.planetTypes[value.sector].planets[planet[1]].mins
                 
                 if (!ongoing[sector]) {
                     ongoing[sector] = {
@@ -376,7 +375,7 @@ class BattleManager {
                     };
                 }
 
-                this.addToEntry(ongoing[sector].planets, planet, battle, null,mins,lastminutetotal);
+                this.addToEntry(ongoing[sector].planets, planet, battle, null,mins,0);
             }
         }
         for (let [key, value] of Object.entries(this.sector_battles)) {
