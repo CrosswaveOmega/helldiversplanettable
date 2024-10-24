@@ -3139,3 +3139,10 @@ Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer su
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-23 21:57  UTC)<br/>
  Decay: 1.5 on Zefia
  (2024-10-23 21:57  UTC)<br/>
+ Decay: 0.0 on Pandion-XXIV
+ (2024-10-24 00:00  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-10-24 07:10  UTC)<br/>
+
+# Day: #260
+ Decay: 2.0 on Trandor, Partion, Phact Bay<br/> Decay: 0.0 on Aesir Pass<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 3.0 on Lesath<br/> Decay: 1.5 on Menkent
+ (2024-10-24 09:00  UTC)<br/>
