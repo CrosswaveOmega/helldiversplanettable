@@ -91,8 +91,8 @@ async def handle_monitoring(
     laststats: PlanetStatusDict,
 ) -> Tuple[PlanetStatusDict, List[GameEvent]]:
     """
-    If the space between two logged events is too much, add events
-    which log the game's stats."""
+    If the space between two logged events is too much, 
+    add events which log any changes made to the planet statuses."""
     for evt in event_set:
         this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
         decay, hp = check_planet_stats_dict_for_change(laststats, this_check)
