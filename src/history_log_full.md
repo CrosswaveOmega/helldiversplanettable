@@ -1457,7 +1457,7 @@ Major Order | Operation Destiny Manifested is won | Objective: Liberate (2024-06
 Dispatch: MAJOR ORDER WON. The Helldivers have cleansed the Terminids from many worlds, undoing much of the crisis forced upon our citizens by their mutated Supecolony. (2024-06-07 11:15  UTC)<br/>
  Decay: 2.0 on Automaton worlds<br/> Decay: 3.0 on Wasat<br/> Decay: 2.5 on Vega Bay, Wezen
  (2024-06-07 11:15  UTC)<br/>
-Major Order | Operation Valiant Resistance is issued | Objective: Liberate (2024-06-07 11:20  UTC)<br/>
+Major Order | Operation Database One Raid is issued | Objective: Liberate (2024-06-07 11:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Our analysts have identified a large Automaton Data Center, codenamed Database One, deep within Automaton territory. It is protected by exceptionally robust encryption protocols. Whatever data is stored there, much effort has been expended to keep it hidden. The Helldivers are ordered to liberate the planet, capturing Database One and allowing manual extraction of the data. (2024-06-07 11:20  UTC)<br/>
  Decay: 1.5 on Aesir Pass, Varylia 5
  (2024-06-07 11:20  UTC)<br/>
@@ -1487,7 +1487,7 @@ Dispatch: STRATEGIC GUIDANCE. *Super Earth* High Command advises all Helldivers 
  (2024-06-10 18:00  UTC)<br/>
 *Wasat* is liberated (2024-06-11 02:09  UTC)<br/>
 ↳ *Meissa* liberation campaign starts (2024-06-11 02:09  UTC)<br/>
-Major Order | Operation Valiant Resistance is won | Objective: Liberate (2024-06-11 08:35  UTC)<br/>
+Major Order | Operation Database One Raid is won | Objective: Liberate (2024-06-11 08:35  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Database One has been captured, and its encryption breached by intrepid SEAF Cyberwarfare Specialists. Consult the Galactic Map on your ship for more information. (2024-06-11 08:36  UTC)<br/>
 
 ### Day: #125
@@ -3141,8 +3141,34 @@ Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer su
  (2024-10-23 21:57  UTC)<br/>
  Decay: 0.0 on Pandion-XXIV
  (2024-10-24 00:00  UTC)<br/>
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-10-24 07:10  UTC)<br/>
+Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-10-24 07:06  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-10-24 07:09  UTC)<br/>
+Dispatch: SPORE SURGE. The Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets. (2024-10-24 07:10  UTC)<br/>
 
 # Day: #260
  Decay: 2.0 on Trandor, Partion, Phact Bay<br/> Decay: 0.0 on Aesir Pass<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 3.0 on Lesath<br/> Decay: 1.5 on Menkent
  (2024-10-24 09:00  UTC)<br/>
+ Decay: 2.9 on Lesath
+ (2024-10-24 10:00  UTC)<br/>
+*Gacrux* defense is failed (2024-10-24 16:03  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2024-10-24 16:03  UTC)<br/>
+↳ *Partion* liberation campaign ends (2024-10-24 16:03  UTC)<br/>
+ Decay: 1.0 on Gacrux
+ (2024-10-24 18:00  UTC)<br/>
+*Pandion-XXIV* defense is failed (2024-10-24 22:00  UTC)<br/>
+↳ *Gacrux* liberation campaign ends (2024-10-24 22:00  UTC)<br/>
+ Decay: 1.0 on Pandion-XXIV
+ (2024-10-25 00:00  UTC)<br/>
+*Aesir Pass* defense is failed (2024-10-25 07:14  UTC)<br/>
+↳ *Aesir Pass* liberation campaign starts (2024-10-25 07:14  UTC)<br/>
+Hydra sector is fully under Automaton control (2024-10-25 07:14  UTC)<br/>
+
+### Day: #261
+ Decay: 1.0 on Aesir Pass
+ (2024-10-25 09:00  UTC)<br/>
+*Lesath* is liberated (2024-10-25 13:09  UTC)<br/>
+↳ *Penta* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
+↳ Major Order | DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
+Dispatch: MAJOR ORDER WON. *Lesath* has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the Jet Brigade resurface, the station will be more well-protected from attack. The DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online. (2024-10-25 13:32  UTC)<br/>
