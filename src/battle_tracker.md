@@ -187,7 +187,21 @@ function count_distinct_planets_table(historydata, mode, {width}) {
 function formatBattleData() {
     
     const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
-    const jsonString = JSON.stringify(planetTypes, null, 2);
+    
+    let data = Object.values(planetData);
+    let planets_list={};
+    for (const sector of data){
+        console.log(sector.planets);
+        let planets = Object.values(sector.planets);
+        if (planets.length !== 0) {
+            for (const planet of planets){
+                console.log(planet);
+                planets_list[planet.index]=planet;
+            }
+        }
+    }
+
+    const jsonString = JSON.stringify(planets_list, null, 2);
 
     // Create a Blob from the JSON string
     const blob = new Blob([jsonString], { type: 'application/json' });
@@ -261,18 +275,19 @@ const noSectors= Generators.input(NoSectorBox);
 const getfileevent = () => {
   formatBattleData();
 };
-const ObservableButton = Inputs.button([["Download JSON of Battles.", getfileevent]]);
+const GetBattleJSONButton = Inputs.button([["Download JSON file with current battle log.", getfileevent]]);
 
 
 
 
 ```
+
+${GetBattleJSONButton}
 All Planet Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >
 ${showEventsBox}
 ${NoSectorBox}
-${ObservableButton}
 
 ${BattleList(historydata,showEvents,noSectors,document.getElementById("history"),0,count_distinct_planet_battles,sector_data)}
   <div id="history" style="max-height: 500px; overflow-y: auto;">
