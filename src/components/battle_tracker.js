@@ -1,3 +1,19 @@
+function getFactionName(owner) {
+    switch (owner) {
+        case 2:
+            return "Terminid";
+        case 3:
+            return "Automaton";
+        case 4:
+            return "Illuminate";
+        case 1:
+            return "Super Earth";
+        default:
+            return "Unknown";
+    }
+}
+
+
 function displayUTCTime(timestamp) {
     const date = new Date(parseInt(timestamp) * 1000);
     return date.toISOString().replace("T", " ").slice(0, 16);
@@ -190,6 +206,7 @@ class BattleManager {
         }
         if (logEntry.type === "planet flip") {
             this.planetTypes[sector].flips += 1;
+            this.planetFlip(planet, pid, event, sector,logEntry)
         }
         if (logEntry.type === "defense won") {
             this.defenseWon(planet, pid, event, sector);
@@ -286,7 +303,6 @@ class BattleManager {
         let out=`(${calculateElapsedTime(this.battles[pid].start, event.timestamp)}, victory)`;
         let timev=`${displayUTCTime(this.battles[pid].start)} to ${displayUTCTime(event.timestamp)}`;
         let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} for ${planet[0]} ${out}: ${timev};`;
-        
         let mins=calculateMinutes(this.battles[pid].start, event.timestamp);
         this.addToEntry(this.planetTypes[sector].planets, planet, battle, null,mins);
         this.addToEntry(this.planetTypes[sector].sub, planet, battle, null,mins);
@@ -294,6 +310,18 @@ class BattleManager {
         this.planetTypes[sector].win += 1;
         this.planetTypes[sector].planetwon += 1;
         this.planetTypes[sector].current -= 1;
+    }
+    planetFlip(planet, pid, event, sector,logEntry) {
+        if (!this.showEvts){
+            let faction=getFactionName(logEntry.faction);
+            let battle = `${planet[0]} flips to ${faction} Control: ${displayUTCTime(event.timestamp)} `;
+            this.addToEntry(
+                this.planetTypes[sector].planets,
+                planet,
+                battle,
+                null,
+            );
+        }
     }
 
     defenseWon(planet, pid, event, sector) {
@@ -483,6 +511,9 @@ class BattleManager {
         return { planetTypes: this.planetTypes, ongoing: ongoing };
     }
 }
+
+
+
 
 export function count_distinct_planet_battles(history, showEvts, sector_data) {
     /**

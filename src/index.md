@@ -150,6 +150,9 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
+* October 25th, 2024
+ * Battle tracker will now let you download a JSON copy of the current
+ * tracked battles.
 * October 24th, 2024
  * Battle tracker now displays total accumulated battle time.
  * Decay Changes are fixed
