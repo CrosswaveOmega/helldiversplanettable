@@ -188,7 +188,7 @@ function formatBattleData() {
     
     const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
     
-    let data = Object.values(planetData);
+    let data = Object.values(planetTypes);
     let planets_list={};
     for (const sector of data){
         console.log(sector.planets);
