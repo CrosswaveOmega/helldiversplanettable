@@ -3170,5 +3170,17 @@ Hydra sector is fully under Automaton control (2024-10-25 07:14  UTC)<br/>
 ↳ *Penta* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
-↳ Major Order | DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
+↳ Major Order | Operation DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Lesath* has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the Jet Brigade resurface, the station will be more well-protected from attack. The DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online. (2024-10-25 13:32  UTC)<br/>
+Major Order | Operation Liberty Day 2024 is issued | Objective: Control (2024-10-25 22:03  UTC)<br/>
+Dispatch: TODAY IS LIBERTY DAY. The most patriotic of holidays, and the only one with at least one full hour of time off for every *Super Earth* citizen, is finally here. Helldivers are encouraged to celebrate Managed Democracy to the best of their ability. Therefore, no order will guide their actions for the next 24 hours. High Command wishes all Helldivers a Democratic Liberty Day. (2024-10-25 22:03  UTC)<br/>
+Dispatch: LIBERTY DAY HAS ENDED. Another Liberty Day has come to an end. With the fervor of our cause freshly ignited, let us re-hoist our rifles, and carry on the valiant defense of our way of life. (2024-10-25 22:10  UTC)<br/>
+
+### Day: #262
+Major Order | Operation Liberty Day 2024 is won | Objective: Control (2024-10-26 22:05  UTC)<br/>
+
+### Day: #263
+ Decay: 0.0 on Gatria, Yed Prior
+ (2024-10-27 12:00  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-27 22:50  UTC)<br/>
+*Yed Prior* of the Tanis sector is attacked by Automatons (2024-10-27 22:50  UTC)<br/>
