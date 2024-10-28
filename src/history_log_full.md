@@ -265,7 +265,7 @@ Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Object
 *Kuper* - *The Weir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* of the Theseus sector instantly flips to Automaton control (2024-03-07 13:49  UTC)<br/>
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49  UTC)<br/>
-Major Order | Operation Patriot is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
+Major Order | Operation Patriot Mech is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate *Tien Kwan*, before its too late. (2024-03-07 14:29  UTC)<br/>
  Decay: 2.0 on Automaton worlds
  (2024-03-07 14:29  UTC)<br/>
@@ -289,7 +289,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  (2024-03-08 14:00  UTC)<br/>
 *Tien Kwan* is liberated (2024-03-08 15:48  UTC)<br/>
 ↳ Theseus sector is fully liberated (2024-03-08 15:48  UTC)<br/>
-↳ Major Order | Operation Patriot is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
+↳ Major Order | Operation Patriot Mech is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
  Decay: 6.5 on Automaton worlds
  (2024-03-08 15:48  UTC)<br/>
 Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (2024-03-08 15:51  UTC)<br/>
@@ -3180,7 +3180,12 @@ Dispatch: LIBERTY DAY HAS ENDED. Another Liberty Day has come to an end. With th
 Major Order | Operation Liberty Day 2024 is won | Objective: Control (2024-10-26 22:05  UTC)<br/>
 
 ### Day: #263
+*Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-27 10:50  UTC)<br/>
+*Yed Prior* of the Tanis sector is attacked by Automatons (2024-10-27 10:50  UTC)<br/>
  Decay: 0.0 on Gatria, Yed Prior
  (2024-10-27 12:00  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-27 22:50  UTC)<br/>
-*Yed Prior* of the Tanis sector is attacked by Automatons (2024-10-27 22:50  UTC)<br/>
+*Gatria* defense is won (2024-10-28 05:53  UTC)<br/>
+ Decay: 1.5 on Gatria
+ (2024-10-28 08:00  UTC)<br/>
+
+### Day: #264
