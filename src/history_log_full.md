@@ -2610,10 +2610,6 @@ Dispatch: TEMPORARY ARSENAL AUGMENTATION. While the supplies recovered by the He
  (2024-09-06 06:00  UTC)<br/>
 
 ### Day: #212
-*Yed Prior* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
-*Zefia* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
-*Clasa* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
-*Demiurg* of the Tanis sector's warp links are obliterated (2024-09-06 16:23  UTC)<br/>
 *Mastia* - *Gaellivare* warp link is added (2024-09-06 16:23  UTC)<br/>
 *Mastia* - *Shelt* warp link is added (2024-09-06 16:23  UTC)<br/>
 *Shallus* - *Mastia* warp link is added (2024-09-06 16:23  UTC)<br/>
@@ -2833,10 +2829,6 @@ Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* fr
 ### Day: #234
 Major Order | Operation Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs. The Helldivers are ordered to clear *Turing* of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS. (2024-09-28 18:35  UTC)<br/>
-*Achird III* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
-*Achernar Secundus* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
-*Darius II* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
-*Ursica XI* of the Borgus sector's warp links are obliterated (2024-09-28 20:50  UTC)<br/>
 *Ursica XI* - *Achird III* warp link is added (2024-09-28 20:54  UTC)<br/>
 *Darius II* - *Acamar IV* warp link is added (2024-09-28 20:54  UTC)<br/>
 *Achernar Secundus* - *Ursica XI* warp link is added (2024-09-28 20:54  UTC)<br/>
@@ -3189,3 +3181,29 @@ Major Order | Operation Liberty Day 2024 is won | Objective: Control (2024-10-26
  (2024-10-28 08:00  UTC)<br/>
 
 ### Day: #264
+*Yed Prior* defense is failed (2024-10-28 10:53  UTC)<br/>
+↳ *Zefia* liberation campaign ends (2024-10-28 10:53  UTC)<br/>
+ Decay: 1.5 on Yed Prior
+ (2024-10-28 12:00  UTC)<br/>
+*Blistica* - *Mintoria* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Blistica* - *Zzaniah Prime* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Mintoria* - *Zefia* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Yed Prior* - *Blistica* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Zosma* - *Zzaniah Prime* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Zzaniah Prime* - *Mintoria* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Minchir* of the Gellert sector's warp links are obliterated (2024-10-28 15:14  UTC)<br/>
+ Decay: 2.0 on Gacrux, Pandion-XXIV
+ (2024-10-28 15:14  UTC)<br/>
+*Blistica* of the Gellert sector is attacked by Automatons (2024-10-28 15:17  UTC)<br/>
+*Yed Prior* liberation campaign starts (2024-10-28 15:17  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2024-10-28 15:17  UTC)<br/>
+*Zefia* liberation campaign starts (2024-10-28 15:17  UTC)<br/>
+Major Order | Operation Database Two Raid/TRP Containment/Defend Automaton 5 is issued | Objective: Liberate/Control/Defend (2024-10-28 15:20  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to accomplish 3 objectives: capture an Automaton database containing critical intel regarding the Jet Brigade, re-secure the Terminid Research Preserve, and limit Automaton territorial expansion. (2024-10-28 15:38  UTC)<br/>
+ Decay: 0.0 on Blistica, Mintoria
+ (2024-10-28 15:38  UTC)<br/>
+
+### Day: #265
+*Phact Bay* is liberated (2024-10-29 11:17  UTC)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2024-10-29 11:17  UTC)<br/>
+↳ *Partion* liberation campaign starts (2024-10-29 11:17  UTC)<br/>
