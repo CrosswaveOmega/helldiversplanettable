@@ -3207,3 +3207,24 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to accomplish 3 objectives
 *Phact Bay* is liberated (2024-10-29 11:17  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2024-10-29 11:17  UTC)<br/>
 ↳ *Partion* liberation campaign starts (2024-10-29 11:17  UTC)<br/>
+*Mintoria* defense is failed (2024-10-29 15:21  UTC)<br/>
+↳ *Mintoria* liberation campaign starts (2024-10-29 15:21  UTC)<br/>
+↳ *Zefia* liberation campaign ends (2024-10-29 15:21  UTC)<br/>
+*Blistica* defense is failed (2024-10-29 15:21  UTC)<br/>
+↳ *Blistica* liberation campaign starts (2024-10-29 15:21  UTC)<br/>
+↳ *Yed Prior* liberation campaign ends (2024-10-29 15:21  UTC)<br/>
+ Decay: 1.5 on Blistica, Mintoria
+ (2024-10-29 16:00  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2024-10-29 18:00  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on MATAR BAY. (2024-10-29 18:00  UTC)<br/>
+ Decay: 0.0 on Marfark<br/> Decay: 0.5 on Matar Bay
+ (2024-10-29 20:00  UTC)<br/>
+*Matar Bay* is liberated (2024-10-30 04:49  UTC)<br/>
+↳ *Marfark* defense is auto-won via gambit (2024-10-30 04:49  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2024-10-30 04:49  UTC)<br/>
+ Decay: 0.5 on Marfark
+ (2024-10-30 06:00  UTC)<br/>
+
+### Day: #266
+*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2024-10-30 11:01  UTC)<br/>
+Dispatch: INVASION! The bots seek to add ZZANIAH PRIME to their despotic domain. We cannot allow this illegal territorial expansion. (2024-10-30 11:03  UTC)<br/>
