@@ -3228,3 +3228,6 @@ Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy
 ### Day: #266
 *Zzaniah Prime* of the Gellert sector is attacked by Automatons (2024-10-30 11:01  UTC)<br/>
 Dispatch: INVASION! The bots seek to add ZZANIAH PRIME to their despotic domain. We cannot allow this illegal territorial expansion. (2024-10-30 11:03  UTC)<br/>
+ Decay: 0.0 on Zzaniah Prime
+ (2024-10-30 12:00  UTC)<br/>
+*Zzaniah Prime* defense is won (2024-10-31 03:10  UTC)<br/>
