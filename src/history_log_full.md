@@ -10,7 +10,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 # Day: #1
-Major Order | Operation Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
+Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
 *Heeth* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Angel's Venture* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Malevelon Creek* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
@@ -34,12 +34,12 @@ Major Order | Operation Valiant Enclosure is issued | Objective: Liberate (2024-
 ↳ Orion sector is fully liberated (2024-02-14 14:07  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
-↳ Major Order | Operation Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
+↳ Major Order | Operation A1-2-1 Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
 
 ### Day: #8
 *Mantes* of the Xzar sector is attacked by Automatons (2024-02-15 12:00  UTC)<br/>
 *Draupnir* of the Xzar sector is attacked by Automatons (2024-02-15 12:08  UTC)<br/>
-Major Order | Operation Bulwark is issued | Objective: Defend (2024-02-15 12:17  UTC)<br/>
+Major Order | Operation A1-2-2 Automaton Defend 8 is issued | Objective: Defend (2024-02-15 12:17  UTC)<br/>
 
 ### Day: #9
 *Ubanea* is liberated (2024-02-16 23:33  UTC)<br/>
@@ -139,10 +139,10 @@ Major Order | Operation Bulwark is issued | Objective: Defend (2024-02-15 12:17 
 ### Day: #22
 *Ingmar* defense is failed (2024-02-29 14:54  UTC)<br/>
 ↳ *Ingmar* liberation campaign starts (2024-02-29 14:54  UTC)<br/>
-Major Order | Operation Bulwark is failed | Objective: Defend (2024-02-29 15:27  UTC)<br/>
+Major Order | Operation A1-2-2 Automaton Defend 8 is failed | Objective: Defend (2024-02-29 15:27  UTC)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-02-29 15:28  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2024-02-29 15:28  UTC)<br/>
-Major Order | Operation *Veld* Containment is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
+Major Order | Operation A1-2-3 *Veld* Containment is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
 
 ### Day: #23
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
@@ -150,8 +150,8 @@ Major Order | Operation *Veld* Containment is issued | Objective: Liberate (2024
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-03-01 15:51  UTC)<br/>
 *Veld* is liberated (2024-03-01 20:28  UTC)<br/>
-↳ Major Order | Operation *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
-Major Order | Operation Defense of *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
+↳ Major Order | Operation A1-2-3 *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
+Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-03-01 21:04  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-03-01 21:04  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-03-01 21:04  UTC)<br/>
@@ -256,7 +256,7 @@ Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning h
 
 ### Day: #29
 Dispatch: The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset. (2024-03-07 12:15  UTC)<br/>
-Major Order | Operation Defense of *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
+Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
 *Tien Kwan* - *Draupnir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* - *Castor* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Castor* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
@@ -3198,7 +3198,7 @@ Major Order | Operation Liberty Day 2024 is won | Objective: Control (2024-10-26
 *Yed Prior* liberation campaign starts (2024-10-28 15:17  UTC)<br/>
 *Mintoria* of the Gellert sector is attacked by Automatons (2024-10-28 15:17  UTC)<br/>
 *Zefia* liberation campaign starts (2024-10-28 15:17  UTC)<br/>
-Major Order | Operation Database Two Raid/TRP Containment/Defend Automaton 5 is issued | Objective: Liberate/Control/Defend (2024-10-28 15:20  UTC)<br/>
+Major Order | Operation High Priority Objectives is issued | Objective: Liberate/Control/Defend (2024-10-28 15:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to accomplish 3 objectives: capture an Automaton database containing critical intel regarding the Jet Brigade, re-secure the Terminid Research Preserve, and limit Automaton territorial expansion. (2024-10-28 15:38  UTC)<br/>
  Decay: 0.0 on Blistica, Mintoria
  (2024-10-28 15:38  UTC)<br/>
@@ -3231,3 +3231,22 @@ Dispatch: INVASION! The bots seek to add ZZANIAH PRIME to their despotic domain.
  Decay: 0.0 on Zzaniah Prime
  (2024-10-30 12:00  UTC)<br/>
 *Zzaniah Prime* defense is won (2024-10-31 03:10  UTC)<br/>
+ Decay: 500.0 on Zzaniah Prime
+ (2024-10-31 04:00  UTC)<br/>
+
+### Day: #267
+*Demiurg* of the Tanis sector is attacked by Automatons (2024-10-31 15:39  UTC)<br/>
+Dispatch: INVASION! The Automatons have launched yet another cowardly assault, this time on DEMIURG. We cannot allow it to fall into their metallic hands. (2024-10-31 17:24  UTC)<br/>
+ Decay: 0.0 on Demiurg
+ (2024-10-31 17:24  UTC)<br/>
+*Pandion-XXIV* is liberated (2024-11-01 08:49  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2024-11-01 08:49  UTC)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-11-01 08:49  UTC)<br/>
+*Acamar IV* liberation campaign ends (2024-11-01 08:50  UTC)<br/>
+
+### Day: #268
+*Demiurg* defense is won (2024-11-01 12:32  UTC)<br/>
+ Decay: 500.0 on Demiurg
+ (2024-11-01 14:00  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2024-11-01 16:01  UTC)<br/>
+Dispatch: INVASION! The Automatons are attempting to steal CLAORELL from our noble citizens. Do not let them, Helldivers. (2024-11-01 16:02  UTC)<br/>
