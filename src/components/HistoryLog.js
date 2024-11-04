@@ -108,6 +108,34 @@ export function pieChart(
     return Object.assign(svg.node(), { scales: { color } });
 }
 
+
+function splitPlanetName(name, maxLength = 10) {
+    /**
+     * Splits a planet name at the closest space character to the middle of the name string.
+     *
+     * @param {string} name - The planet name to split.
+     * @param {number} [maxLength=10] - The maximum length before attempting a split.
+     * @returns {string} - The possibly split planet name.
+     */
+
+    if (name.length <= maxLength) return name;
+
+    const middle = Math.floor(name.length / 2);
+    let leftSpace = name.lastIndexOf(" ", middle);
+    let rightSpace = name.indexOf(" ", middle);
+
+    //Select the closest space to the center of the string.
+    const splitIndex =
+        leftSpace === -1 ? rightSpace :
+        (rightSpace === -1 || middle - leftSpace <= rightSpace - middle) ? leftSpace : rightSpace;
+
+    if (splitIndex !== -1) {
+        return name.slice(0, splitIndex) + "\n" + name.slice(splitIndex + 1);
+    }
+    return name; 
+}
+
+
 function getColor(owner) {
     switch (owner) {
         case 2:
@@ -297,6 +325,12 @@ function x_c(x) {
 }
 function y_c(y) {
     return -y; //*-2000+2000;
+}
+function planet_size(p,s1,s2){
+    if (p.index==0){
+        return s1;
+    }
+    return s2
 }
 function get_percent(hp) {
     /**
@@ -574,6 +608,156 @@ export function makeplot(
             ),
         ],
         tip: true,
+    });
+
+    return plot;
+}
+
+
+export function makeplotcurrent(
+    history,
+    gstates,
+    planetimages,
+    target,
+
+    world,
+    { width, htarget, ttarget, atarget, showImages = true },
+) {
+    let slider=history.events.length - 1;
+    let current_event = history.events[slider];
+
+    const small=48;
+    const big=128;
+
+
+    //let planets=current_event.galaxystate;
+    let galaxy_time = current_event.eind;
+
+    console.log(planetimages);
+    console.log(slider, galaxy_time);
+
+    const sectorValuesMap = new Map();
+    let galaxystate = {}; //gstates.states[String(galaxy_time)];
+    for (const [planet, values] of Object.entries(gstates.gstatic)) {
+        galaxystate[planet] = {};
+        for (const [key, value] of Object.entries(values)) {
+            galaxystate[planet][key] = value;
+        }
+        for (const element of gstates.gstate[planet]) {
+            if (element.eind <= galaxy_time) {
+                for (const [k, v] of Object.entries(element)) {
+                    galaxystate[planet][k] = v;
+                }
+            }
+        }
+
+        galaxystate[planet]["ta"] = DECODE(galaxystate[planet]["t"]);
+
+        if (!("link2" in galaxystate[planet])) {
+            galaxystate[planet]["link"] = [];
+        } else {
+            let lastlink = galaxystate[planet]["link2"];
+            galaxystate[planet]["link"] = gstates.links[String(lastlink)];
+        }
+        let sector = galaxystate[planet].sector
+            .replace(/[^a-zA-Z]/g, "")
+            .toLowerCase();
+
+
+        //Sector Values
+        if (sectorValuesMap.has(sector)) {
+            const existingColor = d3.color(sectorValuesMap.get(sector));
+            const newColor = d3.color(getSectorColor(galaxystate[planet].ta[0]));
+
+            const averagedColor = d3
+                .rgb(
+                    (existingColor.r + newColor.r) / 2,
+                    (existingColor.g + newColor.g) / 2,
+                    (existingColor.b + newColor.b) / 2,
+                    (existingColor.opacity + newColor.opacity) / 2
+                )
+                .formatRgb();
+
+            sectorValuesMap.set(sector, averagedColor);
+        } else {
+            sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
+        }
+    }
+    //Link is in gstates[]
+    const waypoints = Object.values(galaxystate).flatMap((x) =>
+        Array.isArray(x.link)
+            ? x.link.map((y) => ({
+                  from: x.position,
+                  to: galaxystate[y].position,
+              }))
+            : [],
+    );
+
+    let planets = Object.values(galaxystate);
+
+    planets.push({'index':-3,'name':'MARS','biome':'sandy_tutorial',position:{'x':0.03,'y':0.05}})
+
+    width=4000; 
+    let plot = Plot.plot({
+        width: width,
+        aspectRatio: 1,
+        height: width,
+        projection: { type: "identity", domain: world },
+        marks: [
+            Plot.geo(world, {
+                stroke: "#c0c0c0",
+                strokeWidth: width / 1000,
+            }),
+
+            Plot.dot(planets, {
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
+                r: 5,
+                fill: (p) => "#999999",
+                opacity: 1.0,
+            }),
+
+            Plot.link(waypoints, {
+                x1: (p) => x_c(p.from.x),
+                y1: (p) => y_c(p.from.y),
+                x2: (p) => x_c(p.to.x),
+                y2: (p) => y_c(p.to.y),
+                stroke: "#CCCCCC",
+                inset: width / 110,
+                strokeWidth: width / 2000,
+            }),
+            showImages
+                ? Plot.image(planets, {
+                      x: (p) => x_c(p.position.x),
+                      y: (p) => y_c(p.position.y),
+                      width:(p) =>  planet_size(p,big,small),
+                      height:(p) =>  planet_size(p,big,small),
+                      src: (p) => {
+                          console.log(p.biome);
+                          return planetimages[
+                              "" + p.biome + ".webp"
+                          ].base64_image;
+                      },
+                  })
+                : null,
+
+
+            Plot.text(
+                planets,
+                {
+                    x: (p) => x_c(p.position.x),
+                    y: (p) => y_c(p.position.y),
+                    text: (p) => splitPlanetName(p.name),
+                    dy:32,
+                    textAnchor: "bottom",
+                    fill: "white",
+                    stroke: "black",
+                    fontSize:20,
+                    strokeWidth: 3,
+                },
+                {},
+            )
+        ],
     });
 
     return plot;

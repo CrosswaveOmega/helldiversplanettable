@@ -24,6 +24,7 @@ class GameEvent(BaseModel):
     planet: Optional[List[Tuple[str, str]]] = Field(alias="planet", default=[])
 
     mo: Optional[str] = Field(alias="mo", default=None)
+    mo_id:  Optional[str] = Field(alias="mo_id", default=None)
     mo_name: Optional[str] = Field(alias="mo_name", default=None)
     mo_case: Optional[str] = Field(alias="mo_case", default=None)
     mo_objective: Optional[str] = Field(alias="type", default=None)

@@ -1,4 +1,5 @@
 import json
+import re
 from typing import Any, Dict, List, Optional, Tuple
 from datetime import datetime, timezone, timedelta
 import os
@@ -430,11 +431,15 @@ async def process_event(
         result = extract_mo_details(event.text or "")
         if result:
             type_, name, case, objective = result
+            pattern = r"(A\d+-(?:1[0-2]|[1-9])-\d+)"
             event.mo_name = name
+            matches = re.findall(pattern, name)
+            for match in matches:
+                event.mo_id=match
             event.mo_case = case
             event.mo_objective = objective
             store["mo"] = (
-                f"{name}, {objective}" if case == "is issued" else "Awaiting orders"
+                f"{event.mo_id}, {name}, {objective}" if case == "is issued" else "Awaiting orders"
             )
 
     event.mo = store.get("mo", "")

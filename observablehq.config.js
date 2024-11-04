@@ -13,6 +13,7 @@ export default {
             pages: [
                 { name: "Planet Table", path: "/planet_table" },
                 { name: "Planet Charts", path: "/index2" },
+                { name: "Current Map", path: "/current_map" },
             ],
         },
         {
