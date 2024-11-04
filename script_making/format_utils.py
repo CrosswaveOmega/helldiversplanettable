@@ -124,7 +124,7 @@ def make_day_obj(text: str) -> None:
                     GameEvent(
                         text=f"Day #{daykey} Start",
                         timestamp=timestamp.timestamp(),
-                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                        time=timestamp.strftime("%Y-%m-%d %H:%M"),
                         day=int(daykey),
                     )
                 )
@@ -138,7 +138,7 @@ def make_day_obj(text: str) -> None:
                     GameEvent(
                         text=match.group("text"),
                         timestamp=timestamp.timestamp(),
-                        time=timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                        time=timestamp.strftime("%Y-%m-%d %H:%M"),
                         day=day,
                     )
                 )
