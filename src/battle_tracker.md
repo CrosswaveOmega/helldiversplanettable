@@ -187,83 +187,6 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   });
 }
 
-function formatBattleData() {
-    
-    const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
-    
-    let data = Object.values(planetTypes);
-    let planets_list={};
-    for (const sector of data){
-        console.log(sector.planets);
-        let planets = Object.values(sector.planets);
-        if (planets.length !== 0) {
-            for (const planet of planets){
-                console.log(planet);
-                planets_list[planet.index]=planet;
-            }
-        }
-    }
-
-    const jsonString = JSON.stringify(planets_list, null, 2);
-
-    // Create a Blob from the JSON string
-    const blob = new Blob([jsonString], { type: 'application/json' });
-
-    // Create a URL for the Blob
-    const url = URL.createObjectURL(blob);
-
-    // Create an anchor element and set attributes for download
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'battle_tracker_data.json';
-
-    // Append the anchor to the body
-    document.body.appendChild(a);
-
-    // Programmatically click the anchor to trigger the download
-    a.click();
-
-    // Remove the anchor from the document
-    document.body.removeChild(a);
-
-    // Revoke the object URL to free resources
-    URL.revokeObjectURL(url);
-}
-
-function formatHistory() {
-    
-    let planets_list=SimplifyHistory(historydata)
-
-
-    const jsonString = JSON.stringify(planets_list, null, 2);
-
-    // Create a Blob from the JSON string
-    const blob = new Blob([jsonString], { type: 'application/json' });
-
-    // Create a URL for the Blob
-    const url = URL.createObjectURL(blob);
-
-    // Create an anchor element and set attributes for download
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'simple_historu.json';
-
-    // Append the anchor to the body
-    document.body.appendChild(a);
-
-    // Programmatically click the anchor to trigger the download
-    a.click();
-
-    // Remove the anchor from the document
-    document.body.removeChild(a);
-
-    // Revoke the object URL to free resources
-    URL.revokeObjectURL(url);
-}
-
-
-
-
 const entry_sums=sum_entries_by_front(historydata);
 ```
 
@@ -308,23 +231,10 @@ const showEvents= Generators.input(showEventsBox);
 const NoSectorBox = Inputs.toggle({label: "Don't Show Sectors", value: false});
 
 const noSectors= Generators.input(NoSectorBox);
-const getfileevent = () => {
-  formatBattleData();
-};
-const GetBattleJSONButton = Inputs.button([["Download JSON file with current battle log.", getfileevent]]);
-
-const getfileevent2 = () => {
-  formatHistory();
-};
-const GetHistoryJSON = Inputs.button([["Download JSON file with full history log", getfileevent2]]);
-
 
 
 ```
 
-${GetBattleJSONButton}
-
-${GetHistoryJSON}
 All Planet Battles
 <div class="grid grid-cols-1">
 <div class="card big grid-colspan-2" >

@@ -43,6 +43,8 @@ export default {
             pages: [
                 { name: "About", path: "/report" },
                 { name: "Galactic War Guide", path: "/galacticwarguide" },
+                { name: "Get JSON History Data", path: "/get_game_data" },
+                
             ],
         },
     ],
