@@ -145,14 +145,14 @@ const getfileevent = () => {
 };
 
 
-const GetBattleJSONButton = Inputs.button([["Download JSON file with current battle log.", getfileevent]], { label : 'GetBattleJSONButton' });
+const GetBattleJSONButton = Inputs.button([["Planet Battle Tracker JSON file", getfileevent]], { label : 'GetBattleJSONButton' });
 
 const getfileevent2 = () => {
   formatHistory();
 };
 
 
-const GetHistoryJSON = Inputs.button([["Download JSON file with full history log", getfileevent2]], { label : 'GetHistoryJSON' });
+const GetHistoryJSON = Inputs.button([["War History Log JSON file", getfileevent2]], { label : 'GetHistoryJSON' });
 
 ```
 Get the JSON for the Planet Battles list.
