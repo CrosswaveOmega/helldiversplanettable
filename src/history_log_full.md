@@ -2451,7 +2451,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46  UTC)<br/>
  Decay: 500.0 on Socorro III
  (2024-08-27 11:46  UTC)<br/>
-Note: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall (2024-08-27 11:50  UTC)<br/>
+Note: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 ↳ *Enuliale* is now unobservable due to the Gloom (2024-08-27 11:50  UTC)<br/>
@@ -3289,3 +3289,12 @@ Major Order | Operation A1-11-1 DSS Staffing is issued | Objective: Defend/Contr
 Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS. Consult the Galactic Map on your ship for more information. (2024-11-04 15:01  UTC)<br/>
  Decay: 0.0 on Esker
  (2024-11-04 15:01  UTC)<br/>
+ Decay: 0.0 on Socorro III
+ (2024-11-04 16:00  UTC)<br/>
+
+### Day: #272
+*Esker* defense is won (2024-11-05 11:05  UTC)<br/>
+ Decay: 1.5 on Esker
+ (2024-11-05 12:00  UTC)<br/>
+*Socorro III* defense is failed (2024-11-05 15:03  UTC)<br/>
+↳ *Socorro III* liberation campaign (2024-11-05 15:03  UTC)<br/>
