@@ -3298,3 +3298,10 @@ Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it
  (2024-11-05 12:00  UTC)<br/>
 *Socorro III* defense is failed (2024-11-05 15:03  UTC)<br/>
 ↳ *Socorro III* liberation campaign (2024-11-05 15:03  UTC)<br/>
+ Decay: 2.5 on Socorro III
+ (2024-11-05 16:00  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2024-11-05 18:29  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-11-05 18:29  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Terminids (2024-11-05 18:33  UTC)<br/>
+ Decay: 0.0 on Fenrir III, Erata Prime
+ (2024-11-05 18:33  UTC)<br/>
