@@ -1,4 +1,14 @@
 
+function formatDateToYearMonth(dateString) {
+    const date = new Date(dateString);
+    if (!isNaN(date.getTime())) {
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        return `${year}-${month}`;
+    }
+    return null; // return null for invalid date strings
+}
+
 export function SimplifyHistory(history) {
     /**
      * Create the text for the event at index count inside parentCart
@@ -124,7 +134,13 @@ export function SimplifyHistory(history) {
             let ts=event.time;
             let text=createCard(event,null)
             if (text!==""){
-                simplified[ts]={'text':text,'mo':event.mo,'ts':event.timestamp}
+                let month=formatDateToYearMonth(ts);
+                if (!simplified[month]){
+                simplified[month]={}
+                }
+
+                
+                simplified[month][ts]={'text':text,'mo':event.mo,'ts':event.timestamp}
             }
             //const card = createCard(event, parentElement);
         }
