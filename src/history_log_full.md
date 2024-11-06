@@ -3313,3 +3313,4 @@ Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it
  Decay: 2.0 on Terminid worlds<br/> Decay: 1.0 on Fenrir III
  (2024-11-06 09:00  UTC)<br/>
 Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid for Helldivers who have recently come out of cryo-sleep: The Democracy Space Station is in its third construction phase. Before it can enter its activation phase, it must be fully staffed. The Helldivers are ordered to hold the designated planets while their citizens relocate to the DSS. Failure to hold these planets means staff must be recruited using standard processes, delaying the DSS. (2024-11-06 13:59  UTC)<br/>
+*Estanu* defense is won (2024-11-06 16:02  UTC)<br/>
