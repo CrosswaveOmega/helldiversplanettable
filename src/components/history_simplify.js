@@ -64,21 +64,21 @@ export function SimplifyHistory(history) {
                     if (planet!= null){
                         if (each.type === "campaign_end") {
                             //this.endCampaign(logEntry, planet, pid, event, sector);
-                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                            text=`${text}, ending ${planet} Battle ${battlecounter[planet]}`
                         }
                         if (each.type === "campaign_start") {
                             battlecounter[planet] += 1;
-                            text=`${text}, starting Battle ${battlecounter[planet]}`
+                            text=`${text}, starting ${planet} Battle ${battlecounter[planet]}`
                         }
                         if (each.type === "defense start") {
                             battlecounter[planet] += 1;
-                            text=`${text}, starting Battle ${battlecounter[planet]}`
+                            text=`${text}, starting ${planet} Battle ${battlecounter[planet]}`
                         }
                         if (
                             each.type === "planet won" ||
                             each.type === "planet superwon"
                         ) {
-                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                            text=`${text}, ending ${planet} Battle ${battlecounter[planet]}`
                             //this.planetWon(planet, pid, event, sector);
                         }
                         if (each.type === "planet flip") {
@@ -87,11 +87,11 @@ export function SimplifyHistory(history) {
                         }
                         if (each.type === "defense won") {
                             //this.defenseWon(planet, pid, event, sector);
-                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                            text=`${text}, ending ${planet} Battle ${battlecounter[planet]}`
                         }
                         if (each.type === "defense lost") {
                             //this.defenseLost(planet, pid, event, sector);
-                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                            text=`${text}, ending ${planet} Battle ${battlecounter[planet]}`
                         }
                     }
                         
