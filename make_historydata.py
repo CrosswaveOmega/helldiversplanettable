@@ -231,7 +231,6 @@ async def format_event_obj() -> None:
                     ext += " ".join(i)
             event.planet = get_planet(planets_Dict2, ext)
             print(ext, event.planet)
-            # input()
             event.type = "clearlinks"
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)

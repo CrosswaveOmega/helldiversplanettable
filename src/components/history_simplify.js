@@ -10,6 +10,7 @@ export function SimplifyHistory(history) {
      * @returns {string} - Empty string as a dummy return value.
      */
 
+    let battlecounter={};
     function createCard(entry, parentCard) {
         /**
          * Creates and appends a card created based on the game_event
@@ -22,7 +23,7 @@ export function SimplifyHistory(history) {
         let result = '';
 
         for (const each of entry.log) {
-            if (each.type === "Day Start") {
+            if (each.type === "Day Start" || each.type==="decaychange" || each.type==='monitor') {
                 // parentCard.appendChild(document.createElement("br"));
                 // const headingElement2 = document.createElement("h1");
                 // headingElement2.textContent = ` Day:#${entry.day}`;
@@ -45,7 +46,56 @@ export function SimplifyHistory(history) {
                     textElement.textContent = each.text;
                     parentCard.appendChild(textElement);
                     parentCard.appendChild(document.createElement("br")); */
-                    result += each.text+"\n";
+                    let text = each.text;
+                    const regexMatch = text.match(/(A\d+-(?:1[0-2]|[1-9])-\d+)/);
+                    if (regexMatch) {
+                        text = text.replace(regexMatch[0], `[[Major Orders#${regexMatch[0]}|${regexMatch[0]}]]`);
+                    }
+                    let planet=null;
+                    for (const planetval of each.planet) {
+                        planet = planetval[0];
+                        text = text.replace(new RegExp(planet, 'g'), `[[${planet}]]`);
+                    }
+
+                    if (!battlecounter[planet]) {
+                        battlecounter[planet] = 0;
+                    }
+                    
+                    if (planet!= null){
+                        if (each.type === "campaign_end") {
+                            //this.endCampaign(logEntry, planet, pid, event, sector);
+                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                        }
+                        if (each.type === "campaign_start") {
+                            battlecounter[planet] += 1;
+                            text=`${text}, starting Battle ${battlecounter[planet]}`
+                        }
+                        if (each.type === "defense start") {
+                            battlecounter[planet] += 1;
+                            text=`${text}, starting Battle ${battlecounter[planet]}`
+                        }
+                        if (
+                            each.type === "planet won" ||
+                            each.type === "planet superwon"
+                        ) {
+                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                            //this.planetWon(planet, pid, event, sector);
+                        }
+                        if (each.type === "planet flip") {
+                           // this.planetTypes[sector].flips += 1;
+                            //this.planetFlip(planet, pid, event, sector,logEntry)
+                        }
+                        if (each.type === "defense won") {
+                            //this.defenseWon(planet, pid, event, sector);
+                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                        }
+                        if (each.type === "defense lost") {
+                            //this.defenseLost(planet, pid, event, sector);
+                            text=`${text}, ending Battle ${battlecounter[planet]}`
+                        }
+                    }
+                        
+                    result += text+"\n";
                 }
             }
         }
@@ -74,7 +124,7 @@ export function SimplifyHistory(history) {
             let ts=event.time;
             let text=createCard(event,null)
             if (text!==""){
-                simplified[ts]={'text':text,'mo':event.mo}
+                simplified[ts]={'text':text,'mo':event.mo,'ts':event.timestamp}
             }
             //const card = createCard(event, parentElement);
         }
