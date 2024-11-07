@@ -3185,12 +3185,12 @@ Major Order | Operation A1-10-6 Liberty Day 2024 is won | Objective: Control (20
 ↳ *Zefia* liberation campaign ends (2024-10-28 10:53  UTC)<br/>
  Decay: 1.5 on Yed Prior
  (2024-10-28 12:00  UTC)<br/>
-*Blistica* - *Mintoria* supply line is added (2024-10-28 15:14  UTC)<br/>
-*Blistica* - *Zzaniah Prime* supply line is added (2024-10-28 15:14  UTC)<br/>
-*Mintoria* - *Zefia* supply line is added (2024-10-28 15:14  UTC)<br/>
-*Yed Prior* - *Blistica* supply line is added (2024-10-28 15:14  UTC)<br/>
-*Zosma* - *Zzaniah Prime* supply line is added (2024-10-28 15:14  UTC)<br/>
-*Zzaniah Prime* - *Mintoria* supply line is added (2024-10-28 15:14  UTC)<br/>
+*Blistica* - *Mintoria* warp link is added (2024-10-28 15:14  UTC)<br/>
+*Blistica* - *Zzaniah Prime* warp link is added (2024-10-28 15:14  UTC)<br/>
+*Mintoria* - *Zefia* warp link is added (2024-10-28 15:14  UTC)<br/>
+*Yed Prior* - *Blistica* warp link is added (2024-10-28 15:14  UTC)<br/>
+*Zosma* - *Zzaniah Prime* warp link is added (2024-10-28 15:14  UTC)<br/>
+*Zzaniah Prime* - *Mintoria* warp link is added (2024-10-28 15:14  UTC)<br/>
 *Minchir* of the Gellert sector's warp links are obliterated (2024-10-28 15:14  UTC)<br/>
  Decay: 2.0 on Gacrux, Pandion-XXIV
  (2024-10-28 15:14  UTC)<br/>
@@ -3277,12 +3277,12 @@ Dispatch: INTEL ADVISORY. Alerts from the Xenoentomology Center indicate imminen
 *Acamar IV* liberation campaign ends (2024-11-03 22:59  UTC)<br/>
 
 ### Day: #271
-*Azterra* - *Terrek* supply line is added (2024-11-04 14:59  UTC)<br/>
-*Terrek* - *Cirrus* supply line is added (2024-11-04 14:59  UTC)<br/>
-*Terrek* - *Bore Rock* supply line is added (2024-11-04 14:59  UTC)<br/>
-*Cirrus* - *Azterra* supply line is added (2024-11-04 14:59  UTC)<br/>
-*Heeth* - *Angel's Venture* supply line is added (2024-11-04 14:59  UTC)<br/>
-*Erata Prime* - *Bore Rock* supply line is added (2024-11-04 14:59  UTC)<br/>
+*Azterra* - *Terrek* warp link is added (2024-11-04 14:59  UTC)<br/>
+*Terrek* - *Cirrus* warp link is added (2024-11-04 14:59  UTC)<br/>
+*Terrek* - *Bore Rock* warp link is added (2024-11-04 14:59  UTC)<br/>
+*Cirrus* - *Azterra* warp link is added (2024-11-04 14:59  UTC)<br/>
+*Heeth* - *Angel's Venture* warp link is added (2024-11-04 14:59  UTC)<br/>
+*Erata Prime* - *Bore Rock* warp link is added (2024-11-04 14:59  UTC)<br/>
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
 Major Order | Operation A1-11-1 DSS Staffing is issued | Objective: Defend/Control (2024-11-04 15:00  UTC)<br/>
@@ -3314,3 +3314,26 @@ Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it
  (2024-11-06 09:00  UTC)<br/>
 Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid for Helldivers who have recently come out of cryo-sleep: The Democracy Space Station is in its third construction phase. Before it can enter its activation phase, it must be fully staffed. The Helldivers are ordered to hold the designated planets while their citizens relocate to the DSS. Failure to hold these planets means staff must be recruited using standard processes, delaying the DSS. (2024-11-06 13:59  UTC)<br/>
 *Estanu* defense is won (2024-11-06 16:02  UTC)<br/>
+*Erata Prime* defense is failed (2024-11-06 18:34  UTC)<br/>
+↳ *Erata Prime* liberation campaign starts (2024-11-06 18:34  UTC)<br/>
+ Decay: 1.5 on Estanu
+ (2024-11-06 18:34  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2024-11-06 18:47  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Terminids (2024-11-06 18:47  UTC)<br/>
+ Decay: 2.0 on Erata Prime
+ (2024-11-06 18:47  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Terminids (2024-11-06 18:48  UTC)<br/>
+ Decay: 0.0 on Esker, Heeth, Bore Rock
+ (2024-11-06 20:00  UTC)<br/>
+ Decay: 0.2 on Acamar IV
+ (2024-11-07 00:00  UTC)<br/>
+*Heeth* defense is won (2024-11-07 07:32  UTC)<br/>
+↳ Orion sector is fully liberated (2024-11-07 07:32  UTC)<br/>
+
+### Day: #274
+ Decay: 2.5 on Heeth
+ (2024-11-07 09:00  UTC)<br/>
+*Bore Rock* defense is won (2024-11-07 16:01  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Terminids (2024-11-07 17:16  UTC)<br/>
+ Decay: 1.5 on Bore Rock<br/> Decay: 0.4 on Acamar IV
+ (2024-11-07 17:16  UTC)<br/>
