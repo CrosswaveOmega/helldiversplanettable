@@ -3335,5 +3335,17 @@ Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid fo
  (2024-11-07 09:00  UTC)<br/>
 *Bore Rock* defense is won (2024-11-07 16:01  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-11-07 17:16  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2024-11-07 17:16  UTC)<br/>
  Decay: 1.5 on Bore Rock<br/> Decay: 0.4 on Acamar IV
  (2024-11-07 17:16  UTC)<br/>
+*Esker* defense is failed (2024-11-07 18:52  UTC)<br/>
+ Decay: 0.0 on Crimsica, Estanu<br/> Decay: 2.0 on Vernen Wells
+ (2024-11-07 18:52  UTC)<br/>
+ Decay: 1.5 on Esker
+ (2024-11-07 20:00  UTC)<br/>
+
+### Day: #275
+*Estanu* defense is won (2024-11-08 10:41  UTC)<br/>
+ Decay: 1.5 on Estanu
+ (2024-11-08 12:00  UTC)<br/>
+*Crimsica* defense is won (2024-11-08 16:45  UTC)<br/>
