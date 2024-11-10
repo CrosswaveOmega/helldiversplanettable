@@ -1858,7 +1858,7 @@ Dispatch: STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Und
 ### Day: #147
 Major Order | Operation A1-6-6 Jin Xi-Falstaff Lockdown is won | Objective: Control (2024-07-03 11:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With great effort, the Terminid expansion has been significantly limited by the actions of the Helldivers. Though the bugs now infest some once-beautiful worlds, many remain unblemished by tyranny, ready for Democratic settlement. Excising the infestation will be taxing, but will require far less expenditure of resources than our worst-case scenarios predicted. (2024-07-03 11:36  UTC)<br/>
-Major Order | Operation A1-7-1 Starslayer is issued | Objective: Control (2024-07-03 11:41  UTC)<br/>
+Major Order | Operation A1-7-1 Space Station Blueprints is issued | Objective: Control (2024-07-03 11:41  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The planet *X-45* is home to a lost Advanced Weapons Lab from the First Galactic War that was developing a powerful interplanetary battle station. Excavation of the Lab's work is underway. However, the Automatons have launched an assault to rout our forces in the Ymir Sector. It is imperative that *X-45* be held until the plans for the battle station are recovered. Consult the Galactic Map on your ship for more information. (2024-07-03 11:41  UTC)<br/>
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
 *Wezen* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
@@ -1960,7 +1960,7 @@ Dispatch: STRATEGIC UPDATE. Excavation of the Advanced Weapons Lab on *X-45* hav
  (2024-07-09 04:00  UTC)<br/>
 
 ### Day: #153
-Major Order | Operation A1-7-1 Starslayer is won | Objective: Control (2024-07-09 12:07  UTC)<br/>
+Major Order | Operation A1-7-1 Space Station Blueprints is won | Objective: Control (2024-07-09 12:07  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the valiant defense of the Helldivers of *X-45*, the plans for the interplanetary battle station have been received. Work completing this research will commence shortly. Remaining MLS-4X Commandos have been successfully shipped off-planet, enabling rapid production of the weapon. It will shortly be available for requisition fleetwide. Consult the Galactic Map on your ship for more information. (2024-07-09 12:07  UTC)<br/>
 
 ### Day: #154
@@ -2790,7 +2790,7 @@ Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probabil
 Major Order | Operation A1-9-4 Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39  UTC)<br/>
  Decay: 1.5 on Imber<br/> Decay: 3.0 on Gaellivare, Clasa
  (2024-09-24 15:39  UTC)<br/>
-Major Order | Operation A1-9-5 Starslayer Frontier is issued | Objective: Liberate (2024-09-24 16:00  UTC)<br/>
+Major Order | Operation A1-9-5 DSS Construction Site is issued | Objective: Liberate (2024-09-24 16:00  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08  UTC)<br/>
  Decay: 0.0 on Acamar IV, Claorell
@@ -2823,7 +2823,7 @@ Major Order | Operation A1-9-5 Starslayer Frontier is issued | Objective: Libera
  (2024-09-28 00:00  UTC)<br/>
 *Gaellivare* is liberated (2024-09-28 01:05  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-28 01:05  UTC)<br/>
-↳ Major Order | Operation A1-9-5 Starslayer Frontier is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
+↳ Major Order | Operation A1-9-5 DSS Construction Site is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (2024-09-28 01:14  UTC)<br/>
 
 ### Day: #234
@@ -3349,3 +3349,22 @@ Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid fo
  Decay: 1.5 on Estanu
  (2024-11-08 12:00  UTC)<br/>
 *Crimsica* defense is won (2024-11-08 16:45  UTC)<br/>
+Dispatch: PLANET DEFENDED. The bugs have been repelled from CRIMSICA. Citizens across the planet are holding celebrations in honor of the Helldivers' heroism. (2024-11-08 16:49  UTC)<br/>
+Dispatch: TEMPORARY ARSENAL AUGMENTATION. The ORBITAL NAPALM BARRAGE stratagem has been temporarily authorized for use by all Helldivers. (2024-11-08 16:50  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2024-11-08 18:00  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2024-11-08 20:39  UTC)<br/>
+ Decay: 2.5 on Vernen Wells
+ (2024-11-08 20:39  UTC)<br/>
+Dispatch: INVASION! The Terminids are attempting to spread to BORE ROCK. All Helldivers are called upon to deploy immediately to the planet's defense. (2024-11-08 21:01  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2024-11-08 21:01  UTC)<br/>
+
+### Day: #276
+*Bore Rock* defense is won (2024-11-09 16:25  UTC)<br/>
+ Decay: 1.0 on Esker, Erata Prime<br/> Decay: 3.0 on Vernen Wells<br/> Decay: 1.5 on Bore Rock, Partion
+ (2024-11-09 18:00  UTC)<br/>
+
+### Day: #277
+Major Order | Operation A1-11-1 DSS Staffing is won | Objective: Defend/Control (2024-11-10 15:26  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have managed to hold all designated planets, allowing their citizens to safely evacuate to the DSS. The DSS is now fully staffed, and the project has entered its final phase. As we look towards our bright future, we thank the Helldivers, whose hard work will soon allow the DSS to blast away all shadows. (2024-11-10 15:28  UTC)<br/>
