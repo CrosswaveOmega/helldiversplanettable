@@ -3392,3 +3392,11 @@ Automaton Jet Brigade deploys to guard *Vernen Wells* (2024-11-11 14:02  UTC)<br
  Decay: 5.0 on Vernen Wells
  (2024-11-11 14:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives. Haste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on *Vernen Wells*. An attack on the DSS Logistics Hub on *Tarsh* is likely imminent. If the Hub is seized, the DSS itself will be next. (2024-11-11 14:04  UTC)<br/>
+Automaton Jet Brigade retreats to replenish their numbers (2024-11-11 20:02  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Automatons (2024-11-11 20:03  UTC)<br/>
+Automaton Jet Brigade deploys to assist in the siege of *Tarsh* (2024-11-11 20:03  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on *Tarsh*. Intel indicates the Automatons are seeking the location of the DSS itself. The force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress. (2024-11-11 20:03  UTC)<br/>
+ Decay: 0.0 on Tarsh
+ (2024-11-11 22:00  UTC)<br/>
+
+### Day: #279
