@@ -40,6 +40,7 @@ async def fetch_planets_json() -> Any:
         "Content-Type": "application/json",
         "Accept": "application/json",
         "X-Super-Client": "stat_table_builder",
+        "X-Super-Contact": "taucetiv@gmail.com"
     }
 
     async with aiohttp.ClientSession() as session:
