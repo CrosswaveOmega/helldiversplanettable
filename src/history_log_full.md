@@ -3392,7 +3392,6 @@ Automaton Jet Brigade deploys to guard *Vernen Wells* (2024-11-11 14:02  UTC)<br
  Decay: 5.0 on Vernen Wells
  (2024-11-11 14:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives. Haste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on *Vernen Wells*. An attack on the DSS Logistics Hub on *Tarsh* is likely imminent. If the Hub is seized, the DSS itself will be next. (2024-11-11 14:04  UTC)<br/>
-Automaton Jet Brigade retreats to replenish their numbers (2024-11-11 20:02  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-11-11 20:03  UTC)<br/>
 Automaton Jet Brigade deploys to assist in the siege of *Tarsh* (2024-11-11 20:03  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on *Tarsh*. Intel indicates the Automatons are seeking the location of the DSS itself. The force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress. (2024-11-11 20:03  UTC)<br/>
@@ -3400,3 +3399,29 @@ Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on 
  (2024-11-11 22:00  UTC)<br/>
 
 ### Day: #279
+ Decay: 0.8 on Acamar IV
+ (2024-11-12 12:00  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2024-11-12 18:46  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2024-11-12 18:47  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Terminids (2024-11-12 18:48  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-11-12 18:48  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Terminids (2024-11-12 18:49  UTC)<br/>
+Dispatch: Emergency Alert. The Terminid Research Center has suffered a catastrophic security breach. A massive subterranean hive erupted underneath Tyranny Park, massacring visitors and staff. The cause is under investigation, but previous unresolved incursions into the planetary perimeter may have been a factor. The outbreak has spread to the surrounding planets, including the Xenoentomolgy Center on *Turing*. The Center has critical research data, and must be protected. (2024-11-12 18:50  UTC)<br/>
+*Hellmire* liberation campaign ends (2024-11-12 18:51  UTC)<br/>
+*Acamar IV* liberation campaign starts (2024-11-12 18:54  UTC)<br/>
+*Tarsh* defense is failed (2024-11-12 20:06  UTC)<br/>
+↳ *Tarsh* liberation campaign starts (2024-11-12 20:06  UTC)<br/>
+↳ Automaton Jet Brigade switches to guarding *Tarsh* (2024-11-12 20:06  UTC)<br/>
+ Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Acamar IV
+ (2024-11-12 20:06  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics Hub has been destroyed. Fortunately, the facility is no longer essential, and the defense held long enough to safely evacuate an acceptable number of its valued personnel. However, the Automatons have pinpointed the location of the DSS. The Jet Brigade will soon advance towards *Gaellivare*. (2024-11-12 20:27  UTC)<br/>
+ Decay: 4.5 on Tarsh<br/> Decay: 1.5 on Vernen Wells
+ (2024-11-12 20:27  UTC)<br/>
+*Mastia* of the Andromeda sector is attacked by Automatons (2024-11-13 05:11  UTC)<br/>
+Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:11  UTC)<br/>
+ Decay: 0.0 on Mastia
+ (2024-11-13 06:00  UTC)<br/>
+
+# Day: #280
+*Turing* defense is won (2024-11-13 10:48  UTC)<br/>
+↳ Umlaut sector is fully liberated (2024-11-13 10:48  UTC)<br/>
