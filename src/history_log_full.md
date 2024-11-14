@@ -3425,3 +3425,35 @@ Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:
 # Day: #280
 *Turing* defense is won (2024-11-13 10:48  UTC)<br/>
 ↳ Umlaut sector is fully liberated (2024-11-13 10:48  UTC)<br/>
+ Decay: 2.5 on Turing
+ (2024-11-13 12:00  UTC)<br/>
+*Crimsica* defense is failed (2024-11-13 18:50  UTC)<br/>
+↳ *Crimsica* liberation campaign starts (2024-11-13 18:50  UTC)<br/>
+*Darius II* defense is failed (2024-11-13 18:51  UTC)<br/>
+↳ *Darius II* liberation campaign starts (2024-11-13 18:51  UTC)<br/>
+*Pandion-XXIV* defense is failed (2024-11-13 18:52  UTC)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2024-11-13 18:52  UTC)<br/>
+*Gacrux* defense is failed (2024-11-13 18:53  UTC)<br/>
+ Decay: 1.5 on Crimsica<br/> Decay: 1.0 on Darius II<br/> Decay: 2.0 on Gacrux, Pandion-XXIV
+ (2024-11-13 20:00  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. SEAF reinforcements from *Lesath*, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice. (2024-11-14 00:01  UTC)<br/>
+DSS: Construction Phase Four is finished (2024-11-14 02:29  UTC)<br/>
+DSS: Democracy Space Station is activated (2024-11-14 02:29  UTC)<br/>
+ Decay: 0.0 on Gar Haren
+ (2024-11-14 02:29  UTC)<br/>
+Dispatch: DSS ONLINE. Helldivers can now collectively control the Democracy Space Station via the Galactic Map. Use it to defend our way of life and fight for Managed Democracy. (2024-11-14 02:37  UTC)<br/>
+Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is imminent. (2024-11-14 05:12  UTC)<br/>
+*Mastia* defense is failed (2024-11-14 05:14  UTC)<br/>
+↳ *Mastia* liberation campaign starts (2024-11-14 05:14  UTC)<br/>
+Automaton Jet Brigade switches to guarding *Mastia* (2024-11-14 07:21  UTC)<br/>
+ Decay: 1.5 on Mastia
+ (2024-11-14 07:21  UTC)<br/>
+
+### Day: #281
+ Decay: 4.0 on Mastia<br/> Decay: 1.5 on Tarsh
+ (2024-11-14 09:00  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Automatons (2024-11-14 11:19  UTC)<br/>
+Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaellivare*. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. (2024-11-14 11:30  UTC)<br/>
+ Decay: 0.0 on Gaellivare
+ (2024-11-14 12:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Hardworking laborers at the Deep Mantle Forge Complex have produced excess quantities of ORBITAL GAS STRIKE to aid in the defense against the Jet Brigade. The Stratagem will be automatically added to the loadout for all Helldivers for the near future. (2024-11-14 15:11  UTC)<br/>
