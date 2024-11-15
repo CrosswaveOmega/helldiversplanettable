@@ -2824,10 +2824,10 @@ Major Order | Operation A1-9-5 DSS Construction Site is issued | Objective: Libe
 *Gaellivare* is liberated (2024-09-28 01:05  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-28 01:05  UTC)<br/>
 ↳ Major Order | Operation A1-9-5 DSS Construction Site is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
-DSS: *Gaellivare* is established as a construction site (2024-09-28 01:08  UTC)<br/>
-DSS: Construction Phase One is started (2024-09-28 01:08  UTC)<br/>
+DSS *Gaellivare* is established as a construction site (2024-09-28 01:08  UTC)<br/>
+DSS Construction Phase One is started (2024-09-28 01:08  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (2024-09-28 01:14  UTC)<br/>
-DSS: *Tarsh* is established as a logistical hub site (2024-09-28 01:15  UTC)<br/>
+DSS *Tarsh* is established as a logistical hub site (2024-09-28 01:15  UTC)<br/>
 
 ### Day: #234
 Major Order | Operation A1-9-6 Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
@@ -2897,7 +2897,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 
 # Day: #240
 Major Order | Operation A1-9-6 Warp Drives is won | Objective: Control (2024-10-04 10:52  UTC)<br/>
-DSS: *Turing* is established as a construction resource site (2024-10-04 11:41  UTC)<br/>
+DSS *Turing* is established as a construction resource site (2024-10-04 11:41  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet safely held, ground has been broken on the Xenoentomology Center on *Turing*. *Super Earth*'s leading Terminid experts and FTL engineers from across the galaxy have converged on the planet, to develop High-Efficiency Alcubiere Drives. These new drives, once built, will enable the Democracy Space Station to warp between planets at the Helldivers' direction, dispensing Freedom anywhere it is required. (2024-10-04 11:48  UTC)<br/>
 Major Order | Operation A1-10-1 Embers of Steel is issued | Objective: Liberate (2024-10-04 13:12  UTC)<br/>
  Decay: 2.0 on Imber, Vog-Sojoth, Claorell<br/> Decay: 2.5 on Clasa
@@ -2923,7 +2923,7 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
 *Claorell* is liberated (2024-10-08 03:06  UTC)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-10-08 03:06  UTC)<br/>
 ↳ Major Order | Operation A1-10-1 Embers of Steel is won | Objective: Liberate (2024-10-08 03:06  UTC)<br/>
-DSS: *Claorell* is established as a construction resource site (2024-10-08 04:52  UTC)<br/>
+DSS *Claorell* is established as a construction resource site (2024-10-08 04:52  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager *Super Earth* miners ready to construct the Deep Mantle Forge Complex. (2024-10-08 04:53  UTC)<br/>
 
 ### Day: #244
@@ -2965,8 +2965,8 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
 ### Day: #247
 Major Order | Operation A1-10-2 *Claorell* Lockdown is won | Objective: Control/Defend (2024-10-11 13:53  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Claorell* has held, and the Automaton offensive rebuffed. The Deep Mantle Forge Complex has been completed, and has begun producing the cutting-edge alloy that will reinforce the hull of the Democracy Space Station. (2024-10-11 13:55  UTC)<br/>
-DSS: Construction Phase One is finished (2024-10-11 13:57  UTC)<br/>
-DSS: Construction Phase Two is started (2024-10-11 13:57  UTC)<br/>
+DSS Construction Phase One is finished (2024-10-11 13:57  UTC)<br/>
+DSS Construction Phase Two is started (2024-10-11 13:57  UTC)<br/>
 Major Order | Operation A1-10-3 Terminid Preserve is issued | Objective: Control (2024-10-11 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere Drives, the Helldivers are ordered to help establish a multi-planet Terminid Research Preserve on *Acamar IV*. The Helldivers are to clear and hold the surrounding planets in order to establish a quarantine. Inside the quarantine, Terminid specimens will be seeded inside tightly-controlled multi-acre facilities, where they can be studied by researchers as needed. (2024-10-11 15:08  UTC)<br/>
 *Acamar IV* of the Jin Xi sector instantly flips to Terminid Control (2024-10-11 15:11  UTC)<br/>
@@ -3062,7 +3062,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 
 ### Day: #254
 Major Order | Operation A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
-DSS: *Acamar IV* is established as a construction resource site (2024-10-18 09:38  UTC)<br/>
+DSS *Acamar IV* is established as a construction resource site (2024-10-18 09:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
 Automaton Legion debuts a new Assault Division: The Automaton Jet Brigade (2024-10-18 11:43  UTC)<br/>
 Automaton Jet Brigade deploys to guard *Choohe* (2024-10-18 11:43  UTC)<br/>
@@ -3171,8 +3171,8 @@ Hydra sector is fully under Automaton control (2024-10-25 07:14  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ Major Order | Operation A1-10-5 DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
-DSS: Construction Phase Two is finished (2024-10-25 13:32  UTC)<br/>
-DSS: Construction Phase Three is started (2024-10-25 13:32  UTC)<br/>
+DSS Construction Phase Two is finished (2024-10-25 13:32  UTC)<br/>
+DSS Construction Phase Three is started (2024-10-25 13:32  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Lesath* has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the Jet Brigade resurface, the station will be more well-protected from attack. The DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online. (2024-10-25 13:32  UTC)<br/>
 Major Order | Operation A1-10-6 Liberty Day 2024 is issued | Objective: Control (2024-10-25 22:03  UTC)<br/>
 Dispatch: TODAY IS LIBERTY DAY. The most patriotic of holidays, and the only one with at least one full hour of time off for every *Super Earth* citizen, is finally here. Helldivers are encouraged to celebrate Managed Democracy to the best of their ability. Therefore, no order will guide their actions for the next 24 hours. High Command wishes all Helldivers a Democratic Liberty Day. (2024-10-25 22:03  UTC)<br/>
@@ -3378,8 +3378,8 @@ Dispatch: INVASION! The Terminids are attempting to spread to BORE ROCK. All Hel
 ### Day: #277
 Major Order | Operation A1-11-1 DSS Staffing is won | Objective: Defend/Control (2024-11-10 15:26  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to hold all designated planets, allowing their citizens to safely evacuate to the DSS. The DSS is now fully staffed, and the project has entered its final phase. As we look towards our bright future, we thank the Helldivers, whose hard work will soon allow the DSS to blast away all shadows. (2024-11-10 15:28  UTC)<br/>
-DSS: Construction Phase Three is finished (2024-11-10 16:12  UTC)<br/>
-DSS: Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
+DSS Construction Phase Three is finished (2024-11-10 16:12  UTC)<br/>
+DSS Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
  Decay: 4.0 on Vernen Wells
  (2024-11-10 20:00  UTC)<br/>
 *Erata Prime* is liberated (2024-11-11 01:03  UTC)<br/>
@@ -3437,8 +3437,9 @@ Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:
  Decay: 1.5 on Crimsica<br/> Decay: 1.0 on Darius II<br/> Decay: 2.0 on Gacrux, Pandion-XXIV
  (2024-11-13 20:00  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. SEAF reinforcements from *Lesath*, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice. (2024-11-14 00:01  UTC)<br/>
-DSS: Construction Phase Four is finished (2024-11-14 02:29  UTC)<br/>
-DSS: Democracy Space Station is activated (2024-11-14 02:29  UTC)<br/>
+DSS Construction Phase Four is finished (2024-11-14 02:29  UTC)<br/>
+DSS is activated (2024-11-14 02:29  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2024-11-14 02:29  UTC)<br/>
  Decay: 0.0 on Gar Haren
  (2024-11-14 02:29  UTC)<br/>
 Dispatch: DSS ONLINE. Helldivers can now collectively control the Democracy Space Station via the Galactic Map. Use it to defend our way of life and fight for Managed Democracy. (2024-11-14 02:37  UTC)<br/>
@@ -3457,3 +3458,13 @@ Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaell
  Decay: 0.0 on Gaellivare
  (2024-11-14 12:00  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. Hardworking laborers at the Deep Mantle Forge Complex have produced excess quantities of ORBITAL GAS STRIKE to aid in the defense against the Jet Brigade. The Stratagem will be automatically added to the loadout for all Helldivers for the near future. (2024-11-14 15:11  UTC)<br/>
+ Decay: 3.0 on Mastia
+ (2024-11-14 18:00  UTC)<br/>
+DSS deploys to *Mastia* of the Marspira sector (2024-11-15 02:34  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating *Mastia* would end the current Automaton attack on *Gaellivare*. (2024-11-15 02:47  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2024-11-15 02:49  UTC)<br/>
+ Decay: 2.0 on Mastia
+ (2024-11-15 04:00  UTC)<br/>
+
+### Day: #282
+Dispatch: TEMPORARY DSS AUGMENTATION. High Command has authorized augmentations to Helldiver loadouts while the Planetary Bombardment Tactical Action is active, in order to ameliorate an unexpectedly steep increase in heroic sacrifices. This is a temporary change, while a full assessment of the optimal number of sacrifices is underway. Consult the DSS Interface on your Galactic Map for more details. (2024-11-15 16:05  UTC)<br/>
