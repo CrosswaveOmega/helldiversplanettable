@@ -3446,13 +3446,13 @@ Dispatch: DSS ONLINE. Helldivers can now collectively control the Democracy Spac
 Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is imminent. (2024-11-14 05:12  UTC)<br/>
 *Mastia* defense is failed (2024-11-14 05:14  UTC)<br/>
 ↳ *Mastia* liberation campaign starts (2024-11-14 05:14  UTC)<br/>
-Automaton Jet Brigade switches to guarding *Mastia* (2024-11-14 07:21  UTC)<br/>
+↳ Automaton Jet Brigade switches to guarding *Mastia* (2024-11-14 05:14  UTC)<br/>
  Decay: 1.5 on Mastia
- (2024-11-14 07:21  UTC)<br/>
+ (2024-11-14 06:00  UTC)<br/>
+ Decay: 4.0 on Mastia<br/> Decay: 1.5 on Tarsh
+ (2024-11-14 08:00  UTC)<br/>
 
 ### Day: #281
- Decay: 4.0 on Mastia<br/> Decay: 1.5 on Tarsh
- (2024-11-14 09:00  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-11-14 11:19  UTC)<br/>
 Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaellivare*. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. (2024-11-14 11:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
@@ -3461,10 +3461,28 @@ Dispatch: ARSENAL AUGMENTATION. Hardworking laborers at the Deep Mantle Forge Co
  Decay: 3.0 on Mastia
  (2024-11-14 18:00  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2024-11-15 02:34  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2024-11-15 02:34  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating *Mastia* would end the current Automaton attack on *Gaellivare*. (2024-11-15 02:47  UTC)<br/>
-DSS effect Planetary Bombardment is activated (2024-11-15 02:49  UTC)<br/>
  Decay: 2.0 on Mastia
  (2024-11-15 04:00  UTC)<br/>
 
 ### Day: #282
 Dispatch: TEMPORARY DSS AUGMENTATION. High Command has authorized augmentations to Helldiver loadouts while the Planetary Bombardment Tactical Action is active, in order to ameliorate an unexpectedly steep increase in heroic sacrifices. This is a temporary change, while a full assessment of the optimal number of sacrifices is underway. Consult the DSS Interface on your Galactic Map for more details. (2024-11-15 16:05  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2024-11-16 02:35  UTC)<br/>
+DSS effect Planetary Bombardment stops (2024-11-16 02:37  UTC)<br/>
+DSS effect Eagle Storm is activated (2024-11-16 02:39  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. In an unexpected but cunning move, the Helldivers have voted to send the DSS back to *Gaellivare* and activate its EAGLE STORM Tactical Action to hold the defense against the Jet Brigade. This development has led to operations upon *Mastia* possibly gaining sufficient time to complete, and thereby end the attack upon *Gaellivare* by taking out its point of origin. (2024-11-16 03:01  UTC)<br/>
+
+### Day: #283
+Automaton Jet Brigade retreats to replenish their numbers (2024-11-16 11:17  UTC)<br/>
+Automaton Jet Brigade deploys to assist in the siege of *Gaellivare* (2024-11-16 13:03  UTC)<br/>
+Major Order | Operation A1-11-2 DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
+Dispatch: MAJOR ORDER WON. *Gaellivare* has been held for the designated timeframe. However, the planet, and the DSS itself, remain imperiled. The fight is not over. High Command will monitor the situation. Further guidance will be issued once the fate of *Gaellivare* is decided—one way or the other. (2024-11-16 14:19  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2024-11-17 02:37  UTC)<br/>
+DSS effect Eagle Storm stops (2024-11-17 02:42  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-11-17 03:29  UTC)<br/>
+
+### Day: #284
+*Gaellivare* defense is failed (2024-11-17 11:22  UTC)<br/>
+↳ *Gaellivare* liberation campaign starts (2024-11-17 11:22  UTC)<br/>
+↳ Automaton Jet Brigade switches to guarding *Gaellivare* (2024-11-17 11:22  UTC)<br/>
