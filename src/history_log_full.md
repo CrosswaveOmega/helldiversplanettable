@@ -3486,3 +3486,16 @@ DSS effect Orbital Blockade is activated (2024-11-17 03:29  UTC)<br/>
 *Gaellivare* defense is failed (2024-11-17 11:22  UTC)<br/>
 ↳ *Gaellivare* liberation campaign starts (2024-11-17 11:22  UTC)<br/>
 ↳ Automaton Jet Brigade switches to guarding *Gaellivare* (2024-11-17 11:22  UTC)<br/>
+ Decay: 3.0 on Gaellivare
+ (2024-11-17 12:00  UTC)<br/>
+*Acamar IV* is liberated (2024-11-17 20:20  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2024-11-17 20:20  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2024-11-18 02:40  UTC)<br/>
+DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
+
+### Day: #285
+*Imber* of the Talus sector is attacked by Automatons (2024-11-18 16:09  UTC)<br/>
+Automaton Jet Brigade deploys to assist in the siege of *Imber* (2024-11-18 16:09  UTC)<br/>
+Major Order | Operation A-1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
+ Decay: 0.0 on Imber
+ (2024-11-18 16:53  UTC)<br/>
