@@ -3499,3 +3499,11 @@ Automaton Jet Brigade deploys to assist in the siege of *Imber* (2024-11-18 16:0
 Major Order | Operation A-1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
  Decay: 0.0 on Imber
  (2024-11-18 16:53  UTC)<br/>
+ Decay: 1.5 on Gaellivare, Vog-Sojoth, Clasa<br/> Decay: 1.0 on Martale
+ (2024-11-18 18:00  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. Fresh SEAF recruits, filled with patriotic fervor for the destruction of the Automatons, have surged to take significant ground on GAELLIVARE. (2024-11-18 20:01  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. The Airburst Rocket Launcher stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact. (2024-11-18 21:51  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Imber, Gar Haren<br/> Decay: 1.0 on Marspira sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-18 21:51  UTC)<br/>
+
+### Day: #286
