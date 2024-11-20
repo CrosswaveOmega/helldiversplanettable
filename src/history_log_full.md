@@ -3513,7 +3513,9 @@ Dispatch: ARSENAL AUGMENTATION. The Airburst Rocket Launcher stratagem has been 
  (2024-11-19 18:00  UTC)<br/>
 *Gaellivare* is liberated (2024-11-19 19:00  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Jet Brigade ceaseless aggression has trapped them! With the recent liberation of *Gaellivare*, the Jet Brigade find themselves caught on *Imber* without an adjacent escape route. Their reinforcements are finally wearing thin, this is an opportune time to strike. The Autocannon support weapon has been granted to all Helldivers on *Imber*. End them now, and find their staging ground later. (2024-11-19 21:53  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-19 22:00  UTC)<br/>
 
 ### Day: #287
+Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
+DSS *Acamar IV*'s construction resource site is lost (2024-11-20 16:41  UTC)<br/>
+*Imber* is liberated (2024-11-20 17:14  UTC)<br/>
+↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
