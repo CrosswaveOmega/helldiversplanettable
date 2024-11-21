@@ -3490,7 +3490,6 @@ DSS effect Orbital Blockade is activated (2024-11-17 03:29  UTC)<br/>
  (2024-11-17 12:00  UTC)<br/>
 *Acamar IV* is liberated (2024-11-17 20:20  UTC)<br/>
 ↳ *Gacrux* liberation campaign starts (2024-11-17 20:20  UTC)<br/>
-DSS deploys to *Imber* of the Talus sector (2024-11-18 02:40  UTC)<br/>
 DSS deploys to *Gaellivare* of the Talus sector (2024-11-18 02:40  UTC)<br/>
 DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
 
@@ -3513,9 +3512,17 @@ Dispatch: ARSENAL AUGMENTATION. The Airburst Rocket Launcher stratagem has been 
  (2024-11-19 18:00  UTC)<br/>
 *Gaellivare* is liberated (2024-11-19 19:00  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Jet Brigade ceaseless aggression has trapped them! With the recent liberation of *Gaellivare*, the Jet Brigade find themselves caught on *Imber* without an adjacent escape route. Their reinforcements are finally wearing thin, this is an opportune time to strike. The Autocannon support weapon has been granted to all Helldivers on *Imber*. End them now, and find their staging ground later. (2024-11-19 21:53  UTC)<br/>
+DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
 Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
 DSS *Acamar IV*'s construction resource site is lost (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
+Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2024-11-21 02:54  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-21 04:00  UTC)<br/>
+
+### Day: #288
+*Lesath* of the Lacaille sector is attacked by Automatons (2024-11-21 16:05  UTC)<br/>
