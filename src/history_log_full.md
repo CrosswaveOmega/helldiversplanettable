@@ -2897,7 +2897,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 
 # Day: #240
 Major Order | Operation A1-9-6 Warp Drives is won | Objective: Control (2024-10-04 10:52  UTC)<br/>
-DSS *Turing* is established as a construction resource site (2024-10-04 11:41  UTC)<br/>
+DSS *Turing* is established as a construction resource site, the Xenoentomology Center (2024-10-04 11:41  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet safely held, ground has been broken on the Xenoentomology Center on *Turing*. *Super Earth*'s leading Terminid experts and FTL engineers from across the galaxy have converged on the planet, to develop High-Efficiency Alcubiere Drives. These new drives, once built, will enable the Democracy Space Station to warp between planets at the Helldivers' direction, dispensing Freedom anywhere it is required. (2024-10-04 11:48  UTC)<br/>
 Major Order | Operation A1-10-1 Embers of Steel is issued | Objective: Liberate (2024-10-04 13:12  UTC)<br/>
  Decay: 2.0 on Imber, Vog-Sojoth, Claorell<br/> Decay: 2.5 on Clasa
@@ -2923,7 +2923,7 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
 *Claorell* is liberated (2024-10-08 03:06  UTC)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-10-08 03:06  UTC)<br/>
 ↳ Major Order | Operation A1-10-1 Embers of Steel is won | Objective: Liberate (2024-10-08 03:06  UTC)<br/>
-DSS *Claorell* is established as a construction resource site (2024-10-08 04:52  UTC)<br/>
+DSS *Claorell* is established as a construction resource site, the Deep Mantle Forge Complex (2024-10-08 04:52  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager *Super Earth* miners ready to construct the Deep Mantle Forge Complex. (2024-10-08 04:53  UTC)<br/>
 
 ### Day: #244
@@ -3062,7 +3062,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 
 ### Day: #254
 Major Order | Operation A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
-DSS *Acamar IV* is established as a construction resource site (2024-10-18 09:38  UTC)<br/>
+DSS *Acamar IV* is established as a construction resource site, the Terminid Research Preserve (2024-10-18 09:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
 Automaton Legion debuts a new Assault Division: The Automaton Jet Brigade (2024-10-18 11:43  UTC)<br/>
 Automaton Jet Brigade deploys to guard *Choohe* (2024-10-18 11:43  UTC)<br/>
@@ -3516,13 +3516,25 @@ DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
 Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
-DSS *Acamar IV*'s construction resource site is lost (2024-11-20 16:41  UTC)<br/>
+DSS *Acamar IV*'s construction resource site, the Terminid Research Preserve, is lost (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
 Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2024-11-21 02:54  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-21 04:00  UTC)<br/>
 
 ### Day: #288
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-11-21 16:05  UTC)<br/>
+*Crimsica* is liberated (2024-11-21 17:41  UTC)<br/>
+↳ *Fori Prime* liberation campaign starts (2024-11-21 17:41  UTC)<br/>
+ Decay: 0.0 on Lesath
+ (2024-11-21 17:41  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2024-11-22 02:57  UTC)<br/>
+
+### Day: #289
+*Lesath* defense is failed (2024-11-22 16:06  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2024-11-22 16:06  UTC)<br/>
+↳ *Vernen Wells* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
+↳ *Penta* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
+↳ *Chort Bay* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
+↳ *Menkent* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
+↳ Lacaille sector is fully under Automaton control (2024-11-22 16:06  UTC)<br/>
