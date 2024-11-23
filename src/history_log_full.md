@@ -3538,3 +3538,10 @@ DSS deploys to *Gar Haren* of the Jin Xi sector (2024-11-22 02:57  UTC)<br/>
 ↳ *Chort Bay* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
 ↳ *Menkent* liberation campaign ends (2024-11-22 16:06  UTC)<br/>
 ↳ Lacaille sector is fully under Automaton control (2024-11-22 16:06  UTC)<br/>
+ Decay: 1.5 on Lesath
+ (2024-11-22 18:00  UTC)<br/>
+*Gar Haren* is liberated (2024-11-22 19:17  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Voluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary SPEAR usage fleetwide. (2024-11-22 21:25  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-23 02:59  UTC)<br/>
+
+# Day: #290
