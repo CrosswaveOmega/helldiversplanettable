@@ -3545,3 +3545,7 @@ Dispatch: ARSENAL AUGMENTATION. Voluntary extended work hours by patriotic facto
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-23 02:59  UTC)<br/>
 
 # Day: #290
+DSS deploys to *Lesath* of the Lacaille sector (2024-11-24 03:02  UTC)<br/>
+
+### Day: #291
+Major Order | Operation A-1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
