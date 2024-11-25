@@ -3496,7 +3496,7 @@ DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
 ### Day: #285
 *Imber* of the Talus sector is attacked by Automatons (2024-11-18 16:09  UTC)<br/>
 Automaton Jet Brigade deploys to assist in the siege of *Imber* (2024-11-18 16:09  UTC)<br/>
-Major Order | Operation A-1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
+Major Order | Operation A1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
  Decay: 0.0 on Imber
  (2024-11-18 16:53  UTC)<br/>
  Decay: 1.5 on Gaellivare, Vog-Sojoth, Clasa<br/> Decay: 1.0 on Martale
@@ -3548,4 +3548,19 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-23 02:59  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2024-11-24 03:02  UTC)<br/>
 
 ### Day: #291
-Major Order | Operation A-1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
+Major Order | Operation A1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-11-25 03:47  UTC)<br/>
+*Fori Prime* liberation campaign ends (2024-11-25 07:23  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2024-11-25 07:26  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-11-25 07:27  UTC)<br/>
+
+### Day: #292
+ Decay: 0.0 on Fenrir III, Zzaniah Prime
+ (2024-11-25 09:00  UTC)<br/>
+*Lesath* is liberated (2024-11-25 15:17  UTC)<br/>
+↳ *Vernen Wells* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
+↳ *Penta* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
+Major Order | Operation A1-11-4 MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection. The Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons: -The M-105 Stalwart -The MG-43 Machine Gun -The MG-206 Heavy Machine Gun. The machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun. (2024-11-25 16:19  UTC)<br/>
