@@ -3564,3 +3564,8 @@ DSS effect Orbital Blockade is activated (2024-11-25 03:47  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
 Major Order | Operation A1-11-4 MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection. The Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons: -The M-105 Stalwart -The MG-43 Machine Gun -The MG-206 Heavy Machine Gun. The machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun. (2024-11-25 16:19  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
+
+### Day: #293
+*Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
+↳ Umlaut sector is fully liberated (2024-11-26 14:45  UTC)<br/>
