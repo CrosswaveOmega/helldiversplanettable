@@ -3569,3 +3569,15 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
 ### Day: #293
 *Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
 ↳ Umlaut sector is fully liberated (2024-11-26 14:45  UTC)<br/>
+ Decay: 1.0 on Fenrir III
+ (2024-11-26 18:00  UTC)<br/>
+DSS deploys to *Darius II* of the Borgus sector (2024-11-27 03:10  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Zzaniah Prime<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-27 04:00  UTC)<br/>
+*Zzaniah Prime* defense is failed (2024-11-27 07:31  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign starts (2024-11-27 07:31  UTC)<br/>
+↳ *Blistica* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
+↳ *Mintoria* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
+ Decay: 1.5 on Zzaniah Prime
+ (2024-11-27 10:00  UTC)<br/>
+Dispatch: MAJOR ORDER UPDATE. The Ministry of Defense Office of Weapon Efficacy has provided an update to its data collection request: A misplaced decimal led to an erroneously high volume of data to be requested. The required number of kills has been reduced to account for this error. Following the conclusion of the current review, the Office of Weapon Efficacy has ordered a full review of its decimal placement procedures. (2024-11-27 11:59  UTC)<br/>
