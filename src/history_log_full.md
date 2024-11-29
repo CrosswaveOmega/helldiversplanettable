@@ -3572,8 +3572,6 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2024-11-26 16:00  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2024-11-27 03:10  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Zzaniah Prime<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-27 04:00  UTC)<br/>
 *Zzaniah Prime* defense is failed (2024-11-27 07:31  UTC)<br/>
 ↳ *Zzaniah Prime* liberation campaign starts (2024-11-27 07:31  UTC)<br/>
 ↳ *Blistica* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
@@ -3587,6 +3585,20 @@ DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2024-11-28 03:13  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-28 04:00  UTC)<br/>
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-11-28 10:13  UTC)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-11-28 13:40  UTC)<br/>
  Decay: 0.0 on Bore Rock
- (2024-11-28 13:40  UTC)<br/>
+ (2024-11-28 12:00  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-11-28 13:40  UTC)<br/>
+ Decay: 0.0 on Matar Bay
+ (2024-11-28 14:00  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-29 03:16  UTC)<br/>
+Major Order | Operation A1-11-4 MG Testing is won | Objective: Eradicate (2024-11-29 03:55  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scientific advancement, the Machine Gun Efficacy Review has been completed, with more than enough data collected to achieve its investigative aims. After thorough and Democratically-driven testing, the MG-43 was the first to reach the goal of 50 million enemies dispatched. All Helldiver arsenals will be temporarily augmented with the MG-43. (2024-11-29 12:08  UTC)<br/>
+*Matar Bay* defense is failed (2024-11-29 13:42  UTC)<br/>
+↳ *Matar Bay* liberation campaign starts (2024-11-29 13:42  UTC)<br/>
+↳ *Choohe* liberation campaign ends (2024-11-29 13:42  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2024-11-29 15:24  UTC)<br/>
+ Decay: 0.5 on Matar Bay
+ (2024-11-29 15:24  UTC)<br/>
+- Liberating the Jet brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
+ Decay: 0.0 on Marfark<br/> Decay: 1.5 on Matar Bay
+ (2024-11-29 16:09  UTC)<br/>
