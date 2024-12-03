@@ -3578,12 +3578,16 @@ DSS effect Orbital Blockade stops (2024-11-27 04:49  UTC)<br/>
 ↳ *Zzaniah Prime* liberation campaign starts (2024-11-27 07:31  UTC)<br/>
 ↳ *Blistica* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
 ↳ *Mintoria* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
+
+### Day: #294
  Decay: 1.5 on Zzaniah Prime
- (2024-11-27 08:00  UTC)<br/>
+ (2024-11-27 09:00  UTC)<br/>
 Dispatch: MAJOR ORDER UPDATE. The Ministry of Defense Office of Weapon Efficacy has provided an update to its data collection request: A misplaced decimal led to an erroneously high volume of data to be requested. The required number of kills has been reduced to account for this error. Following the conclusion of the current review, the Office of Weapon Efficacy has ordered a full review of its decimal placement procedures. (2024-11-27 11:59  UTC)<br/>
 *Darius II* is liberated (2024-11-28 03:06  UTC)<br/>
 ↳ Borgus sector is fully liberated (2024-11-28 03:06  UTC)<br/>
 DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2024-11-28 03:13  UTC)<br/>
+
+### Day: #295
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-11-28 10:13  UTC)<br/>
  Decay: 0.0 on Bore Rock
  (2024-11-28 12:00  UTC)<br/>
@@ -3592,6 +3596,10 @@ DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2024-11-28 03:13  UTC)<br/>
  (2024-11-28 14:00  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-29 03:16  UTC)<br/>
 Major Order | Operation A1-11-4 MG Testing is won | Objective: Eradicate (2024-11-29 03:55  UTC)<br/>
+
+### Day: #296
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-29 10:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scientific advancement, the Machine Gun Efficacy Review has been completed, with more than enough data collected to achieve its investigative aims. After thorough and Democratically-driven testing, the MG-43 was the first to reach the goal of 50 million enemies dispatched. All Helldiver arsenals will be temporarily augmented with the MG-43. (2024-11-29 12:08  UTC)<br/>
 *Matar Bay* defense is failed (2024-11-29 13:42  UTC)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-11-29 13:42  UTC)<br/>
@@ -3605,6 +3613,8 @@ Major Order | Operation A1-11-5 Jet Brigade Staging Ground | Objective: Liberate
 Dispatch: NEW MAJOR ORDER. Though the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. The Helldivers are ordered to gather intel on the factories' location by: - Liberating the Jet brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2024-11-30 03:18  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-11-30 04:57  UTC)<br/>
+
+### Day: #297
 *Bore Rock* defense is failed (2024-11-30 10:18  UTC)<br/>
 ↳ *Bore Rock* liberation campaign starts (2024-11-30 10:18  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2024-11-30 10:18  UTC)<br/>
@@ -3614,6 +3624,17 @@ DSS effect Orbital Blockade is activated (2024-11-30 04:57  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2024-12-01 03:21  UTC)<br/>
 DSS effect Orbital Blockade stops (2024-12-01 05:00  UTC)<br/>
 *Marfark* defense is won (2024-12-01 08:37  UTC)<br/>
+
+### Day: #298
  Decay: 0.5 on Marfark
- (2024-12-01 10:00  UTC)<br/>
+ (2024-12-01 09:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-01 22:58  UTC)<br/>
+
+### Day: #299
+*Matar Bay* is liberated (2024-12-02 17:10  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2024-12-02 17:10  UTC)<br/>
+DSS effect Eagle Storm stops (2024-12-02 23:00  UTC)<br/>
+Dispatch: INFORMATIONAL MESSAGE. *Super Earth* High Command would like to inform all Helldivers that investigations into reported anomalies surrounding the singularity created by the destruction of the Supercolony have concluded. It has been determined definitively that the singularity is an ordinary black hole. Further observations of perceived anomalies should be disregarded, as the science is conclusive. (2024-12-03 08:08  UTC)<br/>
+
+# Day: #300
+Dispatch: ARSENAL AUGMENTATION. The Helldivers' expedient dismantling of the specified 150,000,000 Automatons has created a resource surplus, allowing additional funds to be diverted to the success of the current mission. All Helldivers have been granted the use of the ORBITAL RAILCANNON STRIKE stratagem for the remainder of this order. (2024-12-03 13:46  UTC)<br/>
