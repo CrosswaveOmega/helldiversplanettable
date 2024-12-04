@@ -3521,6 +3521,7 @@ DSS *Acamar IV*'s construction resource site, the Terminid Research Preserve, is
 ↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
 Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2024-11-21 02:54  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-11-21 03:47  UTC)<br/>
 
 ### Day: #288
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-11-21 16:05  UTC)<br/>
@@ -3529,6 +3530,9 @@ DSS deploys to *Crimsica* of the Draco sector (2024-11-21 02:54  UTC)<br/>
  Decay: 0.0 on Lesath
  (2024-11-21 17:41  UTC)<br/>
 DSS deploys to *Gar Haren* of the Jin Xi sector (2024-11-22 02:57  UTC)<br/>
+DSS effect Orbital Blockade stops (2024-11-22 03:49  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Lesath<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-22 04:00  UTC)<br/>
 
 ### Day: #289
 *Lesath* defense is failed (2024-11-22 16:06  UTC)<br/>
@@ -3543,9 +3547,11 @@ DSS deploys to *Gar Haren* of the Jin Xi sector (2024-11-22 02:57  UTC)<br/>
 *Gar Haren* is liberated (2024-11-22 19:17  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. Voluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary SPEAR usage fleetwide. (2024-11-22 21:25  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-23 02:59  UTC)<br/>
+DSS effect Eagle Storm is activated (2024-11-23 03:37  UTC)<br/>
 
 # Day: #290
 DSS deploys to *Lesath* of the Lacaille sector (2024-11-24 03:02  UTC)<br/>
+DSS effect Eagle Storm stops (2024-11-24 03:40  UTC)<br/>
 
 ### Day: #291
 Major Order | Operation A1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
@@ -3565,7 +3571,7 @@ DSS effect Orbital Blockade is activated (2024-11-25 03:47  UTC)<br/>
 Major Order | Operation A1-11-4 MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection. The Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons: -The M-105 Stalwart -The MG-43 Machine Gun -The MG-206 Heavy Machine Gun. The machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun. (2024-11-25 16:19  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
-DSS effect Orbital Blockade is activated (2024-11-26 04:46  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2024-11-26 04:46  UTC)<br/>
 
 ### Day: #293
 *Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
@@ -3573,7 +3579,7 @@ DSS effect Orbital Blockade is activated (2024-11-26 04:46  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2024-11-26 16:00  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2024-11-27 03:10  UTC)<br/>
-DSS effect Orbital Blockade stops (2024-11-27 04:49  UTC)<br/>
+DSS effect Planetary Bombardment stops (2024-11-27 04:49  UTC)<br/>
 *Zzaniah Prime* defense is failed (2024-11-27 07:31  UTC)<br/>
 ↳ *Zzaniah Prime* liberation campaign starts (2024-11-27 07:31  UTC)<br/>
 ↳ *Blistica* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
@@ -3598,8 +3604,6 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-29 03:16  UTC)<br/>
 Major Order | Operation A1-11-4 MG Testing is won | Objective: Eradicate (2024-11-29 03:55  UTC)<br/>
 
 ### Day: #296
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-29 10:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scientific advancement, the Machine Gun Efficacy Review has been completed, with more than enough data collected to achieve its investigative aims. After thorough and Democratically-driven testing, the MG-43 was the first to reach the goal of 50 million enemies dispatched. All Helldiver arsenals will be temporarily augmented with the MG-43. (2024-11-29 12:08  UTC)<br/>
 *Matar Bay* defense is failed (2024-11-29 13:42  UTC)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-11-29 13:42  UTC)<br/>
@@ -3607,7 +3611,7 @@ Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scie
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-11-29 15:24  UTC)<br/>
  Decay: 0.5 on Matar Bay
  (2024-11-29 15:24  UTC)<br/>
-Major Order | Operation A1-11-5 Jet Brigade Staging Ground | Objective: Liberate/Eradicate (2024-11-29 16:08  UTC)<br/>
+Major Order | Operation A1-11-5 Jet Brigade Staging Ground is issued | Objective: Liberate/Eradicate (2024-11-29 16:08  UTC)<br/>
  Decay: 0.0 on Marfark<br/> Decay: 1.5 on Matar Bay
  (2024-11-29 16:08  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Though the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. The Helldivers are ordered to gather intel on the factories' location by: - Liberating the Jet brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
@@ -3638,3 +3642,9 @@ Dispatch: INFORMATIONAL MESSAGE. *Super Earth* High Command would like to inform
 
 # Day: #300
 Dispatch: ARSENAL AUGMENTATION. The Helldivers' expedient dismantling of the specified 150,000,000 Automatons has created a resource surplus, allowing additional funds to be diverted to the success of the current mission. All Helldivers have been granted the use of the ORBITAL RAILCANNON STRIKE stratagem for the remainder of this order. (2024-12-03 13:46  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2024-12-04 03:28  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2024-12-04 04:11  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-04 06:00  UTC)<br/>
+
+### Day: #301
