@@ -3531,8 +3531,6 @@ DSS effect Orbital Blockade is activated (2024-11-21 03:47  UTC)<br/>
  (2024-11-21 17:41  UTC)<br/>
 DSS deploys to *Gar Haren* of the Jin Xi sector (2024-11-22 02:57  UTC)<br/>
 DSS effect Orbital Blockade stops (2024-11-22 03:49  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Lesath<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-22 04:00  UTC)<br/>
 
 ### Day: #289
 *Lesath* defense is failed (2024-11-22 16:06  UTC)<br/>
@@ -3644,7 +3642,19 @@ Dispatch: INFORMATIONAL MESSAGE. *Super Earth* High Command would like to inform
 Dispatch: ARSENAL AUGMENTATION. The Helldivers' expedient dismantling of the specified 150,000,000 Automatons has created a resource surplus, allowing additional funds to be diverted to the success of the current mission. All Helldivers have been granted the use of the ORBITAL RAILCANNON STRIKE stratagem for the remainder of this order. (2024-12-03 13:46  UTC)<br/>
 DSS deploys to *Chort Bay* of the Lacaille sector (2024-12-04 03:28  UTC)<br/>
 DSS effect Planetary Bombardment is activated (2024-12-04 04:11  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-04 06:00  UTC)<br/>
 
 ### Day: #301
+Major Order | Operation A1-11-5 Jet Brigade Staging Ground is failed | Objective: Liberate/Eradicate (2024-12-04 16:21  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Though the Helldivers dismantled over 150,000,000 Automatons, they were unable to claim the Jet Brigade staging ground on *Choohe*. This means that our search for information on Jet Brigade factories was only partially successful. It will take time to analyze the memory drives recovered from the dismantled Automatons, but when we do, we will find and destroy the factories. (2024-12-04 16:24  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-04 16:24  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2024-12-04 17:14  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2024-12-04 20:00  UTC)<br/>
+DSS deploys to *Choohe* of the Lacaille sector (2024-12-05 03:30  UTC)<br/>
+DSS effect Planetary Bombardment stops (2024-12-05 04:13  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-12-05 05:09  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Terrek, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-05 05:09  UTC)<br/>
+
+### Day: #302
