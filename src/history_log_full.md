@@ -626,7 +626,6 @@ Dispatch: MOTIVATIONAL REINFORCEMENT. The Automatons are lifeless, emotionless, 
 Dispatch: TIBIT LIBERATED. The factories on *Tibit* have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack. (2024-04-07 17:23  UTC)<br/>
 *Durgen* is liberated (2024-04-07 19:22  UTC)<br/>
 ↳ Severin sector is fully liberated (2024-04-07 19:22  UTC)<br/>
-↳ Automaton first wave is eradicated (2024-04-07 19:22  UTC)<br/>
 ↳ Major Order | Operation A1-4-3 Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (2024-04-07 19:30  UTC)<br/>
 Major Order | Operation A1-4-4 E-710 Farms is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
@@ -650,40 +649,39 @@ Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids containe
  (2024-04-09 06:00  UTC)<br/>
 
 ### Day: #62
-Automaton second wave starts (2024-04-09 11:41  UTC)<br/>
-↳ *Cyberstan* - *Mekbuda* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Mekbuda* - *Vindemitarix Prime* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vindemitarix Prime* - *Merga IV* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Merak* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Merak* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Penta* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Lesath* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Menkent* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Choohe* - *Aurora Bay* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vernen Wells* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vernen Wells* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
-↳ *Vindemitarix Prime* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Mekbuda* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Merga IV* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Cyberstan* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Aurora Bay* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Merak* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
-↳ *Chort Bay* - *Merak* warp link is removed (2024-04-09 11:42  UTC)<br/>
-↳ *Chort Bay* - *Menkent* warp link is added (2024-04-09 11:42  UTC)<br/>
-↳ *Choohe* of the Lacaille sector is attacked by Automatons (2024-04-09 11:42  UTC)<br/>
-↳ *Choohe* defense is won (2024-04-09 11:43  UTC)<br/>
-↳ *Choohe* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
-↳ ↳ *Choohe* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
-↳ *Penta* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
-↳ ↳ *Penta* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
-↳ *Chort Bay* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-↳ *Lesath* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-↳ *Menkent* of the Hydra sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-↳ Emergency Alert | Reclamation Emergency Defense is issued (2024-04-09 11:47  UTC)<br/>
+*Cyberstan* - *Mekbuda* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Mekbuda* - *Vindemitarix Prime* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Vindemitarix Prime* - *Merga IV* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Chort Bay* - *Merak* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Chort Bay* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Chort Bay* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Chort Bay* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Merak* - *Penta* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Penta* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Lesath* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Menkent* - *Choohe* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Choohe* - *Aurora Bay* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Vernen Wells* - *Menkent* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Vernen Wells* - *Lesath* warp link is added (2024-04-09 11:41  UTC)<br/>
+*Vindemitarix Prime* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+*Mekbuda* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+*Merga IV* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+*Cyberstan* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+*Aurora Bay* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+*Merak* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
+Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
+*Chort Bay* - *Merak* warp link is removed (2024-04-09 11:42  UTC)<br/>
+*Chort Bay* - *Menkent* warp link is added (2024-04-09 11:42  UTC)<br/>
+*Choohe* of the Lacaille sector is attacked by Automatons (2024-04-09 11:42  UTC)<br/>
+*Choohe* defense is won (2024-04-09 11:43  UTC)<br/>
+*Choohe* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
+*Penta* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
+↳ *Penta* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
+*Chort Bay* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
+Emergency Alert | Reclamation Emergency Defense is issued (2024-04-09 11:47  UTC)<br/>
  Decay: 0.36 on Valdis sector<br/> Decay: 0.0 on Penta, Choohe
  (2024-04-09 11:47  UTC)<br/>
 Major Order | Operation A1-4-4 E-710 Farms is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
@@ -3553,7 +3551,7 @@ DSS effect Eagle Storm stops (2024-11-24 03:40  UTC)<br/>
 
 ### Day: #291
 Major Order | Operation A1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
-DSS effect Orbital Blockade is activated (2024-11-25 03:47  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2024-11-25 03:47  UTC)<br/>
 *Fori Prime* liberation campaign ends (2024-11-25 07:23  UTC)<br/>
 *Zzaniah Prime* of the Gellert sector is attacked by Automatons (2024-11-25 07:26  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-11-25 07:27  UTC)<br/>
@@ -3569,7 +3567,10 @@ DSS effect Orbital Blockade is activated (2024-11-25 03:47  UTC)<br/>
 Major Order | Operation A1-11-4 MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection. The Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons: -The M-105 Stalwart -The MG-43 Machine Gun -The MG-206 Heavy Machine Gun. The machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun. (2024-11-25 16:19  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
-DSS effect Planetary Bombardment is activated (2024-11-26 04:46  UTC)<br/>
+DSS effect Planetary Bombardment stops (2024-11-26 03:50  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-11-26 04:46  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-11-26 04:46  UTC)<br/>
 
 ### Day: #293
 *Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
@@ -3577,7 +3578,7 @@ DSS effect Planetary Bombardment is activated (2024-11-26 04:46  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2024-11-26 16:00  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2024-11-27 03:10  UTC)<br/>
-DSS effect Planetary Bombardment stops (2024-11-27 04:49  UTC)<br/>
+DSS effect Orbital Blockade stops (2024-11-27 04:49  UTC)<br/>
 *Zzaniah Prime* defense is failed (2024-11-27 07:31  UTC)<br/>
 ↳ *Zzaniah Prime* liberation campaign starts (2024-11-27 07:31  UTC)<br/>
 ↳ *Blistica* liberation campaign ends (2024-11-27 07:31  UTC)<br/>
@@ -3646,15 +3647,27 @@ DSS effect Planetary Bombardment is activated (2024-12-04 04:11  UTC)<br/>
 ### Day: #301
 Major Order | Operation A1-11-5 Jet Brigade Staging Ground is failed | Objective: Liberate/Eradicate (2024-12-04 16:21  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Though the Helldivers dismantled over 150,000,000 Automatons, they were unable to claim the Jet Brigade staging ground on *Choohe*. This means that our search for information on Jet Brigade factories was only partially successful. It will take time to analyze the memory drives recovered from the dismantled Automatons, but when we do, we will find and destroy the factories. (2024-12-04 16:24  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-04 16:24  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2024-12-04 17:14  UTC)<br/>
  Decay: 0.0 on Terrek
  (2024-12-04 20:00  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2024-12-05 03:30  UTC)<br/>
 DSS effect Planetary Bombardment stops (2024-12-05 04:13  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-12-05 05:09  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Terrek, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-05 05:09  UTC)<br/>
 
 ### Day: #302
+Major Order | Operation A1-12-1 Gas Mine Production is issued | Objective: Liberate (2024-12-05 17:01  UTC)<br/>
+Dispatch: BRIEFING. Efforts to expand the arsenal of chemical deterrents have been interrupted by an uptick in colonial labor shrinkage. While investigations are underway, these unforecasted population reductions have caused a resource shortfall. Specifically, mass production of new MD-8 Gas Mines is currently bottlenecked by chlorine shortages. Military intervention is now required. The Ministry of Expansion has identified several planets as rich in easily-accessible salt deposits, which can be mined rapidly for subsequent conversion to chlorine. The Helldivers are ordered to reclaim these planets from our enemies. If all planets can be secured within the specified timeframe, the MD-8 Gas Mines will be made available for immediate requisition in all Super Destroyers. (2024-12-05 17:02  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Terrek, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-05 17:02  UTC)<br/>
+*Choohe* is liberated (2024-12-05 19:15  UTC)<br/>
+↳ *Aurora Bay* liberation campaign starts (2024-12-05 19:15  UTC)<br/>
+ Decay: 2.5 on Aurora Bay<br/> Decay: 1.0 on Bore Rock, Zzaniah Prime<br/> Decay: 1.5 on Choohe
+ (2024-12-05 19:15  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2024-12-06 03:32  UTC)<br/>
+DSS effect Orbital Blockade stops (2024-12-06 05:11  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Terrek, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector, Gellert sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-06 05:11  UTC)<br/>
+
+### Day: #303
+*Terrek* defense is won (2024-12-06 13:43  UTC)<br/>
+↳ Orion sector is fully liberated (2024-12-06 13:43  UTC)<br/>
