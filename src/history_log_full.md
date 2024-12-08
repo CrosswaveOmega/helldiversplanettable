@@ -3569,8 +3569,6 @@ Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun w
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-26 03:08  UTC)<br/>
 DSS effect Planetary Bombardment stops (2024-11-26 03:50  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-11-26 04:46  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-11-26 04:46  UTC)<br/>
 
 ### Day: #293
 *Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
@@ -3671,3 +3669,23 @@ DSS effect Orbital Blockade stops (2024-12-06 05:11  UTC)<br/>
 ### Day: #303
 *Terrek* defense is won (2024-12-06 13:43  UTC)<br/>
 ↳ Orion sector is fully liberated (2024-12-06 13:43  UTC)<br/>
+ Decay: 500.0 on Terrek
+ (2024-12-06 14:00  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2024-12-07 03:35  UTC)<br/>
+
+### Day: #304
+Dispatch: WARFRONT DEVELOPMENT. Civilian resistance units have taken significant ground from the enemy on ZZANIAH PRIME. The freedom fighters have been recognized for their duty and rewarded with proper drafting into the SEAF. (2024-12-07 15:59  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has approved early limited deployment of MD-8 Gas Mines for operations in support of the current Major Order, in order to ensure the fulfillment of our childrens' future chlorine needs. (2024-12-07 16:28  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-07 18:00  UTC)<br/>
+*Bore Rock* is liberated (2024-12-08 01:16  UTC)<br/>
+↳ *Esker* liberation campaign starts (2024-12-08 01:16  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-08 02:00  UTC)<br/>
+
+### Day: #305
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-08 10:00  UTC)<br/>
+*Zzaniah Prime* is liberated (2024-12-08 15:43  UTC)<br/>
+↳ *Blistica* liberation campaign starts (2024-12-08 15:43  UTC)<br/>
+↳ *Mintoria* liberation campaign starts (2024-12-08 15:43  UTC)<br/>
