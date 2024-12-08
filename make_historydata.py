@@ -43,7 +43,7 @@ import sys
 import logging
 import logging.handlers
 
-from hd2json.jsonutils import load_and_merge_json_files
+from hd2api import load_and_merge_json_files
 import sqlite3
 
 from script_making.web_utils import get_game_stat_at_time, get_web_file
@@ -71,7 +71,7 @@ MIN_HOUR_CHANGE = 2
 
 
 # Create allplanet.json if not done already
-vjson = load_and_merge_json_files("./hd2json/planets/")
+vjson = load_and_merge_json_files("planets",'./hd2json')
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
 
 is_redirected = not sys.stdout.isatty()

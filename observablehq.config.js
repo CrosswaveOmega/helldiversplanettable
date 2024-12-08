@@ -52,7 +52,7 @@ export default {
     // Content to add to the head of the page, e.g. for a favicon:
     head: `<meta content="Helldivers 2 War History Central" property="og:title" />
 <meta content="Everything you could ever hope to learn about the Galactic War's past and present in Helldivers 2.  View historcal logs and maps, as well as Tables and graphs gathered across the entire Helldivers 2 Galactic War." property="og:description" />
-  <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="icon.png" type="image/png" sizes="32x32">
   <style>
   
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
