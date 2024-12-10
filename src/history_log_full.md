@@ -2711,7 +2711,7 @@ Dispatch: STRATEGIC UPDATE. *Tarsh* has been cutoff from all adjacent Automaton 
 ↳ Marspira sector is fully liberated (2024-09-16 11:54  UTC)<br/>
 Dispatch: ARSENAL EXPANSION. With the successful liberation of *Tarsh* and *Mastia* from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population. (2024-09-16 11:57  UTC)<br/>
 Major Order | Operation A1-9-3 Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33  UTC)<br/>
-↳ NOTE: Only 1 out of 2 tasks got cleared for this Major Order. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33  UTC)<br/>
+↳ NOTE: Only 1 out of 2 tasks got cleared for this MO. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Terminid population levels have been reduced, but by lower than the targeted amount required to fully bring their population under control. (2024-09-16 14:33  UTC)<br/>
  Decay: 1.5 on Mastia, Tarsh
  (2024-09-16 14:33  UTC)<br/>
@@ -3681,8 +3681,6 @@ Dispatch: ARSENAL AUGMENTATION. High Command has approved early limited deployme
 *Zzaniah Prime* is liberated (2024-12-08 15:42  UTC)<br/>
 ↳ *Blistica* liberation campaign starts (2024-12-08 15:42  UTC)<br/>
 ↳ *Mintoria* liberation campaign starts (2024-12-08 15:42  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-08 16:00  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2024-12-09 03:40  UTC)<br/>
 
 ### Day: #306
@@ -3690,3 +3688,13 @@ DSS deploys to *Mintoria* of the Gellert sector (2024-12-09 03:40  UTC)<br/>
 ↳ *Erson Sands* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
 ↳ *Socorro III* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-09 12:00  UTC)<br/>
+*Mintoria* is liberated (2024-12-10 00:31  UTC)<br/>
+↳ *Zefia* liberation campaign starts (2024-12-10 00:31  UTC)<br/>
+DSS deploys to *Blistica* of the Gellert sector (2024-12-10 03:42  UTC)<br/>
+DSS effect Orbital Blockade is activated (2024-12-10 04:07  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-10 04:07  UTC)<br/>
+
+### Day: #307
