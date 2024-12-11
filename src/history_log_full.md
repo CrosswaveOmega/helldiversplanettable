@@ -388,7 +388,7 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
 ↳ *Fori Prime* liberation campaign ends (2024-03-19 13:47  UTC)<br/>
  Decay: 5.0 on Estanu
  (2024-03-19 13:47  UTC)<br/>
-Major Order | Operation A1-3-4  Zagon and *Fori Prime* Liberation is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
+Major Order | Operation A1-3-4 *Zagon Prime* and *Fori Prime* Liberation is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets. (2024-03-19 16:13  UTC)<br/>
  Decay: 3.0 on Terminid worlds
  (2024-03-19 18:00  UTC)<br/>
@@ -412,7 +412,7 @@ Dispatch: INTELLIGENCE BRIEF. A new strain of flying Terminids has suddenly appe
  (2024-03-21 18:00  UTC)<br/>
 
 ### Day: #44
-Major Order | Operation A1-3-4  Zagon and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
+Major Order | Operation A1-3-4 *Zagon Prime* and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Though many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered. The expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice. (2024-03-22 12:21  UTC)<br/>
 Major Order | Operation A1-3-5 CBCT Protection is issued | Objective: Control (2024-03-22 13:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete. (2024-03-22 13:01  UTC)<br/>
@@ -2822,10 +2822,11 @@ Major Order | Operation A1-9-5 DSS Construction Site is issued | Objective: Libe
 *Gaellivare* is liberated (2024-09-28 01:05  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-28 01:05  UTC)<br/>
 ↳ Major Order | Operation A1-9-5 DSS Construction Site is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
-DSS *Gaellivare* is established as a construction site (2024-09-28 01:08  UTC)<br/>
+*Gaellivare* of the Talus sector is established as a DSS Construction Site (2024-09-28 01:08  UTC)<br/>
 DSS Construction Phase One is started (2024-09-28 01:08  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (2024-09-28 01:14  UTC)<br/>
 DSS *Tarsh* is established as a logistical hub site (2024-09-28 01:15  UTC)<br/>
+*Tarsh* of the Marspira sector is established as a Logistical Hub (2024-09-28 01:15  UTC)<br/>
 
 ### Day: #234
 Major Order | Operation A1-9-6 Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
@@ -2895,7 +2896,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 
 # Day: #240
 Major Order | Operation A1-9-6 Warp Drives is won | Objective: Control (2024-10-04 10:52  UTC)<br/>
-DSS *Turing* is established as a construction resource site, the Xenoentomology Center (2024-10-04 11:41  UTC)<br/>
+*Turing* of the Umlaut sector is established as a Xenoentomolgy Center (2024-10-04 11:41  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet safely held, ground has been broken on the Xenoentomology Center on *Turing*. *Super Earth*'s leading Terminid experts and FTL engineers from across the galaxy have converged on the planet, to develop High-Efficiency Alcubiere Drives. These new drives, once built, will enable the Democracy Space Station to warp between planets at the Helldivers' direction, dispensing Freedom anywhere it is required. (2024-10-04 11:48  UTC)<br/>
 Major Order | Operation A1-10-1 Embers of Steel is issued | Objective: Liberate (2024-10-04 13:12  UTC)<br/>
  Decay: 2.0 on Imber, Vog-Sojoth, Claorell<br/> Decay: 2.5 on Clasa
@@ -2921,7 +2922,7 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
 *Claorell* is liberated (2024-10-08 03:06  UTC)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-10-08 03:06  UTC)<br/>
 ↳ Major Order | Operation A1-10-1 Embers of Steel is won | Objective: Liberate (2024-10-08 03:06  UTC)<br/>
-DSS *Claorell* is established as a construction resource site, the Deep Mantle Forge Complex (2024-10-08 04:52  UTC)<br/>
+*Claorell* of the Tanis sector is established as a Deep Mantle Forge Complex (2024-10-08 04:52  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager *Super Earth* miners ready to construct the Deep Mantle Forge Complex. (2024-10-08 04:53  UTC)<br/>
 
 ### Day: #244
@@ -3060,7 +3061,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 
 ### Day: #254
 Major Order | Operation A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
-DSS *Acamar IV* is established as a construction resource site, the Terminid Research Preserve (2024-10-18 09:38  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is established as a Terminid Research Preserve (2024-10-18 09:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
 Automaton Legion debuts a new Assault Division: The Automaton Jet Brigade (2024-10-18 11:43  UTC)<br/>
 Automaton Jet Brigade deploys to guard *Choohe* (2024-10-18 11:43  UTC)<br/>
@@ -3410,6 +3411,7 @@ Dispatch: Emergency Alert. The Terminid Research Center has suffered a catastrop
 *Tarsh* defense is failed (2024-11-12 20:06  UTC)<br/>
 ↳ *Tarsh* liberation campaign starts (2024-11-12 20:06  UTC)<br/>
 ↳ Automaton Jet Brigade switches to guarding *Tarsh* (2024-11-12 20:06  UTC)<br/>
+*Tarsh* of the Marspira sector's Logistical Hub is removed (2024-11-12 20:06  UTC)<br/>
  Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Acamar IV
  (2024-11-12 20:06  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics Hub has been destroyed. Fortunately, the facility is no longer essential, and the defense held long enough to safely evacuate an acceptable number of its valued personnel. However, the Automatons have pinpointed the location of the DSS. The Jet Brigade will soon advance towards *Gaellivare*. (2024-11-12 20:27  UTC)<br/>
@@ -3437,6 +3439,7 @@ Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:
 Dispatch: STRATEGIC UPDATE. SEAF reinforcements from *Lesath*, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice. (2024-11-14 00:01  UTC)<br/>
 DSS Construction Phase Four is finished (2024-11-14 02:29  UTC)<br/>
 DSS is activated (2024-11-14 02:29  UTC)<br/>
+*Gaellivare* of the Talus sector's DSS Construction Site is removed (2024-11-14 02:29  UTC)<br/>
 DSS deploys to *Gaellivare* of the Talus sector (2024-11-14 02:29  UTC)<br/>
  Decay: 0.0 on Gar Haren
  (2024-11-14 02:29  UTC)<br/>
@@ -3514,7 +3517,7 @@ DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
 Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
-DSS *Acamar IV*'s construction resource site, the Terminid Research Preserve, is lost (2024-11-20 16:41  UTC)<br/>
+*Acamar IV* of the Jin Xi sector's Terminid Research Preserve is removed (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
 Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
@@ -3688,13 +3691,24 @@ DSS deploys to *Mintoria* of the Gellert sector (2024-12-09 03:40  UTC)<br/>
 ↳ *Erson Sands* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
 ↳ *Socorro III* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-12-09 10:54  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-09 12:00  UTC)<br/>
 *Mintoria* is liberated (2024-12-10 00:31  UTC)<br/>
 ↳ *Zefia* liberation campaign starts (2024-12-10 00:31  UTC)<br/>
 DSS deploys to *Blistica* of the Gellert sector (2024-12-10 03:42  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-12-10 04:07  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-10 04:07  UTC)<br/>
 
 ### Day: #307
+Major Order | Operation A1-12-1 Gas Mine Production is failed | Objective: Liberate (2024-12-10 16:12  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Too few planets were liberated by the Helldivers to recitify the current chlorine shortage, delaying production of the MD-8 Gas Mines. Consult the Galactic Map on your ship for more information. (2024-12-10 16:16  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is established as a Factory Hub (2024-12-10 16:33  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-10 16:33  UTC)<br/>
+*Blistica* is liberated (2024-12-11 00:47  UTC)<br/>
+↳ *Yed Prior* liberation campaign starts (2024-12-11 00:47  UTC)<br/>
+↳ Gellert sector is fully liberated (2024-12-11 00:47  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-11 02:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2024-12-11 04:12  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-11 06:00  UTC)<br/>
+
+### Day: #308
