@@ -253,6 +253,8 @@ def sort_event_type(
 
 def get_faction(text: str) -> int:
     "Get the Faction from the text."
+    if "ILLUMINATE" in text.upper() or "ILLUMIN" in text.upper():
+        return 4
     if "AUTOMATON" in text.upper() or "AUTOMAT" in text.upper():
         return 3
     if "TERMINID" in text.upper():

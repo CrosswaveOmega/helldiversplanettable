@@ -61,6 +61,7 @@ export function SimplifyHistory(history) {
                     if (regexMatch) {
                         text = text.replace(regexMatch[0], `[[Major Orders#${regexMatch[0]}|${regexMatch[0]}]]`);
                     }
+                    
                     let planet=null;
                     for (const planetval of each.planet) {
                         planet = planetval[0];
