@@ -142,6 +142,8 @@ function getColor(owner) {
             return "#EF8E20";
         case 3:
             return "#EF2020";
+        case 4:
+            return "#AC47FE";
         case 1:
             return "#79E0FF";
     }
@@ -153,6 +155,8 @@ function getSectorColor(owner) {
             return "#EF8E2044";
         case 3:
             return "#EF202044";
+        case 4:
+            return "#AC47FE44";
         case 1:
             return "#79E0FF22";
     }
@@ -692,12 +696,18 @@ export function makeplotcurrent(
               }))
             : [],
     );
+    function calculateAverageCoordinates(geoFeature) {
+        let center=d3.polygonCentroid(geoFeature.geometry.coordinates[0]);
+        //console.log(center);
+        return center
+    }
+    
 
     let planets = Object.values(galaxystate);
 
     planets.push({'index':-3,'name':'MARS','biome':'sandy_tutorial',position:{'x':0.03,'y':0.05}})
 
-    width=4000; 
+    width=1024; 
     let plot = Plot.plot({
         width: width,
         aspectRatio: 1,
@@ -707,6 +717,19 @@ export function makeplotcurrent(
             Plot.geo(world, {
                 stroke: "#c0c0c0",
                 strokeWidth: width / 1000,
+                fill:"#111111",
+                ariaLabel:(d) =>  d.properties.id
+            }),
+            
+            Plot.text(world.features, {
+                x: (d) => calculateAverageCoordinates(d)[0],
+                y: (d) =>  calculateAverageCoordinates(d)[1],
+                text: (d) => d.properties.id,
+                fill: "white",
+                fontSize: 16,
+                stroke: "black",
+                strokeWidth: 2,
+                textAnchor: "middle",
             }),
 
             Plot.dot(planets, {
@@ -733,7 +756,7 @@ export function makeplotcurrent(
                       width:(p) =>  planet_size(p,big,small),
                       height:(p) =>  planet_size(p,big,small),
                       src: (p) => {
-                          console.log(p.biome);
+                          //console.log(p.biome);
                           return planetimages[
                               "" + p.biome + ".webp"
                           ].base64_image;
@@ -761,6 +784,162 @@ export function makeplotcurrent(
     });
 
     return plot;
+}
+
+export function makeplotcurrent_group(
+    history,
+    gstates,
+    planetimages,
+    target,
+
+    world,
+    { width, htarget, ttarget, atarget, showImages = true },
+) {
+    let slider = history.events.length - 1;
+    let current_event = history.events[slider];
+
+    const small = 48;
+    const big = 128;
+
+    let galaxy_time = current_event.eind;
+
+    const sectorValuesMap = new Map();
+    const sectorPlanetsMap = new Map();
+
+    let galaxystate = {};
+    for (const [planet, values] of Object.entries(gstates.gstatic)) {
+        galaxystate[planet] = {};
+        for (const [key, value] of Object.entries(values)) {
+            galaxystate[planet][key] = value;
+        }
+        for (const element of gstates.gstate[planet]) {
+            if (element.eind <= galaxy_time) {
+                for (const [k, v] of Object.entries(element)) {
+                    galaxystate[planet][k] = v;
+                }
+            }
+        }
+
+        galaxystate[planet]["ta"] = DECODE(galaxystate[planet]["t"]);
+
+        if (!("link2" in galaxystate[planet])) {
+            galaxystate[planet]["link"] = [];
+        } else {
+            let lastlink = galaxystate[planet]["link2"];
+            galaxystate[planet]["link"] = gstates.links[String(lastlink)];
+        }
+        let sector = galaxystate[planet].sector
+            .replace(/[^a-zA-Z]/g, "")
+            .toLowerCase();
+
+        if (!sectorPlanetsMap.has(sector)) {
+            sectorPlanetsMap.set(sector, []);
+        }
+        sectorPlanetsMap.get(sector).push(galaxystate[planet]);
+
+        if (!sectorValuesMap.has(sector)) {
+            sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
+        }
+    }
+    function createSubvariantWorld(worldData, sector) {
+        return {
+            type: 'FeatureCollection',
+            features: worldData.features.filter(
+                (feature) =>
+                    feature.properties.id.toLowerCase() === sector.toLowerCase()
+            )
+        };
+    }
+    width = 4000;
+    const svgsBySector = Array.from(sectorPlanetsMap.entries()).map(([sector, planets]) => {
+        console.log(sector,planets);
+        
+        let subworld=createSubvariantWorld(world,sector);
+        console.log(subworld);
+        let minx = Infinity, miny = Infinity, maxx = -Infinity, maxy = -Infinity;
+    
+        subworld.features.forEach(feature => {
+            feature.geometry.coordinates.forEach(polygon => {
+                polygon.forEach(ring => {
+                    //console.log(ring)
+                    let x=ring[0]+1.0;
+                    let y=ring[1]+1.0;
+                        if (x < minx) minx = x;
+                        if (y < miny) miny = y;
+                        if (x > maxx) maxx = x;
+                        if (y > maxy) maxy = y;
+                    
+                });
+            });
+        });
+        let sx=maxx-minx;
+        let sy=maxy-miny;
+        let newwidth=sx*2000;
+        let newheight=sy*2000;
+        
+
+        
+        return Plot.plot({
+            ariaLabel :sector,
+            width: newwidth,
+            aspectRatio: 1,
+            height: newheight,
+            projection: { type: "identity", domain: subworld },
+            marks: [
+                Plot.geo(subworld, {
+                     stroke: "#c0c0c0",
+                    strokeWidth: width / 1000,
+                }),
+                Plot.dot(planets, {
+                    x: (p) => x_c(p.position.x),
+                    y: (p) => y_c(p.position.y),
+                    r: 5,
+                    fill: sectorValuesMap.get(sector),
+                    opacity: 1.0,
+                }),
+                Plot.link(
+                    planets.flatMap((p) =>
+                        p.link.map((y) => ({
+                            from: p.position,
+                            to: galaxystate[y]?.position,
+                        })),
+                    ),
+                    {
+                        x1: (p) => x_c(p.from.x),
+                        y1: (p) => y_c(p.from.y),
+                        x2: (p) => x_c(p.to.x),
+                        y2: (p) => y_c(p.to.y),
+                        stroke: "#CCCCCC",
+                        inset: width / 110,
+                        strokeWidth: width / 2000,
+                    },
+                ),
+                showImages
+                    ? Plot.image(planets, {
+                          x: (p) => x_c(p.position.x),
+                          y: (p) => y_c(p.position.y),
+                          width: (p) => planet_size(p, big, small),
+                          height: (p) => planet_size(p, big, small),
+                          src: (p) =>
+                              planetimages["" + p.biome + ".webp"].base64_image,
+                      })
+                    : null,
+                Plot.text(planets, {
+                    x: (p) => x_c(p.position.x),
+                    y: (p) => y_c(p.position.y),
+                    text: (p) => splitPlanetName(p.name),
+                    dy: 32,
+                    textAnchor: "bottom",
+                    fill: "white",
+                    stroke: "black",
+                    fontSize: 20,
+                    strokeWidth: 3,
+                }),
+            ],
+        });
+    });
+
+    return svgsBySector;
 }
 
 export function eList(history, count, parentCard, mode = 0) {
