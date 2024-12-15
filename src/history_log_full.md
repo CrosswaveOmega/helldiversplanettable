@@ -3714,8 +3714,6 @@ Major Order | Operation A1-12-2 Factory Hub Defense is issued | Objective: Defen
  (2024-12-11 14:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has awarded a multitrillion-Supercredit contract to AM Defense to expand production of high-quality military equipment for the Helldivers. AM Defense will construct a massive, multi-complex Factory Hub on ACHERNAR SECUNDUS. Readings indicate a Terminid expansion towards ACHERNAR SECUNDUS. The Helldivers must protect the investments of our security partners. (2024-12-11 14:16  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-12-12 03:50  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Phact Bay<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-12 04:00  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-12-12 07:14  UTC)<br/>
 
 ### Day: #309
@@ -3730,12 +3728,19 @@ DSS effect Eagle Storm is activated (2024-12-12 19:27  UTC)<br/>
 *Calypso* of the Saleria sector is attacked by Illuminates (2024-12-13 02:21  UTC)<br/>
 Major Order | A1-12-2 Factory Hub Defense is failed | Objective: Defend (2024-12-13 02:22  UTC)<br/>
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Gatria<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-13 02:22  UTC)<br/>
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (2024-12-13 02:24  UTC)<br/>
 Dispatch: ALL UNITS TO LIBCON 1. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (2024-12-13 02:28  UTC)<br/>
 Emergency Alert | *Calypso* Illuminate Emergency Defense is issued (2024-12-13 02:28  UTC)<br/>
 Major Order | Operation A1-12-3 Defend *Calypso* from the Illuminate | Objective: Defend (2024-12-13 02:28  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren, Gatria<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-13 02:28  UTC)<br/>
 Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings. (2024-12-13 02:30  UTC)<br/>
+
+# Day: #310
+*Gatria* defense is failed (2024-12-14 07:19  UTC)<br/>
+↳ *Gatria* liberation campaign starts (2024-12-14 07:19  UTC)<br/>
+↳ *Trandor* liberation campaign ends (2024-12-14 07:19  UTC)<br/>
+
+### Day: #311
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-14 10:00  UTC)<br/>
+
+### Day: #312
