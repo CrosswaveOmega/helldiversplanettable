@@ -3742,14 +3742,22 @@ Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline follow
 ### Day: #311
  Decay: 1.5 on Gatria
  (2024-12-14 09:00  UTC)<br/>
-*Calypso* defense is won (2024-12-15 02:16  UTC)<br/>
-Major Order | A1-12-3 Defend *Calypso* from the Illuminate is won | Objective: Defend (2024-12-15 02:16  UTC)<br/>
-Dispatch: MAJOR ORDER WON. The resurgent Illuminate have been repelled by the Helldivers. Consult the Galactic Map on your ship for additional information. (2024-12-15 02:23  UTC)<br/>
-Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has been completed. Production of Fast Recon Vehicles (FRVs) for all Helldiver battlespaces is on schedule to begin within the next several days. (2024-12-15 02:26  UTC)<br/>
-*Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-12-15 02:32  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-15 02:32  UTC)<br/>
-*Shelt* of the Talus sector is attacked by Automatons (2024-12-15 02:34  UTC)<br/>
 
 ### Day: #312
 Dispatch: STRATEGIC UPDATE. Illuminate forces hold multiple locations on CALYPSO. Enemy intentions unknown. Human-like assailants reported. Use all necessary force to repel enemy. (2024-12-15 14:28  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-15 16:00  UTC)<br/>
+*Calypso* defense is won (2024-12-16 02:16  UTC)<br/>
+Major Order | A1-12-3 Defend *Calypso* from the Illuminate is won | Objective: Defend (2024-12-16 02:16  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The resurgent Illuminate have been repelled by the Helldivers. Consult the Galactic Map on your ship for additional information. (2024-12-16 02:23  UTC)<br/>
+Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has been completed. Production of Fast Recon Vehicles (FRVs) for all Helldiver battlespaces is on schedule to begin within the next several days. (2024-12-16 02:26  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-16 02:26  UTC)<br/>
+*Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-12-16 02:32  UTC)<br/>
+*Shelt* of the Talus sector is attacked by Automatons (2024-12-16 02:34  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Human worlds<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-16 02:34  UTC)<br/>
+ Decay: 0.0 on Shelt
+ (2024-12-16 06:00  UTC)<br/>
+
+### Day: #313
