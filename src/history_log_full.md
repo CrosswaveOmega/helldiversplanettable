@@ -3759,8 +3759,6 @@ Major Order | Operation A1-12-4 Repel Illuminate Incursions is issued | Objectiv
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminates (2024-12-17 00:10  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Shelt, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-17 00:10  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:11  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:14  UTC)<br/>
 *Gar Haren* defense is failed (2024-12-17 02:34  UTC)<br/>
@@ -3773,9 +3771,20 @@ Major Order A1-12-4's parameters are changed from Objective: Defend to Objective
  (2024-12-17 06:00  UTC)<br/>
 
 ### Day: #314
+ Decay: 0.5 on Gar Haren, Martale
+ (2024-12-17 09:00  UTC)<br/>
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
 ↳ Rictus sector is fully liberated (2024-12-17 09:38  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-17 09:38  UTC)<br/>
 *Bellatrix* of the Guang sector is invaded by Illuminates (2024-12-17 10:40  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 10:55  UTC)<br/>
+*Mog*'s invasion is successful (2024-12-17 12:10  UTC)<br/>
+↳ Morgon sector is fully liberated (2024-12-17 12:10  UTC)<br/>
+*Bellatrix*'s invasion is repelled (2024-12-17 18:27  UTC)<br/>
+↳ Guang sector is fully liberated (2024-12-17 18:27  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-17 18:27  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminates (2024-12-17 18:29  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is attacked by Illuminates (2024-12-17 18:30  UTC)<br/>
+Dispatch: ILLUMINATE INCURSIONS ANALYZED. MINDEF strategists have conducted an analysis of the Illuminate attack pattern, providing insight into their plans. With a high degree of certainty, their next attack is predicted to be on NEW STOCKHOLM. (2024-12-17 20:47  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-17 20:47  UTC)<br/>
