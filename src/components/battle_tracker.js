@@ -180,7 +180,8 @@ class BattleManager {
             logEntry.type === "planet won" ||
             logEntry.type === "planet superwon" ||
             logEntry.type === "defense won" ||
-            logEntry.type === "defense lost"
+            logEntry.type === "defense lost"||
+            logEntry.type === "invasion lost"
         ) {
             if (this.battles[pid].planet !== null) {
                 this.planetTypes[sector].activeCampaigns -= 1;
@@ -214,6 +215,9 @@ class BattleManager {
         if (logEntry.type === "defense lost") {
             this.defenseLost(planet, pid, event, sector);
         }
+        if (logEntry.type === "invasion lost") {
+            this.defenseLost(planet, pid, event, sector);
+        }
         switch (logEntry.type) {
             case "campaign_start":
             case "defense start":
@@ -224,6 +228,9 @@ class BattleManager {
             case "planet superwon":
             case "defense won":
             case "defense lost":
+                this.endBattle(pid, logEntry, event, sector);
+                break;
+            case "invasion lost":
                 this.endBattle(pid, logEntry, event, sector);
                 break;
             case "planet flip":

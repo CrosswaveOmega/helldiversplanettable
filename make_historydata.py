@@ -195,6 +195,7 @@ async def format_event_obj() -> None:
     event_type_sort = {"unknown": []}
     event_types = load_event_types("event_types.json")
     laststats = None
+    lastdss=None
     for event in days_out.events_all:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
@@ -232,6 +233,11 @@ async def format_event_obj() -> None:
             event.planet = get_planet(planets_Dict2, ext)
             print(ext, event.planet)
             event.type = "clearlinks"
+        if event.type=="dss_move":
+            event.last_dss_planet=lastdss
+            lastdss=event.planet
+
+
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
@@ -299,6 +305,9 @@ async def get_planet_stats(
                 all_times_new.pop(k)
         all_times_new[dc] = ents
     if timestamp not in all_times_new[dc]:
+    
+        print(f"{timestamp} not found in all_times_new[{dc}]")
+        logger.info(f"{timestamp} not found in all_times_new[{dc}]")
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
 
         if time > march_5th:
@@ -322,6 +331,7 @@ async def get_planet_stats(
                         int(details["players"]),
                     ),
                 )
+                
             conn.commit()
             print("fetch complete")
             all_times_new[dc][timestamp] = planetstats
@@ -508,6 +518,10 @@ def update_planet_ownership(
         if event.type == "defense won":
             dec[1] = 0
             dec[2] = 0
+        if event.type == "invasion lost":
+            dec[1] = 0
+            dec[2] = 0
+        
         planetclone[str(ind)].t = ENCODE(dec[0], dec[1], dec[2])
         # Warp link updates
         if "gloom" in event.type:
@@ -521,6 +535,12 @@ def update_planet_ownership(
                 planetclone[str(ind)].gls = 3
             elif event.type == "gloom_border":
                 planetclone[str(ind)].gls = 4
+        if "dss_move" in event.type:
+            if event.last_dss_planet:
+                for m in event.last_dss_planet:
+                    n,i=m
+                    planetclone[str(i)].dss=""
+            planetclone[str(ind)].dss="DSS Here"
 
         if event.type == "Biome Change":
             _, _, _, _, _, _, slug = extract_biome_change_details(

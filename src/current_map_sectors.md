@@ -11,9 +11,11 @@ title: The Great Big Galactic War History Map
 
 
   import {
-    makeplot,eList, count_distinct_planets,list_text
-  } from "./components/HistoryLog.js";
+     makeplotcurrent_group
+  } from "./components/sectormapper.js";
     import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
+    
+import  {getNeighbors}  from "./components/sector_neighbors.js";
 ```
 
 ```js
@@ -21,14 +23,13 @@ title: The Great Big Galactic War History Map
 
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
-const planetimages= await FileAttachment("./data/images.json").json();
+const planetimages= await FileAttachment("./data/fullimages.json").json();
 const gstates = FileAttachment("./data/gstates.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
 const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
 const atarget = FileAttachment("./data/libtargets/aTarget.svg").url();
-const dss = FileAttachment("./data/dss.png").url();
 
 planets.forEach((planet) => {
   const key = Object.keys(planetimages).find(k => k === planet.image);
@@ -126,80 +127,77 @@ const theseinputs=Inputs.button([["Last Event", backevent],["Next Event", addeve
 // Define Generators
 const showImages = view(Inputs.toggle({label: "Show Images", value: true}));
 
-```
 
+
+```
 
 ```js
+function saveAsDownloadableFile() {
+  const myCardDiv = document.getElementById("MYCARD");
+  if (!myCardDiv) return;
 
-function count_distinct_planets_table(historydata, mode, {width}) {
-  const countDistinctPlanetsData = count_distinct_planets(historydata,planets);
-  let planet_data = Object.values(countDistinctPlanetsData);
+  const svgElements = myCardDiv.getElementsByTagName('svg');
+  if (svgElements.length === 0) return;
 
-  let columns = [];
-  let header = {};
+  const svgData = {};
 
-  if (mode === 0) {
-    columns = ['name', 'front', 'campaigns', 'lib_campaigns','defenses', 'planet_flips'];
-    header = {
-      name: 'Name',
-      front: 'Front',
-      campaigns: "Campaigns",
-      lib_campaigns: "Liberations",
-       defenses: "Defenses",
-      planet_flips: "Planet Flips"
-    };
-  } else if (mode === 1) {
-    columns = ['name', 'campaigns','lib_campaigns', 'libwins', 'liblost'];
-    header = {
-      name: 'Name',
-      
-      campaigns: "Campaigns",
-      lib_campaigns: "Liberation Campaigns",
-      libwins: "Liberations Won",
-      liblost: "Liberations Lost"
-    };
-  } else if (mode === 2) {
-    columns = ['name','campaigns', 'defenses', 'defenses_won', 'defenses_lost'];
-    header = {
-      name: 'Name',
-      
-      campaigns: "Campaigns",
-      defenses: "Defense Campaigns",
-      defenses_won: "Defenses Won",
-      defenses_lost: "Defenses Lost"
-    };
-  }
+  Array.from(svgElements).forEach((svgElement, index) => {
+    let svg = svgElement.outerHTML;
 
-  return Inputs.table(planet_data, {
-    columns: columns,
-    header: header,
-    width: width,
-  sort:'campaigns',
-  reverse:true,
+    console.log(svg);
+    let mylabel = svgElement.getAttribute('aria-label') // Get aria-label element from svg
+    if (mylabel==='lestrade'){
+      mylabel="l'estrade";
+    }
+    if (mylabel==='jinxi'){
+      mylabel="jin_Xi";
+    }
+    if (mylabel==='xitauri'){
+      mylabel="xi_Tauri";
+    }
+
+    if (!svg.includes('xml:space=')) {
+      svg = svg.replace('<svg', '<svg xml:space="preserve"');
+    }
+    if (!svg.includes('xmlns="http://www.w3.org/2000/svg"')) {
+      svg = svg.replace('<svg', '<svg xmlns="http://www.w3.org/2000/svg"');
+    }
+    if (!svg.includes('xmlns:svg=')) {
+      svg = svg.replace('<svg', '<svg xmlns:svg="http://www.w3.org/2000/svg"');
+    }
     
+
+    svgData[mylabel] = svg;
   });
+
+  const blob = new Blob([JSON.stringify(svgData, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "MYCARD_data.json";
+  a.style.display = "none";
+  document.body.appendChild(a);
+  a.click();
+
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
 }
 
+const getfileevent = () => {
+  saveAsDownloadableFile();
+};
+
+const GetMapSvgButton = Inputs.button([["Download SVG of Map", getfileevent]]);
+const mywidth=4000
 ```
 
-<div class="grid grid-cols-4" style="grid-auto-rows: auto;">
-  <div  class="card grid-colspan-2 grid-rowspan-2">
- ${theseinputs}
-  ${daysSlider}
-    ${resize((width) => makeplot(historydata,gstates,planetimages,targets,count,world,{width, showImages,htarget,ttarget,atarget,dss}))}
-  </div>
-  
-  <div class='card big grid-colspan-2' style="font-size: 1.1em;">
-    <div id="Superdayview"></div>
-     
-  </div>
-  <div id="Days" class='card big grid-colspan-2'>
-    <div id="DAYVIEW"></div>
-     </div>
-
-
-
+${GetMapSvgButton}
+<div id="MYCARD", style="width:4000px">
+  ${makeplotcurrent_group(historydata,gstates,planetimages,targets,world,getNeighbors,{mywidth, showImages,htarget,ttarget,atarget})}
 </div>
+
+<canvas id="hiddenCanvas" style="display: none;"></canvas>
 
 
 

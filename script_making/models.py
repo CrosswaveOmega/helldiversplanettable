@@ -28,6 +28,7 @@ class GameEvent(BaseModel):
     mo_name: Optional[str] = Field(alias="mo_name", default=None)
     mo_case: Optional[str] = Field(alias="mo_case", default=None)
     mo_objective: Optional[str] = Field(alias="type", default=None)
+    last_dss_planet: Optional[List[Tuple[str, str]]] = Field(alias="last_dss_planet", default=[])
     all_players: Optional[int] = Field(alias="all_players", default=None)
     eind: Optional[int] = Field(alias="eind", default=None)
 
@@ -94,7 +95,20 @@ class PlanetState(BaseModel):
     link2: Optional[int] = Field(alias="link2", default=None)
     gls: Optional[int] = Field(alias="gloom", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
+    dss: Optional[str] = Field(alias="dss", default=None)
 
+
+class PlanetState(BaseModel):
+    hp: Optional[int] = Field(alias="hp", default=None)
+    pl: Optional[Union[str, int]] = Field(alias="pl", default=None)
+    r: Optional[float] = Field(alias="float", default=None)
+    t: int
+    link: Optional[List[int]] = Field(alias="link", default=[])
+    link2: Optional[int] = Field(alias="link2", default=None)
+    gls: Optional[int] = Field(alias="gloom", default=None)
+    biome: Optional[str] = Field(alias="biome", default=None)
+    dss: Optional[str] = Field(alias="dss", default=None)
+    
 
 class DaysObject(BaseModel):
     events_all: Optional[List[GameEvent]] = Field(

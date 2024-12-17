@@ -43,9 +43,9 @@ ${update_time}
 const factcolor = Plot.scale({
   color: {
     type: "categorical",
-    domain: ["TERMINIDS", "AUTOMATON", "HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL"],  // specify known categories directly
+    domain: ["TERMINIDS", "AUTOMATON", "ILLUMINATE","HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL","ILLUMINATEL"],  // specify known categories directly
     unknown: "purple",  // specify the color for unknown categories
-    range: ["orange", "red", "blue","darkorange", "darkred", "darkblue"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
+    range: ["orange", "red", "purple", "blue","darkorange", "darkred", "darkblue","darkpurple"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
   }
 });
 
@@ -60,7 +60,7 @@ const factcolor = Plot.scale({
 ```js
 const factions=[]
 function initializeControl(label) {
-  return Inputs.checkbox(planets.map((d)=>d.front), {value:['TERMINIDS','AUTOMATON'],unique:true,label: `Filter by front`});
+  return Inputs.checkbox(planets.map((d)=>d.front), {value:['TERMINIDS','ILLUMINATE','AUTOMATON'],unique:true,label: `Filter by front`});
 }
 //const card1FrontFilter = Inputs.checkbox(planets.map((d)=>d.front), {label: `Filter by  front`});
 //

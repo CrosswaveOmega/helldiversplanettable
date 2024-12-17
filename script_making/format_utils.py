@@ -279,6 +279,8 @@ def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str
             defenses.pop(str(planet))
         if event.type == "defense lost":
             event.faction = defenses.pop(str(planet))
+        if event.type == "invasion lost":
+            event.faction = defenses.pop(str(planet))
     return defenses
 
 

@@ -8,6 +8,7 @@
          "link2": 1,
          "gls": null,
          "biome": "super_earth",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5179,31 +5180,63 @@
       },
       {
          "pl": 2600,
+         "eind": 2945
+      },
+      {
+         "pl": 500,
          "eind": 2946
       },
       {
-         "pl": 500,
-         "eind": 2947
-      },
-      {
          "pl": 400,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 500,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 700,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 1100,
+         "eind": 2955
+      },
+      {
+         "pl": 600,
          "eind": 2957
       },
       {
-         "pl": 400,
+         "pl": 200,
          "eind": 2958
+      },
+      {
+         "pl": 600,
+         "eind": 2959
+      },
+      {
+         "pl": 700,
+         "eind": 2962
+      },
+      {
+         "pl": 800,
+         "eind": 2967
+      },
+      {
+         "pl": 200,
+         "eind": 2968
+      },
+      {
+         "pl": 100,
+         "eind": 2969
+      },
+      {
+         "pl": 400,
+         "eind": 2970
+      },
+      {
+         "pl": 300,
+         "eind": 2971
       }
    ],
    "1": [
@@ -5215,6 +5248,7 @@
          "link2": 2,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5237,6 +5271,7 @@
          "link2": 3,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5259,6 +5294,7 @@
          "link2": 4,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5281,6 +5317,7 @@
          "link2": 5,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5303,6 +5340,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5321,6 +5359,7 @@
          "link2": 6,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5343,6 +5382,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5361,6 +5401,7 @@
          "link2": 7,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5384,6 +5425,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5402,6 +5444,7 @@
          "link2": 8,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5495,6 +5538,7 @@
          "link2": 9,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -5903,12 +5947,60 @@
       },
       {
          "t": 23,
+         "eind": 2956
+      },
+      {
+         "pl": 41100,
+         "r": 0.0,
          "eind": 2957
       },
       {
-         "pl": 34300,
-         "r": 0.0,
+         "pl": 17800,
          "eind": 2958
+      },
+      {
+         "pl": 47500,
+         "eind": 2959
+      },
+      {
+         "pl": 30300,
+         "eind": 2961
+      },
+      {
+         "pl": 9500,
+         "eind": 2962
+      },
+      {
+         "pl": 9400,
+         "eind": 2965
+      },
+      {
+         "t": 49,
+         "eind": 2966
+      },
+      {
+         "hp": 504564,
+         "pl": 5400,
+         "r": 1.3889,
+         "eind": 2967
+      },
+      {
+         "hp": 515707,
+         "pl": 2200,
+         "eind": 2968
+      },
+      {
+         "hp": 517107,
+         "pl": 2100,
+         "eind": 2969
+      },
+      {
+         "hp": 518729,
+         "eind": 2970
+      },
+      {
+         "hp": 519135,
+         "eind": 2971
       }
    ],
    "69": [
@@ -5920,6 +6012,7 @@
          "link2": 10,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -6666,6 +6759,7 @@
       {
          "hp": 383410,
          "pl": 20500,
+         "dss": "DSS Here",
          "eind": 2692
       },
       {
@@ -6708,6 +6802,7 @@
       },
       {
          "pl": 700,
+         "dss": "",
          "eind": 2701
       },
       {
@@ -6760,6 +6855,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -8567,6 +8663,7 @@
       },
       {
          "pl": 400,
+         "dss": "DSS Here",
          "eind": 2621
       },
       {
@@ -8620,6 +8717,7 @@
       },
       {
          "pl": 35300,
+         "dss": "",
          "eind": 2637
       },
       {
@@ -8652,6 +8750,7 @@
       },
       {
          "pl": 9600,
+         "dss": "DSS Here",
          "eind": 2645
       },
       {
@@ -8676,6 +8775,7 @@
       },
       {
          "pl": 34300,
+         "dss": "",
          "eind": 2654
       },
       {
@@ -8728,6 +8828,7 @@
       {
          "hp": 725448,
          "pl": 18800,
+         "dss": "DSS Here",
          "eind": 2666
       },
       {
@@ -8858,6 +8959,7 @@
       },
       {
          "pl": 1100,
+         "dss": "",
          "eind": 2692
       },
       {
@@ -8942,11 +9044,11 @@
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "16": [
@@ -8958,6 +9060,7 @@
          "link2": 11,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -8980,6 +9083,7 @@
          "link2": 12,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -9006,6 +9110,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -9077,6 +9182,7 @@
       },
       {
          "pl": 19700,
+         "dss": "DSS Here",
          "eind": 2862
       },
       {
@@ -9118,6 +9224,10 @@
          "eind": 2871
       },
       {
+         "dss": "",
+         "eind": 2872
+      },
+      {
          "pl": 100,
          "eind": 2873
       },
@@ -9143,11 +9253,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "77": [
@@ -9159,6 +9269,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -9351,6 +9462,7 @@
          "link2": 13,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -10102,6 +10214,7 @@
          "link2": 14,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -10755,6 +10868,7 @@
          "link2": 15,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -11947,6 +12061,7 @@
          "link2": 16,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -11969,6 +12084,7 @@
          "link2": 17,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -11995,6 +12111,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -12021,6 +12138,7 @@
          "link2": 18,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -12047,6 +12165,7 @@
          "link2": 19,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -12065,6 +12184,7 @@
          "link2": 20,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -12083,6 +12203,7 @@
          "link2": 21,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -17341,6 +17462,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -19574,6 +19696,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -21524,6 +21647,7 @@
          "link2": 22,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -21803,6 +21927,7 @@
          "link2": 23,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -21825,6 +21950,7 @@
          "link2": 24,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -21847,6 +21973,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -22809,6 +22936,7 @@
       {
          "hp": 931618,
          "pl": 3300,
+         "dss": "DSS Here",
          "eind": 2637
       },
       {
@@ -22850,6 +22978,7 @@
       {
          "hp": 255270,
          "pl": 25000,
+         "dss": "",
          "eind": 2645
       },
       {
@@ -23723,39 +23852,71 @@
       },
       {
          "pl": 400,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 700,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 600,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 1000,
+         "eind": 2949
+      },
+      {
+         "pl": 1200,
          "eind": 2950
       },
       {
          "pl": 1400,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 1200,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 2800,
+         "eind": 2955
+      },
+      {
+         "pl": 2700,
          "eind": 2957
       },
       {
-         "pl": 1400,
+         "pl": 600,
          "eind": 2958
+      },
+      {
+         "pl": 1500,
+         "eind": 2959
+      },
+      {
+         "pl": 1100,
+         "eind": 2961
+      },
+      {
+         "pl": 700,
+         "eind": 2962
+      },
+      {
+         "pl": 600,
+         "eind": 2965
+      },
+      {
+         "pl": 300,
+         "eind": 2968
+      },
+      {
+         "pl": 200,
+         "eind": 2970
       }
    ],
    "66": [
@@ -23767,6 +23928,7 @@
          "link2": 25,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -24320,6 +24482,7 @@
          "link2": 26,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -26415,43 +26578,75 @@
       },
       {
          "pl": 500,
-         "eind": 2941
+         "eind": 2940
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 400,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 300,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 500,
+         "eind": 2949
+      },
+      {
+         "pl": 600,
          "eind": 2950
       },
       {
          "pl": 700,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 1100,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 3500,
+         "eind": 2955
+      },
+      {
+         "pl": 2200,
          "eind": 2957
       },
       {
-         "pl": 800,
+         "pl": 300,
          "eind": 2958
+      },
+      {
+         "pl": 700,
+         "eind": 2959
+      },
+      {
+         "pl": 600,
+         "eind": 2961
+      },
+      {
+         "pl": 200,
+         "eind": 2962
+      },
+      {
+         "pl": 300,
+         "eind": 2965
+      },
+      {
+         "pl": 400,
+         "eind": 2967
+      },
+      {
+         "pl": 100,
+         "eind": 2968
       }
    ],
    "50": [
@@ -26463,6 +26658,7 @@
          "link2": 27,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -26589,6 +26785,7 @@
          "link2": 28,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -29876,20 +30073,20 @@
       },
       {
          "pl": 400,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 200,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 1000,
          "t": 32,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": "<10",
-         "eind": 2949
+         "eind": 2948
       }
    ],
    "213": [
@@ -29901,6 +30098,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -30027,6 +30225,7 @@
          "link2": 27,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -32428,35 +32627,71 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 600,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 800,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 1000,
-         "eind": 2950
+         "eind": 2949
       },
       {
          "pl": 1500,
+         "eind": 2950
+      },
+      {
+         "pl": 1000,
          "eind": 2952
       },
       {
          "pl": 1100,
-         "eind": 2954
+         "eind": 2953
       },
       {
          "pl": 1500,
+         "eind": 2956
+      },
+      {
+         "pl": 1300,
          "eind": 2957
       },
       {
-         "pl": 1000,
+         "pl": 700,
          "eind": 2958
+      },
+      {
+         "pl": 1400,
+         "eind": 2959
+      },
+      {
+         "pl": 900,
+         "eind": 2961
+      },
+      {
+         "pl": 600,
+         "eind": 2962
+      },
+      {
+         "pl": 700,
+         "eind": 2965
+      },
+      {
+         "pl": 800,
+         "eind": 2967
+      },
+      {
+         "pl": 600,
+         "eind": 2968
+      },
+      {
+         "pl": 500,
+         "eind": 2969
       }
    ],
    "216": [
@@ -32468,6 +32703,7 @@
          "link2": 29,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -33249,6 +33485,7 @@
          "link2": 30,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -35246,31 +35483,43 @@
       },
       {
          "pl": 400,
+         "eind": 2945
+      },
+      {
+         "pl": 100,
          "eind": 2946
       },
       {
-         "pl": 100,
-         "eind": 2947
-      },
-      {
          "pl": "<10",
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 100,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 300,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 2200,
+         "eind": 2955
+      },
+      {
+         "pl": 500,
          "eind": 2957
       },
       {
-         "pl": 200,
+         "pl": 100,
          "eind": 2958
+      },
+      {
+         "pl": 200,
+         "eind": 2959
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "125": [
@@ -35282,6 +35531,7 @@
          "link2": 31,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -37241,6 +37491,7 @@
          "link2": 32,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -39120,6 +39371,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -41613,6 +41865,7 @@
          "link2": 33,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -44499,11 +44752,11 @@
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "122": [
@@ -44515,6 +44768,7 @@
          "link2": 34,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -45496,6 +45750,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -46018,48 +46273,72 @@
          "eind": 2939
       },
       {
-         "pl": 1100,
-         "eind": 2940
-      },
-      {
-         "pl": 1000,
-         "eind": 2941
-      },
-      {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 200,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 500,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 1000,
+         "eind": 2949
+      },
+      {
+         "pl": 1300,
          "eind": 2950
       },
       {
          "pl": 1200,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 1300,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 2300,
+         "eind": 2955
+      },
+      {
+         "pl": 1300,
          "eind": 2957
       },
       {
-         "pl": 600,
+         "pl": 200,
          "eind": 2958
+      },
+      {
+         "pl": 700,
+         "eind": 2959
+      },
+      {
+         "pl": 500,
+         "eind": 2961
+      },
+      {
+         "pl": 300,
+         "eind": 2962
+      },
+      {
+         "pl": 600,
+         "eind": 2967
+      },
+      {
+         "pl": 300,
+         "eind": 2968
+      },
+      {
+         "pl": 200,
+         "eind": 2969
       }
    ],
    "124": [
@@ -46071,6 +46350,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -47045,11 +47325,11 @@
       },
       {
          "pl": 200,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "78": [
@@ -47061,6 +47341,7 @@
          "link2": 35,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -51924,6 +52205,7 @@
       {
          "hp": 588717,
          "pl": 20000,
+         "dss": "DSS Here",
          "eind": 2701
       },
       {
@@ -51970,6 +52252,10 @@
       {
          "pl": 1000,
          "eind": 2710
+      },
+      {
+         "dss": "",
+         "eind": 2711
       },
       {
          "pl": 600,
@@ -52025,11 +52311,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "169": [
@@ -52041,6 +52327,7 @@
          "link2": 36,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -56210,6 +56497,7 @@
          "link2": 37,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -59901,6 +60189,7 @@
          "link2": 38,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -59923,6 +60212,7 @@
          "link2": 39,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -59945,6 +60235,7 @@
          "link2": 40,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -59967,6 +60258,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -59985,6 +60277,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -60003,6 +60296,7 @@
          "link2": 41,
          "gls": null,
          "biome": "arctic_glacier_coldrocky_special",
+         "dss": null,
          "eind": 0
       },
       {
@@ -60218,6 +60512,7 @@
          "link2": 42,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -60331,6 +60626,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -61352,6 +61648,7 @@
          "link2": 43,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -61741,6 +62038,7 @@
          "link2": 44,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -62008,6 +62306,7 @@
          "link2": 45,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -62522,6 +62821,7 @@
          "link2": 46,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -66598,27 +66898,51 @@
       },
       {
          "pl": "<10",
+         "eind": 2946
+      },
+      {
+         "pl": 200,
          "eind": 2947
       },
       {
-         "pl": 200,
-         "eind": 2948
-      },
-      {
          "pl": 300,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 200,
-         "eind": 2954
+         "eind": 2953
       },
       {
          "pl": 400,
+         "eind": 2955
+      },
+      {
+         "pl": 300,
          "eind": 2957
       },
       {
-         "pl": 200,
+         "pl": 100,
          "eind": 2958
+      },
+      {
+         "pl": 300,
+         "eind": 2959
+      },
+      {
+         "pl": 200,
+         "eind": 2961
+      },
+      {
+         "pl": 100,
+         "eind": 2962
+      },
+      {
+         "pl": 200,
+         "eind": 2967
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "113": [
@@ -66630,6 +66954,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -69814,27 +70139,47 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
+         "eind": 2946
+      },
+      {
+         "pl": 100,
          "eind": 2947
       },
       {
-         "pl": 100,
-         "eind": 2948
-      },
-      {
          "pl": 200,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 300,
+         "eind": 2955
+      },
+      {
+         "pl": 200,
          "eind": 2957
       },
       {
-         "pl": 100,
+         "pl": "<10",
          "eind": 2958
+      },
+      {
+         "pl": 100,
+         "eind": 2959
+      },
+      {
+         "pl": "<10",
+         "eind": 2962
+      },
+      {
+         "pl": 100,
+         "eind": 2965
+      },
+      {
+         "pl": "<10",
+         "eind": 2967
       }
    ],
    "203": [
@@ -69846,6 +70191,7 @@
          "link2": 47,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73202,15 +73548,19 @@
       },
       {
          "pl": 100,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 200,
-         "eind": 2957
+         "eind": 2956
       },
       {
          "pl": 100,
-         "eind": 2958
+         "eind": 2957
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "114": [
@@ -73222,6 +73572,7 @@
          "link2": 48,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73427,31 +73778,55 @@
       },
       {
          "pl": 200,
-         "eind": 2941
+         "eind": 2940
       },
       {
          "pl": "<10",
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 200,
-         "eind": 2950
+         "eind": 2949
       },
       {
          "pl": 300,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 700,
-         "eind": 2957
+         "eind": 2955
+      },
+      {
+         "pl": 200,
+         "eind": 2958
       },
       {
          "pl": 400,
-         "eind": 2958
+         "eind": 2959
+      },
+      {
+         "pl": 200,
+         "eind": 2961
+      },
+      {
+         "pl": 100,
+         "eind": 2962
+      },
+      {
+         "pl": 200,
+         "eind": 2965
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
+      },
+      {
+         "pl": 100,
+         "eind": 2971
       }
    ],
    "202": [
@@ -73463,6 +73838,7 @@
          "link2": 49,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73535,6 +73911,7 @@
          "link2": 50,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73808,6 +74185,7 @@
          "link2": 49,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73884,6 +74262,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -73952,6 +74331,7 @@
          "link2": 51,
          "gls": null,
          "biome": "arctic_glacier_coldrocky_special",
+         "dss": null,
          "eind": 0
       },
       {
@@ -74024,6 +74404,7 @@
          "link2": 52,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -75756,23 +76137,31 @@
       },
       {
          "pl": 100,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": "<10",
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 100,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 200,
-         "eind": 2957
+         "eind": 2955
+      },
+      {
+         "pl": "<10",
+         "eind": 2958
       },
       {
          "pl": 100,
-         "eind": 2958
+         "eind": 2959
+      },
+      {
+         "pl": "<10",
+         "eind": 2962
       }
    ],
    "159": [
@@ -75784,6 +76173,7 @@
          "link2": 53,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -78476,6 +78866,10 @@
          "eind": 2798
       },
       {
+         "dss": "DSS Here",
+         "eind": 2803
+      },
+      {
          "pl": 500,
          "eind": 2804
       },
@@ -78490,6 +78884,10 @@
       {
          "pl": 500,
          "eind": 2811
+      },
+      {
+         "dss": "",
+         "eind": 2813
       },
       {
          "pl": "<10",
@@ -78606,6 +79004,7 @@
       {
          "hp": 112354,
          "pl": 12600,
+         "dss": "DSS Here",
          "eind": 2851
       },
       {
@@ -78661,6 +79060,7 @@
       },
       {
          "pl": 600,
+         "dss": "",
          "eind": 2862
       },
       {
@@ -78705,11 +79105,11 @@
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "160": [
@@ -78721,6 +79121,7 @@
          "link2": 54,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -80268,6 +80669,7 @@
       },
       {
          "pl": 500,
+         "dss": "DSS Here",
          "eind": 2840
       },
       {
@@ -80315,6 +80717,7 @@
       {
          "hp": 1000000,
          "pl": 4300,
+         "dss": "",
          "eind": 2851
       },
       {
@@ -80431,23 +80834,47 @@
       },
       {
          "pl": 100,
+         "eind": 2945
+      },
+      {
+         "pl": "<10",
          "eind": 2946
       },
       {
-         "pl": "<10",
+         "pl": 100,
          "eind": 2947
       },
       {
-         "pl": 100,
+         "pl": "<10",
          "eind": 2948
       },
       {
-         "pl": "<10",
-         "eind": 2949
+         "pl": 200,
+         "eind": 2950
       },
       {
          "pl": 100,
-         "eind": 2952
+         "eind": 2951
+      },
+      {
+         "pl": 200,
+         "eind": 2957
+      },
+      {
+         "pl": 100,
+         "eind": 2958
+      },
+      {
+         "pl": "<10",
+         "eind": 2962
+      },
+      {
+         "pl": 100,
+         "eind": 2967
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "194": [
@@ -80459,6 +80886,7 @@
          "link2": 55,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -84373,6 +84801,7 @@
       {
          "hp": 609758,
          "pl": 2200,
+         "dss": "DSS Here",
          "eind": 2735
       },
       {
@@ -84468,6 +84897,7 @@
       },
       {
          "pl": 600,
+         "dss": "",
          "eind": 2756
       },
       {
@@ -84508,11 +84938,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "129": [
@@ -84524,6 +84954,7 @@
          "link2": 56,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -88016,6 +88447,7 @@
       {
          "hp": 533243,
          "pl": 9200,
+         "dss": "DSS Here",
          "eind": 2654
       },
       {
@@ -88067,6 +88499,10 @@
       {
          "pl": 1200,
          "eind": 2665
+      },
+      {
+         "dss": "",
+         "eind": 2666
       },
       {
          "pl": 600,
@@ -88142,11 +88578,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "171": [
@@ -88158,6 +88594,7 @@
          "link2": 57,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -93416,35 +93853,71 @@
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 400,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 500,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 900,
+         "eind": 2949
+      },
+      {
+         "pl": 1200,
          "eind": 2950
       },
       {
          "pl": 1300,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 2400,
+         "eind": 2956
+      },
+      {
+         "pl": 1600,
          "eind": 2957
       },
       {
-         "pl": 1000,
+         "pl": 500,
          "eind": 2958
+      },
+      {
+         "pl": 1000,
+         "eind": 2959
+      },
+      {
+         "pl": 700,
+         "eind": 2961
+      },
+      {
+         "pl": 400,
+         "eind": 2962
+      },
+      {
+         "pl": 800,
+         "eind": 2967
+      },
+      {
+         "pl": 300,
+         "eind": 2968
+      },
+      {
+         "pl": 200,
+         "eind": 2970
+      },
+      {
+         "pl": 300,
+         "eind": 2971
       }
    ],
    "172": [
@@ -93456,6 +93929,7 @@
          "link2": 58,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -94905,6 +95379,7 @@
       {
          "hp": 577946,
          "pl": 11500,
+         "dss": "DSS Here",
          "eind": 2711
       },
       {
@@ -94969,6 +95444,7 @@
       },
       {
          "pl": 800,
+         "dss": "",
          "eind": 2724
       },
       {
@@ -95001,11 +95477,56 @@
       },
       {
          "t": 21,
-         "eind": 2956
+         "eind": 2955
       },
       {
-         "pl": 29700,
+         "pl": 42800,
+         "eind": 2957
+      },
+      {
+         "pl": 16000,
          "eind": 2958
+      },
+      {
+         "pl": 39800,
+         "eind": 2959
+      },
+      {
+         "pl": 25800,
+         "eind": 2961
+      },
+      {
+         "pl": 8500,
+         "eind": 2962
+      },
+      {
+         "pl": 8100,
+         "t": 33,
+         "eind": 2965
+      },
+      {
+         "hp": 499344,
+         "pl": 5000,
+         "eind": 2967
+      },
+      {
+         "hp": 491046,
+         "pl": 1600,
+         "r": 1.3889,
+         "eind": 2968
+      },
+      {
+         "hp": 493046,
+         "eind": 2969
+      },
+      {
+         "hp": 495369,
+         "eind": 2970
+      },
+      {
+         "hp": 495983,
+         "pl": 1700,
+         "eind": 2971
       }
    ],
    "173": [
@@ -95017,6 +95538,7 @@
          "link2": 59,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -96115,56 +96637,108 @@
          "eind": 2939
       },
       {
-         "pl": 19200,
+         "pl": 19600,
          "eind": 2940
       },
       {
-         "pl": 19600,
-         "eind": 2941
-      },
-      {
          "pl": 3000,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 2400,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 9400,
          "t": 33,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "hp": 517808,
          "pl": 6300,
          "r": 4.1667,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "hp": 715875,
          "pl": 7900,
+         "eind": 2949
+      },
+      {
+         "hp": 748495,
+         "pl": 11400,
          "eind": 2950
       },
       {
          "hp": 757078,
          "pl": 10100,
+         "eind": 2951
+      },
+      {
+         "hp": 848738,
+         "pl": 6600,
          "eind": 2952
       },
       {
          "hp": 851407,
          "pl": 6500,
-         "eind": 2954
+         "eind": 2953
       },
       {
          "hp": 854107,
          "pl": 14000,
+         "eind": 2956
+      },
+      {
+         "hp": 862068,
+         "pl": 14900,
          "eind": 2957
       },
       {
-         "hp": 871118,
-         "pl": 9400,
+         "hp": 887184,
+         "pl": 5600,
          "eind": 2958
+      },
+      {
+         "hp": 936003,
+         "pl": 10800,
+         "eind": 2959
+      },
+      {
+         "hp": 939490,
+         "pl": 7300,
+         "eind": 2961
+      },
+      {
+         "hp": 958934,
+         "pl": 3600,
+         "eind": 2962
+      },
+      {
+         "hp": 988467,
+         "pl": 4100,
+         "eind": 2965
+      },
+      {
+         "hp": 1000000,
+         "pl": 4600,
+         "eind": 2967
+      },
+      {
+         "pl": 3200,
+         "eind": 2968
+      },
+      {
+         "pl": 2900,
+         "eind": 2969
+      },
+      {
+         "pl": 3100,
+         "eind": 2970
+      },
+      {
+         "pl": 3200,
+         "eind": 2971
       }
    ],
    "214": [
@@ -96176,6 +96750,7 @@
          "link2": 59,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -100324,6 +100899,10 @@
          "eind": 2778
       },
       {
+         "dss": "DSS Here",
+         "eind": 2779
+      },
+      {
          "pl": 17000,
          "eind": 2780
       },
@@ -100380,6 +100959,7 @@
       {
          "hp": 389527,
          "pl": 21500,
+         "dss": "",
          "eind": 2791
       },
       {
@@ -100962,39 +101542,75 @@
       },
       {
          "pl": 700,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 300,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 900,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 1300,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 2100,
+         "eind": 2949
+      },
+      {
+         "pl": 2700,
          "eind": 2950
       },
       {
          "pl": 2500,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 2200,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 4000,
+         "eind": 2956
+      },
+      {
+         "pl": 2700,
          "eind": 2957
       },
       {
-         "pl": 1700,
+         "pl": 1100,
          "eind": 2958
+      },
+      {
+         "pl": 1900,
+         "eind": 2959
+      },
+      {
+         "pl": 1300,
+         "eind": 2961
+      },
+      {
+         "pl": 800,
+         "eind": 2962
+      },
+      {
+         "pl": 900,
+         "eind": 2965
+      },
+      {
+         "pl": 1400,
+         "eind": 2967
+      },
+      {
+         "pl": 900,
+         "eind": 2968
+      },
+      {
+         "pl": 700,
+         "eind": 2969
       }
    ],
    "217": [
@@ -101006,6 +101622,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -104054,15 +104671,15 @@
       },
       {
          "pl": 900,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 200,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": "<10",
-         "eind": 2948
+         "eind": 2947
       }
    ],
    "152": [
@@ -104074,6 +104691,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -104584,6 +105202,7 @@
          "link2": 60,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -104995,6 +105614,7 @@
          "link2": 61,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -106236,6 +106856,7 @@
          "link2": 62,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -106757,6 +107378,7 @@
          "link2": 61,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -107645,6 +108267,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -109817,6 +110440,7 @@
          "link2": 63,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -110220,6 +110844,7 @@
          "link2": 64,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -113857,11 +114482,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "199": [
@@ -113873,6 +114498,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -116261,31 +116887,60 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 300,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 400,
-         "eind": 2950
+         "eind": 2949
       },
       {
          "pl": 500,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 1000,
+         "eind": 2956
+      },
+      {
+         "pl": 800,
          "eind": 2957
       },
       {
-         "pl": 400,
+         "pl": 200,
          "eind": 2958
+      },
+      {
+         "pl": 500,
+         "eind": 2959
+      },
+      {
+         "pl": 300,
+         "eind": 2961
+      },
+      {
+         "pl": 200,
+         "eind": 2962
+      },
+      {
+         "pl": 100,
+         "r": 1.3889,
+         "eind": 2968
+      },
+      {
+         "pl": "<10",
+         "eind": 2969
+      },
+      {
+         "pl": 100,
+         "eind": 2970
       }
    ],
    "200": [
@@ -116297,6 +116952,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -117767,6 +118423,7 @@
       {
          "hp": 667234,
          "pl": 4800,
+         "dss": "DSS Here",
          "eind": 2813
       },
       {
@@ -117879,6 +118536,10 @@
          "eind": 2836
       },
       {
+         "dss": "",
+         "eind": 2840
+      },
+      {
          "pl": 100,
          "eind": 2841
       },
@@ -117896,11 +118557,11 @@
       },
       {
          "pl": 200,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "158": [
@@ -117912,6 +118573,7 @@
          "link2": 65,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -120335,6 +120997,7 @@
          "link2": 66,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -121296,6 +121959,7 @@
          "link2": 66,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -123139,6 +123803,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -125800,6 +126465,7 @@
          "link2": 67,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127226,6 +127892,7 @@
          "link2": 68,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127352,6 +128019,7 @@
          "link2": 69,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127474,6 +128142,7 @@
          "link2": 70,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127608,6 +128277,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127738,6 +128408,7 @@
          "link2": 69,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127868,6 +128539,7 @@
          "link2": 71,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -127994,6 +128666,7 @@
          "link2": 72,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -128860,6 +129533,7 @@
          "link2": 73,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -130651,6 +131325,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -131821,6 +132496,7 @@
          "link2": 74,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -133180,6 +133856,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -134114,6 +134791,7 @@
          "link2": 73,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -134439,6 +135117,7 @@
          "link2": 75,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -136296,6 +136975,7 @@
       },
       {
          "pl": 2500,
+         "dss": "DSS Here",
          "eind": 2724
       },
       {
@@ -136349,6 +137029,7 @@
       {
          "hp": 409756,
          "pl": 25300,
+         "dss": "",
          "eind": 2735
       },
       {
@@ -136437,6 +137118,7 @@
       {
          "hp": 724755,
          "pl": 4700,
+         "dss": "DSS Here",
          "eind": 2756
       },
       {
@@ -136497,6 +137179,7 @@
       {
          "hp": 703736,
          "pl": 8600,
+         "dss": "",
          "eind": 2768
       },
       {
@@ -136602,6 +137285,7 @@
       },
       {
          "pl": 1500,
+         "dss": "DSS Here",
          "eind": 2791
       },
       {
@@ -136653,6 +137337,7 @@
       },
       {
          "pl": 4100,
+         "dss": "",
          "eind": 2803
       },
       {
@@ -136950,6 +137635,7 @@
       },
       {
          "pl": 1000,
+         "dss": "DSS Here",
          "eind": 2931
       },
       {
@@ -136991,50 +137677,86 @@
          "eind": 2939
       },
       {
-         "pl": 3000,
-         "eind": 2940
-      },
-      {
          "hp": 999968,
          "pl": 4000,
-         "eind": 2941
+         "eind": 2940
       },
       {
          "hp": 1000000,
          "pl": 1000,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 300,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 1600,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 1500,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 2200,
+         "eind": 2949
+      },
+      {
+         "pl": 3300,
          "eind": 2950
       },
       {
          "pl": 3200,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 2700,
-         "eind": 2954
+         "eind": 2952
       },
       {
          "pl": 9500,
+         "eind": 2955
+      },
+      {
+         "pl": 9800,
          "eind": 2957
       },
       {
-         "pl": 4600,
+         "pl": 2000,
          "eind": 2958
+      },
+      {
+         "pl": 4900,
+         "eind": 2959
+      },
+      {
+         "pl": 3200,
+         "eind": 2961
+      },
+      {
+         "pl": 1000,
+         "eind": 2962
+      },
+      {
+         "pl": 1200,
+         "eind": 2965
+      },
+      {
+         "pl": 2000,
+         "eind": 2967
+      },
+      {
+         "pl": 800,
+         "eind": 2968
+      },
+      {
+         "pl": 700,
+         "eind": 2969
+      },
+      {
+         "pl": 600,
+         "eind": 2971
       }
    ],
    "161": [
@@ -137046,6 +137768,7 @@
          "link2": 75,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -137769,6 +138492,7 @@
          "link2": 76,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -139391,31 +140115,51 @@
       },
       {
          "pl": "<10",
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 100,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": "<10",
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 100,
-         "eind": 2950
+         "eind": 2949
       },
       {
          "pl": 200,
-         "eind": 2952
+         "eind": 2951
       },
       {
          "pl": 400,
+         "eind": 2955
+      },
+      {
+         "pl": 300,
          "eind": 2957
       },
       {
-         "pl": 200,
+         "pl": 100,
          "eind": 2958
+      },
+      {
+         "pl": 200,
+         "eind": 2959
+      },
+      {
+         "pl": "<10",
+         "eind": 2962
+      },
+      {
+         "pl": 100,
+         "eind": 2965
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "163": [
@@ -139427,6 +140171,7 @@
          "link2": 77,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -139500,6 +140245,7 @@
          "link2": 77,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -139703,31 +140449,51 @@
       },
       {
          "pl": "<10",
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 200,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 300,
+         "eind": 2949
+      },
+      {
+         "pl": 400,
          "eind": 2950
       },
       {
-         "pl": 400,
+         "pl": 300,
          "eind": 2952
       },
       {
-         "pl": 300,
-         "eind": 2954
+         "pl": 400,
+         "eind": 2956
+      },
+      {
+         "pl": 100,
+         "eind": 2958
       },
       {
          "pl": 400,
-         "eind": 2957
+         "eind": 2959
       },
       {
          "pl": 200,
-         "eind": 2958
+         "eind": 2961
+      },
+      {
+         "pl": 100,
+         "eind": 2962
+      },
+      {
+         "pl": 200,
+         "eind": 2967
+      },
+      {
+         "pl": 100,
+         "eind": 2968
       }
    ],
    "251": [
@@ -139739,6 +140505,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140055,35 +140822,55 @@
       },
       {
          "pl": 200,
-         "eind": 2941
+         "eind": 2940
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
+         "eind": 2946
+      },
+      {
+         "pl": 100,
          "eind": 2947
       },
       {
-         "pl": 100,
-         "eind": 2948
-      },
-      {
          "pl": 200,
-         "eind": 2952
+         "eind": 2950
       },
       {
          "pl": 100,
-         "eind": 2954
+         "eind": 2953
       },
       {
          "pl": 400,
+         "eind": 2956
+      },
+      {
+         "pl": 300,
          "eind": 2957
       },
       {
-         "pl": 200,
+         "pl": 100,
          "eind": 2958
+      },
+      {
+         "pl": 200,
+         "eind": 2959
+      },
+      {
+         "pl": "<10",
+         "eind": 2962
+      },
+      {
+         "pl": 100,
+         "eind": 2967
+      },
+      {
+         "pl": "<10",
+         "eind": 2968
       }
    ],
    "6": [
@@ -140095,6 +140882,7 @@
          "link2": 78,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140117,6 +140905,7 @@
          "link2": 79,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140139,6 +140928,7 @@
          "link2": 80,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140162,6 +140952,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140180,6 +140971,7 @@
          "link2": 81,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140202,6 +140994,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140220,6 +141013,7 @@
          "link2": 82,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140242,6 +141036,7 @@
          "link2": 83,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140264,6 +141059,7 @@
          "link2": 83,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140287,6 +141083,7 @@
          "link2": 84,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140309,6 +141106,7 @@
          "link2": 84,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140335,6 +141133,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140353,6 +141152,7 @@
          "link2": 85,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140375,6 +141175,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140397,6 +141198,7 @@
          "link2": 86,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140419,6 +141221,7 @@
          "link2": 87,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140445,6 +141248,7 @@
          "link2": 88,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140467,6 +141271,7 @@
          "link2": 89,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140489,6 +141294,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140496,6 +141302,43 @@
          "pl": "<10",
          "r": 1388.8889,
          "eind": 94
+      },
+      {
+         "t": 25,
+         "eind": 2959
+      },
+      {
+         "pl": 48300,
+         "eind": 2961
+      },
+      {
+         "pl": 102100,
+         "eind": 2962
+      },
+      {
+         "pl": 90100,
+         "eind": 2965
+      },
+      {
+         "pl": 83500,
+         "eind": 2967
+      },
+      {
+         "pl": 31100,
+         "eind": 2968
+      },
+      {
+         "pl": 28700,
+         "t": 16,
+         "eind": 2969
+      },
+      {
+         "pl": 4900,
+         "eind": 2970
+      },
+      {
+         "pl": 3000,
+         "eind": 2971
       }
    ],
    "59": [
@@ -140507,6 +141350,7 @@
          "link2": 90,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140529,6 +141373,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140547,6 +141392,7 @@
          "link2": 91,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140569,6 +141415,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140579,47 +141426,80 @@
       },
       {
          "t": 25,
-         "eind": 2941
+         "eind": 2940
       },
       {
          "pl": 118700,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": 62900,
-         "eind": 2947
+         "eind": 2946
       },
       {
          "pl": 100700,
-         "eind": 2948
+         "eind": 2947
       },
       {
          "pl": 70600,
-         "eind": 2949
+         "eind": 2948
       },
       {
          "pl": 67000,
+         "eind": 2949
+      },
+      {
+         "pl": 89500,
          "eind": 2950
       },
       {
          "pl": 101500,
+         "eind": 2951
+      },
+      {
+         "pl": 146200,
+         "t": 16,
          "eind": 2952
       },
       {
-         "t": 16,
+         "pl": 150300,
          "eind": 2953
       },
       {
-         "pl": 150300,
-         "eind": 2954
+         "pl": 122600,
+         "eind": 2955
       },
       {
-         "pl": 122600,
+         "pl": 16200,
          "eind": 2957
       },
       {
-         "pl": 5600,
+         "pl": 2400,
          "eind": 2958
+      },
+      {
+         "pl": 5000,
+         "eind": 2959
+      },
+      {
+         "pl": 4500,
+         "eind": 2961
+      },
+      {
+         "pl": 3600,
+         "eind": 2962
+      },
+      {
+         "pl": 3200,
+         "eind": 2965
+      },
+      {
+         "pl": 2500,
+         "eind": 2967
+      },
+      {
+         "pl": 500,
+         "eind": 2968
       }
    ],
    "175": [
@@ -140631,6 +141511,7 @@
          "link2": 92,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140653,6 +141534,7 @@
          "link2": 92,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140676,6 +141558,7 @@
          "link2": 93,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140698,6 +141581,7 @@
          "link2": 94,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140720,6 +141604,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140738,6 +141623,7 @@
          "link2": 95,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140761,6 +141647,7 @@
          "link2": 95,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140783,6 +141670,7 @@
          "link2": 96,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140805,6 +141693,7 @@
          "link2": 96,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140827,6 +141716,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140845,6 +141735,7 @@
          "link2": 97,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140867,6 +141758,7 @@
          "link2": 98,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140889,6 +141781,7 @@
          "link2": 99,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140911,6 +141804,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140933,6 +141827,7 @@
          "link2": 99,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140955,6 +141850,7 @@
          "link2": 100,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140977,6 +141873,7 @@
          "link2": 101,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -140999,6 +141896,7 @@
          "link2": 102,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141022,6 +141920,7 @@
          "link2": 101,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141044,6 +141943,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141066,6 +141966,7 @@
          "link2": 103,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141088,6 +141989,7 @@
          "link2": 104,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141110,6 +142012,7 @@
          "link2": 105,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141136,6 +142039,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141154,6 +142058,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141172,6 +142077,7 @@
          "link2": 106,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141194,6 +142100,7 @@
          "link2": 107,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141220,6 +142127,7 @@
          "link2": 108,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141242,6 +142150,7 @@
          "link2": 109,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141264,6 +142173,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141282,6 +142192,7 @@
          "link2": 110,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141304,6 +142215,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141322,6 +142234,7 @@
          "link2": 111,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141333,6 +142246,14 @@
       {
          "link2": 0,
          "eind": 1072
+      },
+      {
+         "t": 25,
+         "eind": 2970
+      },
+      {
+         "pl": 900,
+         "eind": 2971
       }
    ],
    "145": [
@@ -141344,6 +142265,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141362,6 +142284,7 @@
          "link2": 112,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141388,6 +142311,7 @@
          "link2": 113,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141414,6 +142338,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141432,6 +142357,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141450,6 +142376,7 @@
          "link2": 114,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141472,6 +142399,7 @@
          "link2": 115,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141494,6 +142422,7 @@
          "link2": 115,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141520,6 +142449,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141538,6 +142468,7 @@
          "link2": 116,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141560,6 +142491,7 @@
          "link2": 117,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141582,6 +142514,7 @@
          "link2": 118,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141604,6 +142537,7 @@
          "link2": 119,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141626,6 +142560,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141644,6 +142579,7 @@
          "link2": 120,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141666,6 +142602,7 @@
          "link2": 121,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141688,6 +142625,7 @@
          "link2": 122,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141710,6 +142648,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141728,6 +142667,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141746,6 +142686,7 @@
          "link2": 123,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141768,6 +142709,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141786,6 +142728,7 @@
          "link2": 124,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141808,6 +142751,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141826,6 +142770,7 @@
          "link2": 125,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141848,6 +142793,7 @@
          "link2": 126,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141870,6 +142816,7 @@
          "link2": 126,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141892,6 +142839,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141910,6 +142858,7 @@
          "link2": 127,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141932,6 +142881,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141950,6 +142900,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141968,6 +142919,7 @@
          "link2": 128,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -141990,6 +142942,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142008,6 +142961,7 @@
          "link2": 129,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142030,6 +142984,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142048,6 +143003,7 @@
          "link2": 130,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142070,6 +143026,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142077,6 +143034,34 @@
          "pl": "<10",
          "r": 1388.8889,
          "eind": 94
+      },
+      {
+         "t": 25,
+         "eind": 2962
+      },
+      {
+         "pl": 38500,
+         "eind": 2965
+      },
+      {
+         "pl": 35400,
+         "eind": 2967
+      },
+      {
+         "pl": 12200,
+         "eind": 2968
+      },
+      {
+         "pl": 11400,
+         "eind": 2969
+      },
+      {
+         "pl": 33300,
+         "eind": 2970
+      },
+      {
+         "pl": 36100,
+         "eind": 2971
       }
    ],
    "61": [
@@ -142088,6 +143073,7 @@
          "link2": 131,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142110,6 +143096,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142128,6 +143115,7 @@
          "link2": 132,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142150,6 +143138,7 @@
          "link2": 131,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142172,6 +143161,7 @@
          "link2": 133,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142194,6 +143184,7 @@
          "link2": 133,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142216,6 +143207,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142234,6 +143226,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_arid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142521,6 +143514,7 @@
       {
          "hp": 907848,
          "pl": 21300,
+         "dss": "DSS Here",
          "eind": 2903
       },
       {
@@ -142606,6 +143600,10 @@
          "eind": 2928
       },
       {
+         "dss": "",
+         "eind": 2931
+      },
+      {
          "pl": "<10",
          "eind": 2932
       },
@@ -142615,15 +143613,15 @@
       },
       {
          "pl": "<10",
-         "eind": 2941
+         "eind": 2940
       },
       {
          "pl": 300,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "206": [
@@ -142635,6 +143633,7 @@
          "link2": 134,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -142657,6 +143656,7 @@
          "link2": 135,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143316,6 +144316,7 @@
       {
          "hp": 780903,
          "pl": 9600,
+         "dss": "DSS Here",
          "eind": 2891
       },
       {
@@ -143376,6 +144377,7 @@
       },
       {
          "pl": 500,
+         "dss": "",
          "eind": 2903
       },
       {
@@ -143428,11 +144430,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "252": [
@@ -143444,6 +144446,7 @@
          "link2": 136,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143466,6 +144469,7 @@
          "link2": 135,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143757,6 +144761,7 @@
       {
          "hp": 802606,
          "pl": 12100,
+         "dss": "DSS Here",
          "eind": 2872
       },
       {
@@ -143844,6 +144849,7 @@
       },
       {
          "pl": 300,
+         "dss": "",
          "eind": 2891
       },
       {
@@ -143876,11 +144882,11 @@
       },
       {
          "pl": 200,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "72": [
@@ -143892,6 +144898,7 @@
          "link2": 137,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143914,6 +144921,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143932,6 +144940,7 @@
          "link2": 138,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143954,6 +144963,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143972,6 +144982,7 @@
          "link2": 139,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -143994,6 +145005,7 @@
          "link2": 140,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144016,6 +145028,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_spiky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144034,6 +145047,7 @@
          "link2": 141,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144056,6 +145070,7 @@
          "link2": 142,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144078,6 +145093,7 @@
          "link2": 142,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144100,6 +145116,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144118,6 +145135,7 @@
          "link2": 143,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -144140,6 +145158,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145386,6 +146405,7 @@
       {
          "hp": 861420,
          "pl": 16700,
+         "dss": "DSS Here",
          "eind": 2768
       },
       {
@@ -145438,6 +146458,10 @@
          "pl": 25200,
          "t": 16,
          "eind": 2778
+      },
+      {
+         "dss": "",
+         "eind": 2779
       },
       {
          "hp": 1000000,
@@ -145510,11 +146534,11 @@
       },
       {
          "pl": 100,
-         "eind": 2946
+         "eind": 2945
       },
       {
          "pl": "<10",
-         "eind": 2947
+         "eind": 2946
       }
    ],
    "130": [
@@ -145526,6 +146550,7 @@
          "link2": 143,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145627,6 +146652,7 @@
          "link2": 144,
          "gls": null,
          "biome": "sandy_mineral",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145799,6 +146825,7 @@
          "link2": 145,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145821,6 +146848,7 @@
          "link2": 146,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145843,6 +146871,7 @@
          "link2": 0,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145861,6 +146890,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145879,6 +146909,7 @@
          "link2": 147,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145901,6 +146932,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145919,6 +146951,7 @@
          "link2": 148,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145941,6 +146974,7 @@
          "link2": 149,
          "gls": null,
          "biome": "primordial_purple",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145963,6 +146997,7 @@
          "link2": 150,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -145985,6 +147020,7 @@
          "link2": 151,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146007,6 +147043,7 @@
          "link2": 152,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146029,6 +147066,7 @@
          "link2": 153,
          "gls": null,
          "biome": "sandy_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146051,6 +147089,7 @@
          "link2": 0,
          "gls": null,
          "biome": "moor_tundra",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146069,6 +147108,7 @@
          "link2": 154,
          "gls": null,
          "biome": "arctic_glacier_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146091,6 +147131,7 @@
          "link2": 155,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146113,6 +147154,7 @@
          "link2": 156,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146135,6 +147177,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146153,6 +147196,7 @@
          "link2": 0,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146171,6 +147215,7 @@
          "link2": 157,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146193,6 +147238,7 @@
          "link2": 158,
          "gls": null,
          "biome": "primordial_base",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146215,6 +147261,7 @@
          "link2": 157,
          "gls": null,
          "biome": "arctic_glacier_coldrocky",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146237,6 +147284,7 @@
          "link2": 159,
          "gls": null,
          "biome": "moor_red",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146259,6 +147307,7 @@
          "link2": 158,
          "gls": null,
          "biome": "moor_baseplanet",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146281,6 +147330,7 @@
          "link2": 160,
          "gls": null,
          "biome": "sandy_acid",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146303,6 +147353,7 @@
          "link2": 161,
          "gls": null,
          "biome": "primordial_blue",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146325,6 +147376,7 @@
          "link2": 162,
          "gls": null,
          "biome": "sandy_moon",
+         "dss": null,
          "eind": 0
       },
       {
@@ -146347,6 +147399,7 @@
          "link2": 0,
          "gls": null,
          "biome": "primordial_dead",
+         "dss": null,
          "eind": 0
       },
       {

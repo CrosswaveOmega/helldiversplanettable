@@ -1,7 +1,7 @@
 {
     "MajorEvent": {
         "name": "Major Order",
-        "matchable": ["MAJOR ORDER"],
+        "matchable": ["MAJOR ORDER","Emergency Alert"],
         "must": true,
         "sub": [
             {
@@ -44,9 +44,17 @@
         "name": "defense lost",
         "matchable": ["defense is failed"]
     },
+    "InvasionFailedEvent": {
+        "name": "invasion lost",
+        "matchable": ["invasion is successful"]
+    },
     "DefenseWonEvent": {
         "name": "defense won",
         "matchable": ["defense is won"]
+    },
+    "InvasionWonEvent": {
+        "name": "defense won",
+        "matchable": ["invasion is repelled"]
     },
     "DefenseAutoWonEvent": {
         "name": "defense won",
@@ -56,6 +64,10 @@
         "name": "defense start",
         "matchable": ["is attacked by", "assaulted into a defense"]
     },
+    "InvasionStartEvent": {
+        "name": "defense start",
+        "matchable": ["is invaded by"]
+    },
     "WarHistoryEvent": {
         "name": "warhistoryapilaunch",
         "matchable": ["monitoring satellites are launched"]
@@ -63,15 +75,18 @@
 
     "NewLinkEvent": {
         "name": "newlink",
-        "matchable": ["is added"]
+        "matchable": ["is added","warp link"],
+        "mode":"and"
     },
     "DestroyLinkEvent": {
         "name": "destroylink",
-        "matchable": ["is removed"]
+        "matchable": ["is removed","warp link"],
+        "mode":"and"
     },
     "ClearLinksEvent": {
         "name": "clearlinks",
-        "matchable": ["are obliterated"]
+        "matchable": ["are obliterated","warp link"],
+        "mode":"and"
     },
     "ClearSectorLinks":{
         "name":"clear_sector_links",
@@ -175,5 +190,33 @@
     "JetBrigadeSwitch": {
         "name": "Jet Brigade Retreat",
         "matchable": ["Jet Brigade switches"]
+    },
+    "SiteBuilt":{
+        "name": "site built",
+        "matchable": ["is established as"]
+        
+    },
+    
+    "SiteDestroyed":{
+        "name": "site destroyed",
+        "matchable": ["is removed"]
+        
+    },
+    
+    "DSS Deploy":{
+        "name": "dss_move",
+        "matchable": ["DSS deploys to"]
+    },
+    
+    "DSS Effect start":{
+        "name": "DSS effect start",
+        "matchable": ["DSS effect","is activated"],
+        "mode":"and"
+    },
+    
+    "DSS Effect end":{
+        "name": "DSS effect end",
+        "matchable": ["DSS effect","stops"],
+        "mode":"and"
     }
 }

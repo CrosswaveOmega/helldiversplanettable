@@ -58,9 +58,9 @@ ${update_time}
 const factcolor = Plot.scale({
   color: {
     type: "categorical",
-    domain: ["TERMINIDS", "AUTOMATON", "HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL"],  // specify known categories directly
+    domain: ["TERMINIDS", "AUTOMATON", "ILLUMINATE","HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL","ILLUMINATEL"],  // specify known categories directly
     unknown: "purple",  // specify the color for unknown categories
-    range: ["orange", "red", "blue","darkorange", "darkred", "darkblue"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
+    range: ["orange", "red", "purple", "blue","darkorange", "darkred", "darkblue","darkpurple"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
   }
 });
 ```
@@ -69,7 +69,7 @@ const factcolor = Plot.scale({
 ```js
 
 
-const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['AUTOMATON','TERMINIDS'], label:'Filter by front'})
+const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
 const front_filterg= Generators.input(front_filter);
 const show_if =   Inputs.checkbox(
     new Map([

@@ -11,7 +11,7 @@ title: The Great Big Galactic War History Map
 
 
   import {
-    makeplotcurrent,eList, count_distinct_planets,list_text
+    makeplotcurrent, makeplotcurrent_group,eList, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
     import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
 ```
@@ -188,5 +188,31 @@ ${GetMapSvgButton}
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 ```js
+function createCircleFeature(center, radius, numPoints = 64) {
+    const [cx, cy] = center;
+    const coordinates = [];
+    
+    for (let i = 0; i <= numPoints; i++) {
+        const angle = (2 * Math.PI * i) / numPoints;
+        const x = cx + radius * Math.cos(angle);
+        const y = cy + radius * Math.sin(angle);
+        coordinates.push([x, y]);
+    }
+    
+    return {
+        type: "Feature",
+        geometry: {
+            type: "Polygon",
+            coordinates: [coordinates], // GeoJSON expects a nested array for polygons
+        },
+        properties: {
+            id: "sol",
+            name: "sol-sector",
+            class: "sol-system sector-path",
+        },
+    };
+}
+
+
 // Plot.geo(world).plot({projection: {type: "identity", domain: world}})
 ```

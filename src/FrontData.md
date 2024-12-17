@@ -79,9 +79,9 @@ const factcolor = Plot.scale({
 const biocolors = Plot.scale({
   color: {
     type: "categorical",
-     domain: ["TERMINIDS", "AUTOMATON", "HUMANS","TOTAL"],  // specify known categories directly
+    domain: ["TERMINIDS", "AUTOMATON", "ILLUMINATE","HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL","ILLUMINATEL"],  // specify known categories directly
     unknown: "purple",  // specify the color for unknown categories
-    range: ["orange", "red", "blue","green"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
+    range: ["orange", "red", "purple", "blue","darkorange", "darkred", "darkblue","darkpurple"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
   }
 });
 ```
