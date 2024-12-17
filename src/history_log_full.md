@@ -3411,7 +3411,7 @@ Dispatch: Emergency Alert. The Terminid Research Center has suffered a catastrop
 *Tarsh* defense is failed (2024-11-12 20:06  UTC)<br/>
 ↳ *Tarsh* liberation campaign starts (2024-11-12 20:06  UTC)<br/>
 ↳ Automaton Jet Brigade switches to guarding *Tarsh* (2024-11-12 20:06  UTC)<br/>
-*Tarsh* of the Marspira sector's Logistical Hub is no longer a site (2024-11-12 20:06  UTC)<br/>
+*Tarsh* of the Marspira sector's Logistical Hub is removed (2024-11-12 20:06  UTC)<br/>
  Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Acamar IV
  (2024-11-12 20:06  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics Hub has been destroyed. Fortunately, the facility is no longer essential, and the defense held long enough to safely evacuate an acceptable number of its valued personnel. However, the Automatons have pinpointed the location of the DSS. The Jet Brigade will soon advance towards *Gaellivare*. (2024-11-12 20:27  UTC)<br/>
@@ -3439,7 +3439,7 @@ Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:
 Dispatch: STRATEGIC UPDATE. SEAF reinforcements from *Lesath*, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice. (2024-11-14 00:01  UTC)<br/>
 DSS Construction Phase Four is finished (2024-11-14 02:29  UTC)<br/>
 DSS is activated (2024-11-14 02:29  UTC)<br/>
-*Gaellivare* of the Talus sector's DSS Construction Site is no longer a site (2024-11-14 02:29  UTC)<br/>
+*Gaellivare* of the Talus sector's DSS Construction Site is removed (2024-11-14 02:29  UTC)<br/>
 DSS deploys to *Gaellivare* of the Talus sector (2024-11-14 02:29  UTC)<br/>
  Decay: 0.0 on Gar Haren
  (2024-11-14 02:29  UTC)<br/>
@@ -3517,7 +3517,7 @@ DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
 Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
-*Acamar IV* of the Jin Xi sector's Terminid Research Preserve is no longer a site (2024-11-20 16:41  UTC)<br/>
+*Acamar IV* of the Jin Xi sector's Terminid Research Preserve is removed (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
 Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
@@ -3751,26 +3751,26 @@ Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has bee
 *Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-12-16 02:32  UTC)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-12-16 02:34  UTC)<br/>
  Decay: 0.0 on Shelt
- (2024-12-16 06:00  UTC)<br/>
+ (2024-12-16 04:00  UTC)<br/>
 
 ### Day: #313
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Shelt, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-16 10:00  UTC)<br/>
 *Genesis Prime* of the Rictus sector is invaded by Illuminates (2024-12-16 21:38  UTC)<br/>
 Major Order | Operation A1-12-4 Repel Illuminate Incursions is issued | Objective: Defend (2024-12-16 21:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminates (2024-12-17 00:10  UTC)<br/>
-Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:11  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Shelt, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-17 00:11  UTC)<br/>
+ (2024-12-17 00:10  UTC)<br/>
+Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:11  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:14  UTC)<br/>
 *Gar Haren* defense is failed (2024-12-17 02:34  UTC)<br/>
 ↳ *Gar Haren* liberation campaign starts (2024-12-17 02:34  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Shelt, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-17 02:34  UTC)<br/>
 *Shelt* defense is failed (2024-12-17 02:36  UTC)<br/>
 ↳ *Shelt* liberation campaign starts (2024-12-17 02:36  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-17 08:00  UTC)<br/>
+ (2024-12-17 06:00  UTC)<br/>
 
 ### Day: #314
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
