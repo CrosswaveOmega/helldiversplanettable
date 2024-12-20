@@ -3754,11 +3754,11 @@ Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has bee
  (2024-12-16 04:00  UTC)<br/>
 
 ### Day: #313
-*Genesis Prime* of the Rictus sector is invaded by Illuminates (2024-12-16 21:38  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Illuminate (2024-12-16 21:38  UTC)<br/>
 Major Order | Operation A1-12-4 Repel Illuminate Incursions is issued | Objective: Defend (2024-12-16 21:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminates (2024-12-17 00:10  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Illuminate (2024-12-17 00:10  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:11  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:14  UTC)<br/>
 *Gar Haren* defense is failed (2024-12-17 02:34  UTC)<br/>
@@ -3773,22 +3773,20 @@ Major Order A1-12-4's parameters are changed from Objective: Defend to Objective
  (2024-12-17 09:00  UTC)<br/>
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
 ↳ Rictus sector is fully liberated (2024-12-17 09:38  UTC)<br/>
-*Bellatrix* of the Guang sector is invaded by Illuminates (2024-12-17 10:40  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Illuminate (2024-12-17 10:40  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 10:55  UTC)<br/>
 *Mog*'s invasion is successful (2024-12-17 12:10  UTC)<br/>
 ↳ Morgon sector is fully liberated (2024-12-17 12:10  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-17 16:00  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2024-12-17 18:27  UTC)<br/>
 ↳ Guang sector is fully liberated (2024-12-17 18:27  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminates (2024-12-17 18:29  UTC)<br/>
-*Kerth Secundus* of the Rictus sector is attacked by Illuminates (2024-12-17 18:30  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2024-12-17 18:29  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2024-12-17 18:30  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ANALYZED. MINDEF strategists have conducted an analysis of the Illuminate attack pattern, providing insight into their plans. With a high degree of certainty, their next attack is predicted to be on NEW STOCKHOLM. (2024-12-17 20:47  UTC)<br/>
 *Kerth Secundus*'s invasion is repelled (2024-12-18 01:32  UTC)<br/>
 *Valmox*'s invasion is repelled (2024-12-18 06:17  UTC)<br/>
 ↳ Rictus sector is fully liberated (2024-12-18 06:17  UTC)<br/>
-*Andar* of the Akira sector is attacked by Illuminates (2024-12-18 08:39  UTC)<br/>
-*Acubens Prime* of the Gallux sector is attacked by Illuminates (2024-12-18 08:41  UTC)<br/>
+*Andar* of the Akira sector is invaded by Illuminate (2024-12-18 08:39  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2024-12-18 08:41  UTC)<br/>
 
 ### Day: #315
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3802,15 +3800,35 @@ Dispatch: EXPERIMENTAL WEAPON DEPLOYMENT. High Command has temporarily authorize
 ↳ Akira sector is fully liberated (2024-12-18 21:15  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2024-12-18 21:54  UTC)<br/>
 ↳ Gallux sector is fully liberated (2024-12-18 21:54  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminates (2024-12-18 22:26  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2024-12-18 22:26  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-12-18 23:47  UTC)<br/>
 Dispatch: SITUATIONAL DEVELOPMENT. Some Helldivers may have noticed novel electromagnetic phenomena in vicinity of the *Meridia* Black Hole. High Command is aware of the situation, which is being closely monitored by experts in the field. Helldivers are advised to avoid distractions and focus their full attention on repelling the Illuminate threat. (2024-12-19 01:19  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-19 01:19  UTC)<br/>
 *Hadar*'s invasion is repelled (2024-12-19 06:10  UTC)<br/>
 ↳ Ferris sector is fully liberated (2024-12-19 06:10  UTC)<br/>
-*Gemma* of the Ursa sector is invaded by Illuminates (2024-12-19 06:29  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Illuminate (2024-12-19 06:29  UTC)<br/>
 
 ### Day: #316
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-19 09:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. The amount of ammo, Stratagems, and lives of heroes used to combat the Illuminate extremists have put the Q4 defense budget under unexpected strain. To address this issue, the Ministry of Defense has entered into a contract with reputable arms manufacturer Ståhl Arms. All Helldivers have been granted access to six new items, including two weapons and one armor set, effective immediately. (2024-12-19 15:21  UTC)<br/>
+*Gemma*'s invasion is successful (2024-12-19 18:30  UTC)<br/>
+↳ Ursa sector is fully liberated (2024-12-19 18:30  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-19 18:30  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is invaded by Illuminate (2024-12-19 19:35  UTC)<br/>
+Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV). If the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted. (2024-12-19 19:43  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-19 19:43  UTC)<br/>
+*Fenrir III* defense is failed (2024-12-19 23:49  UTC)<br/>
+↳ *Fenrir III* liberation campaign starts (2024-12-19 23:49  UTC)<br/>
+*Achernar Secundus*'s invasion is repelled (2024-12-20 02:28  UTC)<br/>
+↳ Borgus sector is fully liberated (2024-12-20 02:28  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-20 04:00  UTC)<br/>
+
+### Day: #317
+*Skaash* of the Ursa sector is invaded by Illuminate (2024-12-20 09:36  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Illuminate (2024-12-20 09:36  UTC)<br/>
+Dispatch: ACHERNAR SECUNDUS SECURED. The Illuminate have been repelled from ACHERNAR SECUNDUS, and the AM Defense Factory Hub has been secured. Production of the Fast Reconnaissance Vehicle (FRV) has resumed. The vehicle will soon be available for fleetwide requisition. Significantly, millions of colonists are also now safe. (2024-12-20 13:00  UTC)<br/>
