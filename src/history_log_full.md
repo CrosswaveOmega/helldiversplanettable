@@ -2825,7 +2825,6 @@ Major Order | Operation A1-9-5 DSS Construction Site is issued | Objective: Libe
 *Gaellivare* of the Talus sector is established as a DSS Construction Site (2024-09-28 01:08  UTC)<br/>
 DSS Construction Phase One is started (2024-09-28 01:08  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (2024-09-28 01:14  UTC)<br/>
-DSS *Tarsh* is established as a logistical hub site (2024-09-28 01:15  UTC)<br/>
 *Tarsh* of the Marspira sector is established as a Logistical Hub (2024-09-28 01:15  UTC)<br/>
 
 ### Day: #234
@@ -3635,6 +3634,9 @@ DSS effect Orbital Blockade stops (2024-12-01 05:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-01 22:58  UTC)<br/>
 
 ### Day: #299
+*Meridia* of the Umlaut sector is established as a Blackhole Location (2024-12-02 12:03  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Gar Haren<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Andromeda sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-02 14:00  UTC)<br/>
 *Matar Bay* is liberated (2024-12-02 17:10  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2024-12-02 17:10  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-02 23:00  UTC)<br/>
@@ -3792,15 +3794,11 @@ Dispatch: ILLUMINATE INCURSIONS ANALYZED. MINDEF strategists have conducted an a
 Dispatch: MULTIPLE ILLUMINATE INCURSIONS. ANDAR and ACUBENS PRIME have come under simultaneous attack by Illuminate forces. (2024-12-18 09:03  UTC)<br/>
 Dispatch: ILLUMINATE INCURSION ANALYSIS UNDER REVIEW. Recent developments indicate that the current Illuminate attack pattern analysis methodology may require redress. The process has been placed under review under further notice. (2024-12-18 10:00  UTC)<br/>
 Dispatch: EXPERIMENTAL WEAPON DEPLOYMENT. High Command has temporarily authorized early deployment of the experimental StA-X3 W.A.S.P. Launcher Support Weapon to all Illuminate incursion sites. (2024-12-18 10:35  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-18 12:00  UTC)<br/>
 *Andar*'s invasion is repelled (2024-12-18 21:15  UTC)<br/>
 ↳ Akira sector is fully liberated (2024-12-18 21:15  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2024-12-18 21:54  UTC)<br/>
 ↳ Gallux sector is fully liberated (2024-12-18 21:54  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2024-12-18 22:26  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-18 22:26  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-12-18 23:47  UTC)<br/>
 Dispatch: SITUATIONAL DEVELOPMENT. Some Helldivers may have noticed novel electromagnetic phenomena in vicinity of the *Meridia* Black Hole. High Command is aware of the situation, which is being closely monitored by experts in the field. Helldivers are advised to avoid distractions and focus their full attention on repelling the Illuminate threat. (2024-12-19 01:19  UTC)<br/>
  Decay: 0.0 on Fenrir III
@@ -3815,12 +3813,8 @@ Dispatch: ARSENAL AUGMENTATION. The amount of ammo, Stratagems, and lives of her
 ↳ Ursa sector is fully liberated (2024-12-19 18:30  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is invaded by Illuminate (2024-12-19 19:35  UTC)<br/>
 Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV). If the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted. (2024-12-19 19:43  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-19 19:43  UTC)<br/>
 *Fenrir III* defense is failed (2024-12-19 23:49  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-12-19 23:49  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Fenrir III<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-20 00:00  UTC)<br/>
 *Achernar Secundus*'s invasion is repelled (2024-12-20 02:28  UTC)<br/>
 ↳ Borgus sector is fully liberated (2024-12-20 02:28  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3895,8 +3889,32 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 ↳ *Hellmire* liberation campaign starts (2024-12-24 00:49  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is invaded by Illuminate (2024-12-24 04:12  UTC)<br/>
 *Seasse*'s invasion is successful (2024-12-24 05:18  UTC)<br/>
+↳ Omega sector is fully liberated (2024-12-24 05:18  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Bore Rock<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-24 08:00  UTC)<br/>
 
 ### Day: #321
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Bore Rock<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-24 09:00  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-24 15:25  UTC)<br/>
+*Afoyay Bay*'s invasion is successful (2024-12-24 16:13  UTC)<br/>
+↳ Gallux sector is fully liberated (2024-12-24 16:13  UTC)<br/>
+Major Order | Operation A1-12-5 Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of FENRIR III has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
+Major Order | Operation A1-12-6 Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
+Dispatch: HOLIDAY NOTICE. Today, citizens across the Federation observe one of our most special holidays. A joyous celebration of love, family, and pursuing peace: the Festival of Reckoning. Consult the Galactic Map on your ship for more information. (2024-12-24 23:21  UTC)<br/>
+Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all Helldivers, who proved their virtue this year through unhestitating sacrifice in defense of Freedom. All Helldivers will find the StA-X3 W.A.S.P. LAUNCHER Stratagem waiting in their Armory. (2024-12-24 23:22  UTC)<br/>
+*Bore Rock* defense is failed (2024-12-24 23:43  UTC)<br/>
+↳ *Bore Rock* liberation campaign starts (2024-12-24 23:43  UTC)<br/>
+↳ *Esker* liberation campaign ends (2024-12-24 23:43  UTC)<br/>
+↳ Falstaff sector is fully under Terminid control (2024-12-24 23:43  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2024-12-25 02:10  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2024-12-25 03:26  UTC)<br/>
+*Shelt* is liberated (2024-12-25 04:00  UTC)<br/>
+Talus sector is fully liberated (2024-12-25 04:00  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-25 04:00  UTC)<br/>
+
+### Day: #322
+Dispatch: HOLIDAY SONG. All Helldivers are invited to join in the classic holiday carol "Here They Come a'Reckonin':" Oh, here they come a'Recknonin', O'er hill and vale, Children play, bombs away, *Super Earth* we hail! Here they come a'Reckonin', Justice justly served, Flowers grow, blood will flow, Peace on *Super Earth*! (2024-12-25 11:06  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Illuminate (2024-12-25 13:30  UTC)<br/>
+*Rasp*'s invasion is successful (2024-12-25 14:11  UTC)<br/>
+↳ Gallux sector is fully liberated (2024-12-25 14:11  UTC)<br/>
