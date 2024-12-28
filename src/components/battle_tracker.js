@@ -129,8 +129,12 @@ class BattleManager {
             front: "ALL",
             planets: {},
             battles: 0,
+            sbattles:0,
+            scurrent:0,
             win: 0,
             loss: 0,
+            swin:0,
+            sloss:0,
             mins:0,
             current: 0,
             campaign_start: 0,
@@ -168,9 +172,11 @@ class BattleManager {
                         this.sector_battles[sector].planet = planet;
                         this.sector_battles[sector].pc += 1;
                         this.sector_battles[sector].sector = sector;
-                        this.planetTypes[sector].battles += 1;
-
-                        this.planetTypes[sector].current += 1;
+                        //this.planetTypes[sector].battles += 1;
+                        this.planetTypes[sector].sbattles += 1;
+                        this.planetTypes[sector].scurrent += 1;
+                        
+                        //this.planetTypes[sector].current += 1;
                     }
                 }
             }
@@ -488,9 +494,9 @@ class BattleManager {
                             subevents: this.planetTypes[sector]["sub"],
                         });
                         this.planetTypes[sector]["sub"] = {};
-                        this.planetTypes[sector].loss += 1;
+                        this.planetTypes[sector].sloss += 1;
                         this.planetTypes[sector].mins+=mins;
-                        this.planetTypes[sector].current -= 1;
+                        this.planetTypes[sector].scurrent -= 1;
                     }
                     if (
                         logEntry.type === "planet won" ||
@@ -506,10 +512,11 @@ class BattleManager {
                             subevents: this.planetTypes[sector]["sub"],
                         });
                         this.planetTypes[sector]["sub"] = {};
-                        this.planetTypes[sector].win += 1;
+                        this.planetTypes[sector].swin += 1;
+                        
                         
                         this.planetTypes[sector].mins+=mins;
-                        this.planetTypes[sector].current -= 1;
+                        this.planetTypes[sector].scurrent -= 1;
                     }
                 }
             }

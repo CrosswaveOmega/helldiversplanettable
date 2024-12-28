@@ -95,7 +95,7 @@ function sum_entries_by_front(historydata) {
 
   const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
   for (const sector in planetTypes) {
-    const { front, battles, win, loss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
+    const { front, battles, win, loss,swin,sloss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
 
     if (!frontSums[front]) {
       frontSums[front] = {
@@ -261,6 +261,12 @@ All Sector Battles
 
 </div>
 </div>
+PLEASE NOTE:
+Because the Illuminate have not occupied any planet yet as with the Terminids and Automatons, 
+a proper front for the Illuminate **cannot be determined as of yet.** 
+
+For now, the Illuminate invasions are considered to be on the HUMANS front.
+
 <div class="grid grid-cols-3">
     <div  class='card' style="font-size: 1.1em;">
     <h2>Terminid Front Campaigns</h2>
@@ -283,6 +289,7 @@ All Sector Battles
     <span >Total: ${entry_sums['TERMINIDS'].defensestart}</span><br/>
       <span >Won: ${entry_sums['TERMINIDS'].defensewon}</span><br/>
       <span >Lost: ${entry_sums['TERMINIDS'].defenselost}</span><br/>
+      <span >Ongoing: ${entry_sums['TERMINIDS'].current}</span><br/>
       <span >Win%: ${(100*entry_sums['TERMINIDS'].defensewon/(entry_sums['TERMINIDS'].defensewon+entry_sums['TERMINIDS'].defenselost)).toFixed(2)}</span><br/>
   </div>
 
@@ -307,6 +314,13 @@ All Sector Battles
       <span >Won: ${entry_sums['AUTOMATON'].defensewon}</span><br/>
       <span >Lost: ${entry_sums['AUTOMATON'].defenselost}</span><br/>
       <span >Win%: ${(100*entry_sums['AUTOMATON'].defensewon/(entry_sums['AUTOMATON'].defensewon+entry_sums['AUTOMATON'].defenselost)).toFixed(2)}</span><br/>
+  </div>
+   <div  class='card' style="font-size: 1.1em;">
+    <h2>Illuminate invasion campaigns</h2>
+    <span >Total: ${entry_sums['HUMANS'].defensestart}</span><br/>
+      <span >Won: ${entry_sums['HUMANS'].defensewon}</span><br/>
+      <span >Lost: ${entry_sums['HUMANS'].defenselost}</span><br/>
+      <span >Win%: ${(100*entry_sums['HUMANS'].defensewon/(entry_sums['HUMANS'].defensewon+entry_sums['HUMANS'].defenselost)).toFixed(2)}</span><br/>
   </div>
 </div>
 

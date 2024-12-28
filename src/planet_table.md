@@ -64,12 +64,12 @@ const factcolor = Plot.scale({
   }
 });
 ```
-
+**Because the Illuminate have not yet occupied a world, there is technically not an Illuminate front to speak of.**
 
 ```js
 
 
-const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
+const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
 const front_filterg= Generators.input(front_filter);
 const show_if =   Inputs.checkbox(
     new Map([
