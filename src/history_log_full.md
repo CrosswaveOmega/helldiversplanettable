@@ -3843,8 +3843,6 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
  (2024-12-21 22:10  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2024-12-21 23:19  UTC)<br/>
 ↳ Guang sector is fully liberated (2024-12-21 23:19  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-22 04:00  UTC)<br/>
 *Osupsam* of the Tarragon sector is invaded by Illuminate (2024-12-22 08:24  UTC)<br/>
 
 ### Day: #319
@@ -3902,10 +3900,12 @@ Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all He
 ↳ *Bore Rock* liberation campaign starts (2024-12-24 23:43  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2024-12-24 23:43  UTC)<br/>
 ↳ Falstaff sector is fully under Terminid control (2024-12-24 23:43  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Bore Rock<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-24 23:43  UTC)<br/>
 *Rasp* of the Gallux sector is invaded by Illuminate (2024-12-25 02:10  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2024-12-25 03:26  UTC)<br/>
 *Shelt* is liberated (2024-12-25 04:00  UTC)<br/>
-Talus sector is fully liberated (2024-12-25 04:00  UTC)<br/>
+↳ Talus sector is fully liberated (2024-12-25 04:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-25 04:00  UTC)<br/>
 Dispatch: HOLIDAY SONG. All Helldivers are invited to join in the classic holiday carol "Here They Come a'Reckonin':" Oh, here they come a'Recknonin', O'er hill and vale, Children play, bombs away, *Super Earth* we hail! Here they come a'Reckonin', Justice justly served, Flowers grow, blood will flow, Peace on *Super Earth*! (2024-12-25 11:06  UTC)<br/>
@@ -3913,7 +3913,7 @@ Dispatch: HOLIDAY SONG. All Helldivers are invited to join in the classic holida
 *Rasp*'s invasion is successful (2024-12-25 14:11  UTC)<br/>
 ↳ Gallux sector is fully liberated (2024-12-25 14:11  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-25 18:00  UTC)<br/>
+ (2024-12-25 16:00  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-25 22:28  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the Helldivers are given access to a bounty of Explosive weaponry. (2024-12-25 22:32  UTC)<br/>
 *Myrium*'s invasion is successful (2024-12-26 01:31  UTC)<br/>
@@ -3924,6 +3924,8 @@ Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the H
 *Canopus*'s invasion is successful (2024-12-26 10:30  UTC)<br/>
 ↳ Tarragon sector is fully liberated (2024-12-26 10:30  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-12-26 19:40  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-26 19:40  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-12-26 19:43  UTC)<br/>
 *Keid* of the Akira sector is invaded by Illuminate (2024-12-26 20:33  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. The Third Day of the Festival of Reckoning is the most special day: the Feast of the Electorate, celebrating the first Free and Managed election. Helldivers are given access to a truly overflowing bounty of all manner of weaponry. (2024-12-26 21:33  UTC)<br/>
@@ -3966,6 +3968,8 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 *Iro*'s invasion is repelled (2024-12-29 09:09  UTC)<br/>
 ↳ Rictus sector is fully liberated (2024-12-29 09:09  UTC)<br/>
 *Keid* of the Akira sector is invaded by Illuminate (2024-12-29 09:41  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-29 14:00  UTC)<br/>
 *Liberty Ridge* of the Meridian sector is invaded by Illuminate (2024-12-29 20:33  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-29 21:41  UTC)<br/>
 ↳ Akira sector is fully liberated (2024-12-29 21:41  UTC)<br/>
@@ -3974,3 +3978,14 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 *Irulta* of the Saleria sector is invaded by Illuminate (2024-12-30 07:09  UTC)<br/>
 
 ### Day: #327
+*Hort* of the Rigel sector is invaded by Illuminate (2024-12-30 18:19  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-30 18:20  UTC)<br/>
+*Irulta*'s invasion is successful (2024-12-30 19:09  UTC)<br/>
+↳ Saleria sector is fully liberated (2024-12-30 19:09  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-31 06:15  UTC)<br/>
+*Hort*'s invasion is successful (2024-12-31 06:19  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2024-12-31 06:21  UTC)<br/>
+↳ Rigel sector is fully liberated (2024-12-31 06:21  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2024-12-31 06:24  UTC)<br/>
+
+### Day: #328
