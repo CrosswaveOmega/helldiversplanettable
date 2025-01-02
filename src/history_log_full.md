@@ -8,8 +8,7 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
-
-### Day: #-37
+Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2024-01-02 07:52  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -33,7 +32,7 @@ Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective:
 
 ### Day: #7
 *Angel's Venture* is liberated (2024-02-14 14:07  UTC)<br/>
-↳ Orion sector is fully liberated (2024-02-14 14:07  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-02-14 14:07  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
@@ -68,12 +67,12 @@ Major Order | Operation A1-2-2 Defend 8 from Automatons is issued | Objective: D
 *Ubanea* defense is won (2024-02-18 01:53  UTC)<br/>
 *Draupnir* is liberated (2024-02-18 05:40  UTC)<br/>
 *Mantes* is liberated (2024-02-18 07:39  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-02-18 07:39  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-02-18 07:39  UTC)<br/>
 
 ### Day: #11
 *Mantes* of the Xzar sector is attacked by Automatons (2024-02-18 17:33  UTC)<br/>
 *Vandalon IV* defense is won (2024-02-18 17:33  UTC)<br/>
-↳ Trigon sector is fully liberated (2024-02-18 17:33  UTC)<br/>
+↳ Trigon sector is fully under Human control (2024-02-18 17:33  UTC)<br/>
 *Fenrir III* is liberated (2024-02-19 07:50  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-02-19 07:50  UTC)<br/>
 
@@ -158,7 +157,7 @@ Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issue
 ↳ *Fenrir III* liberation campaign starts (2024-03-01 21:04  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-03-01 21:04  UTC)<br/>
 *Angel's Venture* is liberated (2024-03-01 23:41  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-01 23:41  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-01 23:41  UTC)<br/>
 *Fenrir III* is liberated (2024-03-02 03:38  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-02 03:38  UTC)<br/>
 *Pöpli IX* is liberated (2024-03-02 03:38  UTC)<br/>
@@ -167,7 +166,7 @@ Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issue
 *Cirrus* of the Orion sector instantly flips to Terminid control (2024-03-02 09:46  UTC)<br/>
 ↳ *Cirrus* liberation campaign starts (2024-03-02 09:46  UTC)<br/>
 *Cirrus* is liberated (2024-03-02 15:25  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-02 15:25  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-02 15:25  UTC)<br/>
 *Heeth* of the Orion sector instantly flips to Terminid control (2024-03-02 19:22  UTC)<br/>
 ↳ *Heeth* liberation campaign starts (2024-03-02 19:22  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-03-02 19:23  UTC)<br/>
@@ -175,7 +174,7 @@ Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issue
 ↳ *Erata Prime* liberation campaign ends (2024-03-02 19:23  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-03-02 19:23  UTC)<br/>
 *Heeth* is liberated (2024-03-02 21:09  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-02 21:09  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-02 21:09  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-03-02 21:09  UTC)<br/>
 *Meridia* of the Umlaut sector instantly flips to Terminid control (2024-03-02 21:59  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-03-02 21:59  UTC)<br/>
@@ -191,7 +190,7 @@ Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issue
 
 ### Day: #25
 *Veld* is liberated (2024-03-03 16:42  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-03 16:42  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-03 16:42  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-03-03 19:23  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-03-03 19:23  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-03-03 19:23  UTC)<br/>
@@ -215,7 +214,7 @@ Major Order | Operation A1-3-1 Defense of *Heeth* and *Angel's Venture* is issue
 ↳ *Draupnir* liberation campaign starts (2024-03-04 21:47  UTC)<br/>
 *Angel's Venture* of the Orion sector is attacked by Terminids (2024-03-04 23:34  UTC)<br/>
 *Angel's Venture* defense is won (2024-03-05 04:01  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-05 04:01  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-05 04:01  UTC)<br/>
 
 ### Day: #27
 War monitoring satellites are launched, allowing helldiver counts and planet liberation amounts to be properly recorded from here on (2024-03-05 19:00  UTC)<br/>
@@ -229,7 +228,7 @@ War monitoring satellites are launched, allowing helldiver counts and planet lib
  Decay: 1.25 on Automaton worlds
  (2024-03-06 00:00  UTC)<br/>
 *Veld* is liberated (2024-03-06 01:31  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-06 01:31  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-06 01:31  UTC)<br/>
  Decay: 500.0 on Veld
  (2024-03-06 02:00  UTC)<br/>
 
@@ -243,7 +242,7 @@ War monitoring satellites are launched, allowing helldiver counts and planet lib
  Decay: 4.0 on Terminid worlds
  (2024-03-06 16:00  UTC)<br/>
 *Angel's Venture* is liberated (2024-03-06 17:39  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-06 17:39  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-06 17:39  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-03-06 17:39  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-03-06 17:39  UTC)<br/>
 *Ustotu* defense is failed (2024-03-06 20:21  UTC)<br/>
@@ -290,7 +289,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  Decay: 6.0 on Automaton worlds
  (2024-03-08 14:00  UTC)<br/>
 *Tien Kwan* is liberated (2024-03-08 15:48  UTC)<br/>
-↳ Theseus sector is fully liberated (2024-03-08 15:48  UTC)<br/>
+↳ Theseus sector is fully under Human control (2024-03-08 15:48  UTC)<br/>
 ↳ Major Order | Operation A1-3-2 Patriot Mech is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
  Decay: 6.5 on Automaton worlds
  (2024-03-08 15:48  UTC)<br/>
@@ -312,7 +311,7 @@ Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Ma
 
 ### Day: #33
 *Angel's Venture* is liberated (2024-03-11 19:57  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-11 19:57  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-11 19:57  UTC)<br/>
  Decay: 500.0 on Angel's Venture
  (2024-03-11 22:00  UTC)<br/>
 
@@ -350,7 +349,7 @@ Dispatch: The TCS has been fully activated on half of the Barrier Planets. (2024
  Decay: 4.0 on Terminid worlds
  (2024-03-15 09:00  UTC)<br/>
 *Heeth* defense is won (2024-03-15 16:31  UTC)<br/>
-↳ Orion sector is fully liberated (2024-03-15 16:31  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-03-15 16:31  UTC)<br/>
 Dispatch: HEETH DEFENDED. After countless noble and unavoidable sacrifices, *Heeth* has been defended from the Terminids. (2024-03-15 18:41  UTC)<br/>
 *Meridia* is liberated (2024-03-15 19:22  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-03-15 19:22  UTC)<br/>
@@ -359,7 +358,7 @@ Dispatch: MERIDIA SECURED. The Terminid Control System is now fully activated on
  Decay: 5.0 on Terminid worlds<br/> Decay: 500.0 on Meridia
  (2024-03-15 20:00  UTC)<br/>
 *Erata Prime* is liberated (2024-03-16 03:50  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-03-16 03:50  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-03-16 03:50  UTC)<br/>
 ↳ Major Order | Operation A1-3-3 TCS Activation is won | Objective: Liberate (2024-03-16 03:50  UTC)<br/>
  Decay: 500.0 on Erata Prime
  (2024-03-16 06:00  UTC)<br/>
@@ -377,7 +376,7 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
 # Day: #40
 *Estanu* of the Draco sector is attacked by Terminids (2024-03-18 12:11  UTC)<br/>
 *Draupnir* is liberated (2024-03-18 16:11  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-03-18 16:11  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-03-18 16:11  UTC)<br/>
 ↳ *Ubanea* liberation campaign starts (2024-03-18 16:11  UTC)<br/>
  Decay: 500.0 on Draupnir
  (2024-03-18 18:00  UTC)<br/>
@@ -423,7 +422,7 @@ Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gatherin
 ### Day: #45
 *Estanu* defense is won (2024-03-23 10:06  UTC)<br/>
 *Crimsica* is liberated (2024-03-23 19:46  UTC)<br/>
-↳ Draco sector is fully liberated (2024-03-23 19:46  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-03-23 19:46  UTC)<br/>
 Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets. (2024-03-23 22:43  UTC)<br/>
  Decay: 500.0 on Crimsica
  (2024-03-23 22:43  UTC)<br/>
@@ -432,7 +431,7 @@ Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in 
  Decay: 1.0 on Terminid worlds
  (2024-03-24 00:00  UTC)<br/>
 *Crimsica* is liberated (2024-03-24 02:26  UTC)<br/>
-↳ Draco sector is fully liberated (2024-03-24 02:26  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-03-24 02:26  UTC)<br/>
  Decay: 500.0 on Crimsica
  (2024-03-24 04:00  UTC)<br/>
 
@@ -480,7 +479,7 @@ Major Order | Operation A1-3-6 Swift Disassembly Phase One is issued | Objective
 Dispatch: OPERATION SWIFT DISASSEMBLY. PHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans. (2024-03-26 14:48  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-03-26 21:02  UTC)<br/>
 *Mantes* is liberated (2024-03-26 21:12  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-03-26 21:12  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-03-26 21:12  UTC)<br/>
  Decay: 500.0 on Mantes
  (2024-03-26 22:00  UTC)<br/>
 
@@ -515,7 +514,7 @@ Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the A
  Decay: 1.0 on Oshaune
  (2024-03-29 09:00  UTC)<br/>
 *Troost* is liberated (2024-03-29 12:39  UTC)<br/>
-↳ Trigon sector is fully liberated (2024-03-29 12:39  UTC)<br/>
+↳ Trigon sector is fully under Human control (2024-03-29 12:39  UTC)<br/>
 ↳ Major Order | Operation A1-3-6 Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39  UTC)<br/>
 Dispatch: OP SWIFT DISASSEMBLY, PHASE I—COMPLETED. The Automaton Comms Array on *Troost* has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted. However, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry. (2024-03-29 12:47  UTC)<br/>
  Decay: 500.0 on Troost
@@ -551,7 +550,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
 ### Day: #53
 *Estanu* defense is won (2024-03-31 20:12  UTC)<br/>
 *Draupnir* is liberated (2024-03-31 21:28  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-03-31 21:28  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-03-31 21:28  UTC)<br/>
 ↳ *Ubanea* liberation campaign starts (2024-03-31 21:28  UTC)<br/>
  Decay: 500.0 on Draupnir
  (2024-03-31 22:00  UTC)<br/>
@@ -597,7 +596,7 @@ Dispatch: PRESIDENTIAL DECREE. The President of *Super Earth* has officially rec
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-03 12:33  UTC)<br/>
 *Estanu* defense is won (2024-04-04 06:16  UTC)<br/>
 *Vandalon IV* defense is won (2024-04-04 07:02  UTC)<br/>
-↳ Trigon sector is fully liberated (2024-04-04 07:02  UTC)<br/>
+↳ Trigon sector is fully under Human control (2024-04-04 07:02  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-04 07:52  UTC)<br/>
 
 ### Day: #57
@@ -627,7 +626,7 @@ Dispatch: MOTIVATIONAL REINFORCEMENT. The Automatons are lifeless, emotionless, 
 # Day: #60
 Dispatch: TIBIT LIBERATED. The factories on *Tibit* have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack. (2024-04-07 17:23  UTC)<br/>
 *Durgen* is liberated (2024-04-07 19:22  UTC)<br/>
-↳ Severin sector is fully liberated (2024-04-07 19:22  UTC)<br/>
+↳ Severin sector is fully under Human control (2024-04-07 19:22  UTC)<br/>
 ↳ Major Order | Operation A1-4-3 Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (2024-04-07 19:30  UTC)<br/>
 Major Order | Operation A1-4-4 E-710 Farms is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
@@ -700,7 +699,7 @@ Major Order | Operation A1-4-5 Courageous Defense is issued | Objective: Defend 
 *Matar Bay* - *Martale* warp link is added (2024-04-09 16:16  UTC)<br/>
 Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the Valdis Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (2024-04-09 23:47  UTC)<br/>
 *Menkent* defense is won (2024-04-10 07:14  UTC)<br/>
-↳ Hydra sector is fully liberated (2024-04-10 07:14  UTC)<br/>
+↳ Hydra sector is fully under Human control (2024-04-10 07:14  UTC)<br/>
 
 ### Day: #63
 *Chort Bay* defense is failed (2024-04-10 11:44  UTC)<br/>
@@ -760,7 +759,7 @@ Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are or
 *Fori Prime* is liberated (2024-04-14 04:57  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-04-14 04:57  UTC)<br/>
 *Menkent* is liberated (2024-04-14 05:17  UTC)<br/>
-↳ Hydra sector is fully liberated (2024-04-14 05:17  UTC)<br/>
+↳ Hydra sector is fully under Human control (2024-04-14 05:17  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2024-04-14 05:17  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-04-14 05:17  UTC)<br/>
  Decay: 500.0 on Fori Prime
@@ -775,11 +774,11 @@ Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are or
  Decay: 0.0 on Penta<br/> Decay: 500.0 on Lesath
  (2024-04-14 22:00  UTC)<br/>
 *Menkent* defense is won (2024-04-15 04:56  UTC)<br/>
-↳ Hydra sector is fully liberated (2024-04-15 04:56  UTC)<br/>
+↳ Hydra sector is fully under Human control (2024-04-15 04:56  UTC)<br/>
 
 ### Day: #68
 *Crimsica* is liberated (2024-04-15 13:24  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-15 13:24  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-15 13:24  UTC)<br/>
  Decay: 500.0 on Crimsica
  (2024-04-15 14:00  UTC)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-04-16 07:57  UTC)<br/>
@@ -823,7 +822,7 @@ Dispatch: NEW MAJOR ORDER. Thanks to the valiant and unceasing defense of the He
  Decay: 500.0 on Fori Prime
  (2024-04-18 10:31  UTC)<br/>
 *Estanu* defense is won (2024-04-18 20:42  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-18 20:42  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-18 20:42  UTC)<br/>
 Major Order | Operation A1-4-8 Gather E-710 from 2B Terminids is won | Objective: Eradicate (2024-04-18 23:10  UTC)<br/>
 
 ### Day: #72
@@ -841,7 +840,7 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 *Charon Prime* of the Andromeda sector is attacked by Automatons (2024-04-19 15:09  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-04-19 15:10  UTC)<br/>
 *Estanu* defense is won (2024-04-20 07:38  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-20 07:38  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-20 07:38  UTC)<br/>
 
 ### Day: #73
 *Wasat* - *Vega Bay* warp link is added (2024-04-20 10:41  UTC)<br/>
@@ -876,7 +875,7 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 ### Day: #75
 *Estanu* defense is won (2024-04-22 11:58  UTC)<br/>
 *Fori Prime* defense is won (2024-04-22 18:46  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-22 18:46  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-22 18:46  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-22 20:07  UTC)<br/>
 *Charbal-VII* of the Andromeda sector is attacked by Automatons (2024-04-22 20:10  UTC)<br/>
 *Vernen Wells* defense is failed (2024-04-22 20:29  UTC)<br/>
@@ -899,7 +898,7 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
  Decay: 0.0 on Automaton worlds
  (2024-04-22 22:00  UTC)<br/>
 *Estanu* defense is won (2024-04-23 05:19  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-23 05:19  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-23 05:19  UTC)<br/>
 
 ### Day: #76
 *Charbal-VII* defense is failed (2024-04-23 20:12  UTC)<br/>
@@ -927,15 +926,15 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
  Decay: 1.0 on Automaton worlds
  (2024-04-24 09:00  UTC)<br/>
 *Mort* defense is won (2024-04-24 11:14  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-04-24 11:14  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-04-24 11:14  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2024-04-24 11:28  UTC)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-04-24 11:30  UTC)<br/>
 *Estanu* defense is won (2024-04-24 11:59  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-24 11:59  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-24 11:59  UTC)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-04-24 20:33  UTC)<br/>
 *Oshaune* defense is won (2024-04-24 20:39  UTC)<br/>
 ↳ *Fori Prime* defense is auto-won via gambit (2024-04-24 21:02  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-24 21:02  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-24 21:02  UTC)<br/>
 *Ustotu* of the Trigon sector is attacked by Automatons (2024-04-24 21:06  UTC)<br/>
 *Vernen Wells* is liberated (2024-04-24 22:56  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-04-24 22:56  UTC)<br/>
@@ -956,7 +955,7 @@ Dispatch: MAJOR ORDER WON. Freedom has overcome oppression once more. Even the c
 Major Order | Operation A1-4-10 Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06  UTC)<br/>
 Dispatch: NEW OPERATION ORDER: "LEGITIMATE UNDERTAKING". Phase I: Citizen Rescue. Intel has identified surviving citizens on two planets: On *Choohe*, citizens who have proved their loyalty through testing of a new Fortification Stratagem are trapped. On *Penta*, citizens who have synthesized tons of caustic chemicals for a new Support Weapon Stratagem are awaiting rescue. Likely, only the citizens and weaponry of the first planet liberated will be saved. (2024-04-26 12:06  UTC)<br/>
 *Estanu* defense is won (2024-04-26 12:12  UTC)<br/>
-↳ Draco sector is fully liberated (2024-04-26 12:12  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-04-26 12:12  UTC)<br/>
  Decay: 1.5 on Terminid worlds<br/> Decay: 0.0 on Automaton worlds
  (2024-04-26 14:00  UTC)<br/>
 *Lesath* is liberated (2024-04-27 08:45  UTC)<br/>
@@ -1120,7 +1119,7 @@ Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridi
  Decay: 1.0 on Veld<br/> Decay: 0.0 on Acamar IV<br/> Decay: 0.0 on Erata Prime
  (2024-05-09 20:00  UTC)<br/>
 *Veld* is liberated (2024-05-10 04:48  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-10 04:48  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-10 04:48  UTC)<br/>
 
 ### Day: #93
 Major Order | Operation A1-5-1 Supercolony Spore Outbreak is failed | Objective: Liberate (2024-05-10 14:41  UTC)<br/>
@@ -1147,7 +1146,7 @@ Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield System
 
 ### Day: #95
 *Angel's Venture* defense is won (2024-05-12 15:09  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-12 15:09  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-12 15:09  UTC)<br/>
 *Wasat* defense is failed (2024-05-12 19:03  UTC)<br/>
 ↳ *Wasat* liberation campaign starts (2024-05-12 19:03  UTC)<br/>
 ↳ *Meissa* liberation campaign ends (2024-05-12 19:03  UTC)<br/>
@@ -1183,7 +1182,7 @@ Dispatch: War has been declared. Mobilization across all sectors of the industry
 
 ### Day: #99
 *Angel's Venture* is liberated (2024-05-16 10:18  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-16 10:18  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-16 10:18  UTC)<br/>
 *Vernen Wells* defense is won (2024-05-16 12:06  UTC)<br/>
 *Aesir Pass* of the Hydra sector is attacked by Automatons (2024-05-16 14:12  UTC)<br/>
 *Erata Prime* defense is failed (2024-05-16 15:21  UTC)<br/>
@@ -1197,7 +1196,7 @@ Dispatch: War has been declared. Mobilization across all sectors of the industry
 
 # Day: #100
 *Heeth* defense is won (2024-05-17 19:17  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-17 19:17  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-17 19:17  UTC)<br/>
 *Aesir Pass* defense is won (2024-05-17 20:57  UTC)<br/>
 
 ### Day: #101
@@ -1220,7 +1219,7 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
  Decay: 1.0 on Lesath
  (2024-05-19 14:00  UTC)<br/>
 *Angel's Venture* defense is won (2024-05-19 21:59  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-19 21:59  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-19 21:59  UTC)<br/>
 *Fenrir III* defense is won (2024-05-20 05:58  UTC)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-20 06:44  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-20 06:44  UTC)<br/>
@@ -1276,7 +1275,7 @@ Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Angel's Venture*. If 
 
 ### Day: #108
 *Angel's Venture* defense is won (2024-05-25 16:58  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-25 16:58  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-25 16:58  UTC)<br/>
 Dispatch: ANGEL'S VENTURE DEFENDED. Thanks to the selfless valor of the Helldivers, the citizens of *Angel's Venture* are safe from the Terminid Menace. (2024-05-25 17:33  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-25 18:23  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. Automaton resistance has faltered, no doubt due to the stalwart and unrelenting pressure applied by the valiant Helldivers. Maintain the offensive; liberate the Petafactory on *Varylia 5*. (2024-05-25 19:26  UTC)<br/>
@@ -1296,7 +1295,7 @@ Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a
 ↳ *Hellmire* liberation campaign ends (2024-05-26 18:26  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. Enemy aggression on both fronts remains unrelenting. In particular, the Supercolony on *Meridia* is fueling an unprecedented surge in Terminid infestation rates. The Automatons grow in power as well, continuing their unjust invasion. Our analysts are certain that nothing could have forestalled this dire situation, save perhaps the timely employment of MD-17 Anti-Tank Mines. Scientists on *Moradesh* are making progress on a way to combat the Supercolony. That will be Liberty's salvation. Until then, the Helldivers must hold the line at all costs. (2024-05-26 19:39  UTC)<br/>
 *Heeth* defense is won (2024-05-27 06:40  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-27 06:40  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-27 06:40  UTC)<br/>
 
 # Day: #110
  Decay: 1.0 on Meridia
@@ -1326,7 +1325,7 @@ Dispatch: EMERGENCY ALERT. Spore production on the *Meridia* Supercolony has ris
  Decay: 1.0 on Cirrus
  (2024-05-29 12:00  UTC)<br/>
 *Cirrus* is liberated (2024-05-29 23:35  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-29 23:35  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-29 23:35  UTC)<br/>
 *Acamar IV* is liberated (2024-05-30 05:22  UTC)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2024-05-30 08:02  UTC)<br/>
 Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted. Therefore, *Super Earth* High Command recommends prioritizing the defense of *Heeth*. (2024-05-30 08:02  UTC)<br/>
@@ -1347,7 +1346,7 @@ Dispatch: OPERATION "ENDURING PEACE"—PHASE II (FINAL). The time has come to er
  Decay: 9.9 on Meridia
  (2024-05-30 20:00  UTC)<br/>
 *Heeth* defense is won (2024-05-30 22:04  UTC)<br/>
-↳ Orion sector is fully liberated (2024-05-30 22:04  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-05-30 22:04  UTC)<br/>
  Decay: 9.5 on Meridia
  (2024-05-31 00:00  UTC)<br/>
  Decay: 8.7 on Meridia
@@ -1430,7 +1429,7 @@ Dispatch: NEW MAJOR ORDER. With the Supercolony destroyed, it is now finally pos
 
 ### Day: #119
 *Erata Prime* is liberated (2024-06-05 11:48  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-06-05 11:48  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-06-05 11:48  UTC)<br/>
 *Aesir Pass* of the Hydra sector is attacked by Automatons (2024-06-05 15:40  UTC)<br/>
  Decay: 0.0 on Aesir Pass
  (2024-06-05 16:00  UTC)<br/>
@@ -1450,7 +1449,7 @@ Dispatch: STRATEGIC UPDATE. *Aesir Pass* has fallen to the Automatons, and its S
  Decay: 1.0 on Aesir Pass
  (2024-06-06 16:52  UTC)<br/>
 *Phact Bay* is liberated (2024-06-07 07:15  UTC)<br/>
-↳ Jin Xi sector is fully liberated (2024-06-07 07:15  UTC)<br/>
+↳ Jin Xi sector is fully under Human control (2024-06-07 07:15  UTC)<br/>
 
 ### Day: #121
 Major Order | Operation A1-6-1 Supercolony Cleanup is won | Objective: Liberate (2024-06-07 11:15  UTC)<br/>
@@ -1614,7 +1613,7 @@ Dispatch: NEW MAJOR ORDER. Terminid population levels remain at unmanageable lev
 ### Day: #132
 Dispatch: INTEL REPORT. Abnormally high levels of interstellar spore emissions have been observed from the Terminid planets currently being liberated. Scientists assess this dispersal may be a survival adaptation in response to the destruction of their nurseries. It is unlikely to cause any long-term problems. Helldivers are advised to continue the operation with unaltered aggression. (2024-06-18 19:23  UTC)<br/>
 *Fori Prime* is liberated (2024-06-18 20:02  UTC)<br/>
-↳ Draco sector is fully liberated (2024-06-18 20:02  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-06-18 20:02  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-18 20:02  UTC)<br/>
 *Bore Rock* - *Esker* warp link is added (2024-06-18 20:19  UTC)<br/>
 *Erson Sands* - *Esker* warp link is added (2024-06-18 20:19  UTC)<br/>
@@ -1667,7 +1666,7 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-06-21 19:57  UTC)<br/>
 *Erson Sands* of the Falstaff sector is attacked by Terminids (2024-06-21 19:58  UTC)<br/>
 *Fori Prime* is liberated (2024-06-21 21:12  UTC)<br/>
-↳ The Draco sector is fully liberated (2024-06-21 21:12  UTC)<br/>
+↳ The Draco sector is fully under Human control (2024-06-21 21:12  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-21 21:12  UTC)<br/>
 ↳ Major Order | Operation A1-6-4 Hive Breaker is won | Objective: Liberate (2024-06-21 21:12  UTC)<br/>
  Decay: 0.0 on Erson Sands, Pandion-XXIV<br/> Decay: 2.0 on Gacrux
@@ -1700,7 +1699,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  (2024-06-23 00:00  UTC)<br/>
 *Mort* is liberated (2024-06-23 08:02  UTC)<br/>
 ↳ *Pöpli IX* defense is auto-won via gambit (2024-06-23 08:02  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-06-23 08:02  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-06-23 08:02  UTC)<br/>
 ↳ *Charbal-VII* liberation campaign starts (2024-06-23 08:02  UTC)<br/>
 
 ### Day: #137
@@ -1710,7 +1709,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  Decay: 0.0 on Ingmar
  (2024-06-23 12:00  UTC)<br/>
 *Ingmar* defense is won (2024-06-23 20:29  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-06-23 20:29  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-06-23 20:29  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-23 21:56  UTC)<br/>
  Decay: 500.0 on Ingmar
  (2024-06-23 21:56  UTC)<br/>
@@ -1719,7 +1718,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  Decay: 0.0 on Mantes, Phact Bay
  (2024-06-24 00:00  UTC)<br/>
 *Mantes* defense is won (2024-06-24 07:38  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-06-24 07:38  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-06-24 07:38  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2024-06-24 08:57  UTC)<br/>
  Decay: 500.0 on Mantes
  (2024-06-24 08:57  UTC)<br/>
@@ -1732,7 +1731,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  Decay: 0.0 on Ingmar, Troost
  (2024-06-24 10:00  UTC)<br/>
 *Ingmar* defense is won (2024-06-24 18:14  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-06-24 18:14  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-06-24 18:14  UTC)<br/>
  Decay: 500.0 on Ingmar
  (2024-06-24 20:00  UTC)<br/>
 *Phact Bay* defense is failed (2024-06-24 22:00  UTC)<br/>
@@ -1752,7 +1751,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  (2024-06-25 10:00  UTC)<br/>
 *Gar Haren* of the Jin Xi sector's warp links are obliterated (2024-06-25 14:04  UTC)<br/>
 *Mort* defense is won (2024-06-25 14:41  UTC)<br/>
-↳ Xzar sector is fully liberated (2024-06-25 14:41  UTC)<br/>
+↳ Xzar sector is fully under Human control (2024-06-25 14:41  UTC)<br/>
  Decay: 500.0 on Mort
  (2024-06-25 16:00  UTC)<br/>
 *Troost* defense is failed (2024-06-25 21:28  UTC)<br/>
@@ -1853,7 +1852,7 @@ Dispatch: STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Und
 
 ### Day: #146
 *Erson Sands* is liberated (2024-07-03 03:28  UTC)<br/>
-↳ Falstaff sector is fully liberated (2024-07-03 03:28  UTC)<br/>
+↳ Falstaff sector is fully under Human control (2024-07-03 03:28  UTC)<br/>
 
 ### Day: #147
 Major Order | Operation A1-6-6 Jin Xi-Falstaff Liberation is won | Objective: Control (2024-07-03 11:36  UTC)<br/>
@@ -2057,7 +2056,7 @@ Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunit
  Decay: 0.0 on Aesir Pass, Acamar IV
  (2024-07-20 09:00  UTC)<br/>
 *Charbal-VII* is liberated (2024-07-21 01:54  UTC)<br/>
-↳ Andromeda sector is fully liberated (2024-07-21 01:54  UTC)<br/>
+↳ Andromeda sector is fully under Human control (2024-07-21 01:54  UTC)<br/>
 *Aesir Pass* defense is failed (2024-07-21 08:29  UTC)<br/>
 ↳ Hydra sector is fully under Automaton control (2024-07-21 08:29  UTC)<br/>
 ↳ *Aesir Pass* liberation campaign starts (2024-07-21 08:29  UTC)<br/>
@@ -2080,7 +2079,7 @@ Dispatch: MAJOR ORDER WON. In a lightning-fast assault, the Helldivers capitaliz
  Decay: 0.0 on Turing
  (2024-07-21 20:00  UTC)<br/>
 *Turing* defense is won (2024-07-22 08:08  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-07-22 08:08  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-07-22 08:08  UTC)<br/>
 
 ### Day: #166
  Decay: 2.5 on Turing
@@ -2112,7 +2111,7 @@ Dispatch: STRATEGIC UPDATE. The Automatons are rapidly repairing their logistics
  Decay: 0.45 on Automaton worlds
  (2024-07-25 09:00  UTC)<br/>
 *Fenrir III* defense is won (2024-07-25 11:57  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-07-25 11:57  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-07-25 11:57  UTC)<br/>
 *Bore Rock* defense is failed (2024-07-25 19:43  UTC)<br/>
 *Choepessa IV* defense is failed (2024-07-25 21:32  UTC)<br/>
 ↳ Trigon sector is fully under Automaton control (2024-07-25 21:32  UTC)<br/>
@@ -2122,7 +2121,7 @@ Dispatch: STRATEGIC UPDATE. The Automatons are rapidly repairing their logistics
  Decay: 1.5 on Bore Rock
  (2024-07-25 21:32  UTC)<br/>
 *Gacrux* is liberated (2024-07-25 22:33  UTC)<br/>
-↳ Jin Xi sector is fully liberated (2024-07-25 22:33  UTC)<br/>
+↳ Jin Xi sector is fully under Human control (2024-07-25 22:33  UTC)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-07-25 22:33  UTC)<br/>
  Decay: 0.0 on Choepessa IV
  (2024-07-25 22:33  UTC)<br/>
@@ -2178,7 +2177,7 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
  Decay: 1.5 on Crimsica, Aesir Pass, Estanu<br/> Decay: 0.0 on Gacrux
  (2024-08-03 12:00  UTC)<br/>
 *Gacrux* defense is won (2024-08-03 18:56  UTC)<br/>
-↳ Jin Xi sector is fully liberated (2024-08-03 18:56  UTC)<br/>
+↳ Jin Xi sector is fully under Human control (2024-08-03 18:56  UTC)<br/>
  Decay: 1.5 on Gacrux
  (2024-08-03 20:00  UTC)<br/>
 
@@ -2188,9 +2187,9 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
  (2024-08-04 18:00  UTC)<br/>
 *Estanu* is liberated (2024-08-04 23:10  UTC)<br/>
 *Wezen* is liberated (2024-08-05 07:26  UTC)<br/>
-↳ Ymir sector is fully liberated (2024-08-05 07:26  UTC)<br/>
+↳ Ymir sector is fully under Human control (2024-08-05 07:26  UTC)<br/>
 *Marfark* defense is won (2024-08-05 08:37  UTC)<br/>
-↳ Andromeda sector is fully liberated (2024-08-05 08:37  UTC)<br/>
+↳ Andromeda sector is fully under Human control (2024-08-05 08:37  UTC)<br/>
 
 # Day: #180
  Decay: 0.5 on Marfark
@@ -2274,7 +2273,7 @@ Dispatch: MAJOR ORDER WON. This latest unnatural slew of Terminid abominations h
 Major Order | Operation A1-8-3 Banana Split is issued | Objective: Defend/Liberate (2024-08-10 15:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Terminid expansion to new planets. But threatening as this is, we do not have the luxury of keeping our focus in one place. The bots retain a hold on a pocket of two isolated planets: *Troost* and *Vandalon IV*. They are vulnerable, and we must liberate them now before the machines find a way to reinforce their position. (2024-08-10 15:19  UTC)<br/>
 *Acamar IV* defense is won (2024-08-11 01:49  UTC)<br/>
-↳ Jin Xi sector is fully liberated (2024-08-11 01:49  UTC)<br/>
+↳ Jin Xi sector is fully under Human control (2024-08-11 01:49  UTC)<br/>
  Decay: 1.5 on Acamar IV
  (2024-08-11 04:00  UTC)<br/>
 
@@ -2290,7 +2289,7 @@ Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Termi
 
 ### Day: #187
 *Fenrir III* defense is won (2024-08-12 14:15  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-08-12 14:15  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-08-12 14:15  UTC)<br/>
 *Vandalon IV* is liberated (2024-08-12 18:04  UTC)<br/>
 
 ### Day: #188
@@ -2300,7 +2299,7 @@ Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Termi
  Decay: 1.5 on Esker, Bore Rock<br/> Decay: 0.0 on Acamar IV, Gacrux
  (2024-08-13 18:00  UTC)<br/>
 *Troost* is liberated (2024-08-14 07:23  UTC)<br/>
-↳ Trigon sector is fully liberated (2024-08-14 07:23  UTC)<br/>
+↳ Trigon sector is fully under Human control (2024-08-14 07:23  UTC)<br/>
 STRATEGIC VICTORY. The last remaining pocket of Automaton resistance in the Trigon Sector has been eliminated. After weeks of fighting led by the tireless Helldivers, citizens across the federation are burning scrap metal in celebration of victory. The war rages on, and the bots are far from defeated. But today, the light of Freedom shines bright. (2024-08-14 07:41  UTC)<br/>
 
 ### Day: #189
@@ -2324,7 +2323,7 @@ STRATEGIC VICTORY. The last remaining pocket of Automaton resistance in the Trig
  Decay: 1.5 on Estanu
  (2024-08-15 02:00  UTC)<br/>
 *Erata Prime* defense is won (2024-08-15 07:28  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-08-15 07:28  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-08-15 07:28  UTC)<br/>
 Major Order | Operation A1-8-3 Banana Split is won | Objective: Defend/Liberate (2024-08-15 08:51  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining pocket of Automaton resistance in their cut-off territory, while simultaneously holding the line against the Terminid spread. (2024-08-15 08:51  UTC)<br/>
  Decay: 1.5 on Erata Prime
@@ -2366,7 +2365,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
 ### Day: #193
 *Curia* is liberated (2024-08-18 22:08  UTC)<br/>
 ↳ *Tarsh* defense is auto-won via gambit (2024-08-18 22:08  UTC)<br/>
-↳ Marspira sector is fully liberated (2024-08-18 22:08  UTC)<br/>
+↳ Marspira sector is fully under Human control (2024-08-18 22:08  UTC)<br/>
  Decay: 500.0 on Tarsh
  (2024-08-19 00:00  UTC)<br/>
 
@@ -2375,7 +2374,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
  Decay: 0.0 on Curia
  (2024-08-19 10:00  UTC)<br/>
 *Curia* defense is won (2024-08-19 21:44  UTC)<br/>
-↳ Marspira sector is fully liberated (2024-08-19 21:44  UTC)<br/>
+↳ Marspira sector is fully under Human control (2024-08-19 21:44  UTC)<br/>
  Decay: 1.0 on Curia
  (2024-08-19 22:00  UTC)<br/>
 *Vernen Wells* - *Tarsh* warp link is added (2024-08-20 07:33  UTC)<br/>
@@ -2482,7 +2481,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
 *Overgoe Prime* is no longer enveloped by the Gloom (2024-08-27 15:04  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-27 15:14  UTC)<br/>
 *Matar Bay* defense is won (2024-08-27 16:55  UTC)<br/>
-↳ Andromeda sector is fully liberated (2024-08-27 16:55  UTC)<br/>
+↳ Andromeda sector is fully under Human control (2024-08-27 16:55  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Trandor<br/> Decay: 0.0 on Erata Prime
  (2024-08-27 16:55  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-08-27 17:42  UTC)<br/>
@@ -2492,7 +2491,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
  (2024-08-27 17:42  UTC)<br/>
 *Erson Sands* liberation campaign ends (2024-08-27 17:43  UTC)<br/>
 *Erata Prime* defense is won (2024-08-27 23:18  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-08-27 23:18  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-08-27 23:18  UTC)<br/>
 *Mastia* defense is won (2024-08-28 01:18  UTC)<br/>
  Decay: 500.0 on Erata Prime
  (2024-08-28 01:18  UTC)<br/>
@@ -2512,7 +2511,7 @@ Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to
  Decay: 0.0 on Marfark
  (2024-08-28 12:00  UTC)<br/>
 *Marfark* defense is won (2024-08-29 02:29  UTC)<br/>
-Andromeda sector is fully liberated (2024-08-29 02:29  UTC)<br/>
+Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
  Decay: 0.5 on Marfark
  (2024-08-29 04:00  UTC)<br/>
  Decay: 1.0 on Aesir Pass
@@ -2555,7 +2554,7 @@ Andromeda sector is fully liberated (2024-08-29 02:29  UTC)<br/>
 *Pandion-XXIV* defense is failed (2024-09-01 19:24  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2024-09-01 19:24  UTC)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-09-01 19:59  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-09-01 19:59  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59  UTC)<br/>
 ↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59  UTC)<br/>
 ↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59  UTC)<br/>
@@ -2710,7 +2709,7 @@ Dispatch: STRATEGIC UPDATE. *Tarsh* has been cutoff from all adjacent Automaton 
 
 ### Day: #222
 *Tarsh* is liberated (2024-09-16 11:54  UTC)<br/>
-↳ Marspira sector is fully liberated (2024-09-16 11:54  UTC)<br/>
+↳ Marspira sector is fully under Human control (2024-09-16 11:54  UTC)<br/>
 Dispatch: ARSENAL EXPANSION. With the successful liberation of *Tarsh* and *Mastia* from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population. (2024-09-16 11:57  UTC)<br/>
 Major Order | Operation A1-9-3 Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33  UTC)<br/>
 ↳ NOTE: Only 1 out of 2 tasks got cleared for this MO. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33  UTC)<br/>
@@ -2847,7 +2846,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  Decay: 0.0 on Darius II<br/> Decay: 2.0 on Phact Bay
  (2024-09-28 22:00  UTC)<br/>
 *Turing* defense is won (2024-09-29 07:35  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-09-29 07:35  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-09-29 07:35  UTC)<br/>
 
 ### Day: #235
  Decay: 2.5 on Turing
@@ -2881,7 +2880,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  (2024-10-02 09:00  UTC)<br/>
 *Shelt* is liberated (2024-10-03 04:03  UTC)<br/>
 ↳ *Mastia* defense is auto-won via gambit (2024-10-03 04:03  UTC)<br/>
-↳ Marspira sector is fully liberated (2024-10-03 04:03  UTC)<br/>
+↳ Marspira sector is fully under Human control (2024-10-03 04:03  UTC)<br/>
  Decay: 1.5 on Mastia
  (2024-10-03 06:00  UTC)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-10-03 07:26  UTC)<br/>
@@ -2890,7 +2889,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  Decay: 0.0 on Turing
  (2024-10-03 09:00  UTC)<br/>
 *Turing* defense is won (2024-10-04 02:10  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-10-04 02:10  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-10-04 02:10  UTC)<br/>
 *Acamar IV* is liberated (2024-10-04 02:58  UTC)<br/>
  Decay: 2.5 on Turing
  (2024-10-04 02:58  UTC)<br/>
@@ -2913,7 +2912,7 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
  (2024-10-06 16:00  UTC)<br/>
 *Imber* is liberated (2024-10-06 19:16  UTC)<br/>
 ↳ *Claorell* liberation campaign starts (2024-10-06 19:16  UTC)<br/>
-↳ Talus sector is fully liberated (2024-10-06 19:16  UTC)<br/>
+↳ Talus sector is fully under Human control (2024-10-06 19:16  UTC)<br/>
 
 ### Day: #243
 *Pandion-XXIV* defense is failed (2024-10-07 14:21  UTC)<br/>
@@ -3012,7 +3011,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 
 # Day: #250
 *Achernar Secundus* defense is won (2024-10-14 16:45  UTC)<br/>
-↳ Borgus sector is fully liberated (2024-10-14 16:45  UTC)<br/>
+↳ Borgus sector is fully under Human control (2024-10-14 16:45  UTC)<br/>
  Decay: 3.5 on Choohe
  (2024-10-14 16:45  UTC)<br/>
  Decay: 500.0 on Achernar Secundus
@@ -3272,7 +3271,7 @@ Dispatch: INVASION! CURIA has issued an emergency defense beacon. All available 
  Decay: 0.0 on Curia
  (2024-11-02 16:02  UTC)<br/>
 *Curia* defense is won (2024-11-03 01:52  UTC)<br/>
-↳ Marspira sector is fully liberated (2024-11-03 01:52  UTC)<br/>
+↳ Marspira sector is fully under Human control (2024-11-03 01:52  UTC)<br/>
  Decay: 1.0 on Curia
  (2024-11-03 04:00  UTC)<br/>
 
@@ -3338,7 +3337,7 @@ Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid fo
  Decay: 0.2 on Acamar IV
  (2024-11-07 00:00  UTC)<br/>
 *Heeth* defense is won (2024-11-07 07:32  UTC)<br/>
-↳ Orion sector is fully liberated (2024-11-07 07:32  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-11-07 07:32  UTC)<br/>
 
 ### Day: #274
  Decay: 2.5 on Heeth
@@ -3384,7 +3383,7 @@ DSS Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
  (2024-11-10 20:00  UTC)<br/>
 *Erata Prime* is liberated (2024-11-11 01:03  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-11-11 01:03  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-11-11 01:03  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-11-11 01:03  UTC)<br/>
 
 ### Day: #278
 Major Order | Operation A1-11-2 DSS Fueling is issued | Objective: Control/Eradicate (2024-11-11 14:02  UTC)<br/>
@@ -3425,7 +3424,7 @@ Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:
 
 # Day: #280
 *Turing* defense is won (2024-11-13 10:48  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-11-13 10:48  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-11-13 10:48  UTC)<br/>
  Decay: 2.5 on Turing
  (2024-11-13 12:00  UTC)<br/>
 *Crimsica* defense is failed (2024-11-13 18:50  UTC)<br/>
@@ -3520,7 +3519,7 @@ DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
 *Acamar IV* of the Jin Xi sector's Terminid Research Preserve is removed (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
-↳ Talus sector is fully liberated (2024-11-20 17:14  UTC)<br/>
+↳ Talus sector is fully under Human control (2024-11-20 17:14  UTC)<br/>
 Dispatch: JET BRIGADE ROUTED. The Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on *Imber*, where they were finally destroyed. But the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed. (2024-11-20 17:26  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2024-11-21 02:54  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-11-21 03:47  UTC)<br/>
@@ -3576,7 +3575,7 @@ DSS effect Orbital Blockade is activated (2024-11-26 04:46  UTC)<br/>
 
 ### Day: #293
 *Fenrir III* defense is won (2024-11-26 14:45  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-11-26 14:45  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-11-26 14:45  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2024-11-26 16:00  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2024-11-27 03:10  UTC)<br/>
@@ -3591,7 +3590,7 @@ DSS effect Orbital Blockade stops (2024-11-27 04:49  UTC)<br/>
  (2024-11-27 09:00  UTC)<br/>
 Dispatch: MAJOR ORDER UPDATE. The Ministry of Defense Office of Weapon Efficacy has provided an update to its data collection request: A misplaced decimal led to an erroneously high volume of data to be requested. The required number of kills has been reduced to account for this error. Following the conclusion of the current review, the Office of Weapon Efficacy has ordered a full review of its decimal placement procedures. (2024-11-27 11:59  UTC)<br/>
 *Darius II* is liberated (2024-11-28 03:06  UTC)<br/>
-↳ Borgus sector is fully liberated (2024-11-28 03:06  UTC)<br/>
+↳ Borgus sector is fully under Human control (2024-11-28 03:06  UTC)<br/>
 DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2024-11-28 03:13  UTC)<br/>
 
 ### Day: #295
@@ -3669,7 +3668,7 @@ DSS effect Orbital Blockade stops (2024-12-06 05:11  UTC)<br/>
 
 ### Day: #303
 *Terrek* defense is won (2024-12-06 13:43  UTC)<br/>
-↳ Orion sector is fully liberated (2024-12-06 13:43  UTC)<br/>
+↳ Orion sector is fully under Human control (2024-12-06 13:43  UTC)<br/>
  Decay: 500.0 on Terrek
  (2024-12-06 14:00  UTC)<br/>
 DSS deploys to *Zzaniah Prime* of the Gellert sector (2024-12-07 03:35  UTC)<br/>
@@ -3704,7 +3703,7 @@ Dispatch: MAJOR ORDER FAILED. Too few planets were liberated by the Helldivers t
 *Achernar Secundus* of the Borgus sector is established as a Factory Hub (2024-12-10 16:33  UTC)<br/>
 *Blistica* is liberated (2024-12-11 00:47  UTC)<br/>
 ↳ *Yed Prior* liberation campaign starts (2024-12-11 00:47  UTC)<br/>
-↳ Gellert sector is fully liberated (2024-12-11 00:47  UTC)<br/>
+↳ Gellert sector is fully under Human control (2024-12-11 00:47  UTC)<br/>
 DSS effect Orbital Blockade stops (2024-12-11 04:12  UTC)<br/>
 
 ### Day: #308
@@ -3746,7 +3745,7 @@ Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline follow
 ### Day: #312
 Dispatch: STRATEGIC UPDATE. Illuminate forces hold multiple locations on CALYPSO. Enemy intentions unknown. Human-like assailants reported. Use all necessary force to repel enemy. (2024-12-15 14:28  UTC)<br/>
 *Calypso*'s invasion is repelled (2024-12-16 02:16  UTC)<br/>
-↳ Saleria sector is fully liberated (2024-12-16 02:16  UTC)<br/>
+↳ Saleria sector is fully under Human control (2024-12-16 02:16  UTC)<br/>
 Major Order | Operation A1-12-3 Defend *Calypso* from the Illuminate is won | Objective: Defend (2024-12-16 02:16  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The resurgent Illuminate have been repelled by the Helldivers. Consult the Galactic Map on your ship for additional information. (2024-12-16 02:23  UTC)<br/>
 Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has been completed. Production of Fast Recon Vehicles (FRVs) for all Helldiver battlespaces is on schedule to begin within the next several days. (2024-12-16 02:26  UTC)<br/>
@@ -3774,19 +3773,19 @@ Major Order A1-12-4's parameters are changed from Objective: Defend to Objective
  Decay: 0.5 on Gar Haren, Martale
  (2024-12-17 09:00  UTC)<br/>
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
-↳ Rictus sector is fully liberated (2024-12-17 09:38  UTC)<br/>
+↳ Rictus sector is fully under Human control (2024-12-17 09:38  UTC)<br/>
 *Bellatrix* of the Guang sector is invaded by Illuminate (2024-12-17 10:40  UTC)<br/>
 Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 10:55  UTC)<br/>
 *Mog*'s invasion is successful (2024-12-17 12:10  UTC)<br/>
-↳ Morgon sector is fully liberated (2024-12-17 12:10  UTC)<br/>
+↳ Morgon sector is fully under Human control (2024-12-17 12:10  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2024-12-17 18:27  UTC)<br/>
-↳ Guang sector is fully liberated (2024-12-17 18:27  UTC)<br/>
+↳ Guang sector is fully under Human control (2024-12-17 18:27  UTC)<br/>
 *Valmox* of the Rictus sector is invaded by Illuminate (2024-12-17 18:29  UTC)<br/>
 *Kerth Secundus* of the Rictus sector is invaded by Illuminate (2024-12-17 18:30  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ANALYZED. MINDEF strategists have conducted an analysis of the Illuminate attack pattern, providing insight into their plans. With a high degree of certainty, their next attack is predicted to be on NEW STOCKHOLM. (2024-12-17 20:47  UTC)<br/>
 *Kerth Secundus*'s invasion is repelled (2024-12-18 01:32  UTC)<br/>
 *Valmox*'s invasion is repelled (2024-12-18 06:17  UTC)<br/>
-↳ Rictus sector is fully liberated (2024-12-18 06:17  UTC)<br/>
+↳ Rictus sector is fully under Human control (2024-12-18 06:17  UTC)<br/>
 *Andar* of the Akira sector is invaded by Illuminate (2024-12-18 08:39  UTC)<br/>
 *Acubens Prime* of the Gallux sector is invaded by Illuminate (2024-12-18 08:41  UTC)<br/>
 
@@ -3795,28 +3794,28 @@ Dispatch: MULTIPLE ILLUMINATE INCURSIONS. ANDAR and ACUBENS PRIME have come unde
 Dispatch: ILLUMINATE INCURSION ANALYSIS UNDER REVIEW. Recent developments indicate that the current Illuminate attack pattern analysis methodology may require redress. The process has been placed under review under further notice. (2024-12-18 10:00  UTC)<br/>
 Dispatch: EXPERIMENTAL WEAPON DEPLOYMENT. High Command has temporarily authorized early deployment of the experimental StA-X3 W.A.S.P. Launcher Support Weapon to all Illuminate incursion sites. (2024-12-18 10:35  UTC)<br/>
 *Andar*'s invasion is repelled (2024-12-18 21:15  UTC)<br/>
-↳ Akira sector is fully liberated (2024-12-18 21:15  UTC)<br/>
+↳ Akira sector is fully under Human control (2024-12-18 21:15  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2024-12-18 21:54  UTC)<br/>
-↳ Gallux sector is fully liberated (2024-12-18 21:54  UTC)<br/>
+↳ Gallux sector is fully under Human control (2024-12-18 21:54  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2024-12-18 22:26  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-12-18 23:47  UTC)<br/>
 Dispatch: SITUATIONAL DEVELOPMENT. Some Helldivers may have noticed novel electromagnetic phenomena in vicinity of the *Meridia* Black Hole. High Command is aware of the situation, which is being closely monitored by experts in the field. Helldivers are advised to avoid distractions and focus their full attention on repelling the Illuminate threat. (2024-12-19 01:19  UTC)<br/>
  Decay: 0.0 on Fenrir III
  (2024-12-19 01:19  UTC)<br/>
 *Hadar*'s invasion is repelled (2024-12-19 06:10  UTC)<br/>
-↳ Ferris sector is fully liberated (2024-12-19 06:10  UTC)<br/>
+↳ Ferris sector is fully under Human control (2024-12-19 06:10  UTC)<br/>
 *Gemma* of the Ursa sector is invaded by Illuminate (2024-12-19 06:29  UTC)<br/>
 
 ### Day: #316
 Dispatch: ARSENAL AUGMENTATION. The amount of ammo, Stratagems, and lives of heroes used to combat the Illuminate extremists have put the Q4 defense budget under unexpected strain. To address this issue, the Ministry of Defense has entered into a contract with reputable arms manufacturer Ståhl Arms. All Helldivers have been granted access to six new items, including two weapons and one armor set, effective immediately. (2024-12-19 15:21  UTC)<br/>
 *Gemma*'s invasion is successful (2024-12-19 18:30  UTC)<br/>
-↳ Ursa sector is fully liberated (2024-12-19 18:30  UTC)<br/>
+↳ Ursa sector is fully under Human control (2024-12-19 18:30  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is invaded by Illuminate (2024-12-19 19:35  UTC)<br/>
 Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV). If the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted. (2024-12-19 19:43  UTC)<br/>
 *Fenrir III* defense is failed (2024-12-19 23:49  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-12-19 23:49  UTC)<br/>
 *Achernar Secundus*'s invasion is repelled (2024-12-20 02:28  UTC)<br/>
-↳ Borgus sector is fully liberated (2024-12-20 02:28  UTC)<br/>
+↳ Borgus sector is fully under Human control (2024-12-20 02:28  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-20 04:00  UTC)<br/>
 
@@ -3826,13 +3825,13 @@ Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDU
 Dispatch: ACHERNAR SECUNDUS SECURED. The Illuminate have been repelled from ACHERNAR SECUNDUS, and the AM Defense Factory Hub has been secured. Production of the Fast Reconnaissance Vehicle (FRV) has resumed. The vehicle will soon be available for fleetwide requisition. Significantly, millions of colonists are also now safe. (2024-12-20 13:00  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-12-20 20:29  UTC)<br/>
 *Skaash*'s invasion is repelled (2024-12-20 21:17  UTC)<br/>
-↳ Ursa sector is fully liberated (2024-12-20 21:17  UTC)<br/>
+↳ Ursa sector is fully under Human control (2024-12-20 21:17  UTC)<br/>
 Major Order | Operation A1-12-4 Repel Illuminate Incursions is won | Objective: Defend (2024-12-20 21:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After days of fighting, colonies lie in ruins across the galaxy. The evidence is clear: the Illuminate have returned in force to menace Freedom once again. But they have returned to find a mighty and stalwart opponent. The Helldivers, champions of the First Galactic War, repulsed the Illuminate wave of attacks, reminding our xenophobic aggressors why their previous attempt at galactic domination failed so utterly. (2024-12-20 21:17  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 0.0 on Erata Prime
  (2024-12-20 21:17  UTC)<br/>
 *Bashyr*'s invasion is successful (2024-12-20 21:38  UTC)<br/>
-↳ Gallux sector is fully liberated (2024-12-20 21:38  UTC)<br/>
+↳ Gallux sector is fully under Human control (2024-12-20 21:38  UTC)<br/>
 
 ### Day: #318
 Major Order | Operation A1-12-5 Secure *Fenrir III* is issued | Objective: Control (2024-12-21 11:07  UTC)<br/>
@@ -3844,12 +3843,12 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
  Decay: 2.0 on Erata Prime
  (2024-12-21 22:10  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2024-12-21 23:19  UTC)<br/>
-↳ Guang sector is fully liberated (2024-12-21 23:19  UTC)<br/>
+↳ Guang sector is fully under Human control (2024-12-21 23:19  UTC)<br/>
 *Osupsam* of the Tarragon sector is invaded by Illuminate (2024-12-22 08:24  UTC)<br/>
 
 ### Day: #319
 *Asperoth Prime*'s invasion is successful (2024-12-22 10:10  UTC)<br/>
-↳ Akira sector is fully liberated (2024-12-22 10:10  UTC)<br/>
+↳ Akira sector is fully under Human control (2024-12-22 10:10  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-22 10:10  UTC)<br/>
 *Fenrir III* is liberated (2024-12-22 17:13  UTC)<br/>
@@ -3857,12 +3856,12 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 *Baldrick Prime* of the Meridian sector is invaded by Illuminate (2024-12-22 18:16  UTC)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-12-22 20:08  UTC)<br/>
 *Osupsam*'s invasion is successful (2024-12-22 20:24  UTC)<br/>
-↳ Tarragon sector is fully liberated (2024-12-22 20:24  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2024-12-22 20:24  UTC)<br/>
  Decay: 0.0 on Esker
  (2024-12-22 20:24  UTC)<br/>
 *Hydrobius* of the Omega sector is invaded by Illuminate (2024-12-23 05:19  UTC)<br/>
 *Baldrick Prime*'s invasion is successful (2024-12-23 06:17  UTC)<br/>
-↳ Meridian sector is fully liberated (2024-12-23 06:17  UTC)<br/>
+↳ Meridian sector is fully under Human control (2024-12-23 06:17  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Esker<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Falstaff sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-23 08:00  UTC)<br/>
 
@@ -3877,18 +3876,18 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 *Hellmire* liberation campaign ends (2024-12-23 23:41  UTC)<br/>
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-12-23 23:42  UTC)<br/>
 *Erata Prime* is liberated (2024-12-24 00:49  UTC)<br/>
-↳ Umlaut sector is fully liberated (2024-12-24 00:49  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2024-12-24 00:49  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-12-24 00:49  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is invaded by Illuminate (2024-12-24 04:12  UTC)<br/>
 *Seasse*'s invasion is successful (2024-12-24 05:18  UTC)<br/>
-↳ Omega sector is fully liberated (2024-12-24 05:18  UTC)<br/>
+↳ Omega sector is fully under Human control (2024-12-24 05:18  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Bore Rock<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-24 05:18  UTC)<br/>
 
 ### Day: #321
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-24 15:25  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2024-12-24 16:13  UTC)<br/>
-↳ Gallux sector is fully liberated (2024-12-24 16:13  UTC)<br/>
+↳ Gallux sector is fully under Human control (2024-12-24 16:13  UTC)<br/>
 Major Order | Operation A1-12-5 Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of FENRIR III has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
 Major Order | Operation A1-12-6 Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
@@ -3904,27 +3903,27 @@ Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all He
  (2024-12-24 23:43  UTC)<br/>
 *Rasp* of the Gallux sector is invaded by Illuminate (2024-12-25 02:10  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2024-12-25 03:26  UTC)<br/>
-*Shelt* is liberated (2024-12-25 04:00  UTC)<br/>
-↳ Talus sector is fully liberated (2024-12-25 04:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-25 04:00  UTC)<br/>
+ (2024-12-25 03:26  UTC)<br/>
+*Shelt* is liberated (2024-12-25 04:00  UTC)<br/>
+↳ Talus sector is fully under Human control (2024-12-25 04:00  UTC)<br/>
 Dispatch: HOLIDAY SONG. All Helldivers are invited to join in the classic holiday carol "Here They Come a'Reckonin':" Oh, here they come a'Recknonin', O'er hill and vale, Children play, bombs away, *Super Earth* we hail! Here they come a'Reckonin', Justice justly served, Flowers grow, blood will flow, Peace on *Super Earth*! (2024-12-25 11:06  UTC)<br/>
 *Myrium* of the Morgon sector is invaded by Illuminate (2024-12-25 13:30  UTC)<br/>
 *Rasp*'s invasion is successful (2024-12-25 14:11  UTC)<br/>
-↳ Gallux sector is fully liberated (2024-12-25 14:11  UTC)<br/>
+↳ Gallux sector is fully under Human control (2024-12-25 14:11  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-25 16:00  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-25 22:28  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the Helldivers are given access to a bounty of Explosive weaponry. (2024-12-25 22:32  UTC)<br/>
 *Myrium*'s invasion is successful (2024-12-26 01:31  UTC)<br/>
-↳ Morgon sector is fully liberated (2024-12-26 01:31  UTC)<br/>
+↳ Morgon sector is fully under Human control (2024-12-26 01:31  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-26 02:00  UTC)<br/>
 
 ### Day: #323
 *Heze Bay* of the Hanzo sector is invaded by Illuminate (2024-12-26 09:35  UTC)<br/>
 *Canopus*'s invasion is successful (2024-12-26 10:30  UTC)<br/>
-↳ Tarragon sector is fully liberated (2024-12-26 10:30  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2024-12-26 10:30  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-12-26 19:40  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-26 19:40  UTC)<br/>
@@ -3937,7 +3936,7 @@ Dispatch: HOLIDAY TIDINGS. The Third Day of the Festival of Reckoning is the mos
 *Julheim* of the Nanos sector is invaded by Illuminate (2024-12-27 06:57  UTC)<br/>
 Dispatch: ILLUMINATE INCURSION. The Illuminate have launched a vicious assault on JULHEIM, bringing death and destruction to families' peaceful and solemn observance of the Festival of Reckoning. It is clear that nothing is sacred to these zealots. The Helldivers must ensure the innocents killed by the Illuminate today are fully avenged. (2024-12-27 07:00  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-27 08:33  UTC)<br/>
-↳ Akira sector is fully liberated (2024-12-27 08:33  UTC)<br/>
+↳ Akira sector is fully under Human control (2024-12-27 08:33  UTC)<br/>
 
 ### Day: #324
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia, Lesath<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3954,14 +3953,14 @@ Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is issued 
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate and Voteless as possible over the coming wave of attacks. This will both deter the enemy and allow the Ministry of Science to autopsy the remains, possibly yielding intel about the Illuminate and how the Voteless are created. (2024-12-27 23:36  UTC)<br/>
 *Gemma* of the Ursa sector is invaded by Illuminate (2024-12-28 00:35  UTC)<br/>
 *Julheim*'s invasion is successful (2024-12-28 00:58  UTC)<br/>
-↳ Nanos sector is fully liberated (2024-12-28 00:58  UTC)<br/>
+↳ Nanos sector is fully under Human control (2024-12-28 00:58  UTC)<br/>
 
 ### Day: #325
 *Volterra* of the Korpus sector is invaded by Illuminate (2024-12-28 11:28  UTC)<br/>
 *Gemma*'s invasion is successful (2024-12-28 12:36  UTC)<br/>
-↳ Ursa sector is fully liberated (2024-12-28 12:36  UTC)<br/>
+↳ Ursa sector is fully under Human control (2024-12-28 12:36  UTC)<br/>
 *Volterra*'s invasion is repelled (2024-12-28 21:59  UTC)<br/>
-↳ Korpus sector is fully liberated (2024-12-28 21:59  UTC)<br/>
+↳ Korpus sector is fully under Human control (2024-12-28 21:59  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-28 21:59  UTC)<br/>
 *Iro* of the Rictus sector is invaded by Illuminate (2024-12-28 22:47  UTC)<br/>
@@ -3970,34 +3969,48 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 
 ### Day: #326
 *Iro*'s invasion is repelled (2024-12-29 09:09  UTC)<br/>
-↳ Rictus sector is fully liberated (2024-12-29 09:09  UTC)<br/>
+↳ Rictus sector is fully under Human control (2024-12-29 09:09  UTC)<br/>
 *Keid* of the Akira sector is invaded by Illuminate (2024-12-29 09:41  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-12-29 14:00  UTC)<br/>
 *Liberty Ridge* of the Meridian sector is invaded by Illuminate (2024-12-29 20:33  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-29 21:41  UTC)<br/>
-↳ Akira sector is fully liberated (2024-12-29 21:41  UTC)<br/>
+↳ Akira sector is fully under Human control (2024-12-29 21:41  UTC)<br/>
 *Liberty Ridge*'s invasion is repelled (2024-12-30 07:09  UTC)<br/>
-↳ Meridian sector is fully liberated (2024-12-30 07:09  UTC)<br/>
+↳ Meridian sector is fully under Human control (2024-12-30 07:09  UTC)<br/>
 *Irulta* of the Saleria sector is invaded by Illuminate (2024-12-30 07:09  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2024-12-30 07:09  UTC)<br/>
 
 ### Day: #327
 *Hort* of the Rigel sector is invaded by Illuminate (2024-12-30 18:19  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-30 18:20  UTC)<br/>
 *Irulta*'s invasion is successful (2024-12-30 19:09  UTC)<br/>
-↳ Saleria sector is fully liberated (2024-12-30 19:09  UTC)<br/>
+↳ Saleria sector is fully under Human control (2024-12-30 19:09  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-31 06:15  UTC)<br/>
 *Hort*'s invasion is successful (2024-12-31 06:19  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2024-12-31 06:21  UTC)<br/>
-↳ Rigel sector is fully liberated (2024-12-31 06:21  UTC)<br/>
+↳ Rigel sector is fully under Human control (2024-12-31 06:21  UTC)<br/>
 *Kraz* of the Alstrad sector is invaded by Illuminate (2024-12-31 06:24  UTC)<br/>
 
 ### Day: #328
 *Kharst* of the Gallux sector is invaded by Illuminate (2024-12-31 17:35  UTC)<br/>
 *Canopus*'s invasion is successful (2024-12-31 18:16  UTC)<br/>
-↳ Tarragon sector is fully liberated (2024-12-31 18:16  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2024-12-31 18:16  UTC)<br/>
 *Kraz*'s invasion is successful (2024-12-31 18:24  UTC)<br/>
-↳ Alstrad sector is fully liberated (2024-12-31 18:24  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2024-12-31 18:24  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-01-01 04:41  UTC)<br/>
 *Kharst*'s invasion is repelled (2025-01-01 04:50  UTC)<br/>
-↳ Gallux sector is fully liberated (2025-01-01 04:50  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-01 04:50  UTC)<br/>
+
+### Day: #329
+*Parsh*'s invasion is repelled (2025-01-01 15:26  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-01-01 15:26  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-01-01 16:32  UTC)<br/>
+*Choohe* of the Lacaille sector is attacked by Automatons (2025-01-01 20:03  UTC)<br/>
+*RD-4*'s invasion is repelled (2025-01-02 02:47  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-02 02:47  UTC)<br/>
+Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is won | Objective: Eradicate/Defend (2025-01-02 02:47  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-02 04:25  UTC)<br/>
+
+# Day: #330
