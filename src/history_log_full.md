@@ -9,6 +9,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2024-01-02 07:52  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2024-01-03 06:57  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -3729,7 +3730,7 @@ Major Order | Operation A1-12-2 Factory Hub Defense is failed | Objective: Defen
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (2024-12-13 02:24  UTC)<br/>
 Dispatch: ALL UNITS TO LIBCON 1. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (2024-12-13 02:28  UTC)<br/>
-Emergency Alert | *Calypso* Illuminate Emergency Defense is issued (2024-12-13 02:28  UTC)<br/>
+Emergency Alert | *Calypso* Illuminate Emergency Invasion Defense is issued (2024-12-13 02:28  UTC)<br/>
 Major Order | Operation A1-12-3 Defend *Calypso* from the Illuminate is issued | Objective: Defend (2024-12-13 02:28  UTC)<br/>
 Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings. (2024-12-13 02:30  UTC)<br/>
 
@@ -3816,8 +3817,8 @@ Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDU
 ↳ *Fenrir III* liberation campaign starts (2024-12-19 23:49  UTC)<br/>
 *Achernar Secundus*'s invasion is repelled (2024-12-20 02:28  UTC)<br/>
 ↳ Borgus sector is fully under Human control (2024-12-20 02:28  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-20 04:00  UTC)<br/>
+ Decay: 1.0 on Fenrir III
+ (2024-12-20 02:28  UTC)<br/>
 
 ### Day: #317
 *Skaash* of the Ursa sector is invaded by Illuminate (2024-12-20 09:36  UTC)<br/>
@@ -4014,3 +4015,17 @@ Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is won | O
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-02 04:25  UTC)<br/>
 
 # Day: #330
+*Regnus* of the Morgon sector is invaded by Illuminate (2025-01-02 15:35  UTC)<br/>
+*Sirius*'s invasion is successful (2025-01-02 16:26  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-01-02 16:26  UTC)<br/>
+*Choohe* defense is failed (2025-01-02 20:05  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2025-01-02 20:05  UTC)<br/>
+↳ *Chort Bay* liberation campaign ends (2025-01-02 20:05  UTC)<br/>
+↳ *Menkent* liberation campaign ends (2025-01-02 20:05  UTC)<br/>
+↳ *Aurora Bay* liberation campaign ends (2025-01-02 20:05  UTC)<br/>
+↳ Lacaille sector is fully under Automaton control (2025-01-02 20:05  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-01-03 03:26  UTC)<br/>
+*Regnus*'s invasion is successful (2025-01-03 03:36  UTC)<br/>
+Major Order | Operation A2-1-1 CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
+
+### Day: #331
