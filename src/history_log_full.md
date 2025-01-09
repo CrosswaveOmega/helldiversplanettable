@@ -4101,9 +4101,21 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ↳ *Gacrux* liberation campaign ends (2025-01-08 08:36  UTC)<br/>
 
 ### Day: #336
-*Khandark* of the Guang sector is invaded by Illuminates (2025-01-08 11:19  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Illuminate (2025-01-08 11:19  UTC)<br/>
 *Grafmere*'s invasion is successful (2025-01-08 12:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | Operation A2-1-1 CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
 *Mastia* of the Marspira sector is established as a Center for Citizen Surveillance & Security (2025-01-08 14:23  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2025-01-08 19:27  UTC)<br/>
+*Polaris Prime* of the Farsight sector is invaded by Illuminate (2025-01-08 22:50  UTC)<br/>
+*Khandark*'s invasion is successful (2025-01-08 23:19  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-01-08 23:19  UTC)<br/>
+
+### Day: #337
+*Andar* of the Akira sector is invaded by Illuminate (2025-01-09 10:28  UTC)<br/>
+*Polaris Prime*'s invasion is successful (2025-01-09 10:50  UTC)<br/>
+↳ Farsight sector is fully under Human control (2025-01-09 10:50  UTC)<br/>
+*Acamar IV* is liberated (2025-01-09 11:58  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2025-01-09 11:58  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-01-09 12:01  UTC)<br/>
