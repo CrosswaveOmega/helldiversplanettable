@@ -67,6 +67,12 @@ const count=0;
 
 ${update_time}
 ## Current Game State
+PLEASE NOTE:
+Because the Illuminate have not occupied any planet yet as with the Terminids and Automatons, 
+a proper front for the Illuminate **cannot be determined as of yet.** 
+
+For now, the Illuminate invasions are considered to be on the HUMANS front.
+
 <div class="grid grid-cols-3">
   <div class="card">
     <h2>Terminid front planets</h2>
