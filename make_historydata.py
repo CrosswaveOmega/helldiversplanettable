@@ -322,8 +322,9 @@ async def get_planet_stats(
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
             print(planetstats)
+            cursor = conn.cursor()
             for pindex, details in planetstats.items():
-                cursor = conn.cursor()
+                
                 print('adding',pindex)
                 cursor.execute(
                     """
@@ -341,11 +342,8 @@ async def get_planet_stats(
                         int(details["players"]),
                     ),
                 )
-                conn.commit()
-                checkv=fetch_entries_by_timestamp(conn,str(timestamp))
-                if not checkv:
-                    print("COULD NOT ADD TO DATABASE.")
 
+            conn.commit()
             checkv=fetch_entries_by_timestamp(conn,str(timestamp))
             if not checkv:
                 print("COULD NOT ADD TO DATABASE.")
