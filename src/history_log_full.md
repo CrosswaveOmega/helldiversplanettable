@@ -3919,7 +3919,7 @@ Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the H
 *Myrium*'s invasion is successful (2024-12-26 01:31  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2024-12-26 01:31  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Martale, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2024-12-26 02:00  UTC)<br/>
+ (2024-12-26 01:31  UTC)<br/>
 
 ### Day: #323
 *Heze Bay* of the Hanzo sector is invaded by Illuminate (2024-12-26 09:35  UTC)<br/>
@@ -3949,7 +3949,7 @@ Dispatch: ILLUMINATE INCURSION. The Illuminate have launched a vicious assault o
 ↳ *Vernen Wells* liberation campaign ends (2024-12-27 19:42  UTC)<br/>
 ↳ *Penta* liberation campaign ends (2024-12-27 19:42  UTC)<br/>
 Major Order | Operation A1-12-6 Festival of Reckoning 2024 is won | Objective: Control (2024-12-27 23:23  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Umlaut sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Valdis sector, Sten sector<br/> Decay: 0.5 on Shelt, Blistica, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 2.5 on Heeth, Aurora Bay, Penta, Turing, Angel's Venture, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV, Martale, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ Decay: 1.5 on Lesath
  (2024-12-27 23:23  UTC)<br/>
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has come to a close. Consult the Galactic Map on your ship for more information. (2024-12-27 23:31  UTC)<br/>
 Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is issued | Objective: Eradicate/Defend (2024-12-27 23:33  UTC)<br/>
@@ -4119,3 +4119,16 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Acamar IV* is liberated (2025-01-09 11:58  UTC)<br/>
 ↳ *Gacrux* liberation campaign starts (2025-01-09 11:58  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2025-01-09 12:01  UTC)<br/>
+*Matar Bay* defense is failed (2025-01-09 19:29  UTC)<br/>
+↳ *Matar Bay* liberation campaign starts (2025-01-09 19:29  UTC)<br/>
+↳ *Choohe* liberation campaign ends (2025-01-09 19:29  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Illuminate (2025-01-09 22:08  UTC)<br/>
+*Andar*'s invasion is successful (2025-01-09 22:29  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-01-09 22:29  UTC)<br/>
+*Terrek* defense is won (2025-01-10 06:38  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-01-10 06:38  UTC)<br/>
+
+### Day: #338
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-10 09:09  UTC)<br/>
+​​*Mog*'s invasion is successful (2025-01-10 10:08  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-01-10 10:08  UTC)<br/>
