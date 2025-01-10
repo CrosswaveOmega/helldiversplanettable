@@ -326,7 +326,7 @@ async def get_planet_stats(
                 cursor.execute(
                     """
                 INSERT OR REPLACE INTO alltimedata (timestamp, dayval, pindex, warID, health, owner, regenPerSecond, players)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?);
                 """,
                     (
                         str(timestamp),
@@ -340,6 +340,7 @@ async def get_planet_stats(
                     ),
                 )
                 conn.commit()
+                
             checkv=fetch_entries_by_timestamp(conn,str(timestamp))
             if not checkv:
                 print("COULD NOT ADD TO DATABASE.")

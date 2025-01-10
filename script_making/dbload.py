@@ -16,9 +16,9 @@ def fetch_entries_by_timestamp(
 
     cursor.execute(
         """
-    SELECT * FROM alltimedata WHERE timestamp = ?
+    SELECT * FROM alltimedata WHERE timestamp = ?;
     """,
-        (str(timestamp),),
+        (str(timestamp),)
     )
     entries = cursor.fetchall()
     print(entries)
