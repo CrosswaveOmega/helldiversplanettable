@@ -297,7 +297,7 @@ async def get_planet_stats(
     """Retrieve the current planet status if present."""
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
-    cursor = conn.cursor()
+    
 
     if dc not in all_times_new:
         ents = fetch_entries_by_dayval(conn, dc)
@@ -322,6 +322,7 @@ async def get_planet_stats(
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
             for pindex, details in planetstats.items():
+                cursor = conn.cursor()
                 cursor.execute(
                     """
                 INSERT OR REPLACE INTO alltimedata (timestamp, dayval,pindex, warID, health, owner, regenPerSecond, players)
