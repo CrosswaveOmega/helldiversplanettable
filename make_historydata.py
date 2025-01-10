@@ -306,10 +306,11 @@ async def get_planet_stats(
                 all_times_new.pop(k)
         all_times_new[dc] = ents
     if timestamp not in all_times_new[dc]:
-        checkv=fetch_entries_by_timestamp(conn,ne.timestamp)
+        checkv=fetch_entries_by_timestamp(conn,str(ne.timestamp))
         if checkv:
             
             print(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
+            all_times_new[dc][timestamp] = checkv
             planetstats = all_times_new[dc][timestamp]
             return planetstats
         print(f"{timestamp} not found in all_times_new[{dc}]")
