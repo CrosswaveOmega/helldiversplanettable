@@ -21,7 +21,9 @@ def fetch_entries_by_timestamp(
         (timestamp,),
     )
     entries = cursor.fetchall()
+    
     keys = [column[0] for column in cursor.description]
+    print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}
@@ -37,7 +39,7 @@ def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStat
         """
     SELECT * FROM alltimedata WHERE dayval = ?
     """,
-        (dayval,),
+        (str(dayval),),
     )
     entries = cursor.fetchall()
     keys = [column[0] for column in cursor.description]

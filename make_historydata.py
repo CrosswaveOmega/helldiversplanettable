@@ -324,7 +324,7 @@ async def get_planet_stats(
             for pindex, details in planetstats.items():
                 cursor.execute(
                     """
-                INSERT INTO alltimedata (timestamp, dayval,pindex, warID, health, owner, regenPerSecond, players)
+                INSERT OR REPLACE INTO alltimedata (timestamp, dayval,pindex, warID, health, owner, regenPerSecond, players)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                     (
