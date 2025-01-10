@@ -18,10 +18,10 @@ def fetch_entries_by_timestamp(
         """
     SELECT * FROM alltimedata WHERE timestamp = ?
     """,
-        (timestamp,),
+        (str(timestamp),),
     )
     entries = cursor.fetchall()
-    
+    print(entries)
     keys = [column[0] for column in cursor.description]
     print(entries,keys)
     all_entries = {}
