@@ -338,8 +338,10 @@ async def get_planet_stats(
                         int(details["players"]),
                     ),
                 )
-                
-            conn.commit()
+                conn.commit()
+            checkv=fetch_entries_by_timestamp(conn,str(ne.timestamp))
+            if not checkv:
+                print("COULD NOT ADD TO DATABASE.")
             print("fetch complete")
             all_times_new[dc][timestamp] = planetstats
         else:
