@@ -30,17 +30,21 @@ def get_web_file():
 
 async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
     """Request the game's status at the given datetime using the war history api."""
+    
+    current_time = timev.isoformat()
     try:
-        current_time = timev.isoformat()
         url = "https://api-helldivers.kejax.net/api/planets/at"
         params = {"time": current_time}
-        timeout = aiohttp.ClientTimeout(total=10)  # Set the timeout to 10 seconds
+        timeout = aiohttp.ClientTimeout(total=60)  # Set the timeout to 10 seconds
 
         async with aiohttp.ClientSession(timeout=timeout) as session:
             async with session.get(url, params=params) as response:
+                print(response)
                 response_json = await response.json()
                 outv = {p["index"]: p for p in response_json}
                 return outv
     except Exception as e:
+        print("Something went wrong.")
+        print(str(e))
         logger.warning(str(e))
         return {}
