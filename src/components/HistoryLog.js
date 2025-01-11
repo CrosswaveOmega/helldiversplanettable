@@ -650,12 +650,13 @@ export function makeplotcurrent(
     gstates,
     planetimages,
     target,
-
     world,
+    getNeighbors,
     { width, htarget, ttarget, atarget, showImages = true },
 ) {
     let slider = history.events.length - 1;
     let current_event = history.events[slider];
+    let sectordata=getNeighbors();
 
     const small = 48;
     const big = 128;
@@ -667,7 +668,6 @@ export function makeplotcurrent(
     console.log(planetimages);
     console.log(slider, galaxy_time);
 
-    const sectorValuesMap = new Map();
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
@@ -690,29 +690,7 @@ export function makeplotcurrent(
             let lastlink = galaxystate[planet]["link2"];
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
-        let sector = galaxystate[planet].sector
-            .replace(/[^a-zA-Z]/g, "")
-            .toLowerCase();
-
-
-        //Sector Values
-        if (sectorValuesMap.has(sector)) {
-            const existingColor = d3.color(sectorValuesMap.get(sector));
-            const newColor = d3.color(getSectorColor(galaxystate[planet].ta[0]));
-
-            const averagedColor = d3
-                .rgb(
-                    (existingColor.r + newColor.r) / 2,
-                    (existingColor.g + newColor.g) / 2,
-                    (existingColor.b + newColor.b) / 2,
-                    (existingColor.opacity + newColor.opacity) / 2
-                )
-                .formatRgb();
-
-            sectorValuesMap.set(sector, averagedColor);
-        } else {
-            sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
-        }
+        
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>
@@ -723,12 +701,6 @@ export function makeplotcurrent(
             }))
             : [],
     );
-    function calculateAverageCoordinates(geoFeature) {
-        let center = d3.polygonCentroid(geoFeature.geometry.coordinates[0]);
-        //console.log(center);
-        return center
-    }
-
 
     let planets = Object.values(galaxystate);
 
@@ -748,16 +720,6 @@ export function makeplotcurrent(
                 ariaLabel: (d) => d.properties.id
             }),
 
-            Plot.text(world.features, {
-                x: (d) => calculateAverageCoordinates(d)[0],
-                y: (d) => calculateAverageCoordinates(d)[1],
-                text: (d) => d.properties.id,
-                fill: "white",
-                fontSize: 16,
-                stroke: "black",
-                strokeWidth: 2,
-                textAnchor: "middle",
-            }),
 
             Plot.dot(planets, {
                 x: (p) => x_c(p.position.x),

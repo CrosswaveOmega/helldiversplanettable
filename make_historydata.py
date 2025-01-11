@@ -321,7 +321,7 @@ async def get_planet_stats(
             print(f"{ne.time} fetching game data for time {timestamp}")
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
-            print(planetstats)
+            #print(planetstats)
             cursor = conn.cursor()
             for pindex, details in planetstats.items():
                 

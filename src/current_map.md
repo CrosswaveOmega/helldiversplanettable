@@ -11,9 +11,11 @@ title: The Great Big Galactic War History Map
 
 
   import {
-    makeplotcurrent, makeplotcurrent_group,eList, count_distinct_planets,list_text
+    makeplotcurrent, eList, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
     import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
+    
+import  {getNeighbors}  from "./components/sector_neighbors.js";
 ```
 
 ```js
@@ -171,7 +173,7 @@ const mywidth=4000
 
 ${GetMapSvgButton}
 <div id="MYCARD", style="width:4000px">
-  ${makeplotcurrent(historydata,gstates,planetimages,targets,world,{mywidth, showImages,htarget,ttarget,atarget})}
+  ${makeplotcurrent(historydata,gstates,planetimages,targets,world,getNeighbors,{mywidth, showImages,htarget,ttarget,atarget})}
 </div>
 
 

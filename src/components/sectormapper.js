@@ -181,7 +181,6 @@ export function makeplotcurrent_group(
     gstates,
     planetimages,
     target,
-
     world,
     getNeighbors,
     { width, htarget, ttarget, atarget, showImages = true },
