@@ -197,11 +197,14 @@ export function makeplotcurrent_group(
     const sectorPlanetsMap = new Map();
 
     let galaxystate = {};
+    let inverted={};
+
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = {};
         for (const [key, value] of Object.entries(values)) {
             galaxystate[planet][key] = value;
         }
+        // Go through each galaxy state.
         for (const element of gstates.gstate[planet]) {
             if (element.eind <= galaxy_time) {
                 for (const [k, v] of Object.entries(element)) {
@@ -217,7 +220,20 @@ export function makeplotcurrent_group(
         } else {
             let lastlink = galaxystate[planet]["link2"];
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
+            if (Object.keys(galaxystate[planet]["link"]).length !== 0) {
+                for (const v of gstates.links[String(lastlink)]) {
+                    if (!inverted[v]) {
+                        inverted[v] = [planet];
+                    } else {
+                        inverted[v].push(planet);
+                    }
+                }
+                
+                
+                console.log(planet,galaxystate[planet]["link"]);
+            }
         }
+
         let sector = galaxystate[planet].sector
             .replace(/[^a-zA-Z]/g, "")
             .toLowerCase();
@@ -225,6 +241,7 @@ export function makeplotcurrent_group(
         if (!sectorPlanetsMap.has(sector)) {
             sectorPlanetsMap.set(sector, []);
         }
+        galaxystate[planet].id=planet;
         sectorPlanetsMap.get(sector).push(galaxystate[planet]);
 
         if (!sectorValuesMap.has(sector)) {
@@ -325,33 +342,24 @@ export function makeplotcurrent_group(
     
     function clipPolygonToBoundingBox(polygon, boundingBox) {
         const [minX, minY, maxX, maxY] = boundingBox;
-    
         // Initialize an empty array for clipped rings
         const clippedRings = [];
-    
         // Iterate over the polygon's rings
         polygon.forEach(ring => {
-
             const x = ring[0];
             const y = ring[1];
-
             // Check if the coordinate is within the bounding box
             if (x >= minX && x <= maxX && y >= minY && y <= maxY) {
                 clippedRings.push([x, y]);
             }
-
         });
-    
         // Flatten the clipped rings and remove duplicates to form a single visible region
         const visibleRegion = [];
         clippedRings.forEach(ring => {
             const [x, y] = ring;
-
             visibleRegion.push([x, y]);
             
-
         });
-    
         return visibleRegion;
     }
     
@@ -375,10 +383,7 @@ export function makeplotcurrent_group(
     function createSubvariantWorldNeighbors(worldData, sector) {
         const sectors=getNeighbors();
         let mysectors= sectors[sector]?.['neighbors'];
-
         let main = mysectors.map(sector => sector.toLowerCase());
-
-            
         return {
             type: 'FeatureCollection',
             features: worldData.features.filter(
@@ -399,6 +404,7 @@ export function makeplotcurrent_group(
     const sectordata=getNeighbors();
     const svgsBySector = Array.from(sectorPlanetsMap.entries()).map(([sector, planets]) => {
         console.log(sector, planets);
+        let sname=sectordata[sector]?.['name'];
     
         let {subworld,minX,minY,maxX,maxY} = createSubvariantWorld(world, sector);
 
@@ -563,7 +569,7 @@ export function makeplotcurrent_group(
         console.log(neighborLabels);
     
         return Plot.plot({
-            ariaLabel: sector,
+            ariaLabel: sname,
             width: newwidth,
             aspectRatio: 1,
             height: newheight,
@@ -585,12 +591,18 @@ export function makeplotcurrent_group(
                     opacity: 1.0,
                 }),
                 Plot.link(
-                    planets.flatMap((p) =>
-                        p.link.map((y) => ({
+                    planets.flatMap((p) => [
+                        // Original links from the planet
+                        ...p.link.map((y) => ({
                             from: p.position,
                             to: galaxystate[y]?.position,
                         })),
-                    ),
+                        // Inverted links pointing to the planet
+                        ...(inverted[p.id] || []).map((inv) => ({
+                            from: galaxystate[inv]?.position,
+                            to: p.position,
+                        })),
+                    ]),
                     {
                         x1: (p) => x_c(p.from.x),
                         y1: (p) => y_c(p.from.y),
@@ -601,6 +613,8 @@ export function makeplotcurrent_group(
                         strokeWidth: width / 2000,
                     },
                 ),
+                
+                
                 
                 showImages
                     ? Plot.image(planets, {
