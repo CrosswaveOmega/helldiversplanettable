@@ -2451,7 +2451,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46  UTC)<br/>
  Decay: 500.0 on Socorro III
  (2024-08-27 11:46  UTC)<br/>
-Note: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
+NOTE: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 ↳ *Enuliale* is now unobservable due to the Gloom (2024-08-27 11:50  UTC)<br/>
@@ -3095,7 +3095,7 @@ Automaton Jet Brigade redeploys to assist in the siege of *Martale* (2024-10-19 
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
 Automaton Jet Brigade redeploys to every enemy faction controlled world (2024-10-21 04:11  UTC)<br/>
-↳ Note: This was an error produced by the Gamemaster not properly filling a value making it appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. (2024-10-21 04:11  UTC)<br/>
+↳ NOTE: This was an error produced by the Gamemaster not properly filling a value making it appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
 Automaton Jet Brigade stops guarding every enemy faction controlled world (2024-10-21 08:01  UTC)<br/>
@@ -4125,3 +4125,38 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Pherkad Secundus* of the Farsight sector is attacked by Terminids (2025-01-10 18:40  UTC)<br/>
 Major Order | Operation A2-1-2 Terminid Cascade Defense is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a sharp increase in Terminid spore outflow from the Gloom, cascading throughout all Terminid-occupied worlds to greatly accelerate bug expansion. Multiple outbreaks have already been detected. The Helldivers must respond immediately to stem further outbreaks. Consult your Galactic Map for more information. (2025-01-10 18:46  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-10 20:46  UTC)<br/>
+ Decay: 0.0 on Grand Errant, Pherkad Secundus
+ (2025-01-10 20:46  UTC)<br/>
+*Alamak VII*'s invasion is successful (2025-01-10 21:09  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-10 21:09  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-01-11 08:17  UTC)<br/>
+*Ilduna Prime*'s invasion is successful (2025-01-11 08:47  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-01-11 08:47  UTC)<br/>
+
+### Day: #339
+*Grand Errant* defense is won (2025-01-11 11:12  UTC)<br/>
+ Decay: 500.0 on Grand Errant
+ (2025-01-11 12:00  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-01-11 18:17  UTC)<br/>
+*Pherkad Secundus* defense is failed (2025-01-11 18:42  UTC)<br/>
+↳ *Pherkad Secundus* liberation campaign starts (2025-01-11 18:42  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2025-01-11 18:42  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Illuminate (2025-01-11 19:59  UTC)<br/>
+ Decay: 2.0 on Pherkad Secundus
+ (2025-01-11 19:59  UTC)<br/>
+*Elysian Meadows*'s invasion is successful (2025-01-11 20:18  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-01-11 20:18  UTC)<br/>
+*Polaris Prime* liberation campaign starts (2025-01-11 23:15  UTC)<br/>
+↳ NOTE: As a result of Joel messing some stuff up in the backend a liberation campaign was started, while the planet was still under SE control. During the two minutes that this was active any missions selected would just be normal bug liberation missions, as that was the faction defaulted to. Also had 500% decay. (2025-01-11 23:15  UTC)<br/>
+*Polaris Prime* is liberated (2025-01-11 23:17  UTC)<br/>
+↳ NOTE: As a result of Joel messing some stuff up in the backend a liberation campaign was started, while the planet was still under SE control. During the two minutes that this was active any missions selected would just be normal terminid liberation missions, as that was the faction defaulted to. Also had 500% decay. Joel furthermore ended the campaign which leads to a strange situation where in terms of event lines, *Polaris Prime* went from SE control to SE control. (2025-01-11 23:17  UTC)<br/>
+*Polaris Prime* of the Farsight sector is attacked by Terminids (2025-01-11 23:18  UTC)<br/>
+ Decay: 0.0 on Polaris Prime
+ (2025-01-12 00:00  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-01-12 07:49  UTC)<br/>
+*Irulta*'s invasion is successful (2025-01-12 08:00  UTC)<br/>
+↳ Saleria sector is fully under Human control (2025-01-12 08:00  UTC)<br/>
+
+# Day: #340
