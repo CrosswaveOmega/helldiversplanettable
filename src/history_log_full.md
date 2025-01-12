@@ -4160,3 +4160,8 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 ↳ Saleria sector is fully under Human control (2025-01-12 08:00  UTC)<br/>
 
 # Day: #340
+*Polaris Prime* defense is won (2025-01-12 18:14  UTC)<br/>
+*Erata Prime* defense is failed (2025-01-12 18:20  UTC)<br/>
+↳ *Erata Prime* liberation campaign starts (2025-01-12 18:20  UTC)<br/>
+ Decay: 500.0 on Polaris Prime
+ (2025-01-12 18:20  UTC)<br/>
