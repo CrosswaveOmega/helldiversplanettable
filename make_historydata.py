@@ -34,7 +34,9 @@ from script_making.dbload import (
     fetch_entries_by_dayval,
     PlanetStatusDict,
     PlanetStatusDays,
+    fetch_entries_by_interval,
     fetch_entries_by_timestamp,
+    migrate_tables,
 )
 
 
@@ -172,12 +174,14 @@ async def format_event_obj() -> None:
     sector_dict = {}
     for key, planet in planets_Dict.items():
         sect = planet["sector"]
-        if not sect in sector_dict:
+        if sect not in sector_dict:
             sector_dict[sect] = []
         sector_dict[sect].append(planet["name"])
 
     planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
     conn = sqlite3.connect(DATABASE_FILE)
+    migrate_tables(conn)
+
     for k1 in planets_Dict2:
         for k2 in planets_Dict2:
             if k1.upper() != k2.upper() and k1.upper() in k2.upper():
@@ -306,7 +310,7 @@ async def get_planet_stats(
                 all_times_new.pop(k)
         all_times_new[dc] = ents
     if timestamp not in all_times_new[dc]:
-        checkv=fetch_entries_by_timestamp(conn,str(ne.timestamp))
+        checkv=fetch_entries_by_interval(conn,float(ne.timestamp))
         if checkv:
             
             print(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
@@ -328,8 +332,8 @@ async def get_planet_stats(
                 print('adding',pindex)
                 cursor.execute(
                     """
-                INSERT OR REPLACE INTO alltimedata (timestamp, dayval, pindex, warID, health, owner, regenPerSecond, players)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                INSERT OR REPLACE INTO alltimedata (timestamp, dayval, pindex, warID, health, owner, regenPerSecond, players,interval)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                     (
                         str(timestamp),
@@ -340,6 +344,9 @@ async def get_planet_stats(
                         int(details["owner"]),
                         float(details["regenPerSecond"]),
                         int(details["players"]),
+                        int(float(timestamp))//900,
+                        
+
                     ),
                 )
 

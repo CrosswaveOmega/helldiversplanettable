@@ -93,7 +93,7 @@ const sectorneighbors={
     "hawking": {
         "neighbors": [
             "Arturion",
-            "Lestrade",
+            "L'estrade",
             "Gellert",
             "Falstaff"
         ],
@@ -123,7 +123,7 @@ const sectorneighbors={
     },
     "arturion": {
         "neighbors": [
-            "Lestrade",
+            "L'estrade",
             "Talus",
             "Hawking",
             "Orion",
@@ -239,7 +239,7 @@ const sectorneighbors={
         ],
         "name": "Idun"
     },
-    "lestrade": {
+    "L'estrade": {
         "neighbors": [
             "Mirin",
             "Hawking",
@@ -249,7 +249,7 @@ const sectorneighbors={
             "JinXi",
             "Arturion"
         ],
-        "name": "Lestrade"
+        "name": "L'estrade"
     },
     "tarragon": {
         "neighbors": [
@@ -263,7 +263,7 @@ const sectorneighbors={
     },
     "falstaff": {
         "neighbors": [
-            "Lestrade",
+            "L'estrade",
             "Mirin",
             "Hawking",
             "Orion",
@@ -368,7 +368,7 @@ const sectorneighbors={
             "Draco",
             "Falstaff",
             "Umlaut",
-            "Lestrade"
+            "L'estrade"
         ],
         "name": "Mirin"
     },
@@ -445,7 +445,7 @@ const sectorneighbors={
     },
     "draco": {
         "neighbors": [
-            "Lestrade",
+            "L'estrade",
             "Mirin",
             "Sten",
             "Umlaut",
@@ -482,7 +482,7 @@ const sectorneighbors={
         "neighbors": [
             "Draco",
             "Farsight",
-            "Lestrade",
+            "L'estrade",
             "JinXi"
         ],
         "name": "Sten"
@@ -521,7 +521,7 @@ const sectorneighbors={
     },
     "jinxi": {
         "neighbors": [
-            "Lestrade",
+            "L'estrade",
             "Borgus",
             "Sten",
             "Farsight",
