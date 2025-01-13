@@ -275,7 +275,11 @@ def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str
         planet = p[1]
         if event.type == "defense start":
             defenses[planet] = event.faction
+        if event.type == "invasion start":
+            defenses[planet] = event.faction
         if event.type == "defense won":
+            defenses.pop(str(planet))
+        if event.type == "invasion won":
             defenses.pop(str(planet))
         if event.type == "defense lost":
             event.faction = defenses.pop(str(planet))
