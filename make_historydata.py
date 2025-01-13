@@ -518,6 +518,7 @@ def update_planet_ownership(
             continue
         dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
+            event.faction=dec[0]
             dec[2] = 1
         if event.type == "campaign_end":
             dec[2] = 0
@@ -536,7 +537,14 @@ def update_planet_ownership(
         if event.type == "defense start":
             dec[1] = event.faction
             dec[2] = 1
+        if event.type == "invasion start":
+            dec[1] = event.faction
+            dec[2] = 1
+        
         if event.type == "defense won":
+            dec[1] = 0
+            dec[2] = 0
+        if event.type == "invasion won":
             dec[1] = 0
             dec[2] = 0
         if event.type == "invasion lost":

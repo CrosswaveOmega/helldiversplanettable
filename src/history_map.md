@@ -23,6 +23,7 @@ const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
 const gstates = FileAttachment("./data/gstates.json").json();
+const historydata= await FileAttachment("./data/historydata.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
@@ -36,7 +37,7 @@ planets.forEach((planet) => {
     planet.image = planetimages[key].base64_image;
   }
 });
-const historydata= await FileAttachment("./data/historydata.json").json();
+
 ```
 ```js
 import { format } from "d3-format";

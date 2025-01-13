@@ -358,6 +358,31 @@ function get_percent(hp) {
     return Math.round((hp / 1000000) * 100 * 10000) / 10000;
 }
 
+export function make_planet_at_time(planet,gstates,galaxy_time){
+    let planetstate = {};
+    const values=gstates.gstatic[planet];
+    for (const [key, value] of Object.entries(values)) {
+        planetstate[key] = value;
+    }
+    for (const element of gstates.gstate[planet]) {
+        if (element.eind <= galaxy_time) {
+            for (const [k, v] of Object.entries(element)) {
+                planetstate[k] = v;
+            }
+        }
+    }
+
+    planetstate["ta"] = DECODE(planetstate["t"]);
+
+    if (!("link2" in planetstate)) {
+        planetstate["link"] = [];
+    } else {
+        let lastlink = planetstate["link2"];
+        planetstate["link"] = gstates.links[String(lastlink)];
+    }
+    return planetstate;
+}
+
 export function makeplot(
     history,
     gstates,
@@ -382,7 +407,7 @@ export function makeplot(
     const sectorValuesMap = new Map();
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
-        galaxystate[planet] = {};
+        galaxystate[planet] =make_planet_at_time(planet,gstates,galaxy_time);
         for (const [key, value] of Object.entries(values)) {
             galaxystate[planet][key] = value;
         }
@@ -402,6 +427,7 @@ export function makeplot(
             let lastlink = galaxystate[planet]["link2"];
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
+        
         let sector = galaxystate[planet].sector
             .replace(/[^a-zA-Z]/g, "")
             .toLowerCase();
@@ -548,7 +574,7 @@ export function makeplot(
                     y: (p) => y_c(p.position.y),
                     r: width / 100,
                     src: (p) => {
-                        console.log(p.biome);
+                        //console.log(p.biome);
                         return planetimages[
                             "planet_" + p.biome + "_rotate.gif"
                         ].base64_image;

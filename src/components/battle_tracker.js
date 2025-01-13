@@ -160,7 +160,8 @@ class BattleManager {
     handleLogEntry(logEntry, planet, pid, event, sector) {
         if (
             logEntry.type === "campaign_start" ||
-            logEntry.type === "defense start"
+            logEntry.type === "defense start"||
+            logEntry.type === "invasion start"
         ) {
             if (this.battles[pid].planet === null) {
                 this.planetTypes[sector].activeCampaigns += 1;
@@ -186,6 +187,7 @@ class BattleManager {
             logEntry.type === "planet won" ||
             logEntry.type === "planet superwon" ||
             logEntry.type === "defense won" ||
+            logEntry.type === "invasion won" ||
             logEntry.type === "defense lost"||
             logEntry.type === "invasion lost"
         ) {
@@ -205,6 +207,9 @@ class BattleManager {
         if (logEntry.type === "defense start") {
             this.startDefense(planet, pid, event, sector, logEntry);
         }
+        if (logEntry.type === "invasion start") {
+            this.startDefense(planet, pid, event, sector, logEntry);
+        }
         if (
             logEntry.type === "planet won" ||
             logEntry.type === "planet superwon"
@@ -218,6 +223,9 @@ class BattleManager {
         if (logEntry.type === "defense won") {
             this.defenseWon(planet, pid, event, sector);
         }
+        if (logEntry.type === "invasion won") {
+            this.defenseWon(planet, pid, event, sector);
+        }
         if (logEntry.type === "defense lost") {
             this.defenseLost(planet, pid, event, sector);
         }
@@ -227,12 +235,14 @@ class BattleManager {
         switch (logEntry.type) {
             case "campaign_start":
             case "defense start":
+            case "invasion start":
                 this.startBattle(planet, pid, event, sector);
                 break;
             case "campaign_end":
             case "planet won":
             case "planet superwon":
             case "defense won":
+            case "invasion won":
             case "defense lost":
                 this.endBattle(pid, logEntry, event, sector);
                 break;
@@ -471,7 +481,9 @@ class BattleManager {
             this.tickets = {};
             for (let logEntry of event.log) {
                 if (logEntry.planet) {
+                    console.log(logEntry);
                     for (let planet of logEntry.planet) {
+
                         this.addBattle(planet, planet[1], logEntry, event);
                     }
                 }
@@ -502,6 +514,7 @@ class BattleManager {
                         logEntry.type === "planet won" ||
                         logEntry.type === "planet superwon" ||
                         logEntry.type === "defense won"
+                        
                     ) {
                         let battle = `Battle ${this.sector_battles[sector].pc} for ${sector}, ${displayUTCTime(this.sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(this.sector_battles[sector].start, event.timestamp)}, victory);`;
                         

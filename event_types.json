@@ -53,7 +53,7 @@
         "matchable": ["defense is won"]
     },
     "InvasionWonEvent": {
-        "name": "defense won",
+        "name": "invasion won",
         "matchable": ["invasion is repelled"]
     },
     "DefenseAutoWonEvent": {
@@ -65,7 +65,7 @@
         "matchable": ["is attacked by", "assaulted into a defense"]
     },
     "InvasionStartEvent": {
-        "name": "defense start",
+        "name": "invasion start",
         "matchable": ["is invaded by"]
     },
     "WarHistoryEvent": {
