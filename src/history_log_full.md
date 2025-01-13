@@ -4161,7 +4161,26 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 
 # Day: #340
 *Polaris Prime* defense is won (2025-01-12 18:14  UTC)<br/>
-*Erata Prime* defense is failed (2025-01-12 18:20  UTC)<br/>
-↳ *Erata Prime* liberation campaign starts (2025-01-12 18:20  UTC)<br/>
+*Erata Prime* defense is failed (2025-01-12 18:19  UTC)<br/>
+↳ *Erata Prime* liberation campaign starts (2025-01-12 18:19  UTC)<br/>
  Decay: 500.0 on Polaris Prime
- (2025-01-12 18:20  UTC)<br/>
+ (2025-01-12 18:19  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-01-12 18:59  UTC)<br/>
+ Decay: 2.0 on Erata Prime
+ (2025-01-12 18:59  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Illuminate (2025-01-12 19:28  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2025-01-12 19:28  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. A particularly effective patriotic communications campaign encouraged an influx of war donations. The ORBITAL NAPALM BARRAGE stratagem is temporarily available to all Helldivers. (2025-01-12 19:45  UTC)<br/>
+*Hadar*'s invasion is successful (2025-01-12 19:50  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-12 19:50  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Terminids (2025-01-12 21:21  UTC)<br/>
+ Decay: 0.0 on Heeth
+ (2025-01-12 22:00  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-01-13 07:11  UTC)<br/>
+*Bashyr*'s invasion is successful (2025-01-13 07:28  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-13 07:28  UTC)<br/>
+
+### Day: #341
+*Achernar Secundus* defense is won (2025-01-13 11:22  UTC)<br/>
+↳ Borgus sector is fully under Human control (2025-01-13 11:22  UTC)<br/>
