@@ -156,6 +156,10 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
+* January 13th, 2025
+ * Battle Tracker now displays which faction each battle was fought against.
+ * Tallies have been re-worked to count the specific faction each battle was fought against.
+ * 
 * December 17th, 2024
  * History Map will now display the DSS Positions over time.
 * October 25th, 2024

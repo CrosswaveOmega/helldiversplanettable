@@ -93,7 +93,7 @@ function sum_entries_by_front(historydata) {
    */
   const frontSums = {};
 
-  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).planetTypes;
+  const planetTypes = count_distinct_planet_battles(historydata,false,sector_data).factionTypes;
   for (const sector in planetTypes) {
     const { front, battles, win, loss,swin,sloss, current, campaign_start, campaign_end, flips, planetwon, defensestart, defensewon, defenselost } = planetTypes[sector];
 
@@ -269,58 +269,58 @@ For now, the Illuminate invasions are considered to be on the HUMANS front.
 
 <div class="grid grid-cols-3">
     <div  class='card' style="font-size: 1.1em;">
-    <h2>Terminid Front Campaigns</h2>
-    <span >Total: ${entry_sums['TERMINIDS'].battles}</span><br/>
-      <span >Won: ${entry_sums['TERMINIDS'].win}</span><br/>
-      <span >Lost: ${entry_sums['TERMINIDS'].loss}</span><br/>
-      <span >Ongoing: ${entry_sums['TERMINIDS'].current}</span><br/>
-      <span >PlanetFlips: ${entry_sums['TERMINIDS'].flips}</span><br/>
+    <h2>Terminid Campaigns</h2>
+    <span >Total: ${entry_sums['Terminid'].battles}</span><br/>
+      <span >Won: ${entry_sums['Terminid'].win}</span><br/>
+      <span >Lost: ${entry_sums['Terminid'].loss}</span><br/>
+      <span >Ongoing: ${entry_sums['Terminid'].current}</span><br/>
+      <span >PlanetFlips: ${entry_sums['Terminid'].flips}</span><br/>
   </div>
     <div  class='card' style="font-size: 1.1em;">
-    <h2>Terminid Front Liberation Campaigns</h2>
-    <span >Total: ${entry_sums['TERMINIDS'].campaign_start}</span><br/>
-      <span >Won: ${entry_sums['TERMINIDS'].planetwon}</span><br/>
-      <span >Lost: ${entry_sums['TERMINIDS'].campaign_end}</span><br/>
-      <span >Win%: ${(100*entry_sums['TERMINIDS'].planetwon/(entry_sums['TERMINIDS'].campaign_end+entry_sums['TERMINIDS'].planetwon)).toFixed(2)}</span><br/>
+    <h2>Terminid Liberation Campaigns</h2>
+    <span >Total: ${entry_sums['Terminid'].campaign_start}</span><br/>
+      <span >Won: ${entry_sums['Terminid'].planetwon}</span><br/>
+      <span >Lost: ${entry_sums['Terminid'].campaign_end}</span><br/>
+      <span >Win%: ${(100*entry_sums['Terminid'].planetwon/(entry_sums['Terminid'].campaign_end+entry_sums['Terminid'].planetwon)).toFixed(2)}</span><br/>
   </div>
 
   <div  class='card' style="font-size: 1.1em;">
-    <h2>Terminid Front Defence Campaigns</h2>
-    <span >Total: ${entry_sums['TERMINIDS'].defensestart}</span><br/>
-      <span >Won: ${entry_sums['TERMINIDS'].defensewon}</span><br/>
-      <span >Lost: ${entry_sums['TERMINIDS'].defenselost}</span><br/>
-      <span >Ongoing: ${entry_sums['TERMINIDS'].current}</span><br/>
-      <span >Win%: ${(100*entry_sums['TERMINIDS'].defensewon/(entry_sums['TERMINIDS'].defensewon+entry_sums['TERMINIDS'].defenselost)).toFixed(2)}</span><br/>
+    <h2>Terminid Defense Campaigns</h2>
+    <span >Total: ${entry_sums['Terminid'].defensestart}</span><br/>
+      <span >Won: ${entry_sums['Terminid'].defensewon}</span><br/>
+      <span >Lost: ${entry_sums['Terminid'].defenselost}</span><br/>
+      <span >Ongoing: ${entry_sums['Terminid'].current}</span><br/>
+      <span >Win%: ${(100*entry_sums['Terminid'].defensewon/(entry_sums['Terminid'].defensewon+entry_sums['Terminid'].defenselost)).toFixed(2)}</span><br/>
   </div>
 
   <div class='card' style="font-size: 1.1em;">
-    <h2>Automaton Front Campaigns</h2>
-    <span >Total:${entry_sums['AUTOMATON'].battles}</span><br/>
-      <span >Won: ${entry_sums['AUTOMATON'].win}</span><br/>
-      <span >Lost: ${entry_sums['AUTOMATON'].loss}</span><br/>
-      <span >Ongoing: ${entry_sums['AUTOMATON'].current}</span><br/>
-      <span >PlanetFlips: ${entry_sums['AUTOMATON'].flips}</span><br/>
+    <h2>Automaton Campaigns</h2>
+    <span >Total:${entry_sums['Automaton'].battles}</span><br/>
+      <span >Won: ${entry_sums['Automaton'].win}</span><br/>
+      <span >Lost: ${entry_sums['Automaton'].loss}</span><br/>
+      <span >Ongoing: ${entry_sums['Automaton'].current}</span><br/>
+      <span >PlanetFlips: ${entry_sums['Automaton'].flips}</span><br/>
   </div>
     <div  class='card' style="font-size: 1.1em;">
-    <h2>Automaton Front Liberation Campaigns</h2>
-    <span >Total: ${entry_sums['AUTOMATON'].campaign_start}</span><br/>
-      <span >Won: ${entry_sums['AUTOMATON'].planetwon}</span><br/>
-      <span >Lost: ${entry_sums['AUTOMATON'].campaign_end}</span><br/>
-      <span >Win%: ${(100*entry_sums['AUTOMATON'].planetwon/(entry_sums['AUTOMATON'].campaign_end+entry_sums['AUTOMATON'].planetwon)).toFixed(2)}</span><br/>
+    <h2>Automaton Liberation Campaigns</h2>
+    <span >Total: ${entry_sums['Automaton'].campaign_start}</span><br/>
+      <span >Won: ${entry_sums['Automaton'].planetwon}</span><br/>
+      <span >Lost: ${entry_sums['Automaton'].campaign_end}</span><br/>
+      <span >Win%: ${(100*entry_sums['Automaton'].planetwon/(entry_sums['Automaton'].campaign_end+entry_sums['Automaton'].planetwon)).toFixed(2)}</span><br/>
   </div>
       <div  class='card' style="font-size: 1.1em;">
-    <h2>Automaton Front Defence Campaigns</h2>
-    <span >Total: ${entry_sums['AUTOMATON'].defensestart}</span><br/>
-      <span >Won: ${entry_sums['AUTOMATON'].defensewon}</span><br/>
-      <span >Lost: ${entry_sums['AUTOMATON'].defenselost}</span><br/>
-      <span >Win%: ${(100*entry_sums['AUTOMATON'].defensewon/(entry_sums['AUTOMATON'].defensewon+entry_sums['AUTOMATON'].defenselost)).toFixed(2)}</span><br/>
+    <h2>Automaton Defence Campaigns</h2>
+    <span >Total: ${entry_sums['Automaton'].defensestart}</span><br/>
+      <span >Won: ${entry_sums['Automaton'].defensewon}</span><br/>
+      <span >Lost: ${entry_sums['Automaton'].defenselost}</span><br/>
+      <span >Win%: ${(100*entry_sums['Automaton'].defensewon/(entry_sums['Automaton'].defensewon+entry_sums['Automaton'].defenselost)).toFixed(2)}</span><br/>
   </div>
    <div  class='card' style="font-size: 1.1em;">
     <h2>Illuminate invasion campaigns</h2>
-    <span >Total: ${entry_sums['HUMANS'].defensestart}</span><br/>
-      <span >Won: ${entry_sums['HUMANS'].defensewon}</span><br/>
-      <span >Lost: ${entry_sums['HUMANS'].defenselost}</span><br/>
-      <span >Win%: ${(100*entry_sums['HUMANS'].defensewon/(entry_sums['HUMANS'].defensewon+entry_sums['HUMANS'].defenselost)).toFixed(2)}</span><br/>
+    <span >Total: ${entry_sums['Illuminate'].defensestart}</span><br/>
+      <span >Won: ${entry_sums['Illuminate'].defensewon}</span><br/>
+      <span >Lost: ${entry_sums['Illuminate'].defenselost}</span><br/>
+      <span >Win%: ${(100*entry_sums['Illuminate'].defensewon/(entry_sums['Illuminate'].defensewon+entry_sums['Illuminate'].defenselost)).toFixed(2)}</span><br/>
   </div>
 </div>
 

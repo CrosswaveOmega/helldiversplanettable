@@ -223,7 +223,9 @@ export function count_distinct_planets(history, planets) {
                 logEntry.planet.forEach((planet) => {
                     if (
                         logEntry.type === "campaign_start" ||
-                        logEntry.type === "defense start"
+                        logEntry.type === "defense start"||
+                        logEntry.type === "invasion start"
+
                     ) {
                         add_to_entry(
                             acc,
@@ -260,6 +262,15 @@ export function count_distinct_planets(history, planets) {
                             planets,
                         );
                     }
+                    if (logEntry.type === "invasion start") {
+                        add_to_entry(
+                            acc,
+                            planet,
+                            "defenses",
+                            event.time,
+                            planets,
+                        );
+                    }
                     if (
                         logEntry.type === "planet won" ||
                         logEntry.type === "planet superwon"
@@ -273,6 +284,15 @@ export function count_distinct_planets(history, planets) {
                         );
                     }
                     if (logEntry.type === "defense won") {
+                        add_to_entry(
+                            acc,
+                            planet,
+                            "defenses_won",
+                            event.time,
+                            planets,
+                        );
+                    }
+                    if (logEntry.type === "invasion won") {
                         add_to_entry(
                             acc,
                             planet,

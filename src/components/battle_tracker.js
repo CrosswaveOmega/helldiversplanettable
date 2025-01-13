@@ -69,6 +69,7 @@ class BattleManager {
         this.showEvts = showEvts;
         this.sector_data = sector_data;
         this.planetTypes = {};
+        this.factionTypes={};
         this.battles = {};
 
         this.sector_battles = {};
@@ -156,8 +157,39 @@ class BattleManager {
         }
         return sectorObj;
     }
+    createFaction(faction) {
+        if (!this.factionTypes[faction]) {
+            let factionObj = {
+                name: faction,
+                front: faction,
+                planets: {},
+                battles: 0,
+                sbattles:0,
+                scurrent:0,
+                win: 0,
+                loss: 0,
+                swin:0,
+                sloss:0,
+                mins:0,
+                current: 0,
+                campaign_start: 0,
+                campaign_end: 0,
+                flips: 0,
+                planetwon: 0,
+                defensestart: 0,
+                defensewon: 0,
+                defenselost: 0,
+                events: [],
+                sub: {},
+                activeCampaigns: 0,
+            };
+            this.factionTypes[faction] = factionObj;
+        }
+        
+    }
 
     handleLogEntry(logEntry, planet, pid, event, sector) {
+        this.createFaction(getFactionName(logEntry.faction));
         if (
             logEntry.type === "campaign_start" ||
             logEntry.type === "defense start"||
@@ -202,7 +234,7 @@ class BattleManager {
             this.endCampaign(logEntry, planet, pid, event, sector);
         }
         if (logEntry.type === "campaign_start") {
-            this.startCampaign(planet, pid, event, sector);
+            this.startCampaign(planet, pid, event, sector,logEntry);
         }
         if (logEntry.type === "defense start") {
             this.startDefense(planet, pid, event, sector, logEntry);
@@ -282,22 +314,29 @@ class BattleManager {
         }
     }
 
-    startCampaign(planet, pid, event, sector) {
+    startCampaign(planet, pid, event, sector,logEntry) {
         this.battles[pid].pc += 1;
         this.battles[pid].lc += 1;
         this.battles[pid].start = event.timestamp;
         this.battles[pid].planet = planet;
         this.battles[pid].sector = sector;
         this.battles[pid].type = "Liberation";
+        this.battles[pid].faction = getFactionName(logEntry.faction);
+
         this.planetTypes[sector].battles += 1;
         this.planetTypes[sector].current += 1;
         this.planetTypes[sector].campaign_start += 1;
+
+        
+        this.factionTypes[this.battles[pid].faction].battles += 1;
+        this.factionTypes[this.battles[pid].faction].current += 1;
+        this.factionTypes[this.battles[pid].faction].campaign_start += 1;
     }
 
     endCampaign(logEntry, planet, pid, event, sector) {
         let out=`(${calculateElapsedTime(this.battles[pid].start, event.timestamp)}, failure)`;
         let timev=`${displayUTCTime(this.battles[pid].start)} to ${displayUTCTime(event.timestamp)}`;
-        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} for ${planet[0]} ${out}: ${timev};`;
+        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} against ${this.battles[pid].faction} for ${planet[0]} ${out}: ${timev};`;
         let mins=calculateMinutes(this.battles[pid].start, event.timestamp);
         this.addToEntry(this.planetTypes[sector].planets, planet, battle, null,mins);
         this.addToEntry(this.planetTypes[sector].sub, planet, battle, null,mins);
@@ -306,6 +345,10 @@ class BattleManager {
         this.planetTypes[sector].loss += 1;
         this.planetTypes[sector].campaign_end += 1;
         this.planetTypes[sector].current -= 1;
+
+        this.factionTypes[this.battles[pid].faction].loss += 1;
+        this.factionTypes[this.battles[pid].faction].campaign_end += 1;
+        this.factionTypes[this.battles[pid].faction].current -= 1;
     }
 
     startDefense(planet, pid, event, sector, logEntry) {
@@ -315,17 +358,21 @@ class BattleManager {
         this.battles[pid].start = event.timestamp;
         this.battles[pid].planet = planet;
         this.battles[pid].type = "Defense";
-
+        this.battles[pid].faction = getFactionName(logEntry.faction)
         this.battles[pid].sector = sector;
         this.planetTypes[sector].battles += 1;
         this.planetTypes[sector].defensestart += 1;
         this.planetTypes[sector].current += 1;
+
+        this.factionTypes[this.battles[pid].faction].battles += 1;
+        this.factionTypes[this.battles[pid].faction].defensestart += 1;
+        this.factionTypes[this.battles[pid].faction].current += 1;
     }
 
     planetWon(planet, pid, event, sector) {
         let out=`(${calculateElapsedTime(this.battles[pid].start, event.timestamp)}, victory)`;
         let timev=`${displayUTCTime(this.battles[pid].start)} to ${displayUTCTime(event.timestamp)}`;
-        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} for ${planet[0]} ${out}: ${timev};`;
+        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} against ${this.battles[pid].faction} for ${planet[0]} ${out}: ${timev};`;
         let mins=calculateMinutes(this.battles[pid].start, event.timestamp);
         this.addToEntry(this.planetTypes[sector].planets, planet, battle, null,mins);
         this.addToEntry(this.planetTypes[sector].sub, planet, battle, null,mins);
@@ -333,11 +380,17 @@ class BattleManager {
         this.planetTypes[sector].win += 1;
         this.planetTypes[sector].planetwon += 1;
         this.planetTypes[sector].current -= 1;
+
+        this.factionTypes[this.battles[pid].faction].win += 1;
+        this.factionTypes[this.battles[pid].faction].planetwon += 1;
+        this.factionTypes[this.battles[pid].faction].current -= 1;
+
     }
     planetFlip(planet, pid, event, sector,logEntry) {
         if (!this.showEvts){
             let faction=getFactionName(logEntry.faction);
             let battle = `${planet[0]} flips to ${faction} Control: ${displayUTCTime(event.timestamp)} `;
+            this.factionTypes[faction].flips += 1;
             this.addToEntry(
                 this.planetTypes[sector].planets,
                 planet,
@@ -350,7 +403,7 @@ class BattleManager {
     defenseWon(planet, pid, event, sector) {
         let out=`(${calculateElapsedTime(this.battles[pid].start, event.timestamp)}, victory)`;
         let timev=`${displayUTCTime(this.battles[pid].start)} to ${displayUTCTime(event.timestamp)}`;
-        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} for ${planet[0]} ${out}: ${timev};`;
+        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} against ${this.battles[pid].faction} for ${planet[0]} ${out}: ${timev};`;
         let mins=calculateMinutes(this.battles[pid].start, event.timestamp);
         this.addToEntry(this.planetTypes[sector].planets, planet, battle, null,mins);
         this.addToEntry(this.planetTypes[sector].sub, planet, battle, null,mins);
@@ -360,12 +413,16 @@ class BattleManager {
         this.planetTypes[sector].win += 1;
         this.planetTypes[sector].defensewon += 1;
         this.planetTypes[sector].current -= 1;
+
+        this.factionTypes[this.battles[pid].faction].win += 1;
+        this.factionTypes[this.battles[pid].faction].defensewon += 1;
+        this.factionTypes[this.battles[pid].faction].current -= 1;
     }
 
     defenseLost(planet, pid, event, sector) {
         let out=`(${calculateElapsedTime(this.battles[pid].start, event.timestamp)}, failure)`;
         let timev=`${displayUTCTime(this.battles[pid].start)} to ${displayUTCTime(event.timestamp)}`;
-        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} for ${planet[0]} ${out}: ${timev};`;
+        let battle = `${this.battles[pid].type} Battle ${this.battles[pid].pc} against ${this.battles[pid].faction} for ${planet[0]} ${out}: ${timev};`;
         let mins=calculateMinutes(this.battles[pid].start, event.timestamp);
         this.addToEntry(this.planetTypes[sector].planets, planet, battle, null,mins);
         this.addToEntry(this.planetTypes[sector].sub, planet, battle, null,mins);
@@ -375,6 +432,10 @@ class BattleManager {
         this.planetTypes[sector].loss += 1;
         this.planetTypes[sector].defenselost += 1;
         this.planetTypes[sector].current -= 1;
+
+        this.factionTypes[this.battles[pid].faction].loss += 1;
+        this.factionTypes[this.battles[pid].faction].defenselost += 1;
+        this.factionTypes[this.battles[pid].faction].current -= 1;
     }
 
     addToEntry(acc, planet, value, time, mins=0) {
@@ -401,7 +462,7 @@ class BattleManager {
                 let planet = value.planet;
                 let out=`(${calculateElapsedTime(value.start, new Date().getTime() / 1000)}, ongoing)`;
                 let timev=`${displayUTCTime(value.start)} onwards`;
-                let battle = `${value.type} Battle ${value.pc} for ${planet[0]} ${out}: ${timev}; `;
+                let battle = `${value.type} Battle ${value.pc} against ${value.faction} for ${planet[0]} ${out}: ${timev}; `;
                 //let battle = `${value.type} Battle ${value.pc} for ${planet[0]}, ${displayUTCTime(value.start)} onwards `;
                 let mins=calculateMinutes(value.start, new Date().getTime() / 1000);
 
@@ -535,7 +596,7 @@ class BattleManager {
             }
         }
         let ongoing = this.processOngoingBattles();
-        return { planetTypes: this.planetTypes, ongoing: ongoing };
+        return { planetTypes: this.planetTypes, ongoing: ongoing, factionTypes:this.factionTypes};
     }
 }
 
