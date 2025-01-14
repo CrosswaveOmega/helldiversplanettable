@@ -4184,3 +4184,23 @@ Dispatch: ARSENAL AUGMENTATION. A particularly effective patriotic communication
 ### Day: #341
 *Achernar Secundus* defense is won (2025-01-13 11:22  UTC)<br/>
 ↳ Borgus sector is fully under Human control (2025-01-13 11:22  UTC)<br/>
+ Decay: 500.0 on Achernar Secundus
+ (2025-01-13 12:00  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-01-13 18:52  UTC)<br/>
+*Zea Rugosia*'s invasion is successful (2025-01-13 19:11  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-13 19:11  UTC)<br/>
+*Heeth* defense is failed (2025-01-13 21:24  UTC)<br/>
+↳ *Heeth* liberation campaign starts (2025-01-13 21:24  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Terminids (2025-01-13 21:29  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Terminids (2025-01-13 21:30  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating HEETH would end the current Terminid attacks upon both CIRRUS and ANGEL'S VENTURE. (2025-01-13 21:34  UTC)<br/>
+ Decay: 0.0 on Cirrus, Angel's Venture<br/> Decay: 2.5 on Heeth
+ (2025-01-13 22:00  UTC)<br/>
+ Decay: 2.0 on Heeth
+ (2025-01-14 00:00  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-01-14 06:41  UTC)<br/>
+*Heze Bay*'s invasion is successful (2025-01-14 06:53  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-14 06:53  UTC)<br/>
+
+### Day: #342
+*Angel's Venture* defense is won (2025-01-14 16:44  UTC)<br/>
