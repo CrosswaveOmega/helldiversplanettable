@@ -4204,3 +4204,23 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 
 ### Day: #342
 *Angel's Venture* defense is won (2025-01-14 16:44  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-01-14 18:22  UTC)<br/>
+ Decay: 2.5 on Angel's Venture
+ (2025-01-14 18:22  UTC)<br/>
+*Afoyay Bay*'s invasion is successful (2025-01-14 18:42  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-14 18:42  UTC)<br/>
+*Cirrus* defense is failed (2025-01-14 21:32  UTC)<br/>
+↳ *Cirrus* liberation campaign starts (2025-01-14 21:32  UTC)<br/>
+ Decay: 1.5 on Terminid worlds
+ (2025-01-14 21:32  UTC)<br/>
+*Moradesh* of the Celeste sector is attacked by Terminids (2025-01-14 21:37  UTC)<br/>
+ Decay: 1.0 on Cirrus<br/> Decay: 0.0 on Moradesh
+ (2025-01-14 22:00  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Illuminate (2025-01-15 06:01  UTC)<br/>
+*Seasse*'s invasion is successful (2025-01-15 06:22  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-01-15 06:22  UTC)<br/>
+*Moradesh* defense is won (2025-01-15 13:53  UTC)<br/>
+↳ Celeste sector is fully under Human control (2025-01-15 13:53  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-15 16:43  UTC)<br/>
+ Decay: 500.0 on Moradesh
+ (2025-01-15 16:43  UTC)<br/>
