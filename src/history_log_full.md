@@ -4219,8 +4219,21 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 *Myrium* of the Morgon sector is invaded by Illuminate (2025-01-15 06:01  UTC)<br/>
 *Seasse*'s invasion is successful (2025-01-15 06:22  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-01-15 06:22  UTC)<br/>
+
+### Day: #343
 *Moradesh* defense is won (2025-01-15 13:53  UTC)<br/>
 ↳ Celeste sector is fully under Human control (2025-01-15 13:53  UTC)<br/>
 *Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-15 16:43  UTC)<br/>
  Decay: 500.0 on Moradesh
  (2025-01-15 16:43  UTC)<br/>
+Dispatch: Voluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary COMMANDO usage fleetwide. (2025-01-15 21:25  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-01-16 04:42  UTC)<br/>
+*Alairt III*'s invasion is successful (2025-01-16 04:43  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-16 04:43  UTC)<br/>
+
+### Day: #344
+Major Order | Operation A2-1-2 Terminid Cascade Defense is won | Objective: Defend/Control (2025-01-16 13:01  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Terminid outbreak has been contained. Consult your Galactic Map for more information. (2025-01-16 13:10  UTC)<br/>
+*Stout*'s invasion is repelled (2025-01-16 14:43  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-01-16 14:43  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Illuminate (2025-01-16 16:14  UTC)<br/>
