@@ -8,8 +8,6 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
-Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2024-01-02 07:52  UTC)<br/>
-Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2024-01-03 06:57  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -3991,6 +3989,7 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 ↳ Rigel sector is fully under Human control (2025-01-02 02:47  UTC)<br/>
 Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is won | Objective: Eradicate/Defend (2025-01-02 02:47  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-02 04:25  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2025-01-02 07:52  UTC)<br/>
 
 # Day: #330
 *Regnus* of the Morgon sector is invaded by Illuminate (2025-01-02 15:35  UTC)<br/>
@@ -4008,6 +4007,7 @@ Major Order | Operation A1-12-7 Illuminate Eradication and Deterrence is won | O
 *Regnus*'s invasion is successful (2025-01-03 03:36  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-03 03:36  UTC)<br/>
 Major Order | Operation A2-1-1 CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2025-01-03 06:57  UTC)<br/>
 
 ### Day: #331
 *Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-03 14:48  UTC)<br/>
@@ -4237,3 +4237,15 @@ Dispatch: MAJOR ORDER WON. The Terminid outbreak has been contained. Consult you
 *Stout*'s invasion is repelled (2025-01-16 14:43  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-16 14:43  UTC)<br/>
 *Emorath* of the Meridian sector is invaded by Illuminate (2025-01-16 16:14  UTC)<br/>
+DSS is activated (2025-01-16 17:47  UTC)<br/>
+Major Order | Operation A2-1-3 Repel 14 Illuminate Invasions is issued | Objective: Defend (2025-01-16 17:53  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Democracy Space Station has been returned to operational status, following a systemwide breakdown during the initial Illuminate invasion. While the station was offline, Ministry of Defense engineers implemented a number of operational adjustments. Consult your Galactic Map for more information. The Illuminate have continued their assault on Freedom unabated. Utilize the power of the newly-repaired DSS to repel their invasion and save our citizens. (2025-01-16 17:53  UTC)<br/>
+*Emorath*'s invasion is repelled (2025-01-16 21:06  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-01-16 21:20  UTC)<br/>
+​​*Rasp* of the Gallux sector is invaded by Illuminate (2025-01-16 22:33  UTC)<br/>
+DSS deploys to *Rasp* of the Gallux sector (2025-01-17 05:21  UTC)<br/>
+*Rasp*'s invasion is repelled (2025-01-17 08:51  UTC)<br/>
+
+### Day: #345
+*Haldus* of the Ferris sector is invaded by Illuminate (2025-01-17 09:29  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-01-17 13:21  UTC)<br/>
