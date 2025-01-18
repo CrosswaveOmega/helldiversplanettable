@@ -10,7 +10,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 # Day: #1
-Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
+Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
 *Heeth* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Angel's Venture* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Malevelon Creek* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
@@ -34,7 +34,7 @@ Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is issued | Objective:
 ↳ Orion sector is fully under Human control (2024-02-14 14:07  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
-↳ Major Order | Operation A1-2-1 Valiant Enclosure: Phase I is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
+↳ Major Order | Operation A1-2-1 Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
 
 ### Day: #8
 *Mantes* of the Xzar sector is attacked by Automatons (2024-02-15 12:00  UTC)<br/>
@@ -3918,6 +3918,7 @@ Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the H
  (2024-12-26 20:33  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. The Third Day of the Festival of Reckoning is the most special day: the Feast of the Electorate, celebrating the first Free and Managed election. Helldivers are given access to a truly overflowing bounty of all manner of weaponry. (2024-12-26 21:33  UTC)<br/>
 *Heze Bay*'s invasion is successful (2024-12-26 21:36  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2024-12-26 21:36  UTC)<br/>
 *Julheim* of the Nanos sector is invaded by Illuminate (2024-12-27 06:57  UTC)<br/>
 Dispatch: ILLUMINATE INCURSION. The Illuminate have launched a vicious assault on JULHEIM, bringing death and destruction to families' peaceful and solemn observance of the Festival of Reckoning. It is clear that nothing is sacred to these zealots. The Helldivers must ensure the innocents killed by the Illuminate today are fully avenged. (2024-12-27 07:00  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-27 08:33  UTC)<br/>
@@ -4241,11 +4242,31 @@ DSS is activated (2025-01-16 17:47  UTC)<br/>
 Major Order | Operation A2-1-3 Repel 14 Illuminate Invasions is issued | Objective: Defend (2025-01-16 17:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has been returned to operational status, following a systemwide breakdown during the initial Illuminate invasion. While the station was offline, Ministry of Defense engineers implemented a number of operational adjustments. Consult your Galactic Map for more information. The Illuminate have continued their assault on Freedom unabated. Utilize the power of the newly-repaired DSS to repel their invasion and save our citizens. (2025-01-16 17:53  UTC)<br/>
 *Emorath*'s invasion is repelled (2025-01-16 21:06  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-01-16 21:06  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-16 21:20  UTC)<br/>
 ​​*Rasp* of the Gallux sector is invaded by Illuminate (2025-01-16 22:33  UTC)<br/>
 DSS deploys to *Rasp* of the Gallux sector (2025-01-17 05:21  UTC)<br/>
 *Rasp*'s invasion is repelled (2025-01-17 08:51  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-17 08:51  UTC)<br/>
 
 ### Day: #345
 *Haldus* of the Ferris sector is invaded by Illuminate (2025-01-17 09:29  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-17 13:21  UTC)<br/>
+↳ NOTE: Joel manually redeploys the DSS 10 minutes later resetting the timer for unknown reasons but the event line is not included due it being an effectively repeat line. (2025-01-17 13:21  UTC)<br/>
+DSS deploys to *Haldus* of the Ferris sector (2025-01-17 17:32  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-01-17 17:52  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-17 20:52  UTC)<br/>
+*Haldus*'s invasion is successful (2025-01-17 21:30  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-17 21:30  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2025-01-18 01:33  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Illuminate (2025-01-18 08:37  UTC)<br/>
+*Rirga Bay*'s invasion is repelled (2025-01-18 08:50  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-18 08:50  UTC)<br/>
+
+### Day: #346
+Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on HEETH. (2025-01-18 10:54  UTC)<br/>
+ Decay: 1.0 on Heeth
+ (2025-01-18 12:00  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-01-18 13:34  UTC)<br/>
+DSS deploys to *Spherion* of the Quintus sector (2025-01-18 17:34  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-01-18 17:54  UTC)<br/>
