@@ -4284,3 +4284,6 @@ DSS deploys to *Kraz* of the Alstrad sector (2025-01-19 01:36  UTC)<br/>
 ### Day: #347
 DSS deploys to *Heeth* of the Orion sector (2025-01-19 09:37  UTC)<br/>
 DSS deploys to *Ilduna Prime* of the Meridian sector (2025-01-19 17:38  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Illuminates (2025-01-19 18:06  UTC)<br/>
+*Ilduna Prime*'s invasion is repelled (2025-01-19 18:12  UTC)<br/>
+*Hort*'s invasion is successful (2025-01-19 19:05  UTC)<br/>
