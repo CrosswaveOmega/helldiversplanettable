@@ -4270,3 +4270,16 @@ Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy
 DSS deploys to *Heeth* of the Orion sector (2025-01-18 13:34  UTC)<br/>
 DSS deploys to *Spherion* of the Quintus sector (2025-01-18 17:34  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-01-18 17:54  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-01-18 19:30  UTC)<br/>
+*Spherion*'s invasion is successful (2025-01-18 20:37  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-01-18 20:37  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-01-18 21:34  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-01-18 23:49  UTC)<br/>
+DSS deploys to *Kraz* of the Alstrad sector (2025-01-19 01:36  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-01-19 07:04  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-19 07:06  UTC)<br/>
+*Kraz*'s invasion is successful (2025-01-19 07:30  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-01-19 07:30  UTC)<br/>
+
+### Day: #347
+DSS deploys to *Heeth* of the Orion sector (2025-01-19 09:37  UTC)<br/>
