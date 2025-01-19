@@ -9,20 +9,27 @@ title: The Great Big Galactic War History Map
 
 ```js
 
-
   import {
-    makeplot,eList, count_distinct_planets,list_text
+    makeplot,eList, count_distinct_planets,list_text,decompressJSON
   } from "./components/HistoryLog.js";
     import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
 ```
 
 ```js
+async function get_gstates(){
+  let parta=await FileAttachment("./data/gstates.json").arrayBuffer();
+  let partb=await decompressJSON(parta);
+  return partb;
+}
+
+const gstates = await get_gstates()
 
 
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
-const gstates = FileAttachment("./data/gstates.json").json();
+
+
 const historydata= await FileAttachment("./data/historydata.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 const world = FileAttachment("./data/outputgeo.geojson").json();
@@ -59,9 +66,8 @@ for (const event of historydata.events){
   }
   event.text = '';
 }
-
-
 ```
+
 ```js
 function getTarget(owner) {
   

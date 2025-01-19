@@ -239,7 +239,7 @@ const sectorneighbors={
         ],
         "name": "Idun"
     },
-    "L'estrade": {
+    "lestrade": {
         "neighbors": [
             "Mirin",
             "Hawking",

@@ -62,9 +62,9 @@ def fetch_entries_by_timestamp(
         (str(timestamp),)
     )
     entries = cursor.fetchall()
-    print(entries)
+    #print(entries)
     keys = [column[0] for column in cursor.description]
-    print(entries,keys)
+    #print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}
@@ -85,9 +85,9 @@ def fetch_entries_by_interval(
         (int(timestamp)//900,)
     )
     entries = cursor.fetchall()
-    print(entries)
+    #print(entries)
     keys = [column[0] for column in cursor.description]
-    print(entries,keys)
+    #print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}

@@ -26,6 +26,7 @@ from script_making.models import (
 )
 from script_making.json_file_utils import (
     check_and_load_json,
+    save_json_compressed,
     save_json_data,
     load_event_types,
 )
@@ -310,16 +311,18 @@ async def get_planet_stats(
                 all_times_new.pop(k)
         all_times_new[dc] = ents
     if timestamp not in all_times_new[dc]:
-        checkv=fetch_entries_by_interval(conn,float(ne.timestamp))
-        if checkv:
-            
-            print(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
-            all_times_new[dc][timestamp] = checkv
-            planetstats = all_times_new[dc][timestamp]
-            return planetstats
+        time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
+        if time > march_5th:
+            checkv=fetch_entries_by_interval(conn,float(ne.timestamp))
+            if checkv:
+                
+                print(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
+                all_times_new[dc][timestamp] = checkv
+                planetstats = all_times_new[dc][timestamp]
+                return planetstats
         print(f"{timestamp} not found in all_times_new[{dc}]")
         logger.info(f"{timestamp} not found in all_times_new[{dc}]")
-        time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
+        
 
         if time > march_5th:
             print(f"{ne.time} fetching game data for time {timestamp}")
@@ -836,7 +839,7 @@ class GalaxyEventProcessor:
         print("Saving galaxy states.")
         logger.info("Saving galaxy states.")
         galaxy_states_dump = self.galaxy_states.model_dump(warnings="error")
-        save_json_data("./src/data/gstates.json", galaxy_states_dump)
+        save_json_compressed("./src/data/gstates.json", galaxy_states_dump)
         save_json_data("./src/data/resort.json", self.phistdelta.resort, indent=3)
         markdowncode = make_markdown_log(self.days_out)
         with open("./src/history_log_full.md", "w", encoding="utf8") as file:

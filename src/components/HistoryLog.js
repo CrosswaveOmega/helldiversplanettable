@@ -1,6 +1,14 @@
 import * as d3 from "d3";
 import * as Plot from "npm:@observablehq/plot";
 import * as topojson from "npm:topojson-client";
+import * as pako from "npm:pako"
+
+
+export async function decompressJSON(compressedData) {
+    // Decompress a byte array into an object.
+    const decompressed = pako.inflate(compressedData, { windowsize: 15, to:'string'});
+    return JSON.parse(decompressed);
+}
 
 
 export function pieChart(
@@ -379,6 +387,13 @@ function get_percent(hp) {
 }
 
 export function make_planet_at_time(planet,gstates,galaxy_time){
+    /**
+     * Create the state of a planet at galaxy_time
+     *
+     * @param {number} planet- identifier for planet
+     * @param {}
+     * @returns {number} - The calculated liberation percentage rounded to four decimal places.
+     */
     let planetstate = {};
     const values=gstates.gstatic[planet];
     for (const [key, value] of Object.entries(values)) {
@@ -425,6 +440,7 @@ export function makeplot(
     console.log(slider, galaxy_time);
 
     const sectorValuesMap = new Map();
+    
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] =make_planet_at_time(planet,gstates,galaxy_time);

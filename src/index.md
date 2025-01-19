@@ -156,6 +156,8 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
+* January 20th, 2025
+ * History Map now uses a compressed json file.
 * January 13th, 2025
  * Battle Tracker now displays which faction each battle was fought against.
  * Tallies have been re-worked to count the specific faction each battle was fought against.

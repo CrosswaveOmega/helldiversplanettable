@@ -15,16 +15,22 @@ title: The Great Big Galactic War History Map
   } from "./components/HistoryLog.js";
     import {get_update_time_local, get_update_time_utc}from "./components/time_utils.js";
     
+  import {decompressJSON} from "./components/HistoryLog.js";
 import  {getNeighbors}  from "./components/sector_neighbors.js";
 ```
 
 ```js
+async function get_gstates(){
+  let parta=await FileAttachment("./data/gstates.json").arrayBuffer();
+  let partb=await decompressJSON(parta);
+  return partb;
+}
 
+const gstates = await get_gstates()
 
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/fullimages.json").json();
-const gstates = FileAttachment("./data/gstates.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
 const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
