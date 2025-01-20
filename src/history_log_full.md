@@ -4283,7 +4283,23 @@ DSS deploys to *Kraz* of the Alstrad sector (2025-01-19 01:36  UTC)<br/>
 
 ### Day: #347
 DSS deploys to *Heeth* of the Orion sector (2025-01-19 09:37  UTC)<br/>
-DSS deploys to *Ilduna Prime* of the Meridian sector (2025-01-19 17:38  UTC)<br/>
-*Alathfar XI* of the Akira sector is invaded by Illuminates (2025-01-19 18:06  UTC)<br/>
+DSS deploys to *Ilduna Prime* of the Meridian sector (2025-01-19 17:37  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-01-19 18:06  UTC)<br/>
 *Ilduna Prime*'s invasion is repelled (2025-01-19 18:12  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-01-19 18:12  UTC)<br/>
 *Hort*'s invasion is successful (2025-01-19 19:05  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-19 19:05  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-01-19 21:38  UTC)<br/>
+DSS effect Eagle Storm stops (2025-01-19 23:51  UTC)<br/>
+DSS deploys to *Alathfar XI* of the Akira sector (2025-01-20 05:38  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-01-20 05:46  UTC)<br/>
+*Alathfar XI*'s invasion is successful (2025-01-20 06:06  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-01-20 06:06  UTC)<br/>
+
+### Day: #348
+DSS deploys to *Heeth* of the Orion sector (2025-01-20 09:38  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-01-20 10:20  UTC)<br/>
+*Heeth* is liberated (2025-01-20 11:01  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Illuminate (2025-01-20 13:06  UTC)<br/>
+DSS deploys to *RD-4* of the Rigel sector (2025-01-20 13:39  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Illuminate (2025-01-20 15:14  UTC)<br/>
