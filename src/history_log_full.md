@@ -4303,3 +4303,25 @@ DSS effect Heavy Ordnance Distribution is activated (2025-01-20 10:20  UTC)<br/>
 *Genesis Prime* of the Rictus sector is invaded by Illuminate (2025-01-20 13:06  UTC)<br/>
 DSS deploys to *RD-4* of the Rigel sector (2025-01-20 13:39  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2025-01-20 15:14  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-01-20 17:30  UTC)<br/>
+DSS deploys to *Genesis Prime* of the Rictus sector (2025-01-20 17:40  UTC)<br/>
+*RD-4*'s invasion is successful (2025-01-20 17:47  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-20 17:47  UTC)<br/>
+DSS deploys to *Brink-2* of the Tarragon sector (2025-01-20 21:40  UTC)<br/>
+*Genesis Prime*'s invasion is repelled (2025-01-20 22:02  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-01-20 22:02  UTC)<br/>
+*Brink-2*'s invasion is repelled (2025-01-21 02:24  UTC)<br/>
+*Keid* of the Akira sector is invaded by Illuminate (2025-01-21 02:57  UTC)<br/>
+*Canopus*'s invasion is successful (2025-01-21 03:15  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-01-21 03:15  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-01-21 04:18  UTC)<br/>
+DSS deploys to *Canopus* of the Tarragon sector (2025-01-21 05:41  UTC)<br/>
+
+### Day: #349
+DSS deploys to *Keid* of the Akira sector (2025-01-21 09:42  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-01-21 10:23  UTC)<br/>
+*Keid*'s invasion is repelled (2025-01-21 14:09  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
+*Setia* of the Omega sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
+*Asperoth Prime*'s invasion is successful (2025-01-21 16:19  UTC)<br/>
