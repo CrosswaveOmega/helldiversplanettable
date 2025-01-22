@@ -4325,3 +4325,24 @@ DSS effect Heavy Ordnance Distribution stops (2025-01-21 10:23  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
 *Asperoth Prime*'s invasion is successful (2025-01-21 16:19  UTC)<br/>
+DSS deploys to *Asperoth Prime* of the Akira sector (2025-01-21 17:42  UTC)<br/>
+*Alathfar XI*'s invasion is repelled (2025-01-21 21:30  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-01-21 21:30  UTC)<br/>
+DSS deploys to *Alathfar XI* of the Akira sector (2025-01-21 21:43  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-01-22 00:04  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is invaded by Illuminate (2025-01-22 00:34  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2025-01-22 01:43  UTC)<br/>
+*Hort*'s invasion is successful (2025-01-22 02:29  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-22 02:29  UTC)<br/>
+*Setia*'s invasion is successful (2025-01-22 02:29  UTC)<br/>
+DSS deploys to *Afoyay Bay* of the Gallux sector (2025-01-22 05:44  UTC)<br/>
+
+# Day: #350
+*Afoyay Bay*'s invasion is repelled (2025-01-22 09:15  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-22 09:15  UTC)<br/>
+Major Order | Operation A2-1-3 Repel 14 Illuminate Invasions is failed | Objective: Defend (2025-01-22 12:05  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Illuminate campaign of terror continues unrestricted. Even the resurgent DSS, deployed with unassailable precision by the Helldivers, was not enough to repel the tide of xeno-autocracy. Millions of colonists have perished, and untold more have been corrupted into Voteless servants. (2025-01-22 12:07  UTC)<br/>
+*Herthon Secundus*'s invasion is successful (2025-01-22 12:34  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-22 12:34  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-22 13:43  UTC)<br/>
+DSS deploys to *Herthon Secundus* of the Ferris sector (2025-01-22 13:44  UTC)<br/>
