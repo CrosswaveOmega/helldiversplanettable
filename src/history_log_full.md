@@ -4346,3 +4346,17 @@ Dispatch: MAJOR ORDER FAILED. The Illuminate campaign of terror continues unrest
 ↳ Ferris sector is fully under Human control (2025-01-22 12:34  UTC)<br/>
 *Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-22 13:43  UTC)<br/>
 DSS deploys to *Herthon Secundus* of the Ferris sector (2025-01-22 13:44  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-01-22 17:30  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-22 17:45  UTC)<br/>
+​​DSS deploys to *Rirga Bay* of the Rigel sector (2025-01-22 21:45  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Illuminate (2025-01-23 01:04  UTC)<br/>
+*Rirga Bay*'s invasion is successful (2025-01-23 01:44  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-01-23 01:44  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-23 01:46  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2025-01-23 05:46  UTC)<br/>
+
+### Day: #351
+*Khandark* of the Guang sector is invaded by Illuminate (2025-01-23 11:44  UTC)<br/>
+*Hydrobius*'s invasion is successful (2025-01-23 13:04  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-01-23 13:04  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-23 13:47  UTC)<br/>
