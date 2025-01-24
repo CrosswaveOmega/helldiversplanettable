@@ -4360,3 +4360,17 @@ DSS deploys to *Hydrobius* of the Omega sector (2025-01-23 05:46  UTC)<br/>
 *Hydrobius*'s invasion is successful (2025-01-23 13:04  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-01-23 13:04  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-23 13:47  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-01-23 17:33  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-01-23 23:41  UTC)<br/>
+*Khandark*'s invasion is successful (2025-01-23 23:44  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-01-23 23:44  UTC)<br/>
+
+### Day: #352
+​​*Bellatrix* of the Guang sector is invaded by Illuminate (2025-01-24 10:49  UTC)<br/>
+*Stout*'s invasion is successful (2025-01-24 11:42  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-01-24 11:42  UTC)<br/>
+Major Order | Operation A2-1-4 Gloom Sample Gathering is issued | Objective: Sample/Control (2025-01-24 13:03  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Recent scientific findings have drastically increased the priority of developing Gloom-resistant technology. The Helldivers are ordered to collect scientific samples in order to support its development. Consult the Galactic Map on your ship for more information. (2025-01-24 13:03  UTC)<br/>
+ Decay: 0.5 on Cirrus<br/> Decay: 3.0 on Erata Prime, Gacrux
+ (2025-01-24 13:03  UTC)<br/>
+Dispatch: ADVISORY. Counterfeit sample detection measures have been strengthened since many such samples were received in a previous Order. The measures are anticipated to be sufficient. All personnel are encouraged to do their part: remain vigilant for un-Democratic attempts to steal from the prosperity of all, and report any indications of such behavior to their Democracy Officer immediately. (2025-01-24 13:10  UTC)<br/>
