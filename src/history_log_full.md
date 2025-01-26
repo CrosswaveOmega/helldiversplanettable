@@ -4374,3 +4374,28 @@ Dispatch: NEW MAJOR ORDER. Recent scientific findings have drastically increased
  Decay: 0.5 on Cirrus<br/> Decay: 3.0 on Erata Prime, Gacrux
  (2025-01-24 13:03  UTC)<br/>
 Dispatch: ADVISORY. Counterfeit sample detection measures have been strengthened since many such samples were received in a previous Order. The measures are anticipated to be sufficient. All personnel are encouraged to do their part: remain vigilant for un-Democratic attempts to steal from the prosperity of all, and report any indications of such behavior to their Democracy Officer immediately. (2025-01-24 13:10  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-01-24 17:50  UTC)<br/>
+ Decay: 1.0 on Vernen Wells
+ (2025-01-24 17:50  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Illuminate (2025-01-24 22:01  UTC)<br/>
+*Bellatrix*'s invasion is successful (2025-01-24 22:49  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-01-24 22:49  UTC)<br/>
+
+### Day: #353
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-25 09:34  UTC)<br/>
+*Termadon*'s invasion is successful (2025-01-25 10:02  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-01-25 10:02  UTC)<br/>
+DSS deploys to *Gacrux* of the Jin Xi sector (2025-01-25 17:52  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-01-25 20:20  UTC)<br/>
+*Alamak VII*'s invasion is successful (2025-01-25 21:35  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-25 21:35  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-01-25 22:50  UTC)<br/>
+ Decay: 0.0 on Fenrir III
+ (2025-01-26 00:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-01-26 01:16  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-01-26 05:53  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-01-26 07:37  UTC)<br/>
+*Hadar*'s invasion is successful (2025-01-26 08:20  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-26 08:20  UTC)<br/>
+
+### Day: #354
