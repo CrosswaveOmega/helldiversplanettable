@@ -59,7 +59,7 @@ export function SimplifyHistory(history) {
                     let text = each.text;
                     const regexMatch = text.match(/(A\d+-(?:1[0-2]|[1-9])-\d+)/);
                     if (regexMatch) {
-                        text = text.replace(regexMatch[0], `[[Major Orders#${regexMatch[0]}|${regexMatch[0]}]]`);
+                        text = text.replace(regexMatch[0], `{{MajorOrderLink|id=${regexMatch[0]}|text=${regexMatch[0]}}}`);
                     }
                     
                     let planet=null;
