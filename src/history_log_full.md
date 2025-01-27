@@ -4399,3 +4399,19 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-01-26 05:53  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-26 08:20  UTC)<br/>
 
 ### Day: #354
+*Baldrick Prime* of the Meridian sector is invaded by Illuminate (2025-01-26 18:42  UTC)<br/>
+*Rasp*'s invasion is successful (2025-01-26 19:38  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-26 19:38  UTC)<br/>
+*Fenrir III* defense is won (2025-01-26 21:48  UTC)<br/>
+ Decay: 2.0 on Fenrir III
+ (2025-01-27 00:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-01-27 01:19  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-01-27 01:56  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-27 06:26  UTC)<br/>
+*Baldrick Prime*'s invasion is successful (2025-01-27 06:42  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-01-27 06:42  UTC)<br/>
+
+### Day: #355
+Dispatch: INTEL REPORT. Multiple Astronomical Monitoring Stations have reported the appearance of unexplained gravitational waves, and "wobbles" in the orbits of astronomical bodies. These "Spacetime Fluctuations" have been positively correlated with Illuminate activity. The Ministry of Defense has begun tracking these fluctuations in coordination with the Ministry of Science, and their activity will be displayed on all Galactic Maps. (2025-01-27 13:06  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Terminids (2025-01-27 14:04  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-01-27 14:05  UTC)<br/>
