@@ -4415,3 +4415,27 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-01-27 01:56  UTC)<br/>
 Dispatch: INTEL REPORT. Multiple Astronomical Monitoring Stations have reported the appearance of unexplained gravitational waves, and "wobbles" in the orbits of astronomical bodies. These "Spacetime Fluctuations" have been positively correlated with Illuminate activity. The Ministry of Defense has begun tracking these fluctuations in coordination with the Ministry of Science, and their activity will be displayed on all Galactic Maps. (2025-01-27 13:06  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2025-01-27 14:04  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2025-01-27 14:05  UTC)<br/>
+ Decay: 0.0 on Terrek, Phact Bay<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Erata Prime, Gacrux<br/> Decay: 2.5 on Menkent
+ (2025-01-27 16:00  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Illuminate (2025-01-27 17:44  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-01-27 17:57  UTC)<br/>
+*Alairt III*'s invasion is successful (2025-01-27 18:27  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-27 18:27  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-01-27 21:58  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-01-27 23:44  UTC)<br/>
+*Terrek* defense is won (2025-01-28 02:53  UTC)<br/>
+ Decay: 500.0 on Terrek
+ (2025-01-28 04:00  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-01-28 05:21  UTC)<br/>
+*Mog*'s invasion is successful (2025-01-28 05:45  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-01-28 05:45  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
+
+### Day: #356
+*Phact Bay* defense is failed (2025-01-28 14:06  UTC)<br/>
+↳ *Phact Bay* liberation campaign starts (2025-01-28 14:06  UTC)<br/>
+↳ *Partion* liberation campaign ends (2025-01-28 14:06  UTC)<br/>
+↳ *Gatria* liberation campaign ends (2025-01-28 14:06  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-01-28 16:41  UTC)<br/>
+ Decay: 3.0 on Menkent<br/> Decay: 2.0 on Phact Bay
+ (2025-01-28 16:41  UTC)<br/>
