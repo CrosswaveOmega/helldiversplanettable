@@ -4439,3 +4439,22 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
 *Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-01-28 16:41  UTC)<br/>
  Decay: 3.0 on Menkent<br/> Decay: 2.0 on Phact Bay
  (2025-01-28 16:41  UTC)<br/>
+*Zea Rugosia*'s invasion is successful (2025-01-28 17:22  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-01-28 17:22  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-01-28 18:00  UTC)<br/>
+DSS deploys to *Elysian Meadows* of the Guang sector (2025-01-28 22:00  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Illuminate (2025-01-29 03:34  UTC)<br/>
+*Elysian Meadows*'s invasion is repelled (2025-01-29 04:28  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-01-29 04:28  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 06:01  UTC)<br/>
+
+### Day: #357
+*Cirrus* is liberated (2025-01-29 09:09  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-01-29 09:09  UTC)<br/>
+DSS deploys to *Parsh* of the Rictus sector (2025-01-29 10:01  UTC)<br/>
+Major Order | Operation A2-1-4 Gloom Sample Gathering is won | Objective: Sample/Control (2025-01-29 13:14  UTC)<br/>
+Dispatch: MAJOR ORDER WON. After innumerable scientific expeditions, the Xenoentomology Center has more than enough Terminid specimens to progress development on Gloom-resistant technology. Much work remains, but thanks to the Helldivers, the first expedition into the Gloom—and subsequent acquisition of its potentially vast E-710 reserves—may soon be within reach. Consult the Galactic Map on your Super Destroyer for more information. (2025-01-29 13:17  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-29 14:15  UTC)<br/>
+*Parsh*'s invasion is successful (2025-01-29 15:35  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-01-29 15:35  UTC)<br/>
