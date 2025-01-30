@@ -4458,3 +4458,8 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-29 14:15  UTC)<br/>
 *Parsh*'s invasion is successful (2025-01-29 15:35  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-29 15:35  UTC)<br/>
+ Decay: 3.5 on Menkent
+ (2025-01-29 22:00  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-01-30 01:29  UTC)<br/>
+*Ilduna Prime*'s invasion is successful (2025-01-30 02:15  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-01-30 02:15  UTC)<br/>
