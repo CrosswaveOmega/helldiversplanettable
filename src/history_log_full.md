@@ -3613,7 +3613,7 @@ Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scie
 Major Order | Operation A1-11-5 Jet Brigade Staging Ground is issued | Objective: Liberate/Eradicate (2024-11-29 16:08  UTC)<br/>
  Decay: 0.0 on Marfark<br/> Decay: 1.5 on Matar Bay
  (2024-11-29 16:08  UTC)<br/>
-Dispatch: NEW MAJOR ORDER. Though the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. The Helldivers are ordered to gather intel on the factories' location by: - Liberating the Jet brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Though the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. The Helldivers are ordered to gather intel on the factories' location by: - Liberating the Jet Brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2024-11-30 03:18  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-11-30 04:57  UTC)<br/>
 
@@ -4227,6 +4227,8 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 *Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-15 16:43  UTC)<br/>
  Decay: 500.0 on Moradesh
  (2025-01-15 16:43  UTC)<br/>
+*Myrium*'s invasion is successful (2025-01-15 18:01  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-01-15 18:01  UTC)<br/>
 Dispatch: Voluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary COMMANDO usage fleetwide. (2025-01-15 21:25  UTC)<br/>
 *Stout* of the Quintus sector is invaded by Illuminate (2025-01-16 04:42  UTC)<br/>
 *Alairt III*'s invasion is successful (2025-01-16 04:43  UTC)<br/>
@@ -4463,3 +4465,31 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
 *Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-01-30 01:29  UTC)<br/>
 *Ilduna Prime*'s invasion is successful (2025-01-30 02:15  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-30 02:15  UTC)<br/>
+
+### Day: #358
+*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-30 12:41  UTC)<br/>
+*Heze Bay*'s invasion is successful (2025-01-30 13:30  UTC)<br/>
+*Chort Bay* of the Lacaille sector is established as a Jet Brigade Factories (2025-01-30 14:02  UTC)<br/>
+Major Order | Operation A2-1-5 Jet Brigade Factories is issued | Objective: Liberate (2025-01-30 14:05  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Intel from the Staging Grounds for the Automaton Jet Brigade on *Choohe* has finally been deciphered, and the source of the violent unit identified. The Factories that produced the robotic marauders is located on CHORT BAY. The Helldivers are ordered to strike deep into Automaton territory with the objective of liberating CHORT BAY and destroying the Jet Brigade Factories there. (2025-01-30 14:06  UTC)<br/>
+*Skaash* of the Ursa sector is invaded by Illuminate (2025-01-30 16:01  UTC)<br/>
+ Decay: 0.5 on Vernen Wells<br/> Decay: 3.0 on Chort Bay<br/> Decay: 4.0 on Menkent
+ (2025-01-30 16:01  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Illuminate (2025-01-30 16:02  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Illuminate (2025-01-30 16:09  UTC)<br/>
+*Meridia* - *Estanu* warp link is removed (2025-01-30 16:39  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-01-30 18:05  UTC)<br/>
+*Meridia* - *Crimsica* warp link is removed (2025-01-30 20:03  UTC)<br/>
+*Alairt III*'s invasion is successful (2025-01-31 00:43  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-01-31 00:43  UTC)<br/>
+*Skaash*'s invasion is successful (2025-01-31 04:02  UTC)<br/>
+↳ Ursa sector is fully under Human control (2025-01-31 04:02  UTC)<br/>
+*Oasis*'s invasion is successful (2025-01-31 04:03  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-01-31 04:03  UTC)<br/>
+*Myrium*'s invasion is successful (2025-01-31 04:09  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-01-31 04:09  UTC)<br/>
+
+### Day: #359
+*Leng Secundus* of the Quintus sector is invaded by Illuminates (2025-01-31 09:06  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Illuminates (2025-01-31 09:08  UTC)<br/>
+Dispatch:  INTEL REPORT.  Long-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity. (2025-01-31 10:36  UTC)<br/>
