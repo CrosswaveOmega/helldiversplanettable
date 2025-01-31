@@ -436,6 +436,10 @@ export function makeplotcurrent_group(
         // Calculate adjusted positions for the neighbor labels
         const neighborLabels = neighbors.features.map(feature => {
             let name=sectordata[feature.properties.id]?.['name'];
+            if (name=="lestrade"){
+                name="L'estrade"
+            }
+
             const neighborCentroid = d3.polygonCentroid(feature.geometry.coordinates[0]);
             let canvasBasedSize = canvasBasedEstimator(name, 20)
             console.log(canvasBasedSize);
@@ -464,7 +468,7 @@ export function makeplotcurrent_group(
                  
                 adjustedPoint={x: 0.3585283535006793,y:0.3193364811929804};
             }
-            if ((sector==='mirin') & (name==="Lestrade")){
+            if ((sector==='mirin') & (name==="L'estrade")){
                  
                 adjustedPoint={x: 0.6844251189735001,y:-0.45441186736502603};
             }
@@ -488,10 +492,10 @@ export function makeplotcurrent_group(
             if ((sector==='nanos') & (name==="Marspira")){
                 adjustedPoint={x:-0.3059303370122175,y: -0.2005397790538078};
             }
-            if ((sector==='arturion') & (name==="Lestrade")){
+            if ((sector==='arturion') & (name==="L'estrade")){
                 adjustedPoint={x: 0.42914883500000156,y: -0.6952567170833354};
             }
-            if ((sector==='falstaff') & (name==="Lestrade")){
+            if ((sector==='falstaff') & (name==="L'estrade")){
                 adjustedPoint={x: 0.4831179295924314,y: -0.687141669593459};
             }
             if ((sector==='draco') & (name==="Sten")){
