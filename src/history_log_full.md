@@ -4490,6 +4490,11 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-01-30 18:05  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-31 04:09  UTC)<br/>
 
 ### Day: #359
-*Leng Secundus* of the Quintus sector is invaded by Illuminates (2025-01-31 09:06  UTC)<br/>
-*Kharst* of the Gallux sector is invaded by Illuminates (2025-01-31 09:08  UTC)<br/>
-Dispatch:  INTEL REPORT.  Long-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity. (2025-01-31 10:36  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-01-31 09:06  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Illuminate (2025-01-31 09:08  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-01-31 09:32  UTC)<br/>
+Dispatch: INTEL REPORT. Long-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity. (2025-01-31 10:36  UTC)<br/>
+*Lesath* is liberated (2025-01-31 16:42  UTC)<br/>
+↳ *Penta* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
