@@ -8,6 +8,7 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
+Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2024-02-02 06:57  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -4498,3 +4499,41 @@ Dispatch: INTEL REPORT. Long-range imagery of CHORT BAY has confirmed the presen
 ↳ *Penta* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2025-01-31 16:42  UTC)<br/>
+*Leng Secundus*'s invasion is successful (2025-01-31 21:07  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-01-31 21:07  UTC)<br/>
+*Kharst*'s invasion is successful (2025-01-31 21:08  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-01-31 21:08  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2025-01-31 22:08  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Illuminate (2025-01-31 22:40  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-31 22:41  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2025-01-31 22:41  UTC)<br/>
+*Turing* - *Meridia* warp link is removed (2025-01-31 22:44  UTC)<br/>
+
+# Day: #360
+DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
+*Khandark*'s invasion is successful (2025-02-01 10:41  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-02-01 10:41  UTC)<br/>
+*Sirius*'s invasion is successful (2025-02-01 10:41  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-02-01 10:41  UTC)<br/>
+*Valmox*'s invasion is successful (2025-02-01 10:41  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-01 10:41  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-02-01 13:34  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Illuminate (2025-02-01 16:04  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-02-01 19:10  UTC)<br/>
+*Fenrir III* - *Meridia* warp link is removed (2025-02-01 19:42  UTC)<br/>
+ Decay: 5.0 on Menkent
+ (2025-02-01 20:00  UTC)<br/>
+*Hort*'s invasion is successful (2025-02-02 01:34  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-02 01:34  UTC)<br/>
+*Senge 23*'s invasion is successful (2025-02-02 04:05  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-02-02 04:05  UTC)<br/>
+*Chort Bay* is liberated (2025-02-02 05:16  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2025-02-02 05:16  UTC)<br/>
+↳ Major Order | Operation A2-1-5 Jet Brigade Factories is won | Objective: Liberate (2025-02-02 05:16  UTC)<br/>
+↳ *Chort Bay* of the Lacaille sector's Jet Brigade Factories is removed (2025-02-02 05:16  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
+Automaton Jet Brigade deploys to guard *Vernen Wells* (2025-02-02 06:53  UTC)<br/>
+*Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-02-02 07:14  UTC)<br/>
