@@ -9,6 +9,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 
 
 Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2024-02-02 06:57  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The DSS has confirmed the presence of a rebuilt Automaton Jet Brigade on *Menkent*. The Automatons clearly intended an underhanded surprise attack to cut off our extended forces. But their treachery has been stymied by the natural-born tactical intuition of the Helldivers. The DSS Blockade will hold the Jet Brigade for a limited time, long enough to augment our forces on *Lesath* and thin the ranks of the Jet Brigade itself. Many lives have been saved this day. Well done, Helldivers. (2024-02-02 17:11  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -3160,7 +3161,7 @@ Dispatch: SPORE SURGE. The Ministry of Science reports an unanticipated spike in
  (2024-10-25 00:00  UTC)<br/>
 *Aesir Pass* defense is failed (2024-10-25 07:14  UTC)<br/>
 ↳ *Aesir Pass* liberation campaign starts (2024-10-25 07:14  UTC)<br/>
-Hydra sector is fully under Automaton control (2024-10-25 07:14  UTC)<br/>
+↳ Hydra sector is fully under Automaton control (2024-10-25 07:14  UTC)<br/>
 
 ### Day: #261
  Decay: 1.0 on Aesir Pass
@@ -3885,6 +3886,7 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 *Afoyay Bay*'s invasion is successful (2024-12-24 16:13  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2024-12-24 16:13  UTC)<br/>
 Major Order | Operation A1-12-5 Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
+*Fenrir III* of the Umlaut sector is established as a Center of Science (2024-12-24 23:11  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of FENRIR III has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
 Major Order | Operation A1-12-6 Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
 Dispatch: HOLIDAY NOTICE. Today, citizens across the Federation observe one of our most special holidays. A joyous celebration of love, family, and pursuing peace: the Festival of Reckoning. Consult the Galactic Map on your ship for more information. (2024-12-24 23:21  UTC)<br/>
@@ -4446,6 +4448,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-28 17:22  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-01-28 18:00  UTC)<br/>
 DSS deploys to *Elysian Meadows* of the Guang sector (2025-01-28 22:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-01-28 23:47  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-01-29 03:34  UTC)<br/>
 *Elysian Meadows*'s invasion is repelled (2025-01-29 04:28  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-29 04:28  UTC)<br/>
@@ -4537,3 +4540,36 @@ Automaton Jet Brigade deploys to guard *Vernen Wells* (2025-02-02 06:53  UTC)<br
 *Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
 *Propus* of the Leo sector is invaded by Illuminate (2025-02-02 07:14  UTC)<br/>
+
+### Day: #361
+DSS effect Orbital Blockade is activated (2025-02-02 14:03  UTC)<br/>
+DSS deploys to *Menkent* of the Hydra sector (2025-02-02 14:14  UTC)<br/>
+ Decay: 4.7 on Menkent
+ (2025-02-02 18:00  UTC)<br/>
+*Propus*'s invasion is successful (2025-02-02 19:17  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-02-02 19:17  UTC)<br/>
+*Setia* of the Omega sector is invaded by Illuminate (2025-02-02 19:59  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
+*Angel's Venture* - *Meridia* supply line is removed (2025-02-02 20:17  UTC)<br/>
+Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel to the *Meridia* Singularity unadvisable. It will be off-limits to visitation until further notice. (2025-02-02 20:29  UTC)<br/>
+ Decay: 4.4 on Menkent
+ (2025-02-03 00:00  UTC)<br/>
+*Vernen Wells* is liberated (2025-02-03 07:02  UTC)<br/>
+*Setia*'s invasion is successful (2025-02-03 08:00  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-02-03 08:00  UTC)<br/>
+*Brink-2*'s invasion is successful (2025-02-03 08:00  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-03 08:00  UTC)<br/>
+*Hadar*'s invasion is successful (2025-02-03 08:01  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-02-03 08:01  UTC)<br/>
+
+### Day: #362
+ Decay: 4.2 on Menkent
+ (2025-02-03 09:00  UTC)<br/>
+Dispatch: INTEL REPORT. Through careful analysis of available astronomical data, the Center of Science has successfully modeled the recent fluctuations in spacetime. Experts have long posited the existence of Dark Energy, a repulsive force permeating the universe and accelerating its expansion. By simulating sudden localized Dark Energy loss, the Center has been able to model spacetime fluctuations. The Center is currently exploring how this model maps onto recent Illuminate activity. (2025-02-03 12:10  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Lacaille sector, L'estrade sector, Jin Xi sector, Andromeda sector, Valdis sector, Mirin sector, Farsight sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Sten sector, Umlaut sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Aurora Bay, Penta, Turing, Angel's Venture<br/> Decay: 0.0 on Human worlds<br/> Decay: 4.2 on Menkent<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2025-02-03 13:14  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
+Automaton Jet Brigade deploys to assist in the siege of *Lesath* (2025-02-03 16:01  UTC)<br/>
