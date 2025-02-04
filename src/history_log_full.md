@@ -3636,7 +3636,7 @@ DSS effect Orbital Blockade stops (2024-12-01 05:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-01 22:58  UTC)<br/>
 
 ### Day: #299
-*Meridia* of the Umlaut sector is established as a Blackhole Location (2024-12-02 12:03  UTC)<br/>
+*Meridia* of the Umlaut sector is established as a Wormhole Location (2024-12-02 12:03  UTC)<br/>
 *Matar Bay* is liberated (2024-12-02 17:10  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2024-12-02 17:10  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-02 23:00  UTC)<br/>
@@ -4551,7 +4551,7 @@ DSS deploys to *Menkent* of the Hydra sector (2025-02-02 14:14  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-02-02 19:59  UTC)<br/>
 *Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
-*Angel's Venture* - *Meridia* supply line is removed (2025-02-02 20:17  UTC)<br/>
+*Angel's Venture* - *Meridia* warp link is removed (2025-02-02 20:17  UTC)<br/>
 Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel to the *Meridia* Singularity unadvisable. It will be off-limits to visitation until further notice. (2025-02-02 20:29  UTC)<br/>
  Decay: 4.4 on Menkent
  (2025-02-03 00:00  UTC)<br/>
@@ -4568,8 +4568,25 @@ Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel
  (2025-02-03 09:00  UTC)<br/>
 Dispatch: INTEL REPORT. Through careful analysis of available astronomical data, the Center of Science has successfully modeled the recent fluctuations in spacetime. Experts have long posited the existence of Dark Energy, a repulsive force permeating the universe and accelerating its expansion. By simulating sudden localized Dark Energy loss, the Center has been able to model spacetime fluctuations. The Center is currently exploring how this model maps onto recent Illuminate activity. (2025-02-03 12:10  UTC)<br/>
 *Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Lacaille sector, L'estrade sector, Jin Xi sector, Andromeda sector, Valdis sector, Mirin sector, Farsight sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells, Gar Haren, Marfark, Zzaniah Prime<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Sten sector, Umlaut sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Aurora Bay, Penta, Turing, Angel's Venture<br/> Decay: 0.0 on Human worlds<br/> Decay: 4.2 on Menkent<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
- (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
 Automaton Jet Brigade deploys to assist in the siege of *Lesath* (2025-02-03 16:01  UTC)<br/>
+ Decay: 4.0 on Menkent
+ (2025-02-03 16:01  UTC)<br/>
+Major Order | Operation A2-2-1 Defend *Chort Bay* is issued | Objective: Control (2025-02-03 17:03  UTC)<br/>
+ Decay: 0.0 on Lesath
+ (2025-02-03 17:03  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-02-03 19:46  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2025-02-03 20:41  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-03 21:21  UTC)<br/>
+ Decay: 0.5 on Aesir Pass<br/> Decay: 0.0 on Marfark
+ (2025-02-03 21:21  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-02-03 22:20  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-04 00:26  UTC)<br/>
+*Hydrobius*'s invasion is successful (2025-02-04 01:16  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-02-04 01:16  UTC)<br/>
+
+### Day: #363
+*Irulta* of the Saleria sector is invaded by Illuminate (2025-02-04 09:11  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-02-04 09:21  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-02-04 09:21  UTC)<br/>
