@@ -4552,6 +4552,7 @@ DSS deploys to *Menkent* of the Hydra sector (2025-02-02 14:14  UTC)<br/>
 *Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
 *Angel's Venture* - *Meridia* warp link is removed (2025-02-02 20:17  UTC)<br/>
+*Meridia* moves to X 0.5074972 Y 0.20084213 (2025-02-02 20:26  UTC)<br/>
 Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel to the *Meridia* Singularity unadvisable. It will be off-limits to visitation until further notice. (2025-02-02 20:29  UTC)<br/>
  Decay: 4.4 on Menkent
  (2025-02-03 00:00  UTC)<br/>
@@ -4590,3 +4591,32 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-02-03 22:20  UTC)<br/>
 *Irulta* of the Saleria sector is invaded by Illuminate (2025-02-04 09:11  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-04 09:21  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-04 09:21  UTC)<br/>
+Dispatch: INTEL REPORT. The Ministry of Science has confirmed the proposed link between Illuminate activity and the disappearance of large swaths of Dark Energy from our Galaxy. With every invasion, the Illuminate appear to be siphoning off more of this exotic force. The purpose of their actions remains unknown. By measuring spacetime fluctuations, the Ministry of Science is able to estimate how much Dark Energy is being stolen. Trackers on all Galactic Maps have been updated accordingly. (2025-02-04 11:35  UTC)<br/>
+*Kraz*'s invasion is successful (2025-02-04 12:26  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-02-04 12:26  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-02-04 13:18  UTC)<br/>
+*Botein* of the Guang sector is invaded by Illuminate (2025-02-04 16:52  UTC)<br/>
+DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
+*Marfark* defense is failed (2025-02-04 20:44  UTC)<br/>
+*Irulta*'s invasion is successful (2025-02-04 21:11  UTC)<br/>
+ Decay: 0.5 on Marfark
+ (2025-02-04 21:11  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-02-04 23:12  UTC)<br/>
+*RD-4*'s invasion is successful (2025-02-05 01:19  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-05 01:19  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-02-05 02:20  UTC)<br/>
+*Botein*'s invasion is successful (2025-02-05 04:52  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-02-05 04:52  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-02-05 07:25  UTC)<br/>
+
+### Day: #364
+*Seasse*'s invasion is successful (2025-02-05 11:12  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-02-05 11:12  UTC)<br/>
+ Decay: 2.5 on Choohe<br/> Decay: 1.5 on Marfark
+ (2025-02-05 11:12  UTC)<br/>
+*Lesath* defense is won (2025-02-05 13:01  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-05 14:15  UTC)<br/>
+ Decay: 1.5 on Lesath
+ (2025-02-05 14:15  UTC)<br/>
+*Stout*'s invasion is successful (2025-02-05 14:21  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-02-05 14:21  UTC)<br/>
