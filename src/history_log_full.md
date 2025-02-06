@@ -3064,11 +3064,11 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
 Major Order | Operation A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is established as a Terminid Research Preserve (2024-10-18 09:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
-Automaton Legion debuts a new Assault Division: The Automaton Jet Brigade (2024-10-18 11:43  UTC)<br/>
-Automaton Jet Brigade deploys to guard *Choohe* (2024-10-18 11:43  UTC)<br/>
-Automaton Jet Brigade retreats to replenish their numbers (2024-10-18 11:45  UTC)<br/>
+Automaton Legion debuts a new Assault Division: The Jet Brigade (2024-10-18 11:43  UTC)<br/>
+Jet Brigade deploys to *Choohe* (2024-10-18 11:43  UTC)<br/>
+Jet Brigade goes into hiding (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Matar Bay* (2024-10-18 13:01  UTC)<br/>
+Jet Brigade deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
 Emergency Alert | Jet Brigade Emergency Defense is issued (2024-10-18 13:03  UTC)<br/>
 Major Order | Operation A1-10-4 Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
  Decay: 2.0 on Choohe<br/> Decay: 0.0 on Matar Bay
@@ -3078,28 +3078,24 @@ Major Order | Operation A1-10-4 Jet Brigade is issued | Objective: Defend (2024-
 *Matar Bay* defense is failed (2024-10-19 13:05  UTC)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-10-19 13:05  UTC)<br/>
 ↳ *Choohe* liberation campaign ends (2024-10-19 13:05  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Matar Bay* (2024-10-19 13:05  UTC)<br/>
 Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has taken *Matar Bay*. A subsequent invasion of one of the adjacent planets is imminent. However, the lives lost were not in vain. The Jet Brigade sustained heavy losses, which will reduce the strength of their next attack. A planet has been lost, and more may follow. But a vigorous defense will wear down this invasion force over time. Fight to the last, Helldivers. (2024-10-19 13:09  UTC)<br/>
  Decay: 4.0 on Matar Bay
  (2024-10-19 14:00  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2024-10-19 22:06  UTC)<br/>
-Automaton Jet Brigade redeploys to assist in the siege of *Martale* (2024-10-19 22:07  UTC)<br/>
+Jet Brigade deploys to *Martale* (2024-10-19 22:07  UTC)<br/>
  Decay: 0.0 on Martale
  (2024-10-20 00:00  UTC)<br/>
 
 ### Day: #256
 *Martale* defense is failed (2024-10-20 22:10  UTC)<br/>
 ↳ *Martale* liberation campaign starts (2024-10-20 22:10  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Martale* (2024-10-20 22:10  UTC)<br/>
  Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
-Automaton Jet Brigade redeploys to every enemy faction controlled world (2024-10-21 04:11  UTC)<br/>
-↳ NOTE: This was an error produced by the Gamemaster not properly filling a value making it appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. (2024-10-21 04:11  UTC)<br/>
+Jet Brigade deploys to *Marfark* (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
-Automaton Jet Brigade stops guarding every enemy faction controlled world (2024-10-21 08:01  UTC)<br/>
-Automaton Jet Brigade redeploys to assist in the siege of *Marfark* (2024-10-21 08:01  UTC)<br/>
+NOTE: An error produced by the Gamemaster not properly filling a value making the Jet Brigade appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. It lasted from 04:11am UTC 21st Oct 2024 to 08:01am UTC 21st Oct 2024 as a side note. It was fixed to only show on *Marfark* instead (2024-10-21 08:01  UTC)<br/>
 
 ### Day: #257
 Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: -a fluttering *Super Earth* flag -a filled-out ballot -the inevitable destruction of Freedom's enemies. (2024-10-21 18:51  UTC)<br/>
@@ -3110,7 +3106,7 @@ Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the ap
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
  Decay: 1.5 on Martale
  (2024-10-22 07:09  UTC)<br/>
-Automaton Jet Brigade retreats to replenish their numbers (2024-10-22 07:17  UTC)<br/>
+Jet Brigade is routed (2024-10-22 07:17  UTC)<br/>
 
 ### Day: #258
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-22 19:25  UTC)<br/>
@@ -3388,12 +3384,12 @@ DSS Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
 
 ### Day: #278
 Major Order | Operation A1-11-2 DSS Fueling is issued | Objective: Control/Eradicate (2024-11-11 14:02  UTC)<br/>
-Automaton Jet Brigade deploys to guard *Vernen Wells* (2024-11-11 14:02  UTC)<br/>
+Jet Brigade deploys to *Vernen Wells* (2024-11-11 14:02  UTC)<br/>
  Decay: 5.0 on Vernen Wells
  (2024-11-11 14:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives. Haste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on *Vernen Wells*. An attack on the DSS Logistics Hub on *Tarsh* is likely imminent. If the Hub is seized, the DSS itself will be next. (2024-11-11 14:04  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-11-11 20:03  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Tarsh* (2024-11-11 20:03  UTC)<br/>
+Jet Brigade deploys to *Tarsh* (2024-11-11 20:03  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on *Tarsh*. Intel indicates the Automatons are seeking the location of the DSS itself. The force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress. (2024-11-11 20:03  UTC)<br/>
  Decay: 0.0 on Tarsh
  (2024-11-11 22:00  UTC)<br/>
@@ -3411,7 +3407,6 @@ Dispatch: Emergency Alert. The Terminid Research Center has suffered a catastrop
 *Acamar IV* liberation campaign starts (2024-11-12 18:54  UTC)<br/>
 *Tarsh* defense is failed (2024-11-12 20:06  UTC)<br/>
 ↳ *Tarsh* liberation campaign starts (2024-11-12 20:06  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Tarsh* (2024-11-12 20:06  UTC)<br/>
 *Tarsh* of the Marspira sector's Logistical Hub is removed (2024-11-12 20:06  UTC)<br/>
  Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Acamar IV
  (2024-11-12 20:06  UTC)<br/>
@@ -3419,7 +3414,7 @@ Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics 
  Decay: 4.5 on Tarsh<br/> Decay: 1.5 on Vernen Wells
  (2024-11-12 20:27  UTC)<br/>
 *Mastia* of the Andromeda sector is attacked by Automatons (2024-11-13 05:11  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Mastia* (2024-11-13 05:11  UTC)<br/>
+Jet Brigade deploys to *Mastia* (2024-11-13 05:11  UTC)<br/>
  Decay: 0.0 on Mastia
  (2024-11-13 06:00  UTC)<br/>
 
@@ -3448,7 +3443,6 @@ Dispatch: DSS ONLINE. Helldivers can now collectively control the Democracy Spac
 Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is imminent. (2024-11-14 05:12  UTC)<br/>
 *Mastia* defense is failed (2024-11-14 05:14  UTC)<br/>
 ↳ *Mastia* liberation campaign starts (2024-11-14 05:14  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Mastia* (2024-11-14 05:14  UTC)<br/>
  Decay: 1.5 on Mastia
  (2024-11-14 06:00  UTC)<br/>
  Decay: 4.0 on Mastia<br/> Decay: 1.5 on Tarsh
@@ -3456,6 +3450,7 @@ Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is 
 
 ### Day: #281
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-11-14 11:19  UTC)<br/>
+Jet Brigade deploys to *Gaellivare* (2024-11-14 11:19  UTC)<br/>
 Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaellivare*. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. (2024-11-14 11:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
  (2024-11-14 12:00  UTC)<br/>
@@ -3476,8 +3471,8 @@ DSS effect Eagle Storm is activated (2024-11-16 02:39  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In an unexpected but cunning move, the Helldivers have voted to send the DSS back to *Gaellivare* and activate its EAGLE STORM Tactical Action to hold the defense against the Jet Brigade. This development has led to operations upon *Mastia* possibly gaining sufficient time to complete, and thereby end the attack upon *Gaellivare* by taking out its point of origin. (2024-11-16 03:01  UTC)<br/>
 
 ### Day: #283
-Automaton Jet Brigade retreats to replenish their numbers (2024-11-16 11:17  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Gaellivare* (2024-11-16 13:03  UTC)<br/>
+Jet Brigade goes into hiding (2024-11-16 11:17  UTC)<br/>
+Jet Brigade deploys to *Gaellivare* (2024-11-16 13:03  UTC)<br/>
 Major Order | Operation A1-11-2 DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Gaellivare* has been held for the designated timeframe. However, the planet, and the DSS itself, remain imperiled. The fight is not over. High Command will monitor the situation. Further guidance will be issued once the fate of *Gaellivare* is decided—one way or the other. (2024-11-16 14:19  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2024-11-17 02:37  UTC)<br/>
@@ -3487,7 +3482,6 @@ DSS effect Orbital Blockade is activated (2024-11-17 03:29  UTC)<br/>
 ### Day: #284
 *Gaellivare* defense is failed (2024-11-17 11:22  UTC)<br/>
 ↳ *Gaellivare* liberation campaign starts (2024-11-17 11:22  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Gaellivare* (2024-11-17 11:22  UTC)<br/>
  Decay: 3.0 on Gaellivare
  (2024-11-17 12:00  UTC)<br/>
 *Acamar IV* is liberated (2024-11-17 20:20  UTC)<br/>
@@ -3497,7 +3491,7 @@ DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
 
 ### Day: #285
 *Imber* of the Talus sector is attacked by Automatons (2024-11-18 16:09  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Imber* (2024-11-18 16:09  UTC)<br/>
+Jet Brigade deploys to *Imber* (2024-11-18 16:09  UTC)<br/>
 Major Order | Operation A1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
  Decay: 0.0 on Imber
  (2024-11-18 16:53  UTC)<br/>
@@ -3509,7 +3503,6 @@ Dispatch: ARSENAL AUGMENTATION. The Airburst Rocket Launcher stratagem has been 
 ### Day: #286
 *Imber* defense is failed (2024-11-19 16:18  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-11-19 16:18  UTC)<br/>
-↳ Automaton Jet Brigade switches to guarding *Imber* (2024-11-19 16:18  UTC)<br/>
  Decay: 1.0 on Imber
  (2024-11-19 18:00  UTC)<br/>
 *Gaellivare* is liberated (2024-11-19 19:00  UTC)<br/>
@@ -3517,7 +3510,7 @@ Dispatch: STRATEGIC ALERT. The Jet Brigade ceaseless aggression has trapped them
 DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
-Automaton Jet Brigade retreats to replenish their numbers (2024-11-20 16:21  UTC)<br/>
+Jet Brigade is routed (2024-11-20 16:21  UTC)<br/>
 *Acamar IV* of the Jin Xi sector's Terminid Research Preserve is removed (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully under Human control (2024-11-20 17:14  UTC)<br/>
@@ -4536,7 +4529,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 ↳ *Chort Bay* of the Lacaille sector's Jet Brigade Factories is removed (2025-02-02 05:16  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
-Automaton Jet Brigade deploys to guard *Vernen Wells* (2025-02-02 06:53  UTC)<br/>
+Jet Brigade deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
 *Propus* of the Leo sector is invaded by Illuminate (2025-02-02 07:14  UTC)<br/>
@@ -4571,7 +4564,7 @@ Dispatch: INTEL REPORT. Through careful analysis of available astronomical data,
 *Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
-Automaton Jet Brigade deploys to assist in the siege of *Lesath* (2025-02-03 16:01  UTC)<br/>
+Jet Brigade deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
  Decay: 4.0 on Menkent
  (2025-02-03 16:01  UTC)<br/>
 Major Order | Operation A2-2-1 Defend *Chort Bay* is issued | Objective: Control (2025-02-03 17:03  UTC)<br/>
@@ -4615,8 +4608,25 @@ DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
  Decay: 2.5 on Choohe<br/> Decay: 1.5 on Marfark
  (2025-02-05 11:12  UTC)<br/>
 *Lesath* defense is won (2025-02-05 13:01  UTC)<br/>
+Jet Brigade is routed (2025-02-05 13:01  UTC)<br/>
 *Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-05 14:15  UTC)<br/>
  Decay: 1.5 on Lesath
  (2025-02-05 14:15  UTC)<br/>
 *Stout*'s invasion is successful (2025-02-05 14:21  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-02-05 14:21  UTC)<br/>
+DSS deploys to *Choohe* of the Lacaille sector (2025-02-05 18:25  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2025-02-05 19:23  UTC)<br/>
+*Heze Bay*'s invasion is successful (2025-02-05 19:25  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-02-05 19:25  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-05 21:14  UTC)<br/>
+ Decay: 0.0 on Meissa<br/> Decay: 2.0 on Menkent
+ (2025-02-05 21:14  UTC)<br/>
+*Meridia* moves to X 0.5064972 Y 0.19884212 (2025-02-05 21:42  UTC)<br/>
+*Kraz*'s invasion is repelled (2025-02-06 00:23  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-02-06 00:23  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2025-02-06 02:25  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2025-02-06 06:42  UTC)<br/>
+*Osupsam*'s invasion is repelled (2025-02-06 07:01  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-06 07:01  UTC)<br/>
+
+### Day: #365
