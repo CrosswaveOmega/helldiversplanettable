@@ -12,6 +12,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.0,
+            "y": 0.0
+         },
          "eind": 0
       },
       {
@@ -6343,6 +6347,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.05373042,
+            "y": 0.10565466
+         },
          "eind": 0
       },
       {
@@ -6369,6 +6377,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.04664221,
+            "y": 0.16758725
+         },
          "eind": 0
       },
       {
@@ -6395,6 +6407,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.12536779,
+            "y": 0.11821219
+         },
          "eind": 0
       },
       {
@@ -6421,6 +6437,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.10280278,
+            "y": 0.05765711
+         },
          "eind": 0
       },
       {
@@ -6447,6 +6467,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.15988354,
+            "y": 0.043583166
+         },
          "eind": 0
       },
       {
@@ -6469,6 +6493,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.36159223,
+            "y": -0.52270126
+         },
          "eind": 0
       },
       {
@@ -6585,6 +6613,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.51897186,
+            "y": -0.3859795
+         },
          "eind": 0
       },
       {
@@ -6861,6 +6893,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.45897943,
+            "y": -0.45897192
+         },
          "eind": 0
       },
       {
@@ -7024,6 +7060,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.27001774,
+            "y": -0.5880387
+         },
          "eind": 0
       },
       {
@@ -7111,6 +7151,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.061315693,
+            "y": 0.2489306
+         },
          "eind": 0
       },
       {
@@ -7208,6 +7252,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.05373336,
+            "y": 0.3648641
+         },
          "eind": 0
       },
       {
@@ -8105,6 +8153,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.060664836,
+            "y": 0.44539174
+         },
          "eind": 0
       },
       {
@@ -8953,6 +9005,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.16213205,
+            "y": 0.4142603
+         },
          "eind": 0
       },
       {
@@ -11376,6 +11432,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.27240774,
+            "y": 0.20429876
+         },
          "eind": 0
       },
       {
@@ -11402,6 +11462,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2219546,
+            "y": 0.2772582
+         },
          "eind": 0
       },
       {
@@ -11432,6 +11496,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.26528117,
+            "y": 0.347748
+         },
          "eind": 0
       },
       {
@@ -11793,6 +11861,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.32492584,
+            "y": 0.25839266
+         },
          "eind": 0
       },
       {
@@ -12969,6 +13041,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.39437926,
+            "y": 0.27310377
+         },
          "eind": 0
       },
       {
@@ -14272,6 +14348,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.43926024,
+            "y": 0.0731322
+         },
          "eind": 0
       },
       {
@@ -14929,6 +15009,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.4448446,
+            "y": 0.1618837
+         },
          "eind": 0
       },
       {
@@ -16224,6 +16308,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.17009519,
+            "y": 0.1877717
+         },
          "eind": 0
       },
       {
@@ -16250,6 +16338,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2117717,
+            "y": 0.12409518
+         },
          "eind": 0
       },
       {
@@ -16280,6 +16372,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2540875,
+            "y": 0.05583542
+         },
          "eind": 0
       },
       {
@@ -16310,6 +16406,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.287884,
+            "y": 0.1099696
+         },
          "eind": 0
       },
       {
@@ -16340,6 +16440,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.338688,
+            "y": 0.05460588
+         },
          "eind": 0
       },
       {
@@ -16362,6 +16466,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.33707795,
+            "y": 0.1548962
+         },
          "eind": 0
       },
       {
@@ -16475,6 +16583,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5111386,
+            "y": 0.3511805
+         },
          "eind": 0
       },
       {
@@ -21753,6 +21865,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.4889177,
+            "y": 0.43328553
+         },
          "eind": 0
       },
       {
@@ -23990,6 +24106,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.633865,
+            "y": 0.3955063
+         },
          "eind": 0
       },
       {
@@ -25948,6 +26068,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.55758536,
+            "y": 0.4887236
+         },
          "eind": 0
       },
       {
@@ -26231,6 +26355,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.1857717,
+            "y": 0.13809519
+         },
          "eind": 0
       },
       {
@@ -26257,6 +26385,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.16809516,
+            "y": 0.19577172
+         },
          "eind": 0
       },
       {
@@ -26283,6 +26415,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.13065825,
+            "y": 0.30637383
+         },
          "eind": 0
       },
       {
@@ -29034,6 +29170,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.24490279,
+            "y": 0.21259932
+         },
          "eind": 0
       },
       {
@@ -29591,6 +29731,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.20995454,
+            "y": 0.28325823
+         },
          "eind": 0
       },
       {
@@ -32579,6 +32723,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.87390286,
+            "y": 0.35359928
+         },
          "eind": 0
       },
       {
@@ -32713,6 +32861,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.9189892,
+            "y": -0.1249713
+         },
          "eind": 0
       },
       {
@@ -36029,6 +36181,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.9115288,
+            "y": 0.18509296
+         },
          "eind": 0
       },
       {
@@ -36163,6 +36319,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.8417918,
+            "y": 0.10094728
+         },
          "eind": 0
       },
       {
@@ -39885,6 +40045,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.93316215,
+            "y": 0.004525
+         },
          "eind": 0
       },
       {
@@ -40670,6 +40834,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5134972,
+            "y": 0.20684212
+         },
          "eind": 0
       },
       {
@@ -43577,6 +43745,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.46994886,
+            "y": 0.27418607
+         },
          "eind": 0
       },
       {
@@ -45923,6 +46095,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5348745,
+            "y": 0.11823793
+         },
          "eind": 0
       },
       {
@@ -47808,6 +47984,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.4243272,
+            "y": 0.34833485
+         },
          "eind": 0
       },
       {
@@ -51889,6 +52069,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.372748,
+            "y": 0.5082812
+         },
          "eind": 0
       },
       {
@@ -54952,6 +55136,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.46854144,
+            "y": 0.5513042
+         },
          "eind": 0
       },
       {
@@ -55937,6 +56125,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3994094,
+            "y": 0.6009798
+         },
          "eind": 0
       },
       {
@@ -56729,6 +56921,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3259798,
+            "y": 0.4174094
+         },
          "eind": 0
       },
       {
@@ -59338,6 +59534,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6113544,
+            "y": 0.22880854
+         },
          "eind": 0
       },
       {
@@ -64331,6 +64531,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5803697,
+            "y": 0.29137206
+         },
          "eind": 0
       },
       {
@@ -68504,6 +68708,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6880386,
+            "y": 0.30101782
+         },
          "eind": 0
       },
       {
@@ -72199,6 +72407,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.42307508,
+            "y": -0.029368328
+         },
          "eind": 0
       },
       {
@@ -72225,6 +72437,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.46455657,
+            "y": -0.09407307
+         },
          "eind": 0
       },
       {
@@ -72251,6 +72467,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5226474,
+            "y": -0.035894625
+         },
          "eind": 0
       },
       {
@@ -72277,6 +72497,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.56242514,
+            "y": -0.11354032
+         },
          "eind": 0
       },
       {
@@ -72299,6 +72523,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.62221956,
+            "y": -0.042420916
+         },
          "eind": 0
       },
       {
@@ -72321,6 +72549,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6268659,
+            "y": -0.12653387
+         },
          "eind": 0
       },
       {
@@ -72540,6 +72772,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6355565,
+            "y": 0.0490733
+         },
          "eind": 0
       },
       {
@@ -72657,6 +72893,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.745425,
+            "y": -0.1314594
+         },
          "eind": 0
       },
       {
@@ -73682,6 +73922,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6788745,
+            "y": 0.117238
+         },
          "eind": 0
       },
       {
@@ -74075,6 +74319,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.73154825,
+            "y": 0.05294286
+         },
          "eind": 0
       },
       {
@@ -74346,6 +74594,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.74603856,
+            "y": -0.03198197
+         },
          "eind": 0
       },
       {
@@ -74864,6 +75116,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.26997122,
+            "y": 0.3760109
+         },
          "eind": 0
       },
       {
@@ -80566,6 +80822,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.34874794,
+            "y": 0.28628126
+         },
          "eind": 0
       },
       {
@@ -85100,6 +85360,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.31501773,
+            "y": 0.4560387
+         },
          "eind": 0
       },
       {
@@ -89156,6 +89420,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.44310373,
+            "y": 0.599078
+         },
          "eind": 0
       },
       {
@@ -89818,6 +90086,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.53437203,
+            "y": 0.6510685
+         },
          "eind": 0
       },
       {
@@ -89894,6 +90166,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.35206652,
+            "y": 0.64499736
+         },
          "eind": 0
       },
       {
@@ -90171,6 +90447,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.32600746,
+            "y": 0.7472937
+         },
          "eind": 0
       },
       {
@@ -90251,6 +90531,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.56103384,
+            "y": 0.77082515
+         },
          "eind": 0
       },
       {
@@ -90323,6 +90607,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.438396,
+            "y": 0.6977152
+         },
          "eind": 0
       },
       {
@@ -90399,6 +90687,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.27880847,
+            "y": 0.58735436
+         },
          "eind": 0
       },
       {
@@ -92552,6 +92844,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.3992379,
+            "y": 0.5128745
+         },
          "eind": 0
       },
       {
@@ -96052,6 +96348,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.3412379,
+            "y": 0.5515733
+         },
          "eind": 0
       },
       {
@@ -98352,6 +98652,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.22899726,
+            "y": 0.49906695
+         },
          "eind": 0
       },
       {
@@ -103917,6 +104221,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6244252,
+            "y": 0.10954041
+         },
          "eind": 0
       },
       {
@@ -107759,6 +108067,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7302936,
+            "y": 0.14800768
+         },
          "eind": 0
       },
       {
@@ -114550,6 +114862,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7312195,
+            "y": -0.12242107
+         },
          "eind": 0
       },
       {
@@ -117655,6 +117971,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.8252936,
+            "y": -0.13200772
+         },
          "eind": 0
       },
       {
@@ -120640,6 +120960,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7147919,
+            "y": 0.06394728
+         },
          "eind": 0
       },
       {
@@ -127251,6 +127575,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7587918,
+            "y": -0.019947395
+         },
          "eind": 0
       },
       {
@@ -130906,6 +131234,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.9146473,
+            "y": -0.17310524
+         },
          "eind": 0
       },
       {
@@ -131420,6 +131752,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.9272936,
+            "y": -0.04299212
+         },
          "eind": 0
       },
       {
@@ -131835,6 +132171,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.8473348,
+            "y": -0.096041
+         },
          "eind": 0
       },
       {
@@ -133084,6 +133424,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.7807918,
+            "y": -0.3289472
+         },
          "eind": 0
       },
       {
@@ -133609,6 +133953,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.8157918,
+            "y": -0.2170526
+         },
          "eind": 0
       },
       {
@@ -134505,6 +134853,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6009798,
+            "y": 0.2024094
+         },
          "eind": 0
       },
       {
@@ -136681,6 +137033,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.575186,
+            "y": 0.26594892
+         },
          "eind": 0
       },
       {
@@ -137088,6 +137444,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.43697178,
+            "y": 0.3259796
+         },
          "eind": 0
       },
       {
@@ -140901,6 +141261,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5379487,
+            "y": 0.3338475
+         },
          "eind": 0
       },
       {
@@ -145430,6 +145794,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.4909794,
+            "y": 0.4139719
+         },
          "eind": 0
       },
       {
@@ -147998,6 +148366,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.7044093,
+            "y": 0.25667855
+         },
          "eind": 0
       },
       {
@@ -150425,6 +150797,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.9021621,
+            "y": 0.15547518
+         },
          "eind": 0
       },
       {
@@ -151390,6 +151766,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.806865,
+            "y": 0.20750636
+         },
          "eind": 0
       },
       {
@@ -153237,6 +153617,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.840825,
+            "y": 0.06103413
+         },
          "eind": 0
       },
       {
@@ -155902,6 +156286,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.74635,
+            "y": 0.3441284
+         },
          "eind": 0
       },
       {
@@ -157332,6 +157720,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.47584745,
+            "y": 0.6789487
+         },
          "eind": 0
       },
       {
@@ -157466,6 +157858,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5693348,
+            "y": 0.6043272
+         },
          "eind": 0
       },
       {
@@ -157596,6 +157992,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7657729,
+            "y": 0.5369948
+         },
          "eind": 0
       },
       {
@@ -157738,6 +158138,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.77812827,
+            "y": 0.3443502
+         },
          "eind": 0
       },
       {
@@ -157876,6 +158280,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5267236,
+            "y": 0.7475853
+         },
          "eind": 0
       },
       {
@@ -158014,6 +158422,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6665664,
+            "y": 0.6070179
+         },
          "eind": 0
       },
       {
@@ -158148,6 +158560,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6838866,
+            "y": 0.48672357
+         },
          "eind": 0
       },
       {
@@ -159022,6 +159438,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5683347,
+            "y": 0.4903273
+         },
          "eind": 0
       },
       {
@@ -160902,6 +161322,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6519177,
+            "y": 0.45428553
+         },
          "eind": 0
       },
       {
@@ -162076,6 +162500,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.7952854,
+            "y": 0.4969178
+         },
          "eind": 0
       },
       {
@@ -163439,6 +163867,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.8741281,
+            "y": 0.3473503
+         },
          "eind": 0
       },
       {
@@ -164377,6 +164809,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6895062,
+            "y": 0.5908651
+         },
          "eind": 0
       },
       {
@@ -164706,6 +165142,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.122073,
+            "y": 0.5435566
+         },
          "eind": 0
       },
       {
@@ -169259,6 +169699,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.04959929,
+            "y": 0.5291288
+         },
          "eind": 0
       },
       {
@@ -169988,6 +170432,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.07354023,
+            "y": 0.6374251
+         },
          "eind": 0
       },
       {
@@ -172558,6 +173006,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.061421014,
+            "y": 0.6512196
+         },
          "eind": 0
       },
       {
@@ -172635,6 +173087,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.13953374,
+            "y": 0.7098659
+         },
          "eind": 0
       },
       {
@@ -174298,6 +174754,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.048947096,
+            "y": 0.72179186
+         },
          "eind": 0
       },
       {
@@ -175822,6 +176282,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.13535836,
+            "y": -0.03378948
+         },
          "eind": 0
       },
       {
@@ -175848,6 +176312,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.09485684,
+            "y": -0.08101245
+         },
          "eind": 0
       },
       {
@@ -175874,6 +176342,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.15801243,
+            "y": -0.09685686
+         },
          "eind": 0
       },
       {
@@ -175901,6 +176373,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.06770126,
+            "y": -0.1448935
+         },
          "eind": 0
       },
       {
@@ -175923,6 +176399,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.23037383,
+            "y": -0.0976583
+         },
          "eind": 0
       },
       {
@@ -175949,6 +176429,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2007717,
+            "y": -0.1490952
+         },
          "eind": 0
       },
       {
@@ -175971,6 +176455,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.030315775,
+            "y": 0.2269306
+         },
          "eind": 0
       },
       {
@@ -175997,6 +176485,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.09383544,
+            "y": 0.25608748
+         },
          "eind": 0
       },
       {
@@ -176023,6 +176515,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.037842084,
+            "y": 0.32250285
+         },
          "eind": 0
       },
       {
@@ -176050,6 +176546,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.1129696,
+            "y": 0.3345827
+         },
          "eind": 0
       },
       {
@@ -176076,6 +176576,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.0441322,
+            "y": 0.42626023
+         },
          "eind": 0
       },
       {
@@ -176106,6 +176610,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.1661038,
+            "y": 0.40307793
+         },
          "eind": 0
       },
       {
@@ -176128,6 +176636,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.04284205,
+            "y": -0.33550286
+         },
          "eind": 0
       },
       {
@@ -176300,6 +176812,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.038842108,
+            "y": -0.32750285
+         },
          "eind": 0
       },
       {
@@ -176446,6 +176962,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.18610376,
+            "y": -0.381078
+         },
          "eind": 0
       },
       {
@@ -176673,6 +177193,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.15380847,
+            "y": -0.4373544
+         },
          "eind": 0
       },
       {
@@ -176841,6 +177365,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.06113215,
+            "y": -0.40526026
+         },
          "eind": 0
       },
       {
@@ -176920,6 +177448,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.00063157,
+            "y": -0.4440751
+         },
          "eind": 0
       },
       {
@@ -177051,6 +177583,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.07607324,
+            "y": -0.44355652
+         },
          "eind": 0
       },
       {
@@ -177296,6 +177832,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.11379249,
+            "y": -0.3215678
+         },
          "eind": 0
       },
       {
@@ -177322,6 +177862,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.19953328,
+            "y": -0.2830419
+         },
          "eind": 0
       },
       {
@@ -177498,6 +178042,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.13786763,
+            "y": -0.40105802
+         },
          "eind": 0
       },
       {
@@ -177524,6 +178072,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.21110377,
+            "y": -0.42437923
+         },
          "eind": 0
       },
       {
@@ -177839,6 +178391,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6873349,
+            "y": -0.2439588
+         },
          "eind": 0
       },
       {
@@ -177945,6 +178501,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.8658252,
+            "y": -0.30003393
+         },
          "eind": 0
       },
       {
@@ -178936,6 +179496,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7575288,
+            "y": -0.351093
+         },
          "eind": 0
       },
       {
@@ -179134,6 +179698,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.7659177,
+            "y": -0.48228556
+         },
          "eind": 0
       },
       {
@@ -179164,6 +179732,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.66399485,
+            "y": -0.5727729
+         },
          "eind": 0
       },
       {
@@ -179186,6 +179758,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.3422812,
+            "y": -0.302748
+         },
          "eind": 0
       },
       {
@@ -179213,6 +179789,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.47797978,
+            "y": -0.3174094
+         },
          "eind": 0
       },
       {
@@ -179349,6 +179929,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.4116785,
+            "y": -0.3474094
+         },
          "eind": 0
       },
       {
@@ -179532,6 +180116,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5268447,
+            "y": -0.18688355
+         },
          "eind": 0
       },
       {
@@ -179615,6 +180203,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.47057328,
+            "y": -0.23023784
+         },
          "eind": 0
       },
       {
@@ -179805,6 +180397,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.03489475,
+            "y": -0.54864734
+         },
          "eind": 0
       },
       {
@@ -179831,6 +180427,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.12159955,
+            "y": -0.5161287
+         },
          "eind": 0
       },
       {
@@ -180063,6 +180663,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.20094277,
+            "y": -0.4955483
+         },
          "eind": 0
       },
       {
@@ -180231,6 +180835,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.23688374,
+            "y": -0.5768446
+         },
          "eind": 0
       },
       {
@@ -180396,6 +181004,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.2649589,
+            "y": -0.6723349
+         },
          "eind": 0
       },
       {
@@ -180626,6 +181238,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.04842106,
+            "y": -0.70721954
+         },
          "eind": 0
       },
       {
@@ -180808,6 +181424,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.1330078,
+            "y": -0.6602936
+         },
          "eind": 0
       },
       {
@@ -180834,6 +181454,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.104947254,
+            "y": -0.82979184
+         },
          "eind": 0
       },
       {
@@ -181032,6 +181656,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.037947383,
+            "y": -0.8437918
+         },
          "eind": 0
       },
       {
@@ -181091,6 +181719,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.16047508,
+            "y": -0.85416216
+         },
          "eind": 0
       },
       {
@@ -181199,6 +181831,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.15065464,
+            "y": 0.015730456
+         },
          "eind": 0
       },
       {
@@ -181225,6 +181861,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.2415232,
+            "y": -0.033197638
+         },
          "eind": 0
       },
       {
@@ -181251,6 +181891,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.25681943,
+            "y": 0.030138722
+         },
          "eind": 0
       },
       {
@@ -181281,6 +181925,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.33550286,
+            "y": -0.05084203
+         },
          "eind": 0
       },
       {
@@ -181303,6 +181951,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.26874065,
+            "y": -0.21253327
+         },
          "eind": 0
       },
       {
@@ -181450,6 +182102,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.39501083,
+            "y": -0.26197135
+         },
          "eind": 0
       },
       {
@@ -181673,6 +182329,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.32492584,
+            "y": -0.26339266
+         },
          "eind": 0
       },
       {
@@ -181805,6 +182465,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.39494884,
+            "y": -0.34418607
+         },
          "eind": 0
       },
       {
@@ -181977,6 +182641,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3655414,
+            "y": -0.40630427
+         },
          "eind": 0
       },
       {
@@ -182003,6 +182671,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.30818605,
+            "y": -0.4349489
+         },
          "eind": 0
       },
       {
@@ -182213,6 +182885,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.25539273,
+            "y": -0.3439258
+         },
          "eind": 0
       },
       {
@@ -182424,6 +183100,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.31297135,
+            "y": -0.39101082
+         },
          "eind": 0
       },
       {
@@ -182446,6 +183126,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.30640945,
+            "y": -0.4626785
+         },
          "eind": 0
       },
       {
@@ -182688,6 +183372,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.3871862,
+            "y": -0.43394879
+         },
          "eind": 0
       },
       {
@@ -182804,6 +183492,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.37284753,
+            "y": -0.5306474
+         },
          "eind": 0
       },
       {
@@ -182984,6 +183676,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5559487,
+            "y": -0.31584743
+         },
          "eind": 0
       },
       {
@@ -183038,6 +183734,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.4953272,
+            "y": -0.4213348
+         },
          "eind": 0
       },
       {
@@ -183060,6 +183760,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6140685,
+            "y": -0.20337197
+         },
          "eind": 0
       },
       {
@@ -183308,6 +184012,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.03396134,
+            "y": 0.9259823
+         },
          "eind": 0
       },
       {
@@ -183334,6 +184042,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3105063,
+            "y": 0.77156365
+         },
          "eind": 0
       },
       {
@@ -183360,6 +184072,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.14810903,
+            "y": 0.9233154
+         },
          "eind": 0
       },
       {
@@ -183390,6 +184106,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3191681,
+            "y": 0.8730191
+         },
          "eind": 0
       },
       {
@@ -183412,6 +184132,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.099012464,
+            "y": -0.11185683
+         },
          "eind": 0
       },
       {
@@ -183438,6 +184162,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.17010404,
+            "y": -0.08865711
+         },
          "eind": 0
       },
       {
@@ -183464,6 +184192,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.14765465,
+            "y": -0.030730395
+         },
          "eind": 0
       },
       {
@@ -183490,6 +184222,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.19187985,
+            "y": -0.14480585
+         },
          "eind": 0
       },
       {
@@ -183516,6 +184252,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.24438877,
+            "y": -0.10283538
+         },
          "eind": 0
       },
       {
@@ -183538,6 +184278,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.1728935,
+            "y": 0.06970126
+         },
          "eind": 0
       },
       {
@@ -183564,6 +184308,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.12621213,
+            "y": 0.11136782
+         },
          "eind": 0
       },
       {
@@ -183590,6 +184338,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.07801243,
+            "y": 0.10585686
+         },
          "eind": 0
       },
       {
@@ -183616,6 +184368,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.039789412,
+            "y": 0.14535835
+         },
          "eind": 0
       },
       {
@@ -183638,6 +184394,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.2473738,
+            "y": 0.09965837
+         },
          "eind": 0
       },
       {
@@ -183660,6 +184420,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.001789452,
+            "y": -0.18935835
+         },
          "eind": 0
       },
       {
@@ -183686,6 +184450,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.001789474,
+            "y": -0.12535837
+         },
          "eind": 0
       },
       {
@@ -183708,6 +184476,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.15409517,
+            "y": -0.210073
+         },
          "eind": 0
       },
       {
@@ -183734,6 +184506,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.0977173,
+            "y": -0.22407754
+         },
          "eind": 0
       },
       {
@@ -183756,6 +184532,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.023138678,
+            "y": -0.24981944
+         },
          "eind": 0
       },
       {
@@ -183782,6 +184562,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.06158319,
+            "y": -0.16488354
+         },
          "eind": 0
       },
       {
@@ -183808,6 +184592,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.09065833,
+            "y": -0.2413738
+         },
          "eind": 0
       },
       {
@@ -183834,6 +184622,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.1440952,
+            "y": -0.2027717
+         },
          "eind": 0
       },
       {
@@ -183856,6 +184648,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2939306,
+            "y": -0.033684243
+         },
          "eind": 0
       },
       {
@@ -183963,6 +184759,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.22952318,
+            "y": -0.029197697
+         },
          "eind": 0
       },
       {
@@ -183985,6 +184785,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.32650283,
+            "y": -0.12384212
+         },
          "eind": 0
       },
       {
@@ -184007,6 +184811,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3660751,
+            "y": -0.04763163
+         },
          "eind": 0
       },
       {
@@ -184033,6 +184841,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.44555652,
+            "y": -0.06207318
+         },
          "eind": 0
       },
       {
@@ -184055,6 +184867,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.19353323,
+            "y": -0.28004193
+         },
          "eind": 0
       },
       {
@@ -184138,6 +184954,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.12696959,
+            "y": -0.30758274
+         },
          "eind": 0
       },
       {
@@ -184310,6 +185130,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.24639264,
+            "y": -0.3159259
+         },
          "eind": 0
       },
       {
@@ -184413,6 +185237,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.29074797,
+            "y": -0.35328123
+         },
          "eind": 0
       },
       {
@@ -184654,6 +185482,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.26690286,
+            "y": -0.23559926
+         },
          "eind": 0
       },
       {
@@ -184749,6 +185581,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.28988406,
+            "y": -0.16096954
+         },
          "eind": 0
       },
       {
@@ -184915,6 +185751,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.4123793,
+            "y": -0.17510368
+         },
          "eind": 0
       },
       {
@@ -185026,6 +185866,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.353078,
+            "y": -0.13310368
+         },
          "eind": 0
       },
       {
@@ -185194,6 +186038,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.31756774,
+            "y": 0.13179255
+         },
          "eind": 0
       },
       {
@@ -185220,6 +186068,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.4232602,
+            "y": 0.05013234
+         },
          "eind": 0
       },
       {
@@ -185246,6 +186098,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.349058,
+            "y": 0.0568677
+         },
          "eind": 0
       },
       {
@@ -185268,6 +186124,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.1716316,
+            "y": 0.8050751
+         },
          "eind": 0
       },
       {
@@ -185678,6 +186538,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.084947325,
+            "y": 0.8337918
+         },
          "eind": 0
       },
       {
@@ -185704,6 +186568,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.06005267,
+            "y": 0.84179187
+         },
          "eind": 0
       },
       {
@@ -186497,6 +187365,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.35552636,
+            "y": 0.8833641
+         },
          "eind": 0
       },
       {
@@ -186523,6 +187395,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.19952635,
+            "y": 0.9263641
+         },
          "eind": 0
       },
       {
@@ -186955,6 +187831,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.52319145,
+            "y": 0.14335436
+         },
          "eind": 0
       },
       {
@@ -187090,6 +187970,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.531078,
+            "y": 0.05410378
+         },
          "eind": 0
       },
       {
@@ -187112,6 +187996,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.48401085,
+            "y": 0.21397132
+         },
          "eind": 0
       },
       {
@@ -187138,6 +188026,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.40970957,
+            "y": 0.15897132
+         },
          "eind": 0
       },
       {
@@ -187160,6 +188052,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2559713,
+            "y": 0.5260108
+         },
          "eind": 0
       },
       {
@@ -187186,6 +188082,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.12954043,
+            "y": 0.52342516
+         },
          "eind": 0
       },
       {
@@ -187212,6 +188112,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.033894707,
+            "y": 0.5456473
+         },
          "eind": 0
       },
       {
@@ -187234,6 +188138,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.1969427,
+            "y": 0.5865483
+         },
          "eind": 0
       },
       {
@@ -187260,6 +188168,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.28023794,
+            "y": 0.6415732
+         },
          "eind": 0
       },
       {
@@ -187286,6 +188198,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.09195879,
+            "y": 0.7373349
+         },
          "eind": 0
       },
       {
@@ -187312,6 +188228,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2163721,
+            "y": 0.7093697
+         },
          "eind": 0
       },
       {
@@ -187334,6 +188254,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5340751,
+            "y": -0.090368435
+         },
          "eind": 0
       },
       {
@@ -187360,6 +188284,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6416474,
+            "y": -0.034105327
+         },
          "eind": 0
       },
       {
@@ -188755,6 +189683,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.6394251,
+            "y": -0.11354046
+         },
          "eind": 0
       },
       {
@@ -189065,6 +189997,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5706473,
+            "y": -0.035894755
+         },
          "eind": 0
       },
       {
@@ -189241,6 +190177,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.41835436,
+            "y": -0.17080852
+         },
          "eind": 0
       },
       {
@@ -189357,6 +190297,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.4985732,
+            "y": -0.21423799
+         },
          "eind": 0
       },
       {
@@ -189383,6 +190327,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5715483,
+            "y": -0.19894274
+         },
          "eind": 0
       },
       {
@@ -189405,6 +190353,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5600685,
+            "y": -0.27437216
+         },
          "eind": 0
       },
       {
@@ -189650,6 +190602,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.1470731,
+            "y": -0.5095566
+         },
          "eind": 0
       },
       {
@@ -189676,6 +190632,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.21723792,
+            "y": -0.49157324
+         },
          "eind": 0
       },
       {
@@ -189698,6 +190658,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.11354035,
+            "y": -0.5914251
+         },
          "eind": 0
       },
       {
@@ -189886,6 +190850,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.06359941,
+            "y": -0.5271288
+         },
          "eind": 0
       },
       {
@@ -190071,6 +191039,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.04742095,
+            "y": -0.64221954
+         },
          "eind": 0
       },
       {
@@ -190327,6 +191299,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.5813272,
+            "y": -0.45833483
+         },
          "eind": 0
       },
       {
@@ -190353,6 +191329,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.4808474,
+            "y": -0.5826475
+         },
          "eind": 0
       },
       {
@@ -190379,6 +191359,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.58777285,
+            "y": -0.676995
+         },
          "eind": 0
       },
       {
@@ -190490,6 +191474,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.49028546,
+            "y": -0.71661645
+         },
          "eind": 0
       },
       {
@@ -190565,6 +191553,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.3589587,
+            "y": -0.73933494
+         },
          "eind": 0
       },
       {
@@ -190724,6 +191716,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.2510076,
+            "y": -0.69129366
+         },
          "eind": 0
       },
       {
@@ -190996,6 +191992,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.29350623,
+            "y": -0.8715637
+         },
          "eind": 0
       },
       {
@@ -191250,6 +192250,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.14809287,
+            "y": -0.91152894
+         },
          "eind": 0
       },
       {
@@ -191272,6 +192276,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": 0.09694725,
+            "y": -0.7277918
+         },
          "eind": 0
       },
       {
@@ -191463,6 +192471,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6862936,
+            "y": -0.25600755
+         },
          "eind": 0
       },
       {
@@ -191526,6 +192538,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6169949,
+            "y": -0.5607729
+         },
          "eind": 0
       },
       {
@@ -191635,6 +192651,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.75561637,
+            "y": -0.5062855
+         },
          "eind": 0
       },
       {
@@ -191661,6 +192681,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.6258253,
+            "y": -0.40203378
+         },
          "eind": 0
       },
       {
@@ -191833,6 +192857,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.8608651,
+            "y": -0.36050615
+         },
          "eind": 0
       },
       {
@@ -191892,6 +192920,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.31250626,
+            "y": -0.83086497
+         },
          "eind": 0
       },
       {
@@ -191918,6 +192950,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.44250628,
+            "y": -0.76256365
+         },
          "eind": 0
       },
       {
@@ -192001,6 +193037,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.5732856,
+            "y": -0.6689176
+         },
          "eind": 0
       },
       {
@@ -192137,6 +193177,10 @@
          "poi": null,
          "adiv": null,
          "desc": "Nothing of note.",
+         "position": {
+            "x": -0.48777303,
+            "y": -0.5639948
+         },
          "eind": 0
       },
       {
