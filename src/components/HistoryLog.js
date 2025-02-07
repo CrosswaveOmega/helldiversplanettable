@@ -704,8 +704,8 @@ export function makeplot(
                             }`,
                             `Players: ${p.pl}`,
                             
-                            `${p.dss}`,
-                            `${p.desc}`
+                            `${p.desc}`,
+                            
                         ];
                         if (p.gls != null) {
                             main.push(`${getGloomName(p.gls)}`);
