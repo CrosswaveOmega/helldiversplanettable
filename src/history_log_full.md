@@ -4659,3 +4659,5 @@ Major Order | Operation A2-2-1 Defend *Chort Bay* is won | Objective: Control (2
 *Meridia* moves to X 0.5014972 Y 0.19484212 (2025-02-07 19:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The bulk of our deployed SEAF soldiers on *Chort Bay* have withdrawn. Only skeleton forces remain, supporting ongoing Helldiver operations. The millions of soldiers saved owe their lives to the Helldivers. (2025-02-07 20:03  UTC)<br/>
 Dispatch: Arsenal Augmentation. The GAS MINES stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact. (2025-02-07 20:32  UTC)<br/>
+*Alathfar XI*'s invasion is repelled (2025-02-07 22:00  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-02-07 22:00  UTC)<br/>
