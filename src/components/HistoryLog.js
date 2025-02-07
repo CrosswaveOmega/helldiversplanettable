@@ -650,10 +650,13 @@ export function makeplot(
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 50,
                 height: width / 50,
+
                 src: (p) => {
-                    return icons[
-                        p.poi
-                    ].base64_image;
+                    if (icons[p.poi]) {
+                        return icons[p.poi].base64_image;
+                    } else {
+                        return icons["PlaceHolder"].base64_image;
+                    }
                 },
                 // strokeWidth: width / 200,
                 //symbol: "plus",
@@ -707,6 +710,10 @@ export function makeplot(
                             `${p.desc}`,
                             
                         ];
+                        if (p.adiv!=null){
+                            
+                            main.push(`$Assault Division: {p.adiv}`);
+                        }
                         if (p.gls != null) {
                             main.push(`${getGloomName(p.gls)}`);
                         }
