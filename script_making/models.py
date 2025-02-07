@@ -95,22 +95,10 @@ class PlanetState(BaseModel):
     gls: Optional[int] = Field(alias="gloom", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
-    position: Position
-
-
-class PlanetState(BaseModel):
-    hp: Optional[int] = Field(alias="hp", default=None)
-    pl: Optional[Union[str, int]] = Field(alias="pl", default=None)
-    r: Optional[float] = Field(alias="float", default=None)
-    t: int
-    link: Optional[List[int]] = Field(alias="link", default=[])
-    link2: Optional[int] = Field(alias="link2", default=None)
-    gls: Optional[int] = Field(alias="gloom", default=None)
-    biome: Optional[str] = Field(alias="biome", default=None)
-    dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
     adiv:Optional[str]=Field(alias="assaultdiv", default=None)
     desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
+    position: Position
     
 
 class DaysObject(BaseModel):
