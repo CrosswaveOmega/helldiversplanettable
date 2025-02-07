@@ -8,8 +8,6 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
-Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2024-02-02 06:57  UTC)<br/>
-Dispatch: STRATEGIC ALERT. The DSS has confirmed the presence of a rebuilt Automaton Jet Brigade on *Menkent*. The Automatons clearly intended an underhanded surprise attack to cut off our extended forces. But their treachery has been stymied by the natural-born tactical intuition of the Helldivers. The DSS Blockade will hold the Jet Brigade for a limited time, long enough to augment our forces on *Lesath* and thin the ranks of the Jet Brigade itself. Many lives have been saved this day. Well done, Helldivers. (2024-02-02 17:11  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -4531,6 +4529,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2025-02-02 06:57  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
 *Propus* of the Leo sector is invaded by Illuminate (2025-02-02 07:14  UTC)<br/>
@@ -4538,10 +4537,11 @@ Assault Division: Jet Brigade deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
 ### Day: #361
 DSS effect Orbital Blockade is activated (2025-02-02 14:03  UTC)<br/>
 DSS deploys to *Menkent* of the Hydra sector (2025-02-02 14:14  UTC)<br/>
- Decay: 4.7 on Menkent
- (2025-02-02 18:00  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The DSS has confirmed the presence of a rebuilt Automaton Jet Brigade on *Menkent*. The Automatons clearly intended an underhanded surprise attack to cut off our extended forces. But their treachery has been stymied by the natural-born tactical intuition of the Helldivers. The DSS Blockade will hold the Jet Brigade for a limited time, long enough to augment our forces on *Lesath* and thin the ranks of the Jet Brigade itself. Many lives have been saved this day. Well done, Helldivers. (2025-02-02 17:11  UTC)<br/>
 *Propus*'s invasion is successful (2025-02-02 19:17  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-02-02 19:17  UTC)<br/>
+ Decay: 4.7 on Menkent
+ (2025-02-02 19:17  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-02-02 19:59  UTC)<br/>
 *Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
