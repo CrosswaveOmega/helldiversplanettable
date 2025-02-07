@@ -10,9 +10,11 @@ current_api_output.json
 planet_statistics.csv
 src/data/planets
 src/data/pass.py
+src/data/pass2.py
 src/data/make_historydata.py
 src/data/gen_data
 package-lock.json
 logs/
 game_data.db
 tables.py
+output.py

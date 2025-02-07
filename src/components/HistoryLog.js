@@ -425,7 +425,7 @@ export function makeplot(
     target,
     slider,
     world,
-    { width, htarget, ttarget, atarget, dss,showImages = true },
+    { width, htarget, ttarget, atarget, dss,icons,showImages = true },
 ) {
     let current_event = history.events[slider];
     const targets = {
@@ -504,6 +504,9 @@ export function makeplot(
     let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
     let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
     let dssPlanets = planets.filter((planet) => planet.dss==="DSS Here");
+    
+    let iconPlanets = planets.filter((planet) => planet.poi );
+
 
     let gloomPlanets = planets.filter((planet) => planet.gls != null);
 
@@ -610,7 +613,6 @@ export function makeplot(
                     y: (p) => y_c(p.position.y),
                     r: width / 100,
                     src: (p) => {
-                        //console.log(p.biome);
                         return planetimages[
                             "planet_" + p.biome + "_rotate.gif"
                         ].base64_image;
@@ -627,8 +629,6 @@ export function makeplot(
                 src: (p) => {
                     return target[p.ta[0]];
                 },
-                // strokeWidth: width / 200,
-                //symbol: "plus",
             }),
             Plot.image(dssPlanets, {
                 x: (p) => x_c(p.position.x)-0.02,
@@ -639,6 +639,21 @@ export function makeplot(
                 height: width / 50,
                 src: (p) => {
                     return dss;
+                },
+                // strokeWidth: width / 200,
+                //symbol: "plus",
+            }),
+            Plot.image(iconPlanets, {
+                x: (p) => x_c(p.position.x)+0.02,
+                y: (p) => y_c(p.position.y)-0.02,
+                stroke: "#ff0000", // fixed stroke color change
+                fill: (p) => getColor(p.ta[0]),
+                width: width / 50,
+                height: width / 50,
+                src: (p) => {
+                    return icons[
+                        p.poi
+                    ].base64_image;
                 },
                 // strokeWidth: width / 200,
                 //symbol: "plus",
@@ -690,6 +705,7 @@ export function makeplot(
                             `Players: ${p.pl}`,
                             
                             `${p.dss}`,
+                            `${p.desc}`
                         ];
                         if (p.gls != null) {
                             main.push(`${getGloomName(p.gls)}`);

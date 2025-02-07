@@ -437,7 +437,7 @@ export function makeplotcurrent_group(
         const neighborLabels = neighbors.features.map(feature => {
             let name=sectordata[feature.properties.id]?.['name'];
             if (name=="lestrade"){
-                name="L'estrade"
+                name="L'estrade";
             }
 
             const neighborCentroid = d3.polygonCentroid(feature.geometry.coordinates[0]);

@@ -28,7 +28,7 @@ const gstates = await get_gstates()
 const lasttime = FileAttachment("./data/lasttime.json").json();
 const planets = await FileAttachment("./data/planets.json").json();
 const planetimages= await FileAttachment("./data/images.json").json();
-
+const icons= await FileAttachment("./data/icons.json").json();
 
 const historydata= await FileAttachment("./data/historydata.json").json();
 const backround = FileAttachment("./data/sectors.svg").url();
@@ -193,7 +193,7 @@ function count_distinct_planets_table(historydata, mode, {width}) {
   <div  class="card grid-colspan-2 grid-rowspan-2">
  ${theseinputs}
   ${daysSlider}
-    ${resize((width) => makeplot(historydata,gstates,planetimages,targets,count,world,{width, showImages,htarget,ttarget,atarget,dss}))}
+    ${resize((width) => makeplot(historydata,gstates,planetimages,targets,count,world,{width, showImages,htarget,ttarget,atarget,dss,icons}))}
   </div>
   
   <div class='card big grid-colspan-2' style="font-size: 1.1em;">

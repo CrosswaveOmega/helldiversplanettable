@@ -81,7 +81,6 @@ class Position(BaseModel):
 
 class PlanetStatic(BaseModel):
     name: str
-    position: Position
     sector: str
     index: int
 
@@ -96,6 +95,7 @@ class PlanetState(BaseModel):
     gls: Optional[int] = Field(alias="gloom", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
+    position: Position
 
 
 class PlanetState(BaseModel):
@@ -108,6 +108,9 @@ class PlanetState(BaseModel):
     gls: Optional[int] = Field(alias="gloom", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
+    poi: Optional[str] = Field(alias="poi", default=None)
+    adiv:Optional[str]=Field(alias="assaultdiv", default=None)
+    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
     
 
 class DaysObject(BaseModel):

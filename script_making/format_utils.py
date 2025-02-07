@@ -190,7 +190,39 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
         return type_, name, case, objective
     else:
         return None
+    
+def extract_poi_details(
+        text:str
+):
+    match = re.search(r'is established as a (.*?) POI', text)
 
+    if match:
+        return match.group(1)
+    
+    match = re.search(r"of the .*?'s (.*?) POI", text)
+
+    if match:
+        return match.group(1)
+    return "SITEUNKNOWN"
+
+    
+def extract_assault_division(
+        text:str
+):
+    match = re.search(r"Assault Division: (.*?) deploys", text)
+
+    if match:
+        return match.group(1)
+    
+    match = re.search(r"Assault Division: (.*?) goes into hiding", text)
+    if match:
+        return match.group(1)
+    
+    match = re.search(r"Assault Division: (.*?) is routed", text)
+    if match:
+        return match.group(1)
+    
+    return "SITEUNKNOWN"
 
 def extract_biome_change_details(
     text: str,

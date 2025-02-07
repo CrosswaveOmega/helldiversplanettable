@@ -30,7 +30,7 @@ import {
   
 
   import {
-    makeplot,eList,ListAll, count_distinct_planets,list_text
+    eList,ListAll, count_distinct_planets,list_text
   } from "./components/HistoryLog.js";
 
 
@@ -156,6 +156,8 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
+* Feburary 7th, 2025
+ * History Map now shows Galactic Points of Interest.
 * January 20th, 2025
  * History Map now uses a compressed json file.
 * January 13th, 2025

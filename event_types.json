@@ -175,32 +175,44 @@
         "name": "Dispatch",
         "matchable": ["Dispatch: "]
     },
-    "JetBrigade": {
-        "name": "Jet Brigade",
-        "matchable": ["Jet Brigade is deployed"]
+
+    "AssaultDiv": {
+        "name": "Assault Division",
+        "matchable": ["Assault Division"],
+        "must": true,
+        "sub": [
+            {
+                "name": "Assault Division New",
+                "matchable": ["debuts a new"]
+            },
+            {
+                "name": "Assault Division Move",
+                "matchable": ["deploys to"]
+            },
+            {
+                "name": "Assault Division Retreat",
+                "matchable": ["goes into hiding"]
+            },
+            {
+                "name": "Assault Division Defeat",
+                "matchable": ["is routed"]
+            }
+        ]
     },
-    "JetBrigadeMove": {
-        "name": "Jet Brigade Moved",
-        "matchable": ["Jet Brigade is redeployed"]
-    },
-    "JetBrigadeRetreat": {
-        "name": "Jet Brigade Retreat",
-        "matchable": ["Jet Brigade retreats"]
-    },
-    "JetBrigadeSwitch": {
-        "name": "Jet Brigade Retreat",
-        "matchable": ["Jet Brigade switches"]
-    },
-    "SiteBuilt":{
-        "name": "site built",
-        "matchable": ["is established as"]
-        
-    },
-    
-    "SiteDestroyed":{
-        "name": "site destroyed",
-        "matchable": ["is removed"]
-        
+    "SiteEvent": {
+        "name": "SiteEvent",
+        "matchable": [" POI"],
+        "must": true,
+        "sub": [
+            {
+                "name": "SiteEvent built",
+                "matchable": ["is established as"]
+            },
+            {
+                "name": "SiteEvent destroyed",
+                "matchable": ["is removed"]
+            }
+        ]
     },
     
     "DSS Deploy":{

@@ -53,8 +53,10 @@ import sqlite3
 from script_making.web_utils import get_game_stat_at_time, get_web_file
 from script_making.format_utils import (
     enote,
+    extract_assault_division,
     extract_biome_change_details,
     extract_mo_details,
+    extract_poi_details,
     get_event_type,
     get_faction,
     get_planet,
@@ -77,6 +79,7 @@ MIN_HOUR_CHANGE = 2
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("planets",'./hd2json')
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
+ejson = check_and_load_json("./myeffects.json")
 
 is_redirected = not sys.stdout.isatty()
 if is_redirected:
@@ -437,10 +440,10 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
                 "link": [int(w) for w in p["waypoints"]],
                 "t": ENCODE(get_faction(p["currentOwner"]), 0, 0),
                 "biome": p.get("biome", "unknown"),
+                "position": p["position"],
             }
             per = {
                 "name": p["name"],
-                "position": p["position"],
                 "sector": p["sector"],
                 "index": p["index"],
             }
@@ -502,15 +505,29 @@ async def process_event(
     if planetstats:
         laststats.update(planetstats)
 
+    if "Assault Division" in event.type:
+        site=extract_assault_division(event.text)
+        last=None
+        if store.get(f"{site}Pos",None):
+            last=store.get(f"{site}Pos",None)   
+            if event.type=="Assault Division Retreat":
+                if last:
+                    planetclone[last].adiv=""
+            if event.type=="Assault Division Defeat":
+                if last:
+                    planetclone[last].adiv=""
     if event.planet:
-        update_planet_ownership(event, planetclone)
+        update_planet_ownership(event, planetclone, store)
+
+
 
     # event.galaxystate = planetclone
     return planetclone
 
 
 def update_planet_ownership(
-    event: GameEvent, planetclone: Dict[str, PlanetState]
+    event: GameEvent, planetclone: Dict[str, PlanetState],
+    store: Dict[str, str],
 ) -> None:
     """Update planet ownership and warp links, if applicable."""
     for p in event.planet:
@@ -573,6 +590,36 @@ def update_planet_ownership(
                     n,i=m
                     planetclone[str(i)].dss=""
             planetclone[str(ind)].dss="DSS Here"
+        if "SiteEvent" in event.type:
+            site=extract_poi_details(event.text)
+            if event.type=="SiteEvent built":
+                ejson['planetEffects']
+                for sdg, eff in ejson['planetEffects'].items():
+                    if site.upper() in eff['name'].upper():
+                        planetclone[str(ind)].poi=eff['icon']
+                        planetclone[str(ind)].desc=eff['description']
+            if event.type=="SiteEvent destroyed":
+                planetclone[str(ind)].poi=""
+                planetclone[str(ind)].desc=""
+        ## ASSAULT DIVISION CODE
+        if "Assault Division" in event.type:
+            site=extract_assault_division(event.text)
+            last=None
+            if store.get(f"{site}Pos",None):
+                last=store.get(f"{site}Pos",None)   
+            if event.type=="Assault Division Move":
+                for sdg, eff in ejson['planetEffects'].items():
+                    if site.upper() in eff['name'].upper():
+                        if last:
+                            planetclone[last].adiv=""
+                        planetclone[str(ind)].adiv=eff['icon']
+                        store[f"{site}Pos"]=str(ind)
+                        # For later
+                        # if not planetclone[str(ind)].desc:
+                        #     planetclone[str(ind)].desc=eff['description']
+
+            
+
 
         if event.type == "Biome Change":
             _, _, _, _, _, _, slug = extract_biome_change_details(
