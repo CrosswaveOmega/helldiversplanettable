@@ -4630,3 +4630,21 @@ DSS deploys to *Meissa* of the Ymir sector (2025-02-06 02:25  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-06 07:01  UTC)<br/>
 
 ### Day: #365
+*Meissa* defense is won (2025-02-06 12:18  UTC)<br/>
+↳ Ymir sector is fully under Human control (2025-02-06 12:18  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2025-02-06 12:26  UTC)<br/>
+*Kerth Secundus*'s invasion is repelled (2025-02-06 14:04  UTC)<br/>
+ Decay: 500.0 on Meissa
+ (2025-02-06 14:04  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-06 14:27  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Illuminate (2025-02-06 15:23  UTC)<br/>
+DSS deploys to *Valmox* of the Rictus sector (2025-02-06 18:28  UTC)<br/>
+*Valmox*'s invasion is repelled (2025-02-06 19:34  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-06 19:34  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-06 22:29  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Illuminate (2025-02-06 23:11  UTC)<br/>
+*Bellatrix*'s invasion is repelled (2025-02-06 23:59  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-02-06 23:59  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-02-07 06:31  UTC)<br/>
+*Gemma*'s invasion is repelled (2025-02-07 06:59  UTC)<br/>
+↳ Ursa sector is fully under Human control (2025-02-07 06:59  UTC)<br/>
