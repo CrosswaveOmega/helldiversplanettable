@@ -98,7 +98,7 @@ class PlanetState(BaseModel):
     poi: Optional[str] = Field(alias="poi", default=None)
     adiv:Optional[str]=Field(alias="assaultdiv", default=None)
     desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
-    position: Position
+    position: Position=Field(alias="position",default=Position(x=0,y=0))
     
 
 class DaysObject(BaseModel):
