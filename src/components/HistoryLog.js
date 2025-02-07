@@ -506,6 +506,9 @@ export function makeplot(
     let dssPlanets = planets.filter((planet) => planet.dss==="DSS Here");
     
     let iconPlanets = planets.filter((planet) => planet.poi );
+    
+    let adivPlanets = planets.filter((planet) => planet.adiv );
+    
 
 
     let gloomPlanets = planets.filter((planet) => planet.gls != null);
@@ -635,21 +638,19 @@ export function makeplot(
                 y: (p) => y_c(p.position.y)-0.02,
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
-                width: width / 50,
-                height: width / 50,
+                width: width / 40,
+                height: width / 40,
                 src: (p) => {
                     return dss;
-                },
-                // strokeWidth: width / 200,
-                //symbol: "plus",
+                }
             }),
             Plot.image(iconPlanets, {
                 x: (p) => x_c(p.position.x)+0.02,
                 y: (p) => y_c(p.position.y)-0.02,
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
-                width: width / 50,
-                height: width / 50,
+                width: width / 40,
+                height: width / 40,
 
                 src: (p) => {
                     if (icons[p.poi]) {
@@ -657,9 +658,23 @@ export function makeplot(
                     } else {
                         return icons["PlaceHolder"].base64_image;
                     }
-                },
-                // strokeWidth: width / 200,
-                //symbol: "plus",
+                }
+            }),
+            Plot.image(adivPlanets, {
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y)+0.04,
+                stroke: "#ff0000", // fixed stroke color change
+                fill: (p) => getColor(p.ta[0]),
+                width: width / 35,
+                height: width / 35,
+
+                src: (p) => {
+                    if (icons[p.adiv]) {
+                        return icons[p.adiv].base64_image;
+                    } else {
+                        return icons["PlaceHolder"].base64_image;
+                    }
+                }
             }),
             Plot.dot(gloompoints, {
                 x: (p) => p.x,
@@ -712,7 +727,7 @@ export function makeplot(
                         ];
                         if (p.adiv!=null){
                             
-                            main.push(`$Assault Division: {p.adiv}`);
+                            main.push(`Assault Division: ${p.adiv}`);
                         }
                         if (p.gls != null) {
                             main.push(`${getGloomName(p.gls)}`);
