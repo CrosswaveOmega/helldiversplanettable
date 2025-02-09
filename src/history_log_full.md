@@ -8,6 +8,7 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
+DSS effect Orbital Blockade stops (2024-02-08 06:14  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -1397,7 +1398,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
  (2024-06-02 18:00  UTC)<br/>
 *Meridia* is liberated via planetary implosion (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* collapses into a black hole (2024-06-02 19:13  UTC)<br/>
-↳ *Meridia* of the Umlaut sector's is established as a *Meridia*n Black Hole POI (2024-06-02 19:13  UTC)<br/>
+↳ *Meridia* of the Umlaut sector is established as a *Meridia* Black Hole POI (2024-06-02 19:13  UTC)<br/>
 ↳ Major Order | Operation A1-5-7 Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
@@ -4661,3 +4662,42 @@ Dispatch: MAJOR ORDER WON. The bulk of our deployed SEAF soldiers on *Chort Bay*
 Dispatch: Arsenal Augmentation.   The GAS MINES stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact. (2025-02-07 20:32  UTC)<br/>
 *Alathfar XI*'s invasion is repelled (2025-02-07 22:00  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-02-07 22:00  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Illuminate (2025-02-08 01:36  UTC)<br/>
+*Klaka 5*'s invasion is successful (2025-02-08 05:04  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-02-08 05:04  UTC)<br/>
+*Liberty Ridge* of the Meridian sector is invaded by Illuminate (2025-02-08 05:28  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-02-08 06:12  UTC)<br/>
+
+### Day: #367
+*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-02-08 11:15  UTC)<br/>
+*Canopus*'s invasion is successful (2025-02-08 13:36  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-08 13:36  UTC)<br/>
+Major Order | Operation A2-2-2 Defend 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Illuminate appear to be attacking our worlds in order to gather Dark Energy, which seemingly powers the movement of the *Meridia* Singularity. The Singularity is currently approaching ANGEL'S VENTURE. The more Dark Energy the Illuminate are able to gather, the faster the Singularity moves. All Helldivers are ordered to end any Illuminate invasion attempts as quickly as possible, to safeguard the citizens of ANGEL'S VENTURE. (2025-02-08 14:18  UTC)<br/>
+Dispatch: ALERT. The *Meridia* Singularity has deviated from its stable orbit. The Singularity is now moving along an unnatural path. Movement speed appears directly correlated with the amount of Dark Energy the Illuminate have gathered from our Galaxy. (2025-02-08 14:18  UTC)<br/>
+Dispatch: PATRIOTIC ANNOUNCEMENT. In recognition of the Helldivers' service, bravery, and obedient fulfillment of their duty over the past year, High Command has authorized the bequethment of a commemorative gift to all Super Destroyers. Helldivers may accept their gift with immense gratitude at their Armory. (2025-02-08 14:41  UTC)<br/>
+
+### Day: #367
+*Meridia* moves to X 0.5012286 Y 0.19468783 (2025-02-08 15:00  UTC)<br/>
+*Liberty Ridge*'s invasion is successful (2025-02-08 17:28  UTC)<br/>
+DSS deploys to *Ilduna Prime* of the Meridian sector (2025-02-08 18:36  UTC)<br/>
+*Meridia* moves to X 0.49963817 Y 0.19377457 (2025-02-08 19:00  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-08 19:34  UTC)<br/>
+*Ilduna Prime*'s invasion is repelled (2025-02-08 20:29  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-02-08 20:29  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-08 22:36  UTC)<br/>
+*Meridia* moves to X 0.49802685 Y 0.19284926 (2025-02-08 23:00  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-09 02:37  UTC)<br/>
+*Hesoe Prime*'s invasion is repelled (2025-02-09 02:49  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-09 02:49  UTC)<br/>
+*Meridia* moves to X 0.49641848 Y 0.19192566 (2025-02-09 03:00  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Illuminate (2025-02-09 03:12  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 06:37  UTC)<br/>
+*Meridia* moves to X 0.49482554 Y 0.19101092 (2025-02-09 07:00  UTC)<br/>
+
+### Day: #368
+*Haldus*'s invasion is repelled (2025-02-09 09:20  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-02-09 09:20  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-02-09 10:11  UTC)<br/>
+DSS deploys to *Haldus* of the Ferris sector (2025-02-09 10:39  UTC)<br/>
+*Meridia* moves to X 0.4932545 Y 0.19010876 (2025-02-09 11:00  UTC)<br/>
