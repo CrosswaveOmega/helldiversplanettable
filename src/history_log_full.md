@@ -4701,3 +4701,27 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 06:37  UTC)<br/>
 *Seasse* of the Omega sector is invaded by Illuminate (2025-02-09 10:11  UTC)<br/>
 DSS deploys to *Haldus* of the Ferris sector (2025-02-09 10:39  UTC)<br/>
 *Meridia* moves to X 0.4932545 Y 0.19010876 (2025-02-09 11:00  UTC)<br/>
+DSS deploys to *Seasse* of the Omega sector (2025-02-09 14:40  UTC)<br/>
+*Meridia* moves to X 0.4916953 Y 0.18921122 (2025-02-09 15:00  UTC)<br/>
+*Seasse*'s invasion is repelled (2025-02-09 17:46  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-02-09 17:46  UTC)<br/>
+*Meridia* moves to X 0.49013838 Y 0.18831933 (2025-02-09 19:00  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-09 20:03  UTC)<br/>
+Dispatch: TEMPORARY ARSENAL AUGMENTATION. The Orbital Railcannon Strike stratagem has been temporarily authorized for use by all Helldivers. (2025-02-09 21:55  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 22:40  UTC)<br/>
+*Meridia* moves to X 0.48862976 Y 0.187453 (2025-02-09 23:00  UTC)<br/>
+DSS deploys to *Osupsam* of the Tarragon sector (2025-02-10 02:41  UTC)<br/>
+*Meridia* moves to X 0.48713005 Y 0.18659179 (2025-02-10 03:00  UTC)<br/>
+*Osupsam*'s invasion is repelled (2025-02-10 03:15  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-10 03:15  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-10 06:42  UTC)<br/>
+*Meridia* moves to X 0.48567122 Y 0.18575408 (2025-02-10 07:00  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-10 08:40  UTC)<br/>
+
+### Day: #369
+ Decay: 0.0 on Charon Prime
+ (2025-02-10 09:00  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Illuminate (2025-02-10 10:18  UTC)<br/>
+*Meridia* moves to X 0.48429146 Y 0.18496174 (2025-02-10 11:00  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-10 14:42  UTC)<br/>
+*Meridia* moves to X 0.48294592 Y 0.18418907 (2025-02-10 15:00  UTC)<br/>
