@@ -883,9 +883,9 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 *Meissa* defense is failed (2024-04-22 20:30  UTC)<br/>
 ↳ *Meissa* liberation campaign starts (2024-04-22 20:30  UTC)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-22 20:30  UTC)<br/>
-*Menkent* of the Hydra sector is attacked by Automatons (2024-04-22 20:39  UTC)<br/>
  Decay: 0.5 on Vernen Wells
- (2024-04-22 20:39  UTC)<br/>
+ (2024-04-22 20:30  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Automatons (2024-04-22 20:39  UTC)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2024-04-22 20:41  UTC)<br/>
 *Aesir Pass* - *Curia* warp link is added (2024-04-22 20:49  UTC)<br/>
 *Aesir Pass* - *Tarsh* warp link is added (2024-04-22 20:49  UTC)<br/>
@@ -1100,9 +1100,9 @@ Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridi
 
 ### Day: #91
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-08 15:15  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-08 15:16  UTC)<br/>
  Decay: 1.5 on Veld, Angel's Venture, Acamar IV
- (2024-05-08 15:16  UTC)<br/>
+ (2024-05-08 15:15  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-08 15:16  UTC)<br/>
 *Angel's Venture* is liberated (2024-05-08 23:22  UTC)<br/>
 
 ### Day: #92
@@ -1398,7 +1398,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
  (2024-06-02 18:00  UTC)<br/>
 *Meridia* is liberated via planetary implosion (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* collapses into a black hole (2024-06-02 19:13  UTC)<br/>
-↳ *Meridia* of the Umlaut sector is established as a *Meridia* Black Hole POI (2024-06-02 19:13  UTC)<br/>
+↳ *Meridia* of the Umlaut sector is established as a *Meridia*n Black Hole POI (2024-06-02 19:13  UTC)<br/>
 ↳ Major Order | Operation A1-5-7 Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
@@ -1455,12 +1455,10 @@ Dispatch: STRATEGIC UPDATE. *Aesir Pass* has fallen to the Automatons, and its S
 ### Day: #121
 Major Order | Operation A1-6-1 Supercolony Cleanup is won | Objective: Liberate (2024-06-07 11:15  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have cleansed the Terminids from many worlds, undoing much of the crisis forced upon our citizens by their mutated Supecolony. (2024-06-07 11:15  UTC)<br/>
- Decay: 2.0 on Automaton worlds<br/> Decay: 3.0 on Wasat<br/> Decay: 2.5 on Vega Bay, Wezen
+ Decay: 2.0 on Automaton worlds<br/> Decay: 1.5 on Aesir Pass, Varylia 5<br/> Decay: 3.0 on Wasat<br/> Decay: 2.5 on Vega Bay, Wezen
  (2024-06-07 11:15  UTC)<br/>
 Major Order | Operation A1-6-2 Database One Raid is issued | Objective: Liberate (2024-06-07 11:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Our analysts have identified a large Automaton Data Center, codenamed Database One, deep within Automaton territory. It is protected by exceptionally robust encryption protocols. Whatever data is stored there, much effort has been expended to keep it hidden. The Helldivers are ordered to liberate the planet, capturing Database One and allowing manual extraction of the data. (2024-06-07 11:20  UTC)<br/>
- Decay: 1.5 on Aesir Pass, Varylia 5
- (2024-06-07 11:20  UTC)<br/>
  Decay: 2.0 on Wezen
  (2024-06-07 14:00  UTC)<br/>
 Dispatch: STRATEGIC GUIDANCE. *Super Earth* High Command advises all Helldivers that the shortest path to liberating *Wasat*, the target of the current Major Order, is through the following systems: *Wezen*, then *Vega Bay*, then finally *Wasat* itself. High Command offers this guidance in order to conserve Helldivers' critical decision-making effort, for use on the battlefield itself. (2024-06-07 19:06  UTC)<br/>
@@ -1725,10 +1723,10 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
  (2024-06-24 08:57  UTC)<br/>
 
 ### Day: #138
+ Decay: 0.0 on Varylia 5
+ (2024-06-24 09:00  UTC)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-06-24 09:24  UTC)<br/>
 *Troost* of the Trigon sector is attacked by Automatons (2024-06-24 09:24  UTC)<br/>
- Decay: 0.0 on Varylia 5
- (2024-06-24 09:24  UTC)<br/>
  Decay: 0.0 on Ingmar, Troost
  (2024-06-24 10:00  UTC)<br/>
 *Ingmar* defense is won (2024-06-24 18:14  UTC)<br/>
@@ -1797,9 +1795,9 @@ Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the
 
 ### Day: #142
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2024-06-28 20:45  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:52  UTC)<br/>
  Decay: 0.0 on Bore Rock
- (2024-06-28 20:52  UTC)<br/>
+ (2024-06-28 20:45  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:52  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:53  UTC)<br/>
  Decay: 0.0 on Acamar IV, Phact Bay
  (2024-06-28 22:00  UTC)<br/>
@@ -2075,9 +2073,7 @@ Major Order | Operation A1-7-4 Severed Automaton Planet Liberation is won | Obje
 *Wasat* of the Ymir sector is attacked by Automatons (2024-07-21 18:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. In a lightning-fast assault, the Helldivers capitalized fully on the Automatons' weakened defenses to liberate much of the territory they stole from us. (2024-07-21 18:15  UTC)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-07-21 18:22  UTC)<br/>
- Decay: 0.0 on Wasat
- (2024-07-21 18:22  UTC)<br/>
- Decay: 0.0 on Turing
+ Decay: 0.0 on Turing, Wasat
  (2024-07-21 20:00  UTC)<br/>
 *Turing* defense is won (2024-07-22 08:08  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-07-22 08:08  UTC)<br/>
@@ -2733,9 +2729,9 @@ Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation 
 *Yed Prior* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
 *Zefia* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
 *Demiurg* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
-*Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18  UTC)<br/>
  Decay: 1.0 on Trandor<br/> Decay: 1.5 on Gatria
- (2024-09-18 11:18  UTC)<br/>
+ (2024-09-18 11:15  UTC)<br/>
+*Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2024-09-18 11:24  UTC)<br/>
  Decay: 0.0 on Claorell, Clasa
  (2024-09-18 12:00  UTC)<br/>
@@ -3121,15 +3117,13 @@ Assault Division: Jet Brigade is routed (2024-10-22 07:17  UTC)<br/>
 *Gatria* defense is won (2024-10-23 13:06  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-10-23 15:45  UTC)<br/>
 *Fori Prime* liberation campaign ends (2024-10-23 15:45  UTC)<br/>
- Decay: 1.5 on Gatria
+ Decay: 2.0 on Penta, Lesath<br/> Decay: 1.5 on Gatria
  (2024-10-23 15:45  UTC)<br/>
 Major Order | Operation A1-10-5 DSS Protection is issued | Objective: Defend/Liberate (2024-10-23 15:58  UTC)<br/>
- Decay: 2.0 on Penta, Lesath
- (2024-10-23 15:58  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-10-23 16:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer surrounding the DSS has become clear. Liberating *Lesath* would insulate the DSS from a sudden assault by a resurgent Jet Brigade. However, a Terminid outbreak has just erupted, threatening the Terminid Research Preserve on *Acamar IV*. What to prioritize is a difficult decision—one which High Command leaves in the capable and united hands of the Helldivers. (2024-10-23 16:12  UTC)<br/>
  Decay: 0.0 on Gacrux
- (2024-10-23 16:12  UTC)<br/>
+ (2024-10-23 18:00  UTC)<br/>
 *Zefia* defense is failed (2024-10-23 19:31  UTC)<br/>
 ↳ *Zefia* liberation campaign starts (2024-10-23 19:31  UTC)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-23 21:57  UTC)<br/>
@@ -3292,9 +3286,9 @@ Dispatch: INTEL ADVISORY. Alerts from the Xenoentomology Center indicate imminen
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
 Major Order | Operation A1-11-1 DSS Staffing is issued | Objective: Defend/Control (2024-11-04 15:00  UTC)<br/>
-Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS. Consult the Galactic Map on your ship for more information. (2024-11-04 15:01  UTC)<br/>
  Decay: 0.0 on Esker
- (2024-11-04 15:01  UTC)<br/>
+ (2024-11-04 15:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS. Consult the Galactic Map on your ship for more information. (2024-11-04 15:01  UTC)<br/>
  Decay: 0.0 on Socorro III
  (2024-11-04 16:00  UTC)<br/>
 
@@ -4075,7 +4069,7 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | Operation A2-1-1 CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
-*Mastia* of the Marspira sector is established as a Center for Citizen Surveillance & Security POI (2025-01-08 14:23  UTC)<br/>
+*Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Security POI (2025-01-08 14:23  UTC)<br/>
  Decay: 1.5 on Mastia
  (2025-01-08 16:00  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2025-01-08 19:27  UTC)<br/>
@@ -4725,3 +4719,4 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-10 06:42  UTC)<br/>
 *Meridia* moves to X 0.48429146 Y 0.18496174 (2025-02-10 11:00  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-10 14:42  UTC)<br/>
 *Meridia* moves to X 0.48294592 Y 0.18418907 (2025-02-10 15:00  UTC)<br/>
+*Meridia* moves to X 0.4816179 Y 0.18342645 (2025-02-10 19:00  UTC)<br/>

@@ -112,9 +112,10 @@ def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStat
     for entry in entries:
         indexv = {key: entry[i] for i, key in enumerate(keys)}
         timestamp = indexv["timestamp"]
-        if timestamp not in all_entries:
-            all_entries[timestamp] = {}
-        all_entries[timestamp][indexv["pindex"]] = indexv
+        interval=int(float(timestamp))//900
+        if interval not in all_entries:
+            all_entries[interval] = {}
+        all_entries[interval][indexv["pindex"]] = indexv
     print(all_entries.keys())
     # input()
     return all_entries

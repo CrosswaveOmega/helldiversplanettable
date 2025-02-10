@@ -100,6 +100,10 @@
         "name": "campaign_end",
         "matchable": ["campaign ends"]
     },
+    "PlanetMoveEvent": {
+        "name": "planet move",
+        "matchable": ["moves to"]
+    },
     "FullLibEvent": {
         "name": "full_lib",
         "matchable": ["fully liberated"]

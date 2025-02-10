@@ -457,6 +457,16 @@ export function makeplot(
 
         galaxystate[planet]["ta"] = DECODE(galaxystate[planet]["t"]);
 
+        let desc_str="";
+        for (const val of galaxystate[planet]['desc']) {
+            // Process key/value pair
+            let name=val['name'];
+            let des=val['desc'];
+            desc_str+=`${name}\n${des}`;
+            
+        }
+        galaxystate[planet]['descr']=desc_str;
+
         if (!("link2" in galaxystate[planet])) {
             galaxystate[planet]["link"] = [];
         } else {
@@ -722,7 +732,7 @@ export function makeplot(
                             }`,
                             `Players: ${p.pl}`,
                             
-                            `${p.desc}`,
+                            `${p.descr}`,
                             
                         ];
                         if (p.adiv!=null){

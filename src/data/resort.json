@@ -11,7 +11,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.0,
             "y": 0.0
@@ -2126,7 +2126,7 @@
       },
       {
          "pl": 400,
-         "eind": 884
+         "eind": 883
       },
       {
          "pl": 300,
@@ -2209,12 +2209,8 @@
          "eind": 932
       },
       {
-         "pl": 300,
-         "eind": 938
-      },
-      {
          "pl": 500,
-         "eind": 939
+         "eind": 938
       },
       {
          "pl": 400,
@@ -2399,14 +2395,6 @@
       {
          "pl": 100,
          "eind": 1018
-      },
-      {
-         "pl": 200,
-         "eind": 1020
-      },
-      {
-         "pl": 100,
-         "eind": 1021
       },
       {
          "pl": 300,
@@ -5747,7 +5735,7 @@
       },
       {
          "pl": 100,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 200,
@@ -6408,6 +6396,10 @@
       {
          "pl": 300,
          "eind": 3679
+      },
+      {
+         "pl": 400,
+         "eind": 3681
       }
    ],
    "1": [
@@ -6422,7 +6414,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.05373042,
             "y": 0.10565466
@@ -6452,7 +6444,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.04664221,
             "y": 0.16758725
@@ -6482,7 +6474,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.12536779,
             "y": 0.11821219
@@ -6512,7 +6504,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.10280278,
             "y": 0.05765711
@@ -6542,7 +6534,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.15988354,
             "y": 0.043583166
@@ -6568,7 +6560,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.36159223,
             "y": -0.52270126
@@ -6688,7 +6680,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.51897186,
             "y": -0.3859795
@@ -6968,7 +6960,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.45897943,
             "y": -0.45897192
@@ -7202,7 +7194,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.27001774,
             "y": -0.5880387
@@ -7293,7 +7285,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.061315693,
             "y": 0.2489306
@@ -7394,7 +7386,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.05373336,
             "y": 0.3648641
@@ -7898,14 +7890,9 @@
          "eind": 2981
       },
       {
-         "hp": 519061,
-         "pl": 10900,
-         "eind": 2983
-      },
-      {
          "hp": 515410,
          "pl": 7600,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "hp": 507189,
@@ -8295,7 +8282,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.060664836,
             "y": 0.44539174
@@ -8375,6 +8362,9 @@
       },
       {
          "pl": 3500,
+         "eind": 1987
+      },
+      {
          "t": 16,
          "eind": 1988
       },
@@ -8558,14 +8548,9 @@
          "eind": 2146
       },
       {
-         "hp": 516411,
-         "pl": 13000,
-         "eind": 2147
-      },
-      {
          "hp": 517852,
          "pl": 12300,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "hp": 526034,
@@ -8975,6 +8960,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2676
       },
       {
@@ -9059,6 +9054,7 @@
          "hp": 30684,
          "pl": 14600,
          "adiv": "",
+         "desc": [],
          "eind": 2695
       },
       {
@@ -9147,7 +9143,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.16213205,
             "y": 0.4142603
@@ -9336,14 +9332,8 @@
          "eind": 1986
       },
       {
-         "hp": 633389,
-         "pl": 500,
-         "eind": 1987
-      },
-      {
          "hp": 634713,
-         "pl": 400,
-         "eind": 1988
+         "eind": 1987
       },
       {
          "hp": 638127,
@@ -9500,13 +9490,9 @@
          "eind": 2023
       },
       {
-         "hp": 628316,
+         "hp": 627408,
          "pl": 1600,
          "eind": 2024
-      },
-      {
-         "hp": 627408,
-         "eind": 2025
       },
       {
          "hp": 624899,
@@ -9765,7 +9751,7 @@
       {
          "hp": 963427,
          "pl": 3900,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "hp": 964100,
@@ -10013,7 +9999,7 @@
       },
       {
          "pl": 2300,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "hp": 999893,
@@ -10118,7 +10104,12 @@
       },
       {
          "poi": "Wrench",
-         "desc": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet\u2019s populace has centupled, and all the Galaxy can feel their democratic fervor.",
+         "desc": [
+            {
+               "name": "DSS Construction Site",
+               "desc": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet\u2019s populace has centupled, and all the Galaxy can feel their democratic fervor."
+            }
+         ],
          "eind": 2172
       },
       {
@@ -10548,7 +10539,7 @@
       },
       {
          "pl": 200,
-         "eind": 2357
+         "eind": 2358
       },
       {
          "pl": 300,
@@ -10628,7 +10619,7 @@
       },
       {
          "pl": 200,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "pl": 100,
@@ -10966,7 +10957,7 @@
          "pl": 400,
          "dss": "DSS Here",
          "poi": "",
-         "desc": "",
+         "desc": [],
          "eind": 2622
       },
       {
@@ -10988,6 +10979,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2629
       },
       {
@@ -11068,11 +11069,22 @@
       {
          "pl": 14600,
          "adiv": "",
+         "desc": [],
          "eind": 2651
       },
       {
          "pl": 19300,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2652
       },
       {
@@ -11181,6 +11193,7 @@
          "hp": 695692,
          "pl": 12800,
          "adiv": "",
+         "desc": [],
          "eind": 2676
       },
       {
@@ -11574,7 +11587,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.27240774,
             "y": 0.20429876
@@ -11604,7 +11617,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2219546,
             "y": 0.2772582
@@ -11638,7 +11651,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.26528117,
             "y": 0.347748
@@ -11827,12 +11840,8 @@
          "eind": 3227
       },
       {
-         "pl": 500,
-         "eind": 3228
-      },
-      {
          "pl": 400,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 600,
@@ -12003,7 +12012,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.32492584,
             "y": 0.25839266
@@ -13183,7 +13192,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.39437926,
             "y": 0.27310377
@@ -13459,12 +13468,8 @@
          "eind": 703
       },
       {
-         "hp": 944291,
-         "eind": 704
-      },
-      {
          "hp": 950501,
-         "eind": 705
+         "eind": 704
       },
       {
          "hp": 1000000,
@@ -13782,12 +13787,8 @@
          "eind": 937
       },
       {
-         "pl": 37500,
-         "eind": 938
-      },
-      {
          "pl": 38300,
-         "eind": 939
+         "eind": 938
       },
       {
          "pl": 33500,
@@ -14490,7 +14491,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.43926024,
             "y": 0.0731322
@@ -14786,11 +14787,8 @@
       },
       {
          "pl": 8000,
-         "eind": 704
-      },
-      {
          "r": 4.1667,
-         "eind": 705
+         "eind": 704
       },
       {
          "pl": 7400,
@@ -15151,7 +15149,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.4448446,
             "y": 0.1618837
@@ -15765,15 +15763,10 @@
          "eind": 703
       },
       {
-         "hp": 338351,
-         "pl": 67600,
-         "eind": 704
-      },
-      {
          "hp": 330061,
          "pl": 67900,
          "r": 4.1667,
-         "eind": 705
+         "eind": 704
       },
       {
          "hp": 230742,
@@ -16450,7 +16443,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.17009519,
             "y": 0.1877717
@@ -16480,7 +16473,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2117717,
             "y": 0.12409518
@@ -16514,7 +16507,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2540875,
             "y": 0.05583542
@@ -16548,7 +16541,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.287884,
             "y": 0.1099696
@@ -16582,7 +16575,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.338688,
             "y": 0.05460588
@@ -16608,7 +16601,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.33707795,
             "y": 0.1548962
@@ -16725,7 +16718,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5111386,
             "y": 0.3511805
@@ -17574,13 +17567,9 @@
          "eind": 332
       },
       {
-         "pl": 15100,
-         "eind": 333
-      },
-      {
          "hp": 999980,
          "pl": 15900,
-         "eind": 334
+         "eind": 333
       },
       {
          "hp": 1000000,
@@ -17597,7 +17586,7 @@
       },
       {
          "pl": 18800,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 11500,
@@ -17682,12 +17671,8 @@
          "eind": 361
       },
       {
-         "pl": 4500,
-         "eind": 362
-      },
-      {
          "pl": 4300,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 3400,
@@ -18334,7 +18319,7 @@
       {
          "hp": 999996,
          "pl": 12800,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 999999,
@@ -19612,12 +19597,8 @@
          "eind": 882
       },
       {
-         "pl": 1100,
-         "eind": 885
-      },
-      {
          "pl": 1200,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 1100,
@@ -19773,12 +19754,8 @@
          "eind": 937
       },
       {
-         "pl": 1100,
-         "eind": 938
-      },
-      {
          "pl": 1000,
-         "eind": 939
+         "eind": 938
       },
       {
          "pl": 900,
@@ -22007,7 +21984,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.4889177,
             "y": 0.43328553
@@ -22517,7 +22494,7 @@
       },
       {
          "pl": 8800,
-         "eind": 423
+         "eind": 422
       },
       {
          "pl": 13400,
@@ -23010,13 +22987,9 @@
          "eind": 1227
       },
       {
-         "hp": 773779,
+         "hp": 775408,
          "pl": 2300,
          "eind": 1228
-      },
-      {
-         "hp": 775408,
-         "eind": 1229
       },
       {
          "hp": 782374,
@@ -23604,12 +23577,8 @@
          "eind": 1389
       },
       {
-         "pl": 1400,
-         "eind": 1390
-      },
-      {
          "pl": 1300,
-         "eind": 1391
+         "eind": 1390
       },
       {
          "pl": 1100,
@@ -24248,7 +24217,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.633865,
             "y": 0.3955063
@@ -24789,13 +24758,9 @@
          "eind": 332
       },
       {
-         "hp": 955066,
+         "hp": 957415,
          "pl": 600,
          "eind": 333
-      },
-      {
-         "hp": 957415,
-         "eind": 334
       },
       {
          "hp": 964678,
@@ -25302,7 +25267,7 @@
       {
          "hp": 453817,
          "pl": 67700,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 447147,
@@ -26040,6 +26005,10 @@
          "eind": 1175
       },
       {
+         "pl": 1800,
+         "eind": 1176
+      },
+      {
          "pl": 1700,
          "eind": 1177
       },
@@ -26210,7 +26179,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.55758536,
             "y": 0.4887236
@@ -26497,7 +26466,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.1857717,
             "y": 0.13809519
@@ -26527,7 +26496,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.16809516,
             "y": 0.19577172
@@ -26557,7 +26526,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.13065825,
             "y": 0.30637383
@@ -27419,6 +27388,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2610
       },
       {
@@ -27487,6 +27466,7 @@
          "hp": 509891,
          "pl": 10000,
          "adiv": "",
+         "desc": [],
          "eind": 2629
       },
       {
@@ -28533,12 +28513,8 @@
          "eind": 2981
       },
       {
-         "pl": 900,
-         "eind": 2983
-      },
-      {
          "pl": 600,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 300,
@@ -28901,12 +28877,8 @@
          "eind": 3101
       },
       {
-         "pl": 2600,
-         "eind": 3102
-      },
-      {
          "pl": 2500,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 3200,
@@ -28953,12 +28925,8 @@
          "eind": 3115
       },
       {
-         "pl": 3900,
-         "eind": 3116
-      },
-      {
          "pl": 3800,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "pl": 2700,
@@ -29297,7 +29265,7 @@
       },
       {
          "pl": "<10",
-         "eind": 3250
+         "eind": 3249
       }
    ],
    "66": [
@@ -29312,7 +29280,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.24490279,
             "y": 0.21259932
@@ -29873,7 +29841,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.20995454,
             "y": 0.28325823
@@ -30671,7 +30639,7 @@
       },
       {
          "hp": 999956,
-         "eind": 1988
+         "eind": 1987
       },
       {
          "hp": 1000000,
@@ -30769,7 +30737,7 @@
       },
       {
          "pl": 300,
-         "eind": 2025
+         "eind": 2024
       },
       {
          "hp": 999979,
@@ -30984,6 +30952,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2593
       },
       {
@@ -31019,7 +30997,6 @@
          "pl": 15800,
          "t": 49,
          "poi": "",
-         "desc": "",
          "eind": 2607
       },
       {
@@ -31037,6 +31014,7 @@
          "hp": 754968,
          "pl": 11100,
          "adiv": "",
+         "desc": [],
          "eind": 2610
       },
       {
@@ -32068,12 +32046,8 @@
          "eind": 2981
       },
       {
-         "pl": 700,
-         "eind": 2983
-      },
-      {
          "pl": 500,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 200,
@@ -32408,12 +32382,8 @@
          "eind": 3101
       },
       {
-         "pl": 1000,
-         "eind": 3102
-      },
-      {
          "pl": 900,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 1300,
@@ -32456,12 +32426,8 @@
          "eind": 3115
       },
       {
-         "pl": 2000,
-         "eind": 3116
-      },
-      {
          "pl": 1900,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "pl": 1300,
@@ -32865,7 +32831,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.87390286,
             "y": 0.35359928
@@ -33003,7 +32969,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.9189892,
             "y": -0.1249713
@@ -33737,7 +33703,7 @@
       {
          "pl": 2500,
          "r": 2.7778,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "hp": 999989,
@@ -34199,10 +34165,6 @@
          "eind": 2356
       },
       {
-         "hp": 590282,
-         "eind": 2357
-      },
-      {
          "hp": 596044,
          "pl": 1900,
          "eind": 2358
@@ -34384,19 +34346,9 @@
          "eind": 2403
       },
       {
-         "hp": 997704,
-         "pl": 4000,
-         "eind": 2404
-      },
-      {
          "hp": 997213,
          "pl": 3900,
-         "eind": 2405
-      },
-      {
-         "hp": 997229,
-         "pl": 3800,
-         "eind": 2407
+         "eind": 2404
       },
       {
          "hp": 1000000,
@@ -34704,14 +34656,6 @@
       {
          "pl": 5800,
          "eind": 2495
-      },
-      {
-         "pl": 5900,
-         "eind": 2496
-      },
-      {
-         "pl": 5800,
-         "eind": 2497
       },
       {
          "pl": 4500,
@@ -35104,14 +35048,9 @@
          "eind": 2599
       },
       {
-         "hp": 638273,
-         "pl": 12800,
-         "eind": 2600
-      },
-      {
          "hp": 636219,
          "pl": 13200,
-         "eind": 2601
+         "eind": 2600
       },
       {
          "hp": 629631,
@@ -36323,7 +36262,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.9115288,
             "y": 0.18509296
@@ -36461,7 +36400,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.8417918,
             "y": 0.10094728
@@ -37005,7 +36944,7 @@
       },
       {
          "pl": 700,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "pl": 1200,
@@ -37222,7 +37161,7 @@
       },
       {
          "pl": 4200,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "pl": 1500,
@@ -37525,16 +37464,8 @@
          "eind": 2403
       },
       {
-         "pl": 1000,
-         "eind": 2404
-      },
-      {
          "pl": 1100,
-         "eind": 2405
-      },
-      {
-         "pl": 1000,
-         "eind": 2407
+         "eind": 2404
       },
       {
          "pl": 400,
@@ -37834,7 +37765,7 @@
       },
       {
          "pl": 1100,
-         "eind": 2545
+         "eind": 2544
       },
       {
          "pl": 800,
@@ -37982,12 +37913,8 @@
          "eind": 2590
       },
       {
-         "pl": 2200,
-         "eind": 2591
-      },
-      {
          "pl": 2300,
-         "eind": 2592
+         "eind": 2591
       },
       {
          "pl": 2800,
@@ -38891,11 +38818,7 @@
       },
       {
          "pl": 1100,
-         "eind": 2954
-      },
-      {
-         "pl": 1500,
-         "eind": 2957
+         "eind": 2956
       },
       {
          "pl": 1300,
@@ -38954,12 +38877,8 @@
          "eind": 2981
       },
       {
-         "pl": 1100,
-         "eind": 2983
-      },
-      {
          "pl": 900,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 500,
@@ -39219,7 +39138,7 @@
       },
       {
          "pl": 2100,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "pl": 1700,
@@ -39270,12 +39189,8 @@
          "eind": 3101
       },
       {
-         "pl": 1300,
-         "eind": 3102
-      },
-      {
          "pl": 1200,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 1400,
@@ -39318,12 +39233,8 @@
          "eind": 3113
       },
       {
-         "pl": 1500,
-         "eind": 3116
-      },
-      {
          "pl": 1400,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "pl": 1000,
@@ -39338,12 +39249,8 @@
          "eind": 3122
       },
       {
-         "pl": 1500,
-         "eind": 3123
-      },
-      {
          "pl": 1400,
-         "eind": 3124
+         "eind": 3123
       },
       {
          "pl": 1500,
@@ -39640,14 +39547,6 @@
       {
          "pl": 700,
          "eind": 3227
-      },
-      {
-         "pl": 600,
-         "eind": 3228
-      },
-      {
-         "pl": 700,
-         "eind": 3229
       },
       {
          "pl": 800,
@@ -40187,7 +40086,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.93316215,
             "y": 0.004525
@@ -40458,14 +40357,9 @@
          "eind": 2146
       },
       {
-         "hp": 999993,
-         "pl": 8100,
-         "eind": 2147
-      },
-      {
          "hp": 999947,
          "pl": 7900,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "hp": 1000000,
@@ -40976,7 +40870,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5134972,
             "y": 0.20684212
@@ -41785,6 +41679,13 @@
          "pl": 64200,
          "t": 16,
          "biome": "blackhole",
+         "poi": "Orb",
+         "desc": [
+            {
+               "name": "MERIDIAN BLACK HOLE",
+               "desc": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains."
+            }
+         ],
          "eind": 975
       },
       {
@@ -41930,7 +41831,7 @@
       },
       {
          "pl": 400,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "pl": 600,
@@ -42423,14 +42324,6 @@
       {
          "pl": 100,
          "eind": 1471
-      },
-      {
-         "pl": "<10",
-         "eind": 1473
-      },
-      {
-         "pl": 100,
-         "eind": 1474
       },
       {
          "pl": "<10",
@@ -43289,12 +43182,8 @@
          "eind": 3100
       },
       {
-         "pl": "<10",
-         "eind": 3102
-      },
-      {
          "pl": 100,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 200,
@@ -43825,6 +43714,13 @@
          "eind": 3554
       },
       {
+         "position": {
+            "x": 0.5074972,
+            "y": 0.20084213
+         },
+         "eind": 3555
+      },
+      {
          "pl": 300,
          "eind": 3557
       },
@@ -43871,6 +43767,118 @@
       {
          "pl": "<10",
          "eind": 3589
+      },
+      {
+         "position": {
+            "x": 0.5064972,
+            "y": 0.19884212
+         },
+         "eind": 3601
+      },
+      {
+         "position": {
+            "x": 0.5014972,
+            "y": 0.19484212
+         },
+         "eind": 3627
+      },
+      {
+         "position": {
+            "x": 0.5012286,
+            "y": 0.19468783
+         },
+         "eind": 3642
+      },
+      {
+         "position": {
+            "x": 0.49963817,
+            "y": 0.19377457
+         },
+         "eind": 3645
+      },
+      {
+         "position": {
+            "x": 0.49802685,
+            "y": 0.19284926
+         },
+         "eind": 3649
+      },
+      {
+         "position": {
+            "x": 0.49641848,
+            "y": 0.19192566
+         },
+         "eind": 3652
+      },
+      {
+         "position": {
+            "x": 0.49482554,
+            "y": 0.19101092
+         },
+         "eind": 3655
+      },
+      {
+         "position": {
+            "x": 0.4932545,
+            "y": 0.19010876
+         },
+         "eind": 3660
+      },
+      {
+         "position": {
+            "x": 0.4916953,
+            "y": 0.18921122
+         },
+         "eind": 3663
+      },
+      {
+         "position": {
+            "x": 0.49013838,
+            "y": 0.18831933
+         },
+         "eind": 3665
+      },
+      {
+         "position": {
+            "x": 0.48862976,
+            "y": 0.187453
+         },
+         "eind": 3669
+      },
+      {
+         "position": {
+            "x": 0.48713005,
+            "y": 0.18659179
+         },
+         "eind": 3671
+      },
+      {
+         "position": {
+            "x": 0.48567122,
+            "y": 0.18575408
+         },
+         "eind": 3674
+      },
+      {
+         "position": {
+            "x": 0.48429146,
+            "y": 0.18496174
+         },
+         "eind": 3678
+      },
+      {
+         "position": {
+            "x": 0.48294592,
+            "y": 0.18418907
+         },
+         "eind": 3680
+      },
+      {
+         "position": {
+            "x": 0.4816179,
+            "y": 0.18342645
+         },
+         "eind": 3681
       }
    ],
    "125": [
@@ -43885,7 +43893,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.46994886,
             "y": 0.27418607
@@ -45171,15 +45179,11 @@
       },
       {
          "pl": 14800,
-         "eind": 884
-      },
-      {
-         "pl": 24000,
-         "eind": 885
+         "eind": 883
       },
       {
          "pl": 31100,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 25100,
@@ -45951,7 +45955,7 @@
       {
          "hp": 525472,
          "pl": 11000,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "hp": 488038,
@@ -46054,7 +46058,12 @@
       },
       {
          "poi": "Science",
-         "desc": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough.",
+         "desc": [
+            {
+               "name": "CENTER OF SCIENCE",
+               "desc": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
+            }
+         ],
          "eind": 3048
       },
       {
@@ -46235,7 +46244,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5348745,
             "y": 0.11823793
@@ -47061,14 +47070,6 @@
          "eind": 703
       },
       {
-         "pl": "<10",
-         "eind": 704
-      },
-      {
-         "pl": 100,
-         "eind": 705
-      },
-      {
          "pl": 300,
          "eind": 709
       },
@@ -47273,15 +47274,11 @@
       },
       {
          "pl": 3400,
-         "eind": 884
-      },
-      {
-         "pl": 4500,
-         "eind": 885
+         "eind": 883
       },
       {
          "pl": 5300,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 4000,
@@ -47723,14 +47720,6 @@
       },
       {
          "pl": 100,
-         "eind": 1020
-      },
-      {
-         "pl": "<10",
-         "eind": 1021
-      },
-      {
-         "pl": 100,
          "eind": 1022
       },
       {
@@ -47989,7 +47978,12 @@
       {
          "pl": 500,
          "poi": "Science",
-         "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research.",
+         "desc": [
+            {
+               "name": "Xenoentomology Center",
+               "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            }
+         ],
          "eind": 2220
       },
       {
@@ -48124,7 +48118,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.4243272,
             "y": 0.34833485
@@ -49575,17 +49569,12 @@
       },
       {
          "hp": 797790,
-         "eind": 884
-      },
-      {
-         "hp": 799776,
-         "pl": 2300,
-         "eind": 885
+         "eind": 883
       },
       {
          "hp": 801545,
          "pl": 2600,
-         "eind": 886
+         "eind": 885
       },
       {
          "hp": 806858,
@@ -49812,14 +49801,9 @@
          "eind": 937
       },
       {
-         "hp": 852544,
-         "pl": 4600,
-         "eind": 938
-      },
-      {
          "hp": 852880,
          "pl": 4700,
-         "eind": 939
+         "eind": 938
       },
       {
          "hp": 853084,
@@ -50426,12 +50410,8 @@
          "eind": 2560
       },
       {
-         "pl": 1500,
-         "eind": 2561
-      },
-      {
          "pl": 1600,
-         "eind": 2562
+         "eind": 2561
       },
       {
          "pl": 14300,
@@ -50574,7 +50554,7 @@
       },
       {
          "pl": 200,
-         "eind": 2601
+         "eind": 2600
       },
       {
          "pl": 100,
@@ -50631,7 +50611,7 @@
       },
       {
          "pl": 37800,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 26700,
@@ -50766,7 +50746,7 @@
       },
       {
          "pl": 800,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": 900,
@@ -50866,12 +50846,8 @@
          "eind": 3248
       },
       {
-         "pl": 57600,
-         "eind": 3249
-      },
-      {
          "pl": 56000,
-         "eind": 3251
+         "eind": 3249
       },
       {
          "pl": 46200,
@@ -52401,6 +52377,11 @@
          "hp": 986541,
          "pl": 14800,
          "eind": 3680
+      },
+      {
+         "hp": 1000000,
+         "pl": 11700,
+         "eind": 3681
       }
    ],
    "75": [
@@ -52415,7 +52396,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.372748,
             "y": 0.5082812
@@ -52673,14 +52654,8 @@
          "eind": 1187
       },
       {
-         "hp": 999998,
-         "pl": 400,
-         "eind": 1189
-      },
-      {
-         "hp": 1000000,
          "pl": 300,
-         "eind": 1190
+         "eind": 1189
       },
       {
          "pl": 600,
@@ -52805,14 +52780,9 @@
          "eind": 1227
       },
       {
-         "hp": 1000000,
-         "pl": 5700,
-         "eind": 1228
-      },
-      {
          "hp": 999992,
          "pl": 5800,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "hp": 1000000,
@@ -53358,10 +53328,6 @@
       {
          "pl": 2400,
          "eind": 1471
-      },
-      {
-         "pl": 2500,
-         "eind": 1473
       },
       {
          "pl": 1700,
@@ -54280,12 +54246,9 @@
          "eind": 1871
       },
       {
+         "r": 0.0,
          "t": 21,
          "eind": 2523
-      },
-      {
-         "r": 0.0,
-         "eind": 2524
       },
       {
          "pl": 10700,
@@ -54418,13 +54381,9 @@
          "eind": 2560
       },
       {
-         "hp": 777758,
+         "hp": 781115,
          "pl": 1400,
          "eind": 2561
-      },
-      {
-         "hp": 781115,
-         "eind": 2562
       },
       {
          "hp": 792604,
@@ -55399,7 +55358,7 @@
       },
       {
          "hp": 669397,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "hp": 670943,
@@ -55482,7 +55441,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.46854144,
             "y": 0.5513042
@@ -56471,7 +56430,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3994094,
             "y": 0.6009798
@@ -57090,12 +57049,8 @@
          "eind": 2981
       },
       {
-         "pl": 1200,
-         "eind": 2983
-      },
-      {
          "pl": 800,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 400,
@@ -57267,7 +57222,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3259798,
             "y": 0.4174094
@@ -57348,12 +57303,9 @@
          "eind": 1227
       },
       {
+         "r": 0.0,
          "t": 21,
          "eind": 1228
-      },
-      {
-         "r": 0.0,
-         "eind": 1229
       },
       {
          "pl": 7600,
@@ -58094,10 +58046,6 @@
          "eind": 2857
       },
       {
-         "pl": 300,
-         "eind": 2859
-      },
-      {
          "hp": 999952,
          "pl": 3600,
          "r": 2.7778,
@@ -58291,7 +58239,7 @@
       },
       {
          "pl": 26600,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": 25000,
@@ -58446,7 +58394,7 @@
       {
          "hp": 819721,
          "pl": 6000,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "hp": 825677,
@@ -58514,12 +58462,8 @@
          "eind": 3101
       },
       {
-         "pl": 1700,
-         "eind": 3102
-      },
-      {
          "pl": 1600,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 2200,
@@ -58566,12 +58510,8 @@
          "eind": 3115
       },
       {
-         "pl": 2200,
-         "eind": 3116
-      },
-      {
          "pl": 2100,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "pl": 1500,
@@ -58920,12 +58860,8 @@
       },
       {
          "hp": 1000000,
-         "pl": 1600,
-         "eind": 3228
-      },
-      {
          "pl": 1400,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 1700,
@@ -60036,7 +59972,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6113544,
             "y": 0.22880854
@@ -60735,14 +60671,9 @@
          "eind": 361
       },
       {
-         "hp": 459400,
-         "pl": 15100,
-         "eind": 362
-      },
-      {
          "hp": 458595,
          "pl": 13900,
-         "eind": 363
+         "eind": 362
       },
       {
          "hp": 458336,
@@ -61732,14 +61663,9 @@
          "eind": 1019
       },
       {
-         "hp": 998809,
-         "pl": 11400,
-         "eind": 1020
-      },
-      {
          "hp": 997228,
          "pl": 12000,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "hp": 998957,
@@ -64471,13 +64397,9 @@
          "eind": 2560
       },
       {
-         "pl": 31500,
+         "pl": 32000,
          "t": 16,
          "eind": 2561
-      },
-      {
-         "pl": 32000,
-         "eind": 2562
       },
       {
          "pl": 5000,
@@ -65033,7 +64955,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5803697,
             "y": 0.29137206
@@ -65643,7 +65565,7 @@
       },
       {
          "pl": 1400,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 800,
@@ -65705,12 +65627,8 @@
          "eind": 361
       },
       {
-         "pl": 33100,
-         "eind": 362
-      },
-      {
          "pl": 35100,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 28700,
@@ -66216,7 +66134,7 @@
       },
       {
          "pl": 32500,
-         "eind": 537
+         "eind": 536
       },
       {
          "pl": 49400,
@@ -66859,12 +66777,8 @@
          "eind": 1019
       },
       {
-         "pl": 6200,
-         "eind": 1020
-      },
-      {
          "pl": 6400,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "pl": 6700,
@@ -67383,14 +67297,9 @@
          "eind": 1389
       },
       {
-         "hp": 551301,
-         "pl": 8900,
-         "eind": 1390
-      },
-      {
          "hp": 552304,
          "pl": 9200,
-         "eind": 1391
+         "eind": 1390
       },
       {
          "hp": 554292,
@@ -68810,23 +68719,14 @@
          "eind": 2356
       },
       {
-         "hp": 305585,
-         "eind": 2357
-      },
-      {
          "hp": 263954,
          "pl": 12100,
          "eind": 2358
       },
       {
-         "hp": 234607,
-         "pl": 15000,
-         "eind": 2360
-      },
-      {
          "hp": 228852,
          "pl": 15800,
-         "eind": 2361
+         "eind": 2360
       },
       {
          "hp": 213226,
@@ -69009,14 +68909,6 @@
       {
          "pl": 300,
          "eind": 2403
-      },
-      {
-         "pl": 400,
-         "eind": 2404
-      },
-      {
-         "pl": 300,
-         "eind": 2405
       },
       {
          "pl": 400,
@@ -69210,7 +69102,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6880386,
             "y": 0.30101782
@@ -69719,14 +69611,9 @@
          "eind": 332
       },
       {
-         "hp": 378305,
-         "pl": 60400,
-         "eind": 333
-      },
-      {
          "hp": 373671,
          "pl": 64800,
-         "eind": 334
+         "eind": 333
       },
       {
          "hp": 359752,
@@ -69746,7 +69633,7 @@
       {
          "hp": 331064,
          "pl": 79600,
-         "eind": 341
+         "eind": 340
       },
       {
          "hp": 321065,
@@ -69849,14 +69736,9 @@
          "eind": 361
       },
       {
-         "hp": 155530,
-         "pl": 22300,
-         "eind": 362
-      },
-      {
          "hp": 153181,
          "pl": 20500,
-         "eind": 363
+         "eind": 362
       },
       {
          "hp": 148762,
@@ -70131,7 +70013,7 @@
       {
          "hp": 250456,
          "pl": 22300,
-         "eind": 423
+         "eind": 422
       },
       {
          "hp": 242387,
@@ -70531,7 +70413,7 @@
       },
       {
          "pl": 5000,
-         "eind": 537
+         "eind": 536
       },
       {
          "pl": 3600,
@@ -71232,13 +71114,9 @@
          "eind": 1227
       },
       {
-         "hp": 852251,
+         "hp": 854715,
          "pl": 3400,
          "eind": 1228
-      },
-      {
-         "hp": 854715,
-         "eind": 1229
       },
       {
          "hp": 865430,
@@ -71813,14 +71691,6 @@
       {
          "pl": "<10",
          "eind": 1388
-      },
-      {
-         "pl": 100,
-         "eind": 1390
-      },
-      {
-         "pl": "<10",
-         "eind": 1391
       },
       {
          "pl": 100,
@@ -72829,13 +72699,9 @@
          "eind": 1830
       },
       {
-         "pl": 2400,
-         "eind": 1832
-      },
-      {
          "hp": 999989,
          "pl": 2600,
-         "eind": 1833
+         "eind": 1832
       },
       {
          "hp": 1000000,
@@ -72909,7 +72775,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.42307508,
             "y": -0.029368328
@@ -72939,7 +72805,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.46455657,
             "y": -0.09407307
@@ -72969,7 +72835,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5226474,
             "y": -0.035894625
@@ -72999,7 +72865,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.56242514,
             "y": -0.11354032
@@ -73025,7 +72891,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.62221956,
             "y": -0.042420916
@@ -73051,7 +72917,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6268659,
             "y": -0.12653387
@@ -73274,7 +73140,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6355565,
             "y": 0.0490733
@@ -73395,7 +73261,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.745425,
             "y": -0.1314594
@@ -74249,7 +74115,7 @@
       },
       {
          "pl": 1700,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 1200,
@@ -74424,7 +74290,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6788745,
             "y": 0.117238
@@ -74734,13 +74600,9 @@
          "eind": 1188
       },
       {
-         "pl": 8000,
+         "pl": 8900,
          "r": 0.0,
          "eind": 1189
-      },
-      {
-         "pl": 8900,
-         "eind": 1190
       },
       {
          "pl": 11100,
@@ -74821,7 +74683,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.73154825,
             "y": 0.05294286
@@ -75096,7 +74958,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.74603856,
             "y": -0.03198197
@@ -75512,7 +75374,7 @@
       },
       {
          "pl": 100,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": "<10",
@@ -75552,6 +75414,10 @@
          "pl": 1000,
          "r": 1388.8889,
          "eind": 1175
+      },
+      {
+         "pl": 600,
+         "eind": 1176
       },
       {
          "pl": 300,
@@ -75618,7 +75484,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.26997122,
             "y": 0.3760109
@@ -75862,7 +75728,7 @@
          "hp": 500039,
          "pl": 55900,
          "r": 1.3889,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 501149,
@@ -76693,17 +76559,12 @@
       },
       {
          "hp": 630586,
-         "eind": 884
-      },
-      {
-         "hp": 632706,
-         "pl": 4200,
-         "eind": 885
+         "eind": 883
       },
       {
          "hp": 634607,
          "pl": 7300,
-         "eind": 886
+         "eind": 885
       },
       {
          "hp": 638201,
@@ -76945,14 +76806,9 @@
          "eind": 937
       },
       {
-         "hp": 582628,
-         "pl": 4900,
-         "eind": 938
-      },
-      {
          "hp": 582842,
          "pl": 5000,
-         "eind": 939
+         "eind": 938
       },
       {
          "hp": 583158,
@@ -78508,12 +78364,8 @@
          "eind": 2403
       },
       {
-         "pl": 1500,
-         "eind": 2404
-      },
-      {
          "pl": 1600,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "pl": 600,
@@ -78697,12 +78549,8 @@
          "eind": 2473
       },
       {
-         "pl": 500,
-         "eind": 2475
-      },
-      {
          "pl": 600,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "pl": 700,
@@ -78761,12 +78609,8 @@
          "eind": 2495
       },
       {
-         "pl": 1700,
-         "eind": 2496
-      },
-      {
          "pl": 1800,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "pl": 1100,
@@ -79011,12 +78855,8 @@
          "eind": 2560
       },
       {
-         "pl": 1700,
-         "eind": 2561
-      },
-      {
          "pl": 1800,
-         "eind": 2562
+         "eind": 2561
       },
       {
          "pl": 3200,
@@ -79117,12 +78957,23 @@
          "pl": 3700,
          "r": 13.8889,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2591
       },
       {
          "hp": 999999,
          "pl": 17100,
          "adiv": "",
+         "desc": [],
          "eind": 2593
       },
       {
@@ -79147,12 +78998,8 @@
          "eind": 2599
       },
       {
-         "pl": 900,
-         "eind": 2600
-      },
-      {
          "pl": 1000,
-         "eind": 2601
+         "eind": 2600
       },
       {
          "pl": 800,
@@ -79710,10 +79557,6 @@
       {
          "pl": 300,
          "eind": 2951
-      },
-      {
-         "pl": 200,
-         "eind": 2954
       },
       {
          "pl": 400,
@@ -81324,7 +81167,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.34874794,
             "y": 0.28628126
@@ -81512,16 +81355,10 @@
          "eind": 1019
       },
       {
-         "hp": 468425,
-         "pl": 8000,
-         "r": 5.5556,
-         "eind": 1020
-      },
-      {
          "hp": 466574,
          "pl": 8200,
          "r": 4.1667,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "hp": 454631,
@@ -81858,11 +81695,6 @@
          "hp": 539572,
          "pl": 2500,
          "eind": 1323
-      },
-      {
-         "hp": 541544,
-         "pl": 2400,
-         "eind": 1324
       },
       {
          "hp": 546506,
@@ -82224,11 +82056,6 @@
          "hp": 564532,
          "pl": 4900,
          "eind": 1471
-      },
-      {
-         "hp": 564713,
-         "pl": 5100,
-         "eind": 1473
       },
       {
          "hp": 565708,
@@ -83811,14 +83638,9 @@
          "eind": 2474
       },
       {
-         "hp": 540862,
-         "pl": 1700,
-         "eind": 2475
-      },
-      {
          "hp": 541546,
          "pl": 1800,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "hp": 543698,
@@ -83905,14 +83727,9 @@
          "eind": 2495
       },
       {
-         "hp": 785241,
-         "pl": 4000,
-         "eind": 2496
-      },
-      {
          "hp": 786212,
          "pl": 4200,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "hp": 794484,
@@ -86005,6 +85822,10 @@
       {
          "pl": 400,
          "eind": 3679
+      },
+      {
+         "pl": 600,
+         "eind": 3681
       }
    ],
    "203": [
@@ -86019,7 +85840,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.31501773,
             "y": 0.4560387
@@ -86071,7 +85892,7 @@
       },
       {
          "pl": 2400,
-         "eind": 423
+         "eind": 422
       },
       {
          "t": 23,
@@ -89296,7 +89117,7 @@
       },
       {
          "pl": 200,
-         "eind": 2592
+         "eind": 2591
       },
       {
          "pl": 100,
@@ -89383,14 +89204,6 @@
          "eind": 2948
       },
       {
-         "pl": 200,
-         "eind": 2957
-      },
-      {
-         "pl": 100,
-         "eind": 2958
-      },
-      {
          "pl": "<10",
          "eind": 2969
       },
@@ -89408,7 +89221,7 @@
       },
       {
          "pl": "<10",
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 100,
@@ -89492,7 +89305,7 @@
       },
       {
          "pl": 100,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 200,
@@ -89785,6 +89598,16 @@
       },
       {
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 3543
       },
       {
@@ -89876,6 +89699,7 @@
          "hp": 963734,
          "r": 11.1111,
          "adiv": "",
+         "desc": [],
          "eind": 3568
       },
       {
@@ -90197,6 +90021,10 @@
       {
          "pl": 400,
          "eind": 3679
+      },
+      {
+         "pl": 600,
+         "eind": 3681
       }
    ],
    "114": [
@@ -90211,7 +90039,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.44310373,
             "y": 0.599078
@@ -90485,7 +90313,7 @@
       },
       {
          "pl": 200,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 100,
@@ -90573,7 +90401,7 @@
       },
       {
          "pl": 200,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 300,
@@ -90877,7 +90705,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.53437203,
             "y": 0.6510685
@@ -90957,7 +90785,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.35206652,
             "y": 0.64499736
@@ -91238,7 +91066,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.32600746,
             "y": 0.7472937
@@ -91322,7 +91150,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.56103384,
             "y": 0.77082515
@@ -91398,7 +91226,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.438396,
             "y": 0.6977152
@@ -91478,7 +91306,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.27880847,
             "y": 0.58735436
@@ -91533,12 +91361,9 @@
          "eind": 421
       },
       {
+         "pl": 5600,
          "t": 48,
          "eind": 422
-      },
-      {
-         "pl": 5600,
-         "eind": 423
       },
       {
          "pl": 3500,
@@ -92543,7 +92368,7 @@
       },
       {
          "r": 5.5556,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "r": 6.9444,
@@ -93139,7 +92964,7 @@
       },
       {
          "pl": 100,
-         "eind": 2859
+         "eind": 2860
       },
       {
          "pl": 200,
@@ -93303,7 +93128,7 @@
       },
       {
          "pl": 100,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": "<10",
@@ -93729,6 +93554,10 @@
       {
          "pl": 100,
          "eind": 3679
+      },
+      {
+         "pl": 200,
+         "eind": 3681
       }
    ],
    "159": [
@@ -93743,7 +93572,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.3992379,
             "y": 0.5128745
@@ -93799,7 +93628,7 @@
       },
       {
          "pl": 3300,
-         "eind": 423
+         "eind": 422
       },
       {
          "pl": 2000,
@@ -94121,7 +93950,7 @@
       },
       {
          "pl": 700,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 999818,
@@ -95962,14 +95791,22 @@
       },
       {
          "pl": 200,
-         "eind": 2357
-      },
-      {
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2358
       },
       {
          "adiv": "",
+         "desc": [],
          "eind": 2359
       },
       {
@@ -96201,14 +96038,6 @@
       {
          "pl": 100,
          "eind": 2557
-      },
-      {
-         "pl": 200,
-         "eind": 2561
-      },
-      {
-         "pl": 100,
-         "eind": 2562
       },
       {
          "pl": 200,
@@ -96618,11 +96447,6 @@
          "hp": 27445,
          "pl": 8800,
          "eind": 2858
-      },
-      {
-         "hp": 25850,
-         "pl": 8900,
-         "eind": 2859
       },
       {
          "hp": 2389,
@@ -97357,6 +97181,10 @@
       {
          "pl": 500,
          "eind": 3679
+      },
+      {
+         "pl": 700,
+         "eind": 3681
       }
    ],
    "160": [
@@ -97371,7 +97199,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.3412379,
             "y": 0.5515733
@@ -97427,7 +97255,7 @@
       },
       {
          "pl": 17200,
-         "eind": 423
+         "eind": 422
       },
       {
          "hp": 525109,
@@ -97778,7 +97606,7 @@
       },
       {
          "pl": 800,
-         "eind": 537
+         "eind": 536
       },
       {
          "pl": 700,
@@ -98995,14 +98823,6 @@
          "eind": 2856
       },
       {
-         "pl": 400,
-         "eind": 2859
-      },
-      {
-         "pl": 300,
-         "eind": 2860
-      },
-      {
          "pl": 500,
          "eind": 2861
       },
@@ -99147,12 +98967,8 @@
          "eind": 2981
       },
       {
-         "pl": 100,
-         "eind": 2983
-      },
-      {
          "pl": "<10",
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 100,
@@ -99224,7 +99040,7 @@
       },
       {
          "pl": 100,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": "<10",
@@ -99380,7 +99196,7 @@
       },
       {
          "pl": 100,
-         "eind": 3124
+         "eind": 3123
       },
       {
          "pl": 200,
@@ -99436,8 +99252,13 @@
          "eind": 3144
       },
       {
-         "poi": "Automaton",
-         "desc": "Vertically enhanced Jet Brigade soldiers are produced here.",
+         "poi": "Automatons",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            }
+         ],
          "eind": 3499
       },
       {
@@ -99533,7 +99354,7 @@
          "pl": 48800,
          "t": 16,
          "poi": "",
-         "desc": "",
+         "desc": [],
          "eind": 3540
       },
       {
@@ -99699,7 +99520,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.22899726,
             "y": 0.49906695
@@ -99749,12 +99570,9 @@
          "eind": 421
       },
       {
+         "pl": 61100,
          "t": 49,
          "eind": 422
-      },
-      {
-         "pl": 61100,
-         "eind": 423
       },
       {
          "hp": 516301,
@@ -100134,7 +99952,7 @@
       },
       {
          "hp": 576583,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 577364,
@@ -101578,12 +101396,8 @@
          "eind": 1227
       },
       {
-         "pl": 1000,
-         "eind": 1228
-      },
-      {
          "pl": 1100,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "pl": 900,
@@ -102142,7 +101956,7 @@
       },
       {
          "pl": "<10",
-         "eind": 1988
+         "eind": 1987
       },
       {
          "pl": 100,
@@ -102366,7 +102180,7 @@
       },
       {
          "pl": 1000,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "pl": 1200,
@@ -102845,12 +102659,8 @@
          "eind": 2239
       },
       {
-         "pl": 1400,
-         "eind": 2240
-      },
-      {
          "pl": 1500,
-         "eind": 2241
+         "eind": 2240
       },
       {
          "pl": 1600,
@@ -103198,20 +103008,12 @@
       },
       {
          "hp": 1000000,
-         "pl": 2200,
-         "eind": 2357
-      },
-      {
          "pl": 3300,
          "eind": 2358
       },
       {
-         "pl": 4300,
-         "eind": 2360
-      },
-      {
          "pl": 4500,
-         "eind": 2361
+         "eind": 2360
       },
       {
          "pl": 2300,
@@ -103339,11 +103141,8 @@
       },
       {
          "pl": 1500,
-         "eind": 2404
-      },
-      {
          "r": 5.5556,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "hp": 991353,
@@ -103818,7 +103617,7 @@
       {
          "hp": 536635,
          "pl": 10600,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "hp": 545643,
@@ -103884,14 +103683,9 @@
          "eind": 3101
       },
       {
-         "hp": 949147,
-         "pl": 1100,
-         "eind": 3102
-      },
-      {
          "hp": 952449,
          "pl": 1000,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "hp": 959152,
@@ -104295,14 +104089,6 @@
       {
          "pl": 1500,
          "eind": 3248
-      },
-      {
-         "pl": 1600,
-         "eind": 3249
-      },
-      {
-         "pl": 1500,
-         "eind": 3251
       },
       {
          "pl": 1400,
@@ -105079,6 +104865,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 3568
       },
       {
@@ -105183,6 +104979,7 @@
          "pl": 21100,
          "t": 16,
          "adiv": "",
+         "desc": [],
          "eind": 3594
       },
       {
@@ -105324,7 +105121,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6244252,
             "y": 0.10954041
@@ -105428,13 +105225,9 @@
          "eind": 703
       },
       {
-         "pl": 7300,
-         "eind": 704
-      },
-      {
          "pl": 7400,
          "r": 4.1667,
-         "eind": 705
+         "eind": 704
       },
       {
          "pl": 6500,
@@ -106173,7 +105966,7 @@
       },
       {
          "pl": 400,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "pl": 500,
@@ -106487,11 +106280,6 @@
          "hp": 507020,
          "pl": 15700,
          "eind": 1471
-      },
-      {
-         "hp": 503013,
-         "pl": 15900,
-         "eind": 1473
       },
       {
          "hp": 485663,
@@ -107693,9 +107481,13 @@
          "eind": 2356
       },
       {
-         "hp": 116723,
          "poi": "Badge",
-         "desc": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction.",
+         "desc": [
+            {
+               "name": "TERMINID RESEARCH PRESERVE",
+               "desc": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction."
+            }
+         ],
          "eind": 2357
       },
       {
@@ -107703,12 +107495,8 @@
          "eind": 2358
       },
       {
-         "hp": 119059,
-         "eind": 2360
-      },
-      {
          "hp": 119237,
-         "eind": 2361
+         "eind": 2360
       },
       {
          "hp": 119777,
@@ -107867,16 +107655,8 @@
          "eind": 2403
       },
       {
-         "hp": 207173,
-         "eind": 2404
-      },
-      {
          "hp": 207353,
-         "eind": 2405
-      },
-      {
-         "hp": 207533,
-         "eind": 2407
+         "eind": 2404
       },
       {
          "hp": 208789,
@@ -108131,12 +107911,8 @@
          "eind": 2474
       },
       {
-         "hp": 324401,
-         "eind": 2475
-      },
-      {
          "hp": 324581,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "hp": 325119,
@@ -108212,12 +107988,8 @@
          "eind": 2495
       },
       {
-         "hp": 362465,
-         "eind": 2496
-      },
-      {
          "hp": 362643,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "hp": 363901,
@@ -108465,12 +108237,8 @@
          "eind": 2560
       },
       {
-         "hp": 580623,
-         "eind": 2561
-      },
-      {
          "hp": 581613,
-         "eind": 2562
+         "eind": 2561
       },
       {
          "hp": 585551,
@@ -108610,12 +108378,8 @@
          "eind": 2599
       },
       {
-         "hp": 997974,
-         "eind": 2600
-      },
-      {
          "hp": 999954,
-         "eind": 2601
+         "eind": 2600
       },
       {
          "t": 33,
@@ -108930,7 +108694,7 @@
       },
       {
          "poi": "",
-         "desc": "",
+         "desc": [],
          "eind": 2696
       },
       {
@@ -109170,7 +108934,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7302936,
             "y": 0.14800768
@@ -109372,6 +109136,11 @@
          "hp": 514542,
          "pl": 5200,
          "eind": 1175
+      },
+      {
+         "hp": 514071,
+         "pl": 5000,
+         "eind": 1176
       },
       {
          "hp": 513729,
@@ -109614,14 +109383,9 @@
          "eind": 1227
       },
       {
-         "hp": 719619,
-         "pl": 6000,
-         "eind": 1228
-      },
-      {
          "hp": 720006,
          "pl": 6100,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "hp": 721850,
@@ -110288,12 +110052,8 @@
          "eind": 1389
       },
       {
-         "pl": 2200,
-         "eind": 1390
-      },
-      {
          "pl": 2300,
-         "eind": 1391
+         "eind": 1390
       },
       {
          "pl": 2200,
@@ -110570,10 +110330,6 @@
       {
          "pl": 2800,
          "eind": 1471
-      },
-      {
-         "pl": 2900,
-         "eind": 1473
       },
       {
          "pl": 2300,
@@ -111285,12 +111041,8 @@
          "eind": 1831
       },
       {
-         "pl": 1400,
-         "eind": 1832
-      },
-      {
          "pl": 1500,
-         "eind": 1833
+         "eind": 1832
       },
       {
          "pl": 2100,
@@ -111860,13 +111612,8 @@
          "eind": 1986
       },
       {
-         "hp": 999914,
          "pl": 400,
          "eind": 1987
-      },
-      {
-         "hp": 1000000,
-         "eind": 1988
       },
       {
          "hp": 999966,
@@ -112235,7 +111982,7 @@
       },
       {
          "pl": 2100,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "pl": 3200,
@@ -112479,14 +112226,8 @@
          "eind": 2146
       },
       {
-         "hp": 865457,
-         "pl": 16800,
-         "eind": 2147
-      },
-      {
          "hp": 862529,
-         "pl": 16700,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "hp": 851389,
@@ -112809,12 +112550,8 @@
          "eind": 2238
       },
       {
-         "pl": 2900,
-         "eind": 2240
-      },
-      {
          "pl": 3000,
-         "eind": 2241
+         "eind": 2240
       },
       {
          "pl": 1400,
@@ -113184,11 +112921,8 @@
          "eind": 2406
       },
       {
-         "r": 0.0,
-         "eind": 2407
-      },
-      {
          "pl": 10800,
+         "r": 0.0,
          "eind": 2408
       },
       {
@@ -113356,14 +113090,9 @@
          "eind": 2495
       },
       {
-         "hp": 921936,
-         "pl": 29300,
-         "eind": 2496
-      },
-      {
          "hp": 916884,
          "pl": 29400,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "hp": 886842,
@@ -114464,10 +114193,6 @@
          "eind": 2952
       },
       {
-         "pl": 2400,
-         "eind": 2957
-      },
-      {
          "pl": 1600,
          "eind": 2958
       },
@@ -114532,12 +114257,8 @@
          "eind": 2981
       },
       {
-         "pl": 1200,
-         "eind": 2983
-      },
-      {
          "pl": 900,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 400,
@@ -114805,7 +114526,7 @@
       },
       {
          "pl": 2200,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "pl": 1600,
@@ -114856,12 +114577,8 @@
          "eind": 3101
       },
       {
-         "pl": 1100,
-         "eind": 3102
-      },
-      {
          "pl": 1000,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 1200,
@@ -114902,14 +114619,6 @@
       {
          "pl": 1500,
          "eind": 3113
-      },
-      {
-         "pl": 1600,
-         "eind": 3116
-      },
-      {
-         "pl": 1500,
-         "eind": 3117
       },
       {
          "pl": 1000,
@@ -115162,7 +114871,7 @@
       },
       {
          "pl": 600,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 800,
@@ -116077,7 +115786,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7312195,
             "y": -0.12242107
@@ -116470,12 +116179,8 @@
          "eind": 2403
       },
       {
-         "pl": 2400,
-         "eind": 2404
-      },
-      {
          "pl": 2300,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "pl": 800,
@@ -117097,12 +116802,8 @@
          "eind": 2599
       },
       {
-         "pl": 1800,
-         "eind": 2600
-      },
-      {
          "pl": 1900,
-         "eind": 2601
+         "eind": 2600
       },
       {
          "pl": 900,
@@ -117716,14 +117417,9 @@
          "eind": 2981
       },
       {
-         "hp": 548304,
-         "pl": 3900,
-         "eind": 2983
-      },
-      {
          "hp": 547977,
          "pl": 2800,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "hp": 547439,
@@ -117876,7 +117572,7 @@
       },
       {
          "hp": 824169,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "hp": 844100,
@@ -118152,11 +117848,8 @@
       },
       {
          "hp": 1000000,
-         "eind": 3123
-      },
-      {
          "pl": 900,
-         "eind": 3124
+         "eind": 3123
       },
       {
          "pl": 1200,
@@ -118468,7 +118161,7 @@
       },
       {
          "hp": 999986,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "hp": 1000000,
@@ -119286,7 +118979,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.8252936,
             "y": -0.13200772
@@ -120010,11 +119703,10 @@
          "eind": 2023
       },
       {
-         "pl": 4900,
+         "pl": 4800,
          "eind": 2024
       },
       {
-         "pl": 4800,
          "t": 16,
          "eind": 2025
       },
@@ -120092,7 +119784,7 @@
       {
          "pl": 15800,
          "r": 4.1667,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "pl": 6100,
@@ -120434,12 +120126,7 @@
       {
          "hp": 851407,
          "pl": 6500,
-         "eind": 2954
-      },
-      {
-         "hp": 854107,
-         "pl": 14000,
-         "eind": 2957
+         "eind": 2956
       },
       {
          "hp": 862068,
@@ -120522,14 +120209,9 @@
          "eind": 2981
       },
       {
-         "hp": 998228,
-         "pl": 9900,
-         "eind": 2983
-      },
-      {
          "hp": 997663,
          "pl": 7400,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "hp": 997702,
@@ -120645,7 +120327,7 @@
       },
       {
          "pl": 1900,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 1300,
@@ -120741,7 +120423,7 @@
       },
       {
          "pl": 3500,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": 3300,
@@ -120866,7 +120548,7 @@
       {
          "hp": 1000000,
          "pl": 15400,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "pl": 11300,
@@ -120928,14 +120610,8 @@
          "eind": 3101
       },
       {
-         "hp": 999951,
-         "pl": 10900,
-         "eind": 3102
-      },
-      {
-         "hp": 1000000,
          "pl": 10700,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "hp": 999983,
@@ -120993,12 +120669,8 @@
       },
       {
          "hp": 1000000,
-         "pl": 12200,
-         "eind": 3116
-      },
-      {
          "pl": 11700,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "hp": 999880,
@@ -121016,14 +120688,9 @@
          "eind": 3122
       },
       {
-         "hp": 976299,
-         "pl": 12000,
-         "eind": 3123
-      },
-      {
          "hp": 976345,
          "pl": 11500,
-         "eind": 3124
+         "eind": 3123
       },
       {
          "hp": 990109,
@@ -121471,14 +121138,8 @@
          "eind": 3227
       },
       {
-         "hp": 999979,
-         "pl": 6700,
-         "eind": 3228
-      },
-      {
-         "hp": 1000000,
          "pl": 6800,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "hp": 997238,
@@ -121557,12 +121218,8 @@
          "eind": 3248
       },
       {
-         "pl": 4100,
-         "eind": 3249
-      },
-      {
          "pl": 4000,
-         "eind": 3251
+         "eind": 3249
       },
       {
          "pl": 3400,
@@ -122275,7 +121932,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7147919,
             "y": 0.06394728
@@ -122384,12 +122041,8 @@
          "eind": 703
       },
       {
-         "pl": 3300,
-         "eind": 704
-      },
-      {
          "pl": 3200,
-         "eind": 705
+         "eind": 704
       },
       {
          "pl": 2800,
@@ -123070,7 +122723,7 @@
       },
       {
          "pl": 100,
-         "eind": 985
+         "eind": 984
       },
       {
          "pl": "<10",
@@ -123215,6 +122868,10 @@
          "hp": 801072,
          "pl": 1400,
          "eind": 1175
+      },
+      {
+         "hp": 803197,
+         "eind": 1176
       },
       {
          "hp": 805046,
@@ -123420,14 +123077,9 @@
          "eind": 1227
       },
       {
-         "hp": 583645,
-         "pl": 34800,
-         "eind": 1228
-      },
-      {
          "hp": 573743,
          "pl": 35000,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "hp": 537192,
@@ -124229,13 +123881,9 @@
          "eind": 1986
       },
       {
-         "hp": 999930,
+         "hp": 1000000,
          "pl": 1200,
          "eind": 1987
-      },
-      {
-         "hp": 1000000,
-         "eind": 1988
       },
       {
          "hp": 999987,
@@ -124374,7 +124022,7 @@
       },
       {
          "hp": 999988,
-         "eind": 2025
+         "eind": 2024
       },
       {
          "hp": 1000000,
@@ -124641,7 +124289,7 @@
       },
       {
          "pl": 5600,
-         "eind": 2087
+         "eind": 2086
       },
       {
          "pl": 11700,
@@ -124902,7 +124550,7 @@
       },
       {
          "pl": 700,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "pl": 900,
@@ -125672,14 +125320,9 @@
          "eind": 2474
       },
       {
-         "hp": 876199,
-         "pl": 10700,
-         "eind": 2475
-      },
-      {
          "hp": 869926,
          "pl": 10900,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "hp": 853879,
@@ -125934,6 +125577,14 @@
       {
          "pl": 700,
          "eind": 2638
+      },
+      {
+         "pl": 800,
+         "eind": 2639
+      },
+      {
+         "pl": 700,
+         "eind": 2640
       },
       {
          "pl": 600,
@@ -127014,12 +126665,8 @@
       },
       {
          "hp": 1000000,
-         "pl": 1800,
-         "eind": 2922
-      },
-      {
          "pl": 1900,
-         "eind": 2923
+         "eind": 2922
       },
       {
          "pl": 1400,
@@ -127102,10 +126749,6 @@
          "eind": 2953
       },
       {
-         "pl": 4000,
-         "eind": 2957
-      },
-      {
          "pl": 2700,
          "eind": 2958
       },
@@ -127166,12 +126809,8 @@
          "eind": 2981
       },
       {
-         "pl": 2200,
-         "eind": 2983
-      },
-      {
          "pl": 1700,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 900,
@@ -127502,12 +127141,8 @@
          "eind": 3101
       },
       {
-         "pl": 2500,
-         "eind": 3102
-      },
-      {
          "pl": 2400,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 3200,
@@ -129036,6 +128671,10 @@
       {
          "pl": 1800,
          "eind": 3680
+      },
+      {
+         "pl": 1400,
+         "eind": 3681
       }
    ],
    "217": [
@@ -129050,7 +128689,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7587918,
             "y": -0.019947395
@@ -129674,15 +129313,11 @@
       },
       {
          "pl": 2500,
-         "eind": 884
-      },
-      {
-         "pl": 3000,
-         "eind": 885
+         "eind": 883
       },
       {
          "pl": 3500,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 2900,
@@ -129982,12 +129617,8 @@
          "eind": 983
       },
       {
-         "pl": 1200,
-         "eind": 984
-      },
-      {
          "pl": 1300,
-         "eind": 985
+         "eind": 984
       },
       {
          "pl": 2900,
@@ -130132,12 +129763,8 @@
          "eind": 1019
       },
       {
-         "pl": 800,
-         "eind": 1020
-      },
-      {
          "pl": 900,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "pl": 1500,
@@ -130251,6 +129878,10 @@
       {
          "pl": 6900,
          "eind": 1175
+      },
+      {
+         "pl": 7100,
+         "eind": 1176
       },
       {
          "pl": 7300,
@@ -131500,23 +131131,14 @@
          "eind": 2356
       },
       {
-         "hp": 496313,
-         "eind": 2357
-      },
-      {
          "hp": 494098,
          "pl": 4400,
          "eind": 2358
       },
       {
-         "hp": 495261,
-         "pl": 5700,
-         "eind": 2360
-      },
-      {
          "hp": 494657,
          "pl": 5800,
-         "eind": 2361
+         "eind": 2360
       },
       {
          "hp": 496059,
@@ -131691,18 +131313,9 @@
          "eind": 2403
       },
       {
-         "hp": 986420,
-         "pl": 13700,
-         "eind": 2404
-      },
-      {
          "hp": 982383,
          "pl": 13600,
-         "eind": 2405
-      },
-      {
-         "hp": 978674,
-         "eind": 2407
+         "eind": 2404
       },
       {
          "hp": 966223,
@@ -131908,7 +131521,7 @@
       {
          "hp": 139436,
          "pl": 19800,
-         "eind": 2456
+         "eind": 2455
       },
       {
          "hp": 134697,
@@ -132871,6 +132484,10 @@
       {
          "pl": 3500,
          "eind": 3680
+      },
+      {
+         "pl": 3200,
+         "eind": 3681
       }
    ],
    "152": [
@@ -132885,7 +132502,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.9146473,
             "y": -0.17310524
@@ -132979,13 +132596,9 @@
          "eind": 332
       },
       {
-         "pl": 3900,
-         "eind": 333
-      },
-      {
          "hp": 999993,
          "pl": 4200,
-         "eind": 334
+         "eind": 333
       },
       {
          "hp": 1000000,
@@ -133003,7 +132616,7 @@
       },
       {
          "pl": 7400,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 3300,
@@ -133087,7 +132700,7 @@
       },
       {
          "pl": 5400,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 7800,
@@ -133324,7 +132937,7 @@
       },
       {
          "pl": 200,
-         "eind": 423
+         "eind": 422
       },
       {
          "pl": 300,
@@ -133403,7 +133016,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.9272936,
             "y": -0.04299212
@@ -133482,7 +133095,7 @@
       },
       {
          "pl": 12600,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 5800,
@@ -133567,12 +133180,8 @@
          "eind": 361
       },
       {
-         "pl": 14000,
-         "eind": 362
-      },
-      {
          "pl": 13600,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 24200,
@@ -133822,7 +133431,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.8473348,
             "y": -0.096041
@@ -134857,14 +134466,9 @@
          "eind": 332
       },
       {
-         "hp": 99780,
-         "pl": 21400,
-         "eind": 333
-      },
-      {
          "hp": 98072,
          "pl": 23500,
-         "eind": 334
+         "eind": 333
       },
       {
          "hp": 94303,
@@ -134886,7 +134490,7 @@
       },
       {
          "pl": 90100,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 3000,
@@ -135075,7 +134679,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.7807918,
             "y": -0.3289472
@@ -135172,14 +134776,9 @@
          "eind": 332
       },
       {
-         "hp": 713198,
-         "pl": 69800,
-         "eind": 333
-      },
-      {
          "hp": 703369,
          "pl": 69900,
-         "eind": 334
+         "eind": 333
       },
       {
          "hp": 689101,
@@ -135200,7 +134799,7 @@
       {
          "hp": 725249,
          "pl": 27900,
-         "eind": 341
+         "eind": 340
       },
       {
          "hp": 767443,
@@ -135300,7 +134899,7 @@
       },
       {
          "pl": 10500,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 16800,
@@ -135604,7 +135203,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.8157918,
             "y": -0.2170526
@@ -136277,12 +135876,8 @@
          "eind": 332
       },
       {
-         "pl": 1500,
-         "eind": 333
-      },
-      {
          "pl": 1700,
-         "eind": 334
+         "eind": 333
       },
       {
          "pl": 1600,
@@ -136298,7 +135893,7 @@
       },
       {
          "pl": 24400,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 148200,
@@ -136504,7 +136099,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6009798,
             "y": 0.2024094
@@ -136531,7 +136126,7 @@
       },
       {
          "pl": 2700,
-         "eind": 537
+         "eind": 536
       },
       {
          "pl": 6700,
@@ -137512,12 +137107,8 @@
          "eind": 882
       },
       {
-         "pl": 200,
-         "eind": 885
-      },
-      {
          "pl": 300,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 400,
@@ -138198,7 +137789,7 @@
       },
       {
          "pl": 200,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "pl": 100,
@@ -138684,7 +138275,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.575186,
             "y": 0.26594892
@@ -138782,7 +138373,7 @@
       {
          "hp": 582267,
          "pl": 2300,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 583155,
@@ -139107,6 +138698,10 @@
       {
          "pl": 14300,
          "eind": 3680
+      },
+      {
+         "pl": 19300,
+         "eind": 3681
       }
    ],
    "198": [
@@ -139121,7 +138716,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.43697178,
             "y": 0.3259796
@@ -139546,7 +139141,7 @@
       {
          "hp": 552359,
          "pl": 5300,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 552944,
@@ -140875,15 +140470,11 @@
       },
       {
          "pl": 500,
-         "eind": 884
-      },
-      {
-         "pl": 1400,
-         "eind": 885
+         "eind": 883
       },
       {
          "pl": 2300,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 3200,
@@ -141219,12 +140810,8 @@
          "eind": 983
       },
       {
-         "pl": 2400,
-         "eind": 984
-      },
-      {
          "pl": 2500,
-         "eind": 985
+         "eind": 984
       },
       {
          "pl": 2000,
@@ -141746,7 +141333,7 @@
       },
       {
          "pl": 500,
-         "eind": 1177
+         "eind": 1176
       },
       {
          "pl": 300,
@@ -142519,6 +142106,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2380
       },
       {
@@ -142570,6 +142167,7 @@
       },
       {
          "adiv": "",
+         "desc": [],
          "eind": 2392
       },
       {
@@ -142938,7 +142536,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5379487,
             "y": 0.3338475
@@ -143388,7 +142986,7 @@
       {
          "hp": 167484,
          "pl": 300,
-         "eind": 537
+         "eind": 536
       },
       {
          "hp": 168654,
@@ -143810,6 +143408,16 @@
       },
       {
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2372
       },
       {
@@ -143848,6 +143456,7 @@
          "hp": 540288,
          "pl": 25700,
          "adiv": "",
+         "desc": [],
          "eind": 2380
       },
       {
@@ -143952,12 +143561,6 @@
          "eind": 2404
       },
       {
-         "hp": 999985,
-         "pl": 4100,
-         "eind": 2407
-      },
-      {
-         "hp": 1000000,
          "pl": 1300,
          "eind": 2408
       },
@@ -144160,13 +143763,9 @@
          "eind": 2474
       },
       {
-         "pl": 3200,
-         "eind": 2475
-      },
-      {
          "hp": 999994,
          "pl": 3400,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "hp": 999964,
@@ -144233,12 +143832,8 @@
          "eind": 2495
       },
       {
-         "pl": 2800,
-         "eind": 2496
-      },
-      {
          "pl": 2700,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "pl": 1600,
@@ -144410,7 +144005,7 @@
       {
          "hp": 1000000,
          "pl": 1300,
-         "eind": 2545
+         "eind": 2544
       },
       {
          "pl": 1200,
@@ -144591,12 +144186,8 @@
          "eind": 2597
       },
       {
-         "pl": 300,
-         "eind": 2600
-      },
-      {
          "pl": 200,
-         "eind": 2602
+         "eind": 2600
       },
       {
          "pl": 300,
@@ -145359,10 +144950,6 @@
          "eind": 2951
       },
       {
-         "pl": 1000,
-         "eind": 2957
-      },
-      {
          "pl": 800,
          "eind": 2958
       },
@@ -145664,7 +145251,7 @@
       {
          "hp": 967163,
          "pl": 2600,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "hp": 965258,
@@ -145731,13 +145318,9 @@
          "eind": 3101
       },
       {
-         "hp": 914812,
+         "hp": 914435,
          "pl": 1100,
          "eind": 3102
-      },
-      {
-         "hp": 914435,
-         "eind": 3103
       },
       {
          "hp": 913668,
@@ -145795,14 +145378,9 @@
          "eind": 3115
       },
       {
-         "hp": 802021,
-         "pl": 2600,
-         "eind": 3116
-      },
-      {
          "hp": 801300,
          "pl": 2500,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "hp": 796819,
@@ -145820,14 +145398,9 @@
          "eind": 3122
       },
       {
-         "hp": 764434,
-         "pl": 2600,
-         "eind": 3123
-      },
-      {
          "hp": 763479,
          "pl": 2500,
-         "eind": 3124
+         "eind": 3123
       },
       {
          "hp": 743150,
@@ -146315,14 +145888,9 @@
          "eind": 3227
       },
       {
-         "hp": 237813,
-         "pl": 2700,
-         "eind": 3228
-      },
-      {
          "hp": 238270,
          "pl": 2600,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "hp": 240787,
@@ -146403,12 +145971,8 @@
          "eind": 3248
       },
       {
-         "hp": 478354,
-         "eind": 3249
-      },
-      {
          "hp": 480106,
-         "eind": 3251
+         "eind": 3249
       },
       {
          "hp": 483554,
@@ -147597,6 +147161,10 @@
       {
          "pl": 1300,
          "eind": 3679
+      },
+      {
+         "pl": 1600,
+         "eind": 3681
       }
    ],
    "200": [
@@ -147611,7 +147179,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.4909794,
             "y": 0.4139719
@@ -147934,12 +147502,9 @@
          "eind": 535
       },
       {
+         "pl": 2300,
          "t": 48,
          "eind": 536
-      },
-      {
-         "pl": 2300,
-         "eind": 537
       },
       {
          "pl": 1600,
@@ -148280,14 +147845,9 @@
          "eind": 1389
       },
       {
-         "hp": 917293,
-         "pl": 5100,
-         "eind": 1390
-      },
-      {
          "hp": 916309,
          "pl": 5400,
-         "eind": 1391
+         "eind": 1390
       },
       {
          "hp": 914023,
@@ -148481,12 +148041,8 @@
          "eind": 1831
       },
       {
-         "pl": 2600,
-         "eind": 1832
-      },
-      {
          "pl": 2800,
-         "eind": 1833
+         "eind": 1832
       },
       {
          "pl": 2600,
@@ -148521,6 +148077,16 @@
       {
          "t": 23,
          "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
          "eind": 2360
       },
       {
@@ -148568,6 +148134,7 @@
       },
       {
          "adiv": "",
+         "desc": [],
          "eind": 2372
       },
       {
@@ -148691,10 +148258,6 @@
       {
          "pl": 900,
          "eind": 2404
-      },
-      {
-         "pl": 1000,
-         "eind": 2407
       },
       {
          "pl": 400,
@@ -148904,14 +148467,6 @@
       {
          "pl": 300,
          "eind": 2473
-      },
-      {
-         "pl": 400,
-         "eind": 2475
-      },
-      {
-         "pl": 300,
-         "eind": 2476
       },
       {
          "pl": 400,
@@ -149296,13 +148851,9 @@
          "eind": 3227
       },
       {
-         "hp": 662819,
+         "hp": 666061,
          "pl": 1100,
          "eind": 3228
-      },
-      {
-         "hp": 666061,
-         "eind": 3229
       },
       {
          "hp": 678913,
@@ -150411,6 +149962,11 @@
       {
          "hp": 784948,
          "eind": 3680
+      },
+      {
+         "hp": 828349,
+         "pl": 2500,
+         "eind": 3681
       }
    ],
    "158": [
@@ -150425,7 +149981,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.7044093,
             "y": 0.25667855
@@ -151658,15 +151214,11 @@
       },
       {
          "pl": 1800,
-         "eind": 884
-      },
-      {
-         "pl": 6000,
-         "eind": 885
+         "eind": 883
       },
       {
          "pl": 9400,
-         "eind": 886
+         "eind": 885
       },
       {
          "hp": 999730,
@@ -152856,7 +152408,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.9021621,
             "y": 0.15547518
@@ -153057,7 +152609,7 @@
       },
       {
          "pl": 200,
-         "eind": 334
+         "eind": 333
       },
       {
          "pl": 300,
@@ -153825,7 +153377,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.806865,
             "y": 0.20750636
@@ -154720,14 +154272,6 @@
       },
       {
          "pl": 100,
-         "eind": 333
-      },
-      {
-         "pl": "<10",
-         "eind": 334
-      },
-      {
-         "pl": 100,
          "eind": 335
       },
       {
@@ -155173,10 +154717,6 @@
       {
          "hp": 996416,
          "eind": 1471
-      },
-      {
-         "hp": 996282,
-         "eind": 1473
       },
       {
          "hp": 995152,
@@ -155676,7 +155216,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.840825,
             "y": 0.06103413
@@ -156011,7 +155551,7 @@
       },
       {
          "pl": 200,
-         "eind": 341
+         "eind": 340
       },
       {
          "pl": 100,
@@ -156076,12 +155616,8 @@
          "eind": 361
       },
       {
-         "pl": 2000,
-         "eind": 362
-      },
-      {
          "pl": 1700,
-         "eind": 363
+         "eind": 362
       },
       {
          "pl": 1500,
@@ -156289,6 +155825,11 @@
          "hp": 734271,
          "pl": 2700,
          "eind": 1175
+      },
+      {
+         "hp": 734415,
+         "pl": 2900,
+         "eind": 1176
       },
       {
          "hp": 733883,
@@ -156528,14 +156069,9 @@
          "eind": 1227
       },
       {
-         "hp": 650223,
-         "pl": 2300,
-         "eind": 1228
-      },
-      {
          "hp": 651303,
          "pl": 2400,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "hp": 655317,
@@ -157263,11 +156799,6 @@
          "hp": 818075,
          "pl": 3100,
          "eind": 1471
-      },
-      {
-         "hp": 816490,
-         "pl": 3000,
-         "eind": 1473
       },
       {
          "hp": 808026,
@@ -158345,7 +157876,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.74635,
             "y": 0.3441284
@@ -158729,17 +158260,12 @@
       {
          "hp": 500970,
          "pl": 53700,
-         "eind": 884
-      },
-      {
-         "hp": 509700,
-         "pl": 37400,
-         "eind": 885
+         "eind": 883
       },
       {
          "hp": 518430,
          "pl": 22700,
-         "eind": 886
+         "eind": 885
       },
       {
          "hp": 544620,
@@ -158886,19 +158412,22 @@
       },
       {
          "pl": "<10",
-         "eind": 977
+         "eind": 976
       },
       {
          "r": 4.1667,
-         "eind": 1021
+         "eind": 1020
       },
       {
          "t": 23,
          "eind": 1175
       },
       {
-         "pl": 700,
          "r": 0.0,
+         "eind": 1176
+      },
+      {
+         "pl": 700,
          "eind": 1177
       },
       {
@@ -159277,11 +158806,6 @@
       {
          "hp": 990685,
          "eind": 1471
-      },
-      {
-         "hp": 990025,
-         "pl": 1600,
-         "eind": 1473
       },
       {
          "hp": 986486,
@@ -159779,7 +159303,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.47584745,
             "y": 0.6789487
@@ -159917,7 +159441,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5693348,
             "y": 0.6043272
@@ -160051,7 +159575,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7657729,
             "y": 0.5369948
@@ -160197,7 +159721,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.77812827,
             "y": 0.3443502
@@ -160339,7 +159863,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5267236,
             "y": 0.7475853
@@ -160481,7 +160005,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6665664,
             "y": 0.6070179
@@ -160619,7 +160143,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6838866,
             "y": 0.48672357
@@ -161497,7 +161021,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5683347,
             "y": 0.4903273
@@ -161551,12 +161075,9 @@
          "eind": 535
       },
       {
+         "pl": 6600,
          "t": 49,
          "eind": 536
-      },
-      {
-         "pl": 6600,
-         "eind": 537
       },
       {
          "hp": 501123,
@@ -162900,12 +162421,8 @@
          "eind": 1227
       },
       {
-         "pl": 700,
-         "eind": 1228
-      },
-      {
          "pl": 800,
-         "eind": 1229
+         "eind": 1228
       },
       {
          "pl": 700,
@@ -163393,7 +162910,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6519177,
             "y": 0.45428553
@@ -163765,12 +163282,8 @@
          "eind": 878
       },
       {
-         "pl": 300,
-         "eind": 885
-      },
-      {
          "pl": 400,
-         "eind": 886
+         "eind": 885
       },
       {
          "pl": 500,
@@ -164162,11 +163675,8 @@
          "eind": 1471
       },
       {
-         "r": 0.0,
-         "eind": 1473
-      },
-      {
          "pl": 2600,
+         "r": 0.0,
          "eind": 1474
       },
       {
@@ -164571,7 +164081,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.7952854,
             "y": 0.4969178
@@ -164613,12 +164123,8 @@
          "eind": 983
       },
       {
-         "pl": 2800,
-         "eind": 984
-      },
-      {
          "pl": 3000,
-         "eind": 985
+         "eind": 984
       },
       {
          "pl": 2100,
@@ -165469,10 +164975,6 @@
          "eind": 1471
       },
       {
-         "hp": 929359,
-         "eind": 1473
-      },
-      {
          "hp": 927297,
          "eind": 1474
       },
@@ -165938,7 +165440,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.8741281,
             "y": 0.3473503
@@ -166075,17 +165577,12 @@
       },
       {
          "hp": 992016,
-         "eind": 884
-      },
-      {
-         "hp": 994429,
-         "pl": 100,
-         "eind": 885
+         "eind": 883
       },
       {
          "hp": 996832,
          "pl": 200,
-         "eind": 886
+         "eind": 885
       },
       {
          "hp": 1000000,
@@ -166880,7 +166377,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6895062,
             "y": 0.5908651
@@ -167213,7 +166710,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.122073,
             "y": 0.5435566
@@ -167330,12 +166827,8 @@
          "eind": 1986
       },
       {
-         "hp": 785189,
-         "eind": 1987
-      },
-      {
          "hp": 788486,
-         "eind": 1988
+         "eind": 1987
       },
       {
          "hp": 798249,
@@ -167579,12 +167072,9 @@
          "eind": 2085
       },
       {
+         "pl": 500,
          "link2": 207,
          "eind": 2086
-      },
-      {
-         "pl": 500,
-         "eind": 2087
       },
       {
          "pl": 600,
@@ -167712,7 +167202,7 @@
       },
       {
          "pl": 1300,
-         "eind": 2148
+         "eind": 2147
       },
       {
          "pl": 600,
@@ -168097,10 +167587,6 @@
          "eind": 2355
       },
       {
-         "pl": 600,
-         "eind": 2357
-      },
-      {
          "pl": 700,
          "eind": 2358
       },
@@ -168213,16 +167699,8 @@
          "eind": 2403
       },
       {
-         "pl": 400,
-         "eind": 2404
-      },
-      {
          "pl": 500,
-         "eind": 2405
-      },
-      {
-         "pl": 400,
-         "eind": 2407
+         "eind": 2404
       },
       {
          "pl": 100,
@@ -168381,12 +167859,8 @@
          "eind": 2474
       },
       {
-         "pl": 400,
-         "eind": 2475
-      },
-      {
          "pl": 300,
-         "eind": 2476
+         "eind": 2475
       },
       {
          "pl": 500,
@@ -168449,12 +167923,8 @@
          "eind": 2495
       },
       {
-         "pl": 3100,
-         "eind": 2496
-      },
-      {
          "pl": 2900,
-         "eind": 2497
+         "eind": 2496
       },
       {
          "pl": 700,
@@ -169879,12 +169349,8 @@
          "eind": 2981
       },
       {
-         "pl": 5400,
-         "eind": 2983
-      },
-      {
          "pl": 3700,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 1200,
@@ -170008,7 +169474,7 @@
       },
       {
          "pl": 4600,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 2800,
@@ -170120,7 +169586,7 @@
       },
       {
          "pl": 4200,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": 4000,
@@ -170255,7 +169721,7 @@
       },
       {
          "pl": 7200,
-         "eind": 3087
+         "eind": 3086
       },
       {
          "pl": 5000,
@@ -170312,12 +169778,8 @@
          "eind": 3101
       },
       {
-         "pl": 4600,
-         "eind": 3102
-      },
-      {
          "pl": 4500,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 6400,
@@ -170366,12 +169828,8 @@
          "eind": 3115
       },
       {
-         "pl": 5800,
-         "eind": 3116
-      },
-      {
          "pl": 5500,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "pl": 4300,
@@ -170762,12 +170220,8 @@
       },
       {
          "hp": 1000000,
-         "pl": 3900,
-         "eind": 3228
-      },
-      {
          "pl": 3700,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 2400,
@@ -170830,12 +170284,8 @@
          "eind": 3248
       },
       {
-         "pl": 8200,
-         "eind": 3249
-      },
-      {
          "pl": 7900,
-         "eind": 3250
+         "eind": 3249
       },
       {
          "pl": 7500,
@@ -171916,6 +171366,10 @@
       {
          "pl": 400,
          "eind": 3679
+      },
+      {
+         "pl": 600,
+         "eind": 3681
       }
    ],
    "161": [
@@ -171930,7 +171384,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.04959929,
             "y": 0.5291288
@@ -172420,7 +171874,12 @@
          "hp": 1000000,
          "pl": 1400,
          "poi": "Hammer",
-         "desc": "The smelters and refineries on this planet turn crude materials into usable hardware.",
+         "desc": [
+            {
+               "name": "Deep Mantle Forge Complex",
+               "desc": "The smelters and refineries on this planet turn crude materials into usable hardware."
+            }
+         ],
          "eind": 2252
       },
       {
@@ -172663,7 +172122,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.07354023,
             "y": 0.6374251
@@ -173144,12 +172603,8 @@
          "eind": 2239
       },
       {
-         "pl": 5300,
-         "eind": 2240
-      },
-      {
          "pl": 5400,
-         "eind": 2241
+         "eind": 2240
       },
       {
          "pl": 5800,
@@ -174346,7 +173801,7 @@
       },
       {
          "pl": 100,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": "<10",
@@ -174422,7 +173877,7 @@
       },
       {
          "pl": 200,
-         "eind": 3017
+         "eind": 3016
       },
       {
          "pl": 300,
@@ -174621,14 +174076,6 @@
          "eind": 3113
       },
       {
-         "pl": 400,
-         "eind": 3116
-      },
-      {
-         "pl": 300,
-         "eind": 3117
-      },
-      {
          "pl": 200,
          "eind": 3120
       },
@@ -174793,12 +174240,8 @@
          "eind": 3225
       },
       {
-         "pl": 200,
-         "eind": 3228
-      },
-      {
          "pl": 100,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 200,
@@ -175321,7 +174764,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.061421014,
             "y": 0.6512196
@@ -175402,7 +174845,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.13953374,
             "y": 0.7098659
@@ -175466,12 +174909,9 @@
          "eind": 2454
       },
       {
+         "hp": 563837,
          "t": 49,
          "eind": 2455
-      },
-      {
-         "hp": 563837,
-         "eind": 2456
       },
       {
          "hp": 567482,
@@ -175630,7 +175070,7 @@
       },
       {
          "pl": 400,
-         "eind": 2957
+         "eind": 2958
       },
       {
          "pl": 100,
@@ -175926,7 +175366,7 @@
       },
       {
          "pl": 600,
-         "eind": 3074
+         "eind": 3075
       },
       {
          "pl": 400,
@@ -176029,28 +175469,12 @@
          "eind": 3113
       },
       {
-         "pl": 700,
-         "eind": 3116
-      },
-      {
-         "pl": 600,
-         "eind": 3117
-      },
-      {
          "pl": 400,
          "eind": 3120
       },
       {
          "pl": 600,
          "eind": 3122
-      },
-      {
-         "pl": 500,
-         "eind": 3123
-      },
-      {
-         "pl": 600,
-         "eind": 3124
       },
       {
          "pl": 700,
@@ -177179,6 +176603,10 @@
       {
          "pl": 200,
          "eind": 3679
+      },
+      {
+         "pl": 300,
+         "eind": 3681
       }
    ],
    "251": [
@@ -177193,7 +176621,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.048947096,
             "y": 0.72179186
@@ -177283,12 +176711,8 @@
          "eind": 2403
       },
       {
-         "pl": 3400,
-         "eind": 2404
-      },
-      {
          "pl": 3500,
-         "eind": 2405
+         "eind": 2404
       },
       {
          "pl": 800,
@@ -177486,7 +176910,7 @@
       },
       {
          "pl": 400,
-         "eind": 2923
+         "eind": 2922
       },
       {
          "pl": 200,
@@ -177534,11 +176958,7 @@
       },
       {
          "pl": 100,
-         "eind": 2954
-      },
-      {
-         "pl": 400,
-         "eind": 2957
+         "eind": 2956
       },
       {
          "pl": 300,
@@ -177734,7 +177154,7 @@
       },
       {
          "pl": 300,
-         "eind": 3074
+         "eind": 3075
       },
       {
          "pl": 200,
@@ -177809,12 +177229,8 @@
          "eind": 3101
       },
       {
-         "pl": 300,
-         "eind": 3102
-      },
-      {
          "pl": 200,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 300,
@@ -177847,14 +177263,6 @@
       {
          "pl": 400,
          "eind": 3113
-      },
-      {
-         "pl": 500,
-         "eind": 3116
-      },
-      {
-         "pl": 400,
-         "eind": 3117
       },
       {
          "pl": 300,
@@ -177954,7 +177362,7 @@
       },
       {
          "pl": 200,
-         "eind": 3157
+         "eind": 3156
       },
       {
          "pl": 100,
@@ -178070,7 +177478,7 @@
       },
       {
          "pl": 200,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 100,
@@ -178821,7 +178229,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.13535836,
             "y": -0.03378948
@@ -178851,7 +178259,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.09485684,
             "y": -0.08101245
@@ -178881,7 +178289,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.15801243,
             "y": -0.09685686
@@ -178912,7 +178320,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.06770126,
             "y": -0.1448935
@@ -178938,7 +178346,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.23037383,
             "y": -0.0976583
@@ -178968,7 +178376,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2007717,
             "y": -0.1490952
@@ -178994,7 +178402,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.030315775,
             "y": 0.2269306
@@ -179024,7 +178432,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.09383544,
             "y": 0.25608748
@@ -179054,7 +178462,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.037842084,
             "y": 0.32250285
@@ -179085,7 +178493,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.1129696,
             "y": 0.3345827
@@ -179115,7 +178523,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.0441322,
             "y": 0.42626023
@@ -179149,7 +178557,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.1661038,
             "y": 0.40307793
@@ -179175,7 +178583,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.04284205,
             "y": -0.33550286
@@ -179351,7 +178759,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.038842108,
             "y": -0.32750285
@@ -179501,7 +178909,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.18610376,
             "y": -0.381078
@@ -179540,12 +178948,8 @@
          "eind": 2981
       },
       {
-         "pl": 800,
-         "eind": 2983
-      },
-      {
          "pl": 600,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 400,
@@ -179736,7 +179140,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.15380847,
             "y": -0.4373544
@@ -179770,11 +179174,10 @@
          "eind": 3101
       },
       {
-         "pl": 35100,
+         "pl": 33200,
          "eind": 3102
       },
       {
-         "pl": 33200,
          "t": 16,
          "eind": 3103
       },
@@ -179908,7 +179311,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.06113215,
             "y": -0.40526026
@@ -179991,7 +179394,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.00063157,
             "y": -0.4440751
@@ -180126,7 +179529,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.07607324,
             "y": -0.44355652
@@ -180375,7 +179778,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.11379249,
             "y": -0.3215678
@@ -180405,7 +179808,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.19953328,
             "y": -0.2830419
@@ -180472,12 +179875,8 @@
          "eind": 3248
       },
       {
-         "pl": 13700,
-         "eind": 3249
-      },
-      {
          "pl": 13500,
-         "eind": 3250
+         "eind": 3249
       },
       {
          "pl": 12400,
@@ -180585,7 +179984,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.13786763,
             "y": -0.40105802
@@ -180615,7 +180014,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.21110377,
             "y": -0.42437923
@@ -180664,10 +180063,6 @@
          "pl": 146200,
          "t": 16,
          "eind": 2953
-      },
-      {
-         "pl": 150300,
-         "eind": 2954
       },
       {
          "pl": 122600,
@@ -180730,12 +180125,8 @@
          "eind": 2981
       },
       {
-         "pl": 400,
-         "eind": 2983
-      },
-      {
          "pl": 300,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 400,
@@ -180934,7 +180325,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6873349,
             "y": -0.2439588
@@ -180996,12 +180387,8 @@
          "eind": 3246
       },
       {
-         "pl": 800,
-         "eind": 3249
-      },
-      {
          "pl": 700,
-         "eind": 3251
+         "eind": 3249
       },
       {
          "pl": 600,
@@ -181044,7 +180431,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.8658252,
             "y": -0.30003393
@@ -182161,6 +181548,10 @@
       {
          "pl": 800,
          "eind": 3679
+      },
+      {
+         "pl": 900,
+         "eind": 3681
       }
    ],
    "219": [
@@ -182175,7 +181566,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7575288,
             "y": -0.351093
@@ -182377,7 +181768,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.7659177,
             "y": -0.48228556
@@ -182411,7 +181802,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.66399485,
             "y": -0.5727729
@@ -182437,7 +181828,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.3422812,
             "y": -0.302748
@@ -182468,7 +181859,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.47797978,
             "y": -0.3174094
@@ -182641,6 +182032,10 @@
       {
          "pl": 300,
          "eind": 3679
+      },
+      {
+         "pl": 600,
+         "eind": 3681
       }
    ],
    "147": [
@@ -182655,7 +182050,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.4116785,
             "y": -0.3474094
@@ -182842,7 +182237,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5268447,
             "y": -0.18688355
@@ -182929,7 +182324,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.47057328,
             "y": -0.23023784
@@ -183008,13 +182403,9 @@
          "eind": 3122
       },
       {
-         "pl": 25300,
+         "pl": 23500,
          "t": 16,
          "eind": 3123
-      },
-      {
-         "pl": 23500,
-         "eind": 3124
       },
       {
          "pl": 300,
@@ -183176,7 +182567,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.03489475,
             "y": -0.54864734
@@ -183206,7 +182597,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.12159955,
             "y": -0.5161287
@@ -183494,7 +182885,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.20094277,
             "y": -0.4955483
@@ -183516,12 +182907,8 @@
          "eind": 2981
       },
       {
-         "pl": 3000,
-         "eind": 2983
-      },
-      {
          "pl": 10400,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 20600,
@@ -183635,14 +183022,6 @@
       },
       {
          "pl": 100,
-         "eind": 3228
-      },
-      {
-         "pl": "<10",
-         "eind": 3229
-      },
-      {
-         "pl": 100,
          "eind": 3230
       },
       {
@@ -183666,7 +183045,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.23688374,
             "y": -0.5768446
@@ -183750,7 +183129,7 @@
       },
       {
          "pl": 100,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": "<10",
@@ -183835,7 +183214,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.2649589,
             "y": -0.6723349
@@ -184069,7 +183448,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.04842106,
             "y": -0.70721954
@@ -184255,7 +183634,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.1330078,
             "y": -0.6602936
@@ -184285,7 +183664,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.104947254,
             "y": -0.82979184
@@ -184554,7 +183933,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.037947383,
             "y": -0.8437918
@@ -184617,7 +183996,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.16047508,
             "y": -0.85416216
@@ -184729,7 +184108,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.15065464,
             "y": 0.015730456
@@ -184759,7 +184138,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.2415232,
             "y": -0.033197638
@@ -184789,7 +184168,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.25681943,
             "y": 0.030138722
@@ -184823,7 +184202,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.33550286,
             "y": -0.05084203
@@ -184849,7 +184228,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.26874065,
             "y": -0.21253327
@@ -185000,7 +184379,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.39501083,
             "y": -0.26197135
@@ -185227,7 +184606,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.32492584,
             "y": -0.26339266
@@ -185363,7 +184742,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.39494884,
             "y": -0.34418607
@@ -185385,12 +184764,8 @@
          "eind": 2982
       },
       {
-         "pl": 900,
-         "eind": 2983
-      },
-      {
          "pl": 5800,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 12700,
@@ -185539,7 +184914,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3655414,
             "y": -0.40630427
@@ -185569,7 +184944,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.30818605,
             "y": -0.4349489
@@ -185783,7 +185158,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.25539273,
             "y": -0.3439258
@@ -185998,7 +185373,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.31297135,
             "y": -0.39101082
@@ -186024,7 +185399,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.30640945,
             "y": -0.4626785
@@ -186080,7 +185455,7 @@
       },
       {
          "pl": 300,
-         "eind": 2984
+         "eind": 2983
       },
       {
          "pl": 400,
@@ -186282,7 +185657,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.3871862,
             "y": -0.43394879
@@ -186402,7 +185777,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.37284753,
             "y": -0.5306474
@@ -186586,7 +185961,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5559487,
             "y": -0.31584743
@@ -186701,7 +186076,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.4953272,
             "y": -0.4213348
@@ -186727,7 +186102,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6140685,
             "y": -0.20337197
@@ -186757,11 +186132,10 @@
          "eind": 3122
       },
       {
-         "pl": 6500,
+         "pl": 5900,
          "eind": 3123
       },
       {
-         "pl": 5900,
          "t": 16,
          "eind": 3124
       },
@@ -186979,7 +186353,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.03396134,
             "y": 0.9259823
@@ -187009,7 +186383,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3105063,
             "y": 0.77156365
@@ -187039,7 +186413,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.14810903,
             "y": 0.9233154
@@ -187073,7 +186447,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3191681,
             "y": 0.8730191
@@ -187099,7 +186473,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.099012464,
             "y": -0.11185683
@@ -187129,7 +186503,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.17010404,
             "y": -0.08865711
@@ -187159,7 +186533,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.14765465,
             "y": -0.030730395
@@ -187189,7 +186563,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.19187985,
             "y": -0.14480585
@@ -187219,7 +186593,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.24438877,
             "y": -0.10283538
@@ -187245,7 +186619,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.1728935,
             "y": 0.06970126
@@ -187275,7 +186649,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.12621213,
             "y": 0.11136782
@@ -187305,7 +186679,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.07801243,
             "y": 0.10585686
@@ -187335,7 +186709,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.039789412,
             "y": 0.14535835
@@ -187361,7 +186735,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.2473738,
             "y": 0.09965837
@@ -187387,7 +186761,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.001789452,
             "y": -0.18935835
@@ -187417,7 +186791,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.001789474,
             "y": -0.12535837
@@ -187443,7 +186817,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.15409517,
             "y": -0.210073
@@ -187473,7 +186847,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.0977173,
             "y": -0.22407754
@@ -187499,7 +186873,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.023138678,
             "y": -0.24981944
@@ -187529,7 +186903,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.06158319,
             "y": -0.16488354
@@ -187559,7 +186933,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.09065833,
             "y": -0.2413738
@@ -187589,7 +186963,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.1440952,
             "y": -0.2027717
@@ -187615,7 +186989,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2939306,
             "y": -0.033684243
@@ -187726,7 +187100,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.22952318,
             "y": -0.029197697
@@ -187752,7 +187126,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.32650283,
             "y": -0.12384212
@@ -187778,7 +187152,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3660751,
             "y": -0.04763163
@@ -187808,7 +187182,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.44555652,
             "y": -0.06207318
@@ -187834,7 +187208,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.19353323,
             "y": -0.28004193
@@ -187921,7 +187295,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.12696959,
             "y": -0.30758274
@@ -188097,7 +187471,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.24639264,
             "y": -0.3159259
@@ -188204,7 +187578,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.29074797,
             "y": -0.35328123
@@ -188323,12 +187697,8 @@
          "eind": 3227
       },
       {
-         "pl": 12800,
-         "eind": 3228
-      },
-      {
          "pl": 12200,
-         "eind": 3229
+         "eind": 3228
       },
       {
          "pl": 6900,
@@ -188449,7 +187819,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.26690286,
             "y": -0.23559926
@@ -188550,6 +187920,10 @@
       {
          "pl": 24500,
          "eind": 3680
+      },
+      {
+         "pl": 32600,
+         "eind": 3681
       }
    ],
    "62": [
@@ -188564,7 +187938,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.28988406,
             "y": -0.16096954
@@ -188825,7 +188199,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.4123793,
             "y": -0.17510368
@@ -189021,7 +188395,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.353078,
             "y": -0.13310368
@@ -189193,7 +188567,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.31756774,
             "y": 0.13179255
@@ -189223,7 +188597,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.4232602,
             "y": 0.05013234
@@ -189253,7 +188627,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.349058,
             "y": 0.0568677
@@ -189279,7 +188653,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.1716316,
             "y": 0.8050751
@@ -189693,7 +189067,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.084947325,
             "y": 0.8337918
@@ -189723,7 +189097,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.06005267,
             "y": 0.84179187
@@ -189826,13 +189200,9 @@
          "eind": 2474
       },
       {
-         "hp": 779896,
+         "hp": 783377,
          "pl": 200,
          "eind": 2475
-      },
-      {
-         "hp": 783377,
-         "eind": 2476
       },
       {
          "hp": 793739,
@@ -190101,14 +189471,6 @@
       {
          "pl": 200,
          "eind": 2588
-      },
-      {
-         "pl": 300,
-         "eind": 2591
-      },
-      {
-         "pl": 200,
-         "eind": 2592
       },
       {
          "pl": 100,
@@ -190485,7 +189847,7 @@
       },
       {
          "pl": 100,
-         "eind": 2923
+         "eind": 2922
       },
       {
          "pl": "<10",
@@ -190520,7 +189882,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.35552636,
             "y": 0.8833641
@@ -190550,7 +189912,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.19952635,
             "y": 0.9263641
@@ -190986,7 +190348,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.52319145,
             "y": 0.14335436
@@ -191125,7 +190487,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.531078,
             "y": 0.05410378
@@ -191151,7 +190513,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.48401085,
             "y": 0.21397132
@@ -191181,7 +190543,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.40970957,
             "y": 0.15897132
@@ -191207,7 +190569,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2559713,
             "y": 0.5260108
@@ -191237,7 +190599,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.12954043,
             "y": 0.52342516
@@ -191267,7 +190629,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.033894707,
             "y": 0.5456473
@@ -191293,7 +190655,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.1969427,
             "y": 0.5865483
@@ -191323,7 +190685,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.28023794,
             "y": 0.6415732
@@ -191353,7 +190715,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.09195879,
             "y": 0.7373349
@@ -191383,7 +190745,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2163721,
             "y": 0.7093697
@@ -191409,7 +190771,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5340751,
             "y": -0.090368435
@@ -191439,7 +190801,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6416474,
             "y": -0.034105327
@@ -191719,12 +191081,8 @@
          "eind": 2239
       },
       {
-         "pl": 3100,
-         "eind": 2240
-      },
-      {
          "pl": 3200,
-         "eind": 2241
+         "eind": 2240
       },
       {
          "pl": 2300,
@@ -192838,7 +192196,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.6394251,
             "y": -0.11354046
@@ -192936,7 +192294,12 @@
       },
       {
          "poi": "Hammer",
-         "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth.",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            }
+         ],
          "eind": 2912
       },
       {
@@ -193152,7 +192515,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5706473,
             "y": -0.035894755
@@ -193332,7 +192695,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.41835436,
             "y": -0.17080852
@@ -193452,7 +192815,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.4985732,
             "y": -0.21423799
@@ -193482,7 +192845,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5715483,
             "y": -0.19894274
@@ -193508,7 +192871,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5600685,
             "y": -0.27437216
@@ -193640,12 +193003,8 @@
          "eind": 3101
       },
       {
-         "pl": 300,
-         "eind": 3102
-      },
-      {
          "pl": 200,
-         "eind": 3103
+         "eind": 3102
       },
       {
          "pl": 300,
@@ -193793,7 +193152,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.1470731,
             "y": -0.5095566
@@ -193823,7 +193182,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.21723792,
             "y": -0.49157324
@@ -193849,7 +193208,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.11354035,
             "y": -0.5914251
@@ -194041,7 +193400,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.06359941,
             "y": -0.5271288
@@ -194230,7 +193589,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.04742095,
             "y": -0.64221954
@@ -194490,7 +193849,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.5813272,
             "y": -0.45833483
@@ -194520,7 +193879,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.4808474,
             "y": -0.5826475
@@ -194550,7 +193909,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.58777285,
             "y": -0.676995
@@ -194697,7 +194056,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.49028546,
             "y": -0.71661645
@@ -194776,7 +194135,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.3589587,
             "y": -0.73933494
@@ -194807,7 +194166,7 @@
       },
       {
          "pl": 38000,
-         "eind": 3051
+         "eind": 3050
       },
       {
          "pl": 36800,
@@ -194887,12 +194246,8 @@
          "eind": 3115
       },
       {
-         "pl": 14400,
-         "eind": 3116
-      },
-      {
          "pl": 13600,
-         "eind": 3117
+         "eind": 3116
       },
       {
          "t": 16,
@@ -195000,6 +194355,10 @@
       {
          "pl": "<10",
          "eind": 3675
+      },
+      {
+         "pl": 100,
+         "eind": 3681
       }
    ],
    "183": [
@@ -195014,7 +194373,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.2510076,
             "y": -0.69129366
@@ -195040,11 +194399,10 @@
          "eind": 3115
       },
       {
-         "pl": 32700,
+         "pl": 30500,
          "eind": 3116
       },
       {
-         "pl": 30500,
          "t": 16,
          "eind": 3117
       },
@@ -195290,7 +194648,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.29350623,
             "y": -0.8715637
@@ -195548,7 +194906,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.14809287,
             "y": -0.91152894
@@ -195574,7 +194932,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": 0.09694725,
             "y": -0.7277918
@@ -195769,7 +195127,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6862936,
             "y": -0.25600755
@@ -195836,7 +195194,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6169949,
             "y": -0.5607729
@@ -195949,7 +195307,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.75561637,
             "y": -0.5062855
@@ -195979,7 +195337,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.6258253,
             "y": -0.40203378
@@ -196155,7 +195513,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.8608651,
             "y": -0.36050615
@@ -196218,7 +195576,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.31250626,
             "y": -0.83086497
@@ -196248,7 +195606,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.44250628,
             "y": -0.76256365
@@ -196335,7 +195693,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.5732856,
             "y": -0.6689176
@@ -196423,14 +195781,6 @@
       },
       {
          "pl": 100,
-         "eind": 3156
-      },
-      {
-         "pl": "<10",
-         "eind": 3157
-      },
-      {
-         "pl": 100,
          "eind": 3158
       },
       {
@@ -196475,7 +195825,7 @@
          "dss": null,
          "poi": null,
          "adiv": null,
-         "desc": "Nothing of note.",
+         "desc": [],
          "position": {
             "x": -0.48777303,
             "y": -0.5639948

@@ -84,6 +84,10 @@ class PlanetStatic(BaseModel):
     sector: str
     index: int
 
+class Descriptions(BaseModel):
+    name: Optional[str] = Field(alias="name", default=None)
+    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
+
 
 class PlanetState(BaseModel):
     hp: Optional[int] = Field(alias="hp", default=None)
@@ -97,8 +101,23 @@ class PlanetState(BaseModel):
     dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
     adiv:Optional[str]=Field(alias="assaultdiv", default=None)
-    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
+    desc:Optional[List[Descriptions]]=Field(alias="desc", default_factory=list)
     position: Position=Field(alias="position",default=Position(x=0,y=0))
+
+    def remove_desc(self,name):
+        for i in list(self.desc):
+            if i.name==name:
+                self.desc.remove(i)
+                return
+
+    def add_desc(self,name,desc):
+        for i in list(self.desc):
+            if i.name==name:
+                return
+        self.desc.append(Descriptions(name=name,desc=desc))
+
+
+                
     
 
 class DaysObject(BaseModel):

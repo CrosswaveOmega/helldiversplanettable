@@ -77,7 +77,7 @@ MIN_HOUR_CHANGE = 2
 
 
 # Create allplanet.json if not done already
-vjson = load_and_merge_json_files("planets",'./hd2json')
+vjson = load_and_merge_json_files("planets", "./hd2json")
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
 ejson = check_and_load_json("./myeffects.json")
 
@@ -99,7 +99,7 @@ async def handle_monitoring(
     laststats: PlanetStatusDict,
 ) -> Tuple[PlanetStatusDict, List[GameEvent]]:
     """
-    If the space between two logged events is too much, 
+    If the space between two logged events is too much,
     add events which log any changes made to the planet statuses."""
     for evt in event_set:
         this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
@@ -194,9 +194,7 @@ async def format_event_obj() -> None:
     all_times_new = {}
 
     defenses: Dict[str, str] = {}
-    days_out.events_all.sort(
-        key=lambda event: event.timestamp
-    )  # pylint: disable=no-member
+    days_out.events_all.sort(key=lambda event: event.timestamp)  # pylint: disable=no-member
     monitoring = False
     march_5th = None
     lasttime = None
@@ -204,7 +202,7 @@ async def format_event_obj() -> None:
     event_type_sort = {"unknown": []}
     event_types = load_event_types("event_types.json")
     laststats = None
-    lastdss=None
+    lastdss = None
     for event in days_out.events_all:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
@@ -242,11 +240,9 @@ async def format_event_obj() -> None:
             event.planet = get_planet(planets_Dict2, ext)
             print(ext, event.planet)
             event.type = "clearlinks"
-        if event.type=="dss_move":
-            event.last_dss_planet=lastdss
-            lastdss=event.planet
-
-
+        if event.type == "dss_move":
+            event.last_dss_planet = lastdss
+            lastdss = event.planet
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
@@ -305,7 +301,6 @@ async def get_planet_stats(
     """Retrieve the current planet status if present."""
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
-    
 
     if dc not in all_times_new:
         ents = fetch_entries_by_dayval(conn, dc)
@@ -313,29 +308,29 @@ async def get_planet_stats(
             if k != str(int(dc) - 1) and k != str(int(dc) + 1):
                 all_times_new.pop(k)
         all_times_new[dc] = ents
-    if timestamp not in all_times_new[dc]:
+    interval = int(float(timestamp)) // 900
+    if interval not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
         if time > march_5th:
-            checkv=fetch_entries_by_interval(conn,float(ne.timestamp))
+            checkv = fetch_entries_by_interval(conn, float(ne.timestamp))
             if checkv:
-                
-                print(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
-                all_times_new[dc][timestamp] = checkv
-                planetstats = all_times_new[dc][timestamp]
+                print(
+                    f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
+                )
+                all_times_new[dc][interval] = checkv
+                planetstats = all_times_new[dc][interval]
                 return planetstats
         print(f"{timestamp} not found in all_times_new[{dc}]")
         logger.info(f"{timestamp} not found in all_times_new[{dc}]")
-        
 
         if time > march_5th:
             print(f"{ne.time} fetching game data for time {timestamp}")
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
-            #print(planetstats)
+            # print(planetstats)
             cursor = conn.cursor()
             for pindex, details in planetstats.items():
-                
-                print('adding',pindex)
+                print("adding", pindex)
                 cursor.execute(
                     """
                 INSERT OR REPLACE INTO alltimedata (timestamp, dayval, pindex, warID, health, owner, regenPerSecond, players,interval)
@@ -350,24 +345,22 @@ async def get_planet_stats(
                         int(details["owner"]),
                         float(details["regenPerSecond"]),
                         int(details["players"]),
-                        int(float(timestamp))//900,
-                        
-
+                        int(float(timestamp)) // 900,
                     ),
                 )
 
             conn.commit()
-            checkv=fetch_entries_by_timestamp(conn,str(timestamp))
+            checkv = fetch_entries_by_timestamp(conn, str(timestamp))
             if not checkv:
                 print("COULD NOT ADD TO DATABASE.")
             print("fetch complete")
-            all_times_new[dc][timestamp] = planetstats
+            all_times_new[dc][interval] = planetstats
         else:
-            all_times_new[dc][timestamp] = {}
+            all_times_new[dc][interval] = {}
     else:
         pass
 
-    planetstats = all_times_new[dc][timestamp]
+    planetstats = all_times_new[dc][interval]
     return planetstats
 
 
@@ -405,6 +398,13 @@ def unordered_list_hash(int_list: List[int]):
         if v == hashc:
             return i
     return "ERR"
+
+
+def get_effect(site):
+    for sdg, eff in ejson["planetEffects"].items():
+        if site.upper() in eff["name"].upper():
+            return eff
+    return None
 
 
 def ENCODE(CO, AT, L):
@@ -471,11 +471,13 @@ async def process_event(
             event.mo_name = name
             matches = re.findall(pattern, name)
             for match in matches:
-                event.mo_id=match
+                event.mo_id = match
             event.mo_case = case
             event.mo_objective = objective
             store["mo"] = (
-                f"{event.mo_id}, {name}, {objective}" if case == "is issued" else "Awaiting orders"
+                f"{event.mo_id}, {name}, {objective}"
+                if case == "is issued"
+                else "Awaiting orders"
             )
 
     event.mo = store.get("mo", "")
@@ -498,35 +500,40 @@ async def process_event(
 
     timestamp = str(event.timestamp)
     dc = str(int(event.day) // 30)
-    planetstats = all_times_new[str(dc)][timestamp]
-
+    interval = int(float(timestamp)) // 900
+    planetstats = all_times_new[str(dc)][interval]
     update_planet_stats(planetclone, planetstats)
 
     if planetstats:
         laststats.update(planetstats)
 
     if "Assault Division" in event.type:
-        site=extract_assault_division(event.text)
-        last=None
-        if store.get(f"{site}Pos",None):
-            last=store.get(f"{site}Pos",None)   
-            if event.type=="Assault Division Retreat":
+        site = extract_assault_division(event.text)
+        last = None
+        if store.get(f"{site}Pos", None):
+            last = store.get(f"{site}Pos", None)
+            if event.type == "Assault Division Retreat":
                 if last:
-                    planetclone[last].adiv=""
-            if event.type=="Assault Division Defeat":
+                    planetclone[last].adiv = ""
+                    eff = get_effect(site)
+                    if eff:
+                        planetclone[last].remove_desc(eff["name"])
+            if event.type == "Assault Division Defeat":
                 if last:
-                    planetclone[last].adiv=""
+                    planetclone[last].adiv = ""
+                    eff = get_effect(site)
+                    if eff:
+                        planetclone[last].remove_desc(eff["name"])
     if event.planet:
         update_planet_ownership(event, planetclone, store)
-
-
 
     # event.galaxystate = planetclone
     return planetclone
 
 
 def update_planet_ownership(
-    event: GameEvent, planetclone: Dict[str, PlanetState],
+    event: GameEvent,
+    planetclone: Dict[str, PlanetState],
     store: Dict[str, str],
 ) -> None:
     """Update planet ownership and warp links, if applicable."""
@@ -538,7 +545,7 @@ def update_planet_ownership(
             continue
         dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
-            event.faction=dec[0]
+            event.faction = dec[0]
             dec[2] = 1
         if event.type == "campaign_end":
             dec[2] = 0
@@ -560,7 +567,7 @@ def update_planet_ownership(
         if event.type == "invasion start":
             dec[1] = event.faction
             dec[2] = 1
-        
+
         if event.type == "defense won":
             dec[1] = 0
             dec[2] = 0
@@ -570,7 +577,7 @@ def update_planet_ownership(
         if event.type == "invasion lost":
             dec[1] = 0
             dec[2] = 0
-        
+
         planetclone[str(ind)].t = ENCODE(dec[0], dec[1], dec[2])
         # Warp link updates
         if "gloom" in event.type:
@@ -587,39 +594,52 @@ def update_planet_ownership(
         if "dss_move" in event.type:
             if event.last_dss_planet:
                 for m in event.last_dss_planet:
-                    n,i=m
-                    planetclone[str(i)].dss=""
-            planetclone[str(ind)].dss="DSS Here"
+                    n, i = m
+                    planetclone[str(i)].dss = ""
+                    planetclone[str(ind)].remove_desc("DEMOCRACY SPACE STATION")
+            planetclone[str(ind)].dss = "DSS Here"
+            planetclone[str(ind)].add_desc(
+                "DEMOCRACY SPACE STATION",
+                'A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.',
+            )
         if "SiteEvent" in event.type:
-            site=extract_poi_details(event.text)
-            if event.type=="SiteEvent built":
-                ejson['planetEffects']
-                for sdg, eff in ejson['planetEffects'].items():
-                    if site.upper() in eff['name'].upper():
-                        planetclone[str(ind)].poi=eff['icon']
-                        planetclone[str(ind)].desc=eff['description']
-            if event.type=="SiteEvent destroyed":
-                planetclone[str(ind)].poi=""
-                planetclone[str(ind)].desc=""
+            site = extract_poi_details(event.text)
+            if event.type == "SiteEvent built":
+                eff = get_effect(site)
+                if eff:
+                    planetclone[str(ind)].poi = eff["icon"]
+                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+            if event.type == "SiteEvent destroyed":
+                eff = get_effect(site)
+                if eff:
+                    planetclone[str(ind)].remove_desc(eff["name"])
+                planetclone[str(ind)].poi = ""
+        if event.type == "planet move":
+            # Move to a new position.
+            pattern = r"X (\d+\.\d+) Y (\d+\.\d+)"
+            coordinates = re.findall(pattern, event.text)
+            if coordinates:
+                x, y = coordinates[0]
+                planetclone[str(ind)].position.x = float(x)
+                planetclone[str(ind)].position.y = float(y)
+                print(f"X: {x}, Y: {y}")
+            else:
+                print("No coordinates found")
         ## ASSAULT DIVISION CODE
         if "Assault Division" in event.type:
-            site=extract_assault_division(event.text)
-            last=None
-            if store.get(f"{site}Pos",None):
-                last=store.get(f"{site}Pos",None)   
-            if event.type=="Assault Division Move":
-                for sdg, eff in ejson['planetEffects'].items():
-                    if site.upper() in eff['name'].upper():
-                        if last:
-                            planetclone[last].adiv=""
-                        planetclone[str(ind)].adiv=eff['icon']
-                        store[f"{site}Pos"]=str(ind)
-                        # For later
-                        # if not planetclone[str(ind)].desc:
-                        #     planetclone[str(ind)].desc=eff['description']
-
-            
-
+            site = extract_assault_division(event.text)
+            last = None
+            if store.get(f"{site}Pos", None):
+                last = store.get(f"{site}Pos", None)
+            if event.type == "Assault Division Move":
+                eff = get_effect(site)
+                if eff:
+                    if last:
+                        planetclone[last].adiv = ""
+                        planetclone[last].remove_desc(eff["name"])
+                    planetclone[str(ind)].adiv = eff["icon"]
+                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+                    store[f"{site}Pos"] = str(ind)
 
         if event.type == "Biome Change":
             _, _, _, _, _, _, slug = extract_biome_change_details(
@@ -636,7 +656,6 @@ def update_planet_ownership(
         update_waypoints(event.planet, planetclone, add=False)
 
     if event.type == "clearlinks":
-
         for name, ind in event.planet:
             planetclone[str(ind)].link = []
             for id2 in planetclone.keys():
@@ -753,7 +772,7 @@ class GalaxyEventProcessor:
         self.conn = sqlite3.connect(db_file)
         self.planets = planets
         self.temp = temp
-        self.march_5th = datetime(2024, 3, 5, 7, tzinfo=timezone.utc)
+        self.march_5th = datetime(2024, 3, 5, 20, tzinfo=timezone.utc)
         self.all_times_new = {}
         self.store = {}
         self.laststats = {}
@@ -798,7 +817,8 @@ class GalaxyEventProcessor:
 
         ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
-        planetstats = self.all_times_new[dc][str(ne.timestamp)]
+        interval = int(ne.timestamp) // 900
+        planetstats = self.all_times_new[dc][interval]
 
         if ne.type == "m":
             decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
