@@ -7054,6 +7054,12 @@
       {
          "pl": 23800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3322
       },
       {
@@ -7246,6 +7252,12 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3397
       },
       {
@@ -8959,15 +8971,11 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2676
@@ -9043,6 +9051,16 @@
          "hp": 383410,
          "pl": 20500,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2693
       },
       {
@@ -9054,7 +9072,12 @@
          "hp": 30684,
          "pl": 14600,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2695
       },
       {
@@ -10957,7 +10980,12 @@
          "pl": 400,
          "dss": "DSS Here",
          "poi": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2622
       },
       {
@@ -10978,15 +11006,15 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2629
@@ -11056,6 +11084,16 @@
       {
          "pl": 9600,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2646
       },
       {
@@ -11069,20 +11107,25 @@
       {
          "pl": 14600,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2651
       },
       {
          "pl": 19300,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2652
@@ -11147,6 +11190,16 @@
          "hp": 725448,
          "pl": 18800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2667
       },
       {
@@ -11193,7 +11246,12 @@
          "hp": 695692,
          "pl": 12800,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2676
       },
       {
@@ -11728,6 +11786,12 @@
       {
          "pl": 19700,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2863
       },
       {
@@ -12997,6 +13061,12 @@
          "hp": 457203,
          "pl": 1700,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3458
       },
       {
@@ -14140,6 +14210,12 @@
          "hp": 632107,
          "pl": 10900,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3313
       },
       {
@@ -27387,15 +27463,11 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2610
@@ -27507,6 +27579,12 @@
          "hp": 931618,
          "pl": 3300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2638
       },
       {
@@ -30951,15 +31029,11 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2593
@@ -46126,6 +46200,16 @@
       {
          "pl": 16000,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "CENTER OF SCIENCE",
+               "desc": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3436
       },
       {
@@ -51405,6 +51489,12 @@
          "hp": 962465,
          "pl": 28800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3423
       },
       {
@@ -64827,6 +64917,12 @@
          "hp": 588717,
          "pl": 20000,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2702
       },
       {
@@ -78956,15 +79052,11 @@
       {
          "pl": 3700,
          "r": 13.8889,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2591
@@ -80413,6 +80505,12 @@
       {
          "pl": 5600,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3401
       },
       {
@@ -89597,15 +89695,11 @@
          "eind": 3542
       },
       {
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 3543
@@ -89624,6 +89718,16 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3549
       },
       {
@@ -89699,7 +89803,12 @@
          "hp": 963734,
          "r": 11.1111,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3568
       },
       {
@@ -95791,15 +95900,11 @@
       },
       {
          "pl": 200,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2358
@@ -96278,6 +96383,12 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2804
       },
       {
@@ -98756,6 +98867,12 @@
       {
          "pl": 500,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2841
       },
       {
@@ -99255,6 +99372,10 @@
          "poi": "Automatons",
          "desc": [
             {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
             }
@@ -99287,6 +99408,16 @@
          "hp": 920640,
          "pl": 50600,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3525
       },
       {
@@ -99354,7 +99485,12 @@
          "pl": 48800,
          "t": 16,
          "poi": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3540
       },
       {
@@ -103418,6 +103554,12 @@
          "hp": 609758,
          "pl": 2200,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2736
       },
       {
@@ -104864,15 +105006,15 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 3568
@@ -104897,6 +105039,16 @@
       {
          "pl": 32000,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3573
       },
       {
@@ -104979,7 +105131,12 @@
          "pl": 21100,
          "t": 16,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3594
       },
       {
@@ -108588,6 +108745,16 @@
          "hp": 533243,
          "pl": 9200,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "TERMINID RESEARCH PRESERVE",
+               "desc": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2655
       },
       {
@@ -108694,7 +108861,12 @@
       },
       {
          "poi": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2696
       },
       {
@@ -115213,6 +115385,12 @@
       {
          "pl": 21800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3430
       },
       {
@@ -117233,6 +117411,12 @@
          "hp": 577946,
          "pl": 11500,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2712
       },
       {
@@ -126080,6 +126264,12 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2780
       },
       {
@@ -131765,6 +131955,12 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3466
       },
       {
@@ -138693,6 +138889,12 @@
       {
          "pl": 14100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3679
       },
       {
@@ -142105,15 +142307,11 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2380
@@ -143407,15 +143605,11 @@
          "eind": 2371
       },
       {
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2372
@@ -148076,15 +148270,11 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
+         "adiv": "Automatons",
          "desc": [
             {
                "name": "JET BRIGADE FACTORIES",
                "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
          "eind": 2360
@@ -148647,6 +148837,12 @@
          "hp": 667234,
          "pl": 4800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2814
       },
       {
@@ -162820,6 +163016,12 @@
       {
          "pl": 23800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3603
       },
       {
@@ -168546,6 +168748,12 @@
       {
          "pl": 2500,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2725
       },
       {
@@ -178856,6 +179064,12 @@
       {
          "pl": 5300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3482
       },
       {
@@ -179079,6 +179293,12 @@
       {
          "pl": 23100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3612
       },
       {
@@ -179693,6 +179913,12 @@
       },
       {
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3364
       },
       {
@@ -182005,6 +182231,12 @@
       {
          "pl": 44300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3670
       },
       {
@@ -182123,6 +182355,12 @@
       {
          "pl": 3200,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3367
       },
       {
@@ -182479,6 +182717,12 @@
       {
          "pl": 200,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3373
       },
       {
@@ -182633,6 +182877,12 @@
       {
          "pl": 26800,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3353
       },
       {
@@ -183175,6 +183425,12 @@
       {
          "pl": 1100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3381
       },
       {
@@ -183376,6 +183632,12 @@
       {
          "pl": 8200,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3375
       },
       {
@@ -183528,6 +183790,12 @@
       {
          "pl": 12300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3407
       },
       {
@@ -183872,6 +184140,12 @@
       {
          "pl": 47100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3662
       },
       {
@@ -184480,6 +184754,12 @@
       {
          "pl": 35100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3316
       },
       {
@@ -185090,6 +185370,12 @@
       {
          "pl": 20900,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3390
       },
       {
@@ -185300,6 +185586,12 @@
       {
          "pl": 12300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3474
       },
       {
@@ -186182,6 +186474,12 @@
       {
          "pl": 28900,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3340
       },
       {
@@ -187999,6 +188297,12 @@
       {
          "pl": 24900,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3347
       },
       {
@@ -188946,6 +189250,12 @@
          "hp": 907848,
          "pl": 21300,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2904
       },
       {
@@ -189750,6 +190060,12 @@
          "hp": 780903,
          "pl": 9600,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2892
       },
       {
@@ -190209,6 +190525,12 @@
          "hp": 802606,
          "pl": 12100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2873
       },
       {
@@ -192049,6 +192371,12 @@
          "hp": 861420,
          "pl": 16700,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 2769
       },
       {
@@ -194300,6 +194628,12 @@
       {
          "pl": 72500,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3650
       },
       {
@@ -194550,6 +194884,12 @@
       {
          "pl": 23000,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3387
       },
       {
@@ -194789,6 +195129,12 @@
       {
          "pl": 15400,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3361
       },
       {
@@ -194960,6 +195306,12 @@
       {
          "pl": 37600,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3327
       },
       {
@@ -195234,6 +195586,12 @@
       {
          "pl": 28100,
          "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 3334
       },
       {
