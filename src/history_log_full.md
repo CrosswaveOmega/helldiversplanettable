@@ -4720,3 +4720,22 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-10 06:42  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-10 14:42  UTC)<br/>
 *Meridia* moves to X 0.48294592 Y 0.18418907 (2025-02-10 15:00  UTC)<br/>
 *Meridia* moves to X 0.4816179 Y 0.18342645 (2025-02-10 19:00  UTC)<br/>
+*Emorath*'s invasion is successful (2025-02-10 22:20  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-02-10 22:20  UTC)<br/>
+*Meridia* moves to X 0.4802862 Y 0.18266174 (2025-02-10 23:00  UTC)<br/>
+*Shete* of the Xi Tauri sector is invaded by Illuminate (2025-02-11 00:44  UTC)<br/>
+*Meridia* moves to X 0.47899893 Y 0.18192253 (2025-02-11 03:00  UTC)<br/>
+DSS deploys to *Shete* of the Xi Tauri sector (2025-02-11 06:46  UTC)<br/>
+*Meridia* moves to X 0.47772506 Y 0.181191 (2025-02-11 07:00  UTC)<br/>
+*Charon Prime* defense is won (2025-02-11 07:18  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Illuminate (2025-02-11 07:51  UTC)<br/>
+ Decay: 0.0 on Charon Prime
+ (2025-02-11 07:51  UTC)<br/>
+
+# Day: #370
+*Meridia* moves to X 0.4764366 Y 0.1804511 (2025-02-11 11:00  UTC)<br/>
+*Shete*'s invasion is repelled (2025-02-11 11:15  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-02-11 11:15  UTC)<br/>
+DSS deploys to *Iro* of the Rictus sector (2025-02-11 14:48  UTC)<br/>
+*Meridia* moves to X 0.4751202 Y 0.17969516 (2025-02-11 15:00  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Illuminate (2025-02-11 15:33  UTC)<br/>
