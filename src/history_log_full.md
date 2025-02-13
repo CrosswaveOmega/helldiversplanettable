@@ -4666,7 +4666,7 @@ DSS effect Orbital Blockade is activated (2025-02-08 06:12  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-02-08 11:15  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-08 13:36  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-08 13:36  UTC)<br/>
-Major Order | Operation A2-2-2 Defend 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
+Major Order | Operation A2-2-2 Repel 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate appear to be attacking our worlds in order to gather Dark Energy, which seemingly powers the movement of the *Meridia* Singularity. The Singularity is currently approaching ANGEL'S VENTURE. The more Dark Energy the Illuminate are able to gather, the faster the Singularity moves. All Helldivers are ordered to end any Illuminate invasion attempts as quickly as possible, to safeguard the citizens of ANGEL'S VENTURE. (2025-02-08 14:18  UTC)<br/>
 Dispatch: ALERT. The *Meridia* Singularity has deviated from its stable orbit. The Singularity is now moving along an unnatural path. Movement speed appears directly correlated with the amount of Dark Energy the Illuminate have gathered from our Galaxy. (2025-02-08 14:18  UTC)<br/>
 Dispatch: PATRIOTIC ANNOUNCEMENT. In recognition of the Helldivers' service, bravery, and obedient fulfillment of their duty over the past year, High Command has authorized the bequethment of a commemorative gift to all Super Destroyers. Helldivers may accept their gift with immense gratitude at their Armory. (2025-02-08 14:41  UTC)<br/>
@@ -4762,3 +4762,44 @@ DSS deploys to *Irulta* of the Saleria sector (2025-02-12 10:50  UTC)<br/>
 *Meridia* moves to X 0.4665703 Y 0.17478539 (2025-02-12 15:00  UTC)<br/>
 Dispatch: PRIORITY ALERT. The Meridian Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with ANGEL'S VENTURE. ANGEL'S VENTURE can no longer be saved. Evacuation of high-priority citizens is underway. (2025-02-12 15:33  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-12 16:07  UTC)<br/>
+*Irulta*'s invasion is successful (2025-02-12 18:33  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-02-12 18:33  UTC)<br/>
+*Meridia* moves to moves to X 0.4650719 Y 0.1739249 (2025-02-12 19:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-02-12 19:30  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-02-12 20:19  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-12 22:51  UTC)<br/>
+*Meridia* moves to X 0.4635523 Y 0.1730523 (2025-02-12 23:00  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-02-12 23:17  UTC)<br/>
+*Hesoe Prime*'s invasion is repelled (2025-02-13 00:02  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-13 00:02  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 02:52  UTC)<br/>
+*Meridia* moves to moves to X 0.46202824 Y 0.1721771 (2025-02-13 03:00  UTC)<br/>
+DSS deploys to *Rasp* of the Gallux sector (2025-02-13 06:52  UTC)<br/>
+*Meridia* moves to X 0.4605092 Y 0.17130482 (2025-02-13 07:00  UTC)<br/>
+*Rasp*'s invasion is repelled (2025-02-13 07:09  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-02-13 07:09  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Terminids (2025-02-13 07:28  UTC)<br/>
+
+### Day: #372
+ Decay: 0.0 on Darius II<br/> Decay: 1.5 on Erata Prime
+ (2025-02-13 09:00  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 10:53  UTC)<br/>
+*Meridia* moves to X 0.45903358 Y 0.17045744 (2025-02-13 11:00  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-02-13 13:04  UTC)<br/>
+Major Order | Operation A2-2-2 Repel 11 Invasions is failed | Objective: Defend (2025-02-13 14:34  UTC)<br/>
+*Angel's Venture* of the Orion sector is annihilated (2025-02-13 14:37  UTC)<br/>
+*Moradesh* of the Celeste sector is under threat of destruction (2025-02-13 14:37  UTC)<br/>
+*Ivis* of the Celeste sector is under threat of destruction (2025-02-13 14:38  UTC)<br/>
+*Nublaria I* of the Celeste sector is under threat of destruction (2025-02-13 14:38  UTC)<br/>
+*Pilen V* of the Altus sector is under threat of destruction (2025-02-13 14:38  UTC)<br/>
+*New Haven* of the Altus sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
+*Super Earth* of the Sol sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
+*Angel's Venture* of the Orion sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
+DSS deploys to *Darius II* of the Borgus sector (2025-02-13 14:53  UTC)<br/>
+*Meridia* moves to X 0.45766047 Y 0.16967677 (2025-02-13 15:00  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. ANGEL'S VENTURE has been torn apart by the Meridian Singularity. Finally the Illuminate, hiding behind their mask of intelligence and sophistication, have revealed what they truly want: carnage. The President of *Super Earth* has announced a Galaxy-wide mourning period of 24 hours. (2025-02-13 15:10  UTC)<br/>
+*Heeth* - *Angel's Venture* warp link is removed (2025-02-13 15:28  UTC)<br/>
+*Veld* - *Angel's Venture* warp link is removed (2025-02-13 15:28  UTC)<br/>
+*Turing* - *Angel's Venture* warp link is removed (2025-02-13 15:28  UTC)<br/>
+*Angel's Venture* - *Moradesh* warp link is removed (2025-02-13 15:28  UTC)<br/>
+*Veld* - *Turing* warp link is added (2025-02-13 15:29  UTC)<br/>
