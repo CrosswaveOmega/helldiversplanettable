@@ -6490,6 +6490,16 @@
          "eind": 3738
       },
       {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3741
+      },
+      {
          "pl": 600,
          "eind": 3742
       },
@@ -6616,6 +6626,16 @@
       {
          "link2": 0,
          "eind": 1073
+      },
+      {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3741
       }
    ],
    "5": [
@@ -6642,6 +6662,16 @@
          "pl": "<10",
          "r": 1388.8889,
          "eind": 95
+      },
+      {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3740
       }
    ],
    "7": [
@@ -16723,6 +16753,20 @@
          "eind": 3739
       },
       {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "FRACTURED PLANET",
+               "desc": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake."
+            },
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3741
+      },
+      {
          "pl": 37700,
          "eind": 3742
       },
@@ -16794,6 +16838,16 @@
       {
          "biome": "swamp_haunted",
          "eind": 1635
+      },
+      {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3740
       }
    ],
    "27": [
@@ -16862,6 +16916,16 @@
       {
          "biome": "swamp_base",
          "eind": 1073
+      },
+      {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3740
       }
    ],
    "52": [
@@ -17005,6 +17069,16 @@
       {
          "pl": "<10",
          "eind": 3328
+      },
+      {
+         "poi": "Warning",
+         "desc": [
+            {
+               "name": "VERGE OF DESTRUCTION",
+               "desc": "This planet is under threat of destruction."
+            }
+         ],
+         "eind": 3739
       }
    ],
    "34": [
