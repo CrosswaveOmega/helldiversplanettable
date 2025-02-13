@@ -660,13 +660,13 @@ def update_planet_ownership(
                 planetclone[str(ind)].add_desc(eff["name"], eff["description"])
 
         if "Threat" in event.type:
-            site = extract_poi_details(event.text)
+            site = 'VERGE OF DESTRUCTION'
             if event.type == "Threat Start":
                 eff = get_effect(site)
                 if eff:
                     planetclone[str(ind)].poi = eff["icon"]
                     planetclone[str(ind)].add_desc(eff["name"], eff["description"])
-            if event.type == "SiteEvent destroyed":
+            if event.type == "Threat End":
                 eff = get_effect(site)
                 if eff:
                     planetclone[str(ind)].remove_desc(eff["name"])
