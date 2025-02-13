@@ -3,31 +3,37 @@
         "1196": {
             "galacticEffectId": 1196,
             "name": "DSS Logistics Hub",
-            "icon":"Governmental",
+            "icon": "Governmental",
             "description": "Parts for the Democracy Space Station are prefabricated all over the Galaxy, then shipped here to await assembly."
         },
         "1197": {
             "galacticEffectId": 1197,
             "name": "Xenoentomology Center",
-            "icon":"Science",
+            "icon": "Science",
             "description": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
         },
         "1198": {
             "galacticEffectId": 1198,
             "name": "Deep Mantle Forge Complex",
-            "icon":"Hammer",
+            "icon": "Hammer",
             "description": "The smelters and refineries on this planet turn crude materials into usable hardware."
         },
         "1199": {
             "galacticEffectId": 1199,
             "name": "DSS Construction Site",
-            "icon":"Wrench",
+            "icon": "Wrench",
             "description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet\u2019s populace has centupled, and all the Galaxy can feel their democratic fervor."
+        },
+        "1202": {
+            "galacticEffectId": 1202,
+            "name": "THE JET BRIGADE",
+            "icon": "JetBrigade",
+            "description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
         },
         "1206": {
             "galacticEffectId": 1206,
             "name": "TERMINID RESEARCH PRESERVE",
-            "icon":"Badge",
+            "icon": "Badge",
             "description": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction."
         },
         "1217": {
@@ -38,38 +44,50 @@
         "1232": {
             "galacticEffectId": 1232,
             "name": "FACTORY HUB",
-            "icon":"Hammer",
+            "icon": "Hammer",
             "description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
         },
         "1234": {
             "galacticEffectId": 1234,
             "name": "CENTER OF SCIENCE",
-            "icon":"Science",
+            "icon": "Science",
             "description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
         },
         "1236": {
             "galacticEffectId": 1236,
             "name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
-            "icon":"Governmental",
+            "icon": "Governmental",
             "description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here."
         },
         "1239": {
             "galacticEffectId": 1239,
             "name": "JET BRIGADE FACTORIES",
-            "icon":"Automatons",
+            "icon": "Automatons",
             "description": "Vertically enhanced Jet Brigade soldiers are produced here."
         },
         "1230": {
             "galacticEffectId": 1230,
             "name": "MERIDIAN BLACK HOLE",
-            "icon":"Orb",
+            "icon": "Orb",
             "description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains."
         },
-        "1202": {
-            "galacticEffectId": 1202,
-            "name": "THE JET BRIGADE",
-            "icon":"JetBrigade",
-            "description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+        "1240": {
+            "galacticEffectId": 1241,
+            "name": "VERGE OF DESTRUCTION",
+            "icon": "Warning",
+            "description": "This planet is under threat of destruction."
+        },
+        "1241": {
+            "galacticEffectId": 1241,
+            "name": "FRACTURED PLANET",
+            "icon": "Orb",
+            "description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake."
+        },
+        "1242": {
+            "galacticEffectId": 1242,
+            "name": "MOVING SINGULARITY",
+            "icon": "Orb",
+            "description": "The singluarity is moving and is estimated to impact Super Earth."
         }
     }
 }

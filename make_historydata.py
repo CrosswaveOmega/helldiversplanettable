@@ -614,6 +614,7 @@ def update_planet_ownership(
                 if eff:
                     planetclone[str(ind)].remove_desc(eff["name"])
                 planetclone[str(ind)].poi = ""
+
         if event.type == "planet move":
             # Move to a new position.
             pattern = r"X (\d+\.\d+) Y (\d+\.\d+)"
@@ -648,6 +649,28 @@ def update_planet_ownership(
             planetclone[str(ind)].biome = slug
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
+
+        if event.type=="Annihilation":
+            #planetclone[str(ind)].biome = "destroyed"
+            site="FRACTURED PLANET"
+            eff = get_effect(site)
+            if eff:
+                planetclone[str(ind)].desc=[]
+                planetclone[str(ind)].poi = eff["icon"]
+                planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+
+        if "Threat" in event.type:
+            site = extract_poi_details(event.text)
+            if event.type == "Threat Start":
+                eff = get_effect(site)
+                if eff:
+                    planetclone[str(ind)].poi = eff["icon"]
+                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+            if event.type == "SiteEvent destroyed":
+                eff = get_effect(site)
+                if eff:
+                    planetclone[str(ind)].remove_desc(eff["name"])
+                planetclone[str(ind)].poi = ""
 
     if event.type == "newlink":
         update_waypoints(event.planet, planetclone, add=True)
@@ -734,7 +757,7 @@ class PlanetHistoryDelta:
         else:
             for p, rese in ptemp.items():
                 res = rese.model_dump(warnings="error", exclude=["link"])
-                if not p in self.resort:
+                if p not in self.resort:
                     self.resort[p] = [res]
                     self.resort[p][0]["eind"] = t
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
@@ -828,8 +851,6 @@ class GalaxyEventProcessor:
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
                 return  # Skip the event group
-        # elif ne.type == "g" and decay and outtext:
-        #    self.handle_decay_event(event_group, ne, outtext)
 
         await self.process_event_logs(event_group, ne, ptemp)
         self.phistdelta.delta_format(ne.eind, ptemp)

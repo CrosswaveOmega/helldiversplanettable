@@ -218,6 +218,26 @@
             }
         ]
     },
+    "Annihilation": {
+        "name": "Annihilation",
+        "matchable": ["is annihilated"]
+    },
+    "Threatened": {
+        "name": "Threat",
+        "matchable": ["threat of destruction"],
+        "must": true,
+        "sub": [
+            {
+                "name": "Threat Start",
+                "matchable": ["is now under"]
+            },
+            {
+                "name": "Threat End",
+                "matchable": ["is now safe from"]
+            }
+        ]
+    },
+    
     
     "DSS Deploy":{
         "name": "dss_move",
