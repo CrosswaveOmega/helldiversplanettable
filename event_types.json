@@ -229,11 +229,11 @@
         "sub": [
             {
                 "name": "Threat Start",
-                "matchable": ["is now under"]
+                "matchable": ["is under"]
             },
             {
                 "name": "Threat End",
-                "matchable": ["is now safe from"]
+                "matchable": ["is safe from"]
             }
         ]
     },
