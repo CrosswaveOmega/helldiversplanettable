@@ -4760,6 +4760,7 @@ DSS deploys to *Haldus* of the Ferris sector (2025-02-12 06:50  UTC)<br/>
 DSS deploys to *Irulta* of the Saleria sector (2025-02-12 10:50  UTC)<br/>
 *Meridia* moves to X 0.46805942 Y 0.17564051 (2025-02-12 11:00  UTC)<br/>
 *Meridia* moves to X 0.4665703 Y 0.17478539 (2025-02-12 15:00  UTC)<br/>
+*Angel's Venture* of the Orion sector is under threat of destruction (2025-02-12 15:31  UTC)<br/>
 Dispatch: PRIORITY ALERT. The Meridian Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with ANGEL'S VENTURE. ANGEL'S VENTURE can no longer be saved. Evacuation of high-priority citizens is underway. (2025-02-12 15:33  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-12 16:07  UTC)<br/>
 *Irulta*'s invasion is successful (2025-02-12 18:33  UTC)<br/>
@@ -4795,7 +4796,6 @@ Major Order | Operation A2-2-2 Repel 11 Invasions is failed | Objective: Defend 
 *New Haven* of the Altus sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
 *Super Earth* of the Sol sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
 *Meridia* begins to move towards *Super Earth* of the Sol sector (2025-02-13 14:39  UTC)<br/>
-*Angel's Venture* of the Orion sector is under threat of destruction (2025-02-13 14:39  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2025-02-13 14:53  UTC)<br/>
 *Meridia* moves to X 0.45766047 Y 0.16967677 (2025-02-13 15:00  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. ANGEL'S VENTURE has been torn apart by the Meridian Singularity. Finally the Illuminate, hiding behind their mask of intelligence and sophistication, have revealed what they truly want: carnage. The President of *Super Earth* has announced a Galaxy-wide mourning period of 24 hours. (2025-02-13 15:10  UTC)<br/>
