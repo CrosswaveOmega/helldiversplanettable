@@ -4804,3 +4804,28 @@ Dispatch: MAJOR ORDER FAILED. ANGEL'S VENTURE has been torn apart by the Meridia
 *Turing* - *Angel's Venture* warp link is removed (2025-02-13 15:28  UTC)<br/>
 *Angel's Venture* - *Moradesh* warp link is removed (2025-02-13 15:28  UTC)<br/>
 *Veld* - *Turing* warp link is added (2025-02-13 15:29  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2025-02-13 18:54  UTC)<br/>
+*Meridia* moves to X 0.45700637 Y 0.16959648 (2025-02-13 19:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-02-13 20:21  UTC)<br/>
+*Hort*'s invasion is repelled (2025-02-13 21:10  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-13 21:10  UTC)<br/>
+*Keid* of the Akira sector is invaded by Illuminate (2025-02-13 21:33  UTC)<br/>
+DSS deploys to *Darius II* of the Borgus sector (2025-02-13 22:54  UTC)<br/>
+*Meridia* moves to X 0.45635754 Y 0.16951685 (2025-02-13 23:00  UTC)<br/>
+*Darius II* defense is won (2025-02-13 23:39  UTC)<br/>
+↳ Borgus sector is fully under Human control (2025-02-13 23:39  UTC)<br/>
+ Decay: 1.0 on Darius II
+ (2025-02-14 00:00  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2025-02-14 02:55  UTC)<br/>
+*Meridia* moves to X 0.45571372 Y 0.16943781 (2025-02-14 03:00  UTC)<br/>
+*Keid*'s invasion is repelled (2025-02-14 05:31  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-02-14 05:31  UTC)<br/>
+*Meridia* moves to X 0.4550757 Y 0.1693595 (2025-02-14 07:00  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-14 07:31  UTC)<br/>
+
+### Day: #373
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 10:55  UTC)<br/>
+*Meridia* moves to X 0.45445624 Y 0.16928346 (2025-02-14 11:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-02-14 13:28  UTC)<br/>
+DSS deploys to *Brink-2* of the Tarragon sector (2025-02-14 14:56  UTC)<br/>
+*Meridia* moves to X 0.4538401 Y 0.16920784 (2025-02-14 15:00  UTC)<br/>
