@@ -88,6 +88,12 @@
             "name": "MOVING SINGULARITY",
             "icon": "Orb",
             "description": "The singluarity is moving and is estimated to impact Super Earth."
+        },
+        "1245": {
+            "galacticEffectId": 1245,
+            "name": "PREDATOR STRAIN",
+            "icon": "PredatorStrain",
+            "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
         }
     }
 }
