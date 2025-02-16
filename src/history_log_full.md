@@ -4870,3 +4870,4 @@ NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<b
 ↳ Rictus sector is fully under Human control (2025-02-16 11:37  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-02-16 11:46  UTC)<br/>
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
+*Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
