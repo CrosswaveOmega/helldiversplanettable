@@ -4837,10 +4837,12 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 18:56  UTC)<br/>
 *Meridia* moves to X 0.453227 Y 0.16913259 (2025-02-14 19:00  UTC)<br/>
 DSS deploys to *Sirius* of the Xi Tauri sector (2025-02-14 22:56  UTC)<br/>
 *Meridia* moves to X 0.45261374 Y 0.16905732 (2025-02-14 23:00  UTC)<br/>
+*Meridia* moves to X 0.4487719 Y 0.16858576 (2025-02-15 03:00  UTC)<br/>
 *Meridia* moves to X 0.452004 Y 0.16898248 (2025-02-15 03:00  UTC)<br/>
 *Sirius*'s invasion is repelled (2025-02-15 04:01  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-15 04:01  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
+*Meridia* moves to X 0.4482521 Y 0.16852196 (2025-02-15 07:00  UTC)<br/>
 *Meridia* moves to X 0.45140815 Y 0.16890934 (2025-02-15 07:00  UTC)<br/>
 
 ### Day: #374
@@ -4855,3 +4857,16 @@ Dispatch: ALERT. A new Terminid strain, likely to have developed inside the Gloo
 *Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-02-15 12:58  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-15 13:31  UTC)<br/>
 *Meridia* moves to X 0.45032343 Y 0.1687762 (2025-02-15 15:00  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-02-15 18:58  UTC)<br/>
+*Meridia* moves to X 0.44980544 Y 0.16871262 (2025-02-15 19:00  UTC)<br/>
+*Meridia* moves to X 0.44929093 Y 0.16864946 (2025-02-15 23:00  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Illuminate (2025-02-15 23:37  UTC)<br/>
+*Afoyay Bay*'s invasion is successful (2025-02-16 00:58  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-16 00:58  UTC)<br/>
+
+### Day: #375
+NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<br/>
+*Oasis*'s invasion is successful (2025-02-16 11:37  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-16 11:37  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Illuminate (2025-02-16 11:46  UTC)<br/>
+*Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
