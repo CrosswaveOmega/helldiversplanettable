@@ -4871,3 +4871,21 @@ NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<b
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-02-16 11:46  UTC)<br/>
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
 *Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
+*Fenrir III* defense is won (2025-02-16 22:35  UTC)<br/>
+Assault Division: Predator Strain deploys to *Erata Prime* (2025-02-16 22:38  UTC)<br/>
+*Meridia* moves to X 0.44621298 Y 0.16827168 (2025-02-16 23:00  UTC)<br/>
+ Decay: 2.0 on Fenrir III<br/> Decay: 3.5 on Erata Prime
+ (2025-02-16 23:00  UTC)<br/>
+*Parsh*'s invasion is successful (2025-02-16 23:47  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-16 23:47  UTC)<br/>
+*Andar* of the Akira sector is invaded by Illuminate (2025-02-17 00:59  UTC)<br/>
+*Meridia* moves to X 0.445719 Y 0.16821104 (2025-02-17 03:00  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
+*Meridia* moves to X 0.44523245 Y 0.16815132 (2025-02-17 07:00  UTC)<br/>
+
+### Day: #376
+*Meridia* moves to X 0.444749 Y 0.16809197 (2025-02-17 11:00  UTC)<br/>
+*Baldrick Prime* of the Meridian sector is invaded by Illuminate (2025-02-17 12:00  UTC)<br/>
+*Andar*'s invasion is successful (2025-02-17 12:59  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-02-17 12:59  UTC)<br/>
+*Meridia* moves to X 0.44426426 Y 0.16803248 (2025-02-17 15:00  UTC)<br/>
