@@ -61,6 +61,7 @@ Major Order | Operation A1-2-2 Defend 8 from Automatons is issued | Objective: D
 *Varylia 5* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-02-17 23:16  UTC)<br/>
 ↳ *Maia* is not accessible despite attacking a liberated planet (2024-02-17 23:16  UTC)<br/>
+↳ Meridian sector is fully under Human control (2024-02-18 00:00  UTC)<br/>
 *Meridia* is liberated (2024-02-18 01:25  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-02-18 01:25  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-02-18 01:25  UTC)<br/>
@@ -2463,18 +2464,14 @@ Major Order | Operation A1-8-6 Colossus Shadow is won | Objective: Hold/Eradicat
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive swaths of Terminids, including the largest tyrants amongst them. This inspiring exercise of liberation sends a clear message to our enemies. A message so loud, and so clear, that it needs no explicit articulation. Consult the Galactic Map on your ship for more information. (2024-08-27 14:59  UTC)<br/>
 *Nivel 43* is overtaken by the Gloomwall (2024-08-27 15:02  UTC)<br/>
 ↳ *Nivel 43* is now unobservable due to the Gloom (2024-08-27 15:02  UTC)<br/>
-↳ *Nivel 43* liberation campaign is active despite being inaccessible (2024-08-27 15:02  UTC)<br/>
 *Hellmire* is overtaken by the Gloomwall (2024-08-27 15:03  UTC)<br/>
 ↳ *Hellmire* is now unobservable due to the Gloom (2024-08-27 15:03  UTC)<br/>
-↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-08-27 15:03  UTC)<br/>
 *Fori Prime* is overtaken by the Gloomwall (2024-08-27 15:03  UTC)<br/>
 ↳ *Fori Prime* is now unobservable due to the Gloom (2024-08-27 15:03  UTC)<br/>
-↳ *Fori Prime* liberation campaign is active despite being inaccessible (2024-08-27 15:03  UTC)<br/>
 *Azur Secundus* is overtaken by the Gloomwall (2024-08-27 15:03  UTC)<br/>
 ↳ *Azur Secundus* is now unobservable due to the Gloom (2024-08-27 15:04  UTC)<br/>
 *Erson Sands* is overtaken by the Gloomwall (2024-08-27 15:04  UTC)<br/>
 ↳ *Erson Sands* is now unobservable due to the Gloom (2024-08-27 15:04  UTC)<br/>
-↳ *Erson Sands* liberation campaign is active despite being inaccessible (2024-08-27 15:04  UTC)<br/>
 *Overgoe Prime* is no longer enveloped by the Gloom (2024-08-27 15:04  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-27 15:14  UTC)<br/>
 *Matar Bay* defense is won (2024-08-27 16:55  UTC)<br/>
@@ -2553,7 +2550,6 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-09-01 19:59  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59  UTC)<br/>
-↳ *Hellmire* liberation campaign is active despite being inaccessible (2024-09-01 19:59  UTC)<br/>
 ↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59  UTC)<br/>
  Decay: 3.0 on Pandion-XXIV
  (2024-09-01 19:59  UTC)<br/>
@@ -4849,7 +4845,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-02-15 11:52  UTC)<br/>
 Terminid Brood debuts a new Assault Division: Predator Strain (2025-02-15 11:52  UTC)<br/>
 Assault Division: Predator Strain deploys to *Fenrir III* (2025-02-15 11:52  UTC)<br/>
-Major Order | Operation A2-2-3 is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
+Major Order | Operation A2-2-3 Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
  Decay: 2.0 on Heeth<br/> Decay: 0.0 on Fenrir III
  (2025-02-15 12:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminids are surging at the Gloom border. FENRIR III is under attack. The Center of Science on this planet is of vital importance to stopping the Meridian Singularity. The Ministry of Science's top astrophysicists are gathered there, researching both the Singularity itself and the Dark Energy that somehow powers its movement. All Helldivers are ordered to defend FENRIR III. The Center of Science must not be lost. (2025-02-15 12:31  UTC)<br/>
@@ -4872,6 +4868,7 @@ NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<b
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
 *Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
 *Fenrir III* defense is won (2025-02-16 22:35  UTC)<br/>
+↳ Assault Division: Predator Strain goes into hiding (2025-02-16 22:35  UTC)<br/>
 Assault Division: Predator Strain deploys to *Erata Prime* (2025-02-16 22:38  UTC)<br/>
 *Meridia* moves to X 0.44621298 Y 0.16827168 (2025-02-16 23:00  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 3.5 on Erata Prime
@@ -4889,3 +4886,40 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Andar*'s invasion is successful (2025-02-17 12:59  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-02-17 12:59  UTC)<br/>
 *Meridia* moves to X 0.44426426 Y 0.16803248 (2025-02-17 15:00  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2025-02-17 16:00  UTC)<br/>
+*Meridia* moves to X 0.44377872 Y 0.16797288 (2025-02-17 19:00  UTC)<br/>
+*Meridia* moves to X 0.443297 Y 0.16791375 (2025-02-17 23:00  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Illuminate (2025-02-17 23:59  UTC)<br/>
+*Baldrick Prime*'s invasion is successful (2025-02-18 00:00  UTC)<br/>
+*Meridia* moves to X 0.44134736 Y 0.16767445 (2025-02-18 03:00  UTC)<br/>
+*Meridia* moves to X 0.44281846 Y 0.16785501 (2025-02-18 03:00  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Illuminate (2025-02-18 06:43  UTC)<br/>
+*Meridia* moves to X 0.44234326 Y 0.16779669 (2025-02-18 07:00  UTC)<br/>
+
+### Day: #377
+*Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-18 10:19  UTC)<br/>
+*Moradesh* moves to X 0.32133883 Y 0.15296434 (2025-02-18 10:19  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement. (2025-02-18 10:19  UTC)<br/>
+*Meridia* moves to X 0.44184864 Y 0.16773598 (2025-02-18 11:12  UTC)<br/>
+*Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-18 11:12  UTC)<br/>
+↳ NOTE: *Moradesh* is put back in its original position as well as *Meridia*. *Meridia* is now moving again, the entire incident lasted 53 minutes (2025-02-18 11:12  UTC)<br/>
+*Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
+↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
+↳ Assault Division: Predator Strain is routed (2025-02-18 11:47  UTC)<br/>
+*Canopus*'s invasion is successful (2025-02-18 12:11  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-18 12:11  UTC)<br/>
+Major Order | Operation A2-2-3 Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
+*Hellmire* liberation campaign ends (2025-02-18 12:29  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Despite the appearance of the Predator Strain, the Terminid wave has shattered against the Helldiver breakwater. The researchers at the Center of Science are safe. These researchers have made a startling discovery: the energy produced by E-710 combustion matches all known properties of Dark Energy. Studying E-710, then, could help us understand Dark Energy—and the means by which the Illuminate are moving the Meridian Singularity. (2025-02-18 12:30  UTC)<br/>
+*Fori Prime* is no longer unobservable (2025-02-18 12:34  UTC)<br/>
+Major Order | Operation A2-2-4 *Fori Prime* Gloom Research Expedition is issued | Objective: Liberate/Sample/Eradicate (2025-02-18 12:35  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom. Consult the Galactic Map on your ship for more information. (2025-02-18 12:35  UTC)<br/>
+*Fori Prime* liberation campaign starts (2025-02-18 12:36  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. In the interest of preserving the structural integrity of biological and/or geological materials on FORI PRIME during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission. (2025-02-18 12:38  UTC)<br/>
+Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-18 12:38  UTC)<br/>
+ Decay: 15.0 on Fori Prime
+ (2025-02-18 14:00  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-18 15:11  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
