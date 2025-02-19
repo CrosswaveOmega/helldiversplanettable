@@ -318,6 +318,10 @@ Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Ma
 
 ### Day: #34
 Major Order | Operation A1-3-3 TCS Activation is issued | Objective: Liberate (2024-03-12 13:46  UTC)<br/>
+*Erata Prime* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Fenrir III* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Meridia* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Turing* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
 Dispatch: Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. However, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens. The Terminid Control System must be activated--at any cost. (2024-03-12 13:47  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Activate Terminid Control System (2024-03-12 13:47  UTC)<br/>
  Decay: 4.5 on Terminid worlds
@@ -981,10 +985,13 @@ Major Order | Operation A1-4-10 Legitimate Undertaking Phase One is failed | Obj
 Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their calculated oppression and hardwired avarice, have stymied our valiant efforts to liberate *Choohe*. The loss of the indispensible explosives on the planet will mean significant delays to the production of Anti-Tank Mines. The explosive technicians on *Choohe* have almost certainly been torn to pieces by the vicious blades of the Automatons. All will agree that every possible resource was directed towards their salvation. Their sacrifice is hereby honored. (2024-04-29 12:21  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
+*Fenrir III* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Erata Prime* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
+*Erata Prime* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
+*Turing* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Meridia* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-04-29 14:22  UTC)<br/>
 *Meridia* of the Umlaut sector's biome is changed from Volcanic Jungle [Primordial] to Supercolony [Primordial] (2024-04-29 14:22  UTC)<br/>
@@ -1334,12 +1341,13 @@ Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a
 ### Day: #113
 Major Order | Operation A1-5-6 Enduring Peace Phase One is won | Objective: Control (2024-05-30 15:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The path to the Terminid Supercolony on *Meridia* is clear. Weaponized payloads of Dark Fluid have been constructed and deployed across the Super Destroyer Fleet. Phase 2 will begin imminently. (2024-05-30 15:30  UTC)<br/>
-⤹ *Meridia* - *Fenrir III* warp link is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Angel's Venture* warp link is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Turing* warp link is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Estanu* warp link is added (2024-05-30 15:35  UTC)<br/>
-⤹ *Meridia* - *Crimsica* warp link is added (2024-05-30 15:35  UTC)<br/>
-↳ *Meridia* liberation campaign starts (2024-05-30 15:35  UTC)<br/>
+*Meridia* - *Fenrir III* warp link is added (2024-05-30 15:35  UTC)<br/>
+*Meridia* - *Angel's Venture* warp link is added (2024-05-30 15:35  UTC)<br/>
+*Meridia* - *Turing* warp link is added (2024-05-30 15:35  UTC)<br/>
+*Meridia* - *Estanu* warp link is added (2024-05-30 15:35  UTC)<br/>
+*Meridia* - *Crimsica* warp link is added (2024-05-30 15:35  UTC)<br/>
+*Meridia* liberation campaign starts (2024-05-30 15:35  UTC)<br/>
+*Meridia* has been classified as a High Priority Campaign (2024-05-30 15:35  UTC)<br/>
 Major Order | Operation A1-5-7 Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36  UTC)<br/>
 Dispatch: OPERATION "ENDURING PEACE"—PHASE II (FINAL). The time has come to eradicate the Terminid Supercolony completely. The Helldivers will deploy to the surface of *Meridia* to deploy partial payloads of Dark Fluid across the planet. Once a critical mass is reached, the Dark Fluid will accrete into a superdense mass, triggering total planetary implosion. The Supercolony, and its hyper-reproductive Terminids, will be destroyed. The fate of the galaxy is in your hands, Helldivers. (2024-05-30 15:39  UTC)<br/>
  Decay: 10.0 on Meridia
@@ -1397,7 +1405,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
 ↳ *Acamar IV* liberation campaign starts (2024-06-02 15:22  UTC)<br/>
  Decay: 0.0 on Meridia<br/> Decay: 3.5 on Turing<br/> Decay: 2.5 on Acamar IV, Erata Prime
  (2024-06-02 18:00  UTC)<br/>
-*Meridia* is liberated via planetary implosion (2024-06-02 19:13  UTC)<br/>
+*Meridia* is liberated (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* collapses into a black hole (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* of the Umlaut sector is established as a *Meridia*n Black Hole POI (2024-06-02 19:13  UTC)<br/>
 ↳ Major Order | Operation A1-5-7 Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13  UTC)<br/>
@@ -4917,9 +4925,36 @@ Dispatch: MAJOR ORDER WON. Despite the appearance of the Predator Strain, the Te
 Major Order | Operation A2-2-4 *Fori Prime* Gloom Research Expedition is issued | Objective: Liberate/Sample/Eradicate (2025-02-18 12:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom. Consult the Galactic Map on your ship for more information. (2025-02-18 12:35  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-02-18 12:36  UTC)<br/>
+*Fori Prime* has been classified as a High Priority Campaign (2025-02-18 12:36  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In the interest of preserving the structural integrity of biological and/or geological materials on FORI PRIME during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission. (2025-02-18 12:38  UTC)<br/>
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-18 12:38  UTC)<br/>
  Decay: 15.0 on Fori Prime
  (2025-02-18 14:00  UTC)<br/>
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-18 15:11  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
+ Decay: 10.0 on Fori Prime
+ (2025-02-18 16:00  UTC)<br/>
+*Mog*'s invasion is successful (2025-02-18 18:55  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-02-18 18:55  UTC)<br/>
+*Meridia* moves to X 0.44079316 Y 0.16760643 (2025-02-18 19:00  UTC)<br/>
+*Meridia* moves to X 0.440225 Y 0.16753669 (2025-02-18 23:00  UTC)<br/>
+DSS deploys to *Klaka 5* of the Alstrad sector (2025-02-18 23:17  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-02-18 23:18  UTC)<br/>
+*Meridia* moves to X 0.43964475 Y 0.16746548 (2025-02-19 03:00  UTC)<br/>
+*Klaka 5*'s invasion is successful (2025-02-19 03:11  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-02-19 03:11  UTC)<br/>
+*Meridia* moves to X 0.4390482 Y 0.16739225 (2025-02-19 07:00  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2025-02-19 07:17  UTC)<br/>
+NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. The Icon and text is later removed at 01:23pm the same day (2025-02-19 08:38  UTC)<br/>
+
+### Day: #378
+*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-02-19 10:14  UTC)<br/>
+*Meridia* moves to X 0.4384542 Y 0.16731934 (2025-02-19 11:00  UTC)<br/>
+*Heze Bay*'s invasion is successful (2025-02-19 11:18  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-02-19 11:18  UTC)<br/>
+Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-19 14:41  UTC)<br/>
+NOTE: *Moradesh* incident happened again today from 02:41pm to ??? and frankly I can't be asked to do extra event lines to document it again (2025-02-19 14:41  UTC)<br/>
+ Decay: 9.0 on Fori Prime
+ (2025-02-19 14:41  UTC)<br/>
+NOTE: Coordinate pull for 03:00pm for *Meridia* didn't respond properly due to it not moving as a result of the *Moradesh* incident 2.0 which was ongoing when this was supposed to trigger (2025-02-19 15:00  UTC)<br/>
+DSS deploys to *Ras Algethi* of the Leo sector (2025-02-19 15:18  UTC)<br/>
