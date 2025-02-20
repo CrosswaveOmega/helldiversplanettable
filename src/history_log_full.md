@@ -692,7 +692,7 @@ Emergency Alert | Reclamation Emergency Defense is issued (2024-04-09 11:47  UTC
  (2024-04-09 11:47  UTC)<br/>
 Major Order | Operation A1-4-4 E-710 Farms is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02  UTC)<br/>
-Major Order | Operation A1-4-5 Courageous Defense is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
+Major Order | Operation A1-4-5 The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
  Decay: 1.5 on Sten sector, Valdis sector, Lacaille sector, L'estrade sector, Draco sector, Mirin sector
  (2024-04-09 12:02  UTC)<br/>
 *Choohe* - *Matar Bay* warp link is added (2024-04-09 12:15  UTC)<br/>
@@ -745,7 +745,7 @@ Dispatch: SUPER DESTROYER FLEET UPGRADE. In response to increased enemy threat, 
 *Marfark* defense is failed (2024-04-12 11:52  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2024-04-12 11:52  UTC)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-12 11:52  UTC)<br/>
-Major Order | Operation A1-4-5 Courageous Defense is failed | Objective: Defend (2024-04-12 11:59  UTC)<br/>
+Major Order | Operation A1-4-5 The Reclamation is failed | Objective: Defend (2024-04-12 11:59  UTC)<br/>
 Dispatch: MAJOR ORDER LOST. The Automatons have seized control of many innocent and once-beautiful worlds. The valiant and tireless defense raised by the Helldivers was commendable, but it was not enough to stop such a large and cowardly assault. Any colonists not driven from their homes were likely slaughtered, their votes forever lost. (2024-04-12 11:59  UTC)<br/>
 Major Order | Operation A1-4-6 *Menkent* Line is issued | Objective: Control (2024-04-12 12:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are ordered to establish and hold the *Menkent* Line, consisting of the planets *Menkent* and *Lesath*. Establishing this defensive line will allow SEAF Engineers to begin construction of orbital defenses on those planets, deterring the advance of the Automaton Fleet and allowing counteroffensive preparations to begin. (2024-04-12 12:00  UTC)<br/>
@@ -4908,10 +4908,10 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 ### Day: #377
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-18 10:19  UTC)<br/>
 *Moradesh* moves to X 0.32133883 Y 0.15296434 (2025-02-18 10:19  UTC)<br/>
-↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement. (2025-02-18 10:19  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-18 10:19  UTC)<br/>
 *Meridia* moves to X 0.44184864 Y 0.16773598 (2025-02-18 11:12  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-18 11:12  UTC)<br/>
-↳ NOTE: *Moradesh* is put back in its original position as well as *Meridia*. *Meridia* is now moving again, the entire incident lasted 53 minutes (2025-02-18 11:12  UTC)<br/>
+↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is fixed. *Meridia* is now moving again, the entire incident lasted 53 minutes (2025-02-18 11:12  UTC)<br/>
 *Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
@@ -4953,8 +4953,31 @@ NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual en
 *Heze Bay*'s invasion is successful (2025-02-19 11:18  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-02-19 11:18  UTC)<br/>
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-19 14:41  UTC)<br/>
-NOTE: *Moradesh* incident happened again today from 02:41pm to ??? and frankly I can't be asked to do extra event lines to document it again (2025-02-19 14:41  UTC)<br/>
+*Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-19 14:41  UTC)<br/>
+*Moradesh* moves to X 0.31730345 Y 0.15246902 (2025-02-19 14:41  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, again. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-19 14:41  UTC)<br/>
  Decay: 9.0 on Fori Prime
  (2025-02-19 14:41  UTC)<br/>
-NOTE: Coordinate pull for 03:00pm for *Meridia* didn't respond properly due to it not moving as a result of the *Moradesh* incident 2.0 which was ongoing when this was supposed to trigger (2025-02-19 15:00  UTC)<br/>
-DSS deploys to *Ras Algethi* of the Leo sector (2025-02-19 15:18  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-19 19:44  UTC)<br/>
+*Meridia* moves to X 0.42139462 Y 0.16522539 (2025-02-19 19:47  UTC)<br/>
+*Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-19 19:47  UTC)<br/>
+↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is relocated to where it should be and then some. *Meridia* is now moving again, the entire incident lasted 5 hours and 6 minutes (2025-02-19 19:47  UTC)<br/>
+*Ras Algethi*'s invasion is successful (2025-02-19 22:14  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-02-19 22:14  UTC)<br/>
+*Meridia* moves to X 0.42115816 Y 0.16519637 (2025-02-19 23:00  UTC)<br/>
+*Meridia* moves to X 0.4208622 Y 0.16516005 (2025-02-20 03:00  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-20 03:19  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-02-20 03:43  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-02-20 06:05  UTC)<br/>
+*Meridia* moves to X 0.42056197 Y 0.1651232 (2025-02-20 07:00  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2025-02-20 07:44  UTC)<br/>
+
+### Day: #379
+ Decay: 8.0 on Fori Prime
+ (2025-02-20 09:00  UTC)<br/>
+*Meridia* moves to X 0.42025197 Y 0.16508514 (2025-02-20 11:00  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2025-02-20 11:20  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Illuminate (2025-02-20 13:41  UTC)<br/>
+​​*Meridia* moves to X 0.41994244 Y 0.16504715 (2025-02-20 15:00  UTC)<br/>
+*Hort*'s invasion is successful (2025-02-20 15:43  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-20 15:43  UTC)<br/>
