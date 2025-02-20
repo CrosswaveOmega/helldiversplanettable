@@ -336,7 +336,7 @@ Dispatch: NEW MAJOR ORDER. Activate Terminid Control System (2024-03-12 13:47  U
  (2024-03-13 12:00  UTC)<br/>
 *Fenrir III* is liberated (2024-03-13 22:03  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-13 22:03  UTC)<br/>
-Dispatch: FENRIR III SECURED. The Terminid Control System is now fully activated on *Fenrir III*. (2024-03-13 22:29  UTC)<br/>
+Dispatch: *Fenrir III* SECURED. The Terminid Control System is now fully activated on *Fenrir III*. (2024-03-13 22:29  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 500.0 on Fenrir III
  (2024-03-14 00:00  UTC)<br/>
 
@@ -703,6 +703,7 @@ Major Order | Operation A1-4-5 The Reclamation is issued | Objective: Defend (20
 *Charon Prime* - *Charbal-VII* warp link is added (2024-04-09 12:15  UTC)<br/>
 *Matar Bay* - *Martale* warp link is added (2024-04-09 16:16  UTC)<br/>
 Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the Valdis Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (2024-04-09 23:47  UTC)<br/>
+↳ NOTE: This Dispatch is for Operation A1-4-5 (2024-04-09 23:47  UTC)<br/>
 *Menkent* defense is won (2024-04-10 07:14  UTC)<br/>
 ↳ Hydra sector is fully under Human control (2024-04-10 07:14  UTC)<br/>
 
@@ -2220,7 +2221,7 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
 ↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38  UTC)<br/>
 Major Order | Operation A1-8-1 Mine Efficacy Review is failed | Objective: Eradicate (2024-08-06 10:39  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The failure of the Helldivers to eliminate the targeted number of enemies using their currently-available arsenal has made clear the need for additional weaponry. Therefore, High Command has ordered the immediate, large-scale production of Anti-Tank Mines. They will be available fleetwide in short order. (2024-08-06 10:39  UTC)<br/>
-Major Order | Operation A1-8-2 Benevolent Sanitation is issued | Objective: Eradicate/Liberate (2024-08-06 14:55  UTC)<br/>
+Major Order | Operation A1-8-2 Eradicate Terminids on *Socorro III* is issued | Objective: Eradicate/Liberate (2024-08-06 14:55  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminids have overrun SEAF recon posts on *Socorro III*. Partial reports indicate the possibility of new Terminid variants. Most likely, these reports are exaggerations; however, the Terminid incursion is undoubtable. The Helldivers are to deploy to *Socorro III* and eradicate as many Terminids as possible. Further, the Helldivers are ordered to liberate all nearby planets, to prevent the spread of any new Terminid variants that may or may not exist. (2024-08-06 14:55  UTC)<br/>
  Decay: 2.5 on Terminid worlds<br/> Decay: 1.5 on Automaton worlds
  (2024-08-06 14:55  UTC)<br/>
@@ -2264,7 +2265,7 @@ Dispatch: COLONY COLLAPSE. Sustained bombardment has altered the ecology of emba
 
 ### Day: #185
 *Bore Rock* is liberated (2024-08-10 10:21  UTC)<br/>
-↳ Major Order | Operation A1-8-2 Benevolent Sanitation is won | Objective: Eradicate/Liberate (2024-08-10 10:21  UTC)<br/>
+↳ Major Order | Operation A1-8-2 Eradicate Terminids on *Socorro III* is won | Objective: Eradicate/Liberate (2024-08-10 10:21  UTC)<br/>
 *Erson Sands* is moderately enveloped by the Gloom (2024-08-10 10:23  UTC)<br/>
 *Gemstone Bluffs* is moderately enveloped by the Gloom (2024-08-10 10:24  UTC)<br/>
 *Nabatea Secundus* is lightly enveloped by the Gloom (2024-08-10 10:24  UTC)<br/>
@@ -2276,7 +2277,7 @@ Dispatch: MAJOR ORDER WON. This latest unnatural slew of Terminid abominations h
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-10 11:30  UTC)<br/>
  Decay: 0.0 on Curia, Acamar IV
  (2024-08-10 12:00  UTC)<br/>
-Major Order | Operation A1-8-3 Banana Split is issued | Objective: Defend/Liberate (2024-08-10 15:19  UTC)<br/>
+Major Order | Operation A1-8-3 Simultaneous Attack and Defense is issued | Objective: Defend/Liberate (2024-08-10 15:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Terminid expansion to new planets. But threatening as this is, we do not have the luxury of keeping our focus in one place. The bots retain a hold on a pocket of two isolated planets: *Troost* and *Vandalon IV*. They are vulnerable, and we must liberate them now before the machines find a way to reinforce their position. (2024-08-10 15:19  UTC)<br/>
 *Acamar IV* defense is won (2024-08-11 01:49  UTC)<br/>
 ↳ Jin Xi sector is fully under Human control (2024-08-11 01:49  UTC)<br/>
@@ -2330,7 +2331,7 @@ STRATEGIC VICTORY. The last remaining pocket of Automaton resistance in the Trig
  (2024-08-15 02:00  UTC)<br/>
 *Erata Prime* defense is won (2024-08-15 07:28  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-08-15 07:28  UTC)<br/>
-Major Order | Operation A1-8-3 Banana Split is won | Objective: Defend/Liberate (2024-08-15 08:51  UTC)<br/>
+Major Order | Operation A1-8-3 Simultaneous Attack and Defense is won | Objective: Defend/Liberate (2024-08-15 08:51  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining pocket of Automaton resistance in their cut-off territory, while simultaneously holding the line against the Terminid spread. (2024-08-15 08:51  UTC)<br/>
  Decay: 1.5 on Erata Prime
  (2024-08-15 08:51  UTC)<br/>
@@ -2359,7 +2360,7 @@ Dispatch: Major Order Update: *Super Earth* High Command has detected a large ba
 *Estanu* defense is won (2024-08-17 13:50  UTC)<br/>
  Decay: 1.0 on Curia<br/> Decay: 1.5 on Estanu
  (2024-08-17 16:00  UTC)<br/>
-Major Order | Operation A1-8-5 People's Shield is issued | Objective: Defend/Liberate (2024-08-17 19:00  UTC)<br/>
+Major Order | Operation A1-8-5 Push Automatons Away From *Super Earth* is issued | Objective: Defend/Liberate (2024-08-17 19:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. While our attention has been diverted by the Gloom, the Automatons have crept closer to *Super Earth*. The Helldivers are ordered to launch an assault on the Automatons to push them back. Intel indicates that additional Automaton attacks are expected within the next few days. Remain vigilant, and defend against any further Automaton incursions. (2024-08-17 19:00  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a recent Order have been reassigned to Chemical Weapon facilities, where they will be given the opportunity to repay their debt to Managed Democracy with strenuous labor. The Orbital Gas Strike stratagem will be temporarily added to all loadouts. (2024-08-17 19:40  UTC)<br/>
 *Tarsh* - *Mastia* warp link is added (2024-08-17 22:34  UTC)<br/>
@@ -2395,7 +2396,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
  Decay: 0.0 on Curia, Tarsh
  (2024-08-20 12:00  UTC)<br/>
 *Curia* defense is won (2024-08-21 04:36  UTC)<br/>
-Major Order | Operation A1-8-5 People's Shield is won | Objective: Defend/Liberate (2024-08-21 04:36  UTC)<br/>
+Major Order | Operation A1-8-5 Push Automatons Away From *Super Earth* is won | Objective: Defend/Liberate (2024-08-21 04:36  UTC)<br/>
  Decay: 1.0 on Curia
  (2024-08-21 06:00  UTC)<br/>
 *Acamar IV* defense is failed (2024-08-21 07:47  UTC)<br/>
@@ -2505,7 +2506,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
 ### Day: #203
  Decay: 0.0 on Esker, Pandion-XXIV
  (2024-08-28 09:00  UTC)<br/>
-Major Order | Operation A1-8-7 Blazing Barrage is issued | Objective: Eradicate/Liberate (2024-08-28 11:06  UTC)<br/>
+Major Order | Operation A1-8-7 Acquire Materials for Orbital Napalm Barrages is issued | Objective: Eradicate/Liberate (2024-08-28 11:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall. Liberate the polystyrene stockpile on *Vernen Wells*, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. (2024-08-28 11:06  UTC)<br/>
  Decay: 2.5 on Vernen Wells
  (2024-08-28 11:06  UTC)<br/>
@@ -2563,7 +2564,7 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
  (2024-09-01 19:59  UTC)<br/>
 
 ### Day: #208
-Major Order | Operation A1-8-7 Blazing Barrage is failed | Objective: Eradicate/Liberate (2024-09-02 11:24  UTC)<br/>
+Major Order | Operation A1-8-7 Acquire Materials for Orbital Napalm Barrages is failed | Objective: Eradicate/Liberate (2024-09-02 11:24  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite heroic conservation efforts, and millions of Automaton militants recycled into useful scrap metals, the Helldivers were unable to secure sufficient resources to rectify supply shortages. Fleetwide distribution of the Orbital Napalm Barrage will be delayed. (2024-09-02 11:26  UTC)<br/>
 *Trandor* - *Gatria* warp link is added (2024-09-02 16:07  UTC)<br/>
 *Trandor* is not accessible despite connecting to the liberated world of *Gatria* (2024-09-02 16:07  UTC)<br/>
@@ -3827,7 +3828,7 @@ Dispatch: MAJOR ORDER WON. After days of fighting, colonies lie in ruins across 
 
 ### Day: #318
 Major Order | Operation A1-12-5 Secure *Fenrir III* is issued | Objective: Control (2024-12-21 11:07  UTC)<br/>
-Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vicinity of the *Meridia* Singularity. Astronomers have reported fluctuations in the event horizon and electromagnetic flares. These developments demand further investigation. High Command has ordered the construction of a new Center of Science on FENRIR III. The Helldivers must clear the planet and nearby area of any Terminid infestation in order to facilitate its safe construction. (2024-12-21 11:16  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vicinity of the *Meridia* Singularity. Astronomers have reported fluctuations in the event horizon and electromagnetic flares. These developments demand further investigation. High Command has ordered the construction of a new Center of Science on *Fenrir III*. The Helldivers must clear the planet and nearby area of any Terminid infestation in order to facilitate its safe construction. (2024-12-21 11:16  UTC)<br/>
 *Elysian Meadows* of the Guang sector is invaded by Illuminate (2024-12-21 11:18  UTC)<br/>
 *Erata Prime* defense is failed (2024-12-21 20:30  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-12-21 20:30  UTC)<br/>
@@ -3878,7 +3879,7 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 ↳ Gallux sector is fully under Human control (2024-12-24 16:13  UTC)<br/>
 Major Order | Operation A1-12-5 Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
 *Fenrir III* of the Umlaut sector is established as a Center of Science POI (2024-12-24 23:11  UTC)<br/>
-Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of FENRIR III has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of *Fenrir III* has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
 Major Order | Operation A1-12-6 Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
 Dispatch: HOLIDAY NOTICE. Today, citizens across the Federation observe one of our most special holidays. A joyous celebration of love, family, and pursuing peace: the Festival of Reckoning. Consult the Galactic Map on your ship for more information. (2024-12-24 23:21  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all Helldivers, who proved their virtue this year through unhestitating sacrifice in defense of Freedom. All Helldivers will find the StA-X3 W.A.S.P. LAUNCHER Stratagem waiting in their Armory. (2024-12-24 23:22  UTC)<br/>
@@ -4856,8 +4857,8 @@ Assault Division: Predator Strain deploys to *Fenrir III* (2025-02-15 11:52  UTC
 Major Order | Operation A2-2-3 Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
  Decay: 2.0 on Heeth<br/> Decay: 0.0 on Fenrir III
  (2025-02-15 12:11  UTC)<br/>
-Dispatch: NEW MAJOR ORDER. Terminids are surging at the Gloom border. FENRIR III is under attack. The Center of Science on this planet is of vital importance to stopping the Meridian Singularity. The Ministry of Science's top astrophysicists are gathered there, researching both the Singularity itself and the Dark Energy that somehow powers its movement. All Helldivers are ordered to defend FENRIR III. The Center of Science must not be lost. (2025-02-15 12:31  UTC)<br/>
-Dispatch: ALERT. A new Terminid strain, likely to have developed inside the Gloom, has been encountered near the Center of Science on FENRIR III. The Center's Dark Energy research is now at critical risk. Scattered reports on the new Terminids indicate discoloration, increased intelligence, and drastic changes to hunting patterns. Information remains scarce, as no SEAF units have returned from close encounters. This variant group has been dubbed the Predator Strain. (2025-02-15 12:47  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Terminids are surging at the Gloom border. *Fenrir III* is under attack. The Center of Science on this planet is of vital importance to stopping the Meridian Singularity. The Ministry of Science's top astrophysicists are gathered there, researching both the Singularity itself and the Dark Energy that somehow powers its movement. All Helldivers are ordered to defend *Fenrir III*. The Center of Science must not be lost. (2025-02-15 12:31  UTC)<br/>
+Dispatch: ALERT. A new Terminid strain, likely to have developed inside the Gloom, has been encountered near the Center of Science on *Fenrir III*. The Center's Dark Energy research is now at critical risk. Scattered reports on the new Terminids indicate discoloration, increased intelligence, and drastic changes to hunting patterns. Information remains scarce, as no SEAF units have returned from close encounters. This variant group has been dubbed the Predator Strain. (2025-02-15 12:47  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-02-15 12:58  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-15 13:31  UTC)<br/>
 *Meridia* moves to X 0.45032343 Y 0.1687762 (2025-02-15 15:00  UTC)<br/>
@@ -4981,3 +4982,5 @@ DSS deploys to *Hort* of the Rigel sector (2025-02-20 11:20  UTC)<br/>
 ​​*Meridia* moves to X 0.41994244 Y 0.16504715 (2025-02-20 15:00  UTC)<br/>
 *Hort*'s invasion is successful (2025-02-20 15:43  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-20 15:43  UTC)<br/>
+*Meridia* moves to X 0.41962686 Y 0.16500841 (2025-02-20 19:00  UTC)<br/>
+DSS deploys to *Genesis Prime* of the Rictus sector (2025-02-20 19:20  UTC)<br/>
