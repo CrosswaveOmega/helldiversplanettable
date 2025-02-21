@@ -4984,3 +4984,27 @@ DSS deploys to *Hort* of the Rigel sector (2025-02-20 11:20  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-20 15:43  UTC)<br/>
 *Meridia* moves to X 0.41962686 Y 0.16500841 (2025-02-20 19:00  UTC)<br/>
 DSS deploys to *Genesis Prime* of the Rictus sector (2025-02-20 19:20  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-02-20 21:53  UTC)<br/>
+ Decay: 7.0 on Fori Prime
+ (2025-02-20 21:53  UTC)<br/>
+*Meridia* moves to X 0.4193123 Y 0.1649698 (2025-02-20 23:00  UTC)<br/>
+*Genesis Prime*'s invasion is successful (2025-02-21 01:41  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-21 01:41  UTC)<br/>
+*Meridia* moves to X 0.4189873 Y 0.16492991 (2025-02-21 03:00  UTC)<br/>
+DSS deploys to *Elysian Meadows* of the Guang sector (2025-02-21 03:22  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-21 05:12  UTC)<br/>
+DSS effect Eagle Storm stops (2025-02-21 06:07  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-02-21 06:44  UTC)<br/>
+*Meridia* moves to X 0.418658 Y 0.16488948 (2025-02-21 07:00  UTC)<br/>
+
+# Day: #380
+ Decay: 6.0 on Fori Prime
+ (2025-02-21 09:00  UTC)<br/>
+*Elysian Meadows*'s invasion is successful (2025-02-21 09:54  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-02-21 09:54  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Illuminate (2025-02-21 10:20  UTC)<br/>
+*Meridia* moves to X 0.41831577 Y 0.1648475 (2025-02-21 11:00  UTC)<br/>
+DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-21 11:22  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Illuminate (2025-02-21 16:30  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-02-21 17:12  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-02-21 17:12  UTC)<br/>
