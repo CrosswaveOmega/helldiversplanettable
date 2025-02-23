@@ -2559,7 +2559,6 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
 *Fenrir III* is liberated (2024-09-01 19:59  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-09-01 19:59  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-09-01 19:59  UTC)<br/>
-↳ NOTE: The *Hellmire* campaign was not selectable from the map due to the 'unobservable' modifier added by the Heavy Gloom Cloud the planet was within. However, Helldivers who never left *Hellmire* upon its closure could still start new operations from the war table. It is still treated as an actual battle as per the criteria used by the upkeepers of the HOWL documents (2024-09-01 19:59  UTC)<br/>
  Decay: 3.0 on Pandion-XXIV
  (2024-09-01 19:59  UTC)<br/>
 
@@ -2581,7 +2580,6 @@ Dispatch: NEW MAJOR ORDER. A massive Terminid outbreak has erupted out of the Gl
  (2024-09-02 18:00  UTC)<br/>
 *Gatria* defense is won (2024-09-03 05:18  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-09-03 06:42  UTC)<br/>
-↳ NOTE: See Day 207 (2024-09-03 06:42  UTC)<br/>
  Decay: 1.5 on Gatria
  (2024-09-03 06:42  UTC)<br/>
 
@@ -5005,6 +5003,56 @@ DSS effect Orbital Blockade is activated (2025-02-21 06:44  UTC)<br/>
 *Spherion* of the Quintus sector is invaded by Illuminate (2025-02-21 10:20  UTC)<br/>
 *Meridia* moves to X 0.41831577 Y 0.1648475 (2025-02-21 11:00  UTC)<br/>
 DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-21 11:22  UTC)<br/>
+*Meridia* moves to X 0.4179593 Y 0.16480373 (2025-02-21 15:00  UTC)<br/>
 *Iro* of the Rictus sector is invaded by Illuminate (2025-02-21 16:30  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-21 17:12  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-21 17:12  UTC)<br/>
+*Meridia* moves to X 0.4175849 Y 0.16475777 (2025-02-21 19:00  UTC)<br/>
+DSS deploys to *Spherion* of the Quintus sector (2025-02-21 19:23  UTC)<br/>
+*Spherion*'s invasion is successful (2025-02-21 22:21  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-02-21 22:21  UTC)<br/>
+ Decay: 5.0 on Fori Prime
+ (2025-02-21 22:21  UTC)<br/>
+*Meridia* moves to X 0.4171933 Y 0.1647097 (2025-02-21 23:00  UTC)<br/>
+DSS deploys to *Iro* of the Rictus sector (2025-02-21 23:23  UTC)<br/>
+*Meridia* moves to X 0.4167972 Y 0.1646611 (2025-02-22 03:00  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-02-22 04:26  UTC)<br/>
+*Iro*'s invasion is successful (2025-02-22 04:30  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-02-22 04:30  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-02-22 06:47  UTC)<br/>
+*Meridia* moves to X 0.41640264 Y 0.16461267 (2025-02-22 07:00  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-22 07:24  UTC)<br/>
+
+### Day: #381
+*Meridia* moves to X 0.4160097 Y 0.16456443 (2025-02-22 11:00  UTC)<br/>
+NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. (2025-02-22 11:16  UTC)<br/>
+DSS deploys to *Siemnot* of the Xi Tauri sector (2025-02-22 11:24  UTC)<br/>
+ Decay: 4.0 on Fori Prime
+ (2025-02-22 12:00  UTC)<br/>
+*Meridia* moves to X 0.41561884 Y 0.16451645 (2025-02-22 15:00  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-02-22 15:07  UTC)<br/>
+*Siemnot*'s invasion is successful (2025-02-22 16:26  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-02-22 16:26  UTC)<br/>
+*Meridia* moves to X 0.4152246 Y 0.16446806 (2025-02-22 19:00  UTC)<br/>
+DSS deploys to *RD-4* of the Rigel sector (2025-02-22 19:25  UTC)<br/>
+*Meridia* moves to X 0.41483104 Y 0.16441976 (2025-02-22 23:00  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-23 01:05  UTC)<br/>
+ Decay: 3.0 on Fori Prime
+ (2025-02-23 01:05  UTC)<br/>
+*Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-23 02:42  UTC)<br/>
+*Moradesh* moves to X 0.29386738 Y 0.1495924 (2025-02-23 02:42  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the third time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-23 02:42  UTC)<br/>
+*RD-4*'s invasion is successful (2025-02-23 03:07  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-23 03:07  UTC)<br/>
+DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-23 07:26  UTC)<br/>
+
+### Day: #382
+*Meridia* moves to X 0.41365007 Y 0.16427477 (2025-02-23 11:02  UTC)<br/>
+*Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-23 11:02  UTC)<br/>
+↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is relocated to where it should be. *Meridia* is now moving again, the entire incident lasted 8 hours and 20 minutes (2025-02-23 11:02  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Illuminate (2025-02-23 12:27  UTC)<br/>
+Dispatch: ALERT. The Gloom cover on *Fori Prime* is predicted to thicken over the coming hours. The equipment enabling the Helldivers' Gloom expedition is designed to withstand low spore levels only. Given the heightened risk, there will be no further operations on *Fori Prime* after the current Major Order is completed. (2025-02-23 12:32  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-02-23 13:06  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-02-23 13:06  UTC)<br/>
+*Meridia* moves to X 0.4133073 Y 0.16423291 (2025-02-23 15:00  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-23 15:27  UTC)<br/>
