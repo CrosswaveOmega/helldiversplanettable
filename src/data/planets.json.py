@@ -1,4 +1,4 @@
-"""This code will fetch the current game statistics from the 
+"""This code will fetch the current game statistics from the
 Helldivers 2 community API wrapper, and saves them to a csv and json file."""
 
 import csv
@@ -40,7 +40,7 @@ async def fetch_planets_json() -> Any:
         "Content-Type": "application/json",
         "Accept": "application/json",
         "X-Super-Client": "stat_table_builder",
-        "X-Super-Contact": "taucetiv@gmail.com"
+        "X-Super-Contact": "contact",
     }
 
     async with aiohttp.ClientSession() as session:
@@ -106,8 +106,15 @@ def add_overrides(allplanet: Dict[str, Any], index: int) -> Tuple[str, str]:
         .upper()
         for hazard in central["environmentals"]
     )
-
     return biome, hazards
+
+
+def bad_stats_filter(planet, stats):
+    '''Remove any api errors 
+    , currently in Rirga Bay's death count.'''
+    if planet["index"] == 226:
+        stats.deaths = stats.deaths - 1000000000  # 65244
+    return stats
 
 
 # Main function to gather data and write to a CSV file
@@ -143,6 +150,8 @@ def make_rows(planets: Dict, allplanet: Dict):
         # Remove human faction from front list for easier reading.
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
+
+        stats = bad_stats_filter(planet, stats)
 
         row = {
             "index": planet["index"],
@@ -195,7 +204,6 @@ def make_rows(planets: Dict, allplanet: Dict):
 
 
 async def main():
-
     # Fetch the current game data from the community api wrapper.
     planet_list = await fetch_planets_json()
     # allplanet.json is a massive JSON file that lists the current
