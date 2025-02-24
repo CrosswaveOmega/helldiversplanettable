@@ -1675,7 +1675,7 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-06-21 19:57  UTC)<br/>
 *Erson Sands* of the Falstaff sector is attacked by Terminids (2024-06-21 19:58  UTC)<br/>
 *Fori Prime* is liberated (2024-06-21 21:12  UTC)<br/>
-↳ The Draco sector is fully under Human control (2024-06-21 21:12  UTC)<br/>
+↳ Draco sector is fully under Human control (2024-06-21 21:12  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-21 21:12  UTC)<br/>
 ↳ Major Order | Operation A1-6-4 Hive Breaker is won | Objective: Liberate (2024-06-21 21:12  UTC)<br/>
  Decay: 0.0 on Erson Sands, Pandion-XXIV<br/> Decay: 2.0 on Gacrux
@@ -4944,7 +4944,7 @@ DSS deploys to *Klaka 5* of the Alstrad sector (2025-02-18 23:17  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-02-19 03:11  UTC)<br/>
 *Meridia* moves to X 0.4390482 Y 0.16739225 (2025-02-19 07:00  UTC)<br/>
 DSS deploys to *Heze Bay* of the Hanzo sector (2025-02-19 07:17  UTC)<br/>
-NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. The Icon and text is later removed at 01:23pm the same day (2025-02-19 08:38  UTC)<br/>
+NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. The icon and text is later removed at 01:23pm the same day (2025-02-19 08:38  UTC)<br/>
 
 ### Day: #378
 *Ras Algethi* of the Leo sector is invaded by Illuminate (2025-02-19 10:14  UTC)<br/>
@@ -5025,7 +5025,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-22 07:24  UTC)<br/>
 
 ### Day: #381
 *Meridia* moves to X 0.4160097 Y 0.16456443 (2025-02-22 11:00  UTC)<br/>
-NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. (2025-02-22 11:16  UTC)<br/>
+NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. The icon and text is later removed at 07:03am on the 24th (2025-02-22 11:16  UTC)<br/>
 DSS deploys to *Siemnot* of the Xi Tauri sector (2025-02-22 11:24  UTC)<br/>
  Decay: 4.0 on Fori Prime
  (2025-02-22 12:00  UTC)<br/>
@@ -5056,3 +5056,34 @@ Dispatch: ALERT. The Gloom cover on *Fori Prime* is predicted to thicken over th
 ↳ Gallux sector is fully under Human control (2025-02-23 13:06  UTC)<br/>
 *Meridia* moves to X 0.4133073 Y 0.16423291 (2025-02-23 15:00  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-23 15:27  UTC)<br/>
+*Meridia* moves to X 0.41296208 Y 0.16419075 (2025-02-23 19:00  UTC)<br/>
+DSS deploys to *Myrium* of the Morgon sector (2025-02-23 19:28  UTC)<br/>
+*Meridia* moves to X 0.41261867 Y 0.16414881 (2025-02-23 23:00  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Illuminate (2025-02-23 23:24  UTC)<br/>
+*Myrium*'s invasion is successful (2025-02-24 00:28  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-02-24 00:28  UTC)<br/>
+*Fori Prime* is liberated (2025-02-24 02:52  UTC)<br/>
+↳ Draco sector is fully under Human control (2025-02-24 02:52  UTC)<br/>
+↳ *Oshaune* liberation campaign starts (2025-02-24 02:52  UTC)<br/>
+↳ Major Order | Operation A2-2-4 *Fori Prime* Gloom Research Expedition is won | Objective: Liberate/Sample/Eradicate (2025-02-24 02:52  UTC)<br/>
+DSS deploys to *Bashyr* of the Gallux sector (2025-02-24 03:28  UTC)<br/>
+*Bashyr*'s invasion is repelled (2025-02-24 06:26  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-02-24 06:26  UTC)<br/>
+*Meridia* moves to X 0.41192904 Y 0.16406459 (2025-02-24 07:00  UTC)<br/>
+*Oshaune* liberation campaign ends (2025-02-24 07:02  UTC)<br/>
+*Fori Prime* of the Draco sector instantly flips to Terminid control (2025-02-24 07:03  UTC)<br/>
+↳ *Fori Prime* liberation campaign starts (2025-02-24 07:03  UTC)<br/>
+*Fori Prime* liberation campaign ends (2025-02-24 07:04  UTC)<br/>
+*Fori Prime* is now unobservable due to the Gloom (2025-02-24 07:04  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have successfully plunged through the impenetrable Gloom and surveyed one of its Terminid-plagued worlds. The results from this survey confirm that Gloom-mutated Terminid populations are saturated with high-yield specimens. The influx of E-710 secured during this operation will enable accelerated research on the Meridian Singularity. It is only a matter of time until we know how the Illuminate are moving the Singularity—and how to stop it. (2025-02-24 07:04  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-02-24 08:57  UTC)<br/>
+
+### Day: #383
+*Meridia* moves to X 0.41159394 Y 0.16402367 (2025-02-24 11:00  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-24 11:29  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2025-02-24 12:01  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-24 12:01  UTC)<br/>
+ Decay: 0.0 on Charon Prime, Meissa
+ (2025-02-24 14:00  UTC)<br/>
+*Meridia* moves to X 0.41126215 Y 0.16398315 (2025-02-24 15:00  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2025-02-24 15:30  UTC)<br/>
