@@ -653,6 +653,7 @@ def update_planet_ownership(
         if event.type=="Annihilation":
             #planetclone[str(ind)].biome = "destroyed"
             site="FRACTURED PLANET"
+            planetclone[str(ind)].biome = "fractured"
             eff = get_effect(site)
             if eff:
                 planetclone[str(ind)].desc=[]
