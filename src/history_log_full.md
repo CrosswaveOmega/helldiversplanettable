@@ -5099,11 +5099,12 @@ DSS effect Heavy Ordnance Distribution is activated (2025-02-24 21:17  UTC)<br/>
  (2025-02-25 00:00  UTC)<br/>
 *Meridia* moves to X 0.41028476 Y 0.16386378 (2025-02-25 03:00  UTC)<br/>
 DSS deploys to *Meissa* of the Ymir sector (2025-02-25 03:31  UTC)<br/>
-*Meissa* defense is won (2025-02-25 06:30  UTC)<br/>
+*Meissa* defense is won (2025-02-25 06:29  UTC)<br/>
 *Meridia* moves to X 0.4099638 Y 0.16382459 (2025-02-25 07:00  UTC)<br/>
  Decay: 500.0 on Meissa
  (2025-02-25 07:00  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-02-25 07:56  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-02-25 07:56  UTC)<br/>
 *Grand Errant* of the Farsight sector is attacked by Terminids (2025-02-25 08:37  UTC)<br/>
 *Stout* of the Quintus sector is invaded by Illuminates (2025-02-25 08:38  UTC)<br/>
 
@@ -5126,6 +5127,10 @@ DSS deploys to *Grand Errant* of the Farsight sector (2025-02-25 15:32  UTC)<br/
 *Marfark* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-25 15:56  UTC)<br/>
 *Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-25 15:57  UTC)<br/>
-Dispatch:  GALACTIC WAR UPDATE.  Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path.  All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
+Dispatch: GALACTIC WAR UPDATE. Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path. All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
  Decay: 0.0 on Bekvam III, Charon Prime
  (2025-02-25 16:10  UTC)<br/>
+Major Order | Operation A2-2-5 Trolly Problem 2.0 is issued | Objective: Control (2025-02-25 16:34  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one. Consult the Galactic Map on your ship for more information. (2025-02-25 16:34  UTC)<br/>
+ Decay: 2.0 on Aesir Pass, Marfark, Matar Bay
+ (2025-02-25 16:34  UTC)<br/>
