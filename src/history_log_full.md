@@ -5087,3 +5087,45 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-24 11:29  UTC)<br/>
  (2025-02-24 14:00  UTC)<br/>
 *Meridia* moves to X 0.41126215 Y 0.16398315 (2025-02-24 15:00  UTC)<br/>
 DSS deploys to *Martale* of the Andromeda sector (2025-02-24 15:30  UTC)<br/>
+*Hadar*'s invasion is repelled (2025-02-24 18:39  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-02-24 18:39  UTC)<br/>
+*Meridia* moves to X 0.41093177 Y 0.1639428 (2025-02-24 19:00  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-24 19:30  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-02-24 19:55  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-02-24 21:17  UTC)<br/>
+*Meridia* moves to X 0.41060728 Y 0.16390318 (2025-02-24 23:00  UTC)<br/>
+*Charon Prime* defense is won (2025-02-24 23:04  UTC)<br/>
+ Decay: 0.0 on Charon Prime
+ (2025-02-25 00:00  UTC)<br/>
+*Meridia* moves to X 0.41028476 Y 0.16386378 (2025-02-25 03:00  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2025-02-25 03:31  UTC)<br/>
+*Meissa* defense is won (2025-02-25 06:30  UTC)<br/>
+*Meridia* moves to X 0.4099638 Y 0.16382459 (2025-02-25 07:00  UTC)<br/>
+ Decay: 500.0 on Meissa
+ (2025-02-25 07:00  UTC)<br/>
+*Rirga Bay*'s invasion is successful (2025-02-25 07:56  UTC)<br/>
+*Grand Errant* of the Farsight sector is attacked by Terminids (2025-02-25 08:37  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminates (2025-02-25 08:38  UTC)<br/>
+
+### Day: #384
+ Decay: 0.0 on Grand Errant
+ (2025-02-25 09:00  UTC)<br/>
+*Meridia* moves to X 0.40964636 Y 0.16378582 (2025-02-25 11:00  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2025-02-25 11:32  UTC)<br/>
+*Meridia* moves to X 0.40933108 Y 0.16374731 (2025-02-25 15:00  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2025-02-25 15:32  UTC)<br/>
+*Julheim* - *Dolph* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Julheim* - *Duma Tyr* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Pöpli IX* - *Dolph* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Bekvam III* - *Julheim* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Duma Tyr* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Caph* - *Dolph* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Charbal-VII* - *Julheim* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Charon Prime* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Lastofe* - *Pöpli IX* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Marfark* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-25 15:56  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-25 15:57  UTC)<br/>
+Dispatch:  GALACTIC WAR UPDATE.  Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path.  All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
+ Decay: 0.0 on Bekvam III, Charon Prime
+ (2025-02-25 16:10  UTC)<br/>
