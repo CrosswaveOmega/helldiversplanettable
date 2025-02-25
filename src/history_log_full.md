@@ -4908,6 +4908,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-18 10:19  UTC)<br/>
 *Moradesh* moves to X 0.32133883 Y 0.15296434 (2025-02-18 10:19  UTC)<br/>
 ↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-18 10:19  UTC)<br/>
+*Moradesh* moves to X 0.32127655 Y 0.15295668 (2025-02-18 11:00  UTC)<br/>
 *Meridia* moves to X 0.44184864 Y 0.16773598 (2025-02-18 11:12  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-18 11:12  UTC)<br/>
 ↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is fixed. *Meridia* is now moving again, the entire incident lasted 53 minutes (2025-02-18 11:12  UTC)<br/>
@@ -4957,6 +4958,8 @@ Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Repo
 ↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, again. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-19 14:41  UTC)<br/>
  Decay: 9.0 on Fori Prime
  (2025-02-19 14:41  UTC)<br/>
+*Moradesh* moves to X 0.3172561 Y 0.15246321 (2025-02-19 15:00  UTC)<br/>
+*Moradesh* moves to X 0.31666064 Y 0.15239012 (2025-02-19 19:00  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-19 19:44  UTC)<br/>
 *Meridia* moves to X 0.42139462 Y 0.16522539 (2025-02-19 19:47  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-19 19:47  UTC)<br/>
@@ -5042,11 +5045,14 @@ DSS deploys to *RD-4* of the Rigel sector (2025-02-22 19:25  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-23 02:42  UTC)<br/>
 *Moradesh* moves to X 0.29386738 Y 0.1495924 (2025-02-23 02:42  UTC)<br/>
 ↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the third time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-23 02:42  UTC)<br/>
+*Moradesh* moves to X 0.29383743 Y 0.14958873 (2025-02-23 03:00  UTC)<br/>
 *RD-4*'s invasion is successful (2025-02-23 03:07  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-23 03:07  UTC)<br/>
+*Moradesh* moves to X 0.29343835 Y 0.14953974 (2025-02-23 07:00  UTC)<br/>
 DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-23 07:26  UTC)<br/>
 
 ### Day: #382
+*Moradesh* moves to X 0.29306585 Y 0.14949402 (2025-02-23 10:45  UTC)<br/>
 *Meridia* moves to X 0.41365007 Y 0.16427477 (2025-02-23 11:02  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-23 11:02  UTC)<br/>
 ↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is relocated to where it should be. *Meridia* is now moving again, the entire incident lasted 8 hours and 20 minutes (2025-02-23 11:02  UTC)<br/>
