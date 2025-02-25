@@ -114,6 +114,8 @@ def bad_stats_filter(planet, stats):
     , currently in Rirga Bay's death count.'''
     if planet["index"] == 226:
         stats.deaths = stats.deaths - 1000000000  # 65244
+        stats.illuminateKills = stats.illuminateKills - 1000000000  # 65244
+        
     return stats
 
 
@@ -143,6 +145,8 @@ def make_rows(planets: Dict, allplanet: Dict):
         # The statistics are loaded into a special container object.
         # This is to keep the code easier to read.
         stats = Statistics(**planet["statistics"])
+        
+        stats = bad_stats_filter(planet, stats)
         missions = (stats.missionsWon) + (stats.missionsLost)
         kills = sum([stats.terminidKills, stats.automatonKills, stats.illuminateKills])
 
@@ -151,7 +155,6 @@ def make_rows(planets: Dict, allplanet: Dict):
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
 
-        stats = bad_stats_filter(planet, stats)
 
         row = {
             "index": planet["index"],
