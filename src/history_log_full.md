@@ -4899,7 +4899,6 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Meridia* moves to X 0.443297 Y 0.16791375 (2025-02-17 23:00  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2025-02-17 23:59  UTC)<br/>
 *Baldrick Prime*'s invasion is successful (2025-02-18 00:00  UTC)<br/>
-*Meridia* moves to X 0.44134736 Y 0.16767445 (2025-02-18 03:00  UTC)<br/>
 *Meridia* moves to X 0.44281846 Y 0.16785501 (2025-02-18 03:00  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminate (2025-02-18 06:43  UTC)<br/>
 *Meridia* moves to X 0.44234326 Y 0.16779669 (2025-02-18 07:00  UTC)<br/>
@@ -4930,6 +4929,7 @@ Dispatch: STRATEGIC UPDATE. In the interest of preserving the structural integri
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-18 12:38  UTC)<br/>
  Decay: 15.0 on Fori Prime
  (2025-02-18 14:00  UTC)<br/>
+*Meridia* moves to X 0.44134736 Y 0.16767445 (2025-02-18 15:00  UTC)<br/>
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-18 15:11  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
  Decay: 10.0 on Fori Prime
@@ -5140,3 +5140,35 @@ Major Order | Operation A2-2-5 Trolly Problem 2.0 is issued | Objective: Control
 Dispatch: NEW MAJOR ORDER. The Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one. Consult the Galactic Map on your ship for more information. (2025-02-25 16:34  UTC)<br/>
  Decay: 2.0 on Aesir Pass, Marfark, Matar Bay
  (2025-02-25 16:34  UTC)<br/>
+*Meridia* moves to X 0.4090176 Y 0.16370903 (2025-02-25 19:00  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2025-02-25 19:32  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-02-25 19:43  UTC)<br/>
+*Stout*'s invasion is successful (2025-02-25 20:38  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-02-25 20:38  UTC)<br/>
+*Meridia* moves to X 0.4087029 Y 0.1636706 (2025-02-25 23:00  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-02-25 23:33  UTC)<br/>
+*Meridia* moves to X 0.4083887 Y 0.16363223 (2025-02-26 03:00  UTC)<br/>
+DSS effect Orbital Blockade activates (2025-02-26 06:56  UTC)<br/>
+*Meridia* moves to X 0.40807602 Y 0.16359404 (2025-02-26 07:00  UTC)<br/>
+Dispatch: NOTICE. The Democratic Council has decreed that all spacefaring vessels must submit to full cargo inspections biweekly (twice a week), rather than the previous biweekly (once every two weeks). To ensure compliance, the Super Store will be unavailable over the coming hours. (2025-02-26 07:17  UTC)<br/>
+*Propus*'s invasion is successful (2025-02-26 07:44  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-02-26 07:44  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Illuminate (2025-02-26 08:14  UTC)<br/>
+*Grand Errant* defense is failed (2025-02-26 08:38  UTC)<br/>
+↳ *Grand Errant* liberation campaign starts (2025-02-26 08:38  UTC)<br/>
+
+### Day: #385
+ Decay: 1.5 on Grand Errant
+ (2025-02-26 09:00  UTC)<br/>
+*Meridia* moves to X 0.40776688 Y 0.1635563 (2025-02-26 11:00  UTC)<br/>
+*Bekvam III* defense is won (2025-02-26 14:16  UTC)<br/>
+↳ Nanos sector is fully under Human control (2025-02-26 14:16  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-02-26 15:27  UTC)<br/>
+ Decay: 500.0 on Bekvam III
+ (2025-02-26 15:27  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2025-02-26 15:34  UTC)<br/>
+*Charon Prime* defense is failed (2025-02-26 15:58  UTC)<br/>
+↳ *Charon Prime* liberation campaign starts (2025-02-26 15:58  UTC)<br/>
+↳ *Martale* liberation campaign ends (2025-02-26 15:58  UTC)<br/>
