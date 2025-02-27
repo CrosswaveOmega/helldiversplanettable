@@ -5195,14 +5195,12 @@ DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
 
 ### Day: #386
 *Meridia* moves to X 0.4059298 Y 0.16333194 (2025-02-27 11:00  UTC)<br/>
+NOTE: Starting at roughly 02:22pm GIM/liberation rate start to spike and result in the following planets being captured despite being at the jaws of defeat, Defense of *Terrek*, Defense of *Bekvam III*, Invasion of *Bunda Secundus*, Liberation of *Charon Prime*, Defense of *Charbal-VII*. Almost exactly 4 hours later it is announced that The Second Galactic War will be ‘paused' as they push out a fix for the bugged liberation rate (2025-02-27 14:22  UTC)<br/>
 *Meridia* moves to X 0.4056243 Y 0.16329463 (2025-02-27 15:00  UTC)<br/>
 *Terrek* defense is won (2025-02-27 15:02  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-02-27 15:02  UTC)<br/>
-NOTE: This defense was won due to the IM spiking to such a degree that it basically trivialized the defense. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:02  UTC)<br/>
 *Bekvam III* defense is won (2025-02-27 15:30  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-02-27 15:30  UTC)<br/>
-NOTE: This defense was won due to the IM spiking to such a degree that it basically trivialized the defense. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:30  UTC)<br/>
-NOTE: This invasion was won due to the IM spiking to such a degree that it basically trivialized the invasion. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:30  UTC)<br/>
  Decay: 500.0 on Terrek
  (2025-02-27 15:30  UTC)<br/>
 *Bunda Secundus*'s invasion is repelled (2025-02-27 16:06  UTC)<br/>
@@ -5210,3 +5208,11 @@ NOTE: This invasion was won due to the IM spiking to such a degree that it basic
  Decay: 0.5 on Bekvam III
  (2025-02-27 16:06  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. A sudden and unexpected collapse in Automaton capabilities gave our forces the opportunity to liberate huge swaths of territory from the enemy's socialist grasp. The latest intel indicates this lapse was caused by a routine update to the Automatons' Operating System. The enemy has since regained full fighting capacity. (2025-02-27 17:01  UTC)<br/>
+*Charon Prime* is liberated (2025-02-27 17:25  UTC)<br/>
+↳ *Charbal-VII* defense is auto-won via gambit (2025-02-27 17:25  UTC)<br/>
+↳ *Martale* liberation campaign starts (2025-02-27 17:25  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-02-27 17:53  UTC)<br/>
+ Decay: 0.0 on Charbal-VII
+ (2025-02-27 17:53  UTC)<br/>
+The Second Galactic War is paused (2025-02-27 18:20  UTC)<br/>
+NOTE: This is the first time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. At the time of writing this note it has not yet been unpaused (2025-02-27 18:20  UTC)<br/>
