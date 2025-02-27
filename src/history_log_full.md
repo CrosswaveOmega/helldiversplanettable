@@ -5131,6 +5131,7 @@ DSS deploys to *Grand Errant* of the Farsight sector (2025-02-25 15:32  UTC)<br/
 *Charon Prime* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
 *Lastofe* - *Pöpli IX* warp link is added (2025-02-25 15:55  UTC)<br/>
 *Marfark* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
+*Marfark* is not accessible despite connecting to the liberated world of *Bekvam III* (2025-02-25 15:55  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-25 15:56  UTC)<br/>
 *Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-25 15:57  UTC)<br/>
 Dispatch: GALACTIC WAR UPDATE. Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path. All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
@@ -5172,3 +5173,40 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br
 *Charon Prime* defense is failed (2025-02-26 15:58  UTC)<br/>
 ↳ *Charon Prime* liberation campaign starts (2025-02-26 15:58  UTC)<br/>
 ↳ *Martale* liberation campaign ends (2025-02-26 15:58  UTC)<br/>
+ Decay: 2.0 on Charon Prime
+ (2025-02-26 18:00  UTC)<br/>
+*Meridia* moves to X 0.40715343 Y 0.16348137 (2025-02-26 19:00  UTC)<br/>
+​​*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-26 19:35  UTC)<br/>
+*Khandark*'s invasion is successful (2025-02-26 20:15  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-02-26 20:15  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-26 22:28  UTC)<br/>
+*Meridia* moves to X 0.4068468 Y 0.16344392 (2025-02-26 23:00  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2025-02-26 23:00  UTC)<br/>
+*Meridia* moves to X 0.4065411 Y 0.1634066 (2025-02-27 03:00  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-02-27 03:36  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Illuminates (2025-02-27 06:20  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
+*Meridia* moves to X 0.40623695 Y 0.16336945 (2025-02-27 07:00  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-02-27 07:25  UTC)<br/>
+*Osupsam*'s invasion is successful (2025-02-27 07:35  UTC)<br/>
+ Decay: 0.0 on Charbal-VII
+ (2025-02-27 07:35  UTC)<br/>
+
+### Day: #386
+*Meridia* moves to X 0.4059298 Y 0.16333194 (2025-02-27 11:00  UTC)<br/>
+*Meridia* moves to X 0.4056243 Y 0.16329463 (2025-02-27 15:00  UTC)<br/>
+*Terrek* defense is won (2025-02-27 15:02  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-02-27 15:02  UTC)<br/>
+NOTE: This defense was won due to the IM spiking to such a degree that it basically trivialized the defense. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:02  UTC)<br/>
+*Bekvam III* defense is won (2025-02-27 15:30  UTC)<br/>
+↳ Nanos sector is fully under Human control (2025-02-27 15:30  UTC)<br/>
+NOTE: This defense was won due to the IM spiking to such a degree that it basically trivialized the defense. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:30  UTC)<br/>
+NOTE: This invasion was won due to the IM spiking to such a degree that it basically trivialized the invasion. The IM spiking was not intentional and was caused by some stuff on the backend being messed up (2025-02-27 15:30  UTC)<br/>
+ Decay: 500.0 on Terrek
+ (2025-02-27 15:30  UTC)<br/>
+*Bunda Secundus*'s invasion is repelled (2025-02-27 16:06  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-02-27 16:06  UTC)<br/>
+ Decay: 0.5 on Bekvam III
+ (2025-02-27 16:06  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. A sudden and unexpected collapse in Automaton capabilities gave our forces the opportunity to liberate huge swaths of territory from the enemy's socialist grasp. The latest intel indicates this lapse was caused by a routine update to the Automatons' Operating System. The enemy has since regained full fighting capacity. (2025-02-27 17:01  UTC)<br/>
