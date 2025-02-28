@@ -875,8 +875,11 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 *Meissa* of the Ymir sector is attacked by Automatons (2024-04-20 15:13  UTC)<br/>
  Decay: 0.5 on Charon Prime, Lesath, Marfark<br/> Decay: 1.0 on Oshaune
  (2024-04-20 16:00  UTC)<br/>
+The Second Galactic War is paused (2024-04-21 04:02  UTC)<br/>
+NOTE: This is the first time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, etc are static and no longer actively progressing. At 07:46am the next day, the war begins again. The incident lasted 15 hours and 44 minutes (2024-04-21 04:02  UTC)<br/>
 
 ### Day: #74
+The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 
 ### Day: #75
 *Estanu* defense is won (2024-04-22 11:58  UTC)<br/>
@@ -5215,4 +5218,10 @@ Dispatch: STRATEGIC UPDATE. A sudden and unexpected collapse in Automaton capabi
  Decay: 0.0 on Charbal-VII
  (2025-02-27 17:53  UTC)<br/>
 The Second Galactic War is paused (2025-02-27 18:20  UTC)<br/>
-NOTE: This is the first time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. At the time of writing this note it has not yet been unpaused (2025-02-27 18:20  UTC)<br/>
+NOTE: This is the second time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. At 02:19pm the next day, the war begins again. The incident lasted 19 hours and 59 minutes (2025-02-27 18:20  UTC)<br/>
+
+### Day: #387
+The Second Galactic War is no longer paused (2025-02-28 14:19  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-28 14:20  UTC)<br/>
+*Meridia* moves to X 0.4053387 Y 0.16325974 (2025-02-28 15:00  UTC)<br/>
+Dispatch: INFORMATIONAL ADVISORY. High Command would like to inform all personnel that nothing out of the ordinary has happened in the past 24 hours. The fight for Managed Democracy has continued in an inspiring—but entirely expected—manner. Personnel who believe they have experienced or witnessed any sort of anomalous occurrences may be suffering from Illuminate mind-influence, and should report themselves for psychological screening immediately. (2025-02-28 15:22  UTC)<br/>
