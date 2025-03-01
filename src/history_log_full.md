@@ -5198,7 +5198,8 @@ DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
 
 ### Day: #386
 *Meridia* moves to X 0.4059298 Y 0.16333194 (2025-02-27 11:00  UTC)<br/>
-NOTE: Starting at roughly 02:22pm GIM/liberation rate start to spike and result in the following planets being captured despite being at the jaws of defeat, Defense of *Terrek*, Defense of *Bekvam III*, Invasion of *Bunda Secundus*, Liberation of *Charon Prime*, Defense of *Charbal-VII*. Almost exactly 4 hours later it is announced that The Second Galactic War will be ‘paused' as they push out a fix for the bugged liberation rate (2025-02-27 14:22  UTC)<br/>
+
+### Day: #386
 *Meridia* moves to X 0.4056243 Y 0.16329463 (2025-02-27 15:00  UTC)<br/>
 *Terrek* defense is won (2025-02-27 15:02  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-02-27 15:02  UTC)<br/>
@@ -5225,3 +5226,20 @@ The Second Galactic War is no longer paused (2025-02-28 14:19  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-28 14:20  UTC)<br/>
 *Meridia* moves to X 0.4053387 Y 0.16325974 (2025-02-28 15:00  UTC)<br/>
 Dispatch: INFORMATIONAL ADVISORY. High Command would like to inform all personnel that nothing out of the ordinary has happened in the past 24 hours. The fight for Managed Democracy has continued in an inspiring—but entirely expected—manner. Personnel who believe they have experienced or witnessed any sort of anomalous occurrences may be suffering from Illuminate mind-influence, and should report themselves for psychological screening immediately. (2025-02-28 15:22  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2025-02-28 18:20  UTC)<br/>
+*Meridia* moves to X 0.40504196 Y 0.16322352 (2025-02-28 19:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-02-28 20:23  UTC)<br/>
+*Meridia* moves to X 0.40474656 Y 0.16318744 (2025-02-28 23:00  UTC)<br/>
+*Alamak VII*'s invasion is successful (2025-03-01 01:53  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-03-01 01:53  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-03-01 02:47  UTC)<br/>
+*Meridia* moves to X 0.4044535 Y 0.16315165 (2025-03-01 03:00  UTC)<br/>
+*Meridia* moves to X 0.40416458 Y 0.16311637 (2025-03-01 07:00  UTC)<br/>
+
+### Day: #388
+*Meridia* moves to X 0.4038774 Y 0.16308129 (2025-03-01 11:00  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Illuminate (2025-03-01 13:58  UTC)<br/>
+*Afoyay Bay*'s invasion is successful (2025-03-01 14:48  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-01 14:48  UTC)<br/>
+*Meridia* moves to X 0.4035911 Y 0.16304633 (2025-03-01 15:00  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2025-03-01 16:03  UTC)<br/>
