@@ -5102,6 +5102,7 @@ DSS deploys to *Martale* of the Andromeda sector (2025-02-24 15:30  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-24 19:30  UTC)<br/>
 *Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-02-24 19:55  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-02-24 21:17  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-02-24 21:19  UTC)<br/>
 *Meridia* moves to X 0.41060728 Y 0.16390318 (2025-02-24 23:00  UTC)<br/>
 *Charon Prime* defense is won (2025-02-24 23:04  UTC)<br/>
  Decay: 0.0 on Charon Prime
@@ -5243,3 +5244,38 @@ DSS effect Eagle Storm is activated (2025-02-28 20:23  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-01 14:48  UTC)<br/>
 *Meridia* moves to X 0.4035911 Y 0.16304633 (2025-03-01 15:00  UTC)<br/>
 *Meissa* of the Ymir sector is attacked by Automatons (2025-03-01 16:03  UTC)<br/>
+ Decay: 0.0 on Meissa
+ (2025-03-01 18:00  UTC)<br/>
+*Meridia* ​​moves to X 0.40330356 Y 0.16301121 (2025-03-01 19:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-03-01 20:25  UTC)<br/>
+*Martale* is liberated (2025-03-01 21:53  UTC)<br/>
+*Blistica* of the Gellert sector is attacked by Automatons (2025-03-01 22:12  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
+ Decay: 0.0 on Blistica
+ (2025-03-01 22:23  UTC)<br/>
+*Meridia* moves to X 0.40301758 Y 0.16297628 (2025-03-01 23:00  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-03-02 01:43  UTC)<br/>
+*Haldus*'s invasion is successful (2025-03-02 01:57  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-03-02 01:57  UTC)<br/>
+*Meridia* moves to X 0.40273285 Y 0.16294152 (2025-03-02 03:00  UTC)<br/>
+*Chort Bay* of the Lacaille sector is attacked by Automatons (2025-03-02 04:08  UTC)<br/>
+ Decay: 0.0 on Chort Bay
+ (2025-03-02 06:00  UTC)<br/>
+*Meridia* moves to X 0.4024491 Y 0.16290687 (2025-03-02 07:00  UTC)<br/>
+
+### Day: #389
+*Meridia* moves to X 0.40216672 Y 0.16287237 (2025-03-02 11:00  UTC)<br/>
+*Setia* of the Omega sector is invaded by Illuminate (2025-03-02 12:26  UTC)<br/>
+Major Order | Operation A2-2-5 Trolly Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Against all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. Consult the Galactic Map on your ship for more information. (2025-03-02 12:59  UTC)<br/>
+*Rogue 5*'s invasion is successful (2025-03-02 13:44  UTC)<br/>
+↳ *Rogue 5* sector is fully under Human control (2025-03-02 13:44  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2025-03-02 14:22  UTC)<br/>
+Major Order | Operation A2-3-1 Repel Illuminate or Defend *Claorell* is issued | Objective: Control/Defend (2025-03-02 14:23  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Meridian Singularity continues its relentless advance through our Federation. *Moradesh* may soon be the next celestial victim of the Illuminate's tyrannical avarice. Simultaneously, the Automatons have launched a surprise attack on *Claorell*, seeking to take control of the Deep Mantle Forge Complex. The Helldivers must choose where to defend. Consult your Galactic Map for more information. (2025-03-02 14:23  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2025-03-02 14:25  UTC)<br/>
+*Meridia* moves to X 0.40188387 Y 0.16283783 (2025-03-02 15:00  UTC)<br/>
+ Decay: 0.0 on Claorell
+ (2025-03-02 15:00  UTC)<br/>
+*Meissa* defense is failed (2025-03-02 16:06  UTC)<br/>
+↳ *Meissa* liberation campaign starts (2025-03-02 16:06  UTC)<br/>
