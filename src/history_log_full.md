@@ -8,7 +8,6 @@ sidebar: true
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
 
-DSS effect Orbital Blockade stops (2024-02-08 06:14  UTC)<br/>
 
 # Day: #1
 Major Order | Operation A1-2-1 Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
@@ -4526,7 +4525,6 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 *Chort Bay* is liberated (2025-02-02 05:16  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2025-02-02 05:16  UTC)<br/>
 ↳ Major Order | Operation A2-1-5 Jet Brigade Factories is won | Objective: Liberate (2025-02-02 05:16  UTC)<br/>
-↳ *Chort Bay* of the Lacaille sector's Jet Brigade Factories POI is removed (2025-02-02 05:16  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
@@ -4692,6 +4690,7 @@ DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-09 02:37  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-09 02:49  UTC)<br/>
 *Meridia* moves to X 0.49641848 Y 0.19192566 (2025-02-09 03:00  UTC)<br/>
 *Haldus* of the Ferris sector is invaded by Illuminate (2025-02-09 03:12  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-02-09 06:14  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 06:37  UTC)<br/>
 *Meridia* moves to X 0.49482554 Y 0.19101092 (2025-02-09 07:00  UTC)<br/>
 
@@ -5269,7 +5268,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
 Major Order | Operation A2-2-5 Trolly Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Against all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. Consult the Galactic Map on your ship for more information. (2025-03-02 12:59  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-03-02 13:44  UTC)<br/>
-↳ *Rogue 5* sector is fully under Human control (2025-03-02 13:44  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-02 13:44  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-03-02 14:22  UTC)<br/>
 Major Order | Operation A2-3-1 Repel Illuminate or Defend *Claorell* is issued | Objective: Control/Defend (2025-03-02 14:23  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity continues its relentless advance through our Federation. *Moradesh* may soon be the next celestial victim of the Illuminate's tyrannical avarice. Simultaneously, the Automatons have launched a surprise attack on *Claorell*, seeking to take control of the Deep Mantle Forge Complex. The Helldivers must choose where to defend. Consult your Galactic Map for more information. (2025-03-02 14:23  UTC)<br/>
@@ -5279,3 +5278,30 @@ DSS deploys to *Chort Bay* of the Lacaille sector (2025-03-02 14:25  UTC)<br/>
  (2025-03-02 15:00  UTC)<br/>
 *Meissa* defense is failed (2025-03-02 16:06  UTC)<br/>
 ↳ *Meissa* liberation campaign starts (2025-03-02 16:06  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
+ Decay: 1.5 on Meissa
+ (2025-03-02 18:25  UTC)<br/>
+NOTE: *Meridia* coordinates didn't get pulled at the 07:00pm pull (2025-03-02 19:00  UTC)<br/>
+*Setia*'s invasion is repelled (2025-03-02 20:23  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-02 20:23  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-03-02 22:13  UTC)<br/>
+*Blistica* defense is failed (2025-03-02 22:14  UTC)<br/>
+↳ *Blistica* liberation campaign starts (2025-03-02 22:14  UTC)<br/>
+↳ *Yed Prior* liberation campaign ends (2025-03-02 22:14  UTC)<br/>
+*Meridia* moves to X 0.4013198 Y 0.16276895 (2025-03-02 23:00  UTC)<br/>
+ Decay: 0.5 on Blistica
+ (2025-03-02 23:00  UTC)<br/>
+*Meridia* moves to X 0.4010458 Y 0.16273549 (2025-03-03 03:00  UTC)<br/>
+*Chort Bay* defense is failed (2025-03-03 04:10  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2025-03-03 04:10  UTC)<br/>
+↳ *Choohe* liberation campaign ends (2025-03-03 04:10  UTC)<br/>
+*Alathfar XI*'s invasion is repelled (2025-03-03 06:45  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-03-03 06:45  UTC)<br/>
+ Decay: 3.0 on Chort Bay
+ (2025-03-03 06:45  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Illuminate (2025-03-03 06:54  UTC)<br/>
+*Meridia* moves to X 0.400773 Y 0.16270217 (2025-03-03 07:00  UTC)<br/>
+
+# Day: #390
+*Meridia* moves to X 0.4005026 Y 0.16266915 (2025-03-03 11:00  UTC)<br/>
+*Meridia* moves to X 0.40023375 Y 0.16263631 (2025-03-03 15:00  UTC)<br/>
