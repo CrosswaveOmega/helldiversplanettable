@@ -5305,3 +5305,6 @@ NOTE: *Meridia* coordinates didn't get pulled at the 07:00pm pull (2025-03-02 19
 # Day: #390
 *Meridia* moves to X 0.4005026 Y 0.16266915 (2025-03-03 11:00  UTC)<br/>
 *Meridia* moves to X 0.40023375 Y 0.16263631 (2025-03-03 15:00  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Illuminates (2025-03-03 16:55  UTC)<br/>
+ Decay: 1.0 on Clasa
+ (2025-03-03 16:55  UTC)<br/>
