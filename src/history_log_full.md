@@ -5281,7 +5281,7 @@ DSS deploys to *Chort Bay* of the Lacaille sector (2025-03-02 14:25  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
  Decay: 1.5 on Meissa
  (2025-03-02 18:25  UTC)<br/>
-NOTE: *Meridia* coordinates didn't get pulled at the 07:00pm pull (2025-03-02 19:00  UTC)<br/>
+*Meridia* moves to X 0.40159914 Y 0.16280307 (2025-03-02 19:00  UTC)<br/>
 *Setia*'s invasion is repelled (2025-03-02 20:23  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-02 20:23  UTC)<br/>
 *Alathfar XI* of the Akira sector is invaded by Illuminate (2025-03-02 22:13  UTC)<br/>
@@ -5308,3 +5308,6 @@ NOTE: *Meridia* coordinates didn't get pulled at the 07:00pm pull (2025-03-02 19
 *Kharst* of the Gallux sector is invaded by Illuminates (2025-03-03 16:55  UTC)<br/>
  Decay: 1.0 on Clasa
  (2025-03-03 16:55  UTC)<br/>
+*Parsh*'s invasion is successful (2025-03-03 18:54  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-03 18:54  UTC)<br/>
+*Meridia* moves to X 0.39996415 Y 0.1626034 (2025-03-03 19:00  UTC)<br/>
