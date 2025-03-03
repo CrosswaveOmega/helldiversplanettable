@@ -41,7 +41,6 @@ from script_making.dbload import (
 )
 
 
-import os
 import sys
 
 import logging
@@ -74,7 +73,7 @@ DATABASE_FILE = "./src/data/gen_data/alltimedata.db"
 
 MAX_HOUR_DISTANCE = 6
 MIN_HOUR_CHANGE = 2
-
+CLUSTER_SIZE=2048
 
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("planets", "./hd2json")
@@ -330,7 +329,6 @@ async def get_planet_stats(
             # print(planetstats)
             cursor = conn.cursor()
             for pindex, details in planetstats.items():
-                print("adding", pindex)
                 cursor.execute(
                     """
                 INSERT OR REPLACE INTO alltimedata (timestamp, dayval, pindex, warID, health, owner, regenPerSecond, players,interval)
@@ -719,15 +717,51 @@ class PlanetHistoryDelta:
     def __init__(self):
         self.hashlinks = {}
         self.resort: Dict[str, List[Dict[str, Any]]] = {}
+        self.clusters:List[Dict[str, List[Dict[str, Any]]]]=[]
         self.laststate = {}
+        self.cluster_num=0
 
-    def delta_format(self, t, ptemp: Optional[Dict[str, PlanetState]]):
-        """Add to the ongoing history delta."""
+
+    def get_difference_from_laststate(self, event_index:int, planet_key:str, planetstate:PlanetState):
+        """
+        Calculate the difference between the current planet state and the last known state.
+
+        Args:
+            event_index (int): The index of the current event being processed.
+            planet_key (str): The key identifying the planet.
+            planetstate (PlanetState): The current state of a planet.
+
+        Returns:
+            dict: A dictionary containing the differences for each field, compared to the last known state.
+        """
+        res = planetstate.model_dump(warnings="error", exclude=["link"])
+        if planet_key not in self.resort:
+            self.resort[planet_key] = []
+
+        keys_all = list(res.keys())
+        difference = {}
+
+        for key in keys_all:
+            if key not in self.laststate[planet_key]:
+                self.laststate[planet_key][key] = None
+            if self.laststate[planet_key][key] != res[key]:
+                difference[key] = res[key]
+        return difference
+
+    def update_hash_links(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+        """
+        Update the hash links for planets.  
+        Hashlinks are a configuration of supply lines tied with a unique "hash" value.
+
+        Args:
+            event_index (int): The index of the current event being processed.
+            ptemp (Optional[Dict[str, PlanetState]]): A dictionary representing the planet states.
+        """
         for p, resa in ptemp.items():
             # Add in links to hashlinks.
             if isinstance(resa.link, list):
                 link = unordered_list_hash(resa.link)
-                if not link in self.hashlinks:
+                if link not in self.hashlinks:
                     self.hashlinks[link] = resa.link
                 else:
                     if sorted(resa.link) != sorted(self.hashlinks[link]):
@@ -737,31 +771,51 @@ class PlanetHistoryDelta:
                             self.hashlinks[link],
                         )
                 resa.link2 = link
+
+
+
+    def delta_format(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+        """Add to the ongoing history delta."""
+        
+        #update hash links
+        self.update_hash_links(event_index,ptemp)
+        cluster_num=event_index//CLUSTER_SIZE
+
         if self.laststate:
             # Check for changes between Last state and the
-            # Current temporary planet
-            for p, rese in ptemp.items():
-                res = rese.model_dump(warnings="error", exclude=["link"])
-                if not p in self.resort:
-                    self.resort[p] = []
-
-                keys_all = list(res.keys())
-                toad = {}
-                for key in keys_all:
-                    if key not in self.laststate[p]:
-                        self.laststate[p][key] = None
-                    if self.laststate[p][key] != res[key]:
-                        toad[key] = res[key]
+            # current temporary planet
+            for planet_key, planet_state in ptemp.items():
+                toad=self.get_difference_from_laststate(event_index,planet_key,planet_state)
                 if toad:
-                    toad["eind"] = t
-                    self.resort[p].append(toad)
+                    toad["eind"] = event_index
+                    self.resort[planet_key].append(toad)
         else:
-            for p, rese in ptemp.items():
-                res = rese.model_dump(warnings="error", exclude=["link"])
-                if p not in self.resort:
-                    self.resort[p] = [res]
-                    self.resort[p][0]["eind"] = t
+            for planet_key, planet_state in ptemp.items():
+                res = planet_state.model_dump(warnings="error", exclude=["link"])
+                if planet_key not in self.resort:
+                    self.resort[planet_key] = [res]
+                    self.resort[planet_key][0]["eind"] = event_index
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
+
+    def make_cluster(self,cluster_size):
+
+        grouped_items = {}  # Dictionary to hold groups
+
+        for planet, changes in self.resort.items():
+            for change in changes:
+                eind = change['eind']
+                cluster=eind//cluster_size
+                if cluster not in grouped_items:
+                    grouped_items[cluster]={}
+                    rebuilt=self.rebuild_state_up_to(eind*cluster_size)
+                    for i, v in rebuilt.items():
+                        grouped_items[cluster][i] = [v]
+                else:
+                    grouped_items[cluster][planet].append(change)
+
+        # Optional: assign the grouped items back to self or return them
+        self.grouped_resort = grouped_items  # Assign to self if needed
+        return grouped_items  # Or return directly if not storing in class
 
     def rebuild_state_up_to(self, eind: int) -> Dict[str, Dict[str, Any]]:
         """Rebuild the planet state up to a specific eind value."""
@@ -839,6 +893,7 @@ class GalaxyEventProcessor:
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
 
+
         ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
         interval = int(ne.timestamp) // 900
@@ -852,7 +907,7 @@ class GalaxyEventProcessor:
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
                 return  # Skip the event group
-
+            
         await self.process_event_logs(event_group, ne, ptemp)
         self.phistdelta.delta_format(ne.eind, ptemp)
         self.newevt.append(ne)
@@ -952,9 +1007,11 @@ class GalaxyEventProcessor:
         self.galaxy_states.states = {}
         self.galaxy_states.gstate = self.phistdelta.resort
         self.galaxy_states.links = self.phistdelta.hashlinks
+
         self.save_results()
-        rebuilt = self.phistdelta.rebuild_state_up_to(70)
-        print(json.dumps(rebuilt))
+        
+        #rebuilt = self.phistdelta.make_cluster(CLUSTER_SIZE)
+        #print(json.dumps(rebuilt))
         self.conn.close()
 
 

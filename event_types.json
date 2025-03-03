@@ -254,5 +254,14 @@
         "name": "DSS effect end",
         "matchable": ["DSS effect","stops"],
         "mode":"and"
+    },
+    
+    "War Pause":{
+        "name": "Gwar Pause",
+        "matchable": ["is paused"]
+    },
+    "War Resume":{
+        "name": "Gwar resumes",
+        "matchable": [" is no longer paused"]
     }
 }

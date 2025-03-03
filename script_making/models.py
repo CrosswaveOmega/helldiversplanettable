@@ -4,6 +4,9 @@ import re
 import hashlib
 
 
+ListOfDicts = List[Dict[str, Any]]
+
+
 def filter_alphanumeric(input_string: str) -> str:
     return re.sub(r"[^a-zA-Z0-9]+", "", input_string)
 
@@ -116,9 +119,12 @@ class PlanetState(BaseModel):
                 return
         self.desc.append(Descriptions(name=name,desc=desc))
 
-
-                
-    
+class GalaxyStates(BaseModel):
+    gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
+    states: Optional[Dict[str, PlanetState]] = Field(default=None, alias="states")
+    gstate: Optional[Dict[str, ListOfDicts]] = Field(default_factory=dict, alias="gstate")
+    gstate_cluster:Optional[Dict[int,Dict[str, ListOfDicts]]]= Field(default_factory=dict, alias="gstate_cluster")
+    links: Optional[Dict[int, List[int]]] = Field(default_factory=dict)
 
 class DaysObject(BaseModel):
     events_all: Optional[List[GameEvent]] = Field(
@@ -130,10 +136,3 @@ class DaysObject(BaseModel):
     timestamps: List[int] = Field(default_factory=list)
     lastday: int = Field(default=1)
     galaxystatic: Dict[str, PlanetStatic] = Field(default_factory=dict)
-
-
-class GalaxyStates(BaseModel):
-    gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
-    states: Optional[Dict[str, PlanetState]] = Field(default=None, alias="states")
-    gstate: Optional[Dict[str, Any]] = Field(default_factory=dict, alias="gstate")
-    links: Optional[Dict[int, List[int]]] = Field(default_factory=dict)
