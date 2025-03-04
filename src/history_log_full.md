@@ -5311,3 +5311,12 @@ DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
 *Parsh*'s invasion is successful (2025-03-03 18:54  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-03 18:54  UTC)<br/>
 *Meridia* moves to X 0.39996415 Y 0.1626034 (2025-03-03 19:00  UTC)<br/>
+*Meridia* moves to X 0.39969048 Y 0.16256997 (2025-03-03 23:00  UTC)<br/>
+*Andar* of the Akira sector is invaded by Illuminate (2025-03-04 01:57  UTC)<br/>
+*Meridia* moves to X 0.399418 Y 0.1625367 (2025-03-04 03:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
+*Kharst*'s invasion is successful (2025-03-04 04:56  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-04 04:56  UTC)<br/>
+*Meridia* moves to X 0.39913762 Y 0.16250245 (2025-03-04 07:00  UTC)<br/>
+
+### Day: #391
