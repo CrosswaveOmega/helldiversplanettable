@@ -5320,3 +5320,23 @@ DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
 *Meridia* moves to X 0.39913762 Y 0.16250245 (2025-03-04 07:00  UTC)<br/>
 
 ### Day: #391
+*Oasis* of the Rictus sector is invaded by Illuminate (2025-03-04 10:27  UTC)<br/>
+*Meridia* moves to X 0.39885685 Y 0.16246817 (2025-03-04 11:00  UTC)<br/>
+*Andar*'s invasion is successful (2025-03-04 13:57  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-03-04 13:57  UTC)<br/>
+*Claorell* defense is failed (2025-03-04 14:25  UTC)<br/>
+↳ *Claorell* liberation campaign starts (2025-03-04 14:25  UTC)<br/>
+*Meridia* moves to X 0.3985684 Y 0.16243294 (2025-03-04 15:00  UTC)<br/>
+ Decay: 3.0 on Claorell
+ (2025-03-04 15:00  UTC)<br/>
+*Meridia* moves to X 0.39827725 Y 0.16239738 (2025-03-04 19:00  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Illuminate (2025-03-04 20:55  UTC)<br/>
+*Oasis*'s invasion is successful (2025-03-04 22:27  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-04 22:27  UTC)<br/>
+*Meridia* moves to X 0.3979859 Y 0.1623618 (2025-03-04 23:00  UTC)<br/>
+*Meridia* moves to X 0.39769188 Y 0.16232589 (2025-03-05 03:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-03-05 05:11  UTC)<br/>
+*Meridia* moves to X 0.397398 Y 0.16229 (2025-03-05 07:00  UTC)<br/>
+
+### Day: #392
