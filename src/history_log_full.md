@@ -5338,5 +5338,19 @@ DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-03-05 05:11  UTC)<br/>
 *Meridia* moves to X 0.397398 Y 0.16229 (2025-03-05 07:00  UTC)<br/>
+*Senge 23*'s invasion is successful (2025-03-05 08:56  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-05 08:56  UTC)<br/>
 
 ### Day: #392
+*Meridia* moves to X 0.39709434 Y 0.16225292 (2025-03-05 11:00  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-03-05 13:30  UTC)<br/>
+*Meridia* moves to X 0.3967893 Y 0.16221566 (2025-03-05 15:00  UTC)<br/>
+*Hort*'s invasion is successful (2025-03-05 17:11  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-05 17:11  UTC)<br/>
+*Meridia* moves to X 0.3964754 Y 0.16217734 (2025-03-05 19:00  UTC)<br/>
+*Meridia* moves to X 0.3961597 Y 0.16213877 (2025-03-05 23:00  UTC)<br/>
+*Zea Rugosia*'s invasion is successful (2025-03-06 01:30  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-03-06 01:30  UTC)<br/>
+*Meridia* moves to X 0.39583623 Y 0.16209927 (2025-03-06 03:00  UTC)<br/>
+​​*Propus* of the Leo sector is invaded by Illuminate (2025-03-06 05:11  UTC)<br/>
+*Meridia* moves to X 0.39550966 Y 0.1620594 (2025-03-06 07:00  UTC)<br/>
