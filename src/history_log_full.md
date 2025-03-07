@@ -5348,9 +5348,45 @@ DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
 *Hort*'s invasion is successful (2025-03-05 17:11  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-05 17:11  UTC)<br/>
 *Meridia* moves to X 0.3964754 Y 0.16217734 (2025-03-05 19:00  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-03-05 22:10  UTC)<br/>
 *Meridia* moves to X 0.3961597 Y 0.16213877 (2025-03-05 23:00  UTC)<br/>
 *Zea Rugosia*'s invasion is successful (2025-03-06 01:30  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-06 01:30  UTC)<br/>
 *Meridia* moves to X 0.39583623 Y 0.16209927 (2025-03-06 03:00  UTC)<br/>
 ​​*Propus* of the Leo sector is invaded by Illuminate (2025-03-06 05:11  UTC)<br/>
 *Meridia* moves to X 0.39550966 Y 0.1620594 (2025-03-06 07:00  UTC)<br/>
+*Claorell* is liberated (2025-03-06 08:12  UTC)<br/>
+
+### Day: #393
+*Ras Algethi*'s invasion is successful (2025-03-06 10:10  UTC)<br/>
+DSS deploys to *Propus* of the Leo sector (2025-03-06 10:34  UTC)<br/>
+*Meridia* moves to X 0.39517206 Y 0.16201816 (2025-03-06 11:00  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-03-06 14:11  UTC)<br/>
+Major Order | Operation A2-3-1 Repel Illuminate or Defend *Claorell* is won | Objective: Control/Defend (2025-03-06 14:33  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Automatons have been repelled from *Claorell*. The Deep Mantle Forge Complex remains within our domain, secure from being bent to despotic means. The scientists at the *Moradesh* Research Facility did not have enough time to complete their experiments. They have been evacuated, as the planet's inevitable destruction nears. (2025-03-06 14:33  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
+*Meridia* moves to X 0.39483052 Y 0.16197646 (2025-03-06 15:00  UTC)<br/>
+*Propus*'s invasion is successful (2025-03-06 17:12  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-03-06 17:12  UTC)<br/>
+*Meridia* moves to X 0.39448172 Y 0.16193385 (2025-03-06 19:00  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-06 22:23  UTC)<br/>
+*Meridia* moves to X 0.39413172 Y 0.16189112 (2025-03-06 23:00  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-03-07 02:11  UTC)<br/>
+*Meridia* moves to X 0.39377385 Y 0.16184741 (2025-03-07 03:00  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-03-07 04:59  UTC)<br/>
+*Meridia* moves to X 0.39341033 Y 0.161803 (2025-03-07 07:00  UTC)<br/>
+
+### Day: #394
+*Bashyr*'s invasion is successful (2025-03-07 10:23  UTC)<br/>
+*Meridia* moves to X 0.39303526 Y 0.16175722 (2025-03-07 11:00  UTC)<br/>
+*Meridia* moves to X 0.3926559 Y 0.16171087 (2025-03-07 15:00  UTC)<br/>
+Major Order | Operation A2-3-2 Blockade the Singularity is issued | Objective: Eradicate (2025-03-07 15:34  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Analysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.  The Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details. (2025-03-07 15:34  UTC)<br/>
+Dispatch: STRATEGIC ALERT. Supply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal. However, rapid liberation of the Terminid-infested planet BORE ROCK would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. (2025-03-07 16:20  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Terminids (2025-03-07 16:21  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2025-03-07 16:22  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Illuminate (2025-03-07 16:50  UTC)<br/>
+ Decay: 1.5 on Bore Rock<br/> Decay: 0.0 on Darius II, Mintoria
+ (2025-03-07 16:50  UTC)<br/>
+*Rasp*'s invasion is successful (2025-03-07 16:59  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-07 16:59  UTC)<br/>
