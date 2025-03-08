@@ -5390,3 +5390,28 @@ Dispatch: STRATEGIC ALERT. Supply chain difficulties of an obtuse and tedious na
  (2025-03-07 16:50  UTC)<br/>
 *Rasp*'s invasion is successful (2025-03-07 16:59  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-07 16:59  UTC)<br/>
+*Meridia* moves to X 0.39227775 Y 0.1616647 (2025-03-07 19:00  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-07 22:38  UTC)<br/>
+*Meridia* moves to X 0.39190084 Y 0.16161866 (2025-03-07 23:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-03-08 00:43  UTC)<br/>
+*Meridia* moves to X 0.39152548 Y 0.16157283 (2025-03-08 03:00  UTC)<br/>
+*Gemma*'s invasion is successful (2025-03-08 04:51  UTC)<br/>
+↳ Ursa sector is fully under Human control (2025-03-08 04:51  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-03-08 05:25  UTC)<br/>
+*Meridia* moves to X 0.39115268 Y 0.1615273 (2025-03-08 07:00  UTC)<br/>
+
+### Day: #395
+*Meridia* moves to X 0.39078254 Y 0.1614821 (2025-03-08 11:00  UTC)<br/>
+*Meridia* moves to X 0.39041424 Y 0.16143712 (2025-03-08 15:00  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Illuminate (2025-03-08 16:04  UTC)<br/>
+*Darius II* defense is failed (2025-03-08 16:22  UTC)<br/>
+↳ *Darius II* liberation campaign starts (2025-03-08 16:22  UTC)<br/>
+↳ *Phact Bay* liberation campaign ends (2025-03-08 16:22  UTC)<br/>
+*Mintoria* defense is failed (2025-03-08 16:23  UTC)<br/>
+↳ *Mintoria* liberation campaign starts (2025-03-08 16:23  UTC)<br/>
+↳ *Zefia* liberation campaign ends (2025-03-08 16:23  UTC)<br/>
+*Kraz*'s invasion is successful (2025-03-08 17:26  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-03-08 17:26  UTC)<br/>
+ Decay: 1.0 on Darius II<br/> Decay: 0.0 on Mintoria
+ (2025-03-08 17:26  UTC)<br/>
+*Meridia* moves to X 0.3900442 Y 0.16139193 (2025-03-08 19:00  UTC)<br/>
