@@ -5415,3 +5415,13 @@ DSS effect Heavy Ordnance Distribution is activated (2025-03-08 00:43  UTC)<br/>
  Decay: 1.0 on Darius II<br/> Decay: 0.0 on Mintoria
  (2025-03-08 17:26  UTC)<br/>
 *Meridia* moves to X 0.3900442 Y 0.16139193 (2025-03-08 19:00  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-03-08 21:36  UTC)<br/>
+*Meridia* moves to X 0.3896737 Y 0.16134669 (2025-03-08 23:00  UTC)<br/>
+ Decay: 0.0 on Zzaniah Prime
+ (2025-03-08 23:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-03-09 00:45  UTC)<br/>
+*Meridia* moves to X 0.38930422 Y 0.16130155 (2025-03-09 03:00  UTC)<br/>
+*Spherion*'s invasion is successful (2025-03-09 04:05  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-03-09 04:05  UTC)<br/>
+The Second Galactic War is paused (2025-03-09 05:56  UTC)<br/>
+NOTE: This is the third time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. As of writing this note the war is still paused (2025-03-09 05:56  UTC)<br/>
