@@ -127,7 +127,6 @@ async def handle_planet_stats(
     planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
     if decay:
-        print(decay)
         outtext = handle_decay_events(decay)
         ne = GameEvent(
             timestamp=event.timestamp,
@@ -238,6 +237,7 @@ async def format_event_obj() -> None:
                     ext += " ".join(i)
             event.planet = get_planet(planets_Dict2, ext)
             print(ext, event.planet)
+            logger.info("%s, %s", ext, event.planet)
             event.type = "clearlinks"
         if event.type == "dss_move":
             event.last_dss_planet = lastdss
@@ -316,6 +316,8 @@ async def get_planet_stats(
                 print(
                     f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
                 )
+                
+                logger.info(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
                 return planetstats
@@ -326,7 +328,7 @@ async def get_planet_stats(
             print(f"{ne.time} fetching game data for time {timestamp}")
             logger.info(f"{ne.time} fetching game data for time {timestamp}")
             planetstats = await get_game_stat_at_time(time)
-            # print(planetstats)
+
             cursor = conn.cursor()
             for pindex, details in planetstats.items():
                 cursor.execute(
@@ -351,7 +353,7 @@ async def get_planet_stats(
             checkv = fetch_entries_by_timestamp(conn, str(timestamp))
             if not checkv:
                 print("COULD NOT ADD TO DATABASE.")
-            print("fetch complete")
+                logger.info(f"COULD NOT ADD TO DATABASE.")
             all_times_new[dc][interval] = planetstats
         else:
             all_times_new[dc][interval] = {}
@@ -621,9 +623,9 @@ def update_planet_ownership(
                 x, y = coordinates[0]
                 planetclone[str(ind)].position.x = float(x)
                 planetclone[str(ind)].position.y = float(y)
-                print(f"X: {x}, Y: {y}")
             else:
                 print("No coordinates found")
+                logger.info(f"{event.planet} could not find coordinates in move event.")
         ## ASSAULT DIVISION CODE
         if "Assault Division" in event.type:
             site = extract_assault_division(event.text)
@@ -707,6 +709,7 @@ def handle_decay_events(decay):
             change = round((float(decay) * 3600) / 10000, 2)
             outtext.append(f" Decay: {change} on " + ", ".join(usenames))
             print(outtext)
+            logger.info(outtext)
 
     return outtext
 
@@ -902,7 +905,6 @@ class GalaxyEventProcessor:
         if ne.type == "m":
             decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
             outtext = handle_decay_events(decay)
-            # print(event_group,ne,decay,hp_checkpoint,outtext)
             if not self.process_monitor_event(
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
@@ -1028,6 +1030,8 @@ if not os.path.exists("./src/data/gen_data"):
 
 if __name__ == "__main__":
     print("Starting up...")
+    
+    logger.info("Starting up...")# = logging.getLogger("StatusLogger")
 
     parser = argparse.ArgumentParser(description="Check for changes.")
     parser.add_argument(
@@ -1053,4 +1057,5 @@ if __name__ == "__main__":
         with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
             file.write(text)
     else:
+        logger.info("NO CHANGE DETECTED.  SKIPPING.")
         print("NO CHANGE DETECTED.  SKIPPING.")
