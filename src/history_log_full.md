@@ -5425,3 +5425,10 @@ DSS effect Heavy Ordnance Distribution stops (2025-03-09 00:45  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-03-09 04:05  UTC)<br/>
 The Second Galactic War is paused (2025-03-09 05:56  UTC)<br/>
 NOTE: This is the third time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. As of writing this note the war is still paused (2025-03-09 05:56  UTC)<br/>
+
+### Day: #396
+NOTE: API is completely and utterly fucked and I refuse to document anything that occurs while the war is paused (2025-03-09 18:57  UTC)<br/>
+ Decay: 0.0 on Sol sector, Altus sector, Barnard sector, Ferris sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Celeste sector, Korpus sector, Mirin sector, Marspira sector, Talus sector, Sten sector, Gallux sector, Morgon sector, Rictus sector, Saleria sector, Meridian sector, Sagan sector, Gellert sector, Nanos sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Hanzo sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Hydra sector, Valdis sector, Lacaille sector, Tanis sector, Umlaut sector, Jin Xi sector, Akira sector, Severin sector, Andromeda sector, Trigon sector, L'estrade sector, Farsight sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Ymir sector, Xi Tauri sector
+ (2025-03-09 22:00  UTC)<br/>
+
+### Day: #397
