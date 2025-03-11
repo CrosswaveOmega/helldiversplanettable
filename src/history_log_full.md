@@ -5424,11 +5424,27 @@ DSS effect Heavy Ordnance Distribution stops (2025-03-09 00:45  UTC)<br/>
 *Spherion*'s invasion is successful (2025-03-09 04:05  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-03-09 04:05  UTC)<br/>
 The Second Galactic War is paused (2025-03-09 05:56  UTC)<br/>
-NOTE: This is the third time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. As of writing this note the war is still paused (2025-03-09 05:56  UTC)<br/>
+NOTE: This is the third time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. At 09:45am two days later, the war begins again. The incident lasted 27 hours and 49 minutes (2025-03-09 05:56  UTC)<br/>
 
 ### Day: #396
-NOTE: API is completely and utterly fucked and I refuse to document anything that occurs while the war is paused (2025-03-09 18:57  UTC)<br/>
  Decay: 0.0 on Sol sector, Altus sector, Barnard sector, Ferris sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Celeste sector, Korpus sector, Mirin sector, Marspira sector, Talus sector, Sten sector, Gallux sector, Morgon sector, Rictus sector, Saleria sector, Meridian sector, Sagan sector, Gellert sector, Nanos sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Hanzo sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Hydra sector, Valdis sector, Lacaille sector, Tanis sector, Umlaut sector, Jin Xi sector, Akira sector, Severin sector, Andromeda sector, Trigon sector, L'estrade sector, Farsight sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Ymir sector, Xi Tauri sector
  (2025-03-09 22:00  UTC)<br/>
 
 ### Day: #397
+The Second Galactic War is no longer paused (2025-03-10 09:45  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-03-10 10:30  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Borgus sector, Jin Xi sector, Tanis sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Blistica, Bekvam III, Vernen Wells, Gar Haren<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Umlaut sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Aurora Bay, Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 0.0 on Charbal-VII, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
+ (2025-03-10 10:30  UTC)<br/>
+*Meridia* moves to X 0.36996076 Y 0.16123913 (2025-03-10 11:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-03-10 11:47  UTC)<br/>
+ Decay: 0.0 on Choepessa IV
+ (2025-03-10 12:00  UTC)<br/>
+*Meridia* moves to X 0.36831644 Y 0.16061248 (2025-03-10 15:00  UTC)<br/>
+*Meridia* moves to X 0.36667815 Y 0.15998812 (2025-03-10 19:00  UTC)<br/>
+*Meridia* changes from Orion to Celeste sector (2025-03-10 19:07  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-03-10 21:46  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-03-10 22:02  UTC)<br/>
+​​*Hort*'s invasion is successful (2025-03-10 22:31  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-10 22:31  UTC)<br/>
+*Meridia* moves to X 0.36504653 Y 0.15936628 (2025-03-10 23:00  UTC)<br/>
+*Meridia* moves to X 0.36341342 Y 0.1587439 (2025-03-11 03:00  UTC)<br/>
