@@ -5448,3 +5448,42 @@ DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-03-10 21:46  UTC)<br/
 ↳ Rigel sector is fully under Human control (2025-03-10 22:31  UTC)<br/>
 *Meridia* moves to X 0.36504653 Y 0.15936628 (2025-03-10 23:00  UTC)<br/>
 *Meridia* moves to X 0.36341342 Y 0.1587439 (2025-03-11 03:00  UTC)<br/>
+*Meridia* moves to X 0.3617875 Y 0.15812425 (2025-03-11 07:00  UTC)<br/>
+
+### Day: #398
+*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-11 09:17  UTC)<br/>
+*Zzaniah Prime* defense is won (2025-03-11 09:42  UTC)<br/>
+*Hadar*'s invasion is successful (2025-03-11 10:02  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-03-11 10:02  UTC)<br/>
+ Decay: 0.5 on Zzaniah Prime
+ (2025-03-11 10:02  UTC)<br/>
+*Meridia* moves to X 0.36016515 Y 0.15750597 (2025-03-11 11:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-03-11 11:49  UTC)<br/>
+Dispatch: INFORMATIONAL ADVISORY. In the previous 24 hours, some personnel inaccurately reported minor errors in the functioning of their Galactic Map, specifically regarding Major Order progress and celestial body coordinates. Those personnel are now receiving full ocular function examinations. An investigation has been launched as to the cause of this widespread spike in ophthalmological issues. All other personnel should proceed operating as normal, in accordance with normal operating procedure. (2025-03-11 12:01  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-11 13:48  UTC)<br/>
+ Decay: 1.0 on Bore Rock
+ (2025-03-11 13:48  UTC)<br/>
+*Meridia* moves to X 0.35854077 Y 0.1568869 (2025-03-11 15:00  UTC)<br/>
+*Meridia* moves to X 0.3569224 Y 0.15627013 (2025-03-11 19:00  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-03-11 20:26  UTC)<br/>
+*Bashyr*'s invasion is successful (2025-03-11 21:16  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-11 21:16  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2025-03-11 21:48  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-03-11 22:54  UTC)<br/>
+*Meridia* moves to X 0.35530174 Y 0.15565248 (2025-03-11 23:00  UTC)<br/>
+*Bore Rock* is liberated (2025-03-11 23:14  UTC)<br/>
+↳ *Esker* liberation campaign starts (2025-03-11 23:14  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The liberation of BORE ROCK from the Terminids has caused supply chain expediencies of a perplexing but advantageous nature, resulting in 50% faster Eagle Re-Arm times for the remainder of the order. (2025-03-11 23:19  UTC)<br/>
+*Mintoria* is liberated (2025-03-12 01:57  UTC)<br/>
+↳ *Zefia* liberation campaign starts (2025-03-12 01:57  UTC)<br/>
+*Meridia* moves to X 0.35368332 Y 0.1550357 (2025-03-12 03:00  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-12 05:49  UTC)<br/>
+*Meridia* moves to X 0.35207206 Y 0.15442163 (2025-03-12 07:00  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-03-12 07:14  UTC)<br/>
+*Bunda Secundus*'s invasion is successful (2025-03-12 08:26  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-03-12 08:26  UTC)<br/>
+
+### Day: #399
+*Meridia* moves to X 0.35044956 Y 0.15380329 (2025-03-12 11:00  UTC)<br/>
+*Chort Bay* of the Lacaille sector's Jet Brigade Factories POI is removed (2025-03-12 13:24  UTC)<br/>
+*Meridia* moves to X 0.34897754 Y 0.15322481 (2025-03-12 15:00  UTC)<br/>
