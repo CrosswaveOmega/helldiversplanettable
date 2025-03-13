@@ -5487,3 +5487,21 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-12 05:49  UTC)<br/>
 *Meridia* moves to X 0.35044956 Y 0.15380329 (2025-03-12 11:00  UTC)<br/>
 *Chort Bay* of the Lacaille sector's Jet Brigade Factories POI is removed (2025-03-12 13:24  UTC)<br/>
 *Meridia* moves to X 0.34897754 Y 0.15322481 (2025-03-12 15:00  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-03-12 18:24  UTC)<br/>
+*Meridia* moves to X 0.34852955 Y 0.15283987 (2025-03-12 19:00  UTC)<br/>
+*Propus*'s invasion is successful (2025-03-12 19:14  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-03-12 19:14  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
+*Meridia* moves to X 0.3480793 Y 0.15245298 (2025-03-12 23:00  UTC)<br/>
+*Meridia* moves to X 0.34763095 Y 0.15206775 (2025-03-13 03:00  UTC)<br/>
+*RD-4*'s invasion is successful (2025-03-13 06:24  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-13 06:24  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2025-03-13 06:51  UTC)<br/>
+*Meridia* moves to X 0.34718513 Y 0.15168467 (2025-03-13 07:00  UTC)<br/>
+
+# Day: #400
+*Wasat* of the Ymir sector is attacked by Automatons (2025-03-13 09:50  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Terminids (2025-03-13 09:51  UTC)<br/>
+*Meridia* moves to X 0.3467432 Y 0.15130493 (2025-03-13 11:00  UTC)<br/>
+ Decay: 0.0 on Achird III, Wasat<br/> Decay: 1.5 on Mintoria, Zzaniah Prime<br/> Decay: 2.0 on Vega Bay
+ (2025-03-13 11:00  UTC)<br/>
