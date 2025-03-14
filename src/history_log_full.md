@@ -5505,3 +5505,23 @@ DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
 *Meridia* moves to X 0.3467432 Y 0.15130493 (2025-03-13 11:00  UTC)<br/>
  Decay: 0.0 on Achird III, Wasat<br/> Decay: 1.5 on Mintoria, Zzaniah Prime<br/> Decay: 2.0 on Vega Bay
  (2025-03-13 11:00  UTC)<br/>
+*Meridia* moves to X 0.34630293 Y 0.15092663 (2025-03-13 15:00  UTC)<br/>
+*Valmox*'s invasion is successful (2025-03-13 18:52  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-13 18:52  UTC)<br/>
+*Meridia* moves to X 0.34586495 Y 0.1505503 (2025-03-13 19:00  UTC)<br/>
+Major Order | Operation A2-3-2 Blockade the Singularity is failed | Objective: Eradicate (2025-03-13 19:35  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Following days of diligent resource collection and repurposing of enemy combatants, the Helldivers have enabled the construction of a partial blockade of the Meridian Singularity. Scrap metal collection efforts were below target, resulting in a barrier that is porous, but still moderately effective. Consult your Galactic Map for more information. (2025-03-13 19:38  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Illuminate (2025-03-13 19:38  UTC)<br/>
+*Meridia* moves to X 0.34543288 Y 0.15017904 (2025-03-13 23:00  UTC)<br/>
+*Meridia* moves to X 0.34500557 Y 0.14981188 (2025-03-14 03:00  UTC)<br/>
+*Meridia* moves to X 0.34458163 Y 0.1494476 (2025-03-14 07:00  UTC)<br/>
+*Moradesh* of the Celeste sector is annihilated (2025-03-14 07:07  UTC)<br/>
+*Fort Union* - *Moradesh* warp link is removed (2025-03-14 07:26  UTC)<br/>
+*Veld* - *Moradesh* warp link is removed (2025-03-14 07:26  UTC)<br/>
+*Moradesh* - *Cirrus* warp link is removed (2025-03-14 07:26  UTC)<br/>
+*Botein* of the Guang sector is invaded by Illuminate (2025-03-14 07:35  UTC)<br/>
+*Irulta*'s invasion is successful (2025-03-14 07:39  UTC)<br/>
+↳ Saleria sector is fully under Human control (2025-03-14 07:39  UTC)<br/>
+Dispatch: MORADESH DESTROYED. *Moradesh* has been torn apart by the Meridian Singularity. Over 95% of its Class C or higher citizens were safely evacuated prior to the planets' destruction. In memoriam, 24-hour period of quiet reflection on the nature of vengeance has been ordered by the Ministry of Humanity. (2025-03-14 07:44  UTC)<br/>
+
+### Day: #401
