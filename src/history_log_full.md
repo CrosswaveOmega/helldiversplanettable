@@ -5525,3 +5525,35 @@ Dispatch: MAJOR ORDER FAILED. Following days of diligent resource collection and
 Dispatch: MORADESH DESTROYED. *Moradesh* has been torn apart by the Meridian Singularity. Over 95% of its Class C or higher citizens were safely evacuated prior to the planets' destruction. In memoriam, 24-hour period of quiet reflection on the nature of vengeance has been ordered by the Ministry of Humanity. (2025-03-14 07:44  UTC)<br/>
 
 ### Day: #401
+*Wasat* defense is failed (2025-03-14 09:52  UTC)<br/>
+↳ *Wasat* liberation campaign starts (2025-03-14 09:52  UTC)<br/>
+*Achird III* defense is failed (2025-03-14 09:53  UTC)<br/>
+↳ *Achird III* liberation campaign starts (2025-03-14 09:53  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2025-03-14 09:55  UTC)<br/>
+*Vog-Sojoth* is liberated (2025-03-14 10:17  UTC)<br/>
+ Decay: 1.5 on Achird III, Wasat
+ (2025-03-14 10:17  UTC)<br/>
+*Meridia* moves to X 0.34416196 Y 0.14908698 (2025-03-14 11:00  UTC)<br/>
+*Meridia* moves to X 0.34374556 Y 0.1487292 (2025-03-14 15:00  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-03-14 16:06  UTC)<br/>
+Major Order | Operation A2-3-3 Penrose Energy Station is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-03-14 16:08  UTC)<br/>
+Assault Division: Predator Strain deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity. High Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation. The device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete. (2025-03-14 16:09  UTC)<br/>
+Dispatch: STRATEGIC ALERT. *Achernar Secundus*, home of the AM Defense Factory Hub producing FRVs, is under attack. Production disruptions have resulted in fuel rations for FRVs until the attack can be repelled. (2025-03-14 17:03  UTC)<br/>
+ Decay: 0.0 on Fenrir III, Achernar Secundus<br/> Decay: 1.5 on Gar Haren
+ (2025-03-14 17:03  UTC)<br/>
+*Botein*'s invasion is repelled (2025-03-14 17:40  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-03-14 17:40  UTC)<br/>
+*Meridia* moves to X 0.3433347 Y 0.14837617 (2025-03-14 19:00  UTC)<br/>
+*Regnus* of the Morgon sector is invaded by Illuminate (2025-03-14 19:25  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-03-14 21:56  UTC)<br/>
+*Meridia* moves to X 0.3429339 Y 0.14803176 (2025-03-14 23:00  UTC)<br/>
+*Meridia* moves to X 0.34253713 Y 0.14769083 (2025-03-15 03:00  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Illuminate (2025-03-15 06:33  UTC)<br/>
+*Meridia* moves to X 0.34214422 Y 0.14735323 (2025-03-15 07:00  UTC)<br/>
+*Regnus*'s invasion is successful (2025-03-15 07:25  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-03-15 07:25  UTC)<br/>
+
+### Day: #402
+*Meridia* moves to X 0.34175155 Y 0.14701582 (2025-03-15 11:00  UTC)<br/>
