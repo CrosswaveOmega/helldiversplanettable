@@ -2220,7 +2220,6 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
 *Skitter* of the Hawking sector's biome is changed from Plains [Moor] to Haunted Swamp [Swamp] (2024-08-06 09:00  UTC)<br/>
 *Enuliale* is moderately enveloped by the Gloom (2024-08-06 09:38  UTC)<br/>
 *Socorro III* is lightly enveloped by the Gloom (2024-08-06 09:38  UTC)<br/>
-↳ NOTE: It is very difficult to see the light gloom effect on the galactic map (2024-08-06 09:38  UTC)<br/>
 Major Order | Operation A1-8-1 Mine Efficacy Review is failed | Objective: Eradicate (2024-08-06 10:39  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The failure of the Helldivers to eliminate the targeted number of enemies using their currently-available arsenal has made clear the need for additional weaponry. Therefore, High Command has ordered the immediate, large-scale production of Anti-Tank Mines. They will be available fleetwide in short order. (2024-08-06 10:39  UTC)<br/>
 Major Order | Operation A1-8-2 Eradicate Terminids on *Socorro III* is issued | Objective: Eradicate/Liberate (2024-08-06 14:55  UTC)<br/>
@@ -2704,7 +2703,6 @@ Dispatch: SITUATIONAL RECAP. Reminder: Liberating the Automaton-controlled plane
 Dispatch: STRATEGIC UPDATE. *Mastia* has been liberated, allowing access to the planet's polystyrene foam manufactories. The liberation of *Tarsh* is now all that is needed to make the Orbital Napalm Barrage Stratagem available for requisition. (2024-09-15 18:47  UTC)<br/>
 *Mastia* is liberated (2024-09-15 18:48  UTC)<br/>
 *Tarsh* decay rate changes to -1.0% per hour (2024-09-15 19:05  UTC)<br/>
-↳ NOTE: This is the first time negative decay has happened after completely surrounding a world. (2024-09-15 19:05  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. *Tarsh* has been cutoff from all adjacent Automaton systems, and as a result their resistance is crumbling! While the isolated bots on *Tarsh* will fight fiercely, their organization is failing. Press the advantage Helldivers! (2024-09-15 19:06  UTC)<br/>
  Decay: -1.0 on Tarsh
  (2024-09-15 20:00  UTC)<br/>
@@ -2714,7 +2712,6 @@ Dispatch: STRATEGIC UPDATE. *Tarsh* has been cutoff from all adjacent Automaton 
 ↳ Marspira sector is fully under Human control (2024-09-16 11:54  UTC)<br/>
 Dispatch: ARSENAL EXPANSION. With the successful liberation of *Tarsh* and *Mastia* from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population. (2024-09-16 11:57  UTC)<br/>
 Major Order | Operation A1-9-3 Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33  UTC)<br/>
-↳ NOTE: Only 1 out of 2 tasks got cleared for this MO. The uncleared task mandated the eradication of Bile Spewers, which do not spawn if a Nursing Spewer or Pouncer is present on a Terminid mission (2024-09-16 14:33  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Terminid population levels have been reduced, but by lower than the targeted amount required to fully bring their population under control. (2024-09-16 14:33  UTC)<br/>
  Decay: 1.5 on Mastia, Tarsh
  (2024-09-16 14:33  UTC)<br/>
@@ -3067,7 +3064,7 @@ Major Order | Operation A1-10-3 Terminid Preserve is won | Objective: Control (2
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
 Automaton Legion debuts a new Assault Division: Jet Brigade (2024-10-18 11:43  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Choohe* (2024-10-18 11:43  UTC)<br/>
-Assault Division: Jet Brigade goes into hiding (2024-10-18 11:45  UTC)<br/>
+Assault Division: Jet Brigade leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
 Emergency Alert | Jet Brigade Emergency Defense is issued (2024-10-18 13:03  UTC)<br/>
@@ -3083,6 +3080,7 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
  Decay: 4.0 on Matar Bay
  (2024-10-19 14:00  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2024-10-19 22:06  UTC)<br/>
+Assault Division: Jet Brigade leaves *Matar Bay* (2024-10-19 22:07  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Martale* (2024-10-19 22:07  UTC)<br/>
  Decay: 0.0 on Martale
  (2024-10-20 00:00  UTC)<br/>
@@ -3093,6 +3091,7 @@ Assault Division: Jet Brigade deploys to *Martale* (2024-10-19 22:07  UTC)<br/>
  Decay: 4.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
+Assault Division: Jet Brigade leaves *Martale* (2024-10-21 04:11  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Marfark* (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
@@ -3388,6 +3387,7 @@ Assault Division: Jet Brigade deploys to *Vernen Wells* (2024-11-11 14:02  UTC)<
  (2024-11-11 14:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives. Haste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on *Vernen Wells*. An attack on the DSS Logistics Hub on *Tarsh* is likely imminent. If the Hub is seized, the DSS itself will be next. (2024-11-11 14:04  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-11-11 20:03  UTC)<br/>
+Assault Division: Jet Brigade leaves *Vernen Wells* (2024-11-11 20:03  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Tarsh* (2024-11-11 20:03  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on *Tarsh*. Intel indicates the Automatons are seeking the location of the DSS itself. The force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress. (2024-11-11 20:03  UTC)<br/>
  Decay: 0.0 on Tarsh
@@ -3413,6 +3413,7 @@ Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics 
  Decay: 4.5 on Tarsh<br/> Decay: 1.5 on Vernen Wells
  (2024-11-12 20:27  UTC)<br/>
 *Mastia* of the Andromeda sector is attacked by Automatons (2024-11-13 05:11  UTC)<br/>
+Assault Division: Jet Brigade leaves *Tarsh* (2024-11-13 05:11  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Mastia* (2024-11-13 05:11  UTC)<br/>
  Decay: 0.0 on Mastia
  (2024-11-13 06:00  UTC)<br/>
@@ -3449,6 +3450,7 @@ Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is 
 
 ### Day: #281
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-11-14 11:19  UTC)<br/>
+Assault Division: Jet Brigade leaves *Mastia* (2024-11-14 11:19  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Gaellivare* (2024-11-14 11:19  UTC)<br/>
 Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaellivare*. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. (2024-11-14 11:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
@@ -3470,7 +3472,7 @@ DSS effect Eagle Storm is activated (2024-11-16 02:39  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In an unexpected but cunning move, the Helldivers have voted to send the DSS back to *Gaellivare* and activate its EAGLE STORM Tactical Action to hold the defense against the Jet Brigade. This development has led to operations upon *Mastia* possibly gaining sufficient time to complete, and thereby end the attack upon *Gaellivare* by taking out its point of origin. (2024-11-16 03:01  UTC)<br/>
 
 ### Day: #283
-Assault Division: Jet Brigade goes into hiding (2024-11-16 11:17  UTC)<br/>
+Assault Division: Jet Brigade leaves *Gaellivare* (2024-11-16 11:17  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Gaellivare* (2024-11-16 13:03  UTC)<br/>
 Major Order | Operation A1-11-2 DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Gaellivare* has been held for the designated timeframe. However, the planet, and the DSS itself, remain imperiled. The fight is not over. High Command will monitor the situation. Further guidance will be issued once the fate of *Gaellivare* is decided—one way or the other. (2024-11-16 14:19  UTC)<br/>
@@ -3490,6 +3492,7 @@ DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
 
 ### Day: #285
 *Imber* of the Talus sector is attacked by Automatons (2024-11-18 16:09  UTC)<br/>
+Assault Division: Jet Brigade leaves *Gaellivare* (2024-11-18 16:09  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Imber* (2024-11-18 16:09  UTC)<br/>
 Major Order | Operation A1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
  Decay: 0.0 on Imber
@@ -4145,7 +4148,6 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 *Elysian Meadows*'s invasion is successful (2025-01-11 20:18  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-11 20:18  UTC)<br/>
 *Polaris Prime* liberation campaign starts (2025-01-11 23:15  UTC)<br/>
-↳ NOTE: As a result of Joel messing some stuff up in the backend a liberation campaign was started, while the planet was still under SE control. During the two minutes that this was active any missions selected would just be normal bug liberation missions, as that was the faction defaulted to. Also had 500% decay. (2025-01-11 23:15  UTC)<br/>
 *Polaris Prime* is liberated (2025-01-11 23:17  UTC)<br/>
 ↳ NOTE: As a result of Joel messing some stuff up in the backend a liberation campaign was started, while the planet was still under SE control. During the two minutes that this was active any missions selected would just be normal terminid liberation missions, as that was the faction defaulted to. Also had 500% decay. Joel furthermore ended the campaign which leads to a strange situation where in terms of event lines, *Polaris Prime* went from SE control to SE control. (2025-01-11 23:17  UTC)<br/>
 *Polaris Prime* of the Farsight sector is attacked by Terminids (2025-01-11 23:18  UTC)<br/>
@@ -4249,7 +4251,6 @@ DSS deploys to *Rasp* of the Gallux sector (2025-01-17 05:21  UTC)<br/>
 ### Day: #345
 *Haldus* of the Ferris sector is invaded by Illuminate (2025-01-17 09:29  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-17 13:21  UTC)<br/>
-↳ NOTE: Joel manually redeploys the DSS 10 minutes later resetting the timer for unknown reasons but the event line is not included due it being an effectively repeat line. (2025-01-17 13:21  UTC)<br/>
 DSS deploys to *Haldus* of the Ferris sector (2025-01-17 17:32  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-01-17 17:52  UTC)<br/>
 *Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-17 20:52  UTC)<br/>
@@ -4564,6 +4565,7 @@ Dispatch: INTEL REPORT. Through careful analysis of available astronomical data,
 *Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
+Assault Division: Jet Brigade leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
 Assault Division: Jet Brigade deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
  Decay: 4.0 on Menkent
  (2025-02-03 16:01  UTC)<br/>
@@ -4877,7 +4879,7 @@ NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<b
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
 *Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
 *Fenrir III* defense is won (2025-02-16 22:35  UTC)<br/>
-↳ Assault Division: Predator Strain goes into hiding (2025-02-16 22:35  UTC)<br/>
+↳ Assault Division: Predator Strain leaves *Fenrir III* (2025-02-16 22:35  UTC)<br/>
 Assault Division: Predator Strain deploys to *Erata Prime* (2025-02-16 22:38  UTC)<br/>
 *Meridia* moves to X 0.44621298 Y 0.16827168 (2025-02-16 23:00  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 3.5 on Erata Prime
@@ -4908,11 +4910,10 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 ### Day: #377
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-18 10:19  UTC)<br/>
 *Moradesh* moves to X 0.32133883 Y 0.15296434 (2025-02-18 10:19  UTC)<br/>
-↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-18 10:19  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the first time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement. This incident is resolved after 53 minutes (2025-02-18 10:19  UTC)<br/>
 *Moradesh* moves to X 0.32127655 Y 0.15295668 (2025-02-18 11:00  UTC)<br/>
 *Meridia* moves to X 0.44184864 Y 0.16773598 (2025-02-18 11:12  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-18 11:12  UTC)<br/>
-↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is fixed. *Meridia* is now moving again, the entire incident lasted 53 minutes (2025-02-18 11:12  UTC)<br/>
 *Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
@@ -4957,7 +4958,7 @@ NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual en
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-19 14:41  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-19 14:41  UTC)<br/>
 *Moradesh* moves to X 0.31730345 Y 0.15246902 (2025-02-19 14:41  UTC)<br/>
-↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, again. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-19 14:41  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the second time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement. This incident is resolved after 5 hours and 6 minutes (2025-02-19 14:41  UTC)<br/>
  Decay: 9.0 on Fori Prime
  (2025-02-19 14:41  UTC)<br/>
 *Moradesh* moves to X 0.3172561 Y 0.15246321 (2025-02-19 15:00  UTC)<br/>
@@ -4965,7 +4966,6 @@ Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Repo
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-19 19:44  UTC)<br/>
 *Meridia* moves to X 0.42139462 Y 0.16522539 (2025-02-19 19:47  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-19 19:47  UTC)<br/>
-↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is relocated to where it should be and then some. *Meridia* is now moving again, the entire incident lasted 5 hours and 6 minutes (2025-02-19 19:47  UTC)<br/>
 *Ras Algethi*'s invasion is successful (2025-02-19 22:14  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-02-19 22:14  UTC)<br/>
 *Meridia* moves to X 0.42115816 Y 0.16519637 (2025-02-19 23:00  UTC)<br/>
@@ -5046,7 +5046,7 @@ DSS deploys to *RD-4* of the Rigel sector (2025-02-22 19:25  UTC)<br/>
  (2025-02-23 01:05  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-23 02:42  UTC)<br/>
 *Moradesh* moves to X 0.29386738 Y 0.1495924 (2025-02-23 02:42  UTC)<br/>
-↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the third time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement (2025-02-23 02:42  UTC)<br/>
+↳ NOTE: For unknown reasons *Meridia* resets to a position before overlapping with *Angel's Venture*, ceasing movement afterwards, for the third time. *Moradesh* moves by that same amount and then proceeds to start moving along the same trajectory and speed as *Meridia* once was aka constant movement. This incident is resolved after 8 hours and 20 minutes (2025-02-23 02:42  UTC)<br/>
 *Moradesh* moves to X 0.29383743 Y 0.14958873 (2025-02-23 03:00  UTC)<br/>
 *RD-4*'s invasion is successful (2025-02-23 03:07  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-23 03:07  UTC)<br/>
@@ -5057,7 +5057,6 @@ DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-23 07:26  UTC)<br/>
 *Moradesh* moves to X 0.29306585 Y 0.14949402 (2025-02-23 10:45  UTC)<br/>
 *Meridia* moves to X 0.41365007 Y 0.16427477 (2025-02-23 11:02  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-23 11:02  UTC)<br/>
-↳ NOTE: *Moradesh* is put back in its original position and *Meridia* is relocated to where it should be. *Meridia* is now moving again, the entire incident lasted 8 hours and 20 minutes (2025-02-23 11:02  UTC)<br/>
 *Myrium* of the Morgon sector is invaded by Illuminate (2025-02-23 12:27  UTC)<br/>
 Dispatch: ALERT. The Gloom cover on *Fori Prime* is predicted to thicken over the coming hours. The equipment enabling the Helldivers' Gloom expedition is designed to withstand low spore levels only. Given the heightened risk, there will be no further operations on *Fori Prime* after the current Major Order is completed. (2025-02-23 12:32  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-23 13:06  UTC)<br/>
@@ -5557,3 +5556,59 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-03-14 21:56  UTC)<br/>
 
 ### Day: #402
 *Meridia* moves to X 0.34175155 Y 0.14701582 (2025-03-15 11:00  UTC)<br/>
+*Meridia* moves to X 0.34136274 Y 0.14668173 (2025-03-15 15:00  UTC)<br/>
+*Achernar Secundus* defense is failed (2025-03-15 16:09  UTC)<br/>
+↳ *Achernar Secundus* liberation campaign starts (2025-03-15 16:09  UTC)<br/>
+↳ *Gar Haren* liberation campaign ends (2025-03-15 16:09  UTC)<br/>
+*Fenrir III* defense is failed (2025-03-15 16:11  UTC)<br/>
+↳ *Fenrir III* liberation campaign starts (2025-03-15 16:11  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-03-15 16:14  UTC)<br/>
+Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV fuel will be reduced by 90% until the planet is reclaimed or until fuel can be sourced elsewhere. (2025-03-15 16:27  UTC)<br/>
+ Decay: 2.0 on Fenrir III<br/> Decay: 1.5 on Achernar Secundus
+ (2025-03-15 16:27  UTC)<br/>
+*Iro*'s invasion is successful (2025-03-15 18:34  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-15 18:34  UTC)<br/>
+*Meridia* moves to X 0.34097573 Y 0.14634919 (2025-03-15 19:00  UTC)<br/>
+*Meridia* moves to X 0.3405846 Y 0.14601311 (2025-03-15 23:00  UTC)<br/>
+*Meridia* moves to X 0.34019744 Y 0.14568044 (2025-03-16 03:00  UTC)<br/>
+*Alamak VII*'s invasion is successful (2025-03-16 04:15  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-03-16 04:15  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-03-16 05:30  UTC)<br/>
+*Meridia* moves to X 0.33981717 Y 0.14535369 (2025-03-16 07:00  UTC)<br/>
+
+### Day: #403
+*Meridia* moves to X 0.3394432 Y 0.14503235 (2025-03-16 11:00  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-03-16 14:12  UTC)<br/>
+*Meridia* moves to X 0.3390733 Y 0.14471452 (2025-03-16 15:00  UTC)<br/>
+*Seasse*'s invasion is successful (2025-03-16 17:31  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-16 17:31  UTC)<br/>
+*Meridia* moves to X 0.33869624 Y 0.14439052 (2025-03-16 19:00  UTC)<br/>
+Assault Division: Predator Strain deploys to *Hellmire* (2025-03-16 19:27  UTC)<br/>
+Assault Division: Predator Strain leaves *Fenrir III* (2025-03-16 19:29  UTC)<br/>
+Assault Division: Predator Strain leaves *Hellmire* (2025-03-16 20:26  UTC)<br/>
+ Decay: 1.0 on Fenrir III
+ (2025-03-16 20:26  UTC)<br/>
+Assault Division: Predator Strain deploys to *Nivel 43* (2025-03-16 20:27  UTC)<br/>
+Assault Division: Predator Strain deploys to *Esker* (2025-03-16 20:48  UTC)<br/>
+Assault Division: Predator Strain leaves *Nivel 43* (2025-03-16 20:56  UTC)<br/>
+Assault Division: Predator Strain leaves *Esker* (2025-03-16 21:16  UTC)<br/>
+ Decay: 2.0 on Esker
+ (2025-03-16 21:16  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-03-16 21:18  UTC)<br/>
+Assault Division: Predator Strain deploys to *Bore Rock* (2025-03-16 21:18  UTC)<br/>
+*Meridia* moves to X 0.33831957 Y 0.14406687 (2025-03-16 23:00  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2025-03-16 23:00  UTC)<br/>
+*Fenrir III* is liberated (2025-03-17 01:15  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-03-17 01:15  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-03-17 01:20  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2025-03-17 02:03  UTC)<br/>
+*Siemnot*'s invasion is successful (2025-03-17 02:13  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-03-17 02:13  UTC)<br/>
+*Meridia* moves to X 0.33794564 Y 0.14374556 (2025-03-17 03:00  UTC)<br/>
+*Meridia* moves to X 0.3375726 Y 0.14342503 (2025-03-17 07:00  UTC)<br/>
+
+### Day: #404
+*Meridia* moves to X 0.33720404 Y 0.14310834 (2025-03-17 11:00  UTC)<br/>
+*Andar* of the Akira sector is invaded by Illuminate (2025-03-17 12:00  UTC)<br/>
+*Asperoth Prime*'s invasion is successful (2025-03-17 13:20  UTC)<br/>
