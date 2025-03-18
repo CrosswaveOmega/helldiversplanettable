@@ -10260,13 +10260,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2677
       },
       {
@@ -10342,10 +10335,6 @@
          "dss": "DSS Here",
          "desc": [
             {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            },
-            {
                "name": "DEMOCRACY SPACE STATION",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -10360,13 +10349,6 @@
       {
          "hp": 30684,
          "pl": 14600,
-         "adiv": "",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 2696
       },
       {
@@ -12303,17 +12285,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2630
       },
       {
@@ -12381,16 +12352,6 @@
       {
          "pl": 9600,
          "dss": "DSS Here",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            },
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 2647
       },
       {
@@ -12407,16 +12368,6 @@
       },
       {
          "pl": 19300,
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2653
       },
       {
@@ -12479,16 +12430,6 @@
          "hp": 725448,
          "pl": 18800,
          "dss": "DSS Here",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            },
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 2668
       },
       {
@@ -12534,13 +12475,6 @@
       {
          "hp": 695692,
          "pl": 12800,
-         "adiv": "",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 2677
       },
       {
@@ -24552,7 +24486,7 @@
       {
          "adiv": "",
          "desc": [],
-         "eind": 4312
+         "eind": 4310
       }
    ],
    "211": [
@@ -30038,13 +29972,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2611
       },
       {
@@ -30112,8 +30039,6 @@
       {
          "hp": 509891,
          "pl": 10000,
-         "adiv": "",
-         "desc": [],
          "eind": 2630
       },
       {
@@ -33620,13 +33545,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2594
       },
       {
@@ -33678,8 +33596,6 @@
       {
          "hp": 754968,
          "pl": 11100,
-         "adiv": "",
-         "desc": [],
          "eind": 2611
       },
       {
@@ -50439,9 +50355,6 @@
       {
          "pl": 89500,
          "t": 16,
-         "eind": 3803
-      },
-      {
          "adiv": "",
          "desc": [
             {
@@ -50453,7 +50366,7 @@
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
          ],
-         "eind": 3804
+         "eind": 3803
       },
       {
          "pl": 75700,
@@ -61137,14 +61050,14 @@
          "eind": 4313
       },
       {
+         "adiv": "",
+         "desc": [],
+         "eind": 4314
+      },
+      {
          "pl": 400,
          "r": 5.5556,
          "eind": 4315
-      },
-      {
-         "adiv": "",
-         "desc": [],
-         "eind": 4316
       },
       {
          "pl": 200,
@@ -67312,6 +67225,13 @@
       {
          "pl": 27800,
          "t": 33,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
          "eind": 4333
       },
       {
@@ -87310,20 +87230,11 @@
       {
          "pl": 3700,
          "r": 13.8889,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2592
       },
       {
          "hp": 999999,
          "pl": 17100,
-         "adiv": "",
-         "desc": [],
          "eind": 2594
       },
       {
@@ -99592,16 +99503,6 @@
          "eind": 3543
       },
       {
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
-         "eind": 3544
-      },
-      {
          "pl": 1300,
          "eind": 3546
       },
@@ -99616,10 +99517,6 @@
       {
          "dss": "DSS Here",
          "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            },
             {
                "name": "DEMOCRACY SPACE STATION",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
@@ -99699,13 +99596,6 @@
       {
          "hp": 963734,
          "r": 11.1111,
-         "adiv": "",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 3569
       },
       {
@@ -107795,19 +107685,10 @@
       },
       {
          "pl": 200,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2359
       },
       {
          "pl": 400,
-         "adiv": "",
-         "desc": [],
          "eind": 2361
       },
       {
@@ -118375,17 +118256,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            },
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 3569
       },
       {
@@ -118408,16 +118278,6 @@
       {
          "pl": 32000,
          "dss": "DSS Here",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            },
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 3574
       },
       {
@@ -118499,13 +118359,6 @@
       {
          "pl": 21100,
          "t": 16,
-         "adiv": "",
-         "desc": [
-            {
-               "name": "DEMOCRACY SPACE STATION",
-               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-            }
-         ],
          "eind": 3595
       },
       {
@@ -161752,13 +161605,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2381
       },
       {
@@ -161807,11 +161653,6 @@
       {
          "pl": 400,
          "eind": 2392
-      },
-      {
-         "adiv": "",
-         "desc": [],
-         "eind": 2393
       },
       {
          "pl": 700,
@@ -163598,16 +163439,6 @@
          "eind": 2372
       },
       {
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
-         "eind": 2373
-      },
-      {
          "pl": 25200,
          "r": 0.0,
          "eind": 2374
@@ -163642,8 +163473,6 @@
       {
          "hp": 540288,
          "pl": 25700,
-         "adiv": "",
-         "desc": [],
          "eind": 2381
       },
       {
@@ -169660,13 +169489,6 @@
       },
       {
          "t": 23,
-         "adiv": "JetBrigade",
-         "desc": [
-            {
-               "name": "THE JET BRIGADE",
-               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-            }
-         ],
          "eind": 2361
       },
       {
@@ -169711,11 +169533,6 @@
          "hp": 527606,
          "pl": 38300,
          "eind": 2372
-      },
-      {
-         "adiv": "",
-         "desc": [],
-         "eind": 2373
       },
       {
          "hp": 533622,
