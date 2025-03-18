@@ -26,7 +26,7 @@
         },
         "1202": {
             "galacticEffectId": 1202,
-            "name": "THE JET BRIGADE",
+            "name": "JET BRIGADE",
             "icon": "JetBrigade",
             "description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
         },
@@ -97,8 +97,8 @@
         },
         "1249": {
 		"galacticEffectId": 1249,
-		"name": "THE INCINERATION CORPS",
-        "icon": "Automatons",
+		"name": "INCINERATION CORPS",
+        "icon": "FireBots",
 		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
 	}
     }
