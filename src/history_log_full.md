@@ -5654,3 +5654,6 @@ Major Order | Operation A2-3-4 Fuel Penrose Energy Station or Stop Incendiary Co
 Dispatch: NEW MAJOR ORDER. Automaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation. High Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 14:51  UTC)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2025-03-18 14:51  UTC)<br/>
 *Meridia* moves to X 0.3333508 Y 0.14036079 (2025-03-18 15:00  UTC)<br/>
+ Decay: 0.0 on Bekvam III, Martale, Vega Bay
+ (2025-03-18 16:00  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2025-03-18 18:08  UTC)<br/>
