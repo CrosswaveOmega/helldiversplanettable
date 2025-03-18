@@ -195,7 +195,7 @@
             },
             {
                 "name": "Assault Division Retreat",
-                "matchable": ["goes into hiding"]
+                "matchable": ["leaves"]
             },
             {
                 "name": "Assault Division Defeat",

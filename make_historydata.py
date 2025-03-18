@@ -402,7 +402,7 @@ def unordered_list_hash(int_list: List[int]):
 
 def get_effect(site):
     for sdg, eff in ejson["planetEffects"].items():
-        if site.upper() in eff["name"].upper():
+        if site.upper() in eff["name"].upper() or eff["name"].upper()  in site.upper():
             return eff
     return None
 

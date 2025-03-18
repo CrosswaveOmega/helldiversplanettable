@@ -214,7 +214,7 @@ def extract_assault_division(
     if match:
         return match.group(1)
     
-    match = re.search(r"Assault Division: (.*?) goes into hiding", text)
+    match = re.search(r"Assault Division: (.*?) leaves", text)
     if match:
         return match.group(1)
     
