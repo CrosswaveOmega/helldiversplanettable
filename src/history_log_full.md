@@ -386,6 +386,7 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
  (2024-03-18 18:00  UTC)<br/>
 
 ### Day: #41
+DSS effect Eagle Storm is activated (2024-03-19 10:41  UTC)<br/>
 *Estanu* defense is failed (2024-03-19 12:14  UTC)<br/>
 ↳ Draco sector is fully under Terminid control (2024-03-19 12:14  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-03-19 12:14  UTC)<br/>
@@ -5646,14 +5647,29 @@ Dispatch: MAJOR ORDER WON. The Helldivers, through valiant defense against the s
  (2025-03-18 10:33  UTC)<br/>
 *Meridia* moves to X 0.3338972 Y 0.14074768 (2025-03-18 11:00  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Automatons (2025-03-18 14:48  UTC)<br/>
-Automaton Legion debuts a new Assault Division: Incendiary Corps (2025-03-18 14:48  UTC)<br/>
-Assault Division: Incendiary Corps U1A deploys to *Bekvam III* (2025-03-18 14:48  UTC)<br/>
+Automaton Legion debuts a new Assault Division: Incineration Corps (2025-03-18 14:48  UTC)<br/>
+Assault Division: Incineration Corps U1A deploys to *Bekvam III* (2025-03-18 14:48  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2025-03-18 14:49  UTC)<br/>
-Assault Division: Incendiary Corps U1B deploys to *Martale* (2025-03-18 14:49  UTC)<br/>
-Major Order | Operation A2-3-4 Fuel Penrose Energy Station or Stop Incendiary Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
+Assault Division: Incineration Corps U1B deploys to *Martale* (2025-03-18 14:49  UTC)<br/>
+Major Order | Operation A2-3-4 Fuel Penrose Energy Station or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Automaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation. High Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 14:51  UTC)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2025-03-18 14:51  UTC)<br/>
 *Meridia* moves to X 0.3333508 Y 0.14036079 (2025-03-18 15:00  UTC)<br/>
  Decay: 0.0 on Bekvam III, Martale, Vega Bay
  (2025-03-18 16:00  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-03-18 18:08  UTC)<br/>
+*Meridia* moves to X 0.33280915 Y 0.13997723 (2025-03-18 19:00  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2025-03-18 22:08  UTC)<br/>
+*Setia*'s invasion is successful (2025-03-18 22:34  UTC)<br/>
+↳ Omega sector is fully under Terminid control (2025-03-18 22:34  UTC)<br/>
+*Meridia* moves to X 0.3322739 Y 0.13959822 (2025-03-18 23:00  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-03-18 23:19  UTC)<br/>
+*Meridia* moves to X 0.3317502 Y 0.13922739 (2025-03-19 03:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
+*Meridia* moves to X 0.3312325 Y 0.13886078 (2025-03-19 07:00  UTC)<br/>
+
+### Day: #406
+*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2025-03-19 09:32  UTC)<br/>
+*Meridia* moves to X 0.33071983 Y 0.13849777 (2025-03-19 11:00  UTC)<br/>
+*Elysian Meadows*'s invasion is successful (2025-03-19 11:20  UTC)<br/>
+↳ Guang sector is fully under Terminid control (2025-03-19 11:20  UTC)<br/>
