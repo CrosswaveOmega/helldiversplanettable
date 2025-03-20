@@ -5673,3 +5673,37 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Meridia* moves to X 0.33071983 Y 0.13849777 (2025-03-19 11:00  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-03-19 11:20  UTC)<br/>
 ↳ Guang sector is fully under Terminid control (2025-03-19 11:20  UTC)<br/>
+*Bekvam III* defense is failed (2025-03-19 14:51  UTC)<br/>
+↳ *Bekvam III* liberation campaign starts (2025-03-19 14:51  UTC)<br/>
+*Vega Bay* defense is failed (2025-03-19 14:53  UTC)<br/>
+↳ *Vega Bay* liberation campaign starts (2025-03-19 14:53  UTC)<br/>
+*Wezen* of the Ymir sector is attacked by Automatons (2025-03-19 14:58  UTC)<br/>
+*Meridia* moves to X 0.33020198 Y 0.13813107 (2025-03-19 15:00  UTC)<br/>
+*Duma Tyr* of the Nanos sector is attacked by Automatons (2025-03-19 16:07  UTC)<br/>
+ Decay: 2.5 on Bekvam III<br/> Decay: 1.5 on Vega Bay<br/> Decay: 0.0 on Wezen
+ (2025-03-19 16:07  UTC)<br/>
+ Decay: 0.0 on Duma Tyr
+ (2025-03-19 18:00  UTC)<br/>
+*Meridia* moves to X 0.32968992 Y 0.13776848 (2025-03-19 19:00  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-03-19 20:05  UTC)<br/>
+*Kerth Secundus*'s invasion is successful (2025-03-19 21:32  UTC)<br/>
+↳ Rictus sector is fully under Terminid control (2025-03-19 21:32  UTC)<br/>
+*Meridia* moves to X 0.32917884 Y 0.13740657 (2025-03-19 23:00  UTC)<br/>
+DSS deploys to *Duma Tyr* of the Nanos sector (2025-03-20 02:11  UTC)<br/>
+*Martale* defense is won (2025-03-20 02:18  UTC)<br/>
+↳ Assault Division: Incineration Corps U1B is routed (2025-03-20 02:18  UTC)<br/>
+*Meridia* moves to X 0.32866967 Y 0.13704604 (2025-03-20 03:00  UTC)<br/>
+ Decay: 1.5 on Martale
+ (2025-03-20 03:00  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-03-20 06:27  UTC)<br/>
+*Meridia* moves to X 0.32816613 Y 0.13668948 (2025-03-20 07:00  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2025-03-20 08:06  UTC)<br/>
+
+### Day: #407
+*Julheim* of the Nanos sector is attacked by Automatons (2025-03-20 09:48  UTC)<br/>
+Assault Division: Incineration Corps U1A leaves *Bekvam III* (2025-03-20 09:48  UTC)<br/>
+Assault Division: Incineration Corps U1A deploys to *Julheim* (2025-03-20 09:49  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-03-20 09:50  UTC)<br/>
+DSS effect Eagle Storm stops (2025-03-20 10:43  UTC)<br/>
+ Decay: 0.0 on Julheim, Charon Prime
+ (2025-03-20 10:43  UTC)<br/>
