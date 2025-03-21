@@ -5745,3 +5745,4 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
  (2025-03-21 11:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
 *Meridia* moves to X 0.3242832 Y 0.13393997 (2025-03-21 15:00  UTC)<br/>
+*Reaf* of the Saleria sector is invaded by Illuminate (2025-03-21 16:19  UTC)<br/>
