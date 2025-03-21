@@ -5661,7 +5661,7 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-03-18 18:08  UTC)<br/>
 *Meridia* moves to X 0.33280915 Y 0.13997723 (2025-03-18 19:00  UTC)<br/>
 DSS deploys to *Martale* of the Andromeda sector (2025-03-18 22:08  UTC)<br/>
 *Setia*'s invasion is successful (2025-03-18 22:34  UTC)<br/>
-↳ Omega sector is fully under Terminid control (2025-03-18 22:34  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-18 22:34  UTC)<br/>
 *Meridia* moves to X 0.3322739 Y 0.13959822 (2025-03-18 23:00  UTC)<br/>
 *Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-03-18 23:19  UTC)<br/>
 *Meridia* moves to X 0.3317502 Y 0.13922739 (2025-03-19 03:00  UTC)<br/>
@@ -5672,7 +5672,7 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Kerth Secundus* of the Rictus sector is invaded by Illuminate (2025-03-19 09:32  UTC)<br/>
 *Meridia* moves to X 0.33071983 Y 0.13849777 (2025-03-19 11:00  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-03-19 11:20  UTC)<br/>
-↳ Guang sector is fully under Terminid control (2025-03-19 11:20  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-03-19 11:20  UTC)<br/>
 *Bekvam III* defense is failed (2025-03-19 14:51  UTC)<br/>
 ↳ *Bekvam III* liberation campaign starts (2025-03-19 14:51  UTC)<br/>
 *Vega Bay* defense is failed (2025-03-19 14:53  UTC)<br/>
@@ -5687,7 +5687,7 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Meridia* moves to X 0.32968992 Y 0.13776848 (2025-03-19 19:00  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-03-19 20:05  UTC)<br/>
 *Kerth Secundus*'s invasion is successful (2025-03-19 21:32  UTC)<br/>
-↳ Rictus sector is fully under Terminid control (2025-03-19 21:32  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-19 21:32  UTC)<br/>
 *Meridia* moves to X 0.32917884 Y 0.13740657 (2025-03-19 23:00  UTC)<br/>
 DSS deploys to *Duma Tyr* of the Nanos sector (2025-03-20 02:11  UTC)<br/>
 *Martale* defense is won (2025-03-20 02:18  UTC)<br/>
@@ -5707,3 +5707,41 @@ Assault Division: Incineration Corps U1A deploys to *Julheim* (2025-03-20 09:49 
 DSS effect Eagle Storm stops (2025-03-20 10:43  UTC)<br/>
  Decay: 0.0 on Julheim, Charon Prime
  (2025-03-20 10:43  UTC)<br/>
+*Meridia* moves to X 0.3276585 Y 0.13633004 (2025-03-20 11:00  UTC)<br/>
+*Duma Tyr* defense is won (2025-03-20 13:12  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-03-20 14:12  UTC)<br/>
+ Decay: 500.0 on Duma Tyr
+ (2025-03-20 14:12  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-03-20 14:29  UTC)<br/>
+*Meridia* moves to X 0.32715678 Y 0.13597474 (2025-03-20 15:00  UTC)<br/>
+*Wezen* defense is failed (2025-03-20 15:00  UTC)<br/>
+↳ *Wezen* liberation campaign starts (2025-03-20 15:00  UTC)<br/>
+ Decay: 0.5 on Bekvam III
+ (2025-03-20 15:00  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating *Bekvam III* would end the current Automaton attacks on *Charon Prime* and *Julheim*. (2025-03-20 16:27  UTC)<br/>
+ Decay: 1.0 on Wezen
+ (2025-03-20 16:27  UTC)<br/>
+*Rogue 5*'s invasion is successful (2025-03-20 18:27  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-20 18:27  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Illuminate (2025-03-20 18:58  UTC)<br/>
+*Meridia* moves to X 0.32666048 Y 0.13562332 (2025-03-20 19:00  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2025-03-20 19:49  UTC)<br/>
+ Decay: 0.0 on Varylia 5
+ (2025-03-20 22:00  UTC)<br/>
+*Meridia* moves to X 0.32617363 Y 0.13527857 (2025-03-20 23:00  UTC)<br/>
+*Meridia* moves to X 0.32569337 Y 0.1349385 (2025-03-21 03:00  UTC)<br/>
+*Keid* of the Akira sector is invaded by Illuminate (2025-03-21 06:29  UTC)<br/>
+*Senge 23*'s invasion is successful (2025-03-21 06:58  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-21 06:58  UTC)<br/>
+*Meridia* moves to X 0.32521912 Y 0.13460268 (2025-03-21 07:00  UTC)<br/>
+
+### Day: #408
+*Julheim* defense is failed (2025-03-21 09:51  UTC)<br/>
+↳ *Julheim* liberation campaign starts (2025-03-21 09:51  UTC)<br/>
+*Charon Prime* defense is failed (2025-03-21 09:52  UTC)<br/>
+↳ *Charon Prime* liberation campaign starts (2025-03-21 09:52  UTC)<br/>
+*Meridia* moves to X 0.3247479 Y 0.134269 (2025-03-21 11:00  UTC)<br/>
+ Decay: 1.5 on Julheim<br/> Decay: 2.0 on Charon Prime
+ (2025-03-21 11:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
+*Meridia* moves to X 0.3242832 Y 0.13393997 (2025-03-21 15:00  UTC)<br/>
