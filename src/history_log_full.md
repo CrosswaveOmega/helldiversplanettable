@@ -5781,3 +5781,33 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 *Meridia* moves to X 0.32142022 Y 0.13191265 (2025-03-22 15:00  UTC)<br/>
 *Regnus* of the Morgon sector is invaded by Illuminate (2025-03-22 17:10  UTC)<br/>
 *Meridia* moves to X 0.32093233 Y 0.1356717 (2025-03-22 19:00  UTC)<br/>
+*Charbal-VII* defense is failed (2025-03-22 20:08  UTC)<br/>
+↳ *Charbal-VII* liberation campaign starts (2025-03-22 20:08  UTC)<br/>
+*Dolph* defense is failed (2025-03-22 20:08  UTC)<br/>
+↳ *Dolph* liberation campaign starts (2025-03-22 20:08  UTC)<br/>
+*Klaka 5*'s invasion is successful (2025-03-22 21:30  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-03-22 21:30  UTC)<br/>
+ Decay: 1.5 on Dolph, Charbal-VII
+ (2025-03-22 21:30  UTC)<br/>
+*Meridia* moves to X 0.32042825 Y 0.13121024 (2025-03-22 23:00  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Automatons (2025-03-22 23:30  UTC)<br/>
+ Decay: 0.0 on Choepessa IV
+ (2025-03-23 00:00  UTC)<br/>
+*Meridia* moves to X 0.31992528 Y 0.13085409 (2025-03-23 03:00  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-03-23 03:05  UTC)<br/>
+*Regnus*'s invasion is successful (2025-03-23 05:10  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-03-23 05:10  UTC)<br/>
+*Meridia* moves to X 0.31941798 Y 0.13049485 (2025-03-23 07:00  UTC)<br/>
+
+# Day: #410
+*X-45* defense is failed (2025-03-23 10:21  UTC)<br/>
+↳ *Meissa* liberation campaign ends (2025-03-23 10:21  UTC)<br/>
+↳ *Wasat* liberation campaign ends (2025-03-23 10:21  UTC)<br/>
+↳ *Vega Bay* liberation campaign ends (2025-03-23 10:21  UTC)<br/>
+↳ Ymir sector is fully under Automaton control (2025-03-23 10:21  UTC)<br/>
+*Meridia* moves to X 0.31891277 Y 0.13013712 (2025-03-23 11:00  UTC)<br/>
+ Decay: 1.5 on X-45
+ (2025-03-23 11:00  UTC)<br/>
+The Second Galactic War is paused (2025-03-23 12:51  UTC)<br/>
+NOTE: This is the fourth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. Later the same day at 01:31pm, the war begins again. The incident lasted 40 minutes (2025-03-23 12:51  UTC)<br/>
+The Second Galactic War is no longer paused (2025-03-23 13:31  UTC)<br/>
