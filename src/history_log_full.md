@@ -5746,3 +5746,38 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
 *Meridia* moves to X 0.3242832 Y 0.13393997 (2025-03-21 15:00  UTC)<br/>
 *Reaf* of the Saleria sector is invaded by Illuminate (2025-03-21 16:19  UTC)<br/>
+*Keid*'s invasion is successful (2025-03-21 18:29  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-03-21 18:29  UTC)<br/>
+*Meridia* moves to X 0.32381833 Y 0.13361077 (2025-03-21 19:00  UTC)<br/>
+*Varylia 5* defense is failed (2025-03-21 19:51  UTC)<br/>
+↳ *Varylia 5* liberation campaign starts (2025-03-21 19:51  UTC)<br/>
+↳ *Wezen* liberation campaign ends (2025-03-21 19:51  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-03-21 20:07  UTC)<br/>
+*Dolph* of the Nanos sector is attacked by Automatons (2025-03-21 20:07  UTC)<br/>
+ Decay: 1.0 on Varylia 5
+ (2025-03-21 20:07  UTC)<br/>
+*Bekvam III* is liberated (2025-03-21 21:28  UTC)<br/>
+ Decay: 0.0 on Dolph, Charbal-VII
+ (2025-03-21 21:28  UTC)<br/>
+Dispatch: All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating JULHEIM would end the current Automaton attacks upon both CHARBAL VII and DOLPH. (2025-03-21 21:48  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
+*Meridia* moves to X 0.32335046 Y 0.13327947 (2025-03-21 23:00  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-03-21 23:47  UTC)<br/>
+ Decay: 1.0 on Julheim
+ (2025-03-21 23:47  UTC)<br/>
+*Meridia* moves to X 0.32287973 Y 0.13294613 (2025-03-22 03:00  UTC)<br/>
+*Reaf*'s invasion is successful (2025-03-22 04:19  UTC)<br/>
+↳ Saleria sector is fully under Human control (2025-03-22 04:19  UTC)<br/>
+*Meridia* moves to X 0.32239392 Y 0.13260214 (2025-03-22 07:00  UTC)<br/>
+
+### Day: #409
+*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-03-22 09:29  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Automatons (2025-03-22 10:19  UTC)<br/>
+*Meridia* moves to X 0.3219108 Y 0.13226004 (2025-03-22 11:00  UTC)<br/>
+ Decay: 0.0 on X-45
+ (2025-03-22 11:00  UTC)<br/>
+*Brink-2*'s invasion is successful (2025-03-22 11:47  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-03-22 11:47  UTC)<br/>
+*Meridia* moves to X 0.32142022 Y 0.13191265 (2025-03-22 15:00  UTC)<br/>
+*Regnus* of the Morgon sector is invaded by Illuminate (2025-03-22 17:10  UTC)<br/>
+*Meridia* moves to X 0.32093233 Y 0.1356717 (2025-03-22 19:00  UTC)<br/>
