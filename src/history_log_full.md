@@ -5536,7 +5536,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-14 09:55  UTC)<br/>
 *Meridia* moves to X 0.34416196 Y 0.14908698 (2025-03-14 11:00  UTC)<br/>
 *Meridia* moves to X 0.34374556 Y 0.1487292 (2025-03-14 15:00  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-03-14 16:06  UTC)<br/>
-Major Order | Operation A2-3-3 Penrose Energy Station Construction is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
+Major Order | Operation A2-3-3 Penrose Energy Station Siphon is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-03-14 16:08  UTC)<br/>
 Assault Division: Predator Strain U2 deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity. High Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation. The device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete. (2025-03-14 16:09  UTC)<br/>
@@ -5638,7 +5638,7 @@ DSS effect Orbital Blockade is activated (2025-03-18 05:45  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-03-18 08:35  UTC)<br/>
 
 ### Day: #405
-Major Order | Operation A2-3-3 Penrose Energy Station Construction is won | Objective: Control (2025-03-18 10:18  UTC)<br/>
+Major Order | Operation A2-3-3 Penrose Energy Siphon Construction is won | Objective: Control (2025-03-18 10:18  UTC)<br/>
  Decay: 1.5 on Bekvam III
  (2025-03-18 10:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 10:21  UTC)<br/>
@@ -5651,7 +5651,7 @@ Automaton Legion debuts a new Assault Division: Incineration Corps (2025-03-18 1
 Assault Division: Incineration Corps U1A deploys to *Bekvam III* (2025-03-18 14:48  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2025-03-18 14:49  UTC)<br/>
 Assault Division: Incineration Corps U1B deploys to *Martale* (2025-03-18 14:49  UTC)<br/>
-Major Order | Operation A2-3-4 Fuel Penrose Energy Station or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
+Major Order | Operation A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Automaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation. High Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 14:51  UTC)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2025-03-18 14:51  UTC)<br/>
 *Meridia* moves to X 0.3333508 Y 0.14036079 (2025-03-18 15:00  UTC)<br/>
@@ -5811,3 +5811,36 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 The Second Galactic War is paused (2025-03-23 12:51  UTC)<br/>
 NOTE: This is the fourth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. Later the same day at 01:31pm, the war begins again. The incident lasted 40 minutes (2025-03-23 12:51  UTC)<br/>
 The Second Galactic War is no longer paused (2025-03-23 13:31  UTC)<br/>
+*Meridia* moves to X 0.31850475 Y 0.1298482 (2025-03-23 15:00  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Illuminates (2025-03-23 15:20  UTC)<br/>
+*Leng Secundus*'s invasion is successful (2025-03-23 15:49  UTC)<br/>
+*Meridia* moves to X 0.31800786 Y 0.12949632 (2025-03-23 19:00  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
+Major Order | Operation A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is failed | Objective: Defend/Eradicate (2025-03-23 21:47  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground. Further, insufficient E-710 was gathered to deploy the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-23 21:47  UTC)<br/>
+*Julheim* is liberated (2025-03-23 21:50  UTC)<br/>
+↳ Assault Division: Incineration Corps U1A is routed (2025-03-23 21:50  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-03-23 22:32  UTC)<br/>
+*Meridia* moves to X 0.31751648 Y 0.12914838 (2025-03-23 23:00  UTC)<br/>
+*Choepessa IV* defense is failed (2025-03-24 00:16  UTC)<br/>
+↳ *Choepessa IV* liberation campaign starts (2025-03-24 00:16  UTC)<br/>
+ Decay: 1.5 on Choepessa IV
+ (2025-03-24 02:00  UTC)<br/>
+*Meridia* moves to X 0.31701455 Y 0.12879297 (2025-03-24 03:00  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
+*Termadon*'s invasion is successful (2025-03-24 03:20  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-03-24 03:20  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2025-03-24 05:24  UTC)<br/>
+*Meridia* moves to X 0.31650025 Y 0.12842879 (2025-03-24 07:00  UTC)<br/>
+
+### Day: #411
+*Hort*'s invasion is successful (2025-03-24 10:33  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-03-24 10:33  UTC)<br/>
+ Decay: 0.0 on Dolph
+ (2025-03-24 10:33  UTC)<br/>
+*Meridia* moves to X 0.31597018 Y 0.12805344 (2025-03-24 11:00  UTC)<br/>
+*Valmox*'s invasion is repelled (2025-03-24 13:00  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-24 13:00  UTC)<br/>
+*Meridia* moves to X 0.31543767 Y 0.12767638 (2025-03-24 15:00  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2025-03-24 15:05  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-03-24 15:20  UTC)<br/>
