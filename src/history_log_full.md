@@ -5844,3 +5844,24 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
 *Meridia* moves to X 0.31543767 Y 0.12767638 (2025-03-24 15:00  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-24 15:05  UTC)<br/>
 *Seasse* of the Omega sector is invaded by Illuminate (2025-03-24 15:20  UTC)<br/>
+*Meridia* moves to X 0.31492382 Y 0.1273125 (2025-03-24 19:00  UTC)<br/>
+Major Order | Operation A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of *Ivis* have begun preparing for the possibility of a full-planet evacuation. There can be no further delays to the deployment of the Penrose Energy Siphon. The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information. (2025-03-24 19:44  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-03-24 21:38  UTC)<br/>
+*Seasse*'s invasion is repelled (2025-03-24 22:28  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-24 22:28  UTC)<br/>
+*Meridia* moves to X 0.3144163 Y 0.12695312 (2025-03-24 23:00  UTC)<br/>
+*Meridia* moves to X 0.31390905 Y 0.12659395 (2025-03-25 03:00  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-25 03:07  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
+*Meridia* moves to X 0.3134084 Y 0.12623943 (2025-03-25 07:00  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-03-25 08:27  UTC)<br/>
+
+### Day: #412
+*Sirius*'s invasion is successful (2025-03-25 09:39  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-03-25 09:39  UTC)<br/>
+*Meridia* moves to X 0.31290954 Y 0.12588619 (2025-03-25 11:00  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Automatons (2025-03-25 12:30  UTC)<br/>
+ Decay: 0.0 on Ustotu
+ (2025-03-25 14:00  UTC)<br/>
+*Meridia* moves to X 0.31241295 Y 0.12553453 (2025-03-25 15:00  UTC)<br/>
