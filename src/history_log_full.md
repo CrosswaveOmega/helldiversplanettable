@@ -5865,3 +5865,29 @@ DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
  Decay: 0.0 on Ustotu
  (2025-03-25 14:00  UTC)<br/>
 *Meridia* moves to X 0.31241295 Y 0.12553453 (2025-03-25 15:00  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Illuminate (2025-03-25 18:18  UTC)<br/>
+*Meridia* moves to X 0.31192213 Y 0.12518701 (2025-03-25 19:00  UTC)<br/>
+*Bore Rock* is liberated (2025-03-25 20:09  UTC)<br/>
+↳ *Esker* liberation campaign starts (2025-03-25 20:09  UTC)<br/>
+*Propus*'s invasion is successful (2025-03-25 20:28  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-03-25 20:28  UTC)<br/>
+*Meridia* moves to X 0.31142431 Y 0.12483448 (2025-03-25 23:00  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-25 23:09  UTC)<br/>
+*Meridia* moves to X 0.3109308 Y 0.124485016 (2025-03-26 03:00  UTC)<br/>
+DSS deploys to *Esker* of the Falstaff sector (2025-03-26 03:10  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-03-26 04:24  UTC)<br/>
+*Emorath*'s invasion is successful (2025-03-26 06:19  UTC)<br/>
+↳ Meridian sector is fully under Human control (2025-03-26 06:19  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
+*Meridia* moves to X 0.31043828 Y 0.12413627 (2025-03-26 07:00  UTC)<br/>
+
+### Day: #413
+*Meridia* moves to X 0.30994403 Y 0.12378628 (2025-03-26 11:00  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-03-26 12:18  UTC)<br/>
+*Ustotu* defense is failed (2025-03-26 12:32  UTC)<br/>
+↳ *Ustotu* liberation campaign starts (2025-03-26 12:32  UTC)<br/>
+↳ *Varylia 5* liberation campaign ends (2025-03-26 12:32  UTC)<br/>
+↳ *Choepessa IV* liberation campaign ends (2025-03-26 12:32  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-26 13:35  UTC)<br/>
+ Decay: 1.0 on Troost, Ustotu, Vandalon IV
+ (2025-03-26 13:35  UTC)<br/>
