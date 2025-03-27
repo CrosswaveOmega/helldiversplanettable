@@ -5845,7 +5845,7 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-24 15:05  UTC)<br/>
 *Seasse* of the Omega sector is invaded by Illuminate (2025-03-24 15:20  UTC)<br/>
 *Meridia* moves to X 0.31492382 Y 0.1273125 (2025-03-24 19:00  UTC)<br/>
-Major Order | Operation A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
+Major Order | Operation A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is issued | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of *Ivis* have begun preparing for the possibility of a full-planet evacuation. There can be no further delays to the deployment of the Penrose Energy Siphon. The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information. (2025-03-24 19:44  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-03-24 21:38  UTC)<br/>
 *Seasse*'s invasion is repelled (2025-03-24 22:28  UTC)<br/>
@@ -5891,3 +5891,41 @@ DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-26 13:35  UTC)<br/>
  Decay: 1.0 on Troost, Ustotu, Vandalon IV
  (2025-03-26 13:35  UTC)<br/>
+ Decay: 0.0 on Vandalon IV
+ (2025-03-26 14:00  UTC)<br/>
+*Kraz*'s invasion is successful (2025-03-26 16:14  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-03-26 16:14  UTC)<br/>
+*Meridia* moves to X 0.30894 Y 0.123075314 (2025-03-26 19:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-03-26 19:06  UTC)<br/>
+*Meridia* moves to X 0.30843556 Y 0.12271813 (2025-03-26 23:00  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-03-26 23:12  UTC)<br/>
+*Leng Secundus*'s invasion is successful (2025-03-27 00:19  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-03-27 00:19  UTC)<br/>
+*Esker* is liberated (2025-03-27 02:17  UTC)<br/>
+↳ *Erson Sands* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
+↳ *Socorro III* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
+↳ *Nivel 43* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
+↳ Major Order | Operation A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (2025-03-27 02:17  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Penrose Energy Siphon has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. The excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation. (2025-03-27 02:43  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Automatons (2025-03-27 02:54  UTC)<br/>
+*Socorro III* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
+*Nivel 43* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
+*Erson Sands* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
+*Meridia* moves to X 0.30794626 Y 0.122371644 (2025-03-27 03:00  UTC)<br/>
+DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-27 03:12  UTC)<br/>
+ Decay: 0.0 on Mort
+ (2025-03-27 04:00  UTC)<br/>
+*Meridia* moves to X 0.30769798 Y 0.12219584 (2025-03-27 07:00  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-03-27 08:20  UTC)<br/>
+
+### Day: #414
+*Meridia* moves to X 0.30744982 Y 0.12202012 (2025-03-27 11:00  UTC)<br/>
+*Vandalon IV* defense is won (2025-03-27 11:12  UTC)<br/>
+*Alairt III*'s invasion is successful (2025-03-27 11:13  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-03-27 11:13  UTC)<br/>
+ Decay: 1.0 on Vandalon IV
+ (2025-03-27 12:00  UTC)<br/>
+Major Order | Operation A2-3-6 Repel 6 Illuminate Invasions is issued | Objective: Defend (2025-03-27 14:26  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path. The Helldivers are ordered to suppress Illuminate invasion events. If successful, this will free *Super Earth* from the Singularity's path of destruction. High Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information. (2025-03-27 14:29  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Illuminate (2025-03-27 14:30  UTC)<br/>
+DSS deploys to *Mort* of the Xzar sector (2025-03-27 15:13  UTC)<br/>
