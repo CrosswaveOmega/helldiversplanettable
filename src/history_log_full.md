@@ -4873,7 +4873,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-02-15 18:58  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-16 00:58  UTC)<br/>
 
 ### Day: #375
-NOTE: Tracker was offline for the 11am coordinate pull (2025-02-16 11:00  UTC)<br/>
+*Meridia* moves to X 0.468060403 Y 0.1756411 (2025-02-16 11:00  UTC)<br/>
 *Oasis*'s invasion is successful (2025-02-16 11:37  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-16 11:37  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-02-16 11:46  UTC)<br/>
@@ -5929,3 +5929,30 @@ Major Order | Operation A2-3-6 Repel 6 Illuminate Invasions is issued | Objectiv
 Dispatch: NEW MAJOR ORDER. The efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path. The Helldivers are ordered to suppress Illuminate invasion events. If successful, this will free *Super Earth* from the Singularity's path of destruction. High Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information. (2025-03-27 14:29  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminate (2025-03-27 14:30  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2025-03-27 15:13  UTC)<br/>
+*Rasp*'s invasion is repelled (2025-03-27 16:30  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-27 16:30  UTC)<br/>
+*Meridia* moves to X 0.30693147 Y 0.121653065 (2025-03-27 19:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-03-27 19:08  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2025-03-27 19:14  UTC)<br/>
+*Mog*'s invasion is repelled (2025-03-27 21:10  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-03-27 21:10  UTC)<br/>
+*Keid* of the Akira sector is invaded by Illuminate (2025-03-27 22:28  UTC)<br/>
+*Meridia* moves to X 0.30667618 Y 0.1214723 (2025-03-27 23:00  UTC)<br/>
+DSS deploys to *Mort* of the Xzar sector (2025-03-27 23:14  UTC)<br/>
+*Meridia* moves to X 0.3064335 Y 0.12130047 (2025-03-28 03:00  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2025-03-28 03:14  UTC)<br/>
+*Keid*'s invasion is repelled (2025-03-28 06:46  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-03-28 06:46  UTC)<br/>
+*Mort* defense is failed (2025-03-28 06:52  UTC)<br/>
+↳ *Mort* liberation campaign starts (2025-03-28 06:52  UTC)<br/>
+*Meridia* moves to X 0.3061973 Y 0.12113319 (2025-03-28 07:00  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Illuminate (2025-03-28 07:51  UTC)<br/>
+ Decay: 1.5 on Mort
+ (2025-03-28 07:51  UTC)<br/>
+
+### Day: #415
+*Meridia* moves to X 0.305974 Y 0.12097508 (2025-03-28 11:00  UTC)<br/>
+DSS deploys to *Dolph* of the Nanos sector (2025-03-28 11:15  UTC)<br/>
+*Meridia* moves to X 0.30575758 Y 0.12082183 (2025-03-28 15:00  UTC)<br/>
+DSS deploys to *Oasis* of the Rictus sector (2025-03-28 15:16  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Automatons (2025-03-28 16:15  UTC)<br/>
