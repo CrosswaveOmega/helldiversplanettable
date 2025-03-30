@@ -5956,3 +5956,45 @@ DSS deploys to *Dolph* of the Nanos sector (2025-03-28 11:15  UTC)<br/>
 *Meridia* moves to X 0.30575758 Y 0.12082183 (2025-03-28 15:00  UTC)<br/>
 DSS deploys to *Oasis* of the Rictus sector (2025-03-28 15:16  UTC)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2025-03-28 16:15  UTC)<br/>
+*Oasis*'s invasion is repelled (2025-03-28 18:09  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-03-28 18:09  UTC)<br/>
+ Decay: 0.0 on Ingmar
+ (2025-03-28 18:09  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-03-28 18:31  UTC)<br/>
+*Meridia* moves to X 0.30554798 Y 0.12067341 (2025-03-28 19:00  UTC)<br/>
+*Meridia* moves to X 0.3053465 Y 0.120530725 (2025-03-28 23:00  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-03-28 23:16  UTC)<br/>
+*Meridia* moves to X 0.30515137 Y 0.12039257 (2025-03-29 03:00  UTC)<br/>
+*Alderidge Cove* of the Guang sector is invaded by Illuminate (2025-03-29 04:27  UTC)<br/>
+*Alamak VII*'s invasion is repelled (2025-03-29 04:34  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-03-29 04:34  UTC)<br/>
+*Meridia* moves to X 0.3049617 Y 0.120258264 (2025-03-29 07:00  UTC)<br/>
+DSS deploys to *Ingmar* of the Xzar sector (2025-03-29 07:17  UTC)<br/>
+
+### Day: #416
+*Meridia* moves to X 0.30477822 Y 0.12012834 (2025-03-29 11:00  UTC)<br/>
+DSS deploys to *Alderidge Cove* of the Guang sector (2025-03-29 11:18  UTC)<br/>
+*Meridia* moves to X 0.30460086 Y 0.120002754 (2025-03-29 15:00  UTC)<br/>
+*Alderidge Cove*'s invasion is repelled (2025-03-29 15:34  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-03-29 15:34  UTC)<br/>
+↳ Major Order | Operation A2-3-6 Repel 6 Illuminate Invasions is won | Objective: Defend (2025-03-29 15:34  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy *Super Earth* has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the Meridian Singularity has been de-energized to the point where *Super Earth* is now safely out of its accurately-predicted path. Our citizens can celebrate a hard-earned victory: *Super Earth* is safe. (2025-03-29 15:42  UTC)<br/>
+*Pilen V* of the Altus sector is now safe from threat of destruction (2025-03-29 15:44  UTC)<br/>
+*Super Earth* of the Sol sector is now safe from threat of destruction (2025-03-29 15:53  UTC)<br/>
+*Pilen V* of the Altus sector is under threat of destruction (2025-03-29 15:55  UTC)<br/>
+*Ingmar* defense is failed (2025-03-29 16:18  UTC)<br/>
+↳ *Ingmar* liberation campaign starts (2025-03-29 16:18  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Illuminate (2025-03-29 16:29  UTC)<br/>
+ Decay: 1.5 on Ingmar
+ (2025-03-29 18:00  UTC)<br/>
+*Meridia* moves to X 0.30443493 Y 0.11988525 (2025-03-29 19:00  UTC)<br/>
+DSS deploys to *Ingmar* of the Xzar sector (2025-03-29 19:19  UTC)<br/>
+*Meridia* moves to X 0.30427653 Y 0.11977308 (2025-03-29 23:00  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-30 00:31  UTC)<br/>
+*Meridia* moves to X 0.3041188 Y 0.11966141 (2025-03-30 03:00  UTC)<br/>
+*Seasse*'s invasion is successful (2025-03-30 04:30  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-03-30 04:30  UTC)<br/>
+*Meridia* moves to X 0.3039467 Y 0.119539544 (2025-03-30 07:00  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Illuminate (2025-03-30 08:52  UTC)<br/>
+
+### Day: #417
