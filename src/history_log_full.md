@@ -5998,3 +5998,21 @@ DSS deploys to *Ingmar* of the Xzar sector (2025-03-29 19:19  UTC)<br/>
 *Myrium* of the Morgon sector is invaded by Illuminate (2025-03-30 08:52  UTC)<br/>
 
 ### Day: #417
+*Meridia* moves to X 0.30377486 Y 0.11941785 (2025-03-30 11:00  UTC)<br/>
+*Troost* of the Trigon sector is attacked by Automatons (2025-03-30 11:01  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Automatons (2025-03-30 11:11  UTC)<br/>
+Assault Division: Incineration Corps U2A deploys to *Pöpli IX* (2025-03-30 11:11  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-30 11:22  UTC)<br/>
+Assault Division: Incineration Corps U2B deploys to *Vandalon IV* (2025-03-30 11:22  UTC)<br/>
+ Decay: 0.0 on Pöpli IX, Troost
+ (2025-03-30 11:22  UTC)<br/>
+Major Order | Operation A2-3-7 Hold *Malevelon Creek* 2025 is issued | Objective: Control (2025-03-30 11:39  UTC)<br/>
+ Decay: 0.0 on Vandalon IV
+ (2025-03-30 11:39  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Automatons, led by the Incineration Corps, have launched a grotesque surprise attack evidently targeting *Malevelon Creek*. All Helldivers are urgently called to defend and hold *Malevelon Creek*, and unleash *Super Earth*'s righteous Justice with the fullest permitted fury. Consult your Galactic Map for more details. (2025-03-30 11:40  UTC)<br/>
+*Bashyr*'s invasion is successful (2025-03-30 12:32  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-03-30 12:32  UTC)<br/>
+*Meridia* moves to X 0.30358973 Y 0.11928677 (2025-03-30 15:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-03-30 18:04  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Illuminate (2025-03-30 18:37  UTC)<br/>
+*Meridia* moves to X 0.30340844 Y 0.11915839 (2025-03-30 19:00  UTC)<br/>
