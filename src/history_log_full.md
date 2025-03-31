@@ -4918,7 +4918,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
-↳ Assault Division: Predator Strain U1 is routed (2025-02-18 11:47  UTC)<br/>
+Assault Division: Predator Strain U1 is routed (2025-02-18 11:47  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-18 12:11  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-18 12:11  UTC)<br/>
 Major Order | Operation A2-2-3 Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
@@ -5691,7 +5691,7 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Meridia* moves to X 0.32917884 Y 0.13740657 (2025-03-19 23:00  UTC)<br/>
 DSS deploys to *Duma Tyr* of the Nanos sector (2025-03-20 02:11  UTC)<br/>
 *Martale* defense is won (2025-03-20 02:18  UTC)<br/>
-↳ Assault Division: Incineration Corps U1B is routed (2025-03-20 02:18  UTC)<br/>
+Assault Division: Incineration Corps U1B is routed (2025-03-20 02:18  UTC)<br/>
 *Meridia* moves to X 0.32866967 Y 0.13704604 (2025-03-20 03:00  UTC)<br/>
  Decay: 1.5 on Martale
  (2025-03-20 03:00  UTC)<br/>
@@ -5819,7 +5819,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
 Major Order | Operation A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is failed | Objective: Defend/Eradicate (2025-03-23 21:47  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground. Further, insufficient E-710 was gathered to deploy the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-23 21:47  UTC)<br/>
 *Julheim* is liberated (2025-03-23 21:50  UTC)<br/>
-↳ Assault Division: Incineration Corps U1A is routed (2025-03-23 21:50  UTC)<br/>
+Assault Division: Incineration Corps U1A is routed (2025-03-23 21:50  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-03-23 22:32  UTC)<br/>
 *Meridia* moves to X 0.31751648 Y 0.12914838 (2025-03-23 23:00  UTC)<br/>
 *Choepessa IV* defense is failed (2025-03-24 00:16  UTC)<br/>
@@ -6016,3 +6016,66 @@ Dispatch: NEW MAJOR ORDER. The Automatons, led by the Incineration Corps, have l
 DSS effect Heavy Ordnance Distribution is activated (2025-03-30 18:04  UTC)<br/>
 *Hadar* of the Ferris sector is invaded by Illuminate (2025-03-30 18:37  UTC)<br/>
 *Meridia* moves to X 0.30340844 Y 0.11915839 (2025-03-30 19:00  UTC)<br/>
+*Myrium*'s invasion is successful (2025-03-30 20:53  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-03-30 20:53  UTC)<br/>
+*Meridia* moves to X 0.30322072 Y 0.119025454 (2025-03-30 23:00  UTC)<br/>
+*Ingmar* is liberated (2025-03-31 00:37  UTC)<br/>
+↳ *Vandalon IV* defense is auto-won via gambit (2025-03-31 00:37  UTC)<br/>
+Assault Division: Incineration Corps U2B is routed (2025-03-31 00:37  UTC)<br/>
+DSS deploys to *Pöpli IX* of the Xzar sector (2025-03-31 00:38  UTC)<br/>
+ Decay: 500.0 on Ingmar<br/> Decay: 1.0 on Vandalon IV
+ (2025-03-31 02:00  UTC)<br/>
+*Meridia* moves to X 0.3030361 Y 0.118894726 (2025-03-31 03:00  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-03-31 05:19  UTC)<br/>
+*Hadar*'s invasion is successful (2025-03-31 06:38  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-03-31 06:38  UTC)<br/>
+*Meridia* moves to X 0.30285543 Y 0.1187668 (2025-03-31 07:00  UTC)<br/>
+
+### Day: #418
+*Pöpli IX* defense is won (2025-03-31 09:03  UTC)<br/>
+Assault Division: Incineration Corps U2A is routed (2025-03-31 09:03  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-03-31 09:04  UTC)<br/>
+*Caph* of the Theseus sector is attacked by Automatons (2025-03-31 09:43  UTC)<br/>
+ Decay: 500.0 on Pöpli IX
+ (2025-03-31 09:43  UTC)<br/>
+*Julheim* of the Nanos sector is attacked by Automatons (2025-03-31 09:51  UTC)<br/>
+ Decay: 0.0 on Caph
+ (2025-03-31 09:51  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Aurora Bay* (2025-03-31 10:01  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Merak* (2025-03-31 10:01  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Aurora Bay* (2025-03-31 10:59  UTC)<br/>
+ Decay: 0.0 on Julheim
+ (2025-03-31 10:59  UTC)<br/>
+*Meridia* moves to X 0.3026739 Y 0.118638255 (2025-03-31 11:00  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Merak* (2025-03-31 11:00  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Choohe* (2025-03-31 11:01  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Penta* (2025-03-31 11:01  UTC)<br/>
+*Troost* defense is failed (2025-03-31 11:04  UTC)<br/>
+↳ *Troost* liberation campaign starts (2025-03-31 11:04  UTC)<br/>
+DSS deploys to *Dolph* of the Nanos sector (2025-03-31 11:24  UTC)<br/>
+ Decay: 1.0 on Troost
+ (2025-03-31 11:24  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Choohe* (2025-03-31 12:00  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Penta* (2025-03-31 12:01  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Matar Bay* (2025-03-31 12:02  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Chort Bay* (2025-03-31 12:02  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Matar Bay* (2025-03-31 12:59  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Meissa* (2025-03-31 13:00  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Chort Bay* (2025-03-31 13:00  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Choohe* (2025-03-31 13:00  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Meissa* (2025-03-31 13:58  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Choohe* (2025-03-31 13:59  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *X-45* (2025-03-31 14:00  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Matar Bay* (2025-03-31 14:00  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *X-45* (2025-03-31 14:59  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Matar Bay* (2025-03-31 14:59  UTC)<br/>
+*Meridia* moves to X 0.3024986 Y 0.11851413 (2025-03-31 15:00  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Vega Bay* (2025-03-31 15:00  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Marfark* (2025-03-31 15:01  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Vega Bay* (2025-03-31 15:58  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Wezen* (2025-03-31 16:00  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-03-31 16:01  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Marfark* (2025-03-31 16:01  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Bekvam III* (2025-03-31 16:02  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Automatons (2025-03-31 16:03  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Martale* (2025-03-31 16:03  UTC)<br/>

@@ -7551,6 +7551,18 @@
       {
          "pl": 400,
          "eind": 4603
+      },
+      {
+         "pl": 300,
+         "eind": 4607
+      },
+      {
+         "pl": 100,
+         "eind": 4612
+      },
+      {
+         "pl": 200,
+         "eind": 4629
       }
    ],
    "1": [
@@ -8332,6 +8344,43 @@
       {
          "pl": 200,
          "eind": 4605
+      },
+      {
+         "pl": 1900,
+         "eind": 4606
+      },
+      {
+         "pl": 4700,
+         "eind": 4607
+      },
+      {
+         "pl": 4600,
+         "eind": 4608
+      },
+      {
+         "pl": 5500,
+         "eind": 4610
+      },
+      {
+         "pl": 5300,
+         "eind": 4611
+      },
+      {
+         "pl": 3600,
+         "eind": 4612
+      },
+      {
+         "pl": 2000,
+         "t": 16,
+         "eind": 4613
+      },
+      {
+         "pl": 1800,
+         "eind": 4614
+      },
+      {
+         "pl": "<10",
+         "eind": 4615
       }
    ],
    "178": [
@@ -48995,6 +49044,41 @@
             "y": 0.11915839
          },
          "eind": 4605
+      },
+      {
+         "position": {
+            "x": 0.30322072,
+            "y": 0.119025454
+         },
+         "eind": 4607
+      },
+      {
+         "position": {
+            "x": 0.3030361,
+            "y": 0.118894726
+         },
+         "eind": 4611
+      },
+      {
+         "position": {
+            "x": 0.30285543,
+            "y": 0.1187668
+         },
+         "eind": 4614
+      },
+      {
+         "position": {
+            "x": 0.3026739,
+            "y": 0.118638255
+         },
+         "eind": 4622
+      },
+      {
+         "position": {
+            "x": 0.3024986,
+            "y": 0.11851413
+         },
+         "eind": 4635
       }
    ],
    "125": [
@@ -62533,6 +62617,10 @@
       {
          "pl": 100,
          "eind": 4603
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
       }
    ],
    "122": [
@@ -69483,6 +69571,10 @@
       {
          "pl": 100,
          "eind": 4604
+      },
+      {
+         "pl": "<10",
+         "eind": 4606
       }
    ],
    "78": [
@@ -83249,6 +83341,38 @@
       {
          "r": 1388.8889,
          "eind": 4195
+      },
+      {
+         "t": 23,
+         "eind": 4618
+      },
+      {
+         "r": 0.0,
+         "eind": 4619
+      },
+      {
+         "pl": 1300,
+         "eind": 4621
+      },
+      {
+         "pl": 1600,
+         "eind": 4625
+      },
+      {
+         "pl": 1900,
+         "eind": 4626
+      },
+      {
+         "pl": 2200,
+         "eind": 4629
+      },
+      {
+         "pl": 2600,
+         "eind": 4631
+      },
+      {
+         "pl": 2900,
+         "eind": 4634
       }
    ],
    "151": [
@@ -83721,6 +83845,96 @@
       {
          "pl": 9700,
          "eind": 4605
+      },
+      {
+         "pl": 10000,
+         "eind": 4606
+      },
+      {
+         "pl": 7500,
+         "eind": 4607
+      },
+      {
+         "pl": 8300,
+         "eind": 4608
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4609
+      },
+      {
+         "pl": 40900,
+         "eind": 4610
+      },
+      {
+         "pl": 43200,
+         "eind": 4611
+      },
+      {
+         "pl": 26700,
+         "eind": 4612
+      },
+      {
+         "pl": 19500,
+         "eind": 4613
+      },
+      {
+         "pl": 18700,
+         "eind": 4614
+      },
+      {
+         "pl": 15300,
+         "eind": 4615
+      },
+      {
+         "t": 16,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4616
+      },
+      {
+         "dss": "",
+         "eind": 4617
+      },
+      {
+         "pl": 6900,
+         "r": 1388.8889,
+         "eind": 4618
+      },
+      {
+         "pl": 3900,
+         "eind": 4619
+      },
+      {
+         "pl": 500,
+         "eind": 4621
+      },
+      {
+         "pl": 400,
+         "eind": 4625
+      },
+      {
+         "pl": 300,
+         "eind": 4626
+      },
+      {
+         "pl": 400,
+         "eind": 4637
       }
    ],
    "153": [
@@ -85440,6 +85654,58 @@
       {
          "pl": 700,
          "eind": 4604
+      },
+      {
+         "pl": 600,
+         "eind": 4606
+      },
+      {
+         "pl": 500,
+         "eind": 4607
+      },
+      {
+         "pl": 600,
+         "eind": 4608
+      },
+      {
+         "pl": 1900,
+         "eind": 4610
+      },
+      {
+         "pl": 1100,
+         "eind": 4612
+      },
+      {
+         "pl": 600,
+         "eind": 4613
+      },
+      {
+         "pl": 500,
+         "eind": 4614
+      },
+      {
+         "pl": 300,
+         "eind": 4615
+      },
+      {
+         "pl": 600,
+         "eind": 4618
+      },
+      {
+         "pl": 700,
+         "eind": 4619
+      },
+      {
+         "pl": 300,
+         "eind": 4621
+      },
+      {
+         "pl": 200,
+         "eind": 4625
+      },
+      {
+         "pl": 300,
+         "eind": 4634
       }
    ],
    "155": [
@@ -85904,6 +86170,56 @@
          "hp": 245613,
          "pl": 36500,
          "eind": 4605
+      },
+      {
+         "hp": 160608,
+         "pl": 39000,
+         "eind": 4606
+      },
+      {
+         "hp": 78898,
+         "pl": 31600,
+         "eind": 4607
+      },
+      {
+         "hp": 5258,
+         "pl": 30800,
+         "t": 16,
+         "eind": 4608
+      },
+      {
+         "dss": "",
+         "eind": 4609
+      },
+      {
+         "hp": 1000000,
+         "pl": 4400,
+         "r": 1388.8889,
+         "eind": 4610
+      },
+      {
+         "pl": 1200,
+         "eind": 4611
+      },
+      {
+         "pl": 400,
+         "eind": 4612
+      },
+      {
+         "pl": 300,
+         "eind": 4613
+      },
+      {
+         "pl": 400,
+         "eind": 4626
+      },
+      {
+         "pl": 500,
+         "eind": 4629
+      },
+      {
+         "pl": 600,
+         "eind": 4637
       }
    ],
    "197": [
@@ -98731,6 +99047,18 @@
       {
          "pl": 100,
          "eind": 4603
+      },
+      {
+         "pl": "<10",
+         "eind": 4606
+      },
+      {
+         "pl": 100,
+         "eind": 4610
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
       }
    ],
    "203": [
@@ -104399,6 +104727,30 @@
       {
          "pl": 100,
          "eind": 4591
+      },
+      {
+         "pl": "<10",
+         "eind": 4606
+      },
+      {
+         "pl": 100,
+         "eind": 4608
+      },
+      {
+         "pl": "<10",
+         "eind": 4610
+      },
+      {
+         "pl": 100,
+         "eind": 4611
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
+      },
+      {
+         "pl": 100,
+         "eind": 4634
       }
    ],
    "114": [
@@ -105073,6 +105425,21 @@
       {
          "r": 6.9444,
          "eind": 4195
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4620
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4621
       }
    ],
    "202": [
@@ -105450,6 +105817,21 @@
       {
          "r": 4.1667,
          "eind": 4195
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4620
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4622
       }
    ],
    "205": [
@@ -108840,6 +109222,37 @@
       {
          "pl": "<10",
          "eind": 4591
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4623
+      },
+      {
+         "pl": 100,
+         "eind": 4625
+      },
+      {
+         "pl": 400,
+         "eind": 4626
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4627
+      },
+      {
+         "pl": 200,
+         "eind": 4629
+      },
+      {
+         "pl": "<10",
+         "eind": 4631
       }
    ],
    "159": [
@@ -113303,6 +113716,54 @@
       {
          "r": 6.9444,
          "eind": 4195
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4623
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4626
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4630
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4632
       }
    ],
    "160": [
@@ -116459,6 +116920,38 @@
       {
          "pl": "<10",
          "eind": 4593
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4628
+      },
+      {
+         "pl": 100,
+         "eind": 4629
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4630
+      },
+      {
+         "pl": "<10",
+         "eind": 4634
       }
    ],
    "194": [
@@ -134466,6 +134959,42 @@
       {
          "pl": 800,
          "eind": 4604
+      },
+      {
+         "pl": 500,
+         "eind": 4607
+      },
+      {
+         "pl": 600,
+         "eind": 4608
+      },
+      {
+         "pl": 700,
+         "eind": 4610
+      },
+      {
+         "pl": 400,
+         "eind": 4612
+      },
+      {
+         "pl": 200,
+         "eind": 4613
+      },
+      {
+         "pl": 300,
+         "eind": 4626
+      },
+      {
+         "pl": 400,
+         "eind": 4631
+      },
+      {
+         "pl": 500,
+         "eind": 4634
+      },
+      {
+         "pl": 400,
+         "eind": 4637
       }
    ],
    "172": [
@@ -139213,6 +139742,50 @@
       {
          "pl": 400,
          "eind": 4602
+      },
+      {
+         "pl": 600,
+         "eind": 4606
+      },
+      {
+         "pl": 300,
+         "eind": 4607
+      },
+      {
+         "pl": 400,
+         "eind": 4608
+      },
+      {
+         "pl": 500,
+         "eind": 4610
+      },
+      {
+         "pl": 400,
+         "eind": 4611
+      },
+      {
+         "pl": 200,
+         "eind": 4612
+      },
+      {
+         "pl": 100,
+         "eind": 4615
+      },
+      {
+         "pl": 200,
+         "eind": 4619
+      },
+      {
+         "pl": 100,
+         "eind": 4625
+      },
+      {
+         "pl": 200,
+         "eind": 4629
+      },
+      {
+         "pl": 300,
+         "eind": 4631
       }
    ],
    "173": [
@@ -151021,6 +151594,62 @@
       {
          "pl": 1200,
          "eind": 4604
+      },
+      {
+         "pl": 1300,
+         "eind": 4606
+      },
+      {
+         "pl": 1000,
+         "eind": 4607
+      },
+      {
+         "pl": 900,
+         "eind": 4608
+      },
+      {
+         "pl": 1000,
+         "eind": 4610
+      },
+      {
+         "pl": 900,
+         "eind": 4611
+      },
+      {
+         "pl": 700,
+         "eind": 4612
+      },
+      {
+         "pl": 500,
+         "eind": 4613
+      },
+      {
+         "pl": 400,
+         "eind": 4614
+      },
+      {
+         "pl": 300,
+         "eind": 4615
+      },
+      {
+         "pl": 400,
+         "eind": 4618
+      },
+      {
+         "pl": 500,
+         "eind": 4621
+      },
+      {
+         "pl": 600,
+         "eind": 4625
+      },
+      {
+         "pl": 800,
+         "eind": 4629
+      },
+      {
+         "pl": 1000,
+         "eind": 4631
       }
    ],
    "217": [
@@ -163919,6 +164548,34 @@
       {
          "pl": 200,
          "eind": 4603
+      },
+      {
+         "pl": 100,
+         "eind": 4608
+      },
+      {
+         "pl": 200,
+         "eind": 4610
+      },
+      {
+         "pl": 100,
+         "eind": 4612
+      },
+      {
+         "pl": "<10",
+         "eind": 4615
+      },
+      {
+         "pl": 100,
+         "eind": 4618
+      },
+      {
+         "pl": "<10",
+         "eind": 4625
+      },
+      {
+         "pl": 100,
+         "eind": 4631
       }
    ],
    "198": [
@@ -168744,6 +169401,49 @@
       {
          "pl": 200,
          "eind": 4602
+      },
+      {
+         "pl": 100,
+         "eind": 4607
+      },
+      {
+         "pl": 300,
+         "eind": 4610
+      },
+      {
+         "pl": 200,
+         "eind": 4612
+      },
+      {
+         "pl": 100,
+         "eind": 4613
+      },
+      {
+         "pl": "<10",
+         "eind": 4621
+      },
+      {
+         "pl": 100,
+         "eind": 4629
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4636
+      },
+      {
+         "pl": 700,
+         "eind": 4637
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4639
       }
    ],
    "199": [
@@ -175000,6 +175700,21 @@
       {
          "pl": "<10",
          "eind": 4456
+      },
+      {
+         "t": 23,
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4641
       }
    ],
    "200": [
@@ -179988,6 +180703,80 @@
       {
          "pl": 300,
          "eind": 4605
+      },
+      {
+         "pl": 200,
+         "eind": 4608
+      },
+      {
+         "pl": 300,
+         "eind": 4610
+      },
+      {
+         "pl": 200,
+         "eind": 4612
+      },
+      {
+         "pl": 100,
+         "eind": 4613
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4628
+      },
+      {
+         "pl": 600,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4629
+      },
+      {
+         "pl": 400,
+         "eind": 4631
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4633
+      },
+      {
+         "pl": 800,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4634
+      },
+      {
+         "pl": 500,
+         "eind": 4637
       }
    ],
    "158": [
@@ -183772,6 +184561,95 @@
       {
          "pl": 2500,
          "eind": 4604
+      },
+      {
+         "pl": 2000,
+         "eind": 4607
+      },
+      {
+         "pl": 2200,
+         "eind": 4608
+      },
+      {
+         "pl": 4800,
+         "eind": 4610
+      },
+      {
+         "pl": 4300,
+         "eind": 4611
+      },
+      {
+         "pl": 2700,
+         "eind": 4612
+      },
+      {
+         "pl": 1600,
+         "eind": 4613
+      },
+      {
+         "pl": 1500,
+         "eind": 4614
+      },
+      {
+         "pl": 1000,
+         "eind": 4615
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4617
+      },
+      {
+         "pl": 6600,
+         "eind": 4618
+      },
+      {
+         "pl": 8600,
+         "eind": 4619
+      },
+      {
+         "pl": 8200,
+         "eind": 4621
+      },
+      {
+         "t": 49,
+         "eind": 4624
+      },
+      {
+         "hp": 501907,
+         "pl": 7200,
+         "r": 2.7778,
+         "dss": "",
+         "eind": 4625
+      },
+      {
+         "hp": 506557,
+         "pl": 4600,
+         "eind": 4626
+      },
+      {
+         "hp": 512750,
+         "pl": 1300,
+         "eind": 4629
+      },
+      {
+         "hp": 521207,
+         "pl": 800,
+         "eind": 4631
+      },
+      {
+         "hp": 530255,
+         "pl": 600,
+         "eind": 4634
+      },
+      {
+         "hp": 539508,
+         "eind": 4637
       }
    ],
    "242": [
@@ -185966,6 +186844,50 @@
       {
          "pl": 500,
          "eind": 4603
+      },
+      {
+         "pl": 600,
+         "eind": 4606
+      },
+      {
+         "pl": 400,
+         "eind": 4607
+      },
+      {
+         "pl": 700,
+         "eind": 4610
+      },
+      {
+         "pl": 600,
+         "eind": 4611
+      },
+      {
+         "pl": 400,
+         "eind": 4612
+      },
+      {
+         "pl": 200,
+         "eind": 4613
+      },
+      {
+         "pl": 100,
+         "eind": 4615
+      },
+      {
+         "pl": 300,
+         "eind": 4618
+      },
+      {
+         "pl": 200,
+         "eind": 4621
+      },
+      {
+         "pl": 100,
+         "eind": 4629
+      },
+      {
+         "pl": 200,
+         "eind": 4631
       }
    ],
    "243": [
@@ -188799,6 +189721,43 @@
       {
          "pl": 17900,
          "eind": 4605
+      },
+      {
+         "pl": 17700,
+         "eind": 4606
+      },
+      {
+         "pl": 13500,
+         "eind": 4607
+      },
+      {
+         "pl": 13900,
+         "t": 16,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4608
+      },
+      {
+         "pl": 2500,
+         "r": 2.7778,
+         "eind": 4610
+      },
+      {
+         "pl": 400,
+         "eind": 4611
+      },
+      {
+         "pl": 100,
+         "eind": 4612
+      },
+      {
+         "pl": 200,
+         "eind": 4629
       }
    ],
    "244": [
@@ -195080,6 +196039,30 @@
       {
          "t": 48,
          "eind": 4446
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4630
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4631
       }
    ],
    "245": [
@@ -198164,6 +199147,21 @@
          "pl": "<10",
          "t": 48,
          "eind": 4446
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4635
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4637
       }
    ],
    "247": [
@@ -199348,6 +200346,16 @@
       {
          "hp": 1000000,
          "eind": 4436
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4638
       }
    ],
    "249": [
@@ -199871,6 +200879,21 @@
       {
          "hp": 1000000,
          "eind": 4477
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4633
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4634
       }
    ],
    "117": [
@@ -220921,6 +221944,58 @@
       {
          "pl": 1200,
          "eind": 4603
+      },
+      {
+         "pl": 900,
+         "eind": 4607
+      },
+      {
+         "pl": 800,
+         "eind": 4608
+      },
+      {
+         "pl": 900,
+         "eind": 4610
+      },
+      {
+         "pl": 600,
+         "eind": 4612
+      },
+      {
+         "pl": 400,
+         "eind": 4613
+      },
+      {
+         "pl": 300,
+         "eind": 4615
+      },
+      {
+         "pl": 400,
+         "eind": 4618
+      },
+      {
+         "pl": 500,
+         "eind": 4621
+      },
+      {
+         "pl": 600,
+         "eind": 4625
+      },
+      {
+         "pl": 700,
+         "eind": 4629
+      },
+      {
+         "pl": 1000,
+         "eind": 4631
+      },
+      {
+         "pl": 1200,
+         "eind": 4634
+      },
+      {
+         "pl": 1100,
+         "eind": 4637
       }
    ],
    "218": [
@@ -223664,6 +224739,54 @@
       {
          "pl": 600,
          "eind": 4604
+      },
+      {
+         "pl": 700,
+         "eind": 4606
+      },
+      {
+         "pl": 500,
+         "eind": 4607
+      },
+      {
+         "pl": 600,
+         "eind": 4608
+      },
+      {
+         "pl": 700,
+         "eind": 4610
+      },
+      {
+         "pl": 600,
+         "eind": 4611
+      },
+      {
+         "pl": 400,
+         "eind": 4612
+      },
+      {
+         "pl": 200,
+         "eind": 4613
+      },
+      {
+         "pl": 100,
+         "eind": 4615
+      },
+      {
+         "pl": 200,
+         "eind": 4619
+      },
+      {
+         "pl": 300,
+         "eind": 4626
+      },
+      {
+         "pl": 400,
+         "eind": 4629
+      },
+      {
+         "pl": 500,
+         "eind": 4631
       }
    ],
    "219": [
@@ -226680,6 +227803,14 @@
       {
          "pl": "<10",
          "eind": 4592
+      },
+      {
+         "pl": 100,
+         "eind": 4606
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
       }
    ],
    "184": [
@@ -227380,6 +228511,18 @@
       {
          "pl": 300,
          "eind": 4603
+      },
+      {
+         "pl": 200,
+         "eind": 4606
+      },
+      {
+         "pl": 100,
+         "eind": 4607
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
       }
    ],
    "228": [
@@ -229167,6 +230310,14 @@
       {
          "pl": 200,
          "eind": 4603
+      },
+      {
+         "pl": 100,
+         "eind": 4606
+      },
+      {
+         "pl": "<10",
+         "eind": 4613
       }
    ],
    "134": [
@@ -230403,6 +231554,10 @@
       {
          "pl": 100,
          "eind": 4603
+      },
+      {
+         "pl": "<10",
+         "eind": 4606
       }
    ],
    "144": [
@@ -231099,6 +232254,14 @@
       {
          "r": 1388.8889,
          "eind": 4195
+      },
+      {
+         "pl": 200,
+         "eind": 4634
+      },
+      {
+         "pl": 1200,
+         "eind": 4637
       }
    ],
    "188": [
@@ -233170,6 +234333,19 @@
       {
          "pl": 5100,
          "eind": 4604
+      },
+      {
+         "pl": 4600,
+         "t": 16,
+         "eind": 4606
+      },
+      {
+         "pl": 100,
+         "eind": 4607
+      },
+      {
+         "pl": "<10",
+         "eind": 4608
       }
    ],
    "88": [
@@ -236280,6 +237456,10 @@
       {
          "pl": 100,
          "eind": 4604
+      },
+      {
+         "pl": "<10",
+         "eind": 4606
       }
    ],
    "206": [
@@ -238746,6 +239926,39 @@
       {
          "pl": "<10",
          "eind": 4569
+      },
+      {
+         "t": 23,
+         "eind": 4619
+      },
+      {
+         "pl": 1300,
+         "r": 0.0,
+         "eind": 4621
+      },
+      {
+         "pl": 2000,
+         "eind": 4625
+      },
+      {
+         "pl": 3100,
+         "eind": 4626
+      },
+      {
+         "pl": 4200,
+         "eind": 4629
+      },
+      {
+         "pl": 5000,
+         "eind": 4631
+      },
+      {
+         "pl": 5600,
+         "eind": 4634
+      },
+      {
+         "pl": 5800,
+         "eind": 4637
       }
    ],
    "109": [
@@ -239532,6 +240745,96 @@
       {
          "hp": 276065,
          "eind": 4605
+      },
+      {
+         "hp": 274216,
+         "pl": 1700,
+         "eind": 4606
+      },
+      {
+         "hp": 272760,
+         "pl": 1400,
+         "eind": 4607
+      },
+      {
+         "hp": 271469,
+         "pl": 1300,
+         "eind": 4608
+      },
+      {
+         "hp": 269699,
+         "pl": 2800,
+         "eind": 4610
+      },
+      {
+         "hp": 267049,
+         "pl": 2500,
+         "eind": 4611
+      },
+      {
+         "hp": 262621,
+         "pl": 1400,
+         "eind": 4612
+      },
+      {
+         "hp": 260635,
+         "pl": 1000,
+         "eind": 4613
+      },
+      {
+         "hp": 260288,
+         "eind": 4614
+      },
+      {
+         "hp": 257295,
+         "pl": 700,
+         "eind": 4615
+      },
+      {
+         "hp": 255726,
+         "pl": 1500,
+         "eind": 4618
+      },
+      {
+         "hp": 254833,
+         "pl": 1700,
+         "eind": 4619
+      },
+      {
+         "hp": 248596,
+         "pl": 3400,
+         "eind": 4621
+      },
+      {
+         "hp": 244293,
+         "pl": 3900,
+         "dss": "DSS Here",
+         "eind": 4625
+      },
+      {
+         "hp": 232875,
+         "pl": 6100,
+         "eind": 4626
+      },
+      {
+         "hp": 196275,
+         "pl": 12400,
+         "eind": 4629
+      },
+      {
+         "hp": 145050,
+         "pl": 16000,
+         "eind": 4631
+      },
+      {
+         "hp": 93726,
+         "pl": 17700,
+         "eind": 4634
+      },
+      {
+         "hp": 43954,
+         "pl": 18200,
+         "eind": 4637
       }
    ],
    "110": [
@@ -240225,6 +241528,24 @@
       {
          "pl": "<10",
          "eind": 4477
+      },
+      {
+         "t": 23,
+         "eind": 4639
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4640
       }
    ],
    "111": [
@@ -243395,6 +244716,58 @@
       {
          "pl": 1100,
          "eind": 4604
+      },
+      {
+         "pl": 900,
+         "eind": 4607
+      },
+      {
+         "pl": 1000,
+         "eind": 4610
+      },
+      {
+         "pl": 900,
+         "eind": 4611
+      },
+      {
+         "pl": 600,
+         "eind": 4612
+      },
+      {
+         "pl": 400,
+         "eind": 4613
+      },
+      {
+         "pl": 300,
+         "eind": 4615
+      },
+      {
+         "pl": 400,
+         "eind": 4618
+      },
+      {
+         "pl": 500,
+         "eind": 4621
+      },
+      {
+         "pl": 600,
+         "eind": 4626
+      },
+      {
+         "pl": 800,
+         "eind": 4629
+      },
+      {
+         "pl": 900,
+         "eind": 4631
+      },
+      {
+         "pl": 1000,
+         "eind": 4634
+      },
+      {
+         "pl": 900,
+         "eind": 4637
       }
    ],
    "130": [
@@ -245625,6 +246998,89 @@
          "hp": 925976,
          "pl": 9100,
          "eind": 4605
+      },
+      {
+         "hp": 947075,
+         "pl": 8600,
+         "eind": 4606
+      },
+      {
+         "hp": 969667,
+         "pl": 6300,
+         "eind": 4607
+      },
+      {
+         "hp": 989767,
+         "pl": 6100,
+         "eind": 4608
+      },
+      {
+         "hp": 1000000,
+         "pl": 7000,
+         "eind": 4610
+      },
+      {
+         "pl": 6900,
+         "eind": 4611
+      },
+      {
+         "pl": 5100,
+         "eind": 4612
+      },
+      {
+         "pl": 3900,
+         "eind": 4613
+      },
+      {
+         "pl": 3700,
+         "eind": 4614
+      },
+      {
+         "pl": 3500,
+         "eind": 4615
+      },
+      {
+         "pl": 4000,
+         "eind": 4618
+      },
+      {
+         "hp": 999951,
+         "pl": 4500,
+         "eind": 4619
+      },
+      {
+         "hp": 999991,
+         "pl": 5500,
+         "eind": 4621
+      },
+      {
+         "hp": 1000000,
+         "pl": 6200,
+         "eind": 4625
+      },
+      {
+         "hp": 999925,
+         "pl": 7300,
+         "eind": 4626
+      },
+      {
+         "hp": 999379,
+         "pl": 9100,
+         "eind": 4629
+      },
+      {
+         "hp": 999952,
+         "pl": 10700,
+         "eind": 4631
+      },
+      {
+         "hp": 1000000,
+         "pl": 11100,
+         "eind": 4634
+      },
+      {
+         "pl": 9500,
+         "eind": 4637
       }
    ],
    "84": [
@@ -246926,6 +248382,14 @@
       {
          "pl": 200,
          "eind": 4603
+      },
+      {
+         "pl": 100,
+         "eind": 4607
+      },
+      {
+         "pl": "<10",
+         "eind": 4612
       }
    ],
    "182": [
@@ -247960,6 +249424,58 @@
       {
          "r": 1388.8889,
          "eind": 4195
+      },
+      {
+         "t": 25,
+         "eind": 4612
+      },
+      {
+         "pl": 800,
+         "eind": 4613
+      },
+      {
+         "pl": 900,
+         "eind": 4614
+      },
+      {
+         "pl": 1700,
+         "eind": 4615
+      },
+      {
+         "pl": 1900,
+         "eind": 4618
+      },
+      {
+         "pl": 2200,
+         "eind": 4619
+      },
+      {
+         "pl": 2300,
+         "eind": 4621
+      },
+      {
+         "pl": 2500,
+         "eind": 4625
+      },
+      {
+         "pl": 2600,
+         "eind": 4626
+      },
+      {
+         "pl": 3200,
+         "eind": 4629
+      },
+      {
+         "pl": 3800,
+         "eind": 4631
+      },
+      {
+         "pl": 4000,
+         "eind": 4634
+      },
+      {
+         "pl": 3200,
+         "eind": 4637
       }
    ],
    "181": [
