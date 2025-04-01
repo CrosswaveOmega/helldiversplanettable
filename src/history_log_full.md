@@ -6067,6 +6067,7 @@ Assault Division: Incineration Corps U3A leaves *Meissa* (2025-03-31 13:58  UTC)
 Assault Division: Incineration Corps U3B leaves *Choohe* (2025-03-31 13:59  UTC)<br/>
 Assault Division: Incineration Corps U3A deploys to *X-45* (2025-03-31 14:00  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Matar Bay* (2025-03-31 14:00  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Illuminate (2025-03-31 14:37  UTC)<br/>
 Assault Division: Incineration Corps U3A leaves *X-45* (2025-03-31 14:59  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Matar Bay* (2025-03-31 14:59  UTC)<br/>
 *Meridia* moves to X 0.3024986 Y 0.11851413 (2025-03-31 15:00  UTC)<br/>
@@ -6079,3 +6080,65 @@ Assault Division: Incineration Corps U3B leaves *Marfark* (2025-03-31 16:01  UTC
 Assault Division: Incineration Corps U3B deploys to *Bekvam III* (2025-03-31 16:02  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2025-03-31 16:03  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Martale* (2025-03-31 16:03  UTC)<br/>
+*Dolph* is liberated (2025-03-31 16:36  UTC)<br/>
+↳ *Caph* defense is auto-won via gambit (2025-03-31 16:36  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-03-31 16:36  UTC)<br/>
+ Decay: 0.0 on Bekvam III, Martale<br/> Decay: 1.0 on Marfark
+ (2025-03-31 16:36  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Wezen* (2025-03-31 17:01  UTC)<br/>
+ Decay: 500.0 on Caph
+ (2025-03-31 17:01  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Varylia 5* (2025-03-31 17:02  UTC)<br/>
+*Ras Algethi*'s invasion is successful (2025-03-31 17:19  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-03-31 17:19  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Varylia 5* (2025-03-31 17:59  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Ustotu* (2025-03-31 18:01  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-03-31 18:07  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Ustotu* (2025-03-31 18:59  UTC)<br/>
+*Meridia* moves to X 0.30231524 Y 0.11838427 (2025-03-31 19:00  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-31 19:01  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Vandalon IV* (2025-03-31 19:01  UTC)<br/>
+ Decay: 0.0 on Vandalon IV
+ (2025-03-31 20:00  UTC)<br/>
+*Meridia* moves to X 0.30213344 Y 0.11825555 (2025-03-31 23:00  UTC)<br/>
+DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-31 23:25  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-03-31 23:45  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-04-01 01:16  UTC)<br/>
+*Khandark*'s invasion is successful (2025-04-01 02:37  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-04-01 02:37  UTC)<br/>
+*Meridia* moves to X 0.30194855 Y 0.118124634 (2025-04-01 03:00  UTC)<br/>
+*Meridia* moves to X 0.30175894 Y 0.11799037 (2025-04-01 07:00  UTC)<br/>
+
+### Day: #419
+ Decay: 3.0 on Aurora Bay
+ (2025-04-01 09:00  UTC)<br/>
+*Julheim* defense is failed (2025-04-01 09:54  UTC)<br/>
+↳ *Julheim* liberation campaign starts (2025-04-01 09:54  UTC)<br/>
+↳ *Charbal-VII* liberation campaign ends (2025-04-01 09:54  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-04-01 10:13  UTC)<br/>
+ Decay: 1.0 on Julheim
+ (2025-04-01 10:13  UTC)<br/>
+*Meridia* moves to X 0.30157503 Y 0.11786014 (2025-04-01 11:00  UTC)<br/>
+ Decay: 3.5 on Aurora Bay
+ (2025-04-01 11:00  UTC)<br/>
+*Asperoth Prime*'s invasion is successful (2025-04-01 11:46  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-01 11:46  UTC)<br/>
+ Decay: 4.0 on Aurora Bay
+ (2025-04-01 11:46  UTC)<br/>
+*Aurora Bay* of the Valdis sector is established as a Jet Brigade Factories POI (2025-04-01 14:24  UTC)<br/>
+ Decay: 5.0 on Aurora Bay
+ (2025-04-01 14:24  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Aurora Bay* (2025-04-01 14:25  UTC)<br/>
+Dispatch: ALERT. The Jet Brigade has resurfaced, having evidently been rebuilt in secret. They have joined the Automaton offensive to menace *Malevelon Creek*. The Automatons are clearly dedicating massive resources to besmirching the memory of the heroes who defended the planet. The Helldivers must continue to hold. (2025-04-01 14:40  UTC)<br/>
+*Meridia* moves to X 0.3013875 Y 0.11772734 (2025-04-01 15:00  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Aurora Bay* (2025-04-01 15:37  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Choohe* (2025-04-01 15:40  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Martale* (2025-04-01 15:58  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Marfark* (2025-04-01 15:59  UTC)<br/>
+*Bekvam III* defense is failed (2025-04-01 16:04  UTC)<br/>
+↳ *Bekvam III* liberation campaign starts (2025-04-01 16:04  UTC)<br/>
+*Martale* defense is failed (2025-04-01 16:05  UTC)<br/>
+↳ *Matar Bay* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
+↳ *Marfark* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
+↳ *Charon Prime* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
+↳ Andromeda sector is fully under Automaton control (2025-04-01 16:05  UTC)<br/>
