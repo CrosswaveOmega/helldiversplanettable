@@ -7578,23 +7578,43 @@
       },
       {
          "pl": 200,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 100,
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 200,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 300,
-         "eind": 4671
+         "eind": 4672
       },
       {
          "pl": 200,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": 300,
+         "eind": 4684
+      },
+      {
+         "pl": 400,
+         "eind": 4686
+      },
+      {
+         "pl": 300,
+         "eind": 4687
+      },
+      {
+         "pl": 100,
+         "eind": 4701
+      },
+      {
+         "pl": 200,
+         "eind": 4707
       }
    ],
    "1": [
@@ -8420,7 +8440,7 @@
       },
       {
          "pl": "<10",
-         "eind": 4661
+         "eind": 4662
       }
    ],
    "178": [
@@ -19841,6 +19861,14 @@
       {
          "pl": "<10",
          "eind": 4589
+      },
+      {
+         "pl": 100,
+         "eind": 4686
+      },
+      {
+         "pl": "<10",
+         "eind": 4689
       }
    ],
    "34": [
@@ -49139,28 +49167,63 @@
             "x": 0.30194855,
             "y": 0.118124634
          },
-         "eind": 4660
+         "eind": 4661
       },
       {
          "position": {
             "x": 0.30175894,
             "y": 0.11799037
          },
-         "eind": 4662
+         "eind": 4663
       },
       {
          "position": {
             "x": 0.30157503,
             "y": 0.11786014
          },
-         "eind": 4666
+         "eind": 4667
       },
       {
          "position": {
             "x": 0.3013875,
             "y": 0.11772734
          },
-         "eind": 4671
+         "eind": 4672
+      },
+      {
+         "position": {
+            "x": 0.30102164,
+            "y": 0.11746828
+         },
+         "eind": 4698
+      },
+      {
+         "position": {
+            "x": 0.30083495,
+            "y": 0.11733608
+         },
+         "eind": 4699
+      },
+      {
+         "position": {
+            "x": 0.30065444,
+            "y": 0.117208265
+         },
+         "eind": 4702
+      },
+      {
+         "position": {
+            "x": 0.30047336,
+            "y": 0.11708004
+         },
+         "eind": 4705
+      },
+      {
+         "position": {
+            "x": 0.3002977,
+            "y": 0.11695565
+         },
+         "eind": 4706
       }
    ],
    "125": [
@@ -62711,6 +62774,14 @@
       {
          "pl": "<10",
          "eind": 4658
+      },
+      {
+         "pl": 100,
+         "eind": 4686
+      },
+      {
+         "pl": "<10",
+         "eind": 4687
       }
    ],
    "122": [
@@ -84094,31 +84165,109 @@
       },
       {
          "pl": 600,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 500,
-         "eind": 4661
-      },
-      {
-         "pl": 100,
          "eind": 4662
       },
       {
-         "pl": "<10",
+         "pl": 100,
          "eind": 4663
       },
       {
+         "pl": "<10",
+         "eind": 4664
+      },
+      {
          "pl": 100,
-         "eind": 4672
+         "eind": 4673
       },
       {
          "pl": "<10",
-         "eind": 4674
+         "eind": 4675
       },
       {
          "pl": 100,
-         "eind": 4676
+         "eind": 4677
+      },
+      {
+         "pl": "<10",
+         "eind": 4679
+      },
+      {
+         "pl": 100,
+         "eind": 4681
+      },
+      {
+         "t": 23,
+         "eind": 4696
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4697
+      },
+      {
+         "pl": 7700,
+         "r": 0.0,
+         "eind": 4698
+      },
+      {
+         "pl": 32700,
+         "eind": 4699
+      },
+      {
+         "pl": 30900,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            },
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4700
+      },
+      {
+         "pl": 16500,
+         "eind": 4701
+      },
+      {
+         "pl": 15400,
+         "eind": 4702
+      },
+      {
+         "pl": 12600,
+         "eind": 4703
+      },
+      {
+         "pl": 12200,
+         "eind": 4704
+      },
+      {
+         "pl": 13800,
+         "eind": 4705
+      },
+      {
+         "pl": 24000,
+         "eind": 4706
+      },
+      {
+         "pl": 24600,
+         "eind": 4707
       }
    ],
    "153": [
@@ -85921,23 +86070,111 @@
       },
       {
          "pl": 500,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 400,
-         "eind": 4661
-      },
-      {
-         "pl": 100,
          "eind": 4662
       },
       {
+         "pl": 100,
+         "eind": 4663
+      },
+      {
          "pl": 200,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 300,
-         "eind": 4676
+         "eind": 4677
+      },
+      {
+         "pl": 400,
+         "eind": 4681
+      },
+      {
+         "pl": 500,
+         "eind": 4684
+      },
+      {
+         "pl": 1200,
+         "eind": 4686
+      },
+      {
+         "pl": 1600,
+         "eind": 4687
+      },
+      {
+         "pl": 1500,
+         "eind": 4691
+      },
+      {
+         "pl": 1300,
+         "eind": 4693
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4694
+      },
+      {
+         "pl": 2500,
+         "eind": 4695
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4696
+      },
+      {
+         "pl": 3200,
+         "eind": 4698
+      },
+      {
+         "pl": 2400,
+         "eind": 4699
+      },
+      {
+         "pl": 2100,
+         "eind": 4700
+      },
+      {
+         "pl": 700,
+         "eind": 4701
+      },
+      {
+         "pl": 600,
+         "eind": 4702
+      },
+      {
+         "pl": 500,
+         "eind": 4703
+      },
+      {
+         "pl": 400,
+         "eind": 4704
+      },
+      {
+         "pl": 800,
+         "eind": 4706
+      },
+      {
+         "pl": 900,
+         "eind": 4707
       }
    ],
    "155": [
@@ -86479,19 +86716,47 @@
       },
       {
          "pl": 300,
-         "eind": 4659
-      },
-      {
-         "pl": 200,
          "eind": 4660
       },
       {
+         "pl": 200,
+         "eind": 4661
+      },
+      {
          "pl": "<10",
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 100,
-         "eind": 4668
+         "eind": 4669
+      },
+      {
+         "pl": 200,
+         "eind": 4679
+      },
+      {
+         "pl": 300,
+         "eind": 4686
+      },
+      {
+         "pl": 200,
+         "eind": 4691
+      },
+      {
+         "pl": 100,
+         "eind": 4695
+      },
+      {
+         "pl": 200,
+         "eind": 4698
+      },
+      {
+         "pl": 100,
+         "eind": 4699
+      },
+      {
+         "pl": "<10",
+         "eind": 4701
       }
    ],
    "197": [
@@ -99331,6 +99596,26 @@
       {
          "pl": "<10",
          "eind": 4612
+      },
+      {
+         "pl": 100,
+         "eind": 4681
+      },
+      {
+         "pl": 200,
+         "eind": 4687
+      },
+      {
+         "pl": 100,
+         "eind": 4693
+      },
+      {
+         "pl": "<10",
+         "eind": 4701
+      },
+      {
+         "pl": 100,
+         "eind": 4707
       }
    ],
    "203": [
@@ -105042,15 +105327,35 @@
       },
       {
          "pl": "<10",
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 100,
-         "eind": 4671
+         "eind": 4672
       },
       {
          "pl": "<10",
-         "eind": 4674
+         "eind": 4675
+      },
+      {
+         "pl": 100,
+         "eind": 4679
+      },
+      {
+         "pl": 200,
+         "eind": 4684
+      },
+      {
+         "pl": 100,
+         "eind": 4698
+      },
+      {
+         "pl": "<10",
+         "eind": 4702
+      },
+      {
+         "pl": 100,
+         "eind": 4706
       }
    ],
    "114": [
@@ -105743,15 +106048,15 @@
       },
       {
          "r": 8.3333,
-         "eind": 4663
+         "eind": 4664
       },
       {
          "r": 9.7222,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "r": 11.1111,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "r": 13.8889,
@@ -105762,16 +106067,16 @@
                "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
-         "eind": 4668
+         "eind": 4669
       },
       {
          "adiv": "JetBrigade",
-         "eind": 4669
+         "eind": 4670
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 4672
+         "eind": 4673
       }
    ],
    "202": [
@@ -114109,7 +114414,17 @@
                "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
             }
          ],
-         "eind": 4673
+         "eind": 4674
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4679
       }
    ],
    "160": [
@@ -117298,6 +117613,22 @@
       {
          "pl": "<10",
          "eind": 4634
+      },
+      {
+         "pl": 100,
+         "eind": 4679
+      },
+      {
+         "pl": "<10",
+         "eind": 4681
+      },
+      {
+         "pl": 100,
+         "eind": 4687
+      },
+      {
+         "pl": "<10",
+         "eind": 4693
       }
    ],
    "194": [
@@ -135364,27 +135695,59 @@
       },
       {
          "pl": 700,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 600,
-         "eind": 4661
-      },
-      {
-         "pl": 300,
          "eind": 4662
       },
       {
-         "pl": 200,
+         "pl": 300,
          "eind": 4663
       },
       {
-         "pl": 100,
+         "pl": 200,
          "eind": 4664
       },
       {
+         "pl": 100,
+         "eind": 4665
+      },
+      {
          "pl": 400,
-         "eind": 4668
+         "eind": 4669
+      },
+      {
+         "pl": 500,
+         "eind": 4686
+      },
+      {
+         "pl": 600,
+         "eind": 4687
+      },
+      {
+         "pl": 500,
+         "eind": 4691
+      },
+      {
+         "pl": 400,
+         "eind": 4693
+      },
+      {
+         "pl": 500,
+         "eind": 4699
+      },
+      {
+         "pl": 200,
+         "eind": 4701
+      },
+      {
+         "pl": 100,
+         "eind": 4705
+      },
+      {
+         "pl": 300,
+         "eind": 4706
       }
    ],
    "172": [
@@ -140199,23 +140562,47 @@
       },
       {
          "pl": 500,
-         "eind": 4660
-      },
-      {
-         "pl": 400,
          "eind": 4661
       },
       {
-         "pl": 200,
+         "pl": 400,
          "eind": 4662
       },
       {
+         "pl": 200,
+         "eind": 4663
+      },
+      {
          "pl": 100,
-         "eind": 4664
+         "eind": 4665
       },
       {
          "pl": 200,
-         "eind": 4668
+         "eind": 4669
+      },
+      {
+         "pl": 300,
+         "eind": 4685
+      },
+      {
+         "pl": 200,
+         "eind": 4698
+      },
+      {
+         "pl": 400,
+         "eind": 4699
+      },
+      {
+         "pl": 300,
+         "eind": 4700
+      },
+      {
+         "pl": 100,
+         "eind": 4701
+      },
+      {
+         "pl": 200,
+         "eind": 4706
       }
    ],
    "173": [
@@ -152107,43 +152494,95 @@
       },
       {
          "pl": 1400,
-         "eind": 4659
-      },
-      {
-         "pl": 1300,
          "eind": 4660
       },
       {
-         "pl": 1100,
+         "pl": 1300,
          "eind": 4661
       },
       {
-         "pl": 500,
+         "pl": 1100,
          "eind": 4662
       },
       {
-         "pl": 400,
+         "pl": 500,
          "eind": 4663
       },
       {
-         "pl": 300,
+         "pl": 400,
          "eind": 4664
       },
       {
-         "pl": 200,
-         "eind": 4666
+         "pl": 300,
+         "eind": 4665
       },
       {
-         "pl": 300,
+         "pl": 200,
          "eind": 4667
       },
       {
-         "pl": 800,
+         "pl": 300,
          "eind": 4668
       },
       {
+         "pl": 800,
+         "eind": 4669
+      },
+      {
          "pl": 700,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": 600,
+         "eind": 4679
+      },
+      {
+         "pl": 800,
+         "eind": 4684
+      },
+      {
+         "pl": 900,
+         "eind": 4686
+      },
+      {
+         "pl": 1000,
+         "eind": 4687
+      },
+      {
+         "pl": 900,
+         "eind": 4691
+      },
+      {
+         "pl": 700,
+         "eind": 4693
+      },
+      {
+         "pl": 600,
+         "eind": 4698
+      },
+      {
+         "pl": 900,
+         "eind": 4699
+      },
+      {
+         "pl": 800,
+         "eind": 4700
+      },
+      {
+         "pl": 400,
+         "eind": 4701
+      },
+      {
+         "pl": 300,
+         "eind": 4702
+      },
+      {
+         "pl": 700,
+         "eind": 4706
+      },
+      {
+         "pl": 600,
+         "eind": 4707
       }
    ],
    "217": [
@@ -163682,7 +164121,22 @@
       },
       {
          "t": 48,
-         "eind": 4664
+         "eind": 4665
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4692
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4693
       }
    ],
    "157": [
@@ -165101,19 +165555,75 @@
       },
       {
          "pl": 200,
-         "eind": 4660
+         "eind": 4661
       },
       {
          "pl": 100,
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 300,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "t": 48,
-         "eind": 4677
+         "eind": 4678
+      },
+      {
+         "pl": 100,
+         "eind": 4679
+      },
+      {
+         "pl": "<10",
+         "eind": 4681
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4683
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4687
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4688
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4691
       }
    ],
    "198": [
@@ -170013,23 +170523,23 @@
       },
       {
          "pl": 400,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 100,
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 200,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 300,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "pl": 200,
-         "eind": 4672
+         "eind": 4673
       },
       {
          "adiv": "FireBots",
@@ -170039,7 +170549,21 @@
                "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
             }
          ],
-         "eind": 4675
+         "eind": 4676
+      },
+      {
+         "pl": 100,
+         "r": 5.5556,
+         "eind": 4679
+      },
+      {
+         "pl": "<10",
+         "eind": 4681
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 4690
       }
    ],
    "199": [
@@ -176351,39 +176875,39 @@
       },
       {
          "pl": 1400,
-         "eind": 4659
-      },
-      {
-         "pl": 1300,
          "eind": 4660
       },
       {
-         "pl": 1100,
+         "pl": 1300,
          "eind": 4661
       },
       {
-         "pl": 500,
+         "pl": 1100,
          "eind": 4662
       },
       {
-         "pl": 400,
+         "pl": 500,
          "eind": 4663
       },
       {
+         "pl": 400,
+         "eind": 4664
+      },
+      {
          "pl": 500,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "pl": 1000,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 900,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "pl": 1000,
-         "eind": 4672
+         "eind": 4673
       },
       {
          "adiv": "",
@@ -176393,11 +176917,115 @@
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
          ],
-         "eind": 4674
+         "eind": 4675
       },
       {
          "t": 48,
-         "eind": 4677
+         "eind": 4678
+      },
+      {
+         "hp": 506191,
+         "pl": 400,
+         "r": 4.1667,
+         "eind": 4679
+      },
+      {
+         "hp": 520951,
+         "pl": 100,
+         "eind": 4681
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4682
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4683
+      },
+      {
+         "hp": 535670,
+         "eind": 4684
+      },
+      {
+         "hp": 539360,
+         "pl": "<10",
+         "eind": 4685
+      },
+      {
+         "hp": 546740,
+         "eind": 4686
+      },
+      {
+         "hp": 550430,
+         "eind": 4687
+      },
+      {
+         "hp": 565149,
+         "eind": 4691
+      },
+      {
+         "hp": 579868,
+         "eind": 4693
+      },
+      {
+         "hp": 587248,
+         "eind": 4695
+      },
+      {
+         "hp": 598072,
+         "eind": 4698
+      },
+      {
+         "hp": 657030,
+         "eind": 4699
+      },
+      {
+         "hp": 664369,
+         "eind": 4700
+      },
+      {
+         "hp": 712257,
+         "eind": 4701
+      },
+      {
+         "hp": 715947,
+         "eind": 4702
+      },
+      {
+         "hp": 726976,
+         "eind": 4703
+      },
+      {
+         "hp": 745385,
+         "eind": 4704
+      },
+      {
+         "hp": 774823,
+         "eind": 4705
+      },
+      {
+         "hp": 833740,
+         "eind": 4706
+      },
+      {
+         "hp": 848131,
+         "eind": 4707
       }
    ],
    "200": [
@@ -181487,19 +182115,48 @@
       },
       {
          "pl": 100,
-         "eind": 4662
+         "eind": 4663
       },
       {
          "pl": 200,
-         "eind": 4667
-      },
-      {
-         "pl": 300,
          "eind": 4668
       },
       {
+         "pl": 300,
+         "eind": 4669
+      },
+      {
          "t": 48,
-         "eind": 4677
+         "eind": 4678
+      },
+      {
+         "pl": 100,
+         "eind": 4679
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 4680
+      },
+      {
+         "pl": "<10",
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4681
       }
    ],
    "158": [
@@ -185434,64 +186091,153 @@
       {
          "hp": 633665,
          "pl": 600,
-         "eind": 4659
-      },
-      {
-         "hp": 635850,
          "eind": 4660
       },
       {
-         "hp": 644917,
+         "hp": 635850,
          "eind": 4661
+      },
+      {
+         "hp": 644917,
+         "eind": 4662
       },
       {
          "hp": 671707,
          "pl": 200,
-         "eind": 4662
-      },
-      {
-         "hp": 689627,
          "eind": 4663
       },
       {
-         "hp": 698641,
+         "hp": 689627,
          "eind": 4664
       },
       {
-         "hp": 700808,
+         "hp": 698641,
          "eind": 4665
+      },
+      {
+         "hp": 700808,
+         "eind": 4666
       },
       {
          "hp": 707391,
          "pl": 300,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "hp": 713986,
          "pl": 200,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "hp": 738485,
          "pl": 300,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "hp": 740767,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "hp": 743007,
-         "eind": 4671
+         "eind": 4672
       },
       {
          "hp": 749851,
          "pl": 400,
-         "eind": 4672
+         "eind": 4673
       },
       {
          "hp": 752065,
-         "eind": 4674
+         "eind": 4675
+      },
+      {
+         "hp": 758763,
+         "pl": 500,
+         "eind": 4679
+      },
+      {
+         "hp": 767597,
+         "eind": 4681
+      },
+      {
+         "hp": 776058,
+         "pl": 600,
+         "eind": 4684
+      },
+      {
+         "hp": 778281,
+         "eind": 4685
+      },
+      {
+         "hp": 782684,
+         "pl": 2100,
+         "eind": 4686
+      },
+      {
+         "hp": 784778,
+         "pl": 3100,
+         "eind": 4687
+      },
+      {
+         "hp": 791066,
+         "pl": 2400,
+         "eind": 4691
+      },
+      {
+         "hp": 797087,
+         "pl": 1500,
+         "eind": 4693
+      },
+      {
+         "hp": 800915,
+         "pl": 1200,
+         "eind": 4695
+      },
+      {
+         "hp": 806684,
+         "pl": 900,
+         "eind": 4698
+      },
+      {
+         "hp": 841017,
+         "pl": 500,
+         "eind": 4699
+      },
+      {
+         "hp": 845464,
+         "pl": 400,
+         "eind": 4700
+      },
+      {
+         "hp": 875198,
+         "pl": 200,
+         "eind": 4701
+      },
+      {
+         "hp": 877565,
+         "eind": 4702
+      },
+      {
+         "hp": 884404,
+         "pl": 100,
+         "eind": 4703
+      },
+      {
+         "hp": 895863,
+         "eind": 4704
+      },
+      {
+         "hp": 913769,
+         "eind": 4705
+      },
+      {
+         "hp": 949953,
+         "pl": 200,
+         "eind": 4706
+      },
+      {
+         "hp": 958990,
+         "eind": 4707
       }
    ],
    "242": [
@@ -187765,35 +188511,99 @@
       },
       {
          "pl": 1200,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 1000,
-         "eind": 4661
-      },
-      {
-         "pl": 300,
          "eind": 4662
       },
       {
+         "pl": 300,
+         "eind": 4663
+      },
+      {
          "pl": 200,
-         "eind": 4664
+         "eind": 4665
       },
       {
          "pl": 300,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "pl": 600,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 500,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "pl": 600,
-         "eind": 4671
+         "eind": 4672
+      },
+      {
+         "pl": 700,
+         "eind": 4679
+      },
+      {
+         "pl": 900,
+         "eind": 4681
+      },
+      {
+         "pl": 1000,
+         "eind": 4684
+      },
+      {
+         "pl": 1100,
+         "eind": 4685
+      },
+      {
+         "pl": 1900,
+         "eind": 4686
+      },
+      {
+         "pl": 2100,
+         "eind": 4687
+      },
+      {
+         "pl": 1500,
+         "eind": 4691
+      },
+      {
+         "pl": 1000,
+         "eind": 4693
+      },
+      {
+         "pl": 900,
+         "eind": 4695
+      },
+      {
+         "pl": 600,
+         "eind": 4698
+      },
+      {
+         "pl": 400,
+         "eind": 4699
+      },
+      {
+         "pl": 500,
+         "eind": 4700
+      },
+      {
+         "pl": 200,
+         "eind": 4701
+      },
+      {
+         "pl": 100,
+         "eind": 4704
+      },
+      {
+         "pl": 200,
+         "eind": 4705
+      },
+      {
+         "pl": 400,
+         "eind": 4706
       }
    ],
    "243": [
@@ -190718,59 +191528,125 @@
       },
       {
          "pl": 32400,
-         "eind": 4659
-      },
-      {
-         "pl": 32100,
          "eind": 4660
       },
       {
-         "pl": 28000,
+         "pl": 32100,
          "eind": 4661
       },
       {
-         "pl": 13100,
+         "pl": 28000,
          "eind": 4662
       },
       {
-         "pl": 10200,
+         "pl": 13100,
          "eind": 4663
       },
       {
-         "pl": 9800,
+         "pl": 10200,
          "eind": 4664
       },
       {
-         "pl": 10600,
+         "pl": 9800,
          "eind": 4665
       },
       {
-         "pl": 12300,
+         "pl": 10600,
          "eind": 4666
       },
       {
-         "pl": 13800,
+         "pl": 12300,
          "eind": 4667
       },
       {
-         "pl": 21900,
+         "pl": 13800,
          "eind": 4668
       },
       {
-         "pl": 22600,
-         "eind": 4670
+         "pl": 21900,
+         "eind": 4669
       },
       {
-         "pl": 22900,
+         "pl": 22600,
          "eind": 4671
       },
       {
-         "pl": 23900,
+         "pl": 22900,
          "eind": 4672
       },
       {
+         "pl": 23900,
+         "eind": 4673
+      },
+      {
          "pl": 24200,
-         "eind": 4674
+         "eind": 4675
+      },
+      {
+         "pl": 26200,
+         "eind": 4679
+      },
+      {
+         "pl": 29400,
+         "eind": 4681
+      },
+      {
+         "pl": 34000,
+         "eind": 4684
+      },
+      {
+         "pl": 35300,
+         "t": 16,
+         "dss": "",
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4685
+      },
+      {
+         "pl": 24700,
+         "r": 2.7778,
+         "eind": 4686
+      },
+      {
+         "pl": 14600,
+         "eind": 4687
+      },
+      {
+         "pl": 2300,
+         "eind": 4691
+      },
+      {
+         "pl": 1100,
+         "eind": 4693
+      },
+      {
+         "pl": 1000,
+         "eind": 4698
+      },
+      {
+         "pl": 800,
+         "eind": 4699
+      },
+      {
+         "pl": 300,
+         "eind": 4701
+      },
+      {
+         "pl": 200,
+         "eind": 4703
+      },
+      {
+         "pl": 300,
+         "eind": 4705
+      },
+      {
+         "pl": 400,
+         "eind": 4706
       }
    ],
    "244": [
@@ -218118,6 +218994,26 @@
       {
          "pl": "<10",
          "eind": 4601
+      },
+      {
+         "pl": 100,
+         "eind": 4686
+      },
+      {
+         "pl": "<10",
+         "eind": 4698
+      },
+      {
+         "pl": 100,
+         "eind": 4699
+      },
+      {
+         "pl": "<10",
+         "eind": 4701
+      },
+      {
+         "pl": 100,
+         "eind": 4707
       }
    ],
    "6": [
@@ -223056,27 +223952,71 @@
       },
       {
          "pl": 900,
-         "eind": 4661
-      },
-      {
-         "pl": 500,
          "eind": 4662
       },
       {
-         "pl": 400,
+         "pl": 500,
          "eind": 4663
       },
       {
-         "pl": 300,
+         "pl": 400,
          "eind": 4664
       },
       {
+         "pl": 300,
+         "eind": 4665
+      },
+      {
          "pl": 400,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "pl": 700,
-         "eind": 4668
+         "eind": 4669
+      },
+      {
+         "pl": 800,
+         "eind": 4684
+      },
+      {
+         "pl": 900,
+         "eind": 4686
+      },
+      {
+         "pl": 800,
+         "eind": 4693
+      },
+      {
+         "pl": 700,
+         "eind": 4695
+      },
+      {
+         "pl": 600,
+         "eind": 4698
+      },
+      {
+         "pl": 800,
+         "eind": 4699
+      },
+      {
+         "pl": 700,
+         "eind": 4700
+      },
+      {
+         "pl": 400,
+         "eind": 4701
+      },
+      {
+         "pl": 300,
+         "eind": 4704
+      },
+      {
+         "pl": 700,
+         "eind": 4706
+      },
+      {
+         "pl": 600,
+         "eind": 4707
       }
    ],
    "218": [
@@ -225887,31 +226827,59 @@
       },
       {
          "pl": 600,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "pl": 300,
-         "eind": 4662
-      },
-      {
-         "pl": 200,
          "eind": 4663
       },
       {
-         "pl": 100,
+         "pl": 200,
          "eind": 4664
       },
       {
+         "pl": 100,
+         "eind": 4665
+      },
+      {
          "pl": 300,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 400,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "pl": 300,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": 400,
+         "eind": 4686
+      },
+      {
+         "pl": 300,
+         "eind": 4693
+      },
+      {
+         "pl": 500,
+         "eind": 4699
+      },
+      {
+         "pl": 200,
+         "eind": 4701
+      },
+      {
+         "pl": 100,
+         "eind": 4704
+      },
+      {
+         "pl": 400,
+         "eind": 4706
+      },
+      {
+         "pl": 300,
+         "eind": 4707
       }
    ],
    "219": [
@@ -228434,44 +229402,44 @@
       },
       {
          "pl": 1800,
-         "eind": 4659
-      },
-      {
-         "pl": 2300,
          "eind": 4660
       },
       {
-         "pl": 4000,
+         "pl": 2300,
          "eind": 4661
       },
       {
-         "pl": 2200,
+         "pl": 4000,
          "eind": 4662
       },
       {
-         "pl": 1600,
+         "pl": 2200,
          "eind": 4663
       },
       {
-         "pl": 1300,
+         "pl": 1600,
          "eind": 4664
       },
       {
-         "pl": 1200,
+         "pl": 1300,
          "eind": 4665
       },
       {
-         "pl": 1000,
+         "pl": 1200,
          "eind": 4666
+      },
+      {
+         "pl": 1000,
+         "eind": 4667
       },
       {
          "pl": 1100,
          "t": 16,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "pl": "<10",
-         "eind": 4668
+         "eind": 4669
       }
    ],
    "186": [
@@ -233480,19 +234448,27 @@
       {
          "pl": 3400,
          "t": 16,
-         "eind": 4659
-      },
-      {
-         "pl": 2800,
          "eind": 4660
       },
       {
-         "pl": 300,
+         "pl": 2800,
          "eind": 4661
       },
       {
-         "pl": "<10",
+         "pl": 300,
          "eind": 4662
+      },
+      {
+         "pl": "<10",
+         "eind": 4663
+      },
+      {
+         "pl": 100,
+         "eind": 4686
+      },
+      {
+         "pl": "<10",
+         "eind": 4693
       }
    ],
    "188": [
@@ -238714,7 +239690,15 @@
       },
       {
          "pl": "<10",
-         "eind": 4659
+         "eind": 4660
+      },
+      {
+         "pl": 100,
+         "eind": 4679
+      },
+      {
+         "pl": "<10",
+         "eind": 4701
       }
    ],
    "206": [
@@ -241266,70 +242250,186 @@
       },
       {
          "pl": 8100,
-         "eind": 4659
-      },
-      {
-         "pl": 7800,
          "eind": 4660
       },
       {
-         "pl": 6200,
+         "pl": 7800,
          "eind": 4661
       },
       {
-         "pl": 2700,
+         "pl": 6200,
          "eind": 4662
       },
       {
-         "pl": 2200,
+         "pl": 2700,
          "eind": 4663
+      },
+      {
+         "pl": 2200,
+         "eind": 4664
       },
       {
          "pl": 2000,
          "t": 49,
-         "eind": 4664
+         "eind": 4665
       },
       {
          "hp": 501134,
          "r": 2.7778,
-         "eind": 4665
+         "eind": 4666
       },
       {
          "hp": 507834,
          "pl": 1600,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "hp": 513587,
          "pl": 1700,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "hp": 530295,
          "pl": 2400,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "hp": 532076,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "hp": 533650,
          "pl": 2500,
-         "eind": 4671
-      },
-      {
-         "hp": 538454,
          "eind": 4672
       },
       {
+         "hp": 538454,
+         "eind": 4673
+      },
+      {
          "hp": 539969,
-         "eind": 4674
+         "eind": 4675
       },
       {
          "hp": 541687,
          "pl": 2600,
-         "eind": 4676
+         "eind": 4677
+      },
+      {
+         "hp": 544980,
+         "pl": 2700,
+         "eind": 4679
+      },
+      {
+         "hp": 551171,
+         "pl": 2900,
+         "eind": 4681
+      },
+      {
+         "hp": 557304,
+         "pl": 3000,
+         "eind": 4684
+      },
+      {
+         "hp": 558952,
+         "pl": 3100,
+         "eind": 4685
+      },
+      {
+         "hp": 562041,
+         "pl": 6900,
+         "dss": "DSS Here",
+         "eind": 4686
+      },
+      {
+         "hp": 563514,
+         "pl": 11100,
+         "eind": 4687
+      },
+      {
+         "hp": 564593,
+         "pl": 17200,
+         "eind": 4689
+      },
+      {
+         "hp": 559323,
+         "pl": 27200,
+         "eind": 4691
+      },
+      {
+         "hp": 533757,
+         "pl": 28200,
+         "eind": 4693
+      },
+      {
+         "hp": 517586,
+         "pl": 26100,
+         "eind": 4695
+      },
+      {
+         "hp": 494785,
+         "pl": 19500,
+         "eind": 4698
+      },
+      {
+         "hp": 439421,
+         "pl": 9800,
+         "eind": 4699
+      },
+      {
+         "hp": 437906,
+         "pl": 8700,
+         "dss": "",
+         "eind": 4700
+      },
+      {
+         "hp": 442810,
+         "pl": 1700,
+         "eind": 4701
+      },
+      {
+         "hp": 444064,
+         "pl": 1500,
+         "eind": 4702
+      },
+      {
+         "hp": 449391,
+         "pl": 1300,
+         "eind": 4703
+      },
+      {
+         "hp": 454206,
+         "pl": 1200,
+         "eind": 4704
+      },
+      {
+         "hp": 462102,
+         "pl": 1400,
+         "eind": 4705
+      },
+      {
+         "hp": 478691,
+         "pl": 2600,
+         "eind": 4706
+      },
+      {
+         "hp": 482985,
+         "pl": 2700,
+         "eind": 4707
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 4708
       }
    ],
    "109": [
@@ -242250,19 +243350,23 @@
       },
       {
          "pl": "<10",
-         "eind": 4662
-      },
-      {
-         "pl": 100,
          "eind": 4663
       },
       {
+         "pl": 100,
+         "eind": 4664
+      },
+      {
          "pl": 200,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 100,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": "<10",
+         "eind": 4691
       }
    ],
    "110": [
@@ -243022,48 +244126,149 @@
       },
       {
          "pl": 2200,
-         "eind": 4659
-      },
-      {
-         "pl": 2100,
          "eind": 4660
       },
       {
-         "pl": 1500,
+         "pl": 2100,
          "eind": 4661
       },
       {
-         "pl": 800,
+         "pl": 1500,
          "eind": 4662
       },
       {
-         "pl": 500,
+         "pl": 800,
          "eind": 4663
       },
       {
-         "pl": 600,
-         "eind": 4665
+         "pl": 500,
+         "eind": 4664
       },
       {
-         "pl": 1100,
+         "pl": 600,
          "eind": 4666
       },
       {
-         "pl": 1300,
+         "pl": 1100,
          "eind": 4667
       },
       {
-         "pl": 2400,
+         "pl": 1300,
          "eind": 4668
       },
       {
+         "pl": 2400,
+         "eind": 4669
+      },
+      {
          "pl": 2300,
-         "eind": 4674
+         "eind": 4675
       },
       {
          "pl": 2200,
          "t": 49,
-         "eind": 4676
+         "eind": 4677
+      },
+      {
+         "hp": 506237,
+         "pl": 1700,
+         "r": 4.1667,
+         "eind": 4679
+      },
+      {
+         "hp": 520339,
+         "pl": 1400,
+         "eind": 4681
+      },
+      {
+         "hp": 533719,
+         "pl": 1500,
+         "eind": 4684
+      },
+      {
+         "hp": 537054,
+         "eind": 4685
+      },
+      {
+         "hp": 543826,
+         "pl": 5000,
+         "eind": 4686
+      },
+      {
+         "hp": 546958,
+         "pl": 8400,
+         "eind": 4687
+      },
+      {
+         "hp": 562674,
+         "pl": 7300,
+         "r": 6.9444,
+         "eind": 4691
+      },
+      {
+         "hp": 579224,
+         "pl": 5400,
+         "eind": 4693
+      },
+      {
+         "hp": 588711,
+         "pl": 4800,
+         "eind": 4695
+      },
+      {
+         "hp": 603302,
+         "pl": 3300,
+         "eind": 4698
+      },
+      {
+         "hp": 689873,
+         "pl": 2800,
+         "eind": 4699
+      },
+      {
+         "hp": 701009,
+         "pl": 2600,
+         "eind": 4700
+      },
+      {
+         "hp": 773671,
+         "pl": 900,
+         "eind": 4701
+      },
+      {
+         "hp": 779288,
+         "eind": 4702
+      },
+      {
+         "hp": 801611,
+         "pl": 700,
+         "eind": 4703
+      },
+      {
+         "hp": 824364,
+         "pl": 600,
+         "eind": 4704
+      },
+      {
+         "hp": 870525,
+         "pl": 700,
+         "eind": 4705
+      },
+      {
+         "hp": 961404,
+         "pl": 1200,
+         "eind": 4706
+      },
+      {
+         "hp": 983840,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DEMOCRACY SPACE STATION",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 4707
       }
    ],
    "111": [
@@ -246313,35 +247518,67 @@
       },
       {
          "pl": 1100,
-         "eind": 4659
-      },
-      {
-         "pl": 1000,
          "eind": 4660
       },
       {
-         "pl": 500,
-         "eind": 4662
+         "pl": 1000,
+         "eind": 4661
       },
       {
-         "pl": 400,
+         "pl": 500,
          "eind": 4663
       },
       {
-         "pl": 300,
+         "pl": 400,
          "eind": 4664
       },
       {
+         "pl": 300,
+         "eind": 4665
+      },
+      {
          "pl": 700,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "pl": 800,
-         "eind": 4671
+         "eind": 4672
       },
       {
          "pl": 700,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": 800,
+         "eind": 4691
+      },
+      {
+         "pl": 700,
+         "eind": 4693
+      },
+      {
+         "pl": 600,
+         "eind": 4698
+      },
+      {
+         "pl": 700,
+         "eind": 4699
+      },
+      {
+         "pl": 400,
+         "eind": 4701
+      },
+      {
+         "pl": 300,
+         "eind": 4702
+      },
+      {
+         "pl": 700,
+         "eind": 4706
+      },
+      {
+         "pl": 600,
+         "eind": 4707
       }
    ],
    "130": [
@@ -248707,74 +249944,149 @@
       {
          "hp": 999988,
          "pl": 8200,
-         "eind": 4659
+         "eind": 4660
       },
       {
          "hp": 999981,
-         "eind": 4660
+         "eind": 4661
       },
       {
          "hp": 1000000,
          "pl": 7300,
-         "eind": 4661
+         "eind": 4662
       },
       {
          "hp": 999960,
          "pl": 4600,
-         "eind": 4662
+         "eind": 4663
       },
       {
          "hp": 999869,
          "pl": 4300,
-         "eind": 4663
+         "eind": 4664
       },
       {
          "hp": 999829,
          "pl": 3600,
-         "eind": 4664
+         "eind": 4665
       },
       {
          "hp": 999851,
          "pl": 3400,
-         "eind": 4665
+         "eind": 4666
       },
       {
          "hp": 999701,
-         "eind": 4666
+         "eind": 4667
       },
       {
          "hp": 999904,
          "pl": 4000,
-         "eind": 4667
+         "eind": 4668
       },
       {
          "hp": 998146,
          "pl": 7800,
-         "eind": 4668
+         "eind": 4669
       },
       {
          "hp": 997979,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "hp": 997471,
          "pl": 7600,
-         "eind": 4671
+         "eind": 4672
       },
       {
          "hp": 997938,
          "pl": 6400,
-         "eind": 4672
+         "eind": 4673
       },
       {
          "hp": 998825,
          "pl": 6000,
-         "eind": 4674
+         "eind": 4675
       },
       {
          "hp": 999713,
          "pl": 5700,
-         "eind": 4676
+         "eind": 4677
+      },
+      {
+         "hp": 1000000,
+         "pl": 5300,
+         "eind": 4679
+      },
+      {
+         "hp": 999986,
+         "pl": 5400,
+         "eind": 4684
+      },
+      {
+         "hp": 999966,
+         "pl": 5600,
+         "eind": 4685
+      },
+      {
+         "hp": 1000000,
+         "pl": 6600,
+         "eind": 4686
+      },
+      {
+         "pl": 6900,
+         "eind": 4687
+      },
+      {
+         "pl": 6400,
+         "eind": 4691
+      },
+      {
+         "pl": 5500,
+         "eind": 4693
+      },
+      {
+         "pl": 5200,
+         "eind": 4695
+      },
+      {
+         "pl": 4600,
+         "eind": 4698
+      },
+      {
+         "pl": 5800,
+         "eind": 4699
+      },
+      {
+         "pl": 5600,
+         "eind": 4700
+      },
+      {
+         "pl": 3500,
+         "eind": 4701
+      },
+      {
+         "pl": 3200,
+         "eind": 4703
+      },
+      {
+         "hp": 999993,
+         "eind": 4704
+      },
+      {
+         "hp": 999828,
+         "pl": 3300,
+         "eind": 4705
+      },
+      {
+         "hp": 999992,
+         "pl": 7100,
+         "eind": 4706
+      },
+      {
+         "hp": 1000000,
+         "pl": 6200,
+         "eind": 4707
       }
    ],
    "84": [
@@ -252292,6 +253604,26 @@
       {
          "pl": "<10",
          "eind": 4483
+      },
+      {
+         "t": 25,
+         "eind": 4701
+      },
+      {
+         "pl": 500,
+         "eind": 4703
+      },
+      {
+         "pl": 1300,
+         "eind": 4704
+      },
+      {
+         "pl": 2400,
+         "eind": 4706
+      },
+      {
+         "pl": 2600,
+         "eind": 4707
       }
    ],
    "224": [
@@ -253123,27 +254455,74 @@
       },
       {
          "t": 25,
-         "eind": 4665
-      },
-      {
-         "pl": 200,
          "eind": 4666
       },
       {
-         "pl": 300,
+         "pl": 200,
          "eind": 4667
       },
       {
-         "pl": 2100,
+         "pl": 300,
          "eind": 4668
       },
       {
+         "pl": 2100,
+         "eind": 4669
+      },
+      {
          "pl": 2200,
-         "eind": 4670
+         "eind": 4671
       },
       {
          "pl": 2100,
-         "eind": 4672
+         "eind": 4673
+      },
+      {
+         "pl": 2200,
+         "eind": 4679
+      },
+      {
+         "pl": 2400,
+         "eind": 4681
+      },
+      {
+         "pl": 2800,
+         "eind": 4684
+      },
+      {
+         "pl": 2900,
+         "dss": "DSS Here",
+         "eind": 4685
+      },
+      {
+         "pl": 4400,
+         "dss": "",
+         "eind": 4686
+      },
+      {
+         "pl": 5500,
+         "eind": 4687
+      },
+      {
+         "pl": 3300,
+         "eind": 4691
+      },
+      {
+         "pl": 1900,
+         "eind": 4693
+      },
+      {
+         "pl": 1600,
+         "t": 16,
+         "eind": 4695
+      },
+      {
+         "pl": 500,
+         "eind": 4698
+      },
+      {
+         "pl": "<10",
+         "eind": 4699
       }
    ],
    "193": [
@@ -254586,6 +255965,55 @@
       {
          "pl": "<10",
          "eind": 4525
+      },
+      {
+         "t": 25,
+         "eind": 4689
+      },
+      {
+         "pl": 2000,
+         "eind": 4691
+      },
+      {
+         "pl": 2700,
+         "eind": 4693
+      },
+      {
+         "pl": 2800,
+         "eind": 4695
+      },
+      {
+         "pl": 2900,
+         "eind": 4698
+      },
+      {
+         "pl": 4100,
+         "eind": 4699
+      },
+      {
+         "pl": 4000,
+         "eind": 4700
+      },
+      {
+         "pl": 2100,
+         "eind": 4701
+      },
+      {
+         "pl": 2000,
+         "eind": 4702
+      },
+      {
+         "pl": 1500,
+         "t": 16,
+         "eind": 4703
+      },
+      {
+         "pl": 200,
+         "eind": 4704
+      },
+      {
+         "pl": "<10",
+         "eind": 4705
       }
    ],
    "233": [

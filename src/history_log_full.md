@@ -6104,6 +6104,7 @@ Assault Division: Incineration Corps U3A deploys to *Vandalon IV* (2025-03-31 19
 DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-31 23:25  UTC)<br/>
 *Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-03-31 23:45  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-01 01:16  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-01 01:19  UTC)<br/>
 *Khandark*'s invasion is successful (2025-04-01 02:37  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-04-01 02:37  UTC)<br/>
 *Meridia* moves to X 0.30194855 Y 0.118124634 (2025-04-01 03:00  UTC)<br/>
@@ -6142,3 +6143,53 @@ Assault Division: Incineration Corps U3C deploys to *Marfark* (2025-04-01 15:59 
 ↳ *Marfark* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
 ↳ *Charon Prime* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
 ↳ Andromeda sector is fully under Automaton control (2025-04-01 16:05  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Choohe* (2025-04-01 16:39  UTC)<br/>
+ Decay: 1.5 on Bekvam III, Martale<br/> Decay: 2.0 on Marfark
+ (2025-04-01 16:39  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Matar Bay* (2025-04-01 16:40  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Matar Bay* (2025-04-01 17:39  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Martale* (2025-04-01 17:39  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Martale* (2025-04-01 17:40  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 17:42  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. A successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense. (2025-04-01 18:43  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Nanos sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Xzar sector, Andromeda sector, Trigon sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector<br/> Decay: 0.0 on Meridia, Vandalon IV<br/> Decay: 1.0 on Marspira sector, Talus sector, Nanos sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Tanis sector, Trigon sector, Ymir sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 2.0 on Falstaff sector, Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 0.25 on Cirrus<br/> Decay: 0.0 on Dolph<br/> Decay: 5.0 on Aurora Bay<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime
+ (2025-04-01 18:43  UTC)<br/>
+Meirida moves to X 0.30120555 Y 0.11759851 (2025-04-01 19:00  UTC)<br/>
+*Vandalon IV* defense is won (2025-04-01 19:00  UTC)<br/>
+Assault Division: Incineration Corps U3A is routed (2025-04-01 19:00  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2025-04-01 19:00  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-04-01 19:27  UTC)<br/>
+ Decay: 1.0 on Vandalon IV
+ (2025-04-01 19:27  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 19:40  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 19:41  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-01 19:47  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Marfark* (2025-04-01 19:48  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 20:39  UTC)<br/>
+ Decay: 2.5 on Bekvam III
+ (2025-04-01 20:39  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Charbal-VII* (2025-04-01 20:41  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Charbal-VII* (2025-04-01 21:39  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Mort* (2025-04-01 21:40  UTC)<br/>
+*Rirga Bay*'s invasion is successful (2025-04-01 22:15  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-01 22:15  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Xzar sector, Andromeda sector, Trigon sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Nanos sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Tanis sector, Trigon sector, Ymir sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 2.0 on Falstaff sector, Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 0.25 on Cirrus<br/> Decay: 0.0 on Dolph<br/> Decay: 2.5 on Bekvam III, Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 5.0 on Aurora Bay
+ (2025-04-01 22:15  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Automatons (2025-04-01 22:17  UTC)<br/>
+Assault Division: Jet Brigade U4 leaves *Mort* (2025-04-01 22:17  UTC)<br/>
+Assault Division: Jet Brigade U4 deploys to *Pöpli IX* (2025-04-01 22:18  UTC)<br/>
+*Meridia* moves to X 0.30102164 Y 0.11746828 (2025-04-01 23:00  UTC)<br/>
+ Decay: 0.0 on Pöpli IX
+ (2025-04-01 23:00  UTC)<br/>
+*Meridia* moves to X 0.30083495 Y 0.11733608 (2025-04-02 03:00  UTC)<br/>
+DSS deploys to *Pöpli IX* of the Xzar sector (2025-04-02 03:29  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-04-02 06:44  UTC)<br/>
+*Meridia* moves to X 0.30065444 Y 0.117208265 (2025-04-02 07:00  UTC)<br/>
+*Sirius*'s invasion is successful (2025-04-02 07:48  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-04-02 07:48  UTC)<br/>
+
+# Day: #420
+*Meridia* moves to X 0.30047336 Y 0.11708004 (2025-04-02 11:00  UTC)<br/>
+*Meridia* moves to X 0.3002977 Y 0.11695565 (2025-04-02 15:00  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Bekvam III* (2025-04-02 15:57  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Julheim* (2025-04-02 15:58  UTC)<br/>
