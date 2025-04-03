@@ -6152,8 +6152,6 @@ Assault Division: Jet Brigade U4 leaves *Martale* (2025-04-01 17:39  UTC)<br/>
 Assault Division: Jet Brigade U4 deploys to *Martale* (2025-04-01 17:40  UTC)<br/>
 Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 17:42  UTC)<br/>
 Dispatch: WARFRONT DEVELOPMENT. A successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense. (2025-04-01 18:43  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Nanos sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Xzar sector, Andromeda sector, Trigon sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector<br/> Decay: 0.0 on Meridia, Vandalon IV<br/> Decay: 1.0 on Marspira sector, Talus sector, Nanos sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Tanis sector, Trigon sector, Ymir sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 2.0 on Falstaff sector, Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 0.25 on Cirrus<br/> Decay: 0.0 on Dolph<br/> Decay: 5.0 on Aurora Bay<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime
- (2025-04-01 18:43  UTC)<br/>
 Meirida moves to X 0.30120555 Y 0.11759851 (2025-04-01 19:00  UTC)<br/>
 *Vandalon IV* defense is won (2025-04-01 19:00  UTC)<br/>
 Assault Division: Incineration Corps U3A is routed (2025-04-01 19:00  UTC)<br/>
@@ -6173,8 +6171,6 @@ Assault Division: Jet Brigade U4 leaves *Charbal-VII* (2025-04-01 21:39  UTC)<br
 Assault Division: Jet Brigade U4 deploys to *Mort* (2025-04-01 21:40  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-04-01 22:15  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-01 22:15  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Xzar sector, Andromeda sector, Trigon sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Nanos sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Tanis sector, Trigon sector, Ymir sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 2.0 on Falstaff sector, Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 0.25 on Cirrus<br/> Decay: 0.0 on Dolph<br/> Decay: 2.5 on Bekvam III, Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 5.0 on Aurora Bay
- (2025-04-01 22:15  UTC)<br/>
 *Pöpli IX* of the Xzar sector is attacked by Automatons (2025-04-01 22:17  UTC)<br/>
 Assault Division: Jet Brigade U4 leaves *Mort* (2025-04-01 22:17  UTC)<br/>
 Assault Division: Jet Brigade U4 deploys to *Pöpli IX* (2025-04-01 22:18  UTC)<br/>
@@ -6193,3 +6189,35 @@ DSS deploys to *Pöpli IX* of the Xzar sector (2025-04-02 03:29  UTC)<br/>
 *Meridia* moves to X 0.3002977 Y 0.11695565 (2025-04-02 15:00  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Bekvam III* (2025-04-02 15:57  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Julheim* (2025-04-02 15:58  UTC)<br/>
+*Propus* of the Leo sector is invaded by Illuminate (2025-04-02 17:13  UTC)<br/>
+ Decay: 3.0 on Julheim
+ (2025-04-02 17:13  UTC)<br/>
+*Hort*'s invasion is successful (2025-04-02 18:46  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-02 18:46  UTC)<br/>
+ Decay: 0.5 on Bekvam III
+ (2025-04-02 18:46  UTC)<br/>
+*Meridia* moves to X 0.30012676 Y 0.11683462 (2025-04-02 19:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-04-02 21:21  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Julheim* (2025-04-02 21:28  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Charbal-VII* (2025-04-02 21:28  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Charbal-VII* (2025-04-02 21:29  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Mort* (2025-04-02 21:29  UTC)<br/>
+*Meridia* moves to X 0.2999527 Y 0.11671135 (2025-04-02 23:00  UTC)<br/>
+ Decay: 1.0 on Julheim
+ (2025-04-02 23:00  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Mort* (2025-04-02 23:28  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Pöpli IX* (2025-04-02 23:29  UTC)<br/>
+Dispatch: BATTLEFIELD IMPACT. Cascading logistical disruptions have resulted in the temporary emplacement of ammunition rationing measures. Resupply pod ammunition will be decreased to 50% for all operations on PÖPLI IX until further notice. (2025-04-02 23:33  UTC)<br/>
+*Meridia* moves to X 0.29978487 Y 0.116592504 (2025-04-03 03:00  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Illuminate (2025-04-03 03:50  UTC)<br/>
+*Propus*'s invasion is successful (2025-04-03 05:14  UTC)<br/>
+↳ Leo sector is fully under Human control (2025-04-03 05:14  UTC)<br/>
+*Meridia* moves to X 0.29961705 Y 0.11647369 (2025-04-03 07:00  UTC)<br/>
+
+### Day: #421
+*Meridia* moves to X 0.29945183 Y 0.116356686 (2025-04-03 11:00  UTC)<br/>
+Dispatch: BATTLEFIELD IMPACT. Cryo-good transport is facing interdiction by Automaton fleets, reducing REINFORCEMENTS to 3 for all operations on PÖPLI IX. in the short term. (2025-04-03 12:04  UTC)<br/>
+Dispatch: ANNOUNCEMENT. Today marks *Malevelon Creek* Memorial Day. On this day, we pause to honor the countless heroes who made the ultimate sacrifice in defense of *Malevelon Creek*. The ongoing assault towards the planet is a timely reminder that truly honoring their sacrifice means being willing to make even more sacrifices—to preserve what they fought for. Let all citizens join together in 3 minutes of solemn remembrance during their lunch break, in honor of our fallen heroes. (2025-04-03 13:01  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Illuminate (2025-04-03 14:57  UTC)<br/>
+*Senge 23*'s invasion is successful (2025-04-03 15:51  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-04-03 15:51  UTC)<br/>
