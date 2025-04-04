@@ -6219,5 +6219,36 @@ Dispatch: BATTLEFIELD IMPACT. Cascading logistical disruptions have resulted in 
 Dispatch: BATTLEFIELD IMPACT. Cryo-good transport is facing interdiction by Automaton fleets, reducing REINFORCEMENTS to 3 for all operations on PÖPLI IX. in the short term. (2025-04-03 12:04  UTC)<br/>
 Dispatch: ANNOUNCEMENT. Today marks *Malevelon Creek* Memorial Day. On this day, we pause to honor the countless heroes who made the ultimate sacrifice in defense of *Malevelon Creek*. The ongoing assault towards the planet is a timely reminder that truly honoring their sacrifice means being willing to make even more sacrifices—to preserve what they fought for. Let all citizens join together in 3 minutes of solemn remembrance during their lunch break, in honor of our fallen heroes. (2025-04-03 13:01  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Illuminate (2025-04-03 14:57  UTC)<br/>
+*Meridia* moves to X 0.32142022 Y 0.13191265 (2025-04-03 15:00  UTC)<br/>
 *Senge 23*'s invasion is successful (2025-04-03 15:51  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-03 15:51  UTC)<br/>
+Dispatch: The Eagle 500kg Bomb stratagem is temporarily available to all Helldivers. (2025-04-03 18:41  UTC)<br/>
+*Pöpli IX* defense is won (2025-04-03 18:43  UTC)<br/>
+Assault Division: Incineration Corps U3B is routed (2025-04-03 18:43  UTC)<br/>
+Assault Division: Jet Brigade U4 is routed (2025-04-03 18:43  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-04-03 18:44  UTC)<br/>
+Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage! (2025-04-03 18:45  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. The Automaton Jet Brigade has been defeated and dismantled against the stalwart defense of the Helldivers. While the Automatons have evidenced the concerning capability of re-fielding these forces, the action of the Helldivers proved the continued supremacy of elite human warfighting over the enemy's artificial imitations. (2025-04-03 18:55  UTC)<br/>
+*Meridia* moves to X 0.32093233 Y 0.13156717 (2025-04-03 19:00  UTC)<br/>
+ Decay: 0.0 on Automaton worlds<br/> Decay: 500.0 on Pöpli IX
+ (2025-04-03 19:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-04-03 21:24  UTC)<br/>
+ Decay: 0.0 on Bekvam III, Charbal-VII, Choepessa IV
+ (2025-04-03 21:24  UTC)<br/>
+*Meridia* moves to X 0.32042825 Y 0.13121024 (2025-04-03 23:00  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-04-04 01:50  UTC)<br/>
+*Parsh*'s invasion is successful (2025-04-04 02:57  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-04 02:57  UTC)<br/>
+*Meridia* moves to X 0.29878926 Y 0.11628686 (2025-04-04 03:00  UTC)<br/>
+*Meridia* moves to X 0.29862735 Y 0.11628686 (2025-04-04 07:00  UTC)<br/>
+
+### Day: #422
+*Meridia* moves to X 0.29847237 Y 0.11628686 (2025-04-04 11:00  UTC)<br/>
+*Alaraph* of the Akira sector is invaded by Illuminate (2025-04-04 12:21  UTC)<br/>
+*Julheim* is liberated (2025-04-04 12:34  UTC)<br/>
+↳ *Charbal-VII* liberation campaign starts (2025-04-04 12:34  UTC)<br/>
+DSS deploys to *Mort* of the Xzar sector (2025-04-04 12:35  UTC)<br/>
+Dispatch: ALERT. The Meridian Singularity has come within critical range of *Ivis*. Final evacuation orders have been issued. The planet's destruction is imminent. (2025-04-04 13:45  UTC)<br/>
+*Stout*'s invasion is successful (2025-04-04 13:50  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-04 13:50  UTC)<br/>
+*Meridia* moves to X 0.29831868 Y 0.11628686 (2025-04-04 15:00  UTC)<br/>
