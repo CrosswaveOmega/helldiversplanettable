@@ -6252,3 +6252,24 @@ Dispatch: ALERT. The Meridian Singularity has come within critical range of *Ivi
 *Stout*'s invasion is successful (2025-04-04 13:50  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-04 13:50  UTC)<br/>
 *Meridia* moves to X 0.29831868 Y 0.11628686 (2025-04-04 15:00  UTC)<br/>
+*Meridia* moves to X 0.29816568 Y 0.11628686 (2025-04-04 19:00  UTC)<br/>
+*Meridia* moves to X 0.2980196 Y 0.11628686 (2025-04-04 23:00  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-04-04 23:38  UTC)<br/>
+*Alaraph*'s invasion is successful (2025-04-05 00:21  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-05 00:21  UTC)<br/>
+*Meridia* moves to X 0.2978759 Y 0.11628686 (2025-04-05 03:00  UTC)<br/>
+*Meridia* moves to X 0.29773772 Y 0.11628686 (2025-04-05 07:00  UTC)<br/>
+
+### Day: #423
+*Mort* is liberated (2025-04-05 09:11  UTC)<br/>
+↳ Xzar sector is fully under Human control (2025-04-05 09:11  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-04-05 09:12  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Illuminate (2025-04-05 10:10  UTC)<br/>
+*Meridia* moves to X 0.29760566 Y 0.11628686 (2025-04-05 11:00  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-04-05 11:38  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-04-05 11:38  UTC)<br/>
+Major Order | Operation A2-3-7 Hold *Malevelon Creek* 2025 is won | Objective: Control (2025-04-05 12:07  UTC)<br/>
+Dispatch: Major Order Won. After days of relentless fighting, the Helldivers have successfully protected *Malevelon Creek*. Their resounding victory has upheld the memory of those honored on *Malevelon Creek* Memorial Day. *Malevelon Creek* remains within the righteous embrace of Freedom--now, and forever. (2025-04-05 12:10  UTC)<br/>
+*Ivis* of the Celeste sector is annihilated (2025-04-05 13:47  UTC)<br/>
+Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity. The destroyed planet joins *Moradesh* and *Angel's Venture* amongst the Illuminate's celestial murders. Efforts to slow the Singularity have worked, but too late to save *Ivis*. The Illuminate will face Justice for their crimes. (2025-04-05 13:48  UTC)<br/>
+*Meridia* moves to X 0.29747078 Y 0.11628686 (2025-04-05 15:00  UTC)<br/>
