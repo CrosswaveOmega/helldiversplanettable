@@ -6273,3 +6273,8 @@ Dispatch: Major Order Won. After days of relentless fighting, the Helldivers hav
 *Ivis* of the Celeste sector is annihilated (2025-04-05 13:47  UTC)<br/>
 Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity. The destroyed planet joins *Moradesh* and *Angel's Venture* amongst the Illuminate's celestial murders. Efforts to slow the Singularity have worked, but too late to save *Ivis*. The Illuminate will face Justice for their crimes. (2025-04-05 13:48  UTC)<br/>
 *Meridia* moves to X 0.29747078 Y 0.11628686 (2025-04-05 15:00  UTC)<br/>
+*Meridia* moves to X 0.29734164 Y 0.11628686 (2025-04-05 19:00  UTC)<br/>
+*Hort*'s invasion is repelled (2025-04-05 19:00  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-05 19:00  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-04-05 21:27  UTC)<br/>
+*Meridia* moves to X 0.29723212 Y 0.11628686 (2025-04-05 23:00  UTC)<br/>
