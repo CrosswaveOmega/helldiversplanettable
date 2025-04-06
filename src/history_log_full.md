@@ -6278,3 +6278,15 @@ Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity.
 ↳ Rigel sector is fully under Human control (2025-04-05 19:00  UTC)<br/>
 *Rasp* of the Gallux sector is invaded by Illuminate (2025-04-05 21:27  UTC)<br/>
 *Meridia* moves to X 0.29723212 Y 0.11628686 (2025-04-05 23:00  UTC)<br/>
+*Meridia* moves to X 0.29713514 Y 0.11628686 (2025-04-06 03:00  UTC)<br/>
+*Rasp*'s invasion is repelled (2025-04-06 03:52  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-04-06 03:52  UTC)<br/>
+*Meridia* moves to X 0.2970543 Y 0.11628686 (2025-04-06 07:00  UTC)<br/>
+*Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-06 08:16  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Illuminate (2025-04-06 08:46  UTC)<br/>
+ Decay: 0.0 on Ursica XI
+ (2025-04-06 08:46  UTC)<br/>
+
+### Day: #424
+*Meridia* moves to X 0.29700541 Y 0.11628686 (2025-04-06 11:00  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-04-06 13:05  UTC)<br/>
