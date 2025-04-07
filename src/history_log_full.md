@@ -6290,3 +6290,35 @@ Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity.
 ### Day: #424
 *Meridia* moves to X 0.29700541 Y 0.11628686 (2025-04-06 11:00  UTC)<br/>
 *Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-04-06 13:05  UTC)<br/>
+*Meridia* moves to X 0.2969636 Y 0.11628686 (2025-04-06 15:00  UTC)<br/>
+DSS deploys to *Ursica XI* of the Borgus sector (2025-04-06 15:44  UTC)<br/>
+*Bekvam III* is liberated (2025-04-06 17:25  UTC)<br/>
+↳ *Charon Prime* liberation campaign starts (2025-04-06 17:25  UTC)<br/>
+↳ *Marfark* liberation campaign starts (2025-04-06 17:25  UTC)<br/>
+↳ Nanos sector is fully under Human control (2025-04-06 17:25  UTC)<br/>
+*Meridia* moves to X 0.2969013 Y 0.11628686 (2025-04-06 19:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-04-06 19:55  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Illuminate (2025-04-06 20:26  UTC)<br/>
+*Bellatrix*'s invasion is repelled (2025-04-06 20:28  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-04-06 20:28  UTC)<br/>
+*Meridia* moves to X 0.29681507 Y 0.11628686 (2025-04-06 23:00  UTC)<br/>
+*Alamak VII*'s invasion is successful (2025-04-07 01:06  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-04-07 01:06  UTC)<br/>
+*Meridia* moves to X 0.2967084 Y 0.11628686 (2025-04-07 03:00  UTC)<br/>
+*Ursica XI* defense is won (2025-04-07 03:19  UTC)<br/>
+DSS deploys to *Ustotu* of the Trigon sector (2025-04-07 03:20  UTC)<br/>
+*Shete* of the Xi Tauri sector is invaded by Illuminate (2025-04-07 04:54  UTC)<br/>
+ Decay: 500.0 on Ursica XI
+ (2025-04-07 04:54  UTC)<br/>
+*Meridia* moves to X 0.29665533 Y 0.11628686 (2025-04-07 05:00  UTC)<br/>
+*Hydrobius*'s invasion is repelled (2025-04-07 08:28  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-04-07 08:28  UTC)<br/>
+
+### Day: #425
+*Meridia* moves to X 0.2964726 Y 0.11629 (2025-04-07 11:00  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-04-07 13:06  UTC)<br/>
+*Meridia* moves to X 0.2963289 Y 0.11630324 (2025-04-07 15:00  UTC)<br/>
+Major Order | Operation A2-4-1 DSS Passive Upgrade Choices is issued | Objective: Liberate (2025-04-07 15:15  UTC)<br/>
+ Decay: 1.0 on Automaton worlds<br/> Decay: 2.0 on Varylia 5, Wezen
+ (2025-04-07 15:15  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Diligent engineers at the Deep Mantle Forge Complex on *Claorell* have developed potential improvements to the Democracy Space Station. The DSS was critical to the recent defense against the Automatons, and enhancing its capabilities has become a top priority. Consult your Galactic Map for more information. (2025-04-07 15:18  UTC)<br/>
