@@ -6310,7 +6310,7 @@ DSS deploys to *Ustotu* of the Trigon sector (2025-04-07 03:20  UTC)<br/>
 *Shete* of the Xi Tauri sector is invaded by Illuminate (2025-04-07 04:54  UTC)<br/>
  Decay: 500.0 on Ursica XI
  (2025-04-07 04:54  UTC)<br/>
-*Meridia* moves to X 0.29665533 Y 0.11628686 (2025-04-07 05:00  UTC)<br/>
+*Meridia* moves to X 0.29659984 Y 0.11628686 (2025-04-07 07:00  UTC)<br/>
 *Hydrobius*'s invasion is repelled (2025-04-07 08:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-07 08:28  UTC)<br/>
 
@@ -6322,3 +6322,21 @@ Major Order | Operation A2-4-1 DSS Passive Upgrade Choices is issued | Objective
  Decay: 1.0 on Automaton worlds<br/> Decay: 2.0 on Varylia 5, Wezen
  (2025-04-07 15:15  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Diligent engineers at the Deep Mantle Forge Complex on *Claorell* have developed potential improvements to the Democracy Space Station. The DSS was critical to the recent defense against the Automatons, and enhancing its capabilities has become a top priority. Consult your Galactic Map for more information. (2025-04-07 15:18  UTC)<br/>
+*Shete*'s invasion is successful (2025-04-07 16:55  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-04-07 16:55  UTC)<br/>
+*Meridia* moves to X 0.29616705 Y 0.11631816 (2025-04-07 19:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-07 19:59  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Illuminate (2025-04-07 21:03  UTC)<br/>
+*Meridia* moves to X 0.2960047 Y 0.11633312 (2025-04-07 23:00  UTC)<br/>
+*Rogue 5*'s invasion is successful (2025-04-08 01:07  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-08 01:07  UTC)<br/>
+*Meridia* moves to X 0.29582283 Y 0.116349876 (2025-04-08 03:00  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Illuminate (2025-04-08 04:59  UTC)<br/>
+*Meridia* moves to X 0.29563907 Y 0.11636681 (2025-04-08 07:00  UTC)<br/>
+
+### Day: #426
+*Rasp*'s invasion is successful (2025-04-08 09:04  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-04-08 09:04  UTC)<br/>
+*Meridia* moves to X 0.2954361 Y 0.11638551 (2025-04-08 11:00  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-04-08 13:58  UTC)<br/>
+*Meridia* moves to X 0.29523513 Y 0.116404034 (2025-04-08 15:00  UTC)<br/>
