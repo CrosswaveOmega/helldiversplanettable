@@ -6364,3 +6364,7 @@ DSS effect Eagle Storm is activated (2025-04-09 10:53  UTC)<br/>
 *Sirius*'s invasion is successful (2025-04-09 11:04  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-04-09 11:04  UTC)<br/>
 *Meridia* moves to X 0.29393992 Y 0.116523385 (2025-04-09 15:00  UTC)<br/>
+ Decay: 0.0 on Troost
+ (2025-04-09 16:00  UTC)<br/>
+*Meridia* moves to X 0.29373425 Y 0.11654234 (2025-04-09 19:00  UTC)<br/>
+*Stor Tha Prime* of the Quintus sector is invaded by Illuminate (2025-04-09 19:05  UTC)<br/>
