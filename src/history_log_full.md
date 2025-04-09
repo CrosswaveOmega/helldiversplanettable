@@ -6353,3 +6353,14 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-04-08 23:51  UTC)<br/>
 *Alathfar XI*'s invasion is successful (2025-04-09 01:59  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-09 01:59  UTC)<br/>
 *Meridia* moves to X 0.29458964 Y 0.11646352 (2025-04-09 03:00  UTC)<br/>
+ Decay: 1.5 on Varylia 5
+ (2025-04-09 06:00  UTC)<br/>
+*Meridia* moves to X 0.29436782 Y 0.11648396 (2025-04-09 07:00  UTC)<br/>
+
+### Day: #427
+*Karlia* of the Omega sector is invaded by Illuminate (2025-04-09 10:12  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-04-09 10:53  UTC)<br/>
+*Meridia* moves to X 0.29415363 Y 0.11650369 (2025-04-09 11:00  UTC)<br/>
+*Sirius*'s invasion is successful (2025-04-09 11:04  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-04-09 11:04  UTC)<br/>
+*Meridia* moves to X 0.29393992 Y 0.116523385 (2025-04-09 15:00  UTC)<br/>
