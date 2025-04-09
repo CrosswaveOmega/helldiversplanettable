@@ -6340,3 +6340,16 @@ DSS effect Orbital Blockade stops (2025-04-07 19:59  UTC)<br/>
 *Meridia* moves to X 0.2954361 Y 0.11638551 (2025-04-08 11:00  UTC)<br/>
 *Alathfar XI* of the Akira sector is invaded by Illuminate (2025-04-08 13:58  UTC)<br/>
 *Meridia* moves to X 0.29523513 Y 0.116404034 (2025-04-08 15:00  UTC)<br/>
+*Iro*'s invasion is successful (2025-04-08 17:00  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-08 17:00  UTC)<br/>
+*Ustotu* is liberated (2025-04-08 17:01  UTC)<br/>
+↳ *Choepessa IV* liberation campaign starts (2025-04-08 17:01  UTC)<br/>
+↳ *Varylia 5* liberation campaign starts (2025-04-08 17:01  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2025-04-08 17:01  UTC)<br/>
+*Meridia* moves to X 0.29502058 Y 0.11642381 (2025-04-08 19:00  UTC)<br/>
+*Meridia* moves to X 0.29480922 Y 0.116443284 (2025-04-08 23:00  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-08 23:04  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2025-04-08 23:51  UTC)<br/>
+*Alathfar XI*'s invasion is successful (2025-04-09 01:59  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-09 01:59  UTC)<br/>
+*Meridia* moves to X 0.29458964 Y 0.11646352 (2025-04-09 03:00  UTC)<br/>
