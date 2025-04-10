@@ -6077,6 +6077,7 @@ Assault Division: Incineration Corps U3A leaves *Vega Bay* (2025-03-31 15:58  UT
 Assault Division: Incineration Corps U3A deploys to *Wezen* (2025-03-31 16:00  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Automatons (2025-03-31 16:01  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Marfark* (2025-03-31 16:01  UTC)<br/>
+Assault Division: Incineration Corps U3B divides into 2 groups [U3B, U3C] (2025-03-31 16:01  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Bekvam III* (2025-03-31 16:02  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2025-03-31 16:03  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Martale* (2025-03-31 16:03  UTC)<br/>
@@ -6163,6 +6164,7 @@ Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 19:40  UTC)<b
 Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 19:41  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-01 19:47  UTC)<br/>
 Assault Division: Incineration Corps U3C leaves *Marfark* (2025-04-01 19:48  UTC)<br/>
+Assault Division: Incineration Corps U3C merges with Incineration Corps U3B on *Bekvam III* (2025-04-01 19:48  UTC)<br/>
 Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 20:39  UTC)<br/>
  Decay: 2.5 on Bekvam III
  (2025-04-01 20:39  UTC)<br/>
@@ -6368,3 +6370,24 @@ DSS effect Eagle Storm is activated (2025-04-09 10:53  UTC)<br/>
  (2025-04-09 16:00  UTC)<br/>
 *Meridia* moves to X 0.29373425 Y 0.11654234 (2025-04-09 19:00  UTC)<br/>
 *Stor Tha Prime* of the Quintus sector is invaded by Illuminate (2025-04-09 19:05  UTC)<br/>
+*Karlia*'s invasion is successful (2025-04-09 22:13  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-04-09 22:13  UTC)<br/>
+*Meridia* moves to X 0.29330206 Y 0.11658217 (2025-04-10 03:00  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Illuminate (2025-04-10 05:06  UTC)<br/>
+*Varylia 5* is liberated (2025-04-10 05:14  UTC)<br/>
+↳ *Wezen* liberation campaign starts (2025-04-10 05:14  UTC)<br/>
+DSS deploys to *Stor Tha Prime* of the Quintus sector (2025-04-10 05:14  UTC)<br/>
+*Meridia* moves to X 0.29308808 Y 0.116601884 (2025-04-10 07:00  UTC)<br/>
+*Stor Tha Prime*'s invasion is successful (2025-04-10 07:06  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-10 07:06  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2025-04-10 07:07  UTC)<br/>
+DSS deploys to *Wezen* of the Ymir sector (2025-04-10 07:55  UTC)<br/>
+
+### Day: #428
+DSS effect Eagle Storm stops (2025-04-10 10:56  UTC)<br/>
+ Decay: 1.5 on Wezen
+ (2025-04-10 10:56  UTC)<br/>
+*Meridia* moves to X 0.29286948 Y 0.11662203 (2025-04-10 11:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-04-10 14:22  UTC)<br/>
+*Meridia* moves to X 0.29265735 Y 0.11664158 (2025-04-10 15:00  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-04-10 15:13  UTC)<br/>
