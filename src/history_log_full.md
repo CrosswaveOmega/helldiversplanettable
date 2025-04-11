@@ -6391,3 +6391,31 @@ DSS effect Eagle Storm stops (2025-04-10 10:56  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-04-10 14:22  UTC)<br/>
 *Meridia* moves to X 0.29265735 Y 0.11664158 (2025-04-10 15:00  UTC)<br/>
 *Stout* of the Quintus sector is invaded by Illuminate (2025-04-10 15:13  UTC)<br/>
+*RD-4*'s invasion is successful (2025-04-10 17:07  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-10 17:07  UTC)<br/>
+*Meridia* moves to X 0.29244113 Y 0.116661504 (2025-04-10 19:00  UTC)<br/>
+*Meridia* moves to X 0.2922279 Y 0.11668115 (2025-04-10 23:00  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-04-11 01:03  UTC)<br/>
+*Meridia* moves to X 0.29201844 Y 0.116700456 (2025-04-11 03:00  UTC)<br/>
+*Stout*'s invasion is successful (2025-04-11 03:14  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-11 03:14  UTC)<br/>
+*Wezen* is liberated (2025-04-11 04:49  UTC)<br/>
+↳ *Vega Bay* liberation campaign starts (2025-04-11 04:49  UTC)<br/>
+↳ Major Order | Operation A2-4-1 DSS Passive Upgrade Choices is won | Objective: Liberate (2025-04-11 04:49  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2025-04-11 04:49  UTC)<br/>
+Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super Earth* citizens, the Helldivers have secured the resources necessary to augment the Democracy Space Station with an Exosuit Support Bay. Moving forward, the DSS will provide rapid Exosuit replenishment to all Super Destroyers it shares an orbit with, reducing Exosuit Stratagem cooldown by 35% on the orbited planet. (2025-04-11 05:19  UTC)<br/>
+*Meridia* moves to X 0.29180154 Y 0.11672044 (2025-04-11 07:00  UTC)<br/>
+
+### Day: #429
+ Decay: 5.0 on Terminid worlds<br/> Decay: 6.0 on Terminid worlds
+ (2025-04-11 09:00  UTC)<br/>
+*Meridia* moves to X 0.29159266 Y 0.11673969 (2025-04-11 11:00  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-04-11 11:06  UTC)<br/>
+*Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
+*Nivel 43* has been classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
+Major Order | Operation A2-4-2 *Nivel 43* Gloom Research Expedition is issued | Objective: Liberate (2025-04-11 11:46  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information. (2025-04-11 11:46  UTC)<br/>
+*Bunda Secundus*'s invasion is successful (2025-04-11 13:04  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-04-11 13:04  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
+*Meridia* moves to X 0.2913785 Y 0.11675942 (2025-04-11 15:00  UTC)<br/>
