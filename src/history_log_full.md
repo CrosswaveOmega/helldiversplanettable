@@ -711,7 +711,7 @@ Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTAC
 *Chort Bay* defense is failed (2024-04-10 11:44  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-04-10 11:44  UTC)<br/>
 *Lesath* defense is failed (2024-04-10 11:45  UTC)<br/>
-↳ Lacille sector is fully under Automaton control (2024-04-10 11:45  UTC)<br/>
+↳ Lacaille sector is fully under Automaton control (2024-04-10 11:45  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2024-04-10 11:45  UTC)<br/>
 ↳ *Penta* liberation campaign ends (2024-04-10 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-04-10 11:49  UTC)<br/>
@@ -840,7 +840,7 @@ Dispatch: In further proof of their elite training and irreplaceable value, the 
  (2024-04-19 14:00  UTC)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
-Major Order | Operation A1-4-9 Defense on Two Fronts is issued | Objective: Defend (2024-04-19 15:07  UTC)<br/>
+Major Order | Operation A1-4-9 Defense on Two Fronts Defend 10 is issued | Objective: Defend (2024-04-19 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinister syncronicity, both the Terminids and Automatons have launched large-scale assaults. The Helldivers must now defend our citizens on two fronts at once. (2024-04-19 15:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-04-19 15:08  UTC)<br/>
 *Charon Prime* of the Andromeda sector is attacked by Automatons (2024-04-19 15:09  UTC)<br/>
@@ -954,7 +954,7 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 
 ### Day: #78
 *Ustotu* defense is won (2024-04-25 12:46  UTC)<br/>
-↳ Major Order | Operation A1-4-9 Defense on Two Fronts is won | Objective: Defend (2024-04-25 13:43  UTC)<br/>
+↳ Major Order | Operation A1-4-9 Defense on Two Fronts Defend 10 is won | Objective: Defend (2024-04-25 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Freedom has overcome oppression once more. Even the combined might of the Terminids and Automatons was no match for the fierce and obedient resistance of the Helldivers. Though some ground was lost, our enemies are exhausted, their assault broken upon the immovable shield wall of the Helldivers. The fight is far from over, but the light of Liberty shines bright over the worlds of the Federation today. (2024-04-25 13:43  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-25 19:26  UTC)<br/>
  Decay: 1.0 on Automaton worlds
@@ -2354,8 +2354,8 @@ Major Order | Operation A1-8-4 Gloom Gathering is issued | Objective: Sample (20
 ​Dispatch: NEW MAJOR ORDER. The massive interstellar spore cloud known as the Gloom now occupies massive swaths of Terminid space. All vessels sent into the Gloom have ceased radio contact within minutes. Now, the Helldivers must procure samples of Terminid organic matter from the planets closest to the Gloom. (2024-08-16 15:37  UTC)<br/>
  Decay: 0.0 on Estanu
  (2024-08-16 15:37  UTC)<br/>
-Major Order | Operation A1-8-4 Gloom Gathering was compromised | Objective: Sample (2024-08-17 01:47  UTC)<br/>
-↳ NOTE: Major Order Tasks were completed suddenly due to traitorous Helldivers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a narrative loss but a statistical victory. (2024-08-17 01:47  UTC)<br/>
+Major Order | Operation A1-8-4 Gloom Gathering is won | Objective: Sample (2024-08-17 01:47  UTC)<br/>
+↳ NOTE: Major Order Tasks were completed suddenly due to hackers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a narrative loss but a statistical victory. (2024-08-17 01:47  UTC)<br/>
 
 ### Day: #192
 Dispatch: Major Order Update: *Super Earth* High Command has detected a large batch of counterfeit samples within the delivery of the last Major Order. As is customary, Medals have been awarded to all Helldivers who honorably performed their duties, and the ones submitting false samples have had their pet fish summarily executed. Laboratories all across *Super Earth* space are attempting to filter out the false samples, but the expected scientific advances to combat the spread of the gloom have decreased significantly. As a result of this, worlds near the gloom have begun resettlement protocols. (2024-08-17 11:35  UTC)<br/>
@@ -3722,7 +3722,7 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-12-12 03:50  UTC)<br/>
  (2024-12-12 16:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-12 19:27  UTC)<br/>
 *Calypso* of the Saleria sector is invaded by Illuminates (2024-12-13 02:21  UTC)<br/>
-Major Order | Operation A1-12-2 Factory Hub Defense is failed | Objective: Defend (2024-12-13 02:22  UTC)<br/>
+Major Order | Operation A1-12-2 Factory Hub Defense is won | Objective: Defend (2024-12-13 02:22  UTC)<br/>
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (2024-12-13 02:24  UTC)<br/>
 Dispatch: ALL UNITS TO LIBCON 1. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (2024-12-13 02:28  UTC)<br/>
@@ -3757,8 +3757,6 @@ Major Order | Operation A1-12-4 Repel Illuminate Incursions is issued | Objectiv
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminate (2024-12-17 00:10  UTC)<br/>
-Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:11  UTC)<br/>
-Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 00:14  UTC)<br/>
 *Gar Haren* defense is failed (2024-12-17 02:34  UTC)<br/>
 ↳ *Gar Haren* liberation campaign starts (2024-12-17 02:34  UTC)<br/>
 *Shelt* defense is failed (2024-12-17 02:36  UTC)<br/>
@@ -3772,7 +3770,6 @@ Major Order A1-12-4's parameters are changed from Objective: Defend to Objective
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2024-12-17 09:38  UTC)<br/>
 *Bellatrix* of the Guang sector is invaded by Illuminate (2024-12-17 10:40  UTC)<br/>
-Major Order A1-12-4's parameters are changed from Objective: Defend to Objective: Defend (2024-12-17 10:55  UTC)<br/>
 *Mog*'s invasion is successful (2024-12-17 12:10  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2024-12-17 12:10  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2024-12-17 18:27  UTC)<br/>
@@ -6419,3 +6416,49 @@ Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expediti
 ↳ Tarragon sector is fully under Human control (2025-04-11 13:04  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
 *Meridia* moves to X 0.2913785 Y 0.11675942 (2025-04-11 15:00  UTC)<br/>
+*Meridia* moves to X 0.29116783 Y 0.116778836 (2025-04-11 19:00  UTC)<br/>
+*Alaraph* of the Akira sector is invaded by Illuminates (2025-04-11 21:08  UTC)<br/>
+*Meridia* moves to X 0.2909609 Y 0.1167979 (2025-04-11 23:00  UTC)<br/>
+ Decay: 5.9 on Nivel 43
+ (2025-04-11 23:00  UTC)<br/>
+*Zea Rugosia*'s invasion is successful (2025-04-11 23:06  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-04-11 23:06  UTC)<br/>
+*Meridia* moves to X 0.29074815 Y 0.11681751 (2025-04-12 03:00  UTC)<br/>
+*Botein* of the Guang sector is invaded by Illuminate (2025-04-12 06:16  UTC)<br/>
+*Meridia* moves to X 0.2905437 Y 0.11683635 (2025-04-12 07:00  UTC)<br/>
+
+# Day: #430
+ Decay: 5.7 on Nivel 43
+ (2025-04-12 09:00  UTC)<br/>
+*Alaraph*'s invasion is successful (2025-04-12 09:09  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-12 09:09  UTC)<br/>
+*Meridia* moves to X 0.29032615 Y 0.116856396 (2025-04-12 11:00  UTC)<br/>
+*Meridia* moves to X 0.29011104 Y 0.11687622 (2025-04-12 15:00  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-04-12 15:22  UTC)<br/>
+*Botein*'s invasion is successful (2025-04-12 18:16  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-04-12 18:16  UTC)<br/>
+*Meridia* moves to X 0.28988972 Y 0.116896614 (2025-04-12 19:00  UTC)<br/>
+ Decay: 5.4 on Nivel 43
+ (2025-04-12 19:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. In order to boost civilian support of ongoing operations, *Super Earth* High Command has authorized temporary universal access to the HEAVY MACHINE GUN stratagem. (2025-04-12 20:36  UTC)<br/>
+ Decay: 5.0 on Esker
+ (2025-04-12 20:36  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Illuminate (2025-04-13 02:19  UTC)<br/>
+*Meridia* moves to X 0.2894385 Y 0.116938196 (2025-04-13 03:00  UTC)<br/>
+*Asperoth Prime*'s invasion is successful (2025-04-13 03:22  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-13 03:22  UTC)<br/>
+DSS deploys to *Termadon* of the Quintus sector (2025-04-13 04:04  UTC)<br/>
+ Decay: 5.0 on Nivel 43
+ (2025-04-13 06:00  UTC)<br/>
+*Meridia* moves to X 0.2892011 Y 0.11696007 (2025-04-13 07:00  UTC)<br/>
+
+### Day: #431
+*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-04-13 09:21  UTC)<br/>
+*Meridia* moves to X 0.28896847 Y 0.11698151 (2025-04-13 11:00  UTC)<br/>
+ Decay: 4.5 on Nivel 43
+ (2025-04-13 11:00  UTC)<br/>
+*Termadon*'s invasion is successful (2025-04-13 12:16  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-13 12:16  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2025-04-13 12:17  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-04-13 14:07  UTC)<br/>
+*Meridia* moves to X 0.28872213 Y 0.11700421 (2025-04-13 15:00  UTC)<br/>
