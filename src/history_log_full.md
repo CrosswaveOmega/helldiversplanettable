@@ -6462,3 +6462,22 @@ DSS deploys to *Termadon* of the Quintus sector (2025-04-13 04:04  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-04-13 12:17  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-13 14:07  UTC)<br/>
 *Meridia* moves to X 0.28872213 Y 0.11700421 (2025-04-13 15:00  UTC)<br/>
+*Meridia* moves to X 0.28848204 Y 0.11702633 (2025-04-13 19:00  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Illuminate (2025-04-13 19:24  UTC)<br/>
+ Decay: 4.0 on Esker
+ (2025-04-13 19:24  UTC)<br/>
+*Heze Bay*'s invasion is successful (2025-04-13 21:22  UTC)<br/>
+↳ Hanzo sector is fully under Human control (2025-04-13 21:22  UTC)<br/>
+ Decay: 4.0 on Nivel 43
+ (2025-04-13 21:22  UTC)<br/>
+*Meridia* moves to X 0.28823823 Y 0.1170488 (2025-04-13 23:00  UTC)<br/>
+*Meridia* moves to X 0.28799662 Y 0.11707106 (2025-04-14 03:00  UTC)<br/>
+*Grafmere* of the Rictus sector is invaded by Illuminate (2025-04-14 05:10  UTC)<br/>
+*Meridia* moves to X 0.28775904 Y 0.11709295 (2025-04-14 07:00  UTC)<br/>
+*Spherion*'s invasion is successful (2025-04-14 07:25  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-14 07:25  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2025-04-14 07:48  UTC)<br/>
+
+### Day: #432
+ Decay: 0.0 on Lesath<br/> Decay: 3.5 on Nivel 43
+ (2025-04-14 09:00  UTC)<br/>
