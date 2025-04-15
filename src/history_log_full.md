@@ -2459,7 +2459,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
 *Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46  UTC)<br/>
  Decay: 500.0 on Socorro III
  (2024-08-27 11:46  UTC)<br/>
-NOTE: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The inner edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
+NOTE: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The outer edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
 *Diaspora X* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 *Enuliale* is overtaken by the Gloomwall (2024-08-27 11:50  UTC)<br/>
 ↳ *Enuliale* is now unobservable due to the Gloom (2024-08-27 11:50  UTC)<br/>
@@ -6460,7 +6460,7 @@ DSS deploys to *Termadon* of the Quintus sector (2025-04-13 04:04  UTC)<br/>
 *Termadon*'s invasion is successful (2025-04-13 12:16  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-13 12:16  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-04-13 12:17  UTC)<br/>
-DSS effect Orbital Blockade is activated (2025-04-13 14:07  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-04-13 14:01  UTC)<br/>
 *Meridia* moves to X 0.28872213 Y 0.11700421 (2025-04-13 15:00  UTC)<br/>
 *Meridia* moves to X 0.28848204 Y 0.11702633 (2025-04-13 19:00  UTC)<br/>
 *Spherion* of the Quintus sector is invaded by Illuminate (2025-04-13 19:24  UTC)<br/>
@@ -6481,3 +6481,43 @@ DSS effect Orbital Blockade is activated (2025-04-13 14:07  UTC)<br/>
 ### Day: #432
  Decay: 0.0 on Lesath<br/> Decay: 3.5 on Nivel 43
  (2025-04-14 09:00  UTC)<br/>
+*Meridia* moves to X 0.28751314 Y 0.11711562 (2025-04-14 11:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-14 14:01  UTC)<br/>
+*Meridia* moves to X 0.28727505 Y 0.11713756 (2025-04-14 15:00  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-04-14 15:23  UTC)<br/>
+ Decay: 3.2 on Nivel 43
+ (2025-04-14 15:23  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
+*Grafmere*'s invasion is successful (2025-04-14 17:11  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-14 17:11  UTC)<br/>
+*Meridia* moves to X 0.28703377 Y 0.117159784 (2025-04-14 19:00  UTC)<br/>
+*Meridia* moves to X 0.2867951 Y 0.11718178 (2025-04-14 23:00  UTC)<br/>
+ Decay: 2.9 on Nivel 43
+ (2025-04-14 23:00  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Illuminate (2025-04-15 01:24  UTC)<br/>
+*Meridia* moves to X 0.28656176 Y 0.11720329 (2025-04-15 03:00  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2025-04-15 03:23  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-15 03:23  UTC)<br/>
+*Meridia* moves to X 0.28632143 Y 0.11722543 (2025-04-15 07:00  UTC)<br/>
+↳ *Penta* liberation campaign ends (2025-04-15 07:50  UTC)<br/>
+↳ *Chort Bay* liberation campaign ends (2025-04-15 07:50  UTC)<br/>
+*Lesath* defense is failed (2025-04-15 07:51  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2025-04-15 07:51  UTC)<br/>
+↳ Lacaille sector is fully under Automaton control (2025-04-15 07:51  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-04-15 08:41  UTC)<br/>
+ Decay: 1.5 on Lesath
+ (2025-04-15 08:41  UTC)<br/>
+
+### Day: #433
+ Decay: 0.0 on Acamar IV
+ (2025-04-15 09:00  UTC)<br/>
+*Meridia* moves to X 0.28608897 Y 0.11724685 (2025-04-15 11:00  UTC)<br/>
+*Setia* of the Omega sector is invaded by Illuminate (2025-04-15 11:27  UTC)<br/>
+ Decay: 500.0 on Human worlds<br/> Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Oshaune, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Jin Xi sector, Farsight sector, Lacaille sector, Andromeda sector, Ymir sector, Valdis sector, Gellert sector, Sten sector, Trigon sector<br/> Decay: 0.0 on Meridia, Acamar IV<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Andromeda sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 0.0 on Julheim, Dolph, Bekvam III, Mort, Troost<br/> Decay: 4.0 on Esker<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime, Nivel 43<br/> Decay: 3.0 on Chort Bay, Claorell<br/> Decay: 6.0 on L'estrade sector
+ (2025-04-15 11:27  UTC)<br/>
+*Haldus*'s invasion is successful (2025-04-15 13:25  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-04-15 13:25  UTC)<br/>
+*Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-15 14:14  UTC)<br/>
+*Meridia* moves to X 0.2858535 Y 0.11726855 (2025-04-15 15:00  UTC)<br/>
+ Decay: 0.0 on Ursica XI
+ (2025-04-15 15:00  UTC)<br/>
