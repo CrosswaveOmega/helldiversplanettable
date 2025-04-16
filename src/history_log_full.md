@@ -6512,12 +6512,29 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-04-15 09:00  UTC)<br/>
 *Meridia* moves to X 0.28608897 Y 0.11724685 (2025-04-15 11:00  UTC)<br/>
+ Decay: 2.5 on Nivel 43
+ (2025-04-15 11:00  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-04-15 11:27  UTC)<br/>
- Decay: 500.0 on Human worlds<br/> Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Oshaune, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, Borgus sector, Jin Xi sector, Farsight sector, Lacaille sector, Andromeda sector, Ymir sector, Valdis sector, Gellert sector, Sten sector, Trigon sector<br/> Decay: 0.0 on Meridia, Acamar IV<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Andromeda sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 0.0 on Julheim, Dolph, Bekvam III, Mort, Troost<br/> Decay: 4.0 on Esker<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime, Nivel 43<br/> Decay: 3.0 on Chort Bay, Claorell<br/> Decay: 6.0 on L'estrade sector
- (2025-04-15 11:27  UTC)<br/>
+Assault Division: Predator Strain U3 deploys to *Nivel 43* (2025-04-15 12:11  UTC)<br/>
 *Haldus*'s invasion is successful (2025-04-15 13:25  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-04-15 13:25  UTC)<br/>
 *Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-15 14:14  UTC)<br/>
 *Meridia* moves to X 0.2858535 Y 0.11726855 (2025-04-15 15:00  UTC)<br/>
  Decay: 0.0 on Ursica XI
  (2025-04-15 15:00  UTC)<br/>
+*Meridia* moves to X 0.28561932 Y 0.11729013 (2025-04-15 19:00  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Illuminate (2025-04-15 21:31  UTC)<br/>
+*Meridia* moves to X 0.28539065 Y 0.1173112 (2025-04-15 23:00  UTC)<br/>
+*Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
+↳ Major Order | Operation A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:28  UTC)<br/>
+↳ Assault Division: Predator Strain U3 is routed (2025-04-15 23:28  UTC)<br/>
+*Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
+*Meridia* moves to X 0.28515476 Y 0.11733294 (2025-04-16 03:00  UTC)<br/>
+*Acamar IV* defense is won (2025-04-16 04:18  UTC)<br/>
+DSS deploys to *Ursica XI* of the Borgus sector (2025-04-16 04:18  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-04-16 06:00  UTC)<br/>
+*Meridia* moves to X 0.28492698 Y 0.11735393 (2025-04-16 07:00  UTC)<br/>
