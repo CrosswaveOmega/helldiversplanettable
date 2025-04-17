@@ -6529,7 +6529,7 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
 *Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
 ↳ Major Order | Operation A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:28  UTC)<br/>
-↳ Assault Division: Predator Strain U3 is routed (2025-04-15 23:28  UTC)<br/>
+Assault Division: Predator Strain U3 is routed (2025-04-15 23:28  UTC)<br/>
 *Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
 *Meridia* moves to X 0.28515476 Y 0.11733294 (2025-04-16 03:00  UTC)<br/>
@@ -6538,3 +6538,58 @@ DSS deploys to *Ursica XI* of the Borgus sector (2025-04-16 04:18  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2025-04-16 06:00  UTC)<br/>
 *Meridia* moves to X 0.28492698 Y 0.11735393 (2025-04-16 07:00  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-04-16 07:26  UTC)<br/>
+
+### Day: #434
+*Kraz*'s invasion is successful (2025-04-16 09:35  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-04-16 09:35  UTC)<br/>
+*Ursica XI* defense is won (2025-04-16 09:53  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-04-16 09:53  UTC)<br/>
+*Meridia* moves to X 0.2846998 Y 0.11737487 (2025-04-16 11:00  UTC)<br/>
+ Decay: 500.0 on Ursica XI
+ (2025-04-16 11:00  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Terminids (2025-04-16 11:31  UTC)<br/>
+Assault Division: Predator Strain U4A deploys to *Esker* (2025-04-16 11:31  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2025-04-16 11:41  UTC)<br/>
+Assault Division: Predator Strain U4B deploys to *Crimsica* (2025-04-16 11:41  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-04-16 11:51  UTC)<br/>
+Assault Division: Predator Strain U4C deploys to *Fenrir III* (2025-04-16 11:51  UTC)<br/>
+ Decay: 0.0 on Esker, Crimsica
+ (2025-04-16 11:51  UTC)<br/>
+Major Order | Operation A2-4-3 Gloom Surge Defend 9 is issued | Objective: Defend (2025-04-16 12:01  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Multiple Gloom-adjacent planets have come under sudden onslaught by mutated Terminids. The Helldivers are called to their immediate defense. The enemy combatants match descriptions and attack patterns of the Predator Strain. Consult your Galactic Map for more information. (2025-04-16 12:04  UTC)<br/>
+ Decay: 0.0 on Fenrir III
+ (2025-04-16 14:00  UTC)<br/>
+*Meridia* moves to X 0.2844687 Y 0.11739616 (2025-04-16 15:00  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-16 16:18  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Illuminate (2025-04-16 16:38  UTC)<br/>
+*Meridia* moves to X 0.28423908 Y 0.11741732 (2025-04-16 19:00  UTC)<br/>
+*Acubens Prime*'s invasion is successful (2025-04-16 19:30  UTC)<br/>
+↳ Gallux sector is fully under Human control (2025-04-16 19:30  UTC)<br/>
+ Decay: -5.0 on Nivel 43
+ (2025-04-16 22:00  UTC)<br/>
+*Meridia* moves to X 0.28399825 Y 0.11743951 (2025-04-16 23:00  UTC)<br/>
+*Keid* of the Akira sector is invaded by Illuminate (2025-04-17 01:35  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-04-17 01:52  UTC)<br/>
+*Meridia* moves to X 0.28376308 Y 0.11746118 (2025-04-17 03:00  UTC)<br/>
+*Valmox*'s invasion is successful (2025-04-17 04:38  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-17 04:38  UTC)<br/>
+*Fenrir III* defense is won (2025-04-17 05:50  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-04-17 05:51  UTC)<br/>
+*Meridia* moves to X 0.28351337 Y 0.1174842 (2025-04-17 07:00  UTC)<br/>
+ Decay: 1.0 on Fenrir III
+ (2025-04-17 07:00  UTC)<br/>
+
+### Day: #435
+Assault Division: Predator Strain U4D deploys to *Gacrux* (2025-04-17 09:43  UTC)<br/>
+Assault Division: Predator Strain U4D leaves *Gacrux* (2025-04-17 10:35  UTC)<br/>
+Assault Division: Predator Strain U4D deploys to *Pandion-XXIV* (2025-04-17 10:36  UTC)<br/>
+*Esker* defense is failed (2025-04-17 11:34  UTC)<br/>
+↳ *Esker* liberation campaign starts (2025-04-17 11:34  UTC)<br/>
+Assault Division: Predator Strain U4D leaves *Pandion-XXIV* (2025-04-17 11:35  UTC)<br/>
+Assault Division: Predator Strain U4D deploys to *Phact Bay* (2025-04-17 11:36  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-17 11:39  UTC)<br/>
+Assault Division: Predator Strain U4D leaves *Phact Bay* (2025-04-17 12:35  UTC)<br/>
+ Decay: 1.5 on Esker
+ (2025-04-17 12:35  UTC)<br/>
+Assault Division: Predator Strain U4D deploys to *Gar Haren* (2025-04-17 12:37  UTC)<br/>
