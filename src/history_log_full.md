@@ -6571,10 +6571,12 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-16 16:18  UTC)<br/>
 *Meridia* moves to X 0.28399825 Y 0.11743951 (2025-04-16 23:00  UTC)<br/>
 *Keid* of the Akira sector is invaded by Illuminate (2025-04-17 01:35  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-04-17 01:52  UTC)<br/>
+DSS effect Eagle Storm stops (2025-04-17 01:55  UTC)<br/>
 *Meridia* moves to X 0.28376308 Y 0.11746118 (2025-04-17 03:00  UTC)<br/>
 *Valmox*'s invasion is successful (2025-04-17 04:38  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-04-17 04:38  UTC)<br/>
 *Fenrir III* defense is won (2025-04-17 05:50  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-17 05:50  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-04-17 05:51  UTC)<br/>
 *Meridia* moves to X 0.28351337 Y 0.1174842 (2025-04-17 07:00  UTC)<br/>
  Decay: 1.0 on Fenrir III
@@ -6584,6 +6586,7 @@ DSS deploys to *Crimsica* of the Draco sector (2025-04-17 05:51  UTC)<br/>
 Assault Division: Predator Strain U4D deploys to *Gacrux* (2025-04-17 09:43  UTC)<br/>
 Assault Division: Predator Strain U4D leaves *Gacrux* (2025-04-17 10:35  UTC)<br/>
 Assault Division: Predator Strain U4D deploys to *Pandion-XXIV* (2025-04-17 10:36  UTC)<br/>
+*Meridia* moves to X 0.28326845 Y 0.117506765 (2025-04-17 11:00  UTC)<br/>
 *Esker* defense is failed (2025-04-17 11:34  UTC)<br/>
 ↳ *Esker* liberation campaign starts (2025-04-17 11:34  UTC)<br/>
 Assault Division: Predator Strain U4D leaves *Pandion-XXIV* (2025-04-17 11:35  UTC)<br/>
@@ -6593,3 +6596,41 @@ Assault Division: Predator Strain U4D leaves *Phact Bay* (2025-04-17 12:35  UTC)
  Decay: 1.5 on Esker
  (2025-04-17 12:35  UTC)<br/>
 Assault Division: Predator Strain U4D deploys to *Gar Haren* (2025-04-17 12:37  UTC)<br/>
+*Keid*'s invasion is successful (2025-04-17 13:35  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-04-17 13:35  UTC)<br/>
+Assault Division: Predator Strain U4D leaves *Gar Haren* (2025-04-17 13:36  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-04-17 13:37  UTC)<br/>
+Assault Division: Predator Strain U4D deploys to *Achernar Secundus* (2025-04-17 13:37  UTC)<br/>
+*Meridia* moves to X 0.2830211 Y 0.117529556 (2025-04-17 15:00  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2025-04-17 15:00  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-04-17 15:36  UTC)<br/>
+Assault Division: Predator Strain U4A divides into 2 groups [U4A, U4E] (2025-04-17 15:36  UTC)<br/>
+Assault Division: Predator Strain U4E deploys to *Bore Rock* (2025-04-17 15:36  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2025-04-17 16:00  UTC)<br/>
+*Crimsica* defense is won (2025-04-17 18:12  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2025-04-17 18:12  UTC)<br/>
+*Meridia* moves to X 0.28277478 Y 0.11755225 (2025-04-17 19:00  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2025-04-17 19:00  UTC)<br/>
+Assault Division: Predator Strain U4F deploys to *Gacrux* (2025-04-17 19:34  UTC)<br/>
+*Nivel 43* of the Mirin sector instantly flips to Terminid control (2025-04-17 20:10  UTC)<br/>
+Assault Division: Predator Strain U4F leaves *Gacrux* (2025-04-17 20:33  UTC)<br/>
+ Decay: 1.5 on Nivel 43
+ (2025-04-17 20:33  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-04-17 20:34  UTC)<br/>
+Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-17 20:34  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-04-17 20:35  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2025-04-17 22:00  UTC)<br/>
+*Meridia* moves to X 0.28253004 Y 0.11757481 (2025-04-17 23:00  UTC)<br/>
+*Sirius*'s invasion is successful (2025-04-17 23:40  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-04-17 23:40  UTC)<br/>
+*Meridia* moves to X 0.28227207 Y 0.11759858 (2025-04-18 03:00  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-04-18 06:32  UTC)<br/>
+*Meridia* moves to X 0.2820214 Y 0.117621675 (2025-04-18 07:00  UTC)<br/>
+*Elysian Meadows*'s invasion is successful (2025-04-18 08:35  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-04-18 08:35  UTC)<br/>
+
+### Day: #436
