@@ -2969,8 +2969,10 @@ DSS Construction Phase Two is started (2024-10-11 13:57  UTC)<br/>
 Major Order | Operation A1-10-3 Terminid Preserve is issued | Objective: Control (2024-10-11 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere Drives, the Helldivers are ordered to help establish a multi-planet Terminid Research Preserve on *Acamar IV*. The Helldivers are to clear and hold the surrounding planets in order to establish a quarantine. Inside the quarantine, Terminid specimens will be seeded inside tightly-controlled multi-acre facilities, where they can be studied by researchers as needed. (2024-10-11 15:08  UTC)<br/>
 *Acamar IV* of the Jin Xi sector instantly flips to Terminid Control (2024-10-11 15:11  UTC)<br/>
+↳ *Acamar IV* liberation campaign starts (2024-10-11 15:11  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
 ↳ *Gacrux* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
+*Acamar IV* liberation campaign ends (2024-10-11 15:12  UTC)<br/>
 *Achird III* of the Borgus sector is attacked by Terminids (2024-10-11 15:13  UTC)<br/>
 *Pandion-XXIV* liberation campaign starts (2024-10-11 15:14  UTC)<br/>
 *Gacrux* liberation campaign starts (2024-10-11 15:28  UTC)<br/>
@@ -6634,3 +6636,107 @@ Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-17 20:34  
 ↳ Guang sector is fully under Human control (2025-04-18 08:35  UTC)<br/>
 
 ### Day: #436
+*Meridia* moves to X 0.2817636 Y 0.117645435 (2025-04-18 11:00  UTC)<br/>
+*Achernar Secundus* defense is won (2025-04-18 11:16  UTC)<br/>
+Assault Division: Predator Strain U4D is routed (2025-04-18 11:16  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-18 11:16  UTC)<br/>
+ Decay: 500.0 on Achernar Secundus
+ (2025-04-18 12:00  UTC)<br/>
+*Meridia* moves to X 0.2815107 Y 0.11766874 (2025-04-18 15:00  UTC)<br/>
+*Bore Rock* defense is failed (2025-04-18 15:40  UTC)<br/>
+↳ *Bore Rock* liberation campaign starts (2025-04-18 15:40  UTC)<br/>
+↳ *Esker* liberation campaign ends (2025-04-18 15:40  UTC)<br/>
+↳ Falstaff sector is fully under Terminid control (2025-04-18 15:40  UTC)<br/>
+*Skat Bay* of the Xi Tauri sector is invaded by Illuminate (2025-04-18 16:42  UTC)<br/>
+ Decay: 1.0 on Bore Rock
+ (2025-04-18 16:42  UTC)<br/>
+*Osupsam*'s invasion is successful (2025-04-18 18:34  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-04-18 18:34  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-04-18 18:37  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-18 18:37  UTC)<br/>
+Assault Division: Predator Strain U4E divides into 3 groups [U4E, U4G, U5H] (2025-04-18 18:38  UTC)<br/>
+Assault Division: Predator Strain U4G deploys to *Terrek* (2025-04-18 18:38  UTC)<br/>
+Assault Division: Predator Strain U4H deploys to *Erata Prime* (2025-04-18 18:38  UTC)<br/>
+*Meridia* moves to X 0.2812601 Y 0.11769183 (2025-04-18 19:00  UTC)<br/>
+ Decay: 0.0 on Terrek, Erata Prime
+ (2025-04-18 19:00  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating *Bore Rock* would end the current Terminid attacks on *Terrek* and *Erata Prime*. (2025-04-18 19:07  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-04-18 20:24  UTC)<br/>
+*Acamar IV* defense is failed (2025-04-18 20:38  UTC)<br/>
+↳ *Acamar IV* liberation campaign starts (2025-04-18 20:38  UTC)<br/>
+↳ *Pandion-XXIV* liberation campaign ends (2025-04-18 20:38  UTC)<br/>
+↳ *Gacrux* liberation campaign ends (2025-04-18 20:38  UTC)<br/>
+↳ Jin Xi sector is fully under Terminid control (2025-04-18 20:38  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-04-18 22:52  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-04-18 22:52  UTC)<br/>
+*Meridia* moves to X 0.28100637 Y 0.11771521 (2025-04-18 23:00  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Terminids (2025-04-18 23:37  UTC)<br/>
+Assault Division: Predator Strain U4I deploys to *Estanu* (2025-04-18 23:38  UTC)<br/>
+ Decay: 0.0 on Estanu
+ (2025-04-19 00:00  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is invaded by Illuminate (2025-04-19 02:44  UTC)<br/>
+*Meridia* moves to X 0.28076077 Y 0.117737845 (2025-04-19 03:00  UTC)<br/>
+*Skat Bay*'s invasion is successful (2025-04-19 04:43  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-04-19 04:43  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2025-04-19 05:38  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2025-04-19 05:38  UTC)<br/>
+Assault Division: Predator Strain U4F divides into 3 groups [U4F, U4J, U5K] (2025-04-19 05:38  UTC)<br/>
+Assault Division: Predator Strain U4J deploys to *Crimsica* (2025-04-19 05:38  UTC)<br/>
+Assault Division: Predator Strain U4K deploys to *Turing* (2025-04-19 05:39  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating *Acamar IV* would end the current Terminid attacks on *Turing* and *Crimsica*. (2025-04-19 06:39  UTC)<br/>
+ Decay: 0.0 on Crimsica, Turing
+ (2025-04-19 06:39  UTC)<br/>
+*Meridia* moves to X 0.2805084 Y 0.1177611 (2025-04-19 07:00  UTC)<br/>
+
+### Day: #437
+*Meridia* moves to X 0.28026068 Y 0.11778393 (2025-04-19 11:00  UTC)<br/>
+*Bore Rock* is liberated (2025-04-19 11:18  UTC)<br/>
+↳ *Terrek* defense is auto-won via gambit (2025-04-19 11:18  UTC)<br/>
+↳ *Erata Prime* defense is auto-won via gambit (2025-04-19 11:18  UTC)<br/>
+↳ *Esker* liberation campaign starts (2025-04-19 11:18  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4E is routed (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4G is routed (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4H is routed (2025-04-19 11:18  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-19 11:19  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-04-19 11:44  UTC)<br/>
+ Decay: 500.0 on Terrek<br/> Decay: 2.5 on Erata Prime
+ (2025-04-19 11:44  UTC)<br/>
+*Herthon Secundus*'s invasion is successful (2025-04-19 14:45  UTC)<br/>
+↳ Ferris sector is fully under Human control (2025-04-19 14:45  UTC)<br/>
+*Meridia* moves to X 0.28000876 Y 0.11780714 (2025-04-19 15:00  UTC)<br/>
+*Meridia* moves to X 0.2797499 Y 0.117831 (2025-04-19 19:00  UTC)<br/>
+Assault Division: Predator Strain U4F leaves *Acamar IV* (2025-04-19 20:40  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Illuminate (2025-04-19 20:44  UTC)<br/>
+Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-19 21:32  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-04-19 22:56  UTC)<br/>
+*Meridia* moves to X 0.27949303 Y 0.11785467 (2025-04-19 23:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-04-19 23:29  UTC)<br/>
+*Estanu* defense is failed (2025-04-19 23:41  UTC)<br/>
+↳ *Estanu* liberation campaign starts (2025-04-19 23:41  UTC)<br/>
+Assault Division: Predator Strain U4I leaves *Estanu* (2025-04-19 23:41  UTC)<br/>
+*Hesoe Prime*'s invasion is successful (2025-04-19 23:44  UTC)<br/>
+↳ Rigel sector is fully under Human control (2025-04-19 23:44  UTC)<br/>
+ Decay: 1.5 on Estanu
+ (2025-04-20 00:00  UTC)<br/>
+*Meridia* moves to X 0.27922356 Y 0.117879495 (2025-04-20 03:00  UTC)<br/>
+*Acamar IV* is liberated (2025-04-20 04:53  UTC)<br/>
+↳ *Crimsica* defense is auto-won via gambit (2025-04-20 04:53  UTC)<br/>
+↳ *Turing* defense is auto-won via gambit (2025-04-20 04:53  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4F is routed (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4J is routed (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4K is routed (2025-04-20 04:53  UTC)<br/>
+DSS deploys to *Estanu* of the Draco sector (2025-04-20 04:53  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-04-20 05:42  UTC)<br/>
+ Decay: 1.5 on Crimsica<br/> Decay: 2.5 on Turing<br/> Decay: 0.0 on Erata Prime
+ (2025-04-20 05:42  UTC)<br/>
+*Meridia* moves to X 0.27895916 Y 0.117903866 (2025-04-20 07:00  UTC)<br/>
+*Parsh*'s invasion is successful (2025-04-20 08:45  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-20 08:45  UTC)<br/>
+
+### Day: #438
