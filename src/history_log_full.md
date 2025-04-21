@@ -6759,3 +6759,23 @@ Dispatch: MAJOR ORDER WON. The sudden onslaught of Gloom-mutated Terminids has b
  Decay: 2.5 on Erata Prime
  (2025-04-20 22:00  UTC)<br/>
 *Meridia* moves to X 0.27783877 Y 0.11800711 (2025-04-20 23:00  UTC)<br/>
+*Karlia* of the Omega sector is invaded by Illuminate (2025-04-20 23:27  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-20 23:33  UTC)<br/>
+*Leng Secundus*'s invasion is repelled (2025-04-21 02:38  UTC)<br/>
+↳ Quintus sector is fully under Human control (2025-04-21 02:38  UTC)<br/>
+*Meridia* moves to X 0.27754855 Y 0.11803385 (2025-04-21 03:00  UTC)<br/>
+*Fenrir III* defense is won (2025-04-21 06:49  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-21 06:49  UTC)<br/>
+Assault Division: Predator Strain U4M is routed (2025-04-21 06:49  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2025-04-21 06:49  UTC)<br/>
+*Meridia* moves to X 0.27725178 Y 0.1180612 (2025-04-21 07:00  UTC)<br/>
+*Karlia*'s invasion is repelled (2025-04-21 08:43  UTC)<br/>
+↳ Omega sector is fully under Human control (2025-04-21 08:43  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-04-21 08:43  UTC)<br/>
+ Decay: 1.0 on Fenrir III
+ (2025-04-21 08:43  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Illuminate (2025-04-21 08:54  UTC)<br/>
+
+### Day: #439
+*Meridia* moves to X 0.27696344 Y 0.11808777 (2025-04-21 11:00  UTC)<br/>
+*Meridia* moves to X 0.2766846 Y 0.118113466 (2025-04-21 15:00  UTC)<br/>
