@@ -6740,3 +6740,22 @@ Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53
 ↳ Rictus sector is fully under Human control (2025-04-20 08:45  UTC)<br/>
 
 ### Day: #438
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-04-20 10:42  UTC)<br/>
+Assault Division: Predator Strain U4M deploys to *Fenrir III* (2025-04-20 10:43  UTC)<br/>
+*Meridia* moves to X 0.27868083 Y 0.11792951 (2025-04-20 11:00  UTC)<br/>
+ Decay: 0.0 on Fenrir III
+ (2025-04-20 11:00  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-04-20 14:49  UTC)<br/>
+*Meridia* moves to X 0.2784068 Y 0.11795476 (2025-04-20 15:00  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-20 16:30  UTC)<br/>
+*Klaka 5*'s invasion is successful (2025-04-20 17:42  UTC)<br/>
+↳ Alstrad sector is fully under Human control (2025-04-20 17:42  UTC)<br/>
+*Meridia* moves to X 0.27812293 Y 0.11798092 (2025-04-20 19:00  UTC)<br/>
+*Erata Prime* defense is won (2025-04-20 20:37  UTC)<br/>
+↳ Major Order | Operation A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
+NOTE: When the *Acamar IV* Gambit for the *Crimsica* and *Turing* defenses was won the counter went from 5 to 8 for unknown reasons. (2025-04-20 20:37  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-20 20:37  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The sudden onslaught of Gloom-mutated Terminids has been slowed, following days of heavy fighting. The Predator Strain remains at large. Consult your Galactic Map for more information. (2025-04-20 20:44  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2025-04-20 22:00  UTC)<br/>
+*Meridia* moves to X 0.27783877 Y 0.11800711 (2025-04-20 23:00  UTC)<br/>
