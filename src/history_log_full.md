@@ -6766,6 +6766,7 @@ DSS effect Orbital Blockade stops (2025-04-20 23:33  UTC)<br/>
 *Leng Secundus*'s invasion is repelled (2025-04-21 02:38  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-21 02:38  UTC)<br/>
 *Meridia* moves to X 0.27754855 Y 0.11803385 (2025-04-21 03:00  UTC)<br/>
+Assault Division: Predator Strain U4L is routed (2025-04-21 04:57  UTC)<br/>
 *Fenrir III* defense is won (2025-04-21 06:49  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-21 06:49  UTC)<br/>
 Assault Division: Predator Strain U4M is routed (2025-04-21 06:49  UTC)<br/>
