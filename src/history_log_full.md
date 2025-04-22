@@ -6750,6 +6750,8 @@ Assault Division: Predator Strain U4M deploys to *Fenrir III* (2025-04-20 10:43 
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-20 16:30  UTC)<br/>
 *Klaka 5*'s invasion is successful (2025-04-20 17:42  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-04-20 17:42  UTC)<br/>
+Major Order | Operation A2-4-4 Repel 5 and Kill 1.25B Voteless is issued | Objective: Defend/Eradicate (2025-04-20 18:41  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Illuminate have launched multiple simultaneous attacks, targeting our efforts to stop the Meridian Singularity. Consult your Galactic Map for more information. (2025-04-20 18:41  UTC)<br/>
 *Meridia* moves to X 0.27812293 Y 0.11798092 (2025-04-20 19:00  UTC)<br/>
 *Erata Prime* defense is won (2025-04-20 20:37  UTC)<br/>
 ↳ Major Order | Operation A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
@@ -6779,3 +6781,23 @@ DSS deploys to *Troost* of the Trigon sector (2025-04-21 08:43  UTC)<br/>
 ### Day: #439
 *Meridia* moves to X 0.27696344 Y 0.11808777 (2025-04-21 11:00  UTC)<br/>
 *Meridia* moves to X 0.2766846 Y 0.118113466 (2025-04-21 15:00  UTC)<br/>
+*Oasis*'s invasion is repelled (2025-04-21 16:54  UTC)<br/>
+↳ Rictus sector is fully under Human control (2025-04-21 16:54  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-21 18:31  UTC)<br/>
+NOTE: For two minutes from the start of the invasion to 06:33pm it was possible to see the Predator Strain flag due to the API function allowing it to appear not expiring yet. It was manually removed after 2 minutes gameplay wise they wouldn't have spawned due to this being an Illuminate event. (2025-04-21 18:33  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Illuminates (2025-04-21 18:37  UTC)<br/>
+*Meridia* moves to X 0.27641737 Y 0.11813809 (2025-04-21 19:00  UTC)<br/>
+*Meridia* moves to X 0.276147 Y 0.118163005 (2025-04-21 23:00  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-22 01:52  UTC)<br/>
+*Pilen V*'s invasion is repelled (2025-04-22 02:00  UTC)<br/>
+↳ Altus sector is fully under Human control (2025-04-22 02:00  UTC)<br/>
+*Meridia* moves to X 0.2758496 Y 0.11819041 (2025-04-22 03:00  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-22 06:15  UTC)<br/>
+*Fenrir III*'s invasion is successful (2025-04-22 06:32  UTC)<br/>
+DSS deploys to *Esker* of the Falstaff sector (2025-04-22 06:33  UTC)<br/>
+*Meridia* moves to X 0.2755509 Y 0.11821793 (2025-04-22 07:00  UTC)<br/>
+
+# Day: #440
+DSS deploys to *Turing* of the Umlaut sector (2025-04-22 09:54  UTC)<br/>
+*Meridia* moves to X 0.2752564 Y 0.11824507 (2025-04-22 11:00  UTC)<br/>
+*Meridia* moves to X 0.2749703 Y 0.11827143 (2025-04-22 15:00  UTC)<br/>
