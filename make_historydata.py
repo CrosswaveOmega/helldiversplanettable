@@ -399,12 +399,39 @@ def unordered_list_hash(int_list: List[int]):
             return i
     return "ERR"
 
+def longest_common_substring(s1, s2):
+    s1, s2 = s1.upper(), s2.upper()
+    m = [[0] * (1 + len(s2)) for _ in range(1 + len(s1))]
+    longest, x_longest = 0, 0
+    for x in range(1, 1 + len(s1)):
+        for y in range(1, 1 + len(s2)):
+            if s1[x - 1] == s2[y - 1]:
+                m[x][y] = m[x - 1][y - 1] + 1
+                if m[x][y] > longest:
+                    longest = m[x][y]
+                    x_longest = x
+            else:
+                m[x][y] = 0
+    return s1[x_longest - longest: x_longest]
 
 def get_effect(site):
+    max_shared_len = 0
+    best_pair = None
+    besteff=None
     for sdg, eff in ejson["planetEffects"].items():
-        if site.upper() in eff["name"].upper() or eff["name"].upper()  in site.upper():
+        name_upper = eff["name"].upper()
+        if name_upper==site.upper():
             return eff
-    return None
+        if site.upper() in name_upper or name_upper in site.upper():
+            site_upper = site.upper()
+            shared = longest_common_substring(name_upper, site_upper)
+            shared_len = len(shared)
+            if shared_len > max_shared_len:
+                max_shared_len = shared_len
+                best_pair = (eff, site)
+                besteff=eff
+    return besteff
+
 
 
 def ENCODE(CO, AT, L):
@@ -596,10 +623,10 @@ def update_planet_ownership(
                 for m in event.last_dss_planet:
                     n, i = m
                     planetclone[str(i)].dss = ""
-                    planetclone[str(ind)].remove_desc("DEMOCRACY SPACE STATION")
+                    planetclone[str(i)].remove_desc("DSS")
             planetclone[str(ind)].dss = "DSS Here"
             planetclone[str(ind)].add_desc(
-                "DEMOCRACY SPACE STATION",
+                "DSS",
                 'A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.',
             )
         if "SiteEvent" in event.type:
