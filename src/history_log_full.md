@@ -6756,6 +6756,7 @@ Dispatch: NEW MAJOR ORDER. The Illuminate have launched multiple simultaneous at
 *Erata Prime* defense is won (2025-04-20 20:37  UTC)<br/>
 ↳ Major Order | Operation A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
 NOTE: When the *Acamar IV* Gambit for the *Crimsica* and *Turing* defenses was won the counter went from 5 to 8 for unknown reasons. (2025-04-20 20:37  UTC)<br/>
+Assault Division: Predator Strain U4L is routed (2025-04-20 20:37  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-20 20:37  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The sudden onslaught of Gloom-mutated Terminids has been slowed, following days of heavy fighting. The Predator Strain remains at large. Consult your Galactic Map for more information. (2025-04-20 20:44  UTC)<br/>
  Decay: 2.5 on Erata Prime
@@ -6766,7 +6767,6 @@ DSS effect Orbital Blockade stops (2025-04-20 23:33  UTC)<br/>
 *Leng Secundus*'s invasion is repelled (2025-04-21 02:38  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-21 02:38  UTC)<br/>
 *Meridia* moves to X 0.27754855 Y 0.11803385 (2025-04-21 03:00  UTC)<br/>
-Assault Division: Predator Strain U4L is routed (2025-04-21 04:57  UTC)<br/>
 *Fenrir III* defense is won (2025-04-21 06:49  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-21 06:49  UTC)<br/>
 Assault Division: Predator Strain U4M is routed (2025-04-21 06:49  UTC)<br/>
@@ -6802,3 +6802,27 @@ DSS deploys to *Esker* of the Falstaff sector (2025-04-22 06:33  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-22 09:54  UTC)<br/>
 *Meridia* moves to X 0.2752564 Y 0.11824507 (2025-04-22 11:00  UTC)<br/>
 *Meridia* moves to X 0.2749703 Y 0.11827143 (2025-04-22 15:00  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-22 16:04  UTC)<br/>
+*Turing*'s invasion is repelled (2025-04-22 16:41  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-22 16:41  UTC)<br/>
+DSS deploys to *Esker* of the Falstaff sector (2025-04-22 16:42  UTC)<br/>
+*Meridia* moves to X 0.27468815 Y 0.118297435 (2025-04-22 19:00  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-04-22 19:55  UTC)<br/>
+*Meridia* moves to X 0.2744121 Y 0.11832287 (2025-04-22 23:00  UTC)<br/>
+DSS deploys to *Pilen V* of the Altus sector (2025-04-22 23:56  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-23 02:15  UTC)<br/>
+*Pilen V*'s invasion is repelled (2025-04-23 02:44  UTC)<br/>
+↳ Altus sector is fully under Human control (2025-04-23 02:44  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-04-23 02:44  UTC)<br/>
+*Meridia* moves to X 0.2741437 Y 0.11834761 (2025-04-23 03:00  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-23 03:56  UTC)<br/>
+*Meridia* moves to X 0.2738793 Y 0.11837197 (2025-04-23 07:00  UTC)<br/>
+
+### Day: #441
+*Meridia* moves to X 0.27362347 Y 0.118395545 (2025-04-23 11:00  UTC)<br/>
+*Mastia* of the Marspira sector is invaded by Illuminate (2025-04-23 13:42  UTC)<br/>
+*Fenrir III*'s invasion is repelled (2025-04-23 14:01  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-23 14:01  UTC)<br/>
+DSS deploys to *Esker* of the Falstaff sector (2025-04-23 14:01  UTC)<br/>
+*Meridia* moves to X 0.27337348 Y 0.11841858 (2025-04-23 15:00  UTC)<br/>
+DSS deploys to *Mastia* of the Marspira sector (2025-04-23 15:57  UTC)<br/>
