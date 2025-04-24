@@ -6841,16 +6841,17 @@ Dispatch: CENTER OF SCIENCE UPDATE. Scientists on *Fenrir III* are suffering fro
 DSS effect Eagle Storm starts (2025-04-24 08:01  UTC)<br/>
 *Turing*'s invasion is successful (2025-04-24 08:27  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-24 08:28  UTC)<br/>
-Dispatch:  XENOENTOMOLOGY CENTER DAMAGED.  The Xenoentomology Center on *Turing* has been significantly damaged by the Illuminate, resulting in an outbreak of mutated specimens that had been kept securely under study.   As a result, TURING has come under attack by the Predator Strain. (2025-04-24 08:28  UTC)<br/>
+Dispatch: XENOENTOMOLOGY CENTER DAMAGED. The Xenoentomology Center on *Turing* has been significantly damaged by the Illuminate, resulting in an outbreak of mutated specimens that had been kept securely under study. As a result, TURING has come under attack by the Predator Strain. (2025-04-24 08:28  UTC)<br/>
 *Turing* of the Umlaut sector instantly flips to Terminid control (2025-04-24 08:29  UTC)<br/>
-↳*Turing* liberation campaign starts (2025-04-24 08:29  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminates (2025-04-24 08:42  UTC)<br/>
+↳ *Turing* liberation campaign starts (2025-04-24 08:29  UTC)<br/>
+Assault Division: Predator Strain U5 deploys to *Turing* (2025-04-24 08:29  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-24 08:42  UTC)<br/>
 *Fenrir III*'s invasion is successful (2025-04-24 08:42  UTC)<br/>
-DSS deploys to *Troost* of the Trigon sector (2025-04-24 08:43  UTC)<br/>
-Dispatch:  PILEN V UNDER ATTACK.  The Illuminate attack on *Pilen V* threatens the Repulsive Gravity Field Generator, critical to halting the Meridian Wormhole.   The Generator is nearing completion; the Illuminate cannot be allowed to destroy our progress. (2025-04-24 08:44  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-04-24 08:42  UTC)<br/>
+Dispatch: PILEN V UNDER ATTACK. The Illuminate attack on *Pilen V* threatens the Repulsive Gravity Field Generator, critical to halting the Meridian Wormhole. The Generator is nearing completion; the Illuminate cannot be allowed to destroy our progress. (2025-04-24 08:44  UTC)<br/>
 
 ### Day: #442
 DSS deploys to *Pilen V* of the Altus sector (2025-04-24 11:57  UTC)<br/>
-Media moves to X 0.27169934 Y 0.11857285 (2025-04-24 15:00  UTC)<br/>
+*Meridia* moves to X 0.27169934 Y 0.11857285 (2025-04-24 15:00  UTC)<br/>
  Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Oshaune, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Talus sector, Tanis sector, Borgus sector, Jin Xi sector, Farsight sector, Lacaille sector, Andromeda sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector, Sten sector, Trigon sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 0.0 on Julheim, Dolph, Bekvam III, Mort, Troost<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 3.0 on Chort Bay, Claorell<br/> Decay: 6.0 on L'estrade sector
  (2025-04-24 15:00  UTC)<br/>
