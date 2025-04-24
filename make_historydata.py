@@ -23,6 +23,8 @@ from script_making.models import (
     PlanetState,
     DaysObject,
     GalaxyStates,
+    MyEffects,
+    GalacticEffect
 )
 from script_making.json_file_utils import (
     check_and_load_json,
@@ -78,7 +80,7 @@ CLUSTER_SIZE=2048
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("planets", "./hd2json")
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
-ejson = check_and_load_json("./myeffects.json")
+ejson = MyEffects(**check_and_load_json("./myeffects.json"))
 
 is_redirected = not sys.stdout.isatty()
 if is_redirected:
@@ -399,33 +401,18 @@ def unordered_list_hash(int_list: List[int]):
             return i
     return "ERR"
 
-def longest_common_substring(s1, s2):
-    s1, s2 = s1.upper(), s2.upper()
-    m = [[0] * (1 + len(s2)) for _ in range(1 + len(s1))]
-    longest, x_longest = 0, 0
-    for x in range(1, 1 + len(s1)):
-        for y in range(1, 1 + len(s2)):
-            if s1[x - 1] == s2[y - 1]:
-                m[x][y] = m[x - 1][y - 1] + 1
-                if m[x][y] > longest:
-                    longest = m[x][y]
-                    x_longest = x
-            else:
-                m[x][y] = 0
-    return s1[x_longest - longest: x_longest]
 
-def get_effect(site):
+def get_effect(site:str)->Optional[GalacticEffect]:
     max_shared_len = 0
     best_pair = None
     besteff=None
-    for sdg, eff in ejson["planetEffects"].items():
-        name_upper = eff["name"].upper()
+    for sdg, eff in ejson.planetEffects.items():
+        name_upper = eff.name.upper()
         if name_upper==site.upper():
             return eff
         if site.upper() in name_upper or name_upper in site.upper():
             site_upper = site.upper()
-            shared = longest_common_substring(name_upper, site_upper)
-            shared_len = len(shared)
+            shared_len = min(len(site_upper),len(name_upper))
             if shared_len > max_shared_len:
                 max_shared_len = shared_len
                 best_pair = (eff, site)
@@ -544,13 +531,13 @@ async def process_event(
                     planetclone[last].adiv = ""
                     eff = get_effect(site)
                     if eff:
-                        planetclone[last].remove_desc(eff["name"])
+                        planetclone[last].remove_desc(eff.name)
             if event.type == "Assault Division Defeat":
                 if last:
                     planetclone[last].adiv = ""
                     eff = get_effect(site)
                     if eff:
-                        planetclone[last].remove_desc(eff["name"])
+                        planetclone[last].remove_desc(eff.name)
     if event.planet:
         update_planet_ownership(event, planetclone, store)
 
@@ -634,12 +621,12 @@ def update_planet_ownership(
             if event.type == "SiteEvent built":
                 eff = get_effect(site)
                 if eff:
-                    planetclone[str(ind)].poi = eff["icon"]
-                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+                    planetclone[str(ind)].poi = eff.icon
+                    planetclone[str(ind)].add_desc(eff.name, eff.description)
             if event.type == "SiteEvent destroyed":
                 eff = get_effect(site)
                 if eff:
-                    planetclone[str(ind)].remove_desc(eff["name"])
+                    planetclone[str(ind)].remove_desc(eff.name)
                 planetclone[str(ind)].poi = ""
 
         if event.type == "planet move":
@@ -664,9 +651,9 @@ def update_planet_ownership(
                 if eff:
                     if last:
                         planetclone[last].adiv = ""
-                        planetclone[last].remove_desc(eff["name"])
-                    planetclone[str(ind)].adiv = eff["icon"]
-                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+                        planetclone[last].remove_desc(eff.name)
+                    planetclone[str(ind)].adiv = eff.icon
+                    planetclone[str(ind)].add_desc(eff.name, eff.description)
                     store[f"{site}Pos"] = str(ind)
 
         if event.type == "Biome Change":
@@ -681,23 +668,24 @@ def update_planet_ownership(
             #planetclone[str(ind)].biome = "destroyed"
             site="FRACTURED PLANET"
             planetclone[str(ind)].biome = "fractured"
+
             eff = get_effect(site)
             if eff:
-                planetclone[str(ind)].desc=[]
-                planetclone[str(ind)].poi = eff["icon"]
-                planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+                planetclone[str(ind)].desc = []
+                planetclone[str(ind)].poi = eff.icon
+                planetclone[str(ind)].add_desc(eff.name, eff.description)
 
         if "Threat" in event.type:
             site = 'VERGE OF DESTRUCTION'
             if event.type == "Threat Start":
                 eff = get_effect(site)
                 if eff:
-                    planetclone[str(ind)].poi = eff["icon"]
-                    planetclone[str(ind)].add_desc(eff["name"], eff["description"])
+                    planetclone[str(ind)].poi = eff.icon
+                    planetclone[str(ind)].add_desc(eff.name, eff.description)
             if event.type == "Threat End":
                 eff = get_effect(site)
                 if eff:
-                    planetclone[str(ind)].remove_desc(eff["name"])
+                    planetclone[str(ind)].remove_desc(eff.name)
                 planetclone[str(ind)].poi = ""
 
     if event.type == "newlink":

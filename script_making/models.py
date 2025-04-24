@@ -136,3 +136,13 @@ class DaysObject(BaseModel):
     timestamps: List[int] = Field(default_factory=list)
     lastday: int = Field(default=1)
     galaxystatic: Dict[str, PlanetStatic] = Field(default_factory=dict)
+
+
+class GalacticEffect(BaseModel):
+    galacticEffectId: int = Field(alias="galacticEffectId", default=0000)
+    name: str = Field(alias="name", default="NoName")
+    icon: str = Field(alias="icon", default="Governmental")
+    description: str = Field(alias="description", default="NA")
+
+class MyEffects(BaseModel):
+    planetEffects:Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
