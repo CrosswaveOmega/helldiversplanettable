@@ -6835,3 +6835,6 @@ DSS deploys to *Troost* of the Trigon sector (2025-04-23 20:30  UTC)<br/>
 *Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-23 20:42  UTC)<br/>
 *Meridia* moves to X 0.27288818 Y 0.1184633 (2025-04-23 23:00  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-23 23:57  UTC)<br/>
+*Meridia* moves to X 0.27262127 Y 0.118487895 (2025-04-24 03:00  UTC)<br/>
+*Meridia* moves to X 0.2723261 Y 0.1185151 (2025-04-24 07:00  UTC)<br/>
+Dispatch: CENTER OF SCIENCE UPDATE. Scientists on *Fenrir III* are suffering from the effects of prolonged stress due to successive Illuminate attacks. In order to sustain their critical research, they will be supplied with top-of-the-line treatments to maintain mental acument. This reallocation will have a short-term impact on Helldiver operations. Helldiver stim capacity temporarily reduced by 2. (2025-04-24 07:28  UTC)<br/>
