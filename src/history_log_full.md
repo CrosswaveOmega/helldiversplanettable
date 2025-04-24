@@ -6826,3 +6826,12 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-23 03:56  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2025-04-23 14:01  UTC)<br/>
 *Meridia* moves to X 0.27337348 Y 0.11841858 (2025-04-23 15:00  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-04-23 15:57  UTC)<br/>
+*Meridia* moves to X 0.27312994 Y 0.11844102 (2025-04-23 19:00  UTC)<br/>
+Dispatch: INFORMATIONAL ADVISORY. SEAF Combat Pathologists have identified a defect affecting a small percentage of currently-deployed Voteless: occipital abnormalities require the exercise of local mind control to a much greater degree than normal. This creates a short-term opportunity for the current order: successfully repelling Illuminate attacks will instantly repatriate large numbers of Voteless. Once freed, their remains will be available to further advance our scientific endeavors. (2025-04-23 20:21  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-23 20:28  UTC)<br/>
+*Mastia*'s invasion is repelled (2025-04-23 20:30  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-04-23 20:30  UTC)<br/>
+DSS deploys to *Troost* of the Trigon sector (2025-04-23 20:30  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-23 20:42  UTC)<br/>
+*Meridia* moves to X 0.27288818 Y 0.1184633 (2025-04-23 23:00  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-04-23 23:57  UTC)<br/>
