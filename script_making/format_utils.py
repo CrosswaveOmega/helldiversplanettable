@@ -190,39 +190,37 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
         return type_, name, case, objective
     else:
         return None
-    
-def extract_poi_details(
-        text:str
-):
-    match = re.search(r'is established as a (.*?) POI', text)
+
+
+def extract_poi_details(text: str):
+    match = re.search(r"is established as a (.*?) POI", text)
 
     if match:
         return match.group(1)
-    
+
     match = re.search(r"of the .*?'s (.*?) POI", text)
 
     if match:
         return match.group(1)
     return "SITEUNKNOWN"
 
-    
-def extract_assault_division(
-        text:str
-):
+
+def extract_assault_division(text: str):
     match = re.search(r"Assault Division: (.*?) deploys", text)
 
     if match:
         return match.group(1)
-    
+
     match = re.search(r"Assault Division: (.*?) leaves", text)
     if match:
         return match.group(1)
-    
+
     match = re.search(r"Assault Division: (.*?) is routed", text)
     if match:
         return match.group(1)
-    
+
     return "SITEUNKNOWN"
+
 
 def extract_biome_change_details(
     text: str,
@@ -397,4 +395,4 @@ def longest_common_substring(s1, s2):
                     x_longest = x
             else:
                 m[x][y] = 0
-    return s1[x_longest - longest: x_longest]
+    return s1[x_longest - longest : x_longest]

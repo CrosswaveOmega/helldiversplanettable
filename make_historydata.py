@@ -24,7 +24,7 @@ from script_making.models import (
     DaysObject,
     GalaxyStates,
     MyEffects,
-    GalacticEffect
+    GalacticEffect,
 )
 from script_making.json_file_utils import (
     check_and_load_json,
@@ -75,7 +75,7 @@ DATABASE_FILE = "./src/data/gen_data/alltimedata.db"
 
 MAX_HOUR_DISTANCE = 6
 MIN_HOUR_CHANGE = 2
-CLUSTER_SIZE=2048
+CLUSTER_SIZE = 2048
 
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("planets", "./hd2json")
@@ -318,8 +318,10 @@ async def get_planet_stats(
                 print(
                     f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
                 )
-                
-                logger.info(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
+
+                logger.info(
+                    f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
+                )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
                 return planetstats
@@ -402,23 +404,22 @@ def unordered_list_hash(int_list: List[int]):
     return "ERR"
 
 
-def get_effect(site:str)->Optional[GalacticEffect]:
+def get_effect(site: str) -> Optional[GalacticEffect]:
     max_shared_len = 0
     best_pair = None
-    besteff=None
+    besteff = None
     for sdg, eff in ejson.planetEffects.items():
         name_upper = eff.name.upper()
-        if name_upper==site.upper():
+        if name_upper == site.upper():
             return eff
         if site.upper() in name_upper or name_upper in site.upper():
             site_upper = site.upper()
-            shared_len = min(len(site_upper),len(name_upper))
+            shared_len = min(len(site_upper), len(name_upper))
             if shared_len > max_shared_len:
                 max_shared_len = shared_len
                 best_pair = (eff, site)
-                besteff=eff
+                besteff = eff
     return besteff
-
 
 
 def ENCODE(CO, AT, L):
@@ -614,7 +615,7 @@ def update_planet_ownership(
             planetclone[str(ind)].dss = "DSS Here"
             planetclone[str(ind)].add_desc(
                 "DSS",
-                'A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.',
+                "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.",
             )
         if "SiteEvent" in event.type:
             site = extract_poi_details(event.text)
@@ -664,9 +665,9 @@ def update_planet_ownership(
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
 
-        if event.type=="Annihilation":
-            #planetclone[str(ind)].biome = "destroyed"
-            site="FRACTURED PLANET"
+        if event.type == "Annihilation":
+            # planetclone[str(ind)].biome = "destroyed"
+            site = "FRACTURED PLANET"
             planetclone[str(ind)].biome = "fractured"
 
             eff = get_effect(site)
@@ -676,7 +677,7 @@ def update_planet_ownership(
                 planetclone[str(ind)].add_desc(eff.name, eff.description)
 
         if "Threat" in event.type:
-            site = 'VERGE OF DESTRUCTION'
+            site = "VERGE OF DESTRUCTION"
             if event.type == "Threat Start":
                 eff = get_effect(site)
                 if eff:
@@ -735,12 +736,13 @@ class PlanetHistoryDelta:
     def __init__(self):
         self.hashlinks = {}
         self.resort: Dict[str, List[Dict[str, Any]]] = {}
-        self.clusters:List[Dict[str, List[Dict[str, Any]]]]=[]
+        self.clusters: List[Dict[str, List[Dict[str, Any]]]] = []
         self.laststate = {}
-        self.cluster_num=0
+        self.cluster_num = 0
 
-
-    def get_difference_from_laststate(self, event_index:int, planet_key:str, planetstate:PlanetState):
+    def get_difference_from_laststate(
+        self, event_index: int, planet_key: str, planetstate: PlanetState
+    ):
         """
         Calculate the difference between the current planet state and the last known state.
 
@@ -766,9 +768,11 @@ class PlanetHistoryDelta:
                 difference[key] = res[key]
         return difference
 
-    def update_hash_links(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+    def update_hash_links(
+        self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]
+    ):
         """
-        Update the hash links for planets.  
+        Update the hash links for planets.
         Hashlinks are a configuration of supply lines tied with a unique "hash" value.
 
         Args:
@@ -790,20 +794,20 @@ class PlanetHistoryDelta:
                         )
                 resa.link2 = link
 
-
-
-    def delta_format(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+    def delta_format(self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]):
         """Add to the ongoing history delta."""
-        
-        #update hash links
-        self.update_hash_links(event_index,ptemp)
-        cluster_num=event_index//CLUSTER_SIZE
+
+        # update hash links
+        self.update_hash_links(event_index, ptemp)
+        cluster_num = event_index // CLUSTER_SIZE
 
         if self.laststate:
             # Check for changes between Last state and the
             # current temporary planet
             for planet_key, planet_state in ptemp.items():
-                toad=self.get_difference_from_laststate(event_index,planet_key,planet_state)
+                toad = self.get_difference_from_laststate(
+                    event_index, planet_key, planet_state
+                )
                 if toad:
                     toad["eind"] = event_index
                     self.resort[planet_key].append(toad)
@@ -815,17 +819,16 @@ class PlanetHistoryDelta:
                     self.resort[planet_key][0]["eind"] = event_index
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
-    def make_cluster(self,cluster_size):
-
+    def make_cluster(self, cluster_size):
         grouped_items = {}  # Dictionary to hold groups
 
         for planet, changes in self.resort.items():
             for change in changes:
-                eind = change['eind']
-                cluster=eind//cluster_size
+                eind = change["eind"]
+                cluster = eind // cluster_size
                 if cluster not in grouped_items:
-                    grouped_items[cluster]={}
-                    rebuilt=self.rebuild_state_up_to(eind*cluster_size)
+                    grouped_items[cluster] = {}
+                    rebuilt = self.rebuild_state_up_to(eind * cluster_size)
                     for i, v in rebuilt.items():
                         grouped_items[cluster][i] = [v]
                 else:
@@ -911,7 +914,6 @@ class GalaxyEventProcessor:
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
 
-
         ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
         interval = int(ne.timestamp) // 900
@@ -924,7 +926,7 @@ class GalaxyEventProcessor:
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
                 return  # Skip the event group
-            
+
         await self.process_event_logs(event_group, ne, ptemp)
         self.phistdelta.delta_format(ne.eind, ptemp)
         self.newevt.append(ne)
@@ -1026,9 +1028,9 @@ class GalaxyEventProcessor:
         self.galaxy_states.links = self.phistdelta.hashlinks
 
         self.save_results()
-        
-        #rebuilt = self.phistdelta.make_cluster(CLUSTER_SIZE)
-        #print(json.dumps(rebuilt))
+
+        # rebuilt = self.phistdelta.make_cluster(CLUSTER_SIZE)
+        # print(json.dumps(rebuilt))
         self.conn.close()
 
 
@@ -1045,8 +1047,8 @@ if not os.path.exists("./src/data/gen_data"):
 
 if __name__ == "__main__":
     print("Starting up...")
-    
-    logger.info("Starting up...")# = logging.getLogger("StatusLogger")
+
+    logger.info("Starting up...")  # = logging.getLogger("StatusLogger")
 
     parser = argparse.ArgumentParser(description="Check for changes.")
     parser.add_argument(
@@ -1064,13 +1066,16 @@ if __name__ == "__main__":
     get_web_file()
 
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
+    try:
+        if text != old_text or args.force:
+            make_day_obj(text)
 
-    if text != old_text or args.force:
-        make_day_obj(text)
-
-        asyncio.run(main_code())
-        with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
-            file.write(text)
-    else:
-        logger.info("NO CHANGE DETECTED.  SKIPPING.")
-        print("NO CHANGE DETECTED.  SKIPPING.")
+            asyncio.run(main_code())
+            with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
+                file.write(text)
+        else:
+            logger.info("NO CHANGE DETECTED.  SKIPPING.")
+            print("NO CHANGE DETECTED.  SKIPPING.")
+    except Exception as e:
+        print(e)
+        logger.exception(e)

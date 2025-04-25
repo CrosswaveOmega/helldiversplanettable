@@ -168,7 +168,7 @@ def saturation(color: Tuple[int, int, int]) -> float:
 
 
 def sort_colors_by_saturation(
-    colors: List[Tuple[int, int, int]]
+    colors: List[Tuple[int, int, int]],
 ) -> List[Tuple[int, int, int]]:
     """
     Sort a list of colors by their saturation.
@@ -426,7 +426,6 @@ def generate_planet_texture(
     ):
         images = []
         for frame in range(frames):
-
             angle = (frame / frames) * 360
             # print(angle)
             light_dir = np.array([0.8, 0, 1])

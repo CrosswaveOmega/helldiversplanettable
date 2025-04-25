@@ -8,11 +8,9 @@ PlanetStatusTimestamp = Dict[str, PlanetStatusDict]
 PlanetStatusDays = Dict[str, PlanetStatusTimestamp]
 
 
-def migrate_tables(conn: sqlite3.Connection
-) -> bool:
+def migrate_tables(conn: sqlite3.Connection) -> bool:
     """Create tables"""
     cursor = conn.cursor()
-   
 
     cursor.execute("PRAGMA table_info(alltimedata)")
     columns = cursor.fetchall()
@@ -28,12 +26,11 @@ def migrate_tables(conn: sqlite3.Connection
     conn.commit()
     return True
 
-def initalize_tables(
-    conn: sqlite3.Connection
-) -> bool:
+
+def initalize_tables(conn: sqlite3.Connection) -> bool:
     """Create tables"""
     cursor = conn.cursor()
-    script="""
+    script = """
     CREATE TABLE IF NOT EXISTS alltimedata (
         timestamp TEXT,
         dayval TEXT,
@@ -46,8 +43,9 @@ def initalize_tables(
         interval INTEGER
     )
     """
-    cursor.executescript(script    )
+    cursor.executescript(script)
     return script
+
 
 def fetch_entries_by_timestamp(
     conn: sqlite3.Connection, timestamp: float
@@ -59,12 +57,12 @@ def fetch_entries_by_timestamp(
         """
     SELECT * FROM alltimedata WHERE timestamp = ?
     """,
-        (str(timestamp),)
+        (str(timestamp),),
     )
     entries = cursor.fetchall()
-    #print(entries)
+    # print(entries)
     keys = [column[0] for column in cursor.description]
-    #print(entries,keys)
+    # print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}
@@ -82,18 +80,17 @@ def fetch_entries_by_interval(
         """
     SELECT * FROM alltimedata WHERE interval = ?
     """,
-        (int(timestamp)//900,)
+        (int(timestamp) // 900,),
     )
     entries = cursor.fetchall()
-    #print(entries)
+    # print(entries)
     keys = [column[0] for column in cursor.description]
-    #print(entries,keys)
+    # print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}
         all_entries[indexv["pindex"]] = indexv
     return all_entries
-
 
 
 def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStatusDays:
@@ -112,7 +109,7 @@ def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStat
     for entry in entries:
         indexv = {key: entry[i] for i, key in enumerate(keys)}
         timestamp = indexv["timestamp"]
-        interval=int(float(timestamp))//900
+        interval = int(float(timestamp)) // 900
         if interval not in all_entries:
             all_entries[interval] = {}
         all_entries[interval][indexv["pindex"]] = indexv
