@@ -32,18 +32,18 @@ def check_and_load_json(filepath: str):
 
 def save_json_data(file_path: str, data: Any, **kwargs) -> None:
     """Save json data to a file."""
-
+    
     with open(file_path, "w", encoding="utf8") as json_file:
         json.dump(data, json_file, **kwargs)
 
-
 def save_json_compressed(file_path: str, data: Any, **kwarg):
-    # Using zlib to compress the gstates file.
+    #Using zlib to compress the gstates file.
     json_string = json.dumps(data)
-
+    
     # Compress the JSON string using zlib (deflate compression)
-    compressed_data = zlib.compress(json_string.encode("utf-8"), level=9)
-
+    compressed_data = zlib.compress(json_string.encode("utf-8"),level=9)
+    
     # Write the compressed data to a binary file
-    with open(file_path, "wb") as file:
+    with open(file_path, 'wb') as file:
         file.write(compressed_data)
+

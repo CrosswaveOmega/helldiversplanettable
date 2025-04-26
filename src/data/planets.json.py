@@ -110,12 +110,12 @@ def add_overrides(allplanet: Dict[str, Any], index: int) -> Tuple[str, str]:
 
 
 def bad_stats_filter(planet, stats):
-    """Remove any api errors
-    , currently in Rirga Bay's death count."""
+    '''Remove any api errors 
+    , currently in Rirga Bay's death count.'''
     if planet["index"] == 226:
         stats.deaths = stats.deaths - 1000000000  # 65244
         stats.illuminateKills = stats.illuminateKills - 1000000000  # 65244
-
+        
     return stats
 
 
@@ -145,7 +145,7 @@ def make_rows(planets: Dict, allplanet: Dict):
         # The statistics are loaded into a special container object.
         # This is to keep the code easier to read.
         stats = Statistics(**planet["statistics"])
-
+        
         stats = bad_stats_filter(planet, stats)
         missions = (stats.missionsWon) + (stats.missionsLost)
         kills = sum([stats.terminidKills, stats.automatonKills, stats.illuminateKills])
@@ -154,6 +154,7 @@ def make_rows(planets: Dict, allplanet: Dict):
         # Remove human faction from front list for easier reading.
         if "HUMANS" in front and len(front) > 1:
             front.remove("HUMANS")
+
 
         row = {
             "index": planet["index"],
