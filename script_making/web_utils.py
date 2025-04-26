@@ -32,6 +32,7 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
     """Request the game's status at the given datetime using the war history api."""
     
     current_time = timev.isoformat()
+    now=datetime.now()
     try:
         url = "https://api-helldivers.kejax.net/api/planets/at"
         params = {"time": current_time}
@@ -42,6 +43,8 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
                 print(response)
                 response_json = await response.json()
                 outv = {p["index"]: p for p in response_json}
+                delta=datetime.now()-now
+                logger.info(f"That took about {str(delta)}")
                 return outv
     except Exception as e:
         print("Something went wrong.")

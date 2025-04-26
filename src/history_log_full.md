@@ -6854,13 +6854,9 @@ Dispatch: PILEN V UNDER ATTACK. The Illuminate attack on *Pilen V* threatens the
 ### Day: #442
 DSS deploys to *Pilen V* of the Altus sector (2025-04-24 11:57  UTC)<br/>
 *Meridia* moves to X 0.27169934 Y 0.11857285 (2025-04-24 15:00  UTC)<br/>
- Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Oshaune, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Talus sector, Tanis sector, Borgus sector, Jin Xi sector, Farsight sector, Lacaille sector, Andromeda sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector, Sten sector, Trigon sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 0.0 on Julheim, Dolph, Bekvam III, Mort, Troost<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 3.0 on Chort Bay, Claorell<br/> Decay: 6.0 on L'estrade sector
- (2025-04-24 15:00  UTC)<br/>
 *Pilen V*'s invasion is repelled (2025-04-24 16:33  UTC)<br/>
 ↳ Altus sector is fully under Human control (2025-04-24 16:33  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-24 16:33  UTC)<br/>
- Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Oshaune, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Talus sector, Tanis sector, Borgus sector, Jin Xi sector, Farsight sector, Lacaille sector, Andromeda sector, Ymir sector, Valdis sector, Gellert sector, Mirin sector, Sten sector, Trigon sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Falstaff sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Shelt, Blistica, Vernen Wells<br/> Decay: 0.0 on Julheim, Dolph, Bekvam III, Mort, Troost<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 3.0 on Chort Bay, Claorell<br/> Decay: 6.0 on L'estrade sector
- (2025-04-24 16:33  UTC)<br/>
 *Veld* of the Orion sector is attacked by Terminids (2025-04-24 16:49  UTC)<br/>
 Assault Division: Predator Strain U5B deploys to *Veld* (2025-04-24 16:49  UTC)<br/>
 *Mastia* of the Marspira sector is invaded by Illuminate (2025-04-24 16:52  UTC)<br/>
@@ -6897,8 +6893,13 @@ Dispatch: NEW MAJOR ORDER. On *Pilen V*, the Repulsive Gravity Field Generator n
 DSS deploys to *Turing* of the Umlaut sector (2025-04-25 20:58  UTC)<br/>
  Decay: 1.0 on Veld
  (2025-04-25 20:58  UTC)<br/>
- Decay: 0.0 on Veld
- (2025-04-25 22:00  UTC)<br/>
 *Meridia* moves to X 0.26982418 Y 0.118745655 (2025-04-25 23:00  UTC)<br/>
- Decay: 1.0 on Veld
- (2025-04-25 23:00  UTC)<br/>
+*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-04-26 00:54  UTC)<br/>
+*Nublaria I*'s invasion is successful (2025-04-26 02:17  UTC)<br/>
+*Meridia* moves to X 0.26962152 Y 0.118764326 (2025-04-26 03:00  UTC)<br/>
+*Slif* of the Celeste sector is attacked by Terminids (2025-04-26 05:53  UTC)<br/>
+Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-26 05:55  UTC)<br/>
+*Krakatwo*'s invasion is successful (2025-04-26 06:58  UTC)<br/>
+ Decay: 0.0 on Slif
+ (2025-04-26 06:58  UTC)<br/>
+*Meridia* moves to X 0.2693825 Y 0.11878635 (2025-04-26 07:00  UTC)<br/>
