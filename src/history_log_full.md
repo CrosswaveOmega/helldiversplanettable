@@ -6932,3 +6932,18 @@ Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens 
 *Meridia* moves to X 0.26794893 Y 0.118918456 (2025-04-27 07:00  UTC)<br/>
  Decay: 1.5 on Slif
  (2025-04-27 07:00  UTC)<br/>
+*Claorell* of the Tanis sector is invaded by Illuminate (2025-04-27 09:24  UTC)<br/>
+*Achernar Secundus*'s invasion is successful (2025-04-27 10:03  UTC)<br/>
+*Meridia* moves to X 0.2677207 Y 0.11893948 (2025-04-27 11:00  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Automatons (2025-04-27 12:11  UTC)<br/>
+ Decay: 0.0 on Mastia
+ (2025-04-27 14:00  UTC)<br/>
+*Meridia* moves to X 0.2674965 Y 0.11896015 (2025-04-27 15:00  UTC)<br/>
+ Decay: 1.5 on Turing
+ (2025-04-27 15:00  UTC)<br/>
+*Meridia* moves to X 0.26728034 Y 0.118980065 (2025-04-27 19:00  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-27 20:09  UTC)<br/>
+Dispatch: INCURSION ALERT. The Illuminate have launched an assault on FENRIR III, the home planet of the Center of Science. (2025-04-27 20:18  UTC)<br/>
+*Claorell*'s invasion is successful (2025-04-27 21:24  UTC)<br/>
+Dispatch: INCURSION ALERT. Illuminate forces are invading CLAORELL, where the Deep Mantle Forge Complex produces key materials for the DSS. (2025-04-27 21:32  UTC)<br/>
+Dispatch: The Illuminate targets, while strategically valuable, so far have little to do with the critical construction of the Repulsive Gravity Field Generator. It is evident that the enemy is hesitant to strike *Pilen V* directly. Their desperate attempts to distract us will not work. The Meridian Wormhole will be stopped. (2025-04-27 21:33  UTC)<br/>
