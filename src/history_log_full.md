@@ -34,7 +34,7 @@ Major Order | A1-2-1 Operation Valiant Enclosure is issued | Objective: Liberate
 ↳ Orion sector is fully under Human control (2024-02-14 14:07  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
-↳ Major Order | A1-2-1 Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
+↳ Major Order | A1-2-1 Operation Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
 
 ### Day: #8
 *Mantes* of the Xzar sector is attacked by Automatons (2024-02-15 12:00  UTC)<br/>
@@ -143,7 +143,7 @@ Major Order | A1-2-2 Defend 8 from Automatons is issued | Objective: Defend (202
 Major Order | A1-2-2 Defend 8 from Automatons is failed | Objective: Defend (2024-02-29 15:27  UTC)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-02-29 15:28  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2024-02-29 15:28  UTC)<br/>
-Major Order | A1-2-3 *Veld* Containment is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
+Major Order | A1-2-3 Liberate *Veld* is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
 
 ### Day: #23
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
@@ -151,8 +151,8 @@ Major Order | A1-2-3 *Veld* Containment is issued | Objective: Liberate (2024-02
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-03-01 15:51  UTC)<br/>
 *Veld* is liberated (2024-03-01 20:28  UTC)<br/>
-↳ Major Order | A1-2-3 *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
-Major Order | A1-3-1 Defense of *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
+↳ Major Order | A1-2-3 Liberate *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
+Major Order | A1-3-1 Control *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-03-01 21:04  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-03-01 21:04  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-03-01 21:04  UTC)<br/>
@@ -257,7 +257,7 @@ Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning h
 
 ### Day: #29
 Dispatch: The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset. (2024-03-07 12:15  UTC)<br/>
-Major Order | A1-3-1 Defense of *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
+Major Order | A1-3-1 Control *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
 *Tien Kwan* - *Draupnir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* - *Castor* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Castor* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
@@ -266,7 +266,7 @@ Major Order | A1-3-1 Defense of *Heeth* and *Angel's Venture* is won | Objective
 *Kuper* - *The Weir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* of the Theseus sector instantly flips to Automaton control (2024-03-07 13:49  UTC)<br/>
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49  UTC)<br/>
-Major Order | A1-3-2 Patriot Mech is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
+Major Order | A1-3-2 Liberate *Tien Kwan* is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate *Tien Kwan*, before its too late. (2024-03-07 14:29  UTC)<br/>
  Decay: 2.0 on Automaton worlds
  (2024-03-07 14:29  UTC)<br/>
@@ -290,7 +290,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  (2024-03-08 14:00  UTC)<br/>
 *Tien Kwan* is liberated (2024-03-08 15:48  UTC)<br/>
 ↳ Theseus sector is fully under Human control (2024-03-08 15:48  UTC)<br/>
-↳ Major Order | A1-3-2 Patriot Mech is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
+↳ Major Order | A1-3-2 Liberate *Tien Kwan* is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
  Decay: 6.5 on Automaton worlds
  (2024-03-08 15:48  UTC)<br/>
 Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (2024-03-08 15:51  UTC)<br/>
@@ -394,7 +394,7 @@ DSS effect Eagle Storm is activated (2024-03-19 10:41  UTC)<br/>
 ↳ *Fori Prime* liberation campaign ends (2024-03-19 13:47  UTC)<br/>
  Decay: 5.0 on Estanu
  (2024-03-19 13:47  UTC)<br/>
-Major Order | A1-3-4 *Zagon Prime* and *Fori Prime* Liberation is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
+Major Order | A1-3-4 Liberate *Zagon Prime* and *Fori Prime* is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets. (2024-03-19 16:13  UTC)<br/>
  Decay: 3.0 on Terminid worlds
  (2024-03-19 18:00  UTC)<br/>
@@ -418,7 +418,7 @@ Dispatch: INTELLIGENCE BRIEF. A new strain of flying Terminids has suddenly appe
  (2024-03-21 18:00  UTC)<br/>
 
 ### Day: #44
-Major Order | A1-3-4 *Zagon Prime* and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
+Major Order | A1-3-4 Liberate *Zagon Prime* and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Though many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered. The expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice. (2024-03-22 12:21  UTC)<br/>
 Major Order | A1-3-5 CBCT Protection is issued | Objective: Control (2024-03-22 13:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete. (2024-03-22 13:01  UTC)<br/>
@@ -568,13 +568,13 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
 ### Day: #54
 Major Order | A1-3-7 Operation Swift Disassembly Phase Two is failed | Objective: Liberate (2024-04-01 13:00  UTC)<br/>
 Dispatch: OP SWIFT DISASSEMBLY, PHASE II—FAILED. The Automatons have retained *Tibit*, and its manufacturing facilities. Reports indicate they have already begun increasing production elsewhere. Intercepted bot chatter includes expressions of great sorrow for the "murder" of in-development bots—a transparent attempt at disinformation, as bots can neither feel nor be considered alive. However, the simulated oaths of vengeance may indicate actual strategic intent. A counteroffensive is likely. (2024-04-01 13:00  UTC)<br/>
-Major Order | A1-4-1 Creek Liberation is issued | Objective: Liberate (2024-04-01 13:04  UTC)<br/>
+Major Order | A1-4-1 Liberate *Malevelon Creek* is issued | Objective: Liberate (2024-04-01 13:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Several weeks ago, our citizens watched in horror as *Malevelon Creek* fell to the Automatons. Millions of valiant heroes perished attempting to defend it. For too long, the bots have maintained their illegal occupation, desecrating the memory of the fallen by rapidly depleting the planet's exceptionally rich rhodium deposits. This travesty will be allowed to continue no longer. Take vengeance for the fallen. Honor our heroes. End the theft of valuable minerals. Liberate *Malevelon Creek*. (2024-04-01 13:04  UTC)<br/>
  Decay: 1.5 on Severin sector
  (2024-04-01 14:00  UTC)<br/>
 *Malevelon Creek* is liberated (2024-04-01 17:22  UTC)<br/>
 ↳ *Maia* liberation campaign starts (2024-04-01 17:22  UTC)<br/>
-↳ Major Order | A1-4-1 Creek Liberation is won | Objective: Liberate (2024-04-01 17:22  UTC)<br/>
+↳ Major Order | A1-4-1 Liberate *Malevelon Creek* is won | Objective: Liberate (2024-04-01 17:22  UTC)<br/>
 Dispatch: MALEVELON CREEK LIBERATED. At long last, *Malevelon Creek* is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them. Colonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek. (2024-04-01 17:32  UTC)<br/>
  Decay: 500.0 on Malevelon Creek
  (2024-04-01 17:32  UTC)<br/>
@@ -634,7 +634,7 @@ Dispatch: TIBIT LIBERATED. The factories on *Tibit* have been destroyed. Now, th
 ↳ Severin sector is fully under Human control (2024-04-07 19:22  UTC)<br/>
 ↳ Major Order | A1-4-3 Operation Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (2024-04-07 19:30  UTC)<br/>
-Major Order | A1-4-4 E-710 Farms is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
+Major Order | A1-4-4 Liberate *Hellmire*, *Estanu* and *Crimsica* is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids contained, the time has come to work towards a more prosperous future for all citizens. To that end, construction of new, safer, and more efficient E-710 farms will soon commence. On these farms, Terminids will be raised in spacious enclosures and enriched with state-of-the-art nutritional supplements, all under careful supervision. Clear the way for the safe construction of the E-710 farms. (2024-04-07 20:06  UTC)<br/>
  Decay: 500.0 on Durgen
  (2024-04-07 20:06  UTC)<br/>
@@ -690,7 +690,7 @@ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
 Emergency Alert | Reclamation Emergency Defense is issued (2024-04-09 11:47  UTC)<br/>
  Decay: 0.36 on Valdis sector<br/> Decay: 0.0 on Penta, Choohe
  (2024-04-09 11:47  UTC)<br/>
-Major Order | A1-4-4 E-710 Farms is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
+Major Order | A1-4-4 Liberate *Hellmire*, *Estanu* and *Crimsica* is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02  UTC)<br/>
 Major Order | A1-4-5 The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
  Decay: 1.5 on Sten sector, Valdis sector, Lacaille sector, L'estrade sector, Draco sector, Mirin sector
@@ -4123,7 +4123,7 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Pollux 31* - *Prasa* warp link is added (2025-01-10 18:39  UTC)<br/>
 *Grand Errant* of the Farsight sector is attacked by Terminids (2025-01-10 18:39  UTC)<br/>
 *Pherkad Secundus* of the Farsight sector is attacked by Terminids (2025-01-10 18:40  UTC)<br/>
-Major Order | A2-1-2 Terminid Cascade Defense is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
+Major Order | A2-1-2 Defend 5 And Hold Two Planets is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a sharp increase in Terminid spore outflow from the Gloom, cascading throughout all Terminid-occupied worlds to greatly accelerate bug expansion. Multiple outbreaks have already been detected. The Helldivers must respond immediately to stem further outbreaks. Consult your Galactic Map for more information. (2025-01-10 18:46  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-10 20:46  UTC)<br/>
  Decay: 0.0 on Grand Errant, Pherkad Secundus
@@ -4233,7 +4233,7 @@ Dispatch: Voluntary extended work hours by patriotic factory workers has produce
 ↳ Hanzo sector is fully under Human control (2025-01-16 04:43  UTC)<br/>
 
 ### Day: #344
-Major Order | A2-1-2 Terminid Cascade Defense is won | Objective: Defend/Control (2025-01-16 13:01  UTC)<br/>
+Major Order | A2-1-2 Defend 5 And Hold Two Planets is won | Objective: Defend/Control (2025-01-16 13:01  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Terminid outbreak has been contained. Consult your Galactic Map for more information. (2025-01-16 13:10  UTC)<br/>
 *Stout*'s invasion is repelled (2025-01-16 14:43  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-16 14:43  UTC)<br/>
@@ -6873,15 +6873,19 @@ Major Order | A2-4-4 Repel 5 and Kill Voteless is won | Objective: Defend/Eradic
 Dispatch: MAJOR ORDER WON. The Illuminate attacks on our critical infrastructure have been decisively rebuffed. It is clear the enemy overextended themselves, revealing their desperation as their plan to destroy *Super Earth* falls to pieces. Consult your Galactic Map for more information. (2025-04-25 04:32  UTC)<br/>
 *Meridia* moves to X 0.27055684 Y 0.11867814 (2025-04-25 07:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-04-25 08:01  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-25 08:55  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-25 08:55  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-25 08:58  UTC)<br/>
 
 ### Day: #443
+
+### Day: #443
 *Meridia* moves to X 0.27033317 Y 0.118698746 (2025-04-25 11:00  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2025-04-25 11:48  UTC)<br/>
-DSS deploys to *Veld* of the Orion sector (2025-04-25 12:58  UTC)<br/>
+Dispatch: INCURSION ALERT. Illuminate forces have attacked MASTIA, endangering the Center of Surveillance and the security of our citizens. (2025-04-25 12:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
- (2025-04-25 12:58  UTC)<br/>
+ (2025-04-25 12:30  UTC)<br/>
+DSS deploys to *Veld* of the Orion sector (2025-04-25 12:58  UTC)<br/>
 *Nublaria I* of the Celeste sector is invaded by Illuminate (2025-04-25 14:18  UTC)<br/>
 Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is issued | Objective: Operation/Liberate (2025-04-25 14:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. On *Pilen V*, the Repulsive Gravity Field Generator nears completion. Once activated, it is projected to completely halt the Meridian Singularity's movement. Interference from the Illuminate is expected to peak as activation nears. The Helldivers are ordered to thin Illuminate forces and defend vital planets. Further, the Helldivers are ordered to gather E-710 by containing the Predator Strain outbreak on *Turing*. (2025-04-25 14:56  UTC)<br/>
@@ -6903,3 +6907,28 @@ Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-26 05:55  UTC)<
  Decay: 0.0 on Slif
  (2025-04-26 06:58  UTC)<br/>
 *Meridia* moves to X 0.2693825 Y 0.11878635 (2025-04-26 07:00  UTC)<br/>
+
+### Day: #444
+ Decay: 2.0 on Turing
+ (2025-04-26 09:00  UTC)<br/>
+*Meridia* moves to X 0.2691336 Y 0.11880929 (2025-04-26 11:00  UTC)<br/>
+*Gaellivare* defense is failed (2025-04-26 11:48  UTC)<br/>
+↳ *Gaellivare* liberation campaign starts (2025-04-26 11:48  UTC)<br/>
+*Mastia* of the Marspira sector is invaded by Illuminate (2025-04-26 12:25  UTC)<br/>
+ Decay: 1.5 on Gaellivare
+ (2025-04-26 12:25  UTC)<br/>
+*Widow's Harbor*'s invasion is successful (2025-04-26 12:53  UTC)<br/>
+↳ Altus sector is fully under Human control (2025-04-26 12:53  UTC)<br/>
+*Meridia* moves to X 0.26889017 Y 0.11883172 (2025-04-26 15:00  UTC)<br/>
+*Meridia* moves to X 0.268653 Y 0.11885358 (2025-04-26 19:00  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is invaded by Illuminate (2025-04-26 22:03  UTC)<br/>
+Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens the AM Defense Factory Hub and endangers the investments of a key military contractor. (2025-04-26 22:11  UTC)<br/>
+*Meridia* moves to X 0.26842287 Y 0.11887478 (2025-04-26 23:00  UTC)<br/>
+*Mastia*'s invasion is successful (2025-04-27 00:24  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-04-27 00:24  UTC)<br/>
+*Meridia* moves to X 0.2681827 Y 0.11889692 (2025-04-27 03:00  UTC)<br/>
+*Slif* defense is failed (2025-04-27 05:53  UTC)<br/>
+↳ *Veld* liberation campaign ends (2025-04-27 05:53  UTC)<br/>
+*Meridia* moves to X 0.26794893 Y 0.118918456 (2025-04-27 07:00  UTC)<br/>
+ Decay: 1.5 on Slif
+ (2025-04-27 07:00  UTC)<br/>
