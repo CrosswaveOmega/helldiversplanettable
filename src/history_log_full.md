@@ -6969,16 +6969,20 @@ Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-28 08:56  UTC)<
 *Meridia* moves to X 0.26644856 Y 0.11905672 (2025-04-28 11:00  UTC)<br/>
 *Turing* is liberated (2025-04-28 13:35  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2025-04-28 13:35  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-28 13:35  UTC)<br/>
 DSS deploys to *Tibit* of the Severin sector (2025-04-28 13:35  UTC)<br/>
  Decay: 0.5 on Turing
  (2025-04-28 13:35  UTC)<br/>
 *Pilen V* of the Altus sector is established as a Negative Energy Laboratory POI (2025-04-28 13:37  UTC)<br/>
 *New Haven* of the Altus sector is now safe from threat of destruction (2025-04-28 13:49  UTC)<br/>
-↳ *Gar Haren* liberation campaign ends (2025-04-28 14:32  UTC)<br/>
 *Achernar Secundus* defense is failed (2025-04-28 14:33  UTC)<br/>
 ↳ *Achernar Secundus* liberation campaign starts (2025-04-28 14:33  UTC)<br/>
+↳ *Gar Haren* liberation campaign ends (2025-04-28 14:33  UTC)<br/>
 *Meridia* moves to X 0.2662545 Y 0.1190746 (2025-04-28 15:00  UTC)<br/>
  Decay: 1.5 on Achernar Secundus
  (2025-04-28 15:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-04-28 15:54  UTC)<br/>
+*Erata Prime* of the Umlaut sector is invaded by Illuminates (2025-04-28 18:22  UTC)<br/>
+ Decay: 0.0 on Claorell
+ (2025-04-28 18:22  UTC)<br/>
