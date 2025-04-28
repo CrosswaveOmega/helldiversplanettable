@@ -6873,11 +6873,8 @@ Major Order | A2-4-4 Repel 5 and Kill Voteless is won | Objective: Defend/Eradic
 Dispatch: MAJOR ORDER WON. The Illuminate attacks on our critical infrastructure have been decisively rebuffed. It is clear the enemy overextended themselves, revealing their desperation as their plan to destroy *Super Earth* falls to pieces. Consult your Galactic Map for more information. (2025-04-25 04:32  UTC)<br/>
 *Meridia* moves to X 0.27055684 Y 0.11867814 (2025-04-25 07:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-04-25 08:01  UTC)<br/>
-DSS effect Orbital Blockade stops (2025-04-25 08:55  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-25 08:55  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-25 08:58  UTC)<br/>
-
-### Day: #443
 
 ### Day: #443
 *Meridia* moves to X 0.27033317 Y 0.118698746 (2025-04-25 11:00  UTC)<br/>
@@ -6907,10 +6904,11 @@ Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-26 05:55  UTC)<
  Decay: 0.0 on Slif
  (2025-04-26 06:58  UTC)<br/>
 *Meridia* moves to X 0.2693825 Y 0.11878635 (2025-04-26 07:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-04-26 08:55  UTC)<br/>
+ Decay: 2.0 on Turing
+ (2025-04-26 08:55  UTC)<br/>
 
 ### Day: #444
- Decay: 2.0 on Turing
- (2025-04-26 09:00  UTC)<br/>
 *Meridia* moves to X 0.2691336 Y 0.11880929 (2025-04-26 11:00  UTC)<br/>
 *Gaellivare* defense is failed (2025-04-26 11:48  UTC)<br/>
 ↳ *Gaellivare* liberation campaign starts (2025-04-26 11:48  UTC)<br/>
@@ -6961,7 +6959,26 @@ Dispatch: The Illuminate targets, while strategically valuable, so far have litt
 Assault Division: Predator Strain U5C leaves *Slif* (2025-04-28 05:54  UTC)<br/>
 *Meridia* moves to X 0.26665115 Y 0.119038045 (2025-04-28 07:00  UTC)<br/>
 *Tibit* of the Severin sector is invaded by Illuminate (2025-04-28 07:11  UTC)<br/>
+Dispatch: INCURSION ALERT. Illuminate forces have attacked TIBIT. Derelict Automaton factories are located on the planet, but little else of strategic interest. The enemy rationale for targeting this planet is unknown. (2025-04-28 07:13  UTC)<br/>
 *Fenrir III*'s invasion is successful (2025-04-28 08:08  UTC)<br/>
  Decay: 1.0 on Turing
  (2025-04-28 08:08  UTC)<br/>
 Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-28 08:56  UTC)<br/>
+
+### Day: #446
+*Meridia* moves to X 0.26644856 Y 0.11905672 (2025-04-28 11:00  UTC)<br/>
+*Turing* is liberated (2025-04-28 13:35  UTC)<br/>
+↳ *Veld* liberation campaign starts (2025-04-28 13:35  UTC)<br/>
+DSS deploys to *Tibit* of the Severin sector (2025-04-28 13:35  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2025-04-28 13:35  UTC)<br/>
+*Pilen V* of the Altus sector is established as a Negative Energy Laboratory POI (2025-04-28 13:37  UTC)<br/>
+*New Haven* of the Altus sector is now safe from threat of destruction (2025-04-28 13:49  UTC)<br/>
+↳ *Gar Haren* liberation campaign ends (2025-04-28 14:32  UTC)<br/>
+*Achernar Secundus* defense is failed (2025-04-28 14:33  UTC)<br/>
+↳ *Achernar Secundus* liberation campaign starts (2025-04-28 14:33  UTC)<br/>
+*Meridia* moves to X 0.2662545 Y 0.1190746 (2025-04-28 15:00  UTC)<br/>
+ Decay: 1.5 on Achernar Secundus
+ (2025-04-28 15:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2025-04-28 15:54  UTC)<br/>
