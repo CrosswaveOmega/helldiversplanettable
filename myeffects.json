@@ -100,6 +100,12 @@
 		"name": "INCINERATION CORPS",
         "icon": "FireBots",
 		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+	},
+    "1268": {
+		"galacticEffectId": 1268,
+		"name": "NEGATIVE ENERGY LABORATORY",
+        "icon": "Science",
+		"description": "Scientists without fear of implosion or spaghettification study negative energy here."
 	}
     }
 }
