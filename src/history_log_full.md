@@ -6932,6 +6932,8 @@ Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens 
 *Meridia* moves to X 0.26794893 Y 0.118918456 (2025-04-27 07:00  UTC)<br/>
  Decay: 1.5 on Slif
  (2025-04-27 07:00  UTC)<br/>
+
+### Day: #445
 *Claorell* of the Tanis sector is invaded by Illuminate (2025-04-27 09:24  UTC)<br/>
 *Achernar Secundus*'s invasion is successful (2025-04-27 10:03  UTC)<br/>
 *Meridia* moves to X 0.2677207 Y 0.11893948 (2025-04-27 11:00  UTC)<br/>
@@ -6947,3 +6949,19 @@ Dispatch: INCURSION ALERT. The Illuminate have launched an assault on FENRIR III
 *Claorell*'s invasion is successful (2025-04-27 21:24  UTC)<br/>
 Dispatch: INCURSION ALERT. Illuminate forces are invading CLAORELL, where the Deep Mantle Forge Complex produces key materials for the DSS. (2025-04-27 21:32  UTC)<br/>
 Dispatch: The Illuminate targets, while strategically valuable, so far have little to do with the critical construction of the Repulsive Gravity Field Generator. It is evident that the enemy is hesitant to strike *Pilen V* directly. Their desperate attempts to distract us will not work. The Meridian Wormhole will be stopped. (2025-04-27 21:33  UTC)<br/>
+*Meridia* moves to X 0.26706606 Y 0.11899981 (2025-04-27 23:00  UTC)<br/>
+*Mastia* defense is failed (2025-04-28 00:11  UTC)<br/>
+↳ *Mastia* liberation campaign starts (2025-04-28 00:11  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-04-28 02:32  UTC)<br/>
+ Decay: 1.5 on Mastia
+ (2025-04-28 02:32  UTC)<br/>
+*Meridia* moves to X 0.2668545 Y 0.11901931 (2025-04-28 03:00  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2025-04-28 03:00  UTC)<br/>
+Assault Division: Predator Strain U5C leaves *Slif* (2025-04-28 05:54  UTC)<br/>
+*Meridia* moves to X 0.26665115 Y 0.119038045 (2025-04-28 07:00  UTC)<br/>
+*Tibit* of the Severin sector is invaded by Illuminate (2025-04-28 07:11  UTC)<br/>
+*Fenrir III*'s invasion is successful (2025-04-28 08:08  UTC)<br/>
+ Decay: 1.0 on Turing
+ (2025-04-28 08:08  UTC)<br/>
+Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-28 08:56  UTC)<br/>
