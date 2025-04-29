@@ -59,7 +59,6 @@ Major Order | A1-2-2 Defend 8 from Automatons is issued | Objective: Defend (202
 *Ustotu* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Varylia 5* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-02-17 23:16  UTC)<br/>
-↳ *Maia* is not accessible despite attacking a liberated planet (2024-02-17 23:16  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2024-02-18 00:00  UTC)<br/>
 *Meridia* is liberated (2024-02-18 01:25  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-02-18 01:25  UTC)<br/>
@@ -6986,3 +6985,30 @@ DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
 *Erata Prime* of the Umlaut sector is invaded by Illuminates (2025-04-28 18:22  UTC)<br/>
  Decay: 0.0 on Claorell
  (2025-04-28 18:22  UTC)<br/>
+*Meridia* moves to X 0.26609665 Y 0.11908914 (2025-04-28 19:00  UTC)<br/>
+*Tibit*'s invasion is successful (2025-04-28 19:10  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-04-28 19:12  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-28 20:58  UTC)<br/>
+*Pilen V* of the Altus sector is now safe from threat of destruction (2025-04-28 21:09  UTC)<br/>
+*Meridia* moves to X 0.26598296 Y 0.11909962 (2025-04-28 23:00  UTC)<br/>
+*Tien Kwan* of the Theseus sector is invaded by Illuminate (2025-04-29 02:32  UTC)<br/>
+*Meridia* moves to X 0.26591358 Y 0.11910601 (2025-04-29 03:00  UTC)<br/>
+*Erata Prime*'s invasion is repelled (2025-04-29 03:12  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-29 03:12  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-04-29 03:12  UTC)<br/>
+*Claorell* defense is failed (2025-04-29 03:54  UTC)<br/>
+↳ *Claorell* liberation campaign starts (2025-04-29 03:55  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-29 04:14  UTC)<br/>
+ Decay: 3.0 on Claorell
+ (2025-04-29 04:14  UTC)<br/>
+DSS deploys to *Tien Kwan* of the Theseus sector (2025-04-29 04:59  UTC)<br/>
+*Tien Kwan*'s invasion is successful (2025-04-29 06:01  UTC)<br/>
+↳ Theseus sector is fully under Human control (2025-04-29 06:01  UTC)<br/>
+NOTE: Due to unknown reasons it was not possible to dive on *Tien Kwan* as it would instantly crash the player upon loading the mission. It is presumed that Joel and his team manually ended the invasion as a result of this (2025-04-29 06:01  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-29 06:01  UTC)<br/>
+
+### Day: #447
+*Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 09:08  UTC)<br/>
+*Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
+*Meridia* moves to X 0.26588848 Y 0.19910833 (2025-04-29 19:08  UTC)<br/>
+*Nublaria I* of the Celeste sector is now safe from threat of destruction (2025-04-29 19:20  UTC)<br/>
