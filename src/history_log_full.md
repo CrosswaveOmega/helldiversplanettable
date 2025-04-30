@@ -7024,3 +7024,6 @@ DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
 *Meridia* moves to X 0.26588848 Y 0.19910833 (2025-04-29 19:08  UTC)<br/>
 *Nublaria I* of the Celeste sector is now safe from threat of destruction (2025-04-29 19:20  UTC)<br/>
+DSS effect Orbital Blockade starts (2025-04-30 08:56  UTC)<br/>
+
+### Day: #448
