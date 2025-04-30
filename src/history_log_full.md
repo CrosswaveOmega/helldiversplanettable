@@ -7009,6 +7009,18 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-29 06:01  UTC)<br/>
 
 ### Day: #447
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 09:08  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-29 09:45  UTC)<br/>
+*Turing* of the Umlaut sector's Xenoentomology Center POI is removed (2025-04-29 09:47  UTC)<br/>
+*Pilen V* of the Altus sector's Negative Energy Laboratory POI is removed (2025-04-29 14:49  UTC)<br/>
+*Turing*'s invasion is successful (2025-04-29 14:49  UTC)<br/>
+Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is failed | Objective: Operation/Liberate (2025-04-29 14:52  UTC)<br/>
+*Fenrir III*'s invasion is repelled (2025-04-29 14:55  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-04-29 14:55  UTC)<br/>
+DSS deploys to *Mastia* of the Marspira sector (2025-04-29 14:55  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Dauntless efforts by the Helldivers fell short of mission targets. But the righteousness of our cause has yielded an unequivocal victory nevertheless. Center of Science projections confirm that the Meridian Wormhole will slow to a complete halt in short order. Furthermore, all Illuminate incursions have abruptly ended, and the enemy has disappeared. The victory of Managed Democracy is undeniable. Consult your Galactic Map for more information. (2025-04-29 15:06  UTC)<br/>
+Major Order | A2-4-6 Liberate Key Strategic Worlds is issued | Objective: Liberate (2025-04-29 15:44  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Meridian Singularity has come to a halt. However, though one enemy is all but annihilated, the Terminids and Automatons remain significant threats. In the Illuminate's final hours, they dealt significant damage to the defenses of multiple strategic sites across both battlefronts, granting the opportunity for our foes to capture formerly well-defended territory. The Helldivers must hold these sites. (2025-04-29 15:44  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
 *Meridia* moves to X 0.26588848 Y 0.19910833 (2025-04-29 19:08  UTC)<br/>
 *Nublaria I* of the Celeste sector is now safe from threat of destruction (2025-04-29 19:20  UTC)<br/>
