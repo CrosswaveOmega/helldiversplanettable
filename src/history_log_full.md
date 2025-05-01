@@ -4832,8 +4832,8 @@ DSS deploys to *Keid* of the Akira sector (2025-02-14 02:55  UTC)<br/>
 
 ### Day: #373
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 10:55  UTC)<br/>
-*Meridia* moves to X 0.4508487 Y 0.16884068 (2025-02-14 11:00  UTC)<br/>
 *Meridia* moves to X 0.45445624 Y 0.16928346 (2025-02-14 11:00  UTC)<br/>
+*Meridia* moves to X 0.4508487 Y 0.16884068 (2025-02-14 11:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-02-14 13:28  UTC)<br/>
 DSS deploys to *Brink-2* of the Tarragon sector (2025-02-14 14:56  UTC)<br/>
 *Meridia* moves to X 0.4538401 Y 0.16920784 (2025-02-14 15:00  UTC)<br/>
@@ -4844,13 +4844,13 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 18:56  UTC)<br/>
 *Meridia* moves to X 0.453227 Y 0.16913259 (2025-02-14 19:00  UTC)<br/>
 DSS deploys to *Sirius* of the Xi Tauri sector (2025-02-14 22:56  UTC)<br/>
 *Meridia* moves to X 0.45261374 Y 0.16905732 (2025-02-14 23:00  UTC)<br/>
-*Meridia* moves to X 0.4487719 Y 0.16858576 (2025-02-15 03:00  UTC)<br/>
 *Meridia* moves to X 0.452004 Y 0.16898248 (2025-02-15 03:00  UTC)<br/>
+*Meridia* moves to X 0.4487719 Y 0.16858576 (2025-02-15 03:00  UTC)<br/>
 *Sirius*'s invasion is repelled (2025-02-15 04:01  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-15 04:01  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
-*Meridia* moves to X 0.4482521 Y 0.16852196 (2025-02-15 07:00  UTC)<br/>
 *Meridia* moves to X 0.45140815 Y 0.16890934 (2025-02-15 07:00  UTC)<br/>
+*Meridia* moves to X 0.4482521 Y 0.16852196 (2025-02-15 07:00  UTC)<br/>
 
 ### Day: #374
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-02-15 11:52  UTC)<br/>
@@ -7027,3 +7027,14 @@ DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 DSS effect Orbital Blockade starts (2025-04-30 08:56  UTC)<br/>
 
 ### Day: #448
+Assault Division: Predator Strain U4A leaves *Esker* (2025-04-30 19:38  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-04-30 19:39  UTC)<br/>
+Assault Division: Predator Strain U4A deploys to *Bore Rock* (2025-04-30 19:39  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2025-04-30 20:00  UTC)<br/>
+*Mastia* is liberated (2025-04-30 23:59  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-04-30 23:59  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2025-04-30 23:59  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-05-01 08:56  UTC)<br/>
+
+### Day: #449
