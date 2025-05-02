@@ -7038,3 +7038,39 @@ DSS deploys to *Achernar Secundus* of the Borgus sector (2025-04-30 23:59  UTC)<
 DSS effect Orbital Blockade stops (2025-05-01 08:56  UTC)<br/>
 
 ### Day: #449
+Assault Division: Incineration Corps U3A deploys to *Penta* (2025-05-01 19:03  UTC)<br/>
+Dispatch: INCINERATION CORPS SIGHTED. The Automaton Incineration Corps has resurfaced on PENTA. (2025-05-01 19:06  UTC)<br/>
+*Bore Rock* defense is failed (2025-05-01 19:39  UTC)<br/>
+↳ *Bore Rock* liberation campaign starts (2025-05-01 19:39  UTC)<br/>
+↳ *Esker* liberation campaign ends (2025-05-01 19:39  UTC)<br/>
+↳ Falstaff sector is fully under Terminid control (2025-05-01 19:39  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-05-01 19:42  UTC)<br/>
+Assault Division: Predator Strain U4A divides into 2 groups [U4A, U4N] (2025-05-01 19:43  UTC)<br/>
+Assault Division: Predator Strain U4N deploys to *Terrek* (2025-05-01 19:43  UTC)<br/>
+Dispatch: PREDATOR STRAIN OUTBREAK. Failure to contain the Terminid Predator Strain has led to an outbreak on TERREK. (2025-05-01 20:01  UTC)<br/>
+ Decay: 0.0 on Terrek<br/> Decay: 1.5 on Bore Rock
+ (2025-05-01 20:01  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Penta* (2025-05-01 20:02  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Lesath* (2025-05-01 20:02  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-05-01 20:59  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Automatons (2025-05-01 21:03  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Automatons (2025-05-01 21:03  UTC)<br/>
+Assault Division: Incineration Corps U3A divides into 3 groups [U3A, U3B, U3C] (2025-05-01 21:03  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Vog-Sojoth* (2025-05-01 21:03  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Vernen Wells* (2025-05-01 21:03  UTC)<br/>
+*Imber* of the Talus sector is attacked by Automatons (2025-05-01 22:03  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Lesath* (2025-05-01 22:03  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Imber* (2025-05-01 22:03  UTC)<br/>
+ Decay: 0.0 on Vernen Wells, Vog-Sojoth
+ (2025-05-01 22:03  UTC)<br/>
+ Decay: 0.0 on Imber
+ (2025-05-02 00:00  UTC)<br/>
+*Achernar Secundus* is liberated (2025-05-02 02:03  UTC)<br/>
+↳ *Gar Haren* liberation campaign starts (2025-05-02 02:03  UTC)<br/>
+ Decay: 500.0 on Achernar Secundus
+ (2025-05-02 04:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-05-02 06:27  UTC)<br/>
+
+# Day: #450
+ Decay: 2.5 on Claorell
+ (2025-05-02 09:00  UTC)<br/>
