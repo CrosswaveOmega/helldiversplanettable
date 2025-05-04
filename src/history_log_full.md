@@ -7074,3 +7074,46 @@ DSS effect Eagle Storm is activated (2025-05-02 06:27  UTC)<br/>
 # Day: #450
  Decay: 2.5 on Claorell
  (2025-05-02 09:00  UTC)<br/>
+*Terrek* defense is failed (2025-05-02 19:42  UTC)<br/>
+↳ *Terrek* liberation campaign starts (2025-05-02 19:42  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Vernen Wells* (2025-05-02 21:02  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Vog-Sojoth* (2025-05-02 21:02  UTC)<br/>
+↳ *Lesath* liberation campaign ends (2025-05-02 21:02  UTC)<br/>
+ Decay: 1.5 on Terrek
+ (2025-05-02 21:02  UTC)<br/>
+*Vernen Wells* defense is failed (2025-05-02 21:03  UTC)<br/>
+↳ *Vernen Wells* liberation campaign starts (2025-05-02 21:03  UTC)<br/>
+↳ *Menkent* liberation campaign ends (2025-05-02 21:03  UTC)<br/>
+↳ Hydra sector is fully under Automaton control (2025-05-02 21:03  UTC)<br/>
+*Vog-Sojoth* defense is failed (2025-05-02 21:03  UTC)<br/>
+Assault Division: Incineration Corps U3A leaves *Imber* (2025-05-02 22:02  UTC)<br/>
+ Decay: 0.5 on Vernen Wells<br/> Decay: 1.5 on Vog-Sojoth
+ (2025-05-02 22:02  UTC)<br/>
+*Imber* defense is failed (2025-05-02 22:03  UTC)<br/>
+↳ *Imber* liberation campaign starts (2025-05-02 22:03  UTC)<br/>
+↳ *Claorell* liberation campaign ends (2025-05-02 22:03  UTC)<br/>
+DSS deploys to *Imber* of the Talus sector (2025-05-02 22:03  UTC)<br/>
+Assault Division: Incineration Corps U3A deploys to *Imber* (2025-05-02 22:05  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Vernen Wells* (2025-05-02 22:05  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Vog-Sojoth* (2025-05-02 22:05  UTC)<br/>
+ Decay: 3.0 on Automaton worlds
+ (2025-05-03 00:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-05-03 06:29  UTC)<br/>
+
+### Day: #451
+
+### Day: #451
+*Azterra* of the Orion sector is attacked by Terminids (2025-05-03 09:23  UTC)<br/>
+Assault Division: Predator Strain U4N divides into 3 groups [U4N, U4O, U4P] (2025-05-03 09:24  UTC)<br/>
+Assault Division: Predator Strain U4O deploys to *Azterra* (2025-05-03 09:24  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Terminids (2025-05-03 09:24  UTC)<br/>
+Assault Division: Predator Strain U4P deploys to *Cirrus* (2025-05-03 09:24  UTC)<br/>
+ Decay: 0.0 on Azterra, Cirrus
+ (2025-05-03 10:00  UTC)<br/>
+*Troost* is liberated (2025-05-03 13:11  UTC)<br/>
+*Azterra* defense is failed (2025-05-04 09:23  UTC)<br/>
+↳ *Azterra* liberation campaign starts (2025-05-04 09:23  UTC)<br/>
+*Cirrus* defense is failed (2025-05-04 09:24  UTC)<br/>
+↳ *Cirrus* liberation campaign starts (2025-05-04 09:24  UTC)<br/>
+↳ *Terrek* liberation campaign ends (2025-05-04 09:24  UTC)<br/>
+↳ *Azterra* liberation campaign ends (2025-05-04 09:24  UTC)<br/>
