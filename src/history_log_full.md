@@ -7101,8 +7101,6 @@ Assault Division: Incineration Corps U3C deploys to *Vog-Sojoth* (2025-05-02 22:
 DSS effect Eagle Storm stops (2025-05-03 06:29  UTC)<br/>
 
 ### Day: #451
-
-### Day: #451
 *Azterra* of the Orion sector is attacked by Terminids (2025-05-03 09:23  UTC)<br/>
 Assault Division: Predator Strain U4N divides into 3 groups [U4N, U4O, U4P] (2025-05-03 09:24  UTC)<br/>
 Assault Division: Predator Strain U4O deploys to *Azterra* (2025-05-03 09:24  UTC)<br/>
@@ -7111,9 +7109,36 @@ Assault Division: Predator Strain U4P deploys to *Cirrus* (2025-05-03 09:24  UTC
  Decay: 0.0 on Azterra, Cirrus
  (2025-05-03 10:00  UTC)<br/>
 *Troost* is liberated (2025-05-03 13:11  UTC)<br/>
+
+### Day: #452
 *Azterra* defense is failed (2025-05-04 09:23  UTC)<br/>
 ↳ *Azterra* liberation campaign starts (2025-05-04 09:23  UTC)<br/>
 *Cirrus* defense is failed (2025-05-04 09:24  UTC)<br/>
 ↳ *Cirrus* liberation campaign starts (2025-05-04 09:24  UTC)<br/>
 ↳ *Terrek* liberation campaign ends (2025-05-04 09:24  UTC)<br/>
 ↳ *Azterra* liberation campaign ends (2025-05-04 09:24  UTC)<br/>
+ Decay: 1.5 on Azterra<br/> Decay: 0.25 on Cirrus
+ (2025-05-04 10:00  UTC)<br/>
+ Decay: 2.5 on Imber
+ (2025-05-04 12:00  UTC)<br/>
+*Imber* is liberated (2025-05-05 01:53  UTC)<br/>
+↳ *Claorell* liberation campaign starts (2025-05-05 01:53  UTC)<br/>
+Assault Division: Incineration Corps U3A is routed (2025-05-05 01:53  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-05-05 01:53  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2025-05-05 05:01  UTC)<br/>
+*Fort Union* of the Orion sector is attacked by Terminids (2025-05-05 07:13  UTC)<br/>
+Assault Division: Predator Strain U4P divides into 2 groups [U4P, U4Q] (2025-05-05 07:14  UTC)<br/>
+Assault Division: Predator Strain U4Q deploys to *Fort Union* (2025-05-05 07:14  UTC)<br/>
+Assault Division: Predator Strain U4A leaves *Bore Rock* (2025-05-05 08:27  UTC)<br/>
+ Decay: 0.0 on Fort Union<br/> Decay: 1.5 on Cirrus
+ (2025-05-05 08:27  UTC)<br/>
+Assault Division: Predator Strain U4N leaves *Terrek* (2025-05-05 08:28  UTC)<br/>
+Assault Division: Predator Strain U4A deploys to *Esker* (2025-05-05 08:29  UTC)<br/>
+Assault Division: Predator Strain U4N deploys to *Bore Rock* (2025-05-05 08:29  UTC)<br/>
+
+### Day: #453
+DSS deploys to *Claorell* of the Tanis sector (2025-05-05 09:01  UTC)<br/>
+Assault Division: Predator Strain U4A leaves *Esker* (2025-05-05 10:55  UTC)<br/>
+Assault Division: Predator Strain U4N leaves *Bore Rock* (2025-05-05 10:56  UTC)<br/>
+Assault Division: Predator Strain U4A deploys to *Nivel 43* (2025-05-05 10:56  UTC)<br/>
+Assault Division: Predator Strain U4N deploys to *Esker* (2025-05-05 10:56  UTC)<br/>
