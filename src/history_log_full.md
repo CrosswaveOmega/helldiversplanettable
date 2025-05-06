@@ -7018,7 +7018,7 @@ Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is failed | 
 ↳ Umlaut sector is fully under Human control (2025-04-29 14:55  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-04-29 14:55  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Dauntless efforts by the Helldivers fell short of mission targets. But the righteousness of our cause has yielded an unequivocal victory nevertheless. Center of Science projections confirm that the Meridian Wormhole will slow to a complete halt in short order. Furthermore, all Illuminate incursions have abruptly ended, and the enemy has disappeared. The victory of Managed Democracy is undeniable. Consult your Galactic Map for more information. (2025-04-29 15:06  UTC)<br/>
-Major Order | A2-4-6 Liberate Key Strategic Worlds is issued | Objective: Liberate (2025-04-29 15:44  UTC)<br/>
+Major Order | A2-4-6 Liberate Key Strategic Worlds is issued | Objective: Control (2025-04-29 15:44  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity has come to a halt. However, though one enemy is all but annihilated, the Terminids and Automatons remain significant threats. In the Illuminate's final hours, they dealt significant damage to the defenses of multiple strategic sites across both battlefronts, granting the opportunity for our foes to capture formerly well-defended territory. The Helldivers must hold these sites. (2025-04-29 15:44  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
@@ -7142,3 +7142,41 @@ Assault Division: Predator Strain U4A leaves *Esker* (2025-05-05 10:55  UTC)<br/
 Assault Division: Predator Strain U4N leaves *Bore Rock* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4A deploys to *Nivel 43* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4N deploys to *Esker* (2025-05-05 10:56  UTC)<br/>
+Assault Division: Predator Strain U4N leaves *Esker* (2025-05-05 13:26  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Vernen Wells* (2025-05-05 13:47  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Vog-Sojoth* (2025-05-05 13:59  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Clasa* (2025-05-05 14:01  UTC)<br/>
+Major Order | A2-4-6 Liberate Key Strategic Worlds is failed | Objective: Control (2025-05-05 15:45  UTC)<br/>
+ Decay: 2.0 on Vernen Wells, Vog-Sojoth<br/> Decay: 3.0 on Aesir Pass<br/> Decay: 1.5 on Clasa
+ (2025-05-05 15:45  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The rapid and tireless actions of the Helldivers limited the territory lost to the opportunistic offensives of the Terminids and Automatons. Consult your Galactic Map for more information. (2025-05-05 15:48  UTC)<br/>
+Dispatch: JET BRIGADE SIGHTED. The Automaton Jet Brigade has resurfaced on AURORA BAY. (2025-05-05 15:48  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Aurora Bay* (2025-05-05 15:48  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Aurora Bay* (2025-05-05 16:47  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Choohe* (2025-05-05 16:48  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Choohe* (2025-05-05 17:47  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Menkent* (2025-05-05 17:48  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Menkent* (2025-05-05 18:47  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Vernen Wells* (2025-05-05 18:48  UTC)<br/>
+Major Order | A2-5-1 Assault Division Conquest is issued | Objective: Conquest (2025-05-05 18:59  UTC)<br/>
+*Sulfura* - *Azterra* warp link is added (2025-05-05 18:59  UTC)<br/>
+*Nublaria I* - *Fort Union* warp link is added (2025-05-05 18:59  UTC)<br/>
+*Nublaria I* - *Sulfura* warp link is added (2025-05-05 18:59  UTC)<br/>
+*Nublaria I* - *Krakatwo* warp link is added (2025-05-05 18:59  UTC)<br/>
+*Slif* - *Krakatwo* warp link is added (2025-05-05 18:59  UTC)<br/>
+*Azterra* is not accessible despite connecting to the liberated world of *Sulfura* (2025-05-05 18:59  UTC)<br/>
+*Slif* is not accessible despite connecting to the liberated world of *Krakatwo* (2025-05-05 18:59  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The resurgence of the Automaton Jet Brigade and Incineration Corps, along with the virulent Terminid Predator Strain, threaten our citizens and enable our enemies' rampant expansionistic ambitions. These territorial landgrabs must be decisively repulsed. The Helldivers are ordered to liberate at least one more planet than is lost during the duration of the order. (2025-05-05 19:04  UTC)<br/>
+*Slif* liberation campaign starts (2025-05-05 19:11  UTC)<br/>
+*Azterra* liberation campaign starts (2025-05-05 19:11  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Vernen Wells* (2025-05-05 19:47  UTC)<br/>
+ Decay: 2.0 on Aesir Pass, Claorell<br/> Decay: 0.5 on Bore Rock, Charbal-VII, Choepessa IV, Gar Haren, Vega Bay<br/> Decay: 1.0 on Estanu, Gacrux, Marfark, Pandion-XXIV
+ (2025-05-05 19:47  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Automatons (2025-05-05 19:48  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Tarsh* (2025-05-05 19:50  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-05-05 21:05  UTC)<br/>
+ Decay: 0.0 on Tarsh
+ (2025-05-05 21:05  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-05-06 01:01  UTC)<br/>
+DSS deploys to *Fort Union* of the Orion sector (2025-05-06 05:01  UTC)<br/>
