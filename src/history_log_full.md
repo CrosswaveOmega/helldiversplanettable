@@ -7180,3 +7180,43 @@ DSS effect Orbital Blockade is activated (2025-05-05 21:05  UTC)<br/>
  (2025-05-05 21:05  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-05-06 01:01  UTC)<br/>
 DSS deploys to *Fort Union* of the Orion sector (2025-05-06 05:01  UTC)<br/>
+*Fort Union* defense is won (2025-05-06 06:17  UTC)<br/>
+Assault Division: Predator Strain U4Q is routed (2025-05-06 06:17  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-05-06 06:17  UTC)<br/>
+ Decay: 500.0 on Fort Union<br/> Decay: 1.0 on Cirrus<br/> Decay: 0.5 on Darius II, Achird III
+ (2025-05-06 08:00  UTC)<br/>
+
+### Day: #454
+DSS deploys to *Tarsh* of the Marspira sector (2025-05-06 13:01  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Aesir Pass* (2025-05-06 19:40  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Marfark* (2025-05-06 19:41  UTC)<br/>
+↳ *Vernen Wells* liberation campaign ends (2025-05-06 19:47  UTC)<br/>
+*Tarsh* defense is failed (2025-05-06 19:48  UTC)<br/>
+↳ *Tarsh* liberation campaign starts (2025-05-06 19:48  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. Legions of new recruits, eager to contribute to the eradication of the Terminids, have surged to take significant ground on CIRRUS. Their sacrifice will be remembered. (2025-05-06 19:59  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. SEAF units blaming "lack of rations" have ceded significant ground to the enemy on TARSH. The cowardly traitors have been court-martialed and democratically executed. (2025-05-06 20:08  UTC)<br/>
+ Decay: 1.5 on Tarsh<br/> Decay: 0.5 on Cirrus, Aesir Pass<br/> Decay: 2.0 on Marfark
+ (2025-05-06 20:08  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-05-06 21:01  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-05-06 21:05  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-05-07 05:01  UTC)<br/>
+
+### Day: #455
+Assault Division: Jet Brigade U5 leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Marfark* (2025-05-07 09:50  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Vernen Wells* (2025-05-07 09:51  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Aesir Pass* (2025-05-07 09:52  UTC)<br/>
+*Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-07 09:53  UTC)<br/>
+Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5D] (2025-05-07 09:53  UTC)<br/>
+Assault Division: Predator Strain U5D deploys to *Krakatwo* (2025-05-07 09:53  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Vernen Wells* (2025-05-07 11:00  UTC)<br/>
+ Decay: 0.0 on Krakatwo<br/> Decay: 0.5 on Tarsh
+ (2025-05-07 11:00  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Lesath* (2025-05-07 11:02  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Lesath* (2025-05-07 11:54  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Vog-Sojoth* (2025-05-07 11:56  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. A 9.4 magnitude earthquake on VELD has decimated a large Terminid colony, allowing a significant gain in territory. (2025-05-07 12:22  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Vog-Sojoth* (2025-05-07 12:55  UTC)<br/>
+ Decay: 0.5 on Veld
+ (2025-05-07 12:55  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-07 12:56  UTC)<br/>
