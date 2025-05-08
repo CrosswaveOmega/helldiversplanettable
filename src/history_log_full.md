@@ -7200,6 +7200,7 @@ Dispatch: WARFRONT DEVELOPMENT. SEAF units blaming "lack of rations" have ceded 
 DSS deploys to *Cirrus* of the Orion sector (2025-05-06 21:01  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-05-06 21:05  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-05-07 05:01  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-05-07 07:47  UTC)<br/>
 
 ### Day: #455
 Assault Division: Jet Brigade U5 leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
@@ -7220,3 +7221,22 @@ Assault Division: Jet Brigade U5 leaves *Vog-Sojoth* (2025-05-07 12:55  UTC)<br/
  Decay: 0.5 on Veld
  (2025-05-07 12:55  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-07 12:56  UTC)<br/>
+DSS deploys to *Krakatwo* of the Celeste sector (2025-05-07 17:01  UTC)<br/>
+*Cirrus* is liberated (2025-05-07 21:10  UTC)<br/>
+↳ *Terrek* liberation campaign starts (2025-05-07 21:10  UTC)<br/>
+Assault Division: Predator Strain U4P is routed (2025-05-07 21:10  UTC)<br/>
+
+### Day: #456
+*Krakatwo* defense is won (2025-05-08 09:02  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-05-08 09:02  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Clasa* (2025-05-08 09:53  UTC)<br/>
+ Decay: 500.0 on Krakatwo<br/> Decay: 2.0 on Aesir Pass<br/> Decay: 2.5 on Clasa
+ (2025-05-08 09:53  UTC)<br/>
+*Tarsh* is liberated (2025-05-08 10:30  UTC)<br/>
+↳ *Vernen Wells* liberation campaign starts (2025-05-08 10:30  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-05-08 10:30  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-05-08 10:30  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Yed Prior* (2025-05-08 11:11  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Blistica* (2025-05-08 11:12  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Claorell* (2025-05-08 11:12  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
