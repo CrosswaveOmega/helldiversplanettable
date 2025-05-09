@@ -7201,6 +7201,7 @@ DSS deploys to *Cirrus* of the Orion sector (2025-05-06 21:01  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-05-06 21:05  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-05-07 05:01  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-05-07 07:47  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-05-07 07:48  UTC)<br/>
 
 ### Day: #455
 Assault Division: Jet Brigade U5 leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
@@ -7240,3 +7241,17 @@ Assault Division: Incineration Corps U3C leaves *Yed Prior* (2025-05-08 11:11  U
 Assault Division: Incineration Corps U3C deploys to *Blistica* (2025-05-08 11:12  UTC)<br/>
 Assault Division: Jet Brigade U5 leaves *Claorell* (2025-05-08 11:12  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
+ Decay: 3.0 on Clasa
+ (2025-05-08 14:00  UTC)<br/>
+ Decay: 1.0 on Claorell
+ (2025-05-08 18:00  UTC)<br/>
+ Decay: 0.5 on Claorell
+ (2025-05-08 22:00  UTC)<br/>
+*Claorell* is liberated (2025-05-09 07:08  UTC)<br/>
+↳ *Vog-Sojoth* liberation campaign starts (2025-05-09 07:08  UTC)<br/>
+DSS deploys to *Veld* of the Orion sector (2025-05-09 07:08  UTC)<br/>
+
+### Day: #457
+Assault Division: Incineration Corps U3B leaves *Aesir Pass* (2025-05-09 09:14  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Automatons (2025-05-09 09:16  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Curia* (2025-05-09 09:16  UTC)<br/>
