@@ -7255,3 +7255,47 @@ DSS deploys to *Veld* of the Orion sector (2025-05-09 07:08  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Aesir Pass* (2025-05-09 09:14  UTC)<br/>
 *Curia* of the Marspira sector is attacked by Automatons (2025-05-09 09:16  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Curia* (2025-05-09 09:16  UTC)<br/>
+ Decay: 0.0 on Curia
+ (2025-05-09 10:00  UTC)<br/>
+ Decay: 5.0 on Nivel 43
+ (2025-05-09 14:00  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-05-09 17:03  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-09 19:11  UTC)<br/>
+*Demiurg* of the Tanis sector is attacked by Automatons (2025-05-09 19:13  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Demiurg* (2025-05-09 19:13  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
+ Decay: 0.0 on Demiurg
+ (2025-05-09 20:52  UTC)<br/>
+*Curia* defense is won (2025-05-10 06:36  UTC)<br/>
+Assault Division: Incineration Corps U3B is routed (2025-05-10 06:36  UTC)<br/>
+DSS deploys to *Demiurg* of the Tanis sector (2025-05-10 06:36  UTC)<br/>
+*Sulfura* of the Celeste sector is attacked by Terminids (2025-05-10 08:29  UTC)<br/>
+Assault Division: Predator Strain U4O divides into 2 groups [U4O, U4R] (2025-05-10 08:29  UTC)<br/>
+Assault Division: Predator Strain U4R deploys to *Azterra* (2025-05-10 08:29  UTC)<br/>
+ Decay: 1.0 on Curia
+ (2025-05-10 08:29  UTC)<br/>
+
+### Day: #458
+ Decay: 0.0 on Sulfura
+ (2025-05-10 09:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-05-10 20:53  UTC)<br/>
+*Sulfura* defense is failed (2025-05-11 08:30  UTC)<br/>
+↳ *Sulfura* liberation campaign starts (2025-05-11 08:30  UTC)<br/>
+
+### Day: #459
+ Decay: 2.0 on Sulfura
+ (2025-05-11 09:00  UTC)<br/>
+*Demiurg* defense is failed (2025-05-11 09:30  UTC)<br/>
+DSS deploys to *Sulfura* of the Celeste sector (2025-05-11 09:30  UTC)<br/>
+ Decay: 2.0 on Demiurg
+ (2025-05-11 10:00  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Demiurg* (2025-05-11 13:18  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-11 13:20  UTC)<br/>
+Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
+ Decay: 1.0 on Sulfura
+ (2025-05-11 14:17  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
+Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
+DSS effect Orbital Blockade starts (2025-05-11 15:05  UTC)<br/>
+ Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
+ (2025-05-11 15:05  UTC)<br/>
