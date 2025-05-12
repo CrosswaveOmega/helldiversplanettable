@@ -7022,7 +7022,7 @@ Major Order | A2-4-6 Liberate Key Strategic Worlds is issued | Objective: Contro
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity has come to a halt. However, though one enemy is all but annihilated, the Terminids and Automatons remain significant threats. In the Illuminate's final hours, they dealt significant damage to the defenses of multiple strategic sites across both battlefronts, granting the opportunity for our foes to capture formerly well-defended territory. The Helldivers must hold these sites. (2025-04-29 15:44  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
-*Meridia* moves to X 0.26588848 Y 0.19910833 (2025-04-29 19:08  UTC)<br/>
+*Meridia* moves to X 0.26588848 Y 0.11910833 (2025-04-29 19:08  UTC)<br/>
 *Nublaria I* of the Celeste sector is now safe from threat of destruction (2025-04-29 19:20  UTC)<br/>
 DSS effect Orbital Blockade starts (2025-04-30 08:56  UTC)<br/>
 
@@ -7297,5 +7297,22 @@ Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
 DSS effect Orbital Blockade starts (2025-05-11 15:05  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-05-11 15:05  UTC)<br/>
  Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
  (2025-05-11 15:05  UTC)<br/>
+*Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-11 20:46  UTC)<br/>
+Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5E] (2025-05-11 20:46  UTC)<br/>
+Assault Division: Predator Strain U5E deploys to *Krakatwo* (2025-05-11 20:46  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-05-11 21:04  UTC)<br/>
+ Decay: 0.0 on Krakatwo
+ (2025-05-11 21:04  UTC)<br/>
+ Decay: 0.5 on Sulfura
+ (2025-05-12 00:00  UTC)<br/>
+*Claorell* defense is won (2025-05-12 07:21  UTC)<br/>
+Assault Division: Jet Brigade U5 is routed (2025-05-12 07:21  UTC)<br/>
+DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
+
+# Day: #460
+ Decay: 0.5 on Claorell
+ (2025-05-12 09:00  UTC)<br/>
+DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 09:05  UTC)<br/>
