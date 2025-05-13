@@ -7297,7 +7297,6 @@ Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
 DSS effect Orbital Blockade starts (2025-05-11 15:05  UTC)<br/>
-DSS effect Orbital Blockade stops (2025-05-11 15:05  UTC)<br/>
  Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
  (2025-05-11 15:05  UTC)<br/>
 *Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-11 20:46  UTC)<br/>
@@ -7316,3 +7315,22 @@ DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
  Decay: 0.5 on Claorell
  (2025-05-12 09:00  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 09:05  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-05-12 15:05  UTC)<br/>
+Major Order | A2-5-1 Assault Division Conquest is failed | Objective: Conquest (2025-05-12 19:02  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Blistica* (2025-05-12 19:06  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-05-12 19:08  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Zzaniah Prime* (2025-05-12 19:08  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Through insidious tactics and the unwittingly synchronized deployment of elite units, enemies of Freedom have unlawfully prevented the expansion of *Super Earth* territory. Consult your Galactic Map for more information. (2025-05-12 19:16  UTC)<br/>
+*Krakatwo* defense is failed (2025-05-12 20:47  UTC)<br/>
+↳ *Krakatwo* liberation campaign starts (2025-05-12 20:47  UTC)<br/>
+↳ *Slif* liberation campaign ends (2025-05-12 20:47  UTC)<br/>
+ Decay: 0.0 on Zzaniah Prime
+ (2025-05-12 20:47  UTC)<br/>
+*Sulfura* is liberated (2025-05-12 21:02  UTC)<br/>
+DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 21:02  UTC)<br/>
+ Decay: 2.0 on Krakatwo
+ (2025-05-12 21:02  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-05-12 21:05  UTC)<br/>
+*Nublaria I* of the Celeste sector is attacked by Terminids (2025-05-13 04:29  UTC)<br/>
+Assault Division: Predator Strain U5E divides into 2 groups [U5E, U5F] (2025-05-13 04:29  UTC)<br/>
+Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29  UTC)<br/>
