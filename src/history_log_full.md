@@ -686,9 +686,6 @@ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
 *Chort Bay* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
 *Menkent* of the Hydra sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-Emergency Alert | Reclamation Emergency Defense is issued (2024-04-09 11:47  UTC)<br/>
- Decay: 0.36 on Valdis sector<br/> Decay: 0.0 on Penta, Choohe
- (2024-04-09 11:47  UTC)<br/>
 Major Order | A1-4-4 Liberate *Hellmire*, *Estanu* and *Crimsica* is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02  UTC)<br/>
 Major Order | A1-4-5 The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
@@ -1006,7 +1003,6 @@ Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their ca
  Decay: 1.0 on Automaton worlds
  (2024-04-29 14:22  UTC)<br/>
 Major Order | A1-4-11 Deactivate the TCS is issued | Objective: Liberate (2024-04-29 14:24  UTC)<br/>
-Emergency Alert | TCS Failure Emergency Defense is issued (2024-04-29 14:28  UTC)<br/>
 Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Planets. The bugs appear to be showing resistance to Termicide. On *Meridia*, Terminid reproduction rates have exploded overnight. While the mechanism for this adaptation is unclear, it appears to be linked to continued Termicide exposure. It cannot be allowed to spread. The Helldivers are ordered to deactivate the Terminid Control System on the remaining Barrier Planets immediately. (2024-04-29 14:28  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-29 14:31  UTC)<br/>
  Decay: 3.0 on Terminid worlds
@@ -3069,8 +3065,7 @@ Assault Division: Jet Brigade U1 deploys to *Choohe* (2024-10-18 11:43  UTC)<br/
 Assault Division: Jet Brigade U1 leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
 Assault Division: Jet Brigade U1 deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
-Emergency Alert | Jet Brigade Emergency Defense is issued (2024-10-18 13:03  UTC)<br/>
-Major Order | A1-10-4 Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
+Major Order | A1-10-4 Stop The Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
  Decay: 2.0 on Choohe<br/> Decay: 0.0 on Matar Bay
  (2024-10-18 14:00  UTC)<br/>
 
@@ -3102,7 +3097,7 @@ NOTE: An error produced by the Gamemaster not properly filling a value making th
 ### Day: #257
 Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: -a fluttering *Super Earth* flag -a filled-out ballot -the inevitable destruction of Freedom's enemies. (2024-10-21 18:51  UTC)<br/>
 *Marfark* defense is won (2024-10-22 03:36  UTC)<br/>
-↳ Major Order | A1-10-4 Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
+↳ Major Order | A1-10-4 Stop The Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
  Decay: 0.5 on Marfark
  (2024-10-22 04:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
@@ -3728,7 +3723,6 @@ DSS is disabled (2024-12-13 02:22  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-13 02:22  UTC)<br/>
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (2024-12-13 02:24  UTC)<br/>
 Dispatch: ALL UNITS TO LIBCON 1. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (2024-12-13 02:28  UTC)<br/>
-Emergency Alert | *Calypso* Illuminate Emergency Invasion Defense is issued (2024-12-13 02:28  UTC)<br/>
 Major Order | A1-12-3 Defend *Calypso* from the Illuminate is issued | Objective: Defend (2024-12-13 02:28  UTC)<br/>
 Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings. (2024-12-13 02:30  UTC)<br/>
 
@@ -7334,3 +7328,26 @@ DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-05-12 21:05  UTC)<br/
 *Nublaria I* of the Celeste sector is attacked by Terminids (2025-05-13 04:29  UTC)<br/>
 Assault Division: Predator Strain U5E divides into 2 groups [U5E, U5F] (2025-05-13 04:29  UTC)<br/>
 Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29  UTC)<br/>
+ Decay: 0.0 on Nublaria I
+ (2025-05-13 06:00  UTC)<br/>
+Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)<br/>
+
+### Day: #461
+Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
+Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
+*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
+Major Order | Operation A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
+Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
+DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
+DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-13 13:05  UTC)<br/>
+*Zzaniah Prime* defense is failed (2025-05-13 19:09  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign starts (2025-05-13 19:09  UTC)<br/>
+ Decay: 1.5 on Zzaniah Prime
+ (2025-05-13 20:00  UTC)<br/>
+*Nublaria I* defense is failed (2025-05-14 04:30  UTC)<br/>
+↳ *Nublaria I* liberation campaign starts (2025-05-14 04:30  UTC)<br/>
+↳ *Krakatwo* liberation campaign ends (2025-05-14 04:30  UTC)<br/>
+ Decay: 1.5 on Nublaria I
+ (2025-05-14 06:00  UTC)<br/>
+Dispatch: ALERT. The DSS has taken fire from Illuminate spacecraft. The station remains operational, but Helldivers are advised that the enemy appears to have anti-DSS countermeasures prepared. Continued engagement on Illuminate-targeted planets risks further damage to the station. (2025-05-14 12:06  UTC)<br/>
+Dispatch: INFORMATIONAL UPDATE. In light of the ongoing strategic situation and in order to ensure elite training of the Galaxy's greatest heroes continues uninterrupted, Helldiver training has been relocated from Mars to an undisclosed location. (2025-05-14 14:39  UTC)<br/>
