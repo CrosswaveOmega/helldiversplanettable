@@ -7335,7 +7335,7 @@ Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)
 ### Day: #461
 Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
-*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
+*Widow's Harbor* of the Altus sector is attacked by Illuminate (2025-05-13 09:02  UTC)<br/>
 Major Order | Operation A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
@@ -7349,5 +7349,26 @@ DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-13 13:05  UTC)<br/>
 ↳ *Krakatwo* liberation campaign ends (2025-05-14 04:30  UTC)<br/>
  Decay: 1.5 on Nublaria I
  (2025-05-14 06:00  UTC)<br/>
+
+### Day: #462
 Dispatch: ALERT. The DSS has taken fire from Illuminate spacecraft. The station remains operational, but Helldivers are advised that the enemy appears to have anti-DSS countermeasures prepared. Continued engagement on Illuminate-targeted planets risks further damage to the station. (2025-05-14 12:06  UTC)<br/>
 Dispatch: INFORMATIONAL UPDATE. In light of the ongoing strategic situation and in order to ensure elite training of the Galaxy's greatest heroes continues uninterrupted, Helldiver training has been relocated from Mars to an undisclosed location. (2025-05-14 14:39  UTC)<br/>
+DSS deploys to *Nublaria I* of the Celeste sector (2025-05-14 17:06  UTC)<br/>
+DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-14 21:06  UTC)<br/>
+DSS deploys to *Nublaria I* of the Celeste sector (2025-05-15 01:06  UTC)<br/>
+DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-15 05:06  UTC)<br/>
+Assault Division: Predator Strain U5C leaves *Slif* (2025-05-15 07:59  UTC)<br/>
+Assault Division: Predator Strain U5C merges with Predator Strain U5E on *Krakatwo* (2025-05-15 08:01  UTC)<br/>
+
+### Day: #463
+ Decay: 2.5 on Krakatwo
+ (2025-05-15 09:00  UTC)<br/>
+*Widow's Harbor* defense is failed (2025-05-15 09:03  UTC)<br/>
+DSS deploys to *Nublaria I* of the Celeste sector (2025-05-15 09:03  UTC)<br/>
+Assault Division: The Great Host U1 leaves *Widow's Harbor* (2025-05-15 10:58  UTC)<br/>
+ Decay: 75.0 on Widow's Harbor
+ (2025-05-15 10:58  UTC)<br/>
+*Pilen V* of the Altus sector is attacked by Illuminate (2025-05-15 11:01  UTC)<br/>
+Assault Division: The Great Host U1 deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
+Assault Division: Predator Strain U5E leaves *Krakatwo* (2025-05-15 11:46  UTC)<br/>
+Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublaria I* (2025-05-15 11:48  UTC)<br/>
