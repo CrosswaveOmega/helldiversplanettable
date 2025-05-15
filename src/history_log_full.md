@@ -7372,3 +7372,8 @@ Assault Division: The Great Host U1 leaves *Widow's Harbor* (2025-05-15 10:58  U
 Assault Division: The Great Host U1 deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
 Assault Division: Predator Strain U5E leaves *Krakatwo* (2025-05-15 11:46  UTC)<br/>
 Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublaria I* (2025-05-15 11:48  UTC)<br/>
+ Decay: 2.5 on Nublaria I<br/> Decay: 1.5 on Krakatwo
+ (2025-05-15 14:00  UTC)<br/>
+DSS deploys to *Pilen V* of the Altus sector (2025-05-15 18:00  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-05-15 18:37  UTC)<br/>
+Dispatch: DSS DISABLED. The DSS was immediately engaged upon arrival at PILEN V, taking direct and severe damage. The crew managed to conduct a successful emergency warp to CLAORELL before the station was destroyed. Many valiant crew were sacrificed. Repairs are underway; it is unclear when the station will be returned to operational status. (2025-05-15 18:37  UTC)<br/>
