@@ -7333,6 +7333,7 @@ Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29 
 Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)<br/>
 
 ### Day: #461
+*Super Earth* of the Sol sector's biome is changed from *Super Earth* [*Super Earth*] to *Super Earth* Metropolis [*Super Earth*] (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
 *Widow's Harbor* of the Altus sector is attacked by Illuminate (2025-05-13 09:02  UTC)<br/>
@@ -7376,6 +7377,17 @@ Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublar
  (2025-05-15 14:00  UTC)<br/>
 DSS deploys to *Pilen V* of the Altus sector (2025-05-15 18:00  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-05-15 18:37  UTC)<br/>
+DSS is disabled (2025-05-15 18:37  UTC)<br/>
 Dispatch: DSS DISABLED. The DSS was immediately engaged upon arrival at PILEN V, taking direct and severe damage. The crew managed to conduct a successful emergency warp to CLAORELL before the station was destroyed. Many valiant crew were sacrificed. Repairs are underway; it is unclear when the station will be returned to operational status. (2025-05-15 18:37  UTC)<br/>
 
 ### Day: #464
+
+### Day: #465
+*Pilen V* defense is failed (2025-05-17 15:58  UTC)<br/>
+Assault Division: The Great Host U1 leaves *Pilen V* (2025-05-17 17:49  UTC)<br/>
+ Decay: 75.0 on Pilen V
+ (2025-05-17 17:49  UTC)<br/>
+*New Haven* of the Altus sector is attacked by Illuminate (2025-05-17 17:50  UTC)<br/>
+Assault Division: The Great Host U1 deploys to *New Haven* (2025-05-17 17:50  UTC)<br/>
+
+### Day: #466
