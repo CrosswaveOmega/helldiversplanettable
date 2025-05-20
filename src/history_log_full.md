@@ -7393,3 +7393,16 @@ Assault Division: The Great Host U1 deploys to *New Haven* (2025-05-17 17:50  UT
 ### Day: #466
 
 ### Day: #467
+*New Haven* defense is failed (2025-05-20 05:54  UTC)<br/>
+Major Order | Operation A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
+Dispatch: MAJOR ORDER CONCLUDED. As anticipated, *Widow's Harbor*, *Pilen V*, and *New Haven* have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (2025-05-20 07:17  UTC)<br/>
+ Decay: 75.0 on New Haven
+ (2025-05-20 07:17  UTC)<br/>
+Assault Division: The Great Host U1 leaves *New Haven* (2025-05-20 08:32  UTC)<br/>
+ Decay: 1.5 on Human worlds
+ (2025-05-20 08:32  UTC)<br/>
+Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet. Fortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1. (2025-05-20 08:36  UTC)<br/>
+
+### Day: #468
+We Will Defend (2025-05-20 09:00  UTC)<br/>
+And may Liberty have mercy upon us all (2025-05-20 09:00  UTC)<br/>
