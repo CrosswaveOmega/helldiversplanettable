@@ -7404,5 +7404,13 @@ Assault Division: The Great Host U1 leaves *New Haven* (2025-05-20 08:32  UTC)<b
 Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet. Fortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1. (2025-05-20 08:36  UTC)<br/>
 
 ### Day: #468
-We Will Defend (2025-05-20 09:00  UTC)<br/>
-And may Liberty have mercy upon us all (2025-05-20 09:00  UTC)<br/>
+*Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 0 Eaglepolis is attacked by Illuminate (2025-05-20 09:07  UTC)<br/>
+Major Order | Operation A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
+Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
+*Super Earth* Region 2 Remembrance is attacked by Illuminate (2025-05-20 20:02  UTC)<br/>
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
+
+### Day: #469
