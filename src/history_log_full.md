@@ -7414,3 +7414,11 @@ Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remem
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
 
 ### Day: #469
+
+# Day: #470
+Dispatch: IMPACT STABILIZED. Reinforcement budgets have been returned to normal. (2025-05-22 10:10  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Remembrance. (2025-05-22 10:12  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Eagleopolis. (2025-05-22 10:16  UTC)<br/>
+Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (2025-05-22 13:15  UTC)<br/>
+Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (2025-05-22 13:23  UTC)<br/>
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-05-22 13:40  UTC)<br/>
