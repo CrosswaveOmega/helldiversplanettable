@@ -7337,7 +7337,7 @@ Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)
 Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
 *Widow's Harbor* of the Altus sector is attacked by Illuminate (2025-05-13 09:02  UTC)<br/>
-Major Order | Operation A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
+Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-13 13:05  UTC)<br/>
@@ -7394,7 +7394,7 @@ Assault Division: The Great Host U1 deploys to *New Haven* (2025-05-17 17:50  UT
 
 ### Day: #467
 *New Haven* defense is failed (2025-05-20 05:54  UTC)<br/>
-Major Order | Operation A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
+Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
 Dispatch: MAJOR ORDER CONCLUDED. As anticipated, *Widow's Harbor*, *Pilen V*, and *New Haven* have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (2025-05-20 07:17  UTC)<br/>
  Decay: 75.0 on New Haven
  (2025-05-20 07:17  UTC)<br/>
@@ -7406,11 +7406,12 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 ### Day: #468
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
 *Super Earth* Region 0 Eaglepolis is attacked by Illuminate (2025-05-20 09:07  UTC)<br/>
-Major Order | Operation A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
+Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
 *Super Earth* Region 2 Remembrance is attacked by Illuminate (2025-05-20 20:02  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
+*Super Earth* Region 6 Equality-on-Sea is attacked by Illuminate (2025-05-21 08:11  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
 
 ### Day: #469
@@ -7422,3 +7423,14 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (2025-05-22 13:15  UTC)<br/>
 Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (2025-05-22 13:23  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-05-22 13:40  UTC)<br/>
+*Super Earth* Region 0 Eaglepolis defense is failed (2025-05-22 18:15  UTC)<br/>
+Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of *Super Earth* has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (2025-05-22 18:17  UTC)<br/>
+Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (2025-05-23 08:29  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (2025-05-23 08:32  UTC)<br/>
+
+### Day: #471
+Major Order | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (2025-05-23 10:18  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for *Super Earth* now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on *Super Earth*. (2025-05-23 10:20  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 is attacked by Illuminate (2025-05-23 12:54  UTC)<br/>
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02. (2025-05-23 12:54  UTC)<br/>
+Dispatch: M-105 Stalwart stratagem availability has ended. (2025-05-23 13:15  UTC)<br/>
