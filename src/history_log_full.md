@@ -7411,7 +7411,7 @@ Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle wi
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
 *Super Earth* Region 2 Remembrance is besieged by IIlluminate (2025-05-20 20:02  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
-*Super Earth* Region 6 Equality-on-Sea  is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
+*Super Earth* Region 6 Equality-on-Sea is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
 
 ### Day: #469
@@ -7423,7 +7423,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (2025-05-22 13:15  UTC)<br/>
 Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (2025-05-22 13:23  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-05-22 13:40  UTC)<br/>
-*Super Earth* Region 0 Eaglepolis falls to the Illuminate (2025-05-22 18:15  UTC)<br/>
+*Super Earth* Region 0 Eaglepolis siege is failed (2025-05-22 18:15  UTC)<br/>
 Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of *Super Earth* has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (2025-05-22 18:17  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (2025-05-23 08:29  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (2025-05-23 08:32  UTC)<br/>
@@ -7431,7 +7431,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SE
 ### Day: #471
 Major Order | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (2025-05-23 10:18  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for *Super Earth* now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on *Super Earth*. (2025-05-23 10:20  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02  is besieged by Illuminate (2025-05-23 12:54  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 is besieged by Illuminate (2025-05-23 12:54  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02. (2025-05-23 12:54  UTC)<br/>
 Dispatch: M-105 Stalwart stratagem availability has ended. (2025-05-23 13:15  UTC)<br/>
 
@@ -7442,8 +7442,8 @@ Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All H
 Dispatch: EMERGENCY ARSENAL AUGMENTATION. Shield Generator Relay authorized for use on SUPER EARTH. (2025-05-24 19:57  UTC)<br/>
 Dispatch: ADMINISTRATIVE CENTER 02 HAS FALLEN. The hallowed center of our Federal Bureaucracy burns. (2025-05-24 21:28  UTC)<br/>
 Dispatch: As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term. (2025-05-24 21:29  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02 falls to the Illuminate (2025-05-24 21:32  UTC)<br/>
-*Super Earth* Region 2 Remembrance falls to the Illuminate (2025-05-24 21:47  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 siege is failed (2025-05-24 21:32  UTC)<br/>
+*Super Earth* Region 2 Remembrance siege is failed (2025-05-24 21:47  UTC)<br/>
 Dispatch: REMEMBRANCE HAS FALLEN. Remembrance, monument to perseverance, is occupied by the Illuminate. This transgression will not be forgotten, nor forgiven. (2025-05-24 21:48  UTC)<br/>
 Dispatch: The resultant impact to the planetwide defense network means that Orbital Stratagem Cooldowns will be increased by 60 seconds until further notice. (2025-05-24 21:48  UTC)<br/>
 Dispatch: SUPER DEFENSE PROTOCOL SAPPHIRE. Three Megacities have fallen, triggering the activation of the first Super Defense Protocol: costly global defense measures to be used only when Democracy needs them most. Super Defense Protocol Sapphire converts the remaining rainforests into massive tactical airstrips. Eagle Rearm time is decreased by 45 seconds on *Super Earth*. (2025-05-24 21:49  UTC)<br/>
@@ -7452,3 +7452,11 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 ### Day: #473
 *Super Earth* Region 3 York Supreme is besieged by Illuminate (2025-05-25 10:59  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on York Supreme. (2025-05-25 10:59  UTC)<br/>
+
+### Day: #474
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (2025-05-26 11:06  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from York Supreme. (2025-05-26 11:11  UTC)<br/>
+*Super Earth* Region 4 Port Mercy is besieged by Illuminate (2025-05-26 11:16  UTC)<br/>
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Port Mercy. (2025-05-26 11:16  UTC)<br/>
+Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-26 14:32  UTC)<br/>
+Dispatch: DSS NEARING OPERATIONAL STATUS. Repairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for *Super Earth* will require resources to be liberated from the Automatons. The dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS. (2025-05-26 14:32  UTC)<br/>
