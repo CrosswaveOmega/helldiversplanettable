@@ -7460,3 +7460,11 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Port Mercy. (2025-05-26 11:16  UTC)<br/>
 Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-26 14:32  UTC)<br/>
 Dispatch: DSS NEARING OPERATIONAL STATUS. Repairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for *Super Earth* will require resources to be liberated from the Automatons. The dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS. (2025-05-26 14:32  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (2025-05-26 20:47  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on York Supreme. (2025-05-26 20:52  UTC)<br/>
+
+### Day: #475
+Major Order | A2-5-4 Extract From Illuminate Missions is failed | Objective: Extraction (2025-05-27 10:28  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Overwhelming enemy numbers prevented our heroes from completing the required number of operations. With this brief window of opportunity now closed, the chance to strike a mighty blow against our invaders has evaded us. Illuminate Fleet Strength is now estimated at 24% of its original operating power. 4 Mega Cities remain standing. The end of this conflict approaches. Liberty guide us all. (2025-05-27 10:32  UTC)<br/>
+Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is issued | Objective: Control (2025-05-27 11:04  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities. Consult your Galactic Map for more information. (2025-05-27 11:04  UTC)<br/>
