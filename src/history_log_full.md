@@ -7468,3 +7468,24 @@ Major Order | A2-5-4 Extract From Illuminate Missions is failed | Objective: Ext
 Dispatch: MAJOR ORDER FAILED. Overwhelming enemy numbers prevented our heroes from completing the required number of operations. With this brief window of opportunity now closed, the chance to strike a mighty blow against our invaders has evaded us. Illuminate Fleet Strength is now estimated at 24% of its original operating power. 4 Mega Cities remain standing. The end of this conflict approaches. Liberty guide us all. (2025-05-27 10:32  UTC)<br/>
 Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is issued | Objective: Control (2025-05-27 11:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities. Consult your Galactic Map for more information. (2025-05-27 11:04  UTC)<br/>
+Dispatch: MEGACITY NEARING COLLAPSE. Port Mercy is on the verge of falling to the Illuminate. (2025-05-28 03:12  UTC)<br/>
+Dispatch: MEGACITY NEARING COLLAPSE. York Supreme is on the verge of falling to the Illuminate. (2025-05-28 07:36  UTC)<br/>
+Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense. (2025-05-28 08:07  UTC)<br/>
+
+### Day: #476
+*Super Earth* Region 4 Port Mercy siege is failed (2025-05-28 10:32  UTC)<br/>
+Dispatch: PORT MERCY HAS FALLEN. The longtime refuge of so many Class-A citizens is now a stronghold of the Illuminate. (2025-05-28 10:32  UTC)<br/>
+Dispatch: The *Super Earth* Defense Grid is now suffering severe logistical impacts. Ammunition Combat Loads will be reduced by 50%. Stim Capacity will be reduced by 2. (2025-05-28 10:33  UTC)<br/>
+Dispatch: IMPACT STABILIZED. Orbital Stratagem Cooldown times have been returned to normal. (2025-05-28 10:35  UTC)<br/>
+Dispatch: SUPER DEFENSE PROTOCOL DIAMOND. The fall of a 4th Mega City has triggered the activation of Super Defense Protocol Diamond. Super Defense Protocol Diamond removes all Collateral Damage Mitigation Procedures. All Helldiver loadouts will be augmented with the Orbital Napalm Barrage stratagem for *Super Earth* missions. (2025-05-28 10:35  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (2025-05-28 10:37  UTC)<br/>
+*Super Earth* Region 3 York Supreme siege is failed (2025-05-28 13:34  UTC)<br/>
+Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
+Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
+Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
+DSS is activated (2025-05-28 16:10  UTC)<br/>
+DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:10  UTC)<br/>
+Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to *Super Earth* immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (2025-05-28 16:10  UTC)<br/>
+Dispatch: IMPACT STABILIZED. Extraction times have been returned to normal. (2025-05-28 16:11  UTC)<br/>
+Dispatch: IMPACT STABILIZED. Ammunition Combat Loads have been returned to normal. Stim capacity has been returned to normal. (2025-05-28 16:11  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-05-28 16:14  UTC)<br/>
