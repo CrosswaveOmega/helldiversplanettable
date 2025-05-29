@@ -7489,3 +7489,17 @@ Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full
 Dispatch: IMPACT STABILIZED. Extraction times have been returned to normal. (2025-05-28 16:11  UTC)<br/>
 Dispatch: IMPACT STABILIZED. Ammunition Combat Loads have been returned to normal. Stim capacity has been returned to normal. (2025-05-28 16:11  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-05-28 16:14  UTC)<br/>
+DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:15  UTC)<br/>
+DSS effect Eagle Blockade is activated (2025-05-28 16:22  UTC)<br/>
+*Super Earth* Region 6 Prosperity City is besieged by Illuminate (2025-05-29 08:09  UTC)<br/>
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on *Super Earth*'s Capital: Prosperity City. (2025-05-29 08:09  UTC)<br/>
+Dispatch: DEFENSES HOLDING. The Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight. (2025-05-29 08:29  UTC)<br/>
+Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength. (2025-05-29 08:50  UTC)<br/>
+
+### Day: #477
+*Fort Union* of the Orion sector is attacked by Terminids (2025-05-29 09:00  UTC)<br/>
+Major Order | A2-5-7 Defend *Fort Union* Satellites is issued (2025-05-29 09:02  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (2025-05-29 09:03  UTC)<br/>
+ Decay: 0.0 on Fort Union
+ (2025-05-29 10:00  UTC)<br/>
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Prosperity City. (2025-05-29 12:12  UTC)<br/>
