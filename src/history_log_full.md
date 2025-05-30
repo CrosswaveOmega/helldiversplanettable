@@ -7498,8 +7498,18 @@ Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-
 
 ### Day: #477
 *Fort Union* of the Orion sector is attacked by Terminids (2025-05-29 09:00  UTC)<br/>
-Major Order | A2-5-7 Defend *Fort Union* Satellites is issued (2025-05-29 09:02  UTC)<br/>
+Major Order | A2-5-7 Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (2025-05-29 09:03  UTC)<br/>
  Decay: 0.0 on Fort Union
  (2025-05-29 10:00  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Prosperity City. (2025-05-29 12:12  UTC)<br/>
+Dispatch: PRESIDENT KIA. The President of *Super Earth* has been killed in action by the Illuminate during the fall of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes. Presidential authority has been placed in the Minister of Defense. (2025-05-29 21:57  UTC)<br/>
+NOTE: This dispatch is later revised to say “during the siege of” instead of “during the fall of” for unknown reasons (2025-05-29 21:57  UTC)<br/>
+*Fort Union* defense is won (2025-05-29 22:02  UTC)<br/>
+Major Order | A2-5-7 Defend *Fort Union* Satellites is won | Objective: Defend (2025-05-29 22:02  UTC)<br/>
+Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result. The unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment. (2025-05-29 22:24  UTC)<br/>
+ Decay: 1.5 on Fort Union
+ (2025-05-29 22:24  UTC)<br/>
+Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (2025-05-29 22:42  UTC)<br/>
+
+### Day: #478
