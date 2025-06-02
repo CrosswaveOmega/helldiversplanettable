@@ -7405,7 +7405,8 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 
 ### Day: #468
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
-*Super Earth* Region 0 Eaglepolis  is besieged by IIlluminate (2025-05-20 09:07  UTC)<br/>
+Assault Division: The Great Host U1 deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 0 Eaglepolis is besieged by IIlluminate (2025-05-20 09:07  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
@@ -7491,7 +7492,7 @@ Dispatch: IMPACT STABILIZED. Ammunition Combat Loads have been returned to norma
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-05-28 16:14  UTC)<br/>
 DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:15  UTC)<br/>
 DSS effect Eagle Blockade is activated (2025-05-28 16:22  UTC)<br/>
-*Super Earth* Region 6 Prosperity City is besieged by Illuminate (2025-05-29 08:09  UTC)<br/>
+*Super Earth* Region 5 Prosperity City is besieged by Illuminate (2025-05-29 08:09  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on *Super Earth*'s Capital: Prosperity City. (2025-05-29 08:09  UTC)<br/>
 Dispatch: DEFENSES HOLDING. The Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight. (2025-05-29 08:29  UTC)<br/>
 Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength. (2025-05-29 08:50  UTC)<br/>
@@ -7513,3 +7514,27 @@ Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transm
 Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (2025-05-29 22:42  UTC)<br/>
 
 ### Day: #478
+*Super Earth* Region 5 Prosperity City siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* Region 6 Equality On Sea siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* is liberated (2025-05-30 11:15  UTC)<br/>
+↳ Sol sector is fully under Human control (2025-05-30 11:15  UTC)<br/>
+Assault Division: The Great Host U1 is routed (2025-05-30 11:15  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-05-30 11:16  UTC)<br/>
+Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is won | Objective: Control (2025-05-30 11:16  UTC)<br/>
+*New Haven* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
+*Widow's Harbor* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
+*Pilen V* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Illuminate have retreated. The Battle for *Super Earth* has been won. Consult your Galactic Map for more information. (2025-05-30 11:21  UTC)<br/>
+Dispatch: NEW PRESIDENT ELECTED. A new President of *Super Earth* has been sworn in following a landslide victory in a Managed Election. (2025-05-30 12:25  UTC)<br/>
+ Decay: 1.5 on Widow's Harbor, New Haven, Pilen V
+ (2025-05-30 12:25  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2025-05-31 00:20  UTC)<br/>
+
+### Day: #479
+DSS deploys to *Terrek* of the Orion sector (2025-05-31 16:20  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2025-06-01 00:20  UTC)<br/>
+
+# Day: #480
+*Terrek* is liberated (2025-06-01 14:38  UTC)<br/>
+
+### Day: #481
