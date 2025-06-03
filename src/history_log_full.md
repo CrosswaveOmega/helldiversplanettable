@@ -7538,3 +7538,9 @@ DSS deploys to *Gaellivare* of the Talus sector (2025-06-01 00:20  UTC)<br/>
 *Terrek* is liberated (2025-06-01 14:38  UTC)<br/>
 
 ### Day: #481
+ Decay: 0.5 on Azterra
+ (2025-06-02 12:00  UTC)<br/>
+*Gaellivare* is liberated (2025-06-02 20:55  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2025-06-02 20:55  UTC)<br/>
+↳ Talus sector is fully under Human control (2025-06-02 20:55  UTC)<br/>
+DSS deploys to *Azterra* of the Orion sector (2025-06-02 20:55  UTC)<br/>
