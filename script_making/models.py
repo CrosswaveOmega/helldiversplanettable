@@ -26,14 +26,15 @@ class GameEvent(BaseModel):
     faction: Optional[int] = Field(alias="faction", default=0)
     planet: Optional[List[Tuple[str, str]]] = Field(alias="planet", default=[])
     region: Optional[List[Tuple[str, str]]] = Field(alias="region", default=[])
-    
 
     mo: Optional[str] = Field(alias="mo", default=None)
-    mo_id:  Optional[str] = Field(alias="mo_id", default=None)
+    mo_id: Optional[str] = Field(alias="mo_id", default=None)
     mo_name: Optional[str] = Field(alias="mo_name", default=None)
     mo_case: Optional[str] = Field(alias="mo_case", default=None)
     mo_objective: Optional[str] = Field(alias="type", default=None)
-    last_dss_planet: Optional[List[Tuple[str, str]]] = Field(alias="last_dss_planet", default=[])
+    last_dss_planet: Optional[List[Tuple[str, str]]] = Field(
+        alias="last_dss_planet", default=[]
+    )
     all_players: Optional[int] = Field(alias="all_players", default=None)
     eind: Optional[int] = Field(alias="eind", default=None)
 
@@ -75,7 +76,6 @@ class GameEventGroup(BaseModel):
 
 
 class SubEventList(BaseModel):
-
     log: Optional[List[GameSubEvent]] = Field(default_factory=list)
 
 
@@ -89,16 +89,19 @@ class PlanetStatic(BaseModel):
     sector: str
     index: int
 
+
 class Descriptions(BaseModel):
     name: Optional[str] = Field(alias="name", default=None)
-    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
+    desc: Optional[str] = Field(alias="desc", default="Nothing of note.")
+
 
 class PlanetRegion(BaseModel):
-    index:Optional[int] = Field(alias="index", default=None)
+    index: Optional[int] = Field(alias="index", default=None)
     name: Optional[str] = Field(alias="name", default=None)
-    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
-    t: Optional[int]= Field(alias="t", default=0)
-    regen:Optional[float]=Field(alias="float", default=None)
+    desc: Optional[str] = Field(alias="desc", default="Nothing of note.")
+    t: Optional[int] = Field(alias="t", default=0)
+    regen: Optional[float] = Field(alias="regen", default=None)
+
 
 class PlanetState(BaseModel):
     hp: Optional[int] = Field(alias="hp", default=None)
@@ -111,31 +114,35 @@ class PlanetState(BaseModel):
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
-    adiv:Optional[str]=Field(alias="assaultdiv", default=None)
-    desc:Optional[List[Descriptions]]=Field(alias="desc", default_factory=list)
-    position: Position=Field(alias="position",default=Position(x=0,y=0))
-    regions:Optional[Dict[str,PlanetRegion]]=Field(alias="regions", default_factory=dict)
+    adiv: Optional[str] = Field(alias="assaultdiv", default=None)
+    desc: Optional[List[Descriptions]] = Field(alias="desc", default_factory=list)
+    position: Position = Field(alias="position", default=Position(x=0, y=0))
+    regions: Dict[str, PlanetRegion] = Field(alias="regions", default_factory=dict)
 
-    def remove_desc(self,name):
+    def remove_desc(self, name):
         for i in list(self.desc):
-            if i.name==name:
+            if i.name == name:
                 self.desc.remove(i)
                 return
 
-    def add_desc(self,name,desc):
+    def add_desc(self, name, desc):
         for i in list(self.desc):
-            if i.name==name:
+            if i.name == name:
                 return
-        self.desc.append(Descriptions(name=name,desc=desc))
-
+        self.desc.append(Descriptions(name=name, desc=desc))
 
 
 class GalaxyStates(BaseModel):
     gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
     states: Optional[Dict[str, PlanetState]] = Field(default=None, alias="states")
-    gstate: Optional[Dict[str, ListOfDicts]] = Field(default_factory=dict, alias="gstate")
-    gstate_cluster:Optional[Dict[int,Dict[str, ListOfDicts]]]= Field(default_factory=dict, alias="gstate_cluster")
+    gstate: Optional[Dict[str, ListOfDicts]] = Field(
+        default_factory=dict, alias="gstate"
+    )
+    gstate_cluster: Optional[Dict[int, Dict[str, ListOfDicts]]] = Field(
+        default_factory=dict, alias="gstate_cluster"
+    )
     links: Optional[Dict[int, List[int]]] = Field(default_factory=dict)
+
 
 class DaysObject(BaseModel):
     events_all: Optional[List[GameEvent]] = Field(
@@ -155,5 +162,8 @@ class GalacticEffect(BaseModel):
     icon: str = Field(alias="icon", default="Governmental")
     description: str = Field(alias="description", default="NA")
 
+
 class MyEffects(BaseModel):
-    planetEffects:Optional[Dict[str, GalacticEffect]] = Field(default=None, alias="planetEffects")
+    planetEffects: Optional[Dict[str, GalacticEffect]] = Field(
+        default=None, alias="planetEffects"
+    )

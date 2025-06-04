@@ -19,12 +19,13 @@ from script_making.models import (
     GameEventGroup,
     GameSubEvent,
     GameEvent,
+    PlanetRegion,
     PlanetStatic,
     PlanetState,
     DaysObject,
     GalaxyStates,
     MyEffects,
-    GalacticEffect
+    GalacticEffect,
 )
 from script_making.json_file_utils import (
     check_and_load_json,
@@ -76,7 +77,7 @@ DATABASE_FILE = "./src/data/gen_data/alltimedata.db"
 
 MAX_HOUR_DISTANCE = 6
 MIN_HOUR_CHANGE = 2
-CLUSTER_SIZE=2048
+CLUSTER_SIZE = 2048
 
 # Create allplanet.json if not done already
 vjson = load_and_merge_json_files("planets", "./hd2json")
@@ -174,7 +175,7 @@ async def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-    allregions=allplanets['planetRegion']
+    allregions = allplanets["planetRegion"]
     # map sectors to planets.
     sector_dict = {}
     for key, planet in planets_Dict.items():
@@ -208,7 +209,7 @@ async def format_event_obj() -> None:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
         event.type, match = get_event_type(text, event_types)
-        event.region=get_region(allregions,text)
+        event.region = get_region(allregions, text)
 
         print(event.text, event.time, event.planet, event.type)
         logger.info(
@@ -320,8 +321,10 @@ async def get_planet_stats(
                 print(
                     f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
                 )
-                
-                logger.info(f"{timestamp} not found in all_times_new[{dc}] but WAS found in db")
+
+                logger.info(
+                    f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
+                )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
                 return planetstats
@@ -404,23 +407,22 @@ def unordered_list_hash(int_list: List[int]):
     return "ERR"
 
 
-def get_effect(site:str)->Optional[GalacticEffect]:
+def get_effect(site: str) -> Optional[GalacticEffect]:
     max_shared_len = 0
     best_pair = None
-    besteff=None
+    besteff = None
     for sdg, eff in ejson.planetEffects.items():
         name_upper = eff.name.upper()
-        if name_upper==site.upper():
+        if name_upper == site.upper():
             return eff
         if site.upper() in name_upper or name_upper in site.upper():
             site_upper = site.upper()
-            shared_len = min(len(site_upper),len(name_upper))
+            shared_len = min(len(site_upper), len(name_upper))
             if shared_len > max_shared_len:
                 max_shared_len = shared_len
                 best_pair = (eff, site)
-                besteff=eff
+                besteff = eff
     return besteff
-
 
 
 def ENCODE(CO, AT, L):
@@ -490,12 +492,12 @@ async def process_event(
                 event.mo_id = match
             event.mo_case = case
             event.mo_objective = objective
-            mostr=f"{event.mo_id}, {name}, {objective}"
-            if case=='is issued':
-                store["mo"][event.mo_id] = (mostr)
+            mostr = f"{event.mo_id}, {name}, {objective}"
+            if case == "is issued":
+                store["mo"][event.mo_id] = mostr
             else:
-                store['mo'].pop(event.mo_id)
-    mov=','.join(v for _,v in store.get("mo", {}).items())
+                store["mo"].pop(event.mo_id)
+    mov = ",".join(v for _, v in store.get("mo", {}).items())
     event.mo = mov
 
     if event.day not in days_out.days:
@@ -549,16 +551,33 @@ async def process_event(
 
 def update_region_ownership(
     event: GameEvent,
-    name:str,
-    inde:int,
+    name: str,
+    inde: int,
     planetclone: Dict[str, PlanetState],
     store: Dict[str, str],
 ) -> None:
-    #TODO: Fill this out
+    # TODO: add events for when Super Earth Captures
+    # A region when it happens
     for p in event.region:
-        rn, ind=p
-        dec = list(DECODE(planetclone[str(ind)].regions[rn].t))
-    
+        rn, ind = p
+        if rn not in planetclone[str(inde)].regions[rn]:
+            planetclone[str(inde)].regions[rn] = PlanetRegion(
+                index=int(ind), name=rn, t=ENCODE(1, 0, 0), regen=0
+            )
+        dec = list(DECODE(planetclone[str(inde)].regions[rn].t))
+        if event.type == "region_siege_start":
+            dec[1] = event.faction
+            dec[2] = 1
+        if event.type == "region_siege_end":
+            dec[1] = 0
+            dec[2] = 0
+        if event.type == "region_siege_lost":
+            dec[0] = event.faction
+            dec[1] = 0
+            dec[2] = 0
+        planetclone[str(inde)].regions[rn].t = ENCODE(dec[0], dec[1], dec[2])
+
+
 def update_planet_ownership(
     event: GameEvent,
     planetclone: Dict[str, PlanetState],
@@ -628,10 +647,10 @@ def update_planet_ownership(
             planetclone[str(ind)].dss = "DSS Here"
             planetclone[str(ind)].add_desc(
                 "DSS",
-                'A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.',
+                "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.",
             )
         if "region" in event.type:
-            update_region_ownership(event,name,ind,planetclone,store)
+            update_region_ownership(event, name, ind, planetclone, store)
         if "SiteEvent" in event.type:
             site = extract_poi_details(event.text)
             if event.type == "SiteEvent built":
@@ -680,9 +699,9 @@ def update_planet_ownership(
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
 
-        if event.type=="Annihilation":
-            #planetclone[str(ind)].biome = "destroyed"
-            site="FRACTURED PLANET"
+        if event.type == "Annihilation":
+            # planetclone[str(ind)].biome = "destroyed"
+            site = "FRACTURED PLANET"
             planetclone[str(ind)].biome = "fractured"
 
             eff = get_effect(site)
@@ -692,7 +711,7 @@ def update_planet_ownership(
                 planetclone[str(ind)].add_desc(eff.name, eff.description)
 
         if "Threat" in event.type:
-            site = 'VERGE OF DESTRUCTION'
+            site = "VERGE OF DESTRUCTION"
             if event.type == "Threat Start":
                 eff = get_effect(site)
                 if eff:
@@ -751,12 +770,13 @@ class PlanetHistoryDelta:
     def __init__(self):
         self.hashlinks = {}
         self.resort: Dict[str, List[Dict[str, Any]]] = {}
-        self.clusters:List[Dict[str, List[Dict[str, Any]]]]=[]
+        self.clusters: List[Dict[str, List[Dict[str, Any]]]] = []
         self.laststate = {}
-        self.cluster_num=0
+        self.cluster_num = 0
 
-
-    def get_difference_from_laststate(self, event_index:int, planet_key:str, planetstate:PlanetState):
+    def get_difference_from_laststate(
+        self, event_index: int, planet_key: str, planetstate: PlanetState
+    ):
         """
         Calculate the difference between the current planet state and the last known state.
 
@@ -782,9 +802,11 @@ class PlanetHistoryDelta:
                 difference[key] = res[key]
         return difference
 
-    def update_hash_links(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+    def update_hash_links(
+        self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]
+    ):
         """
-        Update the hash links for planets.  
+        Update the hash links for planets.
         Hashlinks are a configuration of supply lines tied with a unique "hash" value.
 
         Args:
@@ -806,20 +828,20 @@ class PlanetHistoryDelta:
                         )
                 resa.link2 = link
 
-
-
-    def delta_format(self, event_index:int, ptemp: Optional[Dict[str, PlanetState]]):
+    def delta_format(self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]):
         """Add to the ongoing history delta."""
-        
-        #update hash links
-        self.update_hash_links(event_index,ptemp)
-        cluster_num=event_index//CLUSTER_SIZE
+
+        # update hash links
+        self.update_hash_links(event_index, ptemp)
+        cluster_num = event_index // CLUSTER_SIZE
 
         if self.laststate:
             # Check for changes between Last state and the
             # current temporary planet
             for planet_key, planet_state in ptemp.items():
-                toad=self.get_difference_from_laststate(event_index,planet_key,planet_state)
+                toad = self.get_difference_from_laststate(
+                    event_index, planet_key, planet_state
+                )
                 if toad:
                     toad["eind"] = event_index
                     self.resort[planet_key].append(toad)
@@ -831,17 +853,16 @@ class PlanetHistoryDelta:
                     self.resort[planet_key][0]["eind"] = event_index
         self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
-    def make_cluster(self,cluster_size):
-
+    def make_cluster(self, cluster_size):
         grouped_items = {}  # Dictionary to hold groups
 
         for planet, changes in self.resort.items():
             for change in changes:
-                eind = change['eind']
-                cluster=eind//cluster_size
+                eind = change["eind"]
+                cluster = eind // cluster_size
                 if cluster not in grouped_items:
-                    grouped_items[cluster]={}
-                    rebuilt=self.rebuild_state_up_to(eind*cluster_size)
+                    grouped_items[cluster] = {}
+                    rebuilt = self.rebuild_state_up_to(eind * cluster_size)
                     for i, v in rebuilt.items():
                         grouped_items[cluster][i] = [v]
                 else:
@@ -886,7 +907,7 @@ class GalaxyEventProcessor:
         self.temp = temp
         self.march_5th = datetime(2024, 3, 5, 20, tzinfo=timezone.utc)
         self.all_times_new = {}
-        self.store = {'mos':{}}
+        self.store = {"mos": {}}
         self.laststats = {}
         self.galaxy_states = GalaxyStates(gstatic=planets, states={})
         self.phistdelta = PlanetHistoryDelta()
@@ -927,7 +948,6 @@ class GalaxyEventProcessor:
         print(f"On event group number {i}, timestamp {ne.time}")
         logger.info(f"On event group number {i}, timestamp {ne.time}")
 
-
         ptemp = {k: v.model_copy(deep=True) for k, v in self.temp.items()}
         dc = str(int(ne.day) // 30)
         interval = int(ne.timestamp) // 900
@@ -940,7 +960,7 @@ class GalaxyEventProcessor:
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
                 return  # Skip the event group
-            
+
         await self.process_event_logs(event_group, ne, ptemp)
         self.phistdelta.delta_format(ne.eind, ptemp)
         self.newevt.append(ne)
@@ -1042,9 +1062,9 @@ class GalaxyEventProcessor:
         self.galaxy_states.links = self.phistdelta.hashlinks
 
         self.save_results()
-        
-        #rebuilt = self.phistdelta.make_cluster(CLUSTER_SIZE)
-        #print(json.dumps(rebuilt))
+
+        # rebuilt = self.phistdelta.make_cluster(CLUSTER_SIZE)
+        # print(json.dumps(rebuilt))
         self.conn.close()
 
 
@@ -1061,8 +1081,8 @@ if not os.path.exists("./src/data/gen_data"):
 
 if __name__ == "__main__":
     print("Starting up...")
-    
-    logger.info("Starting up...")# = logging.getLogger("StatusLogger")
+
+    logger.info("Starting up...")  # = logging.getLogger("StatusLogger")
 
     parser = argparse.ArgumentParser(description="Check for changes.")
     parser.add_argument(

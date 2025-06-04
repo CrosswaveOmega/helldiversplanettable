@@ -46,12 +46,13 @@ def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     return planets
 
 
-
-def get_region(myregions: Dict[str, Dict[str,str]], text: str) -> List[Tuple[str, int]]:
+def get_region(
+    myregions: Dict[str, Dict[str, str]], text: str
+) -> List[Tuple[str, int]]:
     "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
     planets = []
     t2 = text
-    keys = sorted(list(v['name'] for v in myregions.values()), key=len, reverse=True)
+    keys = sorted(list(v["name"] for v in myregions.values()), key=len, reverse=True)
 
     for planet in keys:
         if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
@@ -59,7 +60,7 @@ def get_region(myregions: Dict[str, Dict[str,str]], text: str) -> List[Tuple[str
             region_match = re.search(r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE)
             if region_match:
                 region_num = int(region_match.group(1))
-                planets.append((planet, region_num))
+                planets.append((planet, str(region_num)))
                 # Replace the matched planet name with a placeholder to prevent re-matching
                 t2 = re.sub(
                     rf"\b{re.escape(planet)}\b",
@@ -69,6 +70,7 @@ def get_region(myregions: Dict[str, Dict[str,str]], text: str) -> List[Tuple[str
                 )
 
     return planets
+
 
 def parse_timestamp(timestamp_str: str) -> datetime:
     """Parse the history log's timestamp formatting into a valid datetime object."""
@@ -214,39 +216,37 @@ def extract_mo_details(text: str) -> Optional[Tuple[str, str, str, str]]:
         return type_, name, case, objective
     else:
         return None
-    
-def extract_poi_details(
-        text:str
-):
-    match = re.search(r'is established as a (.*?) POI', text)
+
+
+def extract_poi_details(text: str):
+    match = re.search(r"is established as a (.*?) POI", text)
 
     if match:
         return match.group(1)
-    
+
     match = re.search(r"of the .*?'s (.*?) POI", text)
 
     if match:
         return match.group(1)
     return "SITEUNKNOWN"
 
-    
-def extract_assault_division(
-        text:str
-):
+
+def extract_assault_division(text: str):
     match = re.search(r"Assault Division: (.*?) deploys", text)
 
     if match:
         return match.group(1)
-    
+
     match = re.search(r"Assault Division: (.*?) leaves", text)
     if match:
         return match.group(1)
-    
+
     match = re.search(r"Assault Division: (.*?) is routed", text)
     if match:
         return match.group(1)
-    
+
     return "SITEUNKNOWN"
+
 
 def extract_biome_change_details(
     text: str,
@@ -421,4 +421,4 @@ def longest_common_substring(s1, s2):
                     x_longest = x
             else:
                 m[x][y] = 0
-    return s1[x_longest - longest: x_longest]
+    return s1[x_longest - longest : x_longest]
