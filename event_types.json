@@ -263,5 +263,21 @@
     "War Resume":{
         "name": "Gwar resumes",
         "matchable": [" is no longer paused"]
+    },
+    "RegionSiegeStartEvent": {
+    "name": "region_siege_start",
+    "matchable": ["Region", "is besieged by"],
+    "mode": "and"
+    },
+    "RegionSiegeLostEvent": {
+        "name": "region_siege_lost",
+        "matchable": ["Region", "has fallen to"],
+        "mode": "and"
+    },
+    "RegionSiegeEndEvent": {
+        "name": "region_siege_end",
+        "matchable": ["Region", "siege has ended"],
+        "mode": "and"
     }
+
 }
