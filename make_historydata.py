@@ -493,7 +493,7 @@ async def process_event(
             event.mo_case = case
             event.mo_objective = objective
             mostr = f"{event.mo_id}, {name}, {objective}"
-            if not store["mo"]:
+            if not "mo" in store:
                 store["mo"]={}
             if case == "is issued":
                 store["mo"][event.mo_id] = mostr
