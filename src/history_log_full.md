@@ -7424,7 +7424,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (2025-05-22 13:15  UTC)<br/>
 Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (2025-05-22 13:23  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-05-22 13:40  UTC)<br/>
-*Super Earth* Region 0 Eaglepolis siege is failed (2025-05-22 18:15  UTC)<br/>
+*Super Earth* Region 0 Eaglepolis has fallen to Illuminate (2025-05-22 18:15  UTC)<br/>
 Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of *Super Earth* has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (2025-05-22 18:17  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (2025-05-23 08:29  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (2025-05-23 08:32  UTC)<br/>
@@ -7443,8 +7443,8 @@ Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All H
 Dispatch: EMERGENCY ARSENAL AUGMENTATION. Shield Generator Relay authorized for use on SUPER EARTH. (2025-05-24 19:57  UTC)<br/>
 Dispatch: ADMINISTRATIVE CENTER 02 HAS FALLEN. The hallowed center of our Federal Bureaucracy burns. (2025-05-24 21:28  UTC)<br/>
 Dispatch: As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term. (2025-05-24 21:29  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02 siege is failed (2025-05-24 21:32  UTC)<br/>
-*Super Earth* Region 2 Remembrance siege is failed (2025-05-24 21:47  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 has fallen to Illuminate (2025-05-24 21:32  UTC)<br/>
+*Super Earth* Region 2 Remembrance has fallen to Illuminate (2025-05-24 21:47  UTC)<br/>
 Dispatch: REMEMBRANCE HAS FALLEN. Remembrance, monument to perseverance, is occupied by the Illuminate. This transgression will not be forgotten, nor forgiven. (2025-05-24 21:48  UTC)<br/>
 Dispatch: The resultant impact to the planetwide defense network means that Orbital Stratagem Cooldowns will be increased by 60 seconds until further notice. (2025-05-24 21:48  UTC)<br/>
 Dispatch: SUPER DEFENSE PROTOCOL SAPPHIRE. Three Megacities have fallen, triggering the activation of the first Super Defense Protocol: costly global defense measures to be used only when Democracy needs them most. Super Defense Protocol Sapphire converts the remaining rainforests into massive tactical airstrips. Eagle Rearm time is decreased by 45 seconds on *Super Earth*. (2025-05-24 21:49  UTC)<br/>
@@ -7474,13 +7474,13 @@ Dispatch: MEGACITY NEARING COLLAPSE. York Supreme is on the verge of falling to 
 Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense. (2025-05-28 08:07  UTC)<br/>
 
 ### Day: #476
-*Super Earth* Region 4 Port Mercy siege is failed (2025-05-28 10:32  UTC)<br/>
+*Super Earth* Region 4 Port Mercy has fallen to Illuminate (2025-05-28 10:32  UTC)<br/>
 Dispatch: PORT MERCY HAS FALLEN. The longtime refuge of so many Class-A citizens is now a stronghold of the Illuminate. (2025-05-28 10:32  UTC)<br/>
 Dispatch: The *Super Earth* Defense Grid is now suffering severe logistical impacts. Ammunition Combat Loads will be reduced by 50%. Stim Capacity will be reduced by 2. (2025-05-28 10:33  UTC)<br/>
 Dispatch: IMPACT STABILIZED. Orbital Stratagem Cooldown times have been returned to normal. (2025-05-28 10:35  UTC)<br/>
 Dispatch: SUPER DEFENSE PROTOCOL DIAMOND. The fall of a 4th Mega City has triggered the activation of Super Defense Protocol Diamond. Super Defense Protocol Diamond removes all Collateral Damage Mitigation Procedures. All Helldiver loadouts will be augmented with the Orbital Napalm Barrage stratagem for *Super Earth* missions. (2025-05-28 10:35  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (2025-05-28 10:37  UTC)<br/>
-*Super Earth* Region 3 York Supreme siege is failed (2025-05-28 13:34  UTC)<br/>
+*Super Earth* Region 3 York Supreme has fallen to Illuminate (2025-05-28 13:34  UTC)<br/>
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
@@ -7544,3 +7544,26 @@ DSS deploys to *Gaellivare* of the Talus sector (2025-06-01 00:20  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2025-06-02 20:55  UTC)<br/>
 ↳ Talus sector is fully under Human control (2025-06-02 20:55  UTC)<br/>
 DSS deploys to *Azterra* of the Orion sector (2025-06-02 20:55  UTC)<br/>
+
+### Day: #482
+Assault Division: Incineration Corps U3C leaves *Zzaniah Prime* (2025-06-03 11:13  UTC)<br/>
+*Zosma* of the Gellert sector is attacked by Automatons (2025-06-03 11:15  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Zosma* (2025-06-03 11:15  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Automatons (2025-06-03 11:45  UTC)<br/>
+ Decay: 0.0 on Zosma
+ (2025-06-03 11:45  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2025-06-03 12:13  UTC)<br/>
+ Decay: 0.0 on Curia
+ (2025-06-03 12:13  UTC)<br/>
+Major Order | A2-6-1 Defend Against 5 Automaton Attacks is issued | Objective: Defend (2025-06-03 12:19  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault. (2025-06-03 12:21  UTC)<br/>
+ Decay: 0.0 on Varylia 5
+ (2025-06-03 14:00  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-06-03 16:22  UTC)<br/>
+*Curia* defense is won (2025-06-03 19:06  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-06-03 19:06  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2025-06-03 19:06  UTC)<br/>
+ Decay: 1.0 on Curia
+ (2025-06-03 20:00  UTC)<br/>
+*Varylia 5* defense is won (2025-06-04 00:08  UTC)<br/>
+DSS deploys to *Zosma* of the Gellert sector (2025-06-04 00:09  UTC)<br/>
