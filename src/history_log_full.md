@@ -7557,6 +7557,7 @@ Assault Division: Incineration Corps U3C deploys to *Zosma* (2025-06-03 11:15  U
  (2025-06-03 12:13  UTC)<br/>
 Major Order | A2-6-1 Defend Against 5 Automaton Attacks is issued | Objective: Defend (2025-06-03 12:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault. (2025-06-03 12:21  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault. (2025-06-03 12:21  UTC)<br/>
  Decay: 0.0 on Varylia 5
  (2025-06-03 14:00  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-06-03 16:22  UTC)<br/>
@@ -7567,3 +7568,11 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-06-03 19:06  UTC)<br/>
  (2025-06-03 20:00  UTC)<br/>
 *Varylia 5* defense is won (2025-06-04 00:08  UTC)<br/>
 DSS deploys to *Zosma* of the Gellert sector (2025-06-04 00:09  UTC)<br/>
+ Decay: 1.5 on Varylia 5
+ (2025-06-04 02:00  UTC)<br/>
+
+### Day: #483
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-06-04 11:18  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2025-06-04 12:00  UTC)<br/>
+Dispatch:  COMMEMORATIVE CAPE IN-PROGRESS.  A commemorative cape, designed to honor the service and victory of those who fought to defend *Super Earth* against the Illuminate invasion, has entered production. It will be delivered in the coming weeks. (2025-06-04 14:44  UTC)<br/>
