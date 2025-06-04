@@ -493,6 +493,8 @@ async def process_event(
             event.mo_case = case
             event.mo_objective = objective
             mostr = f"{event.mo_id}, {name}, {objective}"
+            if not store["mo"]:
+                store["mo"]={}
             if case == "is issued":
                 store["mo"][event.mo_id] = mostr
             else:
@@ -1069,10 +1071,14 @@ class GalaxyEventProcessor:
 
 
 async def main_code():
-    await format_event_obj()
-    planets, temp = initialize_planets()
-    processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
-    await processor.run()
+    try:
+        await format_event_obj()
+        planets, temp = initialize_planets()
+        processor = GalaxyEventProcessor(DATABASE_FILE, planets, temp)
+        await processor.run()
+    except Exception as e:
+        logger.exception(e)
+        raise e
 
 
 if not os.path.exists("./src/data/gen_data"):
