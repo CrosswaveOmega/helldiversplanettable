@@ -174,7 +174,7 @@ async def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-    allregions=allplanets['planetRegions']
+    allregions=allplanets['planetRegion']
     # map sectors to planets.
     sector_dict = {}
     for key, planet in planets_Dict.items():
@@ -554,8 +554,10 @@ def update_region_ownership(
     planetclone: Dict[str, PlanetState],
     store: Dict[str, str],
 ) -> None:
+    #TODO: Fill this out
     for p in event.region:
         rn, ind=p
+        dec = list(DECODE(planetclone[str(ind)].regions[rn].t))
     
 def update_planet_ownership(
     event: GameEvent,
