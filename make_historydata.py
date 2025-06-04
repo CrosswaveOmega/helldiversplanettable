@@ -1031,7 +1031,8 @@ class GalaxyEventProcessor:
             )
         self.temp = ptemp
         ne.log = elog
-        ne.mo = self.store.get("mo", "")
+        mov = ",".join(v for _, v in self.store.get("mo", {}).items())
+        ne.mo = mov
 
     def save_results(self):
         """Save Results"""
