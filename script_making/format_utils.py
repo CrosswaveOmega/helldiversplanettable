@@ -46,6 +46,30 @@ def get_planet(myplanets: Dict[str, int], text: str) -> List[Tuple[str, int]]:
     return planets
 
 
+
+def get_region(myregions: Dict[str, Dict[str,str]], text: str) -> List[Tuple[str, int]]:
+    "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
+    planets = []
+    t2 = text
+    keys = sorted(list(v['name'] for v in myregions.values()), key=len, reverse=True)
+
+    for planet in keys:
+        if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
+            # Match "region <num>" in the text and extract the region number
+            region_match = re.search(r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE)
+            if region_match:
+                region_num = int(region_match.group(1))
+                planets.append((planet, region_num))
+                # Replace the matched planet name with a placeholder to prevent re-matching
+                t2 = re.sub(
+                    rf"\b{re.escape(planet)}\b",
+                    "[PLANETPROCESSED]",
+                    t2,
+                    flags=re.IGNORECASE,
+                )
+
+    return planets
+
 def parse_timestamp(timestamp_str: str) -> datetime:
     """Parse the history log's timestamp formatting into a valid datetime object."""
     pattern = r"(?P<time>\d{1,2}:\d{2}+\s*(am|pm))\s+(UTC\s)*(?P<day>\d{1,2}(st|nd|rd|th))+\s+(?P<month>\w+)\s+((?P<year>\d{4})*)?"

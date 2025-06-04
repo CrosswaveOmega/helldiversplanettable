@@ -25,6 +25,8 @@ class GameEvent(BaseModel):
     type: Optional[str] = Field(alias="type", default=None)
     faction: Optional[int] = Field(alias="faction", default=0)
     planet: Optional[List[Tuple[str, str]]] = Field(alias="planet", default=[])
+    region: Optional[List[Tuple[str, str]]] = Field(alias="region", default=[])
+    
 
     mo: Optional[str] = Field(alias="mo", default=None)
     mo_id:  Optional[str] = Field(alias="mo_id", default=None)
@@ -91,6 +93,12 @@ class Descriptions(BaseModel):
     name: Optional[str] = Field(alias="name", default=None)
     desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
 
+class PlanetRegion(BaseModel):
+    index:Optional[int] = Field(alias="index", default=None)
+    name: Optional[str] = Field(alias="name", default=None)
+    desc:Optional[str]=Field(alias="desc", default="Nothing of note.")
+    t: Optional[int]= Field(alias="t", default=0)
+    regen:Optional[float]=Field(alias="float", default=None)
 
 class PlanetState(BaseModel):
     hp: Optional[int] = Field(alias="hp", default=None)
@@ -106,6 +114,7 @@ class PlanetState(BaseModel):
     adiv:Optional[str]=Field(alias="assaultdiv", default=None)
     desc:Optional[List[Descriptions]]=Field(alias="desc", default_factory=list)
     position: Position=Field(alias="position",default=Position(x=0,y=0))
+    regions:Optional[Dict[str,PlanetRegion]]=Field(alias="regions", default_factory=dict)
 
     def remove_desc(self,name):
         for i in list(self.desc):
@@ -118,6 +127,8 @@ class PlanetState(BaseModel):
             if i.name==name:
                 return
         self.desc.append(Descriptions(name=name,desc=desc))
+
+
 
 class GalaxyStates(BaseModel):
     gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")

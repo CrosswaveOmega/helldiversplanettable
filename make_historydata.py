@@ -61,6 +61,7 @@ from script_making.format_utils import (
     get_event_type,
     get_faction,
     get_planet,
+    get_region,
     get_unique_sectors,
     make_day_obj,
     sort_event_type,
@@ -173,7 +174,7 @@ async def format_event_obj() -> None:
     days_out = DaysObject(**check_and_load_json("./src/data/gen_data/out.json"))
     allplanets = check_and_load_json("./allplanet.json")
     planets_Dict = allplanets["planets"]
-
+    allregions=allplanets['planetRegions']
     # map sectors to planets.
     sector_dict = {}
     for key, planet in planets_Dict.items():
@@ -207,6 +208,7 @@ async def format_event_obj() -> None:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
         event.type, match = get_event_type(text, event_types)
+        event.region=get_region(allregions,text)
 
         print(event.text, event.time, event.planet, event.type)
         logger.info(
@@ -473,7 +475,7 @@ async def process_event(
     laststats: PlanetStatusDict,
     event: GameEvent,
     index: int,
-    store: Dict[str, str],
+    store: Dict[str, Any],
     all_times_new: PlanetStatusDays,
 ) -> Dict[str, PlanetState]:
     """Process each event, extrapolating the current state of the game at each step."""
@@ -488,13 +490,13 @@ async def process_event(
                 event.mo_id = match
             event.mo_case = case
             event.mo_objective = objective
-            store["mo"] = (
-                f"{event.mo_id}, {name}, {objective}"
-                if case == "is issued"
-                else "Awaiting orders"
-            )
-
-    event.mo = store.get("mo", "")
+            mostr=f"{event.mo_id}, {name}, {objective}"
+            if case=='is issued':
+                store["mo"][event.mo_id] = (mostr)
+            else:
+                store['mo'].pop(event.mo_id)
+    mov=','.join(v for _,v in store.get("mo", {}).items())
+    event.mo = mov
 
     if event.day not in days_out.days:
         days_out.days[int(event.day)] = int(index)
@@ -545,6 +547,16 @@ async def process_event(
     return planetclone
 
 
+def update_region_ownership(
+    event: GameEvent,
+    name:str,
+    inde:int,
+    planetclone: Dict[str, PlanetState],
+    store: Dict[str, str],
+) -> None:
+    for p in event.region:
+        rn, ind=p
+    
 def update_planet_ownership(
     event: GameEvent,
     planetclone: Dict[str, PlanetState],
@@ -616,6 +628,8 @@ def update_planet_ownership(
                 "DSS",
                 'A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.',
             )
+        if "region" in event.type:
+            update_region_ownership(event,name,ind,planetclone,store)
         if "SiteEvent" in event.type:
             site = extract_poi_details(event.text)
             if event.type == "SiteEvent built":
@@ -870,7 +884,7 @@ class GalaxyEventProcessor:
         self.temp = temp
         self.march_5th = datetime(2024, 3, 5, 20, tzinfo=timezone.utc)
         self.all_times_new = {}
-        self.store = {}
+        self.store = {'mos':{}}
         self.laststats = {}
         self.galaxy_states = GalaxyStates(gstatic=planets, states={})
         self.phistdelta = PlanetHistoryDelta()
