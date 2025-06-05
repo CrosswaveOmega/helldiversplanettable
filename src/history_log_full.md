@@ -1174,6 +1174,7 @@ Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield System
 *Lesath* defense is won (2024-05-15 05:27  UTC)<br/>
 
 ### Day: #98
+Major Order | A1-5-2 Decommission Automatons for Anti-Tank Mines is failed | Objective: Eradicate (2024-05-15 15:03  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite the best efforts of the Helldivers to decommission as many Automatons as possible, our scrap recollection efforts ultimately fell short. Construction of MD-17 Anti-Tank Mines will be, once again, delayed. (2024-05-15 15:04  UTC)<br/>
 Declaration of The Second Galactic War is issued (2024-05-15 15:09  UTC)<br/>
 Major Order | A1-5-3 SEAF Camps is issued | Objective: Control (2024-05-15 15:10  UTC)<br/>
@@ -7575,4 +7576,18 @@ DSS deploys to *Zosma* of the Gellert sector (2025-06-04 00:09  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Automatons (2025-06-04 11:18  UTC)<br/>
  Decay: 0.0 on Bekvam III
  (2025-06-04 12:00  UTC)<br/>
-Dispatch:  COMMEMORATIVE CAPE IN-PROGRESS.  A commemorative cape, designed to honor the service and victory of those who fought to defend *Super Earth* against the Illuminate invasion, has entered production. It will be delivered in the coming weeks. (2025-06-04 14:44  UTC)<br/>
+Dispatch: COMMEMORATIVE CAPE IN-PROGRESS. A commemorative cape, designed to honor the service and victory of those who fought to defend *Super Earth* against the Illuminate invasion, has entered production. It will be delivered in the coming weeks. (2025-06-04 14:44  UTC)<br/>
+DSS effect Eagle Blockade ends (2025-06-04 16:14  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-06-05 00:23  UTC)<br/>
+*Zosma* defense is won (2025-06-05 00:40  UTC)<br/>
+ Decay: 1.5 on Zosma
+ (2025-06-05 02:00  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Automatons (2025-06-05 07:43  UTC)<br/>
+*Bekvam III* defense is won (2025-06-05 08:33  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-06-05 08:33  UTC)<br/>
+ Decay: 0.0 on Tarsh
+ (2025-06-05 08:33  UTC)<br/>
+
+### Day: #484
+ Decay: 0.0 on Bekvam III
+ (2025-06-05 09:00  UTC)<br/>
