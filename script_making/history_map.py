@@ -2,7 +2,8 @@ import logging
 from typing import Any, Dict, List, Tuple
 from script_making.format_utils import enote, faction_dict
 from script_making.models import DaysObject, PlanetState, GameEvent
-from script_making.dbload import PlanetStatusDict
+from script_making.dbload import PlanetStatusDict, RegionStatusDict
+from typing import Tuple
 
 MAX_HOUR_DISTANCE = 6
 
@@ -65,7 +66,6 @@ def group_by_sector(planet_list, all_planets):
         if not pl["sector"] in sectors:
             sectors[pl["sector"]] = []
         sectors[pl["sector"]].append(pl)
-    print(sectors)
     return list(sectors.keys())
 
 
@@ -112,7 +112,7 @@ def group_events_by_timestamp(days_out: DaysObject) -> List[List[GameEvent]]:
 
 def check_planet_stats_for_change(
     planetclone: Dict[str, PlanetState], planetstats: PlanetStatusDict
-) -> bool:
+) -> Tuple[list, list]:
     """check if HP or decay changed"""
     decay_change = False
     hp_change = False
@@ -141,9 +141,42 @@ def check_planet_stats_for_change(
     return decay_changed_on, hp_changed_on
 
 
+def check_region_stats_for_change(
+    planetclone: Dict[str, PlanetState], regionstats: RegionStatusDict
+) -> Tuple[list, list]:
+    """check if HP or decay changed"""
+    decay_change = False
+    hp_change = False
+    times = 250000
+
+    decay_changed_on = []
+    hp_changed_on = []
+
+    for i, v in regionstats.items():
+        pindex, rindex = i.split("_")
+        if str(pindex) in planetclone:
+            if str(rindex) in planetclone[str(i)].regions:
+                lasthp = planetclone[str(i)].regions[str(rindex)].hp
+                if lasthp:
+                    if lasthp // times != v.get("health", 0) // times:
+                        hp_change = True
+                        hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
+                lastregen = planetclone[str(i)].regions[str(rindex)].r
+                if lastregen != float(v.get("regenPerSecond", 0)):
+                    decay_change = True
+                    newregen = v.get("regenPerSecond", 0)
+                    decay_changed_on.append((i, v.get("owner", 0), newregen))
+                    # print(f"planet {i} decay change to {newregen}")
+
+    logger.info(
+        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+    )
+    return decay_changed_on, hp_changed_on
+
+
 def check_planet_stats_dict_for_change(
     planetclone: PlanetStatusDict, planetstats: PlanetStatusDict
-) -> bool:
+) -> Tuple[list, list]:
     """check if HP or decay changed"""
     decay_change = False
     hp_change = False
@@ -172,5 +205,40 @@ def check_planet_stats_dict_for_change(
 
     logger.info(
         f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+    )
+    return decay_changed_on, hp_changed_on
+
+
+def check_region_stats_dict_for_change(
+    regionclone: RegionStatusDict, regionstats: RegionStatusDict
+) -> Tuple[list, list]:
+    """check if HP or decay changed"""
+    decay_change = False
+    hp_change = False
+    times = 250000
+
+    decay_changed_on = []
+    hp_changed_on = []
+
+    for i, v in regionstats.items():
+        if i in regionclone:
+            lasthp = regionclone[i]["health"]
+            if lasthp:
+                if lasthp // times != v.get("health", 0) // times:
+                    hp_change = True
+                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
+            lastregen = regionclone[i]["regenPerSecond"]
+            if float(lastregen) != float(v.get("regenPerSecond", 0)):
+                print(i, lastregen, float(v.get("regenPerSecond", 0)))
+                decay_change = True
+                newregen = v.get("regenPerSecond", 0)
+                decay_changed_on.append((i, v.get("owner", 0), newregen))
+                # print(f"region {i} decay change to {newregen}")
+        else:
+            newregen = v.get("regenPerSecond", 0)
+            decay_changed_on.append((i, v.get("owner", 0), newregen))
+
+    logger.info(
+        f"checking the region stats: hp:{hp_change}, decay:{decay_change} are significant"
     )
     return decay_changed_on, hp_changed_on

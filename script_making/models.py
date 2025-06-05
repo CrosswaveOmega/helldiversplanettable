@@ -21,8 +21,8 @@ class GameEvent(BaseModel):
     timestamp: float
     time: str
     day: int
-    text: Optional[str] = Field(alias="text", default=None)
-    type: Optional[str] = Field(alias="type", default=None)
+    text: str = Field(alias="text", default="")
+    type: str = Field(alias="type", default="NO TYPE")
     faction: Optional[int] = Field(alias="faction", default=0)
     planet: Optional[List[Tuple[str, str]]] = Field(alias="planet", default=[])
     region: Optional[List[Tuple[str, str]]] = Field(alias="region", default=[])
@@ -48,6 +48,7 @@ class GameSubEvent(BaseModel):
     type: Optional[str] = Field(alias="type", default=None)
     faction: Optional[int] = Field(alias="faction", default=None)
     planet: Optional[List[Tuple[str, int]]] = Field(alias="planet", default=[])
+    region: Optional[List[Tuple[str, int]]] = Field(alias="region", default=[])
 
 
 class GameEventGroup(BaseModel):
@@ -71,7 +72,9 @@ class GameEventGroup(BaseModel):
         return self.timestamp < other.timestamp
 
     def get_hash(self):
-        allt = hash_string_to_32bit("".join(e.text for e in self.log))
+        allt = hash_string_to_32bit(
+            "".join(e.text for e in self.log if e.text is not None)
+        )
         return allt
 
 
@@ -100,7 +103,9 @@ class PlanetRegion(BaseModel):
     name: Optional[str] = Field(alias="name", default=None)
     desc: Optional[str] = Field(alias="desc", default="Nothing of note.")
     t: Optional[int] = Field(alias="t", default=0)
-    regen: Optional[float] = Field(alias="regen", default=None)
+    r: Optional[float] = Field(alias="r", default=0.0)
+
+    hp: Optional[int] = Field(alias="hp", default=500)
 
 
 class PlanetState(BaseModel):
@@ -108,14 +113,14 @@ class PlanetState(BaseModel):
     pl: Optional[Union[str, int]] = Field(alias="pl", default=None)
     r: Optional[float] = Field(alias="float", default=None)
     t: int
-    link: Optional[List[int]] = Field(alias="link", default=[])
+    link: List[int] = Field(alias="link", default_factory=list)
     link2: Optional[int] = Field(alias="link2", default=None)
     gls: Optional[int] = Field(alias="gloom", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
     adiv: Optional[str] = Field(alias="assaultdiv", default=None)
-    desc: Optional[List[Descriptions]] = Field(alias="desc", default_factory=list)
+    desc: List[Descriptions] = Field(alias="desc", default_factory=list)
     position: Position = Field(alias="position", default=Position(x=0, y=0))
     regions: Dict[str, PlanetRegion] = Field(alias="regions", default_factory=dict)
 
