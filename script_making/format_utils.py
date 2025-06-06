@@ -52,12 +52,16 @@ def get_region(
     "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
     planets = []
     t2 = text
-    keys = sorted(list(v["name"] for v in myregions.values()), key=len, reverse=True)
+    keys = sorted(
+        list(v["name"] for v in myregions.values()), key=len, reverse=True
+    )
 
     for planet in keys:
         if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
             # Match "region <num>" in the text and extract the region number
-            region_match = re.search(r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE)
+            region_match = re.search(
+                r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE
+            )
             if region_match:
                 region_num = int(region_match.group(1))
                 planets.append((planet, str(region_num)))
@@ -116,15 +120,24 @@ def parse_timestamp(timestamp_str: str) -> datetime:
         time_obj = datetime.strptime(time_str, time_format)
 
         naive_datetime = datetime(
-            int(year), month, day, time_obj.hour, time_obj.minute, tzinfo=timezone.utc
+            int(year),
+            month,
+            day,
+            time_obj.hour,
+            time_obj.minute,
+            tzinfo=timezone.utc,
         )
         logger.info(
-            "Naive datetime: %s, Timestamp string: %s", naive_datetime, timestamp_str
+            "Naive datetime: %s, Timestamp string: %s",
+            naive_datetime,
+            timestamp_str,
         )
 
         return naive_datetime
     else:
-        raise ValueError("The timestamp string does not match the expected format.")
+        raise ValueError(
+            "The timestamp string does not match the expected format."
+        )
 
 
 def make_day_obj(text: str) -> None:
@@ -157,9 +170,13 @@ def make_day_obj(text: str) -> None:
             else:
                 timestamp = parse_timestamp(match.group("time"))
                 logger.info(
-                    "Text: %s, Timestamp string: %s", match.group("text"), timestamp
+                    "Text: %s, Timestamp string: %s",
+                    match.group("text"),
+                    timestamp,
                 )
-                day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
+                day = (
+                    timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)
+                ).days
                 days.events_all.append(
                     GameEvent(
                         text=match.group("text"),
@@ -168,7 +185,9 @@ def make_day_obj(text: str) -> None:
                         day=day,
                     )
                 )
-    with open("./src/data/gen_data/out.json", "w", encoding="utf8") as json_file:
+    with open(
+        "./src/data/gen_data/out.json", "w", encoding="utf8"
+    ) as json_file:
         json.dump(days.model_dump(), json_file, indent=4)
 
 
@@ -326,7 +345,9 @@ def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
     return list(set(sectors))
 
 
-def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str]:
+def update_defenses(
+    event: GameEvent, defenses: Dict[str, str]
+) -> Dict[str, str]:
     for p in event.planet:
         planet = p[1]
         if event.type == "defense start":
@@ -356,7 +377,15 @@ def human_format(num: float):
         magnitude += 1
         num /= 1000.0
 
-    suffixes = ["", "K", "M", "B", "T", "Q", "Qi"]  # Suffixes for each magnitude step
+    suffixes = [
+        "",
+        "K",
+        "M",
+        "B",
+        "T",
+        "Q",
+        "Qi",
+    ]  # Suffixes for each magnitude step
     # Convert the number to string, remove trailing zeros and dots, and append the appropriate suffix
     numa = "{:f}".format(num).rstrip("0").rstrip(".")
     return int(float(numa) * (1000**magnitude))
@@ -387,7 +416,7 @@ def get_event_type(text: str, event_types: Dict[str, Any]) -> Tuple[str, str]:
         if mode == "and":
             it = True
             for phrase in matchable_phrases:
-                if phrase not in text_lower:
+                if phrase.lower() not in text_lower:
                     it = False
             if it:
                 return main_name, " ".join(matchable_phrases)

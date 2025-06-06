@@ -233,7 +233,7 @@
             },
             {
                 "name": "Threat End",
-                "matchable": ["is safe from"]
+                "matchable": ["is now safe from"]
             }
         ]
     },

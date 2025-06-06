@@ -30,10 +30,13 @@ def make_markdown_log(history: DaysObject):
                 else:
                     markdown_output.append(f"\n### Day: #{entry.day}\n")
             elif each.type == "monitor":
-                print("Skipping addition, monitoring")
-                logger.info("Skipping addition, monitoring.")
+                pass
+                # print("Skipping addition, monitoring")
+                # logger.info("Skipping addition, monitoring.")
             else:
-                timestamp = datetime.fromtimestamp(entry.timestamp, tz=timezone.utc)
+                timestamp = datetime.fromtimestamp(
+                    entry.timestamp, tz=timezone.utc
+                )
                 formatted_time = timestamp.strftime("%Y-%m-%d %H:%M  UTC")
                 # formatted_time = custom_strftime("%#I:%M%p UTC %b {S} %Y",timestamp)
 

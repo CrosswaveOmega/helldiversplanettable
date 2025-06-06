@@ -126,19 +126,51 @@ def fetch_region_entries_by_interval(
         (int(timestamp) // 900,),
     )
     entries = cursor.fetchall()
-    # print(entries)
     keys = [column[0] for column in cursor.description]
-    # print(entries,keys)
     all_entries = {}
     for index, entry in enumerate(entries):
         indexv = {key: entry[i] for i, key in enumerate(keys)}
-
         key = f"{indexv['pindex']}_{indexv['rname']}"
         all_entries[key] = indexv
     return all_entries
 
 
-def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStatusDays:
+def fetch_region_entries_by_closest_interval(
+    conn: sqlite3.Connection, timestamp: float
+) -> Dict[int, Dict[str, Any]]:
+    """Fetch all entries with the closest interval value to the given timestamp, but not higher."""
+    cursor = conn.cursor()
+    target_interval = int(timestamp) // 900
+
+    cursor.execute(
+        "SELECT DISTINCT interval FROM allregiondata WHERE interval <= ? ORDER BY interval DESC",
+        (target_interval,),
+    )
+    row = cursor.fetchone()
+    if not row:
+        return {}
+
+    closest_interval = row[0]
+
+    cursor.execute(
+        """
+    SELECT * FROM allregiondata WHERE interval = ?
+    """,
+        (closest_interval,),
+    )
+    entries = cursor.fetchall()
+    keys = [column[0] for column in cursor.description]
+    all_entries = {}
+    for index, entry in enumerate(entries):
+        indexv = {key: entry[i] for i, key in enumerate(keys)}
+        key = f"{indexv['pindex']}_{indexv['rname']}"
+        all_entries[key] = indexv
+    return all_entries
+
+
+def fetch_entries_by_dayval(
+    conn: sqlite3.Connection, dayval: int
+) -> PlanetStatusDays:
     """Fetch all entries with the same dayval."""
     cursor = conn.cursor()
     print(f"FETCHING ALL VALUES FOR DAYVAL {dayval}")

@@ -6,7 +6,7 @@ import * as pako from "npm:pako"
 
 export async function decompressJSON(compressedData) {
     // Decompress a byte array into an object.
-    const decompressed = pako.inflate(compressedData, { windowsize: 15, to:'string'});
+    const decompressed = pako.inflate(compressedData, { windowsize: 15, to: 'string' });
     return JSON.parse(decompressed);
 }
 
@@ -64,6 +64,22 @@ function getSectorColor(owner) {
             return "#AC47FE44";
         case 1:
             return "#79E0FF22";
+    }
+}
+
+function getOwnerName(owner) {
+    switch (owner) {
+        case 2:
+            return "Terminids"
+        case 3:
+            return "Automatons";
+        case 4:
+            return "Illuminate";
+        case 1:
+            return "Humans";
+        case 0:
+            return "None";
+
     }
 }
 
@@ -127,7 +143,7 @@ export function count_distinct_planets(history, planets) {
                 logEntry.planet.forEach((planet) => {
                     if (
                         logEntry.type === "campaign_start" ||
-                        logEntry.type === "defense start"||
+                        logEntry.type === "defense start" ||
                         logEntry.type === "invasion start"
 
                     ) {
@@ -299,7 +315,7 @@ export function make_planet_at_time(planet, gstates, galaxy_time, static_values)
     }
     //Loop through all changable values.
 
-    const cluster=parseInt(galaxy_time/2048, 10);
+    const cluster = parseInt(galaxy_time / 2048, 10);
 
     for (const element of gstates.gstate[planet]) {
         // Only iterate element if eind is less than galaxy time.
@@ -320,6 +336,23 @@ export function make_planet_at_time(planet, gstates, galaxy_time, static_values)
         desc_str += `${name}\n${des}`;
     }
     planetstate['descr'] = desc_str;
+    planetstate['RStr'] = "";
+    //Process Regions
+    if (planetstate['regions'] && typeof planetstate['regions'] === 'object') {
+        for (const [i, v] of Object.entries(planetstate['regions'])) {
+            // Condense fields into the requested string format
+            // [NAME]_[index]\n{hp},{r}\n{t}
+            let ve = DECODE(v.t);
+            let owner = getOwnerName(ve[0]);
+            let attacker = getOwnerName(ve[1]);
+            let active = ve[2] > 0;
+            let attackerStr = ve[1] !== 0 ? `, Attack by: ${attacker ?? ""}` : "";
+            const regionString = `${v.name || "UNKNOWN"}_${v.index ?? i}\nHP:${v.hp ?? ""}, Regen: ${v.r ?? ""}\nOwner:${owner ?? ""}${attackerStr}\n Active ${active}`;
+            planetstate[`region_${i}`] = regionString;
+            planetstate['RStr'] += regionString + "\n";
+        }
+    }
+
 
     if (!("link2" in planetstate)) {
         planetstate["link"] = [];
@@ -337,8 +370,11 @@ export function makeplot(
     target,
     slider,
     world,
-    { width, htarget, ttarget, atarget, dss,icons,showImages = true },
+    { width, htarget, ttarget, atarget, dss, icons, showImages = true },
 ) {
+    /*
+    This function recreates the history map at a given point.
+    */
     let current_event = history.events[slider];
     const targets = {
         1: htarget,
@@ -352,12 +388,12 @@ export function makeplot(
     console.log(slider, galaxy_time);
 
     const sectorValuesMap = new Map();
-    
+
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
     for (const [planet, static_values] of Object.entries(gstates.gstatic)) {
-        galaxystate[planet] =make_planet_at_time(planet,gstates,galaxy_time,static_values);
-        
-        
+        galaxystate[planet] = make_planet_at_time(planet, gstates, galaxy_time, static_values);
+
+
         let sector = galaxystate[planet].sector
             .replace(/[^a-zA-Z]/g, "")
             .toLowerCase();
@@ -397,12 +433,12 @@ export function makeplot(
     //console.log(planets);
     let truePlanets = planets.filter((planet) => planet.ta[1] > 0);
     let activePlanets = planets.filter((planet) => planet.ta[2] > 0);
-    let dssPlanets = planets.filter((planet) => planet.dss==="DSS Here");
-    
-    let iconPlanets = planets.filter((planet) => planet.poi );
-    
-    let adivPlanets = planets.filter((planet) => planet.adiv );
-    
+    let dssPlanets = planets.filter((planet) => planet.dss === "DSS Here");
+
+    let iconPlanets = planets.filter((planet) => planet.poi);
+
+    let adivPlanets = planets.filter((planet) => planet.adiv);
+
 
 
     let gloomPlanets = planets.filter((planet) => planet.gls != null);
@@ -528,8 +564,8 @@ export function makeplot(
                 },
             }),
             Plot.image(dssPlanets, {
-                x: (p) => x_c(p.position.x)-0.02,
-                y: (p) => y_c(p.position.y)-0.02,
+                x: (p) => x_c(p.position.x) - 0.02,
+                y: (p) => y_c(p.position.y) - 0.02,
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 40,
@@ -539,8 +575,8 @@ export function makeplot(
                 }
             }),
             Plot.image(iconPlanets, {
-                x: (p) => x_c(p.position.x)+0.02,
-                y: (p) => y_c(p.position.y)-0.02,
+                x: (p) => x_c(p.position.x) + 0.02,
+                y: (p) => y_c(p.position.y) - 0.02,
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 40,
@@ -556,7 +592,7 @@ export function makeplot(
             }),
             Plot.image(adivPlanets, {
                 x: (p) => x_c(p.position.x),
-                y: (p) => y_c(p.position.y)+0.04,
+                y: (p) => y_c(p.position.y) + 0.04,
                 stroke: "#ff0000", // fixed stroke color change
                 fill: (p) => getColor(p.ta[0]),
                 width: width / 35,
@@ -615,12 +651,13 @@ export function makeplot(
                             ) / 10000
                             }`,
                             `Players: ${p.pl}`,
-                            
+
                             `${p.descr}`,
-                            
+                            `${p.RStr}`,
+
                         ];
-                        if (p.adiv!=null){
-                            
+                        if (p.adiv != null) {
+
                             main.push(`Assault Division: ${p.adiv}`);
                         }
                         if (p.gls != null) {
@@ -650,7 +687,7 @@ export function makeplotcurrent(
 ) {
     let slider = history.events.length - 1;
     let current_event = history.events[slider];
-    let sectordata=getNeighbors();
+    let sectordata = getNeighbors();
 
     const small = 48;
     const big = 128;
@@ -684,7 +721,7 @@ export function makeplotcurrent(
             let lastlink = galaxystate[planet]["link2"];
             galaxystate[planet]["link"] = gstates.links[String(lastlink)];
         }
-        
+
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>

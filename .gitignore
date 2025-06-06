@@ -18,3 +18,5 @@ logs/
 game_data.db
 tables.py
 output.py
+.vscode/** 
+ruff.toml

@@ -48,7 +48,12 @@ def draw_streak(
 
     draw.line(
         [(start_x, start_y), (end_x, end_y)],
-        fill=(lightest_color[0], lightest_color[1], lightest_color[2], CLOUD_ALPHA),
+        fill=(
+            lightest_color[0],
+            lightest_color[1],
+            lightest_color[2],
+            CLOUD_ALPHA,
+        ),
         width=thickness,
     )
 
@@ -82,7 +87,12 @@ def draw_spiral(
 
     draw.line(
         points,
-        fill=(lightest_color[0], lightest_color[1], lightest_color[2], CLOUD_ALPHA),
+        fill=(
+            lightest_color[0],
+            lightest_color[1],
+            lightest_color[2],
+            CLOUD_ALPHA,
+        ),
         width=1,
     )
 
@@ -114,7 +124,12 @@ def draw_squacked_ellipse(
 
     draw.ellipse(
         rect,
-        fill=(lightest_color[0], lightest_color[1], lightest_color[2], CLOUD_ALPHA),
+        fill=(
+            lightest_color[0],
+            lightest_color[1],
+            lightest_color[2],
+            CLOUD_ALPHA,
+        ),
         outline=None,
     )
 
@@ -253,16 +268,26 @@ def render_planet(
 
     for y in range(21):
         for x in range(21):
-            dx = x - sphere_center[0]  # Calculate the x-distance from the sphere center
-            dy = y - sphere_center[1]  # Calculate the y-distance from the sphere center
+            dx = (
+                x - sphere_center[0]
+            )  # Calculate the x-distance from the sphere center
+            dy = (
+                y - sphere_center[1]
+            )  # Calculate the y-distance from the sphere center
             if (
                 dx**2 + dy**2 <= sphere_radius**2
             ):  # Check if the point is within the circle
                 # Calculate the z-distance using Pythagorean theorem to keep the point on the sphere surface
                 dz = math.sqrt(sphere_radius**2 - dx**2 - dy**2)
-                nx = dx / sphere_radius  # Normalize x-distance to get the normal
-                ny = dy / sphere_radius  # Normalize y-distance to get the normal
-                nz = dz / sphere_radius  # Normalize z-distance to get the normal
+                nx = (
+                    dx / sphere_radius
+                )  # Normalize x-distance to get the normal
+                ny = (
+                    dy / sphere_radius
+                )  # Normalize y-distance to get the normal
+                nz = (
+                    dz / sphere_radius
+                )  # Normalize z-distance to get the normal
 
                 # Apply rotation to the normal vector
                 nx_rot = nx * math.cos(angle_rad) - nz * math.sin(angle_rad)
@@ -272,9 +297,13 @@ def render_planet(
                 u = 0.5 + (
                     math.atan2(nz_rot, nx_rot) / (2 * math.pi)
                 )  # Calculate texture coordinate u
-                v = 0.5 - (math.asin(ny) / math.pi)  # Calculate texture coordinate v
+                v = 0.5 - (
+                    math.asin(ny) / math.pi
+                )  # Calculate texture coordinate v
 
-                color = get_texture_color(u, v)  # Get the texture color at (u, v)
+                color = get_texture_color(
+                    u, v
+                )  # Get the texture color at (u, v)
                 normal = np.array([nx, ny, nz])  # Construct the normal vector
                 if biome == "blackhole":
                     light_intensity = 0.5  # Make the light intensity constant
@@ -366,7 +395,10 @@ def make_new_texture(
         pic.append(row)
 
     for _ in range(num_craters):
-        crater_center = (random.randint(0, xpix - 1), random.randint(0, ypix - 1))
+        crater_center = (
+            random.randint(0, xpix - 1),
+            random.randint(0, ypix - 1),
+        )
         crater_radius = random.randint(1, 2)
         draw.ellipse(
             [
@@ -472,7 +504,9 @@ def threshold_color(color_tuple: Tuple[int, int, int]) -> Tuple[int, int, int]:
         The thresholded color.
     """
     # Divide each RGB value by 32 and round up to the nearest integer
-    thresholded_tuple = tuple(int(math.ceil(value / 8) * 8) for value in color_tuple)
+    thresholded_tuple = tuple(
+        int(math.ceil(value / 8) * 8) for value in color_tuple
+    )
     return thresholded_tuple
 
 
@@ -545,7 +579,8 @@ def extract_colors_image(all_colors: Dict[str, np.ndarray]) -> Image.Image:
     for j, colors in enumerate(all_colors.values()):
         for i, color in enumerate(colors):
             draw.rectangle(
-                [i * 100, j * 100, (i + 1) * 100, (j + 1) * 100], fill=tuple(color)
+                [i * 100, j * 100, (i + 1) * 100, (j + 1) * 100],
+                fill=tuple(color),
             )
         draw.text(
             (700, j * 100),

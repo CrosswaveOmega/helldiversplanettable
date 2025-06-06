@@ -105,7 +105,7 @@ class PlanetRegion(BaseModel):
     t: Optional[int] = Field(alias="t", default=0)
     r: Optional[float] = Field(alias="r", default=0.0)
 
-    hp: Optional[int] = Field(alias="hp", default=500)
+    hp: int = Field(alias="hp", default=500)
 
 
 class PlanetState(BaseModel):
@@ -122,7 +122,9 @@ class PlanetState(BaseModel):
     adiv: Optional[str] = Field(alias="assaultdiv", default=None)
     desc: List[Descriptions] = Field(alias="desc", default_factory=list)
     position: Position = Field(alias="position", default=Position(x=0, y=0))
-    regions: Dict[str, PlanetRegion] = Field(alias="regions", default_factory=dict)
+    regions: Dict[str, PlanetRegion] = Field(
+        alias="regions", default_factory=dict
+    )
 
     def remove_desc(self, name):
         for i in list(self.desc):
@@ -138,8 +140,12 @@ class PlanetState(BaseModel):
 
 
 class GalaxyStates(BaseModel):
-    gstatic: Optional[Dict[str, PlanetStatic]] = Field(default=None, alias="gstatic")
-    states: Optional[Dict[str, PlanetState]] = Field(default=None, alias="states")
+    gstatic: Optional[Dict[str, PlanetStatic]] = Field(
+        default=None, alias="gstatic"
+    )
+    states: Optional[Dict[str, PlanetState]] = Field(
+        default=None, alias="states"
+    )
     gstate: Optional[Dict[str, ListOfDicts]] = Field(
         default_factory=dict, alias="gstate"
     )
@@ -153,7 +159,9 @@ class DaysObject(BaseModel):
     events_all: Optional[List[GameEvent]] = Field(
         default_factory=list, alias="events_all"
     )
-    events: Optional[List[GameEventGroup]] = Field(default_factory=list, alias="events")
+    events: Optional[List[GameEventGroup]] = Field(
+        default_factory=list, alias="events"
+    )
     days: Dict[int, int] = Field(default_factory=dict)
     dayind: Dict[int, List[int]] = Field(default_factory=dict)
     timestamps: List[int] = Field(default_factory=list)
