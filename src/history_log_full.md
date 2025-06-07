@@ -7519,8 +7519,8 @@ Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* h
  Decay: 0.0 on Fort Union
  (2025-05-29 10:00  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Prosperity City. (2025-05-29 12:12  UTC)<br/>
-Dispatch: PRESIDENT KIA. The President of *Super Earth* has been killed in action by the Illuminate during the fall of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes. Presidential authority has been placed in the Minister of Defense. (2025-05-29 21:57  UTC)<br/>
-NOTE: This dispatch is later revised to say “during the siege of” instead of “during the fall of” for unknown reasons (2025-05-29 21:57  UTC)<br/>
+Dispatch: PRESIDENT KIA. The President of *Super Earth* has been killed in action by the Illuminate during the siege of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes. Presidential authority has been placed in the Minister of Defense. (2025-05-29 21:57  UTC)<br/>
+NOTE: This dispatch was initially sent as “during the fall of Prosperity City,” but later revised to say “during the siege of Prosperity City” instead of for unknown reasons (2025-05-29 21:57  UTC)<br/>
  Region Decay: -4.68 on 0_Prosperity City<br/> Region Decay: -2.88 on 0_Equality-on-Sea
  (2025-05-29 21:57  UTC)<br/>
 *Fort Union* defense is won (2025-05-29 22:02  UTC)<br/>
@@ -7617,3 +7617,17 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-06 00:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' swift and decisive response, the Automatons' opportunistic assault has been curtailed. Consult the Galactic Map for more information. (2025-06-06 01:21  UTC)<br/>
 
 ### Day: #485
+*Mog* of the Morgon sector instantly flips to Illuminate control (2025-06-06 19:57  UTC)<br/>
+*Bellatrix* of the Guang sector instantly flips to Illuminate control (2025-06-06 19:57  UTC)<br/>
+*Haldus* of the Ferris sector instantly flips to Illuminate control (2025-06-06 19:57  UTC)<br/>
+*Hydrobius* of the Omega sector instantly flips to Illuminate control (2025-06-06 19:57  UTC)<br/>
+*Mog* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
+*Haldus* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
+*Hydrobius* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
+*Bellatrix* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
+Major Order | A2-6-2 Liberate 4 Illuminate Holdouts is issued | Objective: Liberate (2025-06-06 20:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The first scattered dregs of the cowardly Illuminate invasion force have been located, and traced to several outlying systems. The Helldivers are ordered to liberate all identified hideouts. Intel believes there are more Illuminate planets yet to be identified. The liberation of these sites could lead to the others. (2025-06-06 20:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-06-06 20:42  UTC)<br/>
+ Decay: 3.0 on Mog<br/> Decay: 2.0 on Bellatrix<br/> Decay: 3.5 on Haldus
+ (2025-06-06 20:42  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2025-06-07 00:25  UTC)<br/>
