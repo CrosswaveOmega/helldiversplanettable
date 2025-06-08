@@ -7631,3 +7631,8 @@ DSS effect Eagle Storm is activated (2025-06-06 20:42  UTC)<br/>
  Decay: 3.0 on Mog<br/> Decay: 2.0 on Bellatrix<br/> Decay: 3.5 on Haldus
  (2025-06-06 20:42  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-06-07 00:25  UTC)<br/>
+
+### Day: #486
+DSS effect Eagle Storm ends (2025-06-07 20:44  UTC)<br/>
+ Decay: 2.0 on Mog<br/> Decay: 1.0 on Bellatrix, Hydrobius<br/> Decay: 2.5 on Haldus
+ (2025-06-07 20:44  UTC)<br/>
