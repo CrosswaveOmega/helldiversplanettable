@@ -7337,7 +7337,7 @@ Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)
 *Super Earth* of the Sol sector's biome is changed from *Super Earth* [*Super Earth*] to *Super Earth* Metropolis [*Super Earth*] (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
-*Widow's Harbor* of the Altus sector is attacked by Illuminate (2025-05-13 09:02  UTC)<br/>
+*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
 Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
@@ -7365,12 +7365,14 @@ Assault Division: Predator Strain U5C merges with Predator Strain U5E on *Krakat
 ### Day: #463
  Decay: 2.5 on Krakatwo
  (2025-05-15 09:00  UTC)<br/>
-*Widow's Harbor* defense is failed (2025-05-15 09:03  UTC)<br/>
+*Widow's Harbor*'s invasion is successful (2025-05-15 09:03  UTC)<br/>
+*Widow's Harbor* of the Altus sector instantly flips to Illuminate control (2025-05-15 09:03  UTC)<br/>
+NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-15 09:03  UTC)<br/>
 DSS deploys to *Nublaria I* of the Celeste sector (2025-05-15 09:03  UTC)<br/>
 Assault Division: The Great Host U1 leaves *Widow's Harbor* (2025-05-15 10:58  UTC)<br/>
  Decay: 75.0 on Widow's Harbor
  (2025-05-15 10:58  UTC)<br/>
-*Pilen V* of the Altus sector is attacked by Illuminate (2025-05-15 11:01  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Illuminate (2025-05-15 11:01  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
 Assault Division: Predator Strain U5E leaves *Krakatwo* (2025-05-15 11:46  UTC)<br/>
 Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublaria I* (2025-05-15 11:48  UTC)<br/>
@@ -7384,17 +7386,21 @@ Dispatch: DSS DISABLED. The DSS was immediately engaged upon arrival at PILEN V,
 ### Day: #464
 
 ### Day: #465
-*Pilen V* defense is failed (2025-05-17 15:58  UTC)<br/>
+*Pilen V*'s invasion is successful (2025-05-17 15:58  UTC)<br/>
+*Pilen V* of the Altus sector instantly flips to Illuminate control (2025-05-17 15:58  UTC)<br/>
+NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-17 15:58  UTC)<br/>
 Assault Division: The Great Host U1 leaves *Pilen V* (2025-05-17 17:49  UTC)<br/>
  Decay: 75.0 on Pilen V
  (2025-05-17 17:49  UTC)<br/>
-*New Haven* of the Altus sector is attacked by Illuminate (2025-05-17 17:50  UTC)<br/>
+*New Haven* of the Altus sector is invaded by Illuminate (2025-05-17 17:50  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *New Haven* (2025-05-17 17:50  UTC)<br/>
 
 ### Day: #466
 
 ### Day: #467
-*New Haven* defense is failed (2025-05-20 05:54  UTC)<br/>
+*New Haven*'s invasion is successful (2025-05-20 05:54  UTC)<br/>
+*New Haven* of the Altus sector instantly flips to Illuminate control (2025-05-20 05:54  UTC)<br/>
+NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-20 05:54  UTC)<br/>
 Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
 Dispatch: MAJOR ORDER CONCLUDED. As anticipated, *Widow's Harbor*, *Pilen V*, and *New Haven* have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (2025-05-20 07:17  UTC)<br/>
  Decay: 75.0 on New Haven
@@ -7531,6 +7537,11 @@ Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transm
 Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (2025-05-29 22:42  UTC)<br/>
 
 ### Day: #478
+*Super Earth* Region 0 Eagleopolis siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* Region 2 Remembrance siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* Region 3 York Supreme siege is repelled (2025-05-30 11:15  UTC)<br/>
+*Super Earth* Region 4 Port Mercy siege is repelled (2025-05-30 11:15  UTC)<br/>
 *Super Earth* Region 5 Prosperity City siege is repelled (2025-05-30 11:15  UTC)<br/>
 *Super Earth* Region 6 Equality On Sea siege is repelled (2025-05-30 11:15  UTC)<br/>
 *Super Earth* is liberated (2025-05-30 11:15  UTC)<br/>
@@ -7636,3 +7647,12 @@ DSS deploys to *Mog* of the Morgon sector (2025-06-07 00:25  UTC)<br/>
 DSS effect Eagle Storm ends (2025-06-07 20:44  UTC)<br/>
  Decay: 2.0 on Mog<br/> Decay: 1.0 on Bellatrix, Hydrobius<br/> Decay: 2.5 on Haldus
  (2025-06-07 20:44  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-06-08 06:07  UTC)<br/>
+
+### Day: #487
+*Mog* is liberated (2025-06-08 16:54  UTC)<br/>
+↳ Morgon sector is fully under Human control (2025-06-08 16:54  UTC)<br/>
+DSS deploys to *Bellatrix* of the Guang sector (2025-06-08 16:54  UTC)<br/>
+ Decay: 0.5 on Bellatrix, Hydrobius<br/> Decay: 1.5 on Haldus
+ (2025-06-08 20:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution ends (2025-06-09 06:07  UTC)<br/>
