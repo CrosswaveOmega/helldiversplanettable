@@ -7656,3 +7656,8 @@ DSS deploys to *Bellatrix* of the Guang sector (2025-06-08 16:54  UTC)<br/>
  Decay: 0.5 on Bellatrix, Hydrobius<br/> Decay: 1.5 on Haldus
  (2025-06-08 20:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution ends (2025-06-09 06:07  UTC)<br/>
+
+### Day: #488
+*Bellatrix* is liberated (2025-06-09 20:11  UTC)<br/>
+↳ Guang sector is fully under Human control (2025-06-09 20:11  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2025-06-09 20:11  UTC)<br/>
