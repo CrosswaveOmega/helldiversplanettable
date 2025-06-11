@@ -7697,10 +7697,12 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Veld* Region 0 Cle Elum Rediviva Town is now present (2025-06-10 11:19  UTC)<br/>
 *Veld* Region 1 Laelia Megacity is now present (2025-06-10 11:19  UTC)<br/>
 *Darius II* Region 0 Buju City is now present (2025-06-10 11:19  UTC)<br/>
-*Fort Union* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 2 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 3 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
+ Region Decay: 0.0 on 80_LAELIA<br/> Region Decay: 0.0 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.0 on 128_BUJU<br/> Region Decay: 0.0 on 131_APPROVAL CITY<br/> Region Decay: 0.0 on 131_OLD BRANCH<br/> Region Decay: 0.0 on 131_TIMELY
+ (2025-06-10 11:19  UTC)<br/>
+*Fort Union* Region 0 Otatu's Pledge Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 1 XIAMEN ANEW City is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 2 MUNITION CITY Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 3 GREATFORT Megacity is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 0 Scarlet Haven Town is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 1 Edward's Grave Town is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 2 Light-Of-Liberty Megacity is now present (2025-06-10 11:20  UTC)<br/>
@@ -7708,11 +7710,11 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Crucible* Region 1 Annwn Town is now present (2025-06-10 11:20  UTC)<br/>
 *Crucible* Region 2 Agartha Town Megacity is now present (2025-06-10 11:20  UTC)<br/>
 *Crucible* Region 3 Kshira Sagara Megacity is now present (2025-06-10 11:20  UTC)<br/>
-*Caramoor* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Caramoor* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Caramoor* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Ursica XI* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Ursica XI* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 0 LEMURIA RISING City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 1 Pioneer's Dream City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 2 Base Camp 8 City is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 0 NEW KATHMANDU Town is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 1 PO'S RAVENNA City is now present (2025-06-10 11:20  UTC)<br/>
 *Trandor* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
 *Trandor* Region 1 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
 *Trandor* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
@@ -7769,8 +7771,14 @@ Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneousl
 *Darius II* Region 0 Buju City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
  Decay: 0.0 on Crucible, Alta V
  (2025-06-10 12:19  UTC)<br/>
+ Region Decay: 0.0 on 29_ANNWN<br/> Region Decay: 0.0 on 29_KSHIRA SAGARA<br/> Region Decay: 0.0 on 29_AGARTHA<br/> Region Decay: 0.0 on 29_KURRI KURRI<br/> Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.0 on 81_PORTE LIBERTÉ
+ (2025-06-10 12:19  UTC)<br/>
 *Veld* liberation campaign starts (2025-06-10 12:21  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-06-10 12:21  UTC)<br/>
+ Region Decay: 0.0 on 80_LAELIA<br/> Region Decay: 0.0 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.0 on 128_BUJU<br/> Region Decay: 0.0 on 131_APPROVAL CITY<br/> Region Decay: 0.0 on 131_OLD BRANCH<br/> Region Decay: 0.0 on 131_TIMELY
+ (2025-06-10 14:00  UTC)<br/>
+ Region Decay: 0.0 on 80_LAELIA<br/> Region Decay: 0.0 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.0 on 128_BUJU<br/> Region Decay: 0.0 on 131_APPROVAL CITY<br/> Region Decay: 0.0 on 131_OLD BRANCH<br/> Region Decay: 0.0 on 131_TIMELY
+ (2025-06-10 14:00  UTC)<br/>
 DSS deploys to *Crucible* of the Korpus sector (2025-06-10 16:30  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-06-10 19:53  UTC)<br/>
 DSS deploys to *Alta V* of the Korpus sector (2025-06-11 00:30  UTC)<br/>
@@ -7787,6 +7795,8 @@ Assault Division: Predator Strain U5B deploys to *Inari* (2025-06-11 08:17  UTC)
 *Volterra* Region 0 Scarlet Haven Town is besieged by Humans (2025-06-11 08:23  UTC)<br/>
 *Crucible* Region 0 Kurri Kurri Settlement is besieged by Humans (2025-06-11 08:53  UTC)<br/>
  Decay: 0.0 on Volterra, Inari
+ (2025-06-11 08:53  UTC)<br/>
+ Region Decay: 0.0 on 28_EDWARD'S GRAVE<br/> Region Decay: 0.0 on 28_LIGHT-OF-LIBERTY<br/> Region Decay: 0.0 on 28_SCARLET HAVEN
  (2025-06-11 08:53  UTC)<br/>
 
 # Day: #490
