@@ -7411,15 +7411,48 @@ Assault Division: The Great Host U1 leaves *New Haven* (2025-05-20 08:32  UTC)<b
 Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet. Fortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1. (2025-05-20 08:36  UTC)<br/>
 
 ### Day: #468
+*Super Earth* Region 0 Eagleopolis Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 2 Remembrance Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 3 York Supreme Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 4 Port Mercy Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 5 Prosperity City Megacity is now present (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 6 Equality On Sea Megacity is now present (2025-05-20 09:07  UTC)<br/>
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
-*Super Earth* Region 0 Eagleopolis is besieged by IIlluminate (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 0 Eagleopolis Megacity is besieged by IIlluminate (2025-05-20 09:07  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
-*Super Earth* Region 2 Remembrance is besieged by IIlluminate (2025-05-20 20:02  UTC)<br/>
+*Kerth Secundus* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Kerth Secundus* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Kerth Secundus* Region 2 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 2 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 1 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 2 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 2 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Oasis* Region 0 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Genesis Prime* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Genesis Prime* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Liberty Ridge* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Liberty Ridge* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 2 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 3 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 2 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 3 No Name Mega City is now present (2025-05-20 15:53  UTC)<br/>
+*Andar* Region 0 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Super Earth* Region 2 Remembrance Megacity is besieged by IIlluminate (2025-05-20 20:02  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
-*Super Earth* Region 6 Equality-on-Sea is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
+*Super Earth* Region 6 Equality-on-Sea Megacity is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
 
 ### Day: #469
@@ -7435,7 +7468,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (2025-05-22 13:15  UTC)<br/>
 Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (2025-05-22 13:23  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-05-22 13:40  UTC)<br/>
-*Super Earth* Region 0 Eagleopolis has fallen to Illuminate (2025-05-22 18:15  UTC)<br/>
+*Super Earth* Region 0 Eagleopolis Megacity has fallen to Illuminate (2025-05-22 18:15  UTC)<br/>
 Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of *Super Earth* has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (2025-05-22 18:17  UTC)<br/>
  Region Decay: -4.68 on 0_Eagleopolis<br/> Region Decay: -2.88 on 0_Rememberance
  (2025-05-23 06:00  UTC)<br/>
@@ -7445,7 +7478,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SE
 ### Day: #471
 Major Order | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (2025-05-23 10:18  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for *Super Earth* now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on *Super Earth*. (2025-05-23 10:20  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02 is besieged by Illuminate (2025-05-23 12:54  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 Megacity is besieged by Illuminate (2025-05-23 12:54  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02. (2025-05-23 12:54  UTC)<br/>
 Dispatch: M-105 Stalwart stratagem availability has ended. (2025-05-23 13:15  UTC)<br/>
 
@@ -7458,15 +7491,15 @@ Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All H
 Dispatch: EMERGENCY ARSENAL AUGMENTATION. Shield Generator Relay authorized for use on SUPER EARTH. (2025-05-24 19:57  UTC)<br/>
 Dispatch: ADMINISTRATIVE CENTER 02 HAS FALLEN. The hallowed center of our Federal Bureaucracy burns. (2025-05-24 21:28  UTC)<br/>
 Dispatch: As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term. (2025-05-24 21:29  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02 has fallen to Illuminate (2025-05-24 21:32  UTC)<br/>
-*Super Earth* Region 2 Remembrance has fallen to Illuminate (2025-05-24 21:47  UTC)<br/>
+*Super Earth* Region 1 Administrative Center 02 Megacity has fallen to Illuminate (2025-05-24 21:32  UTC)<br/>
+*Super Earth* Region 2 Remembrance Megacity has fallen to Illuminate (2025-05-24 21:47  UTC)<br/>
 Dispatch: REMEMBRANCE HAS FALLEN. Remembrance, monument to perseverance, is occupied by the Illuminate. This transgression will not be forgotten, nor forgiven. (2025-05-24 21:48  UTC)<br/>
 Dispatch: The resultant impact to the planetwide defense network means that Orbital Stratagem Cooldowns will be increased by 60 seconds until further notice. (2025-05-24 21:48  UTC)<br/>
 Dispatch: SUPER DEFENSE PROTOCOL SAPPHIRE. Three Megacities have fallen, triggering the activation of the first Super Defense Protocol: costly global defense measures to be used only when Democracy needs them most. Super Defense Protocol Sapphire converts the remaining rainforests into massive tactical airstrips. Eagle Rearm time is decreased by 45 seconds on *Super Earth*. (2025-05-24 21:49  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (2025-05-25 08:50  UTC)<br/>
 
 ### Day: #473
-*Super Earth* Region 3 York Supreme is besieged by Illuminate (2025-05-25 10:59  UTC)<br/>
+*Super Earth* Region 3 York Supreme Megacity is besieged by Illuminate (2025-05-25 10:59  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on York Supreme. (2025-05-25 10:59  UTC)<br/>
  Region Decay: -2.88 on 0_York Supreme<br/> Region Decay: -3.96 on 0_Equality-on-Sea
  (2025-05-26 02:00  UTC)<br/>
@@ -7474,7 +7507,7 @@ Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on York 
 ### Day: #474
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (2025-05-26 11:06  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from York Supreme. (2025-05-26 11:11  UTC)<br/>
-*Super Earth* Region 4 Port Mercy is besieged by Illuminate (2025-05-26 11:16  UTC)<br/>
+*Super Earth* Region 4 Port Mercy Megacity is besieged by Illuminate (2025-05-26 11:16  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Port Mercy. (2025-05-26 11:16  UTC)<br/>
 Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-26 14:32  UTC)<br/>
 Dispatch: DSS NEARING OPERATIONAL STATUS. Repairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for *Super Earth* will require resources to be liberated from the Automatons. The dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS. (2025-05-26 14:32  UTC)<br/>
@@ -7493,7 +7526,7 @@ Dispatch: MEGACITY NEARING COLLAPSE. York Supreme is on the verge of falling to 
 Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense. (2025-05-28 08:07  UTC)<br/>
 
 ### Day: #476
-*Super Earth* Region 4 Port Mercy has fallen to Illuminate (2025-05-28 10:32  UTC)<br/>
+*Super Earth* Region 4 Port Mercy Megacity has fallen to Illuminate (2025-05-28 10:32  UTC)<br/>
 Dispatch: PORT MERCY HAS FALLEN. The longtime refuge of so many Class-A citizens is now a stronghold of the Illuminate. (2025-05-28 10:32  UTC)<br/>
 Dispatch: The *Super Earth* Defense Grid is now suffering severe logistical impacts. Ammunition Combat Loads will be reduced by 50%. Stim Capacity will be reduced by 2. (2025-05-28 10:33  UTC)<br/>
 Dispatch: IMPACT STABILIZED. Orbital Stratagem Cooldown times have been returned to normal. (2025-05-28 10:35  UTC)<br/>
@@ -7501,7 +7534,7 @@ Dispatch: SUPER DEFENSE PROTOCOL DIAMOND. The fall of a 4th Mega City has trigge
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (2025-05-28 10:37  UTC)<br/>
  Region Decay: -2.88 on 0_York Supreme<br/> Region Decay: -2.88 on 0_Port Mercy<br/> Region Decay: -3.96 on 0_Equality-on-Sea
  (2025-05-28 12:00  UTC)<br/>
-*Super Earth* Region 3 York Supreme has fallen to Illuminate (2025-05-28 13:34  UTC)<br/>
+*Super Earth* Region 3 York Supreme Megacity has fallen to Illuminate (2025-05-28 13:34  UTC)<br/>
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
@@ -7513,7 +7546,7 @@ Dispatch: IMPACT STABILIZED. Ammunition Combat Loads have been returned to norma
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-05-28 16:14  UTC)<br/>
 DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:15  UTC)<br/>
 DSS effect Eagle Blockade is activated (2025-05-28 16:22  UTC)<br/>
-*Super Earth* Region 5 Prosperity City is besieged by Illuminate (2025-05-29 08:09  UTC)<br/>
+*Super Earth* Region 5 Prosperity City Megacity is besieged by Illuminate (2025-05-29 08:09  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on *Super Earth*'s Capital: Prosperity City. (2025-05-29 08:09  UTC)<br/>
 Dispatch: DEFENSES HOLDING. The Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight. (2025-05-29 08:29  UTC)<br/>
 Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength. (2025-05-29 08:50  UTC)<br/>
@@ -7537,13 +7570,6 @@ Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transm
 Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (2025-05-29 22:42  UTC)<br/>
 
 ### Day: #478
-*Super Earth* Region 0 Eagleopolis siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 1 Administrative Center 02 siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 2 Remembrance siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 3 York Supreme siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 4 Port Mercy siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 5 Prosperity City siege is repelled (2025-05-30 11:15  UTC)<br/>
-*Super Earth* Region 6 Equality On Sea siege is repelled (2025-05-30 11:15  UTC)<br/>
 *Super Earth* is liberated (2025-05-30 11:15  UTC)<br/>
 ↳ Sol sector is fully under Human control (2025-05-30 11:15  UTC)<br/>
 Assault Division: The Great Host U1 is routed (2025-05-30 11:15  UTC)<br/>
@@ -7661,3 +7687,108 @@ DSS effect Heavy Ordnance Distribution ends (2025-06-09 06:07  UTC)<br/>
 *Bellatrix* is liberated (2025-06-09 20:11  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-06-09 20:11  UTC)<br/>
 DSS deploys to *Hydrobius* of the Omega sector (2025-06-09 20:11  UTC)<br/>
+Major Order | A2-6-2 Liberate 4 Illuminate Holdouts is failed | Objective: Liberate (2025-06-10 08:04  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice. Some of their remote bases endure. Consult the Galactic Map for more information. (2025-06-10 08:08  UTC)<br/>
+
+### Day: #489
+*Achird III* Region 0 Timely Town is now present (2025-06-10 11:19  UTC)<br/>
+*Achird III* Region 1 Approval City City is now present (2025-06-10 11:19  UTC)<br/>
+*Achird III* Region 2 Old Branch City is now present (2025-06-10 11:19  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town is now present (2025-06-10 11:19  UTC)<br/>
+*Veld* Region 1 Laelia Megacity is now present (2025-06-10 11:19  UTC)<br/>
+*Darius II* Region 0 Buju City is now present (2025-06-10 11:19  UTC)<br/>
+*Fort Union* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 2 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 3 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Volterra* Region 0 Scarlet Haven Town is now present (2025-06-10 11:20  UTC)<br/>
+*Volterra* Region 1 Edward's Grave Town is now present (2025-06-10 11:20  UTC)<br/>
+*Volterra* Region 2 Light-Of-Liberty Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Crucible* Region 0 Kurri Kurri Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Crucible* Region 1 Annwn Town is now present (2025-06-10 11:20  UTC)<br/>
+*Crucible* Region 2 Agartha Town Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Crucible* Region 3 Kshira Sagara Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 1 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 2 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Acamar IV* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Acamar IV* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 1 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 2 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Gatria* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Gatria* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Peacock* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Peacock* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 2 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Prasa* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
+*Prasa* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Darius II* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
+*Achird III* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
+*Veld* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
+*Krakatwo* - *Crucible* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Volterra* - *Caramoor* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Volterra* - *Alta V* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Crucible* - *Volterra* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Slif* - *Volterra* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Alta V* - *Slif* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Alta V* - *Caramoor* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Alta V* - *Inari* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Ursica XI* - *Inari* warp link is added (2025-06-10 11:59  UTC)<br/>
+*Krakatwo* is not accessible despite connecting to the liberated world of *Crucible* (2025-06-10 11:59  UTC)<br/>
+*Slif* is not accessible despite connecting to the liberated world of *Alta V* (2025-06-10 11:59  UTC)<br/>
+*Crucible* of the Korpus sector is attacked by Terminids (2025-06-10 12:02  UTC)<br/>
+*Crucible* Region 3 Kshira Sagara Megacity is besieged by Humans (2025-06-10 12:02  UTC)<br/>
+*Alta V* of the Korpus sector is attacked by Terminids (2025-06-10 12:07  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-10 12:07  UTC)<br/>
+Major Order | A2-6-3 Defend The Korpus Sector is issued | Objective: Control (2025-06-10 12:09  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneously across multiple *Super Earth* cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger. The Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities. (2025-06-10 12:10  UTC)<br/>
+*Achird III* liberation campaign starts (2025-06-10 12:19  UTC)<br/>
+*Achird III* Region 1 Approval City City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
+*Achird III* Region 2 Old Branch City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
+*Darius II* liberation campaign starts (2025-06-10 12:19  UTC)<br/>
+*Darius II* Region 0 Buju City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
+ Decay: 0.0 on Crucible, Alta V
+ (2025-06-10 12:19  UTC)<br/>
+*Veld* liberation campaign starts (2025-06-10 12:21  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-06-10 12:21  UTC)<br/>
+DSS deploys to *Crucible* of the Korpus sector (2025-06-10 16:30  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-06-10 19:53  UTC)<br/>
+DSS deploys to *Alta V* of the Korpus sector (2025-06-11 00:30  UTC)<br/>
+*Alta V* Region 0 Porte Liberté Town is besieged by Humans (2025-06-11 03:21  UTC)<br/>
+*Alta V* defense is won (2025-06-11 05:54  UTC)<br/>
+DSS deploys to *Crucible* of the Korpus sector (2025-06-11 05:54  UTC)<br/>
+*Inari* - *Veld* warp link is added (2025-06-11 08:16  UTC)<br/>
+Assault Division: Predator Strain U5B leaves *Veld* (2025-06-11 08:16  UTC)<br/>
+ Decay: 1.5 on Alta V
+ (2025-06-11 08:16  UTC)<br/>
+*Inari* of the Korpus sector is attacked by Terminids (2025-06-11 08:17  UTC)<br/>
+Assault Division: Predator Strain U5B deploys to *Inari* (2025-06-11 08:17  UTC)<br/>
+*Volterra* of the Korpus sector is attacked by Terminids (2025-06-11 08:23  UTC)<br/>
+*Volterra* Region 0 Scarlet Haven Town is besieged by Humans (2025-06-11 08:23  UTC)<br/>
+*Crucible* Region 0 Kurri Kurri Settlement is besieged by Humans (2025-06-11 08:53  UTC)<br/>
+ Decay: 0.0 on Volterra, Inari
+ (2025-06-11 08:53  UTC)<br/>
+
+# Day: #490
+*Crucible* defense is won (2025-06-11 11:02  UTC)<br/>
+DSS deploys to *Inari* of the Korpus sector (2025-06-11 11:02  UTC)<br/>
