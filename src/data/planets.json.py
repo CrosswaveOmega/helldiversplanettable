@@ -24,9 +24,7 @@ class Statistics(BaseModel):
     deaths: Optional[int] = Field(alias="deaths", default=0)
     revives: Optional[int] = Field(alias="revives", default=0)
     friendlies: Optional[int] = Field(alias="friendlies", default=0)
-    missionSuccessRate: Optional[int] = Field(
-        alias="missionSuccessRate", default=0
-    )
+    missionSuccessRate: Optional[int] = Field(alias="missionSuccessRate", default=0)
     accuracy: Optional[int] = Field(alias="accuracy", default=0)
     playerCount: Optional[int] = Field(alias="playerCount", default=0)
 
@@ -60,9 +58,7 @@ def get_planet_fronts(
     human and automation owners, the front will be HUMANS, AUTOMATON"""
     results = depth_first_planet_search(planet_index, planets)
     fronts = {
-        planets[index]["currentOwner"].upper()
-        for index in results
-        if index in planets
+        planets[index]["currentOwner"].upper() for index in results if index in planets
     }
     return list(fronts)
 
@@ -101,9 +97,7 @@ def add_overrides(allplanet: Dict[str, Any], index: int) -> Tuple[str, str]:
         return "unknown", "none"
 
     biome = (
-        allplanet["biomes"]
-        .get(central["biome"], {})
-        .get("name", "[GWW SEARCH ERROR]")
+        allplanet["biomes"].get(central["biome"], {}).get("name", "[GWW SEARCH ERROR]")
     )
     hazards = ", ".join(
         allplanet["environmentals"]
@@ -154,9 +148,7 @@ def make_rows(planets: Dict, allplanet: Dict):
 
         stats = bad_stats_filter(planet, stats)
         missions = (stats.missionsWon) + (stats.missionsLost)
-        kills = sum(
-            [stats.terminidKills, stats.automatonKills, stats.illuminateKills]
-        )
+        kills = sum([stats.terminidKills, stats.automatonKills, stats.illuminateKills])
 
         front = get_planet_fronts(index, planets)
         # Remove human faction from front list for easier reading.

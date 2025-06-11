@@ -52,16 +52,12 @@ def get_region(
     "Search through planet keys and return the planets with matching keys, avoiding partial word matches."
     planets = []
     t2 = text
-    keys = sorted(
-        list(v["name"] for v in myregions.values()), key=len, reverse=True
-    )
+    keys = sorted(list(v["name"] for v in myregions.values()), key=len, reverse=True)
 
     for planet in keys:
         if re.search(rf"\b{re.escape(planet)}\b", t2, flags=re.IGNORECASE):
             # Match "region <num>" in the text and extract the region number
-            region_match = re.search(
-                r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE
-            )
+            region_match = re.search(r"\bregion\s+(\d+)\b", t2, flags=re.IGNORECASE)
             if region_match:
                 region_num = int(region_match.group(1))
                 planets.append((planet, str(region_num)))
@@ -135,9 +131,7 @@ def parse_timestamp(timestamp_str: str) -> datetime:
 
         return naive_datetime
     else:
-        raise ValueError(
-            "The timestamp string does not match the expected format."
-        )
+        raise ValueError("The timestamp string does not match the expected format.")
 
 
 def make_day_obj(text: str) -> None:
@@ -174,9 +168,7 @@ def make_day_obj(text: str) -> None:
                     match.group("text"),
                     timestamp,
                 )
-                day = (
-                    timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)
-                ).days
+                day = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
                 days.events_all.append(
                     GameEvent(
                         text=match.group("text"),
@@ -185,9 +177,7 @@ def make_day_obj(text: str) -> None:
                         day=day,
                     )
                 )
-    with open(
-        "./src/data/gen_data/out.json", "w", encoding="utf8"
-    ) as json_file:
+    with open("./src/data/gen_data/out.json", "w", encoding="utf8") as json_file:
         json.dump(days.model_dump(), json_file, indent=4)
 
 
@@ -345,9 +335,7 @@ def get_unique_sectors(planets_Dict: Dict[str, Any]) -> List[str]:
     return list(set(sectors))
 
 
-def update_defenses(
-    event: GameEvent, defenses: Dict[str, str]
-) -> Dict[str, str]:
+def update_defenses(event: GameEvent, defenses: Dict[str, str]) -> Dict[str, str]:
     for p in event.planet:
         planet = p[1]
         if event.type == "defense start":

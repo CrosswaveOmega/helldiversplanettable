@@ -246,9 +246,7 @@ async def format_event_obj() -> None:
             sector_dict[sect] = []
         sector_dict[sect].append(planet["name"])
 
-    planets_Dict2 = {
-        planet["name"]: key for key, planet in planets_Dict.items()
-    }
+    planets_Dict2 = {planet["name"]: key for key, planet in planets_Dict.items()}
     conn = sqlite3.connect(DATABASE_FILE)
     migrate_tables(conn)
 
@@ -320,9 +318,7 @@ async def format_event_obj() -> None:
             )
             lastregionstats = {}
         if event.type == "clear_sector_links":
-            sectors_in_text = [
-                sector for sector in sectors if sector in event.text
-            ]
+            sectors_in_text = [sector for sector in sectors if sector in event.text]
             ext = ""
             for s, i in sector_dict.items():
                 if s in sectors_in_text:
@@ -337,9 +333,7 @@ async def format_event_obj() -> None:
 
         lasttime = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
         event.faction = get_faction(text)
-        event_type_sort = sort_event_type(
-            event, text, match, sectors, event_type_sort
-        )
+        event_type_sort = sort_event_type(event, text, match, sectors, event_type_sort)
         if event.planet:
             defenses = update_defenses(event, defenses)
 
@@ -349,12 +343,8 @@ async def format_event_obj() -> None:
     save_json_data(
         "./src/data/gen_data/out2.json", days_out.model_dump(warnings="error")
     )
-    with open(
-        "./src/data/gen_data/typesort.json", "w", encoding="utf8"
-    ) as json_file:
-        json.dump(
-            event_type_sort, json_file, indent=2, sort_keys=True, default=str
-        )
+    with open("./src/data/gen_data/typesort.json", "w", encoding="utf8") as json_file:
+        json.dump(event_type_sort, json_file, indent=2, sort_keys=True, default=str)
     conn.close()
 
 
@@ -371,9 +361,7 @@ def monitor_event(
             hours=(MIN_HOUR_CHANGE - lasttime.hour % MIN_HOUR_CHANGE),
             minutes=(60 - lasttime.minute) % 60,
         )
-        dayval = (
-            timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)
-        ).days
+        dayval = (timestamp - datetime(2024, 2, 7, 9, 0, tzinfo=timezone.utc)).days
 
         new_evt = GameEvent(
             text="Monitoring",
@@ -489,9 +477,7 @@ async def get_region_stats(
     if interval not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
         if time > march_5th:
-            checkv = fetch_region_entries_by_closest_interval(
-                conn, float(ne.timestamp)
-            )
+            checkv = fetch_region_entries_by_closest_interval(conn, float(ne.timestamp))
             if checkv:
                 print(
                     f"{timestamp} not found in all_region_times_new[{dc}] but WAS found in db"
@@ -534,9 +520,7 @@ def update_planet_stats(
         pindex, rindex = i.split("_")
         print(pindex, rindex, str(pindex) in planetclone)
         if str(pindex) in planetclone:
-            print(
-                pindex, rindex, str(rindex) in planetclone[str(pindex)].regions
-            )
+            print(pindex, rindex, str(rindex) in planetclone[str(pindex)].regions)
             if str(rindex) in planetclone[str(pindex)].regions:
                 planetclone[str(pindex)].regions[str(rindex)].hp = int(
                     v.get("health", 0)
@@ -610,9 +594,7 @@ def DECODE(number):
     return CO, AT, L
 
 
-def initialize_planets() -> Tuple[
-    Dict[str, Dict[str, Any]], Dict[str, Dict[str, Any]]
-]:
+def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str, Any]]]:
     """Open the planet data inside gen_data/sectorplanets.json,
     and create the inital galaxy state object."""
     planets: Dict[str, Dict[str, Any]] = {}
@@ -697,9 +679,7 @@ async def process_event(
         print(pindex, rindex)
         if str(pindex) in planetclone:
             if str(rindex) in planetclone[str(pindex)].regions:
-                planetclone[str(pindex)].regions[str(rindex)].hp = v.get(
-                    "health", 0
-                )
+                planetclone[str(pindex)].regions[str(rindex)].hp = v.get("health", 0)
                 planetclone[str(pindex)].regions[str(rindex)].r = float(
                     v.get("regenPerSecond", 0)
                 )
@@ -772,6 +752,25 @@ def update_region_ownership(
         planetclone[str(inde)].regions[rn].t = ENCODE(dec[0], dec[1], dec[2])
 
 
+def update_region_owners(
+    event: GameEvent,
+    name: str,
+    inde: int,
+    planetclone: Dict[str, PlanetState],
+    store: Dict[str, str],
+    set_to: int = 0,
+) -> None:
+    # TODO: add events for when Super Earth Captures
+    # A region when it happens
+    for rn in planetclone[str(inde)].regions:
+        dec = list(DECODE(planetclone[str(inde)].regions[rn].t))
+
+        dec[0] = set_to
+        dec[1] = 0
+        dec[2] = 0
+        planetclone[str(inde)].regions[rn].t = ENCODE(dec[0], dec[1], dec[2])
+
+
 def update_planet_ownership(
     event: GameEvent,
     planetclone: Dict[str, PlanetState],
@@ -810,6 +809,9 @@ def update_planet_ownership(
             dec[2] = 1
 
         if event.type == "defense won":
+            update_region_owners(
+                event, name, str(ind), planetclone, set_to=1, store=store
+            )
             dec[1] = 0
             dec[2] = 0
         if event.type == "invasion won":
@@ -868,9 +870,7 @@ def update_planet_ownership(
                 planetclone[str(ind)].position.y = float(y)
             else:
                 print("No coordinates found")
-                logger.info(
-                    f"{event.planet} could not find coordinates in move event."
-                )
+                logger.info(f"{event.planet} could not find coordinates in move event.")
         ## ASSAULT DIVISION CODE
         if "Assault Division" in event.type:
             site = extract_assault_division(event.text)
@@ -1039,9 +1039,7 @@ class PlanetHistoryDelta:
                         )
                 resa.link2 = link
 
-    def delta_format(
-        self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]
-    ):
+    def delta_format(self, event_index: int, ptemp: Optional[Dict[str, PlanetState]]):
         """Add to the ongoing history delta."""
 
         # update hash links
@@ -1060,15 +1058,11 @@ class PlanetHistoryDelta:
                     self.resort[planet_key].append(toad)
         else:
             for planet_key, planet_state in ptemp.items():
-                res = planet_state.model_dump(
-                    warnings="error", exclude=["link"]
-                )
+                res = planet_state.model_dump(warnings="error", exclude=["link"])
                 if planet_key not in self.resort:
                     self.resort[planet_key] = [res]
                     self.resort[planet_key][0]["eind"] = event_index
-        self.laststate = {
-            k: v.model_dump(warnings="error") for k, v in ptemp.items()
-        }
+        self.laststate = {k: v.model_dump(warnings="error") for k, v in ptemp.items()}
 
     def make_cluster(self, cluster_size):
         grouped_items = {}  # Dictionary to hold groups
@@ -1180,17 +1174,13 @@ class GalaxyEventProcessor:
             regionstats = self.all_region_times_new[dc][interval]
 
         if ne.type == "m":
-            decay, hp_checkpoint = check_planet_stats_for_change(
-                ptemp, planetstats
-            )
+            decay, hp_checkpoint = check_planet_stats_for_change(ptemp, planetstats)
             outtext = handle_decay_events(decay)
 
             if not self.process_monitor_event(
                 event_group, ne, decay, hp_checkpoint, outtext
             ):
-                decay, hp_checkpoint = check_region_stats_for_change(
-                    ptemp, regionstats
-                )
+                decay, hp_checkpoint = check_region_stats_for_change(ptemp, regionstats)
                 outtext = handle_region_decay_events(decay)
                 if not self.process_monitor_event(
                     event_group, ne, decay, hp_checkpoint, outtext
@@ -1277,17 +1267,13 @@ class GalaxyEventProcessor:
         logger.info("Saving galaxy states.")
         galaxy_states_dump = self.galaxy_states.model_dump(warnings="error")
         save_json_compressed("./src/data/gstates.json", galaxy_states_dump)
-        save_json_data(
-            "./src/data/resort.json", self.phistdelta.resort, indent=3
-        )
+        save_json_data("./src/data/resort.json", self.phistdelta.resort, indent=3)
         markdowncode = make_markdown_log(self.days_out)
         with open("./src/history_log_full.md", "w", encoding="utf8") as file:
             file.write(markdowncode)
         logger.info("Saving data")
         print("Saving data")
-        history_dump = self.days_out.model_dump(
-            exclude_none=True, warnings="error"
-        )
+        history_dump = self.days_out.model_dump(exclude_none=True, warnings="error")
         save_json_data("./src/data/historydata.json", history_dump)
 
     async def run(self):
@@ -1345,9 +1331,7 @@ if __name__ == "__main__":
     old_text = ""
     print("Reading web file...")
     if os.path.exists("src/data/gen_data/lasttext.md"):
-        with open(
-            "src/data/gen_data/lasttext.md", "r", encoding="utf-8"
-        ) as file:
+        with open("src/data/gen_data/lasttext.md", "r", encoding="utf-8") as file:
             old_text = file.read()
 
     get_web_file()
@@ -1358,9 +1342,7 @@ if __name__ == "__main__":
         make_day_obj(text)
 
         asyncio.run(main_code())
-        with open(
-            "src/data/gen_data/lasttext.md", "w", encoding="utf-8"
-        ) as file:
+        with open("src/data/gen_data/lasttext.md", "w", encoding="utf-8") as file:
             file.write(text)
     else:
         logger.info("NO CHANGE DETECTED.  SKIPPING.")

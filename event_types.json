@@ -264,6 +264,11 @@
         "name": "Gwar resumes",
         "matchable": [" is no longer paused"]
     },
+    "Region Added": {
+    "name": "region_added",
+    "matchable": ["Region", "is now present"],
+    "mode": "and"
+    },
     "RegionSiegeStartEvent": {
     "name": "region_siege_start",
     "matchable": ["Region", "is besieged by"],

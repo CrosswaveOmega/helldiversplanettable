@@ -10,9 +10,7 @@ MAX_HOUR_DISTANCE = 6
 logger = logging.getLogger("StatusLogger")
 
 
-def add_waypoint(
-    planetclone: Dict[str, PlanetState], ind: int, other_ind: int
-) -> None:
+def add_waypoint(planetclone: Dict[str, PlanetState], ind: int, other_ind: int) -> None:
     if not planetclone[str(ind)].link:
         planetclone[str(ind)].link = []
     if int(other_ind) not in planetclone[str(ind)].link:
@@ -129,9 +127,7 @@ def check_planet_stats_for_change(
             if lasthp:
                 if lasthp // times != v.get("health", 0) // times:
                     hp_change = True
-                    hp_changed_on.append(
-                        (i, v.get("owner", 0), v.get("health", 0))
-                    )
+                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
             lastregen = planetclone[str(i)].r
             if lastregen != float(v.get("regenPerSecond", 0)):
                 decay_change = True
@@ -164,9 +160,7 @@ def check_region_stats_for_change(
                 if lasthp:
                     if lasthp // times != v.get("health", 0) // times:
                         hp_change = True
-                        hp_changed_on.append(
-                            (i, v.get("owner", 0), v.get("health", 0))
-                        )
+                        hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
                 lastregen = planetclone[str(i)].regions[str(rindex)].r
                 if lastregen != float(v.get("regenPerSecond", 0)):
                     decay_change = True
@@ -197,9 +191,7 @@ def check_planet_stats_dict_for_change(
             if lasthp:
                 if lasthp // times != v.get("health", 0) // times:
                     hp_change = True
-                    hp_changed_on.append(
-                        (i, v.get("owner", 0), v.get("health", 0))
-                    )
+                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
             lastregen = planetclone[i]["regenPerSecond"]
             if float(lastregen) != float(v.get("regenPerSecond", 0)):
                 print(i, lastregen, float(v.get("regenPerSecond", 0)))
@@ -234,9 +226,7 @@ def check_region_stats_dict_for_change(
             if lasthp:
                 if lasthp // times != v.get("health", 0) // times:
                     hp_change = True
-                    hp_changed_on.append(
-                        (i, v.get("owner", 0), v.get("health", 0))
-                    )
+                    hp_changed_on.append((i, v.get("owner", 0), v.get("health", 0)))
             lastregen = regionclone[i]["regenPerSecond"]
             if float(lastregen) != float(v.get("regenPerSecond", 0)):
                 print(i, lastregen, float(v.get("regenPerSecond", 0)))

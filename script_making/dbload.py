@@ -168,9 +168,7 @@ def fetch_region_entries_by_closest_interval(
     return all_entries
 
 
-def fetch_entries_by_dayval(
-    conn: sqlite3.Connection, dayval: int
-) -> PlanetStatusDays:
+def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStatusDays:
     """Fetch all entries with the same dayval."""
     cursor = conn.cursor()
     print(f"FETCHING ALL VALUES FOR DAYVAL {dayval}")
