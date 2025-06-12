@@ -7291,7 +7291,7 @@ Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
  (2025-05-11 14:17  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
-DSS effect Orbital Blockade starts (2025-05-11 15:05  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-05-11 15:05  UTC)<br/>
  Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
  (2025-05-11 15:05  UTC)<br/>
 *Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-11 20:46  UTC)<br/>
@@ -7424,32 +7424,32 @@ Assault Division: The Great Host U1 deploys to *Super Earth* (2025-05-20 09:07  
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
-*Kerth Secundus* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Kerth Secundus* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Kerth Secundus* Region 2 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
-*Irulta* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Irulta* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Irulta* Region 2 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Emorath* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Emorath* Region 1 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Emorath* Region 2 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
-*Valmox* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Valmox* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Valmox* Region 2 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Oasis* Region 0 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Genesis Prime* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Genesis Prime* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Liberty Ridge* Region 0 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Liberty Ridge* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Alairt III* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Alairt III* Region 1 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Alairt III* Region 2 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Alairt III* Region 3 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
-*Alamak VII* Region 0 No Name Town is now present (2025-05-20 15:53  UTC)<br/>
-*Alamak VII* Region 1 No Name City is now present (2025-05-20 15:53  UTC)<br/>
-*Alamak VII* Region 2 No Name Settlement is now present (2025-05-20 15:53  UTC)<br/>
-*Alamak VII* Region 3 No Name Mega City is now present (2025-05-20 15:53  UTC)<br/>
-*Andar* Region 0 No Name Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Kerth Secundus* Region 0 Scholar's Moor Town is now present (2025-05-20 15:53  UTC)<br/>
+*Kerth Secundus* Region 1 Blestrail Town is now present (2025-05-20 15:53  UTC)<br/>
+*Kerth Secundus* Region 2 Hildoara Central Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 0 Recon Heights Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 1 Silo A Town is now present (2025-05-20 15:53  UTC)<br/>
+*Irulta* Region 2 Voter's Fallow City is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 0 Farmhandstown Town is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 1 Fort Bounty Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Emorath* Region 2 Futuria Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 1 Reformed-By-Truth City is now present (2025-05-20 15:53  UTC)<br/>
+*Valmox* Region 2 Obedience Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Oasis* Region 0 Respite City is now present (2025-05-20 15:53  UTC)<br/>
+*Genesis Prime* Region 0 Mallstrip Nodes Town is now present (2025-05-20 15:53  UTC)<br/>
+*Genesis Prime* Region 1 Birth City is now present (2025-05-20 15:53  UTC)<br/>
+*Liberty Ridge* Region 0 Vanquishment Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Liberty Ridge* Region 1 Freecrest City is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 0 Greater Storouse Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 1 New Storouse Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 2 Shed Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alairt III* Region 3 Free Trade Megacity is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 1 Ungu City is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is now present (2025-05-20 15:53  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Mega City is now present (2025-05-20 15:53  UTC)<br/>
+*Andar* Region 0 New Tokyo Megacity is now present (2025-05-20 15:53  UTC)<br/>
 *Super Earth* Region 2 Remembrance Megacity is besieged by IIlluminate (2025-05-20 20:02  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
 *Super Earth* Region 6 Equality-on-Sea Megacity is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
@@ -7630,7 +7630,7 @@ DSS deploys to *Zosma* of the Gellert sector (2025-06-04 00:09  UTC)<br/>
  Decay: 0.0 on Bekvam III
  (2025-06-04 12:00  UTC)<br/>
 Dispatch: COMMEMORATIVE CAPE IN-PROGRESS. A commemorative cape, designed to honor the service and victory of those who fought to defend *Super Earth* against the Illuminate invasion, has entered production. It will be delivered in the coming weeks. (2025-06-04 14:44  UTC)<br/>
-DSS effect Eagle Blockade ends (2025-06-04 16:14  UTC)<br/>
+DSS effect Eagle Blockade stops (2025-06-04 16:14  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-06-05 00:23  UTC)<br/>
 *Zosma* defense is won (2025-06-05 00:40  UTC)<br/>
  Decay: 1.5 on Zosma
@@ -7670,7 +7670,7 @@ DSS effect Eagle Storm is activated (2025-06-06 20:42  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-06-07 00:25  UTC)<br/>
 
 ### Day: #486
-DSS effect Eagle Storm ends (2025-06-07 20:44  UTC)<br/>
+DSS effect Eagle Storm stops (2025-06-07 20:44  UTC)<br/>
  Decay: 2.0 on Mog<br/> Decay: 1.0 on Bellatrix, Hydrobius<br/> Decay: 2.5 on Haldus
  (2025-06-07 20:44  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-06-08 06:07  UTC)<br/>
@@ -7681,7 +7681,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-06-08 06:07  UTC)<br/>
 DSS deploys to *Bellatrix* of the Guang sector (2025-06-08 16:54  UTC)<br/>
  Decay: 0.5 on Bellatrix, Hydrobius<br/> Decay: 1.5 on Haldus
  (2025-06-08 20:00  UTC)<br/>
-DSS effect Heavy Ordnance Distribution ends (2025-06-09 06:07  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-06-09 06:07  UTC)<br/>
 
 ### Day: #488
 *Bellatrix* is liberated (2025-06-09 20:11  UTC)<br/>
@@ -7700,9 +7700,9 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
  Region Decay: 0.0 on 80_LAELIA<br/> Region Decay: 0.0 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.0 on 128_BUJU<br/> Region Decay: 0.0 on 131_APPROVAL CITY<br/> Region Decay: 0.0 on 131_OLD BRANCH<br/> Region Decay: 0.0 on 131_TIMELY
  (2025-06-10 11:19  UTC)<br/>
 *Fort Union* Region 0 Otatu's Pledge Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 1 XIAMEN ANEW City is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 2 MUNITION CITY Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fort Union* Region 3 GREATFORT Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 1 Xiamen Anew City is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 2 Munition City Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fort Union* Region 3 Greatfort Megacity is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 0 Scarlet Haven Town is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 1 Edward's Grave Town is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra* Region 2 Light-Of-Liberty Megacity is now present (2025-06-10 11:20  UTC)<br/>
@@ -7710,40 +7710,40 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Crucible* Region 1 Annwn Town is now present (2025-06-10 11:20  UTC)<br/>
 *Crucible* Region 2 Agartha Town Megacity is now present (2025-06-10 11:20  UTC)<br/>
 *Crucible* Region 3 Kshira Sagara Megacity is now present (2025-06-10 11:20  UTC)<br/>
-*Caramoor* Region 0 LEMURIA RISING City is now present (2025-06-10 11:20  UTC)<br/>
+*Caramoor* Region 0 Lemuria Rising City is now present (2025-06-10 11:20  UTC)<br/>
 *Caramoor* Region 1 Pioneer's Dream City is now present (2025-06-10 11:20  UTC)<br/>
 *Caramoor* Region 2 Base Camp 8 City is now present (2025-06-10 11:20  UTC)<br/>
-*Ursica XI* Region 0 NEW KATHMANDU Town is now present (2025-06-10 11:20  UTC)<br/>
-*Ursica XI* Region 1 PO'S RAVENNA City is now present (2025-06-10 11:20  UTC)<br/>
-*Trandor* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Trandor* Region 1 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
-*Trandor* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Fenrir III* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fenrir III* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Fenrir III* Region 2 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
-*Turing* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Turing* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Turing* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Acamar IV* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
-*Acamar IV* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Achernar Secundus* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Achernar Secundus* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Achernar Secundus* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Erata Prime* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Erata Prime* Region 1 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
-*Erata Prime* Region 2 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Gatria* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
-*Gatria* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Peacock* Region 0 No Name Settlement is now present (2025-06-10 11:20  UTC)<br/>
-*Peacock* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Phact Bay* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Phact Bay* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Phact Bay* Region 2 No Name Megacity is now present (2025-06-10 11:20  UTC)<br/>
-*Polaris Prime* Region 0 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Polaris Prime* Region 1 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Polaris Prime* Region 2 No Name City is now present (2025-06-10 11:20  UTC)<br/>
-*Prasa* Region 0 No Name Town is now present (2025-06-10 11:20  UTC)<br/>
-*Prasa* Region 1 No Name City is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 0 New Kathmandu Town is now present (2025-06-10 11:20  UTC)<br/>
+*Ursica XI* Region 1 Po's Ravenna City is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 0 Nya Skelleftea City is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 1 Ödeshögre Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Trandor* Region 2 Gothenburg III City is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 0 Lokaheim Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 1 Pseudotopia Town is now present (2025-06-10 11:20  UTC)<br/>
+*Fenrir III* Region 2 Famewolf Peak Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 0 Chatoyant City is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 1 Carbondale Town is now present (2025-06-10 11:20  UTC)<br/>
+*Turing* Region 2 Periwinkle Mills City is now present (2025-06-10 11:20  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 1 New Newtonville City is now present (2025-06-10 11:20  UTC)<br/>
+*Achernar Secundus* Region 2 Ol' Oldham City is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 1 Pham's Site Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is now present (2025-06-10 11:20  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Gatria* Region 1 Ersatz City is now present (2025-06-10 11:20  UTC)<br/>
+*Peacock* Region 0 Quasar Settlement is now present (2025-06-10 11:20  UTC)<br/>
+*Peacock* Region 1 Syzygy Town is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 0 Old Dove Town is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 1 Brno City is now present (2025-06-10 11:20  UTC)<br/>
+*Phact Bay* Region 2 New Eagle Megacity is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 0 Vilhelmia Dorothea Fredrika City is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 1 Mogo Plains Town is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 2 Kalasatama City is now present (2025-06-10 11:20  UTC)<br/>
+*Prasa* Region 0 Handakas Town is now present (2025-06-10 11:20  UTC)<br/>
+*Prasa* Region 1 Haku City City is now present (2025-06-10 11:20  UTC)<br/>
 *Darius II* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Achird III* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Veld* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
@@ -7782,6 +7782,7 @@ Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneousl
 DSS deploys to *Crucible* of the Korpus sector (2025-06-10 16:30  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-06-10 19:53  UTC)<br/>
 DSS deploys to *Alta V* of the Korpus sector (2025-06-11 00:30  UTC)<br/>
+*Volterra* Region 2 Light-Of-Liberty Megacity is besieged by Humans (2025-06-11 00:42  UTC)<br/>
 *Alta V* Region 0 Porte Liberté Town is besieged by Humans (2025-06-11 03:21  UTC)<br/>
 *Alta V* defense is won (2025-06-11 05:54  UTC)<br/>
 DSS deploys to *Crucible* of the Korpus sector (2025-06-11 05:54  UTC)<br/>
@@ -7802,3 +7803,19 @@ Assault Division: Predator Strain U5B deploys to *Inari* (2025-06-11 08:17  UTC)
 # Day: #490
 *Crucible* defense is won (2025-06-11 11:02  UTC)<br/>
 DSS deploys to *Inari* of the Korpus sector (2025-06-11 11:02  UTC)<br/>
+ Decay: 1.5 on Crucible
+ (2025-06-11 12:00  UTC)<br/>
+ Decay: 1.5 on Hydrobius
+ (2025-06-11 14:00  UTC)<br/>
+*Volterra* Region 0 Scarlet Haven Town has fallen to Humans (2025-06-11 18:04  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-06-11 19:53  UTC)<br/>
+ Decay: 0.52 on Veld
+ (2025-06-11 19:53  UTC)<br/>
+ Region Decay: 0.36 on 28_EDWARD'S GRAVE<br/> Region Decay: 0.36 on 28_LIGHT-OF-LIBERTY<br/> Region Decay: 0.36 on 80_LAELIA<br/> Region Decay: 0.36 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.36 on 131_TIMELY
+ (2025-06-11 20:00  UTC)<br/>
+*Inari* defense is failed (2025-06-12 08:18  UTC)<br/>
+↳ *Inari* liberation campaign starts (2025-06-12 08:18  UTC)<br/>
+
+### Day: #491
+ Decay: 1.5 on Inari
+ (2025-06-12 09:00  UTC)<br/>
