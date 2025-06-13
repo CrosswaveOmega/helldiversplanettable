@@ -7819,3 +7819,19 @@ DSS effect Heavy Ordnance Distribution stops (2025-06-11 19:53  UTC)<br/>
 ### Day: #491
  Decay: 1.5 on Inari
  (2025-06-12 09:00  UTC)<br/>
+DSS deploys to *Volterra* of the Korpus sector (2025-06-12 12:31  UTC)<br/>
+*Alta V* of the Korpus sector is attacked by Terminids (2025-06-12 14:56  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-12 14:56  UTC)<br/>
+Assault Division: Predator Strain U5B divides into 2 groups [U5B, U5G] (2025-06-12 14:57  UTC)<br/>
+Assault Division: Predator Strain U5F deploys to *Alta V* (2025-06-12 14:57  UTC)<br/>
+*Volterra* Region 1 Edward's Grave Town is besieged by Humans (2025-06-12 14:57  UTC)<br/>
+ Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.36 on 81_PORTE LIBERTÉ
+ (2025-06-12 16:00  UTC)<br/>
+ Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.36 on 81_PORTE LIBERTÉ
+ (2025-06-12 16:00  UTC)<br/>
+DSS deploys to *Inari* of the Korpus sector (2025-06-12 20:31  UTC)<br/>
+*Volterra* defense is won (2025-06-12 22:21  UTC)<br/>
+ Decay: 1.5 on Volterra
+ (2025-06-13 00:00  UTC)<br/>
+*Alta V* Region 0 Porte Liberté Town is besieged by Humans (2025-06-13 07:09  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement has fallen to Humans (2025-06-13 08:34  UTC)<br/>
