@@ -7835,3 +7835,33 @@ DSS deploys to *Inari* of the Korpus sector (2025-06-12 20:31  UTC)<br/>
  (2025-06-13 00:00  UTC)<br/>
 *Alta V* Region 0 Porte Liberté Town is besieged by Humans (2025-06-13 07:09  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement has fallen to Humans (2025-06-13 08:34  UTC)<br/>
+
+### Day: #492
+*Heze Bay* of the Hanzo sector is under threat of destruction (2025-06-13 14:32  UTC)<br/>
+Dispatch: SATELLITES SABOTAGED. A deep-space satellite near *Super Earth* has failed. The Illuminate appear to have planted interference devices during the Battle for *Super Earth*. A number of planets in close proximity to Illuminate-occupied planets are no longer observable. Communication has been cut off, and FTL travel to them is impossible. Analysts assess the likelihood of anti-Democratic activity on those planets to be Very High. A task force is actively working to restore system integrity. (2025-06-13 14:32  UTC)<br/>
+*Alaraph* of the Akira sector is under threat of destruction (2025-06-13 14:40  UTC)<br/>
+Alert III of the Hanzo sector is under threat of destruction (2025-06-13 14:40  UTC)<br/>
+*Alamak VII* of the Hanzo sector is under threat of destruction (2025-06-13 14:44  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is under threat of destruction (2025-06-13 14:51  UTC)<br/>
+*Karlia* of the Omega sector is under threat of destruction (2025-06-13 15:02  UTC)<br/>
+*Alta V* Region 0 Porte Liberté Town has fallen to Humans (2025-06-13 19:18  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement is besieged by Terminids (2025-06-13 22:20  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement siege has ended (2025-06-13 22:23  UTC)<br/>
+*Alta V* defense is failed (2025-06-13 22:57  UTC)<br/>
+↳ *Alta V* liberation campaign starts (2025-06-13 22:57  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-13 22:58  UTC)<br/>
+Assault Division: Predator Strain U5B leaves *Inari* (2025-06-13 22:59  UTC)<br/>
+Assault Division: Predator Strain U5B deploys to *Veld* (2025-06-13 22:59  UTC)<br/>
+*Caramoor* of the Korpus sector is attacked by Terminids (2025-06-13 23:04  UTC)<br/>
+*Caramoor* Region 1 Pioneer's Dream City is besieged by Humans (2025-06-13 23:04  UTC)<br/>
+ Decay: 1.0 on Veld<br/> Decay: 1.5 on Alta V<br/> Decay: 0.5 on Inari
+ (2025-06-13 23:04  UTC)<br/>
+ Region Decay: 0.0 on 53_PIONEER'S DREAM<br/> Region Decay: 0.0 on 53_LEMURIA RISING<br/> Region Decay: 0.0 on 53_BASE CAMP 8
+ (2025-06-13 23:04  UTC)<br/>
+*Krakatwo* liberation campaign starts (2025-06-13 23:06  UTC)<br/>
+*Slif* liberation campaign starts (2025-06-13 23:06  UTC)<br/>
+ Decay: 0.0 on Caramoor<br/> Decay: 1.0 on Alta V
+ (2025-06-14 00:00  UTC)<br/>
+*Caramoor* Region 2 Base Camp 8 City is besieged by Humans (2025-06-14 08:45  UTC)<br/>
+
+### Day: #493
