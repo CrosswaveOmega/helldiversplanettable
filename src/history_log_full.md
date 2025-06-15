@@ -7865,3 +7865,11 @@ Assault Division: Predator Strain U5B deploys to *Veld* (2025-06-13 22:59  UTC)<
 *Caramoor* Region 2 Base Camp 8 City is besieged by Humans (2025-06-14 08:45  UTC)<br/>
 
 ### Day: #493
+*Inari* is liberated (2025-06-14 14:10  UTC)<br/>
+DSS deploys to *Caramoor* of the Korpus sector (2025-06-14 14:10  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement has fallen to Humans (2025-06-14 15:01  UTC)<br/>
+DSS deploys to *Alta V* of the Korpus sector (2025-06-14 16:32  UTC)<br/>
+DSS deploys to *Caramoor* of the Korpus sector (2025-06-15 00:32  UTC)<br/>
+*Caramoor* Region 1 Pioneer's Dream City has fallen to Humans (2025-06-15 07:50  UTC)<br/>
+
+### Day: #494
