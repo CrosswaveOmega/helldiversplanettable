@@ -7744,6 +7744,10 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Polaris Prime* Region 2 Kalasatama City is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 0 Handakas Town is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 1 Haku City City is now present (2025-06-10 11:20  UTC)<br/>
+*Volterra*'s max health has changed to 2m (2025-06-10 11:31  UTC)<br/>
+*Crucible*'s max health has changed to 2.5m (2025-06-10 11:31  UTC)<br/>
+*Caramoor*'s max health has changed to 2.2m (2025-06-10 11:31  UTC)<br/>
+*Alta V*'s max health has changed to 1.3m (2025-06-10 11:31  UTC)<br/>
 *Darius II* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Achird III* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Veld* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
@@ -7764,15 +7768,22 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-10 12:07  UTC)<br/>
 Major Order | A2-6-3 Defend The Korpus Sector is issued | Objective: Control (2025-06-10 12:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneously across multiple *Super Earth* cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger. The Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities. (2025-06-10 12:10  UTC)<br/>
+*Veld*'s max health has changed to 1.8m (2025-06-10 12:18  UTC)<br/>
+*Ursica XI*'s max health has changed to 1.6m (2025-06-10 12:18  UTC)<br/>
+*Darius II*'s max health has changed to 1.4m (2025-06-10 12:18  UTC)<br/>
+*Acamar IV*'s max health has changed to 1.5m (2025-06-10 12:18  UTC)<br/>
+*Achernar Secundus*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
+*Achird III*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
+*Polaris Prime*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
+ Decay: 0.0 on Crucible, Alta V
+ (2025-06-10 12:18  UTC)<br/>
+ Region Decay: 0.0 on 29_ANNWN<br/> Region Decay: 0.0 on 29_KSHIRA SAGARA<br/> Region Decay: 0.0 on 29_AGARTHA<br/> Region Decay: 0.0 on 29_KURRI KURRI<br/> Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.0 on 81_PORTE LIBERTÉ
+ (2025-06-10 12:18  UTC)<br/>
 *Achird III* liberation campaign starts (2025-06-10 12:19  UTC)<br/>
 *Achird III* Region 1 Approval City City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
 *Achird III* Region 2 Old Branch City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
 *Darius II* liberation campaign starts (2025-06-10 12:19  UTC)<br/>
 *Darius II* Region 0 Buju City is besieged by Humans (2025-06-10 12:19  UTC)<br/>
- Decay: 0.0 on Crucible, Alta V
- (2025-06-10 12:19  UTC)<br/>
- Region Decay: 0.0 on 29_ANNWN<br/> Region Decay: 0.0 on 29_KSHIRA SAGARA<br/> Region Decay: 0.0 on 29_AGARTHA<br/> Region Decay: 0.0 on 29_KURRI KURRI<br/> Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.0 on 81_PORTE LIBERTÉ
- (2025-06-10 12:19  UTC)<br/>
 *Veld* liberation campaign starts (2025-06-10 12:21  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-06-10 12:21  UTC)<br/>
  Region Decay: 0.0 on 80_LAELIA<br/> Region Decay: 0.0 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.0 on 128_BUJU<br/> Region Decay: 0.0 on 131_APPROVAL CITY<br/> Region Decay: 0.0 on 131_OLD BRANCH<br/> Region Decay: 0.0 on 131_TIMELY
@@ -7895,9 +7906,9 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-16 17:47  UTC)<br/>
 DSS effect Eagle Storm stops (2025-06-16 20:29  UTC)<br/>
  Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA<br/> Region Decay: 0.4 on 128_BUJU<br/> Region Decay: 0.2 on 131_TIMELY<br/> Region Decay: 0.4 on 131_APPROVAL CITY<br/> Region Decay: 0.4 on 131_OLD BRANCH
  (2025-06-16 20:29  UTC)<br/>
-*Crimsica* Region 1 Grand-Château City is renamed to Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II (2025-06-17 09:00  UTC)<br/>
 
 ### Day: #496
+*Crimsica* Region 1 Grand-Château City is renamed to Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II (2025-06-17 09:00  UTC)<br/>
 *Heze Bay* of the Hanzo sector is no longer under threat (2025-06-17 09:42  UTC)<br/>
 *Karlia* of the Omega sector is no longer under threat (2025-06-17 09:42  UTC)<br/>
 *Heze Bay* of the Hanzo sector instantly flips to Illuminate control (2025-06-17 09:43  UTC)<br/>
@@ -7948,3 +7959,20 @@ Major Order | A2-6-3 Defend The Korpus Sector is won | Objective: Control (2025-
 *Herthon Secundus* liberation campaign starts (2025-06-17 12:15  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully repelled the Terminid assault, securing all five designated urban centers. Consult your Galactic Map for more information. (2025-06-17 12:19  UTC)<br/>
 *Alaraph* liberation campaign starts (2025-06-17 12:21  UTC)<br/>
+*Alamak VII* liberation campaign starts (2025-06-17 12:36  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-06-17 12:36  UTC)<br/>
+*Alairt III* liberation campaign starts (2025-06-17 12:36  UTC)<br/>
+*Alairt III* Region 2 Shed Town is besieged by Humans (2025-06-17 12:36  UTC)<br/>
+Major Order | A2-6-4 Liberate Two Illuminate Worlds is issued | Objective: Liberate (2025-06-17 12:37  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The *Super Earth* Satellite Observation Network has regained operability, revealing that Illuminate fugitives have twisted multiple Federation cities into totalitarian strongholds. Helldivers: reclaim these cities for *Super Earth*. Consult your Galactic Map for more information. (2025-06-17 12:40  UTC)<br/>
+ Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
+ (2025-06-17 14:00  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2025-06-17 16:35  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town has fallen to Humans (2025-06-17 19:39  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-06-17 20:35  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-06-18 07:09  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-06-18 07:09  UTC)<br/>
+
+### Day: #497
+ Decay: 2.5 on Alamak VII
+ (2025-06-18 09:00  UTC)<br/>
