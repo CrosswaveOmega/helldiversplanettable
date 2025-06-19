@@ -7976,3 +7976,12 @@ DSS deploys to *Alamak VII* of the Hanzo sector (2025-06-17 20:35  UTC)<br/>
 ### Day: #497
  Decay: 2.5 on Alamak VII
  (2025-06-18 09:00  UTC)<br/>
+ Decay: 2.0 on Alamak VII
+ (2025-06-18 12:00  UTC)<br/>
+ Region Decay: 0.1 on 138_SHED
+ (2025-06-19 00:00  UTC)<br/>
+ Region Decay: 0.1 on 138_SHED
+ (2025-06-19 00:00  UTC)<br/>
+
+### Day: #498
+DSS effect Heavy Ordnance Distribution is activated (2025-06-19 13:18  UTC)<br/>
