@@ -7993,3 +7993,13 @@ DSS effect Heavy Ordnance Distribution is activated (2025-06-19 13:18  UTC)<br/>
  (2025-06-19 16:00  UTC)<br/>
 *Alairt III* Region 2 Shed Town has fallen to Humans (2025-06-19 17:33  UTC)<br/>
 *Alamak VII* Region 3 Filibuster Mega City is besieged by Humans (2025-06-19 18:53  UTC)<br/>
+*Alairt III* Region 3 Free Trade Megacity is besieged by Humans (2025-06-20 03:50  UTC)<br/>
+
+### Day: #499
+DSS effect Heavy Ordnance Distribution stops (2025-06-20 13:19  UTC)<br/>
+*Alamak VII* is liberated (2025-06-20 15:24  UTC)<br/>
+DSS deploys to *Alairt III* of the Hanzo sector (2025-06-20 15:24  UTC)<br/>
+ Region Decay: 0.5 on 138_NEW STOROUSE<br/> Region Decay: 0.5 on 138_FREE TRADE
+ (2025-06-20 20:00  UTC)<br/>
+
+# Day: #500
