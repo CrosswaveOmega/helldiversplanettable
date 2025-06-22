@@ -8003,3 +8003,16 @@ DSS deploys to *Alairt III* of the Hanzo sector (2025-06-20 15:24  UTC)<br/>
  (2025-06-20 20:00  UTC)<br/>
 
 # Day: #500
+ Region Decay: 0.25 on 138_FREE TRADE
+ (2025-06-21 20:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-06-22 03:19  UTC)<br/>
+*Alairt III* Region 3 Free Trade Megacity has fallen to Humans (2025-06-22 07:16  UTC)<br/>
+*Alairt III* Region 0 Greater Storouse Town is besieged by Humans (2025-06-22 07:16  UTC)<br/>
+*Alairt III* Region 1 New Storouse Town is besieged by Humans (2025-06-22 07:16  UTC)<br/>
+
+### Day: #501
+Major Order | A2-6-4 Liberate Two Illuminate Worlds is failed | Objective: Liberate (2025-06-22 12:41  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Helldivers' tenacious attempt to reclaim our corrupted cities has failed. Consult your Galactic Map for more information. (2025-06-22 13:00  UTC)<br/>
+Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is issued | Objective: Eradicate (2025-06-22 13:38  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is attacked by Illuminate (2025-06-22 13:40  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Pursuant to intergalactic law, substantial war reparations are now owed by the Illuminate for their assault on *Super Earth*, with a tribunal ruling the Terminids as bearing secondary liability. Helldivers: execute Illuminate fugitives and cull Terminid abettors, to deliver technology, materiel, E-710, and Justice commensurate with the reparations owed. Consult your Galactic Map for more information. (2025-06-22 13:43  UTC)<br/>
