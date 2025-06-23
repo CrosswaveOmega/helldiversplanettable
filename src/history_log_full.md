@@ -8016,3 +8016,17 @@ Dispatch: MAJOR ORDER FAILED. The Helldivers' tenacious attempt to reclaim our c
 Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is issued | Objective: Eradicate (2025-06-22 13:38  UTC)<br/>
 *Zea Rugosia* of the Ferris sector is attacked by Illuminate (2025-06-22 13:40  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Pursuant to intergalactic law, substantial war reparations are now owed by the Illuminate for their assault on *Super Earth*, with a tribunal ruling the Terminids as bearing secondary liability. Helldivers: execute Illuminate fugitives and cull Terminid abettors, to deliver technology, materiel, E-710, and Justice commensurate with the reparations owed. Consult your Galactic Map for more information. (2025-06-22 13:43  UTC)<br/>
+ Decay: 0.0 on Zea Rugosia
+ (2025-06-22 14:00  UTC)<br/>
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-06-22 19:23  UTC)<br/>
+DSS deploys to *Zea Rugosia* of the Ferris sector (2025-06-22 20:39  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-06-23 03:20  UTC)<br/>
+
+### Day: #502
+*Zea Rugosia* defense is failed (2025-06-23 13:41  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign starts (2025-06-23 13:41  UTC)<br/>
+ Decay: 1.0 on Krakatwo
+ (2025-06-23 13:41  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. Long-distance surveys of currently-infested Terminid planets has identified larger-than-usual free E-710 quantities in the upper geological strata. Liberating these planets would allow acquisition of these E-710 reservoirs, reducing the required kill count for the current Major Order by 1,000,000,000 Terminids for each Terminid planet liberated. (2025-06-23 14:00  UTC)<br/>
+ Decay: 1.5 on Zea Rugosia
+ (2025-06-23 14:00  UTC)<br/>
