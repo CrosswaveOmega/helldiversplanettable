@@ -4762,7 +4762,7 @@ DSS deploys to *Haldus* of the Ferris sector (2025-02-12 06:50  UTC)<br/>
 DSS deploys to *Irulta* of the Saleria sector (2025-02-12 10:50  UTC)<br/>
 *Meridia* moves to X 0.46805942 Y 0.17564051 (2025-02-12 11:00  UTC)<br/>
 *Meridia* moves to X 0.4665703 Y 0.17478539 (2025-02-12 15:00  UTC)<br/>
-*Angel's Venture* of the Orion sector is under threat (2025-02-12 15:31  UTC)<br/>
+*Angel's Venture* of the Orion sector is now under threat (2025-02-12 15:31  UTC)<br/>
 Dispatch: PRIORITY ALERT. The Meridian Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with ANGEL'S VENTURE. ANGEL'S VENTURE can no longer be saved. Evacuation of high-priority citizens is underway. (2025-02-12 15:33  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-12 16:07  UTC)<br/>
 *Irulta*'s invasion is successful (2025-02-12 18:33  UTC)<br/>
@@ -4791,12 +4791,12 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 10:53  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-02-13 13:04  UTC)<br/>
 Major Order | A2-2-2 Repel 11 Invasions is failed | Objective: Defend (2025-02-13 14:34  UTC)<br/>
 *Angel's Venture* of the Orion sector is annihilated (2025-02-13 14:37  UTC)<br/>
-*Moradesh* of the Celeste sector is under threat (2025-02-13 14:37  UTC)<br/>
-*Ivis* of the Celeste sector is under threat (2025-02-13 14:38  UTC)<br/>
-*Nublaria I* of the Celeste sector is under threat (2025-02-13 14:38  UTC)<br/>
-*Pilen V* of the Altus sector is under threat (2025-02-13 14:38  UTC)<br/>
-*New Haven* of the Altus sector is under threat (2025-02-13 14:39  UTC)<br/>
-*Super Earth* of the Sol sector is under threat (2025-02-13 14:39  UTC)<br/>
+*Moradesh* of the Celeste sector is now under threat (2025-02-13 14:37  UTC)<br/>
+*Ivis* of the Celeste sector is now under threat (2025-02-13 14:38  UTC)<br/>
+*Nublaria I* of the Celeste sector is now under threat (2025-02-13 14:38  UTC)<br/>
+*Pilen V* of the Altus sector is now under threat (2025-02-13 14:38  UTC)<br/>
+*New Haven* of the Altus sector is now under threat (2025-02-13 14:39  UTC)<br/>
+*Super Earth* of the Sol sector is now under threat (2025-02-13 14:39  UTC)<br/>
 *Meridia* begins to move towards *Super Earth* of the Sol sector (2025-02-13 14:39  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2025-02-13 14:53  UTC)<br/>
 *Meridia* moves to X 0.45766047 Y 0.16967677 (2025-02-13 15:00  UTC)<br/>
@@ -5975,7 +5975,7 @@ DSS deploys to *Alderidge Cove* of the Guang sector (2025-03-29 11:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy *Super Earth* has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the Meridian Singularity has been de-energized to the point where *Super Earth* is now safely out of its accurately-predicted path. Our citizens can celebrate a hard-earned victory: *Super Earth* is safe. (2025-03-29 15:42  UTC)<br/>
 *Pilen V* of the Altus sector is no longer under threat (2025-03-29 15:44  UTC)<br/>
 *Super Earth* of the Sol sector is no longer under threat (2025-03-29 15:53  UTC)<br/>
-*Pilen V* of the Altus sector is under threat (2025-03-29 15:55  UTC)<br/>
+*Pilen V* of the Altus sector is now under threat (2025-03-29 15:55  UTC)<br/>
 *Ingmar* defense is failed (2025-03-29 16:18  UTC)<br/>
 ↳ *Ingmar* liberation campaign starts (2025-03-29 16:18  UTC)<br/>
 *Seasse* of the Omega sector is invaded by Illuminate (2025-03-29 16:29  UTC)<br/>
@@ -7848,13 +7848,13 @@ DSS deploys to *Inari* of the Korpus sector (2025-06-12 20:31  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement has fallen to Humans (2025-06-13 08:34  UTC)<br/>
 
 ### Day: #492
-*Heze Bay* of the Hanzo sector is under threat (2025-06-13 14:32  UTC)<br/>
+*Heze Bay* of the Hanzo sector is now under threat (2025-06-13 14:32  UTC)<br/>
 Dispatch: SATELLITES SABOTAGED. A deep-space satellite near *Super Earth* has failed. The Illuminate appear to have planted interference devices during the Battle for *Super Earth*. A number of planets in close proximity to Illuminate-occupied planets are no longer observable. Communication has been cut off, and FTL travel to them is impossible. Analysts assess the likelihood of anti-Democratic activity on those planets to be Very High. A task force is actively working to restore system integrity. (2025-06-13 14:32  UTC)<br/>
-*Alaraph* of the Akira sector is under threat (2025-06-13 14:40  UTC)<br/>
-Alert III of the Hanzo sector is under threat (2025-06-13 14:40  UTC)<br/>
-*Alamak VII* of the Hanzo sector is under threat (2025-06-13 14:44  UTC)<br/>
-*Herthon Secundus* of the Ferris sector is under threat (2025-06-13 14:51  UTC)<br/>
-*Karlia* of the Omega sector is under threat (2025-06-13 15:02  UTC)<br/>
+*Alaraph* of the Akira sector is now under threat (2025-06-13 14:40  UTC)<br/>
+Alert III of the Hanzo sector is now under threat (2025-06-13 14:40  UTC)<br/>
+*Alamak VII* of the Hanzo sector is now under threat (2025-06-13 14:44  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is now under threat (2025-06-13 14:51  UTC)<br/>
+*Karlia* of the Omega sector is now under threat (2025-06-13 15:02  UTC)<br/>
 *Alta V* Region 0 Porte Liberté Town has fallen to Humans (2025-06-13 19:18  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement is besieged by Terminids (2025-06-13 22:20  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement siege has ended (2025-06-13 22:23  UTC)<br/>
@@ -8030,3 +8030,14 @@ DSS effect Orbital Blockade stops (2025-06-23 03:20  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. Long-distance surveys of currently-infested Terminid planets has identified larger-than-usual free E-710 quantities in the upper geological strata. Liberating these planets would allow acquisition of these E-710 reservoirs, reducing the required kill count for the current Major Order by 1,000,000,000 Terminids for each Terminid planet liberated. (2025-06-23 14:00  UTC)<br/>
  Decay: 1.5 on Zea Rugosia
  (2025-06-23 14:00  UTC)<br/>
+DSS deploys to *Krakatwo* of the Celeste sector (2025-06-23 16:40  UTC)<br/>
+ Decay: 0.5 on Krakatwo
+ (2025-06-23 18:00  UTC)<br/>
+*Krakatwo* is liberated (2025-06-23 23:20  UTC)<br/>
+DSS deploys to *Alairt III* of the Hanzo sector (2025-06-23 23:20  UTC)<br/>
+DSS deploys to *Nublaria I* of the Celeste sector (2025-06-24 00:40  UTC)<br/>
+ Decay: -0.5 on Nublaria I
+ (2025-06-24 00:40  UTC)<br/>
+
+### Day: #503
+DSS effect Eagle Storm is activated (2025-06-24 14:12  UTC)<br/>
