@@ -8041,3 +8041,21 @@ DSS deploys to *Nublaria I* of the Celeste sector (2025-06-24 00:40  UTC)<br/>
 
 ### Day: #503
 DSS effect Eagle Storm is activated (2025-06-24 14:12  UTC)<br/>
+Dispatch: M-105 Stalwart stratagem availability has ended. (2025-06-24 19:28  UTC)<br/>
+*Nublaria I* is liberated (2025-06-24 23:22  UTC)<br/>
+Assault Division: Predator Strain U5F is routed (2025-06-24 23:22  UTC)<br/>
+DSS deploys to *Alairt III* of the Hanzo sector (2025-06-24 23:23  UTC)<br/>
+*Ain-5* of the Hanzo sector is attacked by Illuminate (2025-06-25 01:37  UTC)<br/>
+ Decay: 0.0 on Nublaria I
+ (2025-06-25 01:37  UTC)<br/>
+ Decay: 0.0 on Ain-5
+ (2025-06-25 02:00  UTC)<br/>
+DSS deploys to *Ain-5* of the Hanzo sector (2025-06-25 08:41  UTC)<br/>
+ Region Decay: 0.5 on 138_GREATER STOROUSE<br/> Region Decay: 0.25 on 138_NEW STOROUSE
+ (2025-06-25 08:41  UTC)<br/>
+
+### Day: #504
+*Terrek* of the Orion sector is attacked by Terminids (2025-06-25 10:50  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2025-06-25 12:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-06-25 14:12  UTC)<br/>
