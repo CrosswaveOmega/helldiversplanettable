@@ -201,7 +201,7 @@ class RegionBattleEntry {
     }
     siegeContinue(planet, pid, event, sector, logEntry) {
         let out = `(${calculateElapsedTime(this.start, event.timestamp)}, continued)`;
-        let timev = `${displayUTCTime(this.start)} to ${displayUTCTime(event.timestamp)}`;
+        let timev = `${displayUTCTime(this.start)} onwards`;
         let battle = `${this.type} Battle ${this.pc} by ${this.faction} for ${planet[0]}'s ${this.region[0]} ${out}: ${timev};`;
         let mins = calculateMinutes(this.start, event.timestamp);
         this.active = false;
