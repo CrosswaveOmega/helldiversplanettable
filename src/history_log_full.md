@@ -7971,11 +7971,11 @@ DSS deploys to *Hydrobius* of the Omega sector (2025-06-17 16:35  UTC)<br/>
 *Alamak VII* Region 0 Kesuma Town has fallen to Humans (2025-06-17 19:39  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-06-17 20:35  UTC)<br/>
 *Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-06-18 07:09  UTC)<br/>
-*Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-06-18 07:09  UTC)<br/>
 
 ### Day: #497
  Decay: 2.5 on Alamak VII
  (2025-06-18 09:00  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-06-18 11:14  UTC)<br/>
  Decay: 2.0 on Alamak VII
  (2025-06-18 12:00  UTC)<br/>
  Region Decay: 0.1 on 138_SHED
