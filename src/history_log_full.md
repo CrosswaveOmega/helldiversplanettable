@@ -7881,7 +7881,6 @@ DSS deploys to *Caramoor* of the Korpus sector (2025-06-14 14:10  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement has fallen to Humans (2025-06-14 15:01  UTC)<br/>
 DSS deploys to *Alta V* of the Korpus sector (2025-06-14 16:32  UTC)<br/>
 DSS deploys to *Caramoor* of the Korpus sector (2025-06-15 00:32  UTC)<br/>
-*Alta V* Region 0 Porte Liberté Town has fallen to Humans (2025-06-15 06:52  UTC)<br/>
 *Caramoor* Region 1 Pioneer's Dream City has fallen to Humans (2025-06-15 07:50  UTC)<br/>
 
 ### Day: #494
@@ -7891,6 +7890,7 @@ DSS deploys to *Alta V* of the Korpus sector (2025-06-15 15:47  UTC)<br/>
  (2025-06-15 18:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-06-15 20:28  UTC)<br/>
 *Alta V* Region 0 Porte Liberté Town is besieged by Humans (2025-06-15 23:50  UTC)<br/>
+*Alta V* Region 0 Porte Liberté Town has fallen to Humans (2025-06-16 06:52  UTC)<br/>
 
 ### Day: #495
  Region Decay: 0.4 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.5 on 80_LAELIA<br/> Region Decay: 0.4 on 81_PORTE LIBERTÉ<br/> Region Decay: 0.2 on 81_UNDERVATTEN<br/> Region Decay: 0.3 on 128_BUJU<br/> Region Decay: 0.4 on 131_TIMELY<br/> Region Decay: 0.3 on 131_APPROVAL CITY<br/> Region Decay: 0.3 on 131_OLD BRANCH
