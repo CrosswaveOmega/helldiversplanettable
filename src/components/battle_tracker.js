@@ -257,7 +257,7 @@ class BattleEntry {
 
             if (logEntry.type === "region_siege_end") {
 
-                this.region_battles[rid].siegeEnd(planet, pid, event, sector, logEntry);
+                let endl=this.region_battles[rid].siegeEnd(planet, pid, event, sector, logEntry);
                 let battle = endl[0];
                 let mins = endl[1];
                 this.region_entries.push(endl);
