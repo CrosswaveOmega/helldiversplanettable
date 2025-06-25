@@ -224,16 +224,16 @@
     },
     "Threatened": {
         "name": "Threat",
-        "matchable": ["threat of destruction"],
+        "matchable": ["under threat"],
         "must": true,
         "sub": [
             {
                 "name": "Threat Start",
-                "matchable": ["is under"]
+                "matchable": ["is now"]
             },
             {
                 "name": "Threat End",
-                "matchable": ["is now safe from"]
+                "matchable": ["is no longer"]
             }
         ]
     },
