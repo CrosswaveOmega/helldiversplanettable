@@ -8059,3 +8059,42 @@ DSS deploys to *Ain-5* of the Hanzo sector (2025-06-25 08:41  UTC)<br/>
  Decay: 0.0 on Terrek
  (2025-06-25 12:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-06-25 14:12  UTC)<br/>
+*Terrek* defense is won (2025-06-25 22:00  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have successfully collected the mandated war restitution. Consult your Galactic Map for more information. (2025-06-25 22:19  UTC)<br/>
+ Decay: 1.5 on Terrek
+ (2025-06-25 22:19  UTC)<br/>
+*Ain-5* defense is failed (2025-06-26 07:09  UTC)<br/>
+↳ *Ain-5* liberation campaign starts (2025-06-26 07:09  UTC)<br/>
+DSS deploys to *Slif* of the Celeste sector (2025-06-26 08:41  UTC)<br/>
+ Decay: 1.5 on Ain-5
+ (2025-06-26 08:41  UTC)<br/>
+Assault Division: Jet Brigade U6A deploys to *Choohe* (2025-06-26 08:44  UTC)<br/>
+
+### Day: #505
+Assault Division: Jet Brigade U6A divides into 3 groups [U6A, U6B, U6C] (2025-06-26 09:04  UTC)<br/>
+Assault Division: Jet Brigade U6B deploys to *Matar Bay* (2025-06-26 09:04  UTC)<br/>
+Assault Division: Jet Brigade U6C deploys to *Menkent* (2025-06-26 09:04  UTC)<br/>
+Assault Division: Jet Brigade U6A leaves *Choohe* (2025-06-26 09:06  UTC)<br/>
+Assault Division: Jet Brigade U6A merges with Jet Brigade U6B on *Matar Bay* (2025-06-26 09:06  UTC)<br/>
+Assault Division: Jet Brigade U6B leaves *Matar Bay* (2025-06-26 09:33  UTC)<br/>
+Assault Division: Jet Brigade U6C leaves *Menkent* (2025-06-26 09:33  UTC)<br/>
+ Decay: 1.5 on Tarsh, Claorell<br/> Decay: 2.0 on Bekvam III
+ (2025-06-26 09:33  UTC)<br/>
+Assault Division: Jet Brigade U6B deploys to *Marfark* (2025-06-26 09:34  UTC)<br/>
+Assault Division: Jet Brigade U6C deploys to *Vernen Wells* (2025-06-26 09:34  UTC)<br/>
+Assault Division: Jet Brigade U6B leaves *Marfark* (2025-06-26 10:03  UTC)<br/>
+Assault Division: Jet Brigade U6C leaves *Vernen Wells* (2025-06-26 10:03  UTC)<br/>
+Assault Division: Jet Brigade U6C deploys to *Aesir Pass* (2025-06-26 10:04  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-06-26 10:04  UTC)<br/>
+Assault Division: Jet Brigade U6B deploys to *Bekvam III* (2025-06-26 10:04  UTC)<br/>
+Assault Division: Jet Brigade U6C deploys to *Curia* (2025-06-26 10:04  UTC)<br/>
+Assault Division: Jet Brigade U6C leaves *Aesir Pass* (2025-06-26 10:33  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2025-06-26 10:33  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Automatons (2025-06-26 10:34  UTC)<br/>
+Major Order | A2-6-6 Repel 4 Automaton Attacks is issued | Objective: Defend (2025-06-26 10:59  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. ALERT: A large-scale, coordinated Automaton offensive has launched without warning. The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information. (2025-06-26 10:59  UTC)<br/>
+ Decay: 0.0 on Curia
+ (2025-06-26 10:59  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-26 12:41  UTC)<br/>
+Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is won | Objective: Eradicate (2025-06-26 21:47  UTC)<br/>
