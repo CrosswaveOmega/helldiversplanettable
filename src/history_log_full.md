@@ -8097,4 +8097,31 @@ Dispatch: NEW MAJOR ORDER. ALERT: A large-scale, coordinated Automaton offensive
  Decay: 0.0 on Curia
  (2025-06-26 10:59  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-26 12:41  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-06-26 16:42  UTC)<br/>
 Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is won | Objective: Eradicate (2025-06-26 21:47  UTC)<br/>
+
+### Day: #506
+*Bekvam III* defense is failed (2025-06-27 10:05  UTC)<br/>
+↳ *Bekvam III* liberation campaign starts (2025-06-27 10:05  UTC)<br/>
+↳ *Charon Prime* liberation campaign ends (2025-06-27 10:05  UTC)<br/>
+↳ *Marfark* liberation campaign ends (2025-06-27 10:05  UTC)<br/>
+*Curia* defense is failed (2025-06-27 10:35  UTC)<br/>
+↳ *Curia* liberation campaign starts (2025-06-27 10:35  UTC)<br/>
+↳ *Aesir Pass* liberation campaign ends (2025-06-27 10:35  UTC)<br/>
+ Decay: 2.0 on Bekvam III
+ (2025-06-27 10:35  UTC)<br/>
+*Borea* - *Gunvald* warp link is added (2025-06-27 10:37  UTC)<br/>
+*Curia* - *Borea* warp link is added (2025-06-27 10:37  UTC)<br/>
+*Oslo Station* - *Gunvald* warp link is added (2025-06-27 10:37  UTC)<br/>
+*Oslo Station* - *Duma Tyr* warp link is added (2025-06-27 10:37  UTC)<br/>
+*Dolph* - *Oslo Station* warp link is added (2025-06-27 10:37  UTC)<br/>
+*Duma Tyr* - *Borea* warp link is added (2025-06-27 10:37  UTC)<br/>
+Assault Division: Jet Brigade U6B leaves *Bekvam III* (2025-06-27 10:38  UTC)<br/>
+*Duma Tyr* of the Nanos sector is attacked by Automatons (2025-06-27 10:39  UTC)<br/>
+Assault Division: Jet Brigade U6B deploys to Duma TyrI (2025-06-27 10:39  UTC)<br/>
+Assault Division: Jet Brigade U6C leaves *Curia* (2025-06-27 10:39  UTC)<br/>
+*Borea* of the Sagan sector is attacked by Automatons (2025-06-27 10:40  UTC)<br/>
+Assault Division: Jet Brigade U6C deploys to *Borea* (2025-06-27 10:40  UTC)<br/>
+Dispatch: PATRIOTIC ANNOUNCEMENT. High Command has commissioned a special uniform item for all Helldivers, in recognition of their unyielding efforts to ensure the never-ending prosperity of *Super Earth*. A new cape will soon be available fleetwide. (2025-06-27 12:18  UTC)<br/>
+ Decay: 0.0 on Borea, Duma Tyr<br/> Decay: 1.0 on Curia
+ (2025-06-27 12:18  UTC)<br/>
