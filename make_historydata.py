@@ -749,6 +749,10 @@ def update_region_ownership(
             dec[0] = event.faction
             dec[1] = 0
             dec[2] = 0
+        if event.type == "region_siege_won":
+            dec[0] = event.faction
+            dec[1] = 0
+            dec[2] = 0
         planetclone[str(inde)].regions[rn].t = ENCODE(dec[0], dec[1], dec[2])
 
 
@@ -796,16 +800,16 @@ def update_planet_ownership(
             dec[0] = 1
             dec[2] = 0
         if event.type == "defense lost":
-            dec[0] = event.faction
+            dec[0] = event.faction or 0
             dec[1] = 0
             dec[2] = 0
         if event.type == "planet flip":
-            dec[0] = event.faction
+            dec[0] = event.faction or 0
         if event.type == "defense start":
-            dec[1] = event.faction
+            dec[1] = event.faction or 0
             dec[2] = 1
         if event.type == "invasion start":
-            dec[1] = event.faction
+            dec[1] = event.faction or 0
             dec[2] = 1
 
         if event.type == "defense won":

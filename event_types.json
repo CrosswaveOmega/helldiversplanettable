@@ -279,6 +279,11 @@
         "matchable": ["Region", "has fallen to"],
         "mode": "and"
     },
+    "RegionSiegeWonEvent": {
+        "name": "region_siege_won",
+        "matchable": ["Region", "has been captured by"],
+        "mode": "and"
+    },
     "RegionSiegeEndEvent": {
         "name": "region_siege_end",
         "matchable": ["Region", "siege has ended"],

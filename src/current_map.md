@@ -1,9 +1,9 @@
 ---
 theme: [dark, dashboard]
 toc: false
-title: The Great Big Galactic War History Map
+title: The Great Big Galactic War Map
 ---
-### The Great Big Galactic War History Map
+### The Great Big Galactic War Map
 
 
 

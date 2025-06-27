@@ -111,52 +111,68 @@ class PlanetType {
         this.sub = {};
         this.activeCampaigns = 0;
     }
-}
-
-//
-class FactionType {
-    constructor(name) {
-        this.name = name;
-        this.front = name;
-        this.planets = {};
-        this.battles = 0;
-        this.sbattles = 0;
-        this.scurrent = 0;
-        this.win = 0;
-        this.loss = 0;
-        this.swin = 0;
-        this.sloss = 0;
-        this.mins = 0;
-        this.current = 0;
-        this.campaign_start = 0;
-        this.campaign_end = 0;
-        this.flips = 0;
-        this.planetwon = 0;
-        this.defensestart = 0;
-        this.defensewon = 0;
-        this.defenselost = 0;
-        this.events = [];
-        this.sub = {};
-        this.activeCampaigns = 0;
+    lib_start() {
+        this.battles += 1;
+        this.current += 1;
+        this.campaign_start += 1;
+    }
+    lib_win() {
+        this.win += 1;
+        this.planetwon += 1;
+        this.current -= 1;
+    }
+    lib_loss() {
+        this.loss += 1;
+        this.campaign_end += 1;
+        this.current -= 1;
+    }
+    defend_start() {
+        this.battles += 1;
+        this.defensestart += 1;
+        this.current += 1;
+    }
+    defend_win() {
+        this.win += 1;
+        this.defensewon += 1;
+        this.current -= 1;
+    }
+    defend_failure() {
+        this.loss += 1;
+        this.defenselost += 1;
+        this.current -= 1;
     }
 }
 
+//
+class FactionType extends PlanetType {
+    constructor(name) {
+        super(name, name);
+        this.flips = 0;
+    }
+}
 
-//This class is for Region Battles, battles on a specific planet.
-class RegionBattleEntry {
-    constructor(region) {
+// Base class for battle entries
+class BaseEntry {
+    constructor() {
         this.start = null;
         this.sector = null;
         this.planet = null;
-        this.region = region;
         this.type = "?";
-        this.active = false;
         this.pc = 0;
         this.lc = 0;
         this.dc = 0;
         this.cl = 0;
         this.def = null;
         this.faction = null;
+    }
+}
+
+//This class is for Region Battles, battles on a specific planet's regions
+class RegionBattleEntry extends BaseEntry {
+    constructor(region) {
+        super();
+        this.region = region;
+        this.active = false;
     }
 
     startSiege(planet, pid, event, sector, logEntry) {
@@ -210,18 +226,9 @@ class RegionBattleEntry {
 
 }
 
-class BattleEntry {
+class BattleEntry extends BaseEntry {
     constructor() {
-        this.start = null;
-        this.sector = null;
-        this.planet = null;
-        this.type = "?";
-        this.pc = 0;
-        this.lc = 0;
-        this.dc = 0;
-        this.cl = 0;
-        this.def = null;
-        this.faction = null;
+        super();
         this.region_battles = {};//rname,battle
         this.region_entries = [];
     }
@@ -246,7 +253,7 @@ class BattleEntry {
     }
     start_regions(planet, pid, event, sector, logEntry) {
         for (let region of logEntry.region) {
-            let rid = region[1]
+            let rid = region[1];
             if (!this.region_battles[rid]) {
                 this.region_battles[rid] = new RegionBattleEntry(region);
             }
@@ -257,16 +264,12 @@ class BattleEntry {
 
             if (logEntry.type === "region_siege_end") {
 
-                let endl=this.region_battles[rid].siegeEnd(planet, pid, event, sector, logEntry);
-                let battle = endl[0];
-                let mins = endl[1];
+                let endl = this.region_battles[rid].siegeEnd(planet, pid, event, sector, logEntry);
                 this.region_entries.push(endl);
             }
             if (logEntry.type === "region_siege_lost") {
 
                 let endl = this.region_battles[rid].siegeFinish(planet, pid, event, sector, logEntry);
-                let battle = endl[0];
-                let mins = endl[1];
                 this.region_entries.push(endl);
             }
 
@@ -330,6 +333,7 @@ class BattleEntry {
     }
 
 }
+
 
 class SectorBattle {
     constructor(sector) {
@@ -463,7 +467,8 @@ class BattleManager {
         if (
             logEntry.type === "region_siege_start" ||
             logEntry.type === "region_siege_end" ||
-            logEntry.type === "region_siege_lost"
+            logEntry.type === "region_siege_lost" ||
+            logEntry.type === "region_siege_won"
         ) {
             this.battles[pid].start_regions(planet, pid, event, sector, logEntry);
         }
@@ -559,73 +564,54 @@ class BattleManager {
         //For Planet Liberation Campaigns.
         this.battles[pid].startCampaign(planet, pid, event, sector, logEntry)
 
-        this.planetTypes[sector].battles += 1;
-        this.planetTypes[sector].current += 1;
-        this.planetTypes[sector].campaign_start += 1;
+        this.planetTypes[sector].lib_start();
 
-
-        this.factionTypes[this.battles[pid].faction].battles += 1;
-        this.factionTypes[this.battles[pid].faction].current += 1;
-        this.factionTypes[this.battles[pid].faction].campaign_start += 1;
+        this.factionTypes[this.battles[pid].faction].lib_start();
     }
 
-    endCampaign(planet, pid, event, sector, logEntry) {
-        //For planet liberation Campaigns.
-        let endl = this.battles[pid].generate_end_message(planet, pid, event, sector, logEntry);
-
-        let battle = endl[0];
-        let mins = endl[1];
-        this.addToEntry(this.planetTypes[sector].planets, planet, battle, null, mins);
-        this.addToEntry(this.planetTypes[sector].sub, planet, battle, null, mins);
-        let regions = this.battles[pid].region_entries;
-        for (let r of regions) {
+    addRegionsAtEnd(endl, planet, pid, sector) {
+        this.addToEntry(this.planetTypes[sector].planets, planet, endl[0], null, endl[1]);
+        this.addToEntry(this.planetTypes[sector].sub, planet, endl[0], null, endl[1]);
+        let regionlist = this.battles[pid].region_entries;
+        for (let r of regionlist) {
             this.addToEntry(this.planetTypes[sector].planets, planet, r[0], null, r[1]);
             this.addToEntry(this.planetTypes[sector].sub, planet, r[0], null, r[1]);
         }
+    }
+
+    endCampaign(planet, pid, event, sector, logEntry) {
+        //For planet liberation Campaign losses
+        let endl = this.battles[pid].generate_end_message(planet, pid, event, sector, logEntry);
+
+
+        this.addRegionsAtEnd(endl, planet, pid, sector);
 
         this.battles[pid].reset();
-        this.planetTypes[sector].loss += 1;
-        this.planetTypes[sector].campaign_end += 1;
-        this.planetTypes[sector].current -= 1;
+        this.planetTypes[sector].lib_loss();
 
-        this.factionTypes[this.battles[pid].faction].loss += 1;
-        this.factionTypes[this.battles[pid].faction].campaign_end += 1;
-        this.factionTypes[this.battles[pid].faction].current -= 1;
+        this.factionTypes[this.battles[pid].faction].lib_loss();
     }
 
 
     planetWon(planet, pid, event, sector, logEntry) {
+        //For planet liberation campaign wins
         let endl = this.battles[pid].generate_win_message(planet, pid, event, sector, logEntry);
-        let battle = endl[0];
-        let mins = endl[1];
-        this.addToEntry(this.planetTypes[sector].planets, planet, battle, null, mins);
-        this.addToEntry(this.planetTypes[sector].sub, planet, battle, null, mins);
-        let regions = this.battles[pid].region_entries;
-        for (let r of regions) {
-            this.addToEntry(this.planetTypes[sector].planets, planet, r[0], null, r[1]);
-            this.addToEntry(this.planetTypes[sector].sub, planet, r[0], null, r[1]);
-        }
-        this.battles[pid].reset();
-        this.planetTypes[sector].win += 1;
-        this.planetTypes[sector].planetwon += 1;
-        this.planetTypes[sector].current -= 1;
 
-        this.factionTypes[this.battles[pid].faction].win += 1;
-        this.factionTypes[this.battles[pid].faction].planetwon += 1;
-        this.factionTypes[this.battles[pid].faction].current -= 1;
+        this.addRegionsAtEnd(endl, planet, pid, sector);
+        this.battles[pid].reset();
+        this.planetTypes[sector].lib_win()
+
+        this.factionTypes[this.battles[pid].faction].lib_win();
 
     }
 
     startDefense(planet, pid, event, sector, logEntry) {
+        //Start planet defense campaigns.
         this.battles[pid].startDefense(planet, pid, event, sector, logEntry);
 
-        this.planetTypes[sector].battles += 1;
-        this.planetTypes[sector].defensestart += 1;
-        this.planetTypes[sector].current += 1;
+        this.planetTypes[sector].defend_start();
 
-        this.factionTypes[this.battles[pid].faction].battles += 1;
-        this.factionTypes[this.battles[pid].faction].defensestart += 1;
-        this.factionTypes[this.battles[pid].faction].current += 1;
+        this.factionTypes[this.battles[pid].faction].defend_start();
     }
 
     planetFlip(planet, pid, event, sector, logEntry) {
@@ -644,48 +630,24 @@ class BattleManager {
 
     defenseWon(planet, pid, event, sector, logEntry) {
         let endl = this.battles[pid].generate_win_message(planet, pid, event, sector, logEntry);
-        let battle = endl[0];
-        let mins = endl[1];
-        this.addToEntry(this.planetTypes[sector].planets, planet, battle, null, mins);
-        this.addToEntry(this.planetTypes[sector].sub, planet, battle, null, mins);
-        let regions = this.battles[pid].region_entries;
-        for (let r of regions) {
-            this.addToEntry(this.planetTypes[sector].planets, planet, r[0], null, r[1]);
-            this.addToEntry(this.planetTypes[sector].sub, planet, r[0], null, r[1]);
-        }
+
+        this.addRegionsAtEnd(endl, planet, pid, sector)
         this.battles[pid].cl += 1;
         this.battles[pid].now = null;
         this.battles[pid].reset();
-        this.planetTypes[sector].win += 1;
-        this.planetTypes[sector].defensewon += 1;
-        this.planetTypes[sector].current -= 1;
-
-        this.factionTypes[this.battles[pid].faction].win += 1;
-        this.factionTypes[this.battles[pid].faction].defensewon += 1;
-        this.factionTypes[this.battles[pid].faction].current -= 1;
+        this.planetTypes[sector].defend_win()
+        this.factionTypes[this.battles[pid].faction].defend_win();
     }
 
     defenseLost(planet, pid, event, sector, logEntry) {
         let endl = this.battles[pid].generate_end_message(planet, pid, event, sector, logEntry);
-        let battle = endl[0];
-        let mins = endl[1];
-        this.addToEntry(this.planetTypes[sector].planets, planet, battle, null, mins);
-        this.addToEntry(this.planetTypes[sector].sub, planet, battle, null, mins);
-        let regions = this.battles[pid].region_entries;
-        for (let r of regions) {
-            this.addToEntry(this.planetTypes[sector].planets, planet, r[0], null, r[1]);
-            this.addToEntry(this.planetTypes[sector].sub, planet, r[0], null, r[1]);
-        }
+
+        this.addRegionsAtEnd(endl, planet, pid, sector)
         this.battles[pid].cl += 1;
         this.battles[pid].now = null;
         this.battles[pid].reset();
-        this.planetTypes[sector].loss += 1;
-        this.planetTypes[sector].defenselost += 1;
-        this.planetTypes[sector].current -= 1;
-
-        this.factionTypes[this.battles[pid].faction].loss += 1;
-        this.factionTypes[this.battles[pid].faction].defenselost += 1;
-        this.factionTypes[this.battles[pid].faction].current -= 1;
+        this.planetTypes[sector].defend_failure()
+        this.factionTypes[this.battles[pid].faction].defend_failure();
     }
 
     /**
@@ -823,60 +785,67 @@ class BattleManager {
                 }
                 if (logEntry.planet) {
                     for (let planet of logEntry.planet) {
-
                         this.addBattle(planet, planet[1], logEntry, event);
                     }
                 }
             }
-            for (let [sector, logEntry] of Object.entries(this.tickets)) {
-                if (this.planetTypes[sector].activeCampaigns == 0) {
-                    this.sector_battles[sector].planet = null;
-
-                    if (
-                        logEntry.type == "defense lost" ||
-                        logEntry.type == "campaign_end"
-                    ) {
-
-                        let battle = `Battle ${this.sector_battles[sector].pc} for ${sector}, ${displayUTCTime(this.sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(this.sector_battles[sector].start, event.timestamp)}, failure);`;
-                        let mins = calculateMinutes(this.sector_battles[sector].start, event.timestamp);
-
-                        this.planetTypes[sector]["events"].push({
-                            time: null,
-                            event: battle,
-                            subevents: this.planetTypes[sector]["sub"],
-                        });
-                        this.planetTypes[sector]["sub"] = {};
-                        this.planetTypes[sector].sloss += 1;
-                        this.planetTypes[sector].mins += mins;
-                        this.planetTypes[sector].scurrent -= 1;
-                    }
-                    if (
-                        logEntry.type === "planet won" ||
-                        logEntry.type === "planet superwon" ||
-                        logEntry.type === "defense won"
-
-                    ) {
-                        let battle = `Battle ${this.sector_battles[sector].pc} for ${sector}, ${displayUTCTime(this.sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(this.sector_battles[sector].start, event.timestamp)}, victory);`;
-
-                        let mins = calculateMinutes(this.sector_battles[sector].start, event.timestamp);
-                        this.planetTypes[sector]["events"].push({
-                            time: null,
-                            event: battle,
-                            subevents: this.planetTypes[sector]["sub"],
-                        });
-                        this.planetTypes[sector]["sub"] = {};
-                        this.planetTypes[sector].swin += 1;
-
-
-                        this.planetTypes[sector].mins += mins;
-                        this.planetTypes[sector].scurrent -= 1;
-                    }
-                }
-            }
+            this.processSectorTickets(event);
         }
         let ongoing = this.processOngoingBattles();
         return { planetTypes: this.planetTypes, ongoing: ongoing, factionTypes: this.factionTypes };
     }
+
+    processSectorTickets(event) {
+        for (let [sector, logEntry] of Object.entries(this.tickets)) {
+            if (this.planetTypes[sector].activeCampaigns == 0) {
+                this.sector_battles[sector].planet = null;
+                this.isSectorLoss(sector, event, logEntry);
+                this.isSectorWin(sector, event, logEntry);
+            }
+        }
+    }
+
+    isSectorLoss(sector, event, logEntry) {
+        if (
+            logEntry.type == "defense lost" ||
+            logEntry.type == "campaign_end"
+        ) {
+            let battle = `Battle ${this.sector_battles[sector].pc} for ${sector}, ${displayUTCTime(this.sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(this.sector_battles[sector].start, event.timestamp)}, failure);`;
+            let mins = calculateMinutes(this.sector_battles[sector].start, event.timestamp);
+
+            this.planetTypes[sector]["events"].push({
+                time: null,
+                event: battle,
+                subevents: this.planetTypes[sector]["sub"],
+            });
+            this.planetTypes[sector]["sub"] = {};
+            this.planetTypes[sector].sloss += 1;
+            this.planetTypes[sector].mins += mins;
+            this.planetTypes[sector].scurrent -= 1;
+        }
+    }
+
+    isSectorWin(sector, event, logEntry) {
+        if (
+            logEntry.type === "planet won" ||
+            logEntry.type === "planet superwon" ||
+            logEntry.type === "defense won"
+        ) {
+            let battle = `Battle ${this.sector_battles[sector].pc} for ${sector}, ${displayUTCTime(this.sector_battles[sector].start)} to ${displayUTCTime(event.timestamp)} (${calculateElapsedTime(this.sector_battles[sector].start, event.timestamp)}, victory);`;
+            let mins = calculateMinutes(this.sector_battles[sector].start, event.timestamp);
+
+            this.planetTypes[sector]["events"].push({
+                time: null,
+                event: battle,
+                subevents: this.planetTypes[sector]["sub"],
+            });
+            this.planetTypes[sector]["sub"] = {};
+            this.planetTypes[sector].swin += 1;
+            this.planetTypes[sector].mins += mins;
+            this.planetTypes[sector].scurrent -= 1;
+        }
+    }
+
 }
 
 

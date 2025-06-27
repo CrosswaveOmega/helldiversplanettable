@@ -17,6 +17,7 @@ function make_biome_data(data) {
     let fronts = ["all"];
     let biome_data = data.reduce((acc, entry) => {
         let front = entry.front;
+        console.log(front, fronts)
         if (!fronts.includes(front)) fronts.unshift(front);
         if (!acc["all"]) {
             acc["all"] = {};
@@ -71,7 +72,7 @@ function make_biome_data(data) {
         let thislist = [];
         for (const [, entry] of Object.entries(biome_data[front])) {
             let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
-            let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
+            let killsum = Math.max(entry.bot_kills + entry.bug_kills + entry.squid_kills, 1);
             let DPM = entry.deaths / missions;
             let KPM = killsum / missions;
             let KTD = killsum / Math.max(entry.deaths, 1);
@@ -176,7 +177,7 @@ function make_sector_data(data) {
         let thislist = [];
         for (const [, entry] of Object.entries(sector_data[front])) {
             let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
-            let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
+            let killsum = Math.max(entry.bot_kills + entry.bug_kills + entry.squid_kills, 1);
             let DPM = entry.deaths / missions;
             let KPM = killsum / missions;
             let KTD = killsum / Math.max(entry.deaths, 1);
@@ -303,7 +304,7 @@ function make_front_data(data) {
     let thislist = [];
     for (const [, entry] of Object.entries(sector_data)) {
         let missions = Math.max(entry.missionsWon + entry.missionsLost, 1);
-        let killsum = Math.max(entry.bot_kills + entry.bug_kills, 1);
+        let killsum = Math.max(entry.bot_kills + entry.bug_kills +entry.squid_kills, 1);
         let DPM = entry.deaths / missions;
         let KPM = killsum / missions;
         let KTD = killsum / Math.max(entry.deaths, 1);

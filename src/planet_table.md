@@ -169,7 +169,7 @@ const hidecolg= Generators.input(hidecol);
 </div>
 <!-- Cards with big numbers -->
 
-<div class="grid grid-cols-3">
+<div class="grid grid-cols-4">
   <div class="card">
     <h2>Terminid front planets</h2>
     <span class="big">${planets.filter((d) => d.front === "TERMINIDS").length.toLocaleString("en-US")}</span>
@@ -177,6 +177,10 @@ const hidecolg= Generators.input(hidecol);
   <div class="card">
     <h2>Bot front planets</h2>
     <span class="big">${planets.filter((d) => d.front=== "AUTOMATON").length.toLocaleString("en-US")}</span>
+  </div>
+    <div class="card">
+  <h2>Illuminate front planets</h2>
+    <span class="big">${planets.filter((d) => d.front=== "ILLUMINATE").length.toLocaleString("en-US")}</span>
   </div>
   <div class="card">
     <h2>Safe Worlds</h2>
@@ -191,6 +195,10 @@ const hidecolg= Generators.input(hidecol);
     <span class="big">${planets.filter((d) => d.current_owner === "Automaton").length.toLocaleString("en-US")}</span>
   </div>
     <div class="card">
+    <h2>Owned by Illuminate</h2>
+    <span class="big">${planets.filter((d) => d.current_owner === "Illuminate").length.toLocaleString("en-US")}</span>
+  </div>
+    <div class="card">
     <h2>Owned by Us</h2>
     <span class="big">${planets.filter((d) => d.current_owner === "Humans").length.toLocaleString("en-US")}</span>
   </div>
@@ -202,6 +210,10 @@ const hidecolg= Generators.input(hidecol);
     <div class="card">
     <h2>Initally Owned by Bots</h2>
     <span class="big">${planets.filter((d) => d.initial_owner === "Automaton").length.toLocaleString("en-US")}</span>
+  </div>
+  <div class="card">
+    <h2>Initally Owned by Illuminate</h2>
+    <span class="big">${planets.filter((d) => d.initial_owner === "Illuminate").length.toLocaleString("en-US")}</span>
   </div>
     <div class="card">
     <h2>Initally Owned by Us</h2>

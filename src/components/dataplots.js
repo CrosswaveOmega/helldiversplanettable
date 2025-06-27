@@ -461,7 +461,7 @@ function BiomeStats(
     let transformedData = [];
     for (const entry of data) {
         let missions = Math.max(entry.missionsWon + entry.missionsLost, 0);
-        let killsum = Math.max(entry.bot_kills + entry.bug_kills, 0);
+        let killsum = Math.max(entry.bot_kills + entry.bug_kills+entry.squid_kills, 0);
         if (missions < threshold) {
             continue;
         }
@@ -650,6 +650,7 @@ function BiomeData(data, column, parentElement) {
             acc[entry[column]].missionsLost += entry.missionsLost;
             acc[entry[column]].bot_kills += entry.bot_kills;
             acc[entry[column]].bug_kills += entry.bug_kills;
+            acc[entry[column]].squid_kills += entry.squid_kills;
             acc[entry[column]].deaths += entry.deaths;
             acc[entry[column]].friendlies += entry.friendlies;
             acc[entry[column]].count += 1;

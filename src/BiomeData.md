@@ -117,7 +117,7 @@ const factcolor = Plot.scale({
           "bot_kills",
           "squid_kills",
           "revives",];
-  const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
+  const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
   const front_filterg= Generators.input(front_filter);
   const show_if =   Inputs.checkbox(
       new Map([
@@ -136,6 +136,7 @@ const factcolor = Plot.scale({
   const hidecolg= Generators.input(hidecol);
   
   const threshold = view(Inputs.range([0, 1000], {value: 5, step: 1,width:1000, label: "Minimum missions limit"}))
+  console.log(biome_data['ILLUMINATE'])
 ```
 
 
@@ -145,11 +146,23 @@ const factcolor = Plot.scale({
   <div class="card">
   ${show_if}
   ${hidecol}
-    ${resize((width) => planetTable(biome_data['all'], {width, all_columns, front_filter:['HUMANS','AUTOMATON','TERMINIDS'], sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
+    ${resize((width) => planetTable(biome_data['all'], {width, all_columns, front_filter:front_filterg, sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
   </div>
-</div>
 
+  <div class="card">
+terminds
+    ${resize((width) => planetTable(biome_data['TERMINIDS'], {width, all_columns, front_filter:front_filterg, sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
+  </div>
 
+  <div class="card">
+  automatons
+    ${resize((width) => planetTable(biome_data['AUTOMATON'], {width, all_columns, front_filter:front_filterg, sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
+  </div>
+
+  <div class="card">
+  illuminate
+    ${resize((width) => planetTable(biome_data['ILLUMINATE'], {width, all_columns, front_filter:front_filterg, sortby:'biome',show_if:show_ifg,hidecol:hidecolg}))}
+  </div>
 
 </div>
 
@@ -204,7 +217,7 @@ const factcolor = Plot.scale({
     <div class="card">
     ${resize((width) => BiomeStats(biome_data['AUTOMATON'],6,'biome', {width, threshold,biocolors, title:'Helldiver mission wins to losses in AUTOMATON front biomes'}))}
   </div>
-
+</div>
 
 
 <div class="grid grid-cols-4">

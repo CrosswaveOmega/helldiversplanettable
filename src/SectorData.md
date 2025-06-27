@@ -70,9 +70,9 @@ const biocolors = Plot.scale({
 const factcolor = Plot.scale({
   color: {
     type: "categorical",
-    domain: ["TERMINIDS", "AUTOMATON", "HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL"],  // specify known categories directly
+    domain: ["TERMINIDS", "AUTOMATON", "ILLUMINATE","HUMANS","TERMINIDSL", "AUTOMATONL", "HUMANSL","ILLUMINATEL"],  // specify known categories directly
     unknown: "purple",  // specify the color for unknown categories
-    range: ["orange", "red", "blue","darkorange", "darkred", "darkblue"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
+    range: ["orange", "red", "purple", "blue","darkorange", "darkred", "darkblue","darkpurple"],  // colors for TERMINIDS, AUTOMATON, and HUMANS
   }
 });
 ```
@@ -108,7 +108,7 @@ ${update_time}
           "bot_kills",
           "squid_kills",
           "revives",];
-  const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS'], {value:['AUTOMATON','TERMINIDS'], label:'Filter by front'})
+  const front_filter = Inputs.checkbox(['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], {value:['HUMANS','AUTOMATON','TERMINIDS','ILLUMINATE'], label:'Filter by front'})
   const front_filterg= Generators.input(front_filter);
   const show_if =   Inputs.checkbox(
       new Map([
@@ -192,6 +192,22 @@ ${update_time}
   </div>
     <div class="card">
     ${resize((width) => BiomeStats(sector_data['AUTOMATON'],6,'sector_name', {width, threshold,biocolors, title:'Helldiver mission wins to losses across all AUTOMATON sectors'}))}
+  </div>
+
+</div>
+
+<div class="grid grid-cols-4">
+  <div class="card">
+    ${resize((width) => BiomeStats(sector_data['ILLUMINATE'],3,'sector_name', {width, threshold,biocolors, title:'Helldiver deaths per mission across all ILLUMINATE sectors'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(sector_data['ILLUMINATE'],4,'sector_name', {width, threshold,biocolors, title:'Helldiver kills per mission across all ILLUMINATE sectors'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(sector_data['ILLUMINATE'],5,'sector_name', {width, threshold,biocolors, title:'Helldiver kills to deaths across all ILLUMINATE sectors'}))}
+  </div>
+    <div class="card">
+    ${resize((width) => BiomeStats(sector_data['ILLUMINATE'],6,'sector_name', {width, threshold,biocolors, title:'Helldiver mission wins to losses across all ILLUMINATE sectors'}))}
   </div>
 
 </div>

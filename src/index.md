@@ -68,12 +68,8 @@ const count=0;
 ${update_time}
 ## Current Game State
 PLEASE NOTE:
-Because the Illuminate have not occupied any planet yet as with the Terminids and Automatons, 
-a proper front for the Illuminate **cannot be determined as of yet.** 
-
-For now, the Illuminate invasions are considered to be on the HUMANS front.
-
-<div class="grid grid-cols-3">
+Because the Illuminate did not get a proper front until June 2025, most Illuminate invasions are on the HUMANS front.
+<div class="grid grid-cols-4">
   <div class="card">
     <h2>Terminid front planets</h2>
     <span class="big">${planets.filter((d) => d.front === "TERMINIDS").length.toLocaleString("en-US")}</span>
@@ -81,6 +77,10 @@ For now, the Illuminate invasions are considered to be on the HUMANS front.
   <div class="card">
     <h2>Bot front planets</h2>
     <span class="big">${planets.filter((d) => d.front=== "AUTOMATON").length.toLocaleString("en-US")}</span>
+  </div>
+    <div class="card">
+  <h2>Illuminate front planets</h2>
+    <span class="big">${planets.filter((d) => d.front=== "ILLUMINATE").length.toLocaleString("en-US")}</span>
   </div>
   <div class="card">
     <h2>Safe Worlds</h2>
@@ -95,6 +95,10 @@ For now, the Illuminate invasions are considered to be on the HUMANS front.
     <span class="big">${planets.filter((d) => d.current_owner === "Automaton").length.toLocaleString("en-US")}</span>
   </div>
     <div class="card">
+    <h2>Owned by Illuminate</h2>
+    <span class="big">${planets.filter((d) => d.current_owner === "Illuminate").length.toLocaleString("en-US")}</span>
+  </div>
+    <div class="card">
     <h2>Owned by Us</h2>
     <span class="big">${planets.filter((d) => d.current_owner === "Humans").length.toLocaleString("en-US")}</span>
   </div>
@@ -106,6 +110,10 @@ For now, the Illuminate invasions are considered to be on the HUMANS front.
     <div class="card">
     <h2>Initally Owned by Bots</h2>
     <span class="big">${planets.filter((d) => d.initial_owner === "Automaton").length.toLocaleString("en-US")}</span>
+  </div>
+  <div class="card">
+    <h2>Initally Owned by Illuminate</h2>
+    <span class="big">${planets.filter((d) => d.initial_owner === "Illuminate").length.toLocaleString("en-US")}</span>
   </div>
     <div class="card">
     <h2>Initally Owned by Us</h2>
@@ -156,6 +164,9 @@ See the [Battle Tracker](./battle_tracker)  to view all battles fought across ev
 See the [Full War History Log](./history_log_full)  to read the entire history of the second galactic war, day by day.
 
 ### Changelog
+* June 27th, 2025
+ * Regions have been properly implemented into the battle tracker.
+ * Properly added the Illuminate front tables now that the Illuminate have a normal presence on the galactic war map.
 * Feburary 7th, 2025
  * History Map now shows Galactic Points of Interest.
 * January 20th, 2025
