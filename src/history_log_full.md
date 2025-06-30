@@ -8148,3 +8148,36 @@ Dispatch: FORCE AUGMENTATION. To better counter the Jet Brigade's newest capabil
 DSS deploys to *Oslo Station* of the Sagan sector (2025-06-28 20:43  UTC)<br/>
 
 ### Day: #508
+*Oslo Station* defense is failed (2025-06-29 16:07  UTC)<br/>
+↳ *Oslo Station* liberation campaign starts (2025-06-29 16:07  UTC)<br/>
+*Wezen* defense is failed (2025-06-29 16:09  UTC)<br/>
+↳ *Wezen* liberation campaign starts (2025-06-29 16:09  UTC)<br/>
+↳ *Vega Bay* liberation campaign ends (2025-06-29 16:09  UTC)<br/>
+↳ Ymir sector is fully under Automaton control (2025-06-29 16:09  UTC)<br/>
+Assault Division: Jet Brigade U6B leaves *Oslo Station* (2025-06-29 16:59  UTC)<br/>
+ Decay: 1.5 on Oslo Station, Wezen
+ (2025-06-29 16:59  UTC)<br/>
+*Gunvald* of the Sagan sector is attacked by Automatons (2025-06-29 17:01  UTC)<br/>
+Assault Division: Jet Brigade U6B deploys to *Gunvald* (2025-06-29 17:01  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2025-06-29 17:04  UTC)<br/>
+Dispatch: AIRBURST ROCKET LAUNCHER stratagem availability has now ended. (2025-06-29 19:36  UTC)<br/>
+ Decay: 0.0 on Gunvald, Varylia 5
+ (2025-06-29 19:36  UTC)<br/>
+DSS deploys to *Gunvald* of the Sagan sector (2025-06-30 00:43  UTC)<br/>
+ Decay: 1.5 on Charbal-VII, Choepessa IV
+ (2025-06-30 00:43  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Automatons (2025-06-30 04:07  UTC)<br/>
+*Gunvald* defense is won (2025-06-30 04:28  UTC)<br/>
+Assault Division: Jet Brigade U6B is routed (2025-06-30 04:28  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2025-06-30 04:28  UTC)<br/>
+ Decay: 0.0 on Ustotu
+ (2025-06-30 04:28  UTC)<br/>
+ Decay: 1.5 on Gunvald
+ (2025-06-30 06:00  UTC)<br/>
+
+### Day: #509
+*Mintoria* of the Gellert sector is attacked by Automatons (2025-06-30 13:33  UTC)<br/>
+*Varylia 5* defense is won (2025-06-30 14:29  UTC)<br/>
+ Decay: 0.0 on Mintoria
+ (2025-06-30 14:29  UTC)<br/>
+DSS deploys to *Ustotu* of the Trigon sector (2025-06-30 14:30  UTC)<br/>
