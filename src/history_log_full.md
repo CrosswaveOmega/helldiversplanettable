@@ -8181,3 +8181,21 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-06-30 04:28  UTC)<br/>
  Decay: 0.0 on Mintoria
  (2025-06-30 14:29  UTC)<br/>
 DSS deploys to *Ustotu* of the Trigon sector (2025-06-30 14:30  UTC)<br/>
+ Decay: 1.5 on Varylia 5
+ (2025-06-30 16:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-06-30 17:45  UTC)<br/>
+*Ustotu* defense is won (2025-07-01 00:28  UTC)<br/>
+↳ Major Order | A2-6-6 Repel 4 Automaton Attacks is won | Objective: Defend (2025-07-01 00:28  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2025-07-01 00:29  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The latest Automaton offensive—led by the newly-augmented Jet Brigade—has been decisively repelled by the Helldivers. Consult your Galactic Map for more information. (2025-07-01 01:07  UTC)<br/>
+ Decay: 1.0 on Ustotu
+ (2025-07-01 01:07  UTC)<br/>
+
+# Day: #510
+*Senge 23* of the Omega sector is attacked by Illuminate (2025-07-01 11:00  UTC)<br/>
+*Mintoria* defense is failed (2025-07-01 13:34  UTC)<br/>
+↳ *Blistica* liberation campaign ends (2025-07-01 13:34  UTC)<br/>
+↳ *Zefia* liberation campaign ends (2025-07-01 13:34  UTC)<br/>
+DSS deploys to *Senge 23* of the Omega sector (2025-07-01 13:34  UTC)<br/>
+ Decay: 0.0 on Senge 23
+ (2025-07-01 13:34  UTC)<br/>
