@@ -8199,3 +8199,20 @@ Dispatch: MAJOR ORDER WON. The latest Automaton offensive—led by the newly-aug
 DSS deploys to *Senge 23* of the Omega sector (2025-07-01 13:34  UTC)<br/>
  Decay: 0.0 on Senge 23
  (2025-07-01 13:34  UTC)<br/>
+ Decay: 1.5 on Mintoria
+ (2025-07-01 14:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-07-01 17:46  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-07-01 21:18  UTC)<br/>
+
+### Day: #511
+*Senge 23* defense is failed (2025-07-02 11:01  UTC)<br/>
+↳ *Senge 23* liberation campaign starts (2025-07-02 11:01  UTC)<br/>
+*Genesis Prime* of the Rictus sector is attacked by Illuminate (2025-07-02 11:22  UTC)<br/>
+*Genesis Prime* Region 0 Mallstrip Nodes Towny is besieged by Humans (2025-07-02 11:22  UTC)<br/>
+ Decay: 1.5 on Senge 23
+ (2025-07-02 11:22  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-07-02 12:45  UTC)<br/>
+ Decay: 0.0 on Genesis Prime
+ (2025-07-02 12:45  UTC)<br/>
+ Region Decay: 0.2 on 95_MALLSTRIP NODES<br/> Region Decay: 0.4 on 95_BIRTH
+ (2025-07-02 12:45  UTC)<br/>
