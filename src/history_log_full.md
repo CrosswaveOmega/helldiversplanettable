@@ -8208,7 +8208,7 @@ DSS effect Orbital Blockade is activated (2025-07-01 21:18  UTC)<br/>
 *Senge 23* defense is failed (2025-07-02 11:01  UTC)<br/>
 ↳ *Senge 23* liberation campaign starts (2025-07-02 11:01  UTC)<br/>
 *Genesis Prime* of the Rictus sector is attacked by Illuminate (2025-07-02 11:22  UTC)<br/>
-*Genesis Prime* Region 0 Mallstrip Nodes Towny is besieged by Humans (2025-07-02 11:22  UTC)<br/>
+*Genesis Prime* Region 0 Mallstrip Nodes Town is besieged by Humans (2025-07-02 11:22  UTC)<br/>
  Decay: 1.5 on Senge 23
  (2025-07-02 11:22  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-07-02 12:45  UTC)<br/>
@@ -8216,3 +8216,19 @@ DSS deploys to *Curia* of the Marspira sector (2025-07-02 12:45  UTC)<br/>
  (2025-07-02 12:45  UTC)<br/>
  Region Decay: 0.2 on 95_MALLSTRIP NODES<br/> Region Decay: 0.4 on 95_BIRTH
  (2025-07-02 12:45  UTC)<br/>
+DSS deploys to *Genesis Prime* of the Rictus sector (2025-07-02 16:45  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-07-02 20:45  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-07-02 21:18  UTC)<br/>
+*Genesis Prime* Region 1 Birth City is besieged by Humans (2025-07-02 21:57  UTC)<br/>
+
+### Day: #512
+↳ *Genesis Prime* defense is failed (2025-07-03 11:23  UTC)<br/>
+*Genesis Prime* liberation campaign starts (2025-07-03 11:23  UTC)<br/>
+*Genesis Prime* Region 0 Mallstrip Nodes Town is besieged by Humans (2025-07-03 11:23  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-07-03 12:26  UTC)<br/>
+ Decay: 1.5 on Genesis Prime
+ (2025-07-03 12:26  UTC)<br/>
+Major Order | A2-7-1 *Zegema Paradise* Xbox Training Facility is issued | Objective: Liberate/Sample (2025-07-03 14:48  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on ZEGEMA PARADISE. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (2025-07-03 14:48  UTC)<br/>
+ Decay: 2.0 on Gar Haren, Gatria
+ (2025-07-03 14:48  UTC)<br/>
