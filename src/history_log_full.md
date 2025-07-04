@@ -8232,3 +8232,10 @@ Major Order | A2-7-1 *Zegema Paradise* Xbox Training Facility is issued | Object
 Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on ZEGEMA PARADISE. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (2025-07-03 14:48  UTC)<br/>
  Decay: 2.0 on Gar Haren, Gatria
  (2025-07-03 14:48  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2025-07-03 20:46  UTC)<br/>
+*Zosma* of the Gellert sector is attacked by Automatons (2025-07-03 21:30  UTC)<br/>
+ Decay: 0.0 on Zosma
+ (2025-07-03 22:00  UTC)<br/>
+
+### Day: #513
+DSS effect Eagle Storm stops (2025-07-04 12:26  UTC)<br/>
