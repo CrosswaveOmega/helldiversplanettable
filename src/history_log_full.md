@@ -8239,3 +8239,19 @@ DSS deploys to *Gar Haren* of the Jin Xi sector (2025-07-03 20:46  UTC)<br/>
 
 ### Day: #513
 DSS effect Eagle Storm stops (2025-07-04 12:26  UTC)<br/>
+*Gar Haren* is liberated (2025-07-04 20:19  UTC)<br/>
+↳ *Gatria* liberation campaign starts (2025-07-04 20:19  UTC)<br/>
+↳ *Phact Bay* liberation campaign starts (2025-07-04 20:19  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement is besieged by Humans (2025-07-04 20:19  UTC)<br/>
+*Phact Bay* Region 0 Old Dove Town is besieged by Humans (2025-07-04 20:19  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-07-04 20:19  UTC)<br/>
+*Zosma* defense is failed (2025-07-04 21:31  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign ends (2025-07-04 21:31  UTC)<br/>
+ Region Decay: 2.0 on 173_ALTONBURG<br/> Region Decay: 2.0 on 173_ERSATZ<br/> Region Decay: 0.2 on 217_OLD DOVE<br/> Region Decay: 0.4 on 217_BRNO<br/> Region Decay: 0.6 on 217_NEW EAGLE
+ (2025-07-04 21:31  UTC)<br/>
+ Decay: 1.5 on Zosma
+ (2025-07-04 22:00  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement has fallen to Humans (2025-07-05 02:28  UTC)<br/>
+
+### Day: #514
