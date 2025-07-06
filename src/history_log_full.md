@@ -8255,3 +8255,4 @@ DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
 *Gatria* Region 0 Altonburg Settlement has fallen to Humans (2025-07-05 02:28  UTC)<br/>
 
 ### Day: #514
+*Gatria* Region 1 Ersatz City is besieged by Humans (2025-07-06 04:20  UTC)<br/>
