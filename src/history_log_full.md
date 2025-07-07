@@ -8259,7 +8259,16 @@ DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
 *Gatria* Region 1 Ersatz City is besieged by Humans (2025-07-06 04:20  UTC)<br/>
 
 ### Day: #515
+*Setia* of the Omega sector is attacked by Illuminates (2025-07-07 08:39  UTC)<br/>
 
 ### Day: #516
  Decay: 0.0 on Setia
  (2025-07-07 09:00  UTC)<br/>
+*Gatria* is liberated (2025-07-07 10:42  UTC)<br/>
+↳*Trandor* liberation campaign starts (2025-07-07 10:42  UTC)<br/>
+↳↳*Trandor* Region 1 ÖDESHÖGRE Settlement is besieged by Humans (2025-07-07 10:42  UTC)<br/>
+Major Order | A2-7-1 *Zegema Paradise* Training Facility is won | Objective: Liberate/Sample (2025-07-07 10:42  UTC)<br/>
+Dispatch:  MAJOR ORDER WON. All live-fire assets for the new Helldiver training facility have been acquired, ensuring the Helldivers' peerless martial standards will be upheld by those set to bolster their ranks.  Consult your Galactic Map for more information. (2025-07-07 10:50  UTC)<br/>
+ Region Decay: 0.4 on 100_NYA SKELLEFTEA<br/> Region Decay: 0.1 on 100_ÖDESHÖGRE<br/> Region Decay: 0.4 on 100_GOTHENBURG III
+ (2025-07-07 10:50  UTC)<br/>
+*Zegema Paradise* of the Kelvin sector is established as a HELLDIVER TRAINING FACILITIES POI (2025-07-07 11:15  UTC)<br/>
