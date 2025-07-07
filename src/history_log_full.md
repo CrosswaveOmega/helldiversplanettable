@@ -7538,6 +7538,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
+Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-28 16:06  UTC)<br/>
 DSS is activated (2025-05-28 16:10  UTC)<br/>
 DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:10  UTC)<br/>
 Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to *Super Earth* immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (2025-05-28 16:10  UTC)<br/>
@@ -8228,7 +8229,7 @@ DSS effect Orbital Blockade stops (2025-07-02 21:18  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-07-03 12:26  UTC)<br/>
  Decay: 1.5 on Genesis Prime
  (2025-07-03 12:26  UTC)<br/>
-Major Order | A2-7-1 *Zegema Paradise* Xbox Training Facility is issued | Objective: Liberate/Sample (2025-07-03 14:48  UTC)<br/>
+Major Order | A2-7-1 *Zegema Paradise* Training Facility is issued | Objective: Liberate/Sample (2025-07-03 14:48  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on ZEGEMA PARADISE. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (2025-07-03 14:48  UTC)<br/>
  Decay: 2.0 on Gar Haren, Gatria
  (2025-07-03 14:48  UTC)<br/>
