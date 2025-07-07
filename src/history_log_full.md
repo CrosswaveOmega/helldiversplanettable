@@ -7538,7 +7538,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
-Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-28 16:06  UTC)<br/>
+Major Order | A2-5-5 Kill Automatons For DSS Repairs is won | Objective: Eradicate (2025-05-28 16:06  UTC)<br/>
 DSS is activated (2025-05-28 16:10  UTC)<br/>
 DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:10  UTC)<br/>
 Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to *Super Earth* immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (2025-05-28 16:10  UTC)<br/>
@@ -8257,3 +8257,9 @@ DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
 
 ### Day: #514
 *Gatria* Region 1 Ersatz City is besieged by Humans (2025-07-06 04:20  UTC)<br/>
+
+### Day: #515
+
+### Day: #516
+ Decay: 0.0 on Setia
+ (2025-07-07 09:00  UTC)<br/>
