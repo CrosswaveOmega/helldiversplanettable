@@ -8272,3 +8272,36 @@ Dispatch:  MAJOR ORDER WON. All live-fire assets for the new Helldiver training 
  Region Decay: 0.4 on 100_NYA SKELLEFTEA<br/> Region Decay: 0.1 on 100_ÖDESHÖGRE<br/> Region Decay: 0.4 on 100_GOTHENBURG III
  (2025-07-07 10:50  UTC)<br/>
 *Zegema Paradise* of the Kelvin sector is established as a HELLDIVER TRAINING FACILITIES POI (2025-07-07 11:15  UTC)<br/>
+*Curia* is liberated (2025-07-08 01:20  UTC)<br/>
+↳DSS deploys to *Setia* of the Omega sector (2025-07-08 01:20  UTC)<br/>
+↳*Aesir Pass* liberation campaign starts (2025-07-08 01:20  UTC)<br/>
+↳Marspira sector is fully under Human control (2025-07-08 01:20  UTC)<br/>
+↳*Hydrobius* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
+↳*Senge 23* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
+*Setia* defense is failed (2025-07-08 08:40  UTC)<br/>
+↳DSS deploys to *Oslo Station* of the Sagan sector (2025-07-08 08:40  UTC)<br/>
+
+### Day: #517
+ Decay: 1.5 on Setia
+ (2025-07-08 09:00  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Illuminates (2025-07-08 10:17  UTC)<br/>
+ Decay: 0.0 on Afoyay Bay
+ (2025-07-08 12:00  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-07-08 13:22  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2025-07-08 13:22  UTC)<br/>
+Major Order | A2-7-2 Rebuild Remembrance is issued| Objective: Liberate/Sample (2025-07-08 13:59  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2025-07-08 13:59  UTC)<br/>
+ Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
+ (2025-07-08 13:59  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  Remembrance-destroyed during the completely failed Illuminate invasion of *Super Earth*-will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity.  To reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations. (2025-07-08 14:01  UTC)<br/>
+
+### Day: #518
+
+### Day: #519
+
+# Day: #520
+
+### Day: #521
+
+### Day: #522
