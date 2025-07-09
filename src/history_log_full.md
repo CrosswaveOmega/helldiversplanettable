@@ -8296,8 +8296,22 @@ Major Order | A2-7-2 Rebuild Remembrance is issued | Objective: Hold/Operations 
  (2025-07-08 13:59  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER.  Remembrance-destroyed during the completely failed Illuminate invasion of *Super Earth*-will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity.  To reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations. (2025-07-08 14:01  UTC)<br/>
 DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-08 16:48  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-07-08 20:48  UTC)<br/>
+*Veld* Region 0 CLE ELUM REDIVIVA Town has fallen to Humans (2025-07-08 22:02  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Humans (2025-07-09 00:37  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Humans (2025-07-09 02:23  UTC)<br/>
+*Erata Prime* defense is won (2025-07-09 05:40  UTC)<br/>
+DSS deploys to *Veld* of the Orion sector (2025-07-09 05:40  UTC)<br/>
+*Afoyay Bay* defense is won (2025-07-09 06:47  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2025-07-09 06:47  UTC)<br/>
+*New Stockholm* of the Hanzo sector is attacked by Illuminates (2025-07-09 08:49  UTC)<br/>
+ Decay: 1.5 on Afoyay Bay
+ (2025-07-09 08:49  UTC)<br/>
 
 ### Day: #518
+ Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-09 09:00  UTC)<br/>
 
 ### Day: #519
 
