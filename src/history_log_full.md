@@ -8289,12 +8289,13 @@ Dispatch:  MAJOR ORDER WON. All live-fire assets for the new Helldiver training 
  (2025-07-08 12:00  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-07-08 13:22  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2025-07-08 13:22  UTC)<br/>
-Major Order | A2-7-2 Rebuild Remembrance is issued| Objective: Liberate/Sample (2025-07-08 13:59  UTC)<br/>
+Major Order | A2-7-2 Rebuild Remembrance is issued | Objective: Hold/Operations (2025-07-08 13:59  UTC)<br/>
  Decay: 0.0 on Erata Prime
  (2025-07-08 13:59  UTC)<br/>
  Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
  (2025-07-08 13:59  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER.  Remembrance-destroyed during the completely failed Illuminate invasion of *Super Earth*-will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity.  To reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations. (2025-07-08 14:01  UTC)<br/>
+DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-08 16:48  UTC)<br/>
 
 ### Day: #518
 
