@@ -8312,8 +8312,43 @@ DSS deploys to *Veld* of the Orion sector (2025-07-09 05:40  UTC)<br/>
 ### Day: #518
  Decay: 0.0 on Afoyay Bay, Erata Prime
  (2025-07-09 09:00  UTC)<br/>
+DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-09 20:49  UTC)<br/>
+ Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-09 20:49  UTC)<br/>
+ Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-09 22:00  UTC)<br/>
+DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
+ Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-10 00:49  UTC)<br/>
+ Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-10 02:00  UTC)<br/>
+↳*Herthon Secundus* liberation campaign ends (2025-07-10 08:49  UTC)<br/>
+ Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-10 08:49  UTC)<br/>
+*New Stockholm* defense is failed (2025-07-10 08:50  UTC)<br/>
+↳*New Stockholm* liberation campaign starts (2025-07-10 08:50  UTC)<br/>
 
 ### Day: #519
+ Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-10 09:00  UTC)<br/>
+*Veld* Region 1 LAELIA MegaCity is besieged by Humans (2025-07-10 10:19  UTC)<br/>
+ Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-10 10:19  UTC)<br/>
+ Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-10 12:00  UTC)<br/>
+*Alairt III* liberation campaign starts (2025-07-10 13:58  UTC)<br/>
+*Alairt III* Region 1 New Storouse Town siege has ended (2025-07-10 13:58  UTC)<br/>
+ Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-10 13:58  UTC)<br/>
+ Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-10 14:00  UTC)<br/>
+*Mekbuda* - *Cyberstan* warp link is added (2025-07-10 19:11  UTC)<br/>
+*Vindemitarix Prime* - *Mekbuda* warp link is added (2025-07-10 19:11  UTC)<br/>
+*Cyberstan* - *Merga IV* warp link is added (2025-07-10 19:11  UTC)<br/>
+ Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ (2025-07-10 19:11  UTC)<br/>
+ Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
+ (2025-07-10 20:00  UTC)<br/>
 
 # Day: #520
 
