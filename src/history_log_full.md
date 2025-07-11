@@ -8351,6 +8351,8 @@ DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
  (2025-07-10 20:00  UTC)<br/>
 
 # Day: #520
+ Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
+ (2025-07-11 16:00  UTC)<br/>
 
 ### Day: #521
 
