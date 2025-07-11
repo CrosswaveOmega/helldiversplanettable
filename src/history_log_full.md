@@ -8351,8 +8351,23 @@ DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
  (2025-07-10 20:00  UTC)<br/>
 
 # Day: #520
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-07-11 15:44  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Humans (2025-07-11 15:44  UTC)<br/>
+ Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
+ (2025-07-11 15:44  UTC)<br/>
+Dispatch:  OPERATIONAL ALERT.:  Resource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on *Achernar Secundus* (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%.   The surge in transportation on *Achernar Secundus* has precipitated a Terminid attack. If the planet is lost, the resources will be as well. (2025-07-11 15:49  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2025-07-11 15:49  UTC)<br/>
  Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
- (2025-07-11 16:00  UTC)<br/>
+ (2025-07-11 15:49  UTC)<br/>
+*Veld* is liberated (2025-07-11 16:35  UTC)<br/>
+Orion sector is fully under Human control (2025-07-11 16:35  UTC)<br/>
+DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-11 16:36  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2025-07-11 16:50  UTC)<br/>
+ Decay: -0.5 on Slif
+ (2025-07-11 16:50  UTC)<br/>
+ Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
+ (2025-07-11 18:00  UTC)<br/>
 
 ### Day: #521
 
