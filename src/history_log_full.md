@@ -8375,12 +8375,24 @@ DSS effect ORBITAL BLOCKADE starts (2025-07-11 19:40  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-11 20:07  UTC)<br/>
 *Achernar Secundus* defense is won (2025-07-12 04:40  UTC)<br/>
-DSS deploys to *Slif* of the Celeste sector (2025-07-12 04:40  UTC)<br/>
+↳DSS deploys to *Slif* of the Celeste sector (2025-07-12 04:40  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-12 04:40  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-12 06:00  UTC)<br/>
 
 ### Day: #521
+*Slif* is liberated (2025-07-12 14:48  UTC)<br/>
+↳DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-12 14:48  UTC)<br/>
+↳Celeste sector is fully under Human control (2025-07-12 14:48  UTC)<br/>
+ Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
+ (2025-07-12 14:48  UTC)<br/>
+ Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
+ (2025-07-12 16:00  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Illuminates (2025-07-12 17:32  UTC)<br/>
+ Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
+ (2025-07-12 17:32  UTC)<br/>
+ Decay: 1.5 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
+ (2025-07-12 18:00  UTC)<br/>
 
 ### Day: #522
