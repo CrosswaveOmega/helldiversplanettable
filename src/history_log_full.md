@@ -8410,3 +8410,34 @@ DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-13 14:28  UTC)<br/>
 ↳*Zea Rugosia* liberation campaign ends (2025-07-13 17:32  UTC)<br/>
 *Afoyay Bay* defense is failed (2025-07-13 17:33  UTC)<br/>
 ↳*Afoyay Bay* liberation campaign starts (2025-07-13 17:33  UTC)<br/>
+ Decay: 1.0 on Afoyay Bay
+ (2025-07-13 18:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2025-07-13 20:04  UTC)<br/>
+DSS effect EAGLE STORM starts (2025-07-13 22:59  UTC)<br/>
+DSS deploys to *Oslo Station* of the Sagan sector (2025-07-14 00:52  UTC)<br/>
+Assault Division: Predator Strain U5B is routed (2025-07-14 07:54  UTC)<br/>
+
+### Day: #523
+*Fort Sanctuary* - *Eukoria* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Seyshel Beach* - *Fort Sanctuary* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Seyshel Beach* - *Myrium* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Effluvia* - *Seyshel Beach* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Effluvia* - *Parsh* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Eukoria* - *Regnus* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Myrium* - *Eukoria* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Myrium* - *Valmox* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Kerth Secundus* - *Seyshel Beach* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Kerth Secundus* - *Seyshel Beach* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Kerth Secundus* - *Myrium* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Kerth Secundus* - *Grafmere* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Parsh* - *Kerth Secundus* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Parsh* - *Grafmere* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Parsh* - *Genesis Prime* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Regnus* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Mog* - *Valmox* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Valmox* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
+*Adhara* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
+Major Order | A2-7-2 Rebuild Remembrance is won | Objective: Hold/Operations (2025-07-14 14:01  UTC)<br/>
+Dispatch:  MAJOR ORDER WON.  The first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn. (2025-07-14 14:12  UTC)<br/>
+
+### Day: #524
