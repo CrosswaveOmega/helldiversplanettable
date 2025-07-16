@@ -8439,5 +8439,57 @@ Assault Division: Predator Strain U5B is routed (2025-07-14 07:54  UTC)<br/>
 *Adhara* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
 Major Order | A2-7-2 Rebuild Remembrance is won | Objective: Hold/Operations (2025-07-14 14:01  UTC)<br/>
 Dispatch:  MAJOR ORDER WON.  The first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn. (2025-07-14 14:12  UTC)<br/>
+DSS effect EAGLE STORM ends (2025-07-14 23:00  UTC)<br/>
+*Oslo Station* is liberated (2025-07-15 06:21  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2025-07-15 06:21  UTC)<br/>
+Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 
 ### Day: #524
+ Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 158_HILJAISUUS<br/> Region Decay: 0.4 on 158_KALASATAMA<br/> Region Decay: 0.6 on 158_YDINKESKUSTA<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357<br/> Region Decay: 0.6 on 194_BUCU'S REST<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES
+ (2025-07-15 09:00  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
+*Claorell* Region 2 ZENITH MegaCity is besieged by Automaton (2025-07-15 09:10  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City is besieged by Humans (2025-07-15 09:16  UTC)<br/>
+ Decay: 1.5 on Oslo Station
+ (2025-07-15 09:16  UTC)<br/>
+ Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH<br/> Region Decay: 0.4 on 244_SEQUIM
+ (2025-07-15 09:16  UTC)<br/>
+*Julheim* of the Nanos sector is attacked by Automatons (2025-07-15 09:20  UTC)<br/>
+*Julheim* Region 0 FROSTOWN MegaCity is besieged by Humans (2025-07-15 09:20  UTC)<br/>
+Major Order | A2-7-3 Repel Mass Automaton Attack is issued | Objective: Hold (2025-07-15 09:25  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  Multiple simultaneous Automaton assaults have been detected on planets with highly-populated *Super Earth* cities. MININT analysis reports with a high degree of confidence that the strategic objective of this invasion is to take control of key Democracy Space Station facilities.  Hold the key DSS facilities at all costs. (2025-07-15 09:27  UTC)<br/>
+ Region Decay: 0.6 on 72_FROSTOWN
+ (2025-07-15 10:00  UTC)<br/>
+ Region Decay: 0.6 on 72_FROSTOWN
+ (2025-07-15 10:00  UTC)<br/>
+DSS deploys to *Duma Tyr* of the Nanos sector (2025-07-15 12:52  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-07-15 16:52  UTC)<br/>
+*Claorell* Region 2 ZENITH MegaCity has fallen to Humans (2025-07-16 03:38  UTC)<br/>
+*Claorell* Region 1 QUASAR City is besieged by Humans (2025-07-16 05:01  UTC)<br/>
+*Oasis* of the Rictus sector is attacked by Illuminates (2025-07-16 07:28  UTC)<br/>
+*Oasis* Region 0 RESPITE City is besieged by Humans (2025-07-16 07:28  UTC)<br/>
+*Claorell* defense is won (2025-07-16 07:45  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-07-16 07:45  UTC)<br/>
+ Decay: 0.0 on Oasis
+ (2025-07-16 07:45  UTC)<br/>
+ Region Decay: 0.4 on 94_RESPITE
+ (2025-07-16 07:45  UTC)<br/>
+Major Order | A2-7-4 STRATEGIC OPPORTUNITY is issued | Objective: Hold (2025-07-16 07:59  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY.  MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet.  If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (2025-07-16 08:00  UTC)<br/>
+ Decay: 1.5 on Claorell
+ (2025-07-16 08:00  UTC)<br/>
+DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
+
+### Day: #525
+*Varylia 5* defense is failed (2025-07-16 09:17  UTC)<br/>
+↳*Varylia 5* liberation campaign starts (2025-07-16 09:17  UTC)<br/>
+↳*Wezen* liberation campaign ends (2025-07-16 09:17  UTC)<br/>
+*Julheim* defense is failed (2025-07-16 09:21  UTC)<br/>
+↳*Julheim* liberation campaign starts (2025-07-16 09:21  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Automatons (2025-07-16 09:32  UTC)<br/>
+ Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH
+ (2025-07-16 10:00  UTC)<br/>
+ Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH
+ (2025-07-16 10:00  UTC)<br/>
+*Tarsh* Region 0 FORTITUDE Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
