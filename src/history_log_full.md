@@ -8447,6 +8447,7 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 ### Day: #524
  Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 158_HILJAISUUS<br/> Region Decay: 0.4 on 158_KALASATAMA<br/> Region Decay: 0.6 on 158_YDINKESKUSTA<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357<br/> Region Decay: 0.6 on 194_BUCU'S REST<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES
  (2025-07-15 09:00  UTC)<br/>
+NOTE: Several cities were added to the galactic war map at this time. (2025-07-15 09:01  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
 *Claorell* Region 2 ZENITH MegaCity is besieged by Automaton (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
@@ -8493,3 +8494,22 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
  Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH
  (2025-07-16 10:00  UTC)<br/>
 *Tarsh* Region 0 FORTITUDE Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
+*Oasis* defense is failed (2025-07-17 07:29  UTC)<br/>
+*Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
+*Tarsh* Region 1 FREEDOM'S TORCH Settlement is besieged by Automatons (2025-07-17 07:56  UTC)<br/>
+ Decay: 1.0 on Oasis
+ (2025-07-17 07:56  UTC)<br/>
+Major Order | A2-7-4 STRATEGIC OPPORTUNITY is failed | Objective: Hold (2025-07-17 07:58  UTC)<br/>
+Dispatch:  ***OASIS FALLEN***  OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Automatons (2025-07-17 08:10  UTC)<br/>
+*Gaellivare* Region 1 MALMBERGET MegaCity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
+ Decay: 0.0 on Gaellivare
+ (2025-07-17 08:53  UTC)<br/>
+ Region Decay: 0.6 on 116_MALMBERGET<br/> Region Decay: 0.1 on 116_VÁHTJER
+ (2025-07-17 08:53  UTC)<br/>
+
+### Day: #526
+*Tarsh* Region 1 FREEDOM'S TORCH Settlement has fallen to Humans (2025-07-17 12:17  UTC)<br/>
+
+### Day: #527
