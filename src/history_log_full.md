@@ -8500,7 +8500,7 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
 Major Order | A2-7-4 STRATEGIC OPPORTUNITY is failed | Objective: Hold (2025-07-17 07:58  UTC)<br/>
-Dispatch:  ***OASIS FALLEN***  OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
+Dispatch:  OASIS FALLEN.  OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2025-07-17 08:10  UTC)<br/>
 *Gaellivare* Region 1 MALMBERGET MegaCity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
@@ -8511,5 +8511,15 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
 
 ### Day: #526
 *Tarsh* Region 1 FREEDOM'S TORCH Settlement has fallen to Humans (2025-07-17 12:17  UTC)<br/>
+*Tarsh* Region 2 FEARLESS HOLLOW Settlement has fallen to Human (2025-07-18 04:23  UTC)<br/>
+*Tarsh* defense is won (2025-07-18 05:23  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2025-07-18 05:23  UTC)<br/>
+Assault Division: Incineration Corps U4B deploys to *Aurora Bay* (2025-07-18 06:51  UTC)<br/>
+Dispatch:  STRATEGIC ALERT.  The Automaton Incineration Corps has been reported on MERAK. (2025-07-18 06:51  UTC)<br/>
+Dispatch: STRATEGIC ALERT.  The Automaton Incineration Corps has been reported on AURORA BAY. (2025-07-18 06:51  UTC)<br/>
+ Decay: 1.5 on Tarsh
+ (2025-07-18 06:51  UTC)<br/>
+ Decay: 0.0 on Tarsh
+ (2025-07-18 08:00  UTC)<br/>
 
 ### Day: #527
