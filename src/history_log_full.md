@@ -8495,7 +8495,7 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
  (2025-07-16 10:00  UTC)<br/>
 *Tarsh* Region 0 FORTITUDE Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
 *Oasis* defense is failed (2025-07-17 07:29  UTC)<br/>
-*Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
+↳*Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
 *Tarsh* Region 1 FREEDOM'S TORCH Settlement is besieged by Automatons (2025-07-17 07:56  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
@@ -8519,7 +8519,49 @@ Dispatch:  STRATEGIC ALERT.  The Automaton Incineration Corps has been reported 
 Dispatch: STRATEGIC ALERT.  The Automaton Incineration Corps has been reported on AURORA BAY. (2025-07-18 06:51  UTC)<br/>
  Decay: 1.5 on Tarsh
  (2025-07-18 06:51  UTC)<br/>
- Decay: 0.0 on Tarsh
- (2025-07-18 08:00  UTC)<br/>
+Assault Division: Incineration Corps U4A deploys to *Choohe* (2025-07-18 07:46  UTC)<br/>
+Assault Division: Incineration Corps U4B deploys to *Penta* (2025-07-18 07:46  UTC)<br/>
+Assault Division: Incineration Corps U4A deploys to *Chort Bay* (2025-07-18 08:45  UTC)<br/>
+Assault Division: Incineration Corps U4B deploys to *Lesath* (2025-07-18 08:45  UTC)<br/>
 
 ### Day: #527
+ Decay: 0.0 on Tarsh
+ (2025-07-18 09:00  UTC)<br/>
+Assault Division: Incineration Corps U4A deploys to *Lesath* (2025-07-18 09:48  UTC)<br/>
+Assault Division: Incineration Corps U4B deploys to *Vog-Sojoth* (2025-07-18 09:48  UTC)<br/>
+ Decay: 1.5 on Tarsh
+ (2025-07-18 09:48  UTC)<br/>
+Assault Division: Incineration Corps U4A deploys to *Gaellivare* (2025-07-18 10:46  UTC)<br/>
+Assault Division: Incineration Corps U4B deploys to *Claorell* (2025-07-18 10:46  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Automatons (2025-07-18 10:46  UTC)<br/>
+*Claorell* Region 1 QUASAR City is besieged by Humans (2025-07-18 10:46  UTC)<br/>
+ Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH
+ (2025-07-18 10:46  UTC)<br/>
+NOTE: Around this time, an extra warp link between *Kerth Secundus* and *Seyshel Beach* kept being enabled and disabled until about 09:35am UTC on 20th Jul 2025.  The exact cause is unknown. (2025-07-18 12:14  UTC)<br/>
+ Decay: 0.0 on Claorell
+ (2025-07-18 12:14  UTC)<br/>
+*Gaellivare* defense is failed (2025-07-19 08:14  UTC)<br/>
+↳*Gaellivare* liberation campaign starts (2025-07-19 08:14  UTC)<br/>
+DSS deploys to *Claorell* of the Talus sector (2025-07-19 08:57  UTC)<br/>
+ Decay: 1.5 on Gaellivare
+ (2025-07-19 08:57  UTC)<br/>
+
+### Day: #528
+DSS deploys to *Gaellivare* of the Talus sector (2025-07-20 00:57  UTC)<br/>
+
+### Day: #529
+*Claorell* defense is failed (2025-07-20 10:48  UTC)<br/>
+↳*Claorell* liberation campaign starts (2025-07-20 10:48  UTC)<br/>
+↳*Clasa* liberation campaign ends (2025-07-20 10:48  UTC)<br/>
+Tanis sector is fully under Automaton control (2025-07-20 10:48  UTC)<br/>
+Dispatch:  CLAORELL HAS FALLEN.  The Automatons have taken *Claorell*, and the Deep Mantle Forge Complex on the planet. The enemy has stolen this site of great industry; there is no telling what socialist ends they will use it for.   As a result of losing the Complex, the resource requirement for all DSS Tactical Actions is 25% greater for the next 72 hours. (2025-07-20 10:52  UTC)<br/>
+ Region Decay: 0.3 on 116_MALMBERGET
+ (2025-07-20 12:00  UTC)<br/>
+ Region Decay: 0.3 on 116_MALMBERGET
+ (2025-07-20 12:00  UTC)<br/>
+DSS effect EAGLE STORM starts (2025-07-20 22:28  UTC)<br/>
+*Gaellivare* Region 1 MALMBERGET MegaCity has fallen to Humans (2025-07-21 01:31  UTC)<br/>
+*Gaellivare* Region 0 VÁHTJER Settlement is besieged by Humans (2025-07-21 03:01  UTC)<br/>
+*Gaellivare* Region 0 VÁHTJER Settlement has fallen to Human (2025-07-21 07:59  UTC)<br/>
+
+# Day: #530
