@@ -8542,6 +8542,7 @@ NOTE: Around this time, an extra warp link between *Kerth Secundus* and *Seyshel
  (2025-07-18 12:14  UTC)<br/>
 *Gaellivare* defense is failed (2025-07-19 08:14  UTC)<br/>
 ↳*Gaellivare* liberation campaign starts (2025-07-19 08:14  UTC)<br/>
+↳*Lesath* liberation campaign ends (2025-07-19 08:14  UTC)<br/>
 DSS deploys to *Claorell* of the Talus sector (2025-07-19 08:57  UTC)<br/>
  Decay: 1.5 on Gaellivare
  (2025-07-19 08:57  UTC)<br/>
