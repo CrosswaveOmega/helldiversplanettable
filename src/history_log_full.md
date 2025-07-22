@@ -8566,3 +8566,28 @@ DSS effect EAGLE STORM starts (2025-07-20 22:28  UTC)<br/>
 *Gaellivare* Region 0 VÁHTJER Settlement has fallen to Human (2025-07-21 07:59  UTC)<br/>
 
 # Day: #530
+ Decay: 0.5 on Gaellivare
+ (2025-07-21 14:00  UTC)<br/>
+DSS effect EAGLE STORM ends (2025-07-21 22:29  UTC)<br/>
+*Gaellivare* is liberated (2025-07-21 23:14  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2025-07-21 23:14  UTC)<br/>
+↳ *Lesath* Region 3 BUCU'S REST MegaCity is besieged by Automaton (2025-07-21 23:14  UTC)<br/>
+↳ DSS deploys to *Claorell* of the Tanis sector (2025-07-21 23:14  UTC)<br/>
+Talus sector is fully under Human control (2025-07-21 23:14  UTC)<br/>
+Assault Division: Incineration Corps U4A is routed (2025-07-21 23:16  UTC)<br/>
+ Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES<br/> Region Decay: 0.6 on 194_BUCU'S REST
+ (2025-07-21 23:16  UTC)<br/>
+Dispatch:  OPERATIONS RESTORED.  DSS Tactical Action activation time has been restored to normal. (2025-07-21 23:17  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2025-07-21 23:22  UTC)<br/>
+
+### Day: #531
+Major Order | A2-7-3 Repel Mass Automaton Attack is failed | Objective: Hold (2025-07-22 09:30  UTC)<br/>
+Dispatch:  MAJOR ORDER FAILED.  *Super Earth* cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy. (2025-07-22 09:40  UTC)<br/>
+Major Order | A2-7-5 Kill Enemies for Propaganda is issued| Objective: Exterminate (2025-07-22 13:00  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares.  Consult your Galactic Map for more information. (2025-07-22 13:01  UTC)<br/>
+HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
+HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
+
+### Day: #532
+
+### Day: #533
