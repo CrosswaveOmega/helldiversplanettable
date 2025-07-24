@@ -3718,7 +3718,7 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-12-12 03:50  UTC)<br/>
  Decay: 2.0 on Phact Bay
  (2024-12-12 16:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-12 19:27  UTC)<br/>
-*Calypso* of the Saleria sector is invaded by Illuminates (2024-12-13 02:21  UTC)<br/>
+*Calypso* of the Saleria sector is invaded by Illuminate (2024-12-13 02:21  UTC)<br/>
 Major Order | A1-12-2 Factory Hub Defense is won | Objective: Defend (2024-12-13 02:22  UTC)<br/>
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-13 02:22  UTC)<br/>
@@ -5109,7 +5109,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-02-25 03:31  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-02-25 07:56  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-25 07:56  UTC)<br/>
 *Grand Errant* of the Farsight sector is attacked by Terminids (2025-02-25 08:37  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminates (2025-02-25 08:38  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Illuminate (2025-02-25 08:38  UTC)<br/>
 
 ### Day: #384
  Decay: 0.0 on Grand Errant
@@ -5182,7 +5182,7 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br
  (2025-02-26 23:00  UTC)<br/>
 *Meridia* moves to X 0.4065411 Y 0.1634066 (2025-02-27 03:00  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-02-27 03:36  UTC)<br/>
-*Bunda Secundus* of the Tarragon sector is invaded by Illuminates (2025-02-27 06:20  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-02-27 06:20  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
 *Meridia* moves to X 0.40623695 Y 0.16336945 (2025-02-27 07:00  UTC)<br/>
 *Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-02-27 07:25  UTC)<br/>
@@ -5299,7 +5299,7 @@ DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
 # Day: #390
 *Meridia* moves to X 0.4005026 Y 0.16266915 (2025-03-03 11:00  UTC)<br/>
 *Meridia* moves to X 0.40023375 Y 0.16263631 (2025-03-03 15:00  UTC)<br/>
-*Kharst* of the Gallux sector is invaded by Illuminates (2025-03-03 16:55  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Illuminate (2025-03-03 16:55  UTC)<br/>
  Decay: 1.0 on Clasa
  (2025-03-03 16:55  UTC)<br/>
 *Parsh*'s invasion is successful (2025-03-03 18:54  UTC)<br/>
@@ -5806,7 +5806,7 @@ The Second Galactic War is paused (2025-03-23 12:51  UTC)<br/>
 NOTE: This is the fourth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. Later the same day at 01:31pm, the war begins again. The incident lasted 40 minutes (2025-03-23 12:51  UTC)<br/>
 The Second Galactic War is no longer paused (2025-03-23 13:31  UTC)<br/>
 *Meridia* moves to X 0.31850475 Y 0.1298482 (2025-03-23 15:00  UTC)<br/>
-*Termadon* of the Quintus sector is invaded by Illuminates (2025-03-23 15:20  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Illuminate (2025-03-23 15:20  UTC)<br/>
 *Leng Secundus*'s invasion is successful (2025-03-23 15:49  UTC)<br/>
 *Meridia* moves to X 0.31800786 Y 0.12949632 (2025-03-23 19:00  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
@@ -6414,7 +6414,7 @@ Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expediti
 DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
 *Meridia* moves to X 0.2913785 Y 0.11675942 (2025-04-11 15:00  UTC)<br/>
 *Meridia* moves to X 0.29116783 Y 0.116778836 (2025-04-11 19:00  UTC)<br/>
-*Alaraph* of the Akira sector is invaded by Illuminates (2025-04-11 21:08  UTC)<br/>
+*Alaraph* of the Akira sector is invaded by Illuminate (2025-04-11 21:08  UTC)<br/>
 *Meridia* moves to X 0.2909609 Y 0.1167979 (2025-04-11 23:00  UTC)<br/>
  Decay: 5.9 on Nivel 43
  (2025-04-11 23:00  UTC)<br/>
@@ -6781,7 +6781,7 @@ DSS deploys to *Troost* of the Trigon sector (2025-04-21 08:43  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-04-21 16:54  UTC)<br/>
 *Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-21 18:31  UTC)<br/>
 NOTE: For two minutes from the start of the invasion to 06:33pm it was possible to see the Predator Strain flag due to the API function allowing it to appear not expiring yet. It was manually removed after 2 minutes gameplay wise they wouldn't have spawned due to this being an Illuminate event. (2025-04-21 18:33  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminates (2025-04-21 18:37  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-21 18:37  UTC)<br/>
 *Meridia* moves to X 0.27641737 Y 0.11813809 (2025-04-21 19:00  UTC)<br/>
 *Meridia* moves to X 0.276147 Y 0.118163005 (2025-04-21 23:00  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-22 01:52  UTC)<br/>
@@ -6977,7 +6977,7 @@ DSS deploys to *Tibit* of the Severin sector (2025-04-28 13:35  UTC)<br/>
  (2025-04-28 15:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-04-28 15:54  UTC)<br/>
-*Erata Prime* of the Umlaut sector is invaded by Illuminates (2025-04-28 18:22  UTC)<br/>
+*Erata Prime* of the Umlaut sector is invaded by Illuminate (2025-04-28 18:22  UTC)<br/>
  Decay: 0.0 on Claorell
  (2025-04-28 18:22  UTC)<br/>
 *Meridia* moves to X 0.26609665 Y 0.11908914 (2025-04-28 19:00  UTC)<br/>
@@ -8259,53 +8259,53 @@ DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
 *Gatria* Region 1 Ersatz City is besieged by Humans (2025-07-06 04:20  UTC)<br/>
 
 ### Day: #515
-*Setia* of the Omega sector is attacked by Illuminates (2025-07-07 08:39  UTC)<br/>
+*Setia* of the Omega sector is attacked by Illuminate (2025-07-07 08:39  UTC)<br/>
 
 ### Day: #516
  Decay: 0.0 on Setia
  (2025-07-07 09:00  UTC)<br/>
 *Gatria* is liberated (2025-07-07 10:42  UTC)<br/>
-↳*Trandor* liberation campaign starts (2025-07-07 10:42  UTC)<br/>
-↳↳*Trandor* Region 1 ÖDESHÖGRE Settlement is besieged by Humans (2025-07-07 10:42  UTC)<br/>
+↳ *Trandor* liberation campaign starts (2025-07-07 10:42  UTC)<br/>
+*Trandor* Region 1 Ödeshögre Settlement is besieged by Humans (2025-07-07 10:42  UTC)<br/>
 Major Order | A2-7-1 *Zegema Paradise* Training Facility is won | Objective: Liberate/Sample (2025-07-07 10:42  UTC)<br/>
-Dispatch:  MAJOR ORDER WON. All live-fire assets for the new Helldiver training facility have been acquired, ensuring the Helldivers' peerless martial standards will be upheld by those set to bolster their ranks.  Consult your Galactic Map for more information. (2025-07-07 10:50  UTC)<br/>
+Dispatch: MAJOR ORDER WON All live-fire assets for the new Helldiver training facility have been acquired, ensuring the Helldivers' peerless martial standards will be upheld by those set to bolster their ranks. Consult your Galactic Map for more information. (2025-07-07 10:50  UTC)<br/>
  Region Decay: 0.4 on 100_NYA SKELLEFTEA<br/> Region Decay: 0.1 on 100_ÖDESHÖGRE<br/> Region Decay: 0.4 on 100_GOTHENBURG III
  (2025-07-07 10:50  UTC)<br/>
-*Zegema Paradise* of the Kelvin sector is established as a HELLDIVER TRAINING FACILITIES POI (2025-07-07 11:15  UTC)<br/>
+*Zegema Paradise* of the Kelvin sector is established as a Helldiver Training Facilites POI (2025-07-07 11:15  UTC)<br/>
 *Curia* is liberated (2025-07-08 01:20  UTC)<br/>
-↳DSS deploys to *Setia* of the Omega sector (2025-07-08 01:20  UTC)<br/>
-↳*Aesir Pass* liberation campaign starts (2025-07-08 01:20  UTC)<br/>
-↳Marspira sector is fully under Human control (2025-07-08 01:20  UTC)<br/>
-↳*Hydrobius* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
-↳*Senge 23* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
+↳ *Aesir Pass* liberation campaign starts (2025-07-08 01:20  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-07-08 01:20  UTC)<br/>
+DSS deploys to *Setia* of the Omega sector (2025-07-08 01:20  UTC)<br/>
+↳ *Hydrobius* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
+↳ *Senge 23* liberation campaign ends (2025-07-08 08:39  UTC)<br/>
 *Setia* defense is failed (2025-07-08 08:40  UTC)<br/>
-↳DSS deploys to *Oslo Station* of the Sagan sector (2025-07-08 08:40  UTC)<br/>
+DSS deploys to *Oslo Station* of the Sagan sector (2025-07-08 08:40  UTC)<br/>
 
 ### Day: #517
  Decay: 1.5 on Setia
  (2025-07-08 09:00  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is attacked by Illuminates (2025-07-08 10:17  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Illuminate (2025-07-08 10:17  UTC)<br/>
  Decay: 0.0 on Afoyay Bay
  (2025-07-08 12:00  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-07-08 13:22  UTC)<br/>
-*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2025-07-08 13:22  UTC)<br/>
-Major Order | A2-7-2 Rebuild Remembrance is issued | Objective: Hold/Operations (2025-07-08 13:59  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-07-08 13:22  UTC)<br/>
+Major Order | A2-7-2 Rebuild Remembrance is issued | Objective: Control/Operations (2025-07-08 13:59  UTC)<br/>
  Decay: 0.0 on Erata Prime
  (2025-07-08 13:59  UTC)<br/>
  Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
  (2025-07-08 13:59  UTC)<br/>
-Dispatch:  NEW MAJOR ORDER.  Remembrance-destroyed during the completely failed Illuminate invasion of *Super Earth*-will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity.  To reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations. (2025-07-08 14:01  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Remembrance-destroyed during the completely failed Illuminate invasion of *Super Earth*-will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity. To reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations. (2025-07-08 14:01  UTC)<br/>
 DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-08 16:48  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-07-08 20:48  UTC)<br/>
-*Veld* Region 0 CLE ELUM REDIVIVA Town has fallen to Humans (2025-07-08 22:02  UTC)<br/>
-*Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Humans (2025-07-09 00:37  UTC)<br/>
-*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Humans (2025-07-09 02:23  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town has fallen to Humans (2025-07-08 22:02  UTC)<br/>
+*Erata Prime* Region 1 Pham's Site Settlement is besieged by Humans (2025-07-09 00:37  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2025-07-09 02:23  UTC)<br/>
 *Erata Prime* defense is won (2025-07-09 05:40  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-07-09 05:40  UTC)<br/>
 *Afoyay Bay* defense is won (2025-07-09 06:47  UTC)<br/>
  Decay: 2.5 on Erata Prime
  (2025-07-09 06:47  UTC)<br/>
-*New Stockholm* of the Hanzo sector is attacked by Illuminates (2025-07-09 08:49  UTC)<br/>
+*New Stockholm* of the Hanzo sector is attacked by Illuminate (2025-07-09 08:49  UTC)<br/>
  Decay: 1.5 on Afoyay Bay
  (2025-07-09 08:49  UTC)<br/>
 
@@ -8322,16 +8322,16 @@ DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
  (2025-07-10 00:49  UTC)<br/>
  Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
  (2025-07-10 02:00  UTC)<br/>
-↳*Herthon Secundus* liberation campaign ends (2025-07-10 08:49  UTC)<br/>
+↳ *Herthon Secundus* liberation campaign ends (2025-07-10 08:49  UTC)<br/>
  Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
  (2025-07-10 08:49  UTC)<br/>
 *New Stockholm* defense is failed (2025-07-10 08:50  UTC)<br/>
-↳*New Stockholm* liberation campaign starts (2025-07-10 08:50  UTC)<br/>
+↳ *New Stockholm* liberation campaign starts (2025-07-10 08:50  UTC)<br/>
 
 ### Day: #519
  Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
  (2025-07-10 09:00  UTC)<br/>
-*Veld* Region 1 LAELIA MegaCity is besieged by Humans (2025-07-10 10:19  UTC)<br/>
+*Veld* Region 1 Laelia Megacity is besieged by Humans (2025-07-10 10:19  UTC)<br/>
  Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
  (2025-07-10 10:19  UTC)<br/>
  Decay: 0.0 on Afoyay Bay, Erata Prime
@@ -8352,30 +8352,31 @@ DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
 
 # Day: #520
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-07-11 15:44  UTC)<br/>
-*Achernar Secundus* Region 0 CURRENCY Town is besieged by Humans (2025-07-11 15:44  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town is besieged by Humans (2025-07-11 15:44  UTC)<br/>
  Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-11 15:44  UTC)<br/>
-Dispatch:  OPERATIONAL ALERT.:  Resource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on *Achernar Secundus* (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%.   The surge in transportation on *Achernar Secundus* has precipitated a Terminid attack. If the planet is lost, the resources will be as well. (2025-07-11 15:49  UTC)<br/>
+Dispatch: OPERATIONAL ALERT. Resource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on *Achernar Secundus* (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%. The surge in transportation on *Achernar Secundus* has precipitated a Terminid attack. If the planet is lost, the resources will be as well. (2025-07-11 15:49  UTC)<br/>
  Decay: 0.0 on Achernar Secundus
  (2025-07-11 15:49  UTC)<br/>
  Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
  (2025-07-11 15:49  UTC)<br/>
 *Veld* is liberated (2025-07-11 16:35  UTC)<br/>
-Orion sector is fully under Human control (2025-07-11 16:35  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-07-11 16:35  UTC)<br/>
+Assault Division: Predator Strain U5B is routed (2025-07-11 16:35  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-11 16:36  UTC)<br/>
 DSS deploys to *Achernar Secundus* of the Borgus sector (2025-07-11 16:50  UTC)<br/>
  Decay: -0.5 on Slif
  (2025-07-11 16:50  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-11 18:00  UTC)<br/>
-DSS effect ORBITAL BLOCKADE starts (2025-07-11 19:40  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-07-11 19:40  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-11 19:40  UTC)<br/>
-*Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Humans (2025-07-11 20:07  UTC)<br/>
+*Achernar Secundus* Region 2 Ol' Oldham City is besieged by Humans (2025-07-11 20:07  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-11 20:07  UTC)<br/>
 *Achernar Secundus* defense is won (2025-07-12 04:40  UTC)<br/>
-↳DSS deploys to *Slif* of the Celeste sector (2025-07-12 04:40  UTC)<br/>
+DSS deploys to *Slif* of the Celeste sector (2025-07-12 04:40  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-12 04:40  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
@@ -8383,19 +8384,19 @@ DSS effect ORBITAL BLOCKADE starts (2025-07-11 19:40  UTC)<br/>
 
 ### Day: #521
 *Slif* is liberated (2025-07-12 14:48  UTC)<br/>
-↳DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-12 14:48  UTC)<br/>
-↳Celeste sector is fully under Human control (2025-07-12 14:48  UTC)<br/>
+↳ Celeste sector is fully under Human control (2025-07-12 14:48  UTC)<br/>
+DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-12 14:48  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-12 14:48  UTC)<br/>
  Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-12 16:00  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is attacked by Illuminates (2025-07-12 17:32  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Illuminate (2025-07-12 17:32  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-12 17:32  UTC)<br/>
-DSS effect ORBITAL BLOCKADE ends (2025-07-12 19:40  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-07-12 19:40  UTC)<br/>
  Decay: 0.0 on Afoyay Bay
  (2025-07-12 19:40  UTC)<br/>
-DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2025-07-12 20:03  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-07-12 20:03  UTC)<br/>
  Decay: 1.5 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
  (2025-07-12 20:03  UTC)<br/>
 
@@ -8403,19 +8404,18 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2025-07-12 20:03  UTC)<br/>
  Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-13 10:00  UTC)<br/>
 *New Stockholm* is liberated (2025-07-13 14:27  UTC)<br/>
-↳*Herthon Secundus* liberation campaign starts (2025-07-13 14:27  UTC)<br/>
+↳ *Herthon Secundus* liberation campaign starts (2025-07-13 14:27  UTC)<br/>
 DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-13 14:28  UTC)<br/>
  Decay: 1.5 on New Stockholm
  (2025-07-13 16:00  UTC)<br/>
-↳*Zea Rugosia* liberation campaign ends (2025-07-13 17:32  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign ends (2025-07-13 17:32  UTC)<br/>
 *Afoyay Bay* defense is failed (2025-07-13 17:33  UTC)<br/>
-↳*Afoyay Bay* liberation campaign starts (2025-07-13 17:33  UTC)<br/>
+↳ *Afoyay Bay* liberation campaign starts (2025-07-13 17:33  UTC)<br/>
  Decay: 1.0 on Afoyay Bay
  (2025-07-13 18:00  UTC)<br/>
-DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2025-07-13 20:04  UTC)<br/>
-DSS effect EAGLE STORM starts (2025-07-13 22:59  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-07-13 20:04  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-07-13 22:59  UTC)<br/>
 DSS deploys to *Oslo Station* of the Sagan sector (2025-07-14 00:52  UTC)<br/>
-Assault Division: Predator Strain U5B is routed (2025-07-14 07:54  UTC)<br/>
 
 ### Day: #523
 *Fort Sanctuary* - *Eukoria* warp link is added (2025-07-14 13:16  UTC)<br/>
@@ -8437,9 +8437,9 @@ Assault Division: Predator Strain U5B is routed (2025-07-14 07:54  UTC)<br/>
 *Mog* - *Valmox* warp link is added (2025-07-14 13:16  UTC)<br/>
 *Valmox* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
 *Adhara* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
-Major Order | A2-7-2 Rebuild Remembrance is won | Objective: Hold/Operations (2025-07-14 14:01  UTC)<br/>
-Dispatch:  MAJOR ORDER WON.  The first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn. (2025-07-14 14:12  UTC)<br/>
-DSS effect EAGLE STORM ends (2025-07-14 23:00  UTC)<br/>
+Major Order | A2-7-2 Rebuild Remembrance is won | Objective: Control/Operations (2025-07-14 14:01  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn. (2025-07-14 14:12  UTC)<br/>
+DSS effect Eagle Storm stops (2025-07-14 23:00  UTC)<br/>
 *Oslo Station* is liberated (2025-07-15 06:21  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-07-15 06:21  UTC)<br/>
 Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
@@ -8449,60 +8449,62 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
  (2025-07-15 09:00  UTC)<br/>
 NOTE: Several cities were added to the galactic war map at this time. (2025-07-15 09:01  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
-*Claorell* Region 2 ZENITH MegaCity is besieged by Automaton (2025-07-15 09:10  UTC)<br/>
+*Claorell* Region 2 Zenith Megacity is besieged by Automatons (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
-*Varylia 5* Region 0 SEQUIM City is besieged by Humans (2025-07-15 09:16  UTC)<br/>
+*Varylia 5* Region 0 Sequim City is besieged by Humans (2025-07-15 09:16  UTC)<br/>
  Decay: 1.5 on Oslo Station
  (2025-07-15 09:16  UTC)<br/>
  Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH<br/> Region Decay: 0.4 on 244_SEQUIM
  (2025-07-15 09:16  UTC)<br/>
 *Julheim* of the Nanos sector is attacked by Automatons (2025-07-15 09:20  UTC)<br/>
-*Julheim* Region 0 FROSTOWN MegaCity is besieged by Humans (2025-07-15 09:20  UTC)<br/>
-Major Order | A2-7-3 Repel Mass Automaton Attack is issued | Objective: Hold (2025-07-15 09:25  UTC)<br/>
-Dispatch:  NEW MAJOR ORDER.  Multiple simultaneous Automaton assaults have been detected on planets with highly-populated *Super Earth* cities. MININT analysis reports with a high degree of confidence that the strategic objective of this invasion is to take control of key Democracy Space Station facilities.  Hold the key DSS facilities at all costs. (2025-07-15 09:27  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity is besieged by Humans (2025-07-15 09:20  UTC)<br/>
+Major Order | A2-7-3 Repel Mass Automaton Attack is issued | Objective: Control (2025-07-15 09:25  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Multiple simultaneous Automaton assaults have been detected on planets with highly-populated *Super Earth* cities. MININT analysis reports with a high degree of confidence that the strategic objective of this invasion is to take control of key Democracy Space Station facilities. Hold the key DSS facilities at all costs. (2025-07-15 09:27  UTC)<br/>
  Region Decay: 0.6 on 72_FROSTOWN
  (2025-07-15 10:00  UTC)<br/>
  Region Decay: 0.6 on 72_FROSTOWN
  (2025-07-15 10:00  UTC)<br/>
 DSS deploys to *Duma Tyr* of the Nanos sector (2025-07-15 12:52  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-07-15 16:52  UTC)<br/>
-*Claorell* Region 2 ZENITH MegaCity has fallen to Humans (2025-07-16 03:38  UTC)<br/>
-*Claorell* Region 1 QUASAR City is besieged by Humans (2025-07-16 05:01  UTC)<br/>
-*Oasis* of the Rictus sector is attacked by Illuminates (2025-07-16 07:28  UTC)<br/>
-*Oasis* Region 0 RESPITE City is besieged by Humans (2025-07-16 07:28  UTC)<br/>
+*Claorell* Region 2 Zenith Megacity has fallen to Humans (2025-07-16 03:38  UTC)<br/>
+*Claorell* Region 1 Quasar City is besieged by Humans (2025-07-16 05:01  UTC)<br/>
+*Oasis* of the Rictus sector is attacked by Illuminate (2025-07-16 07:28  UTC)<br/>
+*Oasis* Region 0 Respite City is besieged by Humans (2025-07-16 07:28  UTC)<br/>
 *Claorell* defense is won (2025-07-16 07:45  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-07-16 07:45  UTC)<br/>
  Decay: 0.0 on Oasis
  (2025-07-16 07:45  UTC)<br/>
  Region Decay: 0.4 on 94_RESPITE
  (2025-07-16 07:45  UTC)<br/>
-Major Order | A2-7-4 STRATEGIC OPPORTUNITY is issued | Objective: Hold (2025-07-16 07:59  UTC)<br/>
-Dispatch:  STRATEGIC OPPORTUNITY.  MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet.  If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (2025-07-16 08:00  UTC)<br/>
+Major Order | A2-7-4 Strategic Opportunity is issued | Objective: Control (2025-07-16 07:59  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet. If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (2025-07-16 08:00  UTC)<br/>
  Decay: 1.5 on Claorell
  (2025-07-16 08:00  UTC)<br/>
 DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
 
 ### Day: #525
 *Varylia 5* defense is failed (2025-07-16 09:17  UTC)<br/>
-↳*Varylia 5* liberation campaign starts (2025-07-16 09:17  UTC)<br/>
-↳*Wezen* liberation campaign ends (2025-07-16 09:17  UTC)<br/>
+↳ *Varylia 5* liberation campaign starts (2025-07-16 09:17  UTC)<br/>
+↳ *Wezen* liberation campaign ends (2025-07-16 09:17  UTC)<br/>
 *Julheim* defense is failed (2025-07-16 09:21  UTC)<br/>
-↳*Julheim* liberation campaign starts (2025-07-16 09:21  UTC)<br/>
+↳ *Julheim* liberation campaign starts (2025-07-16 09:21  UTC)<br/>
+↳ *Bekvam III* liberation campaign ends (2025-07-16 09:21  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2025-07-16 09:32  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-07-16 09:32  UTC)<br/>
  Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH
  (2025-07-16 10:00  UTC)<br/>
  Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH
  (2025-07-16 10:00  UTC)<br/>
-*Tarsh* Region 0 FORTITUDE Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
 *Oasis* defense is failed (2025-07-17 07:29  UTC)<br/>
-↳*Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
-*Tarsh* Region 1 FREEDOM'S TORCH Settlement is besieged by Automatons (2025-07-17 07:56  UTC)<br/>
+↳ *Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Automatons (2025-07-17 07:56  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
-Major Order | A2-7-4 STRATEGIC OPPORTUNITY is failed | Objective: Hold (2025-07-17 07:58  UTC)<br/>
-Dispatch:  OASIS FALLEN.  OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
+Major Order | A2-7-4 Strategic Opportunity is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
+Dispatch: OASIS FALLEN. OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2025-07-17 08:10  UTC)<br/>
-*Gaellivare* Region 1 MALMBERGET MegaCity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
  Decay: 0.0 on Gaellivare
  (2025-07-17 08:53  UTC)<br/>
@@ -8510,13 +8512,14 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
  (2025-07-17 08:53  UTC)<br/>
 
 ### Day: #526
-*Tarsh* Region 1 FREEDOM'S TORCH Settlement has fallen to Humans (2025-07-17 12:17  UTC)<br/>
-*Tarsh* Region 2 FEARLESS HOLLOW Settlement has fallen to Human (2025-07-18 04:23  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-07-17 12:17  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-07-18 04:23  UTC)<br/>
 *Tarsh* defense is won (2025-07-18 05:23  UTC)<br/>
 DSS deploys to *Gaellivare* of the Talus sector (2025-07-18 05:23  UTC)<br/>
+Assault Division: Incineration Corps U4A deploys to *Merak* (2025-07-18 06:51  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Aurora Bay* (2025-07-18 06:51  UTC)<br/>
-Dispatch:  STRATEGIC ALERT.  The Automaton Incineration Corps has been reported on MERAK. (2025-07-18 06:51  UTC)<br/>
-Dispatch: STRATEGIC ALERT.  The Automaton Incineration Corps has been reported on AURORA BAY. (2025-07-18 06:51  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on MERAK. (2025-07-18 06:51  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on AURORA BAY. (2025-07-18 06:51  UTC)<br/>
  Decay: 1.5 on Tarsh
  (2025-07-18 06:51  UTC)<br/>
 Assault Division: Incineration Corps U4A deploys to *Choohe* (2025-07-18 07:46  UTC)<br/>
@@ -8534,15 +8537,15 @@ Assault Division: Incineration Corps U4B deploys to *Vog-Sojoth* (2025-07-18 09:
 Assault Division: Incineration Corps U4A deploys to *Gaellivare* (2025-07-18 10:46  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Claorell* (2025-07-18 10:46  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-18 10:46  UTC)<br/>
-*Claorell* Region 1 QUASAR City is besieged by Humans (2025-07-18 10:46  UTC)<br/>
+*Claorell* Region 1 Quasar City is besieged by Humans (2025-07-18 10:46  UTC)<br/>
  Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH
  (2025-07-18 10:46  UTC)<br/>
-NOTE: Around this time, an extra warp link between *Kerth Secundus* and *Seyshel Beach* kept being enabled and disabled until about 09:35am UTC on 20th Jul 2025.  The exact cause is unknown. (2025-07-18 12:14  UTC)<br/>
+NOTE: Around this time, an extra warp link between *Kerth Secundus* and *Seyshel Beach* kept being enabled and disabled until about 09:35am UTC on 20th Jul 2025. The exact cause is unknown. (2025-07-18 12:14  UTC)<br/>
  Decay: 0.0 on Claorell
  (2025-07-18 12:14  UTC)<br/>
 *Gaellivare* defense is failed (2025-07-19 08:14  UTC)<br/>
-↳*Gaellivare* liberation campaign starts (2025-07-19 08:14  UTC)<br/>
-↳*Lesath* liberation campaign ends (2025-07-19 08:14  UTC)<br/>
+↳ *Gaellivare* liberation campaign starts (2025-07-19 08:14  UTC)<br/>
+↳ *Lesath* liberation campaign ends (2025-07-19 08:14  UTC)<br/>
 DSS deploys to *Claorell* of the Talus sector (2025-07-19 08:57  UTC)<br/>
  Decay: 1.5 on Gaellivare
  (2025-07-19 08:57  UTC)<br/>
@@ -8552,42 +8555,81 @@ DSS deploys to *Gaellivare* of the Talus sector (2025-07-20 00:57  UTC)<br/>
 
 ### Day: #529
 *Claorell* defense is failed (2025-07-20 10:48  UTC)<br/>
-↳*Claorell* liberation campaign starts (2025-07-20 10:48  UTC)<br/>
-↳*Clasa* liberation campaign ends (2025-07-20 10:48  UTC)<br/>
+↳ *Claorell* liberation campaign starts (2025-07-20 10:48  UTC)<br/>
+↳ *Clasa* liberation campaign ends (2025-07-20 10:48  UTC)<br/>
+↳ *Vog-Sojoth* liberation campaign ends (2025-07-20 10:48  UTC)<br/>
 Tanis sector is fully under Automaton control (2025-07-20 10:48  UTC)<br/>
-Dispatch:  CLAORELL HAS FALLEN.  The Automatons have taken *Claorell*, and the Deep Mantle Forge Complex on the planet. The enemy has stolen this site of great industry; there is no telling what socialist ends they will use it for.   As a result of losing the Complex, the resource requirement for all DSS Tactical Actions is 25% greater for the next 72 hours. (2025-07-20 10:52  UTC)<br/>
+Dispatch: CLAORELL HAS FALLEN. The Automatons have taken *Claorell*, and the Deep Mantle Forge Complex on the planet. The enemy has stolen this site of great industry; there is no telling what socialist ends they will use it for. As a result of losing the Complex, the resource requirement for all DSS Tactical Actions is 25% greater for the next 72 hours. (2025-07-20 10:52  UTC)<br/>
  Region Decay: 0.3 on 116_MALMBERGET
  (2025-07-20 12:00  UTC)<br/>
  Region Decay: 0.3 on 116_MALMBERGET
  (2025-07-20 12:00  UTC)<br/>
-DSS effect EAGLE STORM starts (2025-07-20 22:28  UTC)<br/>
-*Gaellivare* Region 1 MALMBERGET MegaCity has fallen to Humans (2025-07-21 01:31  UTC)<br/>
-*Gaellivare* Region 0 VÁHTJER Settlement is besieged by Humans (2025-07-21 03:01  UTC)<br/>
-*Gaellivare* Region 0 VÁHTJER Settlement has fallen to Human (2025-07-21 07:59  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-07-20 22:28  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity has fallen to Humans (2025-07-21 01:31  UTC)<br/>
+*Gaellivare* Region 0 Váhtjer Settlement is besieged by Humans (2025-07-21 03:01  UTC)<br/>
+*Gaellivare* Region 0 Váhtjer Settlement has fallen to Humans (2025-07-21 07:59  UTC)<br/>
 
 # Day: #530
  Decay: 0.5 on Gaellivare
  (2025-07-21 14:00  UTC)<br/>
-DSS effect EAGLE STORM ends (2025-07-21 22:29  UTC)<br/>
+DSS effect Eagle Storm stops (2025-07-21 22:29  UTC)<br/>
 *Gaellivare* is liberated (2025-07-21 23:14  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2025-07-21 23:14  UTC)<br/>
-↳ *Lesath* Region 3 BUCU'S REST MegaCity is besieged by Automaton (2025-07-21 23:14  UTC)<br/>
-↳ DSS deploys to *Claorell* of the Tanis sector (2025-07-21 23:14  UTC)<br/>
-Talus sector is fully under Human control (2025-07-21 23:14  UTC)<br/>
-Assault Division: Incineration Corps U4A is routed (2025-07-21 23:16  UTC)<br/>
+↳ Talus sector is fully under Human control (2025-07-21 23:14  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Automatons (2025-07-21 23:14  UTC)<br/>
+Assault Division: Incineration Corps U4A is routed (2025-07-21 23:14  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-07-21 23:14  UTC)<br/>
+Dispatch: OPERATIONS RESTORED. DSS Tactical Action activation time has been restored to normal. (2025-07-21 23:17  UTC)<br/>
  Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES<br/> Region Decay: 0.6 on 194_BUCU'S REST
- (2025-07-21 23:16  UTC)<br/>
-Dispatch:  OPERATIONS RESTORED.  DSS Tactical Action activation time has been restored to normal. (2025-07-21 23:17  UTC)<br/>
-DSS effect ORBITAL BLOCKADE starts (2025-07-21 23:22  UTC)<br/>
+ (2025-07-21 23:17  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-07-21 23:22  UTC)<br/>
 
 ### Day: #531
 Major Order | A2-7-3 Repel Mass Automaton Attack is failed | Objective: Hold (2025-07-22 09:30  UTC)<br/>
-Dispatch:  MAJOR ORDER FAILED.  *Super Earth* cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy. (2025-07-22 09:40  UTC)<br/>
-Major Order | A2-7-5 Kill Enemies for Propaganda is issued| Objective: Exterminate (2025-07-22 13:00  UTC)<br/>
-Dispatch:  NEW MAJOR ORDER.  A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares.  Consult your Galactic Map for more information. (2025-07-22 13:01  UTC)<br/>
+Dispatch:  MAJOR ORDER FAILED. *Super Earth* cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy. (2025-07-22 09:40  UTC)<br/>
+Major Order | A2-7-5 Kill Enemies for Propaganda is issued | Objective: Eradicate (2025-07-22 13:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares. Consult your Galactic Map for more information. (2025-07-22 13:01  UTC)<br/>
 HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
 HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-07-22 23:22  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-07-23 06:21  UTC)<br/>
+*Claorell* Region 1 Quasar City is besieged by Automatons (2025-07-23 08:36  UTC)<br/>
+*Claorell* Region 2 Zenith Megacity has fallen to Humans (2025-07-23 08:36  UTC)<br/>
 
 ### Day: #532
+*New Stockholm* of the Hanzo sector is attacked by Illuminate (2025-07-23 10:15  UTC)<br/>
+Dispatch: OPERATIONS RESTORED. DSS Tactical Action resource requirements have been restored to normal. (2025-07-23 10:50  UTC)<br/>
+ Decay: 0.0 on New Stockholm
+ (2025-07-23 10:50  UTC)<br/>
+ Decay: 1.5 on New Stockholm
+ (2025-07-23 12:00  UTC)<br/>
+*Alamak VII* of the Hanzo sector is attacked by Illuminate (2025-07-23 13:37  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Megacity is besieged by Illuminate (2025-07-23 13:37  UTC)<br/>
+ Decay: 0.0 on New Stockholm
+ (2025-07-23 13:37  UTC)<br/>
+ Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
+ (2025-07-23 14:00  UTC)<br/>
+ Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
+ (2025-07-23 14:00  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Illuminate (2025-07-23 18:29  UTC)<br/>
+ Decay: 0.0 on New Stockholm, Alamak VII
+ (2025-07-23 18:29  UTC)<br/>
+DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-23 20:59  UTC)<br/>
+ Decay: 1.5 on New Stockholm<br/> Decay: 0.5 on Alamak VII
+ (2025-07-23 22:00  UTC)<br/>
+*New Stockholm* defense is won (2025-07-24 02:55  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-07-24 02:55  UTC)<br/>
+ Decay: 0.0 on New Stockholm, Alamak VII
+ (2025-07-24 02:55  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-07-24 04:59  UTC)<br/>
+ Decay: 1.5 on New Stockholm
+ (2025-07-24 04:59  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-07-24 06:21  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Illuminate (2025-07-24 08:31  UTC)<br/>
 
 ### Day: #533
+ Decay: 0.5 on Alamak VII
+ (2025-07-24 09:00  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-07-24 11:04  UTC)<br/>
+ Decay: 0.0 on Alamak VII
+ (2025-07-24 11:04  UTC)<br/>
