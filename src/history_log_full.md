@@ -8649,3 +8649,10 @@ DSS deploys to *Claorell* of the Tanis sector (2025-07-25 09:00  UTC)<br/>
 ↳ *Alaraph* liberation campaign ends (2025-07-25 13:37  UTC)<br/>
 *Alamak VII* defense is failed (2025-07-25 13:38  UTC)<br/>
 ↳ *Alamak VII* liberation campaign starts (2025-07-25 13:38  UTC)<br/>
+*Fori Prime* liberation campaign starts (2025-07-25 15:51  UTC)<br/>
+ Decay: 0.5 on Alamak VII
+ (2025-07-25 15:51  UTC)<br/>
+Major Order | A2-7-6 Kill Impalers On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. In support of the ongoing public relations campaign, High Command has ordered an short-term expedition to FORI PRIME within the outskirts of the Gloom, to exterminate 5,000,000 Spore Burst Warriors using the Stalwart. This optional augmentation to the public relations campaign could further boost citizen morale to yet-unforseen heights. (2025-07-25 15:56  UTC)<br/>
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-07-25 15:57  UTC)<br/>
+Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on FORI PRIME. (2025-07-25 17:53  UTC)<br/>
