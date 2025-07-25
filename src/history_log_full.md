@@ -8633,3 +8633,19 @@ DSS effect Heavy Ordnance Distribution stops (2025-07-24 06:21  UTC)<br/>
 *Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-07-24 11:04  UTC)<br/>
  Decay: 0.0 on Alamak VII
  (2025-07-24 11:04  UTC)<br/>
+Dispatch: FACTORY STRIDER SURGE. Significantly higher Factory Strider numbers have been observed on CLAORELL. (2025-07-24 15:31  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. The just decimation of the Voteless Fleshmobs by the Helldivers has inspired a boost in citizen War Bond purchases. High Command has authorized the temporary addition of the Recoilless Rifle Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-24 15:50  UTC)<br/>
+DSS deploys to *Claorell* of the Tanis sector (2025-07-24 21:00  UTC)<br/>
+ Decay: 2.0 on Claorell
+ (2025-07-24 21:00  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-07-25 05:00  UTC)<br/>
+*Alamak VII* Region 1 Ungu City is besieged by Illuminate (2025-07-25 05:18  UTC)<br/>
+*Claorell* Region 1 Quasar City has fallen to Humans (2025-07-25 06:48  UTC)<br/>
+*Claorell* Region 0 Majosyri City is besieged by Automatons (2025-07-25 06:48  UTC)<br/>
+Dispatch: REMEMBRANCE NAME DECIDED. The *Super Earth* Mega City of Remembrance, tragically destroyed by the Illuminate during the Battle for *Super Earth*, is being rebuilt. Following a Democratically Managed voting process, the new Mega City has been officially named Gun. This patriotic and glorious appellation will ensure that Remembrance will never be forgotten. (2025-07-25 07:34  UTC)<br/>
+
+### Day: #534
+DSS deploys to *Claorell* of the Tanis sector (2025-07-25 09:00  UTC)<br/>
+↳ *Alaraph* liberation campaign ends (2025-07-25 13:37  UTC)<br/>
+*Alamak VII* defense is failed (2025-07-25 13:38  UTC)<br/>
+↳ *Alamak VII* liberation campaign starts (2025-07-25 13:38  UTC)<br/>
