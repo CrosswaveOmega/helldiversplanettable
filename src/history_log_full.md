@@ -7071,8 +7071,8 @@ DSS effect Eagle Storm is activated (2025-05-02 06:27  UTC)<br/>
  (2025-05-02 09:00  UTC)<br/>
 *Terrek* defense is failed (2025-05-02 19:42  UTC)<br/>
 ↳ *Terrek* liberation campaign starts (2025-05-02 19:42  UTC)<br/>
-Assault Division: Incineration Corps U3B leaves *Vernen Wells* (2025-05-02 21:02  UTC)<br/>
-Assault Division: Incineration Corps U3C leaves *Vog-Sojoth* (2025-05-02 21:02  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Vog-Sojoth* (2025-05-02 21:02  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Vernen Wells* (2025-05-02 21:02  UTC)<br/>
 ↳ *Lesath* liberation campaign ends (2025-05-02 21:02  UTC)<br/>
  Decay: 1.5 on Terrek
  (2025-05-02 21:02  UTC)<br/>
@@ -7089,8 +7089,8 @@ Assault Division: Incineration Corps U3A leaves *Imber* (2025-05-02 22:02  UTC)<
 ↳ *Claorell* liberation campaign ends (2025-05-02 22:03  UTC)<br/>
 DSS deploys to *Imber* of the Talus sector (2025-05-02 22:03  UTC)<br/>
 Assault Division: Incineration Corps U3A deploys to *Imber* (2025-05-02 22:05  UTC)<br/>
-Assault Division: Incineration Corps U3B deploys to *Vernen Wells* (2025-05-02 22:05  UTC)<br/>
-Assault Division: Incineration Corps U3C deploys to *Vog-Sojoth* (2025-05-02 22:05  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Vog-Sojoth* (2025-05-02 22:05  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Vernen Wells* (2025-05-02 22:05  UTC)<br/>
  Decay: 3.0 on Automaton worlds
  (2025-05-03 00:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-05-03 06:29  UTC)<br/>
@@ -7138,10 +7138,10 @@ Assault Division: Predator Strain U4N leaves *Bore Rock* (2025-05-05 10:56  UTC)
 Assault Division: Predator Strain U4A deploys to *Nivel 43* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4N deploys to *Esker* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4N leaves *Esker* (2025-05-05 13:26  UTC)<br/>
-Assault Division: Incineration Corps U3B leaves *Vernen Wells* (2025-05-05 13:47  UTC)<br/>
-Assault Division: Incineration Corps U3B deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
-Assault Division: Incineration Corps U3C leaves *Vog-Sojoth* (2025-05-05 13:59  UTC)<br/>
-Assault Division: Incineration Corps U3C deploys to *Clasa* (2025-05-05 14:01  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Vernen Wells* (2025-05-05 13:47  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Vog-Sojoth* (2025-05-05 13:59  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Clasa* (2025-05-05 14:01  UTC)<br/>
 Major Order | A2-4-6 Liberate Key Strategic Worlds is failed | Objective: Control (2025-05-05 15:45  UTC)<br/>
  Decay: 2.0 on Vernen Wells, Vog-Sojoth<br/> Decay: 3.0 on Aesir Pass<br/> Decay: 1.5 on Clasa
  (2025-05-05 15:45  UTC)<br/>
@@ -7183,8 +7183,8 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-05-06 06:17  UTC)<br/>
 
 ### Day: #454
 DSS deploys to *Tarsh* of the Marspira sector (2025-05-06 13:01  UTC)<br/>
-Assault Division: Incineration Corps U3B leaves *Aesir Pass* (2025-05-06 19:40  UTC)<br/>
-Assault Division: Incineration Corps U3B deploys to *Marfark* (2025-05-06 19:41  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Aesir Pass* (2025-05-06 19:40  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Marfark* (2025-05-06 19:41  UTC)<br/>
 ↳ *Vernen Wells* liberation campaign ends (2025-05-06 19:47  UTC)<br/>
 *Tarsh* defense is failed (2025-05-06 19:48  UTC)<br/>
 ↳ *Tarsh* liberation campaign starts (2025-05-06 19:48  UTC)<br/>
@@ -7200,9 +7200,9 @@ DSS effect Heavy Ordnance Distribution stops (2025-05-07 07:48  UTC)<br/>
 
 ### Day: #455
 Assault Division: Jet Brigade U5 leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
-Assault Division: Incineration Corps U3B leaves *Marfark* (2025-05-07 09:50  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Marfark* (2025-05-07 09:50  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Vernen Wells* (2025-05-07 09:51  UTC)<br/>
-Assault Division: Incineration Corps U3B deploys to *Aesir Pass* (2025-05-07 09:52  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-07 09:52  UTC)<br/>
 *Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5D] (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5D deploys to *Krakatwo* (2025-05-07 09:53  UTC)<br/>
@@ -7225,15 +7225,15 @@ Assault Division: Predator Strain U4P is routed (2025-05-07 21:10  UTC)<br/>
 ### Day: #456
 *Krakatwo* defense is won (2025-05-08 09:02  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-05-08 09:02  UTC)<br/>
-Assault Division: Incineration Corps U3C leaves *Clasa* (2025-05-08 09:53  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Clasa* (2025-05-08 09:53  UTC)<br/>
  Decay: 500.0 on Krakatwo<br/> Decay: 2.0 on Aesir Pass<br/> Decay: 2.5 on Clasa
  (2025-05-08 09:53  UTC)<br/>
 *Tarsh* is liberated (2025-05-08 10:30  UTC)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2025-05-08 10:30  UTC)<br/>
 ↳ Marspira sector is fully under Human control (2025-05-08 10:30  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-05-08 10:30  UTC)<br/>
-Assault Division: Incineration Corps U3C leaves *Yed Prior* (2025-05-08 11:11  UTC)<br/>
-Assault Division: Incineration Corps U3C deploys to *Blistica* (2025-05-08 11:12  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Yed Prior* (2025-05-08 11:11  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Blistica* (2025-05-08 11:12  UTC)<br/>
 Assault Division: Jet Brigade U5 leaves *Claorell* (2025-05-08 11:12  UTC)<br/>
 Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
  Decay: 3.0 on Clasa
@@ -7247,9 +7247,9 @@ Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-05-09 07:08  UTC)<br/>
 
 ### Day: #457
-Assault Division: Incineration Corps U3B leaves *Aesir Pass* (2025-05-09 09:14  UTC)<br/>
+Assault Division: Incineration Corps U3C leaves *Aesir Pass* (2025-05-09 09:14  UTC)<br/>
 *Curia* of the Marspira sector is attacked by Automatons (2025-05-09 09:16  UTC)<br/>
-Assault Division: Incineration Corps U3B deploys to *Curia* (2025-05-09 09:16  UTC)<br/>
+Assault Division: Incineration Corps U3C deploys to *Curia* (2025-05-09 09:16  UTC)<br/>
  Decay: 0.0 on Curia
  (2025-05-09 10:00  UTC)<br/>
  Decay: 5.0 on Nivel 43
@@ -7262,7 +7262,7 @@ DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
  Decay: 0.0 on Demiurg
  (2025-05-09 20:52  UTC)<br/>
 *Curia* defense is won (2025-05-10 06:36  UTC)<br/>
-Assault Division: Incineration Corps U3B is routed (2025-05-10 06:36  UTC)<br/>
+Assault Division: Incineration Corps U3C is routed (2025-05-10 06:36  UTC)<br/>
 DSS deploys to *Demiurg* of the Tanis sector (2025-05-10 06:36  UTC)<br/>
 *Sulfura* of the Celeste sector is attacked by Terminids (2025-05-10 08:29  UTC)<br/>
 Assault Division: Predator Strain U4O divides into 2 groups [U4O, U4R] (2025-05-10 08:29  UTC)<br/>
@@ -7312,9 +7312,9 @@ DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 09:05  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-05-12 15:05  UTC)<br/>
 Major Order | A2-5-1 Assault Division Conquest is failed | Objective: Conquest (2025-05-12 19:02  UTC)<br/>
-Assault Division: Incineration Corps U3C leaves *Blistica* (2025-05-12 19:06  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Blistica* (2025-05-12 19:06  UTC)<br/>
 *Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-05-12 19:08  UTC)<br/>
-Assault Division: Incineration Corps U3C deploys to *Zzaniah Prime* (2025-05-12 19:08  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Zzaniah Prime* (2025-05-12 19:08  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Through insidious tactics and the unwittingly synchronized deployment of elite units, enemies of Freedom have unlawfully prevented the expansion of *Super Earth* territory. Consult your Galactic Map for more information. (2025-05-12 19:16  UTC)<br/>
 *Krakatwo* defense is failed (2025-05-12 20:47  UTC)<br/>
 ↳ *Krakatwo* liberation campaign starts (2025-05-12 20:47  UTC)<br/>
@@ -7601,9 +7601,9 @@ DSS deploys to *Gaellivare* of the Talus sector (2025-06-01 00:20  UTC)<br/>
 DSS deploys to *Azterra* of the Orion sector (2025-06-02 20:55  UTC)<br/>
 
 ### Day: #482
-Assault Division: Incineration Corps U3C leaves *Zzaniah Prime* (2025-06-03 11:13  UTC)<br/>
+Assault Division: Incineration Corps U3B leaves *Zzaniah Prime* (2025-06-03 11:13  UTC)<br/>
 *Zosma* of the Gellert sector is attacked by Automatons (2025-06-03 11:15  UTC)<br/>
-Assault Division: Incineration Corps U3C deploys to *Zosma* (2025-06-03 11:15  UTC)<br/>
+Assault Division: Incineration Corps U3B deploys to *Zosma* (2025-06-03 11:15  UTC)<br/>
 *Curia* of the Marspira sector is attacked by Automatons (2025-06-03 11:45  UTC)<br/>
  Decay: 0.0 on Zosma
  (2025-06-03 11:45  UTC)<br/>
@@ -7634,6 +7634,7 @@ Dispatch: COMMEMORATIVE CAPE IN-PROGRESS. A commemorative cape, designed to hono
 DSS effect Eagle Blockade stops (2025-06-04 16:14  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-06-05 00:23  UTC)<br/>
 *Zosma* defense is won (2025-06-05 00:40  UTC)<br/>
+Assault Division: Incineration Corps U3B is routed (2025-06-05 00:40  UTC)<br/>
  Decay: 1.5 on Zosma
  (2025-06-05 02:00  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2025-06-05 07:43  UTC)<br/>
@@ -8443,11 +8444,102 @@ DSS effect Eagle Storm stops (2025-07-14 23:00  UTC)<br/>
 *Oslo Station* is liberated (2025-07-15 06:21  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-07-15 06:21  UTC)<br/>
 Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
+*Vernen Wells* Region 0 Blackvein Mines Settlement is now present (2025-07-15 08:43  UTC)<br/>
+*Vernen Wells* Region 1 Benevolence Town is now present (2025-07-15 08:43  UTC)<br/>
+*Vernen Wells* Region 2 Anne's Vigil Town is now present (2025-07-15 08:43  UTC)<br/>
+*Choepessa IV* Region 0 Hiljaisuus Town is now present (2025-07-15 08:43  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City is now present (2025-07-15 08:43  UTC)<br/>
+*Choepessa IV* Region 2 Ydinkeskusta Megacity is now present (2025-07-15 08:43  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement is now present (2025-07-15 08:43  UTC)<br/>
+*Clasa* Region 1 Kodiak Falls Town is now present (2025-07-15 08:43  UTC)<br/>
+*Clasa* Region 2 Voting District F-012357 City is now present (2025-07-15 08:43  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town is now present (2025-07-15 08:43  UTC)<br/>
+*Bekvam III* Region 1 Firefly Meadows City is now present (2025-07-15 08:43  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is now present (2025-07-15 08:43  UTC)<br/>
+*Lesath* Region 1 Morse Oko Town is now present (2025-07-15 08:43  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is now present (2025-07-15 08:43  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest is now present (2025-07-15 08:43  UTC)<br/>
+*Vog-Sojoth* Region 0 Haerstvik Town is now present (2025-07-15 08:43  UTC)<br/>
+ Decay: 1.5 on Oslo Station
+ (2025-07-15 08:43  UTC)<br/>
 
 ### Day: #524
+ Decay: 1.0 on Oslo Station
+ (2025-07-15 09:00  UTC)<br/>
  Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 158_HILJAISUUS<br/> Region Decay: 0.4 on 158_KALASATAMA<br/> Region Decay: 0.6 on 158_YDINKESKUSTA<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357<br/> Region Decay: 0.6 on 194_BUCU'S REST<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES
  (2025-07-15 09:00  UTC)<br/>
-NOTE: Several cities were added to the galactic war map at this time. (2025-07-15 09:01  UTC)<br/>
+*Fort Sanctuary* Region 0 Unnamed Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Emeria* Region 0 Unnamed Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Fenmire* Region 0 Brawfermland Town is now present (2025-07-15 09:01  UTC)<br/>
+*Fenmire* Region 1 New Aberdeen Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Fenmire* Region 2 Saorsa Glen Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Pöpli IX* Region 0 Resilience Town is now present (2025-07-15 09:01  UTC)<br/>
+*Pöpli IX* Region 1 Hot Gates City is now present (2025-07-15 09:01  UTC)<br/>
+*Aurora Bay* Region 0 Batu Belig City is now present (2025-07-15 09:01  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town is now present (2025-07-15 09:01  UTC)<br/>
+*Gaellivare* Region 0 Váhtjer Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Caph* Region 0 Eastcleft City is now present (2025-07-15 09:01  UTC)<br/>
+*Caph* Region 1 Kinabatangan City is now present (2025-07-15 09:01  UTC)<br/>
+*Caph* Region 2 Downpour City is now present (2025-07-15 09:01  UTC)<br/>
+*Draupnir* Region 0 Eightrings City is now present (2025-07-15 09:01  UTC)<br/>
+*Draupnir* Region 1 Broker's Wealth City is now present (2025-07-15 09:01  UTC)<br/>
+*Mort* Region 0 Sapphire Lake City is now present (2025-07-15 09:01  UTC)<br/>
+*Ingmar* Region 0 Fort Sanguine Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Ingmar* Region 1 Knight's Honor Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Ingmar* Region 2 Sevenseal Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Claorell* Region 0 Majosyri City is now present (2025-07-15 09:01  UTC)<br/>
+*Claorell* Region 1 Quasar City is now present (2025-07-15 09:01  UTC)<br/>
+*Claorell* Region 2 Zenith Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Malevelon Creek* Region 0 Lifeblood Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Malevelon Creek* Region 1 Requiem Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Malevelon Creek* Region 2 Diver's Rest Town is now present (2025-07-15 09:01  UTC)<br/>
+*Martale* Region 0 Songguo Cun Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Martale* Region 1 Xin Fuzhou Cityis now present (2025-07-15 09:01  UTC)<br/>
+*Matar Bay* Region 0 Parrhesia City is now present (2025-07-15 09:01  UTC)<br/>
+*Matar Bay* Region 1 Isegoria Town is now present (2025-07-15 09:01  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town is now present (2025-07-15 09:01  UTC)<br/>
+*Tien Kwan* Region 0 Foundry Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Tien Kwan* Region 1 Steel Resolve Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Ubanea* Region 0 Freedom Eternal Town is now present (2025-07-15 09:01  UTC)<br/>
+*Ubanea* Region 1 Nuova Roma City is now present (2025-07-15 09:01  UTC)<br/>
+*Varylia 5* Region 0 Sequim City is now present (2025-07-15 09:01  UTC)<br/>
+*Wasat* Region 0 Mirage City is now present (2025-07-15 09:01  UTC)<br/>
+*Wasat* Region 1 Drywell Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Vega Bay* Region 0 Onsen Settlement is now present (2025-07-15 09:01  UTC)<br/>
+*Vega Bay* Region 1 Giri Town is now present (2025-07-15 09:01  UTC)<br/>
+*Vega Bay* Region 2 Sapporo Town is now present (2025-07-15 09:01  UTC)<br/>
+*Emeria*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Fenmire*'s max health has changed to 2.4m (2025-07-15 09:01  UTC)<br/>
+*Tarsh*'s max health has changed to 1.3m (2025-07-15 09:01  UTC)<br/>
+*Julheim*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Pöpli IX*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Bekvam III*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Vernen Wells*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
+*Aurora Bay*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Gaellivare*'s max health has changed to 1.7m (2025-07-15 09:01  UTC)<br/>
+*Caph*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Draupnir*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Mort*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Ingmar*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Choepessa IV*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Claorell*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Clasa*'s max health has changed to 1.7m (2025-07-15 09:01  UTC)<br/>
+*Lesath*'s max health has changed to 2.4m (2025-07-15 09:01  UTC)<br/>
+*Malevelon Creek*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Martale*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
+*Matar Bay*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Mintoria*'s max health has changed to 1.3m (2025-07-15 09:01  UTC)<br/>
+*Tien Kwan*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Ubanea*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Varylia 5*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Wasat*'s max health has changed to 2m (2025-07-15 09:01  UTC)<br/>
+*Vega Bay*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
 *Claorell* Region 2 Zenith Megacity is besieged by Automatons (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
@@ -8652,7 +8744,24 @@ DSS deploys to *Claorell* of the Tanis sector (2025-07-25 09:00  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-07-25 15:51  UTC)<br/>
  Decay: 0.5 on Alamak VII
  (2025-07-25 15:51  UTC)<br/>
-Major Order | A2-7-6 Kill Impalers On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
+Major Order | A2-7-6 Kill Sporeburst Warriors On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. In support of the ongoing public relations campaign, High Command has ordered an short-term expedition to FORI PRIME within the outskirts of the Gloom, to exterminate 5,000,000 Spore Burst Warriors using the Stalwart. This optional augmentation to the public relations campaign could further boost citizen morale to yet-unforseen heights. (2025-07-25 15:56  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-07-25 15:57  UTC)<br/>
 Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on FORI PRIME. (2025-07-25 17:53  UTC)<br/>
+ Decay: 2.5 on Claorell
+ (2025-07-25 20:00  UTC)<br/>
+
+### Day: #535
+ Decay: 1.0 on Achird III
+ (2025-07-26 09:00  UTC)<br/>
+Dispatch: M-105 Stalwart stratagem availability has ended. (2025-07-26 16:02  UTC)<br/>
+ Decay: 1.5 on Darius II, Achird III
+ (2025-07-26 16:02  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Righteous and furious extermination of Terminid Shriekers by the Helldivers has spurred our citizens to new heights of patriotic generosity. As a result, High Command has authorized the temporary addition of the Autocannon Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-26 16:04  UTC)<br/>
+*Claorell* Region 0 MAJOSYRI City has fallen to Humans (2025-07-27 03:29  UTC)<br/>
+Major Order | A2-7-6 Kill Sporeburst Warriors on *Fori Prime* is won | Objective: Eradicate (2025-07-27 06:27  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully exterminated 5,000,000 Spore Burst Warriors on FORI PRIME through effective employment of the Stalwart. A spike in citizen donations to the War Fund has made possible the short-term addition of the Orbital Railcannon Strike Stratagem to all Helldiver arsenals for the remainder of the current order. (2025-07-27 06:31  UTC)<br/>
+
+### Day: #536
+*Valmox* of the Rictus sector is attacked by Illuminate (2025-07-27 13:04  UTC)<br/>
+*Valmox* Region 2 Obedience City is besieged by Illuminate (2025-07-27 13:04  UTC)<br/>
