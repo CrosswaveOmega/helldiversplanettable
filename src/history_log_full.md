@@ -8311,51 +8311,31 @@ DSS deploys to *Veld* of the Orion sector (2025-07-09 05:40  UTC)<br/>
  (2025-07-09 08:49  UTC)<br/>
 
 ### Day: #518
- Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-09 09:00  UTC)<br/>
+ Decay: 0.0 on New Stockholm
+ (2025-07-09 10:00  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-09 20:49  UTC)<br/>
- Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
- (2025-07-09 20:49  UTC)<br/>
- Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-09 22:00  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-07-10 00:49  UTC)<br/>
- Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
- (2025-07-10 00:49  UTC)<br/>
- Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-10 02:00  UTC)<br/>
 ↳ *Herthon Secundus* liberation campaign ends (2025-07-10 08:49  UTC)<br/>
- Decay: 0.0 on New Stockholm<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
- (2025-07-10 08:49  UTC)<br/>
 *New Stockholm* defense is failed (2025-07-10 08:50  UTC)<br/>
 ↳ *New Stockholm* liberation campaign starts (2025-07-10 08:50  UTC)<br/>
 
 ### Day: #519
- Decay: 1.5 on New Stockholm<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-10 09:00  UTC)<br/>
 *Veld* Region 1 Laelia Megacity is besieged by Humans (2025-07-10 10:19  UTC)<br/>
- Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ Decay: 1.5 on New Stockholm
  (2025-07-10 10:19  UTC)<br/>
- Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-10 12:00  UTC)<br/>
 *Alairt III* liberation campaign starts (2025-07-10 13:58  UTC)<br/>
 *Alairt III* Region 1 New Storouse Town siege has ended (2025-07-10 13:58  UTC)<br/>
- Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
- (2025-07-10 13:58  UTC)<br/>
- Decay: 0.0 on Afoyay Bay, Erata Prime
- (2025-07-10 14:00  UTC)<br/>
 *Mekbuda* - *Cyberstan* warp link is added (2025-07-10 19:11  UTC)<br/>
 *Vindemitarix Prime* - *Mekbuda* warp link is added (2025-07-10 19:11  UTC)<br/>
 *Cyberstan* - *Merga IV* warp link is added (2025-07-10 19:11  UTC)<br/>
- Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime
+ Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector
  (2025-07-10 19:11  UTC)<br/>
- Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime
+ Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
  (2025-07-10 20:00  UTC)<br/>
 
 # Day: #520
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-07-11 15:44  UTC)<br/>
 *Achernar Secundus* Region 0 Currency Town is besieged by Humans (2025-07-11 15:44  UTC)<br/>
- Decay: 1.0 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-11 15:44  UTC)<br/>
 Dispatch: OPERATIONAL ALERT. Resource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on *Achernar Secundus* (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%. The surge in transportation on *Achernar Secundus* has precipitated a Terminid attack. If the planet is lost, the resources will be as well. (2025-07-11 15:49  UTC)<br/>
  Decay: 0.0 on Achernar Secundus
  (2025-07-11 15:49  UTC)<br/>
@@ -8368,42 +8348,26 @@ DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-11 16:36  UTC)<br/>
 DSS deploys to *Achernar Secundus* of the Borgus sector (2025-07-11 16:50  UTC)<br/>
  Decay: -0.5 on Slif
  (2025-07-11 16:50  UTC)<br/>
- Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
- (2025-07-11 18:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-07-11 19:40  UTC)<br/>
- Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-11 19:40  UTC)<br/>
 *Achernar Secundus* Region 2 Ol' Oldham City is besieged by Humans (2025-07-11 20:07  UTC)<br/>
- Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
- (2025-07-11 20:07  UTC)<br/>
 *Achernar Secundus* defense is won (2025-07-12 04:40  UTC)<br/>
 DSS deploys to *Slif* of the Celeste sector (2025-07-12 04:40  UTC)<br/>
- Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-12 04:40  UTC)<br/>
- Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Borgus sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
+ Decay: 1.5 on Achernar Secundus
  (2025-07-12 06:00  UTC)<br/>
 
 ### Day: #521
 *Slif* is liberated (2025-07-12 14:48  UTC)<br/>
 ↳ Celeste sector is fully under Human control (2025-07-12 14:48  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-12 14:48  UTC)<br/>
- Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: -0.5 on Slif<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-12 14:48  UTC)<br/>
- Decay: 1.5 on Ferris sector, Celeste sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Afoyay Bay, Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
+ Decay: 1.5 on Slif
  (2025-07-12 16:00  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is attacked by Illuminate (2025-07-12 17:32  UTC)<br/>
- Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 1.5 on Afoyay Bay<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-12 17:32  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-07-12 19:40  UTC)<br/>
  Decay: 0.0 on Afoyay Bay
  (2025-07-12 19:40  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-07-12 20:03  UTC)<br/>
- Decay: 1.5 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 0.0 on Erata Prime<br/> Decay: 5.0 on Oshaune, Zagon Prime<br/> Decay: 6.0 on Omicron
- (2025-07-12 20:03  UTC)<br/>
 
 ### Day: #522
- Decay: 1.0 on Ferris sector, Hanzo sector, Rictus sector, Sagan sector, Nanos sector, Falstaff sector, Akira sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Tanis sector, Gellert sector<br/> Decay: 2.5 on Erata Prime<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 6.0 on Oshaune, Zagon Prime<br/> Decay: 3.0 on Vindemitarix Prime<br/> Decay: 7.5 on Omicron<br/> Decay: 5.0 on Cyberstan
- (2025-07-13 10:00  UTC)<br/>
 *New Stockholm* is liberated (2025-07-13 14:27  UTC)<br/>
 ↳ *Herthon Secundus* liberation campaign starts (2025-07-13 14:27  UTC)<br/>
 DSS deploys to *Afoyay Bay* of the Gallux sector (2025-07-13 14:28  UTC)<br/>
@@ -8464,8 +8428,6 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
  (2025-07-15 08:43  UTC)<br/>
 
 ### Day: #524
- Decay: 1.0 on Oslo Station
- (2025-07-15 09:00  UTC)<br/>
  Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 158_HILJAISUUS<br/> Region Decay: 0.4 on 158_KALASATAMA<br/> Region Decay: 0.6 on 158_YDINKESKUSTA<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357<br/> Region Decay: 0.6 on 194_BUCU'S REST<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES
  (2025-07-15 09:00  UTC)<br/>
 *Fort Sanctuary* Region 0 Unnamed Megacity is now present (2025-07-15 09:01  UTC)<br/>
@@ -8544,8 +8506,6 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 *Claorell* Region 2 Zenith Megacity is besieged by Automatons (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
 *Varylia 5* Region 0 Sequim City is besieged by Humans (2025-07-15 09:16  UTC)<br/>
- Decay: 1.5 on Oslo Station
- (2025-07-15 09:16  UTC)<br/>
  Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH<br/> Region Decay: 0.4 on 244_SEQUIM
  (2025-07-15 09:16  UTC)<br/>
 *Julheim* of the Nanos sector is attacked by Automatons (2025-07-15 09:20  UTC)<br/>
@@ -8620,12 +8580,10 @@ Assault Division: Incineration Corps U4A deploys to *Chort Bay* (2025-07-18 08:4
 Assault Division: Incineration Corps U4B deploys to *Lesath* (2025-07-18 08:45  UTC)<br/>
 
 ### Day: #527
- Decay: 0.0 on Tarsh
+ Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Rictus sector, Saleria sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Hanzo sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Akira sector, Severin sector, Andromeda sector, Trigon sector, Tanis sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Lacaille sector, Gellert sector, Sten sector, Farsight sector, Xi Tauri sector, Ymir sector<br/> Decay: 1.0 on Ferris sector, Marspira sector, Orion sector, Korpus sector, Rictus sector, Nanos sector, Falstaff sector, Umlaut sector, Jin Xi sector, Gallux sector, Hanzo sector, Akira sector, Draco sector, Farsight sector, Omega sector, Ymir sector, Valdis sector, Sten sector, Trigon sector, Tanis sector, Gellert sector<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Falstaff sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Ymir sector<br/> Decay: 0.0 on Nublaria I, Julheim, Dolph, Mort, Troost<br/> Decay: 5.0 on Hellmire, Azur Secundus, Aurora Bay, Erson Sands, Fori Prime, Nivel 43, Cyberstan<br/> Decay: 0.0 on Meridia, Gaellivare<br/> Decay: 2.5 on Imber, Penta, Angel's Venture, Choohe, Erata Prime<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Nanos sector, Hydra sector, Tanis sector, Andromeda sector, Jin Xi sector<br/> Decay: 3.0 on Chort Bay, Vindemitarix Prime<br/> Decay: 6.0 on Terminid worlds<br/> Decay: 4.0 on Mekbuda, Merga IV<br/> Decay: 7.5 on Omicron
  (2025-07-18 09:00  UTC)<br/>
 Assault Division: Incineration Corps U4A deploys to *Lesath* (2025-07-18 09:48  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Vog-Sojoth* (2025-07-18 09:48  UTC)<br/>
- Decay: 1.5 on Tarsh
- (2025-07-18 09:48  UTC)<br/>
 Assault Division: Incineration Corps U4A deploys to *Gaellivare* (2025-07-18 10:46  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Claorell* (2025-07-18 10:46  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-18 10:46  UTC)<br/>
@@ -8693,26 +8651,16 @@ DSS effect Heavy Ordnance Distribution is activated (2025-07-23 06:21  UTC)<br/>
 Dispatch: OPERATIONS RESTORED. DSS Tactical Action resource requirements have been restored to normal. (2025-07-23 10:50  UTC)<br/>
  Decay: 0.0 on New Stockholm
  (2025-07-23 10:50  UTC)<br/>
- Decay: 1.5 on New Stockholm
- (2025-07-23 12:00  UTC)<br/>
 *Alamak VII* of the Hanzo sector is attacked by Illuminate (2025-07-23 13:37  UTC)<br/>
 *Alamak VII* Region 3 Filibuster Megacity is besieged by Illuminate (2025-07-23 13:37  UTC)<br/>
- Decay: 0.0 on New Stockholm
- (2025-07-23 13:37  UTC)<br/>
  Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
  (2025-07-23 14:00  UTC)<br/>
  Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
  (2025-07-23 14:00  UTC)<br/>
 *Alamak VII* Region 2 No Compound Settlement is besieged by Illuminate (2025-07-23 18:29  UTC)<br/>
- Decay: 0.0 on New Stockholm, Alamak VII
- (2025-07-23 18:29  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-23 20:59  UTC)<br/>
- Decay: 1.5 on New Stockholm<br/> Decay: 0.5 on Alamak VII
- (2025-07-23 22:00  UTC)<br/>
 *New Stockholm* defense is won (2025-07-24 02:55  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-07-24 02:55  UTC)<br/>
- Decay: 0.0 on New Stockholm, Alamak VII
- (2025-07-24 02:55  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-07-24 04:59  UTC)<br/>
  Decay: 1.5 on New Stockholm
  (2025-07-24 04:59  UTC)<br/>
@@ -8720,11 +8668,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-07-24 06:21  UTC)<br/>
 *Alamak VII* Region 0 Kesuma Town is besieged by Illuminate (2025-07-24 08:31  UTC)<br/>
 
 ### Day: #533
- Decay: 0.5 on Alamak VII
- (2025-07-24 09:00  UTC)<br/>
 *Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-07-24 11:04  UTC)<br/>
- Decay: 0.0 on Alamak VII
- (2025-07-24 11:04  UTC)<br/>
 Dispatch: FACTORY STRIDER SURGE. Significantly higher Factory Strider numbers have been observed on CLAORELL. (2025-07-24 15:31  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. The just decimation of the Voteless Fleshmobs by the Helldivers has inspired a boost in citizen War Bond purchases. High Command has authorized the temporary addition of the Recoilless Rifle Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-24 15:50  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-07-24 21:00  UTC)<br/>
@@ -8765,3 +8709,12 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully extermi
 ### Day: #536
 *Valmox* of the Rictus sector is attacked by Illuminate (2025-07-27 13:04  UTC)<br/>
 *Valmox* Region 2 Obedience City is besieged by Illuminate (2025-07-27 13:04  UTC)<br/>
+ Region Decay: 0.1 on 90_REBELSGRAVE<br/> Region Decay: 0.4 on 90_REFORMED-BY-TRUTH<br/> Region Decay: 0.4 on 90_OBEDIENCE
+ (2025-07-27 14:00  UTC)<br/>
+ Region Decay: 0.1 on 90_REBELSGRAVE<br/> Region Decay: 0.4 on 90_REFORMED-BY-TRUTH<br/> Region Decay: 0.4 on 90_OBEDIENCE
+ (2025-07-27 14:00  UTC)<br/>
+*Fori Prime* liberation campaign ends (2025-07-27 17:13  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Righteous and furious extermination of Terminid Impalers by the Helldivers has spurred our citizens to new heights of patriotic generosity. As a result, High Command has authorized the temporary addition of the HMG Emplacement Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-27 17:15  UTC)<br/>
+ Decay: 2.0 on Claorell
+ (2025-07-27 18:00  UTC)<br/>
+*Valmox* Region 1 Reformed-by-Truth City is besieged by Illuminate (2025-07-28 01:51  UTC)<br/>
