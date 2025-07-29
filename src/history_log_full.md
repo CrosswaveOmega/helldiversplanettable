@@ -8431,8 +8431,8 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 ### Day: #524
  Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 158_HILJAISUUS<br/> Region Decay: 0.4 on 158_KALASATAMA<br/> Region Decay: 0.6 on 158_YDINKESKUSTA<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357<br/> Region Decay: 0.6 on 194_BUCU'S REST<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES
  (2025-07-15 09:00  UTC)<br/>
-*Fort Sanctuary* Region 0 New Yearning City Megacity is now present (2025-07-15 09:01  UTC)<br/>
-*Emeria* Region 0 New Aspiration City Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Fort Sanctuary* Region 0 Unnamed Megacity is now present (2025-07-15 09:01  UTC)<br/>
+*Emeria* Region 0 Unnamed Megacity is now present (2025-07-15 09:01  UTC)<br/>
 *Fenmire* Region 0 Brawfermland Town is now present (2025-07-15 09:01  UTC)<br/>
 *Fenmire* Region 1 New Aberdeen Megacity is now present (2025-07-15 09:01  UTC)<br/>
 *Fenmire* Region 2 Saorsa Glen Megacity is now present (2025-07-15 09:01  UTC)<br/>
@@ -8638,6 +8638,9 @@ Major Order | A2-7-3 Repel Mass Automaton Attack is failed | Objective: Hold (20
 Dispatch:  MAJOR ORDER FAILED. *Super Earth* cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy. (2025-07-22 09:40  UTC)<br/>
 Major Order | A2-7-5 Kill Enemies for Propaganda is issued | Objective: Eradicate (2025-07-22 13:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares. Consult your Galactic Map for more information. (2025-07-22 13:01  UTC)<br/>
+*Fort Union* Region 4 Greatfort Megacity is renamed to New Hope City (2025-07-22 13:01  UTC)<br/>
+*Fort Sanctuary* Region 0 Unnamed Megacity is renamed to New Yearning City (2025-07-22 13:01  UTC)<br/>
+*Emeria* Region 0 Unnamed Megacity is renamed to New Aspiration City (2025-07-22 13:01  UTC)<br/>
 HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
 HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-07-22 23:22  UTC)<br/>
@@ -8738,7 +8741,6 @@ Assault Division: Incineration Corps U4B deploys to *Penta* (2025-07-29 10:09  U
 Assault Division: Incineration Corps U4B leaves *Penta* (2025-07-29 11:07  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Merak* (2025-07-29 11:09  UTC)<br/>
 Major Order | A2-7-5 Kill Enemies for Propaganda is won | Objective: Eradicate (2025-07-29 12:10  UTC)<br/>
-*Fort Union* Region 4 Greatfort Megacity is renamed to New Hope City (2025-07-29 12:12  UTC)<br/>
 *Fort Union* of the Orion sector is established as a New Hope Construction Site POI (2025-07-29 12:12  UTC)<br/>
 *Fort Sanctuary* of the Cancri sector is established as a New Hope Construction Site POI (2025-07-29 12:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Vigorous, spirited efforts by the Helldivers to generate patriotic war footage for our citizens has had the desired effect. Their acts of valor are now being broadcast to all workplace and home televisions, showcasing the inspiring and visceral destruction of our enemies inflicted by the Helldivers every day.   Consult your Galactic Map for more information. (2025-07-29 12:12  UTC)<br/>
