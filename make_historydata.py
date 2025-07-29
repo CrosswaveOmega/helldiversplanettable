@@ -714,7 +714,9 @@ async def process_event(
                     planetclone[last].adiv = ""
                     eff = get_effect(site)
                     if eff:
-                        event.text+=f" from {last}"
+                        event.text += (
+                            f" from {vjson['planets'].get(str(last), 'Somewhere...')}"
+                        )
                         planetclone[last].remove_desc(eff.name)
     if event.planet:
         update_planet_ownership(event, planetclone, store)
