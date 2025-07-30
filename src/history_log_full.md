@@ -8773,3 +8773,4 @@ Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Object
  (2025-07-30 11:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. New Alcubiere Drive shielding technology could lead to a new era of Gloom exploration. Meanwhile, Spore Burst Terminids originating from FORI PRIME have spread outside the Gloom, a first for this strain. The Helldivers are ordered to collect 30,000,000 Rare Terminid Samples, particularly those in the Jin Xi sectors. Additionally, they must hold *Turing* and *Achernar Secundus*, protecting our brilliant scientists and their vital engineers. (2025-07-30 11:04  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-07-30 12:13  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-07-30 17:05  UTC)<br/>
