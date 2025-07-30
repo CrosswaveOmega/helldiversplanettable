@@ -3104,7 +3104,7 @@ Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the ap
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
  Decay: 1.5 on Martale
  (2024-10-22 07:09  UTC)<br/>
-Assault Division: Jet Brigade U1 is routed from 198 (2024-10-22 07:17  UTC)<br/>
+Assault Division: Jet Brigade U1 is routed from {'name': 'Marfark', 'sector': 'Andromeda', 'biome': 'arctic_glacier_base', 'environmentals': ['blizzards'], 'names': {'en-US': 'MARFARK', 'en-GB': 'MARFARK', 'pt-BR': 'MARFARK', 'de-DE': 'MARFARK', 'es-ES': 'MARFARK', 'fr-FR': 'MARFARK', 'it-IT': 'MARFARK', 'ja-JP': 'マルファルク', 'ko-KO': '마르파르크', 'ms-MY': 'MARFARK', 'pl-PL': 'MARFARK', 'pt-PT': 'MARFARK', 'ru-RU': 'МАРФАРК', 'zh-Hans': '玛尔法克', 'zh-Hant': '瑪爾法克'}, 'type': 'arctic', 'weather_effects': ['extreme_cold', 'blizzards'], 'owner': 3} (2024-10-22 07:17  UTC)<br/>
 
 ### Day: #258
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-22 19:25  UTC)<br/>
@@ -3510,7 +3510,7 @@ Dispatch: STRATEGIC ALERT. The Jet Brigade ceaseless aggression has trapped them
 DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 
 ### Day: #287
-Assault Division: Jet Brigade U2 is routed from 69 (2024-11-20 16:21  UTC)<br/>
+Assault Division: Jet Brigade U2 is routed from {'name': 'Imber', 'sector': 'Talus', 'biome': 'moor_arid', 'environmentals': ['fire_tornadoes'], 'names': {'en-US': 'IMBER', 'en-GB': 'IMBER', 'pt-BR': 'IMBER', 'de-DE': 'IMBER', 'es-ES': 'IMBER', 'fr-FR': 'IMBER', 'it-IT': 'IMBER', 'ja-JP': 'インバー', 'ko-KO': '임베르', 'ms-MY': 'IMBER', 'pl-PL': 'IMBER', 'pt-PT': 'IMBER', 'ru-RU': 'ИМБЕР', 'zh-Hans': '因博尔', 'zh-Hant': '印博'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'intense_heat'], 'owner': 3} (2024-11-20 16:21  UTC)<br/>
 *Acamar IV* of the Jin Xi sector's Terminid Research Preserve POI is removed (2024-11-20 16:41  UTC)<br/>
 *Imber* is liberated (2024-11-20 17:14  UTC)<br/>
 ↳ Talus sector is fully under Human control (2024-11-20 17:14  UTC)<br/>
@@ -4605,7 +4605,7 @@ DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
  Decay: 2.5 on Choohe<br/> Decay: 1.5 on Marfark
  (2025-02-05 11:12  UTC)<br/>
 *Lesath* defense is won (2025-02-05 13:01  UTC)<br/>
-Assault Division: Jet Brigade U3 is routed from 194 (2025-02-05 13:01  UTC)<br/>
+Assault Division: Jet Brigade U3 is routed from {'name': 'Lesath', 'sector': 'Lacaille', 'biome': 'arctic_glacier_coldrocky', 'environmentals': ['none'], 'names': {'en-US': 'LESATH', 'en-GB': 'LESATH', 'pt-BR': 'LESATH', 'de-DE': 'LESATH', 'es-ES': 'LESATH', 'fr-FR': 'LESATH', 'it-IT': 'LESATH', 'ja-JP': 'レサス', 'ko-KO': '레스사스', 'ms-MY': 'LESATH', 'pl-PL': 'LESATH', 'pt-PT': 'LESATH', 'ru-RU': 'ЛЕСАТ', 'zh-Hans': '尾宿八', 'zh-Hant': '尾宿八'}, 'type': 'arctic', 'weather_effects': ['extreme_cold'], 'owner': 3} (2025-02-05 13:01  UTC)<br/>
 *Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-05 14:15  UTC)<br/>
  Decay: 1.5 on Lesath
  (2025-02-05 14:15  UTC)<br/>
@@ -4912,7 +4912,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
-Assault Division: Predator Strain U1 is routed from 168 (2025-02-18 11:47  UTC)<br/>
+Assault Division: Predator Strain U1 is routed from {'name': 'Erata Prime', 'sector': 'Umlaut', 'biome': 'sandy_spiky', 'environmentals': ['tremors'], 'names': {'en-US': 'ERATA PRIME', 'en-GB': 'ERATA PRIME', 'pt-BR': 'ERATA PRIME', 'de-DE': 'ERATA PRIME', 'es-ES': 'ERATA PRIME', 'fr-FR': 'ERATA PRIME', 'it-IT': 'ERATA PRIME', 'ja-JP': 'エラタ・プライム', 'ko-KO': '에라타 프라임', 'ms-MY': 'ERATA PRIME', 'pl-PL': 'ERATA PRIME', 'pt-PT': 'ERATA PRIME', 'ru-RU': 'ЭРАТА-ПРАЙМ', 'zh-Hans': '艾拉特主星', 'zh-Hant': '埃拉他主星'}, 'type': 'sandy', 'weather_effects': ['intense_heat', 'normal_temp'], 'owner': 1} (2025-02-18 11:47  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-18 12:11  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-18 12:11  UTC)<br/>
 Major Order | A2-2-3 Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
@@ -5685,7 +5685,7 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Meridia* moves to X 0.32917884 Y 0.13740657 (2025-03-19 23:00  UTC)<br/>
 DSS deploys to *Duma Tyr* of the Nanos sector (2025-03-20 02:11  UTC)<br/>
 *Martale* defense is won (2025-03-20 02:18  UTC)<br/>
-Assault Division: Incineration Corps U1B is routed from 199 (2025-03-20 02:18  UTC)<br/>
+Assault Division: Incineration Corps U1B is routed from {'name': 'Martale', 'sector': 'Andromeda', 'biome': 'moor_tundra', 'environmentals': ['none'], 'names': {'en-US': 'MARTALE', 'en-GB': 'MARTALE', 'pt-BR': 'MARTALE', 'de-DE': 'MARTALE', 'es-ES': 'MARTALE', 'fr-FR': 'MARTALE', 'it-IT': 'MARTALE', 'ja-JP': 'マルタル', 'ko-KO': '마르탈레', 'ms-MY': 'MARTALE', 'pl-PL': 'MARTALE', 'pt-PT': 'MARTALE', 'ru-RU': 'МАРТАЛЕ', 'zh-Hans': '玛尔特', 'zh-Hant': '馬塔爾'}, 'type': 'moor', 'weather_effects': ['normal_temp'], 'owner': 3} (2025-03-20 02:18  UTC)<br/>
 *Meridia* moves to X 0.32866967 Y 0.13704604 (2025-03-20 03:00  UTC)<br/>
  Decay: 1.5 on Martale
  (2025-03-20 03:00  UTC)<br/>
@@ -5813,7 +5813,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
 Major Order | A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is failed | Objective: Defend/Eradicate (2025-03-23 21:47  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground. Further, insufficient E-710 was gathered to deploy the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-23 21:47  UTC)<br/>
 *Julheim* is liberated (2025-03-23 21:50  UTC)<br/>
-Assault Division: Incineration Corps U1A is routed from 72 (2025-03-23 21:50  UTC)<br/>
+Assault Division: Incineration Corps U1A is routed from {'name': 'Julheim', 'sector': 'Nanos', 'biome': 'arctic_glacier_base', 'environmentals': ['blizzards'], 'names': {'en-US': 'JULHEIM', 'en-GB': 'JULHEIM', 'pt-BR': 'JULHEIM', 'de-DE': 'JULHEIM', 'es-ES': 'JULHEIM', 'fr-FR': 'JULHEIM', 'it-IT': 'JULHEIM', 'ja-JP': 'ユーハイム', 'ko-KO': '줄하임', 'ms-MY': 'JULHEIM', 'pl-PL': 'JULHEIM', 'pt-PT': 'JULHEIM', 'ru-RU': 'ЮЛЬХЕЙМ', 'zh-Hans': '尤尔海姆', 'zh-Hant': '約海姆'}, 'type': 'arctic', 'weather_effects': ['extreme_cold', 'blizzards'], 'owner': 3} (2025-03-23 21:50  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-03-23 22:32  UTC)<br/>
 *Meridia* moves to X 0.31751648 Y 0.12914838 (2025-03-23 23:00  UTC)<br/>
 *Choepessa IV* defense is failed (2025-03-24 00:16  UTC)<br/>
@@ -6015,7 +6015,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-03-30 18:04  UTC)<br/>
 *Meridia* moves to X 0.30322072 Y 0.119025454 (2025-03-30 23:00  UTC)<br/>
 *Ingmar* is liberated (2025-03-31 00:37  UTC)<br/>
 ↳ *Vandalon IV* defense is auto-won via gambit (2025-03-31 00:37  UTC)<br/>
-Assault Division: Incineration Corps U2B is routed from 243 (2025-03-31 00:37  UTC)<br/>
+Assault Division: Incineration Corps U2B is routed from {'name': 'Vandalon IV', 'sector': 'Trigon', 'biome': 'arctic_glacier_base', 'environmentals': ['blizzards'], 'names': {'en-US': 'VANDALON IV', 'en-GB': 'VANDALON IV', 'pt-BR': 'VANDALON IV', 'de-DE': 'VANDALON IV', 'es-ES': 'VANDALON IV', 'fr-FR': 'VANDALON IV', 'it-IT': 'VANDALON IV', 'ja-JP': 'ヴァンダロン IV', 'ko-KO': '반달론 IV', 'ms-MY': 'VANDALON IV', 'pl-PL': 'VANDALON IV', 'pt-PT': 'VANDALON IV', 'ru-RU': 'ВАНДАЛОН IV', 'zh-Hans': '万达隆IV', 'zh-Hant': '凡達倫IV'}, 'type': 'arctic', 'weather_effects': ['extreme_cold', 'blizzards'], 'owner': 1} (2025-03-31 00:37  UTC)<br/>
 DSS deploys to *Pöpli IX* of the Xzar sector (2025-03-31 00:38  UTC)<br/>
  Decay: 500.0 on Ingmar<br/> Decay: 1.0 on Vandalon IV
  (2025-03-31 02:00  UTC)<br/>
@@ -6027,7 +6027,7 @@ DSS deploys to *Pöpli IX* of the Xzar sector (2025-03-31 00:38  UTC)<br/>
 
 ### Day: #418
 *Pöpli IX* defense is won (2025-03-31 09:03  UTC)<br/>
-Assault Division: Incineration Corps U2A is routed from 107 (2025-03-31 09:03  UTC)<br/>
+Assault Division: Incineration Corps U2A is routed from {'name': 'Pöpli IX', 'sector': 'Xzar', 'biome': 'moor_arid', 'environmentals': ['fire_tornadoes'], 'names': {'en-US': 'PÖPLI IX', 'en-GB': 'PÖPLI IX', 'pt-BR': 'PÖPLI IX', 'de-DE': 'PÖPLI IX', 'es-ES': 'PÖPLI IX', 'fr-FR': 'PÖPLI IX', 'it-IT': 'PÖPLI IX', 'ja-JP': 'パープリー IX', 'ko-KO': '푀플리 IX', 'ms-MY': 'PÖPLI IX', 'pl-PL': 'PÖPLI IX', 'pt-PT': 'PÖPLI IX', 'ru-RU': 'ПЕПЛИ IX', 'zh-Hans': '珀普利IX', 'zh-Hant': '波普里IX'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'intense_heat'], 'owner': 1} (2025-03-31 09:03  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-03-31 09:04  UTC)<br/>
 *Caph* of the Theseus sector is attacked by Automatons (2025-03-31 09:43  UTC)<br/>
  Decay: 500.0 on Pöpli IX
@@ -6149,7 +6149,7 @@ Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 17:42  UT
 Dispatch: WARFRONT DEVELOPMENT. A successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense. (2025-04-01 18:43  UTC)<br/>
 Meirida moves to X 0.30120555 Y 0.11759851 (2025-04-01 19:00  UTC)<br/>
 *Vandalon IV* defense is won (2025-04-01 19:00  UTC)<br/>
-Assault Division: Incineration Corps U2C is routed from 243 (2025-04-01 19:00  UTC)<br/>
+Assault Division: Incineration Corps U2C is routed from {'name': 'Vandalon IV', 'sector': 'Trigon', 'biome': 'arctic_glacier_base', 'environmentals': ['blizzards'], 'names': {'en-US': 'VANDALON IV', 'en-GB': 'VANDALON IV', 'pt-BR': 'VANDALON IV', 'de-DE': 'VANDALON IV', 'es-ES': 'VANDALON IV', 'fr-FR': 'VANDALON IV', 'it-IT': 'VANDALON IV', 'ja-JP': 'ヴァンダロン IV', 'ko-KO': '반달론 IV', 'ms-MY': 'VANDALON IV', 'pl-PL': 'VANDALON IV', 'pt-PT': 'VANDALON IV', 'ru-RU': 'ВАНДАЛОН IV', 'zh-Hans': '万达隆IV', 'zh-Hant': '凡達倫IV'}, 'type': 'arctic', 'weather_effects': ['extreme_cold', 'blizzards'], 'owner': 1} (2025-04-01 19:00  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2025-04-01 19:00  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-04-01 19:27  UTC)<br/>
  Decay: 1.0 on Vandalon IV
@@ -6220,8 +6220,8 @@ Dispatch: ANNOUNCEMENT. Today marks *Malevelon Creek* Memorial Day. On this day,
 ↳ Omega sector is fully under Human control (2025-04-03 15:51  UTC)<br/>
 Dispatch: The Eagle 500kg Bomb stratagem is temporarily available to all Helldivers. (2025-04-03 18:41  UTC)<br/>
 *Pöpli IX* defense is won (2025-04-03 18:43  UTC)<br/>
-Assault Division: Incineration Corps U2D is routed from 107 (2025-04-03 18:43  UTC)<br/>
-Assault Division: Jet Brigade U4 is routed from 107 (2025-04-03 18:43  UTC)<br/>
+Assault Division: Incineration Corps U2D is routed from {'name': 'Pöpli IX', 'sector': 'Xzar', 'biome': 'moor_arid', 'environmentals': ['fire_tornadoes'], 'names': {'en-US': 'PÖPLI IX', 'en-GB': 'PÖPLI IX', 'pt-BR': 'PÖPLI IX', 'de-DE': 'PÖPLI IX', 'es-ES': 'PÖPLI IX', 'fr-FR': 'PÖPLI IX', 'it-IT': 'PÖPLI IX', 'ja-JP': 'パープリー IX', 'ko-KO': '푀플리 IX', 'ms-MY': 'PÖPLI IX', 'pl-PL': 'PÖPLI IX', 'pt-PT': 'PÖPLI IX', 'ru-RU': 'ПЕПЛИ IX', 'zh-Hans': '珀普利IX', 'zh-Hant': '波普里IX'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'intense_heat'], 'owner': 1} (2025-04-03 18:43  UTC)<br/>
+Assault Division: Jet Brigade U4 is routed from {'name': 'Pöpli IX', 'sector': 'Xzar', 'biome': 'moor_arid', 'environmentals': ['fire_tornadoes'], 'names': {'en-US': 'PÖPLI IX', 'en-GB': 'PÖPLI IX', 'pt-BR': 'PÖPLI IX', 'de-DE': 'PÖPLI IX', 'es-ES': 'PÖPLI IX', 'fr-FR': 'PÖPLI IX', 'it-IT': 'PÖPLI IX', 'ja-JP': 'パープリー IX', 'ko-KO': '푀플리 IX', 'ms-MY': 'PÖPLI IX', 'pl-PL': 'PÖPLI IX', 'pt-PT': 'PÖPLI IX', 'ru-RU': 'ПЕПЛИ IX', 'zh-Hans': '珀普利IX', 'zh-Hant': '波普里IX'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'intense_heat'], 'owner': 1} (2025-04-03 18:43  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-04-03 18:44  UTC)<br/>
 Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage! (2025-04-03 18:45  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. The Automaton Jet Brigade has been defeated and dismantled against the stalwart defense of the Helldivers. While the Automatons have evidenced the concerning capability of re-fielding these forces, the action of the Helldivers proved the continued supremacy of elite human warfighting over the enemy's artificial imitations. (2025-04-03 18:55  UTC)<br/>
@@ -6526,7 +6526,7 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
 *Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
 ↳ Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:28  UTC)<br/>
-Assault Division: Predator Strain U3 is routed from 211 (2025-04-15 23:28  UTC)<br/>
+Assault Division: Predator Strain U3 is routed from {'name': 'Nivel 43', 'sector': 'Mirin', 'biome': 'primordial_dead', 'environmentals': ['thick_fog'], 'names': {'en-US': 'NIVEL 43', 'en-GB': 'NIVEL 43', 'pt-BR': 'NÍVEL 43', 'de-DE': 'NIVEL 43', 'es-ES': 'NIVEL 43', 'fr-FR': 'NIVEL 43', 'it-IT': 'Nivel 43', 'ja-JP': 'ニベル43', 'ko-KO': '니벨 43', 'ms-MY': 'NIVEL 43', 'pl-PL': 'NIVEL 43', 'pt-PT': 'NIVEL 43', 'ru-RU': 'НИВЕЛЬ-43', 'zh-Hans': '尼维尔43', 'zh-Hant': '尼威爾43號'}, 'type': 'primordial', 'weather_effects': ['thick_fog'], 'owner': 2} (2025-04-15 23:28  UTC)<br/>
 *Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
 *Meridia* moves to X 0.28515476 Y 0.11733294 (2025-04-16 03:00  UTC)<br/>
@@ -6633,7 +6633,7 @@ Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-17 20:34  
 ### Day: #436
 *Meridia* moves to X 0.2817636 Y 0.117645435 (2025-04-18 11:00  UTC)<br/>
 *Achernar Secundus* defense is won (2025-04-18 11:16  UTC)<br/>
-Assault Division: Predator Strain U4D is routed from 130 (2025-04-18 11:16  UTC)<br/>
+Assault Division: Predator Strain U4D is routed from {'name': 'Achernar Secundus', 'sector': 'Borgus', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'ACHERNAR SECUNDUS', 'en-GB': 'ACHERNAR SECUNDUS', 'pt-BR': 'ACHERNAR SECUNDUS', 'de-DE': 'ACHERNAR SECUNDUS', 'es-ES': 'ACHERNAR SECUNDUS', 'fr-FR': 'ACHERNAR SECUNDUS', 'it-IT': 'ACHERNAR SECUNDUS', 'ja-JP': 'アヘアナー・セカンダス', 'ko-KO': '아체르나르 세쿤두스', 'ms-MY': 'ACHERNAR SECUNDUS', 'pl-PL': 'ACHERNAR SECUNDUS', 'pt-PT': 'ACHERNAR SECUNDUS', 'ru-RU': 'АХЕРНАР II', 'zh-Hans': '水委一次星', 'zh-Hant': '水委一次星'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-04-18 11:16  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-18 11:16  UTC)<br/>
  Decay: 500.0 on Achernar Secundus
  (2025-04-18 12:00  UTC)<br/>
@@ -6691,9 +6691,9 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 ↳ *Erata Prime* defense is auto-won via gambit (2025-04-19 11:18  UTC)<br/>
 ↳ *Esker* liberation campaign starts (2025-04-19 11:18  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-04-19 11:18  UTC)<br/>
-Assault Division: Predator Strain U4E is routed from 124 (2025-04-19 11:18  UTC)<br/>
-Assault Division: Predator Strain U4G is routed from 76 (2025-04-19 11:18  UTC)<br/>
-Assault Division: Predator Strain U4H is routed from 168 (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4E is routed from {'name': 'Bore Rock', 'sector': 'Falstaff', 'biome': 'swamp_base', 'environmentals': ['none'], 'names': {'en-US': 'BORE ROCK', 'en-GB': 'BORE ROCK', 'pt-BR': 'PEDRA FURA', 'de-DE': 'BORE ROCK', 'es-ES': 'ROCA ABURRIDA', 'fr-FR': 'FORE-PIERRE', 'it-IT': 'BORE ROCK', 'ja-JP': 'ボアロック', 'ko-KO': '보어 락', 'ms-MY': 'ROCA DEL FASTIDIO', 'pl-PL': 'ŚWIDROWANA SKAŁA', 'pt-PT': 'BORE ROCK', 'ru-RU': 'БУРОВОЙ КАМЕНЬ', 'zh-Hans': '博尔岩', 'zh-Hant': '伯爾岩'}, 'type': 'swamp', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 2} (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4G is routed from {'name': 'Terrek', 'sector': 'Orion', 'biome': 'sandy_moon', 'environmentals': ['meteor_storms'], 'names': {'en-US': 'TERREK', 'en-GB': 'TERREK', 'pt-BR': 'TERREK', 'de-DE': 'TERREK', 'es-ES': 'TERREK', 'fr-FR': 'TERREK', 'it-IT': 'TERREK', 'ja-JP': 'テレック', 'ko-KO': '테렉', 'ms-MY': 'TERREK', 'pl-PL': 'TERREK', 'pt-PT': 'TERREK', 'ru-RU': 'ТЕРРЕК', 'zh-Hans': '泰雷克', 'zh-Hant': '鐵瑞克'}, 'type': 'sandy', 'weather_effects': ['extreme_cold'], 'owner': 1} (2025-04-19 11:18  UTC)<br/>
+Assault Division: Predator Strain U4H is routed from {'name': 'Erata Prime', 'sector': 'Umlaut', 'biome': 'sandy_spiky', 'environmentals': ['tremors'], 'names': {'en-US': 'ERATA PRIME', 'en-GB': 'ERATA PRIME', 'pt-BR': 'ERATA PRIME', 'de-DE': 'ERATA PRIME', 'es-ES': 'ERATA PRIME', 'fr-FR': 'ERATA PRIME', 'it-IT': 'ERATA PRIME', 'ja-JP': 'エラタ・プライム', 'ko-KO': '에라타 프라임', 'ms-MY': 'ERATA PRIME', 'pl-PL': 'ERATA PRIME', 'pt-PT': 'ERATA PRIME', 'ru-RU': 'ЭРАТА-ПРАЙМ', 'zh-Hans': '艾拉特主星', 'zh-Hant': '埃拉他主星'}, 'type': 'sandy', 'weather_effects': ['intense_heat', 'normal_temp'], 'owner': 1} (2025-04-19 11:18  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-19 11:19  UTC)<br/>
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-04-19 11:44  UTC)<br/>
  Decay: 500.0 on Terrek<br/> Decay: 2.5 on Erata Prime
@@ -6721,9 +6721,9 @@ Assault Division: Predator Strain U4I leaves *Estanu* (2025-04-19 23:41  UTC)<br
 ↳ *Turing* defense is auto-won via gambit (2025-04-20 04:53  UTC)<br/>
 ↳ *Gacrux* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
-Assault Division: Predator Strain U4F is routed from 129 (2025-04-20 04:53  UTC)<br/>
-Assault Division: Predator Strain U4J is routed from 78 (2025-04-20 04:53  UTC)<br/>
-Assault Division: Predator Strain U4K is routed from 126 (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4F is routed from {'name': 'Acamar IV', 'sector': 'Jin Xi', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'ACAMAR IV', 'en-GB': 'ACAMAR IV', 'pt-BR': 'ACAMAR IV', 'de-DE': 'ACAMAR IV', 'es-ES': 'ACAMAR IV', 'fr-FR': 'ACAMAR IV', 'it-IT': 'ACAMAR IV', 'ja-JP': 'アカマー IV', 'ko-KO': '아카마르 IV', 'ms-MY': 'ACAMAR IV', 'pl-PL': 'ACAMAR IV', 'pt-PT': 'ACAMAR IV', 'ru-RU': 'АКАМАР IV', 'zh-Hans': '天园六IV', 'zh-Hant': '天園六IV'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4J is routed from {'name': 'Crimsica', 'sector': 'Draco', 'biome': 'moor_red', 'environmentals': ['ion_storms'], 'names': {'en-US': 'CRIMSICA', 'en-GB': 'CRIMSICA', 'pt-BR': 'CRIMSICA', 'de-DE': 'CRIMSICA', 'es-ES': 'CRIMSICA', 'fr-FR': 'CRIMSICA', 'it-IT': 'CRIMSICA', 'ja-JP': 'クリムジカ', 'ko-KO': '크림시카', 'ms-MY': 'CRIMSICA', 'pl-PL': 'CRIMSICA', 'pt-PT': 'CRIMSICA', 'ru-RU': 'КРИМСИКА', 'zh-Hans': '克里姆西卡', 'zh-Hant': '克里姆錫卡'}, 'type': 'moor', 'weather_effects': ['normal_temp'], 'owner': 1} (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4K is routed from {'name': 'Turing', 'sector': 'Umlaut', 'biome': 'primordial_purple', 'environmentals': ['none'], 'names': {'en-US': 'TURING', 'en-GB': 'TURING', 'pt-BR': 'TURING', 'de-DE': 'TURING', 'es-ES': 'TURING', 'fr-FR': 'TURING', 'it-IT': 'TURING', 'ja-JP': 'テューリング', 'ko-KO': '튜링', 'ms-MY': 'TURING', 'pl-PL': 'TURING', 'pt-PT': 'TURING', 'ru-RU': 'ТЬЮРИНГ', 'zh-Hans': '图灵', 'zh-Hant': '圖靈'}, 'type': 'primordial', 'weather_effects': ['normal_temp'], 'owner': 2} (2025-04-20 04:53  UTC)<br/>
 DSS deploys to *Estanu* of the Draco sector (2025-04-20 04:53  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53  UTC)<br/>
@@ -6751,7 +6751,7 @@ Dispatch: NEW MAJOR ORDER. The Illuminate have launched multiple simultaneous at
 *Erata Prime* defense is won (2025-04-20 20:37  UTC)<br/>
 ↳ Major Order | A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
 NOTE: When the *Acamar IV* Gambit for the *Crimsica* and *Turing* defenses was won the counter went from 5 to 8 for unknown reasons. (2025-04-20 20:37  UTC)<br/>
-Assault Division: Predator Strain U4L is routed from 168 (2025-04-20 20:37  UTC)<br/>
+Assault Division: Predator Strain U4L is routed from {'name': 'Erata Prime', 'sector': 'Umlaut', 'biome': 'sandy_spiky', 'environmentals': ['tremors'], 'names': {'en-US': 'ERATA PRIME', 'en-GB': 'ERATA PRIME', 'pt-BR': 'ERATA PRIME', 'de-DE': 'ERATA PRIME', 'es-ES': 'ERATA PRIME', 'fr-FR': 'ERATA PRIME', 'it-IT': 'ERATA PRIME', 'ja-JP': 'エラタ・プライム', 'ko-KO': '에라타 프라임', 'ms-MY': 'ERATA PRIME', 'pl-PL': 'ERATA PRIME', 'pt-PT': 'ERATA PRIME', 'ru-RU': 'ЭРАТА-ПРАЙМ', 'zh-Hans': '艾拉特主星', 'zh-Hant': '埃拉他主星'}, 'type': 'sandy', 'weather_effects': ['intense_heat', 'normal_temp'], 'owner': 1} (2025-04-20 20:37  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-20 20:37  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The sudden onslaught of Gloom-mutated Terminids has been slowed, following days of heavy fighting. The Predator Strain remains at large. Consult your Galactic Map for more information. (2025-04-20 20:44  UTC)<br/>
  Decay: 2.5 on Erata Prime
@@ -6764,7 +6764,7 @@ DSS effect Orbital Blockade stops (2025-04-20 23:33  UTC)<br/>
 *Meridia* moves to X 0.27754855 Y 0.11803385 (2025-04-21 03:00  UTC)<br/>
 *Fenrir III* defense is won (2025-04-21 06:49  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-21 06:49  UTC)<br/>
-Assault Division: Predator Strain U4M is routed from 125 (2025-04-21 06:49  UTC)<br/>
+Assault Division: Predator Strain U4M is routed from {'name': 'Fenrir III', 'sector': 'Umlaut', 'biome': 'sandy_moon', 'environmentals': ['meteor_storms'], 'names': {'en-US': 'FENRIR III', 'en-GB': 'FENRIR III', 'pt-BR': 'FENRIR III', 'de-DE': 'FENRIR III', 'es-ES': 'FENRIR III', 'fr-FR': 'FENRIR III', 'it-IT': 'FENRIR III', 'ja-JP': 'フェンリル III', 'ko-KO': '펜리르 III', 'ms-MY': 'FENRIR III', 'pl-PL': 'FENRIR III', 'pt-PT': 'FENRIR III', 'ru-RU': 'ФЕНРИР III', 'zh-Hans': '芬里尔III', 'zh-Hant': '芬里爾III'}, 'type': 'sandy', 'weather_effects': ['extreme_cold'], 'owner': 1} (2025-04-21 06:49  UTC)<br/>
 DSS deploys to *Karlia* of the Omega sector (2025-04-21 06:49  UTC)<br/>
 *Meridia* moves to X 0.27725178 Y 0.1180612 (2025-04-21 07:00  UTC)<br/>
 *Karlia*'s invasion is repelled (2025-04-21 08:43  UTC)<br/>
@@ -7118,7 +7118,7 @@ Assault Division: Predator Strain U4P deploys to *Cirrus* (2025-05-03 09:24  UTC
  (2025-05-04 12:00  UTC)<br/>
 *Imber* is liberated (2025-05-05 01:53  UTC)<br/>
 ↳ *Claorell* liberation campaign starts (2025-05-05 01:53  UTC)<br/>
-Assault Division: Incineration Corps U3A is routed from 69 (2025-05-05 01:53  UTC)<br/>
+Assault Division: Incineration Corps U3A is routed from {'name': 'Imber', 'sector': 'Talus', 'biome': 'moor_arid', 'environmentals': ['fire_tornadoes'], 'names': {'en-US': 'IMBER', 'en-GB': 'IMBER', 'pt-BR': 'IMBER', 'de-DE': 'IMBER', 'es-ES': 'IMBER', 'fr-FR': 'IMBER', 'it-IT': 'IMBER', 'ja-JP': 'インバー', 'ko-KO': '임베르', 'ms-MY': 'IMBER', 'pl-PL': 'IMBER', 'pt-PT': 'IMBER', 'ru-RU': 'ИМБЕР', 'zh-Hans': '因博尔', 'zh-Hant': '印博'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'intense_heat'], 'owner': 3} (2025-05-05 01:53  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-05-05 01:53  UTC)<br/>
 DSS deploys to *Clasa* of the Tanis sector (2025-05-05 05:01  UTC)<br/>
 *Fort Union* of the Orion sector is attacked by Terminids (2025-05-05 07:13  UTC)<br/>
@@ -7137,7 +7137,7 @@ Assault Division: Predator Strain U4A leaves *Esker* (2025-05-05 10:55  UTC)<br/
 Assault Division: Predator Strain U4N leaves *Bore Rock* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4A deploys to *Nivel 43* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4N deploys to *Esker* (2025-05-05 10:56  UTC)<br/>
-Assault Division: Predator Strain U4Q is routed from 16 (2025-05-05 12:12  UTC)<br/>
+Assault Division: Predator Strain U4Q is routed from {'name': 'Fort Union', 'sector': 'Orion', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'FORT UNION', 'en-GB': 'FORT UNION', 'pt-BR': 'FORTE DA UNIÃO', 'de-DE': 'FORT UNION', 'es-ES': 'FUERTE UNIÓN', 'fr-FR': 'FORT UNION', 'it-IT': 'FORT UNION', 'ja-JP': 'フォート・ユニオン', 'ko-KO': '포트 유니언', 'ms-MY': 'FUERTE DE LA UNIÓN', 'pl-PL': 'FORT JEDNOŚCI', 'pt-PT': 'FORTE UNIÃO', 'ru-RU': 'ФОРТ ЕДИНЕНИЯ', 'zh-Hans': '联合堡', 'zh-Hant': '聯盟堡'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-05-05 12:12  UTC)<br/>
 Assault Division: Predator Strain U4N leaves *Esker* (2025-05-05 13:26  UTC)<br/>
 Assault Division: Incineration Corps U3C leaves *Vernen Wells* (2025-05-05 13:47  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
@@ -7177,7 +7177,7 @@ DSS effect Orbital Blockade is activated (2025-05-05 21:05  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-05-06 01:01  UTC)<br/>
 DSS deploys to *Fort Union* of the Orion sector (2025-05-06 05:01  UTC)<br/>
 *Fort Union* defense is won (2025-05-06 06:17  UTC)<br/>
-Assault Division: Predator Strain U4Q is routed from 16 (2025-05-06 06:17  UTC)<br/>
+Assault Division: Predator Strain U4Q is routed from {'name': 'Fort Union', 'sector': 'Orion', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'FORT UNION', 'en-GB': 'FORT UNION', 'pt-BR': 'FORTE DA UNIÃO', 'de-DE': 'FORT UNION', 'es-ES': 'FUERTE UNIÓN', 'fr-FR': 'FORT UNION', 'it-IT': 'FORT UNION', 'ja-JP': 'フォート・ユニオン', 'ko-KO': '포트 유니언', 'ms-MY': 'FUERTE DE LA UNIÓN', 'pl-PL': 'FORT JEDNOŚCI', 'pt-PT': 'FORTE UNIÃO', 'ru-RU': 'ФОРТ ЕДИНЕНИЯ', 'zh-Hans': '联合堡', 'zh-Hant': '聯盟堡'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-05-06 06:17  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-05-06 06:17  UTC)<br/>
  Decay: 500.0 on Fort Union<br/> Decay: 1.0 on Cirrus<br/> Decay: 0.5 on Darius II, Achird III
  (2025-05-06 08:00  UTC)<br/>
@@ -7221,7 +7221,7 @@ Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-07 12:56  UTC)<b
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-07 17:01  UTC)<br/>
 *Cirrus* is liberated (2025-05-07 21:10  UTC)<br/>
 ↳ *Terrek* liberation campaign starts (2025-05-07 21:10  UTC)<br/>
-Assault Division: Predator Strain U4P is routed from 77 (2025-05-07 21:10  UTC)<br/>
+Assault Division: Predator Strain U4P is routed from {'name': 'Cirrus', 'sector': 'Orion', 'biome': 'primordial_dead', 'environmentals': ['thick_fog'], 'names': {'en-US': 'CIRRUS', 'en-GB': 'CIRRUS', 'pt-BR': 'CIRRUS', 'de-DE': 'CIRRUS', 'es-ES': 'CIRRUS', 'fr-FR': 'CIRRUS', 'it-IT': 'CIRRUS', 'ja-JP': 'シラス', 'ko-KO': '시루스', 'ms-MY': 'CIRRUS', 'pl-PL': 'CIRRUS', 'pt-PT': 'CIRRUS', 'ru-RU': 'СИРРУС', 'zh-Hans': '希勒斯', 'zh-Hant': '錫瑞斯'}, 'type': 'primordial', 'weather_effects': ['thick_fog'], 'owner': 2} (2025-05-07 21:10  UTC)<br/>
 
 ### Day: #456
 *Krakatwo* defense is won (2025-05-08 09:02  UTC)<br/>
@@ -7263,7 +7263,7 @@ DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
  Decay: 0.0 on Demiurg
  (2025-05-09 20:52  UTC)<br/>
 *Curia* defense is won (2025-05-10 06:36  UTC)<br/>
-Assault Division: Incineration Corps U3C is routed from 66 (2025-05-10 06:36  UTC)<br/>
+Assault Division: Incineration Corps U3C is routed from {'name': 'Curia', 'sector': 'Marspira', 'biome': 'sandy_moon', 'environmentals': ['meteor_storms'], 'names': {'en-US': 'CURIA', 'en-GB': 'CURIA', 'pt-BR': 'CÚRIA', 'de-DE': 'CURIA', 'es-ES': 'CURIA', 'fr-FR': 'CURIA', 'it-IT': 'CURIA', 'ja-JP': 'キュリア', 'ko-KO': '쿠리아', 'ms-MY': 'CURIA', 'pl-PL': 'CURIA', 'pt-PT': 'CURIA', 'ru-RU': 'КУРИЯ', 'zh-Hans': '居里亚', 'zh-Hant': '庫里亞'}, 'type': 'sandy', 'weather_effects': ['extreme_cold'], 'owner': 3} (2025-05-10 06:36  UTC)<br/>
 DSS deploys to *Demiurg* of the Tanis sector (2025-05-10 06:36  UTC)<br/>
 *Sulfura* of the Celeste sector is attacked by Terminids (2025-05-10 08:29  UTC)<br/>
 Assault Division: Predator Strain U4O divides into 2 groups [U4O, U4R] (2025-05-10 08:29  UTC)<br/>
@@ -7304,7 +7304,7 @@ DSS deploys to *Claorell* of the Tanis sector (2025-05-11 21:04  UTC)<br/>
  Decay: 0.5 on Sulfura
  (2025-05-12 00:00  UTC)<br/>
 *Claorell* defense is won (2025-05-12 07:21  UTC)<br/>
-Assault Division: Jet Brigade U5 is routed from 161 (2025-05-12 07:21  UTC)<br/>
+Assault Division: Jet Brigade U5 is routed from {'name': 'Claorell', 'sector': 'Tanis', 'biome': 'sandy_moon', 'environmentals': ['meteor_storms'], 'names': {'en-US': 'CLAORELL', 'en-GB': 'CLAORELL', 'pt-BR': 'CLAORELL', 'de-DE': 'CLAORELL', 'es-ES': 'CLAORELL', 'fr-FR': 'CLAORELL', 'it-IT': 'CLAORELL', 'ja-JP': 'クラオレル', 'ko-KO': '클라오렐', 'ms-MY': 'CLAORELL', 'pl-PL': 'CLAORELL', 'pt-PT': 'CLAORELL', 'ru-RU': 'КЛАОРЕЛЛ', 'zh-Hans': '可洛尔', 'zh-Hant': '克勞瑞'}, 'type': 'sandy', 'weather_effects': ['extreme_cold'], 'owner': 3} (2025-05-12 07:21  UTC)<br/>
 DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
 
 # Day: #460
@@ -7421,7 +7421,7 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 *Super Earth* Region 6 Equality On Sea Megacity is now present (2025-05-20 09:07  UTC)<br/>
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
-*Super Earth* Region 0 Eagleopolis Megacity is besieged by IIlluminate (2025-05-20 09:07  UTC)<br/>
+*Super Earth* Region 0 Eagleopolis Megacity is besieged by Illuminate (2025-05-20 09:07  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
@@ -7451,7 +7451,7 @@ Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fi
 *Alamak VII* Region 2 No Compound Settlement is now present (2025-05-20 15:53  UTC)<br/>
 *Alamak VII* Region 3 Filibuster Mega City is now present (2025-05-20 15:53  UTC)<br/>
 *Andar* Region 0 New Tokyo Megacity is now present (2025-05-20 15:53  UTC)<br/>
-*Super Earth* Region 2 Remembrance Megacity is besieged by IIlluminate (2025-05-20 20:02  UTC)<br/>
+*Super Earth* Region 2 Remembrance Megacity is besieged by Illuminate (2025-05-20 20:02  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (2025-05-20 20:04  UTC)<br/>
 *Super Earth* Region 6 Equality-on-Sea Megacity is besieged by Illuminate (2025-05-21 08:11  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (2025-05-21 08:11  UTC)<br/>
@@ -7635,7 +7635,7 @@ Dispatch: COMMEMORATIVE CAPE IN-PROGRESS. A commemorative cape, designed to hono
 DSS effect Eagle Blockade stops (2025-06-04 16:14  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-06-05 00:23  UTC)<br/>
 *Zosma* defense is won (2025-06-05 00:40  UTC)<br/>
-Assault Division: Incineration Corps U3B is routed from 252 (2025-06-05 00:40  UTC)<br/>
+Assault Division: Incineration Corps U3B is routed from {'name': 'Zosma', 'sector': 'Gellert', 'biome': 'sandy_moon', 'environmentals': ['meteor_storms'], 'names': {'en-US': 'ZOSMA', 'en-GB': 'ZOSMA', 'pt-BR': 'ZOSMA', 'de-DE': 'ZOSMA', 'es-ES': 'ZOSMA', 'fr-FR': 'ZOSMA', 'it-IT': 'ZOSMA', 'ja-JP': 'ゾスマ', 'ko-KO': '조스마', 'ms-MY': 'ZOSMA', 'pl-PL': 'ZOSMA', 'pt-PT': 'ZOSMA', 'ru-RU': 'ЗОСМА', 'zh-Hans': '太微右垣五', 'zh-Hant': '太微右垣五'}, 'type': 'sandy', 'weather_effects': ['extreme_cold'], 'owner': 3} (2025-06-05 00:40  UTC)<br/>
  Decay: 1.5 on Zosma
  (2025-06-05 02:00  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2025-06-05 07:43  UTC)<br/>
@@ -7859,7 +7859,7 @@ Alert III of the Hanzo sector is now under threat (2025-06-13 14:40  UTC)<br/>
 *Herthon Secundus* of the Ferris sector is now under threat (2025-06-13 14:51  UTC)<br/>
 *Karlia* of the Omega sector is now under threat (2025-06-13 15:02  UTC)<br/>
 *Alta V* Region 0 Porte Liberté Town has fallen to Humans (2025-06-13 19:18  UTC)<br/>
-*Alta V* Region 1 Undervatten Settlement is besieged by Terminids (2025-06-13 22:20  UTC)<br/>
+*Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-13 22:20  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement siege has ended (2025-06-13 22:23  UTC)<br/>
 *Alta V* defense is failed (2025-06-13 22:57  UTC)<br/>
 ↳ *Alta V* liberation campaign starts (2025-06-13 22:57  UTC)<br/>
@@ -7904,7 +7904,7 @@ DSS effect Eagle Storm is activated (2025-06-15 20:28  UTC)<br/>
  (2025-06-16 12:00  UTC)<br/>
 *Alta V* is liberated (2025-06-16 17:47  UTC)<br/>
 ↳ Korpus sector is fully under Human control (2025-06-16 17:47  UTC)<br/>
-Assault Division: Predator Strain U5F is routed from 81 (2025-06-16 17:47  UTC)<br/>
+Assault Division: Predator Strain U5F is routed from {'name': 'Alta V', 'sector': 'Korpus', 'biome': 'primordial_base', 'environmentals': ['volcanic_activity'], 'names': {'en-US': 'ALTA V', 'en-GB': 'ALTA V', 'pt-BR': 'ALTA V', 'de-DE': 'ALTA V', 'es-ES': 'ALTA V', 'fr-FR': 'ALTA V', 'it-IT': 'ALTA V', 'ja-JP': 'アルタ V', 'ko-KO': '알타 V', 'ms-MY': 'ALTA V', 'pl-PL': 'ALTA V', 'pt-PT': 'ALTA V', 'ru-RU': 'АЛЬТА V', 'zh-Hans': '奥尔塔V', 'zh-Hant': '歐塔V'}, 'type': 'primordial', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 2} (2025-06-16 17:47  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-16 17:47  UTC)<br/>
 DSS effect Eagle Storm stops (2025-06-16 20:29  UTC)<br/>
  Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA<br/> Region Decay: 0.4 on 128_BUJU<br/> Region Decay: 0.2 on 131_TIMELY<br/> Region Decay: 0.4 on 131_APPROVAL CITY<br/> Region Decay: 0.4 on 131_OLD BRANCH
@@ -8046,7 +8046,7 @@ DSS deploys to *Nublaria I* of the Celeste sector (2025-06-24 00:40  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-06-24 14:12  UTC)<br/>
 Dispatch: M-105 Stalwart stratagem availability has ended. (2025-06-24 19:28  UTC)<br/>
 *Nublaria I* is liberated (2025-06-24 23:22  UTC)<br/>
-Assault Division: Predator Strain U5F is routed from 81 (2025-06-24 23:22  UTC)<br/>
+Assault Division: Predator Strain U5F is routed from {'name': 'Alta V', 'sector': 'Korpus', 'biome': 'primordial_base', 'environmentals': ['volcanic_activity'], 'names': {'en-US': 'ALTA V', 'en-GB': 'ALTA V', 'pt-BR': 'ALTA V', 'de-DE': 'ALTA V', 'es-ES': 'ALTA V', 'fr-FR': 'ALTA V', 'it-IT': 'ALTA V', 'ja-JP': 'アルタ V', 'ko-KO': '알타 V', 'ms-MY': 'ALTA V', 'pl-PL': 'ALTA V', 'pt-PT': 'ALTA V', 'ru-RU': 'АЛЬТА V', 'zh-Hans': '奥尔塔V', 'zh-Hant': '歐塔V'}, 'type': 'primordial', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 2} (2025-06-24 23:22  UTC)<br/>
 DSS deploys to *Alairt III* of the Hanzo sector (2025-06-24 23:23  UTC)<br/>
 *Ain-5* of the Hanzo sector is attacked by Illuminate (2025-06-25 01:37  UTC)<br/>
  Decay: 0.0 on Nublaria I
@@ -8171,7 +8171,7 @@ DSS deploys to *Gunvald* of the Sagan sector (2025-06-30 00:43  UTC)<br/>
  (2025-06-30 00:43  UTC)<br/>
 *Ustotu* of the Trigon sector is attacked by Automatons (2025-06-30 04:07  UTC)<br/>
 *Gunvald* defense is won (2025-06-30 04:28  UTC)<br/>
-Assault Division: Jet Brigade U6B is routed from 108 (2025-06-30 04:28  UTC)<br/>
+Assault Division: Jet Brigade U6B is routed from {'name': 'Gunvald', 'sector': 'Sagan', 'biome': 'moor_red', 'environmentals': ['ion_storms'], 'names': {'en-US': 'GUNVALD', 'en-GB': 'GUNVALD', 'pt-BR': 'GUNVALD', 'de-DE': 'GUNVALD', 'es-ES': 'GUNVALD', 'fr-FR': 'GUNVALD', 'it-IT': 'GUNVALD', 'ja-JP': 'グンヴァルド', 'ko-KO': '군발드', 'ms-MY': 'GUNVALD', 'pl-PL': 'GUNVALD', 'pt-PT': 'GUNVALD', 'ru-RU': 'ГЮНВАЛЬД', 'zh-Hans': '古恩瓦尔德', 'zh-Hant': '古恩瓦德'}, 'type': 'moor', 'weather_effects': ['normal_temp'], 'owner': 1} (2025-06-30 04:28  UTC)<br/>
 DSS deploys to *Varylia 5* of the Trigon sector (2025-06-30 04:28  UTC)<br/>
  Decay: 0.0 on Ustotu
  (2025-06-30 04:28  UTC)<br/>
@@ -8344,7 +8344,7 @@ Dispatch: OPERATIONAL ALERT. Resource needs for the reconstruction of Remembranc
  (2025-07-11 15:49  UTC)<br/>
 *Veld* is liberated (2025-07-11 16:35  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-07-11 16:35  UTC)<br/>
-Assault Division: Predator Strain U5B is routed from 80 (2025-07-11 16:35  UTC)<br/>
+Assault Division: Predator Strain U5B is routed from {'name': 'Veld', 'sector': 'Orion', 'biome': 'primordial_blue', 'environmentals': ['ion_storms'], 'names': {'en-US': 'VELD', 'en-GB': 'VELD', 'pt-BR': 'VELD', 'de-DE': 'VELD', 'es-ES': 'VELD', 'fr-FR': 'VELD', 'it-IT': 'VELD', 'ja-JP': 'ヴェルド', 'ko-KO': '벨드', 'ms-MY': 'VELD', 'pl-PL': 'VELD', 'pt-PT': 'VELD', 'ru-RU': 'ВЕЛЬД', 'zh-Hans': '维尔德', 'zh-Hant': '威爾德'}, 'type': 'primordial', 'weather_effects': ['normal_temp'], 'owner': 2} (2025-07-11 16:35  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-11 16:36  UTC)<br/>
 DSS deploys to *Achernar Secundus* of the Borgus sector (2025-07-11 16:50  UTC)<br/>
  Decay: -0.5 on Slif
@@ -8504,7 +8504,7 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 *Wasat*'s max health has changed to 2m (2025-07-15 09:01  UTC)<br/>
 *Vega Bay*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
-*Claorell* Region 2 Zenith Megacity is besieged by Automatons (2025-07-15 09:10  UTC)<br/>
+*Claorell* Region 2 Zenith Megacity is besieged by Humans (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
 *Varylia 5* Region 0 Sequim City is besieged by Humans (2025-07-15 09:16  UTC)<br/>
  Region Decay: 0.4 on 161_QUASAR<br/> Region Decay: 0.4 on 161_MAJOSYRI<br/> Region Decay: 0.6 on 161_ZENITH<br/> Region Decay: 0.4 on 244_SEQUIM
@@ -8551,7 +8551,7 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
 *Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-07-16 14:35  UTC)<br/>
 *Oasis* defense is failed (2025-07-17 07:29  UTC)<br/>
 ↳ *Oasis* liberation campaign starts (2025-07-17 07:29  UTC)<br/>
-*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Automatons (2025-07-17 07:56  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-07-17 07:56  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
 Major Order | A2-7-4 Strategic Opportunity is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
@@ -8625,8 +8625,8 @@ DSS effect Eagle Storm stops (2025-07-21 22:29  UTC)<br/>
 *Gaellivare* is liberated (2025-07-21 23:14  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2025-07-21 23:14  UTC)<br/>
 ↳ Talus sector is fully under Human control (2025-07-21 23:14  UTC)<br/>
-*Lesath* Region 3 Bucu's Rest Megacity is besieged by Automatons (2025-07-21 23:14  UTC)<br/>
-Assault Division: Incineration Corps U4A is routed from 116 (2025-07-21 23:14  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2025-07-21 23:14  UTC)<br/>
+Assault Division: Incineration Corps U4A is routed from {'name': 'Gaellivare', 'sector': 'Talus', 'biome': 'primordial_base', 'environmentals': ['volcanic_activity'], 'names': {'en-US': 'GAELLIVARE', 'en-GB': 'GAELLIVARE', 'pt-BR': 'GAELLIVARE', 'de-DE': 'GAELLIVARE', 'es-ES': 'GAELLIVARE', 'fr-FR': 'GAELLIVARE', 'it-IT': 'GAELLIVARE', 'ja-JP': 'イェリヴァー', 'ko-KO': '갤리베어', 'ms-MY': 'GAELLIVARE', 'pl-PL': 'GAELLIVARE', 'pt-PT': 'GAELLIVARE', 'ru-RU': 'ЕЛЛИВАРЕ', 'zh-Hans': '耶利瓦勒', 'zh-Hant': '耶利瓦'}, 'type': 'primordial', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 3} (2025-07-21 23:14  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-07-21 23:14  UTC)<br/>
 Dispatch: OPERATIONS RESTORED. DSS Tactical Action activation time has been restored to normal. (2025-07-21 23:17  UTC)<br/>
  Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.2 on 194_MORSKE OKO<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES<br/> Region Decay: 0.6 on 194_BUCU'S REST
@@ -8645,7 +8645,7 @@ HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
 HP reached a checkpoint. (2025-07-22 16:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-07-22 23:22  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-07-23 06:21  UTC)<br/>
-*Claorell* Region 1 Quasar City is besieged by Automatons (2025-07-23 08:36  UTC)<br/>
+*Claorell* Region 1 Quasar City is besieged by Humans (2025-07-23 08:36  UTC)<br/>
 *Claorell* Region 2 Zenith Megacity has fallen to Humans (2025-07-23 08:36  UTC)<br/>
 
 ### Day: #532
@@ -8654,12 +8654,12 @@ Dispatch: OPERATIONS RESTORED. DSS Tactical Action resource requirements have be
  Decay: 0.0 on New Stockholm
  (2025-07-23 10:50  UTC)<br/>
 *Alamak VII* of the Hanzo sector is attacked by Illuminate (2025-07-23 13:37  UTC)<br/>
-*Alamak VII* Region 3 Filibuster Megacity is besieged by Illuminate (2025-07-23 13:37  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Megacity is besieged by Humans (2025-07-23 13:37  UTC)<br/>
  Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
  (2025-07-23 14:00  UTC)<br/>
  Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
  (2025-07-23 14:00  UTC)<br/>
-*Alamak VII* Region 2 No Compound Settlement is besieged by Illuminate (2025-07-23 18:29  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-07-23 18:29  UTC)<br/>
 DSS deploys to *New Stockholm* of the Hanzo sector (2025-07-23 20:59  UTC)<br/>
 *New Stockholm* defense is won (2025-07-24 02:55  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-07-24 02:55  UTC)<br/>
@@ -8667,7 +8667,7 @@ DSS deploys to *Alamak VII* of the Hanzo sector (2025-07-24 04:59  UTC)<br/>
  Decay: 1.5 on New Stockholm
  (2025-07-24 04:59  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-07-24 06:21  UTC)<br/>
-*Alamak VII* Region 0 Kesuma Town is besieged by Illuminate (2025-07-24 08:31  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-07-24 08:31  UTC)<br/>
 
 ### Day: #533
 *Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-07-24 11:04  UTC)<br/>
@@ -8677,9 +8677,9 @@ DSS deploys to *Claorell* of the Tanis sector (2025-07-24 21:00  UTC)<br/>
  Decay: 2.0 on Claorell
  (2025-07-24 21:00  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-07-25 05:00  UTC)<br/>
-*Alamak VII* Region 1 Ungu City is besieged by Illuminate (2025-07-25 05:18  UTC)<br/>
+*Alamak VII* Region 1 Ungu City is besieged by Humans (2025-07-25 05:18  UTC)<br/>
 *Claorell* Region 1 Quasar City has fallen to Humans (2025-07-25 06:48  UTC)<br/>
-*Claorell* Region 0 Majosyri City is besieged by Automatons (2025-07-25 06:48  UTC)<br/>
+*Claorell* Region 0 Majosyri City is besieged by Humans (2025-07-25 06:48  UTC)<br/>
 Dispatch: REMEMBRANCE NAME DECIDED. The *Super Earth* Mega City of Remembrance, tragically destroyed by the Illuminate during the Battle for *Super Earth*, is being rebuilt. Following a Democratically Managed voting process, the new Mega City has been officially named Gun. This patriotic and glorious appellation will ensure that Remembrance will never be forgotten. (2025-07-25 07:34  UTC)<br/>
 
 ### Day: #534
@@ -8710,7 +8710,7 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully extermi
 
 ### Day: #536
 *Valmox* of the Rictus sector is attacked by Illuminate (2025-07-27 13:04  UTC)<br/>
-*Valmox* Region 2 Obedience City is besieged by Illuminate (2025-07-27 13:04  UTC)<br/>
+*Valmox* Region 2 Obedience City is besieged by Humans (2025-07-27 13:04  UTC)<br/>
  Region Decay: 0.1 on 90_REBELSGRAVE<br/> Region Decay: 0.4 on 90_REFORMED-BY-TRUTH<br/> Region Decay: 0.4 on 90_OBEDIENCE
  (2025-07-27 14:00  UTC)<br/>
  Region Decay: 0.1 on 90_REBELSGRAVE<br/> Region Decay: 0.4 on 90_REFORMED-BY-TRUTH<br/> Region Decay: 0.4 on 90_OBEDIENCE
@@ -8719,14 +8719,14 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully extermi
 Dispatch: ARSENAL AUGMENTATION. Righteous and furious extermination of Terminid Impalers by the Helldivers has spurred our citizens to new heights of patriotic generosity. As a result, High Command has authorized the temporary addition of the HMG Emplacement Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-27 17:15  UTC)<br/>
  Decay: 2.0 on Claorell
  (2025-07-27 18:00  UTC)<br/>
-*Valmox* Region 1 Reformed-by-Truth City is besieged by Illuminate (2025-07-28 01:51  UTC)<br/>
+*Valmox* Region 1 Reformed-by-Truth City is besieged by Humans (2025-07-28 01:51  UTC)<br/>
 
 ### Day: #537
 Dispatch: MAJOR ORDER ADJUSTMENT. Patriotic footage generated by the Helldivers thus far has had a greater-than-expected impact on citizen inspiration, evidently due to the tactical enthusiasm on display. Innovative Leviathan hunting techniques have had a particularly outsized effect. Consequently, High Command has lowered the required Leviathan kill count by 50%, and authorized deployment of the Expendable Anti-Tank Stratagem to facilitate efforts to eliminate this deadly airborne enemy. (2025-07-28 15:13  UTC)<br/>
  Decay: 1.5 on Claorell
  (2025-07-28 18:00  UTC)<br/>
 Assault Division: Incineration Corps U4B leaves *Merak* (2025-07-29 00:07  UTC)<br/>
-*Valmox* Region 0 Rebelsgrave Settlement is besieged by Illuminate (2025-07-29 03:37  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement is besieged by Humans (2025-07-29 03:37  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. The just decimation of the deadly airborne Leviathans by the Helldivers has inspired a boost in citizen War Bond purchases. High Command has authorized the temporary addition of the EXO-49 Emancipator Exosuit Stratagem to all Helldiver loadouts for the next 8 hours. (2025-07-29 05:28  UTC)<br/>
 Assault Division: Incineration Corps U4B leaves *Claorell* (2025-07-29 08:08  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Vog-Sojoth* (2025-07-29 08:10  UTC)<br/>
@@ -8754,7 +8754,22 @@ Dispatch: FACTORY STRIDER SURGE ABATED. Factory Strider numbers on CLAORELL have
  (2025-07-29 14:00  UTC)<br/>
 *Claorell* is liberated (2025-07-29 18:21  UTC)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2025-07-29 18:21  UTC)<br/>
+↳ *Vog-Sojoth* Region 0 Haerstvik Town is besieged by Humans (2025-07-29 18:21  UTC)<br/>
 ↳ *Clasa* liberation campaign starts (2025-07-29 18:21  UTC)<br/>
-*Vog-Sojoth* Region 0 Haerstvik Town is besieged by Humans (2025-07-29 18:21  UTC)<br/>
-*Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2025-07-29 18:21  UTC)<br/>
+↳ *Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2025-07-29 18:21  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-07-29 18:22  UTC)<br/>
+ Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357
+ (2025-07-29 20:00  UTC)<br/>
+ Region Decay: 0.2 on 117_HAERSTVIK<br/> Region Decay: 0.1 on 162_SYCAMORE GARDENS<br/> Region Decay: 0.2 on 162_KODIAK FALLS<br/> Region Decay: 0.4 on 162_VOTING DISTRICT F-012357
+ (2025-07-29 20:00  UTC)<br/>
+
+### Day: #539
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-07-30 10:28  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
+Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2025-07-30 11:02  UTC)<br/>
+ Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
+ (2025-07-30 11:02  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. New Alcubiere Drive shielding technology could lead to a new era of Gloom exploration. Meanwhile, Spore Burst Terminids originating from FORI PRIME have spread outside the Gloom, a first for this strain. The Helldivers are ordered to collect 30,000,000 Rare Terminid Samples, particularly those in the Jin Xi sectors. Additionally, they must hold *Turing* and *Achernar Secundus*, protecting our brilliant scientists and their vital engineers. (2025-07-30 11:04  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-07-30 12:13  UTC)<br/>
