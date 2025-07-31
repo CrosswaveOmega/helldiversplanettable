@@ -8765,7 +8765,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-07-29 18:22  UTC)<br/>
 
 ### Day: #539
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-07-30 10:28  UTC)<br/>
-*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
+↳ *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
 Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-07-30 11:02  UTC)<br/>
@@ -8774,3 +8774,10 @@ Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Object
 Dispatch: NEW MAJOR ORDER. New Alcubiere Drive shielding technology could lead to a new era of Gloom exploration. Meanwhile, Spore Burst Terminids originating from FORI PRIME have spread outside the Gloom, a first for this strain. The Helldivers are ordered to collect 30,000,000 Rare Terminid Samples, particularly those in the Jin Xi sectors. Additionally, they must hold *Turing* and *Achernar Secundus*, protecting our brilliant scientists and their vital engineers. (2025-07-30 11:04  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-07-30 12:13  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-07-30 17:05  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on #planet1. (2025-07-30 17:37  UTC)<br/>
+Note: This dispatch was removed/retracted two minutes after it was issued (2025-07-30 17:39  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on ACAMAR IV. (2025-07-30 17:48  UTC)<br/>
+*Acamar IV* Region 1 Eridani City has fallen to Humans (2025-07-31 03:54  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2025-07-31 06:20  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-07-31 06:20  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on CRIMSICA. (2025-07-31 06:21  UTC)<br/>
