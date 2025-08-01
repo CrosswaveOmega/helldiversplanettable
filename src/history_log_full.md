@@ -4923,10 +4923,13 @@ Major Order | A2-2-4 *Fori Prime* Gloom Research Expedition is issued | Objectiv
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom. Consult the Galactic Map on your ship for more information. (2025-02-18 12:35  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-02-18 12:36  UTC)<br/>
 *Fori Prime* has been classified as a High Priority Campaign (2025-02-18 12:36  UTC)<br/>
+Terminid Brood debuts a new Assault Division: Spore Burst Strain (2025-02-18 12:36  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Fori Prime* (2025-02-18 12:36  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In the interest of preserving the structural integrity of biological and/or geological materials on FORI PRIME during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission. (2025-02-18 12:38  UTC)<br/>
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-18 12:38  UTC)<br/>
+Assault Division: Spore Burst Strain U1A leaves *Fori Prime* (2025-02-18 14:18  UTC)<br/>
  Decay: 15.0 on Fori Prime
- (2025-02-18 14:00  UTC)<br/>
+ (2025-02-18 14:18  UTC)<br/>
 *Meridia* moves to X 0.44134736 Y 0.16767445 (2025-02-18 15:00  UTC)<br/>
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-18 15:11  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
@@ -4950,6 +4953,7 @@ NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual en
 *Meridia* moves to X 0.4384542 Y 0.16731934 (2025-02-19 11:00  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-02-19 11:18  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-02-19 11:18  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Fori Prime* (2025-02-19 13:24  UTC)<br/>
 Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Reports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed. (2025-02-19 14:41  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-19 14:41  UTC)<br/>
 *Moradesh* moves to X 0.31730345 Y 0.15246902 (2025-02-19 14:41  UTC)<br/>
@@ -6405,6 +6409,7 @@ Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super 
  (2025-04-11 09:00  UTC)<br/>
 *Meridia* moves to X 0.29159266 Y 0.11673969 (2025-04-11 11:00  UTC)<br/>
 *Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-04-11 11:06  UTC)<br/>
+Assault Division: Spore Burst Strain U2 deploys to *Nivel 43* (2025-04-11 11:43  UTC)<br/>
 *Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
 *Nivel 43* has been classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
 Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is issued | Objective: Liberate (2025-04-11 11:46  UTC)<br/>
@@ -6525,9 +6530,10 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
 *Meridia* moves to X 0.28539065 Y 0.1173112 (2025-04-15 23:00  UTC)<br/>
 *Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
-↳ Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:28  UTC)<br/>
-Assault Division: Predator Strain U3 is routed from {'name': 'Nivel 43', 'sector': 'Mirin', 'biome': 'primordial_dead', 'environmentals': ['thick_fog'], 'names': {'en-US': 'NIVEL 43', 'en-GB': 'NIVEL 43', 'pt-BR': 'NÍVEL 43', 'de-DE': 'NIVEL 43', 'es-ES': 'NIVEL 43', 'fr-FR': 'NIVEL 43', 'it-IT': 'Nivel 43', 'ja-JP': 'ニベル43', 'ko-KO': '니벨 43', 'ms-MY': 'NIVEL 43', 'pl-PL': 'NIVEL 43', 'pt-PT': 'NIVEL 43', 'ru-RU': 'НИВЕЛЬ-43', 'zh-Hans': '尼维尔43', 'zh-Hant': '尼威爾43號'}, 'type': 'primordial', 'weather_effects': ['thick_fog'], 'owner': 2} (2025-04-15 23:28  UTC)<br/>
 *Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
+↳ Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:38  UTC)<br/>
+Assault Division: Predator Strain U3 is routed from {'name': 'Nivel 43', 'sector': 'Mirin', 'biome': 'primordial_dead', 'environmentals': ['thick_fog'], 'names': {'en-US': 'NIVEL 43', 'en-GB': 'NIVEL 43', 'pt-BR': 'NÍVEL 43', 'de-DE': 'NIVEL 43', 'es-ES': 'NIVEL 43', 'fr-FR': 'NIVEL 43', 'it-IT': 'Nivel 43', 'ja-JP': 'ニベル43', 'ko-KO': '니벨 43', 'ms-MY': 'NIVEL 43', 'pl-PL': 'NIVEL 43', 'pt-PT': 'NIVEL 43', 'ru-RU': 'НИВЕЛЬ-43', 'zh-Hans': '尼维尔43', 'zh-Hant': '尼威爾43號'}, 'type': 'primordial', 'weather_effects': ['thick_fog'], 'owner': 2} (2025-04-15 23:38  UTC)<br/>
+Assault Division: Spore Burst Strain U2 is routed (2025-04-15 23:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
 *Meridia* moves to X 0.28515476 Y 0.11733294 (2025-04-16 03:00  UTC)<br/>
 *Acamar IV* defense is won (2025-04-16 04:18  UTC)<br/>
@@ -7332,6 +7338,7 @@ Assault Division: Predator Strain U5E divides into 2 groups [U5E, U5F] (2025-05-
 Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29  UTC)<br/>
  Decay: 0.0 on Nublaria I
  (2025-05-13 06:00  UTC)<br/>
+Illuminate Cult debuts a new Assault Division: The Great Host (2025-05-13 08:58  UTC)<br/>
 Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)<br/>
 
 ### Day: #461
@@ -8764,8 +8771,12 @@ DSS deploys to *Achird III* of the Borgus sector (2025-07-29 18:22  UTC)<br/>
  (2025-07-29 20:00  UTC)<br/>
 
 ### Day: #539
+Assault Division: Spore Burst Strain U1A divides into 2 groups [U1A, U1B] (2025-07-30 09:02  UTC)<br/>
+Assault Division: Spore Burst Strain U1B deploys to *Gacrux* (2025-07-30 09:02  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-07-30 10:28  UTC)<br/>
 ↳ *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
+Assault Division: Spore Burst Strain U1B divides into 2 groups [U1B, U1C] (2025-07-30 10:28  UTC)<br/>
+Assault Division: Spore Burst Strain U1C deploys to *Acamar IV* (2025-07-30 10:28  UTC)<br/>
 Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-07-30 11:02  UTC)<br/>
@@ -8780,6 +8791,8 @@ Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore
 *Acamar IV* Region 1 Eridani City has fallen to Humans (2025-07-31 03:54  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2025-07-31 06:20  UTC)<br/>
 *Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-07-31 06:20  UTC)<br/>
+Assault Division: Spore Burst Strain U1A divides into 2 groups [U1A, U1D] (2025-07-31 06:21  UTC)<br/>
+Assault Division: Spore Burst Strain U1D deploys to *Crimsica* (2025-07-31 06:21  UTC)<br/>
 Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on CRIMSICA. (2025-07-31 06:21  UTC)<br/>
  Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.4 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
  (2025-07-31 08:00  UTC)<br/>
@@ -8792,13 +8805,21 @@ DSS effect Orbital Blockade is activated (2025-07-31 13:10  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-07-31 21:06  UTC)<br/>
 *Crimsica* Region 0 Lil'ome Settlement is besieged by Humans (2025-07-31 23:49  UTC)<br/>
 *Acamar IV* defense is won (2025-08-01 00:10  UTC)<br/>
+Assault Division: Spore Burst Strain U1C is routed (2025-08-01 00:10  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2025-08-01 02:00  UTC)<br/>
 *Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-08-01 06:46  UTC)<br/>
 
 ### Day: #541
+Assault Division: Spore Burst Strain U1B divides into 2 groups [U1B, U1E] (2025-08-01 11:00  UTC)<br/>
+Assault Division: Spore Burst Strain U1E deploys to *Pandion-XXIV* (2025-08-01 11:00  UTC)<br/>
+Assault Division: Spore Burst Strain U1E divides into 2 groups [U1E, U1F] (2025-08-01 11:57  UTC)<br/>
+Assault Division: Spore Burst Strain U1F deploys to *Phact Bay* (2025-08-01 11:57  UTC)<br/>
 *Gar Haren* of the Jin Xi sector is attacked by Terminids (2025-08-01 12:56  UTC)<br/>
+Assault Division: Spore Burst Strain U1F divides into 2 groups [U1F, U1G] (2025-08-01 12:56  UTC)<br/>
+Assault Division: Spore Burst Strain U1G deploys to *Gar Haren* (2025-08-01 12:56  UTC)<br/>
 Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on GAR HAREN. (2025-08-01 12:57  UTC)<br/>
 DSS Orbital Blockade stops (2025-08-01 13:10  UTC)<br/>
  Decay: 0.0 on Gar Haren
  (2025-08-01 13:10  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2025-08-01 17:06  UTC)<br/>
