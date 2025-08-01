@@ -8781,3 +8781,24 @@ Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore
 *Crimsica* of the Draco sector is attacked by Terminids (2025-07-31 06:20  UTC)<br/>
 *Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-07-31 06:20  UTC)<br/>
 Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on CRIMSICA. (2025-07-31 06:21  UTC)<br/>
+ Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.4 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-07-31 08:00  UTC)<br/>
+ Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.4 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-07-31 08:00  UTC)<br/>
+
+# Day: #540
+DSS effect Eagle Storm stops (2025-07-31 12:14  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-07-31 13:10  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-07-31 21:06  UTC)<br/>
+*Crimsica* Region 0 Lil'ome Settlement is besieged by Humans (2025-07-31 23:49  UTC)<br/>
+*Acamar IV* defense is won (2025-08-01 00:10  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-08-01 02:00  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-08-01 06:46  UTC)<br/>
+
+### Day: #541
+*Gar Haren* of the Jin Xi sector is attacked by Terminids (2025-08-01 12:56  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on GAR HAREN. (2025-08-01 12:57  UTC)<br/>
+DSS Orbital Blockade stops (2025-08-01 13:10  UTC)<br/>
+ Decay: 0.0 on Gar Haren
+ (2025-08-01 13:10  UTC)<br/>
