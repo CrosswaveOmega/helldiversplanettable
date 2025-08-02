@@ -6728,8 +6728,8 @@ Assault Division: Predator Strain U4I leaves *Estanu* (2025-04-19 23:41  UTC)<br
 ↳ *Gacrux* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign starts (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4F is routed from {'name': 'Acamar IV', 'sector': 'Jin Xi', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'ACAMAR IV', 'en-GB': 'ACAMAR IV', 'pt-BR': 'ACAMAR IV', 'de-DE': 'ACAMAR IV', 'es-ES': 'ACAMAR IV', 'fr-FR': 'ACAMAR IV', 'it-IT': 'ACAMAR IV', 'ja-JP': 'アカマー IV', 'ko-KO': '아카마르 IV', 'ms-MY': 'ACAMAR IV', 'pl-PL': 'ACAMAR IV', 'pt-PT': 'ACAMAR IV', 'ru-RU': 'АКАМАР IV', 'zh-Hans': '天园六IV', 'zh-Hant': '天園六IV'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-04-20 04:53  UTC)<br/>
-Assault Division: Predator Strain U4J is routed from {'name': 'Crimsica', 'sector': 'Draco', 'biome': 'moor_red', 'environmentals': ['ion_storms'], 'names': {'en-US': 'CRIMSICA', 'en-GB': 'CRIMSICA', 'pt-BR': 'CRIMSICA', 'de-DE': 'CRIMSICA', 'es-ES': 'CRIMSICA', 'fr-FR': 'CRIMSICA', 'it-IT': 'CRIMSICA', 'ja-JP': 'クリムジカ', 'ko-KO': '크림시카', 'ms-MY': 'CRIMSICA', 'pl-PL': 'CRIMSICA', 'pt-PT': 'CRIMSICA', 'ru-RU': 'КРИМСИКА', 'zh-Hans': '克里姆西卡', 'zh-Hant': '克里姆錫卡'}, 'type': 'moor', 'weather_effects': ['normal_temp'], 'owner': 1} (2025-04-20 04:53  UTC)<br/>
-Assault Division: Predator Strain U4K is routed from {'name': 'Turing', 'sector': 'Umlaut', 'biome': 'primordial_purple', 'environmentals': ['none'], 'names': {'en-US': 'TURING', 'en-GB': 'TURING', 'pt-BR': 'TURING', 'de-DE': 'TURING', 'es-ES': 'TURING', 'fr-FR': 'TURING', 'it-IT': 'TURING', 'ja-JP': 'テューリング', 'ko-KO': '튜링', 'ms-MY': 'TURING', 'pl-PL': 'TURING', 'pt-PT': 'TURING', 'ru-RU': 'ТЬЮРИНГ', 'zh-Hans': '图灵', 'zh-Hant': '圖靈'}, 'type': 'primordial', 'weather_effects': ['normal_temp'], 'owner': 2} (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4J is routed from {'name': 'Crimsica', 'sector': 'Draco', 'biome': 'moor_red', 'environmentals': ['ion_storms'], 'names': {'en-US': 'CRIMSICA', 'en-GB': 'CRIMSICA', 'pt-BR': 'CRIMSICA', 'de-DE': 'CRIMSICA', 'es-ES': 'CRIMSICA', 'fr-FR': 'CRIMSICA', 'it-IT': 'CRIMSICA', 'ja-JP': 'クリムジカ', 'ko-KO': '크림시카', 'ms-MY': 'CRIMSICA', 'pl-PL': 'CRIMSICA', 'pt-PT': 'CRIMSICA', 'ru-RU': 'КРИМСИКА', 'zh-Hans': '克里姆西卡', 'zh-Hant': '克里姆錫卡'}, 'type': 'moor', 'weather_effects': ['normal_temp'], 'owner': 2} (2025-04-20 04:53  UTC)<br/>
+Assault Division: Predator Strain U4K is routed from {'name': 'Turing', 'sector': 'Umlaut', 'biome': 'primordial_purple', 'environmentals': ['none'], 'names': {'en-US': 'TURING', 'en-GB': 'TURING', 'pt-BR': 'TURING', 'de-DE': 'TURING', 'es-ES': 'TURING', 'fr-FR': 'TURING', 'it-IT': 'TURING', 'ja-JP': 'テューリング', 'ko-KO': '튜링', 'ms-MY': 'TURING', 'pl-PL': 'TURING', 'pt-PT': 'TURING', 'ru-RU': 'ТЬЮРИНГ', 'zh-Hans': '图灵', 'zh-Hant': '圖靈'}, 'type': 'primordial', 'weather_effects': ['normal_temp'], 'owner': 1} (2025-04-20 04:53  UTC)<br/>
 DSS deploys to *Estanu* of the Draco sector (2025-04-20 04:53  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53  UTC)<br/>
@@ -8774,7 +8774,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-07-29 18:22  UTC)<br/>
 Assault Division: Spore Burst Strain U1A divides into 2 groups [U1A, U1B] (2025-07-30 09:02  UTC)<br/>
 Assault Division: Spore Burst Strain U1B deploys to *Gacrux* (2025-07-30 09:02  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-07-30 10:28  UTC)<br/>
-↳ *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
 Assault Division: Spore Burst Strain U1B divides into 2 groups [U1B, U1C] (2025-07-30 10:28  UTC)<br/>
 Assault Division: Spore Burst Strain U1C deploys to *Acamar IV* (2025-07-30 10:28  UTC)<br/>
 Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
@@ -8823,3 +8823,42 @@ DSS Orbital Blockade stops (2025-08-01 13:10  UTC)<br/>
  Decay: 0.0 on Gar Haren
  (2025-08-01 13:10  UTC)<br/>
 DSS deploys to *Gar Haren* of the Jin Xi sector (2025-08-01 17:06  UTC)<br/>
+Assault Division: Spore Burst Strain U1F divides into 2 groups [U1F, U1H] (2025-08-01 19:58  UTC)<br/>
+Assault Division: Spore Burst Strain U1H deploys to *Darius II* (2025-08-01 19:58  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-08-01 20:57  UTC)<br/>
+*Achernar Secundus* Region 1 New Newtonville City is besieged by Humans (2025-08-01 20:57  UTC)<br/>
+Assault Division: Spore Burst Strain U1H divides into 2 groups [U1H, U4I] (2025-08-01 20:57  UTC)<br/>
+Assault Division: Spore Burst Strain U1I deploys to *Achernar Secundus* (2025-08-01 20:57  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on ACHERNAR SECUNDUS. (2025-08-01 20:58  UTC)<br/>
+ Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
+ (2025-08-01 22:00  UTC)<br/>
+ Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
+ (2025-08-01 22:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-08-01 23:42  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2025-08-02 01:06  UTC)<br/>
+*Crimsica* defense is failed (2025-08-02 06:22  UTC)<br/>
+↳ *Crimsica* liberation campaign starts (2025-08-02 06:22  UTC)<br/>
+↳ *Estanu* liberation campaign ends (2025-08-02 06:22  UTC)<br/>
+↳ Draco sector is fully under Terminid control (2025-08-02 06:22  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-08-02 06:22  UTC)<br/>
+HP reached a checkpoint. (2025-08-02 08:00  UTC)<br/>
+HP reached a checkpoint. (2025-08-02 08:00  UTC)<br/>
+
+### Day: #542
+Assault Division: Spore Burst Strain U1H divides into 2 groups, [U1H, U1J] (2025-08-02 11:00  UTC)<br/>
+Assault Division: Spore Burst Strain U1J deploys to *Achird III* (2025-08-02 11:00  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2025-08-02 11:58  UTC)<br/>
+*Turing* Region 2 Periwinkle Mills City is besieged by Humans (2025-08-02 11:58  UTC)<br/>
+Assault Division: Spore Burst Strain U1J divides into 2 groups [U1J, U1K] (2025-08-02 11:58  UTC)<br/>
+Assault Division: Spore Burst Strain U1K deploys to *Turing* (2025-08-02 11:58  UTC)<br/>
+Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore Burst Scavengers have been reported on TURING. (2025-08-02 11:58  UTC)<br/>
+*Gar Haren* defense is failed (2025-08-02 12:58  UTC)<br/>
+↳ *Gar Haren* liberation campaign starts (2025-08-02 12:58  UTC)<br/>
+ Decay: 0.0 on Turing
+ (2025-08-02 12:58  UTC)<br/>
+ Region Decay: 0.4 on 126_CHATOYANT<br/> Region Decay: 0.2 on 126_CARBONDALE<br/> Region Decay: 0.4 on 126_PERIWINKLE MILLS
+ (2025-08-02 12:58  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town is besieged by Humans (2025-08-02 14:49  UTC)<br/>
+ Decay: 2.0 on Gar Haren
+ (2025-08-02 14:49  UTC)<br/>
+*Achernar Secundus* Region 1 New Newtonville City has fallen to Humans (2025-08-02 17:08  UTC)<br/>
