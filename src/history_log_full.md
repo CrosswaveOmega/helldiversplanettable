@@ -8862,3 +8862,8 @@ Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore
  Decay: 2.0 on Gar Haren
  (2025-08-02 14:49  UTC)<br/>
 *Achernar Secundus* Region 1 New Newtonville City has fallen to Humans (2025-08-02 17:08  UTC)<br/>
+*Turing* Region 0 Chatoyant City is besieged by Humans (2025-08-02 20:57  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-08-02 23:43  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-08-03 01:08  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town has fallen to Humans (2025-08-03 01:13  UTC)<br/>
+*Achernar Secundus* defense is won (2025-08-03 01:27  UTC)<br/>
