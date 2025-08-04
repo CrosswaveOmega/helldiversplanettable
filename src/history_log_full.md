@@ -8867,3 +8867,13 @@ DSS effect Heavy Ordnance Distribution stops (2025-08-02 23:43  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-08-03 01:08  UTC)<br/>
 *Achernar Secundus* Region 0 Currency Town has fallen to Humans (2025-08-03 01:13  UTC)<br/>
 *Achernar Secundus* defense is won (2025-08-03 01:27  UTC)<br/>
+ Decay: 1.5 on Achernar Secundus
+ (2025-08-03 02:00  UTC)<br/>
+
+### Day: #543
+*Turing* Region 1 Carbondale Town is besieged by Humans (2025-08-03 23:08  UTC)<br/>
+*Turing* Region 0 Chatoyant City has fallen to Humans (2025-08-04 01:04  UTC)<br/>
+*Turing* defense is won (2025-08-04 08:39  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-08-04 08:39  UTC)<br/>
+Assault Division: Spore Burst Strain U1K is routed (2025-08-04 08:39  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-04 08:39  UTC)<br/>
