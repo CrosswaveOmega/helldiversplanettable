@@ -8877,3 +8877,11 @@ DSS deploys to *Turing* of the Umlaut sector (2025-08-03 01:08  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-08-04 08:39  UTC)<br/>
 Assault Division: Spore Burst Strain U1K is routed (2025-08-04 08:39  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-04 08:39  UTC)<br/>
+
+### Day: #544
+ Decay: 0.5 on Turing
+ (2025-08-04 09:00  UTC)<br/>
+*Phact Bay* Region 0 Old Dove Town has fallen to Humans (2025-08-04 19:32  UTC)<br/>
+*Phact Bay* Region 2 New Eagle Megacity is besieged by Humans (2025-08-04 21:34  UTC)<br/>
+
+### Day: #545
