@@ -8885,3 +8885,18 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-04 08:39  UTC)<br/>
 *Phact Bay* Region 2 New Eagle Megacity is besieged by Humans (2025-08-04 21:34  UTC)<br/>
 
 ### Day: #545
+*Choepessa IV* liberation campaign ends (2025-08-05 09:47  UTC)<br/>
+*Choepessa IV* liberation campaign starts (2025-08-05 09:48  UTC)<br/>
+*Vernen Wells* liberation campaign ends (2025-08-05 09:48  UTC)<br/>
+*Vernen Wells* liberation campaign starts (2025-08-05 09:49  UTC)<br/>
+NOTE: This occurs for unknown reasons (2025-08-05 09:49  UTC)<br/>
+Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is won | Objective: Samples/Control (2025-08-05 11:06  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Thanks to the security and Terminid tissue provided by the Helldivers, the Center of Science has successfully designed a process by which to mass-produce Gloom-resistent polymer coating. Consult your Galactic Map for more information. (2025-08-05 11:11  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-08-06 05:10  UTC)<br/>
+Major Order | A2-8-1 Liberate Nanos Sector and Kill 2.5m Troopers is issued | Objective: Liberate/Eradicate (2025-08-06 06:48  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to clear the Nanos Sector to secure New Aspiration City. Additionally, in order to prove to the Automatons—and the Federation—that their brutish scare tactics are ineffective, the Helldivers are ordered to destroy the designated number of Automaton Conscripts with the Railcannon Stratagem. (2025-08-06 06:49  UTC)<br/>
+ Decay: 1.0 on Bekvam III
+ (2025-08-06 08:00  UTC)<br/>
+
+### Day: #546
+DSS deploys to *Duma Tyr* of the Nanos sector (2025-08-06 09:11  UTC)<br/>
