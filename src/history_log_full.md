@@ -8900,3 +8900,19 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to clear the Nanos Sector 
 
 ### Day: #546
 DSS deploys to *Duma Tyr* of the Nanos sector (2025-08-06 09:11  UTC)<br/>
+*Duma Tyr* is liberated (2025-08-07 08:44  UTC)<br/>
+↳ *Bekvam III* liberation campaign starts (2025-08-07 08:44  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town is besieged by Humans (2025-08-07 08:44  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-08-07 08:44  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized the fleetwide use of the Orbital Railcannon Stratagem for the next 96 hours. The use of this mighty weapon to so irreversibly dismantle Automaton Conscripts will send a clear message to our enemies: threats to Democracy will result in nothing less than total annihilation. (2025-08-07 08:48  UTC)<br/>
+ Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS
+ (2025-08-07 08:48  UTC)<br/>
+
+### Day: #547
+ Decay: 1.5 on Duma Tyr
+ (2025-08-07 09:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-08-07 09:03  UTC)<br/>
+Major Order | A2-8-2 *Charbal-VII* Database is issued | Objective: Liberate (2025-08-07 11:07  UTC)<br/>
+ Decay: 2.5 on Charbal-VII
+ (2025-08-07 11:07  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Intercepted Automaton messages have identified a secure database on CHARBAL-VII. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements. (2025-08-07 11:09  UTC)<br/>
