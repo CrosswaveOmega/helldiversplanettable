@@ -8916,3 +8916,12 @@ Major Order | A2-8-2 *Charbal-VII* Database is issued | Objective: Liberate (202
  Decay: 2.5 on Charbal-VII
  (2025-08-07 11:07  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Intercepted Automaton messages have identified a secure database on CHARBAL-VII. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements. (2025-08-07 11:09  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2025-08-07 17:12  UTC)<br/>
+ Decay: 2.0 on Charbal-VII
+ (2025-08-07 22:00  UTC)<br/>
+Dispatch: ARSENAL BOOST. High Command has authorized high-volume use of the Orbital Railcannon Stratagem in the Nanos Sector. For operations in that sector, the mandated waiting period between salvos has been lowered by 150 seconds for the next 96 hours. (2025-08-08 08:28  UTC)<br/>
+ Decay: 1.5 on Charbal-VII
+ (2025-08-08 08:28  UTC)<br/>
+
+### Day: #548
+DSS effect Eagle Storm stops (2025-08-08 09:04  UTC)<br/>
