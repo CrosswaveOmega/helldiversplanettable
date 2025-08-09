@@ -8803,7 +8803,7 @@ Dispatch: SPORE BURST SCAVENGER RAMPAGE. Significantly increased levels of Spore
 DSS effect Eagle Storm stops (2025-07-31 12:14  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-07-31 13:10  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-07-31 21:06  UTC)<br/>
-*Crimsica* Region 0 Lil'ome Settlement is besieged by Humans (2025-07-31 23:49  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-07-31 23:49  UTC)<br/>
 *Acamar IV* defense is won (2025-08-01 00:10  UTC)<br/>
 Assault Division: Spore Burst Strain U1C is routed (2025-08-01 00:10  UTC)<br/>
  Decay: 1.0 on Acamar IV
@@ -8925,3 +8925,15 @@ Dispatch: ARSENAL BOOST. High Command has authorized high-volume use of the Orbi
 
 ### Day: #548
 DSS effect Eagle Storm stops (2025-08-08 09:04  UTC)<br/>
+Assault Division: Spore Burst Strain U1D leaves *Crimsica* (2025-08-08 09:47  UTC)<br/>
+Assault Division: Spore Burst Strain U1D merges with Assault Division: Spore Burst Strain U1A (2025-08-08 09:47  UTC)<br/>
+Assault Division: Spore Burst Strain U1G leaves *Gar Haren* (2025-08-08 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1G merges with Assault Division: Spore Burst Strain U1F (2025-08-08 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1J leaves *Achird III* (2025-08-08 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1J merges with Assault Division: Spore Burst Strain U1H (2025-08-08 09:48  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-08-08 11:16  UTC)<br/>
+
+### Day: #549
+Major Order | A2-8-2 *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
+Dispatch: AUTOMATON SECURE DATA MOVED. The Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence. (2025-08-09 11:12  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-08-09 11:19  UTC)<br/>
