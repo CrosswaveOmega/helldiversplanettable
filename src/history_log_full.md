@@ -8937,3 +8937,10 @@ DSS effect Orbital Blockade is activated (2025-08-08 11:16  UTC)<br/>
 Major Order | A2-8-2 *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
 Dispatch: AUTOMATON SECURE DATA MOVED. The Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence. (2025-08-09 11:12  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-08-09 11:19  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-08-09 13:15  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity has fallen to Humans (2025-08-09 16:15  UTC)<br/>
+*Julheim* is liberated (2025-08-09 23:45  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-08-09 23:46  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town has fallen to Humans (2025-08-10 07:00  UTC)<br/>
+
+# Day: #550
