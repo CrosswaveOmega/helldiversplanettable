@@ -8944,3 +8944,4 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-08-09 23:46  UTC)<br/>
 *Bekvam III* Region 0 Convenience Town has fallen to Humans (2025-08-10 07:00  UTC)<br/>
 
 # Day: #550
+*Bekvam III* Region 1 Firefly Meadows City is besieged by Humans (2025-08-10 19:05  UTC)<br/>
