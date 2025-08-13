@@ -8947,8 +8947,6 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-08-09 23:46  UTC)<br/>
 *Bekvam III* Region 1 Firefly Meadows City is besieged by Humans (2025-08-10 19:05  UTC)<br/>
 
 ### Day: #551
-
-### Day: #551
 *Bekvam III* is liberated (2025-08-11 13:55  UTC)<br/>
 ↳ *Charon Prime* liberation campaign starts (2025-08-11 13:55  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2025-08-11 13:55  UTC)<br/>
@@ -8956,7 +8954,7 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-08-09 23:46  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-11 13:55  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide use of the Orbital Railcannon Stratagem with reduced waiting period between calldowns in the Andromeda Sector for the next 42 hours. (2025-08-11 13:58  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-08-11 17:17  UTC)<br/>
-Major Order | A2-8-1 Liberate Nanos Sector and Kill 2.5m Troopers is issued | Objective: Liberate/Eradicate (2025-08-12 07:00  UTC)<br/>
+Major Order | A2-8-1 Liberate Nanos Sector and Kill 2.5m Troopers is won | Objective: Liberate/Eradicate (2025-08-12 07:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Nanos Sector has been liberated, and a clear message has been sent to the Automatons in a powerful show of force. The overwhelming firepower of Freedom has been utilized to great effect: the citizens of New Aspiration City on *Emeria* are safe. (2025-08-12 07:02  UTC)<br/>
 *Emeria* of the Kelvin sector's New Hope Construction Site POI is removed (2025-08-12 07:07  UTC)<br/>
 *Emeria* of the Kelvin sector is established as a New Aspiration City POI (2025-08-12 07:08  UTC)<br/>
@@ -8964,4 +8962,20 @@ Dispatch: MAJOR ORDER WON. The Nanos Sector has been liberated, and a clear mess
 *Fort Sanctuary* of the Cancri sector is established as a New Yearning City POI (2025-08-12 07:09  UTC)<br/>
 *Fort Union* of the Orion sector's New Hope Construction Site POI is removed (2025-08-12 07:09  UTC)<br/>
 *Fort Union* of the Orion sector is established as a New Hope City POI (2025-08-12 07:10  UTC)<br/>
+
+### Day: #552
+Major Order | A2-8-3 Tyranny Park 2 Construction is issued | Objective: Liberate/Eradicate/Samples (2025-08-12 09:01  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-08-12 09:38  UTC)<br/>
+Assault Division: Spore Burst Strain U1H leaves *Darius II* (2025-08-12 11:25  UTC)<br/>
+Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Burst Strain U1F (2025-08-12 11:25  UTC)<br/>
+ Region Decay: 0.1 on 199_SONGGUO CUN<br/> Region Decay: 0.4 on 199_XIN FUZHOU
+ (2025-08-13 02:00  UTC)<br/>
+ Region Decay: 0.1 on 199_SONGGUO CUN<br/> Region Decay: 0.4 on 199_XIN FUZHOU
+ (2025-08-13 02:00  UTC)<br/>
+
+### Day: #553
+Dispatch: NEW MAJOR ORDER. The *Super Earth* Government has authorized the construction of Tyranny Park 2, a massive recreational and education facility showcasing the most dire threats posed to Managed Democracy. Helldiver aid is needed for this important endeavor. Consult your Galactic Map for more information. (2025-08-13 09:02  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-08-13 09:38  UTC)<br/>
+Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. The Helldivers are ordered to liberate CRIMSICA in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information. (2025-08-13 13:01  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-13 13:19  UTC)<br/>
