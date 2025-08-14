@@ -8979,3 +8979,8 @@ DSS effect Heavy Ordnance Distribution stops (2025-08-13 09:38  UTC)<br/>
 Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The Helldivers are ordered to liberate CRIMSICA in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information. (2025-08-13 13:01  UTC)<br/>
 DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-13 13:19  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-08-13 17:18  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-08-13 21:00  UTC)<br/>
+
+### Day: #554
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Fast Recon Vehicle (FRV) Stratagem for the duration of the current Major Order. Helldiver usage of FRVs will contribute diagnostic telemetry, contributing to greatly enhanced safety for Tyranny Park 2's self-guided off-road expeditions. (2025-08-14 09:04  UTC)<br/>
