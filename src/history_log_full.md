@@ -8984,3 +8984,14 @@ DSS deploys to *Crimsica* of the Draco sector (2025-08-13 17:18  UTC)<br/>
 
 ### Day: #554
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Fast Recon Vehicle (FRV) Stratagem for the duration of the current Major Order. Helldiver usage of FRVs will contribute diagnostic telemetry, contributing to greatly enhanced safety for Tyranny Park 2's self-guided off-road expeditions. (2025-08-14 09:04  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Humans (2025-08-14 14:58  UTC)<br/>
+
+### Day: #555
+Assault Division: Spore Burst Strain U1B leaves *Gacrux* (2025-08-15 09:32  UTC)<br/>
+Assault Division: Spore Burst Strain U1B deploys to *Partion* (2025-08-15 09:33  UTC)<br/>
+Assault Division: Predator Strain U5A deploys to *Gacrux* (2025-08-15 09:37  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-08-15 09:44  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-08-15 10:05  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-08-15 10:05  UTC)<br/>
+Assault Division: Predator Strain U5A divides into 2 groups [U5A, U5B] (2025-08-15 10:05  UTC)<br/>
+Assault Division: Predator Strain U5B deploys to *Acamar IV* (2025-08-15 10:05  UTC)<br/>
