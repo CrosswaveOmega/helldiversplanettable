@@ -8186,6 +8186,7 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-06-30 04:28  UTC)<br/>
  (2025-06-30 06:00  UTC)<br/>
 
 ### Day: #509
+Assault Division: Jet Brigade U6C is routed from {'name': 'Borea', 'sector': 'Sagan', 'biome': 'arctic_glacier_base', 'environmentals': ['blizzards'], 'names': {'en-US': 'BOREA', 'en-GB': 'BOREA', 'pt-BR': 'BÓREA', 'de-DE': 'BOREA', 'es-ES': 'BOREA', 'fr-FR': 'BORÉA', 'it-IT': 'BOREA', 'ja-JP': 'ボレア', 'ko-KO': '보레아', 'ms-MY': 'BOREA', 'pl-PL': 'BOREA', 'pt-PT': 'BOREA', 'ru-RU': 'БОРЕЯ', 'zh-Hans': '博瑞亚', 'zh-Hant': '博里亞'}, 'type': 'arctic', 'weather_effects': ['extreme_cold', 'blizzards'], 'owner': 1} (2025-06-30 09:38  UTC)<br/>
 *Mintoria* of the Gellert sector is attacked by Automatons (2025-06-30 13:33  UTC)<br/>
 *Varylia 5* defense is won (2025-06-30 14:29  UTC)<br/>
  Decay: 0.0 on Mintoria
@@ -8995,3 +8996,17 @@ DSS effect Orbital Blockade is activated (2025-08-15 09:44  UTC)<br/>
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-08-15 10:05  UTC)<br/>
 Assault Division: Predator Strain U5A divides into 2 groups [U5A, U5B] (2025-08-15 10:05  UTC)<br/>
 Assault Division: Predator Strain U5B deploys to *Acamar IV* (2025-08-15 10:05  UTC)<br/>
+Assault Division: Spore Burst Strain U1B deploys to *Overgoe Prime* (2025-08-15 10:46  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2025-08-15 10:46  UTC)<br/>
+ Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
+ (2025-08-15 10:46  UTC)<br/>
+Assault Division: Spore Burst Strain U1B is routed (2025-08-15 12:13  UTC)<br/>
+ Decay: 2.0 on Pandion-XXIV
+ (2025-08-15 12:13  UTC)<br/>
+*Crimsica* is liberated (2025-08-15 13:27  UTC)<br/>
+↳*Estanu* liberation campaign starts (2025-08-15 13:27  UTC)<br/>
+↳DSS deploys to *Acamar IV* of the Jin Xi sector (2025-08-15 13:27  UTC)<br/>
+Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is won| Objective: Liberate (2025-08-15 13:29  UTC)<br/>
+Major Order | A2-8-5 Tyranny Park Expansion is issued | Objective: Exterminate (2025-08-15 14:11  UTC)<br/>
+Dispatch:  TYRANNY PARK 2 EXPANSION ANNOUNCED.  The first expansion for Tyranny Park 2 is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows.  Helldivers: neutralize 50,000,000 Predator Strain and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae.  Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (2025-08-15 14:15  UTC)<br/>
