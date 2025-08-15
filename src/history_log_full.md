@@ -7011,7 +7011,9 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-29 06:01  UTC)<br/>
 ### Day: #447
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 09:08  UTC)<br/>
 *Turing* of the Umlaut sector is invaded by Illuminate (2025-04-29 09:45  UTC)<br/>
-*Turing* of the Umlaut sector's Xenoentomology Center POI is removed (2025-04-29 09:47  UTC)<br/>
+*Turing* of the Umlaut sector's Xenoentomology Center POI is removed (2025-04-29 09:45  UTC)<br/>
+Assault Division: Predator Strain U5A is routed from {'name': 'Turing', 'sector': 'Umlaut', 'biome': 'primordial_purple', 'environmentals': ['none'], 'names': {'en-US': 'TURING', 'en-GB': 'TURING', 'pt-BR': 'TURING', 'de-DE': 'TURING', 'es-ES': 'TURING', 'fr-FR': 'TURING', 'it-IT': 'TURING', 'ja-JP': 'テューリング', 'ko-KO': '튜링', 'ms-MY': 'TURING', 'pl-PL': 'TURING', 'pt-PT': 'TURING', 'ru-RU': 'ТЬЮРИНГ', 'zh-Hans': '图灵', 'zh-Hant': '圖靈'}, 'type': 'primordial', 'weather_effects': ['normal_temp'], 'owner': 1} (2025-04-29 09:45  UTC)<br/>
+*Turing* of the Umlaut sector is established as a Xenoentomology Center POI (2025-04-29 09:47  UTC)<br/>
 *Pilen V* of the Altus sector's Negative Energy Laboratory POI is removed (2025-04-29 14:49  UTC)<br/>
 *Turing*'s invasion is successful (2025-04-29 14:49  UTC)<br/>
 Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is failed | Objective: Operation/Liberate (2025-04-29 14:52  UTC)<br/>
