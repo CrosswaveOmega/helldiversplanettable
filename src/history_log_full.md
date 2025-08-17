@@ -8929,11 +8929,11 @@ Dispatch: ARSENAL BOOST. High Command has authorized high-volume use of the Orbi
 ### Day: #548
 DSS effect Eagle Storm stops (2025-08-08 09:04  UTC)<br/>
 Assault Division: Spore Burst Strain U1D leaves *Crimsica* (2025-08-08 09:47  UTC)<br/>
-Assault Division: Spore Burst Strain U1D merges with Assault Division: Spore Burst Strain U1A (2025-08-08 09:47  UTC)<br/>
+Assault Division: Spore Burst Strain U1D merges with Assault Division: Spore Burst Strain U1A on *Fori Prime* (2025-08-08 09:47  UTC)<br/>
 Assault Division: Spore Burst Strain U1G leaves *Gar Haren* (2025-08-08 09:48  UTC)<br/>
-Assault Division: Spore Burst Strain U1G merges with Assault Division: Spore Burst Strain U1F (2025-08-08 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1G merges with Assault Division: Spore Burst Strain U1F on *Phact Bay* (2025-08-08 09:48  UTC)<br/>
 Assault Division: Spore Burst Strain U1J leaves *Achird III* (2025-08-08 09:48  UTC)<br/>
-Assault Division: Spore Burst Strain U1J merges with Assault Division: Spore Burst Strain U1H (2025-08-08 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1J merges with Assault Division: Spore Burst Strain U1H on *Darius II* (2025-08-08 09:48  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-08-08 11:16  UTC)<br/>
 
 ### Day: #549
@@ -8970,7 +8970,7 @@ Dispatch: MAJOR ORDER WON. The Nanos Sector has been liberated, and a clear mess
 Major Order | A2-8-3 Tyranny Park 2 Construction is issued | Objective: Liberate/Eradicate/Samples (2025-08-12 09:01  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-08-12 09:38  UTC)<br/>
 Assault Division: Spore Burst Strain U1H leaves *Darius II* (2025-08-12 11:25  UTC)<br/>
-Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Burst Strain U1F (2025-08-12 11:25  UTC)<br/>
+Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Burst Strain U1F on *Phact Bay* (2025-08-12 11:25  UTC)<br/>
  Region Decay: 0.1 on 199_SONGGUO CUN<br/> Region Decay: 0.4 on 199_XIN FUZHOU
  (2025-08-13 02:00  UTC)<br/>
  Region Decay: 0.1 on 199_SONGGUO CUN<br/> Region Decay: 0.4 on 199_XIN FUZHOU
@@ -8998,17 +8998,31 @@ DSS effect Orbital Blockade is activated (2025-08-15 09:44  UTC)<br/>
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-08-15 10:05  UTC)<br/>
 Assault Division: Predator Strain U5A divides into 2 groups [U5A, U5B] (2025-08-15 10:05  UTC)<br/>
 Assault Division: Predator Strain U5B deploys to *Acamar IV* (2025-08-15 10:05  UTC)<br/>
-Assault Division: Spore Burst Strain U1B deploys to *Overgoe Prime* (2025-08-15 10:46  UTC)<br/>
+Assault Division: Spore Burst Strain U1F leaves *Phact Bay* (2025-08-15 10:45  UTC)<br/>
+Assault Division: Spore Burst Strain U1F merges with Assault Division: Spore Burst Strain U1E on *Pandion-XXIV* (2025-08-15 10:45  UTC)<br/>
+Assault Division: Spore Burst Strain U1B leaves *Partion* (2025-08-15 10:45  UTC)<br/>
  Decay: 0.0 on Acamar IV
- (2025-08-15 10:46  UTC)<br/>
+ (2025-08-15 10:45  UTC)<br/>
  Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
- (2025-08-15 10:46  UTC)<br/>
-Assault Division: Spore Burst Strain U1B is routed (2025-08-15 12:13  UTC)<br/>
+ (2025-08-15 10:45  UTC)<br/>
+Assault Division: Spore Burst Strain U1B deploys to *Overgoe Prime* (2025-08-15 10:46  UTC)<br/>
+Assault Division: Spore Burst Strain U1B leaves *Overgoe Prime* (2025-08-15 12:13  UTC)<br/>
  Decay: 2.0 on Pandion-XXIV
  (2025-08-15 12:13  UTC)<br/>
 *Crimsica* is liberated (2025-08-15 13:27  UTC)<br/>
-↳*Estanu* liberation campaign starts (2025-08-15 13:27  UTC)<br/>
-↳DSS deploys to *Acamar IV* of the Jin Xi sector (2025-08-15 13:27  UTC)<br/>
-Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is won| Objective: Liberate (2025-08-15 13:29  UTC)<br/>
-Major Order | A2-8-5 Tyranny Park Expansion is issued | Objective: Exterminate (2025-08-15 14:11  UTC)<br/>
-Dispatch:  TYRANNY PARK 2 EXPANSION ANNOUNCED.  The first expansion for Tyranny Park 2 is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows.  Helldivers: neutralize 50,000,000 Predator Strain and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae.  Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (2025-08-15 14:15  UTC)<br/>
+↳ *Estanu* liberation campaign starts (2025-08-15 13:27  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-08-15 13:27  UTC)<br/>
+Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is won | Objective: Liberate (2025-08-15 13:27  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. CRIMSICA has been liberated from the Terminids. Construction on a new and much more secure E-710 farm has already begun, along with a fleet of new Super Destroyers. Once complete, this fleet expansion will mean that more Helldivers can spread Managed Democracy simultaneously. The strongest fighting force in the Galaxy will soon be even stronger. (2025-08-15 13:29  UTC)<br/>
+Major Order | A2-8-5 Tyranny Park Expansion is issued | Objective: Eradicate (2025-08-15 14:11  UTC)<br/>
+Dispatch: TYRANNY PARK 2 EXPANSION ANNOUNCED. The first expansion for Tyranny Park 2 is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows. Helldivers: neutralize 50,000,000 Predator Strain and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae. Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (2025-08-15 14:15  UTC)<br/>
+*Bore Rock* is liberated (2025-08-16 05:24  UTC)<br/>
+↳ *Esker* liberation campaign starts (2025-08-16 05:24  UTC)<br/>
+
+### Day: #556
+DSS effect Orbital Blockade stops (2025-08-16 09:45  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2025-08-16 13:13  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-08-16 13:34  UTC)<br/>
+*Acamar IV* Region 1 Eridani City has fallen to Humans (2025-08-16 16:28  UTC)<br/>
+*Acamar IV* defense is won (2025-08-16 20:36  UTC)<br/>
+DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2025-08-16 20:37  UTC)<br/>
