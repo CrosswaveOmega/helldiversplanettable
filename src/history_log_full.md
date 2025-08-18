@@ -9026,3 +9026,16 @@ DSS effect Eagle Storm is activated (2025-08-16 13:34  UTC)<br/>
 *Acamar IV* Region 1 Eridani City has fallen to Humans (2025-08-16 16:28  UTC)<br/>
 *Acamar IV* defense is won (2025-08-16 20:36  UTC)<br/>
 DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2025-08-16 20:37  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-08-16 22:00  UTC)<br/>
+Major Order | A2-8-5 Tyranny Park Expansion is won | Objective: Eradicate (2025-08-17 02:11  UTC)<br/>
+Dispatch: TYRANNY PARK 2 EXPANSION SECURED. Helldivers have successfully neutralized all designated Gloom-mutated Terminids. A surge of Tyranny Park 2 ticket pre-sales has followed the announcement of "The Forbidden Gloom" expansion zone. As such, Tyranny Park 2 has sponsored the Orbital Napalm Barrage stratagem to be available fleetwide for the next 48 hours. (2025-08-17 02:17  UTC)<br/>
+Assault Division: Predator Strain U5B is routed from {'name': 'Acamar IV', 'sector': 'Jin Xi', 'biome': 'moor_baseplanet', 'environmentals': ['none'], 'names': {'en-US': 'ACAMAR IV', 'en-GB': 'ACAMAR IV', 'pt-BR': 'ACAMAR IV', 'de-DE': 'ACAMAR IV', 'es-ES': 'ACAMAR IV', 'fr-FR': 'ACAMAR IV', 'it-IT': 'ACAMAR IV', 'ja-JP': 'アカマー IV', 'ko-KO': '아카마르 IV', 'ms-MY': 'ACAMAR IV', 'pl-PL': 'ACAMAR IV', 'pt-PT': 'ACAMAR IV', 'ru-RU': 'АКАМАР IV', 'zh-Hans': '天园六IV', 'zh-Hant': '天園六IV'}, 'type': 'moor', 'weather_effects': ['normal_temp', 'rainstorms'], 'owner': 1} (2025-08-17 02:17  UTC)<br/>
+
+### Day: #557
+DSS effect Eagle Storm stops (2025-08-17 13:36  UTC)<br/>
+*Pandion-XXIV* is liberated (2025-08-18 06:27  UTC)<br/>
+Assault Division: Spore Burst Strain U1E is routed (2025-08-18 06:27  UTC)<br/>
+DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
+
+### Day: #558
