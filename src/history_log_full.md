@@ -9045,6 +9045,7 @@ Dispatch: PARK PLANNING COMISSION NOTICE. In light of the Helldivers' recent Cha
 
 ### Day: #559
 Dispatch: MAJOR ORDER WON. Thanks to the peerless valor of the Helldivers, and their steadfast dedication to top-tier edutainment, the promise and prosperity of Tyranny Park 2 can now be realized. (2025-08-19 09:13  UTC)<br/>
+*Bore Rock* of the Falstaff sector is established as a Tyranny Park 2 POI (2025-08-19 09:23  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-08-19 11:58  UTC)<br/>
 *Erata Prime* Region 0 New Da Nang Town is besieged by Humans (2025-08-19 11:58  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-08-19 13:01  UTC)<br/>
@@ -9053,12 +9054,14 @@ Dispatch: MAJOR ORDER WON. Thanks to the peerless valor of the Helldivers, and t
  (2025-08-19 13:01  UTC)<br/>
  Region Decay: 0.2 on 125_LOKAHEIM<br/> Region Decay: 0.2 on 125_PSEUDOTOPIA<br/> Region Decay: 0.6 on 125_FAMEWOLF PEAK<br/> Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
  (2025-08-19 13:01  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2025-08-19 13:31  UTC)<br/>
-*Turing* Region 2 Periwinkle Mills City is besieged by Humans (2025-08-19 13:31  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2025-08-19 13:30  UTC)<br/>
+*Turing* Region 2 Periwinkle Mills City is besieged by Humans (2025-08-19 13:30  UTC)<br/>
+Assault Division: Spore Burst Strain U3A deploys to *Turing* (2025-08-19 13:30  UTC)<br/>
  Decay: 0.0 on Fenrir III
- (2025-08-19 13:31  UTC)<br/>
+ (2025-08-19 13:30  UTC)<br/>
  Region Decay: 0.4 on 126_CHATOYANT<br/> Region Decay: 0.2 on 126_CARBONDALE<br/> Region Decay: 0.4 on 126_PERIWINKLE MILLS
- (2025-08-19 13:31  UTC)<br/>
+ (2025-08-19 13:30  UTC)<br/>
+Assault Division: Spore Burst Strain U3A leaves *Turing* (2025-08-19 13:31  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-08-19 13:46  UTC)<br/>
 *Achernar Secundus* Region 0 Currency Town is besieged by Humans (2025-08-19 13:46  UTC)<br/>
  Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
