@@ -9040,3 +9040,35 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 
 ### Day: #558
 Assault Division: Predator Strain U5A leaves *Gacrux* (2025-08-18 13:39  UTC)<br/>
+Major Order | A2-8-3 Tyranny Park 2 Construction is won | Objective: Liberate/Eradicate/Samples (2025-08-19 08:57  UTC)<br/>
+Dispatch: PARK PLANNING COMISSION NOTICE. In light of the Helldivers' recent Charger egg procurement efforts, the Tyranny Park Planning Commission has unanimously decided to diversify Tyranny Park 2's Charger exhibits. For this purpose, the Helldivers' target Charger numbers are considered met. (2025-08-19 08:59  UTC)<br/>
+
+### Day: #559
+Dispatch: MAJOR ORDER WON. Thanks to the peerless valor of the Helldivers, and their steadfast dedication to top-tier edutainment, the promise and prosperity of Tyranny Park 2 can now be realized. (2025-08-19 09:13  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-08-19 11:58  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town is besieged by Humans (2025-08-19 11:58  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-08-19 13:01  UTC)<br/>
+*Fenrir III* Region 1 Pseudotopia Town is besieged by Humans (2025-08-19 13:01  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2025-08-19 13:01  UTC)<br/>
+ Region Decay: 0.2 on 125_LOKAHEIM<br/> Region Decay: 0.2 on 125_PSEUDOTOPIA<br/> Region Decay: 0.6 on 125_FAMEWOLF PEAK<br/> Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
+ (2025-08-19 13:01  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2025-08-19 13:31  UTC)<br/>
+*Turing* Region 2 Periwinkle Mills City is besieged by Humans (2025-08-19 13:31  UTC)<br/>
+ Decay: 0.0 on Fenrir III
+ (2025-08-19 13:31  UTC)<br/>
+ Region Decay: 0.4 on 126_CHATOYANT<br/> Region Decay: 0.2 on 126_CARBONDALE<br/> Region Decay: 0.4 on 126_PERIWINKLE MILLS
+ (2025-08-19 13:31  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-08-19 13:46  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town is besieged by Humans (2025-08-19 13:46  UTC)<br/>
+ Region Decay: 0.2 on 130_CURRENCY<br/> Region Decay: 0.4 on 130_NEW NEWTONVILLE<br/> Region Decay: 0.4 on 130_OL' OLDHAM
+ (2025-08-19 13:46  UTC)<br/>
+*Gacrux* is liberated (2025-08-19 13:58  UTC)<br/>
+DSS deploys to *Fenrir III* of the Umlaut sector (2025-08-19 13:58  UTC)<br/>
+Major Order | A2-8-6 Kill Six Billion Terminids is issued | Objective: Eradicate (2025-08-19 14:01  UTC)<br/>
+ Decay: 0.0 on Turing
+ (2025-08-19 14:01  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. All units to high alert. Multiple large-scale Terminid incursions have been reported on planets surrounding the Gloom. ACHERNAR SECUNDUS, ERATA PRIME, FENRIR III, AND TURING are under attack. The Helldivers must deploy immediately to their defense. The Helldivers are ordered to Kill 6,000,000,000 Terminids. It is believed the attack will continue without abatement until then. (2025-08-19 14:02  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2025-08-19 16:00  UTC)<br/>
+*Fenrir III* Region 2 Famewolf Peak Megacity is besieged by Humans (2025-08-19 20:26  UTC)<br/>
