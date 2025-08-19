@@ -9039,3 +9039,4 @@ Assault Division: Spore Burst Strain U1E is routed (2025-08-18 06:27  UTC)<br/>
 DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 
 ### Day: #558
+Assault Division: Predator Strain U5A leaves *Gacrux* (2025-08-18 13:39  UTC)<br/>
