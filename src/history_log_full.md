@@ -9075,3 +9075,9 @@ Dispatch: NEW MAJOR ORDER. All units to high alert. Multiple large-scale Termini
  Decay: 0.0 on Achernar Secundus
  (2025-08-19 16:00  UTC)<br/>
 *Fenrir III* Region 2 Famewolf Peak Megacity is besieged by Humans (2025-08-19 20:26  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-08-19 23:59  UTC)<br/>
+*Fenrir III* Region 1 Pseudotopia Town has fallen to Humans (2025-08-20 01:02  UTC)<br/>
+*Achernar Secundus* Region 2 Ol' Oldham City is besieged by Humans (2025-08-20 06:31  UTC)<br/>
+*Turing* Region 0 Chatoyant City is besieged by Humans (2025-08-20 08:02  UTC)<br/>
+
+# Day: #560
