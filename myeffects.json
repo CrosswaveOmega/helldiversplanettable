@@ -95,29 +95,59 @@
             "icon": "PredatorStrain",
             "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
         },
+        "1244": {
+            "galacticEffectId": 1244,
+            "name": "Spore Burst Strain",
+            "icon": "PredatorStrain",
+            "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. They can explode into spores."
+        },
         "1249": {
-		"galacticEffectId": 1249,
-		"name": "INCINERATION CORPS",
-        "icon": "FireBots",
-		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
-	},
-    "1268": {
-		"galacticEffectId": 1268,
-		"name": "NEGATIVE ENERGY LABORATORY",
-        "icon": "Science",
-		"description": "Scientists without fear of implosion or spaghettification study negative energy here."
-	},
-    "1282": {
-            "galacticEffectId": 1282 ,
+            "galacticEffectId": 1249,
+            "name": "INCINERATION CORPS",
+            "icon": "FireBots",
+            "description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+        },
+        "1268": {
+            "galacticEffectId": 1268,
+            "name": "NEGATIVE ENERGY LABORATORY",
+            "icon": "Science",
+            "description": "Scientists without fear of implosion or spaghettification study negative energy here."
+        },
+        "1282": {
+            "galacticEffectId": 1282,
             "name": "HELLDIVER TRAINING FACILITIES",
             "icon": "Governmental",
             "description": "Here, the best of the best go through the rigorous Helldiver training that will earn them their capes."
         },
-    "1286": {
-		"galacticEffectId": 1286,
-		"name": "NEW HOPE CONSTRUCTION SITE",
-        "icon": "Wrench",
-		"description": "One of 3 Maximum Security Cities is under construction here."
-	}
-}
+        "1286": {
+            "galacticEffectId": 1286,
+            "name": "NEW HOPE CONSTRUCTION SITE",
+            "icon": "Wrench",
+            "description": "One of 3 Maximum Security Cities is under construction here."
+        },
+        "1287": {
+            "galacticEffectId": 1287,
+            "name": "NEW HOPE CITY",
+            "icon": "Governmental",
+            "description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+        },
+        "1291": {
+            "galacticEffectId": 1291,
+            "name": "NEW ASPIRATION CITY",
+            "icon": "Governmental",
+            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+        },
+        "1292": {
+            "galacticEffectId": 1292,
+            "name": "NEW YEARNING CITY",
+            "icon": "Governmental",
+            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+        },
+        "1295": {
+            "galacticEffectId": 1295,
+            "name": "TYRANNY PARK 2",
+            "icon": "Governmental",
+            "description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
+        }
+    }
 }
