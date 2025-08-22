@@ -714,8 +714,9 @@ async def process_event(
                     planetclone[last].adiv = ""
                     eff = get_effect(site)
                     if eff:
+                        default={"name":"Somewhere..."}
                         event.text += (
-                            f" from {vjson['planets'].get(str(last), {"name":"Somewhere..."})['name']}"
+                            f" from {vjson['planets'].get(str(last), default)['name']}"
                         )
                         planetclone[last].remove_desc(eff.name)
     if event.planet:
