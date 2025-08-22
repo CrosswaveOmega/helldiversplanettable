@@ -7756,10 +7756,10 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Polaris Prime* Region 2 Kalasatama City is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 0 Handakas Town is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 1 Haku City City is now present (2025-06-10 11:20  UTC)<br/>
-*Volterra*'s max health has changed to 2m (2025-06-10 11:31  UTC)<br/>
-*Crucible*'s max health has changed to 2.5m (2025-06-10 11:31  UTC)<br/>
-*Caramoor*'s max health has changed to 2.2m (2025-06-10 11:31  UTC)<br/>
-*Alta V*'s max health has changed to 1.3m (2025-06-10 11:31  UTC)<br/>
+*Volterra*'s max health is changed to 2m (2025-06-10 11:31  UTC)<br/>
+*Crucible*'s max health is changed to 2.5m (2025-06-10 11:31  UTC)<br/>
+*Caramoor*'s max health is changed to 2.2m (2025-06-10 11:31  UTC)<br/>
+*Alta V*'s max health is changed to 1.3m (2025-06-10 11:31  UTC)<br/>
 *Darius II* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Achird III* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
 *Veld* liberation campaign ends (2025-06-10 11:55  UTC)<br/>
@@ -7780,13 +7780,13 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-10 12:07  UTC)<br/>
 Major Order | A2-6-3 Defend The Korpus Sector is issued | Objective: Control (2025-06-10 12:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneously across multiple *Super Earth* cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger. The Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities. (2025-06-10 12:10  UTC)<br/>
-*Veld*'s max health has changed to 1.8m (2025-06-10 12:18  UTC)<br/>
-*Ursica XI*'s max health has changed to 1.6m (2025-06-10 12:18  UTC)<br/>
-*Darius II*'s max health has changed to 1.4m (2025-06-10 12:18  UTC)<br/>
-*Acamar IV*'s max health has changed to 1.5m (2025-06-10 12:18  UTC)<br/>
-*Achernar Secundus*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
-*Achird III*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
-*Polaris Prime*'s max health has changed to 2m (2025-06-10 12:18  UTC)<br/>
+*Veld*'s max health is changed to 1.8m (2025-06-10 12:18  UTC)<br/>
+*Ursica XI*'s max health is changed to 1.6m (2025-06-10 12:18  UTC)<br/>
+*Darius II*'s max health is changed to 1.4m (2025-06-10 12:18  UTC)<br/>
+*Acamar IV*'s max health is changed to 1.5m (2025-06-10 12:18  UTC)<br/>
+*Achernar Secundus*'s max health is changed to 2m (2025-06-10 12:18  UTC)<br/>
+*Achird III*'s max health is changed to 2m (2025-06-10 12:18  UTC)<br/>
+*Polaris Prime*'s max health is changed to 2m (2025-06-10 12:18  UTC)<br/>
  Decay: 0.0 on Crucible, Alta V
  (2025-06-10 12:18  UTC)<br/>
  Region Decay: 0.0 on 29_ANNWN<br/> Region Decay: 0.0 on 29_KSHIRA SAGARA<br/> Region Decay: 0.0 on 29_AGARTHA<br/> Region Decay: 0.0 on 29_KURRI KURRI<br/> Region Decay: 0.0 on 81_UNDERVATTEN<br/> Region Decay: 0.0 on 81_PORTE LIBERTÉ
@@ -8487,32 +8487,32 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 *Vega Bay* Region 0 Onsen Settlement is now present (2025-07-15 09:01  UTC)<br/>
 *Vega Bay* Region 1 Giri Town is now present (2025-07-15 09:01  UTC)<br/>
 *Vega Bay* Region 2 Sapporo Town is now present (2025-07-15 09:01  UTC)<br/>
-*Emeria*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Fenmire*'s max health has changed to 2.4m (2025-07-15 09:01  UTC)<br/>
-*Tarsh*'s max health has changed to 1.3m (2025-07-15 09:01  UTC)<br/>
-*Julheim*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Pöpli IX*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Bekvam III*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Vernen Wells*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
-*Aurora Bay*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Gaellivare*'s max health has changed to 1.7m (2025-07-15 09:01  UTC)<br/>
-*Caph*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
-*Draupnir*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
-*Mort*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
-*Ingmar*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
-*Choepessa IV*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
-*Claorell*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
-*Clasa*'s max health has changed to 1.7m (2025-07-15 09:01  UTC)<br/>
-*Lesath*'s max health has changed to 2.4m (2025-07-15 09:01  UTC)<br/>
-*Malevelon Creek*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
-*Martale*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
-*Matar Bay*'s max health has changed to 1.8m (2025-07-15 09:01  UTC)<br/>
-*Mintoria*'s max health has changed to 1.3m (2025-07-15 09:01  UTC)<br/>
-*Tien Kwan*'s max health has changed to 2.2m (2025-07-15 09:01  UTC)<br/>
-*Ubanea*'s max health has changed to 1.6m (2025-07-15 09:01  UTC)<br/>
-*Varylia 5*'s max health has changed to 1.4m (2025-07-15 09:01  UTC)<br/>
-*Wasat*'s max health has changed to 2m (2025-07-15 09:01  UTC)<br/>
-*Vega Bay*'s max health has changed to 1.5m (2025-07-15 09:01  UTC)<br/>
+*Emeria*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Fenmire*'s max health is changed to 2.4m (2025-07-15 09:01  UTC)<br/>
+*Tarsh*'s max health is changed to 1.3m (2025-07-15 09:01  UTC)<br/>
+*Julheim*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Pöpli IX*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Bekvam III*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Vernen Wells*'s max health is changed to 1.5m (2025-07-15 09:01  UTC)<br/>
+*Aurora Bay*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Gaellivare*'s max health is changed to 1.7m (2025-07-15 09:01  UTC)<br/>
+*Caph*'s max health is changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Draupnir*'s max health is changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Mort*'s max health is changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Ingmar*'s max health is changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Choepessa IV*'s max health is changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Claorell*'s max health is changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Clasa*'s max health is changed to 1.7m (2025-07-15 09:01  UTC)<br/>
+*Lesath*'s max health is changed to 2.4m (2025-07-15 09:01  UTC)<br/>
+*Malevelon Creek*'s max health is changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Martale*'s max health is changed to 1.5m (2025-07-15 09:01  UTC)<br/>
+*Matar Bay*'s max health is changed to 1.8m (2025-07-15 09:01  UTC)<br/>
+*Mintoria*'s max health is changed to 1.3m (2025-07-15 09:01  UTC)<br/>
+*Tien Kwan*'s max health is changed to 2.2m (2025-07-15 09:01  UTC)<br/>
+*Ubanea*'s max health is changed to 1.6m (2025-07-15 09:01  UTC)<br/>
+*Varylia 5*'s max health is changed to 1.4m (2025-07-15 09:01  UTC)<br/>
+*Wasat*'s max health is changed to 2m (2025-07-15 09:01  UTC)<br/>
+*Vega Bay*'s max health is changed to 1.5m (2025-07-15 09:01  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-07-15 09:10  UTC)<br/>
 *Claorell* Region 2 Zenith Megacity is besieged by Humans (2025-07-15 09:10  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-07-15 09:16  UTC)<br/>
@@ -9039,6 +9039,22 @@ Assault Division: Spore Burst Strain U1E is routed from Pandion-XXIV (2025-08-18
 DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 
 ### Day: #558
+*Seyshel Beach* Region 0 Accountant Graebar Town is now present (2025-08-18 12:32  UTC)<br/>
+*Seyshel Beach* Region 1 Beachview Settlement is now present (2025-08-18 12:32  UTC)<br/>
+*Seyshel Beach* Region 2 The Villas City is now present (2025-08-18 12:32  UTC)<br/>
+*Seyshel Beach* Region 3 UNNAMED Megacity is now present (2025-08-18 12:32  UTC)<br/>
+*Seyshel Beach*'s max health is changed to 2.3m (2025-08-18 12:34  UTC)<br/>
+*Myrium* Region 0 Pilot's Berth City is now present (2025-08-18 12:58  UTC)<br/>
+*Myrium* Region 1 Plethora Town is now present (2025-08-18 12:58  UTC)<br/>
+*Myrium* Region 2 Antboot City is now present (2025-08-18 12:58  UTC)<br/>
+*Parsh* Region 0 Porugu City is now present (2025-08-18 12:58  UTC)<br/>
+*Parsh* Region 1 Padosan Megacity is now present (2025-08-18 12:58  UTC)<br/>
+*Grafmere* Region 0 Grafsart City is now present (2025-08-18 12:58  UTC)<br/>
+*Grafmere* Region 1 Grafswallit Settlement is now present (2025-08-18 12:58  UTC)<br/>
+*Grafmere* Region 2 UNNAM Megacity is now present (2025-08-18 12:58  UTC)<br/>
+*Myrium*'s max health is changed to 2m (2025-08-18 12:58  UTC)<br/>
+*Parsh*'s max health is changed to 2m (2025-08-18 12:58  UTC)<br/>
+*Grafmere*'s max health is changed to 2.1m (2025-08-18 12:58  UTC)<br/>
 Assault Division: Predator Strain U5A leaves *Gacrux* (2025-08-18 13:39  UTC)<br/>
 Major Order | A2-8-3 Tyranny Park 2 Construction is won | Objective: Liberate/Eradicate/Samples (2025-08-19 08:57  UTC)<br/>
 Dispatch: PARK PLANNING COMISSION NOTICE. In light of the Helldivers' recent Charger egg procurement efforts, the Tyranny Park Planning Commission has unanimously decided to diversify Tyranny Park 2's Charger exhibits. For this purpose, the Helldivers' target Charger numbers are considered met. (2025-08-19 08:59  UTC)<br/>
@@ -9126,3 +9142,26 @@ Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Termin
  Decay: -0.7 on Bore Rock<br/> Decay: 1.0 on Achernar Secundus
  (2025-08-21 16:00  UTC)<br/>
 DSS deploys to *Charbal-VII* of the Andromeda sector (2025-08-21 17:25  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-08-22 07:27  UTC)<br/>
+*Grafmere* of the Rictus sector is attacked by Illuminates (2025-08-22 08:04  UTC)<br/>
+*Grafmere* Region 1 UNNAMED Settlement is besieged by Humans (2025-08-22 08:04  UTC)<br/>
+*Charon Prime* defense is failed (2025-08-22 08:33  UTC)<br/>
+↳ *Charon Prime* liberation campaign starts (2025-08-22 08:33  UTC)<br/>
+↳ *Martale* liberation campaign ends (2025-08-22 08:33  UTC)<br/>
+↳ Andromeda sector is fully under Automaton control (2025-08-22 08:33  UTC)<br/>
+*Parsh* Region 0 UNNAMED City is besieged by Humans (2025-08-22 08:33  UTC)<br/>
+ Decay: 0.0 on Grafmere
+ (2025-08-22 08:33  UTC)<br/>
+ Region Decay: 0.4 on 92_GRAFSART<br/> Region Decay: 0.1 on 92_GRAFSWALLIT<br/> Region Decay: 0.6 on 92_GRAFSEAD
+ (2025-08-22 08:33  UTC)<br/>
+Dispatch: LOW-ORBIT INTERDICTION. Illuminate assault forces have deployed heavy low-orbit anti-air patrols to interdict space-to-ground aircraft. Extraction time on missions against the Illuminate will take an additional 150 seconds for the next 48 hours. (2025-08-22 08:56  UTC)<br/>
+ Decay: 0.0 on Parsh<br/> Decay: 2.0 on Charon Prime
+ (2025-08-22 08:56  UTC)<br/>
+ Region Decay: 0.4 on 58_PORUGU<br/> Region Decay: 0.6 on 58_PADOSAN
+ (2025-08-22 08:56  UTC)<br/>
+
+### Day: #562
+Major Order | A2-8-8 Kill 1 Billion Illuminate is issued | Objective: Eradicate (2025-08-22 09:03  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Illuminate have launched a massive offensive—the third concurrent onslaught upon our besieged Federation. We are losing ground. Reinforcements are en route. But the new Super Destroyer fleet is still 96 hours from mobilization. They will be too late unless you buy time. Helldivers: Collapse the Illuminate advance by eliminating 1,000,000,000 of their forces. You must hold on. (2025-08-22 09:04  UTC)<br/>
+*Veld* of the Orion sector is attacked by Terminids (2025-08-22 10:19  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-08-22 10:19  UTC)<br/>
