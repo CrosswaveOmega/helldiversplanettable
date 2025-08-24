@@ -9051,7 +9051,7 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 *Parsh* Region 1 Padosan Megacity is now present (2025-08-18 12:58  UTC)<br/>
 *Grafmere* Region 0 Grafsart City is now present (2025-08-18 12:58  UTC)<br/>
 *Grafmere* Region 1 Grafswallit Settlement is now present (2025-08-18 12:58  UTC)<br/>
-*Grafmere* Region 2 UNNAM Megacity is now present (2025-08-18 12:58  UTC)<br/>
+*Grafmere* Region 2 Grafsead Megacity is now present (2025-08-18 12:58  UTC)<br/>
 *Myrium*'s max health is changed to 2m (2025-08-18 12:58  UTC)<br/>
 *Parsh*'s max health is changed to 2m (2025-08-18 12:58  UTC)<br/>
 *Grafmere*'s max health is changed to 2.1m (2025-08-18 12:58  UTC)<br/>
@@ -9143,12 +9143,13 @@ Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Termin
  (2025-08-21 16:00  UTC)<br/>
 DSS deploys to *Charbal-VII* of the Andromeda sector (2025-08-21 17:25  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-08-22 07:27  UTC)<br/>
-*Grafmere* of the Rictus sector is attacked by Illuminates (2025-08-22 08:04  UTC)<br/>
-*Grafmere* Region 1 UNNAMED Settlement is besieged by Humans (2025-08-22 08:04  UTC)<br/>
+*Grafmere* of the Rictus sector is attacked by Illuminate (2025-08-22 08:04  UTC)<br/>
+*Grafmere* Region 1 Grafswallit Settlement is besieged by Humans (2025-08-22 08:04  UTC)<br/>
 *Charon Prime* defense is failed (2025-08-22 08:33  UTC)<br/>
 ↳ *Charon Prime* liberation campaign starts (2025-08-22 08:33  UTC)<br/>
 ↳ *Martale* liberation campaign ends (2025-08-22 08:33  UTC)<br/>
 ↳ Andromeda sector is fully under Automaton control (2025-08-22 08:33  UTC)<br/>
+*Parsh* of the Rictus sector is attacked by Illuminate (2025-08-22 08:33  UTC)<br/>
 *Parsh* Region 0 UNNAMED City is besieged by Humans (2025-08-22 08:33  UTC)<br/>
  Decay: 0.0 on Grafmere
  (2025-08-22 08:33  UTC)<br/>
@@ -9165,3 +9166,139 @@ Major Order | A2-8-8 Kill 1 Billion Illuminate is issued | Objective: Eradicate 
 Dispatch: NEW MAJOR ORDER. The Illuminate have launched a massive offensive—the third concurrent onslaught upon our besieged Federation. We are losing ground. Reinforcements are en route. But the new Super Destroyer fleet is still 96 hours from mobilization. They will be too late unless you buy time. Helldivers: Collapse the Illuminate advance by eliminating 1,000,000,000 of their forces. You must hold on. (2025-08-22 09:04  UTC)<br/>
 *Veld* of the Orion sector is attacked by Terminids (2025-08-22 10:19  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-08-22 10:19  UTC)<br/>
+ Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA
+ (2025-08-22 12:00  UTC)<br/>
+ Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA
+ (2025-08-22 12:00  UTC)<br/>
+*Parsh* Region 1 Padosan Megacity is besieged by Humans (2025-08-22 17:08  UTC)<br/>
+*Veld* Region 1 Laelia Megacity is besieged by Humans (2025-08-22 17:46  UTC)<br/>
+*Ursica XI* of the Borgus sector is attacked by Terminids (2025-08-22 18:19  UTC)<br/>
+*Ursica XI* Region 1 Po's Ravenna City is besieged by Humans (2025-08-22 18:19  UTC)<br/>
+ Region Decay: 0.2 on 82_NEW KATHMANDU<br/> Region Decay: 0.4 on 82_PO'S RAVENNA
+ (2025-08-22 20:00  UTC)<br/>
+ Region Decay: 0.2 on 82_NEW KATHMANDU<br/> Region Decay: 0.4 on 82_PO'S RAVENNA
+ (2025-08-22 20:00  UTC)<br/>
+*Charbal-VII* is liberated (2025-08-23 00:52  UTC)<br/>
+↳ *Mort* defense auto-won via gambit (2025-08-23 00:52  UTC)<br/>
+↳ *Julheim* defense auto-won via gambit (2025-08-23 00:52  UTC)<br/>
+↳ Xzar sector is fully under Human control (2025-08-23 00:52  UTC)<br/>
+↳ Nanos sector is fully under Human control (2025-08-23 00:52  UTC)<br/>
+DSS deploys to *Veld* of the Orion sector (2025-08-23 00:52  UTC)<br/>
+*Grafmere* Region 2 GRAFSEAD Megacity is besieged by Humans (2025-08-23 01:46  UTC)<br/>
+ Decay: 1.0 on Julheim<br/> Decay: 0.0 on Mort
+ (2025-08-23 01:46  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Aurora Bay* (2025-08-23 05:32  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Aurora Bay* (2025-08-23 05:54  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Choohe* (2025-08-23 06:02  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Choohe* (2025-08-23 06:31  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Matar Bay* (2025-08-23 06:32  UTC)<br/>
+Dispatch: IMPALER RAMPAGE. A massive outbreak of Impaler Terminids has been reported on URSICA XI. (2025-08-23 06:40  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Matar Bay* (2025-08-23 07:01  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Marfark* (2025-08-23 07:02  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-08-23 07:29  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Marfark* (2025-08-23 07:31  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Aesir Pass* (2025-08-23 07:32  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Aesir Pass* (2025-08-23 08:01  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Automatons (2025-08-23 08:02  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Curia* (2025-08-23 08:02  UTC)<br/>
+Dispatch: JET BRIGADE ATTACK. The Automaton Jet Brigade has assaulted *Curia*. (2025-08-23 08:05  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-08-23 08:25  UTC)<br/>
+ Decay: 0.0 on Curia
+ (2025-08-23 08:25  UTC)<br/>
+
+### Day: #563
+*Adhara* Region 0 Traitor's End Settlement is now present (2025-08-23 09:23  UTC)<br/>
+*Adhara* Region 1 Strength City is now present (2025-08-23 09:23  UTC)<br/>
+*Emeria* - *Borea* warp link is added (2025-08-23 09:23  UTC)<br/>
+*Emeria* - *Barabos* warp link is added (2025-08-23 09:23  UTC)<br/>
+*Regnus* Region 0 UNNAMED Town is now present (2025-08-23 09:28  UTC)<br/>
+*Regnus* Region 1 UNNAMED Town is now present (2025-08-23 09:28  UTC)<br/>
+*Regnus* Region 2 UNNAMED City is now present (2025-08-23 09:28  UTC)<br/>
+*Adhara* of the Gallux sector is attacked by Illuminate (2025-08-23 11:19  UTC)<br/>
+*Adhara* Region 1 Strength City is besieged by Humans (2025-08-23 11:19  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town has fallen to Humans (2025-08-23 11:29  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-08-23 13:27  UTC)<br/>
+ Decay: 0.0 on Adhara
+ (2025-08-23 13:27  UTC)<br/>
+ Region Decay: 0.1 on 135_TRAITOR'S END<br/> Region Decay: 0.4 on 135_STRENGTH
+ (2025-08-23 13:27  UTC)<br/>
+Dispatch: EAGLE STORM OFFLINE. An Automaton cyberattack on the Democracy Space Station has caused catastrophic failures of multiple systems, particularly targeting the Eagle Convocation Bay. Multiple fighter crew personnel fell victim to sudden depressurization. The Eagle Storm Tactical Action will be offline for an estimated 72 hours until emergency repairs are completed. (2025-08-23 15:05  UTC)<br/>
+*Ursica XI* Region 0 New Kathmandu Town is besieged by Humans (2025-08-23 17:01  UTC)<br/>
+*Veld* defense is won (2025-08-23 18:03  UTC)<br/>
+*Grafmere* Region 0 Grafsart City is besieged by Humans (2025-08-23 19:24  UTC)<br/>
+ Decay: 1.0 on Veld
+ (2025-08-23 19:24  UTC)<br/>
+*Myrium* of the Morgon sector is attacked by Illuminate (2025-08-23 23:54  UTC)<br/>
+*Myrium* Region 0 Pilot's Berth City is besieged by Humans (2025-08-23 23:54  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Aurora Bay* (2025-08-24 01:19  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Merak* (2025-08-24 01:19  UTC)<br/>
+ Decay: 0.0 on Myrium
+ (2025-08-24 01:19  UTC)<br/>
+ Region Decay: 0.4 on 56_PILOT'S BERTH<br/> Region Decay: 0.2 on 56_PLETHORA<br/> Region Decay: 0.4 on 56_ANTBOOT
+ (2025-08-24 01:19  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Aurora Bay* (2025-08-24 02:17  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Merak* (2025-08-24 02:17  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Choohe* (2025-08-24 02:19  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Penta* (2025-08-24 02:19  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Choohe* (2025-08-24 03:18  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Penta* (2025-08-24 03:18  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Matar Bay* (2025-08-24 03:19  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Lesath* (2025-08-24 03:19  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Matar Bay* (2025-08-24 04:18  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Lesath* (2025-08-24 04:18  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Marfark* (2025-08-24 04:19  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Vernen Wells* (2025-08-24 04:19  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Marfark* (2025-08-24 05:19  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Vernen Wells* (2025-08-24 05:19  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2025-08-24 05:20  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town is besieged by Humans (2025-08-24 05:20  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Bekvam III* (2025-08-24 05:20  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Automatons (2025-08-24 05:20  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-08-24 05:20  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Tarsh* (2025-08-24 05:20  UTC)<br/>
+Dispatch: INCINERATION CORPS ATTACK. The Automaton Incineration Corps has assaulted *Bekvam III*. (2025-08-24 05:20  UTC)<br/>
+Dispatch: INCINERATION CORPS ATTACK. The Automaton Incineration Corps has assaulted *Tarsh*. (2025-08-24 05:21  UTC)<br/>
+ Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH<br/> Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS
+ (2025-08-24 06:00  UTC)<br/>
+ Region Decay: 0.1 on 67_FORTITUDE<br/> Region Decay: 0.1 on 67_FREEDOM'S TORCH<br/> Region Decay: 0.1 on 67_FEARLESS HOLLOW<br/> Region Decay: 0.2 on 110_CONVENIENCE<br/> Region Decay: 0.4 on 110_FIREFLY MEADOWS
+ (2025-08-24 06:00  UTC)<br/>
+↳ *Aesir Pass* liberation campaign ends (2025-08-24 08:03  UTC)<br/>
+*Curia* defense is failed (2025-08-24 08:04  UTC)<br/>
+↳ *Curia* liberation campaign starts (2025-08-24 08:04  UTC)<br/>
+*Grafmere* defense is failed (2025-08-24 08:07  UTC)<br/>
+↳ *Grafmere* liberation campaign starts (2025-08-24 08:07  UTC)<br/>
+↳ *Oasis* liberation campaign ends (2025-08-24 08:07  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-08-24 08:27  UTC)<br/>
+ Decay: 1.0 on Curia, Grafmere
+ (2025-08-24 08:27  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Curia* (2025-08-24 08:32  UTC)<br/>
+*Parsh* defense is failed (2025-08-24 08:36  UTC)<br/>
+↳ *Parsh* liberation campaign starts (2025-08-24 08:36  UTC)<br/>
+↳ *Genesis Prime* liberation campaign ends (2025-08-24 08:36  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Curia* (2025-08-24 08:45  UTC)<br/>
+Dispatch: EXTRACTION TIMES NORMALIZED. SEAF Air forces have re-established low-orbit parity against the Illuminate. Extraction times have been returned to normal. (2025-08-24 08:58  UTC)<br/>
+
+### Day: #564
+ Decay: 1.0 on Parsh
+ (2025-08-24 09:00  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is attacked by Illuminate (2025-08-24 09:23  UTC)<br/>
+*Kerth Secundus* Region 0 Scholar's Moor Town is besieged by Humans (2025-08-24 09:23  UTC)<br/>
+ Region Decay: 0.2 on 57_SCHOLAR'S MOOR<br/> Region Decay: 0.2 on 57_BLESTRAIL<br/> Region Decay: 0.6 on 57_HILDOARA CENTRAL
+ (2025-08-24 10:00  UTC)<br/>
+ Region Decay: 0.2 on 57_SCHOLAR'S MOOR<br/> Region Decay: 0.2 on 57_BLESTRAIL<br/> Region Decay: 0.6 on 57_HILDOARA CENTRAL
+ (2025-08-24 10:00  UTC)<br/>
+*Effluvia* of the Cancri sector is attacked by Illuminate (2025-08-24 12:52  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Curia* (2025-08-24 13:04  UTC)<br/>
+ Decay: 0.0 on Effluvia
+ (2025-08-24 13:04  UTC)<br/>
+*Fenmire* of the Marspira sector is attacked by Automatons (2025-08-24 13:06  UTC)<br/>
+*Fenmire* Region 1 New Aberdeen Megacity is besieged by Humans (2025-08-24 13:06  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Fenmire* (2025-08-24 13:06  UTC)<br/>
+Dispatch: FACTORY STRIDER SURGE. Significantly higher Factory Strider numbers have been observed on FENMIRE. (2025-08-24 13:14  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-08-24 13:28  UTC)<br/>
+ Decay: 0.0 on Fenmire
+ (2025-08-24 13:28  UTC)<br/>
+ Region Decay: 0.2 on 44_BRAWFERMLAND<br/> Region Decay: 0.6 on 44_NEW ABERDEEN<br/> Region Decay: 0.6 on 44_SAORSA GLEN
+ (2025-08-24 13:28  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-08-24 14:03  UTC)<br/>
+*Myrium* Region 1 Plethora Town is besieged by Humans (2025-08-24 15:08  UTC)<br/>
