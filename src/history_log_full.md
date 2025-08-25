@@ -9302,3 +9302,24 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-08-24 13:28  UTC)<br/>
  (2025-08-24 13:28  UTC)<br/>
 *Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-08-24 14:03  UTC)<br/>
 *Myrium* Region 1 Plethora Town is besieged by Humans (2025-08-24 15:08  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-08-24 17:28  UTC)<br/>
+*Ursica XI* defense is failed (2025-08-24 18:22  UTC)<br/>
+↳ *Ursica XI* liberation campaign starts (2025-08-24 18:22  UTC)<br/>
+↳ *Achird III* liberation campaign ends (2025-08-24 18:22  UTC)<br/>
+↳ *Achernar Secundus* liberation campaign ends (2025-08-24 18:22  UTC)<br/>
+↳ Borgus sector is fully under Terminid control (2025-08-24 18:22  UTC)<br/>
+Dispatch: IMPALER RAMPAGE OVER. Quantities of Impaler Terminids on URSICA XI have normalized. (2025-08-24 19:46  UTC)<br/>
+ Decay: 1.0 on Ursica XI
+ (2025-08-24 19:46  UTC)<br/>
+*Adhara* Region 0 UNNAMED Settlement is besieged by Humans (2025-08-24 21:54  UTC)<br/>
+*Fenmire* Region 2 Saorsa Glen Megacity is besieged by Humans (2025-08-24 23:45  UTC)<br/>
+*Myrium* Region 2 Antboot City is besieged by Humans (2025-08-25 00:17  UTC)<br/>
+*Kerth Secundus* Region 1 Blestrail Town is besieged by Humans (2025-08-25 01:23  UTC)<br/>
+DSS deploys to *Fenmire* of the Marspira sector (2025-08-25 01:28  UTC)<br/>
+*Fenmire* Region 0 Brawfermland Town is besieged by Humans (2025-08-25 07:18  UTC)<br/>
+*Inari* of the Korpus sector is attacked by Terminids (2025-08-25 07:32  UTC)<br/>
+
+### Day: #565
+ Decay: 0.0 on Inari
+ (2025-08-25 09:00  UTC)<br/>
+DSS deploys to *Effluvia* of the Cancri sector (2025-08-25 09:29  UTC)<br/>
