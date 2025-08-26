@@ -9042,7 +9042,7 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 *Seyshel Beach* Region 0 Accountant Graebar Town is now present (2025-08-18 12:32  UTC)<br/>
 *Seyshel Beach* Region 1 Beachview Settlement is now present (2025-08-18 12:32  UTC)<br/>
 *Seyshel Beach* Region 2 The Villas City is now present (2025-08-18 12:32  UTC)<br/>
-*Seyshel Beach* Region 3 UNNAMED Megacity is now present (2025-08-18 12:32  UTC)<br/>
+*Seyshel Beach* Region 3 New Alexandria Megacity is now present (2025-08-18 12:32  UTC)<br/>
 *Seyshel Beach*'s max health is changed to 2.3m (2025-08-18 12:34  UTC)<br/>
 *Myrium* Region 0 Pilot's Berth City is now present (2025-08-18 12:58  UTC)<br/>
 *Myrium* Region 1 Plethora Town is now present (2025-08-18 12:58  UTC)<br/>
@@ -9323,3 +9323,78 @@ DSS deploys to *Fenmire* of the Marspira sector (2025-08-25 01:28  UTC)<br/>
  Decay: 0.0 on Inari
  (2025-08-25 09:00  UTC)<br/>
 DSS deploys to *Effluvia* of the Cancri sector (2025-08-25 09:29  UTC)<br/>
+Dispatch: IMPALER RAMPAGE. A massive outbreak of Impaler Terminids has been reported on INARI. (2025-08-25 10:27  UTC)<br/>
+*Adhara* defense is failed (2025-08-25 11:21  UTC)<br/>
+↳ *Adhara* liberation campaign starts (2025-08-25 11:21  UTC)<br/>
+↳ *Haldus* liberation campaign ends (2025-08-25 11:21  UTC)<br/>
+↳ *Afoyay Bay* liberation campaign ends (2025-08-25 11:21  UTC)<br/>
+*Effluvia* defense is failed (2025-08-25 12:53  UTC)<br/>
+↳ *Effluvia* liberation campaign starts (2025-08-25 12:53  UTC)<br/>
+ Decay: 1.0 on Adhara
+ (2025-08-25 12:53  UTC)<br/>
+*Fenmire* defense is failed (2025-08-25 13:07  UTC)<br/>
+↳ *Fenmire* liberation campaign starts (2025-08-25 13:07  UTC)<br/>
+ Decay: 1.0 on Effluvia
+ (2025-08-25 13:07  UTC)<br/>
+*Regnus*'s max health is changed to 1.8m (2025-08-25 13:43  UTC)<br/>
+*Adhara*'s max health is changed to 1.5m (2025-08-25 13:43  UTC)<br/>
+ Decay: 1.0 on Fenmire
+ (2025-08-25 13:43  UTC)<br/>
+Dispatch: INCREASED REINFORCEMENT BUDGET. In order to account for a predicted increase in Helldiver turnover, *Super Earth* High Command has issued emergency approval to increase Helldiver Reinforcement Budgets to 2 per mission for the next 48 hours. (2025-08-25 13:50  UTC)<br/>
+A2-8-6's briefing is changed to a new briefing (2025-08-25 14:30  UTC)<br/>
+*Kerth Secundus* Region 2 Hildoara Central Megacity is besieged by Humans (2025-08-25 16:30  UTC)<br/>
+DSS deploys to *Inari* of the Korpus sector (2025-08-25 17:29  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-08-25 17:40  UTC)<br/>
+*Bekvam III* Region 1 Firefly Meadows City is besieged by Humans (2025-08-25 18:15  UTC)<br/>
+*Myrium* defense is failed (2025-08-25 23:56  UTC)<br/>
+↳ *Myrium* liberation campaign starts (2025-08-25 23:56  UTC)<br/>
+*Inari* defense is won (2025-08-26 00:55  UTC)<br/>
+DSS deploys to *Fenmire* of the Marspira sector (2025-08-26 00:55  UTC)<br/>
+ Decay: 1.0 on Myrium
+ (2025-08-26 00:55  UTC)<br/>
+ Decay: 0.5 on Inari
+ (2025-08-26 02:00  UTC)<br/>
+*Tarsh* defense is failed (2025-08-26 05:21  UTC)<br/>
+↳ *Tarsh* liberation campaign starts (2025-08-26 05:21  UTC)<br/>
+↳ *Vernen Wells* liberation campaign ends (2025-08-26 05:21  UTC)<br/>
+*Bekvam III* defense is failed (2025-08-26 05:21  UTC)<br/>
+↳ *Bekvam III* liberation campaign starts (2025-08-26 05:21  UTC)<br/>
+↳ *Marfark* liberation campaign ends (2025-08-26 05:21  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Bekvam III* (2025-08-26 06:20  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Tarsh* (2025-08-26 06:20  UTC)<br/>
+ Decay: 1.5 on Tarsh<br/> Decay: 1.0 on Bekvam III
+ (2025-08-26 06:20  UTC)<br/>
+*Seyshel Beach* of the Cancri sector is attacked by Illuminate (2025-08-26 07:39  UTC)<br/>
+*Seyshel Beach* Region 3 New Alexandria Megacity is besieged by Humans (2025-08-26 07:39  UTC)<br/>
+Helldivers 2 is released on Xbox (2025-08-26 08:00  UTC)<br/>
+ Decay: 0.0 on Seyshel Beach
+ (2025-08-26 08:00  UTC)<br/>
+ Region Decay: 0.2 on 33_ACCOUNTANT GRAEBER<br/> Region Decay: 0.1 on 33_BEACHVIEW<br/> Region Decay: 0.4 on 33_THE VILLAS<br/> Region Decay: 1.17 on 33_NEW ALEXANDRIA
+ (2025-08-26 08:00  UTC)<br/>
+Dispatch: HELLDIVER FLEET EXPANDED. Thousands of newly-built Super Destroyers have joined the Helldiver fleet. The operational capacity of the Helldivers has significantly increased. They come not a moment too soon. Multiple fronts are under heavy pressure. But now, the tide of Tyranny may finally be held. (2025-08-26 08:06  UTC)<br/>
+*Mog* of the Morgon sector is attacked by Illuminates (2025-08-26 08:47  UTC)<br/>
+Assault Division: Jet Brigade U7A leaves *Fenmire* (2025-08-26 08:50  UTC)<br/>
+*Barabos* of the Marspira sector is attacked by Automatons (2025-08-26 08:52  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Barabos* (2025-08-26 08:52  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2025-08-26 08:57  UTC)<br/>
+*Gatria* Region 1 Ersatz City is besieged by Humans (2025-08-26 08:57  UTC)<br/>
+
+### Day: #566
+ Region Decay: 0.1 on 173_ALTONBURG<br/> Region Decay: 0.4 on 173_ERSATZ
+ (2025-08-26 09:00  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Tarsh* (2025-08-26 09:20  UTC)<br/>
+ Decay: 0.0 on Barabos, Mog, Gatria
+ (2025-08-26 09:20  UTC)<br/>
+*Duma Tyr* of the Nanos sector is attacked by Automatons (2025-08-26 09:21  UTC)<br/>
+*Veld* of the Orion sector is attacked by Terminids (2025-08-26 09:22  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-08-26 09:22  UTC)<br/>
+*Kerth Secundus* defense is failed (2025-08-26 09:25  UTC)<br/>
+↳ *Kerth Secundus* liberation campaign starts (2025-08-26 09:25  UTC)<br/>
+↳ *Parsh* liberation campaign ends (2025-08-26 09:25  UTC)<br/>
+ Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA
+ (2025-08-26 10:00  UTC)<br/>
+ Region Decay: 0.2 on 80_CLE ELUM REDIVIVA<br/> Region Decay: 0.6 on 80_LAELIA
+ (2025-08-26 10:00  UTC)<br/>
+Dispatch: AMMUNITION DISPENSATION INCREASED. In light of the large influx of newly-trained Helldivers to the battlefield, High Command has authorized a temporary increase to ammunition allotments, in order to account for an anticipated reduction in average accuracy. Average accuracy levels are still, of course, certain to remain extremely high, as befits the most elite fighting force in the galaxy. For the next 48 hours, on-deployment ammunition allowances will be increased by 50%. (2025-08-26 12:26  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-08-26 13:30  UTC)<br/>
+Dispatch: EAGLE STORM ONLINE. Valiant non-stop work by SEAF Combat Engineers has successfully brought the DSS Eagle Convocation Bay back to operational status. The Eagle Storm Tactical Action is back online. (2025-08-26 14:49  UTC)<br/>
