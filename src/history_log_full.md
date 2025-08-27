@@ -9179,8 +9179,8 @@ Dispatch: NEW MAJOR ORDER. The Illuminate have launched a massive offensive—th
  Region Decay: 0.2 on 82_NEW KATHMANDU<br/> Region Decay: 0.4 on 82_PO'S RAVENNA
  (2025-08-22 20:00  UTC)<br/>
 *Charbal-VII* is liberated (2025-08-23 00:52  UTC)<br/>
-↳ *Mort* defense auto-won via gambit (2025-08-23 00:52  UTC)<br/>
-↳ *Julheim* defense auto-won via gambit (2025-08-23 00:52  UTC)<br/>
+↳ *Mort* defense is auto-won via gambit (2025-08-23 00:52  UTC)<br/>
+↳ *Julheim* defense is auto-won via gambit (2025-08-23 00:52  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2025-08-23 00:52  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-08-23 00:52  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-08-23 00:52  UTC)<br/>
@@ -9398,3 +9398,6 @@ Assault Division: Incineration Corps U5B deploys to *Tarsh* (2025-08-26 09:20  U
 Dispatch: AMMUNITION DISPENSATION INCREASED. In light of the large influx of newly-trained Helldivers to the battlefield, High Command has authorized a temporary increase to ammunition allotments, in order to account for an anticipated reduction in average accuracy. Average accuracy levels are still, of course, certain to remain extremely high, as befits the most elite fighting force in the galaxy. For the next 48 hours, on-deployment ammunition allowances will be increased by 50%. (2025-08-26 12:26  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-08-26 13:30  UTC)<br/>
 Dispatch: EAGLE STORM ONLINE. Valiant non-stop work by SEAF Combat Engineers has successfully brought the DSS Eagle Convocation Bay back to operational status. The Eagle Storm Tactical Action is back online. (2025-08-26 14:49  UTC)<br/>
+*Seyshel Beach* Region 1 Beachview Settlement is besieged by Humans (2025-08-26 22:44  UTC)<br/>
+*Veld* Region 0 Cle Elum Rediviva Town has fallen to Humans (2025-08-26 23:33  UTC)<br/>
+*Veld* defense is won (2025-08-27 03:00  UTC)<br/>
