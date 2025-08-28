@@ -9401,3 +9401,61 @@ Dispatch: EAGLE STORM ONLINE. Valiant non-stop work by SEAF Combat Engineers has
 *Seyshel Beach* Region 1 Beachview Settlement is besieged by Humans (2025-08-26 22:44  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town has fallen to Humans (2025-08-26 23:33  UTC)<br/>
 *Veld* defense is won (2025-08-27 03:00  UTC)<br/>
+ Decay: 1.0 on Veld
+ (2025-08-27 04:00  UTC)<br/>
+*Seyshel Beach* Region 1 Beachview Settlement has fallen to Humans (2025-08-27 07:35  UTC)<br/>
+*Mog* defense is failed (2025-08-27 08:48  UTC)<br/>
+↳ *Mog* liberation campaign starts (2025-08-27 08:48  UTC)<br/>
+↳ *Adhara* liberation campaign ends (2025-08-27 08:48  UTC)<br/>
+*Barabos* defense is failed (2025-08-27 08:53  UTC)<br/>
+↳ *Barabos* liberation campaign starts (2025-08-27 08:53  UTC)<br/>
+
+### Day: #567
+*Duma Tyr* defense is failed (2025-08-27 09:22  UTC)<br/>
+↳ *Duma Tyr* liberation campaign starts (2025-08-27 09:22  UTC)<br/>
+ Decay: 1.0 on Barabos<br/> Decay: 2.0 on Mog
+ (2025-08-27 09:22  UTC)<br/>
+*Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-08-27 09:46  UTC)<br/>
+ Decay: 1.0 on Duma Tyr
+ (2025-08-27 09:46  UTC)<br/>
+*Regnus* of the Morgon sector is attacked by Illuminates (2025-08-27 10:07  UTC)<br/>
+*Regnus* Region 2 Human Will City is besieged by Humans (2025-08-27 10:07  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Duma Tyr* (2025-08-27 10:26  UTC)<br/>
+ Decay: 0.0 on Regnus
+ (2025-08-27 10:26  UTC)<br/>
+ Region Decay: 0.2 on 88_PEOPLE'S HAND<br/> Region Decay: 0.2 on 88_TOPSOIL<br/> Region Decay: 0.4 on 88_HUMAN WILL
+ (2025-08-27 10:26  UTC)<br/>
+*Borea* of the Sagan sector is attacked by Automatons (2025-08-27 10:28  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Borea* (2025-08-27 10:28  UTC)<br/>
+Dispatch: IMPALER RAMPAGE OVER. Quantities of Impaler Terminids on INARI have normalized. (2025-08-27 10:30  UTC)<br/>
+*Curia* liberation campaign ends (2025-08-27 10:38  UTC)<br/>
+*Borea* defense is won (2025-08-27 10:39  UTC)<br/>
+*Curia* liberation campaign starts (2025-08-27 10:39  UTC)<br/>
+*Borea* of the Sagan sector is attacked by Automatons (2025-08-27 10:40  UTC)<br/>
+NOTE: For unknown reasons the defense ended early and along with a liberation campaign was reset. This was not a gambit that occured. (2025-08-27 10:40  UTC)<br/>
+Dispatch: OPERATIONAL ADVISORY. The new Super Destroyers augmenting the fleet lack the operational upgrades of those which have long been in service. But the Helldivers operating from those ships are as essential and elite as any other. Helldivers operating from veteran Destroyers are encouraged to share the advanced equipment and Stratagems available to them with the Helldivers operating the newer Destroyers. After all, Teamwork is a core Helldiver value (along with Obedience, Duty, and Compliance). (2025-08-27 12:32  UTC)<br/>
+ Decay: 0.0 on Borea
+ (2025-08-27 12:32  UTC)<br/>
+Dispatch: REINFORCEMENT BUDGET NORMALIZED. Helldiver Reinforcement Budgets have returned to normal operating levels. (2025-08-27 13:57  UTC)<br/>
+ Region Decay: 0.05 on 33_ACCOUNTANT GRAEBER<br/> Region Decay: 0.05 on 33_BEACHVIEW<br/> Region Decay: 0.05 on 33_THE VILLAS
+ (2025-08-27 13:57  UTC)<br/>
+*Seyshel Beach* Region 0 Accountant Graeber Town is besieged by Humans (2025-08-27 16:24  UTC)<br/>
+*Bore Rock* of the Falstaff sector instantly flips to Terminid control (2025-08-27 16:31  UTC)<br/>
+↳ *Bore Rock* liberation campaign starts (2025-08-27 16:31  UTC)<br/>
+↳ *Esker* liberation campaign ends (2025-08-27 16:31  UTC)<br/>
+↳ Falstaff sector is fully under Terminid control (2025-08-27 16:31  UTC)<br/>
+Assault Division: Spore Burst Strain U4A deploys to *Bore Rock* (2025-08-27 16:31  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-08-27 16:31  UTC)<br/>
+Assault Division: Predator Strain U6A deploys to *Terrek* (2025-08-27 16:32  UTC)<br/>
+Dispatch: SPORE BURST STRAIN OUTBREAK. An outbreak of the Terminid Spore Burst Strain has occured on BORE ROCK. (2025-08-27 16:32  UTC)<br/>
+Dispatch: PREDATOR STRAIN OUTBREAK. An outbreak of the Terminid Predator Strain has occured on TERREK. (2025-08-27 16:33  UTC)<br/>
+Dispatch: TYRANNY PARK 2 AT RISK OF COLLAPSE. Tyranny Park 2 on BORE ROCK is threatened by its own insidious inhabitants. Its Charger Behemoth exhibit experienced a catastrophic malfunction earlier in the day; this flagship recreational and edutainment facility, critical to bolstering citizen morale and its significant merchandising potential, is now in grave danger of being overrun. It must be held at all costs. Helldivers are advised to deploy to *Bore Rock* to defend the site immediately. (2025-08-27 16:33  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-08-27 17:59  UTC)<br/>
+ Decay: 0.0 on Terrek<br/> Decay: 0.7 on Bore Rock
+ (2025-08-27 17:59  UTC)<br/>
+Dispatch: STRATAGEM GRANTED. The Shield Generator Pack Stratagem has been authorized for immediate use, for the next 24 hours. (2025-08-27 19:23  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement is besieged by Humans (2025-08-27 19:44  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately. In the current operational context, liberating BORE ROCK would end the current Terminid attack on TERREK. (2025-08-27 20:13  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-27 21:31  UTC)<br/>
+*Fenrir III* - *Erata Prime* warp link is removed (2025-08-27 21:34  UTC)<br/>
+*Erata Prime* - *Nivel 43* warp link is added (2025-08-27 21:34  UTC)<br/>
