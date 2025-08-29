@@ -9459,3 +9459,90 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-27 21:31  UTC)<br/>
 *Fenrir III* - *Erata Prime* warp link is removed (2025-08-27 21:34  UTC)<br/>
 *Erata Prime* - *Nivel 43* warp link is added (2025-08-27 21:34  UTC)<br/>
+*Regnus* Region 1 Topsoil Town is besieged by Humans (2025-08-28 08:25  UTC)<br/>
+*Gatria* defense is failed (2025-08-28 08:59  UTC)<br/>
+↳ *Trandor* liberation campaign ends (2025-08-28 08:59  UTC)<br/>
+↳ *Gar Haren* liberation campaign ends (2025-08-28 08:59  UTC)<br/>
+
+### Day: #568
+Assault Division: Jet Brigade U7A leaves *Barabos* (2025-08-28 09:29  UTC)<br/>
+ Decay: 2.0 on Gatria
+ (2025-08-28 09:29  UTC)<br/>
+*Emeria* of the Kelvin sector is attacked by Automatons (2025-08-28 09:32  UTC)<br/>
+Assault Division: Jet Brigade U7A deploys to *Emeria* (2025-08-28 09:32  UTC)<br/>
+*Emeria* Region 0 New Aspiration City Megacity is besieged by Humans (2025-08-28 09:32  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Stalwart Stratagem for the next 24 hours. (2025-08-28 09:38  UTC)<br/>
+↳ *Curia* liberation campaign ends (2025-08-28 10:40  UTC)<br/>
+ Decay: 0.0 on Emeria
+ (2025-08-28 10:40  UTC)<br/>
+ Region Decay: 0.6 on 42_NEW ASPIRATION CITY
+ (2025-08-28 10:40  UTC)<br/>
+*Borea* defense is failed (2025-08-28 10:41  UTC)<br/>
+↳ *Borea* liberation campaign starts (2025-08-28 10:41  UTC)<br/>
+*Seyshel Beach* defense is failed (2025-08-28 11:13  UTC)<br/>
+↳ *Seyshel Beach* liberation campaign starts (2025-08-28 11:13  UTC)<br/>
+↳ *Effluvia* liberation campaign ends (2025-08-28 11:13  UTC)<br/>
+↳ *Kerth Secundus* liberation campaign ends (2025-08-28 11:13  UTC)<br/>
+ Decay: 1.0 on Borea
+ (2025-08-28 11:13  UTC)<br/>
+Dispatch: NEW ASPIRATION CITY UNDER ATTACK. New Aspiration City has come under attack by Automaton Forces. The Maximum Security City represents the impregnable future of citizen safety. It must be defended at all costs. Helldivers are strongly advised to deploy to Planet *Emeria* to defend the city immediately. (2025-08-28 11:30  UTC)<br/>
+ Decay: 1.0 on Seyshel Beach
+ (2025-08-28 11:30  UTC)<br/>
+*Seyshel Beach* Region 3 New Alexandria Megacity is besieged by Humans (2025-08-28 11:36  UTC)<br/>
+Dispatch: AMMUNITION LEVELS NORMALIZED. On-deployment ammunition allowances have been returned to normal operational amounts. (2025-08-28 12:28  UTC)<br/>
+ Region Decay: 0.3 on 42_NEW ASPIRATION CITY
+ (2025-08-28 12:28  UTC)<br/>
+↳ *Bore Rock* liberation campaign ends (2025-08-28 16:31  UTC)<br/>
+ Region Decay: -0.3 on 42_NEW ASPIRATION CITY
+ (2025-08-28 16:31  UTC)<br/>
+*Terrek* defense is failed (2025-08-28 16:32  UTC)<br/>
+*Terrek* liberation campaign starts (2025-08-28 16:32  UTC)<br/>
+DSS deploys to *Emeria* of the Kelvin sector (2025-08-28 16:32  UTC)<br/>
+*Bore Rock* of the Falstaff sector's Tyranny Park 2 POI is removed (2025-08-28 16:33  UTC)<br/>
+Dispatch: Terminids contained within the Park have now escaped, and outbreaks have been detected on adjacent planets. Experts agree this could not have been predicted. Nevertheless, it must be responded to swiftly. (2025-08-28 16:34  UTC)<br/>
+Dispatch: TYRANNY PARK 2 HAS FALLEN. The construction site for Tyranny Park 2 on *Bore Rock* has been overrun by the Terminid swarm. The fate of the pioneering dreamweavers and dedicated construction personnel on-site is unknown. (2025-08-28 16:34  UTC)<br/>
+Major Order | A2-8-8 Kill 1 Billion Illuminate is won | Objective: Eradicate (2025-08-28 16:36  UTC)<br/>
+Dispatch: ILLUMINATE ASSAULT BROKEN. The Helldivers have halted the ILLUMINATE offensive. This is a vital breakthrough, but the battle for our survival rages on. The massive fleets of AUTOMATON and TERMINID continue their merciless assault across our besieged sectors. This fight is far from over. (2025-08-28 16:39  UTC)<br/>
+DSS effect EAGLE STORM stops (2025-08-28 17:59  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2025-08-28 17:59  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. Shield Generator Pack Stratagem availability has now ended. (2025-08-28 19:27  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 24 hours. (2025-08-28 20:52  UTC)<br/>
+Assault Division: Spore Burst Strain U4A divides into 3 groups [U4A, U4B, U4C] (2025-08-28 21:02  UTC)<br/>
+Assault Division: Spore Burst Strain U4B deploys to *Esker* (2025-08-28 21:02  UTC)<br/>
+Assault Division: Spore Burst Strain U4C deploys to *Erata Prime* (2025-08-28 21:02  UTC)<br/>
+Assault Division: Predator Strain U6A divides into 3 groups [U6A, U6B, U6C] (2025-08-28 21:03  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Terminids (2025-08-28 21:04  UTC)<br/>
+*Azterra* of the Orion sector is attacked by Terminids (2025-08-28 21:04  UTC)<br/>
+Assault Division: Predator Strain U6B deploys to *Cirrus* (2025-08-28 21:04  UTC)<br/>
+Assault Division: Predator Strain U6C deploys to *Azterra* (2025-08-28 21:04  UTC)<br/>
+Dispatch: PREDATOR STRAIN OUTBREAK. An outbreak of the Terminid Predator Strain has occured on AZTERRA. (2025-08-28 21:05  UTC)<br/>
+Dispatch: PREDATOR STRAIN OUTBREAK. An outbreak of the Terminid Predator Strain has occured on CIRRUS. (2025-08-28 21:06  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately. In the current operational context, liberating TERREK would end the current TERMINID attacks upon both AZTERRA and CIRRUS. (2025-08-28 21:17  UTC)<br/>
+ Decay: 0.0 on Azterra
+ (2025-08-28 21:17  UTC)<br/>
+*Regnus* Region 0 People's Hand Town is besieged by Humans (2025-08-28 23:59  UTC)<br/>
+ Decay: 0.0 on Cirrus
+ (2025-08-28 23:59  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-08-29 01:31  UTC)<br/>
+*Emeria* defense is won (2025-08-29 07:13  UTC)<br/>
+Assault Division: Jet Brigade U7A is routed from Emeria (2025-08-29 07:13  UTC)<br/>
+ Decay: 0.5 on Terrek
+ (2025-08-29 07:13  UTC)<br/>
+Assault Division: Incineration Corps U5A leaves *Borea* (2025-08-29 08:10  UTC)<br/>
+ Decay: 1.5 on Emeria
+ (2025-08-29 08:10  UTC)<br/>
+*Emeria* of the Kelvin sector is attacked by Automatons (2025-08-29 08:12  UTC)<br/>
+*Emeria* Region 0 New Aspiration City Megacity is besieged by Humans (2025-08-29 08:12  UTC)<br/>
+Assault Division: Incineration Corps U5A deploys to *Emeria* (2025-08-29 08:12  UTC)<br/>
+Dispatch: NEW ASPIRATION CITY UNDER ATTACK. New Aspiration City has come under attack by Automaton Forces. The Maximum Security City represents the impregnable future of citizen safety. It must be defended at all costs. Helldivers are strongly advised to deploy to Planet *Emeria* to defend the city immediately. (2025-08-29 08:14  UTC)<br/>
+
+### Day: #569
+ Decay: 0.0 on Emeria
+ (2025-08-29 09:00  UTC)<br/>
+ Region Decay: -0.3 on 42_NEW ASPIRATION CITY
+ (2025-08-29 09:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Stalwart Stratagem availability has now ended. (2025-08-29 09:34  UTC)<br/>
+↳ *Mog* liberation campaign ends (2025-08-29 10:07  UTC)<br/>
+*Regnus* defense is failed (2025-08-29 10:08  UTC)<br/>
+↳ *Regnus* liberation campaign starts (2025-08-29 10:08  UTC)<br/>
