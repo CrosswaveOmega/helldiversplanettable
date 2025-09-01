@@ -4,7 +4,6 @@ from typing import Any, Dict, List, Optional, Tuple
 from datetime import datetime, timezone, timedelta
 import os
 import asyncio
-from datetime import datetime
 import argparse
 
 from script_making.history_map import (
@@ -289,7 +288,7 @@ async def format_event_obj() -> None:
 
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
-            if last_time>=datetime.now():
+            if last_time.replace(tzinfo=timezone.utc)>=datetime.now().replace(tzinfo=timezone.utc):
                 logger.error("ERROR!  LAST TIME IS TOO BIG!")
                 raise Exception("Too big time.")
             laststats, newevents = await handle_monitoring(
