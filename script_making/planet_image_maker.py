@@ -3,7 +3,6 @@ import os
 import random
 import glob
 import numpy as np
-import math
 
 from typing import Dict, List, Tuple
 from matplotlib.colors import LinearSegmentedColormap

@@ -1,9 +1,8 @@
 import logging
 from typing import Any, Dict, List, Tuple
-from script_making.format_utils import enote, faction_dict
+from script_making.format_utils import faction_dict
 from script_making.models import DaysObject, PlanetState, GameEvent
 from script_making.dbload import PlanetStatusDict, RegionStatusDict
-from typing import Tuple
 
 MAX_HOUR_DISTANCE = 6
 
@@ -63,7 +62,7 @@ def group_by_sector(planet_list, all_planets):
     # Get the sector of the first planet in the list
     sectors = {}
     for pl in planet_list:
-        if not pl["sector"] in sectors:
+        if pl["sector"] not in sectors:
             sectors[pl["sector"]] = []
         sectors[pl["sector"]].append(pl)
     return list(sectors.keys())

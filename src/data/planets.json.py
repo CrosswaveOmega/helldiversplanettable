@@ -1,7 +1,6 @@
 """This code will fetch the current game statistics from the
 Helldivers 2 community API wrapper, and saves them to a csv and json file."""
 
-import csv
 import sys
 from typing import *
 import aiohttp

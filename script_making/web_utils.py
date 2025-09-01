@@ -1,12 +1,9 @@
-from typing import Any, Dict
 from datetime import datetime
 import aiohttp
 import urllib.request
-from datetime import datetime
 
 from script_making.dbload import PlanetStatusDict
 
-import os
 
 import logging
 import logging.handlers

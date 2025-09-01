@@ -45,7 +45,6 @@ from script_making.dbload import (
     fetch_entries_by_timestamp,
     fetch_region_entries_by_closest_interval,
     fetch_region_entries_by_dayval,
-    fetch_region_entries_by_interval,
     migrate_tables,
 )
 
@@ -110,7 +109,7 @@ async def handle_monitoring(
     """
     If the space between two logged events is too much,
     add events which log any changes made to the planet statuses."""
-    for num,evt in enumerate(event_set):
+    for num, evt in enumerate(event_set):
         logger.info(f"In Between Event {num}, end time is {event_set[-1].time}")
         this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
         decay, hp = check_planet_stats_dict_for_change(laststats, this_check)
@@ -162,7 +161,8 @@ async def handle_planet_stats(
     march_5th: datetime,
     laststats: PlanetStatusDict,
 ) -> Tuple[PlanetStatusDict, List[GameEvent]]:
-    '''Get the planet stats, add events if needed.'''
+    """Get the planet stats, add events if needed."""
+    
     planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
     if decay:
@@ -288,11 +288,21 @@ async def format_event_obj() -> None:
 
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
-            if last_time.replace(tzinfo=timezone.utc)>=datetime.now().replace(tzinfo=timezone.utc):
+            if last_time.replace(tzinfo=timezone.utc) >= datetime.now().replace(
+                tzinfo=timezone.utc
+            ):
                 logger.error("ERROR!  LAST TIME IS TOO BIG!")
                 raise Exception("Too big time.")
             laststats, newevents = await handle_monitoring(
                 conn, event_set, newevents, all_times_new, march_5th, laststats
+            )
+            logger.info(
+                "Fetching Stats for Text: %s, Time: %s, Planet: %s, Region: %s,Type: %s",
+                event.text,
+                event.time,
+                event.planet,
+                event.region,
+                event.type,
             )
             laststats, newevents = await handle_planet_stats(
                 conn, event, newevents, all_times_new, march_5th, laststats
@@ -448,7 +458,7 @@ async def get_planet_stats(
             checkv = fetch_entries_by_timestamp(conn, str(timestamp))
             if not checkv:
                 print("COULD NOT ADD TO DATABASE.")
-                logger.info(f"COULD NOT ADD TO DATABASE.")
+                logger.info("COULD NOT ADD TO DATABASE.")
             all_times_new[dc][interval] = planetstats
         else:
             all_times_new[dc][interval] = {}
@@ -558,7 +568,7 @@ def unordered_list_hash(int_list: List[int]):
     # Return the combined hash
     # hashc = hash((xor_hash,sum_hash))
     hashc = list(sorted(int_list))
-    if not hashc in valid_waypoints.values():
+    if hashc not in valid_waypoints.values():
         valid_waypoints[len(valid_waypoints.keys())] = hashc
     for i, v in valid_waypoints.items():
         if v == hashc:
@@ -654,7 +664,7 @@ async def process_event(
             event.mo_case = case
             event.mo_objective = objective
             mostr = f"{event.mo_id}, {name}, {objective}"
-            if not "mo" in store:
+            if "mo" not in store:
                 store["mo"] = {}
             if case == "is issued":
                 store["mo"][event.mo_id] = mostr
@@ -958,7 +968,7 @@ def handle_decay_events(decay):
         for ind, o, p in decay:
             planet = vjson["planets"].get(str(ind))
             planet["owner"] = o
-            if not p in decay_for_planets:
+            if p not in decay_for_planets:
                 decay_for_planets[p] = []
             if planet:
                 decay_for_planets[p].append(planet)

@@ -4,13 +4,11 @@ import logging
 import re
 from typing import Any, Dict, List, Optional, Tuple
 from datetime import datetime, timezone
-from datetime import datetime
 from script_making.models import (
     GameEvent,
     DaysObject,
 )
 
-from script_making.web_utils import get_web_file
 
 logger = logging.getLogger("StatusLogger")
 
@@ -302,7 +300,7 @@ def sort_event_type(
     if event.type == "unknown":
         event_type_sort["unknown"].append(text)
     else:
-        if not event.type in event_type_sort:
+        if event.type not in event_type_sort:
             event_type_sort[event.type] = [text, [], {}]
 
         nt, dx = format_event_text(event, text, match, sectors)

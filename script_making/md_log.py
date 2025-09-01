@@ -2,7 +2,6 @@ import logging
 from script_making.models import DaysObject, GameEvent
 
 
-import logging
 from datetime import datetime, timezone
 
 logger = logging.getLogger("StatusLogger")

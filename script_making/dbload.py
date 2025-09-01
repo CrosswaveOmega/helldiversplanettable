@@ -1,6 +1,6 @@
 import sqlite3
 
-from typing import Any, Dict, List, Optional, Tuple, Union
+from typing import Any, Dict
 
 PlanetStatusDict = Dict[str, Dict[str, float]]
 # They're structurally identical
@@ -66,11 +66,13 @@ def initalize_tables(conn: sqlite3.Connection) -> bool:
     cursor.executescript(script)
     return True
 
-def clean_all_that_are_too_big(conn:sqlite3.Connection,cutoff:int):
+
+def clean_all_that_are_too_big(conn: sqlite3.Connection, cutoff: int):
     cursor = conn.cursor()
     cursor.execute("DELETE FROM alltimedata WHERE dayval >= ?", (cutoff,))
     conn.commit()
-    
+
+
 def fetch_entries_by_timestamp(
     conn: sqlite3.Connection, timestamp: float
 ) -> Dict[int, Dict[str, Any]]:

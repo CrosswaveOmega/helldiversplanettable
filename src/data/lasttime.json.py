@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
-import json, sys
+import json
+import sys
 
 timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S%Z")
 

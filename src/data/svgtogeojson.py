@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
-from shapely.geometry import Polygon, LineString, mapping
-import re
+from shapely.geometry import Polygon, mapping
 
 from svgpathtools import parse_path, Line, CubicBezier, QuadraticBezier
 
