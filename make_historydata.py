@@ -111,7 +111,8 @@ async def handle_monitoring(
     """
     If the space between two logged events is too much,
     add events which log any changes made to the planet statuses."""
-    for evt in event_set:
+    for num,evt in enumerate(event_set):
+        logger.info(f"In Between Event {num}, end time is {event_set[-1].time}")
         this_check = await get_planet_stats(conn, evt, all_times_new, march_5th)
         decay, hp = check_planet_stats_dict_for_change(laststats, this_check)
         if decay or hp:
@@ -162,6 +163,7 @@ async def handle_planet_stats(
     march_5th: datetime,
     laststats: PlanetStatusDict,
 ) -> Tuple[PlanetStatusDict, List[GameEvent]]:
+    '''Get the planet stats, add events if needed.'''
     planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
     if decay:
@@ -286,7 +288,10 @@ async def format_event_obj() -> None:
         )
 
         if monitoring:
-            event_set, _ = monitor_event(event, lasttime, [])
+            event_set, last_time = monitor_event(event, lasttime, [])
+            if last_time>=datetime.now():
+                logger.error("ERROR!  LAST TIME IS TOO BIG!")
+                raise Exception("Too big time.")
             laststats, newevents = await handle_monitoring(
                 conn, event_set, newevents, all_times_new, march_5th, laststats
             )
@@ -352,6 +357,7 @@ def monitor_event(
     event: GameEvent, lasttime: datetime, newevents: List[GameEvent]
 ) -> Tuple[List[GameEvent], datetime]:
     """Add events between between two timestamps if the distance is great enough."""
+    right_now = datetime.now()
     time = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
     time = time - timedelta(minutes=time.minute)
     lasttime = lasttime - timedelta(minutes=lasttime.minute)
