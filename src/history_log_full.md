@@ -8440,6 +8440,7 @@ DSS deploys to *Achernar Secundus* of the Borgus sector (2025-04-17 18:12  UTC)<
  (2025-04-17 19:00  UTC)<br/>
 Assault Division: Predator Strain U4F deploys to *Gacrux* (2025-04-17 19:34  UTC)<br/>
 *Nivel 43* of the Mirin sector instantly flips to Terminid control (2025-04-17 20:10  UTC)<br/>
+*Nivel 43* is now unobservable due to the Gloom (2025-04-17 20:10  UTC)<br/>
 Assault Division: Predator Strain U4F leaves *Gacrux* (2025-04-17 20:33  UTC)<br/>
  Decay: 1.5 on Nivel 43
  (2025-04-17 20:33  UTC)<br/>
@@ -8968,6 +8969,7 @@ Assault Division: Predator Strain U4A deploys to *Nivel 43* (2025-05-05 10:56  U
 Assault Division: Predator Strain U4N deploys to *Esker* (2025-05-05 10:56  UTC)<br/>
 Assault Division: Predator Strain U4Q is routed from Fort Union (2025-05-05 12:12  UTC)<br/>
 Assault Division: Predator Strain U4N leaves *Esker* (2025-05-05 13:26  UTC)<br/>
+Assault Division: Predator Strain U4N merges with Predator Strain U4A on *Nivel 43* (2025-05-05 13:26  UTC)<br/>
 Assault Division: Incineration Corps U3C leaves *Vernen Wells* (2025-05-05 13:47  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Vog-Sojoth* (2025-05-05 13:59  UTC)<br/>
@@ -10521,7 +10523,6 @@ DSS deploys to *Claorell* of the Tanis sector (2025-07-25 09:00  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-07-25 15:51  UTC)<br/>
  Decay: 0.5 on Alamak VII
  (2025-07-25 15:51  UTC)<br/>
-*Nivel 43* is now unobservable due to the Gloom (2025-07-25 15:55  UTC)<br/>
 *Fori Prime* is no longer unobservable (2025-07-25 15:55  UTC)<br/>
 Major Order | A2-7-6 Kill Sporeburst Warriors On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. In support of the ongoing public relations campaign, High Command has ordered an short-term expedition to FORI PRIME within the outskirts of the Gloom, to exterminate 5,000,000 Spore Burst Warriors using the Stalwart. This optional augmentation to the public relations campaign could further boost citizen morale to yet-unforseen heights. (2025-07-25 15:56  UTC)<br/>
@@ -11451,3 +11452,13 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to once again brave the mu
  Decay: 4.0 on Hellmire, Fori Prime, Nivel 43
  (2025-09-01 00:00  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. HMG Emplacement Stratagem availability has now ended. (2025-09-01 01:29  UTC)<br/>
+ Decay: 3.0 on Hellmire
+ (2025-09-01 08:00  UTC)<br/>
+
+### Day: #572
+ Decay: 2.0 on Hellmire
+ (2025-09-01 12:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Tesla Tower Stratagem availability has now ended. (2025-09-01 17:25  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-01 17:34  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-09-01 19:24  UTC)<br/>
+DSS deploys to *Sulfura* of the Celeste sector (2025-09-02 01:34  UTC)<br/>
