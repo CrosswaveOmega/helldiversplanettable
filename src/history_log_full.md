@@ -11442,7 +11442,7 @@ Major Order | A2-8-6 Kill 6 Billion Terminids is won | Objective: Eradicate (202
 *Fori Prime* is no longer unobservable (2025-08-31 22:13  UTC)<br/>
 Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4D] (2025-08-31 22:14  UTC)<br/>
 Assault Division: Spore Burst Strain U4D deploys to *Hellmire* (2025-08-31 22:14  UTC)<br/>
-Major Order | A2-8-9 Operation Righteous Reclamation is issued | Objective: Control (2025-08-31 22:29  UTC)<br/>
+Major Order | A2-8-9 Operation Righteous Reclamation Phase One is issued | Objective: Control (2025-08-31 22:29  UTC)<br/>
 *Hellmire* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Hellmire* - *Oshaune* warp link is added (2025-08-31 22:30  UTC)<br/>
@@ -11462,3 +11462,40 @@ Dispatch: ARSENAL AUGMENTATION ENDED. Tesla Tower Stratagem availability has now
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-01 17:34  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-09-01 19:24  UTC)<br/>
 DSS deploys to *Sulfura* of the Celeste sector (2025-09-02 01:34  UTC)<br/>
+
+### Day: #573
+*Oshaune* of the Mirin sector's biome is changed from Plains [Moor] to Hive World [Hive World] (2025-09-02 09:00  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-09-02 09:00  UTC)<br/>
+Assault Division: Spore Burst Strain U4D leaves *Hellmire* (2025-09-02 09:22  UTC)<br/>
+Assault Division: Spore Burst Strain U4D merges with Spore Burst Strain U4C on *Erata Prime* (2025-09-02 09:22  UTC)<br/>
+Terminid Brood debuts a new Assault Division: Rupture Strain (2025-09-02 09:22  UTC)<br/>
+Assault Division: Rupture Strain U1A deploys to *Hellmire* (2025-09-02 09:22  UTC)<br/>
+ Decay: 7.5 on Oshaune, Zagon Prime<br/> Decay: 10.0 on Omicron
+ (2025-09-02 09:22  UTC)<br/>
+*Nivel 43* is no longer unobservable (2025-09-02 10:40  UTC)<br/>
+*Oshaune* is no longer unobservable (2025-09-02 11:43  UTC)<br/>
+Assault Division: Predator Strain U4A leaves *Nivel 43* (2025-09-02 11:43  UTC)<br/>
+Assault Division: Rupture Strain U1B deploys to *Nivel 43* (2025-09-02 11:45  UTC)<br/>
+*Hellmire* is liberated (2025-09-02 11:48  UTC)<br/>
+↳ *Nivel 43* liberation campaign starts (2025-09-02 11:48  UTC)<br/>
+↳ *Oshaune* liberation campaign starts (2025-09-02 11:48  UTC)<br/>
+Assault Division: Rupture Strain U1A is routed from Hellmire (2025-09-02 11:48  UTC)<br/>
+*Hellmire* changes to being lightly enveloped by the Gloom (2025-09-02 11:49  UTC)<br/>
+Major Order | A2-8-9 Operation Righteous Reclamation Phase One is won | Objective: Control (2025-09-02 11:49  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have liberated HELLMIRE from the Gloom's clutches. Their superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed Outpost Alpha. As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom. Outpost personnel have completed initial geological scans of OSHAUNE. The planet presents a unique biome, which has earned it the designation: Hive World. (2025-09-02 11:49  UTC)<br/>
+Dispatch: STRATEGIC TIMELINE ACCELERATED. In order to maintain operational momentum, High Command has directed the immediate and forceful invasion of OSHAUNE, springboarding from the rapidlly-deployed Outpost Alpha on HELLMIRE. Low Gloom resistance thus far indicates a lack of enemy preparedness. High deployment velocity will enable full exploitation of this vulnerability. (2025-09-02 11:49  UTC)<br/>
+Major Order | A2-9-1 Operation Righteous Reclamation Phase Two is issued | Objective: Control/Samples (2025-09-02 11:51  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Operation Righteous Reclamation has entered its second stage. Outpost Alpha enables the Helldivers' spore-resistant Super Destroyers to access the Hive World OSHAUNE. The Helldivers are ordered to conduct initial reconnaissance of the Hive World and secure research samples from it. Understanding this unique biome is key to annihilating it for good. While operations on HELLMIRE are ongoing, Outpost Alpha must not be lost. (2025-09-02 11:53  UTC)<br/>
+Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE. Extraction times on this planet have increased by 50s. (2025-09-02 12:20  UTC)<br/>
+Assault Division: Rupture Strain U1B leaves *Nivel 43* (2025-09-02 15:23  UTC)<br/>
+Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4E] (2025-09-02 15:25  UTC)<br/>
+Assault Division: Spore Burst Strain U4E deploys to *Nivel 43* (2025-09-02 15:25  UTC)<br/>
+Assault Division: Rupture Strain U1C deploys to *Oshaune* (2025-09-02 15:25  UTC)<br/>
+Dispatch: ALERT: NEW MUTATION IDENTIFIED. Gloom frontline survivors report sightings of Terminids favoring subterranean movement, breaking generations of identified attack patterns. These Terminids have been dubbed the Rupture Strain. Excessive force is advised. (2025-09-02 15:27  UTC)<br/>
+Assault Division: Spore Burst Strain U4A leaves *Bore Rock* (2025-09-02 16:17  UTC)<br/>
+Assault Division: Spore Burst Strain U4A merges with Spore Burst Strain U4B on *Esker* (2025-09-02 16:17  UTC)<br/>
+Assault Division: Predator Strain U6A leaves *Terrek* (2025-09-02 16:18  UTC)<br/>
+Assault Division: Predator Strain U6A merges with Predator Strain U6C on *Azterra* (2025-09-02 16:18  UTC)<br/>
+*Hellmire* is no longer enveloped by the Gloom (2025-09-02 17:30  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-09-02 19:25  UTC)<br/>
