@@ -11386,7 +11386,7 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availabili
  (2025-08-29 23:28  UTC)<br/>
 *Sulfura* of the Celeste sector is attacked by Terminids (2025-08-30 00:25  UTC)<br/>
 Assault Division: Predator Strain U6C divides into 2 groups [U6C, U6E] (2025-08-30 00:25  UTC)<br/>
-Assault Division: Predator Strain U6E deploys to Sulfuria (2025-08-30 00:25  UTC)<br/>
+Assault Division: Predator Strain U6E deploys to *Sulfura* (2025-08-30 00:25  UTC)<br/>
 *Fort Union* of the Orion sector is attacked by Terminids (2025-08-30 00:27  UTC)<br/>
 Assault Division: Predator Strain U6B divides into 2 groups [U6B, U6D] (2025-08-30 00:27  UTC)<br/>
 Assault Division: Predator Strain U6D deploys to *Fort Union* (2025-08-30 00:27  UTC)<br/>
@@ -11465,6 +11465,8 @@ DSS deploys to *Sulfura* of the Celeste sector (2025-09-02 01:34  UTC)<br/>
 
 ### Day: #573
 *Oshaune* of the Mirin sector's biome is changed from Plains [Moor] to Hive World [Hive World] (2025-09-02 09:00  UTC)<br/>
+*Zagon Prime* of the Mirin sector's biome is changed from Desert Dunes [Sandy] to Hive World [Hive World] (2025-09-02 09:00  UTC)<br/>
+*Omicron* of the L'estrade sector's biome is changed from Tundra [Moor] to Hive World [Hive World] (2025-09-02 09:00  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-02 09:00  UTC)<br/>
 Assault Division: Spore Burst Strain U4D leaves *Hellmire* (2025-09-02 09:22  UTC)<br/>
@@ -11499,3 +11501,10 @@ Assault Division: Predator Strain U6A leaves *Terrek* (2025-09-02 16:18  UTC)<br
 Assault Division: Predator Strain U6A merges with Predator Strain U6C on *Azterra* (2025-09-02 16:18  UTC)<br/>
 *Hellmire* is no longer enveloped by the Gloom (2025-09-02 17:30  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-09-02 19:25  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-03 21:39  UTC)<br/>
+*Sulfura* is liberated (2025-09-04 02:57  UTC)<br/>
+↳ *Azterra* liberation campaign starts (2025-09-04 02:57  UTC)<br/>
+↳ Celeste sector is fully under Human control (2025-09-04 02:57  UTC)<br/>
+Assault Division: Predator Strain U6E is routed from Sulfura (2025-09-04 02:57  UTC)<br/>
+
+### Day: #575
