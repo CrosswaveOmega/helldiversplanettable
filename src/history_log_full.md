@@ -11501,6 +11501,8 @@ Assault Division: Predator Strain U6A leaves *Terrek* (2025-09-02 16:18  UTC)<br
 Assault Division: Predator Strain U6A merges with Predator Strain U6C on *Azterra* (2025-09-02 16:18  UTC)<br/>
 *Hellmire* is no longer enveloped by the Gloom (2025-09-02 17:30  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-09-02 19:25  UTC)<br/>
+
+### Day: #574
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-03 21:39  UTC)<br/>
 *Sulfura* is liberated (2025-09-04 02:57  UTC)<br/>
 ↳ *Azterra* liberation campaign starts (2025-09-04 02:57  UTC)<br/>
@@ -11508,3 +11510,14 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-03 21:39  UTC)<br/>
 Assault Division: Predator Strain U6E is routed from Sulfura (2025-09-04 02:57  UTC)<br/>
 
 ### Day: #575
+Dispatch: HIVE WORLD DISCOVERY. A new form of E-710-like substance has been discovered on the Hive World. Initial testing has yielded promising results. Extraction pipelines are to be installed for maximum research efficiency. (2025-09-04 09:56  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-09-04 23:12  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-09-05 07:36  UTC)<br/>
+Assault Division: Spore Burst Strain U4E divides into 2 groups [U4E, U4F] (2025-09-05 07:36  UTC)<br/>
+Assault Division: Spore Burst Strain U4F deploys to *Hellmire* (2025-09-05 07:36  UTC)<br/>
+Dispatch: ALERT: NEW MUTATION IDENTIFIED. Helldivers to HELLMIRE. Outpost Alpha is under siege. Winged Terminids of unprecedented size observed planetside. Helldivers to HELLMIRE. Defend Outpost Alpha (2025-09-05 07:36  UTC)<br/>
+
+### Day: #576
+ Decay: 0.5 on Seyshel Beach<br/> Decay: 0.0 on Hellmire
+ (2025-09-05 09:00  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-09-05 13:39  UTC)<br/>
