@@ -4242,12 +4242,12 @@ Major Order | A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 
 *Acamar IV* of the Jin Xi sector is established as a Terminid Research Preserve POI (2024-10-18 09:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have established and held a protective border around *Acamar IV*, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. (2024-10-18 09:38  UTC)<br/>
 Automaton Legion debuts a new Assault Division: Jet Brigade (2024-10-18 11:43  UTC)<br/>
-Assault Division: Jet Brigade U1 deploys to *Choohe* (2024-10-18 11:43  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Choohe* (2024-10-18 11:43  UTC)<br/>
  Decay: 3.0 on Hellmire, Nivel 43<br/> Decay: 1.5 on Esker<br/> Decay: 0.8 on Vandalon IV, Troost<br/> Decay: 2.5 on Omicron<br/> Decay: 0.5 on Marfark
  (2024-10-18 11:43  UTC)<br/>
-Assault Division: Jet Brigade U1 leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
+Assault Division: Jet Brigade U1A leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
-Assault Division: Jet Brigade U1 deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 5.0 on Choohe<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-18 13:01  UTC)<br/>
 Major Order | A1-10-4 Stop The Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
@@ -4282,8 +4282,8 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
 *Martale* of the Andromeda sector is attacked by Automatons (2024-10-19 22:06  UTC)<br/>
  Decay: 2.0 on Choohe<br/> Decay: 500.0 on Erata Prime<br/> Decay: 0.0 on Martale<br/> Decay: 0.8 on Ustotu, Wezen
  (2024-10-19 22:06  UTC)<br/>
-Assault Division: Jet Brigade U1 leaves *Matar Bay* (2024-10-19 22:07  UTC)<br/>
-Assault Division: Jet Brigade U1 deploys to *Martale* (2024-10-19 22:07  UTC)<br/>
+Assault Division: Jet Brigade U1A leaves *Matar Bay* (2024-10-19 22:07  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Martale* (2024-10-19 22:07  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Matar Bay<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-20 00:00  UTC)<br/>
 
@@ -4303,8 +4303,8 @@ Assault Division: Jet Brigade U1 deploys to *Martale* (2024-10-19 22:07  UTC)<br
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Martale<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-21 00:00  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
-Assault Division: Jet Brigade U1 leaves *Martale* (2024-10-21 04:11  UTC)<br/>
-Assault Division: Jet Brigade U1 deploys to *Marfark* (2024-10-21 04:11  UTC)<br/>
+Assault Division: Jet Brigade U1A leaves *Martale* (2024-10-21 04:11  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Marfark* (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-10-21 06:00  UTC)<br/>
 NOTE: An error produced by the Gamemaster not properly filling a value making the Jet Brigade appear over every enemy controlled faction world. Gloomed worlds hide the tooltip/icon due to their own planet id effects. This also did not affect spawn rates on any worlds. It lasted from 04:11am UTC 21st Oct 2024 to 08:01am UTC 21st Oct 2024 as a side note. It was fixed to only show on *Marfark* instead (2024-10-21 08:01  UTC)<br/>
@@ -4332,7 +4332,7 @@ Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the ap
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the Jet Brigade has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (2024-10-22 07:09  UTC)<br/>
  Decay: 1.5 on Draco sector, Hydra sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Trandor, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Clasa, Peacock<br/> Decay: 2.5 on Lesath, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost
  (2024-10-22 07:09  UTC)<br/>
-Assault Division: Jet Brigade U1 is routed from Marfark (2024-10-22 07:17  UTC)<br/>
+Assault Division: Jet Brigade U1A is routed from Marfark (2024-10-22 07:17  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-22 07:17  UTC)<br/>
 
@@ -4898,15 +4898,15 @@ DSS Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 4.0 on Vernen Wells<br/> Decay: 0.4 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-11 12:00  UTC)<br/>
 Major Order | A1-11-2 DSS Fueling is issued | Objective: Control/Eradicate (2024-11-11 14:02  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Vernen Wells* (2024-11-11 14:02  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Vernen Wells* (2024-11-11 14:02  UTC)<br/>
  Decay: 1.5 on Gellert sector, Draco sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Erata Prime<br/> Decay: 2.5 on Heeth, Penta, Choohe, Chort Bay<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, Jin Xi sector<br/> Decay: 5.0 on Vernen Wells<br/> Decay: 3.0 on Gaellivare<br/> Decay: 0.4 on Acamar IV<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Vega Bay
  (2024-11-11 14:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives. Haste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on *Vernen Wells*. An attack on the DSS Logistics Hub on *Tarsh* is likely imminent. If the Hub is seized, the DSS itself will be next. (2024-11-11 14:04  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 5.0 on Vernen Wells<br/> Decay: 0.4 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-11 16:00  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2024-11-11 20:03  UTC)<br/>
-Assault Division: Jet Brigade U2 leaves *Vernen Wells* (2024-11-11 20:03  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Tarsh* (2024-11-11 20:03  UTC)<br/>
+Assault Division: Jet Brigade U2A leaves *Vernen Wells* (2024-11-11 20:03  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Tarsh* (2024-11-11 20:03  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on *Tarsh*. Intel indicates the Automatons are seeking the location of the DSS itself. The force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress. (2024-11-11 20:03  UTC)<br/>
  Decay: 0.0 on Tarsh<br/> Decay: 1.5 on Gellert sector, Draco sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Fenrir III, Darius II, Erata Prime<br/> Decay: 2.5 on Heeth, Penta, Choohe, Chort Bay<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, Jin Xi sector, L'estrade sector<br/> Decay: 5.0 on Vernen Wells<br/> Decay: 3.0 on Gaellivare<br/> Decay: 0.5 on Marfark, Matar Bay<br/> Decay: 0.8 on Troost
  (2024-11-11 20:03  UTC)<br/>
@@ -4947,8 +4947,8 @@ Dispatch: STRATEGIC ALERT. The Automatons have taken *Tarsh*. The DSS Logistics 
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Hydra sector, Valdis sector, Falstaff sector, Draco sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Mirin sector, Jin Xi sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-13 00:00  UTC)<br/>
 *Mastia* of the Andromeda sector is attacked by Automatons (2024-11-13 05:11  UTC)<br/>
-Assault Division: Jet Brigade U2 leaves *Tarsh* (2024-11-13 05:11  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Mastia* (2024-11-13 05:11  UTC)<br/>
+Assault Division: Jet Brigade U2A leaves *Tarsh* (2024-11-13 05:11  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Mastia* (2024-11-13 05:11  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Fori Prime<br/> Decay: 0.0 on Mastia<br/> Decay: 1.0 on Esker, Aesir Pass, Acamar IV, Erata Prime<br/> Decay: 2.5 on Heeth, Penta, Choohe, Chort Bay<br/> Decay: 2.0 on Trandor, Vog-Sojoth, Clasa, Phact Bay<br/> Decay: 1.5 on Hydra sector, Falstaff sector, Draco sector, Jin Xi sector, Andromeda sector, Gellert sector, Sten sector, Tanis sector, Valdis sector<br/> Decay: 0.5 on Matar Bay
  (2024-11-13 05:11  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Mirin sector, Jin Xi sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 1.5 on Gellert sector, Hydra sector, Valdis sector, Falstaff sector, Draco sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 2.5 on Heeth, Penta, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -5000,8 +5000,8 @@ Dispatch: STRATEGIC ALERT. *Mastia* has fallen. The invasion of *Gaellivare* is 
 
 ### Day: #281
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-11-14 11:19  UTC)<br/>
-Assault Division: Jet Brigade U2 leaves *Mastia* (2024-11-14 11:19  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Gaellivare* (2024-11-14 11:19  UTC)<br/>
+Assault Division: Jet Brigade U2A leaves *Mastia* (2024-11-14 11:19  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Gaellivare* (2024-11-14 11:19  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 4.0 on Mastia<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Falstaff sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Esker, Darius II, Acamar IV, Erata Prime<br/> Decay: 2.0 on Sten sector, Tanis sector, Jin Xi sector, Mirin sector, L'estrade sector<br/> Decay: 2.5 on Penta, Turing, Choohe, Chort Bay<br/> Decay: 0.0 on Gaellivare<br/> Decay: 0.5 on Matar Bay
  (2024-11-14 11:19  UTC)<br/>
 Dispatch: DSS UNDER ATTACK. The Automaton Jet Brigade has made landing on *Gaellivare*. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. (2024-11-14 11:30  UTC)<br/>
@@ -5064,10 +5064,10 @@ Dispatch: STRATEGIC UPDATE. In an unexpected but cunning move, the Helldivers ha
 ### Day: #283
  Decay: 3.0 on Hellmire, Nivel 43<br/> Decay: 2.0 on Mastia, Trandor, Vog-Sojoth, Clasa, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Falstaff sector, Andromeda sector, Gellert sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Varylia 5, Vega Bay
  (2024-11-16 09:00  UTC)<br/>
-Assault Division: Jet Brigade U2 leaves *Gaellivare* (2024-11-16 11:17  UTC)<br/>
+Assault Division: Jet Brigade U2A leaves *Gaellivare* (2024-11-16 11:17  UTC)<br/>
  Decay: 500.0 on Super Earth, Meissa, Zzaniah Prime<br/> Decay: 0.0 on Meridia<br/> Decay: 2.5 on Turing<br/> Decay: 2.0 on Claorell<br/> Decay: 2.9 on Lesath
  (2024-11-16 11:17  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Gaellivare* (2024-11-16 13:03  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Gaellivare* (2024-11-16 13:03  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-16 13:03  UTC)<br/>
 Major Order | A1-11-2 DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
@@ -5118,8 +5118,8 @@ DSS effect Orbital Blockade stops (2024-11-18 03:32  UTC)<br/>
  Decay: 2.0 on Mastia, Trandor, Vog-Sojoth, Clasa, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Andromeda sector, Gellert sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime<br/> Decay: 2.5 on Penta, Turing, Choohe, Chort Bay<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.9 on Lesath<br/> Decay: 0.5 on Marfark, Matar Bay<br/> Decay: 0.8 on Wezen
  (2024-11-18 14:00  UTC)<br/>
 *Imber* of the Talus sector is attacked by Automatons (2024-11-18 16:09  UTC)<br/>
-Assault Division: Jet Brigade U2 leaves *Gaellivare* (2024-11-18 16:09  UTC)<br/>
-Assault Division: Jet Brigade U2 deploys to *Imber* (2024-11-18 16:09  UTC)<br/>
+Assault Division: Jet Brigade U2A leaves *Gaellivare* (2024-11-18 16:09  UTC)<br/>
+Assault Division: Jet Brigade U2A deploys to *Imber* (2024-11-18 16:09  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-18 16:09  UTC)<br/>
 Major Order | A1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
@@ -5158,7 +5158,7 @@ DSS deploys to *Imber* of the Talus sector (2024-11-20 02:52  UTC)<br/>
 ### Day: #287
  Decay: 2.0 on Mastia, Trandor, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Falstaff sector, Gellert sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Imber, Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime, Martale<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Vandalon IV
  (2024-11-20 14:00  UTC)<br/>
-Assault Division: Jet Brigade U2 is routed from Imber (2024-11-20 16:21  UTC)<br/>
+Assault Division: Jet Brigade U2A is routed from Imber (2024-11-20 16:21  UTC)<br/>
  Decay: 1.5 on Blistica<br/> Decay: 2.5 on Turing<br/> Decay: 3.0 on Fori Prime<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Vega Bay
  (2024-11-20 16:21  UTC)<br/>
 *Acamar IV* of the Jin Xi sector's Terminid Research Preserve POI is removed (2024-11-20 16:41  UTC)<br/>
@@ -6343,7 +6343,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 ↳ Major Order | A2-1-5 Jet Brigade Factories is won | Objective: Liberate (2025-02-02 05:16  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
-Assault Division: Jet Brigade U3 deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
+Assault Division: Jet Brigade U3A deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2025-02-02 06:57  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
@@ -6380,8 +6380,8 @@ Dispatch: INTEL REPORT. Through careful analysis of available astronomical data,
 *Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
-Assault Division: Jet Brigade U3 leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
-Assault Division: Jet Brigade U3 deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
+Assault Division: Jet Brigade U3A leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
+Assault Division: Jet Brigade U3A deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
  Decay: 4.0 on Menkent
  (2025-02-03 16:01  UTC)<br/>
 Major Order | A2-2-1 Defend *Chort Bay* is issued | Objective: Control (2025-02-03 17:03  UTC)<br/>
@@ -6425,7 +6425,7 @@ DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
  Decay: 2.5 on Choohe<br/> Decay: 1.5 on Marfark
  (2025-02-05 11:12  UTC)<br/>
 *Lesath* defense is won (2025-02-05 13:01  UTC)<br/>
-Assault Division: Jet Brigade U3 is routed from Lesath (2025-02-05 13:01  UTC)<br/>
+Assault Division: Jet Brigade U3A is routed from Lesath (2025-02-05 13:01  UTC)<br/>
 *Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-05 14:15  UTC)<br/>
  Decay: 1.5 on Lesath
  (2025-02-05 14:15  UTC)<br/>
@@ -6670,7 +6670,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
 ### Day: #374
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-02-15 11:52  UTC)<br/>
 Terminid Brood debuts a new Assault Division: Predator Strain (2025-02-15 11:52  UTC)<br/>
-Assault Division: Predator Strain U1 deploys to *Fenrir III* (2025-02-15 11:52  UTC)<br/>
+Assault Division: Predator Strain U1A deploys to *Fenrir III* (2025-02-15 11:52  UTC)<br/>
 Major Order | A2-2-3 Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
  Decay: 2.0 on Heeth<br/> Decay: 0.0 on Fenrir III
  (2025-02-15 12:11  UTC)<br/>
@@ -6694,8 +6694,8 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-02-15 18:58  UTC)<br/>
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
 *Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
 *Fenrir III* defense is won (2025-02-16 22:35  UTC)<br/>
-↳ Assault Division: Predator Strain U1 leaves *Fenrir III* (2025-02-16 22:35  UTC)<br/>
-Assault Division: Predator Strain U1 deploys to *Erata Prime* (2025-02-16 22:38  UTC)<br/>
+↳ Assault Division: Predator Strain U1A leaves *Fenrir III* (2025-02-16 22:35  UTC)<br/>
+Assault Division: Predator Strain U1A deploys to *Erata Prime* (2025-02-16 22:38  UTC)<br/>
 *Meridia* moves to X 0.44621298 Y 0.16827168 (2025-02-16 23:00  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 3.5 on Erata Prime
  (2025-02-16 23:00  UTC)<br/>
@@ -6732,7 +6732,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Erata Prime* is liberated (2025-02-18 11:47  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-02-18 11:47  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2025-02-18 11:47  UTC)<br/>
-Assault Division: Predator Strain U1 is routed from Erata Prime (2025-02-18 11:47  UTC)<br/>
+Assault Division: Predator Strain U1A is routed from Erata Prime (2025-02-18 11:47  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-18 12:11  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-18 12:11  UTC)<br/>
 Major Order | A2-2-3 Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
@@ -7356,7 +7356,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-14 09:55  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-03-14 16:06  UTC)<br/>
 Major Order | A2-3-3 Penrose Energy Station Siphon is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-03-14 16:08  UTC)<br/>
-Assault Division: Predator Strain U2 deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
+Assault Division: Predator Strain U2A deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity. High Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation. The device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete. (2025-03-14 16:09  UTC)<br/>
 Dispatch: STRATEGIC ALERT. *Achernar Secundus*, home of the AM Defense Factory Hub producing FRVs, is under attack. Production disruptions have resulted in fuel rations for FRVs until the attack can be repelled. (2025-03-14 17:03  UTC)<br/>
  Decay: 0.0 on Fenrir III, Achernar Secundus<br/> Decay: 1.5 on Gar Haren
@@ -7402,19 +7402,19 @@ Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Termin
 *Seasse*'s invasion is successful (2025-03-16 17:31  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-16 17:31  UTC)<br/>
 *Meridia* moves to X 0.33869624 Y 0.14439052 (2025-03-16 19:00  UTC)<br/>
-Assault Division: Predator Strain U2 deploys to *Hellmire* (2025-03-16 19:27  UTC)<br/>
-Assault Division: Predator Strain U2 leaves *Fenrir III* (2025-03-16 19:29  UTC)<br/>
-Assault Division: Predator Strain U2 leaves *Hellmire* (2025-03-16 20:26  UTC)<br/>
+Assault Division: Predator Strain U2A deploys to *Hellmire* (2025-03-16 19:27  UTC)<br/>
+Assault Division: Predator Strain U2A leaves *Fenrir III* (2025-03-16 19:29  UTC)<br/>
+Assault Division: Predator Strain U2A leaves *Hellmire* (2025-03-16 20:26  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2025-03-16 20:26  UTC)<br/>
-Assault Division: Predator Strain U2 deploys to *Nivel 43* (2025-03-16 20:27  UTC)<br/>
-Assault Division: Predator Strain U2 deploys to *Esker* (2025-03-16 20:48  UTC)<br/>
-Assault Division: Predator Strain U2 leaves *Nivel 43* (2025-03-16 20:56  UTC)<br/>
-Assault Division: Predator Strain U2 leaves *Esker* (2025-03-16 21:16  UTC)<br/>
+Assault Division: Predator Strain U2A deploys to *Nivel 43* (2025-03-16 20:27  UTC)<br/>
+Assault Division: Predator Strain U2A deploys to *Esker* (2025-03-16 20:48  UTC)<br/>
+Assault Division: Predator Strain U2A leaves *Nivel 43* (2025-03-16 20:56  UTC)<br/>
+Assault Division: Predator Strain U2A leaves *Esker* (2025-03-16 21:16  UTC)<br/>
  Decay: 2.0 on Esker
  (2025-03-16 21:16  UTC)<br/>
 *Bore Rock* of the Falstaff sector is attacked by Terminids (2025-03-16 21:18  UTC)<br/>
-Assault Division: Predator Strain U2 deploys to *Bore Rock* (2025-03-16 21:18  UTC)<br/>
+Assault Division: Predator Strain U2A deploys to *Bore Rock* (2025-03-16 21:18  UTC)<br/>
 *Meridia* moves to X 0.33831957 Y 0.14406687 (2025-03-16 23:00  UTC)<br/>
  Decay: 0.0 on Bore Rock
  (2025-03-16 23:00  UTC)<br/>
@@ -7442,7 +7442,7 @@ DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-17 18:05  UTC)<br/>
 ↳ *Bore Rock* liberation campaign starts (2025-03-17 21:20  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2025-03-17 21:20  UTC)<br/>
 ↳ Falstaff sector is fully under Terminid control (2025-03-17 21:20  UTC)<br/>
-Assault Division: Predator Strain U2 leaves *Bore Rock* (2025-03-17 21:20  UTC)<br/>
+Assault Division: Predator Strain U2A leaves *Bore Rock* (2025-03-17 21:20  UTC)<br/>
 *Canopus* of the Tarragon sector is invaded by Illuminate (2025-03-17 21:59  UTC)<br/>
  Decay: 1.0 on Bore Rock
  (2025-03-17 21:59  UTC)<br/>
@@ -7948,11 +7948,11 @@ DSS effect Orbital Blockade stops (2025-04-01 01:19  UTC)<br/>
 *Aurora Bay* of the Valdis sector is established as a Jet Brigade Factories POI (2025-04-01 14:24  UTC)<br/>
  Decay: 5.0 on Aurora Bay
  (2025-04-01 14:24  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Aurora Bay* (2025-04-01 14:25  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Aurora Bay* (2025-04-01 14:25  UTC)<br/>
 Dispatch: ALERT. The Jet Brigade has resurfaced, having evidently been rebuilt in secret. They have joined the Automaton offensive to menace *Malevelon Creek*. The Automatons are clearly dedicating massive resources to besmirching the memory of the heroes who defended the planet. The Helldivers must continue to hold. (2025-04-01 14:40  UTC)<br/>
 *Meridia* moves to X 0.3013875 Y 0.11772734 (2025-04-01 15:00  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Aurora Bay* (2025-04-01 15:37  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Choohe* (2025-04-01 15:40  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Aurora Bay* (2025-04-01 15:37  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Choohe* (2025-04-01 15:40  UTC)<br/>
 Assault Division: Incineration Corps U2E leaves *Martale* (2025-04-01 15:58  UTC)<br/>
 Assault Division: Incineration Corps U2E deploys to *Marfark* (2025-04-01 15:59  UTC)<br/>
 *Bekvam III* defense is failed (2025-04-01 16:04  UTC)<br/>
@@ -7962,14 +7962,14 @@ Assault Division: Incineration Corps U2E deploys to *Marfark* (2025-04-01 15:59 
 ↳ *Marfark* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
 ↳ *Charon Prime* liberation campaign ends (2025-04-01 16:05  UTC)<br/>
 ↳ Andromeda sector is fully under Automaton control (2025-04-01 16:05  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Choohe* (2025-04-01 16:39  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Choohe* (2025-04-01 16:39  UTC)<br/>
  Decay: 1.5 on Bekvam III, Martale<br/> Decay: 2.0 on Marfark
  (2025-04-01 16:39  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Matar Bay* (2025-04-01 16:40  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Matar Bay* (2025-04-01 17:39  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Martale* (2025-04-01 17:39  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Martale* (2025-04-01 17:40  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 17:42  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Matar Bay* (2025-04-01 16:40  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Matar Bay* (2025-04-01 17:39  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Martale* (2025-04-01 17:39  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Martale* (2025-04-01 17:40  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Charon Prime* (2025-04-01 17:42  UTC)<br/>
 Dispatch: WARFRONT DEVELOPMENT. A successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense. (2025-04-01 18:43  UTC)<br/>
 Meirida moves to X 0.30120555 Y 0.11759851 (2025-04-01 19:00  UTC)<br/>
 *Vandalon IV* defense is won (2025-04-01 19:00  UTC)<br/>
@@ -7978,22 +7978,22 @@ DSS deploys to *Rirga Bay* of the Rigel sector (2025-04-01 19:00  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-04-01 19:27  UTC)<br/>
  Decay: 1.0 on Vandalon IV
  (2025-04-01 19:27  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 19:40  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Charon Prime* (2025-04-01 19:41  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Charon Prime* (2025-04-01 19:40  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Charon Prime* (2025-04-01 19:41  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-01 19:47  UTC)<br/>
 Assault Division: Incineration Corps U2E leaves *Marfark* (2025-04-01 19:48  UTC)<br/>
 Assault Division: Incineration Corps U2E merges with Incineration Corps U2D on *Bekvam III* (2025-04-01 19:48  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Charon Prime* (2025-04-01 20:39  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Charon Prime* (2025-04-01 20:39  UTC)<br/>
  Decay: 2.5 on Bekvam III
  (2025-04-01 20:39  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Charbal-VII* (2025-04-01 20:41  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Charbal-VII* (2025-04-01 21:39  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Mort* (2025-04-01 21:40  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Charbal-VII* (2025-04-01 20:41  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Charbal-VII* (2025-04-01 21:39  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Mort* (2025-04-01 21:40  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-04-01 22:15  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-01 22:15  UTC)<br/>
 *Pöpli IX* of the Xzar sector is attacked by Automatons (2025-04-01 22:17  UTC)<br/>
-Assault Division: Jet Brigade U4 leaves *Mort* (2025-04-01 22:17  UTC)<br/>
-Assault Division: Jet Brigade U4 deploys to *Pöpli IX* (2025-04-01 22:18  UTC)<br/>
+Assault Division: Jet Brigade U4A leaves *Mort* (2025-04-01 22:17  UTC)<br/>
+Assault Division: Jet Brigade U4A deploys to *Pöpli IX* (2025-04-01 22:18  UTC)<br/>
 *Meridia* moves to X 0.30102164 Y 0.11746828 (2025-04-01 23:00  UTC)<br/>
  Decay: 0.0 on Pöpli IX
  (2025-04-01 23:00  UTC)<br/>
@@ -8045,7 +8045,7 @@ Dispatch: ANNOUNCEMENT. Today marks *Malevelon Creek* Memorial Day. On this day,
 Dispatch: The Eagle 500kg Bomb stratagem is temporarily available to all Helldivers. (2025-04-03 18:41  UTC)<br/>
 *Pöpli IX* defense is won (2025-04-03 18:43  UTC)<br/>
 Assault Division: Incineration Corps U2D is routed from Pöpli IX (2025-04-03 18:43  UTC)<br/>
-Assault Division: Jet Brigade U4 is routed from Pöpli IX (2025-04-03 18:43  UTC)<br/>
+Assault Division: Jet Brigade U4A is routed from Pöpli IX (2025-04-03 18:43  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-04-03 18:44  UTC)<br/>
 Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage! (2025-04-03 18:45  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. The Automaton Jet Brigade has been defeated and dismantled against the stalwart defense of the Helldivers. While the Automatons have evidenced the concerning capability of re-fielding these forces, the action of the Helldivers proved the continued supremacy of elite human warfighting over the enemy's artificial imitations. (2025-04-03 18:55  UTC)<br/>
@@ -8229,7 +8229,7 @@ Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super 
  (2025-04-11 09:00  UTC)<br/>
 *Meridia* moves to X 0.29159266 Y 0.11673969 (2025-04-11 11:00  UTC)<br/>
 *Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-04-11 11:06  UTC)<br/>
-Assault Division: Spore Burst Strain U2 deploys to *Nivel 43* (2025-04-11 11:43  UTC)<br/>
+Assault Division: Spore Burst Strain U2A deploys to *Nivel 43* (2025-04-11 11:43  UTC)<br/>
 *Nivel 43* is no longer unobservable (2025-04-11 11:44  UTC)<br/>
 *Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
 *Nivel 43* has been classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
@@ -8338,7 +8338,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
  Decay: 2.5 on Nivel 43
  (2025-04-15 11:00  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-04-15 11:27  UTC)<br/>
-Assault Division: Predator Strain U3 deploys to *Nivel 43* (2025-04-15 12:11  UTC)<br/>
+Assault Division: Predator Strain U3A deploys to *Nivel 43* (2025-04-15 12:11  UTC)<br/>
 *Haldus*'s invasion is successful (2025-04-15 13:25  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-04-15 13:25  UTC)<br/>
 *Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-15 14:14  UTC)<br/>
@@ -8353,8 +8353,8 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
 *Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
 ↳ Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:38  UTC)<br/>
-Assault Division: Predator Strain U3 is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
-Assault Division: Spore Burst Strain U2 is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
+Assault Division: Predator Strain U3A is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
+Assault Division: Spore Burst Strain U2A is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
 *Meridia* moves to X 0.28515476 Y 0.11733294 (2025-04-16 03:00  UTC)<br/>
 *Acamar IV* defense is won (2025-04-16 04:18  UTC)<br/>
@@ -8979,13 +8979,13 @@ Major Order | A2-4-6 Liberate Key Strategic Worlds is failed | Objective: Contro
  (2025-05-05 15:45  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The rapid and tireless actions of the Helldivers limited the territory lost to the opportunistic offensives of the Terminids and Automatons. Consult your Galactic Map for more information. (2025-05-05 15:48  UTC)<br/>
 Dispatch: JET BRIGADE SIGHTED. The Automaton Jet Brigade has resurfaced on AURORA BAY. (2025-05-05 15:48  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Aurora Bay* (2025-05-05 15:48  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Aurora Bay* (2025-05-05 16:47  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Choohe* (2025-05-05 16:48  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Choohe* (2025-05-05 17:47  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Menkent* (2025-05-05 17:48  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Menkent* (2025-05-05 18:47  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Vernen Wells* (2025-05-05 18:48  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Aurora Bay* (2025-05-05 15:48  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Aurora Bay* (2025-05-05 16:47  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Choohe* (2025-05-05 16:48  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Choohe* (2025-05-05 17:47  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Menkent* (2025-05-05 17:48  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Menkent* (2025-05-05 18:47  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Vernen Wells* (2025-05-05 18:48  UTC)<br/>
 Major Order | A2-5-1 Assault Division Conquest is issued | Objective: Conquest (2025-05-05 18:59  UTC)<br/>
 *Sulfura* - *Azterra* warp link is added (2025-05-05 18:59  UTC)<br/>
 *Nublaria I* - *Fort Union* warp link is added (2025-05-05 18:59  UTC)<br/>
@@ -8997,11 +8997,11 @@ Major Order | A2-5-1 Assault Division Conquest is issued | Objective: Conquest (
 Dispatch: NEW MAJOR ORDER. The resurgence of the Automaton Jet Brigade and Incineration Corps, along with the virulent Terminid Predator Strain, threaten our citizens and enable our enemies' rampant expansionistic ambitions. These territorial landgrabs must be decisively repulsed. The Helldivers are ordered to liberate at least one more planet than is lost during the duration of the order. (2025-05-05 19:04  UTC)<br/>
 *Slif* liberation campaign starts (2025-05-05 19:11  UTC)<br/>
 *Azterra* liberation campaign starts (2025-05-05 19:11  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Vernen Wells* (2025-05-05 19:47  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Vernen Wells* (2025-05-05 19:47  UTC)<br/>
  Decay: 2.0 on Aesir Pass, Claorell<br/> Decay: 0.5 on Bore Rock, Charbal-VII, Choepessa IV, Gar Haren, Vega Bay<br/> Decay: 1.0 on Estanu, Gacrux, Marfark, Pandion-XXIV
  (2025-05-05 19:47  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Automatons (2025-05-05 19:48  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Tarsh* (2025-05-05 19:50  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Tarsh* (2025-05-05 19:50  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-05-05 21:05  UTC)<br/>
  Decay: 0.0 on Tarsh
  (2025-05-05 21:05  UTC)<br/>
@@ -9031,24 +9031,24 @@ DSS effect Heavy Ordnance Distribution is activated (2025-05-07 07:47  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-05-07 07:48  UTC)<br/>
 
 ### Day: #455
-Assault Division: Jet Brigade U5 leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
 Assault Division: Incineration Corps U3C leaves *Marfark* (2025-05-07 09:50  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Vernen Wells* (2025-05-07 09:51  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Vernen Wells* (2025-05-07 09:51  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-07 09:52  UTC)<br/>
 *Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5D] (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5D deploys to *Krakatwo* (2025-05-07 09:53  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Vernen Wells* (2025-05-07 11:00  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Vernen Wells* (2025-05-07 11:00  UTC)<br/>
  Decay: 0.0 on Krakatwo<br/> Decay: 0.5 on Tarsh
  (2025-05-07 11:00  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Lesath* (2025-05-07 11:02  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Lesath* (2025-05-07 11:54  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Vog-Sojoth* (2025-05-07 11:56  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Lesath* (2025-05-07 11:02  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Lesath* (2025-05-07 11:54  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Vog-Sojoth* (2025-05-07 11:56  UTC)<br/>
 Dispatch: WARFRONT DEVELOPMENT. A 9.4 magnitude earthquake on VELD has decimated a large Terminid colony, allowing a significant gain in territory. (2025-05-07 12:22  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Vog-Sojoth* (2025-05-07 12:55  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Vog-Sojoth* (2025-05-07 12:55  UTC)<br/>
  Decay: 0.5 on Veld
  (2025-05-07 12:55  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-07 12:56  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Claorell* (2025-05-07 12:56  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-07 17:01  UTC)<br/>
 *Cirrus* is liberated (2025-05-07 21:10  UTC)<br/>
 ↳ *Terrek* liberation campaign starts (2025-05-07 21:10  UTC)<br/>
@@ -9066,8 +9066,8 @@ Assault Division: Incineration Corps U3B leaves *Clasa* (2025-05-08 09:53  UTC)<
 DSS deploys to *Claorell* of the Tanis sector (2025-05-08 10:30  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Yed Prior* (2025-05-08 11:11  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Blistica* (2025-05-08 11:12  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Claorell* (2025-05-08 11:12  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Claorell* (2025-05-08 11:12  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Clasa* (2025-05-08 11:13  UTC)<br/>
  Decay: 3.0 on Clasa
  (2025-05-08 14:00  UTC)<br/>
  Decay: 1.0 on Claorell
@@ -9087,9 +9087,9 @@ Assault Division: Incineration Corps U3C deploys to *Curia* (2025-05-09 09:16  U
  Decay: 5.0 on Nivel 43
  (2025-05-09 14:00  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-05-09 17:03  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-09 19:11  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Clasa* (2025-05-09 19:11  UTC)<br/>
 *Demiurg* of the Tanis sector is attacked by Automatons (2025-05-09 19:13  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Demiurg* (2025-05-09 19:13  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Demiurg* (2025-05-09 19:13  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
  Decay: 0.0 on Demiurg
  (2025-05-09 20:52  UTC)<br/>
@@ -9116,13 +9116,13 @@ DSS effect Eagle Storm stops (2025-05-10 20:53  UTC)<br/>
 DSS deploys to *Sulfura* of the Celeste sector (2025-05-11 09:30  UTC)<br/>
  Decay: 2.0 on Demiurg
  (2025-05-11 10:00  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Demiurg* (2025-05-11 13:18  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Clasa* (2025-05-11 13:20  UTC)<br/>
-Assault Division: Jet Brigade U5 leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Demiurg* (2025-05-11 13:18  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Clasa* (2025-05-11 13:20  UTC)<br/>
+Assault Division: Jet Brigade U5A leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
  Decay: 1.0 on Sulfura
  (2025-05-11 14:17  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
-Assault Division: Jet Brigade U5 deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
+Assault Division: Jet Brigade U5A deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-05-11 15:05  UTC)<br/>
  Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
  (2025-05-11 15:05  UTC)<br/>
@@ -9135,7 +9135,7 @@ DSS deploys to *Claorell* of the Tanis sector (2025-05-11 21:04  UTC)<br/>
  Decay: 0.5 on Sulfura
  (2025-05-12 00:00  UTC)<br/>
 *Claorell* defense is won (2025-05-12 07:21  UTC)<br/>
-Assault Division: Jet Brigade U5 is routed from Claorell (2025-05-12 07:21  UTC)<br/>
+Assault Division: Jet Brigade U5A is routed from Claorell (2025-05-12 07:21  UTC)<br/>
 DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
 
 # Day: #460
@@ -9164,12 +9164,12 @@ Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29 
  Decay: 0.0 on Nublaria I
  (2025-05-13 06:00  UTC)<br/>
 Illuminate Cult debuts a new Assault Division: The Great Host (2025-05-13 08:58  UTC)<br/>
-Assault Division: The Great Host U1 deploys to *Meridia* (2025-05-13 08:58  UTC)<br/>
+Assault Division: The Great Host U1A deploys to *Meridia* (2025-05-13 08:58  UTC)<br/>
 
 ### Day: #461
 *Super Earth* of the Sol sector's biome is changed from *Super Earth* [*Super Earth*] to *Super Earth* Metropolis [*Super Earth*] (2025-05-13 09:00  UTC)<br/>
-Assault Division: The Great Host U1 leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
-Assault Division: The Great Host U1 deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
+Assault Division: The Great Host U1A leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
+Assault Division: The Great Host U1A deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
 *Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
 Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
@@ -9202,11 +9202,11 @@ Assault Division: Predator Strain U5C merges with Predator Strain U5E on *Krakat
 *Widow's Harbor* of the Altus sector instantly flips to Illuminate control (2025-05-15 09:03  UTC)<br/>
 NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-15 09:03  UTC)<br/>
 DSS deploys to *Nublaria I* of the Celeste sector (2025-05-15 09:03  UTC)<br/>
-Assault Division: The Great Host U1 leaves *Widow's Harbor* (2025-05-15 10:58  UTC)<br/>
+Assault Division: The Great Host U1A leaves *Widow's Harbor* (2025-05-15 10:58  UTC)<br/>
  Decay: 75.0 on Widow's Harbor
  (2025-05-15 10:58  UTC)<br/>
 *Pilen V* of the Altus sector is invaded by Illuminate (2025-05-15 11:01  UTC)<br/>
-Assault Division: The Great Host U1 deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
+Assault Division: The Great Host U1A deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
 Assault Division: Predator Strain U5E leaves *Krakatwo* (2025-05-15 11:46  UTC)<br/>
 Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublaria I* (2025-05-15 11:48  UTC)<br/>
  Decay: 2.5 on Nublaria I<br/> Decay: 1.5 on Krakatwo
@@ -9222,11 +9222,11 @@ Dispatch: DSS DISABLED. The DSS was immediately engaged upon arrival at PILEN V,
 *Pilen V*'s invasion is successful (2025-05-17 15:58  UTC)<br/>
 *Pilen V* of the Altus sector instantly flips to Illuminate control (2025-05-17 15:58  UTC)<br/>
 NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-17 15:58  UTC)<br/>
-Assault Division: The Great Host U1 leaves *Pilen V* (2025-05-17 17:49  UTC)<br/>
+Assault Division: The Great Host U1A leaves *Pilen V* (2025-05-17 17:49  UTC)<br/>
  Decay: 75.0 on Pilen V
  (2025-05-17 17:49  UTC)<br/>
 *New Haven* of the Altus sector is invaded by Illuminate (2025-05-17 17:50  UTC)<br/>
-Assault Division: The Great Host U1 deploys to *New Haven* (2025-05-17 17:50  UTC)<br/>
+Assault Division: The Great Host U1A deploys to *New Haven* (2025-05-17 17:50  UTC)<br/>
 
 ### Day: #466
 
@@ -9238,7 +9238,7 @@ Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objec
 Dispatch: MAJOR ORDER CONCLUDED. As anticipated, *Widow's Harbor*, *Pilen V*, and *New Haven* have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (2025-05-20 07:17  UTC)<br/>
  Decay: 75.0 on New Haven
  (2025-05-20 07:17  UTC)<br/>
-Assault Division: The Great Host U1 leaves *New Haven* (2025-05-20 08:32  UTC)<br/>
+Assault Division: The Great Host U1A leaves *New Haven* (2025-05-20 08:32  UTC)<br/>
  Decay: 1.5 on Human worlds
  (2025-05-20 08:32  UTC)<br/>
 Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet. Fortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1. (2025-05-20 08:36  UTC)<br/>
@@ -9252,7 +9252,7 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 *Super Earth* Region 5 Prosperity City Megacity is now present (2025-05-20 09:07  UTC)<br/>
 *Super Earth* Region 6 Equality On Sea Megacity is now present (2025-05-20 09:07  UTC)<br/>
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
-Assault Division: The Great Host U1 deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
+Assault Division: The Great Host U1A deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
 *Super Earth* Region 0 Eagleopolis Megacity is besieged by Illuminate (2025-05-20 09:07  UTC)<br/>
 Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
@@ -9406,7 +9406,7 @@ Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Int
 ### Day: #478
 *Super Earth* is liberated (2025-05-30 11:15  UTC)<br/>
 ↳ Sol sector is fully under Human control (2025-05-30 11:15  UTC)<br/>
-Assault Division: The Great Host U1 is routed (2025-05-30 11:15  UTC)<br/>
+Assault Division: The Great Host U1A is routed (2025-05-30 11:15  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-05-30 11:16  UTC)<br/>
 Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is won | Objective: Control (2025-05-30 11:16  UTC)<br/>
 *New Haven* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
@@ -11485,6 +11485,7 @@ Assault Division: Rupture Strain U1B deploys to *Nivel 43* (2025-09-02 11:45  UT
 Assault Division: Rupture Strain U1A is routed from Hellmire (2025-09-02 11:48  UTC)<br/>
 *Hellmire* changes to being lightly enveloped by the Gloom (2025-09-02 11:49  UTC)<br/>
 Major Order | A2-8-9 Operation Righteous Reclamation Phase One is won | Objective: Control (2025-09-02 11:49  UTC)<br/>
+*Fori Prime* is no longer classified as a High Priority Campaign (2025-09-02 11:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated HELLMIRE from the Gloom's clutches. Their superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed Outpost Alpha. As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom. Outpost personnel have completed initial geological scans of OSHAUNE. The planet presents a unique biome, which has earned it the designation: Hive World. (2025-09-02 11:49  UTC)<br/>
 Dispatch: STRATEGIC TIMELINE ACCELERATED. In order to maintain operational momentum, High Command has directed the immediate and forceful invasion of OSHAUNE, springboarding from the rapidlly-deployed Outpost Alpha on HELLMIRE. Low Gloom resistance thus far indicates a lack of enemy preparedness. High deployment velocity will enable full exploitation of this vulnerability. (2025-09-02 11:49  UTC)<br/>
 Major Order | A2-9-1 Operation Righteous Reclamation Phase Two is issued | Objective: Control/Samples (2025-09-02 11:51  UTC)<br/>
@@ -11521,3 +11522,24 @@ Dispatch: ALERT: NEW MUTATION IDENTIFIED. Helldivers to HELLMIRE. Outpost Alpha 
  Decay: 0.5 on Seyshel Beach<br/> Decay: 0.0 on Hellmire
  (2025-09-05 09:00  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-05 13:39  UTC)<br/>
+*Seyshel Beach* Region 0 Accountant Graeber Town has fallen to Humans (2025-09-05 21:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-09-05 23:13  UTC)<br/>
+*Hellmire* defense is won (2025-09-06 04:15  UTC)<br/>
+Assault Division: Spore Burst Strain U4F is routed from Hellmire (2025-09-06 04:15  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-06 04:15  UTC)<br/>
+Dispatch: OUTPOST ALPHA DEFENDED. The Helldivers have successfully safeguarded Outpost Alpha against the Terminid Dragon Roaches. The Hive World on OSHAUNE remains accessible. (2025-09-06 04:48  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-09-06 04:48  UTC)<br/>
+
+### Day: #577
+Dispatch: ALERT: NEW MUTATION IDENTIFIED. Titan-class Terminids spotted on OSHAUNE. Unconfirmed reports indicate similarities to GW1-era Hive Lords, previously confirmed to be extinct. Extreme measures advised (2025-09-06 14:36  UTC)<br/>
+DSS deploys to *Azterra* of the Orion sector (2025-09-06 21:42  UTC)<br/>
+Assault Division: Spore Burst Strain U4E leaves *Nivel 43* (2025-09-06 23:15  UTC)<br/>
+Assault Division: Spore Burst Strain U4E merges with Spore Burst Strain U4C on *Erata Prime* (2025-09-06 23:15  UTC)<br/>
+Assault Division: Spore Burst Strain U1A leaves *Fori Prime* (2025-09-06 23:15  UTC)<br/>
+Assault Division: Rupture Strain U1C divides into 2 groups [U1C, U1D] (2025-09-06 23:15  UTC)<br/>
+Assault Division: Rupture Strain U1D deploys to *Fori Prime* (2025-09-06 23:15  UTC)<br/>
+Assault Division: Rupture Strain U1E deploys to *Nivel 43* (2025-09-06 23:15  UTC)<br/>
+Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Eagles deployed to OSHAUNE must have their spore filters changed every time they re-arm. Eagle re-arm times on this planet have increased by 30%. (2025-09-06 23:33  UTC)<br/>
+ Region Decay: 0.01 on 33_NEW ALEXANDRIA
+ (2025-09-06 23:33  UTC)<br/>
