@@ -11543,3 +11543,10 @@ Assault Division: Rupture Strain U1E deploys to *Nivel 43* (2025-09-06 23:15  UT
 Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Eagles deployed to OSHAUNE must have their spore filters changed every time they re-arm. Eagle re-arm times on this planet have increased by 30%. (2025-09-06 23:33  UTC)<br/>
  Region Decay: 0.01 on 33_NEW ALEXANDRIA
  (2025-09-06 23:33  UTC)<br/>
+
+### Day: #578
+Dispatch: HIVE WORLD DISCOVERY. The terrain on the Hive World OSHAUNE has been subjected to extreme Terminid terraformation. Helldivers are reminded that Super Destroyers can only deploy Hellpods to open-air locations. Adjust tactics as needed. (2025-09-07 17:52  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-09-07 19:03  UTC)<br/>
+Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, logistical support on OSHAUNE has been greatly limited. Ammunition pickups on this planet yield 50% less ammo. (2025-09-08 06:54  UTC)<br/>
+
+### Day: #579
