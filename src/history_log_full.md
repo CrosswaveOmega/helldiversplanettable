@@ -10813,7 +10813,7 @@ DSS deploys to *Crimsica* of the Draco sector (2025-08-13 17:18  UTC)<br/>
 
 ### Day: #554
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Fast Recon Vehicle (FRV) Stratagem for the duration of the current Major Order. Helldiver usage of FRVs will contribute diagnostic telemetry, contributing to greatly enhanced safety for Tyranny Park 2's self-guided off-road expeditions. (2025-08-14 09:04  UTC)<br/>
-*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Humans (2025-08-14 14:58  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-08-14 14:58  UTC)<br/>
 
 ### Day: #555
 Assault Division: Spore Burst Strain U1B leaves *Gacrux* (2025-08-15 09:32  UTC)<br/>
@@ -11677,3 +11677,31 @@ DSS effect Eagle Storm is activated (2025-09-09 14:11  UTC)<br/>
 *Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-09-09 17:26  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-09-09 17:44  UTC)<br/>
 DSS deploys to *Gacrux* of the Jin Xi sector (2025-09-10 01:44  UTC)<br/>
+
+### Day: #581
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Recoilless Rifle Stratagem for the next 24 hours. (2025-09-10 13:21  UTC)<br/>
+DSS effect Eagle Storm stops (2025-09-10 14:12  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-09-10 21:15  UTC)<br/>
+ Region Decay: 0.2 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-09-10 22:00  UTC)<br/>
+*Gacrux* defense is failed (2025-09-11 01:25  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2025-09-11 01:25  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-09-11 01:45  UTC)<br/>
+ Decay: 1.0 on Gacrux
+ (2025-09-11 01:45  UTC)<br/>
+*Gacrux* is lightly enveloped by the Gloom (2025-09-11 07:13  UTC)<br/>
+Dispatch: GLOOM SPREAD TO GACRUX. GACRUX has become infested by Terminids, and low levels of Gloom now infuse the planetary system. The planet must be retaken quickly, before the Gloom can grow in intensity. (2025-09-11 07:17  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-09-11 07:20  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-09-11 07:20  UTC)<br/>
+Assault Division: Rupture Strain U1F divides into 2 groups [U1F, U1G] (2025-09-11 07:20  UTC)<br/>
+Assault Division: Rupture Strain U1G deploys to *Acamar IV* (2025-09-11 07:20  UTC)<br/>
+Major Order | A2-9-3 Liberate *Gacrux* is issued | Objective: Liberate (2025-09-11 07:36  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2025-09-11 07:36  UTC)<br/>
+ Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
+ (2025-09-11 07:36  UTC)<br/>
+Dispatch: NEW STRATEGIC IMPERATIVE. GACRUX has become infested by the Terminids, and the planet's system is now infused with low levels of Gloom spores. Left uncleansed, it is believed the Gloom will grow in density. Swift action is critical; the planet must be re-liberated before the Gloom can grow. The more intense the Gloom becomes, the more difficult liberation of the planet will become. (2025-09-11 07:40  UTC)<br/>
+
+### Day: #582
+ Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-09-11 09:00  UTC)<br/>
