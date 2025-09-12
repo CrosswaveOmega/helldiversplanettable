@@ -1,10 +1,9 @@
 {
     "MajorEvent": {
         "name": "Major Order",
-        "matchable": ["MAJOR ORDER","Emergency Alert"],
+        "matchable": ["MAJOR ORDER", "Emergency Alert", "Minor Order"],
         "must": true,
-        "sub": [
-            {
+        "sub": [{
                 "name": "Major Order Start",
                 "matchable": ["is issued"]
             },
@@ -25,12 +24,10 @@
     "PlanetEvent": {
         "name": "planet won",
         "matchable": ["is liberated"],
-        "sub": [
-            {
-                "name": "planet superwon",
-                "matchable": ["via planetary implosion"]
-            }
-        ]
+        "sub": [{
+            "name": "planet superwon",
+            "matchable": ["via planetary implosion"]
+        }]
     },
     "PlanetSuperWinEvent": {
         "name": "planet superwon",
@@ -75,22 +72,22 @@
 
     "NewLinkEvent": {
         "name": "newlink",
-        "matchable": ["is added","warp link"],
-        "mode":"and"
+        "matchable": ["is added", "warp link"],
+        "mode": "and"
     },
     "DestroyLinkEvent": {
         "name": "destroylink",
-        "matchable": ["is removed","warp link"],
-        "mode":"and"
+        "matchable": ["is removed", "warp link"],
+        "mode": "and"
     },
     "ClearLinksEvent": {
         "name": "clearlinks",
-        "matchable": ["are obliterated","warp link"],
-        "mode":"and"
+        "matchable": ["are obliterated", "warp link"],
+        "mode": "and"
     },
-    "ClearSectorLinks":{
-        "name":"clear_sector_links",
-        "matchable":["warp links are hidden"]
+    "ClearSectorLinks": {
+        "name": "clear_sector_links",
+        "matchable": ["warp links are hidden"]
     },
     "CampaignStartEvent": {
         "name": "campaign_start",
@@ -142,8 +139,7 @@
         "name": "Gloom Effect",
 
         "matchable": ["by the gloom"],
-        "sub": [
-            {
+        "sub": [{
                 "name": "no_gloom",
                 "matchable": ["no longer enveloped"]
             },
@@ -184,8 +180,7 @@
         "name": "Assault Division",
         "matchable": ["Assault Division"],
         "must": true,
-        "sub": [
-            {
+        "sub": [{
                 "name": "Assault Division New",
                 "matchable": ["debuts a new"]
             },
@@ -207,8 +202,7 @@
         "name": "SiteEvent",
         "matchable": [" POI"],
         "must": true,
-        "sub": [
-            {
+        "sub": [{
                 "name": "SiteEvent built",
                 "matchable": ["is established as"]
             },
@@ -226,8 +220,7 @@
         "name": "Threat",
         "matchable": ["under threat"],
         "must": true,
-        "sub": [
-            {
+        "sub": [{
                 "name": "Threat Start",
                 "matchable": ["is now"]
             },
@@ -237,42 +230,42 @@
             }
         ]
     },
-    
-    
-    "DSS Deploy":{
+
+
+    "DSS Deploy": {
         "name": "dss_move",
         "matchable": ["DSS deploys to"]
     },
-    
-    "DSS Effect start":{
+
+    "DSS Effect start": {
         "name": "DSS effect start",
-        "matchable": ["DSS effect","is activated"],
-        "mode":"and"
+        "matchable": ["DSS effect", "is activated"],
+        "mode": "and"
     },
-    
-    "DSS Effect end":{
+
+    "DSS Effect end": {
         "name": "DSS effect end",
-        "matchable": ["DSS effect","stops"],
-        "mode":"and"
+        "matchable": ["DSS effect", "stops"],
+        "mode": "and"
     },
-    
-    "War Pause":{
+
+    "War Pause": {
         "name": "Gwar Pause",
         "matchable": ["is paused"]
     },
-    "War Resume":{
+    "War Resume": {
         "name": "Gwar resumes",
         "matchable": [" is no longer paused"]
     },
     "Region Added": {
-    "name": "region_added",
-    "matchable": ["Region", "is now present"],
-    "mode": "and"
+        "name": "region_added",
+        "matchable": ["Region", "is now present"],
+        "mode": "and"
     },
     "RegionSiegeStartEvent": {
-    "name": "region_siege_start",
-    "matchable": ["Region", "is besieged by"],
-    "mode": "and"
+        "name": "region_siege_start",
+        "matchable": ["Region", "is besieged by"],
+        "mode": "and"
     },
     "RegionSiegeLostEvent": {
         "name": "region_siege_lost",

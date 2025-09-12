@@ -162,7 +162,7 @@ async def handle_planet_stats(
     laststats: PlanetStatusDict,
 ) -> Tuple[PlanetStatusDict, List[GameEvent]]:
     """Get the planet stats, add events if needed."""
-    
+
     planetstats = await get_planet_stats(conn, event, all_times_new, march_5th)
     decay, _ = check_planet_stats_dict_for_change(laststats, planetstats)
     if decay:
@@ -652,7 +652,7 @@ async def process_event(
     all_region_times_new: RegionStatusDays,
 ) -> Dict[str, PlanetState]:
     """Process each event, extrapolating the current state of the game at each step."""
-    if event.type and "Major Order" in event.type:
+    if event.type and ("Major Order" in event.type or "Minor Order" in event.type):
         result = extract_mo_details(event.text or "")
         if result:
             type_, name, case, objective = result

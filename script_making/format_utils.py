@@ -184,7 +184,7 @@ def format_event_text(
 ) -> str:
     """For the typesort dictionary, format the event's text."""
     special = {}
-    if "Major Order" in event.type:
+    if "Major Order" in event.type or "Minor Order" in event.type:
         result = extract_mo_details(event.text)
         if result:
             type_, name, case, objective = result
