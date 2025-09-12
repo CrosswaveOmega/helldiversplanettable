@@ -11705,3 +11705,20 @@ Dispatch: NEW STRATEGIC IMPERATIVE. GACRUX has become infested by the Terminids,
 ### Day: #582
  Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
  (2025-09-11 09:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Recoilless Rifle Stratagem availability has now ended. (2025-09-11 13:22  UTC)<br/>
+*Crimsica* defense is won (2025-09-11 14:12  UTC)<br/>
+Assault Division: Dragonroach Strain U1D is routed (2025-09-11 14:12  UTC)<br/>
+DSS deploys to *Gacrux* of the Jin Xi sector (2025-09-11 14:12  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2025-09-11 16:00  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2025-09-11 21:34  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2025-09-12 06:06  UTC)<br/>
+Assault Division: Rupture Strain U1F divides into 2 groups [U1F, U1H] (2025-09-12 06:06  UTC)<br/>
+Assault Division: Rupture Strain U1H deploys to *Pandion-XXIV* (2025-09-12 06:06  UTC)<br/>
+ Decay: 0.0 on Pandion-XXIV
+ (2025-09-12 08:00  UTC)<br/>
+
+### Day: #583
+*Overgoe Prime* is lightly enveloped by the Gloom (2025-09-12 12:09  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. OVERGOE PRIME is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-12 12:12  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement has fallen to Humans (2025-09-12 13:38  UTC)<br/>
