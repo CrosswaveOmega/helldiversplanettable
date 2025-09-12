@@ -151,8 +151,8 @@
         },
         "1303":{
             "galacticEffectId": 1303,
-            "name": "Rupture Strain",
-            "description": "The first manned site established in Gloom-infested space.",
+            "name": "RUPTURE STRAIN (ENEMIES)" ,
+            "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
             "icon": "RuptureStrain"
         },
         "1304":{
@@ -160,6 +160,24 @@
             "name": "OUTPOST ALPHA",
             "description": "The first manned site established in Gloom-infested space.",
             "icon": "Governmental"
+        },
+        "1308": {
+            "galacticEffectId": 1308,
+            "name": "HIVE LORDS",
+            "description": "Terminid Hive Lords have been detected on this planet.",
+            "icon": "HiveLord"
+        },
+        "1309": {
+            "galacticEffectId": 1309,
+            "name": "DRAGONROACHES",
+            "icon":"DragonRoach",
+            "description": "Terminid Dragonroaches menace the skies of this planet."
+        },
+        "1310": {
+            "galacticEffectId": 1310,
+            "name": "RUPTURE STRAIN",
+            "description": "Terminid Dragonroaches menace the skies of this planet.",
+            "icon": "RuptureStrain"
         }
     }
 }
