@@ -658,7 +658,7 @@ export function makeplot(
                         ];
                         if (p.adiv != null) {
 
-                            main.push(`Assault Division: ${p.adiv}`);
+                            //main.push(`Assault Division: ${p.adiv}`);
                         }
                         if (p.gls != null) {
                             main.push(`${getGloomName(p.gls)}`);
