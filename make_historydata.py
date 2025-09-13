@@ -288,9 +288,7 @@ async def format_event_obj() -> None:
 
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
-            if last_time.replace(tzinfo=timezone.utc) >= datetime.now().replace(
-                tzinfo=timezone.utc
-            ):
+            if last_time.replace(tzinfo=timezone.utc) >= datetime.now(timezone.utc):
                 logger.error("ERROR!  LAST TIME IS TOO BIG!")
                 raise Exception("Too big time.")
             laststats, newevents = await handle_monitoring(
