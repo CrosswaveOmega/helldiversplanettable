@@ -11749,6 +11749,21 @@ Assault Division: Spore Burst Strain U5A deploys to *Crimsica* (2025-09-13 08:42
  (2025-09-13 09:00  UTC)<br/>
 *Hellmire* defense is won (2025-09-13 17:08  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-09-13 17:08  UTC)<br/>
-*Crimsica* Region 0 LIL'OME Settlement has fallen to Human (2025-09-13 18:50  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement has fallen to Humans (2025-09-13 18:50  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-13 18:50  UTC)<br/>
+Assault Division: Predator Strain U5A is routed from Hellmire (2025-09-13 23:23  UTC)<br/>
+Assault Division: HIVE LORDS U1B is routed from Hellmire (2025-09-13 23:24  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Terminids (2025-09-13 23:27  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2025-09-13 23:49  UTC)<br/>
+ Decay: 0.0 on Gacrux
+ (2025-09-13 23:49  UTC)<br/>
+DSS deploys to *Gacrux* of the Jin Xi sector (2025-09-14 05:47  UTC)<br/>
+
+### Day: #585
+*Crimsica* defense is won (2025-09-14 12:22  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2025-09-14 14:00  UTC)<br/>
+Assault Division: Rupture Strain U2A deploys to *Hellmire* (2025-09-14 15:41  UTC)<br/>
+Assault Division: Dragonroaches U1E deploys to *Hellmire* (2025-09-14 15:41  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-09-14 15:42  UTC)<br/>
