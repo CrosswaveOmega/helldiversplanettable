@@ -11765,5 +11765,8 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-09-14 05:47  UTC)<br/>
  Decay: 1.5 on Crimsica
  (2025-09-14 14:00  UTC)<br/>
 Assault Division: Rupture Strain U2A deploys to *Hellmire* (2025-09-14 15:41  UTC)<br/>
-Assault Division: Dragonroaches U1E deploys to *Hellmire* (2025-09-14 15:41  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-14 15:42  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-09-14 16:00  UTC)<br/>
+*Gacrux* defense is won (2025-09-14 18:59  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-09-14 18:59  UTC)<br/>
