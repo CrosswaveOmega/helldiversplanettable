@@ -11748,7 +11748,7 @@ Assault Division: Spore Burst Strain U5A deploys to *Crimsica* (2025-09-13 08:42
  Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
  (2025-09-13 09:00  UTC)<br/>
 *Hellmire* defense is won (2025-09-13 17:08  UTC)<br/>
-DSS deploys to *Crimsica* of the Draco sector (2025-09-13 17:08  UTC)<br/>
+↳DSS deploys to *Crimsica* of the Draco sector (2025-09-13 17:08  UTC)<br/>
 *Crimsica* Region 0 LIL'OME Settlement has fallen to Humans (2025-09-13 18:50  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-13 18:50  UTC)<br/>
@@ -11770,3 +11770,24 @@ Assault Division: Rupture Strain U2A deploys to *Hellmire* (2025-09-14 15:41  UT
  (2025-09-14 16:00  UTC)<br/>
 *Gacrux* defense is won (2025-09-14 18:59  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-14 18:59  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION ENDED  Flamethrower Stratagem availability has now ended. (2025-09-14 20:53  UTC)<br/>
+ Decay: 1.0 on Gacrux
+ (2025-09-14 20:53  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2025-09-14 23:50  UTC)<br/>
+*Hellmire* defense is won (2025-09-15 08:59  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-09-15 08:59  UTC)<br/>
+
+### Day: #586
+Dispatch:  MAJOR ORDER WON  The outpouring of Terminids from the Gloom appears to have subsided. The damage has been severe, but thanks to the swift intervention of the Helldivers, the worst has been prevented. Consult your Galactic Map for more details. (2025-09-15 09:03  UTC)<br/>
+Major Order | A2-9-2 Defend Against 7 Terminid Attacks is won | Objective: Defend (2025-09-15 09:04  UTC)<br/>
+*Overgoe Prime* is overtaken by the Gloomwall (2025-09-15 11:21  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-09-15 11:21  UTC)<br/>
+*Esker* is lightly enveloped by the Gloom (2025-09-15 12:31  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED.  The Gloom is spreading amongst Terminid-occupied worlds. ESKER is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-15 12:35  UTC)<br/>
+ Decay: 4.0 on Overgoe Prime
+ (2025-09-15 14:00  UTC)<br/>
+*Terrek* is liberated (2025-09-15 16:42  UTC)<br/>
+↳ *Bore Rock* liberation campaign starts (2025-09-15 16:42  UTC)<br/>
+↳ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-15 16:42  UTC)<br/>
+*Cirrus* decay rate changes to -0.5% per hour (2025-09-15 16:42  UTC)<br/>
