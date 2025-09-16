@@ -11696,7 +11696,7 @@ Dispatch: GLOOM SPREAD TO GACRUX. GACRUX has become infested by Terminids, and l
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-09-11 07:20  UTC)<br/>
 Assault Division: Rupture Strain U1F divides into 2 groups [U1F, U1G] (2025-09-11 07:20  UTC)<br/>
 Assault Division: Rupture Strain U1G deploys to *Acamar IV* (2025-09-11 07:20  UTC)<br/>
-Major Order | A2-9-3 Liberate *Gacrux* is issued | Objective: Liberate (2025-09-11 07:36  UTC)<br/>
+Minor Order | A2-9-3 Liberate *Gacrux* is issued | Objective: Liberate (2025-09-11 07:36  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-09-11 07:36  UTC)<br/>
  Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
@@ -11729,6 +11729,7 @@ Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupie
 ↳ *Pandion-XXIV* defense is won (2025-09-12 20:34  UTC)<br/>
 ↳ DSS deploys to *Terrek* of the Orion sector (2025-09-12 20:34  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE MET.  GACRUX has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside.  The planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment. (2025-09-12 20:35  UTC)<br/>
+Minor Order | A2-9-3 Liberate *Gacrux* is won | Objective: Liberate (2025-09-12 20:35  UTC)<br/>
 Assault Division: Rupture Strain U1F is routed from Gacrux (2025-09-12 20:36  UTC)<br/>
 *Gacrux* is no longer enveloped by the Gloom (2025-09-12 20:36  UTC)<br/>
 Dispatch:  STRATAGEM GRANTED.  The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (2025-09-12 20:49  UTC)<br/>
@@ -11801,7 +11802,7 @@ DSS deploys to *Cirrus* of the Orion sector (2025-09-15 21:48  UTC)<br/>
 Dispatch: NEW ALEXANDRIA SECURED.  A small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandria, a city on the planet *Seyshel Beach*.  While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all. (2025-09-16 02:34  UTC)<br/>
 
 ### Day: #587
-Major Order | A2-9-3 Automaton Mining Liberation is issued | Objective: Liberate-Hold (2025-09-16 13:40  UTC)<br/>
+Major Order | A2-9-4 Automaton Mining Liberation is issued | Objective: Liberate-Hold (2025-09-16 13:40  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER.  While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies.  Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven.  The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-16 13:48  UTC)<br/>
 *Mintoria* of the Gellert sector is established as a Ultramafic Mine POI (2025-09-16 15:53  UTC)<br/>
