@@ -116,7 +116,7 @@
         "1282": {
             "galacticEffectId": 1282,
             "name": "HELLDIVER TRAINING FACILITIES",
-            "icon": "Governmental",
+            "icon": "Badge",
             "description": "Here, the best of the best go through the rigorous Helldiver training that will earn them their capes."
         },
         "1286": {
@@ -159,7 +159,7 @@
             "galacticEffectId": 1304,
             "name": "OUTPOST ALPHA",
             "description": "The first manned site established in Gloom-infested space.",
-            "icon": "Governmental"
+            "icon": "Badge"
         },
         "1308": {
             "galacticEffectId": 1308,
@@ -178,6 +178,12 @@
             "name": "RUPTURE STRAIN",
             "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
             "icon": "RuptureStrain"
+        },
+        "1311": {
+            "galacticEffectId": 1311,
+            "name": "HIVE WORLD",
+            "icon": "HiveWorld",
+            "description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
         },
         "1324 ": {
             "galacticEffectId": 1324,
