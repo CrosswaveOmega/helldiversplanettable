@@ -11806,3 +11806,4 @@ Major Order | A2-9-4 Automaton Mining Liberation is issued | Objective: Liberate
 Dispatch:  NEW MAJOR ORDER.  While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies.  Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven.  The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-16 13:48  UTC)<br/>
 *Mintoria* of the Gellert sector is established as a Ultramafic Mine POI (2025-09-16 15:53  UTC)<br/>
+*Clasa* Region 0 SYCAMORE GARDENS Settlement has fallen to Humans (2025-09-16 17:05  UTC)<br/>
