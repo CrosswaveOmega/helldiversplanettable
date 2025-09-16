@@ -149,13 +149,13 @@
             "icon": "Governmental",
             "description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
         },
-        "1303":{
+        "1303": {
             "galacticEffectId": 1303,
-            "name": "RUPTURE STRAIN (ENEMIES)" ,
+            "name": "RUPTURE STRAIN (ENEMIES)",
             "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
             "icon": "RuptureStrain"
         },
-        "1304":{
+        "1304": {
             "galacticEffectId": 1304,
             "name": "OUTPOST ALPHA",
             "description": "The first manned site established in Gloom-infested space.",
@@ -170,7 +170,7 @@
         "1309": {
             "galacticEffectId": 1309,
             "name": "DRAGONROACHES",
-            "icon":"DragonRoach",
+            "icon": "DragonRoach",
             "description": "Terminid Dragonroaches menace the skies of this planet."
         },
         "1310": {
@@ -178,6 +178,12 @@
             "name": "RUPTURE STRAIN",
             "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
             "icon": "RuptureStrain"
+        },
+        "1324 ": {
+            "galacticEffectId": 1324,
+            "icon": "Wrench",
+            "name": "ULTRAMAFIC MINE",
+            "description": "A mine extracting platinum from deep-seated deposits of igneous rock."
         }
     }
 }
