@@ -11484,6 +11484,7 @@ Assault Division: Rupture Strain U1B deploys to *Nivel 43* (2025-09-02 11:45  UT
 ↳ *Oshaune* liberation campaign starts (2025-09-02 11:48  UTC)<br/>
 Assault Division: Rupture Strain U1A is routed from Hellmire (2025-09-02 11:48  UTC)<br/>
 *Hellmire* changes to being lightly enveloped by the Gloom (2025-09-02 11:49  UTC)<br/>
+*Hellmire* of the Mirin sector is established as a Outpost Alpha POI (2025-09-02 11:49  UTC)<br/>
 Major Order | A2-8-9 Operation Righteous Reclamation Phase One is won | Objective: Control (2025-09-02 11:49  UTC)<br/>
 *Fori Prime* is no longer classified as a High Priority Campaign (2025-09-02 11:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated HELLMIRE from the Gloom's clutches. Their superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed Outpost Alpha. As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom. Outpost personnel have completed initial geological scans of OSHAUNE. The planet presents a unique biome, which has earned it the designation: Hive World. (2025-09-02 11:49  UTC)<br/>
@@ -11791,3 +11792,16 @@ Dispatch: GLOOM SPREAD DETECTED.  The Gloom is spreading amongst Terminid-occupi
 ↳ *Bore Rock* liberation campaign starts (2025-09-15 16:42  UTC)<br/>
 ↳ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-15 16:42  UTC)<br/>
 *Cirrus* decay rate changes to -0.5% per hour (2025-09-15 16:42  UTC)<br/>
+ Decay: -0.5 on Cirrus
+ (2025-09-15 18:00  UTC)<br/>
+ Decay: 0.25 on Seyshel Beach
+ (2025-09-15 20:00  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-09-15 21:48  UTC)<br/>
+*Seyshel Beach* Region 3 NEW ALEXANDRIA MegaCity has fallen to Humans (2025-09-16 02:25  UTC)<br/>
+Dispatch: NEW ALEXANDRIA SECURED.  A small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandria, a city on the planet *Seyshel Beach*.  While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all. (2025-09-16 02:34  UTC)<br/>
+
+### Day: #587
+Major Order | A2-9-3 Automaton Mining Liberation is issued | Objective: Liberate-Hold (2025-09-16 13:40  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies.  Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven.  The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-16 13:48  UTC)<br/>
+*Mintoria* of the Gellert sector is established as a Ultramafic Mine POI (2025-09-16 15:53  UTC)<br/>
