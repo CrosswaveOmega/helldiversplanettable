@@ -11494,8 +11494,8 @@ Dispatch: NEW MAJOR ORDER. Operation Righteous Reclamation has entered its secon
 Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE. Extraction times on this planet have increased by 50s. (2025-09-02 12:20  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 13:11  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-02 14:10  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-02 14:12  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-02 15:10  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-02 14:12  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-02 15:10  UTC)<br/>
 Assault Division: Rupture Strain U1B leaves *Nivel 43* (2025-09-02 15:23  UTC)<br/>
 Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4E] (2025-09-02 15:25  UTC)<br/>
 Assault Division: Spore Burst Strain U4E deploys to *Nivel 43* (2025-09-02 15:25  UTC)<br/>
@@ -11508,76 +11508,76 @@ Assault Division: Predator Strain U6A merges with Predator Strain U6C on *Azterr
 *Hellmire* is no longer enveloped by the Gloom (2025-09-02 17:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 17:44  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-02 18:43  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-02 18:49  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-02 18:49  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-09-02 19:25  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-02 19:47  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-02 19:47  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 19:56  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-02 20:55  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-02 21:02  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-02 22:01  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-02 21:02  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-02 22:01  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 22:04  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 00:03  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 00:06  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 02:05  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 00:06  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 02:05  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 02:06  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 04:05  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 04:06  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 06:05  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 04:06  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 06:05  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 07:27  UTC)<br/>
 
 ### Day: #574
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 09:26  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 09:27  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 11:26  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 09:27  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 11:26  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 11:26  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 13:27  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 13:27  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 14:28  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 15:29  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 15:29  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 15:33  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 17:32  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 17:32  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 19:31  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 17:32  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 19:31  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 19:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-03 21:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-03 21:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-03 21:30  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-09-03 21:39  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-03 23:29  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-03 23:29  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-03 23:32  UTC)<br/>
 *Sulfura* is liberated (2025-09-04 02:57  UTC)<br/>
 ↳ *Azterra* liberation campaign starts (2025-09-04 02:57  UTC)<br/>
 ↳ Celeste sector is fully under Human control (2025-09-04 02:57  UTC)<br/>
 Assault Division: Predator Strain U6E is routed from Sulfura (2025-09-04 02:57  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-04 05:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-04 05:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-04 07:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-04 05:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-04 07:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-04 07:32  UTC)<br/>
 
 ### Day: #575
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-04 09:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-04 09:31  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-04 09:31  UTC)<br/>
 Dispatch: HIVE WORLD DISCOVERY. A new form of E-710-like substance has been discovered on the Hive World. Initial testing has yielded promising results. Extraction pipelines are to be installed for maximum research efficiency. (2025-09-04 09:56  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-04 11:30  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-04 11:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-04 11:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-04 13:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-04 13:33  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-04 13:33  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-04 15:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-04 15:32  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-04 15:32  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-04 17:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-04 17:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-04 19:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-04 17:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-04 19:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-04 19:30  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-04 20:29  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-04 20:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-04 22:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-04 20:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-04 22:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-04 22:32  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-09-04 23:12  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 00:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-05 00:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 02:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-05 00:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 02:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 02:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 04:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-05 04:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 06:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-05 04:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 06:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 06:31  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-05 07:36  UTC)<br/>
 Assault Division: Spore Burst Strain U4E divides into 2 groups [U4E, U4F] (2025-09-05 07:36  UTC)<br/>
@@ -11590,32 +11590,32 @@ Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 08:30  UTC)<br/
  (2025-09-05 08:30  UTC)<br/>
 
 ### Day: #576
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 10:30  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 10:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 10:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 12:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-05 12:31  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-05 12:31  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-05 13:39  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 14:30  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 14:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 14:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 16:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-05 16:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 18:30  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-05 16:31  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 18:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 18:32  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-05 20:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-05 20:31  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-05 20:31  UTC)<br/>
 *Seyshel Beach* Region 0 Accountant Graeber Town has fallen to Humans (2025-09-05 21:00  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-05 22:30  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-05 22:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-05 22:31  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-09-05 23:13  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-06 00:30  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-06 00:32  UTC)<br/>
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-06 02:32  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-06 00:32  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-06 02:32  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-06 02:34  UTC)<br/>
 *Hellmire* defense is won (2025-09-06 04:15  UTC)<br/>
 Assault Division: Spore Burst Strain U4F is routed from Hellmire (2025-09-06 04:15  UTC)<br/>
 Assault Division: Dragonroaches U1B is routed from Hellmire (2025-09-06 04:15  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-06 04:15  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-06 04:31  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-06 04:31  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-06 04:31  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-06 04:33  UTC)<br/>
@@ -11624,9 +11624,9 @@ Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-06 06:33  UTC)
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-06 08:32  UTC)<br/>
 
 ### Day: #577
-Assault Division: HIVE LORDS U1A leaves *Oshaune* (2025-09-06 14:30  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-06 14:30  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-06 14:31  UTC)<br/>
-Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2025-09-06 14:33  UTC)<br/>
+Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-06 14:33  UTC)<br/>
 Dispatch: ALERT: NEW MUTATION IDENTIFIED. Titan-class Terminids spotted on OSHAUNE. Unconfirmed reports indicate similarities to GW1-era Hive Lords, previously confirmed to be extinct. Extreme measures advised (2025-09-06 14:36  UTC)<br/>
 DSS deploys to *Azterra* of the Orion sector (2025-09-06 21:42  UTC)<br/>
 Assault Division: Spore Burst Strain U4E leaves *Nivel 43* (2025-09-06 23:15  UTC)<br/>
@@ -11724,25 +11724,30 @@ Assault Division: Rupture Strain U1H deploys to *Pandion-XXIV* (2025-09-12 06:06
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. OVERGOE PRIME is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-12 12:12  UTC)<br/>
 *Acamar IV* Region 0 Democracy Always Settlement has fallen to Humans (2025-09-12 13:38  UTC)<br/>
 *Gacrux* is liberated (2025-09-12 20:34  UTC)<br/>
-↳ *Acamar IV* defense is won (2025-09-12 20:34  UTC)<br/>
+↳ *Acamar IV* defense is auto-won via gambit (2025-09-12 20:34  UTC)<br/>
+↳ *Pandion-XXIV* defense is auto-won via gambit (2025-09-12 20:34  UTC)<br/>
 ↳ *Partion* liberation campaign starts (2025-09-12 20:34  UTC)<br/>
-↳ *Pandion-XXIV* defense is won (2025-09-12 20:34  UTC)<br/>
-↳ DSS deploys to *Terrek* of the Orion sector (2025-09-12 20:34  UTC)<br/>
-Dispatch: STRATEGIC IMPERATIVE MET.  GACRUX has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside.  The planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment. (2025-09-12 20:35  UTC)<br/>
-Minor Order | A2-9-3 Liberate *Gacrux* is won | Objective: Liberate (2025-09-12 20:35  UTC)<br/>
-Assault Division: Rupture Strain U1F is routed from Gacrux (2025-09-12 20:36  UTC)<br/>
-*Gacrux* is no longer enveloped by the Gloom (2025-09-12 20:36  UTC)<br/>
-Dispatch:  STRATAGEM GRANTED.  The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (2025-09-12 20:49  UTC)<br/>
-Assault Division: Predator Strain U5A deploys to *Hellmire* (2025-09-12 20:53  UTC)<br/>
-Assault Division: HIVE LORDS U1B deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
+Assault Division: Rupture Strain U1F is routed from Gacrux (2025-09-12 20:34  UTC)<br/>
+*Gacrux* is no longer enveloped by the Gloom (2025-09-12 20:34  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-09-12 20:34  UTC)<br/>
+Minor Order | A2-9-3 Liberate *Gacrux* is won | Objective: Liberate (2025-09-12 20:34  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE MET. GACRUX has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside. The planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment. (2025-09-12 20:35  UTC)<br/>
+Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (2025-09-12 20:49  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-12 20:54  UTC)<br/>
-Dispatch:  SUBTERRANEAN DISRUPTIONS.  Significant subterranean disruptions have been reported on HELLMIRE. There have been unverified reports of massive Terminids. Hive Lord presence is possible. (2025-09-12 21:38  UTC)<br/>
+Assault Division: Predator Strain U5A deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
+Assault Division: Hive Lords U1B deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
+Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4G] (2025-09-12 20:54  UTC)<br/>
+Assault Division: Spore Burst Strain U4G deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
+Assault Division: Spore Burst Strain U4G leaves *Hellmire* (2025-09-12 20:55  UTC)<br/>
+Assault Division: Spore Burst Strain U4G merges with Spore Burst Strain U4C on *Erata Prime* (2025-09-12 20:55  UTC)<br/>
+Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom. (2025-09-12 20:55  UTC)<br/>
+Dispatch: SUBTERRANEAN DISRUPTIONS. Significant subterranean disruptions have been reported on HELLMIRE. There have been unverified reports of massive Terminids. Hive Lord presence is possible. (2025-09-12 21:38  UTC)<br/>
  Decay: 0.0 on Hellmire<br/> Decay: 1.0 on Acamar IV<br/> Decay: 2.0 on Pandion-XXIV
  (2025-09-12 21:38  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-13 01:46  UTC)<br/>
-Assault Division: Spore Burst Strain U5A deploys to *Crimsica* (2025-09-13 08:42  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2025-09-13 08:42  UTC)<br/>
-*Crimsica* Region 0 LIL'OME Settlement is besieged by Humans (2025-09-13 08:42  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-09-13 08:42  UTC)<br/>
+Assault Division: Spore Burst Strain U5A deploys to *Crimsica* (2025-09-13 08:42  UTC)<br/>
 
 ### Day: #584
  Decay: 0.0 on Crimsica
@@ -11750,60 +11755,102 @@ Assault Division: Spore Burst Strain U5A deploys to *Crimsica* (2025-09-13 08:42
  Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
  (2025-09-13 09:00  UTC)<br/>
 *Hellmire* defense is won (2025-09-13 17:08  UTC)<br/>
-↳DSS deploys to *Crimsica* of the Draco sector (2025-09-13 17:08  UTC)<br/>
-*Crimsica* Region 0 LIL'OME Settlement has fallen to Humans (2025-09-13 18:50  UTC)<br/>
+Assault Division: Predator Strain U5A is routed from Hellmire (2025-09-13 17:08  UTC)<br/>
+Assault Division: Hive Lords U1B is routed from Hellmire (2025-09-13 17:08  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-09-13 17:08  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-09-13 18:50  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-13 18:50  UTC)<br/>
-Assault Division: Predator Strain U5A is routed from Hellmire (2025-09-13 23:23  UTC)<br/>
-Assault Division: HIVE LORDS U1B is routed from Hellmire (2025-09-13 23:24  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2025-09-13 23:27  UTC)<br/>
-DSS effect ORBITAL BLOCKADE starts (2025-09-13 23:49  UTC)<br/>
+Assault Division: Spore Burst Strain U5B deploys to *Gacrux* (2025-09-13 23:27  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-09-13 23:49  UTC)<br/>
  Decay: 0.0 on Gacrux
  (2025-09-13 23:49  UTC)<br/>
 DSS deploys to *Gacrux* of the Jin Xi sector (2025-09-14 05:47  UTC)<br/>
 
 ### Day: #585
 *Crimsica* defense is won (2025-09-14 12:22  UTC)<br/>
+Assault Division: Spore Burst Strain U5A is routed from Crimsica (2025-09-14 12:22  UTC)<br/>
  Decay: 1.5 on Crimsica
  (2025-09-14 14:00  UTC)<br/>
-Assault Division: Rupture Strain U2A deploys to *Hellmire* (2025-09-14 15:41  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-14 15:42  UTC)<br/>
+Assault Division: Rupture Strain U2A deploys to *Hellmire* (2025-09-14 15:42  UTC)<br/>
  Decay: 0.0 on Hellmire
  (2025-09-14 16:00  UTC)<br/>
 *Gacrux* defense is won (2025-09-14 18:59  UTC)<br/>
+Assault Division: Spore Burst Strain U5B is routed from Gacrux (2025-09-14 18:59  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-14 18:59  UTC)<br/>
-Dispatch:  ARSENAL AUGMENTATION ENDED  Flamethrower Stratagem availability has now ended. (2025-09-14 20:53  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Flamethrower Stratagem availability has now ended. (2025-09-14 20:53  UTC)<br/>
  Decay: 1.0 on Gacrux
  (2025-09-14 20:53  UTC)<br/>
-DSS effect ORBITAL BLOCKADE ends (2025-09-14 23:50  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-09-14 23:50  UTC)<br/>
 *Hellmire* defense is won (2025-09-15 08:59  UTC)<br/>
+Assault Division: Rupture Strain U2A is routed from Hellmire (2025-09-15 08:59  UTC)<br/>
+Major Order | A2-9-2 Defend Against 7 Terminid Attacks is won | Objective: Defend (2025-09-15 08:59  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-09-15 08:59  UTC)<br/>
 
 ### Day: #586
-Dispatch:  MAJOR ORDER WON  The outpouring of Terminids from the Gloom appears to have subsided. The damage has been severe, but thanks to the swift intervention of the Helldivers, the worst has been prevented. Consult your Galactic Map for more details. (2025-09-15 09:03  UTC)<br/>
-Major Order | A2-9-2 Defend Against 7 Terminid Attacks is won | Objective: Defend (2025-09-15 09:04  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The outpouring of Terminids from the Gloom appears to have subsided. The damage has been severe, but thanks to the swift intervention of the Helldivers, the worst has been prevented. Consult your Galactic Map for more details. (2025-09-15 09:03  UTC)<br/>
 *Overgoe Prime* is overtaken by the Gloomwall (2025-09-15 11:21  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-15 11:21  UTC)<br/>
+*Socorro III* is no longer unobservable (2025-09-15 12:27  UTC)<br/>
+*Erson Sands* is no longer unobservable (2025-09-15 12:27  UTC)<br/>
 *Esker* is lightly enveloped by the Gloom (2025-09-15 12:31  UTC)<br/>
-Dispatch: GLOOM SPREAD DETECTED.  The Gloom is spreading amongst Terminid-occupied worlds. ESKER is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-15 12:35  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. ESKER is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-15 12:35  UTC)<br/>
  Decay: 4.0 on Overgoe Prime
  (2025-09-15 14:00  UTC)<br/>
 *Terrek* is liberated (2025-09-15 16:42  UTC)<br/>
 ↳ *Bore Rock* liberation campaign starts (2025-09-15 16:42  UTC)<br/>
-↳ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-15 16:42  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-15 16:42  UTC)<br/>
 *Cirrus* decay rate changes to -0.5% per hour (2025-09-15 16:42  UTC)<br/>
  Decay: -0.5 on Cirrus
  (2025-09-15 18:00  UTC)<br/>
  Decay: 0.25 on Seyshel Beach
  (2025-09-15 20:00  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-09-15 21:48  UTC)<br/>
-*Seyshel Beach* Region 3 NEW ALEXANDRIA MegaCity has fallen to Humans (2025-09-16 02:25  UTC)<br/>
-Dispatch: NEW ALEXANDRIA SECURED.  A small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandria, a city on the planet *Seyshel Beach*.  While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all. (2025-09-16 02:34  UTC)<br/>
+*Seyshel Beach* Region 3 New Alexandria Megacity has fallen to Humans (2025-09-16 02:25  UTC)<br/>
+Dispatch: NEW ALEXANDRIA SECURED. A small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandria, a city on the planet *Seyshel Beach*. While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all. (2025-09-16 02:34  UTC)<br/>
 
 ### Day: #587
-Major Order | A2-9-4 Automaton Mining Liberation is issued | Objective: Liberate-Hold (2025-09-16 13:40  UTC)<br/>
-Dispatch:  NEW MAJOR ORDER.  While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies.  Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven.  The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
+Major Order | A2-9-4 Automaton Mining Liberation is issued | Objective: Liberate/Control (2025-09-16 13:40  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies. Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven. The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-16 13:48  UTC)<br/>
 *Mintoria* of the Gellert sector is established as a Ultramafic Mine POI (2025-09-16 15:53  UTC)<br/>
-*Clasa* Region 0 SYCAMORE GARDENS Settlement has fallen to Humans (2025-09-16 17:05  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement has fallen to Humans (2025-09-16 17:05  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2025-09-16 17:48  UTC)<br/>
+*Clasa* Region 1 Kodiak Falls Town is besieged by Humans (2025-09-16 20:02  UTC)<br/>
+*Cirrus* is liberated (2025-09-17 01:25  UTC)<br/>
+Orion sector is fully under Human control (2025-09-17 01:25  UTC)<br/>
+*Clasa* Region 1 Kodiak Falls Town has fallen to Humans (2025-09-17 01:57  UTC)<br/>
+ Decay: 0.5 on Cirrus
+ (2025-09-17 01:57  UTC)<br/>
+
+### Day: #588
+*Socorro III* is overtaken by the Gloomwall (2025-09-17 11:48  UTC)<br/>
+*Clasa* Region 2 Voting District F-012357 City is besieged by Humans (2025-09-17 12:36  UTC)<br/>
+Assault Division: Dragonroaches U1C leaves *Fori Prime* (2025-09-17 12:44  UTC)<br/>
+Assault Division: Rupture Strain U1D leaves *Fori Prime* (2025-09-17 12:44  UTC)<br/>
+Assault Division: Rupture Strain U1E leaves *Nivel 43* (2025-09-17 12:45  UTC)<br/>
+Assault Division: Spore Burst Strain U6A deploys to *Fori Prime* (2025-09-17 12:46  UTC)<br/>
+Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4H] (2025-09-17 12:46  UTC)<br/>
+Assault Division: Spore Burst Strain U4H deploys to *Nivel 43* (2025-09-17 12:46  UTC)<br/>
+Assault Division: Dragonroaches U1C deploys to *Fori Prime* (2025-09-17 12:50  UTC)<br/>
+Assault Division: Rupture Strain U1C leaves *Oshaune* (2025-09-17 16:00  UTC)<br/>
+Assault Division: Predator Strain U7A deploys to *Oshaune* (2025-09-17 16:01  UTC)<br/>
+Dispatch: TERMINID RUPTURE STRAIN RECEDING. Frontline units have reported a sudden disappearance of Terminid Rupture Strain specimens. The subterranean enemy has caused significant degradation of SEAF performance and severe lapses in expended Firepower Per Second among SEAF units. However, the Helldivers have dispatched the strain with ease, inflicting significant casualties upon the enemy, likely precipitating a survival instinct to flee in terror. (2025-09-17 18:10  UTC)<br/>
+*Clasa* is liberated (2025-09-18 00:06  UTC)<br/>
+↳ *Demiurg* liberation campaign starts (2025-09-18 00:06  UTC)<br/>
+↳ *Yed Prior* liberation campaign starts (2025-09-18 00:06  UTC)<br/>
+↳ *Zefia* liberation campaign starts (2025-09-18 00:06  UTC)<br/>
+*Demiurg* decay rate changes to -0.5% per hour (2025-09-18 00:06  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-18 00:06  UTC)<br/>
+ Decay: -0.5 on Demiurg
+ (2025-09-18 02:00  UTC)<br/>
+DSS deploys to *Zefia* of the Tanis sector (2025-09-18 05:49  UTC)<br/>
+Dispatch: CLASA LIBERATED. CLASA has been liberated. The Helldivers are one step closer to liberating MINTORIA. (2025-09-18 06:18  UTC)<br/>
+Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is issued | Objective: Liberate (2025-09-18 08:08  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. The jolly workhands of our weapons manufacturers are eager to help strike back at the Gloom. However, no currently available materiel can be spared to facilitate their proposed increase in productivity. Valyria 5 is home to the original Emancipator Exosuit factory. Underground storage bunkers on the planet may still contain Exosuit parts. The surface of *Choepessa IV* remains bestrewn with exploded and unexploded ordnance from the first Galactic War, which could be repurposed into Orbital munitions. The Helldivers are ordered to liberate one of these two planets, in order to secure materials for our indefatigable working heroes' extracurricular initiative. (2025-09-18 08:08  UTC)<br/>
+
+### Day: #589
+DSS effect Heavy Ordnance Distribution is activated (2025-09-18 10:25  UTC)<br/>
