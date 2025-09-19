@@ -11854,3 +11854,17 @@ Dispatch: NEW STRATEGIC OPPORTUNITY. The jolly workhands of our weapons manufact
 
 ### Day: #589
 DSS effect Heavy Ordnance Distribution is activated (2025-09-18 10:25  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-09-18 13:50  UTC)<br/>
+*Zefia* is liberated (2025-09-18 23:42  UTC)<br/>
+↳ *Mintoria* liberation campaign starts (2025-09-18 23:42  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement is besieged by Humans (2025-09-18 23:42  UTC)<br/>
+Dispatch: ZEFIA LIBERATED. ZEFIA has been liberated. The high-tech mine on MINTORIA is within reach. (2025-09-19 00:56  UTC)<br/>
+ Decay: 1.5 on Zefia
+ (2025-09-19 00:56  UTC)<br/>
+ Region Decay: 0.1 on 207_SEORAKSAN<br/> Region Decay: 0.2 on 207_GYEONGSEONG
+ (2025-09-19 00:56  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2025-09-19 05:50  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement has fallen to Humans (2025-09-19 06:38  UTC)<br/>
+
+# Day: #590
+DSS effect Heavy Ordnance Distribution is activated (2025-09-19 10:26  UTC)<br/>
