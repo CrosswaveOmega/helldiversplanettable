@@ -11868,3 +11868,10 @@ DSS deploys to *Mintoria* of the Gellert sector (2025-09-19 05:50  UTC)<br/>
 
 # Day: #590
 DSS effect Heavy Ordnance Distribution is activated (2025-09-19 10:26  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-09-19 17:56  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town is besieged by Humans (2025-09-19 22:58  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City has fallen to Humans (2025-09-20 00:38  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-09-20 05:51  UTC)<br/>
+
+### Day: #591
+*Mintoria* Region 1 Gyeongseong Town has fallen to Humans (2025-09-20 09:48  UTC)<br/>
