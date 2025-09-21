@@ -11875,3 +11875,23 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-09-20 05:51  UTC)<br/>
 
 ### Day: #591
 *Mintoria* Region 1 Gyeongseong Town has fallen to Humans (2025-09-20 09:48  UTC)<br/>
+DSS effect Eagle Storm stops (2025-09-20 17:56  UTC)<br/>
+*Mintoria* is liberated (2025-09-20 21:27  UTC)<br/>
+↳ *Blistica* liberation campaign starts (2025-09-20 21:27  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign starts (2025-09-20 21:27  UTC)<br/>
+Dispatch: MINTORIA HAS BEEN LIBERATED. Subsurface habitat technologies from the mine on MINTORIA are being dismantled and reverse-engineered. Upon remantling of these repatriated technologies, mining operations are set to resume under the planet's rightful *Super Earth* flag. (2025-09-20 22:31  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-09-20 22:45  UTC)<br/>
+*Hellmire* defense is failed (2025-09-20 22:47  UTC)<br/>
+↳ *Nivel 43* liberation campaign ends (2025-09-20 22:47  UTC)<br/>
+↳ *Oshaune* liberation campaign ends (2025-09-20 22:47  UTC)<br/>
+*Hellmire* of the Mirin sector instantly flips to Human control (2025-09-20 22:48  UTC)<br/>
+↳ *Nivel 43* liberation campaign starts (2025-09-20 22:48  UTC)<br/>
+↳ *Oshaune* liberation campaign starts (2025-09-20 22:48  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-09-20 22:48  UTC)<br/>
+NOTE: The defense campaign was accidentally set to expire in 22 years instead of 24 hours. To correct this, the defense ended as a defeat, was returned to human control and a new campaign was started with the correct time (2025-09-20 22:48  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-09-21 00:00  UTC)<br/>
+*Choepessa IV* Region 2 Ydinkeskusta Megacity is besieged by Humans (2025-09-21 02:29  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-09-21 05:51  UTC)<br/>
+Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (2025-09-21 08:17  UTC)<br/>
