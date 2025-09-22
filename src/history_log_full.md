@@ -11895,3 +11895,26 @@ NOTE: The defense campaign was accidentally set to expire in 22 years instead of
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-21 05:51  UTC)<br/>
 Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (2025-09-21 08:17  UTC)<br/>
+*Hellmire* defense is won (2025-09-21 21:35  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-09-21 21:35  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-09-21 22:00  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2025-09-22 06:59  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement is besieged by Humans (2025-09-22 06:59  UTC)<br/>
+Dispatch: MINTORIA UNDER ATTACK. MINTORIA has come under attack by the Automatons. Helldivers to MINTORIA. (2025-09-22 06:59  UTC)<br/>
+*Mintoria* defense is won (2025-09-22 07:22  UTC)<br/>
+ Decay: 0.0 on Mintoria
+ (2025-09-22 07:22  UTC)<br/>
+ Region Decay: 0.1 on 207_SEORAKSAN<br/> Region Decay: 0.2 on 207_GYEONGSEONG
+ (2025-09-22 07:22  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2025-09-22 07:23  UTC)<br/>
+*Mintoria* defense is won (2025-09-22 07:24  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2025-09-22 07:25  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town is besieged by Humans (2025-09-22 07:25  UTC)<br/>
+NOTE: For unknown reasons the defenses from a lvl 14 24h defense to a lvl 28 20h defense and then to a lvl 28 48h defense (2025-09-22 07:25  UTC)<br/>
+
+### Day: #593
+ Region Decay: 0.05 on 207_SEORAKSAN<br/> Region Decay: 0.05 on 207_GYEONGSEONG
+ (2025-09-22 09:00  UTC)<br/>
+*Esker* is overtaken by the Gloomwall (2025-09-22 11:01  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2025-09-22 13:52  UTC)<br/>
