@@ -11918,3 +11918,26 @@ NOTE: For unknown reasons the defenses from a lvl 14 24h defense to a lvl 28 20h
  (2025-09-22 09:00  UTC)<br/>
 *Esker* is overtaken by the Gloomwall (2025-09-22 11:01  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2025-09-22 13:52  UTC)<br/>
+*Senge 23* Region 0 Exalt Town is now present (2025-09-22 15:26  UTC)<br/>
+Sengre 23 Region 1 Eaglestar Eternal Settlement is now present (2025-09-22 15:26  UTC)<br/>
+*Karlia* Region 0 Adnan City is now present (2025-09-22 15:26  UTC)<br/>
+*Hydrobius* Region 0 Generatorsville City is now present (2025-09-22 15:26  UTC)<br/>
+*Heze Bay* Region 0 Unanimity City is now present (2025-09-22 15:26  UTC)<br/>
+*Heze Bay* Region 1 Unison City is now present (2025-09-22 15:26  UTC)<br/>
+*Heze Bay*'s max health is changed to 1.8m (2025-09-22 15:26  UTC)<br/>
+*Hydrobius*'s max health is changed to 1.4m (2025-09-22 15:26  UTC)<br/>
+*Karlia*'s max health is changed to 1.4m (2025-09-22 15:26  UTC)<br/>
+*Senge 23*'s max health is changed to 1.3m (2025-09-22 15:26  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town has fallen to Humans (2025-09-22 16:04  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement is besieged by Humans (2025-09-23 00:05  UTC)<br/>
+*Mintoria* defense is won (2025-09-23 07:49  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-23 07:49  UTC)<br/>
+
+### Day: #594
+ Decay: 1.5 on Mintoria
+ (2025-09-23 09:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-09-23 12:07  UTC)<br/>
+Major Order | A2-9-4 Automaton Mining Liberation is won | Objective: Liberate/Control (2025-09-23 13:43  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have seized the Automatons' ill-gotten habitat tech, while holding HELLMIRE against the unrelenting onslaught of Terminid marauders. The seized technologies are already being put to use expanding and strengthening Outpost Alpha. When expanded, Gloom Base Alpha will provide much-needed logistical support in the area. It is set to combat adverse effects of the Gloom and help liberation efforts on the nearby Hive World. (2025-09-23 13:53  UTC)<br/>
+Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
+*Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-09-23 15:02  UTC)<br/>
