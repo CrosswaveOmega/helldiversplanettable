@@ -11941,3 +11941,19 @@ Major Order | A2-9-4 Automaton Mining Liberation is won | Objective: Liberate/Co
 Dispatch: MAJOR ORDER WON. The Helldivers have seized the Automatons' ill-gotten habitat tech, while holding HELLMIRE against the unrelenting onslaught of Terminid marauders. The seized technologies are already being put to use expanding and strengthening Outpost Alpha. When expanded, Gloom Base Alpha will provide much-needed logistical support in the area. It is set to combat adverse effects of the Gloom and help liberation efforts on the nearby Hive World. (2025-09-23 13:53  UTC)<br/>
 Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
 *Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-09-23 15:02  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-09-23 21:52  UTC)<br/>
+ Region Decay: 0.2 on 33_BEACHVIEW
+ (2025-09-24 08:00  UTC)<br/>
+
+### Day: #595
+ Region Decay: 0.1 on 33_BEACHVIEW<br/> Region Decay: 0.1 on 33_THE VILLAS
+ (2025-09-24 09:00  UTC)<br/>
+*Alamak VII* Region 1 Ungu City has fallen to Humans (2025-09-24 09:45  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-09-24 09:45  UTC)<br/>
+ Region Decay: 0.2 on 33_THE VILLAS
+ (2025-09-24 10:00  UTC)<br/>
+ Region Decay: 0.2 on 33_THE VILLAS
+ (2025-09-24 10:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-09-24 12:07  UTC)<br/>
+ Region Decay: 0.4 on 33_THE VILLAS
+ (2025-09-24 12:07  UTC)<br/>
