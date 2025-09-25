@@ -11940,6 +11940,7 @@ DSS effect Orbital Blockade is activated (2025-09-23 12:07  UTC)<br/>
 Major Order | A2-9-4 Automaton Mining Liberation is won | Objective: Liberate/Control (2025-09-23 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have seized the Automatons' ill-gotten habitat tech, while holding HELLMIRE against the unrelenting onslaught of Terminid marauders. The seized technologies are already being put to use expanding and strengthening Outpost Alpha. When expanded, Gloom Base Alpha will provide much-needed logistical support in the area. It is set to combat adverse effects of the Gloom and help liberation efforts on the nearby Hive World. (2025-09-23 13:53  UTC)<br/>
 Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. In order to seize the Hive World once and for all, High Command is fast-tracking a number of improvements and augmentations to the Democratic Space Station. KARLIA has the ideal gravitational and atmospheric conditions for these augmentations to be safely applied. However, any attacks on the DSS during augmentation would be disastrous. The Helldivers are ordered to seize KARLIA from the Illuminate, and establish a secure perimeter around the planet. (2025-09-23 14:14  UTC)<br/>
 *Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-09-23 15:02  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-09-23 21:52  UTC)<br/>
  Region Decay: 0.2 on 33_BEACHVIEW
@@ -11957,3 +11958,12 @@ DSS deploys to *Alamak VII* of the Hanzo sector (2025-09-23 21:52  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-09-24 12:07  UTC)<br/>
  Region Decay: 0.4 on 33_THE VILLAS
  (2025-09-24 12:07  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town has fallen to Humans (2025-09-24 17:15  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-09-24 17:15  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement has fallen to Humans (2025-09-24 21:14  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Megacity is besieged by Humans (2025-09-24 23:48  UTC)<br/>
+*Demiurg* is liberated (2025-09-25 00:54  UTC)<br/>
+ Decay: 2.0 on Demiurg
+ (2025-09-25 02:00  UTC)<br/>
+
+### Day: #596
