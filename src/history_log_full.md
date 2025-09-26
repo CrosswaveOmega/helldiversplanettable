@@ -11967,3 +11967,17 @@ DSS effect Orbital Blockade stops (2025-09-24 12:07  UTC)<br/>
  (2025-09-25 02:00  UTC)<br/>
 
 ### Day: #596
+*Alamak VII* Region 3 Filibuster Megacity has fallen to Humans (2025-09-25 23:55  UTC)<br/>
+*Alamak VII* is liberated (2025-09-25 23:56  UTC)<br/>
+↳ *Oasis* liberation campaign starts (2025-09-25 23:56  UTC)<br/>
+↳ *Alaraph* liberation campaign starts (2025-09-25 23:56  UTC)<br/>
+*Oasis* Region 0 Respite City is besieged by Humans (2025-09-25 23:56  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-25 23:56  UTC)<br/>
+ Region Decay: 0.4 on 94_RESPITE
+ (2025-09-26 00:00  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2025-09-26 05:54  UTC)<br/>
+
+### Day: #597
+Minor Order | A2-9-6 Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on VARYLIA 5, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands' Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on OASIS make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (2025-09-26 10:05  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-09-26 12:18  UTC)<br/>
