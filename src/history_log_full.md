@@ -11981,3 +11981,19 @@ DSS deploys to *Alaraph* of the Akira sector (2025-09-26 05:54  UTC)<br/>
 Minor Order | A2-9-6 Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on VARYLIA 5, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands' Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on OASIS make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (2025-09-26 10:05  UTC)<br/>
 *Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-09-26 12:18  UTC)<br/>
+*Alaraph* is liberated (2025-09-27 05:42  UTC)<br/>
+↳ *Genesis Prime* liberation campaign starts (2025-09-27 05:42  UTC)<br/>
+↳ *Hydrobius* liberation campaign starts (2025-09-27 05:42  UTC)<br/>
+↳ *Karlia* liberation campaign starts (2025-09-27 05:42  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-09-27 05:42  UTC)<br/>
+*Genesis Prime* Region 0 Mallstrip Nodes Town is besieged by Humans (2025-09-27 05:42  UTC)<br/>
+*Hydrobius* Region 0 Generatorsville City is besieged by Humans (2025-09-27 05:42  UTC)<br/>
+*Karlia* Region 0 Adnan City is besieged by Humans (2025-09-27 05:42  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2025-09-27 05:42  UTC)<br/>
+ Region Decay: 0.2 on 95_MALLSTRIP NODES<br/> Region Decay: 0.4 on 95_BIRTH<br/> Region Decay: 0.4 on 184_GENERATORSVILLE<br/> Region Decay: 0.4 on 185_ADNAN
+ (2025-09-27 06:00  UTC)<br/>
+ Region Decay: 0.2 on 95_MALLSTRIP NODES<br/> Region Decay: 0.4 on 95_BIRTH<br/> Region Decay: 0.4 on 184_GENERATORSVILLE<br/> Region Decay: 0.4 on 185_ADNAN
+ (2025-09-27 06:00  UTC)<br/>
+
+### Day: #598
+DSS deploys to *Hydrobius* of the Omega sector (2025-09-27 09:54  UTC)<br/>
