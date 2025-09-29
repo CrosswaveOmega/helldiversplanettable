@@ -1035,9 +1035,9 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
  Decay: 2.5 on Terminid worlds<br/> Decay: 3.0 on Turing
  (2024-05-02 09:00  UTC)<br/>
 *Oshaune* defense is failed (2024-05-02 18:50  UTC)<br/>
-↳ Mirin sector is fully under Terminid control (2024-05-02 18:50  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-05-02 18:50  UTC)<br/>
 ↳ *Omicron* liberation campaign ends (2024-05-02 18:50  UTC)<br/>
+↳ Mirin sector is fully under Terminid control (2024-05-02 18:50  UTC)<br/>
  Decay: 2.5 on Oshaune
  (2024-05-02 20:00  UTC)<br/>
 *Penta* defense is failed (2024-05-03 08:00  UTC)<br/>
@@ -11997,3 +11997,17 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-09-27 05:42  UTC)<br/>
 
 ### Day: #598
 DSS deploys to *Hydrobius* of the Omega sector (2025-09-27 09:54  UTC)<br/>
+*Hydrobius* Region 0 Generatorsville City has fallen to Humans (2025-09-28 00:41  UTC)<br/>
+
+### Day: #599
+Minor Order | A2-9-6 Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the Jolly Weapons Workhands' Extracurricular Initiative. Weapons production will proceed according to schedule, without beneficial increases in scope. (2025-09-28 10:12  UTC)<br/>
+Dispatch: MERIDIA RE-OPENED FOR OBSERVATION. The *Meridia*n Singularity has been re-opened for patriotic observation. All Helldivers are authorized to visit the former planet to contemplate the immense loss inflicted upon our society by the enemies of Freedom, and the imperative for merciless Justice thereby implied. (2025-09-28 14:56  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-09-28 17:58  UTC)<br/>
+Assault Division: Predator Strain U7A divides into 2 groups [U7A, U7B] (2025-09-28 17:58  UTC)<br/>
+Assault Division: Predator Strain U7B deploys to *Hellmire* (2025-09-28 17:58  UTC)<br/>
+Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom. (2025-09-28 17:58  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-09-28 20:00  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-09-29 01:55  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-09-29 07:50  UTC)<br/>
