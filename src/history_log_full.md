@@ -11895,6 +11895,8 @@ NOTE: The defense campaign was accidentally set to expire in 22 years instead of
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-21 05:51  UTC)<br/>
 Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (2025-09-21 08:17  UTC)<br/>
+
+### Day: #592
 *Hellmire* defense is won (2025-09-21 21:35  UTC)<br/>
 DSS deploys to *Choepessa IV* of the Trigon sector (2025-09-21 21:35  UTC)<br/>
  Decay: 1.0 on Hellmire
@@ -12011,3 +12013,23 @@ Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack.
  (2025-09-28 20:00  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-29 01:55  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-09-29 07:50  UTC)<br/>
+
+# Day: #600
+ Region Decay: 0.2 on 185_ADNAN
+ (2025-09-29 09:00  UTC)<br/>
+*Hydrobius* is liberated (2025-09-29 12:27  UTC)<br/>
+↳ *Heze Bay* liberation campaign starts (2025-09-29 12:27  UTC)<br/>
+↳ *Senge 23* liberation campaign starts (2025-09-29 12:27  UTC)<br/>
+↳ *Setia* liberation campaign starts (2025-09-29 12:27  UTC)<br/>
+*Heze Bay* Region 0 Unanimity City is besieged by Humans (2025-09-29 12:27  UTC)<br/>
+*Senge 23* Region 1 Eaglestar Eternal Settlement is besieged by Humans (2025-09-29 12:27  UTC)<br/>
+*Hellmire* defense is won (2025-09-29 12:39  UTC)<br/>
+Assault Division: Predator Strain U7B is routed from Hellmire (2025-09-29 12:39  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2025-09-29 12:39  UTC)<br/>
+ Decay: -0.5 on Karlia
+ (2025-09-29 12:39  UTC)<br/>
+ Region Decay: 0.4 on 182_UNANIMITY<br/> Region Decay: 0.4 on 182_UNISON<br/> Region Decay: 0.2 on 228_EXALT<br/> Region Decay: 0.1 on 228_EAGLESTAR ETERNAL
+ (2025-09-29 12:39  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-09-29 14:00  UTC)<br/>
+*Karlia* Region 0 Adnan City has fallen to Human (2025-09-29 22:39  UTC)<br/>
