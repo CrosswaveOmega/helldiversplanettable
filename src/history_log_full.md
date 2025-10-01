@@ -12056,3 +12056,11 @@ DSS deploys to *Turing* of the Umlaut sector (2025-09-30 18:17  UTC)<br/>
  Region Decay: 0.3 on 33_THE VILLAS
  (2025-09-30 21:37  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. ESTANU is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-30 23:51  UTC)<br/>
+*Turing* Region 2 PERIWINKLE MILLS City is besieged by Terminid (2025-10-01 02:55  UTC)<br/>
+
+### Day: #602
+ Decay: 2.5 on Tarsh
+ (2025-10-01 10:00  UTC)<br/>
+Major Order | A2-10-1 Acquire Critical Automaton Intel is issued| Objective: Liberate (2025-10-01 14:11  UTC)<br/>
+Dispatch: NEW MAJOR ORDER.  Keys to unlock critical Automaton data are located on MENKENT and AESIR PASS. The encryption key on MENKENT would unlock intel regarding Vessel 00; the cache on AESIR PASS would unlock intel regarding the Nucleus.  The Automatons will purge all data from one site as soon as the other is compromised. Only one encryption key can be recovered.  The Helldivers must choose whether to liberate MENKENT or AESIR PASS. (2025-10-01 14:12  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2025-10-01 16:55  UTC)<br/>
