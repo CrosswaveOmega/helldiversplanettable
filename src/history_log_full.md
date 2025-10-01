@@ -12013,6 +12013,7 @@ Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack.
  (2025-09-28 20:00  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-29 01:55  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-09-29 07:50  UTC)<br/>
+DSS effect Eagle Storm stops (2025-09-29 07:51  UTC)<br/>
 
 # Day: #600
  Region Decay: 0.2 on 185_ADNAN
@@ -12023,6 +12024,7 @@ DSS effect Eagle Storm is activated (2025-09-29 07:50  UTC)<br/>
 ↳ *Setia* liberation campaign starts (2025-09-29 12:27  UTC)<br/>
 *Heze Bay* Region 0 Unanimity City is besieged by Humans (2025-09-29 12:27  UTC)<br/>
 *Senge 23* Region 1 Eaglestar Eternal Settlement is besieged by Humans (2025-09-29 12:27  UTC)<br/>
+*Karlia* decay rate changes to -0.36% per hour (2025-09-29 12:27  UTC)<br/>
 *Hellmire* defense is won (2025-09-29 12:39  UTC)<br/>
 Assault Division: Predator Strain U7B is routed from Hellmire (2025-09-29 12:39  UTC)<br/>
 DSS deploys to *Karlia* of the Omega sector (2025-09-29 12:39  UTC)<br/>
@@ -12033,3 +12035,24 @@ DSS deploys to *Karlia* of the Omega sector (2025-09-29 12:39  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-29 14:00  UTC)<br/>
 *Karlia* Region 0 Adnan City has fallen to Human (2025-09-29 22:39  UTC)<br/>
+*Karlia* is liberated (2025-09-30 08:41  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-09-30 08:41  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2025-09-30 08:50  UTC)<br/>
+Dispatch: KARLIA LIBERATED. KARLIA has been liberated. The DSS has been warped to the planet. Engineers have begun upgrading the DSS. (2025-09-30 08:50  UTC)<br/>
+
+### Day: #601
+ Decay: 1.5 on Karlia
+ (2025-09-30 09:00  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is besieged by Automatons (2025-09-30 12:28  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-09-30 12:28  UTC)<br/>
+*Partion* is lightly enveloped by the Gloom (2025-09-30 12:29  UTC)<br/>
+*Estanu* is lightly enveloped by the Gloom (2025-09-30 12:30  UTC)<br/>
+Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is won | Objective: Control (2025-09-30 14:15  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Automatons (2025-09-30 14:24  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-09-30 16:54  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. PARTION is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-30 17:45  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-09-30 18:17  UTC)<br/>
+*Turing* Region 1 Carbondale Town has fallen to Humans (2025-09-30 21:37  UTC)<br/>
+ Region Decay: 0.3 on 33_THE VILLAS
+ (2025-09-30 21:37  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. ESTANU is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-30 23:51  UTC)<br/>
