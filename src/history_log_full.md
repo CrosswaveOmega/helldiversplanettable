@@ -12071,3 +12071,6 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-10-01 18:18  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-10-01 22:19  UTC)<br/>
 
 ### Day: #603
+DSS effect Orbital Blockade is activated (2025-10-02 15:43  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity has fallen to Humans (2025-10-03 01:15  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2025-10-03 01:15  UTC)<br/>
