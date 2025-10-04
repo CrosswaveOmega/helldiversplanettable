@@ -12074,3 +12074,30 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-10-01 22:19  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-10-02 15:43  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest Megacity has fallen to Humans (2025-10-03 01:15  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town is besieged by Humans (2025-10-03 01:15  UTC)<br/>
+
+### Day: #604
+*Lesath* Region 0 Serenity Summit Town has fallen to Humans (2025-10-03 09:11  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2025-10-03 09:11  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Tarsh* (2025-10-03 12:11  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Vernen Wells* (2025-10-03 12:12  UTC)<br/>
+Assault Division: Incineration Corps U5B leaves *Vernen Wells* (2025-10-03 13:29  UTC)<br/>
+ Decay: 1.5 on Tarsh<br/> Decay: 3.0 on Vernen Wells
+ (2025-10-03 13:29  UTC)<br/>
+Assault Division: Incineration Corps U5B deploys to *Menkent* (2025-10-03 13:30  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-10-03 15:44  UTC)<br/>
+ Decay: 2.0 on Vernen Wells<br/> Decay: 3.0 on Menkent
+ (2025-10-03 15:44  UTC)<br/>
+*Lesath* is liberated (2025-10-04 08:13  UTC)<br/>
+↳ *Vernen Wells* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
+↳ *Vernen Wells* Region 2 ANNE'S VIGIL Town is besieged by Humans (2025-10-04 08:13  UTC)<br/>
+↳ *Penta* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
+↳DSS deploys to *Turing* of the Umlaut sector (2025-10-04 08:13  UTC)<br/>
+
+### Day: #605
+ Decay: -0.5 on Vog-Sojoth
+ (2025-10-04 09:00  UTC)<br/>
+ Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL
+ (2025-10-04 09:00  UTC)<br/>
+DSS deploys to *Menkent* of the Hydra sector (2025-10-04 14:22  UTC)<br/>
