@@ -12087,13 +12087,16 @@ Assault Division: Incineration Corps U5B deploys to *Menkent* (2025-10-03 13:30 
 DSS effect Orbital Blockade stops (2025-10-03 15:44  UTC)<br/>
  Decay: 2.0 on Vernen Wells<br/> Decay: 3.0 on Menkent
  (2025-10-03 15:44  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City has fallen to Humans (2025-10-04 00:30  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2025-10-04 00:30  UTC)<br/>
 *Lesath* is liberated (2025-10-04 08:13  UTC)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
-↳ *Vernen Wells* Region 2 ANNE'S VIGIL Town is besieged by Humans (2025-10-04 08:13  UTC)<br/>
 ↳ *Penta* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2025-10-04 08:13  UTC)<br/>
-↳DSS deploys to *Turing* of the Umlaut sector (2025-10-04 08:13  UTC)<br/>
+*Vernen Wells* Region 2 Anne's Vigil Town is besieged by Humans (2025-10-04 08:13  UTC)<br/>
+*Vog-Sojoth* decay rate changes to -0.42% per hour (2025-10-04 08:13  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-10-04 08:13  UTC)<br/>
 
 ### Day: #605
  Decay: -0.5 on Vog-Sojoth
