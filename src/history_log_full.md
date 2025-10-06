@@ -12104,3 +12104,11 @@ DSS deploys to *Turing* of the Umlaut sector (2025-10-04 08:13  UTC)<br/>
  Region Decay: 0.1 on 112_BLACKVEIN MINES<br/> Region Decay: 0.2 on 112_BENEVOLENCE<br/> Region Decay: 0.2 on 112_ANNE'S VIGIL
  (2025-10-04 09:00  UTC)<br/>
 DSS deploys to *Menkent* of the Hydra sector (2025-10-04 14:22  UTC)<br/>
+
+### Day: #606
+*Menkent* is liberated (2025-10-05 21:47  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2025-10-05 21:47  UTC)<br/>
+Assault Division: Incineration Corps U5B is routed from Menkent (2025-10-05 21:47  UTC)<br/>
+Major Order | A2-10-1 Acquire Critical Automaton Intel is won | Objective: Liberate (2025-10-05 21:47  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-10-05 21:48  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have liberated MENKENT from the Automatons. The encryption key identified by intel has been secured and transmitted, and used to de-encrypt files from Database One concerning Vessel 00. Consult the Galactic Map for more information. (2025-10-05 21:49  UTC)<br/>
