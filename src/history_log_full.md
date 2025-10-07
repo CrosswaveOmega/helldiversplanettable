@@ -12112,3 +12112,16 @@ Assault Division: Incineration Corps U5B is routed from Menkent (2025-10-05 21:4
 Major Order | A2-10-1 Acquire Critical Automaton Intel is won | Objective: Liberate (2025-10-05 21:47  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-10-05 21:48  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated MENKENT from the Automatons. The encryption key identified by intel has been secured and transmitted, and used to de-encrypt files from Database One concerning Vessel 00. Consult the Galactic Map for more information. (2025-10-05 21:49  UTC)<br/>
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-10-06 00:59  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-10-06 02:24  UTC)<br/>
+*Turing* is liberated (2025-10-06 02:55  UTC)<br/>
+↳ *Achird III* liberation campaign starts (2025-10-06 02:55  UTC)<br/>
+*Achird III* Region 1 Approval City City is besieged by Humans (2025-10-06 02:55  UTC)<br/>
+ Region Decay: 0.2 on 131_TIMELY<br/> Region Decay: 0.4 on 131_APPROVAL CITY<br/> Region Decay: 0.4 on 131_OLD BRANCH
+ (2025-10-06 04:00  UTC)<br/>
+ Region Decay: 0.2 on 131_TIMELY<br/> Region Decay: 0.4 on 131_APPROVAL CITY<br/> Region Decay: 0.4 on 131_OLD BRANCH
+ (2025-10-06 04:00  UTC)<br/>
+
+### Day: #607
+*Estanu* is heavily enveloped by the Gloom (2025-10-06 21:13  UTC)<br/>
+*Partion* is heavily enveloped by the Gloom (2025-10-06 21:15  UTC)<br/>
