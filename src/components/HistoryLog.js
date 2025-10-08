@@ -1067,14 +1067,14 @@ export function ListAll(history, parentCard, mode = 0) {
                     const listItems = each.text.split("<br/>");
                     listItems.forEach((itemString) => {
                         const textElement = document.createElement("span");
-                        textElement.textContent = "+ " + itemString;
-                        parentCard.appendChild(make_mo_link(textElement));
+                        textElement.textContent = make_mo_link("+ " + itemString);
+                        parentCard.appendChild(textElement);
                         parentCard.appendChild(document.createElement("br"));
                     });
                 } else {
                     const textElement = document.createElement("span");
-                    textElement.textContent = each.text;
-                    parentCard.appendChild(make_mo_link(textElement));
+                    textElement.textContent = make_mo_link(each.text);
+                    parentCard.appendChild(textElement);
                     parentCard.appendChild(document.createElement("br"));
                 }
             }
