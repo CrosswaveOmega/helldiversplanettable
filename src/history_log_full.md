@@ -7,10 +7,11 @@ sidebar: true
 
 Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA) and Kejax's [War History Api](https://github.com/helldivers-2/War-History-API), this would not be possible without either of them.
 
+See [The Helldivers Wiki's Major Orders Page](https://helldivers.wiki.gg/wiki/Major_Orders) for more details on the Major Orders.
 
 
 # Day: #1
-Major Order | A1-2-1 Operation Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
+Major Order | [A1-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-1) Operation Valiant Enclosure is issued | Objective: Liberate (2024-02-08 09:00  UTC)<br/>
 *Heeth* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Angel's Venture* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
 *Malevelon Creek* liberation campaign starts (2024-02-08 09:00  UTC)<br/>
@@ -34,12 +35,12 @@ Major Order | A1-2-1 Operation Valiant Enclosure is issued | Objective: Liberate
 ↳ Orion sector is fully under Human control (2024-02-14 14:07  UTC)<br/>
 ↳ *Meridia* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-02-14 14:07  UTC)<br/>
-↳ Major Order | A1-2-1 Operation Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
+↳ Major Order | [A1-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-1) Operation Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
 
 ### Day: #8
 *Mantes* of the Xzar sector is attacked by Automatons (2024-02-15 12:00  UTC)<br/>
 *Draupnir* of the Xzar sector is attacked by Automatons (2024-02-15 12:08  UTC)<br/>
-Major Order | A1-2-2 Defend 8 from Automatons is issued | Objective: Defend (2024-02-15 12:17  UTC)<br/>
+Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defend 8 from Automatons is issued | Objective: Defend (2024-02-15 12:17  UTC)<br/>
 
 ### Day: #9
 *Ubanea* is liberated (2024-02-16 23:33  UTC)<br/>
@@ -139,10 +140,10 @@ Major Order | A1-2-2 Defend 8 from Automatons is issued | Objective: Defend (202
 ### Day: #22
 *Ingmar* defense is failed (2024-02-29 14:54  UTC)<br/>
 ↳ *Ingmar* liberation campaign starts (2024-02-29 14:54  UTC)<br/>
-Major Order | A1-2-2 Defend 8 from Automatons is failed | Objective: Defend (2024-02-29 15:27  UTC)<br/>
+Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defend 8 from Automatons is failed | Objective: Defend (2024-02-29 15:27  UTC)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-02-29 15:28  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2024-02-29 15:28  UTC)<br/>
-Major Order | A1-2-3 Liberate *Veld* is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
+Major Order | [A1-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-3) Liberate *Veld* is issued | Objective: Liberate (2024-02-29 15:28  UTC)<br/>
 
 ### Day: #23
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
@@ -150,8 +151,8 @@ Major Order | A1-2-3 Liberate *Veld* is issued | Objective: Liberate (2024-02-29
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-03-01 15:51  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-03-01 15:51  UTC)<br/>
 *Veld* is liberated (2024-03-01 20:28  UTC)<br/>
-↳ Major Order | A1-2-3 Liberate *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
-Major Order | A1-3-1 Control *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
+↳ Major Order | [A1-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-3) Liberate *Veld* Containment is won | Objective: Liberate (2024-03-01 20:28  UTC)<br/>
+Major Order | [A1-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-1) Control *Heeth* and *Angel's Venture* is issued | Objective: Control (2024-03-01 20:30  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-03-01 21:04  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-03-01 21:04  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-03-01 21:04  UTC)<br/>
@@ -256,7 +257,7 @@ Dispatch: Terminid spores have engulfed *Heeth* and *Angel's Venture* spawning h
 
 ### Day: #29
 Dispatch: The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset. (2024-03-07 12:15  UTC)<br/>
-Major Order | A1-3-1 Control *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
+Major Order | [A1-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-1) Control *Heeth* and *Angel's Venture* is won | Objective: Control (2024-03-07 13:46  UTC)<br/>
 *Tien Kwan* - *Draupnir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* - *Castor* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Castor* - *Caph* warp link is added (2024-03-07 13:49  UTC)<br/>
@@ -265,7 +266,7 @@ Major Order | A1-3-1 Control *Heeth* and *Angel's Venture* is won | Objective: C
 *Kuper* - *The Weir* warp link is added (2024-03-07 13:49  UTC)<br/>
 *Tien Kwan* of the Theseus sector instantly flips to Automaton control (2024-03-07 13:49  UTC)<br/>
 ↳ *Tien Kwan* liberation campaign starts (2024-03-07 13:49  UTC)<br/>
-Major Order | A1-3-2 Liberate *Tien Kwan* is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
+Major Order | [A1-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-2) Liberate *Tien Kwan* is issued | Objective: Liberate (2024-03-07 13:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate *Tien Kwan*, before its too late. (2024-03-07 14:29  UTC)<br/>
  Decay: 2.0 on Automaton worlds
  (2024-03-07 14:29  UTC)<br/>
@@ -289,7 +290,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  (2024-03-08 14:00  UTC)<br/>
 *Tien Kwan* is liberated (2024-03-08 15:48  UTC)<br/>
 ↳ Theseus sector is fully under Human control (2024-03-08 15:48  UTC)<br/>
-↳ Major Order | A1-3-2 Liberate *Tien Kwan* is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
+↳ Major Order | [A1-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-2) Liberate *Tien Kwan* is won | Objective: Liberate (2024-03-08 15:48  UTC)<br/>
  Decay: 6.5 on Automaton worlds
  (2024-03-08 15:48  UTC)<br/>
 Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (2024-03-08 15:51  UTC)<br/>
@@ -315,7 +316,7 @@ Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Ma
  (2024-03-11 22:00  UTC)<br/>
 
 ### Day: #34
-Major Order | A1-3-3 TCS Activation is issued | Objective: Liberate (2024-03-12 13:46  UTC)<br/>
+Major Order | [A1-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-3) TCS Activation is issued | Objective: Liberate (2024-03-12 13:46  UTC)<br/>
 *Erata Prime* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
 *Fenrir III* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
 *Meridia* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
@@ -362,7 +363,7 @@ Dispatch: MERIDIA SECURED. The Terminid Control System is now fully activated on
  (2024-03-15 20:00  UTC)<br/>
 *Erata Prime* is liberated (2024-03-16 03:50  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-03-16 03:50  UTC)<br/>
-↳ Major Order | A1-3-3 TCS Activation is won | Objective: Liberate (2024-03-16 03:50  UTC)<br/>
+↳ Major Order | [A1-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-3) TCS Activation is won | Objective: Liberate (2024-03-16 03:50  UTC)<br/>
  Decay: 500.0 on Erata Prime
  (2024-03-16 06:00  UTC)<br/>
 Dispatch: ERATA PRIME SECURED. The Terminid Control System is now fully activated on *Erata Prime*. (2024-03-16 07:47  UTC)<br/>
@@ -393,7 +394,7 @@ DSS effect Eagle Storm is activated (2024-03-19 10:41  UTC)<br/>
 ↳ *Fori Prime* liberation campaign ends (2024-03-19 13:47  UTC)<br/>
  Decay: 5.0 on Estanu
  (2024-03-19 13:47  UTC)<br/>
-Major Order | A1-3-4 Liberate *Zagon Prime* and *Fori Prime* is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
+Major Order | [A1-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-4) Liberate *Zagon Prime* and *Fori Prime* is issued | Objective: Liberate (2024-03-19 16:13  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets. (2024-03-19 16:13  UTC)<br/>
  Decay: 3.0 on Terminid worlds
  (2024-03-19 18:00  UTC)<br/>
@@ -417,9 +418,9 @@ Dispatch: INTELLIGENCE BRIEF. A new strain of flying Terminids has suddenly appe
  (2024-03-21 18:00  UTC)<br/>
 
 ### Day: #44
-Major Order | A1-3-4 Liberate *Zagon Prime* and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
+Major Order | [A1-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-4) Liberate *Zagon Prime* and *Fori Prime* Liberation is failed | Objective: Liberate (2024-03-22 12:21  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Though many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered. The expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice. (2024-03-22 12:21  UTC)<br/>
-Major Order | A1-3-5 CBCT Protection is issued | Objective: Control (2024-03-22 13:01  UTC)<br/>
+Major Order | [A1-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-5) CBCT Protection is issued | Objective: Control (2024-03-22 13:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete. (2024-03-22 13:01  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-03-22 14:35  UTC)<br/>
 
@@ -476,10 +477,10 @@ Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in 
 *Maia* - *Vandalon IV* warp link is removed (2024-03-26 04:06  UTC)<br/>
 
 ### Day: #48
-Major Order | A1-3-5 CBCT Protection is won | Objective: Control (2024-03-26 13:07  UTC)<br/>
+Major Order | [A1-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-5) CBCT Protection is won | Objective: Control (2024-03-26 13:07  UTC)<br/>
 Dispatch: MAJOR ORDER SUCCEEDED. The last of the crude solid E-710 has been collected, processed, and shipped off-planet, providing a healthy boost to our colony settlement efforts. The planets can now be left behind to allow the Terminids to repopulate—under careful supervision. (2024-03-26 13:18  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Interrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called "The Reclamation," which appears to be a massive invasion of unprecedented scale. Further details are scarce. In response, High Command has authorized OPERATION SWIFT DISASSEMBLY. The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success. (2024-03-26 14:48  UTC)<br/>
-Major Order | A1-3-6 Operation Swift Disassembly Phase One is issued | Objective: Liberate (2024-03-26 14:48  UTC)<br/>
+Major Order | [A1-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-6) Operation Swift Disassembly Phase One is issued | Objective: Liberate (2024-03-26 14:48  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY. PHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans. (2024-03-26 14:48  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-03-26 21:02  UTC)<br/>
 *Mantes* is liberated (2024-03-26 21:12  UTC)<br/>
@@ -519,12 +520,12 @@ Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the A
  (2024-03-29 09:00  UTC)<br/>
 *Troost* is liberated (2024-03-29 12:39  UTC)<br/>
 ↳ Trigon sector is fully under Human control (2024-03-29 12:39  UTC)<br/>
-↳ Major Order | A1-3-6 Operation Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39  UTC)<br/>
+↳ Major Order | [A1-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-6) Operation Swift Disassembly Phase One is won | Objective: Liberate (2024-03-29 12:39  UTC)<br/>
 Dispatch: OP SWIFT DISASSEMBLY, PHASE I—COMPLETED. The Automaton Comms Array on *Troost* has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted. However, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry. (2024-03-29 12:47  UTC)<br/>
  Decay: 500.0 on Troost
  (2024-03-29 12:47  UTC)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-03-29 12:51  UTC)<br/>
-Major Order | A1-3-7 Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53  UTC)<br/>
+Major Order | [A1-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-7) Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE II: Reduce Non-Sentient Combatant Production. Intel analysis have identified the planet *Tibit* as the most significant producer of illegal Automaton combatants. Liberating this planet would significantly impact the enemy's capacity to replenish decommissioned socialists. It would also limit further theft of the planet's natural resources from future generations of inarguably sentient humans. (2024-03-29 12:53  UTC)<br/>
 *Omicron* liberation campaign ends (2024-03-29 13:47  UTC)<br/>
 Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-29 19:01  UTC)<br/>
@@ -565,20 +566,20 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  (2024-04-01 04:00  UTC)<br/>
 
 ### Day: #54
-Major Order | A1-3-7 Operation Swift Disassembly Phase Two is failed | Objective: Liberate (2024-04-01 13:00  UTC)<br/>
+Major Order | [A1-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-7) Operation Swift Disassembly Phase Two is failed | Objective: Liberate (2024-04-01 13:00  UTC)<br/>
 Dispatch: OP SWIFT DISASSEMBLY, PHASE II—FAILED. The Automatons have retained *Tibit*, and its manufacturing facilities. Reports indicate they have already begun increasing production elsewhere. Intercepted bot chatter includes expressions of great sorrow for the "murder" of in-development bots—a transparent attempt at disinformation, as bots can neither feel nor be considered alive. However, the simulated oaths of vengeance may indicate actual strategic intent. A counteroffensive is likely. (2024-04-01 13:00  UTC)<br/>
-Major Order | A1-4-1 Liberate *Malevelon Creek* is issued | Objective: Liberate (2024-04-01 13:04  UTC)<br/>
+Major Order | [A1-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-1) Liberate *Malevelon Creek* is issued | Objective: Liberate (2024-04-01 13:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Several weeks ago, our citizens watched in horror as *Malevelon Creek* fell to the Automatons. Millions of valiant heroes perished attempting to defend it. For too long, the bots have maintained their illegal occupation, desecrating the memory of the fallen by rapidly depleting the planet's exceptionally rich rhodium deposits. This travesty will be allowed to continue no longer. Take vengeance for the fallen. Honor our heroes. End the theft of valuable minerals. Liberate *Malevelon Creek*. (2024-04-01 13:04  UTC)<br/>
  Decay: 1.5 on Severin sector
  (2024-04-01 14:00  UTC)<br/>
 *Malevelon Creek* is liberated (2024-04-01 17:22  UTC)<br/>
 ↳ *Maia* liberation campaign starts (2024-04-01 17:22  UTC)<br/>
-↳ Major Order | A1-4-1 Liberate *Malevelon Creek* is won | Objective: Liberate (2024-04-01 17:22  UTC)<br/>
+↳ Major Order | [A1-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-1) Liberate *Malevelon Creek* is won | Objective: Liberate (2024-04-01 17:22  UTC)<br/>
 Dispatch: MALEVELON CREEK LIBERATED. At long last, *Malevelon Creek* is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them. Colonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek. (2024-04-01 17:32  UTC)<br/>
  Decay: 500.0 on Malevelon Creek
  (2024-04-01 17:32  UTC)<br/>
 *Ubanea* of the Severin sector is attacked by Automatons (2024-04-01 17:33  UTC)<br/>
-Major Order | A1-4-2 Operation Swift Disassembly Phase Three is issued | Objective: Control (2024-04-01 17:44  UTC)<br/>
+Major Order | [A1-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-2) Operation Swift Disassembly Phase Three is issued | Objective: Control (2024-04-01 17:44  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-01 17:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Automatons, clearly having calculated their impending shutdown, have put their remaining resources into a large-scale counterattack. Desperate as it is, should this re-invasion succeed, it may jeopardize our ability to destroy the bots in time to prevent their incoming invasion. Hold your ground. (2024-04-01 17:47  UTC)<br/>
 *Ubanea* defense is won (2024-04-02 05:09  UTC)<br/>
@@ -604,9 +605,9 @@ Dispatch: PRESIDENTIAL DECREE. The President of *Super Earth* has officially rec
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-04 07:52  UTC)<br/>
 
 ### Day: #57
-Major Order | A1-4-2 Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15  UTC)<br/>
+Major Order | [A1-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-2) Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15  UTC)<br/>
 Dispatch: OP SWIFT DISASSEMBLY, PHASE III—COMPLETED. The Automaton counterattack has been repelled. They no longer have the resources to sustain an offensive on such a scale. While the timeline of their phaseout has been extended, it remains within reach. (2024-04-04 09:15  UTC)<br/>
-Major Order | A1-4-3 Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27  UTC)<br/>
+Major Order | [A1-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-3) Operation Swift Disassembly Phase Four is issued | Objective: Control (2024-04-04 09:27  UTC)<br/>
 Dispatch: The Automatons have been a thorn in the side of Freedom long enough. Though the Ministry of Intelligence has not yet discovered where they came from, or what they want, we can wait no longer. There is only one sure way to defend our citizens from the bots: total eradication. (2024-04-04 10:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE IV (FINAL): ANNIHILATION. All Helldivers are ordered to make an all-out push to completely destroy the Automaton Legion. Despite the enemy's losses, Automaton messages still include references to "The Reclamation." They must be annihilated before this plan can be carried out. Countless Helldivers gave their lives to acquire this opportunity. Do not let their sacrifices be in vain. Protect our way of life. Destroy the Automatons at any cost. (2024-04-04 10:04  UTC)<br/>
 *Estanu* defense is failed (2024-04-05 07:54  UTC)<br/>
@@ -631,9 +632,9 @@ Dispatch: MOTIVATIONAL REINFORCEMENT. The Automatons are lifeless, emotionless, 
 Dispatch: TIBIT LIBERATED. The factories on *Tibit* have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack. (2024-04-07 17:23  UTC)<br/>
 *Durgen* is liberated (2024-04-07 19:22  UTC)<br/>
 ↳ Severin sector is fully under Human control (2024-04-07 19:22  UTC)<br/>
-↳ Major Order | A1-4-3 Operation Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22  UTC)<br/>
+↳ Major Order | [A1-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-3) Operation Swift Disassembly Phase Four is won | Objective: Control (2024-04-07 19:22  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (2024-04-07 19:30  UTC)<br/>
-Major Order | A1-4-4 Liberate *Hellmire*, *Estanu* and *Crimsica* is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
+Major Order | [A1-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-4) Liberate *Hellmire*, *Estanu* and *Crimsica* is issued | Objective: Liberate (2024-04-07 20:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids contained, the time has come to work towards a more prosperous future for all citizens. To that end, construction of new, safer, and more efficient E-710 farms will soon commence. On these farms, Terminids will be raised in spacious enclosures and enriched with state-of-the-art nutritional supplements, all under careful supervision. Clear the way for the safe construction of the E-710 farms. (2024-04-07 20:06  UTC)<br/>
  Decay: 500.0 on Durgen
  (2024-04-07 20:06  UTC)<br/>
@@ -686,9 +687,9 @@ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
 *Chort Bay* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
 *Menkent* of the Hydra sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-Major Order | A1-4-4 Liberate *Hellmire*, *Estanu* and *Crimsica* is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
+Major Order | [A1-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-4) Liberate *Hellmire*, *Estanu* and *Crimsica* is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02  UTC)<br/>
-Major Order | A1-4-5 The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
+Major Order | [A1-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-5) The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
  Decay: 1.5 on Sten sector, Valdis sector, Lacaille sector, L'estrade sector, Draco sector, Mirin sector
  (2024-04-09 12:02  UTC)<br/>
 *Choohe* - *Matar Bay* warp link is added (2024-04-09 12:15  UTC)<br/>
@@ -699,7 +700,7 @@ Major Order | A1-4-5 The Reclamation is issued | Objective: Defend (2024-04-09 1
 *Charon Prime* - *Charbal-VII* warp link is added (2024-04-09 12:15  UTC)<br/>
 *Matar Bay* - *Martale* warp link is added (2024-04-09 16:16  UTC)<br/>
 Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the Valdis Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (2024-04-09 23:47  UTC)<br/>
-↳ NOTE: This Dispatch is for Operation A1-4-5 (2024-04-09 23:47  UTC)<br/>
+↳ NOTE: This Dispatch is for Operation [A1-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-5) (2024-04-09 23:47  UTC)<br/>
 *Menkent* defense is won (2024-04-10 07:14  UTC)<br/>
 ↳ Hydra sector is fully under Human control (2024-04-10 07:14  UTC)<br/>
 
@@ -742,9 +743,9 @@ Dispatch: SUPER DESTROYER FLEET UPGRADE. In response to increased enemy threat, 
 *Marfark* defense is failed (2024-04-12 11:52  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2024-04-12 11:52  UTC)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-12 11:52  UTC)<br/>
-Major Order | A1-4-5 The Reclamation is failed | Objective: Defend (2024-04-12 11:59  UTC)<br/>
+Major Order | [A1-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-5) The Reclamation is failed | Objective: Defend (2024-04-12 11:59  UTC)<br/>
 Dispatch: MAJOR ORDER LOST. The Automatons have seized control of many innocent and once-beautiful worlds. The valiant and tireless defense raised by the Helldivers was commendable, but it was not enough to stop such a large and cowardly assault. Any colonists not driven from their homes were likely slaughtered, their votes forever lost. (2024-04-12 11:59  UTC)<br/>
-Major Order | A1-4-6 *Menkent* Line is issued | Objective: Control (2024-04-12 12:00  UTC)<br/>
+Major Order | [A1-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-6) *Menkent* Line is issued | Objective: Control (2024-04-12 12:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are ordered to establish and hold the *Menkent* Line, consisting of the planets *Menkent* and *Lesath*. Establishing this defensive line will allow SEAF Engineers to begin construction of orbital defenses on those planets, deterring the advance of the Automaton Fleet and allowing counteroffensive preparations to begin. (2024-04-12 12:00  UTC)<br/>
  Decay: 1.0 on Marfark, Martale
  (2024-04-12 14:00  UTC)<br/>
@@ -786,9 +787,9 @@ Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are or
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-04-16 07:57  UTC)<br/>
 
 ### Day: #69
-Major Order | A1-4-6 *Menkent* Line is won | Objective: Control (2024-04-16 12:09  UTC)<br/>
+Major Order | [A1-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-6) *Menkent* Line is won | Objective: Control (2024-04-16 12:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The defense held. The *Menkent* Line has been established. The Automaton advance has been arrested. Rudimentary orbital defenses have been established along the line, and are being augmented by hardworking SEAF and civilian laborers. Meanwhile, the SEAF Forward Command Base on *Vernen Wells* is up and running, providing fresh recruits and supplies to the front. (2024-04-16 12:09  UTC)<br/>
-Major Order | A1-4-7 *Marfark* defense is issued | Objective: Control (2024-04-16 15:17  UTC)<br/>
+Major Order | [A1-4-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-7) *Marfark* defense is issued | Objective: Control (2024-04-16 15:17  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the *Menkent* Line established, the Automaton Fleet has been forced to divert their plans. Now, they are attempting a concerted effort to punch through at a single planet. The Automatons are likely to muster the entirety of their strength for this endeavor. You must outlast the enemy. Hold the planet, no matter the cost. (2024-04-16 15:17  UTC)<br/>
 Dispatch: INTELLIGENCE BRIEF. The Automatons have deployed a new heavy unit: the Factory Strider. Previously deployed in very limited quantities, likely prototypes, this massive abomination is a walking Automaton fabricator. It is heavily armed and armored, and should be engaged with coordinated firepower and unhesitating aggression. (2024-04-16 16:10  UTC)<br/>
  Decay: 2.0 on Automaton worlds
@@ -805,7 +806,7 @@ Dispatch: INTELLIGENCE BRIEF. The Automatons have deployed a new heavy unit: the
  Decay: 500.0 on Marfark
  (2024-04-17 10:00  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-18 07:37  UTC)<br/>
-Major Order | A1-4-7 *Marfark* Defense is won | Objective: Control (2024-04-18 07:51  UTC)<br/>
+Major Order | [A1-4-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-7) *Marfark* Defense is won | Objective: Control (2024-04-18 07:51  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Invasion Fleet has been repelled. The bots committed much of their reserves to this attack. Even the large-scale deployment of the Factory Strider could not break the resolve of the Helldivers. The situation remains dire. The Automatons still illegally occupy vast swaths of our territory. But with this victory, the Helldivers have won the opportunity to turn back the tide. (2024-04-18 07:51  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-18 07:51  UTC)<br/>
@@ -819,13 +820,13 @@ Dispatch: MAJOR ORDER WON. The Automaton Invasion Fleet has been repelled. The b
 ↳ *Oshaune* liberation campaign starts (2024-04-18 08:55  UTC)<br/>
 
 ### Day: #71
-Major Order | A1-4-8 Gather E-710 from 2B Terminids is issued | Objective: Eradicate (2024-04-18 10:31  UTC)<br/>
+Major Order | [A1-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-8) Gather E-710 from 2B Terminids is issued | Objective: Eradicate (2024-04-18 10:31  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Thanks to the valiant and unceasing defense of the Helldivers, a robust defensive line has been established. This is likely only a temporary respite, while the bots refit in preparation to break through our defenses once more. We now have the opportunity to refuel our war effort. The defense effort depleted our E-710 reserves. In order to allow for a counter-offensive, the Helldivers are ordered to manually produce Terminid corpses for conversion into E-710. (2024-04-18 10:31  UTC)<br/>
  Decay: 500.0 on Fori Prime
  (2024-04-18 10:31  UTC)<br/>
 *Estanu* defense is won (2024-04-18 20:42  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-18 20:42  UTC)<br/>
-Major Order | A1-4-8 Gather E-710 from 2B Terminids is won | Objective: Eradicate (2024-04-18 23:10  UTC)<br/>
+Major Order | [A1-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-8) Gather E-710 from 2B Terminids is won | Objective: Eradicate (2024-04-18 23:10  UTC)<br/>
 
 ### Day: #72
 Dispatch: MAJOR ORDER WON. Valiant work, Helldivers. Thanks to your noble efforts, millions of tons of Terminid biomass has been rendered safe for collection, and is being processed into Element 710 as we speak. This surplus of fuel will enable the transport of weapons, equipment, and personnel to the frontlines of the Automaton fight. We now have the logistical means to enable and sustain an effective counter-offensive against the Automatons. Soon, we will take back lands they stole. (2024-04-19 10:54  UTC)<br/>
@@ -836,7 +837,7 @@ Dispatch: In further proof of their elite training and irreplaceable value, the 
  (2024-04-19 14:00  UTC)<br/>
 *Oshaune* of the Mirin sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
-Major Order | A1-4-9 Defense on Two Fronts Defend 10 is issued | Objective: Defend (2024-04-19 15:07  UTC)<br/>
+Major Order | [A1-4-9](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-9) Defense on Two Fronts Defend 10 is issued | Objective: Defend (2024-04-19 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinister syncronicity, both the Terminids and Automatons have launched large-scale assaults. The Helldivers must now defend our citizens on two fronts at once. (2024-04-19 15:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-04-19 15:08  UTC)<br/>
 *Charon Prime* of the Andromeda sector is attacked by Automatons (2024-04-19 15:09  UTC)<br/>
@@ -948,14 +949,14 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 
 ### Day: #78
 *Ustotu* defense is won (2024-04-25 12:46  UTC)<br/>
-↳ Major Order | A1-4-9 Defense on Two Fronts Defend 10 is won | Objective: Defend (2024-04-25 13:43  UTC)<br/>
+↳ Major Order | [A1-4-9](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-9) Defense on Two Fronts Defend 10 is won | Objective: Defend (2024-04-25 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Freedom has overcome oppression once more. Even the combined might of the Terminids and Automatons was no match for the fierce and obedient resistance of the Helldivers. Though some ground was lost, our enemies are exhausted, their assault broken upon the immovable shield wall of the Helldivers. The fight is far from over, but the light of Liberty shines bright over the worlds of the Federation today. (2024-04-25 13:43  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Terminids (2024-04-25 19:26  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-25 19:26  UTC)<br/>
 
 ### Day: #79
-Major Order | A1-4-10 Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06  UTC)<br/>
+Major Order | [A1-4-10](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-10) Operation Legitimate Undertaking Phase One is issued | Objective: Liberate (2024-04-26 12:06  UTC)<br/>
 Dispatch: NEW OPERATION ORDER: "LEGITIMATE UNDERTAKING". Phase I: Citizen Rescue. Intel has identified surviving citizens on two planets: On *Choohe*, citizens who have proved their loyalty through testing of a new Fortification Stratagem are trapped. On *Penta*, citizens who have synthesized tons of caustic chemicals for a new Support Weapon Stratagem are awaiting rescue. Likely, only the citizens and weaponry of the first planet liberated will be saved. (2024-04-26 12:06  UTC)<br/>
 *Estanu* defense is won (2024-04-26 12:12  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-26 12:12  UTC)<br/>
@@ -979,7 +980,7 @@ Dispatch: PENTA LIBERATED. 90% of *Penta*'s chemical factories have been secured
 *Oshaune* defense is won (2024-04-28 18:38  UTC)<br/>
 
 ### Day: #82
-Major Order | A1-4-10 Operation Legitimate Undertaking Phase One is failed | Objective: Liberate (2024-04-29 12:21  UTC)<br/>
+Major Order | [A1-4-10](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-10) Operation Legitimate Undertaking Phase One is failed | Objective: Liberate (2024-04-29 12:21  UTC)<br/>
 Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their calculated oppression and hardwired avarice, have stymied our valiant efforts to liberate *Choohe*. The loss of the indispensible explosives on the planet will mean significant delays to the production of Anti-Tank Mines. The explosive technicians on *Choohe* have almost certainly been torn to pieces by the vicious blades of the Automatons. All will agree that every possible resource was directed towards their salvation. Their sacrifice is hereby honored. (2024-04-29 12:21  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
@@ -1000,7 +1001,7 @@ Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their ca
 *Meridia* is not accessible despite connecting to the liberated world of *Estanu* (2024-04-29 14:22  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-29 14:22  UTC)<br/>
-Major Order | A1-4-11 Deactivate the TCS is issued | Objective: Liberate (2024-04-29 14:24  UTC)<br/>
+Major Order | [A1-4-11](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-11) Deactivate the TCS is issued | Objective: Liberate (2024-04-29 14:24  UTC)<br/>
 Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Planets. The bugs appear to be showing resistance to Termicide. On *Meridia*, Terminid reproduction rates have exploded overnight. While the mechanism for this adaptation is unclear, it appears to be linked to continued Termicide exposure. It cannot be allowed to spread. The Helldivers are ordered to deactivate the Terminid Control System on the remaining Barrier Planets immediately. (2024-04-29 14:28  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2024-04-29 14:31  UTC)<br/>
  Decay: 3.0 on Terminid worlds
@@ -1065,7 +1066,7 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
  (2024-05-04 14:00  UTC)<br/>
 *Erata Prime* is liberated (2024-05-05 07:06  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-05-05 08:11  UTC)<br/>
-Major Order | A1-4-11 Deactivate the TCS is won | Objective: Liberate (2024-05-05 08:36  UTC)<br/>
+Major Order | [A1-4-11](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-11) Deactivate the TCS is won | Objective: Liberate (2024-05-05 08:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Further calamity has been averted, thanks to the swift and disciplined response of the Helldivers to deactivate the remaining Terminid Control System nodes. With further Termicide dispersement arrested, the remaining Barrier Planets are safe from suffering *Meridia*'s fate. *Meridia* has been classified as a "Supercolony." While the worst has been avoided, with the TCS inoperable and this new Supercolony active, the Terminids are now a greater threat than ever before. (2024-05-05 08:36  UTC)<br/>
 
 ### Day: #88
@@ -1085,7 +1086,7 @@ Dispatch: MAJOR ORDER WON. Further calamity has been averted, thanks to the swif
 *Gacrux* of the Jin Xi sector's warp links are obliterated (2024-05-06 13:48  UTC)<br/>
 *Acamar IV* of the Jin Xi sector instantly flips to Terminid control (2024-05-06 13:48  UTC)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-05-06 13:48  UTC)<br/>
-Major Order | A1-5-1 Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49  UTC)<br/>
+Major Order | [A1-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-1) Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49  UTC)<br/>
 *Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-05-06 13:50  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridia* Supercolony, have erupted on multiple planets. The Supercolony appears to be producing far more Terminid spores than other infested planets, leading to unpredictable outbreaks within its vicinity. The Helldivers must contain these outbreaks immediately, before they spread out of control. (2024-05-06 13:55  UTC)<br/>
  Decay: 3.0 on Heeth, Veld<br/> Decay: 2.5 on Angel's Venture<br/> Decay: 3.5 on Acamar IV
@@ -1127,9 +1128,9 @@ Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridi
 ↳ Orion sector is fully under Human control (2024-05-10 04:48  UTC)<br/>
 
 ### Day: #93
-Major Order | A1-5-1 Supercolony Spore Outbreak is failed | Objective: Liberate (2024-05-10 14:41  UTC)<br/>
+Major Order | [A1-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-1) Supercolony Spore Outbreak is failed | Objective: Liberate (2024-05-10 14:41  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. We have failed to contain all of the outbreaks from the *Meridia* Supercolony. Terminids now infest more of our planets, spawning yet more agents of tyranny. (2024-05-10 14:41  UTC)<br/>
-Major Order | A1-5-2 Decommission Automatons for Anti-Tank Mines is issued | Objective: Eradicate (2024-05-10 14:43  UTC)<br/>
+Major Order | [A1-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-2) Decommission Automatons for Anti-Tank Mines is issued | Objective: Eradicate (2024-05-10 14:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to conduct a forceful, large-scale decommissioning of Automaton forces. The recovered scrap of dismantled bots will then be put towards construction of MD-17 Anti-Tank Mines. (2024-05-10 14:44  UTC)<br/>
 Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield Systems, a contracted defense service: "Battlefield Systems regrets to inform all Helldivers that a software issue has resulted in duplicate reporting of enemies killed during a previous Major Order. The issue has since been resolved. Users should anticipate longer times to reach target numbers of enemies to kill or dismantle. With this issue resolved, rest assured that battlefield tracking will now return to perfect functioning." (2024-05-10 14:48  UTC)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-10 15:31  UTC)<br/>
@@ -1172,10 +1173,10 @@ Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield System
 *Lesath* defense is won (2024-05-15 05:27  UTC)<br/>
 
 ### Day: #98
-Major Order | A1-5-2 Decommission Automatons for Anti-Tank Mines is failed | Objective: Eradicate (2024-05-15 15:03  UTC)<br/>
+Major Order | [A1-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-2) Decommission Automatons for Anti-Tank Mines is failed | Objective: Eradicate (2024-05-15 15:03  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite the best efforts of the Helldivers to decommission as many Automatons as possible, our scrap recollection efforts ultimately fell short. Construction of MD-17 Anti-Tank Mines will be, once again, delayed. (2024-05-15 15:04  UTC)<br/>
 Declaration of The Second Galactic War is issued (2024-05-15 15:09  UTC)<br/>
-Major Order | A1-5-3 SEAF Camps is issued | Objective: Control (2024-05-15 15:10  UTC)<br/>
+Major Order | [A1-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-3) SEAF Camps is issued | Objective: Control (2024-05-15 15:10  UTC)<br/>
 Dispatch: War has been declared. Mobilization across all sectors of the industry and economy has begun. Billions of able-bodied citizens from across the Federation have already volunteered for conscription. To train these new recruits, massive new facilities are being erected on a small number of lightly-populated planets. The Helldivers must hold the planets construction is completed. (2024-05-15 15:10  UTC)<br/>
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-15 15:11  UTC)<br/>
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-05-15 15:12  UTC)<br/>
@@ -1208,8 +1209,8 @@ Dispatch: War has been declared. Mobilization across all sectors of the industry
 ### Day: #101
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-05-18 10:44  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Automatons (2024-05-18 12:00  UTC)<br/>
-Major Order | A1-5-3 SEAF Camps is won | Objective: Control (2024-05-18 15:28  UTC)<br/>
-Major Order | A1-5-4 Kill 3.14 Billion Enemies is issued | Objective: Eradicate (2024-05-18 15:29  UTC)<br/>
+Major Order | [A1-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-3) SEAF Camps is won | Objective: Control (2024-05-18 15:28  UTC)<br/>
+Major Order | [A1-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-4) Kill 3.14 Billion Enemies is issued | Objective: Eradicate (2024-05-18 15:29  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing their part for the war effort. The fervent faith of *Super Earth* citizens for the war effort deserves to be rewarded—viscerally. To that end, the Helldivers are ordered to demonstrate the unassailable might of a united citizenry by destroying greater numbers of our enemies than ever before. (2024-05-18 15:29  UTC)<br/>
 *Acamar IV* defense is won (2024-05-18 23:38  UTC)<br/>
 *Erata Prime* is liberated (2024-05-19 04:08  UTC)<br/>
@@ -1258,9 +1259,9 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
 ### Day: #106
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-05-23 11:16  UTC)<br/>
 *Wezen* of the Ymir sector is attacked by Automatons (2024-05-23 11:16  UTC)<br/>
-Major Order | A1-5-4 Kill 3.14 Billion Enemies is failed | Objective: Eradicate (2024-05-23 15:42  UTC)<br/>
+Major Order | [A1-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-4) Kill 3.14 Billion Enemies is failed | Objective: Eradicate (2024-05-23 15:42  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Huge quantities of Terminids and Automatons have been righteously terminated by the valiant Helldivers, but not in high enough quantities to further inspire the already unquestionably patriotic citizens of *Super Earth*. They will continue to support the war effort with unquestionable unity and grim determination, yearning for a more hopeful future. (2024-05-23 15:48  UTC)<br/>
-Major Order | A1-5-5 Liberate *Varylia 5* is issued | Objective: Liberate (2024-05-23 15:51  UTC)<br/>
+Major Order | [A1-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-5) Liberate *Varylia 5* is issued | Objective: Liberate (2024-05-23 15:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. We have acquired imagery of a massive new Automaton factory nearing completion on the planet *Varylia 5*. This factory, if liberated, could be retrofitted to allow the construction of a dual-autocannon Exosuit variant: the EXO-49 EMANCIPATOR EXOSUIT. The Helldivers are ordered to liberate *Varylia 5*. Consult the Galactic Map on your Super Destroyer for a complete briefing. (2024-05-23 15:52  UTC)<br/>
 Dispatch: BATTLEFRONT UPDATE. Fresh intel warns of an increased level of Automaton resistance, likely a last-ditch effort to forestall their inevitable defeat. Press even harder! (2024-05-23 23:15  UTC)<br/>
  Decay: 5.0 on Varylia 5
@@ -1290,7 +1291,7 @@ Dispatch: STRATEGIC UPDATE. Automaton resistance has faltered, no doubt due to t
 
 ### Day: #109
 *Varylia 5* is liberated (2024-05-26 14:28  UTC)<br/>
-↳ Major Order | A1-5-5 Liberate *Varylia 5* is won | Objective: Liberate (2024-05-26 14:30  UTC)<br/>
+↳ Major Order | [A1-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-5) Liberate *Varylia 5* is won | Objective: Liberate (2024-05-26 14:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Petafactory on *Varylia 5* has been liberated by the Helldivers, thwarting their expansion and allowing production to begin on the EXO-49 EMANCIPATOR EXOSUIT. Consult the Galactic Map on your Super Destroyer for a full briefing. (2024-05-26 14:32  UTC)<br/>
 Dispatch: INTEL BRIEF. Spore production on the *Meridia* Supercolony has doubled overnight, indicating continued evolution of the Terminid threat. Increased Terminid outbreaks on nearby planets is highly likely. Helldivers are advised to exercise extreme vigilance in stamping out these outbreaks, lest they spread out of control. (2024-05-26 15:00  UTC)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2024-05-26 15:03  UTC)<br/>
@@ -1306,7 +1307,7 @@ Dispatch: STRATEGIC UPDATE. Enemy aggression on both fronts remains unrelenting.
 # Day: #110
  Decay: 1.0 on Meridia
  (2024-05-27 14:00  UTC)<br/>
-Major Order | A1-5-6 Operation Enduring Peace Phase One is issued | Objective: Control (2024-05-27 15:14  UTC)<br/>
+Major Order | [A1-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-6) Operation Enduring Peace Phase One is issued | Objective: Control (2024-05-27 15:14  UTC)<br/>
 Dispatch: OPERATION ""ENDURING PEACE""—PHASE I. The time has come to address the Terminid Supercolony on *Meridia*. Using an experimental substance weaponized by our top scientific minds, the Helldivers will conduct a targeted strike to permanently end the threat posed by the Supercolony. The first phase of this operation is to secure a route to *Meridia*, and hold the staging ground until sufficient quantities of Dark Fluid can be weaponized and deployed. This is the priority: all other territorial losses are acceptable to ensure the success of this operation. Consult the Galactic Map on your ship for more details. (2024-05-27 15:14  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-05-27 15:57  UTC)<br/>
  Decay: 3.0 on Terminid worlds
@@ -1337,7 +1338,7 @@ Dispatch: EMERGENCY ALERT. Spore production on the *Meridia* Supercolony has ris
 Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted. Therefore, *Super Earth* High Command recommends prioritizing the defense of *Heeth*. (2024-05-30 08:02  UTC)<br/>
 
 ### Day: #113
-Major Order | A1-5-6 Operation Enduring Peace Phase One is won | Objective: Control (2024-05-30 15:30  UTC)<br/>
+Major Order | [A1-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-6) Operation Enduring Peace Phase One is won | Objective: Control (2024-05-30 15:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The path to the Terminid Supercolony on *Meridia* is clear. Weaponized payloads of Dark Fluid have been constructed and deployed across the Super Destroyer Fleet. Phase 2 will begin imminently. (2024-05-30 15:30  UTC)<br/>
 *Meridia* - *Fenrir III* warp link is added (2024-05-30 15:35  UTC)<br/>
 *Meridia* - *Angel's Venture* warp link is added (2024-05-30 15:35  UTC)<br/>
@@ -1346,7 +1347,7 @@ Dispatch: MAJOR ORDER WON. The path to the Terminid Supercolony on *Meridia* is 
 *Meridia* - *Crimsica* warp link is added (2024-05-30 15:35  UTC)<br/>
 *Meridia* liberation campaign starts (2024-05-30 15:35  UTC)<br/>
 *Meridia* has been classified as a High Priority Campaign (2024-05-30 15:35  UTC)<br/>
-Major Order | A1-5-7 Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36  UTC)<br/>
+Major Order | [A1-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-7) Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36  UTC)<br/>
 Dispatch: OPERATION "ENDURING PEACE"—PHASE II (FINAL). The time has come to eradicate the Terminid Supercolony completely. The Helldivers will deploy to the surface of *Meridia* to deploy partial payloads of Dark Fluid across the planet. Once a critical mass is reached, the Dark Fluid will accrete into a superdense mass, triggering total planetary implosion. The Supercolony, and its hyper-reproductive Terminids, will be destroyed. The fate of the galaxy is in your hands, Helldivers. (2024-05-30 15:39  UTC)<br/>
  Decay: 10.0 on Meridia
  (2024-05-30 16:00  UTC)<br/>
@@ -1406,7 +1407,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
 *Meridia* is liberated (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* collapses into a black hole (2024-06-02 19:13  UTC)<br/>
 ↳ *Meridia* of the Umlaut sector is established as a *Meridia*n Black Hole POI (2024-06-02 19:13  UTC)<br/>
-↳ Major Order | A1-5-7 Operation Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13  UTC)<br/>
+↳ Major Order | [A1-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-7) Operation Enduring Peace Phase Two is won | Objective: Liberate (2024-06-02 19:13  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
 ↳ *Fenrir III* defense is auto-won via gambit (2024-06-02 19:16  UTC)<br/>
@@ -1414,7 +1415,7 @@ Dispatch: OPERATION "ENDURING PEACE"—SUCCESSFUL. The Supercolony has been dest
 *Vega Bay* of the Ymir sector is attacked by Automatons (2024-06-02 19:37  UTC)<br/>
 
 ### Day: #117
-Major Order | A1-6-1 Supercolony Cleanup is issued | Objective: Liberate (2024-06-03 18:46  UTC)<br/>
+Major Order | [A1-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-1) Supercolony Cleanup is issued | Objective: Liberate (2024-06-03 18:46  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the Supercolony destroyed, it is now finally possible to clear out the spreading Terminid infestation. Since the Terminids corrupted the perfectly-designed Terminid Control System, they have infected world after world with their tyranny, forcing colonists to evacuate their homesteads. Now, the time has come to reclaim the lost dreams of our hardworking citizens. Consult the Galactic Map on your Super Destroyer for more information. (2024-06-03 18:53  UTC)<br/>
 *Vega Bay* defense is failed (2024-06-03 19:39  UTC)<br/>
 ↳ *Wasat* liberation campaign ends (2024-06-03 19:39  UTC)<br/>
@@ -1460,11 +1461,11 @@ Dispatch: STRATEGIC UPDATE. *Aesir Pass* has fallen to the Automatons, and its S
 ↳ Jin Xi sector is fully under Human control (2024-06-07 07:15  UTC)<br/>
 
 ### Day: #121
-Major Order | A1-6-1 Supercolony Cleanup is won | Objective: Liberate (2024-06-07 11:15  UTC)<br/>
+Major Order | [A1-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-1) Supercolony Cleanup is won | Objective: Liberate (2024-06-07 11:15  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have cleansed the Terminids from many worlds, undoing much of the crisis forced upon our citizens by their mutated Supecolony. (2024-06-07 11:15  UTC)<br/>
  Decay: 2.0 on Automaton worlds<br/> Decay: 3.0 on Wasat<br/> Decay: 2.5 on Vega Bay, Wezen
  (2024-06-07 11:15  UTC)<br/>
-Major Order | A1-6-2 Database One Raid is issued | Objective: Liberate (2024-06-07 11:20  UTC)<br/>
+Major Order | [A1-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-2) Database One Raid is issued | Objective: Liberate (2024-06-07 11:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Our analysts have identified a large Automaton Data Center, codenamed Database One, deep within Automaton territory. It is protected by exceptionally robust encryption protocols. Whatever data is stored there, much effort has been expended to keep it hidden. The Helldivers are ordered to liberate the planet, capturing Database One and allowing manual extraction of the data. (2024-06-07 11:20  UTC)<br/>
  Decay: 1.5 on Aesir Pass, Varylia 5
  (2024-06-07 12:00  UTC)<br/>
@@ -1494,11 +1495,11 @@ Dispatch: STRATEGIC GUIDANCE. *Super Earth* High Command advises all Helldivers 
  (2024-06-10 18:00  UTC)<br/>
 *Wasat* is liberated (2024-06-11 02:09  UTC)<br/>
 ↳ *Meissa* liberation campaign starts (2024-06-11 02:09  UTC)<br/>
-Major Order | A1-6-2 Database One Raid is won | Objective: Liberate (2024-06-11 08:35  UTC)<br/>
+Major Order | [A1-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-2) Database One Raid is won | Objective: Liberate (2024-06-11 08:35  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Database One has been captured, and its encryption breached by intrepid SEAF Cyberwarfare Specialists. Consult the Galactic Map on your ship for more information. (2024-06-11 08:36  UTC)<br/>
 
 ### Day: #125
-Major Order | A1-6-3 Trolley Problem is issued | Objective: Liberate (2024-06-11 13:57  UTC)<br/>
+Major Order | [A1-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-3) Trolley Problem is issued | Objective: Liberate (2024-06-11 13:57  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has received two urgent requests for aid on planets that recently fell to the Automaton occupation: Survivors in the wreckage of a children's hospital are trapped on *Vernen Wells*, while explosives critical for MD-17 Anti-Tank Mines are trapped on *Marfark*. Consult the Galactic Map on your ship for more information. (2024-06-11 13:57  UTC)<br/>
  Decay: 2.5 on Vernen Wells, Marfark
  (2024-06-11 16:00  UTC)<br/>
@@ -1600,9 +1601,9 @@ Dispatch: INTEL REPORT. The Automatons appear to have become aware of our effort
  (2024-06-14 14:28  UTC)<br/>
 
 ### Day: #129
-Major Order | A1-6-3 Trolley Problem is failed | Objective: Liberate (2024-06-15 14:11  UTC)<br/>
+Major Order | [A1-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-3) Trolley Problem is failed | Objective: Liberate (2024-06-15 14:11  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Helldivers succeeded in liberating *Vernen Wells* in time to save the civilians trapped within. Already, the very sick children are en route to Super Citizen Mary's Hospital for Tragically Ill Youths, where they will receive the best care the Federation has to offer. *Marfark* remains in Automaton hands. MD-17 Anti-Tank Mine factories have been shuttered for the time being, following multiple material shortfalls. (2024-06-15 14:11  UTC)<br/>
-Major Order | A1-6-4 Hive Breaker is issued | Objective: Liberate (2024-06-15 15:54  UTC)<br/>
+Major Order | [A1-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-4) Hive Breaker is issued | Objective: Liberate (2024-06-15 15:54  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminid population levels remain at unmanageable levels. The Terminids must be flushed out from the Mirin and Draco sectors, securing those planets for our citizens and reducing the population to a manageable size and footprint. Consult the Galactic Map on your ship for more information. (2024-06-15 15:54  UTC)<br/>
  Decay: 2.0 on Hellmire<br/> Decay: 2.5 on Estanu
  (2024-06-15 18:00  UTC)<br/>
@@ -1676,12 +1677,12 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 *Fori Prime* is liberated (2024-06-21 21:12  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-06-21 21:12  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-21 21:12  UTC)<br/>
-↳ Major Order | A1-6-4 Hive Breaker is won | Objective: Liberate (2024-06-21 21:12  UTC)<br/>
+↳ Major Order | [A1-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-4) Hive Breaker is won | Objective: Liberate (2024-06-21 21:12  UTC)<br/>
  Decay: 0.0 on Erson Sands, Pandion-XXIV<br/> Decay: 2.0 on Gacrux
  (2024-06-21 21:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully achieved a significant reduction in Terminid population levels, proving the efficacy of targeting Terminid Nurseries directly. Many once-infested planets are now ready for our citizens to settle. This is the first step towards Terminid containment and the long-lasting prosperity it will bring our citizens. (2024-06-21 21:18  UTC)<br/>
 *Ingmar* of the Xzar sector is attacked by Automatons (2024-06-21 21:19  UTC)<br/>
-Major Order | A1-6-5 Xzar Lockdown is issued | Objective: Control (2024-06-21 21:22  UTC)<br/>
+Major Order | [A1-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-5) Xzar Lockdown is issued | Objective: Control (2024-06-21 21:22  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the Xzar Sector, in an effort to re-steal the sites of their introductory crimes. Consult the Galactic Map on your ship for more information. (2024-06-21 21:22  UTC)<br/>
 *Vandalon IV* of the Trigon sector is attacked by Automatons (2024-06-21 23:03  UTC)<br/>
  Decay: 0.0 on Ingmar
@@ -1774,9 +1775,9 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 # Day: #140
  Decay: 2.0 on Nivel 43<br/> Decay: 1.5 on Phact Bay
  (2024-06-26 09:00  UTC)<br/>
-Major Order | A1-6-5 Xzar Lockdown is won | Objective: Control (2024-06-26 09:37  UTC)<br/>
+Major Order | [A1-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-5) Xzar Lockdown is won | Objective: Control (2024-06-26 09:37  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automatons have been rebuffed. The territory so many sacrificed to liberate remains safe in the hands of Freedom. Consult the Galactic Map on your ship for more information. (2024-06-26 10:04  UTC)<br/>
-Major Order | A1-6-6 Jin Xi-Falstaff Liberation is issued | Objective: Control (2024-06-26 11:04  UTC)<br/>
+Major Order | [A1-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-6) Jin Xi-Falstaff Liberation is issued | Objective: Control (2024-06-26 11:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the Falstaff and Jin Xi sectors. This greedy annexation will not be tolerated. Consult the Galactic Map on your ship for more information. (2024-06-26 11:04  UTC)<br/>
 *Fori Prime* of the Draco sector is attacked by Terminids (2024-06-26 11:06  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06  UTC)<br/>
@@ -1861,9 +1862,9 @@ Dispatch: STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Und
 ↳ Falstaff sector is fully under Human control (2024-07-03 03:28  UTC)<br/>
 
 ### Day: #147
-Major Order | A1-6-6 Jin Xi-Falstaff Liberation is won | Objective: Control (2024-07-03 11:36  UTC)<br/>
+Major Order | [A1-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-6) Jin Xi-Falstaff Liberation is won | Objective: Control (2024-07-03 11:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With great effort, the Terminid expansion has been significantly limited by the actions of the Helldivers. Though the bugs now infest some once-beautiful worlds, many remain unblemished by tyranny, ready for Democratic settlement. Excising the infestation will be taxing, but will require far less expenditure of resources than our worst-case scenarios predicted. (2024-07-03 11:36  UTC)<br/>
-Major Order | A1-7-1 Hold *X-45* for Space Station Blueprints is issued | Objective: Control (2024-07-03 11:41  UTC)<br/>
+Major Order | [A1-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-1) Hold *X-45* for Space Station Blueprints is issued | Objective: Control (2024-07-03 11:41  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The planet *X-45* is home to a lost Advanced Weapons Lab from the First Galactic War that was developing a powerful interplanetary battle station. Excavation of the Lab's work is underway. However, the Automatons have launched an assault to rout our forces in the Ymir Sector. It is imperative that *X-45* be held until the plans for the battle station are recovered. Consult the Galactic Map on your ship for more information. (2024-07-03 11:41  UTC)<br/>
 *X-45* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
 *Wezen* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
@@ -1965,16 +1966,16 @@ Dispatch: STRATEGIC UPDATE. Excavation of the Advanced Weapons Lab on *X-45* hav
  (2024-07-09 04:00  UTC)<br/>
 
 ### Day: #153
-Major Order | A1-7-1 Hold *X-45* for Space Station Blueprints is won | Objective: Control (2024-07-09 12:07  UTC)<br/>
+Major Order | [A1-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-1) Hold *X-45* for Space Station Blueprints is won | Objective: Control (2024-07-09 12:07  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the valiant defense of the Helldivers of *X-45*, the plans for the interplanetary battle station have been received. Work completing this research will commence shortly. Remaining MLS-4X Commandos have been successfully shipped off-planet, enabling rapid production of the weapon. It will shortly be available for requisition fleetwide. Consult the Galactic Map on your ship for more information. (2024-07-09 12:07  UTC)<br/>
 
 ### Day: #154
-Major Order | A1-7-2 Kill 100m Terminids for Science is issued | Objective: Eradicate (2024-07-10 13:02  UTC)<br/>
+Major Order | [A1-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-2) Kill 100m Terminids for Science is issued | Objective: Eradicate (2024-07-10 13:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill the designated number of Terminids—ideally utilizing a variety of means—in order to aid in scientific research. Consult the Galactic Map on your ship for more information. (2024-07-10 13:02  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2024-07-10 13:34  UTC)<br/>
  Decay: 0.0 on Hellmire
  (2024-07-10 14:00  UTC)<br/>
-Major Order | A1-7-2 Kill 100m Terminids for Science is won | Objective: Eradicate (2024-07-10 20:48  UTC)<br/>
+Major Order | [A1-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-2) Kill 100m Terminids for Science is won | Objective: Eradicate (2024-07-10 20:48  UTC)<br/>
 *Gatria* is liberated (2024-07-11 00:47  UTC)<br/>
 
 ### Day: #155
@@ -1982,7 +1983,7 @@ Major Order | A1-7-2 Kill 100m Terminids for Science is won | Objective: Eradica
 Dispatch: MAJOR ORDER WON. The vast quantities of Terminids eradicated by the Helldivers has greatly aided the Ministry of Science's Terminid Research Initiative. Though much work remains, our understanding of the most efficacious bug-eradication methodologies has been thoroughly advanced. (2024-07-11 12:52  UTC)<br/>
  Decay: 1.5 on Hellmire
  (2024-07-11 12:52  UTC)<br/>
-Major Order | A1-7-3 Sever the Andromeda Sector is issued | Objective: Liberate (2024-07-11 18:38  UTC)<br/>
+Major Order | [A1-7-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-3) Sever the Andromeda Sector is issued | Objective: Liberate (2024-07-11 18:38  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to cut a line through the Automaton front, joining our forces and dividing theirs in two at the Andromeda Sector. Success in this endeavor will interrupt bot supply routes and comms lines, weakening their cut-off forces. Consult the Galactic Map on your Super Destroyer for more information. (2024-07-11 18:38  UTC)<br/>
  Decay: 2.0 on Marfark<br/> Decay: 3.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-07-11 20:00  UTC)<br/>
@@ -2036,14 +2037,14 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
 
 ### Day: #161
 *Martale* is liberated (2024-07-17 11:14  UTC)<br/>
-↳ Major Order | A1-7-3 Sever the Andromeda Sector is won | Objective: Liberate (2024-07-17 11:14  UTC)<br/>
+↳ Major Order | [A1-7-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-3) Sever the Andromeda Sector is won | Objective: Liberate (2024-07-17 11:14  UTC)<br/>
 ↳ *Charon Prime* liberation campaign starts (2024-07-17 11:14  UTC)<br/>
 Dispatch: The Automaton Dominion has been fractured by the mighty assault rifle of Freedom. Thanks to the courage and obedience of the Helldivers, a large swath of Automaton-held planets are cut off from *Cyberstan*, disrupting their supplies and communications. This will significantly impact the defenses on those planets, and it will take the Automatons time to recover. Until then, and so long as our barrier holds, the cut-off planets are vulnerable to our just liberation. (2024-07-17 11:23  UTC)<br/>
  Decay: 2.0 on Vernen Wells<br/> Decay: 0.0 on Automaton worlds<br/> Decay: 2.5 on Choohe
  (2024-07-17 12:00  UTC)<br/>
 
 ### Day: #162
-Major Order | A1-7-4 Severed Automaton Planet Liberation is issued | Objective: Liberate (2024-07-18 14:15  UTC)<br/>
+Major Order | [A1-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-4) Severed Automaton Planet Liberation is issued | Objective: Liberate (2024-07-18 14:15  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunity has come to liberate the territory the Automatons illegally occupy. Time is of the essence. The Automaton defenses will recover in short order. We must press the advantage now. (2024-07-18 14:35  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2024-07-18 23:42  UTC)<br/>
  Decay: 0.0 on Matar Bay
@@ -2076,7 +2077,7 @@ Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunit
 *Choepessa IV* is liberated (2024-07-21 14:03  UTC)<br/>
 ↳ *Ustotu* liberation campaign starts (2024-07-21 14:03  UTC)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-07-21 14:03  UTC)<br/>
-Major Order | A1-7-4 Severed Automaton Planet Liberation is won | Objective: Liberate (2024-07-21 14:03  UTC)<br/>
+Major Order | [A1-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-4) Severed Automaton Planet Liberation is won | Objective: Liberate (2024-07-21 14:03  UTC)<br/>
 *Wasat* of the Ymir sector is attacked by Automatons (2024-07-21 18:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. In a lightning-fast assault, the Helldivers capitalized fully on the Automatons' weakened defenses to liberate much of the territory they stole from us. (2024-07-21 18:15  UTC)<br/>
 *Turing* of the Umlaut sector is attacked by Terminids (2024-07-21 18:22  UTC)<br/>
@@ -2088,7 +2089,7 @@ Dispatch: MAJOR ORDER WON. In a lightning-fast assault, the Helldivers capitaliz
 ### Day: #166
  Decay: 2.5 on Turing
  (2024-07-22 09:00  UTC)<br/>
-Major Order | A1-7-5 Kill 1B Terminids for Science is issued | Objective: Eradicate (2024-07-22 15:33  UTC)<br/>
+Major Order | [A1-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-5) Kill 1B Terminids for Science is issued | Objective: Eradicate (2024-07-22 15:33  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Following the Helldivers' inspiringly rapid support of the Terminid Research Initiative, the Ministry of Science has requested a second, much larger research trial. High Command has authorized a rotating series of augmenting Stratagems for the duration of this trial, in support of scientific progress. (2024-07-22 15:33  UTC)<br/>
 *Wasat* defense is failed (2024-07-22 18:20  UTC)<br/>
 ↳ *Wasat* liberation campaign starts (2024-07-22 18:20  UTC)<br/>
@@ -2131,11 +2132,11 @@ Dispatch: STRATEGIC UPDATE. The Automatons are rapidly repairing their logistics
  (2024-07-25 22:33  UTC)<br/>
 
 # Day: #170
-Major Order | A1-7-5 Kill 1B Terminids for Science is won | Objective: Eradicate (2024-07-26 20:30  UTC)<br/>
+Major Order | [A1-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-5) Kill 1B Terminids for Science is won | Objective: Eradicate (2024-07-26 20:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have demonstrated a commitment to scientific progress equaled only by their fervor for Democratic supremacy. Thanks to their efforts, the Ministry of Science has ample data to further ongoing Terminid research efforts. Consult the Galactic Map on your ship for more information. (2024-07-26 21:30  UTC)<br/>
 
 ### Day: #171
-Major Order | A1-7-6 Destroy Orbital Cannons is issued | Objective: Liberate (2024-07-27 16:58  UTC)<br/>
+Major Order | [A1-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-6) Destroy Orbital Cannons is issued | Objective: Liberate (2024-07-27 16:58  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to reclaim more ground from the Automatons. However, the enemy has deployed Orbital Cannons across their territories. The Orbital Cannons are targeting SEAF air forces, extending extraction times. Liberating a bot planet will allow temporary return to normal extraction. If two planets are liberated within 12 hours of each other, shorter extraction times will be possible for the remainder of the order. (2024-07-27 16:58  UTC)<br/>
 *Choepessa IV* is liberated (2024-07-27 23:20  UTC)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-07-27 23:20  UTC)<br/>
@@ -2171,9 +2172,9 @@ Dispatch: The liberation of a planet from the Automatons has destabilized the Or
 Dispatch: The liberation of a planet from the Automatons has destabilized the Orbital Cannon targeting array. Extraction times will return to normal for the next 12 hours. (2024-08-02 02:02  UTC)<br/>
 
 ### Day: #177
-Major Order | A1-7-6 Destroy Orbital Cannons is failed | Objective: Liberate (2024-08-02 17:22  UTC)<br/>
+Major Order | [A1-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-6) Destroy Orbital Cannons is failed | Objective: Liberate (2024-08-02 17:22  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The valiant sacrifice of millions of our most well-trained and brave heroes was not enough to pry free the collectivist death-grip on our stolen worlds. (2024-08-02 17:22  UTC)<br/>
-Major Order | A1-8-1 Mine Efficacy Review is issued | Objective: Eradicate (2024-08-02 17:23  UTC)<br/>
+Major Order | [A1-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-1) Mine Efficacy Review is issued | Objective: Eradicate (2024-08-02 17:23  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the currently available Mine Stratagems. The Helldivers are ordered to kill or dismantle the targeted number of Liberty's enemies. If the targeted number is not reached, High Command will specially authorize the urgent addition of Anti-Tank Mines to the Helldivers' repetoire. (2024-08-02 17:23  UTC)<br/>
 
 ### Day: #178
@@ -2215,9 +2216,9 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
 *Skitter* of the Hawking sector's biome is changed from Plains [Moor] to Haunted Swamp [Swamp] (2024-08-06 09:00  UTC)<br/>
 *Enuliale* is moderately enveloped by the Gloom (2024-08-06 09:38  UTC)<br/>
 *Socorro III* is lightly enveloped by the Gloom (2024-08-06 09:38  UTC)<br/>
-Major Order | A1-8-1 Mine Efficacy Review is failed | Objective: Eradicate (2024-08-06 10:39  UTC)<br/>
+Major Order | [A1-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-1) Mine Efficacy Review is failed | Objective: Eradicate (2024-08-06 10:39  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The failure of the Helldivers to eliminate the targeted number of enemies using their currently-available arsenal has made clear the need for additional weaponry. Therefore, High Command has ordered the immediate, large-scale production of Anti-Tank Mines. They will be available fleetwide in short order. (2024-08-06 10:39  UTC)<br/>
-Major Order | A1-8-2 Eradicate Terminids on *Socorro III* is issued | Objective: Eradicate/Liberate (2024-08-06 14:55  UTC)<br/>
+Major Order | [A1-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-2) Eradicate Terminids on *Socorro III* is issued | Objective: Eradicate/Liberate (2024-08-06 14:55  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminids have overrun SEAF recon posts on *Socorro III*. Partial reports indicate the possibility of new Terminid variants. Most likely, these reports are exaggerations; however, the Terminid incursion is undoubtable. The Helldivers are to deploy to *Socorro III* and eradicate as many Terminids as possible. Further, the Helldivers are ordered to liberate all nearby planets, to prevent the spread of any new Terminid variants that may or may not exist. (2024-08-06 14:55  UTC)<br/>
  Decay: 2.5 on Terminid worlds<br/> Decay: 1.5 on Automaton worlds
  (2024-08-06 14:55  UTC)<br/>
@@ -2265,7 +2266,7 @@ Dispatch: COLONY COLLAPSE. Sustained bombardment has altered the ecology of emba
  Decay: 0.0 on Choepessa IV<br/> Decay: 2.5 on Lesath<br/> Decay: 2.0 on Menkent<br/> Decay: 1.5 on Phact Bay<br/> Decay: 0.8 on Varylia 5
  (2024-08-10 09:00  UTC)<br/>
 *Bore Rock* is liberated (2024-08-10 10:21  UTC)<br/>
-↳ Major Order | A1-8-2 Eradicate Terminids on *Socorro III* is won | Objective: Eradicate/Liberate (2024-08-10 10:21  UTC)<br/>
+↳ Major Order | [A1-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-2) Eradicate Terminids on *Socorro III* is won | Objective: Eradicate/Liberate (2024-08-10 10:21  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Esker, Bore Rock, Charbal-VII, Charon Prime, Choepessa IV, Matar Bay<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Varylia 5, Vega Bay, Wezen<br/> Decay: 0.45 on Wasat
  (2024-08-10 10:21  UTC)<br/>
 *Erson Sands* is moderately enveloped by the Gloom (2024-08-10 10:23  UTC)<br/>
@@ -2285,7 +2286,7 @@ Dispatch: MAJOR ORDER WON. This latest unnatural slew of Terminid abominations h
  (2024-08-10 12:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Esker, Bore Rock, Matar Bay<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Choohe<br/> Decay: 1.0 on Martale<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Varylia 5, Vega Bay, Wezen
  (2024-08-10 14:00  UTC)<br/>
-Major Order | A1-8-3 Simultaneous Attack and Defense is issued | Objective: Defend/Liberate (2024-08-10 15:19  UTC)<br/>
+Major Order | [A1-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-3) Simultaneous Attack and Defense is issued | Objective: Defend/Liberate (2024-08-10 15:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Terminid expansion to new planets. But threatening as this is, we do not have the luxury of keeping our focus in one place. The bots retain a hold on a pocket of two isolated planets: *Troost* and *Vandalon IV*. They are vulnerable, and we must liberate them now before the machines find a way to reinforce their position. (2024-08-10 15:19  UTC)<br/>
  Decay: 500.0 on Super Earth, Mort, Malevelon Creek<br/> Decay: 0.5 on Marfark<br/> Decay: 2.5 on Omicron
  (2024-08-10 15:19  UTC)<br/>
@@ -2435,7 +2436,7 @@ STRATEGIC VICTORY. The last remaining pocket of Automaton resistance in the Trig
 ↳ Umlaut sector is fully under Human control (2024-08-15 07:28  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Choohe, Omicron<br/> Decay: 0.8 on Human worlds
  (2024-08-15 07:28  UTC)<br/>
-Major Order | A1-8-3 Simultaneous Attack and Defense is won | Objective: Defend/Liberate (2024-08-15 08:51  UTC)<br/>
+Major Order | [A1-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-3) Simultaneous Attack and Defense is won | Objective: Defend/Liberate (2024-08-15 08:51  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining pocket of Automaton resistance in their cut-off territory, while simultaneously holding the line against the Terminid spread. (2024-08-15 08:51  UTC)<br/>
  Decay: 1.5 on Erata Prime<br/> Decay: 1.0 on Martale<br/> Decay: 0.45 on Wasat<br/> Decay: 0.8 on Vega Bay<br/> Decay: 3.0 on Zagon Prime
  (2024-08-15 08:51  UTC)<br/>
@@ -2484,7 +2485,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining p
 *Estanu* of the Draco sector is attacked by Terminids (2024-08-16 15:22  UTC)<br/>
  Decay: 1.5 on Chort Bay<br/> Decay: 0.0 on Estanu<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 500.0 on Ubanea, X-45<br/> Decay: 0.8 on Ustotu, Varylia 5
  (2024-08-16 15:22  UTC)<br/>
-Major Order | A1-8-4 Gloom Gathering is issued | Objective: Sample (2024-08-16 15:26  UTC)<br/>
+Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is issued | Objective: Sample (2024-08-16 15:26  UTC)<br/>
 ​Dispatch: NEW MAJOR ORDER. The massive interstellar spore cloud known as the Gloom now occupies massive swaths of Terminid space. All vessels sent into the Gloom have ceased radio contact within minutes. Now, the Helldivers must procure samples of Terminid organic matter from the planets closest to the Gloom. (2024-08-16 15:37  UTC)<br/>
  Decay: 500.0 on Socorro III<br/> Decay: 1.5 on Bore Rock<br/> Decay: 0.5 on Marfark<br/> Decay: 0.45 on Wasat
  (2024-08-16 15:37  UTC)<br/>
@@ -2496,7 +2497,7 @@ Major Order | A1-8-4 Gloom Gathering is issued | Objective: Sample (2024-08-16 1
  (2024-08-16 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-17 00:00  UTC)<br/>
-Major Order | A1-8-4 Gloom Gathering is won | Objective: Sample (2024-08-17 01:47  UTC)<br/>
+Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is won | Objective: Sample (2024-08-17 01:47  UTC)<br/>
 ↳ NOTE: Major Order Tasks were completed suddenly due to hackers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a narrative loss but a statistical victory. (2024-08-17 01:47  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Umlaut sector, Valdis sector<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Choohe, Lesath, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Vandalon IV, Vega Bay<br/> Decay: 3.0 on Zagon Prime
  (2024-08-17 01:47  UTC)<br/>
@@ -2518,7 +2519,7 @@ Dispatch: Major Order Update: *Super Earth* High Command has detected a large ba
  (2024-08-17 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-17 16:00  UTC)<br/>
-Major Order | A1-8-5 Push Automatons Away From *Super Earth* is issued | Objective: Defend/Liberate (2024-08-17 19:00  UTC)<br/>
+Major Order | [A1-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-5) Push Automatons Away From *Super Earth* is issued | Objective: Defend/Liberate (2024-08-17 19:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. While our attention has been diverted by the Gloom, the Automatons have crept closer to *Super Earth*. The Helldivers are ordered to launch an assault on the Automatons to push them back. Intel indicates that additional Automaton attacks are expected within the next few days. Remain vigilant, and defend against any further Automaton incursions. (2024-08-17 19:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Lacaille sector, Umlaut sector, Valdis sector<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Turing, Choohe<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-08-17 19:00  UTC)<br/>
@@ -2628,7 +2629,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
  Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Umlaut sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Choohe, Omicron<br/> Decay: 0.8 on Human worlds<br/> Decay: 3.0 on Zagon Prime
  (2024-08-21 02:00  UTC)<br/>
 *Curia* defense is won (2024-08-21 04:36  UTC)<br/>
-Major Order | A1-8-5 Push Automatons Away From *Super Earth* is won | Objective: Defend/Liberate (2024-08-21 04:36  UTC)<br/>
+Major Order | [A1-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-5) Push Automatons Away From *Super Earth* is won | Objective: Defend/Liberate (2024-08-21 04:36  UTC)<br/>
  Decay: 1.0 on Curia, Martale<br/> Decay: 1.5 on Chort Bay<br/> Decay: 0.5 on Marfark<br/> Decay: 500.0 on Meissa<br/> Decay: 0.8 on Vega Bay<br/> Decay: 2.5 on Turing, Oshaune<br/> Decay: 0.0 on Charon Prime
  (2024-08-21 04:36  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds
@@ -2650,7 +2651,7 @@ Dispatch: MAJOR ORDER WON. The Automatons have been pushed back from the sectors
  (2024-08-21 11:16  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds
  (2024-08-21 12:00  UTC)<br/>
-Major Order | A1-8-6 Colossus Shadow is issued | Objective: Hold/Eradicate (2024-08-21 14:33  UTC)<br/>
+Major Order | [A1-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-6) Colossus Shadow is issued | Objective: Hold/Eradicate (2024-08-21 14:33  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud known as the Gloom have failed. But we will not allow a mere lack of scientific understanding to thwart decisive action. The Helldivers are ordered to deploy in full force to hold back the Terminid swarm with the deployment of every weapon in their arsenal. Consult the Galactic Map on your Destroyer for more information. (2024-08-21 14:33  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Lacaille sector, Umlaut sector, Valdis sector<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43, Menkent<br/> Decay: 2.5 on Turing, Choohe, Omicron<br/> Decay: 0.8 on Troost, Vandalon IV, Wezen<br/> Decay: 0.0 on Pandion-XXIV<br/> Decay: 3.0 on Zagon Prime
  (2024-08-21 14:33  UTC)<br/>
@@ -2837,7 +2838,7 @@ NOTE: The edge of the interstellar Gloom spore cloud became more defined/distinc
 ↳ *Navi VII* is now unobservable due to the Gloom (2024-08-27 11:52  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-27 12:00  UTC)<br/>
-Major Order | A1-8-6 Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57  UTC)<br/>
+Major Order | [A1-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-6) Colossus Shadow is won | Objective: Hold/Eradicate (2024-08-27 14:57  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Mastia<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Turing, Choohe<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Trigon sector
  (2024-08-27 14:57  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive swaths of Terminids, including the largest tyrants amongst them. This inspiring exercise of liberation sends a clear message to our enemies. A message so loud, and so clear, that it needs no explicit articulation. Consult the Galactic Map on your ship for more information. (2024-08-27 14:59  UTC)<br/>
@@ -2890,7 +2891,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
 ### Day: #203
  Decay: 500.0 on Super Earth<br/> Decay: 0.0 on Esker, Pandion-XXIV<br/> Decay: 1.0 on Martale
  (2024-08-28 09:00  UTC)<br/>
-Major Order | A1-8-7 Acquire Materials for Orbital Napalm Barrages is issued | Objective: Eradicate/Liberate (2024-08-28 11:06  UTC)<br/>
+Major Order | [A1-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-7) Acquire Materials for Orbital Napalm Barrages is issued | Objective: Eradicate/Liberate (2024-08-28 11:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall. Liberate the polystyrene stockpile on *Vernen Wells*, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. (2024-08-28 11:06  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 1.5 on Bore Rock, Phact Bay<br/> Decay: 0.8 on Ustotu<br/> Decay: 500.0 on X-45
  (2024-08-28 11:06  UTC)<br/>
@@ -3047,7 +3048,7 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
 ### Day: #208
  Decay: 1.5 on Mastia, Tarsh, Esker, Acamar IV, Gacrux, Cyberstan<br/> Decay: 2.5 on Vernen Wells, Choohe, Lesath<br/> Decay: 1.0 on Aesir Pass, Fenrir III<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 2.0 on Menkent<br/> Decay: 0.8 on Troost, Vandalon IV, Wezen
  (2024-09-02 09:00  UTC)<br/>
-Major Order | A1-8-7 Acquire Materials for Orbital Napalm Barrages is failed | Objective: Eradicate/Liberate (2024-09-02 11:24  UTC)<br/>
+Major Order | [A1-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-7) Acquire Materials for Orbital Napalm Barrages is failed | Objective: Eradicate/Liberate (2024-09-02 11:24  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 1.0 on Curia<br/> Decay: 1.5 on Crimsica, Estanu<br/> Decay: 0.8 on Varylia 5<br/> Decay: 500.0 on X-45
  (2024-09-02 11:24  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite heroic conservation efforts, and millions of Automaton militants recycled into useful scrap metals, the Helldivers were unable to secure sufficient resources to rectify supply shortages. Fleetwide distribution of the Orbital Napalm Barrage will be delayed. (2024-09-02 11:26  UTC)<br/>
@@ -3066,7 +3067,7 @@ Dispatch: MAJOR ORDER FAILED. Despite heroic conservation efforts, and millions 
  (2024-09-02 16:07  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09  UTC)<br/>
-Major Order | A1-9-1 Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10  UTC)<br/>
+Major Order | [A1-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-1) Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A massive Terminid outbreak has erupted out of the Gloom into the Jin Xi sector. Colonies in the Jin Xi sector are only weeks old, but millions of families are trapped within, awaiting emergency evacuation. All Helldivers are called to the colonies' defense. (2024-09-02 16:10  UTC)<br/>
  Decay: 0.0 on Gatria, Phact Bay
  (2024-09-02 18:00  UTC)<br/>
@@ -3191,13 +3192,13 @@ Dispatch: TEMPORARY ARSENAL AUGMENTATION. While the supplies recovered by the He
 *Claorell* - *Imber* warp link is added (2024-09-06 16:23  UTC)<br/>
 *Lesath* - *Gaellivare* warp link is added (2024-09-06 16:23  UTC)<br/>
 *Lesath* - *Vog-Sojoth* warp link is added (2024-09-06 16:23  UTC)<br/>
-Major Order | A1-9-1 Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23  UTC)<br/>
+Major Order | [A1-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-1) Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23  UTC)<br/>
  Decay: 1.5 on Tarsh, Esker, Estanu<br/> Decay: 3.0 on Erson Sands<br/> Decay: 500.0 on Erata Prime, Ubanea<br/> Decay: 0.8 on Varylia 5, Wezen<br/> Decay: 2.5 on Omicron
  (2024-09-06 16:23  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
 *Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Terminid outbreak from the Gloom has been contained, with damages and lost territory minimized. The bugs wrought massive devastation across the Jin Xi sector, forcing many families to flee from their homes, but the swift action of the Helldivers prevented the loss of territory and protected the investments of the Ministry of Expansion. (2024-09-06 16:27  UTC)<br/>
-Major Order | A1-9-2 Titanium Bastion is issued | Objective: Defend/Hold (2024-09-06 16:34  UTC)<br/>
+Major Order | [A1-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-2) Titanium Bastion is issued | Objective: Defend/Hold (2024-09-06 16:34  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 0.0 on Shelt, Gaellivare<br/> Decay: 0.5 on Marfark<br/> Decay: 500.0 on X-45
  (2024-09-06 16:34  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion in an attempt to steal more territory from hardworking *Super Earth* citizens. Intercepted communications indicate this latest incursion is targeting a large repository of titanium on *Imber*, possibly for use in construction of some kind of enhanced strike force. (2024-09-06 16:35  UTC)<br/>
@@ -3339,7 +3340,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion
 ### Day: #218
  Decay: 1.0 on Mastia, Gaellivare<br/> Decay: 1.5 on Tarsh, Vog-Sojoth, Acamar IV, Gacrux, Phact Bay, Cyberstan<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Choohe, Lesath, Partion, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Troost, Vandalon IV
  (2024-09-12 09:00  UTC)<br/>
-Major Order | A1-9-2 Titanium Bastion is won | Objective: Defend/Hold (2024-09-12 10:53  UTC)<br/>
+Major Order | [A1-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-2) Titanium Bastion is won | Objective: Defend/Hold (2024-09-12 10:53  UTC)<br/>
  Decay: 500.0 on Shallus, Erata Prime<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 1.5 on Estanu, Gatria<br/> Decay: 3.0 on Fori Prime<br/> Decay: 2.5 on Oshaune<br/> Decay: 0.8 on Vega Bay
  (2024-09-12 10:53  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Marspira sector, Orion sector, Hydra sector, Talus sector, Umlaut sector, Andromeda sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3367,7 +3368,7 @@ Dispatch: MAJOR ORDER WON. The Automatons have been rebuffed once more, their te
  (2024-09-13 10:00  UTC)<br/>
  Decay: 1.0 on Tarsh
  (2024-09-13 12:00  UTC)<br/>
-Major Order | A1-9-3 Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23  UTC)<br/>
+Major Order | [A1-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-3) Blazing Purge is issued | Objective: Eradicate (2024-09-13 14:23  UTC)<br/>
 Dispatch: Curb rising Terminid population levels by conducting mass elimination of the small- to medium-sized specimens. (2024-09-13 14:25  UTC)<br/>
 Dispatch: SITUATIONAL RECAP. Reminder: Liberating the Automaton-controlled planets *Tarsh* and *Mastia* before the end of the current order will allow the Orbital Napalm Barrage to be available for immediate fleetwide requisition. (2024-09-13 14:32  UTC)<br/>
  Decay: 0.0 on Mastia, Tarsh<br/> Decay: 1.0 on Curia, Aesir Pass, Gaellivare<br/> Decay: 1.5 on Draco sector, Tanis sector, Jin Xi sector, Valdis sector, Falstaff sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Vernen Wells, Choohe, Lesath, Oshaune, Partion<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
@@ -3438,7 +3439,7 @@ Dispatch: STRATEGIC UPDATE. *Tarsh* has been cutoff from all adjacent Automaton 
 Dispatch: ARSENAL EXPANSION. With the successful liberation of *Tarsh* and *Mastia* from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population. (2024-09-16 11:57  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 0.0 on Human worlds<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: -1.0 on Tarsh<br/> Decay: 1.5 on Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-16 12:00  UTC)<br/>
-Major Order | A1-9-3 Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33  UTC)<br/>
+Major Order | [A1-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-3) Blazing Purge is failed | Objective: Eradicate (2024-09-16 14:33  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Terminid population levels have been reduced, but by lower than the targeted amount required to fully bring their population under control. (2024-09-16 14:33  UTC)<br/>
  Decay: 1.5 on Marspira sector, Draco sector, Tanis sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Vernen Wells, Choohe, Lesath, Partion, Omicron, Oshaune<br/> Decay: 1.0 on Gaellivare, Curia, Aesir Pass, Fenrir III<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Troost, Vandalon IV, Wezen
  (2024-09-16 14:33  UTC)<br/>
@@ -3464,7 +3465,7 @@ Dispatch: MAJOR ORDER FAILED. Terminid population levels have been reduced, but 
  (2024-09-17 12:00  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Tanis sector, Jin Xi sector, Lacaille sector, Valdis sector<br/> Decay: 1.0 on Curia, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Vernen Wells, Turing, Choohe, Lesath, Oshaune, Partion, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-09-17 14:00  UTC)<br/>
-Major Order | A1-9-4 Freedom's Audit is issued | Objective: Conquest (2024-09-17 15:20  UTC)<br/>
+Major Order | [A1-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-4) Freedom's Audit is issued | Objective: Conquest (2024-09-17 15:20  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-17 15:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation of Helldiver Force Readiness, following recent adjustments to fleetwide capabilities. In service of this evaluation, the Helldivers are ordered to conduct open warfare on both the Automaton and Terminid fronts, with the objective of increasing the total number of planets within the *Super Earth* Federation. Consult your Galactic Map for more information. (2024-09-17 15:21  UTC)<br/>
@@ -3628,10 +3629,10 @@ Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probabil
  (2024-09-24 12:00  UTC)<br/>
 *Imber* defense is failed (2024-09-24 14:21  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-24 14:21  UTC)<br/>
-Major Order | A1-9-4 Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39  UTC)<br/>
+Major Order | [A1-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-4) Freedom's Audit is failed | Objective: Conquest (2024-09-24 15:39  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Clasa, Fori Prime, Zagon Prime, Erson Sands<br/> Decay: 1.5 on Talus sector, Draco sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector, Valdis sector, Marspira sector<br/> Decay: 0.5 on Trandor, Claorell<br/> Decay: 1.0 on Fenrir III<br/> Decay: 2.5 on Choohe, Lesath, Turing<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds
  (2024-09-24 15:39  UTC)<br/>
-Major Order | A1-9-5 DSS Construction Site is issued | Objective: Liberate (2024-09-24 16:00  UTC)<br/>
+Major Order | [A1-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-5) DSS Construction Site is issued | Objective: Liberate (2024-09-24 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds
  (2024-09-24 16:00  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07  UTC)<br/>
@@ -3710,7 +3711,7 @@ Major Order | A1-9-5 DSS Construction Site is issued | Objective: Liberate (2024
  (2024-09-28 00:00  UTC)<br/>
 *Gaellivare* is liberated (2024-09-28 01:05  UTC)<br/>
 ↳ *Imber* liberation campaign starts (2024-09-28 01:05  UTC)<br/>
-↳ Major Order | A1-9-5 DSS Construction Site is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
+↳ Major Order | [A1-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-5) DSS Construction Site is won | Objective: Liberate (2024-09-28 01:05  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Clasa, Fori Prime, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Draco sector, Lacaille sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Trandor, Claorell<br/> Decay: 2.5 on Vernen Wells, Choohe, Lesath, Oshaune<br/> Decay: 1.0 on Aesir Pass, Fenrir III<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock<br/> Decay: 0.0 on Charbal-VII<br/> Decay: 0.8 on Human worlds
  (2024-09-28 01:05  UTC)<br/>
 *Gaellivare* of the Talus sector is established as a DSS Construction Site POI (2024-09-28 01:08  UTC)<br/>
@@ -3731,7 +3732,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench *Gaellivare* fr
  (2024-09-28 14:00  UTC)<br/>
  Decay: 3.0 on Hellmire, Fori Prime, Nivel 43<br/> Decay: 2.5 on Vernen Wells<br/> Decay: 1.5 on Vog-Sojoth, Chort Bay, Gatria<br/> Decay: 500.0 on Draupnir, Tibit, X-45<br/> Decay: 0.8 on Vandalon IV
  (2024-09-28 16:00  UTC)<br/>
-Major Order | A1-9-6 Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
+Major Order | [A1-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-6) Warp Drives is issued | Objective: Control (2024-09-28 18:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs. The Helldivers are ordered to clear *Turing* of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS. (2024-09-28 18:35  UTC)<br/>
  Decay: 1.0 on Aesir Pass<br/> Decay: 3.0 on Erson Sands<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 1.5 on Estanu<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Varylia 5<br/> Decay: 500.0 on Ubanea
  (2024-09-28 18:35  UTC)<br/>
@@ -3875,7 +3876,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  (2024-10-04 02:58  UTC)<br/>
 
 # Day: #240
-Major Order | A1-9-6 Warp Drives is won | Objective: Control (2024-10-04 10:52  UTC)<br/>
+Major Order | [A1-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-6) Warp Drives is won | Objective: Control (2024-10-04 10:52  UTC)<br/>
  Decay: 1.5 on Marspira sector, Talus sector, Borgus sector, Jin Xi sector, Valdis sector, Draco sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 1.0 on Aesir Pass, Fenrir III<br/> Decay: 3.0 on Gaellivare, Clasa<br/> Decay: 2.5 on Turing, Choohe, Lesath, Oshaune<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.8 on Wezen, Ustotu, Vandalon IV
  (2024-10-04 10:52  UTC)<br/>
 *Turing* of the Umlaut sector is established as a Xenoentomology Center POI (2024-10-04 11:41  UTC)<br/>
@@ -3884,7 +3885,7 @@ Major Order | A1-9-6 Warp Drives is won | Objective: Control (2024-10-04 10:52  
 Dispatch: MAJOR ORDER WON. With the planet safely held, ground has been broken on the Xenoentomology Center on *Turing*. *Super Earth*'s leading Terminid experts and FTL engineers from across the galaxy have converged on the planet, to develop High-Efficiency Alcubiere Drives. These new drives, once built, will enable the Democracy Space Station to warp between planets at the Helldivers' direction, dispensing Freedom anywhere it is required. (2024-10-04 11:48  UTC)<br/>
  Decay: 3.0 on Hellmire, Erson Sands<br/> Decay: 1.0 on Martale<br/> Decay: 0.8 on Vandalon IV, Vega Bay
  (2024-10-04 11:48  UTC)<br/>
-Major Order | A1-10-1 *Claorell* Forge Construction is issued | Objective: Liberate (2024-10-04 13:12  UTC)<br/>
+Major Order | [A1-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-1) *Claorell* Forge Construction is issued | Objective: Liberate (2024-10-04 13:12  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, Tanis sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Imber, Vog-Sojoth, Acamar IV, Claorell, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-04 13:12  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The DSS will require the construction of the Deep Mantle Forge Complex, which will use extreme heat and pressure near a planet's core to create large quantities of new, powerful alloy. We have identified atmospheric readings on *Claorell* indicating the Automatons are already engaging in deep-mantle mining operations on the planet. The Helldivers are directed to liberate *Claorell* and its deep-mantle mining complex from the Automatons. (2024-10-04 13:14  UTC)<br/>
@@ -3951,7 +3952,7 @@ Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton res
  (2024-10-08 00:00  UTC)<br/>
 *Claorell* is liberated (2024-10-08 03:06  UTC)<br/>
 ↳ *Vog-Sojoth* liberation campaign starts (2024-10-08 03:06  UTC)<br/>
-↳ Major Order | A1-10-1 *Claorell* Forge Construction is won | Objective: Liberate (2024-10-08 03:06  UTC)<br/>
+↳ Major Order | [A1-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-1) *Claorell* Forge Construction is won | Objective: Liberate (2024-10-08 03:06  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Fori Prime<br/> Decay: 0.5 on Shelt<br/> Decay: 1.0 on Imber<br/> Decay: 2.5 on Turing, Choohe, Clasa, Lesath<br/> Decay: 1.5 on Darius II, Estanu, Gacrux, Pandion-XXIV, Partion, Cyberstan<br/> Decay: 2.0 on Acamar IV, Claorell, Menkent, Peacock, Phact Bay<br/> Decay: 0.8 on Human worlds
  (2024-10-08 03:06  UTC)<br/>
 *Claorell* of the Tanis sector is established as a Deep Mantle Forge Complex POI (2024-10-08 04:52  UTC)<br/>
@@ -3972,7 +3973,7 @@ Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operat
 *Vernen Wells* of the Hydra sector is attacked by Automatons (2024-10-08 13:35  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Erson Sands<br/> Decay: 1.0 on Imber<br/> Decay: 0.0 on Vernen Wells, Claorell<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 2.5 on Turing, Choohe, Lesath, Omicron<br/> Decay: 1.5 on Darius II, Estanu, Gacrux, Pandion-XXIV, Cyberstan<br/> Decay: 0.8 on Vandalon IV
  (2024-10-08 13:35  UTC)<br/>
-Major Order | A1-10-2 *Claorell* Lockdown is issued | Objective: Control/Defend (2024-10-08 13:41  UTC)<br/>
+Major Order | [A1-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-2) *Claorell* Lockdown is issued | Objective: Control/Defend (2024-10-08 13:41  UTC)<br/>
 Dispatch: The Automatons have refused to accept the peaceful and righteous liberation of *Claorell*. In an act of brazen escalation, they seek to steal the planet so many Helldivers gave their lives to liberate. This wanton aggression will not be tolerated. The Helldivers are ordered to hold *Claorell* at all costs. (2024-10-08 13:43  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-08 14:00  UTC)<br/>
@@ -4042,13 +4043,13 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
  (2024-10-11 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-11 12:00  UTC)<br/>
-Major Order | A1-10-2 *Claorell* Lockdown is won | Objective: Control/Defend (2024-10-11 13:53  UTC)<br/>
+Major Order | [A1-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-2) *Claorell* Lockdown is won | Objective: Control/Defend (2024-10-11 13:53  UTC)<br/>
  Decay: 0.5 on Shelt, Trandor<br/> Decay: 1.0 on Imber<br/> Decay: 1.5 on Esker, Vernen Wells, Darius II, Gacrux, Gatria, Pandion-XXIV, Cyberstan<br/> Decay: 3.0 on Gaellivare, Hellmire, Erson Sands<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Clasa, Peacock, Phact Bay, Menkent<br/> Decay: 2.5 on Choohe, Lesath, Oshaune, Turing, Omicron<br/> Decay: 0.8 on Human worlds
  (2024-10-11 13:53  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Claorell* has held, and the Automaton offensive rebuffed. The Deep Mantle Forge Complex has been completed, and has begun producing the cutting-edge alloy that will reinforce the hull of the Democracy Space Station. (2024-10-11 13:55  UTC)<br/>
 DSS Construction Phase One is finished (2024-10-11 13:57  UTC)<br/>
 DSS Construction Phase Two is started (2024-10-11 13:57  UTC)<br/>
-Major Order | A1-10-3 Terminid Preserve is issued | Objective: Control (2024-10-11 15:07  UTC)<br/>
+Major Order | [A1-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-3) Terminid Preserve is issued | Objective: Control (2024-10-11 15:07  UTC)<br/>
  Decay: 1.5 on Crimsica, Estanu<br/> Decay: 0.1 on Acamar IV<br/> Decay: 3.0 on Fori Prime
  (2024-10-11 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere Drives, the Helldivers are ordered to help establish a multi-planet Terminid Research Preserve on *Acamar IV*. The Helldivers are to clear and hold the surrounding planets in order to establish a quarantine. Inside the quarantine, Terminid specimens will be seeded inside tightly-controlled multi-acre facilities, where they can be studied by researchers as needed. (2024-10-11 15:08  UTC)<br/>
@@ -4236,7 +4237,7 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
  (2024-10-18 00:00  UTC)<br/>
 
 ### Day: #254
-Major Order | A1-10-3 Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
+Major Order | [A1-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-3) Terminid Preserve is won | Objective: Control (2024-10-18 09:30  UTC)<br/>
  Decay: 0.5 on Shelt<br/> Decay: 1.0 on Imber, Trandor, Fenrir III, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Peacock<br/> Decay: 2.5 on Turing, Lesath, Oshaune<br/> Decay: 0.1 on Acamar IV<br/> Decay: 5.0 on Choohe<br/> Decay: 0.8 on Varylia 5, Wezen
  (2024-10-18 09:30  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is established as a Terminid Research Preserve POI (2024-10-18 09:38  UTC)<br/>
@@ -4250,7 +4251,7 @@ Assault Division: Jet Brigade U1A leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
 Assault Division: Jet Brigade U1A deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 5.0 on Choohe<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-18 13:01  UTC)<br/>
-Major Order | A1-10-4 Stop The Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
+Major Order | [A1-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-4) Stop The Jet Brigade is issued | Objective: Defend (2024-10-18 13:03  UTC)<br/>
  Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Lacaille sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Imber, Trandor, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 2.5 on Turing, Lesath, Omicron<br/> Decay: 0.0 on Matar Bay
  (2024-10-18 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
@@ -4324,7 +4325,7 @@ Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the ap
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Martale<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-22 00:00  UTC)<br/>
 *Marfark* defense is won (2024-10-22 03:36  UTC)<br/>
-↳ Major Order | A1-10-4 Stop The Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
+↳ Major Order | [A1-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-4) Stop The Jet Brigade is won | Objective: Defend (2024-10-22 03:36  UTC)<br/>
  Decay: 1.0 on Imber, Trandor, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 3.0 on Gaellivare, Nivel 43<br/> Decay: 2.5 on Turing, Lesath, Omicron<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII<br/> Decay: 2.0 on Claorell, Clasa, Menkent, Peacock<br/> Decay: 4.0 on Martale<br/> Decay: 0.8 on Vandalon IV, Varylia 5
  (2024-10-22 03:36  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Martale<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -4371,7 +4372,7 @@ Assault Division: Jet Brigade U1A is routed from Marfark (2024-10-22 07:17  UTC)
 *Fori Prime* liberation campaign ends (2024-10-23 15:45  UTC)<br/>
  Decay: 1.0 on Imber, Trandor, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Lesath, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.5 on Marfark<br/> Decay: 2.5 on Oshaune, Omicron
  (2024-10-23 15:45  UTC)<br/>
-Major Order | A1-10-5 DSS Protection is issued | Objective: Defend/Liberate (2024-10-23 15:58  UTC)<br/>
+Major Order | [A1-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-5) DSS Protection is issued | Objective: Defend/Liberate (2024-10-23 15:58  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2024-10-23 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
  (2024-10-23 16:00  UTC)<br/>
@@ -4436,7 +4437,7 @@ Dispatch: SPORE SURGE. The Ministry of Science reports an unanticipated spike in
 ↳ *Penta* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-10-25 13:09  UTC)<br/>
-↳ Major Order | A1-10-5 DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
+↳ Major Order | [A1-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-5) DSS Protection is won | Objective: Defend/Liberate (2024-10-25 13:09  UTC)<br/>
 DSS Construction Phase Two is finished (2024-10-25 13:32  UTC)<br/>
 DSS Construction Phase Three is started (2024-10-25 13:32  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Lesath* has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the Jet Brigade resurface, the station will be more well-protected from attack. The DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online. (2024-10-25 13:32  UTC)<br/>
@@ -4448,7 +4449,7 @@ Dispatch: MAJOR ORDER WON. *Lesath* has been liberated by the Helldivers, pushin
  (2024-10-25 16:00  UTC)<br/>
  Decay: 0.5 on Shelt, Marfark<br/> Decay: 1.0 on Imber, Aesir Pass, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Trandor, Vog-Sojoth, Claorell, Clasa, Partion, Peacock, Phact Bay<br/> Decay: 2.5 on Penta, Choohe, Chort Bay, Omicron<br/> Decay: 3.0 on Gaellivare, Fori Prime<br/> Decay: 0.1 on Acamar IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Troost, Ustotu, Vega Bay
  (2024-10-25 20:00  UTC)<br/>
-Major Order | A1-10-6 Liberty Day 2024 is issued | Objective: Control (2024-10-25 22:03  UTC)<br/>
+Major Order | [A1-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-6) Liberty Day 2024 is issued | Objective: Control (2024-10-25 22:03  UTC)<br/>
 Dispatch: TODAY IS LIBERTY DAY. The most patriotic of holidays, and the only one with at least one full hour of time off for every *Super Earth* citizen, is finally here. Helldivers are encouraged to celebrate Managed Democracy to the best of their ability. Therefore, no order will guide their actions for the next 24 hours. High Command wishes all Helldivers a Democratic Liberty Day. (2024-10-25 22:03  UTC)<br/>
  Decay: 3.0 on Hellmire, Erson Sands<br/> Decay: 1.5 on Bore Rock<br/> Decay: 1.0 on Fenrir III<br/> Decay: 2.5 on Turing<br/> Decay: 0.8 on Vandalon IV<br/> Decay: 500.0 on X-45
  (2024-10-25 22:03  UTC)<br/>
@@ -4469,7 +4470,7 @@ Dispatch: LIBERTY DAY HAS ENDED. Another Liberty Day has come to an end. With th
  (2024-10-26 16:00  UTC)<br/>
  Decay: 0.5 on Shelt, Marfark<br/> Decay: 1.0 on Imber, Aesir Pass, Fenrir III, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Trandor, Vog-Sojoth, Claorell, Clasa, Partion, Peacock, Phact Bay<br/> Decay: 2.5 on Penta, Turing, Chort Bay, Oshaune, Omicron<br/> Decay: 3.0 on Gaellivare, Erson Sands, Fori Prime, Nivel 43<br/> Decay: 0.1 on Acamar IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Vandalon IV, Vega Bay, Wezen
  (2024-10-26 20:00  UTC)<br/>
-Major Order | A1-10-6 Liberty Day 2024 is won | Objective: Control (2024-10-26 22:05  UTC)<br/>
+Major Order | [A1-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-6) Liberty Day 2024 is won | Objective: Control (2024-10-26 22:05  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 1.5 on Esker<br/> Decay: 1.0 on Veld<br/> Decay: 500.0 on Socorro III, Malevelon Creek<br/> Decay: 2.5 on Angel's Venture, Choohe
  (2024-10-26 22:05  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Jin Xi sector, Andromeda sector, Tanis sector<br/> Decay: 2.5 on Sten sector, Orion sector, Lacaille sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Trandor, Vog-Sojoth, Claorell, Clasa, Partion, Peacock, Phact Bay<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -4524,7 +4525,7 @@ Major Order | A1-10-6 Liberty Day 2024 is won | Objective: Control (2024-10-26 2
 *Zefia* liberation campaign starts (2024-10-28 15:17  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Jin Xi sector, Andromeda sector, Tanis sector<br/> Decay: 2.5 on Sten sector, Orion sector, Lacaille sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Imber, Cirrus, Veld, Aesir Pass, Fenrir III, Darius II<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Sten sector, Tanis sector, Jin Xi sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds
  (2024-10-28 15:17  UTC)<br/>
-Major Order | A1-10-7 High Priority Objectives is issued | Objective: Liberate/Control/Defend (2024-10-28 15:20  UTC)<br/>
+Major Order | [A1-10-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-7) High Priority Objectives is issued | Objective: Liberate/Control/Defend (2024-10-28 15:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to accomplish 3 objectives: capture an Automaton database containing critical intel regarding the Jet Brigade, re-secure the Terminid Research Preserve, and limit Automaton territorial expansion. (2024-10-28 15:38  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Fori Prime<br/> Decay: 0.0 on Blistica, Mintoria<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Jin Xi sector<br/> Decay: 1.0 on Aesir Pass, Darius II<br/> Decay: 2.5 on Penta, Chort Bay, Omicron<br/> Decay: 2.9 on Lesath<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Vandalon IV
  (2024-10-28 15:38  UTC)<br/>
@@ -4679,7 +4680,7 @@ Dispatch: INVASION! CURIA has issued an emergency defense beacon. All available 
  (2024-11-03 10:00  UTC)<br/>
  Decay: 1.0 on Curia, Aesir Pass, Darius II<br/> Decay: 1.5 on Gellert sector, Hydra sector, Draco sector, Jin Xi sector, Andromeda sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Penta, Angel's Venture, Choohe, Chort Bay, Omicron<br/> Decay: 3.0 on Gaellivare<br/> Decay: 0.1 on Acamar IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Troost
  (2024-11-03 14:00  UTC)<br/>
-Major Order | A1-10-7 High Priority Objectives is failed | Objective: Liberate/Control/Defend (2024-11-03 15:42  UTC)<br/>
+Major Order | [A1-10-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-7) High Priority Objectives is failed | Objective: Liberate/Control/Defend (2024-11-03 15:42  UTC)<br/>
  Decay: 1.0 on Imber<br/> Decay: 1.5 on Crimsica, Gatria, Yed Prior<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Nivel 43<br/> Decay: 0.8 on Vega Bay
  (2024-11-03 15:42  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Despite heroic effort, the Helldivers were unable to complete all three objectives set by High Command. Consult the Galactic Map on your ship for more information. (2024-11-03 16:02  UTC)<br/>
@@ -4709,7 +4710,7 @@ Dispatch: INTEL ADVISORY. Alerts from the Xenoentomology Center indicate imminen
  (2024-11-04 14:59  UTC)<br/>
 *Socorro III* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
 *Esker* of the Falstaff sector is attacked by Terminids (2024-11-04 15:00  UTC)<br/>
-Major Order | A1-11-1 DSS Staffing is issued | Objective: Defend/Control (2024-11-04 15:00  UTC)<br/>
+Major Order | [A1-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-1) DSS Staffing is issued | Objective: Defend/Control (2024-11-04 15:00  UTC)<br/>
  Decay: 0.0 on Esker, Socorro III<br/> Decay: 2.5 on Turing<br/> Decay: 500.0 on Achird III, X-45<br/> Decay: 2.0 on Peacock
  (2024-11-04 15:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS. Consult the Galactic Map on your ship for more information. (2024-11-04 15:01  UTC)<br/>
@@ -4868,7 +4869,7 @@ Dispatch: INVASION! The Terminids are attempting to spread to BORE ROCK. All Hel
  (2024-11-10 12:00  UTC)<br/>
  Decay: 1.5 on Gellert sector, Draco sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Erata Prime<br/> Decay: 2.5 on Heeth, Penta, Choohe, Chort Bay<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, Jin Xi sector, Mirin sector<br/> Decay: 3.0 on Vernen Wells, Gaellivare, Nivel 43<br/> Decay: 2.9 on Lesath<br/> Decay: 0.5 on Marfark, Matar Bay<br/> Decay: 0.8 on Troost, Vandalon IV
  (2024-11-10 14:00  UTC)<br/>
-Major Order | A1-11-1 DSS Staffing is won | Objective: Defend/Control (2024-11-10 15:26  UTC)<br/>
+Major Order | [A1-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-1) DSS Staffing is won | Objective: Defend/Control (2024-11-10 15:26  UTC)<br/>
  Decay: 3.0 on Hellmire, Fori Prime<br/> Decay: 1.0 on Curia, Fenrir III<br/> Decay: 0.8 on Varylia 5<br/> Decay: 500.0 on Zzaniah Prime
  (2024-11-10 15:26  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to hold all designated planets, allowing their citizens to safely evacuate to the DSS. The DSS is now fully staffed, and the project has entered its final phase. As we look towards our bright future, we thank the Helldivers, whose hard work will soon allow the DSS to blast away all shadows. (2024-11-10 15:28  UTC)<br/>
@@ -4897,7 +4898,7 @@ DSS Construction Phase Four is started (2024-11-10 16:12  UTC)<br/>
  (2024-11-11 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 4.0 on Vernen Wells<br/> Decay: 0.4 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-11 12:00  UTC)<br/>
-Major Order | A1-11-2 DSS Fueling is issued | Objective: Control/Eradicate (2024-11-11 14:02  UTC)<br/>
+Major Order | [A1-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-2) DSS Fueling is issued | Objective: Control/Eradicate (2024-11-11 14:02  UTC)<br/>
 Assault Division: Jet Brigade U2A deploys to *Vernen Wells* (2024-11-11 14:02  UTC)<br/>
  Decay: 1.5 on Gellert sector, Draco sector, Falstaff sector, Jin Xi sector, Andromeda sector, Hydra sector, Sten sector, Tanis sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Erata Prime<br/> Decay: 2.5 on Heeth, Penta, Choohe, Chort Bay<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, Jin Xi sector<br/> Decay: 5.0 on Vernen Wells<br/> Decay: 3.0 on Gaellivare<br/> Decay: 0.4 on Acamar IV<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Vega Bay
  (2024-11-11 14:02  UTC)<br/>
@@ -5070,7 +5071,7 @@ Assault Division: Jet Brigade U2A leaves *Gaellivare* (2024-11-16 11:17  UTC)<br
 Assault Division: Jet Brigade U2A deploys to *Gaellivare* (2024-11-16 13:03  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-16 13:03  UTC)<br/>
-Major Order | A1-11-2 DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
+Major Order | [A1-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-2) DSS Fueling is won | Objective: Control/Eradicate (2024-11-16 14:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. *Gaellivare* has been held for the designated timeframe. However, the planet, and the DSS itself, remain imperiled. The fight is not over. High Command will monitor the situation. Further guidance will be issued once the fate of *Gaellivare* is decided—one way or the other. (2024-11-16 14:19  UTC)<br/>
  Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Falstaff sector, Jin Xi sector, L'estrade sector<br/> Decay: 1.0 on Curia, Imber, Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 2.5 on Turing, Choohe, Chort Bay<br/> Decay: 3.0 on Fori Prime<br/> Decay: 0.5 on Marfark, Matar Bay<br/> Decay: 0.8 on Ustotu, Vandalon IV
  (2024-11-16 20:00  UTC)<br/>
@@ -5122,7 +5123,7 @@ Assault Division: Jet Brigade U2A leaves *Gaellivare* (2024-11-18 16:09  UTC)<br
 Assault Division: Jet Brigade U2A deploys to *Imber* (2024-11-18 16:09  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Falstaff sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-18 16:09  UTC)<br/>
-Major Order | A1-11-3 DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
+Major Order | [A1-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-3) DSS Conquest is issued | Objective: Conquest (2024-11-18 16:53  UTC)<br/>
  Decay: 2.0 on Marspira sector, Sten sector, Tanis sector, Jin Xi sector, L'estrade sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Falstaff sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 0.0 on Imber<br/> Decay: 1.0 on Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 3.0 on Gaellivare, Nivel 43<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Vandalon IV
  (2024-11-18 16:53  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 0.0 on Meridia<br/> Decay: 1.0 on Marspira sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -5259,7 +5260,7 @@ DSS effect Eagle Storm stops (2024-11-24 03:40  UTC)<br/>
  (2024-11-24 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-24 16:00  UTC)<br/>
-Major Order | A1-11-3 DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
+Major Order | [A1-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-3) DSS Conquest is won | Objective: Conquest (2024-11-24 17:14  UTC)<br/>
  Decay: 3.0 on Hellmire, Fori Prime<br/> Decay: 2.0 on Mastia, Trandor, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Imber, Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime, Martale<br/> Decay: 2.5 on Heeth, Turing, Choohe<br/> Decay: 0.8 on Vandalon IV, Varylia 5
  (2024-11-24 17:14  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -5291,7 +5292,7 @@ DSS effect Planetary Bombardment is activated (2024-11-25 03:47  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-11-25 15:17  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Borgus sector, Jin Xi sector, Umlaut sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Falstaff sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-25 15:17  UTC)<br/>
-Major Order | A1-11-4 MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
+Major Order | [A1-11-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-4) MG Testing is issued | Objective: Eradicate (2024-11-25 16:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection. The Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons: -The M-105 Stalwart -The MG-43 Machine Gun -The MG-206 Heavy Machine Gun. The machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun. (2024-11-25 16:19  UTC)<br/>
  Decay: 2.0 on Mastia, Trandor, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Lacaille sector, Sten sector, Valdis sector<br/> Decay: 1.0 on Imber, Esker, Aesir Pass, Darius II, Acamar IV, Erata Prime, Martale<br/> Decay: 2.5 on Penta, Choohe, Chort Bay<br/> Decay: 3.0 on Fori Prime<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Varylia 5
  (2024-11-25 16:19  UTC)<br/>
@@ -5369,7 +5370,7 @@ DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2024-11-28 03:13  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-11-29 03:16  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 2.0 on Mastia, Trandor, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Talus sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector, Gellert sector, Valdis sector<br/> Decay: 1.0 on Esker, Aesir Pass, Fenrir III, Darius II, Acamar IV, Erata Prime, Martale<br/> Decay: 2.5 on Penta, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.8 on Troost, Varylia 5, Wezen
  (2024-11-29 03:16  UTC)<br/>
-Major Order | A1-11-4 MG Testing is won | Objective: Eradicate (2024-11-29 03:55  UTC)<br/>
+Major Order | [A1-11-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-4) MG Testing is won | Objective: Eradicate (2024-11-29 03:55  UTC)<br/>
  Decay: 500.0 on Malevelon Creek<br/> Decay: 0.5 on Marfark<br/> Decay: 2.0 on Oshaune, Omicron<br/> Decay: 0.45 on Wasat<br/> Decay: 1.5 on Zefia, Mintoria<br/> Decay: 0.8 on Vega Bay
  (2024-11-29 03:55  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
@@ -5385,7 +5386,7 @@ Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' resolute commitment to scie
 *Marfark* of the Andromeda sector is attacked by Automatons (2024-11-29 15:24  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.0 on Marspira sector, Sten sector, Falstaff sector, Tanis sector, L'estrade sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Talus sector, Tanis sector, Jin Xi sector, Lacaille sector, Sten sector<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-29 15:24  UTC)<br/>
-Major Order | A1-11-5 Jet Brigade Staging Ground is issued | Objective: Liberate/Eradicate (2024-11-29 16:08  UTC)<br/>
+Major Order | [A1-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-5) Jet Brigade Staging Ground is issued | Objective: Liberate/Eradicate (2024-11-29 16:08  UTC)<br/>
  Decay: 0.0 on Marfark<br/> Decay: 1.5 on Matar Bay
  (2024-11-29 16:08  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Though the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. The Helldivers are ordered to gather intel on the factories' location by: - Liberating the Jet Brigade staging ground on *Choohe*. - Dismantling enough bots to find any that operated alongside the Jet Brigade. (2024-11-29 16:09  UTC)<br/>
@@ -5461,7 +5462,7 @@ DSS deploys to *Chort Bay* of the Lacaille sector (2024-12-04 03:28  UTC)<br/>
 DSS effect Planetary Bombardment is activated (2024-12-04 04:11  UTC)<br/>
 
 ### Day: #301
-Major Order | A1-11-5 Jet Brigade Staging Ground is failed | Objective: Liberate/Eradicate (2024-12-04 16:21  UTC)<br/>
+Major Order | [A1-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-11-5) Jet Brigade Staging Ground is failed | Objective: Liberate/Eradicate (2024-12-04 16:21  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Though the Helldivers dismantled over 150,000,000 Automatons, they were unable to claim the Jet Brigade staging ground on *Choohe*. This means that our search for information on Jet Brigade factories was only partially successful. It will take time to analyze the memory drives recovered from the dismantled Automatons, but when we do, we will find and destroy the factories. (2024-12-04 16:24  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2024-12-04 17:14  UTC)<br/>
  Decay: 0.0 on Terrek
@@ -5471,7 +5472,7 @@ DSS effect Planetary Bombardment stops (2024-12-05 04:13  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-12-05 05:09  UTC)<br/>
 
 ### Day: #302
-Major Order | A1-12-1 Gas Mine Production is issued | Objective: Liberate (2024-12-05 17:01  UTC)<br/>
+Major Order | [A1-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-1) Gas Mine Production is issued | Objective: Liberate (2024-12-05 17:01  UTC)<br/>
 Dispatch: BRIEFING. Efforts to expand the arsenal of chemical deterrents have been interrupted by an uptick in colonial labor shrinkage. While investigations are underway, these unforecasted population reductions have caused a resource shortfall. Specifically, mass production of new MD-8 Gas Mines is currently bottlenecked by chlorine shortages. Military intervention is now required. The Ministry of Expansion has identified several planets as rich in easily-accessible salt deposits, which can be mined rapidly for subsequent conversion to chlorine. The Helldivers are ordered to reclaim these planets from our enemies. If all planets can be secured within the specified timeframe, the MD-8 Gas Mines will be made available for immediate requisition in all Super Destroyers. (2024-12-05 17:02  UTC)<br/>
 *Choohe* is liberated (2024-12-05 19:15  UTC)<br/>
 ↳ *Aurora Bay* liberation campaign starts (2024-12-05 19:15  UTC)<br/>
@@ -5512,7 +5513,7 @@ DSS deploys to *Blistica* of the Gellert sector (2024-12-10 03:42  UTC)<br/>
 DSS effect Orbital Blockade is activated (2024-12-10 04:07  UTC)<br/>
 
 ### Day: #307
-Major Order | A1-12-1 Gas Mine Production is failed | Objective: Liberate (2024-12-10 16:12  UTC)<br/>
+Major Order | [A1-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-1) Gas Mine Production is failed | Objective: Liberate (2024-12-10 16:12  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Too few planets were liberated by the Helldivers to recitify the current chlorine shortage, delaying production of the MD-8 Gas Mines. Consult the Galactic Map on your ship for more information. (2024-12-10 16:16  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is established as a Factory Hub POI (2024-12-10 16:33  UTC)<br/>
 *Blistica* is liberated (2024-12-11 00:47  UTC)<br/>
@@ -5524,7 +5525,7 @@ DSS effect Orbital Blockade stops (2024-12-11 04:12  UTC)<br/>
 *Erson Sands* liberation campaign ends (2024-12-11 13:17  UTC)<br/>
 *Nivel 43* liberation campaign ends (2024-12-11 13:17  UTC)<br/>
 *Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-12-11 13:24  UTC)<br/>
-Major Order | A1-12-2 Factory Hub Defense is issued | Objective: Defend (2024-12-11 14:06  UTC)<br/>
+Major Order | [A1-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-2) Factory Hub Defense is issued | Objective: Defend (2024-12-11 14:06  UTC)<br/>
  Decay: 0.0 on Phact Bay
  (2024-12-11 14:06  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has awarded a multitrillion-Supercredit contract to AM Defense to expand production of high-quality military equipment for the Helldivers. AM Defense will construct a massive, multi-complex Factory Hub on ACHERNAR SECUNDUS. Readings indicate a Terminid expansion towards ACHERNAR SECUNDUS. The Helldivers must protect the investments of our security partners. (2024-12-11 14:16  UTC)<br/>
@@ -5539,12 +5540,12 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-12-12 03:50  UTC)<br/>
  (2024-12-12 16:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-12 19:27  UTC)<br/>
 *Calypso* of the Saleria sector is invaded by Illuminate (2024-12-13 02:21  UTC)<br/>
-Major Order | A1-12-2 Factory Hub Defense is won | Objective: Defend (2024-12-13 02:22  UTC)<br/>
+Major Order | [A1-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-2) Factory Hub Defense is won | Objective: Defend (2024-12-13 02:22  UTC)<br/>
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-13 02:22  UTC)<br/>
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (2024-12-13 02:24  UTC)<br/>
 Dispatch: ALL UNITS TO LIBCON 1. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (2024-12-13 02:28  UTC)<br/>
-Major Order | A1-12-3 Defend *Calypso* from the Illuminate is issued | Objective: Defend (2024-12-13 02:28  UTC)<br/>
+Major Order | [A1-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-3) Defend *Calypso* from the Illuminate is issued | Objective: Defend (2024-12-13 02:28  UTC)<br/>
 Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings. (2024-12-13 02:30  UTC)<br/>
 
 # Day: #310
@@ -5560,7 +5561,7 @@ Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline follow
 Dispatch: STRATEGIC UPDATE. Illuminate forces hold multiple locations on CALYPSO. Enemy intentions unknown. Human-like assailants reported. Use all necessary force to repel enemy. (2024-12-15 14:28  UTC)<br/>
 *Calypso*'s invasion is repelled (2024-12-16 02:16  UTC)<br/>
 ↳ Saleria sector is fully under Human control (2024-12-16 02:16  UTC)<br/>
-Major Order | A1-12-3 Defend *Calypso* from the Illuminate is won | Objective: Defend (2024-12-16 02:16  UTC)<br/>
+Major Order | [A1-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-3) Defend *Calypso* from the Illuminate is won | Objective: Defend (2024-12-16 02:16  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The resurgent Illuminate have been repelled by the Helldivers. Consult the Galactic Map on your ship for additional information. (2024-12-16 02:23  UTC)<br/>
 Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has been completed. Production of Fast Recon Vehicles (FRVs) for all Helldiver battlespaces is on schedule to begin within the next several days. (2024-12-16 02:26  UTC)<br/>
 *Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-12-16 02:32  UTC)<br/>
@@ -5570,7 +5571,7 @@ Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has bee
 
 ### Day: #313
 *Genesis Prime* of the Rictus sector is invaded by Illuminate (2024-12-16 21:38  UTC)<br/>
-Major Order | A1-12-4 Repel Illuminate Incursions is issued | Objective: Defend (2024-12-16 21:43  UTC)<br/>
+Major Order | [A1-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-4) Repel Illuminate Incursions is issued | Objective: Defend (2024-12-16 21:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminate (2024-12-17 00:10  UTC)<br/>
@@ -5637,7 +5638,7 @@ Dispatch: ACHERNAR SECUNDUS SECURED. The Illuminate have been repelled from ACHE
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2024-12-20 20:29  UTC)<br/>
 *Skaash*'s invasion is repelled (2024-12-20 21:17  UTC)<br/>
 ↳ Ursa sector is fully under Human control (2024-12-20 21:17  UTC)<br/>
-Major Order | A1-12-4 Repel Illuminate Incursions is won | Objective: Defend (2024-12-20 21:17  UTC)<br/>
+Major Order | [A1-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-4) Repel Illuminate Incursions is won | Objective: Defend (2024-12-20 21:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After days of fighting, colonies lie in ruins across the galaxy. The evidence is clear: the Illuminate have returned in force to menace Freedom once again. But they have returned to find a mighty and stalwart opponent. The Helldivers, champions of the First Galactic War, repulsed the Illuminate wave of attacks, reminding our xenophobic aggressors why their previous attempt at galactic domination failed so utterly. (2024-12-20 21:17  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 0.0 on Erata Prime
  (2024-12-20 21:17  UTC)<br/>
@@ -5645,7 +5646,7 @@ Dispatch: MAJOR ORDER WON. After days of fighting, colonies lie in ruins across 
 ↳ Gallux sector is fully under Human control (2024-12-20 21:38  UTC)<br/>
 
 ### Day: #318
-Major Order | A1-12-5 Secure *Fenrir III* is issued | Objective: Control (2024-12-21 11:07  UTC)<br/>
+Major Order | [A1-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-5) Secure *Fenrir III* is issued | Objective: Control (2024-12-21 11:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vicinity of the *Meridia* Singularity. Astronomers have reported fluctuations in the event horizon and electromagnetic flares. These developments demand further investigation. High Command has ordered the construction of a new Center of Science on *Fenrir III*. The Helldivers must clear the planet and nearby area of any Terminid infestation in order to facilitate its safe construction. (2024-12-21 11:16  UTC)<br/>
 *Elysian Meadows* of the Guang sector is invaded by Illuminate (2024-12-21 11:18  UTC)<br/>
 *Erata Prime* defense is failed (2024-12-21 20:30  UTC)<br/>
@@ -5695,10 +5696,10 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 *Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-24 15:25  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2024-12-24 16:13  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2024-12-24 16:13  UTC)<br/>
-Major Order | A1-12-5 Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
+Major Order | [A1-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-5) Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
 *Fenrir III* of the Umlaut sector is established as a Center of Science POI (2024-12-24 23:11  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Decisive Fascism-repulsion operations by the Helldivers in vicinity of *Fenrir III* has facilitated the safe construction of a new Center of Science. Already, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information. (2024-12-24 23:12  UTC)<br/>
-Major Order | A1-12-6 Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
+Major Order | [A1-12-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-6) Festival of Reckoning 2024 is issued | Objective: Control (2024-12-24 23:16  UTC)<br/>
 Dispatch: HOLIDAY NOTICE. Today, citizens across the Federation observe one of our most special holidays. A joyous celebration of love, family, and pursuing peace: the Festival of Reckoning. Consult the Galactic Map on your ship for more information. (2024-12-24 23:21  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all Helldivers, who proved their virtue this year through unhestitating sacrifice in defense of Freedom. All Helldivers will find the StA-X3 W.A.S.P. LAUNCHER Stratagem waiting in their Armory. (2024-12-24 23:22  UTC)<br/>
 *Bore Rock* defense is failed (2024-12-24 23:43  UTC)<br/>
@@ -5744,9 +5745,9 @@ Dispatch: ILLUMINATE INCURSION. The Illuminate have launched a vicious assault o
 ↳ *Penta* liberation campaign ends (2024-12-27 19:42  UTC)<br/>
  Decay: 1.5 on Lesath
  (2024-12-27 20:00  UTC)<br/>
-Major Order | A1-12-6 Festival of Reckoning 2024 is won | Objective: Control (2024-12-27 23:23  UTC)<br/>
+Major Order | [A1-12-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-6) Festival of Reckoning 2024 is won | Objective: Control (2024-12-27 23:23  UTC)<br/>
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has come to a close. Consult the Galactic Map on your ship for more information. (2024-12-27 23:31  UTC)<br/>
-Major Order | A1-12-7 Illuminate Eradication and Deterrence is issued | Objective: Eradicate/Defend (2024-12-27 23:33  UTC)<br/>
+Major Order | [A1-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-7) Illuminate Eradication and Deterrence is issued | Objective: Eradicate/Defend (2024-12-27 23:33  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate and Voteless as possible over the coming wave of attacks. This will both deter the enemy and allow the Ministry of Science to autopsy the remains, possibly yielding intel about the Illuminate and how the Voteless are created. (2024-12-27 23:36  UTC)<br/>
 *Gemma* of the Ursa sector is invaded by Illuminate (2024-12-28 00:35  UTC)<br/>
 *Julheim*'s invasion is successful (2024-12-28 00:58  UTC)<br/>
@@ -5801,7 +5802,7 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
  (2025-01-01 22:00  UTC)<br/>
 *RD-4*'s invasion is repelled (2025-01-02 02:47  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-02 02:47  UTC)<br/>
-Major Order | A1-12-7 Illuminate Eradication and Deterrence is won | Objective: Eradicate/Defend (2025-01-02 02:47  UTC)<br/>
+Major Order | [A1-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-7) Illuminate Eradication and Deterrence is won | Objective: Eradicate/Defend (2025-01-02 02:47  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-02 04:25  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2025-01-02 07:52  UTC)<br/>
 
@@ -5820,7 +5821,7 @@ Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll f
 *Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-01-03 03:26  UTC)<br/>
 *Regnus*'s invasion is successful (2025-01-03 03:36  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-03 03:36  UTC)<br/>
-Major Order | A2-1-1 CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
+Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2025-01-03 06:57  UTC)<br/>
 
 ### Day: #331
@@ -5890,7 +5891,7 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 *Khandark* of the Guang sector is invaded by Illuminate (2025-01-08 11:19  UTC)<br/>
 *Grafmere*'s invasion is successful (2025-01-08 12:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
-Major Order | A2-1-1 CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
+Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
 *Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Security POI (2025-01-08 14:23  UTC)<br/>
  Decay: 1.5 on Mastia
@@ -5937,7 +5938,7 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Pollux 31* - *Prasa* warp link is added (2025-01-10 18:39  UTC)<br/>
 *Grand Errant* of the Farsight sector is attacked by Terminids (2025-01-10 18:39  UTC)<br/>
 *Pherkad Secundus* of the Farsight sector is attacked by Terminids (2025-01-10 18:40  UTC)<br/>
-Major Order | A2-1-2 Defend 5 And Hold Two Planets is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
+Major Order | [A2-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-2) Defend 5 And Hold Two Planets is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a sharp increase in Terminid spore outflow from the Gloom, cascading throughout all Terminid-occupied worlds to greatly accelerate bug expansion. Multiple outbreaks have already been detected. The Helldivers must respond immediately to stem further outbreaks. Consult your Galactic Map for more information. (2025-01-10 18:46  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-10 20:46  UTC)<br/>
  Decay: 0.0 on Grand Errant, Pherkad Secundus
@@ -6047,13 +6048,13 @@ Dispatch: Voluntary extended work hours by patriotic factory workers has produce
 ↳ Hanzo sector is fully under Human control (2025-01-16 04:43  UTC)<br/>
 
 ### Day: #344
-Major Order | A2-1-2 Defend 5 And Hold Two Planets is won | Objective: Defend/Control (2025-01-16 13:01  UTC)<br/>
+Major Order | [A2-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-2) Defend 5 And Hold Two Planets is won | Objective: Defend/Control (2025-01-16 13:01  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Terminid outbreak has been contained. Consult your Galactic Map for more information. (2025-01-16 13:10  UTC)<br/>
 *Stout*'s invasion is repelled (2025-01-16 14:43  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-16 14:43  UTC)<br/>
 *Emorath* of the Meridian sector is invaded by Illuminate (2025-01-16 16:14  UTC)<br/>
 DSS is activated (2025-01-16 17:47  UTC)<br/>
-Major Order | A2-1-3 Repel 14 Illuminate Invasions is issued | Objective: Defend (2025-01-16 17:53  UTC)<br/>
+Major Order | [A2-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-3) Repel 14 Illuminate Invasions is issued | Objective: Defend (2025-01-16 17:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has been returned to operational status, following a systemwide breakdown during the initial Illuminate invasion. While the station was offline, Ministry of Defense engineers implemented a number of operational adjustments. Consult your Galactic Map for more information. The Illuminate have continued their assault on Freedom unabated. Utilize the power of the newly-repaired DSS to repel their invasion and save our citizens. (2025-01-16 17:53  UTC)<br/>
 *Emorath*'s invasion is repelled (2025-01-16 21:06  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-16 21:06  UTC)<br/>
@@ -6153,7 +6154,7 @@ DSS deploys to *Afoyay Bay* of the Gallux sector (2025-01-22 05:44  UTC)<br/>
 # Day: #350
 *Afoyay Bay*'s invasion is repelled (2025-01-22 09:15  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-22 09:15  UTC)<br/>
-Major Order | A2-1-3 Repel 14 Illuminate Invasions is failed | Objective: Defend (2025-01-22 12:05  UTC)<br/>
+Major Order | [A2-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-3) Repel 14 Illuminate Invasions is failed | Objective: Defend (2025-01-22 12:05  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Illuminate campaign of terror continues unrestricted. Even the resurgent DSS, deployed with unassailable precision by the Helldivers, was not enough to repel the tide of xeno-autocracy. Millions of colonists have perished, and untold more have been corrupted into Voteless servants. (2025-01-22 12:07  UTC)<br/>
 *Herthon Secundus*'s invasion is successful (2025-01-22 12:34  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-22 12:34  UTC)<br/>
@@ -6182,7 +6183,7 @@ DSS effect Orbital Blockade stops (2025-01-23 17:33  UTC)<br/>
 ​​*Bellatrix* of the Guang sector is invaded by Illuminate (2025-01-24 10:49  UTC)<br/>
 *Stout*'s invasion is successful (2025-01-24 11:42  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-24 11:42  UTC)<br/>
-Major Order | A2-1-4 Gloom Sample Gathering is issued | Objective: Sample/Control (2025-01-24 13:03  UTC)<br/>
+Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is issued | Objective: Sample/Control (2025-01-24 13:03  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Recent scientific findings have drastically increased the priority of developing Gloom-resistant technology. The Helldivers are ordered to collect scientific samples in order to support its development. Consult the Galactic Map on your ship for more information. (2025-01-24 13:03  UTC)<br/>
  Decay: 0.5 on Cirrus<br/> Decay: 3.0 on Erata Prime, Gacrux
  (2025-01-24 13:03  UTC)<br/>
@@ -6266,7 +6267,7 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 06:01  UTC)<br/>
 *Cirrus* is liberated (2025-01-29 09:09  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-01-29 09:09  UTC)<br/>
 DSS deploys to *Parsh* of the Rictus sector (2025-01-29 10:01  UTC)<br/>
-Major Order | A2-1-4 Gloom Sample Gathering is won | Objective: Sample/Control (2025-01-29 13:14  UTC)<br/>
+Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is won | Objective: Sample/Control (2025-01-29 13:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After innumerable scientific expeditions, the Xenoentomology Center has more than enough Terminid specimens to progress development on Gloom-resistant technology. Much work remains, but thanks to the Helldivers, the first expedition into the Gloom—and subsequent acquisition of its potentially vast E-710 reserves—may soon be within reach. Consult the Galactic Map on your Super Destroyer for more information. (2025-01-29 13:17  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-29 14:15  UTC)<br/>
@@ -6282,7 +6283,7 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
 *Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-30 12:41  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-01-30 13:30  UTC)<br/>
 *Chort Bay* of the Lacaille sector is established as a Jet Brigade Factories POI (2025-01-30 14:02  UTC)<br/>
-Major Order | A2-1-5 Jet Brigade Factories is issued | Objective: Liberate (2025-01-30 14:05  UTC)<br/>
+Major Order | [A2-1-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-5) Jet Brigade Factories is issued | Objective: Liberate (2025-01-30 14:05  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Intel from the Staging Grounds for the Automaton Jet Brigade on *Choohe* has finally been deciphered, and the source of the violent unit identified. The Factories that produced the robotic marauders is located on CHORT BAY. The Helldivers are ordered to strike deep into Automaton territory with the objective of liberating CHORT BAY and destroying the Jet Brigade Factories there. (2025-01-30 14:06  UTC)<br/>
 *Skaash* of the Ursa sector is invaded by Illuminate (2025-01-30 16:01  UTC)<br/>
  Decay: 0.5 on Vernen Wells<br/> Decay: 3.0 on Chort Bay<br/> Decay: 4.0 on Menkent
@@ -6340,7 +6341,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-02-02 04:05  UTC)<br/>
 *Chort Bay* is liberated (2025-02-02 05:16  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2025-02-02 05:16  UTC)<br/>
-↳ Major Order | A2-1-5 Jet Brigade Factories is won | Objective: Liberate (2025-02-02 05:16  UTC)<br/>
+↳ Major Order | [A2-1-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-5) Jet Brigade Factories is won | Objective: Liberate (2025-02-02 05:16  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-02-02 06:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (2025-02-02 06:43  UTC)<br/>
 Assault Division: Jet Brigade U3A deploys to *Menkent* (2025-02-02 06:53  UTC)<br/>
@@ -6384,7 +6385,7 @@ Assault Division: Jet Brigade U3A leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
 Assault Division: Jet Brigade U3A deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
  Decay: 4.0 on Menkent
  (2025-02-03 16:01  UTC)<br/>
-Major Order | A2-2-1 Defend *Chort Bay* is issued | Objective: Control (2025-02-03 17:03  UTC)<br/>
+Major Order | [A2-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-1) Defend *Chort Bay* is issued | Objective: Control (2025-02-03 17:03  UTC)<br/>
  Decay: 0.0 on Lesath
  (2025-02-03 17:03  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-02-03 19:46  UTC)<br/>
@@ -6469,7 +6470,7 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-06 22:29  UTC)<br/>
 ### Day: #366
 *Alathfar XI* of the Akira sector is invaded by Illuminate (2025-02-07 10:17  UTC)<br/>
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-07 17:02  UTC)<br/>
-Major Order | A2-2-1 Defend *Chort Bay* is won | Objective: Control (2025-02-07 17:13  UTC)<br/>
+Major Order | [A2-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-1) Defend *Chort Bay* is won | Objective: Control (2025-02-07 17:13  UTC)<br/>
 *Propus*'s invasion is successful (2025-02-07 18:34  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-02-07 18:34  UTC)<br/>
 *Meridia* moves to X 0.5014972 Y 0.19484212 (2025-02-07 19:36  UTC)<br/>
@@ -6487,7 +6488,7 @@ DSS effect Orbital Blockade is activated (2025-02-08 06:12  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-02-08 11:15  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-08 13:36  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-08 13:36  UTC)<br/>
-Major Order | A2-2-2 Repel 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
+Major Order | [A2-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-2) Repel 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate appear to be attacking our worlds in order to gather Dark Energy, which seemingly powers the movement of the *Meridia* Singularity. The Singularity is currently approaching ANGEL'S VENTURE. The more Dark Energy the Illuminate are able to gather, the faster the Singularity moves. All Helldivers are ordered to end any Illuminate invasion attempts as quickly as possible, to safeguard the citizens of ANGEL'S VENTURE. (2025-02-08 14:18  UTC)<br/>
 Dispatch: ALERT. The *Meridia* Singularity has deviated from its stable orbit. The Singularity is now moving along an unnatural path. Movement speed appears directly correlated with the amount of Dark Energy the Illuminate have gathered from our Galaxy. (2025-02-08 14:18  UTC)<br/>
 Dispatch: PATRIOTIC ANNOUNCEMENT. In recognition of the Helldivers' service, bravery, and obedient fulfillment of their duty over the past year, High Command has authorized the bequethment of a commemorative gift to all Super Destroyers. Helldivers may accept their gift with immense gratitude at their Armory. (2025-02-08 14:41  UTC)<br/>
@@ -6609,7 +6610,7 @@ DSS deploys to *Rasp* of the Gallux sector (2025-02-13 06:52  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 10:53  UTC)<br/>
 *Meridia* moves to X 0.45903358 Y 0.17045744 (2025-02-13 11:00  UTC)<br/>
 *Hort* of the Rigel sector is invaded by Illuminate (2025-02-13 13:04  UTC)<br/>
-Major Order | A2-2-2 Repel 11 Invasions is failed | Objective: Defend (2025-02-13 14:34  UTC)<br/>
+Major Order | [A2-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-2) Repel 11 Invasions is failed | Objective: Defend (2025-02-13 14:34  UTC)<br/>
 *Angel's Venture* of the Orion sector is annihilated (2025-02-13 14:37  UTC)<br/>
 *Moradesh* of the Celeste sector is now under threat (2025-02-13 14:37  UTC)<br/>
 *Ivis* of the Celeste sector is now under threat (2025-02-13 14:38  UTC)<br/>
@@ -6671,7 +6672,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-02-15 11:52  UTC)<br/>
 Terminid Brood debuts a new Assault Division: Predator Strain (2025-02-15 11:52  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to *Fenrir III* (2025-02-15 11:52  UTC)<br/>
-Major Order | A2-2-3 Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
+Major Order | [A2-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-3) Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
  Decay: 2.0 on Heeth<br/> Decay: 0.0 on Fenrir III
  (2025-02-15 12:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminids are surging at the Gloom border. *Fenrir III* is under attack. The Center of Science on this planet is of vital importance to stopping the Meridian Singularity. The Ministry of Science's top astrophysicists are gathered there, researching both the Singularity itself and the Dark Energy that somehow powers its movement. All Helldivers are ordered to defend *Fenrir III*. The Center of Science must not be lost. (2025-02-15 12:31  UTC)<br/>
@@ -6735,11 +6736,11 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 Assault Division: Predator Strain U1A is routed from Erata Prime (2025-02-18 11:47  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-18 12:11  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-18 12:11  UTC)<br/>
-Major Order | A2-2-3 Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
+Major Order | [A2-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-3) Repel Predator Strain is won | Objective: Control (2025-02-18 12:28  UTC)<br/>
 *Hellmire* liberation campaign ends (2025-02-18 12:29  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Despite the appearance of the Predator Strain, the Terminid wave has shattered against the Helldiver breakwater. The researchers at the Center of Science are safe. These researchers have made a startling discovery: the energy produced by E-710 combustion matches all known properties of Dark Energy. Studying E-710, then, could help us understand Dark Energy—and the means by which the Illuminate are moving the Meridian Singularity. (2025-02-18 12:30  UTC)<br/>
 *Fori Prime* is no longer unobservable (2025-02-18 12:34  UTC)<br/>
-Major Order | A2-2-4 *Fori Prime* Gloom Research Expedition is issued | Objective: Liberate/Sample/Eradicate (2025-02-18 12:35  UTC)<br/>
+Major Order | [A2-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-4) *Fori Prime* Gloom Research Expedition is issued | Objective: Liberate/Sample/Eradicate (2025-02-18 12:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom. Consult the Galactic Map on your ship for more information. (2025-02-18 12:35  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-02-18 12:36  UTC)<br/>
 *Fori Prime* has been classified as a High Priority Campaign (2025-02-18 12:36  UTC)<br/>
@@ -6891,7 +6892,7 @@ DSS deploys to *Myrium* of the Morgon sector (2025-02-23 19:28  UTC)<br/>
 *Fori Prime* is liberated (2025-02-24 02:52  UTC)<br/>
 ↳ Draco sector is fully under Human control (2025-02-24 02:52  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2025-02-24 02:52  UTC)<br/>
-↳ Major Order | A2-2-4 *Fori Prime* Gloom Research Expedition is won | Objective: Liberate/Sample/Eradicate (2025-02-24 02:52  UTC)<br/>
+↳ Major Order | [A2-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-4) *Fori Prime* Gloom Research Expedition is won | Objective: Liberate/Sample/Eradicate (2025-02-24 02:52  UTC)<br/>
 DSS deploys to *Bashyr* of the Gallux sector (2025-02-24 03:28  UTC)<br/>
 *Bashyr*'s invasion is repelled (2025-02-24 06:26  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-24 06:26  UTC)<br/>
@@ -6958,7 +6959,7 @@ DSS deploys to *Grand Errant* of the Farsight sector (2025-02-25 15:32  UTC)<br/
 Dispatch: GALACTIC WAR UPDATE. Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path. All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
  Decay: 0.0 on Bekvam III, Charon Prime
  (2025-02-25 16:10  UTC)<br/>
-Major Order | A2-2-5 Trolly Problem 2.0 is issued | Objective: Control (2025-02-25 16:34  UTC)<br/>
+Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolly Problem 2.0 is issued | Objective: Control (2025-02-25 16:34  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one. Consult the Galactic Map on your ship for more information. (2025-02-25 16:34  UTC)<br/>
  Decay: 2.0 on Aesir Pass, Marfark, Matar Bay
  (2025-02-25 16:34  UTC)<br/>
@@ -7083,12 +7084,12 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
 ### Day: #389
 *Meridia* moves to X 0.40216672 Y 0.16287237 (2025-03-02 11:00  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-03-02 12:26  UTC)<br/>
-Major Order | A2-2-5 Trolly Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
+Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolly Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Against all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. Consult the Galactic Map on your ship for more information. (2025-03-02 12:59  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-03-02 13:44  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-02 13:44  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Automatons (2025-03-02 14:22  UTC)<br/>
-Major Order | A2-3-1 Repel Illuminate or Defend *Claorell* is issued | Objective: Control/Defend (2025-03-02 14:23  UTC)<br/>
+Major Order | [A2-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-1) Repel Illuminate or Defend *Claorell* is issued | Objective: Control/Defend (2025-03-02 14:23  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity continues its relentless advance through our Federation. *Moradesh* may soon be the next celestial victim of the Illuminate's tyrannical avarice. Simultaneously, the Automatons have launched a surprise attack on *Claorell*, seeking to take control of the Deep Mantle Forge Complex. The Helldivers must choose where to defend. Consult your Galactic Map for more information. (2025-03-02 14:23  UTC)<br/>
 DSS deploys to *Chort Bay* of the Lacaille sector (2025-03-02 14:25  UTC)<br/>
 *Meridia* moves to X 0.40188387 Y 0.16283783 (2025-03-02 15:00  UTC)<br/>
@@ -7180,7 +7181,7 @@ DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
 DSS deploys to *Propus* of the Leo sector (2025-03-06 10:34  UTC)<br/>
 *Meridia* moves to X 0.39517206 Y 0.16201816 (2025-03-06 11:00  UTC)<br/>
 *Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-03-06 14:11  UTC)<br/>
-Major Order | A2-3-1 Repel Illuminate or Defend *Claorell* is won | Objective: Control/Defend (2025-03-06 14:33  UTC)<br/>
+Major Order | [A2-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-1) Repel Illuminate or Defend *Claorell* is won | Objective: Control/Defend (2025-03-06 14:33  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automatons have been repelled from *Claorell*. The Deep Mantle Forge Complex remains within our domain, secure from being bent to despotic means. The scientists at the *Moradesh* Research Facility did not have enough time to complete their experiments. They have been evacuated, as the planet's inevitable destruction nears. (2025-03-06 14:33  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
 *Meridia* moves to X 0.39483052 Y 0.16197646 (2025-03-06 15:00  UTC)<br/>
@@ -7198,7 +7199,7 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
 *Bashyr*'s invasion is successful (2025-03-07 10:23  UTC)<br/>
 *Meridia* moves to X 0.39303526 Y 0.16175722 (2025-03-07 11:00  UTC)<br/>
 *Meridia* moves to X 0.3926559 Y 0.16171087 (2025-03-07 15:00  UTC)<br/>
-Major Order | A2-3-2 Blockade the Singularity is issued | Objective: Eradicate (2025-03-07 15:34  UTC)<br/>
+Major Order | [A2-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-2) Blockade the Singularity is issued | Objective: Eradicate (2025-03-07 15:34  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Analysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.  The Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details. (2025-03-07 15:34  UTC)<br/>
 Dispatch: STRATEGIC ALERT. Supply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal. However, rapid liberation of the Terminid-infested planet BORE ROCK would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. (2025-03-07 16:20  UTC)<br/>
 *Darius II* of the Borgus sector is attacked by Terminids (2025-03-07 16:21  UTC)<br/>
@@ -7327,7 +7328,7 @@ DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
 *Valmox*'s invasion is successful (2025-03-13 18:52  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-13 18:52  UTC)<br/>
 *Meridia* moves to X 0.34586495 Y 0.1505503 (2025-03-13 19:00  UTC)<br/>
-Major Order | A2-3-2 Blockade the Singularity is failed | Objective: Eradicate (2025-03-13 19:35  UTC)<br/>
+Major Order | [A2-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-2) Blockade the Singularity is failed | Objective: Eradicate (2025-03-13 19:35  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Following days of diligent resource collection and repurposing of enemy combatants, the Helldivers have enabled the construction of a partial blockade of the Meridian Singularity. Scrap metal collection efforts were below target, resulting in a barrier that is porous, but still moderately effective. Consult your Galactic Map for more information. (2025-03-13 19:38  UTC)<br/>
 *Irulta* of the Saleria sector is invaded by Illuminate (2025-03-13 19:38  UTC)<br/>
 *Meridia* moves to X 0.34543288 Y 0.15017904 (2025-03-13 23:00  UTC)<br/>
@@ -7354,7 +7355,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-14 09:55  UTC)<br/>
 *Meridia* moves to X 0.34416196 Y 0.14908698 (2025-03-14 11:00  UTC)<br/>
 *Meridia* moves to X 0.34374556 Y 0.1487292 (2025-03-14 15:00  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-03-14 16:06  UTC)<br/>
-Major Order | A2-3-3 Penrose Energy Station Siphon is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
+Major Order | [A2-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-3) Penrose Energy Station Siphon is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Terminids (2025-03-14 16:08  UTC)<br/>
 Assault Division: Predator Strain U2A deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity. High Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation. The device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete. (2025-03-14 16:09  UTC)<br/>
@@ -7456,7 +7457,7 @@ DSS effect Orbital Blockade is activated (2025-03-18 05:45  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-03-18 08:35  UTC)<br/>
 
 ### Day: #405
-Major Order | A2-3-3 Penrose Energy Siphon Construction is won | Objective: Control (2025-03-18 10:18  UTC)<br/>
+Major Order | [A2-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-3) Penrose Energy Siphon Construction is won | Objective: Control (2025-03-18 10:18  UTC)<br/>
  Decay: 1.5 on Bekvam III
  (2025-03-18 10:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 10:21  UTC)<br/>
@@ -7469,7 +7470,7 @@ Automaton Legion debuts a new Assault Division: Incineration Corps (2025-03-18 1
 Assault Division: Incineration Corps U1A deploys to *Bekvam III* (2025-03-18 14:48  UTC)<br/>
 *Martale* of the Andromeda sector is attacked by Automatons (2025-03-18 14:49  UTC)<br/>
 Assault Division: Incineration Corps U1B deploys to *Martale* (2025-03-18 14:49  UTC)<br/>
-Major Order | A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
+Major Order | [A2-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-4) Fuel Penrose Energy Siphon or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Automaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation. High Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 14:51  UTC)<br/>
 *Vega Bay* of the Ymir sector is attacked by Automatons (2025-03-18 14:51  UTC)<br/>
 *Meridia* moves to X 0.3333508 Y 0.14036079 (2025-03-18 15:00  UTC)<br/>
@@ -7634,7 +7635,7 @@ The Second Galactic War is no longer paused (2025-03-23 13:31  UTC)<br/>
 *Leng Secundus*'s invasion is successful (2025-03-23 15:49  UTC)<br/>
 *Meridia* moves to X 0.31800786 Y 0.12949632 (2025-03-23 19:00  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
-Major Order | A2-3-4 Fuel Penrose Energy Siphon or Stop Incineration Corps is failed | Objective: Defend/Eradicate (2025-03-23 21:47  UTC)<br/>
+Major Order | [A2-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-4) Fuel Penrose Energy Siphon or Stop Incineration Corps is failed | Objective: Defend/Eradicate (2025-03-23 21:47  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground. Further, insufficient E-710 was gathered to deploy the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-23 21:47  UTC)<br/>
 *Julheim* is liberated (2025-03-23 21:50  UTC)<br/>
 Assault Division: Incineration Corps U1A is routed from Julheim (2025-03-23 21:50  UTC)<br/>
@@ -7663,7 +7664,7 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-24 15:05  UTC)<br/>
 *Seasse* of the Omega sector is invaded by Illuminate (2025-03-24 15:20  UTC)<br/>
 *Meridia* moves to X 0.31492382 Y 0.1273125 (2025-03-24 19:00  UTC)<br/>
-Major Order | A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is issued | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
+Major Order | [A2-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-5) Fuel Penrose Energy Siphon And Liberate Two Worlds is issued | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of *Ivis* have begun preparing for the possibility of a full-planet evacuation. There can be no further delays to the deployment of the Penrose Energy Siphon. The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information. (2025-03-24 19:44  UTC)<br/>
 *Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-03-24 21:38  UTC)<br/>
 *Seasse*'s invasion is repelled (2025-03-24 22:28  UTC)<br/>
@@ -7723,7 +7724,7 @@ DSS effect Eagle Storm is activated (2025-03-26 19:06  UTC)<br/>
 ↳ *Erson Sands* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
 ↳ *Socorro III* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
-↳ Major Order | A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (2025-03-27 02:17  UTC)<br/>
+↳ Major Order | [A2-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-5) Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (2025-03-27 02:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Penrose Energy Siphon has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. The excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation. (2025-03-27 02:43  UTC)<br/>
 *Mort* of the Xzar sector is attacked by Automatons (2025-03-27 02:54  UTC)<br/>
 *Socorro III* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
@@ -7743,7 +7744,7 @@ DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-27 03:12  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-03-27 11:13  UTC)<br/>
  Decay: 1.0 on Vandalon IV
  (2025-03-27 12:00  UTC)<br/>
-Major Order | A2-3-6 Repel 6 Illuminate Invasions is issued | Objective: Defend (2025-03-27 14:26  UTC)<br/>
+Major Order | [A2-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-6) Repel 6 Illuminate Invasions is issued | Objective: Defend (2025-03-27 14:26  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path. The Helldivers are ordered to suppress Illuminate invasion events. If successful, this will free *Super Earth* from the Singularity's path of destruction. High Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information. (2025-03-27 14:29  UTC)<br/>
 *Mog* of the Morgon sector is invaded by Illuminate (2025-03-27 14:30  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2025-03-27 15:13  UTC)<br/>
@@ -7795,7 +7796,7 @@ DSS deploys to *Alderidge Cove* of the Guang sector (2025-03-29 11:18  UTC)<br/>
 *Meridia* moves to X 0.30460086 Y 0.120002754 (2025-03-29 15:00  UTC)<br/>
 *Alderidge Cove*'s invasion is repelled (2025-03-29 15:34  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-03-29 15:34  UTC)<br/>
-↳ Major Order | A2-3-6 Repel 6 Illuminate Invasions is won | Objective: Defend (2025-03-29 15:34  UTC)<br/>
+↳ Major Order | [A2-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-6) Repel 6 Illuminate Invasions is won | Objective: Defend (2025-03-29 15:34  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy *Super Earth* has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the Meridian Singularity has been de-energized to the point where *Super Earth* is now safely out of its accurately-predicted path. Our citizens can celebrate a hard-earned victory: *Super Earth* is safe. (2025-03-29 15:42  UTC)<br/>
 *Pilen V* of the Altus sector is no longer under threat (2025-03-29 15:44  UTC)<br/>
 *Super Earth* of the Sol sector is no longer under threat (2025-03-29 15:53  UTC)<br/>
@@ -7824,7 +7825,7 @@ Assault Division: Incineration Corps U2A deploys to *Pöpli IX* (2025-03-30 11:1
 Assault Division: Incineration Corps U2B deploys to *Vandalon IV* (2025-03-30 11:22  UTC)<br/>
  Decay: 0.0 on Pöpli IX, Troost
  (2025-03-30 11:22  UTC)<br/>
-Major Order | A2-3-7 Hold *Malevelon Creek* 2025 is issued | Objective: Control (2025-03-30 11:39  UTC)<br/>
+Major Order | [A2-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-7) Hold *Malevelon Creek* 2025 is issued | Objective: Control (2025-03-30 11:39  UTC)<br/>
  Decay: 0.0 on Vandalon IV
  (2025-03-30 11:39  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons, led by the Incineration Corps, have launched a grotesque surprise attack evidently targeting *Malevelon Creek*. All Helldivers are urgently called to defend and hold *Malevelon Creek*, and unleash *Super Earth*'s righteous Justice with the fullest permitted fury. Consult your Galactic Map for more details. (2025-03-30 11:40  UTC)<br/>
@@ -8088,7 +8089,7 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-04-05 09:12  UTC)<br/>
 *Meridia* moves to X 0.29760566 Y 0.11628686 (2025-04-05 11:00  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-04-05 11:38  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-05 11:38  UTC)<br/>
-Major Order | A2-3-7 Hold *Malevelon Creek* 2025 is won | Objective: Control (2025-04-05 12:07  UTC)<br/>
+Major Order | [A2-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-7) Hold *Malevelon Creek* 2025 is won | Objective: Control (2025-04-05 12:07  UTC)<br/>
 Dispatch: Major Order Won. After days of relentless fighting, the Helldivers have successfully protected *Malevelon Creek*. Their resounding victory has upheld the memory of those honored on *Malevelon Creek* Memorial Day. *Malevelon Creek* remains within the righteous embrace of Freedom--now, and forever. (2025-04-05 12:10  UTC)<br/>
 *Ivis* of the Celeste sector is annihilated (2025-04-05 13:47  UTC)<br/>
 Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity. The destroyed planet joins *Moradesh* and *Angel's Venture* amongst the Illuminate's celestial murders. Efforts to slow the Singularity have worked, but too late to save *Ivis*. The Illuminate will face Justice for their crimes. (2025-04-05 13:48  UTC)<br/>
@@ -8138,7 +8139,7 @@ DSS deploys to *Ustotu* of the Trigon sector (2025-04-07 03:20  UTC)<br/>
 *Meridia* moves to X 0.2964726 Y 0.11629 (2025-04-07 11:00  UTC)<br/>
 *Rogue 5* of the Rigel sector is invaded by Illuminate (2025-04-07 13:06  UTC)<br/>
 *Meridia* moves to X 0.2963289 Y 0.11630324 (2025-04-07 15:00  UTC)<br/>
-Major Order | A2-4-1 DSS Passive Upgrade Choices is issued | Objective: Liberate (2025-04-07 15:15  UTC)<br/>
+Major Order | [A2-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-1) DSS Passive Upgrade Choices is issued | Objective: Liberate (2025-04-07 15:15  UTC)<br/>
  Decay: 1.0 on Automaton worlds<br/> Decay: 2.0 on Varylia 5, Wezen
  (2025-04-07 15:15  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Diligent engineers at the Deep Mantle Forge Complex on *Claorell* have developed potential improvements to the Democracy Space Station. The DSS was critical to the recent defense against the Automatons, and enhancing its capabilities has become a top priority. Consult your Galactic Map for more information. (2025-04-07 15:18  UTC)<br/>
@@ -8219,7 +8220,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-04-10 14:22  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-11 03:14  UTC)<br/>
 *Wezen* is liberated (2025-04-11 04:49  UTC)<br/>
 ↳ *Vega Bay* liberation campaign starts (2025-04-11 04:49  UTC)<br/>
-↳ Major Order | A2-4-1 DSS Passive Upgrade Choices is won | Objective: Liberate (2025-04-11 04:49  UTC)<br/>
+↳ Major Order | [A2-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-1) DSS Passive Upgrade Choices is won | Objective: Liberate (2025-04-11 04:49  UTC)<br/>
 DSS deploys to *Gar Haren* of the Jin Xi sector (2025-04-11 04:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super Earth* citizens, the Helldivers have secured the resources necessary to augment the Democracy Space Station with an Exosuit Support Bay. Moving forward, the DSS will provide rapid Exosuit replenishment to all Super Destroyers it shares an orbit with, reducing Exosuit Stratagem cooldown by 35% on the orbited planet. (2025-04-11 05:19  UTC)<br/>
 *Meridia* moves to X 0.29180154 Y 0.11672044 (2025-04-11 07:00  UTC)<br/>
@@ -8233,7 +8234,7 @@ Assault Division: Spore Burst Strain U2A deploys to *Nivel 43* (2025-04-11 11:43
 *Nivel 43* is no longer unobservable (2025-04-11 11:44  UTC)<br/>
 *Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
 *Nivel 43* has been classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
-Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is issued | Objective: Liberate (2025-04-11 11:46  UTC)<br/>
+Major Order | [A2-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-2) *Nivel 43* Gloom Research Expedition is issued | Objective: Liberate (2025-04-11 11:46  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information. (2025-04-11 11:46  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-04-11 13:04  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-04-11 13:04  UTC)<br/>
@@ -8352,7 +8353,7 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
 *Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
 *Nivel 43* is liberated (2025-04-15 23:38  UTC)<br/>
-↳ Major Order | A2-4-2 *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:38  UTC)<br/>
+↳ Major Order | [A2-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-2) *Nivel 43* Gloom Research Expedition is won | Objective: Liberate (2025-04-15 23:38  UTC)<br/>
 Assault Division: Predator Strain U3A is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
 Assault Division: Spore Burst Strain U2A is routed from Nivel 43 (2025-04-15 23:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase. On *Pilen V*, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (2025-04-16 00:27  UTC)<br/>
@@ -8380,7 +8381,7 @@ Assault Division: Predator Strain U4B deploys to *Crimsica* (2025-04-16 11:41  U
 Assault Division: Predator Strain U4C deploys to *Fenrir III* (2025-04-16 11:51  UTC)<br/>
  Decay: 0.0 on Esker, Crimsica
  (2025-04-16 11:51  UTC)<br/>
-Major Order | A2-4-3 Gloom Surge Defend 9 is issued | Objective: Defend (2025-04-16 12:01  UTC)<br/>
+Major Order | [A2-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-3) Gloom Surge Defend 9 is issued | Objective: Defend (2025-04-16 12:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Multiple Gloom-adjacent planets have come under sudden onslaught by mutated Terminids. The Helldivers are called to their immediate defense. The enemy combatants match descriptions and attack patterns of the Predator Strain. Consult your Galactic Map for more information. (2025-04-16 12:04  UTC)<br/>
  Decay: 0.0 on Fenrir III
  (2025-04-16 14:00  UTC)<br/>
@@ -8573,11 +8574,11 @@ Assault Division: Predator Strain U4M deploys to *Fenrir III* (2025-04-20 10:43 
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-20 16:30  UTC)<br/>
 *Klaka 5*'s invasion is successful (2025-04-20 17:42  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-04-20 17:42  UTC)<br/>
-Major Order | A2-4-4 Repel 5 and Kill Voteless is issued | Objective: Defend/Eradicate (2025-04-20 18:41  UTC)<br/>
+Major Order | [A2-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-4) Repel 5 and Kill Voteless is issued | Objective: Defend/Eradicate (2025-04-20 18:41  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have launched multiple simultaneous attacks, targeting our efforts to stop the Meridian Singularity. Consult your Galactic Map for more information. (2025-04-20 18:41  UTC)<br/>
 *Meridia* moves to X 0.27812293 Y 0.11798092 (2025-04-20 19:00  UTC)<br/>
 *Erata Prime* defense is won (2025-04-20 20:37  UTC)<br/>
-↳ Major Order | A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
+↳ Major Order | [A2-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-3) Gloom Surge Defend 9 is won | Objective: Defend (2025-04-20 20:37  UTC)<br/>
 NOTE: When the *Acamar IV* Gambit for the *Crimsica* and *Turing* defenses was won the counter went from 5 to 8 for unknown reasons. (2025-04-20 20:37  UTC)<br/>
 Assault Division: Predator Strain U4L is routed from Erata Prime (2025-04-20 20:37  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-20 20:37  UTC)<br/>
@@ -8691,7 +8692,7 @@ DSS deploys to *Mastia* of the Marspira sector (2025-04-24 20:58  UTC)<br/>
 *Mastia*'s invasion is repelled (2025-04-25 04:10  UTC)<br/>
 ↳ Marspira sector is fully under Human control (2025-04-25 04:10  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-04-25 04:10  UTC)<br/>
-Major Order | A2-4-4 Repel 5 and Kill Voteless is won | Objective: Defend/Eradicate (2025-04-25 04:18  UTC)<br/>
+Major Order | [A2-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-4) Repel 5 and Kill Voteless is won | Objective: Defend/Eradicate (2025-04-25 04:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Illuminate attacks on our critical infrastructure have been decisively rebuffed. It is clear the enemy overextended themselves, revealing their desperation as their plan to destroy *Super Earth* falls to pieces. Consult your Galactic Map for more information. (2025-04-25 04:32  UTC)<br/>
 *Meridia* moves to X 0.27055684 Y 0.11867814 (2025-04-25 07:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-04-25 08:01  UTC)<br/>
@@ -8706,7 +8707,7 @@ Dispatch: INCURSION ALERT. Illuminate forces have attacked MASTIA, endangering t
  (2025-04-25 12:30  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-04-25 12:58  UTC)<br/>
 *Nublaria I* of the Celeste sector is invaded by Illuminate (2025-04-25 14:18  UTC)<br/>
-Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is issued | Objective: Operation/Liberate (2025-04-25 14:53  UTC)<br/>
+Major Order | [A2-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-5) Complete 625k Operations and Liberate *Turing* is issued | Objective: Operation/Liberate (2025-04-25 14:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. On *Pilen V*, the Repulsive Gravity Field Generator nears completion. Once activated, it is projected to completely halt the Meridian Singularity's movement. Interference from the Illuminate is expected to peak as activation nears. The Helldivers are ordered to thin Illuminate forces and defend vital planets. Further, the Helldivers are ordered to gather E-710 by containing the Predator Strain outbreak on *Turing*. (2025-04-25 14:56  UTC)<br/>
 *Meridia* moves to X 0.27015334 Y 0.118715316 (2025-04-25 15:00  UTC)<br/>
 *Krakatwo* of the Celeste sector is invaded by Illuminate (2025-04-25 18:59  UTC)<br/>
@@ -8838,12 +8839,12 @@ Assault Division: Predator Strain U5A is routed from Turing (2025-04-29 09:45  U
 *Turing* of the Umlaut sector is established as a Xenoentomology Center POI (2025-04-29 09:47  UTC)<br/>
 *Pilen V* of the Altus sector's Negative Energy Laboratory POI is removed (2025-04-29 14:49  UTC)<br/>
 *Turing*'s invasion is successful (2025-04-29 14:49  UTC)<br/>
-Major Order | A2-4-5 Complete 625k Operations and Liberate *Turing* is failed | Objective: Operation/Liberate (2025-04-29 14:52  UTC)<br/>
+Major Order | [A2-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-5) Complete 625k Operations and Liberate *Turing* is failed | Objective: Operation/Liberate (2025-04-29 14:52  UTC)<br/>
 *Fenrir III*'s invasion is repelled (2025-04-29 14:55  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-29 14:55  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-04-29 14:55  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Dauntless efforts by the Helldivers fell short of mission targets. But the righteousness of our cause has yielded an unequivocal victory nevertheless. Center of Science projections confirm that the Meridian Wormhole will slow to a complete halt in short order. Furthermore, all Illuminate incursions have abruptly ended, and the enemy has disappeared. The victory of Managed Democracy is undeniable. Consult your Galactic Map for more information. (2025-04-29 15:06  UTC)<br/>
-Major Order | A2-4-6 Liberate Key Strategic Worlds is issued | Objective: Control (2025-04-29 15:44  UTC)<br/>
+Major Order | [A2-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-6) Liberate Key Strategic Worlds is issued | Objective: Control (2025-04-29 15:44  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity has come to a halt. However, though one enemy is all but annihilated, the Terminids and Automatons remain significant threats. In the Illuminate's final hours, they dealt significant damage to the defenses of multiple strategic sites across both battlefronts, granting the opportunity for our foes to capture formerly well-defended territory. The Helldivers must hold these sites. (2025-04-29 15:44  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-04-29 15:53  UTC)<br/>
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 19:00  UTC)<br/>
@@ -8974,7 +8975,7 @@ Assault Division: Incineration Corps U3C leaves *Vernen Wells* (2025-05-05 13:47
 Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-05 13:48  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Vog-Sojoth* (2025-05-05 13:59  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Clasa* (2025-05-05 14:01  UTC)<br/>
-Major Order | A2-4-6 Liberate Key Strategic Worlds is failed | Objective: Control (2025-05-05 15:45  UTC)<br/>
+Major Order | [A2-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-6) Liberate Key Strategic Worlds is failed | Objective: Control (2025-05-05 15:45  UTC)<br/>
  Decay: 2.0 on Vernen Wells, Vog-Sojoth<br/> Decay: 3.0 on Aesir Pass<br/> Decay: 1.5 on Clasa
  (2025-05-05 15:45  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The rapid and tireless actions of the Helldivers limited the territory lost to the opportunistic offensives of the Terminids and Automatons. Consult your Galactic Map for more information. (2025-05-05 15:48  UTC)<br/>
@@ -8986,7 +8987,7 @@ Assault Division: Jet Brigade U5A leaves *Choohe* (2025-05-05 17:47  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Menkent* (2025-05-05 17:48  UTC)<br/>
 Assault Division: Jet Brigade U5A leaves *Menkent* (2025-05-05 18:47  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Vernen Wells* (2025-05-05 18:48  UTC)<br/>
-Major Order | A2-5-1 Assault Division Conquest is issued | Objective: Conquest (2025-05-05 18:59  UTC)<br/>
+Major Order | [A2-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-1) Assault Division Conquest is issued | Objective: Conquest (2025-05-05 18:59  UTC)<br/>
 *Sulfura* - *Azterra* warp link is added (2025-05-05 18:59  UTC)<br/>
 *Nublaria I* - *Fort Union* warp link is added (2025-05-05 18:59  UTC)<br/>
 *Nublaria I* - *Sulfura* warp link is added (2025-05-05 18:59  UTC)<br/>
@@ -9143,7 +9144,7 @@ DSS deploys to *Sulfura* of the Celeste sector (2025-05-12 07:21  UTC)<br/>
  (2025-05-12 09:00  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 09:05  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-05-12 15:05  UTC)<br/>
-Major Order | A2-5-1 Assault Division Conquest is failed | Objective: Conquest (2025-05-12 19:02  UTC)<br/>
+Major Order | [A2-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-1) Assault Division Conquest is failed | Objective: Conquest (2025-05-12 19:02  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Blistica* (2025-05-12 19:06  UTC)<br/>
 *Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-05-12 19:08  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Zzaniah Prime* (2025-05-12 19:08  UTC)<br/>
@@ -9171,7 +9172,7 @@ Assault Division: The Great Host U1A deploys to *Meridia* (2025-05-13 08:58  UTC
 Assault Division: The Great Host U1A leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1A deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
 *Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
-Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
+Major Order | [A2-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-2) Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Widow's Harbor* of the Altus sector (2025-05-13 13:05  UTC)<br/>
@@ -9234,7 +9235,7 @@ Assault Division: The Great Host U1A deploys to *New Haven* (2025-05-17 17:50  U
 *New Haven*'s invasion is successful (2025-05-20 05:54  UTC)<br/>
 *New Haven* of the Altus sector instantly flips to Illuminate control (2025-05-20 05:54  UTC)<br/>
 NOTE: While technically an invasion [although UI misreported it as a liberation campaign] the end result was that the planet does flip which is an exception to how invasions usually work (2025-05-20 05:54  UTC)<br/>
-Major Order | A2-5-2 Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
+Major Order | [A2-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-2) Weaken The Great Host By Any Means Necessary is won | Objective: Control (2025-05-20 07:17  UTC)<br/>
 Dispatch: MAJOR ORDER CONCLUDED. As anticipated, *Widow's Harbor*, *Pilen V*, and *New Haven* have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (2025-05-20 07:17  UTC)<br/>
  Decay: 75.0 on New Haven
  (2025-05-20 07:17  UTC)<br/>
@@ -9254,7 +9255,7 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 *Super Earth* liberation campaign starts (2025-05-20 09:07  UTC)<br/>
 Assault Division: The Great Host U1A deploys to *Super Earth* (2025-05-20 09:07  UTC)<br/>
 *Super Earth* Region 0 Eagleopolis Megacity is besieged by Illuminate (2025-05-20 09:07  UTC)<br/>
-Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
+Major Order | [A2-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-3) Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (2025-05-20 09:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, *Super Earth* is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (2025-05-20 09:12  UTC)<br/>
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in *Super Earth*'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (2025-05-20 09:16  UTC)<br/>
 *Kerth Secundus* Region 0 Scholar's Moor Town is now present (2025-05-20 15:53  UTC)<br/>
@@ -9305,11 +9306,11 @@ Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldiver
 Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of *Super Earth* has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (2025-05-22 18:17  UTC)<br/>
  Region Decay: -4.68 on 0_Eagleopolis<br/> Region Decay: -2.88 on 0_Rememberance
  (2025-05-23 06:00  UTC)<br/>
-Major Order | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (2025-05-23 08:29  UTC)<br/>
+Major Order | [A2-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-3) Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (2025-05-23 08:29  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (2025-05-23 08:32  UTC)<br/>
 
 ### Day: #471
-Major Order | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (2025-05-23 10:18  UTC)<br/>
+Major Order | [A2-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-4) Extract From Illuminate Missions is issued | Objective: Extraction (2025-05-23 10:18  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for *Super Earth* now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on *Super Earth*. (2025-05-23 10:20  UTC)<br/>
 *Super Earth* Region 1 Administrative Center 02 Megacity is besieged by Illuminate (2025-05-23 12:54  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02. (2025-05-23 12:54  UTC)<br/>
@@ -9342,15 +9343,15 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from York Supreme. (2025-05-26 11:11  UTC)<br/>
 *Super Earth* Region 4 Port Mercy Megacity is besieged by Illuminate (2025-05-26 11:16  UTC)<br/>
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Port Mercy. (2025-05-26 11:16  UTC)<br/>
-Major Order | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-26 14:32  UTC)<br/>
+Major Order | [A2-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-5) Kill Automatons For DSS Repairs is issued | Objective: Eradicate (2025-05-26 14:32  UTC)<br/>
 Dispatch: DSS NEARING OPERATIONAL STATUS. Repairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for *Super Earth* will require resources to be liberated from the Automatons. The dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS. (2025-05-26 14:32  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (2025-05-26 20:47  UTC)<br/>
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on York Supreme. (2025-05-26 20:52  UTC)<br/>
 
 ### Day: #475
-Major Order | A2-5-4 Extract From Illuminate Missions is failed | Objective: Extraction (2025-05-27 10:28  UTC)<br/>
+Major Order | [A2-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-4) Extract From Illuminate Missions is failed | Objective: Extraction (2025-05-27 10:28  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Overwhelming enemy numbers prevented our heroes from completing the required number of operations. With this brief window of opportunity now closed, the chance to strike a mighty blow against our invaders has evaded us. Illuminate Fleet Strength is now estimated at 24% of its original operating power. 4 Mega Cities remain standing. The end of this conflict approaches. Liberty guide us all. (2025-05-27 10:32  UTC)<br/>
-Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is issued | Objective: Control (2025-05-27 11:04  UTC)<br/>
+Major Order | [A2-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-6) The Battle For *Super Earth* Final Phase is issued | Objective: Control (2025-05-27 11:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Battle for *Super Earth* enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities. Consult your Galactic Map for more information. (2025-05-27 11:04  UTC)<br/>
  Region Decay: -3.96 on 0_York Supreme<br/> Region Decay: -2.16 on 0_Port Mercy<br/> Region Decay: -2.16 on 0_Equality-on-Sea
  (2025-05-27 11:04  UTC)<br/>
@@ -9371,7 +9372,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (2025-05-28 13:35  UTC)<br/>
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for *Super Earth* missions. (2025-05-28 13:35  UTC)<br/>
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (2025-05-28 13:35  UTC)<br/>
-Major Order | A2-5-5 Kill Automatons For DSS Repairs is won | Objective: Eradicate (2025-05-28 16:06  UTC)<br/>
+Major Order | [A2-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-5) Kill Automatons For DSS Repairs is won | Objective: Eradicate (2025-05-28 16:06  UTC)<br/>
 DSS is activated (2025-05-28 16:10  UTC)<br/>
 DSS deploys to *Super Earth* of the Sol sector (2025-05-28 16:10  UTC)<br/>
 Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to *Super Earth* immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (2025-05-28 16:10  UTC)<br/>
@@ -9387,7 +9388,7 @@ Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-
 
 ### Day: #477
 *Fort Union* of the Orion sector is attacked by Terminids (2025-05-29 09:00  UTC)<br/>
-Major Order | A2-5-7 Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
+Major Order | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (2025-05-29 09:03  UTC)<br/>
  Decay: 0.0 on Fort Union
  (2025-05-29 10:00  UTC)<br/>
@@ -9397,7 +9398,7 @@ NOTE: This dispatch was initially sent as “during the fall of Prosperity City,
  Region Decay: -4.68 on 0_Prosperity City<br/> Region Decay: -2.88 on 0_Equality-on-Sea
  (2025-05-29 21:57  UTC)<br/>
 *Fort Union* defense is won (2025-05-29 22:02  UTC)<br/>
-Major Order | A2-5-7 Defend *Fort Union* Satellites is won | Objective: Defend (2025-05-29 22:02  UTC)<br/>
+Major Order | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is won | Objective: Defend (2025-05-29 22:02  UTC)<br/>
 Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result. The unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment. (2025-05-29 22:24  UTC)<br/>
  Decay: 1.5 on Fort Union
  (2025-05-29 22:24  UTC)<br/>
@@ -9408,7 +9409,7 @@ Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Int
 ↳ Sol sector is fully under Human control (2025-05-30 11:15  UTC)<br/>
 Assault Division: The Great Host U1A is routed (2025-05-30 11:15  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-05-30 11:16  UTC)<br/>
-Major Order | A2-5-6 The Battle For *Super Earth* Final Phase is won | Objective: Control (2025-05-30 11:16  UTC)<br/>
+Major Order | [A2-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-6) The Battle For *Super Earth* Final Phase is won | Objective: Control (2025-05-30 11:16  UTC)<br/>
 *New Haven* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
 *Widow's Harbor* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
 *Pilen V* of the Altus sector instantly flips to Human control (2025-05-30 11:20  UTC)<br/>
@@ -9443,7 +9444,7 @@ Assault Division: Incineration Corps U3B deploys to *Zosma* (2025-06-03 11:15  U
 *Varylia 5* of the Trigon sector is attacked by Automatons (2025-06-03 12:13  UTC)<br/>
  Decay: 0.0 on Curia
  (2025-06-03 12:13  UTC)<br/>
-Major Order | A2-6-1 Defend Against 5 Automaton Attacks is issued | Objective: Defend (2025-06-03 12:19  UTC)<br/>
+Major Order | [A2-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-1) Defend Against 5 Automaton Attacks is issued | Objective: Defend (2025-06-03 12:19  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault. (2025-06-03 12:21  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault. (2025-06-03 12:21  UTC)<br/>
  Decay: 0.0 on Varylia 5
@@ -9481,7 +9482,7 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-06-05 08:33  UTC)<br/>
  (2025-06-05 09:00  UTC)<br/>
 *Tarsh* defense is won (2025-06-06 00:49  UTC)<br/>
 ↳ Marspira sector is fully under Human control (2025-06-06 00:49  UTC)<br/>
-↳ Major Order | A2-6-1 Defend Against 5 Automaton Attacks is won | Objective: Defend (2025-06-06 00:49  UTC)<br/>
+↳ Major Order | [A2-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-1) Defend Against 5 Automaton Attacks is won | Objective: Defend (2025-06-06 00:49  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-06 00:49  UTC)<br/>
 *Azterra* is liberated (2025-06-06 01:11  UTC)<br/>
  Decay: 0.5 on Tarsh
@@ -9497,7 +9498,7 @@ Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' swift and decisive response
 *Haldus* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
 *Hydrobius* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
 *Bellatrix* liberation campaign starts (2025-06-06 19:58  UTC)<br/>
-Major Order | A2-6-2 Liberate 4 Illuminate Holdouts is issued | Objective: Liberate (2025-06-06 20:00  UTC)<br/>
+Major Order | [A2-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-2) Liberate 4 Illuminate Holdouts is issued | Objective: Liberate (2025-06-06 20:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The first scattered dregs of the cowardly Illuminate invasion force have been located, and traced to several outlying systems. The Helldivers are ordered to liberate all identified hideouts. Intel believes there are more Illuminate planets yet to be identified. The liberation of these sites could lead to the others. (2025-06-06 20:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-06-06 20:42  UTC)<br/>
  Decay: 3.0 on Mog<br/> Decay: 2.0 on Bellatrix<br/> Decay: 3.5 on Haldus
@@ -9522,7 +9523,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-06-09 06:07  UTC)<br/>
 *Bellatrix* is liberated (2025-06-09 20:11  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-06-09 20:11  UTC)<br/>
 DSS deploys to *Hydrobius* of the Omega sector (2025-06-09 20:11  UTC)<br/>
-Major Order | A2-6-2 Liberate 4 Illuminate Holdouts is failed | Objective: Liberate (2025-06-10 08:04  UTC)<br/>
+Major Order | [A2-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-2) Liberate 4 Illuminate Holdouts is failed | Objective: Liberate (2025-06-10 08:04  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice. Some of their remote bases endure. Consult the Galactic Map for more information. (2025-06-10 08:08  UTC)<br/>
 
 ### Day: #489
@@ -9601,7 +9602,7 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Crucible* Region 3 Kshira Sagara Megacity is besieged by Humans (2025-06-10 12:02  UTC)<br/>
 *Alta V* of the Korpus sector is attacked by Terminids (2025-06-10 12:07  UTC)<br/>
 *Alta V* Region 1 Undervatten Settlement is besieged by Humans (2025-06-10 12:07  UTC)<br/>
-Major Order | A2-6-3 Defend The Korpus Sector is issued | Objective: Control (2025-06-10 12:09  UTC)<br/>
+Major Order | [A2-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-3) Defend The Korpus Sector is issued | Objective: Control (2025-06-10 12:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Massive Terminid outbreaks have erupted simultaneously across multiple *Super Earth* cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger. The Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities. (2025-06-10 12:10  UTC)<br/>
 *Veld*'s max health is changed to 1.8m (2025-06-10 12:18  UTC)<br/>
 *Ursica XI*'s max health is changed to 1.6m (2025-06-10 12:18  UTC)<br/>
@@ -9788,7 +9789,7 @@ DSS effect Eagle Storm stops (2025-06-16 20:29  UTC)<br/>
 *Senge 23* - *Setia* warp link is added (2025-06-17 09:53  UTC)<br/>
 *Setia* - *Hydrobius* warp link is added (2025-06-17 09:53  UTC)<br/>
 Dispatch: COMMEMORATIVE CAPE ISSUED. A cape has been issued commemorating the defense of *Super Earth* from hostile, evil, and threateningly unknowable alien forces. This cape represents the boundless gratitude of all citizens for the Helldivers' selfless and innumerable sacrifices. The cape is now available in all Super Destroyer armories. (2025-06-17 09:59  UTC)<br/>
-Major Order | A2-6-3 Defend The Korpus Sector is won | Objective: Control (2025-06-17 12:12  UTC)<br/>
+Major Order | [A2-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-3) Defend The Korpus Sector is won | Objective: Control (2025-06-17 12:12  UTC)<br/>
  Decay: 3.0 on Alairt III, Alamak VII
  (2025-06-17 12:12  UTC)<br/>
 *Herthon Secundus* liberation campaign starts (2025-06-17 12:15  UTC)<br/>
@@ -9798,7 +9799,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully repelled the Termini
 *Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-06-17 12:36  UTC)<br/>
 *Alairt III* liberation campaign starts (2025-06-17 12:36  UTC)<br/>
 *Alairt III* Region 2 Shed Town is besieged by Humans (2025-06-17 12:36  UTC)<br/>
-Major Order | A2-6-4 Liberate Two Illuminate Worlds is issued | Objective: Liberate (2025-06-17 12:37  UTC)<br/>
+Major Order | [A2-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-4) Liberate Two Illuminate Worlds is issued | Objective: Liberate (2025-06-17 12:37  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The *Super Earth* Satellite Observation Network has regained operability, revealing that Illuminate fugitives have twisted multiple Federation cities into totalitarian strongholds. Helldivers: reclaim these cities for *Super Earth*. Consult your Galactic Map for more information. (2025-06-17 12:40  UTC)<br/>
  Region Decay: 0.2 on 138_GREATER STOROUSE<br/> Region Decay: 0.2 on 138_NEW STOROUSE<br/> Region Decay: 0.2 on 138_SHED<br/> Region Decay: 0.6 on 138_FREE TRADE<br/> Region Decay: 0.2 on 139_KESUMA<br/> Region Decay: 0.4 on 139_UNGU<br/> Region Decay: 0.1 on 139_NO COMPOUND<br/> Region Decay: 0.6 on 139_FILIBUSTER
  (2025-06-17 14:00  UTC)<br/>
@@ -9846,9 +9847,9 @@ DSS effect Orbital Blockade is activated (2025-06-22 03:19  UTC)<br/>
 *Alairt III* Region 1 New Storouse Town is besieged by Humans (2025-06-22 07:16  UTC)<br/>
 
 ### Day: #501
-Major Order | A2-6-4 Liberate Two Illuminate Worlds is failed | Objective: Liberate (2025-06-22 12:41  UTC)<br/>
+Major Order | [A2-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-4) Liberate Two Illuminate Worlds is failed | Objective: Liberate (2025-06-22 12:41  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Helldivers' tenacious attempt to reclaim our corrupted cities has failed. Consult your Galactic Map for more information. (2025-06-22 13:00  UTC)<br/>
-Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is issued | Objective: Eradicate (2025-06-22 13:38  UTC)<br/>
+Major Order | [A2-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-5) Kill 290m Illuminate and Kill 2.9b Terminids is issued | Objective: Eradicate (2025-06-22 13:38  UTC)<br/>
 *Zea Rugosia* of the Ferris sector is attacked by Illuminate (2025-06-22 13:40  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Pursuant to intergalactic law, substantial war reparations are now owed by the Illuminate for their assault on *Super Earth*, with a tribunal ruling the Terminids as bearing secondary liability. Helldivers: execute Illuminate fugitives and cull Terminid abettors, to deliver technology, materiel, E-710, and Justice commensurate with the reparations owed. Consult your Galactic Map for more information. (2025-06-22 13:43  UTC)<br/>
  Decay: 0.0 on Zea Rugosia
@@ -9927,13 +9928,13 @@ Assault Division: Jet Brigade U6C leaves *Aesir Pass* (2025-06-26 10:33  UTC)<br
  Decay: 0.0 on Bekvam III
  (2025-06-26 10:33  UTC)<br/>
 *Curia* of the Marspira sector is attacked by Automatons (2025-06-26 10:34  UTC)<br/>
-Major Order | A2-6-6 Repel 4 Automaton Attacks is issued | Objective: Defend (2025-06-26 10:59  UTC)<br/>
+Major Order | [A2-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-6) Repel 4 Automaton Attacks is issued | Objective: Defend (2025-06-26 10:59  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. ALERT: A large-scale, coordinated Automaton offensive has launched without warning. The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information. (2025-06-26 10:59  UTC)<br/>
  Decay: 0.0 on Curia
  (2025-06-26 10:59  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-06-26 12:41  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-06-26 16:42  UTC)<br/>
-Major Order | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is won | Objective: Eradicate (2025-06-26 21:47  UTC)<br/>
+Major Order | [A2-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-5) Kill 290m Illuminate and Kill 2.9b Terminids is won | Objective: Eradicate (2025-06-26 21:47  UTC)<br/>
 
 ### Day: #506
 *Bekvam III* defense is failed (2025-06-27 10:05  UTC)<br/>
@@ -10021,7 +10022,7 @@ DSS deploys to *Ustotu* of the Trigon sector (2025-06-30 14:30  UTC)<br/>
  (2025-06-30 16:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-06-30 17:45  UTC)<br/>
 *Ustotu* defense is won (2025-07-01 00:28  UTC)<br/>
-↳ Major Order | A2-6-6 Repel 4 Automaton Attacks is won | Objective: Defend (2025-07-01 00:28  UTC)<br/>
+↳ Major Order | [A2-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-6-6) Repel 4 Automaton Attacks is won | Objective: Defend (2025-07-01 00:28  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2025-07-01 00:29  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The latest Automaton offensive—led by the newly-augmented Jet Brigade—has been decisively repelled by the Helldivers. Consult your Galactic Map for more information. (2025-07-01 01:07  UTC)<br/>
  Decay: 1.0 on Ustotu
@@ -10064,7 +10065,7 @@ DSS effect Orbital Blockade stops (2025-07-02 21:18  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-07-03 12:26  UTC)<br/>
  Decay: 1.5 on Genesis Prime
  (2025-07-03 12:26  UTC)<br/>
-Major Order | A2-7-1 *Zegema Paradise* Training Facility is issued | Objective: Liberate/Sample (2025-07-03 14:48  UTC)<br/>
+Major Order | [A2-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-1) *Zegema Paradise* Training Facility is issued | Objective: Liberate/Sample (2025-07-03 14:48  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on ZEGEMA PARADISE. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (2025-07-03 14:48  UTC)<br/>
  Decay: 2.0 on Gar Haren, Gatria
  (2025-07-03 14:48  UTC)<br/>
@@ -10102,7 +10103,7 @@ DSS deploys to *Gatria* of the Jin Xi sector (2025-07-05 00:46  UTC)<br/>
 *Gatria* is liberated (2025-07-07 10:42  UTC)<br/>
 ↳ *Trandor* liberation campaign starts (2025-07-07 10:42  UTC)<br/>
 *Trandor* Region 1 Ödeshögre Settlement is besieged by Humans (2025-07-07 10:42  UTC)<br/>
-Major Order | A2-7-1 *Zegema Paradise* Training Facility is won | Objective: Liberate/Sample (2025-07-07 10:42  UTC)<br/>
+Major Order | [A2-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-1) *Zegema Paradise* Training Facility is won | Objective: Liberate/Sample (2025-07-07 10:42  UTC)<br/>
 Dispatch: MAJOR ORDER WON All live-fire assets for the new Helldiver training facility have been acquired, ensuring the Helldivers' peerless martial standards will be upheld by those set to bolster their ranks. Consult your Galactic Map for more information. (2025-07-07 10:50  UTC)<br/>
  Region Decay: 0.4 on 100_NYA SKELLEFTEA<br/> Region Decay: 0.1 on 100_ÖDESHÖGRE<br/> Region Decay: 0.4 on 100_GOTHENBURG III
  (2025-07-07 10:50  UTC)<br/>
@@ -10124,7 +10125,7 @@ DSS deploys to *Oslo Station* of the Sagan sector (2025-07-08 08:40  UTC)<br/>
  (2025-07-08 12:00  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2025-07-08 13:22  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-07-08 13:22  UTC)<br/>
-Major Order | A2-7-2 Rebuild Remembrance is issued | Objective: Control/Operations (2025-07-08 13:59  UTC)<br/>
+Major Order | [A2-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-2) Rebuild Remembrance is issued | Objective: Control/Operations (2025-07-08 13:59  UTC)<br/>
  Decay: 0.0 on Erata Prime
  (2025-07-08 13:59  UTC)<br/>
  Region Decay: 0.2 on 168_NEW DA NANG<br/> Region Decay: 0.1 on 168_PHAM'S SITE<br/> Region Decay: 0.2 on 168_OLD CHEMLAND
@@ -10236,7 +10237,7 @@ DSS deploys to *Oslo Station* of the Sagan sector (2025-07-14 00:52  UTC)<br/>
 *Mog* - *Valmox* warp link is added (2025-07-14 13:16  UTC)<br/>
 *Valmox* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
 *Adhara* - *Mog* warp link is added (2025-07-14 13:16  UTC)<br/>
-Major Order | A2-7-2 Rebuild Remembrance is won | Objective: Control/Operations (2025-07-14 14:01  UTC)<br/>
+Major Order | [A2-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-2) Rebuild Remembrance is won | Objective: Control/Operations (2025-07-14 14:01  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn. (2025-07-14 14:12  UTC)<br/>
 DSS effect Eagle Storm stops (2025-07-14 23:00  UTC)<br/>
 *Oslo Station* is liberated (2025-07-15 06:21  UTC)<br/>
@@ -10344,7 +10345,7 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
  (2025-07-15 09:16  UTC)<br/>
 *Julheim* of the Nanos sector is attacked by Automatons (2025-07-15 09:20  UTC)<br/>
 *Julheim* Region 0 Frostown Megacity is besieged by Humans (2025-07-15 09:20  UTC)<br/>
-Major Order | A2-7-3 Repel Mass Automaton Attack is issued | Objective: Control (2025-07-15 09:25  UTC)<br/>
+Major Order | [A2-7-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-3) Repel Mass Automaton Attack is issued | Objective: Control (2025-07-15 09:25  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Multiple simultaneous Automaton assaults have been detected on planets with highly-populated *Super Earth* cities. MININT analysis reports with a high degree of confidence that the strategic objective of this invasion is to take control of key Democracy Space Station facilities. Hold the key DSS facilities at all costs. (2025-07-15 09:27  UTC)<br/>
  Region Decay: 0.6 on 72_FROSTOWN
  (2025-07-15 10:00  UTC)<br/>
@@ -10362,7 +10363,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-07-16 07:45  UTC)<br/>
  (2025-07-16 07:45  UTC)<br/>
  Region Decay: 0.4 on 94_RESPITE
  (2025-07-16 07:45  UTC)<br/>
-Major Order | A2-7-4 Strategic Opportunity is issued | Objective: Control (2025-07-16 07:59  UTC)<br/>
+Major Order | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Strategic Opportunity is issued | Objective: Control (2025-07-16 07:59  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet. If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (2025-07-16 08:00  UTC)<br/>
  Decay: 1.5 on Claorell
  (2025-07-16 08:00  UTC)<br/>
@@ -10387,7 +10388,7 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-07-17 07:56  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
-Major Order | A2-7-4 Strategic Opportunity is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
+Major Order | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Strategic Opportunity is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
 Dispatch: OASIS FALLEN. OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Automatons (2025-07-17 08:10  UTC)<br/>
 *Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
@@ -10467,9 +10468,9 @@ Dispatch: OPERATIONS RESTORED. DSS Tactical Action activation time has been rest
 DSS effect Orbital Blockade is activated (2025-07-21 23:22  UTC)<br/>
 
 ### Day: #531
-Major Order | A2-7-3 Repel Mass Automaton Attack is failed | Objective: Hold (2025-07-22 09:30  UTC)<br/>
+Major Order | [A2-7-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-3) Repel Mass Automaton Attack is failed | Objective: Hold (2025-07-22 09:30  UTC)<br/>
 Dispatch:  MAJOR ORDER FAILED. *Super Earth* cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy. (2025-07-22 09:40  UTC)<br/>
-Major Order | A2-7-5 Kill Enemies for Propaganda is issued | Objective: Eradicate (2025-07-22 13:00  UTC)<br/>
+Major Order | [A2-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-5) Kill Enemies for Propaganda is issued | Objective: Eradicate (2025-07-22 13:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares. Consult your Galactic Map for more information. (2025-07-22 13:01  UTC)<br/>
 *Fort Union* Region 4 Greatfort Megacity is renamed to New Hope City (2025-07-22 13:01  UTC)<br/>
 *Fort Sanctuary* Region 0 Unnamed Megacity is renamed to New Yearning City (2025-07-22 13:01  UTC)<br/>
@@ -10524,7 +10525,7 @@ DSS deploys to *Claorell* of the Tanis sector (2025-07-25 09:00  UTC)<br/>
  Decay: 0.5 on Alamak VII
  (2025-07-25 15:51  UTC)<br/>
 *Fori Prime* is no longer unobservable (2025-07-25 15:55  UTC)<br/>
-Major Order | A2-7-6 Kill Sporeburst Warriors On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
+Major Order | [A2-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-6) Kill Sporeburst Warriors On *Fori Prime* is issued | Objective: Eradicate (2025-07-25 15:56  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. In support of the ongoing public relations campaign, High Command has ordered an short-term expedition to FORI PRIME within the outskirts of the Gloom, to exterminate 5,000,000 Spore Burst Warriors using the Stalwart. This optional augmentation to the public relations campaign could further boost citizen morale to yet-unforseen heights. (2025-07-25 15:56  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-07-25 15:57  UTC)<br/>
 Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on FORI PRIME. (2025-07-25 17:53  UTC)<br/>
@@ -10539,7 +10540,7 @@ Dispatch: M-105 Stalwart stratagem availability has ended. (2025-07-26 16:02  UT
  (2025-07-26 16:02  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. Righteous and furious extermination of Terminid Shriekers by the Helldivers has spurred our citizens to new heights of patriotic generosity. As a result, High Command has authorized the temporary addition of the Autocannon Stratagem to all Helldiver loadouts for the next 24 hours. (2025-07-26 16:04  UTC)<br/>
 *Claorell* Region 0 MAJOSYRI City has fallen to Humans (2025-07-27 03:29  UTC)<br/>
-Major Order | A2-7-6 Kill Sporeburst Warriors on *Fori Prime* is won | Objective: Eradicate (2025-07-27 06:27  UTC)<br/>
+Major Order | [A2-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-6) Kill Sporeburst Warriors on *Fori Prime* is won | Objective: Eradicate (2025-07-27 06:27  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully exterminated 5,000,000 Spore Burst Warriors on FORI PRIME through effective employment of the Stalwart. A spike in citizen donations to the War Fund has made possible the short-term addition of the Orbital Railcannon Strike Stratagem to all Helldiver arsenals for the remainder of the current order. (2025-07-27 06:31  UTC)<br/>
 
 ### Day: #536
@@ -10575,7 +10576,7 @@ Assault Division: Incineration Corps U4B leaves *Lesath* (2025-07-29 10:07  UTC)
 Assault Division: Incineration Corps U4B deploys to *Penta* (2025-07-29 10:09  UTC)<br/>
 Assault Division: Incineration Corps U4B leaves *Penta* (2025-07-29 11:07  UTC)<br/>
 Assault Division: Incineration Corps U4B deploys to *Merak* (2025-07-29 11:09  UTC)<br/>
-Major Order | A2-7-5 Kill Enemies for Propaganda is won | Objective: Eradicate (2025-07-29 12:10  UTC)<br/>
+Major Order | [A2-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-5) Kill Enemies for Propaganda is won | Objective: Eradicate (2025-07-29 12:10  UTC)<br/>
 *Fort Union* of the Orion sector is established as a New Hope Construction Site POI (2025-07-29 12:12  UTC)<br/>
 *Fort Sanctuary* of the Cancri sector is established as a New Hope Construction Site POI (2025-07-29 12:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Vigorous, spirited efforts by the Helldivers to generate patriotic war footage for our citizens has had the desired effect. Their acts of valor are now being broadcast to all workplace and home televisions, showcasing the inspiring and visceral destruction of our enemies inflicted by the Helldivers every day.   Consult your Galactic Map for more information. (2025-07-29 12:12  UTC)<br/>
@@ -10605,7 +10606,7 @@ Assault Division: Spore Burst Strain U1B deploys to *Gacrux* (2025-07-30 09:02  
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-07-30 10:28  UTC)<br/>
 Assault Division: Spore Burst Strain U1B divides into 2 groups [U1B, U1C] (2025-07-30 10:28  UTC)<br/>
 Assault Division: Spore Burst Strain U1C deploys to *Acamar IV* (2025-07-30 10:28  UTC)<br/>
-Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
+Major Order | [A2-7-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-7) Collect Gloom Samples/Hold Key Positions is issued | Objective: Samples/Control (2025-07-30 11:02  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-07-30 11:02  UTC)<br/>
  Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
@@ -10719,10 +10720,10 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-04 08:39  UTC)<br/>
 *Vernen Wells* liberation campaign ends (2025-08-05 09:48  UTC)<br/>
 *Vernen Wells* liberation campaign starts (2025-08-05 09:49  UTC)<br/>
 NOTE: This occurs for unknown reasons (2025-08-05 09:49  UTC)<br/>
-Major Order | A2-7-7 Collect Gloom Samples/Hold Key Positions is won | Objective: Samples/Control (2025-08-05 11:06  UTC)<br/>
+Major Order | [A2-7-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-7) Collect Gloom Samples/Hold Key Positions is won | Objective: Samples/Control (2025-08-05 11:06  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the security and Terminid tissue provided by the Helldivers, the Center of Science has successfully designed a process by which to mass-produce Gloom-resistent polymer coating. Consult your Galactic Map for more information. (2025-08-05 11:11  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-08-06 05:10  UTC)<br/>
-Major Order | A2-8-1 Liberate Nanos Sector and Kill 2.5m Troopers is issued | Objective: Liberate/Eradicate (2025-08-06 06:48  UTC)<br/>
+Major Order | [A2-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-1) Liberate Nanos Sector and Kill 2.5m Troopers is issued | Objective: Liberate/Eradicate (2025-08-06 06:48  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to clear the Nanos Sector to secure New Aspiration City. Additionally, in order to prove to the Automatons—and the Federation—that their brutish scare tactics are ineffective, the Helldivers are ordered to destroy the designated number of Automaton Conscripts with the Railcannon Stratagem. (2025-08-06 06:49  UTC)<br/>
  Decay: 1.0 on Bekvam III
  (2025-08-06 08:00  UTC)<br/>
@@ -10741,7 +10742,7 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized the fleetwide use of
  Decay: 1.5 on Duma Tyr
  (2025-08-07 09:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-08-07 09:03  UTC)<br/>
-Major Order | A2-8-2 *Charbal-VII* Database is issued | Objective: Liberate (2025-08-07 11:07  UTC)<br/>
+Major Order | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is issued | Objective: Liberate (2025-08-07 11:07  UTC)<br/>
  Decay: 2.5 on Charbal-VII
  (2025-08-07 11:07  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Intercepted Automaton messages have identified a secure database on CHARBAL-VII. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements. (2025-08-07 11:09  UTC)<br/>
@@ -10763,7 +10764,7 @@ Assault Division: Spore Burst Strain U1J merges with Assault Division: Spore Bur
 DSS effect Orbital Blockade is activated (2025-08-08 11:16  UTC)<br/>
 
 ### Day: #549
-Major Order | A2-8-2 *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
+Major Order | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
 Dispatch: AUTOMATON SECURE DATA MOVED. The Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence. (2025-08-09 11:12  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-08-09 11:19  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-08-09 13:15  UTC)<br/>
@@ -10783,7 +10784,7 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-08-09 23:46  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-11 13:55  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide use of the Orbital Railcannon Stratagem with reduced waiting period between calldowns in the Andromeda Sector for the next 42 hours. (2025-08-11 13:58  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-08-11 17:17  UTC)<br/>
-Major Order | A2-8-1 Liberate Nanos Sector and Kill 2.5m Troopers is won | Objective: Liberate/Eradicate (2025-08-12 07:00  UTC)<br/>
+Major Order | [A2-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-1) Liberate Nanos Sector and Kill 2.5m Troopers is won | Objective: Liberate/Eradicate (2025-08-12 07:00  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Nanos Sector has been liberated, and a clear message has been sent to the Automatons in a powerful show of force. The overwhelming firepower of Freedom has been utilized to great effect: the citizens of New Aspiration City on *Emeria* are safe. (2025-08-12 07:02  UTC)<br/>
 *Emeria* of the Kelvin sector's New Hope Construction Site POI is removed (2025-08-12 07:07  UTC)<br/>
 *Emeria* of the Kelvin sector is established as a New Aspiration City POI (2025-08-12 07:08  UTC)<br/>
@@ -10793,7 +10794,7 @@ Dispatch: MAJOR ORDER WON. The Nanos Sector has been liberated, and a clear mess
 *Fort Union* of the Orion sector is established as a New Hope City POI (2025-08-12 07:10  UTC)<br/>
 
 ### Day: #552
-Major Order | A2-8-3 Tyranny Park 2 Construction is issued | Objective: Liberate/Eradicate/Samples (2025-08-12 09:01  UTC)<br/>
+Major Order | [A2-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-3) Tyranny Park 2 Construction is issued | Objective: Liberate/Eradicate/Samples (2025-08-12 09:01  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-08-12 09:38  UTC)<br/>
 Assault Division: Spore Burst Strain U1H leaves *Darius II* (2025-08-12 11:25  UTC)<br/>
 Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Burst Strain U1F on *Phact Bay* (2025-08-12 11:25  UTC)<br/>
@@ -10805,7 +10806,7 @@ Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Bur
 ### Day: #553
 Dispatch: NEW MAJOR ORDER. The *Super Earth* Government has authorized the construction of Tyranny Park 2, a massive recreational and education facility showcasing the most dire threats posed to Managed Democracy. Helldiver aid is needed for this important endeavor. Consult your Galactic Map for more information. (2025-08-13 09:02  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-08-13 09:38  UTC)<br/>
-Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
+Major Order | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The Helldivers are ordered to liberate CRIMSICA in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information. (2025-08-13 13:01  UTC)<br/>
 DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-13 13:19  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-08-13 17:18  UTC)<br/>
@@ -10838,9 +10839,9 @@ Assault Division: Spore Burst Strain U1B leaves *Overgoe Prime* (2025-08-15 12:1
 *Crimsica* is liberated (2025-08-15 13:27  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2025-08-15 13:27  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-08-15 13:27  UTC)<br/>
-Major Order | A2-8-4 *Crimsica* E-710 Farm Construction is won | Objective: Liberate (2025-08-15 13:27  UTC)<br/>
+Major Order | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is won | Objective: Liberate (2025-08-15 13:27  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. CRIMSICA has been liberated from the Terminids. Construction on a new and much more secure E-710 farm has already begun, along with a fleet of new Super Destroyers. Once complete, this fleet expansion will mean that more Helldivers can spread Managed Democracy simultaneously. The strongest fighting force in the Galaxy will soon be even stronger. (2025-08-15 13:29  UTC)<br/>
-Major Order | A2-8-5 Tyranny Park Expansion is issued | Objective: Eradicate (2025-08-15 14:11  UTC)<br/>
+Major Order | [A2-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-5) Tyranny Park Expansion is issued | Objective: Eradicate (2025-08-15 14:11  UTC)<br/>
 Dispatch: TYRANNY PARK 2 EXPANSION ANNOUNCED. The first expansion for Tyranny Park 2 is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows. Helldivers: neutralize 50,000,000 Predator Strain and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae. Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (2025-08-15 14:15  UTC)<br/>
 *Bore Rock* is liberated (2025-08-16 05:24  UTC)<br/>
 ↳ *Esker* liberation campaign starts (2025-08-16 05:24  UTC)<br/>
@@ -10854,7 +10855,7 @@ DSS effect Eagle Storm is activated (2025-08-16 13:34  UTC)<br/>
 DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2025-08-16 20:37  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2025-08-16 22:00  UTC)<br/>
-Major Order | A2-8-5 Tyranny Park Expansion is won | Objective: Eradicate (2025-08-17 02:11  UTC)<br/>
+Major Order | [A2-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-5) Tyranny Park Expansion is won | Objective: Eradicate (2025-08-17 02:11  UTC)<br/>
 Dispatch: TYRANNY PARK 2 EXPANSION SECURED. Helldivers have successfully neutralized all designated Gloom-mutated Terminids. A surge of Tyranny Park 2 ticket pre-sales has followed the announcement of "The Forbidden Gloom" expansion zone. As such, Tyranny Park 2 has sponsored the Orbital Napalm Barrage stratagem to be available fleetwide for the next 48 hours. (2025-08-17 02:17  UTC)<br/>
 Assault Division: Predator Strain U5B is routed from Acamar IV (2025-08-17 02:17  UTC)<br/>
 
@@ -10882,7 +10883,7 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-08-18 06:27  UTC)<br/>
 *Parsh*'s max health is changed to 2m (2025-08-18 12:58  UTC)<br/>
 *Grafmere*'s max health is changed to 2.1m (2025-08-18 12:58  UTC)<br/>
 Assault Division: Predator Strain U5A leaves *Gacrux* (2025-08-18 13:39  UTC)<br/>
-Major Order | A2-8-3 Tyranny Park 2 Construction is won | Objective: Liberate/Eradicate/Samples (2025-08-19 08:57  UTC)<br/>
+Major Order | [A2-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-3) Tyranny Park 2 Construction is won | Objective: Liberate/Eradicate/Samples (2025-08-19 08:57  UTC)<br/>
 Dispatch: PARK PLANNING COMISSION NOTICE. In light of the Helldivers' recent Charger egg procurement efforts, the Tyranny Park Planning Commission has unanimously decided to diversify Tyranny Park 2's Charger exhibits. For this purpose, the Helldivers' target Charger numbers are considered met. (2025-08-19 08:59  UTC)<br/>
 
 ### Day: #559
@@ -10910,7 +10911,7 @@ Assault Division: Spore Burst Strain U3A leaves *Turing* (2025-08-19 13:31  UTC)
  (2025-08-19 13:46  UTC)<br/>
 *Gacrux* is liberated (2025-08-19 13:58  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-08-19 13:58  UTC)<br/>
-Major Order | A2-8-6 Kill 6 Billion Terminids is issued | Objective: Eradicate (2025-08-19 14:01  UTC)<br/>
+Major Order | [A2-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-6) Kill 6 Billion Terminids is issued | Objective: Eradicate (2025-08-19 14:01  UTC)<br/>
  Decay: 0.0 on Turing
  (2025-08-19 14:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. All units to high alert. Multiple large-scale Terminid incursions have been reported on planets surrounding the Gloom. ACHERNAR SECUNDUS, ERATA PRIME, FENRIR III, AND TURING are under attack. The Helldivers must deploy immediately to their defense. The Helldivers are ordered to Kill 6,000,000,000 Terminids. It is believed the attack will continue without abatement until then. (2025-08-19 14:02  UTC)<br/>
@@ -10947,7 +10948,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-08-20 23:25  UTC)<br/>
  (2025-08-21 09:00  UTC)<br/>
  Region Decay: 0.6 on 72_FROSTOWN
  (2025-08-21 09:00  UTC)<br/>
-Major Order | A2-8-7 Kill 1.5 Billion Automatons is issued | Objective: Eradicate (2025-08-21 09:03  UTC)<br/>
+Major Order | [A2-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-7) Kill 1.5 Billion Automatons is issued | Objective: Eradicate (2025-08-21 09:03  UTC)<br/>
 Dispatch: AUTOMATON ASSAULT. A massive Automaton assault has been detected, targeting multiple sectors left lightly defended while our forces are engaged with the Terminid invasion. Consult your Galactic Map for more information. (2025-08-21 09:05  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating CHARBAL-VII would end the current Automaton attacks upon both CHARON PRIME, JULHEIM and MORT. (2025-08-21 09:50  UTC)<br/>
  Decay: 0.0 on Julheim<br/> Decay: 0.5 on Charbal-VII
@@ -10988,7 +10989,7 @@ Dispatch: LOW-ORBIT INTERDICTION. Illuminate assault forces have deployed heavy 
  (2025-08-22 08:56  UTC)<br/>
 
 ### Day: #562
-Major Order | A2-8-8 Kill 1 Billion Illuminate is issued | Objective: Eradicate (2025-08-22 09:03  UTC)<br/>
+Major Order | [A2-8-8](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-8) Kill 1 Billion Illuminate is issued | Objective: Eradicate (2025-08-22 09:03  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have launched a massive offensive—the third concurrent onslaught upon our besieged Federation. We are losing ground. Reinforcements are en route. But the new Super Destroyer fleet is still 96 hours from mobilization. They will be too late unless you buy time. Helldivers: Collapse the Illuminate advance by eliminating 1,000,000,000 of their forces. You must hold on. (2025-08-22 09:04  UTC)<br/>
 *Veld* of the Orion sector is attacked by Terminids (2025-08-22 10:19  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town is besieged by Humans (2025-08-22 10:19  UTC)<br/>
@@ -11167,7 +11168,7 @@ Dispatch: IMPALER RAMPAGE. A massive outbreak of Impaler Terminids has been repo
  Decay: 1.0 on Fenmire
  (2025-08-25 13:43  UTC)<br/>
 Dispatch: INCREASED REINFORCEMENT BUDGET. In order to account for a predicted increase in Helldiver turnover, *Super Earth* High Command has issued emergency approval to increase Helldiver Reinforcement Budgets to 2 per mission for the next 48 hours. (2025-08-25 13:50  UTC)<br/>
-A2-8-6's briefing is changed to a new briefing (2025-08-25 14:30  UTC)<br/>
+[A2-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-6)'s briefing is changed to a new briefing (2025-08-25 14:30  UTC)<br/>
 *Kerth Secundus* Region 2 Hildoara Central Megacity is besieged by Humans (2025-08-25 16:30  UTC)<br/>
 DSS deploys to *Inari* of the Korpus sector (2025-08-25 17:29  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-08-25 17:40  UTC)<br/>
@@ -11327,7 +11328,7 @@ DSS deploys to *Emeria* of the Kelvin sector (2025-08-28 16:32  UTC)<br/>
 *Bore Rock* of the Falstaff sector's Tyranny Park 2 POI is removed (2025-08-28 16:33  UTC)<br/>
 Dispatch: Terminids contained within the Park have now escaped, and outbreaks have been detected on adjacent planets. Experts agree this could not have been predicted. Nevertheless, it must be responded to swiftly. (2025-08-28 16:34  UTC)<br/>
 Dispatch: TYRANNY PARK 2 HAS FALLEN. The construction site for Tyranny Park 2 on *Bore Rock* has been overrun by the Terminid swarm. The fate of the pioneering dreamweavers and dedicated construction personnel on-site is unknown. (2025-08-28 16:34  UTC)<br/>
-Major Order | A2-8-8 Kill 1 Billion Illuminate is won | Objective: Eradicate (2025-08-28 16:36  UTC)<br/>
+Major Order | [A2-8-8](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-8) Kill 1 Billion Illuminate is won | Objective: Eradicate (2025-08-28 16:36  UTC)<br/>
 Dispatch: ILLUMINATE ASSAULT BROKEN. The Helldivers have halted the ILLUMINATE offensive. This is a vital breakthrough, but the battle for our survival rages on. The massive fleets of AUTOMATON and TERMINID continue their merciless assault across our besieged sectors. This fight is far from over. (2025-08-28 16:39  UTC)<br/>
 DSS effect EAGLE STORM stops (2025-08-28 17:59  UTC)<br/>
  Decay: 1.0 on Terrek
@@ -11392,7 +11393,7 @@ Assault Division: Predator Strain U6B divides into 2 groups [U6B, U6D] (2025-08-
 Assault Division: Predator Strain U6D deploys to *Fort Union* (2025-08-30 00:27  UTC)<br/>
 *Fort Union* Region 2 Munition City Town is besieged by Humans (2025-08-30 00:27  UTC)<br/>
 Dispatch: NEW HOPE CITY UNDER ATTACK. New Hope City has come under attack by Terminid forces. The Flagship Maximum Security City houses the Federations most equal citizens and precocious children outside *Super Earth* itself. It must be held at all costs. Helldivers are strongly advised to deploy to Planet *Fort Union* to defend the city immediately. (2025-08-30 00:29  UTC)<br/>
-Major Order | A2-8-7 Kill 1.5 Billion Automatons is won | Objective: Eradicate (2025-08-30 00:35  UTC)<br/>
+Major Order | [A2-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-7) Kill 1.5 Billion Automatons is won | Objective: Eradicate (2025-08-30 00:35  UTC)<br/>
  Decay: 0.0 on Fort Union, Sulfura
  (2025-08-30 00:35  UTC)<br/>
  Region Decay: 0.2 on 16_OTARU'S PLEDGE<br/> Region Decay: 0.4 on 16_XIAMEN ANEW<br/> Region Decay: 0.2 on 16_MUNITION CITY<br/> Region Decay: -0.3 on 16_NEW HOPE CITY
@@ -11437,12 +11438,12 @@ DSS deploys to *Sulfura* of the Celeste sector (2025-08-31 16:47  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Tesla Tower Stratagem for the next 24 hours. (2025-08-31 17:20  UTC)<br/>
  Decay: 0.0 on Nublaria I
  (2025-08-31 17:20  UTC)<br/>
-Major Order | A2-8-6 Kill 6 Billion Terminids is won | Objective: Eradicate (2025-08-31 21:55  UTC)<br/>
+Major Order | [A2-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-6) Kill 6 Billion Terminids is won | Objective: Eradicate (2025-08-31 21:55  UTC)<br/>
 *Hellmire* is no longer unobservable (2025-08-31 22:13  UTC)<br/>
 *Fori Prime* is no longer unobservable (2025-08-31 22:13  UTC)<br/>
 Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4D] (2025-08-31 22:14  UTC)<br/>
 Assault Division: Spore Burst Strain U4D deploys to *Hellmire* (2025-08-31 22:14  UTC)<br/>
-Major Order | A2-8-9 Operation Righteous Reclamation Phase One is issued | Objective: Control (2025-08-31 22:29  UTC)<br/>
+Major Order | [A2-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-9) Operation Righteous Reclamation Phase One is issued | Objective: Control (2025-08-31 22:29  UTC)<br/>
 *Hellmire* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Hellmire* - *Oshaune* warp link is added (2025-08-31 22:30  UTC)<br/>
@@ -11485,11 +11486,11 @@ Assault Division: Rupture Strain U1B deploys to *Nivel 43* (2025-09-02 11:45  UT
 Assault Division: Rupture Strain U1A is routed from Hellmire (2025-09-02 11:48  UTC)<br/>
 *Hellmire* changes to being lightly enveloped by the Gloom (2025-09-02 11:49  UTC)<br/>
 *Hellmire* of the Mirin sector is established as a Outpost Alpha POI (2025-09-02 11:49  UTC)<br/>
-Major Order | A2-8-9 Operation Righteous Reclamation Phase One is won | Objective: Control (2025-09-02 11:49  UTC)<br/>
+Major Order | [A2-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-9) Operation Righteous Reclamation Phase One is won | Objective: Control (2025-09-02 11:49  UTC)<br/>
 *Fori Prime* is no longer classified as a High Priority Campaign (2025-09-02 11:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated HELLMIRE from the Gloom's clutches. Their superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed Outpost Alpha. As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom. Outpost personnel have completed initial geological scans of OSHAUNE. The planet presents a unique biome, which has earned it the designation: Hive World. (2025-09-02 11:49  UTC)<br/>
 Dispatch: STRATEGIC TIMELINE ACCELERATED. In order to maintain operational momentum, High Command has directed the immediate and forceful invasion of OSHAUNE, springboarding from the rapidlly-deployed Outpost Alpha on HELLMIRE. Low Gloom resistance thus far indicates a lack of enemy preparedness. High deployment velocity will enable full exploitation of this vulnerability. (2025-09-02 11:49  UTC)<br/>
-Major Order | A2-9-1 Operation Righteous Reclamation Phase Two is issued | Objective: Control/Samples (2025-09-02 11:51  UTC)<br/>
+Major Order | [A2-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-1) Operation Righteous Reclamation Phase Two is issued | Objective: Control/Samples (2025-09-02 11:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Operation Righteous Reclamation has entered its second stage. Outpost Alpha enables the Helldivers' spore-resistant Super Destroyers to access the Hive World OSHAUNE. The Helldivers are ordered to conduct initial reconnaissance of the Hive World and secure research samples from it. Understanding this unique biome is key to annihilating it for good. While operations on HELLMIRE are ongoing, Outpost Alpha must not be lost. (2025-09-02 11:53  UTC)<br/>
 Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE. Extraction times on this planet have increased by 50s. (2025-09-02 12:20  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 13:11  UTC)<br/>
@@ -11656,7 +11657,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-08 22:30  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-09-09 05:43  UTC)<br/>
 
 # Day: #580
-Major Order | A2-9-1 Operation Righteous Reclamation Phase Two is failed | Objective: Control/Samples (2025-09-09 11:46  UTC)<br/>
+Major Order | [A2-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-1) Operation Righteous Reclamation Phase Two is failed | Objective: Control/Samples (2025-09-09 11:46  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Helldivers, braving the deepest depths of the Gloom, were violently mobbed by waves of monstrous Terminid mutants. Forced to fight for Life and Liberty, the Helldivers were unable to meet target sample numbers. Outpost Alpha remains safe, and the path to the Hive World remains open. Soon, our boots will thunder down that path once more, squishing every bug in their way. (2025-09-09 12:00  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2025-09-09 12:44  UTC)<br/>
 *Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-09-09 12:44  UTC)<br/>
@@ -11668,7 +11669,7 @@ Dispatch: DRAGONROACH ATTACK. Terminid Dragonroaches have been reported attackin
 *Gacrux* of the Jin Xi sector is attacked by Terminids (2025-09-09 12:57  UTC)<br/>
 Assault Division: Rupture Strain U1D divides into 2 groups [U1D, U1F] (2025-09-09 12:57  UTC)<br/>
 Assault Division: Rupture Strain U1F deploys to *Gacrux* (2025-09-09 12:57  UTC)<br/>
-Major Order | A2-9-2 Defend Against 7 Terminid Attacks is issued | Objective: Defend (2025-09-09 13:03  UTC)<br/>
+Major Order | [A2-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-2) Defend Against 7 Terminid Attacks is issued | Objective: Defend (2025-09-09 13:03  UTC)<br/>
  Decay: 0.0 on Crimsica
  (2025-09-09 13:03  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Multiple Gloom-adjacent planets have come under heavy Terminid attack. There are worrying signs the Gloom itself may be expanding, for the first time since the end of its initial expansion. The Helldivers are called to the immediate defense of all besieged planets. Be advised: there are unverified reports of mutated Terminid strains, previously confined to the Gloom, on the battlefield. (2025-09-09 13:05  UTC)<br/>
@@ -11696,7 +11697,7 @@ Dispatch: GLOOM SPREAD TO GACRUX. GACRUX has become infested by Terminids, and l
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-09-11 07:20  UTC)<br/>
 Assault Division: Rupture Strain U1F divides into 2 groups [U1F, U1G] (2025-09-11 07:20  UTC)<br/>
 Assault Division: Rupture Strain U1G deploys to *Acamar IV* (2025-09-11 07:20  UTC)<br/>
-Minor Order | A2-9-3 Liberate *Gacrux* is issued | Objective: Liberate (2025-09-11 07:36  UTC)<br/>
+Minor Order | [A2-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-3) Liberate *Gacrux* is issued | Objective: Liberate (2025-09-11 07:36  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-09-11 07:36  UTC)<br/>
  Region Decay: 0.1 on 129_DEMOCRACY ALWAYS<br/> Region Decay: 0.4 on 129_ERIDANI
@@ -11730,7 +11731,7 @@ Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupie
 Assault Division: Rupture Strain U1F is routed from Gacrux (2025-09-12 20:34  UTC)<br/>
 *Gacrux* is no longer enveloped by the Gloom (2025-09-12 20:34  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-09-12 20:34  UTC)<br/>
-Minor Order | A2-9-3 Liberate *Gacrux* is won | Objective: Liberate (2025-09-12 20:34  UTC)<br/>
+Minor Order | [A2-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-3) Liberate *Gacrux* is won | Objective: Liberate (2025-09-12 20:34  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE MET. GACRUX has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside. The planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment. (2025-09-12 20:35  UTC)<br/>
 Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (2025-09-12 20:49  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-12 20:54  UTC)<br/>
@@ -11786,7 +11787,7 @@ Dispatch: ARSENAL AUGMENTATION ENDED. Flamethrower Stratagem availability has no
 DSS effect Orbital Blockade stops (2025-09-14 23:50  UTC)<br/>
 *Hellmire* defense is won (2025-09-15 08:59  UTC)<br/>
 Assault Division: Rupture Strain U2A is routed from Hellmire (2025-09-15 08:59  UTC)<br/>
-Major Order | A2-9-2 Defend Against 7 Terminid Attacks is won | Objective: Defend (2025-09-15 08:59  UTC)<br/>
+Major Order | [A2-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-2) Defend Against 7 Terminid Attacks is won | Objective: Defend (2025-09-15 08:59  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-09-15 08:59  UTC)<br/>
 
 ### Day: #586
@@ -11813,7 +11814,7 @@ DSS deploys to *Cirrus* of the Orion sector (2025-09-15 21:48  UTC)<br/>
 Dispatch: NEW ALEXANDRIA SECURED. A small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandria, a city on the planet *Seyshel Beach*. While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all. (2025-09-16 02:34  UTC)<br/>
 
 ### Day: #587
-Major Order | A2-9-4 Automaton Mining Liberation is issued | Objective: Liberate/Control (2025-09-16 13:40  UTC)<br/>
+Major Order | [A2-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-4) Automaton Mining Liberation is issued | Objective: Liberate/Control (2025-09-16 13:40  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. While one enemy strikes, another one schemes. Decrypted Automaton communications reveal secretive mining operations underway on MINTORIA, utilizing leaked next-generation habitat technologies. Repatriating and implementing these technologies may help us expand Outpost Alpha into nothing less than a spore-proof subterranean haven. The Helldivers must clear the way to MINTORIA, and hold both it and Outpost Alpha while the Outpost is expanded. (2025-09-16 13:41  UTC)<br/>
 DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-16 13:48  UTC)<br/>
 *Mintoria* of the Gellert sector is established as a Ultramafic Mine POI (2025-09-16 15:53  UTC)<br/>
@@ -11849,7 +11850,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-18 00:06  UTC)<br/>
  (2025-09-18 02:00  UTC)<br/>
 DSS deploys to *Zefia* of the Tanis sector (2025-09-18 05:49  UTC)<br/>
 Dispatch: CLASA LIBERATED. CLASA has been liberated. The Helldivers are one step closer to liberating MINTORIA. (2025-09-18 06:18  UTC)<br/>
-Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is issued | Objective: Liberate (2025-09-18 08:08  UTC)<br/>
+Minor Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is issued | Objective: Liberate (2025-09-18 08:08  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The jolly workhands of our weapons manufacturers are eager to help strike back at the Gloom. However, no currently available materiel can be spared to facilitate their proposed increase in productivity. Valyria 5 is home to the original Emancipator Exosuit factory. Underground storage bunkers on the planet may still contain Exosuit parts. The surface of *Choepessa IV* remains bestrewn with exploded and unexploded ordnance from the first Galactic War, which could be repurposed into Orbital munitions. The Helldivers are ordered to liberate one of these two planets, in order to secure materials for our indefatigable working heroes' extracurricular initiative. (2025-09-18 08:08  UTC)<br/>
 
 ### Day: #589
@@ -11893,7 +11894,7 @@ NOTE: The defense campaign was accidentally set to expire in 22 years instead of
  (2025-09-21 00:00  UTC)<br/>
 *Choepessa IV* Region 2 Ydinkeskusta Megacity is besieged by Humans (2025-09-21 02:29  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-21 05:51  UTC)<br/>
-Minor Order | A2-9-5 Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
+Minor Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (2025-09-21 08:17  UTC)<br/>
 
 ### Day: #592
@@ -11939,9 +11940,9 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-23 07:49  UTC)<br/>
  Decay: 1.5 on Mintoria
  (2025-09-23 09:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-09-23 12:07  UTC)<br/>
-Major Order | A2-9-4 Automaton Mining Liberation is won | Objective: Liberate/Control (2025-09-23 13:43  UTC)<br/>
+Major Order | [A2-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-4) Automaton Mining Liberation is won | Objective: Liberate/Control (2025-09-23 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have seized the Automatons' ill-gotten habitat tech, while holding HELLMIRE against the unrelenting onslaught of Terminid marauders. The seized technologies are already being put to use expanding and strengthening Outpost Alpha. When expanded, Gloom Base Alpha will provide much-needed logistical support in the area. It is set to combat adverse effects of the Gloom and help liberation efforts on the nearby Hive World. (2025-09-23 13:53  UTC)<br/>
-Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
+Major Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to seize the Hive World once and for all, High Command is fast-tracking a number of improvements and augmentations to the Democratic Space Station. KARLIA has the ideal gravitational and atmospheric conditions for these augmentations to be safely applied. However, any attacks on the DSS during augmentation would be disastrous. The Helldivers are ordered to seize KARLIA from the Illuminate, and establish a secure perimeter around the planet. (2025-09-23 14:14  UTC)<br/>
 *Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-09-23 15:02  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-09-23 21:52  UTC)<br/>
@@ -11980,7 +11981,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-25 23:56  UTC)<br/>
 DSS deploys to *Alaraph* of the Akira sector (2025-09-26 05:54  UTC)<br/>
 
 ### Day: #597
-Minor Order | A2-9-6 Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
+Minor Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on VARYLIA 5, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands' Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on OASIS make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (2025-09-26 10:05  UTC)<br/>
 *Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-09-26 12:18  UTC)<br/>
 *Alaraph* is liberated (2025-09-27 05:42  UTC)<br/>
@@ -12002,7 +12003,7 @@ DSS deploys to *Hydrobius* of the Omega sector (2025-09-27 09:54  UTC)<br/>
 *Hydrobius* Region 0 Generatorsville City has fallen to Humans (2025-09-28 00:41  UTC)<br/>
 
 ### Day: #599
-Minor Order | A2-9-6 Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
+Minor Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the Jolly Weapons Workhands' Extracurricular Initiative. Weapons production will proceed according to schedule, without beneficial increases in scope. (2025-09-28 10:12  UTC)<br/>
 Dispatch: MERIDIA RE-OPENED FOR OBSERVATION. The *Meridia*n Singularity has been re-opened for patriotic observation. All Helldivers are authorized to visit the former planet to contemplate the immense loss inflicted upon our society by the enemies of Freedom, and the imperative for merciless Justice thereby implied. (2025-09-28 14:56  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-28 17:58  UTC)<br/>
@@ -12047,7 +12048,7 @@ Dispatch: KARLIA LIBERATED. KARLIA has been liberated. The DSS has been warped t
 *Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-09-30 12:28  UTC)<br/>
 *Partion* is lightly enveloped by the Gloom (2025-09-30 12:29  UTC)<br/>
 *Estanu* is lightly enveloped by the Gloom (2025-09-30 12:30  UTC)<br/>
-Major Order | A2-9-5 Secure *Karlia* And Surrounding Systems is won | Objective: Control (2025-09-30 14:15  UTC)<br/>
+Major Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Secure *Karlia* And Surrounding Systems is won | Objective: Control (2025-09-30 14:15  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement has fallen to Automatons (2025-09-30 14:24  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-09-30 16:54  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. PARTION is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-30 17:45  UTC)<br/>
@@ -12061,7 +12062,7 @@ Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupie
 ### Day: #602
  Decay: 2.5 on Tarsh
  (2025-10-01 10:00  UTC)<br/>
-Major Order | A2-10-1 Acquire Critical Automaton Intel is issued | Objective: Liberate (2025-10-01 14:11  UTC)<br/>
+Major Order | [A2-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-1) Acquire Critical Automaton Intel is issued | Objective: Liberate (2025-10-01 14:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Keys to unlock critical Automaton data are located on MENKENT and AESIR PASS. The encryption key on MENKENT would unlock intel regarding Vessel 00; the cache on AESIR PASS would unlock intel regarding the Nucleus. The Automatons will purge all data from one site as soon as the other is compromised. Only one encryption key can be recovered. The Helldivers must choose whether to liberate MENKENT or AESIR PASS. (2025-10-01 14:12  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-10-01 16:55  UTC)<br/>
 DSS deploys to *Tarsh* of the Marspira sector (2025-10-01 18:18  UTC)<br/>
@@ -12109,7 +12110,7 @@ DSS deploys to *Menkent* of the Hydra sector (2025-10-04 14:22  UTC)<br/>
 *Menkent* is liberated (2025-10-05 21:47  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2025-10-05 21:47  UTC)<br/>
 Assault Division: Incineration Corps U5B is routed from Menkent (2025-10-05 21:47  UTC)<br/>
-Major Order | A2-10-1 Acquire Critical Automaton Intel is won | Objective: Liberate (2025-10-05 21:47  UTC)<br/>
+Major Order | [A2-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-1) Acquire Critical Automaton Intel is won | Objective: Liberate (2025-10-05 21:47  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-10-05 21:48  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated MENKENT from the Automatons. The encryption key identified by intel has been secured and transmitted, and used to de-encrypt files from Database One concerning Vessel 00. Consult the Galactic Map for more information. (2025-10-05 21:49  UTC)<br/>
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (2025-10-06 00:59  UTC)<br/>
@@ -12125,3 +12126,42 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-10-06 02:24  UTC)<br/>
 ### Day: #607
 *Estanu* is heavily enveloped by the Gloom (2025-10-06 21:13  UTC)<br/>
 *Partion* is heavily enveloped by the Gloom (2025-10-06 21:15  UTC)<br/>
+Dispatch: M-105 Stalwart stratagem availability has ended. (2025-10-07 01:01  UTC)<br/>
+*Seyshel Beach* Region 2 The Villas City has fallen to Humans (2025-10-07 01:17  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town is now present (2025-10-07 08:45  UTC)<br/>
+*Zea Rugosia* Region 1 Gene Settlement is now present (2025-10-07 08:45  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City is now present (2025-10-07 08:45  UTC)<br/>
+*Zea Rugosia*'s max health is changed to 1.7m (2025-10-07 08:45  UTC)<br/>
+
+### Day: #608
+*Herthon Secundus* liberation campaign ends (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* Region 0 Penscewt Town is now present (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* Region 1 Eagle's Likeness is now present (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* Region 2 Consensus is now present (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus*'s max health is changed to 1.8m (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* liberation campaign starts (2025-10-07 09:15  UTC)<br/>
+ Region Decay: 0.2 on 180_PENSCEWT<br/> Region Decay: 0.2 on 180_EAGLE'S LIKENESS<br/> Region Decay: 0.4 on 180_CONSENSUS
+ (2025-10-07 09:15  UTC)<br/>
+*Hort* Region 0 On-Earsahou City is now present (2025-10-07 09:38  UTC)<br/>
+*Hort* Region 1 Clockstop City is now present (2025-10-07 09:38  UTC)<br/>
+*Hort* Region 2 Magnitude City is now present (2025-10-07 09:38  UTC)<br/>
+*Rirga Bay* Region 0 Blightsmurk Town is now present (2025-10-07 09:38  UTC)<br/>
+*Hort*'s max health is changed to 2.2m (2025-10-07 09:38  UTC)<br/>
+*Rirga Bay*'s max health is changed to 1.2m (2025-10-07 09:38  UTC)<br/>
+*Hort* - *Hesoe Prime* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Hort* - *RD-4* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Rirga Bay* - *Hort* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Rirga Bay* - *Seasse* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Herthon Secundus* - *Hort* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Herthon Secundus* - *New Stockholm* warp link is removed (2025-10-07 09:38  UTC)<br/>
+*Hesoe Prime* - *RD-4* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Heze Bay* - *Rirga Bay* warp link is added (2025-10-07 09:38  UTC)<br/>
+*RD-4* - *Hesoe Prime* warp link is added (2025-10-07 09:38  UTC)<br/>
+*RD-4* - *Rogue 5* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Rogue 5* - *Seasse* warp link is added (2025-10-07 09:38  UTC)<br/>
+*Seasse* - *Senge 23* warp link is added (2025-10-07 09:38  UTC)<br/>
+Major Order | [A2-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-2) Secure Ancient Illuminate Structures is issued | Objective: Liberate/Control (2025-10-07 09:55  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. A Ministry of Science report has detected anomalous phenomena in the vicinity of ancient Illuminate structures. These ruins date to well before the First Galactic War, and have been preserved for citizen education and enrichment. They have been considered safe, but this latest report raises serious security concerns. ALAIRT III, HERTHON SECUNDUS, and ZEA RUGOSIA, each contain multiple such sites. The Helldivers are ordered to liberate these planets from the Illuminate. (2025-10-07 09:57  UTC)<br/>
+DSS deploys to *Alairt III* of the Hanzo sector (2025-10-07 14:36  UTC)<br/>
+*Seyshel Beach* Region 1 Beachview Settlement is besieged by Humans (2025-10-07 21:31  UTC)<br/>
+*Alairt III* Region 2 Shed Town is besieged by Humans (2025-10-08 01:57  UTC)<br/>
