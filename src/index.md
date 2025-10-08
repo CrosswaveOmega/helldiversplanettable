@@ -157,6 +157,9 @@ Because the Illuminate did not get a proper front until June 2025, most Illumina
   </div>
 </div>
 
+
+Major Orders come from Wiki.gg's https://helldivers.wiki.gg/wiki/Major_Orders page.
+
 See the [Historical War Map](./history_map) to view a recreated map of the galactic war throught the game's runtime.
 
 See the [Battle Tracker](./battle_tracker)  to view all battles fought across every planet in the game.
