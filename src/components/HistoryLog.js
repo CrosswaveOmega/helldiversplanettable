@@ -12,6 +12,17 @@ export async function decompressJSON(compressedData) {
 
 
 
+export function make_mo_link(mo) {
+    /**
+     * Link to the Major Order on the game wiki
+     *
+     * @param {string} mo - The Major Order with ANUM-NUM-NUM in it./
+     * @returns {string} - The Formatted Link
+     */
+
+    const REG = "A\\d+-\\d+-\\d+";
+    return mo.replace(new RegExp(REG), "<a href='https://helldivers.wiki.gg/wiki/Major_Orders#$&'>$&</a>");
+}
 
 
 function splitPlanetName(name, maxLength = 10) {
@@ -32,7 +43,7 @@ function splitPlanetName(name, maxLength = 10) {
     //Select the closest space to the center of the string.
     const splitIndex =
         leftSpace === -1 ? rightSpace :
-            (rightSpace === -1 || middle - leftSpace <= rightSpace - middle) ? leftSpace : rightSpace;
+        (rightSpace === -1 || middle - leftSpace <= rightSpace - middle) ? leftSpace : rightSpace;
 
     if (splitIndex !== -1) {
         return name.slice(0, splitIndex) + "\n" + name.slice(splitIndex + 1);
@@ -95,6 +106,7 @@ function getGloomName(level) {
             return "Gloom Wall";
     }
 }
+
 function getGloomObscurity(level) {
     switch (level) {
         case 1:
@@ -264,12 +276,14 @@ export function count_distinct_planets(history, planets) {
 
     return planetTypes;
 }
+
 function DECODE(number) {
     let CO = (number >> 4) & 0b111;
     let AT = (number >> 1) & 0b111;
     let L = number & 0b1;
     return [CO, AT, L];
 }
+
 function getRandomInt(min, max) {
     const minCeiled = Math.ceil(min);
     const maxFloored = Math.floor(max);
@@ -279,15 +293,18 @@ function getRandomInt(min, max) {
 function x_c(x) {
     return x; //*2000+2000;
 }
+
 function y_c(y) {
     return -y; //*-2000+2000;
 }
+
 function planet_size(p, s1, s2) {
     if (p.index == 0) {
         return s1;
     }
     return s2
 }
+
 function get_percent(hp) {
     /**
      * Calculate and return the liberation percentage based on the given hit points (hp).
@@ -369,8 +386,7 @@ export function makeplot(
     planetimages,
     target,
     slider,
-    world,
-    { width, htarget, ttarget, atarget, dss, icons, showImages = true },
+    world, { width, htarget, ttarget, atarget, dss, icons, showImages = true },
 ) {
     /*
     This function recreates the history map at a given point.
@@ -420,12 +436,11 @@ export function makeplot(
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>
-        Array.isArray(x.link)
-            ? x.link.map((y) => ({
-                from: x.position,
-                to: galaxystate[y].position,
-            }))
-            : [],
+        Array.isArray(x.link) ?
+        x.link.map((y) => ({
+            from: x.position,
+            to: galaxystate[y].position,
+        })) : [],
     );
 
     let planets = Object.values(galaxystate);
@@ -444,6 +459,7 @@ export function makeplot(
     let gloomPlanets = planets.filter((planet) => planet.gls != null);
 
     let gloompoints = [];
+
     function generateRandomCoordinates(p, gls) {
         const coordinates = [];
         for (let i = 0; i < gls * 4; i++) {
@@ -540,18 +556,18 @@ export function makeplot(
                 inset: width / 110,
                 strokeWidth: width / 880,
             }),
-            showImages
-                ? Plot.image(planets, {
-                    x: (p) => x_c(p.position.x),
-                    y: (p) => y_c(p.position.y),
-                    r: width / 100,
-                    src: (p) => {
-                        return planetimages[
-                            "planet_" + p.biome + "_rotate.gif"
-                        ].base64_image;
-                    },
-                })
-                : null,
+            showImages ?
+            Plot.image(planets, {
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
+                r: width / 100,
+                src: (p) => {
+                    return planetimages[
+                        "planet_" + p.biome + "_rotate.gif"
+                    ].base64_image;
+                },
+            }) :
+            null,
             Plot.image(activePlanets, {
                 x: (p) => x_c(p.position.x),
                 y: (p) => y_c(p.position.y),
@@ -616,23 +632,20 @@ export function makeplot(
             }),
 
             Plot.text(
-                planets,
-                {
+                planets, {
                     x: (p) => x_c(p.position.x),
                     y: (p) => y_c(p.position.y) - 0.02,
                     text: (p) =>
                         isNaN(get_percent(p.hp)) ||
-                            get_percent(p.hp) === 100 ||
-                            get_percent(p.hp) === 0
-                            ? ""
-                            : ` ${get_percent(p.hp)}`,
+                        get_percent(p.hp) === 100 ||
+                        get_percent(p.hp) === 0 ?
+                        "" : ` ${get_percent(p.hp)}`,
                     dx: 15, //(d) => getTextSize(d[column].toFixed(1)).width / 2,
                     textAnchor: "top",
                     fill: "white",
                     stroke: "black",
                     strokeWidth: 3,
-                },
-                {},
+                }, {},
             ),
 
             Plot.tip(
@@ -682,8 +695,7 @@ export function makeplotcurrent(
     planetimages,
     target,
     world,
-    getNeighbors,
-    { width, htarget, ttarget, atarget, showImages = true },
+    getNeighbors, { width, htarget, ttarget, atarget, showImages = true },
 ) {
     let slider = history.events.length - 1;
     let current_event = history.events[slider];
@@ -725,12 +737,11 @@ export function makeplotcurrent(
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>
-        Array.isArray(x.link)
-            ? x.link.map((y) => ({
-                from: x.position,
-                to: galaxystate[y].position,
-            }))
-            : [],
+        Array.isArray(x.link) ?
+        x.link.map((y) => ({
+            from: x.position,
+            to: galaxystate[y].position,
+        })) : [],
     );
 
     let planets = Object.values(galaxystate);
@@ -769,25 +780,24 @@ export function makeplotcurrent(
                 inset: width / 110,
                 strokeWidth: width / 2000,
             }),
-            showImages
-                ? Plot.image(planets, {
-                    x: (p) => x_c(p.position.x),
-                    y: (p) => y_c(p.position.y),
-                    width: (p) => planet_size(p, big, small),
-                    height: (p) => planet_size(p, big, small),
-                    src: (p) => {
-                        //console.log(p.biome);
-                        return planetimages[
-                            "" + p.biome + ".webp"
-                        ].base64_image;
-                    },
-                })
-                : null,
+            showImages ?
+            Plot.image(planets, {
+                x: (p) => x_c(p.position.x),
+                y: (p) => y_c(p.position.y),
+                width: (p) => planet_size(p, big, small),
+                height: (p) => planet_size(p, big, small),
+                src: (p) => {
+                    //console.log(p.biome);
+                    return planetimages[
+                        "" + p.biome + ".webp"
+                    ].base64_image;
+                },
+            }) :
+            null,
 
 
             Plot.text(
-                planets,
-                {
+                planets, {
                     x: (p) => x_c(p.position.x),
                     y: (p) => y_c(p.position.y),
                     text: (p) => splitPlanetName(p.name),
@@ -797,8 +807,7 @@ export function makeplotcurrent(
                     stroke: "black",
                     fontSize: 20,
                     strokeWidth: 3,
-                },
-                {},
+                }, {},
             )
         ],
     });
@@ -832,9 +841,9 @@ export function eList(history, count, parentCard, mode = 0) {
          */
 
         const headingElement = document.createElement("h3");
-        headingElement.textContent = current
-            ? `▶  Day ${entry.day}, Event index ${index}`
-            : ` Day:#${entry.day}, Event index ${index}`;
+        headingElement.textContent = current ?
+            `▶  Day ${entry.day}, Event index ${index}` :
+            ` Day:#${entry.day}, Event index ${index}`;
 
         parentCard.appendChild(headingElement);
 
@@ -965,7 +974,7 @@ export function list_text(history, count, parentCard) {
 
         // Create and append Current Major Order paragraph
         const moElement = document.createElement("p");
-        moElement.innerHTML = `<strong>Current Major Order:</strong> ${entry_main.mo}`;
+        moElement.innerHTML = `<strong>Current Major Order:</strong> ${make_mo_link(entry_main.mo)}`;
         parentCard.appendChild(moElement);
 
         // Create and append Timestamp paragraph
@@ -1055,13 +1064,13 @@ export function ListAll(history, parentCard, mode = 0) {
                     listItems.forEach((itemString) => {
                         const textElement = document.createElement("span");
                         textElement.textContent = "+ " + itemString;
-                        parentCard.appendChild(textElement);
+                        parentCard.appendChild(make_mo_link(textElement));
                         parentCard.appendChild(document.createElement("br"));
                     });
                 } else {
                     const textElement = document.createElement("span");
                     textElement.textContent = each.text;
-                    parentCard.appendChild(textElement);
+                    parentCard.appendChild(make_mo_link(textElement));
                     parentCard.appendChild(document.createElement("br"));
                 }
             }

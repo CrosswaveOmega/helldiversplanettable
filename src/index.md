@@ -30,7 +30,7 @@ import {
   
 
   import {
-    eList,ListAll, count_distinct_planets,list_text
+    eList, ListAll, count_distinct_planets, list_text, make_mo_link
   } from "./components/HistoryLog.js";
 
 

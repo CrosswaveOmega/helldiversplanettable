@@ -315,6 +315,20 @@ For now, the Illuminate invasions are considered to be on the HUMANS front.
       <span >Lost: ${entry_sums['Automaton'].defenselost}</span><br/>
       <span >Win%: ${(100*entry_sums['Automaton'].defensewon/(entry_sums['Automaton'].defensewon+entry_sums['Automaton'].defenselost)).toFixed(2)}</span><br/>
   </div>
+  <h2>Illuminate Campaigns</h2>
+    <span >Total:${entry_sums['Illuminate'].battles}</span><br/>
+      <span >Won: ${entry_sums['Illuminate'].win}</span><br/>
+      <span >Lost: ${entry_sums['Illuminate'].loss}</span><br/>
+      <span >Ongoing: ${entry_sums['Illuminate'].current}</span><br/>
+      <span >PlanetFlips: ${entry_sums['Illuminate'].flips}</span><br/>
+  </div>
+    <div  class='card' style="font-size: 1.1em;">
+    <h2>Illuminate Liberation Campaigns</h2>
+    <span >Total: ${entry_sums['Illuminate'].campaign_start}</span><br/>
+      <span >Won: ${entry_sums['Illuminate'].planetwon}</span><br/>
+      <span >Lost: ${entry_sums['Illuminate'].campaign_end}</span><br/>
+      <span >Win%: ${(100*entry_sums['Illuminate'].planetwon/(entry_sums['Illuminate'].campaign_end+entry_sums['Illuminate'].planetwon)).toFixed(2)}</span><br/>
+  </div>
    <div  class='card' style="font-size: 1.1em;">
     <h2>Illuminate invasion campaigns</h2>
     <span >Total: ${entry_sums['Illuminate'].defensestart}</span><br/>

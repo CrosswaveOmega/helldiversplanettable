@@ -34,11 +34,17 @@ This website and the [Galactic War Timeline](https://docs.google.com/document/d/
  * The Battles for each Planet and sector
  * The owner of each world in real time.
  * When each planet's biome is changed.
- * When the [Supply Lines](https://helldivers.wiki.gg/wiki/Supply_Lines)/Warp Links/[FTL Lines](https://helldivers.fandom.com/wiki/FTL_Lines) for any planet are changed.
+ * When the [Supply Lines](https://helldivers.wiki.gg/wiki/Warp Links)/Warp Links for any planet are changed.
  * When any planet is liberated or taken by the enemy.
  * The spread of the Gloom.
+ 
+## Major Order Indexing.
+All Major Orders use the indexing method from https://helldivers.wiki.gg/wiki/Major_Orders, `AY-M-O` where;
+* Y is the year since the game launch.
+* M is the month
+* O indicates which MO for that month it was.
 
-
+So Major Order A1-8-2 would be the Second Major Order In March during the First Year of the game.
 
 
 ## What Each Stat means:
