@@ -20,8 +20,12 @@ export function make_mo_link(mo) {
      * @returns {string} - The Formatted Link
      */
 
+    const str = String(mo); // converts numbers, etc. to string
     const REG = "A\\d+-\\d+-\\d+";
-    return mo.replace(new RegExp(REG), "<a href='https://helldivers.wiki.gg/wiki/Major_Orders#$&'>$&</a>");
+    return str.replace(
+        new RegExp(REG),
+        "<a href='https://helldivers.wiki.gg/wiki/Major_Orders#$&'>$&</a>"
+    );
 }
 
 
