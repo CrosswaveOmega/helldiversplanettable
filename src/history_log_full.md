@@ -12165,3 +12165,34 @@ Dispatch: NEW MAJOR ORDER. A Ministry of Science report has detected anomalous p
 DSS deploys to *Alairt III* of the Hanzo sector (2025-10-07 14:36  UTC)<br/>
 *Seyshel Beach* Region 1 Beachview Settlement is besieged by Humans (2025-10-07 21:31  UTC)<br/>
 *Alairt III* Region 2 Shed Town is besieged by Humans (2025-10-08 01:57  UTC)<br/>
+
+### Day: #609
+*Alairt III* Region 2 Shed Town has fallen to Humans (2025-10-08 09:19  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-10-08 10:12  UTC)<br/>
+*Alairt III* Region 1 New Storouse Town is besieged by Humans (2025-10-08 10:45  UTC)<br/>
+*Rirga Bay* of the Rigel sector is attacked by Illuminate (2025-10-08 11:36  UTC)<br/>
+*Rirga Bay* Region 0 Blightsmurk Town is besieged by Humans (2025-10-08 11:36  UTC)<br/>
+ Region Decay: 0.2 on 226_BLIGHTSMURK
+ (2025-10-08 12:00  UTC)<br/>
+ Region Decay: 0.2 on 226_BLIGHTSMURK
+ (2025-10-08 12:00  UTC)<br/>
+*Alairt III* Region 1 New Storouse Town has fallen to Humans (2025-10-08 19:06  UTC)<br/>
+*Alairt III* Region 3 Free Trade Megacity is besieged by Humans (2025-10-08 19:06  UTC)<br/>
+
+# Day: #610
+*Erata Prime* is lightly enveloped by the Gloom (2025-10-09 09:28  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. ERATA PRIME is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-10-09 09:55  UTC)<br/>
+DSS effect Eagle Storm stops (2025-10-09 10:13  UTC)<br/>
+*Hort* of the Rigel sector is attacked by Illuminate (2025-10-09 21:12  UTC)<br/>
+*Hort* Region 1 Clockstop City is besieged by Humans (2025-10-09 21:12  UTC)<br/>
+*Alairt III* is liberated (2025-10-09 22:11  UTC)<br/>
+*Heze Bay* decay rate changes to -0.28% per hour (2025-10-09 22:11  UTC)<br/>
+DSS deploys to *Herthon Secundus* of the Ferris sector (2025-10-09 22:11  UTC)<br/>
+ Decay: 0.0 on Hort
+ (2025-10-09 22:11  UTC)<br/>
+ Region Decay: 0.4 on 183_ON-EARSAHOU<br/> Region Decay: 0.4 on 183_CLOCKSTOP<br/> Region Decay: 0.4 on 183_MAGNITUDE
+ (2025-10-09 22:11  UTC)<br/>
+ Decay: -0.5 on Heze Bay
+ (2025-10-10 00:00  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2025-10-10 04:30  UTC)<br/>
+*Herthon Secundus* Region 0 Penscewt Town has fallen to Humans (2025-10-10 07:08  UTC)<br/>
