@@ -11736,6 +11736,7 @@ Dispatch: STRATEGIC IMPERATIVE MET. GACRUX has been reclaimed swiftly. Gloom lev
 Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (2025-09-12 20:49  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2025-09-12 20:54  UTC)<br/>
 Assault Division: Predator Strain U5A deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
+Assault Division: Hive Lords U1A divides into 2 groups [U1A, U1B] (2025-09-12 20:54  UTC)<br/>
 Assault Division: Hive Lords U1B deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
 Assault Division: Spore Burst Strain U4C divides into 2 groups [U4C, U4G] (2025-09-12 20:54  UTC)<br/>
 Assault Division: Spore Burst Strain U4G deploys to *Hellmire* (2025-09-12 20:54  UTC)<br/>
@@ -12196,3 +12197,42 @@ DSS deploys to *Herthon Secundus* of the Ferris sector (2025-10-09 22:11  UTC)<b
  (2025-10-10 00:00  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2025-10-10 04:30  UTC)<br/>
 *Herthon Secundus* Region 0 Penscewt Town has fallen to Humans (2025-10-10 07:08  UTC)<br/>
+
+### Day: #611
+*Hort* Region 2 Magnitude City is besieged by Humans (2025-10-10 09:17  UTC)<br/>
+*Rirga Bay* defense is failed (2025-10-10 11:37  UTC)<br/>
+↳ *Rirga Bay* liberation campaign starts (2025-10-10 11:37  UTC)<br/>
+*Herthon Secundus* Region 1 Eagle's Likeness Town has fallen to Humans (2025-10-10 13:41  UTC)<br/>
+ Decay: 1.0 on Heze Bay, Rirga Bay
+ (2025-10-10 13:41  UTC)<br/>
+*Seyshel Beach* Region 1 Beachview Settlement has fallen to Humans (2025-10-10 18:01  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-10-10 19:22  UTC)<br/>
+*Hort* Region 0 On-Earsahou City is besieged by Humans (2025-10-11 01:17  UTC)<br/>
+*Herthon Secundus* Region 2 Consensus City is besieged by Humans (2025-10-11 03:14  UTC)<br/>
+
+### Day: #612
+*Heze Bay* decay rate is no longer -0.28% per hour (2025-10-11 11:37  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-10-11 19:22  UTC)<br/>
+*Herthon Secundus* is liberated (2025-10-11 19:45  UTC)<br/>
+↳ *Hort* defense is auto-won via gambit (2025-10-11 19:45  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign starts (2025-10-11 19:45  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City is besieged by Humans (2025-10-11 19:45  UTC)<br/>
+DSS deploys to *Seyshel Beach* of the Cancri sector (2025-10-11 19:45  UTC)<br/>
+ Region Decay: 0.2 on 7_NEW COB<br/> Region Decay: 0.1 on 7_GENE<br/> Region Decay: 0.4 on 7_STARPASS
+ (2025-10-11 19:45  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-10-11 21:18  UTC)<br/>
+ Decay: 1.5 on Herthon Secundus, Hort
+ (2025-10-11 21:18  UTC)<br/>
+DSS deploys to *Zea Rugosia* of the Ferris sector (2025-10-12 02:28  UTC)<br/>
+
+### Day: #613
+*Hellmire* of the Mirin sector is attacked by Terminids (2025-10-12 09:18  UTC)<br/>
+Assault Division: Predator Strain U7A divides into 2 groups [U7A, U7C] (2025-10-12 09:18  UTC)<br/>
+Assault Division: Predator Strain U7C deploys to *Hellmire* (2025-10-12 09:18  UTC)<br/>
+Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom. (2025-10-12 09:18  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City has fallen to Humans (2025-10-12 09:24  UTC)<br/>
+Assault Division: Hive Lords U1A divides into 2 groups [U1A, U1C] (2025-10-12 09:43  UTC)<br/>
+Assault Division: Hive Lords U1C deploys to *Hellmire* (2025-10-12 09:43  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-10-12 09:43  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town is besieged by Humans (2025-10-12 10:30  UTC)<br/>
