@@ -12236,3 +12236,24 @@ Assault Division: Hive Lords U1C deploys to *Hellmire* (2025-10-12 09:43  UTC)<b
  Decay: 0.0 on Hellmire
  (2025-10-12 09:43  UTC)<br/>
 *Zea Rugosia* Region 0 New Cob Town is besieged by Humans (2025-10-12 10:30  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-10-12 14:28  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-10-12 21:18  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town has fallen to Humans (2025-10-12 22:50  UTC)<br/>
+*Hellmire* defense is won (2025-10-13 03:07  UTC)<br/>
+Assault Division: Predator Strain U7C is routed from Hellmire (2025-10-13 03:07  UTC)<br/>
+Assault Division: Hive Lords U1C is routed from Hellmire (2025-10-13 03:07  UTC)<br/>
+DSS deploys to *Zea Rugosia* of the Ferris sector (2025-10-13 03:07  UTC)<br/>
+*Vog-Sojoth* is liberated (2025-10-13 03:13  UTC)<br/>
+*Zea Rugosia* Region 1 Gene Settlement is besieged by Humans (2025-10-13 04:49  UTC)<br/>
+ Decay: 1.0 on Hellmire<br/> Decay: 2.0 on Vog-Sojoth
+ (2025-10-13 04:49  UTC)<br/>
+
+### Day: #614
+*Zea Rugosia* Region 1 Gene Settlement has fallen to Humans (2025-10-13 09:19  UTC)<br/>
+*Seasse* of the Omega sector is attacked by Illuminate (2025-10-13 09:26  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2025-10-13 11:39  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-10-13 11:39  UTC)<br/>
+*Crimsica* is lightly enveloped by the Gloom (2025-10-13 11:39  UTC)<br/>
+ Decay: 0.0 on Seasse
+ (2025-10-13 11:39  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. Gloom spores have been detected in the atmosphere of CRIMSICA, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom. (2025-10-13 11:40  UTC)<br/>
