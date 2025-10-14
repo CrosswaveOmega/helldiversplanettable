@@ -12257,3 +12257,24 @@ DSS deploys to *Zea Rugosia* of the Ferris sector (2025-10-13 03:07  UTC)<br/>
  Decay: 0.0 on Seasse
  (2025-10-13 11:39  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. Gloom spores have been detected in the atmosphere of CRIMSICA, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom. (2025-10-13 11:40  UTC)<br/>
+ Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-10-13 12:00  UTC)<br/>
+ Region Decay: 0.1 on 78_LIL'OME<br/> Region Decay: 0.1 on 78_LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II
+ (2025-10-13 12:00  UTC)<br/>
+*Zea Rugosia* is liberated (2025-10-13 15:23  UTC)<br/>
+↳ *Haldus* liberation campaign starts (2025-10-13 15:23  UTC)<br/>
+↳ *Afoyay Bay* liberation campaign starts (2025-10-13 15:23  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-10-13 15:24  UTC)<br/>
+ Decay: 1.5 on Zea Rugosia
+ (2025-10-13 16:00  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-10-13 18:34  UTC)<br/>
+*Seyshel Beach* is liberated (2025-10-14 02:22  UTC)<br/>
+↳ *Effluvia* liberation campaign starts (2025-10-14 02:22  UTC)<br/>
+↳ *Kerth Secundus* liberation campaign starts (2025-10-14 02:22  UTC)<br/>
+*Kerth Secundus* Region 0 Scholar's Moor Town is besieged by Humans (2025-10-14 02:22  UTC)<br/>
+ Region Decay: 0.2 on 57_SCHOLAR'S MOOR<br/> Region Decay: 0.2 on 57_BLESTRAIL<br/> Region Decay: 0.6 on 57_HILDOARA CENTRAL
+ (2025-10-14 04:00  UTC)<br/>
+ Region Decay: 0.2 on 57_SCHOLAR'S MOOR<br/> Region Decay: 0.2 on 57_BLESTRAIL<br/> Region Decay: 0.6 on 57_HILDOARA CENTRAL
+ (2025-10-14 04:00  UTC)<br/>
+
+### Day: #615
