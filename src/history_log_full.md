@@ -12278,3 +12278,26 @@ DSS deploys to *Crimsica* of the Draco sector (2025-10-13 15:24  UTC)<br/>
  (2025-10-14 04:00  UTC)<br/>
 
 ### Day: #615
+*Seasse* defense is failed (2025-10-14 09:26  UTC)<br/>
+↳ *Seasse* liberation campaign starts (2025-10-14 09:26  UTC)<br/>
+Major Order | [A2-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-2) Secure Ancient Illuminate Structures is won | Objective: Liberate/Control (2025-10-14 09:58  UTC)<br/>
+ Decay: 1.0 on Seasse
+ (2025-10-14 09:58  UTC)<br/>
+Dispatch: ALAIRT III, HERTHON SECUNDUS, and ZEA RUGOSIA have been returned to the dominion of *Super Earth*. The ancient Illuminate structures present on these planets have been cordoned off, and archaeological excavation has begun. Consult the Galactic Map for more information. (2025-10-14 10:09  UTC)<br/>
+*Rogue 5* of the Rigel sector is attacked by Illuminate (2025-10-14 11:26  UTC)<br/>
+ Decay: 0.25 on Illuminate worlds<br/> Decay: 0.0 on Rogue 5
+ (2025-10-14 12:00  UTC)<br/>
+Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Liberty Day Preparations is issued | Objective: Control (2025-10-14 14:11  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Preparations for Liberty Day have begun in earnest. To further bolster morale this Liberty Day, all Helldivers are tasked with aiding in the procurement of explosives for the *Super Earth* Patriotic Pyrotechny Display. The Automatons are known to possess high amounts of statute-violating explosives. The Helldivers are ordered to seize their stockpiles, and save *Super Earth* for families everywhere. (2025-10-14 14:13  UTC)<br/>
+*Crimsica* defense is won (2025-10-14 18:19  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-10-14 18:19  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2025-10-14 20:00  UTC)<br/>
+
+### Day: #616
+*Rogue 5* defense is failed (2025-10-15 11:27  UTC)<br/>
+↳ *Rogue 5* liberation campaign starts (2025-10-15 11:27  UTC)<br/>
+↳ *Seasse* liberation campaign ends (2025-10-15 11:27  UTC)<br/>
+ Decay: 1.0 on Rogue 5
+ (2025-10-15 12:00  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION.  High Command has authorized fleetwide availability of Airburst Rocket Launcher for the duration of the current Major Order.  This will ensure progress in a number of related initiatives, such as planetary liberation, Liberty Day motivational video production, and procurement of additional explosives. (2025-10-15 14:03  UTC)<br/>
