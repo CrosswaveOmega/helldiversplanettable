@@ -12300,4 +12300,26 @@ DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-10-14 18:19  UTC)<br/
 ↳ *Seasse* liberation campaign ends (2025-10-15 11:27  UTC)<br/>
  Decay: 1.0 on Rogue 5
  (2025-10-15 12:00  UTC)<br/>
-Dispatch:  ARSENAL AUGMENTATION.  High Command has authorized fleetwide availability of Airburst Rocket Launcher for the duration of the current Major Order.  This will ensure progress in a number of related initiatives, such as planetary liberation, Liberty Day motivational video production, and procurement of additional explosives. (2025-10-15 14:03  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of Airburst Rocket Launcher for the duration of the current Major Order. This will ensure progress in a number of related initiatives, such as planetary liberation, Liberty Day motivational video production, and procurement of additional explosives. (2025-10-15 14:03  UTC)<br/>
+*Zzaniah Prime* is liberated (2025-10-15 20:39  UTC)<br/>
+↳ *Zosma* liberation campaign starts (2025-10-15 20:39  UTC)<br/>
+*Zosma* decay rate changes to -0.5% per hour (2025-10-15 20:39  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-10-15 20:39  UTC)<br/>
+ Decay: -0.5 on Zosma
+ (2025-10-15 22:00  UTC)<br/>
+DSS deploys to *Zosma* of the Gellert sector (2025-10-16 02:30  UTC)<br/>
+
+### Day: #617
+Assault Division: Jet Brigade U8A deploys to *Aurora Bay* (2025-10-16 14:30  UTC)<br/>
+*Zosma* is liberated (2025-10-16 14:32  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-10-16 14:32  UTC)<br/>
+Assault Division: Jet Brigade U8A leaves *Aurora Bay* (2025-10-16 14:59  UTC)<br/>
+ Decay: 1.5 on Zosma
+ (2025-10-16 14:59  UTC)<br/>
+Assault Division: Jet Brigade U8A deploys to *Choohe* (2025-10-16 15:01  UTC)<br/>
+Assault Division: Jet Brigade U8A leaves *Choohe* (2025-10-16 15:30  UTC)<br/>
+Assault Division: Jet Brigade U8A deploys to *Chort Bay* (2025-10-16 15:31  UTC)<br/>
+Assault Division: Jet Brigade U8A leaves *Chort Bay* (2025-10-16 16:00  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2025-10-16 16:04  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Automatons (2025-10-16 16:04  UTC)<br/>
+Assault Division: Jet Brigade U8A deploys to *Lesath* (2025-10-16 16:04  UTC)<br/>
