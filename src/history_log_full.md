@@ -12254,6 +12254,8 @@ DSS deploys to *Zea Rugosia* of the Ferris sector (2025-10-13 03:07  UTC)<br/>
 *Crimsica* of the Draco sector is attacked by Terminids (2025-10-13 11:39  UTC)<br/>
 *Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-10-13 11:39  UTC)<br/>
 *Crimsica* is lightly enveloped by the Gloom (2025-10-13 11:39  UTC)<br/>
+Assault Division: Spore Burst Strain U6A divides into 2 groups [U6A, U6B] (2025-10-13 11:39  UTC)<br/>
+Assault Division: Spore Burst Strain U6B deploys to *Crimsica* (2025-10-13 11:39  UTC)<br/>
  Decay: 0.0 on Seasse
  (2025-10-13 11:39  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. Gloom spores have been detected in the atmosphere of CRIMSICA, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom. (2025-10-13 11:40  UTC)<br/>
@@ -12290,6 +12292,7 @@ Dispatch: ALAIRT III, HERTHON SECUNDUS, and ZEA RUGOSIA have been returned to th
 Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Liberty Day Preparations is issued | Objective: Control (2025-10-14 14:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Preparations for Liberty Day have begun in earnest. To further bolster morale this Liberty Day, all Helldivers are tasked with aiding in the procurement of explosives for the *Super Earth* Patriotic Pyrotechny Display. The Automatons are known to possess high amounts of statute-violating explosives. The Helldivers are ordered to seize their stockpiles, and save *Super Earth* for families everywhere. (2025-10-14 14:13  UTC)<br/>
 *Crimsica* defense is won (2025-10-14 18:19  UTC)<br/>
+Assault Division: Spore Burst Strain U6B is routed from Crimsica (2025-10-14 18:19  UTC)<br/>
 DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-10-14 18:19  UTC)<br/>
  Decay: 1.5 on Crimsica
  (2025-10-14 20:00  UTC)<br/>
@@ -12320,6 +12323,22 @@ Assault Division: Jet Brigade U8A deploys to *Choohe* (2025-10-16 15:01  UTC)<br
 Assault Division: Jet Brigade U8A leaves *Choohe* (2025-10-16 15:30  UTC)<br/>
 Assault Division: Jet Brigade U8A deploys to *Chort Bay* (2025-10-16 15:31  UTC)<br/>
 Assault Division: Jet Brigade U8A leaves *Chort Bay* (2025-10-16 16:00  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2025-10-16 16:04  UTC)<br/>
-*Lesath* Region 1 Morskie Oko Town is besieged by Automatons (2025-10-16 16:04  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 40 Automatons (2025-10-16 16:04  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2025-10-16 16:04  UTC)<br/>
 Assault Division: Jet Brigade U8A deploys to *Lesath* (2025-10-16 16:04  UTC)<br/>
+*Crimsica* is no longer enveloped by the Gloom (2025-10-16 17:26  UTC)<br/>
+ Decay: 0.0 on Lesath
+ (2025-10-16 17:26  UTC)<br/>
+ Region Decay: 0.2 on 194_SERENITY SUMMIT<br/> Region Decay: 0.2 on 194_MORSKIE OKO<br/> Region Decay: 0.4 on 194_CRYSTAL SLOPES<br/> Region Decay: 0.6 on 194_BUCU'S REST
+ (2025-10-16 17:26  UTC)<br/>
+*Erata Prime* is no longer enveloped by the Gloom (2025-10-16 17:27  UTC)<br/>
+*Erata Prime* is heavily enveloped by the Gloom (2025-10-16 17:28  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-10-16 22:30  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2025-10-16 22:40  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2025-10-17 01:29  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-10-17 03:14  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town has fallen to Humans (2025-10-17 04:34  UTC)<br/>
+
+### Day: #618
+*Julheim* of the Nanos sector is attacked by Lvl 26 Automatons (2025-10-17 12:39  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity is besieged by Humans (2025-10-17 12:39  UTC)<br/>
