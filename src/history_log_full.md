@@ -11944,7 +11944,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-23 07:49  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-09-23 12:07  UTC)<br/>
 Major Order | [A2-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-4) Automaton Mining Liberation is won | Objective: Liberate/Control (2025-09-23 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have seized the Automatons' ill-gotten habitat tech, while holding HELLMIRE against the unrelenting onslaught of Terminid marauders. The seized technologies are already being put to use expanding and strengthening Outpost Alpha. When expanded, Gloom Base Alpha will provide much-needed logistical support in the area. It is set to combat adverse effects of the Gloom and help liberation efforts on the nearby Hive World. (2025-09-23 13:53  UTC)<br/>
-Major Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
+Major Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Secure *Karlia* And Surrounding Systems is issued | Objective: Control (2025-09-23 14:13  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to seize the Hive World once and for all, High Command is fast-tracking a number of improvements and augmentations to the Democratic Space Station. KARLIA has the ideal gravitational and atmospheric conditions for these augmentations to be safely applied. However, any attacks on the DSS during augmentation would be disastrous. The Helldivers are ordered to seize KARLIA from the Illuminate, and establish a secure perimeter around the planet. (2025-09-23 14:14  UTC)<br/>
 *Seyshel Beach* Region 2 The Villas City is besieged by Humans (2025-09-23 15:02  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-09-23 21:52  UTC)<br/>
@@ -11983,7 +11983,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-25 23:56  UTC)<br/>
 DSS deploys to *Alaraph* of the Akira sector (2025-09-26 05:54  UTC)<br/>
 
 ### Day: #597
-Minor Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
+Minor Order | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on VARYLIA 5, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands' Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on OASIS make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (2025-09-26 10:05  UTC)<br/>
 *Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-09-26 12:18  UTC)<br/>
 *Alaraph* is liberated (2025-09-27 05:42  UTC)<br/>
@@ -12005,7 +12005,7 @@ DSS deploys to *Hydrobius* of the Omega sector (2025-09-27 09:54  UTC)<br/>
 *Hydrobius* Region 0 Generatorsville City has fallen to Humans (2025-09-28 00:41  UTC)<br/>
 
 ### Day: #599
-Minor Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
+Minor Order | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the Jolly Weapons Workhands' Extracurricular Initiative. Weapons production will proceed according to schedule, without beneficial increases in scope. (2025-09-28 10:12  UTC)<br/>
 Dispatch: MERIDIA RE-OPENED FOR OBSERVATION. The *Meridia*n Singularity has been re-opened for patriotic observation. All Helldivers are authorized to visit the former planet to contemplate the immense loss inflicted upon our society by the enemies of Freedom, and the imperative for merciless Justice thereby implied. (2025-09-28 14:56  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Lvl 11 Terminids (2025-09-28 17:58  UTC)<br/>
@@ -12050,7 +12050,7 @@ Dispatch: KARLIA LIBERATED. KARLIA has been liberated. The DSS has been warped t
 *Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-09-30 12:28  UTC)<br/>
 *Partion* is lightly enveloped by the Gloom (2025-09-30 12:29  UTC)<br/>
 *Estanu* is lightly enveloped by the Gloom (2025-09-30 12:30  UTC)<br/>
-Major Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Secure *Karlia* And Surrounding Systems is won | Objective: Control (2025-09-30 14:15  UTC)<br/>
+Major Order | [A2-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-6) Secure *Karlia* And Surrounding Systems is won | Objective: Control (2025-09-30 14:15  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement has fallen to Automatons (2025-09-30 14:24  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-09-30 16:54  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. PARTION is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-30 17:45  UTC)<br/>
