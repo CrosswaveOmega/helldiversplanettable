@@ -990,7 +990,7 @@ def handle_region_decay_events(
         for ind, o, dec in decay:
             change = round((float(dec) * 3600) / 10000, 2)
             sp=ind.split("_")
-            planet=vjson["planets"].get(str(sp[0]))
+            planet=vjson["planets"].get(str(sp[0]))['name']
             outtext.append(f" Region Decay: {change} on {planet}'s " + sp[1]+ " region")
             print(outtext)
             logger.info(outtext)
