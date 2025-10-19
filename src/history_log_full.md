@@ -6380,7 +6380,7 @@ Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel
 Dispatch: INTEL REPORT. Through careful analysis of available astronomical data, the Center of Science has successfully modeled the recent fluctuations in spacetime. Experts have long posited the existence of Dark Energy, a repulsive force permeating the universe and accelerating its expansion. By simulating sudden localized Dark Energy loss, the Center has been able to model spacetime fluctuations. The Center is currently exploring how this model maps onto recent Illuminate activity. (2025-02-03 12:10  UTC)<br/>
 *Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2025-02-03 16:01  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 42 Automatons (2025-02-03 16:01  UTC)<br/>
 Assault Division: Jet Brigade U3A leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
 Assault Division: Jet Brigade U3A deploys to *Lesath* (2025-02-03 16:01  UTC)<br/>
  Decay: 4.0 on Menkent
@@ -6389,7 +6389,7 @@ Major Order | [A2-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-1) Defe
  Decay: 0.0 on Lesath
  (2025-02-03 17:03  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-02-03 19:46  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2025-02-03 20:41  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 7 Automatons (2025-02-03 20:41  UTC)<br/>
 *Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-03 21:21  UTC)<br/>
  Decay: 0.5 on Aesir Pass<br/> Decay: 0.0 on Marfark
  (2025-02-03 21:21  UTC)<br/>
@@ -6433,7 +6433,7 @@ Assault Division: Jet Brigade U3A is routed from Lesath (2025-02-05 13:01  UTC)<
 *Stout*'s invasion is successful (2025-02-05 14:21  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-02-05 14:21  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2025-02-05 18:25  UTC)<br/>
-*Meissa* of the Ymir sector is attacked by Automatons (2025-02-05 19:23  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Lvl 7 Automatons (2025-02-05 19:23  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-02-05 19:25  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-02-05 19:25  UTC)<br/>
 *Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-05 21:14  UTC)<br/>
@@ -6533,7 +6533,7 @@ DSS deploys to *Osupsam* of the Tarragon sector (2025-02-10 02:41  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-10 03:15  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-10 06:42  UTC)<br/>
 *Meridia* moves to X 0.48567122 Y 0.18575408 (2025-02-10 07:00  UTC)<br/>
-*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-10 08:40  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 9 Automatons (2025-02-10 08:40  UTC)<br/>
 
 ### Day: #369
  Decay: 0.0 on Charon Prime
@@ -6602,7 +6602,7 @@ DSS deploys to *Rasp* of the Gallux sector (2025-02-13 06:52  UTC)<br/>
 *Meridia* moves to X 0.4605092 Y 0.17130482 (2025-02-13 07:00  UTC)<br/>
 *Rasp*'s invasion is repelled (2025-02-13 07:09  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-13 07:09  UTC)<br/>
-*Darius II* of the Borgus sector is attacked by Terminids (2025-02-13 07:28  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Lvl 9 Terminids (2025-02-13 07:28  UTC)<br/>
 
 ### Day: #372
  Decay: 0.0 on Darius II<br/> Decay: 1.5 on Erata Prime
@@ -6669,7 +6669,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-15 06:57  UTC)<br/>
 *Meridia* moves to X 0.4482521 Y 0.16852196 (2025-02-15 07:00  UTC)<br/>
 
 ### Day: #374
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-02-15 11:52  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 40 Terminids (2025-02-15 11:52  UTC)<br/>
 Terminid Brood debuts a new Assault Division: Predator Strain (2025-02-15 11:52  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to *Fenrir III* (2025-02-15 11:52  UTC)<br/>
 Major Order | [A2-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-3) Repel Predator Strain is issued | Objective: Control (2025-02-15 12:11  UTC)<br/>
@@ -6908,8 +6908,8 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully plunged through the 
 ### Day: #383
 *Meridia* moves to X 0.41159394 Y 0.16402367 (2025-02-24 11:00  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-24 11:29  UTC)<br/>
-*Meissa* of the Ymir sector is attacked by Automatons (2025-02-24 12:01  UTC)<br/>
-*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-24 12:01  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Lvl 7 Automatons (2025-02-24 12:01  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 8 Automatons (2025-02-24 12:01  UTC)<br/>
  Decay: 0.0 on Charon Prime, Meissa
  (2025-02-24 14:00  UTC)<br/>
 *Meridia* moves to X 0.41126215 Y 0.16398315 (2025-02-24 15:00  UTC)<br/>
@@ -6933,7 +6933,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-02-25 03:31  UTC)<br/>
  (2025-02-25 07:00  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-02-25 07:56  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-25 07:56  UTC)<br/>
-*Grand Errant* of the Farsight sector is attacked by Terminids (2025-02-25 08:37  UTC)<br/>
+*Grand Errant* of the Farsight sector is attacked by Lvl 17 Terminids (2025-02-25 08:37  UTC)<br/>
 *Stout* of the Quintus sector is invaded by Illuminate (2025-02-25 08:38  UTC)<br/>
 
 ### Day: #384
@@ -6954,12 +6954,12 @@ DSS deploys to *Grand Errant* of the Farsight sector (2025-02-25 15:32  UTC)<br/
 *Lastofe* - *Pöpli IX* warp link is added (2025-02-25 15:55  UTC)<br/>
 *Marfark* - *Bekvam III* warp link is added (2025-02-25 15:55  UTC)<br/>
 *Marfark* is not accessible despite connecting to the liberated world of *Bekvam III* (2025-02-25 15:55  UTC)<br/>
-*Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-25 15:56  UTC)<br/>
-*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-02-25 15:57  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Lvl 19 Automatons (2025-02-25 15:56  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 18 Automatons (2025-02-25 15:57  UTC)<br/>
 Dispatch: GALACTIC WAR UPDATE. Due to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path. All Galactic Map systems have been updated to their latest versions, and the issue should now be resolved. (2025-02-25 16:10  UTC)<br/>
  Decay: 0.0 on Bekvam III, Charon Prime
  (2025-02-25 16:10  UTC)<br/>
-Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolly Problem 2.0 is issued | Objective: Control (2025-02-25 16:34  UTC)<br/>
+Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolley Problem 2.0 is issued | Objective: Control (2025-02-25 16:34  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one. Consult the Galactic Map on your ship for more information. (2025-02-25 16:34  UTC)<br/>
  Decay: 2.0 on Aesir Pass, Marfark, Matar Bay
  (2025-02-25 16:34  UTC)<br/>
@@ -6986,7 +6986,7 @@ Dispatch: NOTICE. The Democratic Council has decreed that all spacefaring vessel
 *Meridia* moves to X 0.40776688 Y 0.1635563 (2025-02-26 11:00  UTC)<br/>
 *Bekvam III* defense is won (2025-02-26 14:16  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-02-26 14:16  UTC)<br/>
-*Terrek* of the Orion sector is attacked by Terminids (2025-02-26 15:27  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 12 Terminids (2025-02-26 15:27  UTC)<br/>
  Decay: 500.0 on Bekvam III
  (2025-02-26 15:27  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br/>
@@ -7001,7 +7001,7 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br
 ​​*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-26 19:35  UTC)<br/>
 *Khandark*'s invasion is successful (2025-02-26 20:15  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-02-26 20:15  UTC)<br/>
-*Bekvam III* of the Nanos sector is attacked by Automatons (2025-02-26 22:28  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Lvl 24 Automatons (2025-02-26 22:28  UTC)<br/>
 *Meridia* moves to X 0.4068468 Y 0.16344392 (2025-02-26 23:00  UTC)<br/>
  Decay: 0.0 on Bekvam III
  (2025-02-26 23:00  UTC)<br/>
@@ -7010,7 +7010,7 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-02-27 03:36  UTC)<br/>
 *Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-02-27 06:20  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
 *Meridia* moves to X 0.40623695 Y 0.16336945 (2025-02-27 07:00  UTC)<br/>
-*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-02-27 07:25  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Lvl 20 Automatons (2025-02-27 07:25  UTC)<br/>
 *Osupsam*'s invasion is successful (2025-02-27 07:35  UTC)<br/>
  Decay: 0.0 on Charbal-VII
  (2025-02-27 07:35  UTC)<br/>
@@ -7061,13 +7061,13 @@ DSS effect Eagle Storm is activated (2025-02-28 20:23  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2025-03-01 14:48  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-01 14:48  UTC)<br/>
 *Meridia* moves to X 0.4035911 Y 0.16304633 (2025-03-01 15:00  UTC)<br/>
-*Meissa* of the Ymir sector is attacked by Automatons (2025-03-01 16:03  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Lvl 16 Automatons (2025-03-01 16:03  UTC)<br/>
  Decay: 0.0 on Meissa
  (2025-03-01 18:00  UTC)<br/>
 *Meridia* ​​moves to X 0.40330356 Y 0.16301121 (2025-03-01 19:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-03-01 20:25  UTC)<br/>
 *Martale* is liberated (2025-03-01 21:53  UTC)<br/>
-*Blistica* of the Gellert sector is attacked by Automatons (2025-03-01 22:12  UTC)<br/>
+*Blistica* of the Gellert sector is attacked by Lvl 11 Automatons (2025-03-01 22:12  UTC)<br/>
 DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
  Decay: 0.0 on Blistica
  (2025-03-01 22:23  UTC)<br/>
@@ -7076,7 +7076,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
 *Haldus*'s invasion is successful (2025-03-02 01:57  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-02 01:57  UTC)<br/>
 *Meridia* moves to X 0.40273285 Y 0.16294152 (2025-03-02 03:00  UTC)<br/>
-*Chort Bay* of the Lacaille sector is attacked by Automatons (2025-03-02 04:08  UTC)<br/>
+*Chort Bay* of the Lacaille sector is attacked by Lvl 18 Automatons (2025-03-02 04:08  UTC)<br/>
  Decay: 0.0 on Chort Bay
  (2025-03-02 06:00  UTC)<br/>
 *Meridia* moves to X 0.4024491 Y 0.16290687 (2025-03-02 07:00  UTC)<br/>
@@ -7084,11 +7084,11 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
 ### Day: #389
 *Meridia* moves to X 0.40216672 Y 0.16287237 (2025-03-02 11:00  UTC)<br/>
 *Setia* of the Omega sector is invaded by Illuminate (2025-03-02 12:26  UTC)<br/>
-Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolly Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
+Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolley Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Against all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. Consult the Galactic Map on your ship for more information. (2025-03-02 12:59  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-03-02 13:44  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-02 13:44  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2025-03-02 14:22  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 38 Automatons (2025-03-02 14:22  UTC)<br/>
 Major Order | [A2-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-1) Repel Illuminate or Defend *Claorell* is issued | Objective: Control/Defend (2025-03-02 14:23  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Meridian Singularity continues its relentless advance through our Federation. *Moradesh* may soon be the next celestial victim of the Illuminate's tyrannical avarice. Simultaneously, the Automatons have launched a surprise attack on *Claorell*, seeking to take control of the Deep Mantle Forge Complex. The Helldivers must choose where to defend. Consult your Galactic Map for more information. (2025-03-02 14:23  UTC)<br/>
 DSS deploys to *Chort Bay* of the Lacaille sector (2025-03-02 14:25  UTC)<br/>
@@ -7202,8 +7202,8 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
 Major Order | [A2-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-2) Blockade the Singularity is issued | Objective: Eradicate (2025-03-07 15:34  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Analysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.  The Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details. (2025-03-07 15:34  UTC)<br/>
 Dispatch: STRATEGIC ALERT. Supply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal. However, rapid liberation of the Terminid-infested planet BORE ROCK would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. (2025-03-07 16:20  UTC)<br/>
-*Darius II* of the Borgus sector is attacked by Terminids (2025-03-07 16:21  UTC)<br/>
-*Mintoria* of the Gellert sector is attacked by Automatons (2025-03-07 16:22  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Lvl 18 Terminids (2025-03-07 16:21  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Lvl 15 Automatons (2025-03-07 16:22  UTC)<br/>
 *Gemma* of the Ursa sector is invaded by Illuminate (2025-03-07 16:50  UTC)<br/>
  Decay: 1.5 on Bore Rock<br/> Decay: 0.0 on Darius II, Mintoria
  (2025-03-07 16:50  UTC)<br/>
@@ -7234,7 +7234,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-03-08 00:43  UTC)<br/>
  Decay: 1.0 on Darius II<br/> Decay: 0.0 on Mintoria
  (2025-03-08 17:26  UTC)<br/>
 *Meridia* moves to X 0.3900442 Y 0.16139193 (2025-03-08 19:00  UTC)<br/>
-*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-03-08 21:36  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Lvl 12 Automatons (2025-03-08 21:36  UTC)<br/>
 *Meridia* moves to X 0.3896737 Y 0.16134669 (2025-03-08 23:00  UTC)<br/>
  Decay: 0.0 on Zzaniah Prime
  (2025-03-08 23:00  UTC)<br/>
@@ -7319,8 +7319,8 @@ DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
 *Meridia* moves to X 0.34718513 Y 0.15168467 (2025-03-13 07:00  UTC)<br/>
 
 # Day: #400
-*Wasat* of the Ymir sector is attacked by Automatons (2025-03-13 09:50  UTC)<br/>
-*Achird III* of the Borgus sector is attacked by Terminids (2025-03-13 09:51  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Lvl 17 Automatons (2025-03-13 09:50  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Lvl 15 Terminids (2025-03-13 09:51  UTC)<br/>
 *Meridia* moves to X 0.3467432 Y 0.15130493 (2025-03-13 11:00  UTC)<br/>
  Decay: 0.0 on Achird III, Wasat<br/> Decay: 1.5 on Mintoria, Zzaniah Prime<br/> Decay: 2.0 on Vega Bay
  (2025-03-13 11:00  UTC)<br/>
@@ -7354,9 +7354,9 @@ DSS deploys to *Achird III* of the Borgus sector (2025-03-14 09:55  UTC)<br/>
  (2025-03-14 10:17  UTC)<br/>
 *Meridia* moves to X 0.34416196 Y 0.14908698 (2025-03-14 11:00  UTC)<br/>
 *Meridia* moves to X 0.34374556 Y 0.1487292 (2025-03-14 15:00  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-03-14 16:06  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Lvl 16 Terminids (2025-03-14 16:06  UTC)<br/>
 Major Order | [A2-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-3) Penrose Energy Station Siphon is issued | Objective: Control (2025-03-14 16:08  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-03-14 16:08  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 18 Terminids (2025-03-14 16:08  UTC)<br/>
 Assault Division: Predator Strain U2A deploys to *Fenrir III* (2025-03-14 16:09  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity. High Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation. The device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete. (2025-03-14 16:09  UTC)<br/>
 Dispatch: STRATEGIC ALERT. *Achernar Secundus*, home of the AM Defense Factory Hub producing FRVs, is under attack. Production disruptions have resulted in fuel rations for FRVs until the attack can be repelled. (2025-03-14 17:03  UTC)<br/>
@@ -7414,7 +7414,7 @@ Assault Division: Predator Strain U2A leaves *Nivel 43* (2025-03-16 20:56  UTC)<
 Assault Division: Predator Strain U2A leaves *Esker* (2025-03-16 21:16  UTC)<br/>
  Decay: 2.0 on Esker
  (2025-03-16 21:16  UTC)<br/>
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-03-16 21:18  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 12 Terminids (2025-03-16 21:18  UTC)<br/>
 Assault Division: Predator Strain U2A deploys to *Bore Rock* (2025-03-16 21:18  UTC)<br/>
 *Meridia* moves to X 0.33831957 Y 0.14406687 (2025-03-16 23:00  UTC)<br/>
  Decay: 0.0 on Bore Rock
@@ -7465,14 +7465,14 @@ Dispatch: MAJOR ORDER WON. The Helldivers, through valiant defense against the s
  Decay: 1.5 on Charbal-VII, Choepessa IV
  (2025-03-18 10:33  UTC)<br/>
 *Meridia* moves to X 0.3338972 Y 0.14074768 (2025-03-18 11:00  UTC)<br/>
-*Bekvam III* of the Nanos sector is attacked by Automatons (2025-03-18 14:48  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Lvl 22 Automatons (2025-03-18 14:48  UTC)<br/>
 Automaton Legion debuts a new Assault Division: Incineration Corps (2025-03-18 14:48  UTC)<br/>
 Assault Division: Incineration Corps U1A deploys to *Bekvam III* (2025-03-18 14:48  UTC)<br/>
-*Martale* of the Andromeda sector is attacked by Automatons (2025-03-18 14:49  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Lvl 21 Automatons (2025-03-18 14:49  UTC)<br/>
 Assault Division: Incineration Corps U1B deploys to *Martale* (2025-03-18 14:49  UTC)<br/>
 Major Order | [A2-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-4) Fuel Penrose Energy Siphon or Stop Incineration Corps is issued | Objective: Defend/Eradicate (2025-03-18 14:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Automaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation. High Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 14:51  UTC)<br/>
-*Vega Bay* of the Ymir sector is attacked by Automatons (2025-03-18 14:51  UTC)<br/>
+*Vega Bay* of the Ymir sector is attacked by Lvl 13 Automatons (2025-03-18 14:51  UTC)<br/>
 *Meridia* moves to X 0.3333508 Y 0.14036079 (2025-03-18 15:00  UTC)<br/>
  Decay: 0.0 on Bekvam III, Martale, Vega Bay
  (2025-03-18 16:00  UTC)<br/>
@@ -7496,9 +7496,9 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 ↳ *Bekvam III* liberation campaign starts (2025-03-19 14:51  UTC)<br/>
 *Vega Bay* defense is failed (2025-03-19 14:53  UTC)<br/>
 ↳ *Vega Bay* liberation campaign starts (2025-03-19 14:53  UTC)<br/>
-*Wezen* of the Ymir sector is attacked by Automatons (2025-03-19 14:58  UTC)<br/>
+*Wezen* of the Ymir sector is attacked by Lvl 12 Automatons (2025-03-19 14:58  UTC)<br/>
 *Meridia* moves to X 0.33020198 Y 0.13813107 (2025-03-19 15:00  UTC)<br/>
-*Duma Tyr* of the Nanos sector is attacked by Automatons (2025-03-19 16:07  UTC)<br/>
+*Duma Tyr* of the Nanos sector is attacked by Lvl 8 Automatons (2025-03-19 16:07  UTC)<br/>
  Decay: 2.5 on Bekvam III<br/> Decay: 1.5 on Vega Bay<br/> Decay: 0.0 on Wezen
  (2025-03-19 16:07  UTC)<br/>
  Decay: 0.0 on Duma Tyr
@@ -7519,10 +7519,10 @@ Assault Division: Incineration Corps U1B is routed from Martale (2025-03-20 02:1
 *Hesoe Prime*'s invasion is successful (2025-03-20 08:06  UTC)<br/>
 
 ### Day: #407
-*Julheim* of the Nanos sector is attacked by Automatons (2025-03-20 09:48  UTC)<br/>
+*Julheim* of the Nanos sector is attacked by Lvl 18 Automatons (2025-03-20 09:48  UTC)<br/>
 Assault Division: Incineration Corps U1A leaves *Bekvam III* (2025-03-20 09:48  UTC)<br/>
 Assault Division: Incineration Corps U1A deploys to *Julheim* (2025-03-20 09:49  UTC)<br/>
-*Charon Prime* of the Andromeda sector is attacked by Automatons (2025-03-20 09:50  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 14 Automatons (2025-03-20 09:50  UTC)<br/>
 DSS effect Eagle Storm stops (2025-03-20 10:43  UTC)<br/>
  Decay: 0.0 on Julheim, Charon Prime
  (2025-03-20 10:43  UTC)<br/>
@@ -7544,7 +7544,7 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 ↳ Rigel sector is fully under Human control (2025-03-20 18:27  UTC)<br/>
 *Senge 23* of the Omega sector is invaded by Illuminate (2025-03-20 18:58  UTC)<br/>
 *Meridia* moves to X 0.32666048 Y 0.13562332 (2025-03-20 19:00  UTC)<br/>
-*Varylia 5* of the Trigon sector is attacked by Automatons (2025-03-20 19:49  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Lvl 12 Automatons (2025-03-20 19:49  UTC)<br/>
  Decay: 0.0 on Varylia 5
  (2025-03-20 22:00  UTC)<br/>
 *Meridia* moves to X 0.32617363 Y 0.13527857 (2025-03-20 23:00  UTC)<br/>
@@ -7571,8 +7571,8 @@ DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
 *Varylia 5* defense is failed (2025-03-21 19:51  UTC)<br/>
 ↳ *Varylia 5* liberation campaign starts (2025-03-21 19:51  UTC)<br/>
 ↳ *Wezen* liberation campaign ends (2025-03-21 19:51  UTC)<br/>
-*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-03-21 20:07  UTC)<br/>
-*Dolph* of the Nanos sector is attacked by Automatons (2025-03-21 20:07  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Lvl 13 Automatons (2025-03-21 20:07  UTC)<br/>
+*Dolph* of the Nanos sector is attacked by Lvl 12 Automatons (2025-03-21 20:07  UTC)<br/>
  Decay: 1.0 on Varylia 5
  (2025-03-21 20:07  UTC)<br/>
 *Bekvam III* is liberated (2025-03-21 21:28  UTC)<br/>
@@ -7591,7 +7591,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 
 ### Day: #409
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-03-22 09:29  UTC)<br/>
-*X-45* of the Ymir sector is attacked by Automatons (2025-03-22 10:19  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 10 Automatons (2025-03-22 10:19  UTC)<br/>
 *Meridia* moves to X 0.3219108 Y 0.13226004 (2025-03-22 11:00  UTC)<br/>
  Decay: 0.0 on X-45
  (2025-03-22 11:00  UTC)<br/>
@@ -7609,7 +7609,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
  Decay: 1.5 on Dolph, Charbal-VII
  (2025-03-22 21:30  UTC)<br/>
 *Meridia* moves to X 0.32042825 Y 0.13121024 (2025-03-22 23:00  UTC)<br/>
-*Choepessa IV* of the Trigon sector is attacked by Automatons (2025-03-22 23:30  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Lvl 11 Automatons (2025-03-22 23:30  UTC)<br/>
  Decay: 0.0 on Choepessa IV
  (2025-03-23 00:00  UTC)<br/>
 *Meridia* moves to X 0.31992528 Y 0.13085409 (2025-03-23 03:00  UTC)<br/>
@@ -7680,7 +7680,7 @@ DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
 *Sirius*'s invasion is successful (2025-03-25 09:39  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-03-25 09:39  UTC)<br/>
 *Meridia* moves to X 0.31290954 Y 0.12588619 (2025-03-25 11:00  UTC)<br/>
-*Ustotu* of the Trigon sector is attacked by Automatons (2025-03-25 12:30  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Lvl 10 Automatons (2025-03-25 12:30  UTC)<br/>
  Decay: 0.0 on Ustotu
  (2025-03-25 14:00  UTC)<br/>
 *Meridia* moves to X 0.31241295 Y 0.12553453 (2025-03-25 15:00  UTC)<br/>
@@ -7707,7 +7707,7 @@ DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
 ↳ *Ustotu* liberation campaign starts (2025-03-26 12:32  UTC)<br/>
 ↳ *Varylia 5* liberation campaign ends (2025-03-26 12:32  UTC)<br/>
 ↳ *Choepessa IV* liberation campaign ends (2025-03-26 12:32  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-26 13:35  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl 7 Automatons (2025-03-26 13:35  UTC)<br/>
  Decay: 1.0 on Troost, Ustotu, Vandalon IV
  (2025-03-26 13:35  UTC)<br/>
  Decay: 0.0 on Vandalon IV
@@ -7726,7 +7726,7 @@ DSS effect Eagle Storm is activated (2025-03-26 19:06  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2025-03-27 02:17  UTC)<br/>
 ↳ Major Order | [A2-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-5) Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (2025-03-27 02:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Penrose Energy Siphon has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. The excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation. (2025-03-27 02:43  UTC)<br/>
-*Mort* of the Xzar sector is attacked by Automatons (2025-03-27 02:54  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Lvl 9 Automatons (2025-03-27 02:54  UTC)<br/>
 *Socorro III* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
 *Nivel 43* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
 *Erson Sands* liberation campaign ends (2025-03-27 02:59  UTC)<br/>
@@ -7774,7 +7774,7 @@ DSS deploys to *Keid* of the Akira sector (2025-03-28 03:14  UTC)<br/>
 DSS deploys to *Dolph* of the Nanos sector (2025-03-28 11:15  UTC)<br/>
 *Meridia* moves to X 0.30575758 Y 0.12082183 (2025-03-28 15:00  UTC)<br/>
 DSS deploys to *Oasis* of the Rictus sector (2025-03-28 15:16  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2025-03-28 16:15  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl 7 Automatons (2025-03-28 16:15  UTC)<br/>
 *Oasis*'s invasion is repelled (2025-03-28 18:09  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-28 18:09  UTC)<br/>
  Decay: 0.0 on Ingmar
@@ -7818,10 +7818,10 @@ DSS deploys to *Ingmar* of the Xzar sector (2025-03-29 19:19  UTC)<br/>
 
 ### Day: #417
 *Meridia* moves to X 0.30377486 Y 0.11941785 (2025-03-30 11:00  UTC)<br/>
-*Troost* of the Trigon sector is attacked by Automatons (2025-03-30 11:01  UTC)<br/>
-*Pöpli IX* of the Xzar sector is attacked by Automatons (2025-03-30 11:11  UTC)<br/>
+*Troost* of the Trigon sector is attacked by Lvl 7 Automatons (2025-03-30 11:01  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Lvl 10 Automatons (2025-03-30 11:11  UTC)<br/>
 Assault Division: Incineration Corps U2A deploys to *Pöpli IX* (2025-03-30 11:11  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-30 11:22  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl 13 Automatons (2025-03-30 11:22  UTC)<br/>
 Assault Division: Incineration Corps U2B deploys to *Vandalon IV* (2025-03-30 11:22  UTC)<br/>
  Decay: 0.0 on Pöpli IX, Troost
  (2025-03-30 11:22  UTC)<br/>
@@ -7854,10 +7854,10 @@ DSS deploys to *Pöpli IX* of the Xzar sector (2025-03-31 00:38  UTC)<br/>
 *Pöpli IX* defense is won (2025-03-31 09:03  UTC)<br/>
 Assault Division: Incineration Corps U2A is routed from Pöpli IX (2025-03-31 09:03  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-03-31 09:04  UTC)<br/>
-*Caph* of the Theseus sector is attacked by Automatons (2025-03-31 09:43  UTC)<br/>
+*Caph* of the Theseus sector is attacked by Lvl 8 Automatons (2025-03-31 09:43  UTC)<br/>
  Decay: 500.0 on Pöpli IX
  (2025-03-31 09:43  UTC)<br/>
-*Julheim* of the Nanos sector is attacked by Automatons (2025-03-31 09:51  UTC)<br/>
+*Julheim* of the Nanos sector is attacked by Lvl 16 Automatons (2025-03-31 09:51  UTC)<br/>
  Decay: 0.0 on Caph
  (2025-03-31 09:51  UTC)<br/>
 Assault Division: Incineration Corps U2C deploys to *Aurora Bay* (2025-03-31 10:01  UTC)<br/>
@@ -7894,11 +7894,11 @@ Assault Division: Incineration Corps U2C deploys to *Vega Bay* (2025-03-31 15:00
 Assault Division: Incineration Corps U2D deploys to *Marfark* (2025-03-31 15:01  UTC)<br/>
 Assault Division: Incineration Corps U2C leaves *Vega Bay* (2025-03-31 15:58  UTC)<br/>
 Assault Division: Incineration Corps U2C deploys to *Wezen* (2025-03-31 16:00  UTC)<br/>
-*Bekvam III* of the Nanos sector is attacked by Automatons (2025-03-31 16:01  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Lvl 12 Automatons (2025-03-31 16:01  UTC)<br/>
 Assault Division: Incineration Corps U2D leaves *Marfark* (2025-03-31 16:01  UTC)<br/>
 Assault Division: Incineration Corps U2D divides into 2 groups [U2D, U2E] (2025-03-31 16:01  UTC)<br/>
 Assault Division: Incineration Corps U2D deploys to *Bekvam III* (2025-03-31 16:02  UTC)<br/>
-*Martale* of the Andromeda sector is attacked by Automatons (2025-03-31 16:03  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Lvl 12 Automatons (2025-03-31 16:03  UTC)<br/>
 Assault Division: Incineration Corps U2E deploys to *Martale* (2025-03-31 16:03  UTC)<br/>
 *Dolph* is liberated (2025-03-31 16:36  UTC)<br/>
 ↳ *Caph* defense is auto-won via gambit (2025-03-31 16:36  UTC)<br/>
@@ -7916,7 +7916,7 @@ Assault Division: Incineration Corps U2C deploys to *Ustotu* (2025-03-31 18:01  
 DSS effect Heavy Ordnance Distribution stops (2025-03-31 18:07  UTC)<br/>
 Assault Division: Incineration Corps U2C leaves *Ustotu* (2025-03-31 18:59  UTC)<br/>
 *Meridia* moves to X 0.30231524 Y 0.11838427 (2025-03-31 19:00  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2025-03-31 19:01  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl 16 Automatons (2025-03-31 19:01  UTC)<br/>
 Assault Division: Incineration Corps U2C deploys to *Vandalon IV* (2025-03-31 19:01  UTC)<br/>
  Decay: 0.0 on Vandalon IV
  (2025-03-31 20:00  UTC)<br/>
@@ -7992,7 +7992,7 @@ Assault Division: Jet Brigade U4A leaves *Charbal-VII* (2025-04-01 21:39  UTC)<b
 Assault Division: Jet Brigade U4A deploys to *Mort* (2025-04-01 21:40  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-04-01 22:15  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-01 22:15  UTC)<br/>
-*Pöpli IX* of the Xzar sector is attacked by Automatons (2025-04-01 22:17  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Lvl 40 Automatons (2025-04-01 22:17  UTC)<br/>
 Assault Division: Jet Brigade U4A leaves *Mort* (2025-04-01 22:17  UTC)<br/>
 Assault Division: Jet Brigade U4A deploys to *Pöpli IX* (2025-04-01 22:18  UTC)<br/>
 *Meridia* moves to X 0.30102164 Y 0.11746828 (2025-04-01 23:00  UTC)<br/>
@@ -8103,7 +8103,7 @@ Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity.
 *Rasp*'s invasion is repelled (2025-04-06 03:52  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-06 03:52  UTC)<br/>
 *Meridia* moves to X 0.2970543 Y 0.11628686 (2025-04-06 07:00  UTC)<br/>
-*Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-06 08:16  UTC)<br/>
+*Ursica XI* of the Borgus sector is attacked by Lvl 12 Terminids (2025-04-06 08:16  UTC)<br/>
 *Bellatrix* of the Guang sector is invaded by Illuminate (2025-04-06 08:46  UTC)<br/>
  Decay: 0.0 on Ursica XI
  (2025-04-06 08:46  UTC)<br/>
@@ -8300,7 +8300,7 @@ DSS effect Orbital Blockade is activated (2025-04-13 14:01  UTC)<br/>
 *Meridia* moves to X 0.28775904 Y 0.11709295 (2025-04-14 07:00  UTC)<br/>
 *Spherion*'s invasion is successful (2025-04-14 07:25  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-14 07:25  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2025-04-14 07:48  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 6 Automatons (2025-04-14 07:48  UTC)<br/>
 
 ### Day: #432
  Decay: 0.0 on Lesath<br/> Decay: 3.5 on Nivel 43
@@ -8328,7 +8328,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
 *Lesath* defense is failed (2025-04-15 07:51  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2025-04-15 07:51  UTC)<br/>
 ↳ Lacaille sector is fully under Automaton control (2025-04-15 07:51  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-04-15 08:41  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 5 Terminids (2025-04-15 08:41  UTC)<br/>
  Decay: 1.5 on Lesath
  (2025-04-15 08:41  UTC)<br/>
 
@@ -8342,7 +8342,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
 Assault Division: Predator Strain U3A deploys to *Nivel 43* (2025-04-15 12:11  UTC)<br/>
 *Haldus*'s invasion is successful (2025-04-15 13:25  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-04-15 13:25  UTC)<br/>
-*Ursica XI* of the Borgus sector is attacked by Terminids (2025-04-15 14:14  UTC)<br/>
+*Ursica XI* of the Borgus sector is attacked by Lvl 5 Terminids (2025-04-15 14:14  UTC)<br/>
 *Meridia* moves to X 0.2858535 Y 0.11726855 (2025-04-15 15:00  UTC)<br/>
  Decay: 0.0 on Ursica XI
  (2025-04-15 15:00  UTC)<br/>
@@ -8373,11 +8373,11 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-16 09:53  UTC)<br/>
 *Meridia* moves to X 0.2846998 Y 0.11737487 (2025-04-16 11:00  UTC)<br/>
  Decay: 500.0 on Ursica XI
  (2025-04-16 11:00  UTC)<br/>
-*Esker* of the Falstaff sector is attacked by Terminids (2025-04-16 11:31  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Lvl 13 Terminids (2025-04-16 11:31  UTC)<br/>
 Assault Division: Predator Strain U4A deploys to *Esker* (2025-04-16 11:31  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2025-04-16 11:41  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 15 Terminids (2025-04-16 11:41  UTC)<br/>
 Assault Division: Predator Strain U4B deploys to *Crimsica* (2025-04-16 11:41  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-04-16 11:51  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 17 Terminids (2025-04-16 11:51  UTC)<br/>
 Assault Division: Predator Strain U4C deploys to *Fenrir III* (2025-04-16 11:51  UTC)<br/>
  Decay: 0.0 on Esker, Crimsica
  (2025-04-16 11:51  UTC)<br/>
@@ -8424,12 +8424,12 @@ Assault Division: Predator Strain U4D deploys to *Gar Haren* (2025-04-17 12:37  
 *Keid*'s invasion is successful (2025-04-17 13:35  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-17 13:35  UTC)<br/>
 Assault Division: Predator Strain U4D leaves *Gar Haren* (2025-04-17 13:36  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-04-17 13:37  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Lvl 15 Terminids (2025-04-17 13:37  UTC)<br/>
 Assault Division: Predator Strain U4D deploys to *Achernar Secundus* (2025-04-17 13:37  UTC)<br/>
 *Meridia* moves to X 0.2830211 Y 0.117529556 (2025-04-17 15:00  UTC)<br/>
  Decay: 0.0 on Achernar Secundus
  (2025-04-17 15:00  UTC)<br/>
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-04-17 15:36  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 13 Terminids (2025-04-17 15:36  UTC)<br/>
 Assault Division: Predator Strain U4A divides into 2 groups [U4A, U4E] (2025-04-17 15:36  UTC)<br/>
 Assault Division: Predator Strain U4E deploys to *Bore Rock* (2025-04-17 15:36  UTC)<br/>
  Decay: 0.0 on Bore Rock
@@ -8445,7 +8445,7 @@ Assault Division: Predator Strain U4F deploys to *Gacrux* (2025-04-17 19:34  UTC
 Assault Division: Predator Strain U4F leaves *Gacrux* (2025-04-17 20:33  UTC)<br/>
  Decay: 1.5 on Nivel 43
  (2025-04-17 20:33  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2025-04-17 20:34  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 17 Terminids (2025-04-17 20:34  UTC)<br/>
 Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-17 20:34  UTC)<br/>
 *Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-04-17 20:35  UTC)<br/>
  Decay: 0.0 on Acamar IV
@@ -8476,8 +8476,8 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-18 11:16  UTC)<br/>
  (2025-04-18 16:42  UTC)<br/>
 *Osupsam*'s invasion is successful (2025-04-18 18:34  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-04-18 18:34  UTC)<br/>
-*Terrek* of the Orion sector is attacked by Terminids (2025-04-18 18:37  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-18 18:37  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 10 Terminids (2025-04-18 18:37  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 10 Terminids (2025-04-18 18:37  UTC)<br/>
 Assault Division: Predator Strain U4E divides into 3 groups [U4E, U4G, U5H] (2025-04-18 18:38  UTC)<br/>
 Assault Division: Predator Strain U4G deploys to *Terrek* (2025-04-18 18:38  UTC)<br/>
 Assault Division: Predator Strain U4H deploys to *Erata Prime* (2025-04-18 18:38  UTC)<br/>
@@ -8495,7 +8495,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-04-18 22:52  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2025-04-18 22:52  UTC)<br/>
 *Meridia* moves to X 0.28100637 Y 0.11771521 (2025-04-18 23:00  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2025-04-18 23:37  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 11 Terminids (2025-04-18 23:37  UTC)<br/>
 Assault Division: Predator Strain U4I deploys to *Estanu* (2025-04-18 23:38  UTC)<br/>
  Decay: 0.0 on Estanu
  (2025-04-19 00:00  UTC)<br/>
@@ -8503,8 +8503,8 @@ Assault Division: Predator Strain U4I deploys to *Estanu* (2025-04-18 23:38  UTC
 *Meridia* moves to X 0.28076077 Y 0.117737845 (2025-04-19 03:00  UTC)<br/>
 *Skat Bay*'s invasion is successful (2025-04-19 04:43  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-04-19 04:43  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2025-04-19 05:38  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2025-04-19 05:38  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 15 Terminids (2025-04-19 05:38  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 15 Terminids (2025-04-19 05:38  UTC)<br/>
 Assault Division: Predator Strain U4F divides into 3 groups [U4F, U4J, U5K] (2025-04-19 05:38  UTC)<br/>
 Assault Division: Predator Strain U4J deploys to *Crimsica* (2025-04-19 05:38  UTC)<br/>
 Assault Division: Predator Strain U4K deploys to *Turing* (2025-04-19 05:39  UTC)<br/>
@@ -8554,7 +8554,7 @@ Assault Division: Predator Strain U4F is routed from Acamar IV (2025-04-20 04:53
 Assault Division: Predator Strain U4J is routed from Crimsica (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4K is routed from Turing (2025-04-20 04:53  UTC)<br/>
 DSS deploys to *Estanu* of the Draco sector (2025-04-20 04:53  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2025-04-20 04:53  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 9 Terminids (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53  UTC)<br/>
 *Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-04-20 05:42  UTC)<br/>
  Decay: 1.5 on Crimsica<br/> Decay: 2.5 on Turing<br/> Decay: 0.0 on Erata Prime
@@ -8564,7 +8564,7 @@ Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53
 ↳ Rictus sector is fully under Human control (2025-04-20 08:45  UTC)<br/>
 
 ### Day: #438
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2025-04-20 10:42  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 11 Terminids (2025-04-20 10:42  UTC)<br/>
 Assault Division: Predator Strain U4M deploys to *Fenrir III* (2025-04-20 10:43  UTC)<br/>
 *Meridia* moves to X 0.27868083 Y 0.11792951 (2025-04-20 11:00  UTC)<br/>
  Decay: 0.0 on Fenrir III
@@ -8680,7 +8680,7 @@ DSS deploys to *Pilen V* of the Altus sector (2025-04-24 11:57  UTC)<br/>
 *Pilen V*'s invasion is repelled (2025-04-24 16:33  UTC)<br/>
 ↳ Altus sector is fully under Human control (2025-04-24 16:33  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-24 16:33  UTC)<br/>
-*Veld* of the Orion sector is attacked by Terminids (2025-04-24 16:49  UTC)<br/>
+*Veld* of the Orion sector is attacked by Lvl 13 Terminids (2025-04-24 16:49  UTC)<br/>
 Assault Division: Predator Strain U5B deploys to *Veld* (2025-04-24 16:49  UTC)<br/>
 *Mastia* of the Marspira sector is invaded by Illuminate (2025-04-24 16:52  UTC)<br/>
  Decay: 0.0 on Veld
@@ -8701,7 +8701,7 @@ DSS deploys to *Turing* of the Umlaut sector (2025-04-25 08:58  UTC)<br/>
 
 ### Day: #443
 *Meridia* moves to X 0.27033317 Y 0.118698746 (2025-04-25 11:00  UTC)<br/>
-*Gaellivare* of the Talus sector is attacked by Automatons (2025-04-25 11:48  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Lvl 8 Automatons (2025-04-25 11:48  UTC)<br/>
 Dispatch: INCURSION ALERT. Illuminate forces have attacked MASTIA, endangering the Center of Surveillance and the security of our citizens. (2025-04-25 12:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
  (2025-04-25 12:30  UTC)<br/>
@@ -8721,7 +8721,7 @@ DSS deploys to *Turing* of the Umlaut sector (2025-04-25 20:58  UTC)<br/>
 *Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-04-26 00:54  UTC)<br/>
 *Nublaria I*'s invasion is successful (2025-04-26 02:17  UTC)<br/>
 *Meridia* moves to X 0.26962152 Y 0.118764326 (2025-04-26 03:00  UTC)<br/>
-*Slif* of the Celeste sector is attacked by Terminids (2025-04-26 05:53  UTC)<br/>
+*Slif* of the Celeste sector is attacked by Lvl 15 Terminids (2025-04-26 05:53  UTC)<br/>
 Assault Division: Predator Strain U5C deploys to *Slif* (2025-04-26 05:55  UTC)<br/>
 *Krakatwo*'s invasion is successful (2025-04-26 06:58  UTC)<br/>
  Decay: 0.0 on Slif
@@ -8758,7 +8758,7 @@ Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens 
 *Claorell* of the Tanis sector is invaded by Illuminate (2025-04-27 09:24  UTC)<br/>
 *Achernar Secundus*'s invasion is successful (2025-04-27 10:03  UTC)<br/>
 *Meridia* moves to X 0.2677207 Y 0.11893948 (2025-04-27 11:00  UTC)<br/>
-*Mastia* of the Marspira sector is attacked by Automatons (2025-04-27 12:11  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 6 Automatons (2025-04-27 12:11  UTC)<br/>
  Decay: 0.0 on Mastia
  (2025-04-27 14:00  UTC)<br/>
 *Meridia* moves to X 0.2674965 Y 0.11896015 (2025-04-27 15:00  UTC)<br/>
@@ -8773,7 +8773,7 @@ Dispatch: The Illuminate targets, while strategically valuable, so far have litt
 *Meridia* moves to X 0.26706606 Y 0.11899981 (2025-04-27 23:00  UTC)<br/>
 *Mastia* defense is failed (2025-04-28 00:11  UTC)<br/>
 ↳ *Mastia* liberation campaign starts (2025-04-28 00:11  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is attacked by Terminids (2025-04-28 02:32  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Lvl 5 Terminids (2025-04-28 02:32  UTC)<br/>
  Decay: 1.5 on Mastia
  (2025-04-28 02:32  UTC)<br/>
 *Meridia* moves to X 0.2668545 Y 0.11901931 (2025-04-28 03:00  UTC)<br/>
@@ -8805,12 +8805,13 @@ DSS deploys to *Tibit* of the Severin sector (2025-04-28 13:35  UTC)<br/>
  Decay: 1.5 on Achernar Secundus
  (2025-04-28 15:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2025-04-28 15:54  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 5 Automatons (2025-04-28 15:54  UTC)<br/>
 *Erata Prime* of the Umlaut sector is invaded by Illuminate (2025-04-28 18:22  UTC)<br/>
  Decay: 0.0 on Claorell
  (2025-04-28 18:22  UTC)<br/>
 *Meridia* moves to X 0.26609665 Y 0.11908914 (2025-04-28 19:00  UTC)<br/>
 *Tibit*'s invasion is successful (2025-04-28 19:10  UTC)<br/>
+↳ Severin sector is fully under Human control (2025-04-28 19:10  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-04-28 19:12  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-28 20:58  UTC)<br/>
 *Pilen V* of the Altus sector is no longer under threat (2025-04-28 21:09  UTC)<br/>
@@ -8854,7 +8855,7 @@ DSS effect Orbital Blockade starts (2025-04-30 08:56  UTC)<br/>
 
 ### Day: #448
 Assault Division: Predator Strain U4A leaves *Esker* (2025-04-30 19:38  UTC)<br/>
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2025-04-30 19:39  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 8 Terminids (2025-04-30 19:39  UTC)<br/>
 Assault Division: Predator Strain U4A deploys to *Bore Rock* (2025-04-30 19:39  UTC)<br/>
  Decay: 0.0 on Bore Rock
  (2025-04-30 20:00  UTC)<br/>
@@ -8870,7 +8871,7 @@ Dispatch: INCINERATION CORPS SIGHTED. The Automaton Incineration Corps has resur
 ↳ *Bore Rock* liberation campaign starts (2025-05-01 19:39  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2025-05-01 19:39  UTC)<br/>
 ↳ Falstaff sector is fully under Terminid control (2025-05-01 19:39  UTC)<br/>
-*Terrek* of the Orion sector is attacked by Terminids (2025-05-01 19:42  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 11 Terminids (2025-05-01 19:42  UTC)<br/>
 Assault Division: Predator Strain U4A divides into 2 groups [U4A, U4N] (2025-05-01 19:43  UTC)<br/>
 Assault Division: Predator Strain U4N deploys to *Terrek* (2025-05-01 19:43  UTC)<br/>
 Dispatch: PREDATOR STRAIN OUTBREAK. Failure to contain the Terminid Predator Strain has led to an outbreak on TERREK. (2025-05-01 20:01  UTC)<br/>
@@ -8879,12 +8880,12 @@ Dispatch: PREDATOR STRAIN OUTBREAK. Failure to contain the Terminid Predator Str
 Assault Division: Incineration Corps U3A leaves *Penta* (2025-05-01 20:02  UTC)<br/>
 Assault Division: Incineration Corps U3A deploys to *Lesath* (2025-05-01 20:02  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-05-01 20:59  UTC)<br/>
-*Vog-Sojoth* of the Tanis sector is attacked by Automatons (2025-05-01 21:03  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2025-05-01 21:03  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Lvl 14 Automatons (2025-05-01 21:03  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 12 Automatons (2025-05-01 21:03  UTC)<br/>
 Assault Division: Incineration Corps U3A divides into 3 groups [U3A, U3B, U3C] (2025-05-01 21:03  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Vog-Sojoth* (2025-05-01 21:03  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Vernen Wells* (2025-05-01 21:03  UTC)<br/>
-*Imber* of the Talus sector is attacked by Automatons (2025-05-01 22:03  UTC)<br/>
+*Imber* of the Talus sector is attacked by Lvl 14 Automatons (2025-05-01 22:03  UTC)<br/>
 Assault Division: Incineration Corps U3A leaves *Lesath* (2025-05-01 22:03  UTC)<br/>
 Assault Division: Incineration Corps U3A deploys to *Imber* (2025-05-01 22:03  UTC)<br/>
  Decay: 0.0 on Vernen Wells, Vog-Sojoth
@@ -8927,10 +8928,10 @@ Assault Division: Incineration Corps U3C deploys to *Vernen Wells* (2025-05-02 2
 DSS effect Eagle Storm stops (2025-05-03 06:29  UTC)<br/>
 
 ### Day: #451
-*Azterra* of the Orion sector is attacked by Terminids (2025-05-03 09:23  UTC)<br/>
+*Azterra* of the Orion sector is attacked by Lvl 11 Terminids (2025-05-03 09:23  UTC)<br/>
 Assault Division: Predator Strain U4N divides into 3 groups [U4N, U4O, U4P] (2025-05-03 09:24  UTC)<br/>
 Assault Division: Predator Strain U4O deploys to *Azterra* (2025-05-03 09:24  UTC)<br/>
-*Cirrus* of the Orion sector is attacked by Terminids (2025-05-03 09:24  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Lvl 11 Terminids (2025-05-03 09:24  UTC)<br/>
 Assault Division: Predator Strain U4P deploys to *Cirrus* (2025-05-03 09:24  UTC)<br/>
  Decay: 0.0 on Azterra, Cirrus
  (2025-05-03 10:00  UTC)<br/>
@@ -8952,7 +8953,7 @@ Assault Division: Predator Strain U4P deploys to *Cirrus* (2025-05-03 09:24  UTC
 Assault Division: Incineration Corps U3A is routed from Imber (2025-05-05 01:53  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-05-05 01:53  UTC)<br/>
 DSS deploys to *Clasa* of the Tanis sector (2025-05-05 05:01  UTC)<br/>
-*Fort Union* of the Orion sector is attacked by Terminids (2025-05-05 07:13  UTC)<br/>
+*Fort Union* of the Orion sector is attacked by Lvl 10 Terminids (2025-05-05 07:13  UTC)<br/>
 Assault Division: Predator Strain U4P divides into 2 groups [U4P, U4Q] (2025-05-05 07:14  UTC)<br/>
 Assault Division: Predator Strain U4Q deploys to *Fort Union* (2025-05-05 07:14  UTC)<br/>
 Assault Division: Predator Strain U4A leaves *Bore Rock* (2025-05-05 08:27  UTC)<br/>
@@ -9001,7 +9002,7 @@ Dispatch: NEW MAJOR ORDER. The resurgence of the Automaton Jet Brigade and Incin
 Assault Division: Jet Brigade U5A leaves *Vernen Wells* (2025-05-05 19:47  UTC)<br/>
  Decay: 2.0 on Aesir Pass, Claorell<br/> Decay: 0.5 on Bore Rock, Charbal-VII, Choepessa IV, Gar Haren, Vega Bay<br/> Decay: 1.0 on Estanu, Gacrux, Marfark, Pandion-XXIV
  (2025-05-05 19:47  UTC)<br/>
-*Tarsh* of the Marspira sector is attacked by Automatons (2025-05-05 19:48  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Lvl 40 Automatons (2025-05-05 19:48  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Tarsh* (2025-05-05 19:50  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-05-05 21:05  UTC)<br/>
  Decay: 0.0 on Tarsh
@@ -9036,7 +9037,7 @@ Assault Division: Jet Brigade U5A leaves *Tarsh* (2025-05-07 09:49  UTC)<br/>
 Assault Division: Incineration Corps U3C leaves *Marfark* (2025-05-07 09:50  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Vernen Wells* (2025-05-07 09:51  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Aesir Pass* (2025-05-07 09:52  UTC)<br/>
-*Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-07 09:53  UTC)<br/>
+*Krakatwo* of the Celeste sector is attacked by Lvl 14 Terminids (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5D] (2025-05-07 09:53  UTC)<br/>
 Assault Division: Predator Strain U5D deploys to *Krakatwo* (2025-05-07 09:53  UTC)<br/>
 Assault Division: Jet Brigade U5A leaves *Vernen Wells* (2025-05-07 11:00  UTC)<br/>
@@ -9081,7 +9082,7 @@ DSS deploys to *Veld* of the Orion sector (2025-05-09 07:08  UTC)<br/>
 
 ### Day: #457
 Assault Division: Incineration Corps U3C leaves *Aesir Pass* (2025-05-09 09:14  UTC)<br/>
-*Curia* of the Marspira sector is attacked by Automatons (2025-05-09 09:16  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Lvl 13 Automatons (2025-05-09 09:16  UTC)<br/>
 Assault Division: Incineration Corps U3C deploys to *Curia* (2025-05-09 09:16  UTC)<br/>
  Decay: 0.0 on Curia
  (2025-05-09 10:00  UTC)<br/>
@@ -9089,7 +9090,7 @@ Assault Division: Incineration Corps U3C deploys to *Curia* (2025-05-09 09:16  U
  (2025-05-09 14:00  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-05-09 17:03  UTC)<br/>
 Assault Division: Jet Brigade U5A leaves *Clasa* (2025-05-09 19:11  UTC)<br/>
-*Demiurg* of the Tanis sector is attacked by Automatons (2025-05-09 19:13  UTC)<br/>
+*Demiurg* of the Tanis sector is attacked by Lvl 30 Automatons (2025-05-09 19:13  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Demiurg* (2025-05-09 19:13  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
  Decay: 0.0 on Demiurg
@@ -9097,7 +9098,7 @@ DSS effect Eagle Storm is activated (2025-05-09 20:52  UTC)<br/>
 *Curia* defense is won (2025-05-10 06:36  UTC)<br/>
 Assault Division: Incineration Corps U3C is routed from Curia (2025-05-10 06:36  UTC)<br/>
 DSS deploys to *Demiurg* of the Tanis sector (2025-05-10 06:36  UTC)<br/>
-*Sulfura* of the Celeste sector is attacked by Terminids (2025-05-10 08:29  UTC)<br/>
+*Sulfura* of the Celeste sector is attacked by Lvl 15 Terminids (2025-05-10 08:29  UTC)<br/>
 Assault Division: Predator Strain U4O divides into 2 groups [U4O, U4R] (2025-05-10 08:29  UTC)<br/>
 Assault Division: Predator Strain U4R deploys to *Azterra* (2025-05-10 08:29  UTC)<br/>
  Decay: 1.0 on Curia
@@ -9122,12 +9123,12 @@ Assault Division: Jet Brigade U5A deploys to *Clasa* (2025-05-11 13:20  UTC)<br/
 Assault Division: Jet Brigade U5A leaves *Clasa* (2025-05-11 14:17  UTC)<br/>
  Decay: 1.0 on Sulfura
  (2025-05-11 14:17  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2025-05-11 14:18  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 10 Automatons (2025-05-11 14:18  UTC)<br/>
 Assault Division: Jet Brigade U5A deploys to *Claorell* (2025-05-11 14:18  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-05-11 15:05  UTC)<br/>
  Decay: 0.0 on Claorell<br/> Decay: 1.5 on Clasa
  (2025-05-11 15:05  UTC)<br/>
-*Krakatwo* of the Celeste sector is attacked by Terminids (2025-05-11 20:46  UTC)<br/>
+*Krakatwo* of the Celeste sector is attacked by Lvl 14 Terminids (2025-05-11 20:46  UTC)<br/>
 Assault Division: Predator Strain U5C divides into 2 groups [U5C, U5E] (2025-05-11 20:46  UTC)<br/>
 Assault Division: Predator Strain U5E deploys to *Krakatwo* (2025-05-11 20:46  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-05-11 21:04  UTC)<br/>
@@ -9146,7 +9147,7 @@ DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 09:05  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-05-12 15:05  UTC)<br/>
 Major Order | [A2-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-1) Assault Division Conquest is failed | Objective: Conquest (2025-05-12 19:02  UTC)<br/>
 Assault Division: Incineration Corps U3B leaves *Blistica* (2025-05-12 19:06  UTC)<br/>
-*Zzaniah Prime* of the Gellert sector is attacked by Automatons (2025-05-12 19:08  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Lvl 11 Automatons (2025-05-12 19:08  UTC)<br/>
 Assault Division: Incineration Corps U3B deploys to *Zzaniah Prime* (2025-05-12 19:08  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Through insidious tactics and the unwittingly synchronized deployment of elite units, enemies of Freedom have unlawfully prevented the expansion of *Super Earth* territory. Consult your Galactic Map for more information. (2025-05-12 19:16  UTC)<br/>
 *Krakatwo* defense is failed (2025-05-12 20:47  UTC)<br/>
@@ -9159,7 +9160,7 @@ DSS deploys to *Krakatwo* of the Celeste sector (2025-05-12 21:02  UTC)<br/>
  Decay: 2.0 on Krakatwo
  (2025-05-12 21:02  UTC)<br/>
 DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-05-12 21:05  UTC)<br/>
-*Nublaria I* of the Celeste sector is attacked by Terminids (2025-05-13 04:29  UTC)<br/>
+*Nublaria I* of the Celeste sector is attacked by Lvl 10 Terminids (2025-05-13 04:29  UTC)<br/>
 Assault Division: Predator Strain U5E divides into 2 groups [U5E, U5F] (2025-05-13 04:29  UTC)<br/>
 Assault Division: Predator Strain U5F deploys to *Nublaria I* (2025-05-13 04:29  UTC)<br/>
  Decay: 0.0 on Nublaria I
@@ -9387,7 +9388,7 @@ Dispatch: DEFENSES HOLDING. The Illuminate have launched a desperate last push u
 Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength. (2025-05-29 08:50  UTC)<br/>
 
 ### Day: #477
-*Fort Union* of the Orion sector is attacked by Terminids (2025-05-29 09:00  UTC)<br/>
+*Fort Union* of the Orion sector is attacked by Lvl 6 Terminids (2025-05-29 09:00  UTC)<br/>
 Major Order | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (2025-05-29 09:03  UTC)<br/>
  Decay: 0.0 on Fort Union
@@ -12359,3 +12360,12 @@ DSS effect Eagle Storm stops (2025-10-18 03:15  UTC)<br/>
 
 ### Day: #619
 DSS deploys to *Bekvam III* of the Nanos sector (2025-10-18 18:31  UTC)<br/>
+*Julheim* defense is won (2025-10-18 22:32  UTC)<br/>
+*Bekvam III* Region 1 Firefly Meadows City has fallen to Humans (2025-10-19 00:05  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town is besieged by Humans (2025-10-19 00:05  UTC)<br/>
+ Decay: 1.0 on Julheim
+ (2025-10-19 00:05  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town has fallen to Humans (2025-10-19 07:22  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-10-19 07:33  UTC)<br/>
+
+# Day: #620
