@@ -12389,3 +12389,15 @@ DSS effect Orbital Blockade stops (2025-10-20 07:34  UTC)<br/>
 *Martale* Region 0 Songguo Cun Settlement is besieged by Humans (2025-10-20 13:36  UTC)<br/>
 *Matar Bay* Region 0 Parrhesia City is besieged by Humans (2025-10-20 13:36  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-10-20 13:36  UTC)<br/>
+Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Liberty Day Preparations is won | Objective: Control (2025-10-20 14:13  UTC)<br/>
+ Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region<br/> Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2025-10-20 14:13  UTC)<br/>
+Dispatch: MAJOR ORDER WON. By securing an adequate amount of explosives from the miserly Automatons, the Helldivers have saved Liberty Day. Thanks to their valiant efforts, families all over *Super Earth* will be able to celebrate Liberty Day with a continuous Pyrotechny Display lasting 24 hours, proud in the knowledge that a hero's sacrifice lies behind each colorful spark. (2025-10-20 14:22  UTC)<br/>
+*Hellmire* - *Nivel 43* warp link is removed (2025-10-20 14:22  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Terminids (2025-10-20 17:06  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 12 Terminids (2025-10-20 17:07  UTC)<br/>
+Spore Burst Strain U4C divides into 2 groups [U4C, U4I] (2025-10-20 17:07  UTC)<br/>
+Spore Burst Strain U4I deploys to *Hellmire* (2025-10-20 17:07  UTC)<br/>
+Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom. (2025-10-20 17:09  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town has fallen to Terminids (2025-10-20 17:12  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-10-20 17:12  UTC)<br/>
