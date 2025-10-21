@@ -2485,7 +2485,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining p
 *Estanu* of the Draco sector is attacked by Terminids (2024-08-16 15:22  UTC)<br/>
  Decay: 1.5 on Chort Bay<br/> Decay: 0.0 on Estanu<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 500.0 on Ubanea, X-45<br/> Decay: 0.8 on Ustotu, Varylia 5
  (2024-08-16 15:22  UTC)<br/>
-Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is issued | Objective: Sample (2024-08-16 15:26  UTC)<br/>
+Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is issued | Objective: Samples (2024-08-16 15:26  UTC)<br/>
 ​Dispatch: NEW MAJOR ORDER. The massive interstellar spore cloud known as the Gloom now occupies massive swaths of Terminid space. All vessels sent into the Gloom have ceased radio contact within minutes. Now, the Helldivers must procure samples of Terminid organic matter from the planets closest to the Gloom. (2024-08-16 15:37  UTC)<br/>
  Decay: 500.0 on Socorro III<br/> Decay: 1.5 on Bore Rock<br/> Decay: 0.5 on Marfark<br/> Decay: 0.45 on Wasat
  (2024-08-16 15:37  UTC)<br/>
@@ -2497,7 +2497,7 @@ Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloo
  (2024-08-16 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-17 00:00  UTC)<br/>
-Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is won | Objective: Sample (2024-08-17 01:47  UTC)<br/>
+Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is won | Objective: Samples (2024-08-17 01:47  UTC)<br/>
 ↳ NOTE: Major Order Tasks were completed suddenly due to hackers sending in an estimated 4.23 billion counterfeit samples. While medals were still rewarded, this act was detrimental to the overall war effort, so it is considered a narrative loss but a statistical victory. (2024-08-17 01:47  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Umlaut sector, Valdis sector<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Choohe, Lesath, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Vandalon IV, Vega Bay<br/> Decay: 3.0 on Zagon Prime
  (2024-08-17 01:47  UTC)<br/>
@@ -6183,7 +6183,7 @@ DSS effect Orbital Blockade stops (2025-01-23 17:33  UTC)<br/>
 ​​*Bellatrix* of the Guang sector is invaded by Illuminate (2025-01-24 10:49  UTC)<br/>
 *Stout*'s invasion is successful (2025-01-24 11:42  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-24 11:42  UTC)<br/>
-Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is issued | Objective: Sample/Control (2025-01-24 13:03  UTC)<br/>
+Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is issued | Objective: Samples/Control (2025-01-24 13:03  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Recent scientific findings have drastically increased the priority of developing Gloom-resistant technology. The Helldivers are ordered to collect scientific samples in order to support its development. Consult the Galactic Map on your ship for more information. (2025-01-24 13:03  UTC)<br/>
  Decay: 0.5 on Cirrus<br/> Decay: 3.0 on Erata Prime, Gacrux
  (2025-01-24 13:03  UTC)<br/>
@@ -6267,7 +6267,7 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 06:01  UTC)<br/>
 *Cirrus* is liberated (2025-01-29 09:09  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-01-29 09:09  UTC)<br/>
 DSS deploys to *Parsh* of the Rictus sector (2025-01-29 10:01  UTC)<br/>
-Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is won | Objective: Sample/Control (2025-01-29 13:14  UTC)<br/>
+Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is won | Objective: Samples/Control (2025-01-29 13:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After innumerable scientific expeditions, the Xenoentomology Center has more than enough Terminid specimens to progress development on Gloom-resistant technology. Much work remains, but thanks to the Helldivers, the first expedition into the Gloom—and subsequent acquisition of its potentially vast E-710 reserves—may soon be within reach. Consult the Galactic Map on your Super Destroyer for more information. (2025-01-29 13:17  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
 *Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-29 14:15  UTC)<br/>
@@ -12394,6 +12394,7 @@ Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Li
  (2025-10-20 14:13  UTC)<br/>
 Dispatch: MAJOR ORDER WON. By securing an adequate amount of explosives from the miserly Automatons, the Helldivers have saved Liberty Day. Thanks to their valiant efforts, families all over *Super Earth* will be able to celebrate Liberty Day with a continuous Pyrotechny Display lasting 24 hours, proud in the knowledge that a hero's sacrifice lies behind each colorful spark. (2025-10-20 14:22  UTC)<br/>
 *Hellmire* - *Nivel 43* warp link is removed (2025-10-20 14:22  UTC)<br/>
+↳ *Nivel 43* is still accessible despite being cut off (2025-10-20 14:22  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town is besieged by Terminids (2025-10-20 17:06  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Lvl 12 Terminids (2025-10-20 17:07  UTC)<br/>
 Spore Burst Strain U4C divides into 2 groups [U4C, U4I] (2025-10-20 17:07  UTC)<br/>
@@ -12401,3 +12402,19 @@ Spore Burst Strain U4I deploys to *Hellmire* (2025-10-20 17:07  UTC)<br/>
 Dispatch: OUTPOST ALPHA UNDER ATTACK. Outpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom. (2025-10-20 17:09  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town has fallen to Terminids (2025-10-20 17:12  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-10-20 17:12  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-10-20 18:00  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-10-20 22:33  UTC)<br/>
+*Hellmire* defense is won (2025-10-21 08:30  UTC)<br/>
+Spore Burst Strain U4I is routed (2025-10-21 08:30  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-10-21 08:30  UTC)<br/>
+
+### Day: #622
+ Decay: 1.0 on Hellmire
+ (2025-10-21 09:00  UTC)<br/>
+*Nivel 43* liberation campaign ends (2025-10-21 10:07  UTC)<br/>
+Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Secure Ground Around *Hellmire* is issued | Objective: Liberate/Control (2025-10-21 12:33  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Following weeks of preparation, SEAF forces stand at the brink of liberating the Terminid Hive World, *Oshaune*. The offensive will launch from Gloom Base Alpha on *Hellmire*. The Helldivers are ordered to prepare for the impending offensive by liberating ERATA PRIME and ESTANU to better protect *Hellmire* from Terminid attacks upon it. (2025-10-21 12:34  UTC)<br/>
+Assault Division: Spore Burst Strain U6A divides into 2 groups [U6A, U6C] (2025-10-21 14:57  UTC)<br/>
+Assault Division: Spore Burst Strain U6C deploys to *Estanu* (2025-10-21 14:57  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2025-10-21 16:15  UTC)<br/>
