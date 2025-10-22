@@ -2276,10 +2276,10 @@ Dispatch: COLONY COLLAPSE. Sustained bombardment has altered the ecology of emba
 Dispatch: MAJOR ORDER WON. This latest unnatural slew of Terminid abominations has been quelled by the intrepid Helldivers. Even the re-emergence of the Impaler could not diminish the Helldivers' fervor for duty. However, a new and more potent threat has emerged, one which defies conventional combat. The interstellar spore cloud has continued to grow. It now encompasses several star systems, and is growing more every day. This unnatural phenomenon has been named The Gloom. (2024-08-10 10:26  UTC)<br/>
 *Diaspora X* is heavily enveloped by the Gloom (2024-08-10 10:29  UTC)<br/>
 ↳ *Diaspora X* is now unobservable due to the Gloom (2024-08-10 10:29  UTC)<br/>
-*Curia* of the Marspira sector is attacked by Automatons (2024-08-10 11:28  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Lvl 6 Automatons (2024-08-10 11:28  UTC)<br/>
  Decay: 1.5 on Mirin sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Esker, Bore Rock<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Choohe, Oshaune, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Vega Bay, Wezen
  (2024-08-10 11:28  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-10 11:30  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 6 Terminids (2024-08-10 11:30  UTC)<br/>
  Decay: 0.0 on Curia, Acamar IV<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 1.5 on Chort Bay<br/> Decay: 2.5 on Lesath<br/> Decay: 2.0 on Menkent<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 500.0 on Ubanea, X-45, Tibit<br/> Decay: 1.0 on Martale
  (2024-08-10 11:30  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Varylia 5, Vega Bay, Wezen
@@ -2324,7 +2324,7 @@ Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Termi
  (2024-08-11 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Varylia 5, Vega Bay, Wezen
  (2024-08-11 18:00  UTC)<br/>
-*Fenrir III* of the Umlaut Sector is attacked by Terminids (2024-08-11 19:26  UTC)<br/>
+*Fenrir III* of the Umlaut Sector is attacked by Lvl 10 Terminids (2024-08-11 19:26  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Esker, Bore Rock<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Choohe, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 1.0 on Martale<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Vega Bay, Wezen
  (2024-08-11 19:26  UTC)<br/>
 *Nabatea Secundus* is moderately enveloped by the Gloom (2024-08-11 19:27  UTC)<br/>
@@ -2373,10 +2373,10 @@ Dispatch: NEW MAJOR ORDER. The mysterious Gloom appears to be accelerating Termi
  (2024-08-13 10:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Esker, Bore Rock<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Turing, Choohe, Oshaune, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Vandalon IV, Vega Bay, Wezen
  (2024-08-13 14:00  UTC)<br/>
-*Gacrux* of the Jin Xi sector is attacked by Terminids (2024-08-13 16:04  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-08-13 16:04  UTC)<br/>
  Decay: 1.5 on Esker, Bore Rock, Merak<br/> Decay: 0.0 on Acamar IV, Gacrux<br/> Decay: 1.0 on Martale<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Ustotu, Varylia 5
  (2024-08-13 16:04  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-13 16:06  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-08-13 16:06  UTC)<br/>
 *Navi VII* is lightly enveloped by the Gloom (2024-08-13 16:08  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Troost, Ustotu, Vandalon IV, Varylia 5, Vega Bay, Wezen<br/> Decay: 0.45 on Wasat
  (2024-08-13 18:00  UTC)<br/>
@@ -2406,10 +2406,10 @@ STRATEGIC VICTORY. The last remaining pocket of Automaton resistance in the Trig
 *Acamar IV* defense is won (2024-08-14 11:19  UTC)<br/>
  Decay: 2.0 on Vernen Wells<br/> Decay: 1.5 on Acamar IV<br/> Decay: 500.0 on X-45
  (2024-08-14 11:19  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-08-14 13:34  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 7 Terminids (2024-08-14 13:34  UTC)<br/>
  Decay: 0.0 on Erata Prime, Estanu, Meridia<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.45 on Wasat<br/> Decay: 2.5 on Omicron<br/> Decay: 500.0 on Malevelon Creek
  (2024-08-14 13:34  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-14 13:35  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 7 Terminids (2024-08-14 13:35  UTC)<br/>
 *Azur Secundus* is moderately enveloped by the Gloom (2024-08-14 13:37  UTC)<br/>
 *Navi VII* is moderately enveloped by the Gloom (2024-08-14 13:37  UTC)<br/>
 *Overgoe Prime* is lightly enveloped by the Gloom (2024-08-14 13:38  UTC)<br/>
@@ -2482,7 +2482,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers successfully wiped out the remaining p
 ↳ *Oshaune* is now unobservable due to the Gloom (2024-08-16 14:28  UTC)<br/>
 *Fori Prime* is moderately enveloped by the Gloom (2024-08-16 14:29  UTC)<br/>
 *Crimsica* is lightly enveloped by the Gloom (2024-08-16 14:29  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-08-16 15:22  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 10 Terminids (2024-08-16 15:22  UTC)<br/>
  Decay: 1.5 on Chort Bay<br/> Decay: 0.0 on Estanu<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 500.0 on Ubanea, X-45<br/> Decay: 0.8 on Ustotu, Varylia 5
  (2024-08-16 15:22  UTC)<br/>
 Major Order | [A1-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-4) Gloom Gathering is issued | Objective: Samples (2024-08-16 15:26  UTC)<br/>
@@ -2532,7 +2532,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
 *Tarsh* - *Curia* warp link is added (2024-08-17 22:34  UTC)<br/>
  Decay: 1.5 on Esker, Phact Bay<br/> Decay: 2.0 on Menkent<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 2.5 on Omicron
  (2024-08-17 22:34  UTC)<br/>
-*Tarsh* of the Marspira sector is attacked by Automatons (2024-08-17 22:37  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Lvl 10 Automatons (2024-08-17 22:37  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Martale<br/> Decay: 0.0 on Tarsh<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-18 00:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Umlaut sector, Valdis sector<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Angel's Venture, Choohe, Omicron<br/> Decay: 0.0 on Matar Bay<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds
@@ -2574,7 +2574,7 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
 ### Day: #194
  Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Umlaut sector, Jin Xi sector, Valdis sector<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 2.5 on Choohe, Oshaune<br/> Decay: 0.8 on Troost, Vandalon IV, Wezen
  (2024-08-19 09:00  UTC)<br/>
-*Curia* of the Marspira sector is attacked by Automatons (2024-08-19 09:43  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Lvl 8 Automatons (2024-08-19 09:43  UTC)<br/>
  Decay: 1.5 on Acamar IV<br/> Decay: 0.8 on Ustotu, Varylia 5
  (2024-08-19 09:43  UTC)<br/>
  Decay: 0.0 on Curia<br/> Decay: 1.5 on Erata Prime<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Vega Bay<br/> Decay: 2.5 on Omicron
@@ -2603,15 +2603,15 @@ Dispatch: ARSENAL AUGMENTATION. Those who submitted counterfeit samples in a rec
 *Vernen Wells* is not accessible despite connecting to the liberated world of *Tarsh* (2024-08-20 07:33  UTC)<br/>
  Decay: 1.5 on Hellmire, Esker, Crimsica, Aesir Pass, Estanu, Gacrux, Cyberstan<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43<br/> Decay: 0.0 on Acamar IV<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 2.5 on Choohe, Oshaune, Omicron<br/> Decay: 0.8 on Human worlds
  (2024-08-20 07:33  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-08-20 07:41  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 10 Terminids (2024-08-20 07:41  UTC)<br/>
 
 ### Day: #195
  Decay: 0.0 on Fenrir III<br/> Decay: 1.5 on Erata Prime
  (2024-08-20 09:00  UTC)<br/>
-*Curia* of the Marspira sector is attacked by Automatons (2024-08-20 11:11  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Lvl 10 Automatons (2024-08-20 11:11  UTC)<br/>
  Decay: 0.0 on Curia, Tarsh<br/> Decay: 1.5 on Esker, Phact Bay<br/> Decay: 0.0 on Charbal-VII<br/> Decay: 2.0 on Menkent<br/> Decay: 0.45 on Wasat
  (2024-08-20 11:11  UTC)<br/>
-*Tarsh* of the Marspira sector is attacked by Automatons (2024-08-20 11:12  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Lvl 10 Automatons (2024-08-20 11:12  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Cirrus, Veld, Martale<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds
  (2024-08-20 12:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Angel's Venture, Choohe, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Human worlds
@@ -2655,7 +2655,7 @@ Major Order | [A1-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-6) Colo
 Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud known as the Gloom have failed. But we will not allow a mere lack of scientific understanding to thwart decisive action. The Helldivers are ordered to deploy in full force to hold back the Terminid swarm with the deployment of every weapon in their arsenal. Consult the Galactic Map on your Destroyer for more information. (2024-08-21 14:33  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Lacaille sector, Umlaut sector, Valdis sector<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43, Menkent<br/> Decay: 2.5 on Turing, Choohe, Omicron<br/> Decay: 0.8 on Troost, Vandalon IV, Wezen<br/> Decay: 0.0 on Pandion-XXIV<br/> Decay: 3.0 on Zagon Prime
  (2024-08-21 14:33  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-21 14:38  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-08-21 14:38  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 3.0 on Zagon Prime
  (2024-08-21 16:00  UTC)<br/>
  Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Jin Xi sector, Umlaut sector, Valdis sector<br/> Decay: 1.0 on Curia, Martale<br/> Decay: 2.0 on Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 2.5 on Choohe, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Trigon sector
@@ -2771,7 +2771,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
  (2024-08-25 18:00  UTC)<br/>
  Decay: 1.5 on Esker<br/> Decay: 500.0 on Socorro III, Malevelon Creek, Ubanea<br/> Decay: 0.8 on Varylia 5, Wezen<br/> Decay: 3.0 on Zagon Prime
  (2024-08-25 20:00  UTC)<br/>
-*Esker* of the Falstaff sector is attacked by Terminids (2024-08-25 21:49  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Lvl 7 Terminids (2024-08-25 21:49  UTC)<br/>
  Decay: 0.0 on Esker, Fenrir III<br/> Decay: 1.0 on Veld<br/> Decay: 2.0 on Vernen Wells<br/> Decay: 1.5 on Bore Rock, Erata Prime, Gatria<br/> Decay: 0.8 on Vega Bay<br/> Decay: 2.5 on Omicron
  (2024-08-25 21:49  UTC)<br/>
  Decay: 1.5 on Estanu<br/> Decay: 0.0 on Matar Bay<br/> Decay: 2.0 on Menkent<br/> Decay: 3.0 on Zagon Prime
@@ -2790,14 +2790,14 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
  (2024-08-26 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Falstaff sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-26 12:00  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-08-26 13:36  UTC)<br/>
-*Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-26 13:36  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 6 Terminids (2024-08-26 13:36  UTC)<br/>
+*Socorro III* of the Falstaff sector is attacked by Lvl 5 Terminids (2024-08-26 13:36  UTC)<br/>
  Decay: 1.5 on Hellmire, Tarsh, Crimsica, Aesir Pass, Acamar IV, Gacrux, Cyberstan<br/> Decay: 1.0 on Curia<br/> Decay: 2.0 on Erson Sands, Fori Prime, Nivel 43<br/> Decay: 2.5 on Choohe, Lesath, Oshaune<br/> Decay: 0.0 on Estanu, Socorro III<br/> Decay: 3.0 on Pandion-XXIV<br/> Decay: 0.8 on Human worlds
  (2024-08-26 13:36  UTC)<br/>
 *Esker* defense is won (2024-08-26 15:39  UTC)<br/>
  Decay: 0.5 on Marfark<br/> Decay: 500.0 on X-45
  (2024-08-26 15:39  UTC)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-08-26 17:16  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Lvl 3 Automatons (2024-08-26 17:16  UTC)<br/>
  Decay: 1.5 on Esker<br/> Decay: 0.0 on Fenrir III, Matar Bay<br/> Decay: 0.8 on Vega Bay
  (2024-08-26 17:16  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 1.5 on Mirin sector, Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Umlaut sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Vernen Wells, Erson Sands, Fori Prime, Menkent, Nivel 43<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 3.0 on Pandion-XXIV, Zagon Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -2823,7 +2823,7 @@ Dispatch: NEW MAJOR ORDER. Efforts to research the growing Terminid spore cloud 
 *Socorro III* defense is won (2024-08-27 09:53  UTC)<br/>
  Decay: 500.0 on Socorro III, X-45<br/> Decay: 0.45 on Wasat<br/> Decay: 1.0 on Veld<br/> Decay: 1.5 on Phact Bay
  (2024-08-27 09:53  UTC)<br/>
-*Mastia* of the Marspira sector is attacked by Automatons (2024-08-27 11:46  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 4 Automatons (2024-08-27 11:46  UTC)<br/>
  Decay: 0.0 on Mastia, Fenrir III<br/> Decay: 0.8 on Troost<br/> Decay: 2.5 on Omicron
  (2024-08-27 11:46  UTC)<br/>
 NOTE: The edge of the interstellar Gloom spore cloud became more defined/distinct from the Gloom interior. The outer edge of the thick Gloom cloud is now called the Gloomwall as a community term (2024-08-27 11:50  UTC)<br/>
@@ -2855,7 +2855,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
 *Erson Sands* is overtaken by the Gloomwall (2024-08-27 15:04  UTC)<br/>
 ↳ *Erson Sands* is now unobservable due to the Gloom (2024-08-27 15:04  UTC)<br/>
 *Overgoe Prime* is no longer enveloped by the Gloom (2024-08-27 15:04  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2024-08-27 15:14  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 5 Terminids (2024-08-27 15:14  UTC)<br/>
 *Matar Bay* defense is won (2024-08-27 16:55  UTC)<br/>
 ↳ Andromeda sector is fully under Human control (2024-08-27 16:55  UTC)<br/>
  Decay: 2.0 on Vernen Wells<br/> Decay: 1.5 on Aesir Pass, Phact Bay<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 0.0 on Erata Prime, Fenrir III<br/> Decay: 0.8 on Vega Bay, Ustotu
@@ -2883,10 +2883,10 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully exterminated massive
  (2024-08-28 02:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Fori Prime, Nivel 43, Pandion-XXIV, Zagon Prime<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Vernen Wells, Menkent<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-08-28 04:00  UTC)<br/>
-*Esker* of the Falstaff sector is attacked by Terminids (2024-08-28 08:21  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Lvl 5 Terminids (2024-08-28 08:21  UTC)<br/>
  Decay: 3.0 on Hellmire, Erson Sands, Fori Prime, Nivel 43, Pandion-XXIV<br/> Decay: 1.0 on Curia<br/> Decay: 1.5 on Tarsh, Crimsica, Aesir Pass, Acamar IV, Estanu, Gacrux, Cyberstan<br/> Decay: 2.5 on Choohe<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Vandalon IV, Vega Bay
  (2024-08-28 08:21  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-28 08:22  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 5 Terminids (2024-08-28 08:22  UTC)<br/>
 
 ### Day: #203
  Decay: 500.0 on Super Earth<br/> Decay: 0.0 on Esker, Pandion-XXIV<br/> Decay: 1.0 on Martale
@@ -2895,7 +2895,7 @@ Major Order | [A1-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-7) Acqu
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall. Liberate the polystyrene stockpile on *Vernen Wells*, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. (2024-08-28 11:06  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 1.5 on Bore Rock, Phact Bay<br/> Decay: 0.8 on Ustotu<br/> Decay: 500.0 on X-45
  (2024-08-28 11:06  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-08-28 11:10  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 5 Automatons (2024-08-28 11:10  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Falstaff sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Fenrir III, Marfark<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-28 12:00  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Curia<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Jin Xi sector, Valdis sector<br/> Decay: 2.5 on Choohe, Oshaune, Omicron<br/> Decay: 2.0 on Menkent<br/> Decay: 0.8 on Vandalon IV
@@ -2946,15 +2946,15 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
  (2024-08-30 02:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Fori Prime, Nivel 43, Pandion-XXIV, Zagon Prime<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-30 04:00  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-08-30 06:33  UTC)<br/>
-*Mastia* of the Marspira sector is attacked by Automatons (2024-08-30 06:33  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 10 Terminids (2024-08-30 06:33  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 8 Automatons (2024-08-30 06:33  UTC)<br/>
  Decay: 3.0 on Hellmire, Erson Sands, Fori Prime, Pandion-XXIV<br/> Decay: 0.0 on Mastia<br/> Decay: 1.0 on Curia, Aesir Pass<br/> Decay: 1.5 on Tarsh, Esker, Acamar IV, Estanu, Gacrux, Cyberstan<br/> Decay: 2.5 on Heeth, Vernen Wells, Choohe<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Troost, Ustotu, Wezen
  (2024-08-30 06:33  UTC)<br/>
 *Mastia* defense is won (2024-08-30 07:43  UTC)<br/>
 ↳ NOTE: The defense campaign was accidentally set to expire in 240 hours instead of 24. To correct this, the defense ended as a victory and a new campaign was started with the correct time (2024-08-30 07:43  UTC)<br/>
  Decay: 1.5 on Crimsica<br/> Decay: 500.0 on Matar Bay<br/> Decay: 3.0 on Nivel 43, Zagon Prime<br/> Decay: 0.8 on Vandalon IV
  (2024-08-30 07:43  UTC)<br/>
-*Mastia* of the Maspira sector is attacked by Automatons (2024-08-30 07:44  UTC)<br/>
+*Mastia* of the Maspira sector is attacked by Lvl 8 Automatons (2024-08-30 07:44  UTC)<br/>
 
 ### Day: #205
  Decay: 2.5 on Heeth<br/> Decay: 500.0 on Socorro III<br/> Decay: 0.8 on Troost<br/> Decay: 0.45 on Wasat
@@ -2997,7 +2997,7 @@ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
  (2024-08-31 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Fori Prime, Nivel 43, Pandion-XXIV, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-08-31 18:00  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-08-31 19:23  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 13 Terminids (2024-08-31 19:23  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Jin Xi sector, Valdis sector<br/> Decay: 1.0 on Curia, Aesir Pass, Fenrir III<br/> Decay: 2.5 on Vernen Wells, Choohe, Oshaune, Omicron, Angel's Venture<br/> Decay: 0.5 on Marfark<br/> Decay: 2.0 on Menkent<br/> Decay: 0.0 on Pandion-XXIV<br/> Decay: 0.8 on Human worlds
  (2024-08-31 19:23  UTC)<br/>
  Decay: 1.5 on Bore Rock<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 0.8 on Ustotu<br/> Decay: 0.45 on Wasat
@@ -3065,8 +3065,8 @@ Dispatch: MAJOR ORDER FAILED. Despite heroic conservation efforts, and millions 
 *Phact Bay* - *Gar Haren* warp link is added (2024-09-02 16:07  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-09-02 16:07  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:08  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-02 16:09  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-09-02 16:08  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-09-02 16:09  UTC)<br/>
 Major Order | [A1-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-1) Jin Xi Bulwark is issued | Objective: Defend/Hold (2024-09-02 16:10  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A massive Terminid outbreak has erupted out of the Gloom into the Jin Xi sector. Colonies in the Jin Xi sector are only weeks old, but millions of families are trapped within, awaiting emergency evacuation. All Helldivers are called to the colonies' defense. (2024-09-02 16:10  UTC)<br/>
  Decay: 0.0 on Gatria, Phact Bay
@@ -3094,7 +3094,7 @@ Dispatch: NEW MAJOR ORDER. A massive Terminid outbreak has erupted out of the Gl
 *Phact Bay* defense is won (2024-09-03 09:37  UTC)<br/>
  Decay: 1.0 on Curia, Aesir Pass<br/> Decay: 1.5 on Crimsica, Phact Bay<br/> Decay: 500.0 on Erata Prime, Meissa<br/> Decay: 3.0 on Fori Prime
  (2024-09-03 09:37  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-03 10:01  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 38 Terminids (2024-09-03 10:01  UTC)<br/>
 *Trandor* liberation campaign starts (2024-09-03 10:01  UTC)<br/>
  Decay: 2.0 on Trandor<br/> Decay: 1.5 on Acamar IV, Estanu<br/> Decay: 0.0 on Gatria<br/> Decay: 3.0 on Nivel 43<br/> Decay: 0.8 on Vega Bay
  (2024-09-03 10:01  UTC)<br/>
@@ -3124,7 +3124,7 @@ Dispatch: SYSTEM OUTAGE UPDATE. Some Helldivers may have noticed a recent servic
 Dispatch: TEMPORARY ARSENAL AUGMENTATION. While the supplies recovered by the Helldivers in execution of the recent Major Order were insufficient to permanently deploy Orbital Napalm Barrages fleetwide, the Ministry of Defense was able to produce a limited supply of the Stratagem, thanks to the Helldivers' efforts. In recognition of their continued unquestioning sacrifice, the Orbital Napalm Barrage has been made temporarily available to all Helldivers. (2024-09-04 11:43  UTC)<br/>
  Decay: 1.5 on Estanu<br/> Decay: 0.8 on Ustotu, Vega Bay<br/> Decay: 1.0 on Curia<br/> Decay: 0.5 on Marfark<br/> Decay: 500.0 on Matar Bay<br/> Decay: 2.5 on Omicron
  (2024-09-04 11:43  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-04 11:59  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 34 Terminids (2024-09-04 11:59  UTC)<br/>
 *Partion* liberation campaign starts (2024-09-04 11:59  UTC)<br/>
  Decay: 500.0 on Erata Prime
  (2024-09-04 11:59  UTC)<br/>
@@ -3195,8 +3195,8 @@ Dispatch: TEMPORARY ARSENAL AUGMENTATION. While the supplies recovered by the He
 Major Order | [A1-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-1) Jin Xi Bulwark is won | Objective: Defend/Hold (2024-09-06 16:23  UTC)<br/>
  Decay: 1.5 on Tarsh, Esker, Estanu<br/> Decay: 3.0 on Erson Sands<br/> Decay: 500.0 on Erata Prime, Ubanea<br/> Decay: 0.8 on Varylia 5, Wezen<br/> Decay: 2.5 on Omicron
  (2024-09-06 16:23  UTC)<br/>
-*Gaellivare* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
-*Shelt* of the Talus sector is attacked by Automatons (2024-09-06 16:25  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Lvl 30 Automatons (2024-09-06 16:25  UTC)<br/>
+*Shelt* of the Talus sector is attacked by Lvl 11 Automatons (2024-09-06 16:25  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Terminid outbreak from the Gloom has been contained, with damages and lost territory minimized. The bugs wrought massive devastation across the Jin Xi sector, forcing many families to flee from their homes, but the swift action of the Helldivers prevented the loss of territory and protected the investments of the Ministry of Expansion. (2024-09-06 16:27  UTC)<br/>
 Major Order | [A1-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-2) Titanium Bastion is issued | Objective: Defend/Hold (2024-09-06 16:34  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 0.0 on Shelt, Gaellivare<br/> Decay: 0.5 on Marfark<br/> Decay: 500.0 on X-45
@@ -3243,7 +3243,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion
 ### Day: #214
  Decay: 1.5 on Crimsica<br/> Decay: 3.0 on Erson Sands<br/> Decay: 500.0 on Socorro III, Malevelon Creek<br/> Decay: 1.0 on Fenrir III<br/> Decay: 0.8 on Troost
  (2024-09-08 09:00  UTC)<br/>
-*Vog-Sojoth* of the Tanis sector is attacked by Automatons (2024-09-08 10:22  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Lvl 8 Automatons (2024-09-08 10:22  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Mastia, Curia, Cirrus, Veld, Aesir Pass, Fenrir III, Martale<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-08 10:22  UTC)<br/>
  Decay: 0.0 on Vog-Sojoth
@@ -3256,7 +3256,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion
 ↳ *Gaellivare* liberation campaign starts (2024-09-08 18:06  UTC)<br/>
  Decay: 1.0 on Mastia, Curia, Aesir Pass, Fenrir III<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Talus sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Angel's Venture, Choohe, Lesath, Oshaune, Partion<br/> Decay: 3.0 on Fori Prime, Pandion-XXIV<br/> Decay: 0.8 on Troost, Vandalon IV, Vega Bay
  (2024-09-08 20:00  UTC)<br/>
-*Imber* of the Talus sector is attacked by Automatons (2024-09-08 21:57  UTC)<br/>
+*Imber* of the Talus sector is attacked by Lvl 11 Automatons (2024-09-08 21:57  UTC)<br/>
  Decay: 3.0 on Hellmire, Nivel 43, Erson Sands<br/> Decay: 2.5 on Vernen Wells<br/> Decay: 500.0 on Socorro III<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Ustotu, Wezen
  (2024-09-08 21:57  UTC)<br/>
  Decay: 0.0 on Imber<br/> Decay: 1.0 on Gaellivare<br/> Decay: 500.0 on Meissa<br/> Decay: 0.8 on Varylia 5
@@ -3284,8 +3284,8 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion
  Decay: 1.0 on Mastia, Aesir Pass, Gaellivare<br/> Decay: 0.0 on Shallus, Shelt<br/> Decay: 1.5 on Tarsh, Vog-Sojoth, Acamar IV, Gacrux, Gatria, Phact Bay, Cyberstan<br/> Decay: 500.0 on Imber<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Vernen Wells, Angel's Venture, Choohe, Lesath, Partion<br/> Decay: 3.0 on Erson Sands, Pandion-XXIV<br/> Decay: 0.8 on Wezen
  (2024-09-10 09:00  UTC)<br/>
 *Imber* defense is won (2024-09-10 09:02  UTC)<br/>
-*Shallus* of the Talus sector is attacked by Automatons (2024-09-10 09:08  UTC)<br/>
-*Shelt* of the Talus sector is attacked by Automatons (2024-09-10 09:09  UTC)<br/>
+*Shallus* of the Talus sector is attacked by Lvl 6 Automatons (2024-09-10 09:08  UTC)<br/>
+*Shelt* of the Talus sector is attacked by Lvl 6 Automatons (2024-09-10 09:09  UTC)<br/>
  Decay: 1.0 on Curia, Fenrir III<br/> Decay: 500.0 on Erata Prime<br/> Decay: 1.5 on Estanu<br/> Decay: 3.0 on Fori Prime, Nivel 43
  (2024-09-10 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Marspira sector, Orion sector, Hydra sector, Talus sector, Umlaut sector, Andromeda sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3308,8 +3308,8 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched another brazen expansion
  (2024-09-11 03:35  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Marspira sector, Orion sector, Hydra sector, Talus sector, Umlaut sector, Andromeda sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-09-11 04:00  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2024-09-11 07:03  UTC)<br/>
-*Imber* of the Talus sector is attacked by Automatons (2024-09-11 07:04  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 6 Automatons (2024-09-11 07:03  UTC)<br/>
+*Imber* of the Talus sector is attacked by Lvl 8 Automatons (2024-09-11 07:04  UTC)<br/>
 
 ### Day: #217
  Decay: 1.0 on Mastia, Aesir Pass, Gaellivare<br/> Decay: 1.5 on Marspira sector, Draco sector, Tanis sector, Jin Xi sector, Valdis sector<br/> Decay: 0.0 on Imber, Claorell<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 3.0 on Erson Sands, Nivel 43, Pandion-XXIV<br/> Decay: 2.5 on Choohe, Lesath, Partion
@@ -3350,7 +3350,7 @@ Major Order | [A1-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-2) Tita
 Dispatch: MAJOR ORDER WON. The Automatons have been rebuffed once more, their territorial ambitions stymied by the ever-watchful Helldivers. The titanium deposits on *Imber* were retained, and the Helldivers defended most of the bots attempted incursions into *Super Earth* territory. (2024-09-12 15:42  UTC)<br/>
  Decay: 1.0 on Curia, Aesir Pass<br/> Decay: 2.5 on Vernen Wells<br/> Decay: 3.0 on Fori Prime<br/> Decay: 0.8 on Human worlds<br/> Decay: 1.5 on Esker<br/> Decay: 500.0 on Socorro III, Meissa
  (2024-09-12 15:42  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-12 15:44  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 11 Terminids (2024-09-12 15:44  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Marspira sector, Orion sector, Hydra sector, Talus sector, Umlaut sector, Andromeda sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.0 on Gatria<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-12 16:00  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 1.0 on Mastia, Gaellivare<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Tanis sector, Jin Xi sector, Valdis sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Vernen Wells, Turing, Choohe, Lesath, Partion, Omicron<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Varylia 5, Vega Bay, Wezen
@@ -3469,7 +3469,7 @@ Major Order | [A1-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-4) Free
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-17 15:20  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation of Helldiver Force Readiness, following recent adjustments to fleetwide capabilities. In service of this evaluation, the Helldivers are ordered to conduct open warfare on both the Automaton and Terminid fronts, with the objective of increasing the total number of planets within the *Super Earth* Federation. Consult your Galactic Map for more information. (2024-09-17 15:21  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-09-17 15:38  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 14 Terminids (2024-09-17 15:38  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Tanis sector, Jin Xi sector, Valdis sector<br/> Decay: 1.0 on Curia, Gaellivare, Martale, Aesir Pass, Fenrir III<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 2.5 on Umlaut sector, Orion sector, Lacaille sector, Mirin sector, Sten sector, L'estrade sector, Hydra sector<br/> Decay: 0.0 on Gatria<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-09-17 15:38  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Cirrus, Veld, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
@@ -3499,8 +3499,8 @@ Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation 
 *Demiurg* - *Clasa* warp link is added (2024-09-18 11:15  UTC)<br/>
  Decay: 3.0 on Erson Sands<br/> Decay: 1.0 on Fenrir III<br/> Decay: 2.5 on Angel's Venture<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 0.0 on Clasa<br/> Decay: 500.0 on Meissa<br/> Decay: 0.8 on Varylia 5, Wezen
  (2024-09-18 11:15  UTC)<br/>
-*Clasa* of the Tanis sector is attacked by Automatons (2024-09-18 11:18  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2024-09-18 11:24  UTC)<br/>
+*Clasa* of the Tanis sector is attacked by Lvl 12 Automatons (2024-09-18 11:18  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 6 Automatons (2024-09-18 11:24  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Orion sector, Sten sector, Hydra sector, Talus sector, Umlaut sector, Andromeda sector<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.0 on Claorell<br/> Decay: 0.5 on Marfark<br/> Decay: 2.0 on Menkent<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-18 12:00  UTC)<br/>
  Decay: 1.5 on Marspira sector, Draco sector, Tanis sector, Jin Xi sector, Lacaille sector, Valdis sector<br/> Decay: 1.0 on Curia, Trandor, Aesir Pass, Gaellivare, Fenrir III, Martale<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.5 on Angel's Venture, Choohe, Lesath, Oshaune, Partion, Omicron<br/> Decay: 2.0 on Menkent<br/> Decay: 0.8 on Human worlds
@@ -3562,7 +3562,7 @@ Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered an evaluation 
  (2024-09-21 16:00  UTC)<br/>
  Decay: 1.0 on Curia, Aesir Pass, Fenrir III, Clasa<br/> Decay: 1.5 on Marspira sector, Draco sector, Talus sector, Tanis sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.5 on Vernen Wells, Turing, Choohe, Lesath, Oshaune, Peacock, Omicron<br/> Decay: 3.0 on Erson Sands, Nivel 43, Pandion-XXIV<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 2.0 on Menkent<br/> Decay: 0.8 on Troost, Vandalon IV, Varylia 5
  (2024-09-21 20:00  UTC)<br/>
-*Imber* of the Talus sector is attacked by Automatons (2024-09-21 21:54  UTC)<br/>
+*Imber* of the Talus sector is attacked by Lvl 4 Automatons (2024-09-21 21:54  UTC)<br/>
  Decay: 3.0 on Hellmire, Fori Prime, Zagon Prime<br/> Decay: 1.5 on Mastia, Esker, Penta, Bore Rock<br/> Decay: 500.0 on Draupnir, Tibit, Malevelon Creek<br/> Decay: 2.0 on Pandion-XXIV, Peacock<br/> Decay: 0.8 on Vega Bay, Wezen, Ustotu<br/> Decay: 0.0 on Charbal-VII
  (2024-09-21 21:54  UTC)<br/>
  Decay: 500.0 on Shallus, Mantes<br/> Decay: 0.0 on Imber<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 2.5 on Turing<br/> Decay: 1.5 on Acamar IV<br/> Decay: 0.45 on Wasat
@@ -3603,7 +3603,7 @@ Dispatch issued: CRITICAL INTEL. Multiple intel streams indicate a high probabil
  (2024-09-23 11:17  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Talus sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-23 12:00  UTC)<br/>
-*Imber* of the Talus sector is attacked by Automatons (2024-09-23 14:18  UTC)<br/>
+*Imber* of the Talus sector is attacked by Lvl 11 Automatons (2024-09-23 14:18  UTC)<br/>
  Decay: 2.0 on Gaellivare
  (2024-09-23 14:18  UTC)<br/>
  Decay: 0.0 on Imber
@@ -3635,8 +3635,8 @@ Major Order | [A1-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-4) Free
 Major Order | [A1-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-5) DSS Construction Site is issued | Objective: Liberate (2024-09-24 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds
  (2024-09-24 16:00  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-09-24 16:07  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2024-09-24 16:08  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-09-24 16:07  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 10 Automatons (2024-09-24 16:08  UTC)<br/>
  Decay: 0.0 on Acamar IV, Claorell
  (2024-09-24 18:00  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Clasa, Nivel 43<br/> Decay: 1.5 on Talus sector, Falstaff sector, Draco sector, Tanis sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Trandor, Marfark<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 2.5 on Choohe, Lesath, Omicron<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds
@@ -3679,10 +3679,10 @@ Major Order | [A1-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-5) DSS 
  (2024-09-26 16:00  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Clasa, Fori Prime, Nivel 43<br/> Decay: 1.5 on Talus sector, Draco sector, Tanis sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.5 on Vernen Wells, Turing, Choohe, Lesath, Oshaune<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds
  (2024-09-26 20:00  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-09-26 21:17  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 17 Terminids (2024-09-26 21:17  UTC)<br/>
  Decay: 0.0 on Shelt, Phact Bay<br/> Decay: 1.5 on Esker, Estanu<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 3.0 on Erson Sands<br/> Decay: 500.0 on Meissa, Ubanea<br/> Decay: 0.8 on Troost<br/> Decay: 2.5 on Omicron
  (2024-09-26 21:17  UTC)<br/>
-*Shelt* of the Talus sector is attacked by Automatons (2024-09-26 21:18  UTC)<br/>
+*Shelt* of the Talus sector is attacked by Lvl 8 Automatons (2024-09-26 21:18  UTC)<br/>
  Decay: 1.5 on Mastia, Chort Bay<br/> Decay: 1.0 on Curia<br/> Decay: 2.5 on Vernen Wells<br/> Decay: 3.0 on Nivel 43<br/> Decay: 0.8 on Vega Bay<br/> Decay: 500.0 on X-45
  (2024-09-26 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.0 on Menkent, Peacock<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3704,7 +3704,7 @@ Major Order | [A1-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-9-5) DSS 
 ↳ *Imber* liberation campaign ends (2024-09-27 21:20  UTC)<br/>
  Decay: 1.5 on Shelt, Vog-Sojoth, Chort Bay<br/> Decay: 1.0 on Fenrir III<br/> Decay: 500.0 on Erata Prime
  (2024-09-27 21:20  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2024-09-27 22:51  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 22 Terminids (2024-09-27 22:51  UTC)<br/>
  Decay: 1.5 on Crimsica<br/> Decay: 2.5 on Vernen Wells<br/> Decay: 0.0 on Turing<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Ustotu, Vandalon IV, Vega Bay
  (2024-09-27 22:51  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
@@ -3751,7 +3751,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 ↳ *Partion* liberation campaign ends (2024-09-28 21:23  UTC)<br/>
  Decay: 2.5 on Vernen Wells<br/> Decay: 500.0 on Matar Bay<br/> Decay: 2.0 on Phact Bay<br/> Decay: 0.8 on Varylia 5<br/> Decay: 0.45 on Wasat
  (2024-09-28 21:23  UTC)<br/>
-*Darius II* of the Borgus sector is attacked by Terminids (2024-09-28 21:27  UTC)<br/>
+*Darius II* of the Borgus sector is attacked by Lvl 15 Terminids (2024-09-28 21:27  UTC)<br/>
  Decay: 500.0 on Super Earth, Meissa, Ubanea<br/> Decay: 3.0 on Hellmire<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 0.0 on Darius II<br/> Decay: 0.8 on Troost, Ustotu
  (2024-09-28 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3782,7 +3782,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  (2024-09-29 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-30 00:00  UTC)<br/>
-*Achird III* of the Borgus sector is attacked by Terminids (2024-09-30 07:05  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Lvl 12 Terminids (2024-09-30 07:05  UTC)<br/>
  Decay: 1.0 on Shelt<br/> Decay: 1.5 on Imber, Darius II, Gacrux, Gatria, Pandion-XXIV, Partion, Cyberstan<br/> Decay: 0.5 on Trandor, Claorell<br/> Decay: 2.5 on Vernen Wells, Turing, Choohe, Lesath, Oshaune<br/> Decay: 3.0 on Gaellivare, Clasa, Fori Prime<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Achird III<br/> Decay: 0.8 on Vandalon IV, Wezen
  (2024-09-30 07:05  UTC)<br/>
 
@@ -3797,7 +3797,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  (2024-09-30 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Shelt, Cirrus, Veld, Aesir Pass, Fenrir III, Martale<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-09-30 16:00  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-09-30 17:54  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 13 Terminids (2024-09-30 17:54  UTC)<br/>
  Decay: 1.0 on Curia, Shelt, Martale<br/> Decay: 1.5 on Marspira sector, Talus sector, Tanis sector, Borgus sector, Draco sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Trandor, Claorell<br/> Decay: 3.0 on Gaellivare, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 2.5 on Turing, Choohe, Lesath<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.8 on Wezen
  (2024-09-30 17:54  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Curia, Shelt, Cirrus, Veld, Aesir Pass, Fenrir III, Martale<br/> Decay: 0.5 on Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -3828,7 +3828,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
  (2024-10-01 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Clasa, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Talus sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Tanis sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Claorell, Marfark<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-02 00:00  UTC)<br/>
-*Mastia* of the Marspira sector is attacked by Automatons (2024-10-02 08:37  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 8 Automatons (2024-10-02 08:37  UTC)<br/>
  Decay: 0.5 on Shelt, Claorell<br/> Decay: 1.5 on Imber, Darius II, Gacrux, Pandion-XXIV, Partion, Cyberstan<br/> Decay: 3.0 on Gaellivare, Clasa, Fori Prime, Nivel 43<br/> Decay: 1.0 on Fenrir III<br/> Decay: 2.5 on Turing, Choohe, Lesath, Omicron<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 0.8 on Vega Bay
  (2024-10-02 08:37  UTC)<br/>
 
@@ -3852,7 +3852,7 @@ Dispatch: NEW MAJOR ORDER. The Democracy Space Station has entered the first of 
 ↳ Marspira sector is fully under Human control (2024-10-03 04:03  UTC)<br/>
  Decay: 1.5 on Mastia
  (2024-10-03 06:00  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2024-10-03 07:26  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 12 Terminids (2024-10-03 07:26  UTC)<br/>
  Decay: 1.5 on Marspira sector, Talus sector, Draco sector, Borgus sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 0.5 on Shelt, Claorell<br/> Decay: 3.0 on Gaellivare, Clasa<br/> Decay: 0.0 on Turing<br/> Decay: 2.0 on Acamar IV, Menkent, Peacock, Phact Bay<br/> Decay: 2.5 on Choohe, Lesath, Omicron<br/> Decay: 0.8 on Troost, Wezen
  (2024-10-03 07:26  UTC)<br/>
 
@@ -3921,7 +3921,7 @@ Dispatch: NEW MAJOR ORDER. The DSS will require the construction of the Deep Man
  (2024-10-06 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, Tanis sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Imber, Vog-Sojoth, Acamar IV, Claorell, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-06 12:00  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-06 14:16  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-10-06 14:16  UTC)<br/>
 Dispatch: BATTLEFRONT UPDATE. Reports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage! (2024-10-06 14:20  UTC)<br/>
  Decay: 1.0 on Imber<br/> Decay: 0.0 on Pandion-XXIV
  (2024-10-06 16:00  UTC)<br/>
@@ -3969,8 +3969,8 @@ Dispatch: MAJOR ORDER WON. *Claorell* has been liberated from the circuit-operat
  (2024-10-08 10:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, Tanis sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-08 12:00  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2024-10-08 13:35  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-10-08 13:35  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 13 Automatons (2024-10-08 13:35  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 10 Automatons (2024-10-08 13:35  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Erson Sands<br/> Decay: 1.0 on Imber<br/> Decay: 0.0 on Vernen Wells, Claorell<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 2.5 on Turing, Choohe, Lesath, Omicron<br/> Decay: 1.5 on Darius II, Estanu, Gacrux, Pandion-XXIV, Cyberstan<br/> Decay: 0.8 on Vandalon IV
  (2024-10-08 13:35  UTC)<br/>
 Major Order | [A1-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-2) *Claorell* Lockdown is issued | Objective: Control/Defend (2024-10-08 13:41  UTC)<br/>
@@ -4001,7 +4001,7 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
  (2024-10-09 13:38  UTC)<br/>
  Decay: 3.0 on Erson Sands<br/> Decay: 500.0 on Achird III, Erata Prime<br/> Decay: 1.5 on Partion<br/> Decay: 0.8 on Troost, Wezen
  (2024-10-09 14:00  UTC)<br/>
-*Zefia* of the Tanis sector is attacked by Automatons (2024-10-09 16:19  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Lvl 9 Automatons (2024-10-09 16:19  UTC)<br/>
  Decay: 1.5 on Vernen Wells, Estanu<br/> Decay: 1.0 on Aesir Pass<br/> Decay: 3.0 on Nivel 43<br/> Decay: 0.8 on Varylia 5<br/> Decay: 500.0 on X-45<br/> Decay: 2.5 on Omicron
  (2024-10-09 16:19  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat<br/> Decay: 0.0 on Zefia
@@ -4019,7 +4019,7 @@ Dispatch: The Automatons have refused to accept the peaceful and righteous liber
 ### Day: #246
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat<br/> Decay: 0.0 on Zefia
  (2024-10-10 09:00  UTC)<br/>
-*Claorell* of the Tanis sector is attacked by Automatons (2024-10-10 11:48  UTC)<br/>
+*Claorell* of the Tanis sector is attacked by Lvl 13 Automatons (2024-10-10 11:48  UTC)<br/>
  Decay: 0.5 on Shelt, Marfark<br/> Decay: 1.0 on Imber<br/> Decay: 1.5 on Vernen Wells, Darius II, Gacrux, Pandion-XXIV, Cyberstan<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Clasa, Peacock, Phact Bay<br/> Decay: 2.5 on Turing, Choohe, Lesath, Oshaune<br/> Decay: 0.0 on Claorell<br/> Decay: 0.8 on Vandalon IV, Varylia 5<br/> Decay: 500.0 on Zefia
  (2024-10-10 11:48  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Acamar IV, Claorell, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -4058,12 +4058,12 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 ↳ *Pandion-XXIV* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
 ↳ *Gacrux* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
 *Acamar IV* liberation campaign ends (2024-10-11 15:12  UTC)<br/>
-*Achird III* of the Borgus sector is attacked by Terminids (2024-10-11 15:13  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Lvl 13 Terminids (2024-10-11 15:13  UTC)<br/>
 *Pandion-XXIV* liberation campaign starts (2024-10-11 15:14  UTC)<br/>
 *Gacrux* liberation campaign starts (2024-10-11 15:28  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Borgus sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock, Phact Bay<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Achird III<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-11 15:28  UTC)<br/>
-*Trandor* of the Sten sector is attacked by Terminids (2024-10-11 15:35  UTC)<br/>
+*Trandor* of the Sten sector is attacked by Lvl 6 Terminids (2024-10-11 15:35  UTC)<br/>
  Decay: 0.5 on Shelt<br/> Decay: 1.0 on Imber, Darius II, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Vernen Wells, Chort Bay, Estanu, Partion, Cyberstan, Crimsica<br/> Decay: 3.0 on Gaellivare, Hellmire, Fori Prime<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 2.5 on Turing, Choohe, Lesath<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.8 on Vandalon IV, Wezen, Vega Bay<br/> Decay: 0.0 on Trandor
  (2024-10-11 15:35  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
@@ -4095,7 +4095,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-12 15:38  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-12 16:00  UTC)<br/>
-*Gar Haren* of the Jin Xi sector is attacked by Terminids (2024-10-12 18:48  UTC)<br/>
+*Gar Haren* of the Jin Xi sector is attacked by Lvl 11 Terminids (2024-10-12 18:48  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Nivel 43, Fori Prime<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 1.0 on Imber, Fenrir III, Darius II, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 1.5 on Crimsica, Vernen Wells, Estanu, Partion, Cyberstan<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Peacock, Menkent<br/> Decay: 2.5 on Turing, Choohe, Lesath, Omicron<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Gar Haren
  (2024-10-12 18:48  UTC)<br/>
 *Pandion-XXIV* is liberated (2024-10-12 20:17  UTC)<br/>
@@ -4123,7 +4123,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
 ↳ *Gar Haren* liberation campaign starts (2024-10-13 18:51  UTC)<br/>
  Decay: 3.0 on Hellmire<br/> Decay: 1.5 on Crimsica, Partion<br/> Decay: 2.5 on Gar Haren, Oshaune<br/> Decay: 0.8 on Troost<br/> Decay: 500.0 on X-45<br/> Decay: 1.0 on Curia<br/> Decay: 0.0 on Charbal-VII
  (2024-10-13 18:51  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is attacked by Terminids (2024-10-13 19:02  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Lvl 11 Terminids (2024-10-13 19:02  UTC)<br/>
  Decay: 1.5 on Esker, Gar Haren, Gatria<br/> Decay: 2.5 on Angel's Venture, Omicron<br/> Decay: 0.0 on Achernar Secundus<br/> Decay: 500.0 on Draupnir, Tibit<br/> Decay: 3.0 on Choohe<br/> Decay: 0.8 on Vega Bay
  (2024-10-13 19:02  UTC)<br/>
  Decay: 0.5 on Shelt<br/> Decay: 1.0 on Imber<br/> Decay: 1.5 on Bore Rock, Chort Bay<br/> Decay: 500.0 on Erata Prime<br/> Decay: 3.0 on Nivel 43<br/> Decay: 2.5 on Oshaune<br/> Decay: 0.8 on Varylia 5, Wezen
@@ -4159,7 +4159,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-14 22:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 3.5 on Choohe<br/> Decay: 0.8 on Human worlds
  (2024-10-15 00:00  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminds (2024-10-15 08:28  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 8 Terminds (2024-10-15 08:28  UTC)<br/>
  Decay: 1.0 on Imber, Darius II, Gacrux, Pandion-XXIV, Phact Bay<br/> Decay: 0.5 on Trandor<br/> Decay: 1.5 on Vernen Wells, Gar Haren, Cyberstan<br/> Decay: 3.0 on Gaellivare, Nivel 43<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 2.5 on Turing, Lesath<br/> Decay: 0.1 on Acamar IV<br/> Decay: 3.5 on Choohe<br/> Decay: 0.8 on Vandalon IV
  (2024-10-15 08:28  UTC)<br/>
 
@@ -4176,7 +4176,7 @@ Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere
  (2024-10-15 13:51  UTC)<br/>
 *Acamar IV* liberation campaign ends (2024-10-15 13:52  UTC)<br/>
 *Fori Prime* liberation campaign ends (2024-10-15 13:52  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-15 15:06  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 11 Terminids (2024-10-15 15:06  UTC)<br/>
  Decay: 0.5 on Shelt<br/> Decay: 3.0 on Erson Sands<br/> Decay: 2.5 on Turing<br/> Decay: 0.0 on Pandion-XXIV<br/> Decay: 0.8 on Ustotu
  (2024-10-15 15:06  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 3.5 on Choohe<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
@@ -4206,8 +4206,8 @@ Dispatch: MAJOR ORDER UPDATE. The Helldivers have won battles in the effort to s
  (2024-10-16 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Trandor, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Choohe<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-16 16:00  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-10-16 20:15  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2024-10-16 20:15  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 7 Terminids (2024-10-16 20:15  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 14 Terminids (2024-10-16 20:15  UTC)<br/>
  Decay: 4.5 on Choohe
  (2024-10-16 20:15  UTC)<br/>
  Decay: 0.0 on Crimsica, Estanu
@@ -4247,7 +4247,7 @@ Assault Division: Jet Brigade U1A deploys to *Choohe* (2024-10-18 11:43  UTC)<br
  Decay: 3.0 on Hellmire, Nivel 43<br/> Decay: 1.5 on Esker<br/> Decay: 0.8 on Vandalon IV, Troost<br/> Decay: 2.5 on Omicron<br/> Decay: 0.5 on Marfark
  (2024-10-18 11:43  UTC)<br/>
 Assault Division: Jet Brigade U1A leaves *Choohe* (2024-10-18 11:45  UTC)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-10-18 13:01  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Lvl 40 Automatons (2024-10-18 13:01  UTC)<br/>
 Assault Division: Jet Brigade U1A deploys to *Matar Bay* (2024-10-18 13:01  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 5.0 on Choohe<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-18 13:01  UTC)<br/>
@@ -4280,7 +4280,7 @@ Dispatch: MATAR BAY HAS FALLEN. The Automaton force led by the Jet Brigade has t
  (2024-10-19 16:00  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 1.0 on Imber, Trandor, Aesir Pass, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Sten sector, Valdis sector<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 2.5 on Turing, Angel's Venture, Lesath, Omicron<br/> Decay: 0.1 on Acamar IV<br/> Decay: 4.0 on Matar Bay<br/> Decay: 0.8 on Vandalon IV, Vega Bay
  (2024-10-19 20:00  UTC)<br/>
-*Martale* of the Andromeda sector is attacked by Automatons (2024-10-19 22:06  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Lvl 28.2 Automatons (2024-10-19 22:06  UTC)<br/>
  Decay: 2.0 on Choohe<br/> Decay: 500.0 on Erata Prime<br/> Decay: 0.0 on Martale<br/> Decay: 0.8 on Ustotu, Wezen
  (2024-10-19 22:06  UTC)<br/>
 Assault Division: Jet Brigade U1A leaves *Matar Bay* (2024-10-19 22:07  UTC)<br/>
@@ -4303,7 +4303,7 @@ Assault Division: Jet Brigade U1A deploys to *Martale* (2024-10-19 22:07  UTC)<b
  (2024-10-20 22:10  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 4.0 on Martale<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-21 00:00  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-10-21 04:11  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 19.3 Automatons (2024-10-21 04:11  UTC)<br/>
 Assault Division: Jet Brigade U1A leaves *Martale* (2024-10-21 04:11  UTC)<br/>
 Assault Division: Jet Brigade U1A deploys to *Marfark* (2024-10-21 04:11  UTC)<br/>
  Decay: 0.0 on Marfark
@@ -4346,10 +4346,10 @@ Assault Division: Jet Brigade U1A is routed from Marfark (2024-10-22 07:17  UTC)
  (2024-10-22 14:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Lacaille sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Vog-Sojoth, Choohe, Claorell, Clasa, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-10-22 16:00  UTC)<br/>
-*Gatria* of the Jin Xi sector is attacked by Terminids (2024-10-22 19:25  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Lvl 11 Terminids (2024-10-22 19:25  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Nivel 43, Fori Prime<br/> Decay: 1.0 on Imber, Trandor, Darius II, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Hydra sector, Draco sector, Jin Xi sector, Andromeda sector, Sten sector, Valdis sector, Falstaff sector<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Menkent, Peacock<br/> Decay: 2.5 on Turing, Lesath<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Choepessa IV<br/> Decay: 0.0 on Gatria, Zefia<br/> Decay: 0.5 on Marfark<br/> Decay: 0.8 on Human worlds
  (2024-10-22 19:25  UTC)<br/>
-*Zefia* of the Tanis sector is attacked by Automatons (2024-10-22 19:27  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Lvl 9 Automatons (2024-10-22 19:27  UTC)<br/>
 *Estanu* is liberated (2024-10-22 21:52  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-10-22 21:52  UTC)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-10-22 21:52  UTC)<br/>
@@ -4373,7 +4373,7 @@ Assault Division: Jet Brigade U1A is routed from Marfark (2024-10-22 07:17  UTC)
  Decay: 1.0 on Imber, Trandor, Gacrux, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Sten sector, Valdis sector<br/> Decay: 3.0 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Lesath, Menkent, Peacock<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.5 on Marfark<br/> Decay: 2.5 on Oshaune, Omicron
  (2024-10-23 15:45  UTC)<br/>
 Major Order | [A1-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-5) DSS Protection is issued | Objective: Defend/Liberate (2024-10-23 15:58  UTC)<br/>
-*Gacrux* of the Jin Xi sector is attacked by Terminids (2024-10-23 16:00  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-10-23 16:00  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Falstaff sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Jin Xi sector, Andromeda sector, Sten sector<br/> Decay: 2.5 on Sten sector, Orion sector, Umlaut sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Orion sector, Sten sector, Hydra sector, Umlaut sector, Borgus sector, Jin Xi sector<br/> Decay: 0.5 on Shelt, Marfark<br/> Decay: 2.0 on Lacaille sector, Tanis sector, Hydra sector, Sten sector<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
  (2024-10-23 16:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer surrounding the DSS has become clear. Liberating *Lesath* would insulate the DSS from a sudden assault by a resurgent Jet Brigade. However, a Terminid outbreak has just erupted, threatening the Terminid Research Preserve on *Acamar IV*. What to prioritize is a difficult decision—one which High Command leaves in the capable and united hands of the Helldivers. (2024-10-23 16:12  UTC)<br/>
@@ -4383,7 +4383,7 @@ Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer su
 ↳ *Zefia* liberation campaign starts (2024-10-23 19:31  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Nivel 43<br/> Decay: 1.0 on Imber, Trandor, Darius II, Pandion-XXIV<br/> Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Sten sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Vog-Sojoth, Claorell, Clasa, Lesath, Peacock, Menkent<br/> Decay: 2.5 on Turing, Omicron, Oshaune<br/> Decay: 0.1 on Acamar IV<br/> Decay: 0.5 on Marfark, Shelt<br/> Decay: 0.8 on Troost, Varylia 5, Vandalon IV
  (2024-10-23 19:31  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-10-23 21:57  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 13 Terminids (2024-10-23 21:57  UTC)<br/>
  Decay: 3.0 on Fori Prime<br/> Decay: 0.8 on Vega Bay, Wezen
  (2024-10-23 21:57  UTC)<br/>
  Decay: 0.5 on Shelt<br/> Decay: 3.0 on Nivel 43<br/> Decay: 0.0 on Pandion-XXIV<br/> Decay: 2.5 on Omicron
@@ -4393,7 +4393,7 @@ Dispatch: NEW MAJOR ORDER. The need to expand the protective planetary buffer su
 Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-10-24 07:06  UTC)<br/>
  Decay: 1.5 on Draco sector, Hydra sector, Jin Xi sector, Andromeda sector, Tanis sector, Valdis sector<br/> Decay: 2.0 on Trandor, Vog-Sojoth, Claorell, Clasa, Partion, Phact Bay<br/> Decay: 0.0 on Aesir Pass<br/> Decay: 3.0 on Gaellivare, Fori Prime, Lesath<br/> Decay: 0.5 on Marfark<br/> Decay: 2.5 on Omicron
  (2024-10-24 07:06  UTC)<br/>
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-10-24 07:09  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Lvl 8 Automatons (2024-10-24 07:09  UTC)<br/>
 Dispatch: SPORE SURGE. The Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets. (2024-10-24 07:10  UTC)<br/>
 
 # Day: #260
@@ -12418,3 +12418,15 @@ Dispatch: NEW MAJOR ORDER. Following weeks of preparation, SEAF forces stand at 
 Assault Division: Spore Burst Strain U6A divides into 2 groups [U6A, U6C] (2025-10-21 14:57  UTC)<br/>
 Assault Division: Spore Burst Strain U6C deploys to *Estanu* (2025-10-21 14:57  UTC)<br/>
 *Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2025-10-21 16:15  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 15 Terminids (2025-10-21 21:08  UTC)<br/>
+Assault Division: Spore Burst Strain U6C divides into 2 groups [U6C, U6D] (2025-10-21 21:08  UTC)<br/>
+Assault Division: Spore Burst Strain U6D deploys to *Hellmire* (2025-10-21 21:08  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town is besieged by Humans (2025-10-21 21:49  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-10-21 21:49  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately. In the current operational context, liberating ESTANU would end the current Terminid attack on HELLMIRE. (2025-10-21 22:34  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2025-10-22 02:33  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town has fallen to Humans (2025-10-22 07:03  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-10-22 07:44  UTC)<br/>
+
+### Day: #623
