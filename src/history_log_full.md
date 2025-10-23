@@ -12430,3 +12430,20 @@ DSS deploys to *Hellmire* of the Mirin sector (2025-10-22 02:33  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-10-22 07:44  UTC)<br/>
 
 ### Day: #623
+*Hellmire* defense is won (2025-10-22 17:14  UTC)<br/>
+Assault Division: Spore Burst Strain U6D is routed from Hellmire (2025-10-22 17:14  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2025-10-22 17:14  UTC)<br/>
+*Erata Prime* Region 1 Pham's Site Settlement is besieged by Humans (2025-10-22 19:36  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-10-22 19:36  UTC)<br/>
+*Erata Prime* Region 1 Pham's Site Settlement has fallen to Humans (2025-10-22 23:11  UTC)<br/>
+DSS deploys to *Estanu* of the Draco sector (2025-10-23 02:34  UTC)<br/>
+*Erata Prime* is liberated (2025-10-23 03:27  UTC)<br/>
+↳ *Nivel 43* liberation campaign starts (2025-10-23 03:27  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-10-23 03:27  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-10-23 07:45  UTC)<br/>
+
+### Day: #624
+*Gacrux* of the Jin Xi sector is attacked by Lvl 16 Terminids (2025-10-23 11:23  UTC)<br/>
+*Gacrux* is lightly enveloped by the Gloom (2025-10-23 11:23  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. Gloom spores have been detected in the atmosphere of GACRUX, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom. (2025-10-23 11:24  UTC)<br/>
