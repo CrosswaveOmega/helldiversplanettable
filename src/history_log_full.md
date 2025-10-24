@@ -12446,4 +12446,31 @@ DSS effect Heavy Ordnance Distribution stops (2025-10-23 07:45  UTC)<br/>
 ### Day: #624
 *Gacrux* of the Jin Xi sector is attacked by Lvl 16 Terminids (2025-10-23 11:23  UTC)<br/>
 *Gacrux* is lightly enveloped by the Gloom (2025-10-23 11:23  UTC)<br/>
+Assault Division: Spore Burst Strain U6A divides into 2 groups [U6A, U6E] (2025-10-23 11:23  UTC)<br/>
+Assault Division: Spore Burst Strain U6E deploys to *Gacrux* (2025-10-23 11:23  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. Gloom spores have been detected in the atmosphere of GACRUX, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom. (2025-10-23 11:24  UTC)<br/>
+ Decay: 0.0 on Gacrux
+ (2025-10-23 12:00  UTC)<br/>
+*RD-4* of the Rigel sector is attacked by Lvl 8 Illuminate (2025-10-23 15:44  UTC)<br/>
+ Decay: 0.0 on RD-4
+ (2025-10-23 16:00  UTC)<br/>
+*Estanu* is liberated (2025-10-23 18:19  UTC)<br/>
+Assault Division: Spore Burst Strain U6C is routed from Estanu (2025-10-23 18:19  UTC)<br/>
+DSS deploys to *Gacrux* of the Jin Xi sector (2025-10-23 18:19  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 20 Terminids (2025-10-24 06:15  UTC)<br/>
+Assault Division: Dragonroaches U1C divides into 2 groups [U1C, U1E] (2025-10-24 06:15  UTC)<br/>
+Assault Division: Dragonroaches U1E deploys to *Hellmire* (2025-10-24 06:15  UTC)<br/>
+Assault Division: Spore Burst Strain U7A deploys to *Hellmire* (2025-10-24 06:15  UTC)<br/>
+Assault Division: Spore Burst Strain U7A leaves *Hellmire* (2025-10-24 06:16  UTC)<br/>
+Assault Division: Predator Strain U7A divides into 2 groups [U7A, U7D] (2025-10-24 06:17  UTC)<br/>
+Assault Division: Predator Strain U7D deploys to *Hellmire* (2025-10-24 06:17  UTC)<br/>
+*Gacrux* defense is won (2025-10-24 07:12  UTC)<br/>
+Assault Division: Spore Burst Strain U6E is routed from Gacrux (2025-10-24 07:12  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2025-10-24 07:12  UTC)<br/>
+
+### Day: #625
+ Decay: 1.0 on Gacrux
+ (2025-10-24 09:00  UTC)<br/>
+*Gacrux* is no longer enveloped by the Gloom (2025-10-24 09:35  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 9 Terminids (2025-10-24 09:38  UTC)<br/>
