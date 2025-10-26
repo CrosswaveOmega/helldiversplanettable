@@ -1935,7 +1935,7 @@ Dispatch: STRATEGIC ALERT. *Aesir Pass* has fallen. With the loss of this positi
  Decay: 1.5 on Aesir Pass
  (2024-07-07 06:00  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. Excavation of the Advanced Weapons Lab on *X-45* have recovered an intact cache of a lost Support Weapon from the First Galactic War: the MLS-4X Commando Rocket Launcher. These weapons will be immediately put to use in defense of the planet. All operations in defense of *X-45* will be augmented with the MLS-4X Commando until the end of the current Order. (2024-07-07 08:15  UTC)<br/>
-*X-45* of the Ymir sector is attacked by Automatons (2024-07-07 08:16  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 9 Automatons (2024-07-07 08:16  UTC)<br/>
 
 ### Day: #151
  Decay: 0.0 on X-45
@@ -1949,7 +1949,7 @@ Dispatch: STRATEGIC UPDATE. Excavation of the Advanced Weapons Lab on *X-45* hav
  (2024-07-08 00:00  UTC)<br/>
 
 ### Day: #152
-*X-45* of the Ymir sector is attacked by Automatons (2024-07-08 11:57  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 12 Automatons (2024-07-08 11:57  UTC)<br/>
  Decay: 0.0 on X-45
  (2024-07-08 14:00  UTC)<br/>
 *Wasat* defense is won (2024-07-08 16:32  UTC)<br/>
@@ -1972,7 +1972,7 @@ Dispatch: MAJOR ORDER WON. Thanks to the valiant defense of the Helldivers of *X
 ### Day: #154
 Major Order | [A1-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-2) Kill 100m Terminids for Science is issued | Objective: Eradicate (2024-07-10 13:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill the designated number of Terminids—ideally utilizing a variety of means—in order to aid in scientific research. Consult the Galactic Map on your ship for more information. (2024-07-10 13:02  UTC)<br/>
-*Hellmire* of the Mirin sector is attacked by Terminids (2024-07-10 13:34  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 7 Terminids (2024-07-10 13:34  UTC)<br/>
  Decay: 0.0 on Hellmire
  (2024-07-10 14:00  UTC)<br/>
 Major Order | [A1-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-2) Kill 100m Terminids for Science is won | Objective: Eradicate (2024-07-10 20:48  UTC)<br/>
@@ -1987,7 +1987,7 @@ Major Order | [A1-7-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-3) Seve
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to cut a line through the Automaton front, joining our forces and dividing theirs in two at the Andromeda Sector. Success in this endeavor will interrupt bot supply routes and comms lines, weakening their cut-off forces. Consult the Galactic Map on your Super Destroyer for more information. (2024-07-11 18:38  UTC)<br/>
  Decay: 2.0 on Marfark<br/> Decay: 3.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2024-07-11 20:00  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-07-12 07:53  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 9 Terminids (2024-07-12 07:53  UTC)<br/>
 
 ### Day: #156
  Decay: 1.5 on Aesir Pass<br/> Decay: 0.0 on Estanu<br/> Decay: 1.0 on Matar Bay
@@ -2002,8 +2002,8 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to cut a line through the 
 ### Day: #157
  Decay: 2.0 on Estanu
  (2024-07-13 09:00  UTC)<br/>
-*Hellmire* of the Mirin sector is attacked by Terminids (2024-07-13 14:01  UTC)<br/>
-*Esker* of the Falstaff sector is attacked by Terminids (2024-07-13 14:02  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 10 Terminids (2024-07-13 14:01  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Lvl 7 Terminids (2024-07-13 14:02  UTC)<br/>
 *Aesir Pass* is liberated (2024-07-13 14:40  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2024-07-13 14:40  UTC)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2024-07-13 14:40  UTC)<br/>
@@ -2046,7 +2046,7 @@ Dispatch: The Automaton Dominion has been fractured by the mighty assault rifle 
 ### Day: #162
 Major Order | [A1-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-4) Severed Automaton Planet Liberation is issued | Objective: Liberate (2024-07-18 14:15  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunity has come to liberate the territory the Automatons illegally occupy. Time is of the essence. The Automaton defenses will recover in short order. We must press the advantage now. (2024-07-18 14:35  UTC)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-07-18 23:42  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Lvl 8 Automatons (2024-07-18 23:42  UTC)<br/>
  Decay: 0.0 on Matar Bay
  (2024-07-19 00:00  UTC)<br/>
 *Charon Prime* is liberated (2024-07-19 02:28  UTC)<br/>
@@ -2056,8 +2056,8 @@ Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunit
 *Matar Bay* defense is won (2024-07-19 20:19  UTC)<br/>
  Decay: 0.0 on Matar Bay
  (2024-07-19 22:00  UTC)<br/>
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-07-20 08:25  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-07-20 08:26  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Lvl 9 Automatons (2024-07-20 08:25  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 9 Terminids (2024-07-20 08:26  UTC)<br/>
 
 ### Day: #164
  Decay: 0.0 on Aesir Pass, Acamar IV
@@ -2078,9 +2078,9 @@ Dispatch: NEW MAJOR ORDER. With the Automaton forces in disarray, the opportunit
 ↳ *Ustotu* liberation campaign starts (2024-07-21 14:03  UTC)<br/>
 ↳ *Varylia 5* liberation campaign starts (2024-07-21 14:03  UTC)<br/>
 Major Order | [A1-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-4) Severed Automaton Planet Liberation is won | Objective: Liberate (2024-07-21 14:03  UTC)<br/>
-*Wasat* of the Ymir sector is attacked by Automatons (2024-07-21 18:14  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Lvl 5 Automatons (2024-07-21 18:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. In a lightning-fast assault, the Helldivers capitalized fully on the Automatons' weakened defenses to liberate much of the territory they stole from us. (2024-07-21 18:15  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2024-07-21 18:22  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 8 Terminids (2024-07-21 18:22  UTC)<br/>
  Decay: 0.0 on Turing, Wasat
  (2024-07-21 20:00  UTC)<br/>
 *Turing* defense is won (2024-07-22 08:08  UTC)<br/>
@@ -2101,9 +2101,9 @@ Dispatch: NEW MAJOR ORDER. Following the Helldivers' inspiringly rapid support o
 Dispatch: SYSTEMS UPDATE. A cybersecurity software update has caused an unexpected outage for all Destroyer surveillance systems. All personnel are ordered to manually record their own behavior until services are restored. Instructions to Service Technicians: to bring systems back online, please manually reboot each affected computer 15 times. (2024-07-23 15:34  UTC)<br/>
 
 ### Day: #168
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2024-07-24 19:40  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-07-24 19:41  UTC)<br/>
-*Choepessa IV* of the Trigon sector is attacked by Automatons (2024-07-24 21:29  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 9 Terminids (2024-07-24 19:40  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 9 Terminids (2024-07-24 19:41  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Lvl 7.5 Automatons (2024-07-24 21:29  UTC)<br/>
  Decay: 0.0 on Bore Rock
  (2024-07-24 21:29  UTC)<br/>
  Decay: 0.0 on Choepessa IV
@@ -2152,7 +2152,7 @@ Dispatch: The liberation of a planet from the Automatons has destabilized the Or
  (2024-07-29 14:00  UTC)<br/>
 
 ### Day: #174
-*X-45* of the Ymir sector is attacked by Automatons (2024-07-30 11:20  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 3 Automatons (2024-07-30 11:20  UTC)<br/>
  Decay: 0.8 on Automaton worlds<br/> Decay: 0.0 on X-45
  (2024-07-30 12:00  UTC)<br/>
 *Vega Bay* is liberated (2024-07-30 14:15  UTC)<br/>
@@ -2178,7 +2178,7 @@ Major Order | [A1-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-1) Mine
 Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the currently available Mine Stratagems. The Helldivers are ordered to kill or dismantle the targeted number of Liberty's enemies. If the targeted number is not reached, High Command will specially authorize the urgent addition of Anti-Tank Mines to the Helldivers' repetoire. (2024-08-02 17:23  UTC)<br/>
 
 ### Day: #178
-*Gacrux* of the Jin Xi sector is attacked by Terminids (2024-08-03 09:51  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Lvl 3 Terminids (2024-08-03 09:51  UTC)<br/>
  Decay: 1.5 on Crimsica, Aesir Pass, Estanu<br/> Decay: 0.0 on Gacrux
  (2024-08-03 12:00  UTC)<br/>
 *Gacrux* defense is won (2024-08-03 18:56  UTC)<br/>
@@ -2187,7 +2187,7 @@ Dispatch: NEW MAJOR ORDER. High Command has ordered an Efficacy Review of the cu
  (2024-08-03 20:00  UTC)<br/>
 
 ### Day: #179
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-08-04 17:30  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 3 Automatons (2024-08-04 17:30  UTC)<br/>
  Decay: 0.0 on Marfark
  (2024-08-04 18:00  UTC)<br/>
 *Estanu* is liberated (2024-08-04 23:10  UTC)<br/>
@@ -2222,7 +2222,7 @@ Major Order | [A1-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-8-2) Erad
 Dispatch: NEW MAJOR ORDER. Terminids have overrun SEAF recon posts on *Socorro III*. Partial reports indicate the possibility of new Terminid variants. Most likely, these reports are exaggerations; however, the Terminid incursion is undoubtable. The Helldivers are to deploy to *Socorro III* and eradicate as many Terminids as possible. Further, the Helldivers are ordered to liberate all nearby planets, to prevent the spread of any new Terminid variants that may or may not exist. (2024-08-06 14:55  UTC)<br/>
  Decay: 2.5 on Terminid worlds<br/> Decay: 1.5 on Automaton worlds
  (2024-08-06 14:55  UTC)<br/>
-*Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-06 14:57  UTC)<br/>
+*Socorro III* of the Falstaff sector is attacked by Lvl 40 Terminids (2024-08-06 14:57  UTC)<br/>
 *Socorro III* - *Erson Sands* warp link is added (2024-08-06 14:57  UTC)<br/>
 *Esker* - *Socorro III* warp link is added (2024-08-06 14:57  UTC)<br/>
 *Nivel 43* - *Erson Sands* warp link is added (2024-08-06 14:57  UTC)<br/>
@@ -2231,7 +2231,7 @@ Dispatch: NEW MAJOR ORDER. Terminids have overrun SEAF recon posts on *Socorro I
  (2024-08-06 16:00  UTC)<br/>
 
 ### Day: #182
-*Erson Sands* of the Falstaff sector is attacked by Terminids (2024-08-07 10:41  UTC)<br/>
+*Erson Sands* of the Falstaff sector is attacked by Lvl 8 Terminids (2024-08-07 10:41  UTC)<br/>
  Decay: 0.0 on Erson Sands
  (2024-08-07 12:00  UTC)<br/>
 Dispatch: INTEL UPDATE. The strange Terminid spore cloud near *Socorro III* has grown in size by 13% in the past 24 hours. Genetic analysis indicates a possible connection of new Terminids to the interstellar spores. The situation will continue to be closely monitored. (2024-08-07 18:17  UTC)<br/>
@@ -2251,7 +2251,7 @@ Dispatch: COLONY COLLAPSE. Sustained bombardment has altered the ecology of emba
 *Esker* is liberated (2024-08-09 07:52  UTC)<br/>
 ↳ *Bore Rock* liberation campaign starts (2024-08-09 07:52  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-08-09 07:52  UTC)<br/>
-*Socorro III* of the Falstaff sector is attacked by Terminids (2024-08-09 08:20  UTC)<br/>
+*Socorro III* of the Falstaff sector is attacked by Lvl 6 Terminids (2024-08-09 08:20  UTC)<br/>
 
 ### Day: #184
  Decay: 0.0 on Socorro III
@@ -12474,3 +12474,46 @@ Assault Division: Spore Burst Strain U6E is routed from Gacrux (2025-10-24 07:12
  (2025-10-24 09:00  UTC)<br/>
 *Gacrux* is no longer enveloped by the Gloom (2025-10-24 09:35  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Lvl 9 Terminids (2025-10-24 09:38  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2025-10-24 10:00  UTC)<br/>
+↳ *Rogue 5* liberation campaign ends (2025-10-24 15:44  UTC)<br/>
+*RD-4* defense is failed (2025-10-24 15:45  UTC)<br/>
+↳ *RD-4* liberation campaign starts (2025-10-24 15:45  UTC)<br/>
+ Decay: 1.0 on RD-4
+ (2025-10-24 16:00  UTC)<br/>
+*Terrek* defense is won (2025-10-25 02:31  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-10-25 03:24  UTC)<br/>
+ Decay: 0.5 on Terrek
+ (2025-10-25 03:24  UTC)<br/>
+DSS effect Eagle Storm stops (2025-10-25 03:25  UTC)<br/>
+*Hellmire* defense is won (2025-10-25 05:56  UTC)<br/>
+Assault Division: Dragonroaches U1E is routed from Hellmire (2025-10-25 05:56  UTC)<br/>
+Assault Division: Predator Strain U7D is routed from Hellmire (2025-10-25 05:56  UTC)<br/>
+DSS deploys to *Oshaune* of the Mirin sector (2025-10-25 05:56  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Lvl 12 Automatons (2025-10-25 07:50  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2025-10-25 07:50  UTC)<br/>
+
+### Day: #626
+ Decay: 0.0 on Charbal-VII
+ (2025-10-25 09:00  UTC)<br/>
+Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Secure Ground Around *Hellmire* is won | Objective: Liberate/Control (2025-10-25 12:36  UTC)<br/>
+ Decay: 7.0 on Oshaune
+ (2025-10-25 12:36  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have liberated *Erata Prime* and *Estanu*, establishing a security buffer around *Hellmire*. Now, the strategic conditions to liberate *Oshaune* are finally set. With great valor and sacrifice, the Terminid Hive World will at last be freed. (2025-10-25 12:41  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2025-10-25 14:37  UTC)<br/>
+*Hort* of the Rigel sector is attacked by Lvl 32 Illuminate (2025-10-25 17:59  UTC)<br/>
+*Hort* Region 2 Magnitude City is besieged by Humans (2025-10-25 17:59  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2025-10-25 18:00  UTC)<br/>
+ Decay: 0.0 on Hort
+ (2025-10-25 20:00  UTC)<br/>
+Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Liberty Day 2025 is issued | Objective: Eradicate (2025-10-25 22:01  UTC)<br/>
+Dispatch: Once more we celebrate the greatest and most patriotic of days: Liberty Day. In celebration, all Helldivers shall join together and achieve the designated kill count using only the classic R-2124 Constitution rifle, exactly as our ancestors first bestowed the gift of Freedom to all. Upon completion, all serving Helldivers shall receive this year's Liberty Day cape. Consult your Galactic Map for more information. (2025-10-25 22:01  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2025-10-25 22:37  UTC)<br/>
+*Charbal-VII* defense is won (2025-10-25 23:16  UTC)<br/>
+ Decay: 0.5 on Charbal-VII
+ (2025-10-26 00:00  UTC)<br/>
+
+### Day: #627
+*Hort* Region 0 On-Earsahou City is besieged by Humans (2025-10-26 11:11  UTC)<br/>
