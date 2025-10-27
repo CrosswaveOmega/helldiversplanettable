@@ -1866,8 +1866,8 @@ Major Order | [A1-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-6) Jin 
 Dispatch: MAJOR ORDER WON. With great effort, the Terminid expansion has been significantly limited by the actions of the Helldivers. Though the bugs now infest some once-beautiful worlds, many remain unblemished by tyranny, ready for Democratic settlement. Excising the infestation will be taxing, but will require far less expenditure of resources than our worst-case scenarios predicted. (2024-07-03 11:36  UTC)<br/>
 Major Order | [A1-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-7-1) Hold *X-45* for Space Station Blueprints is issued | Objective: Control (2024-07-03 11:41  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The planet *X-45* is home to a lost Advanced Weapons Lab from the First Galactic War that was developing a powerful interplanetary battle station. Excavation of the Lab's work is underway. However, the Automatons have launched an assault to rout our forces in the Ymir Sector. It is imperative that *X-45* be held until the plans for the battle station are recovered. Consult the Galactic Map on your ship for more information. (2024-07-03 11:41  UTC)<br/>
-*X-45* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
-*Wezen* of the Ymir sector is attacked by Automatons (2024-07-03 11:45  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 5 Automatons (2024-07-03 11:45  UTC)<br/>
+*Wezen* of the Ymir sector is attacked by Lvl 6 Automatons (2024-07-03 11:45  UTC)<br/>
  Decay: 0.0 on X-45
  (2024-07-03 12:00  UTC)<br/>
  Decay: 0.0 on Wezen
@@ -1881,19 +1881,19 @@ Dispatch: CYBERSECURITY ALERT. Automaton hacking efforts in the form of maliciou
 *Wezen* defense is failed (2024-07-04 11:49  UTC)<br/>
 ↳ *Wezen* liberation campaign starts (2024-07-04 11:49  UTC)<br/>
 ↳ *Varylia 5* liberation campaign ends (2024-07-04 11:49  UTC)<br/>
-*X-45* of the Ymir sector is attacked by Automatons (2024-07-04 11:58  UTC)<br/>
+*X-45* of the Ymir sector is attacked by Lvl 6 Automatons (2024-07-04 11:58  UTC)<br/>
  Decay: 2.0 on Wezen<br/> Decay: 0.0 on X-45
  (2024-07-04 14:00  UTC)<br/>
 *X-45* defense is won (2024-07-04 20:46  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. The first layer of rubble covering the Advanced Weapons Lab on *X-45* has been cleared. Initial reports show the facility remains largely intact. It is possible there is even a cache of still-functional weaponry from the First Galactic War contained in the lab. Further excavation efforts are ongoing. (2024-07-04 22:07  UTC)<br/>
  Decay: 500.0 on X-45
  (2024-07-04 22:07  UTC)<br/>
-*Vega Bay* of the Ymir sector is attacked by Automatons (2024-07-05 08:00  UTC)<br/>
+*Vega Bay* of the Ymir sector is attacked by Lvl 6 Automatons (2024-07-05 08:00  UTC)<br/>
 
 ### Day: #149
  Decay: 0.0 on Vega Bay
  (2024-07-05 09:00  UTC)<br/>
-*Wasat* of the Ymir sector is attacked by Automatons (2024-07-05 13:03  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Lvl 5 Automatons (2024-07-05 13:03  UTC)<br/>
  Decay: 0.0 on Wasat
  (2024-07-05 14:00  UTC)<br/>
 *Meissa* is liberated (2024-07-05 23:04  UTC)<br/>
@@ -1905,15 +1905,15 @@ Dispatch: STRATEGIC UPDATE. The first layer of rubble covering the Advanced Weap
 Dispatch: INFORMATIONAL UPDATE. Emergency recruitment levels have swelled SEAF ranks to targeted numbers, reducing training throughput requirements. In light of this change, the surviving emergency SEAF Training Facilities on *Heeth* and *Angel's Venture* will be shut down and converted into recreational campgrounds for the Democratic Youth Scouts. (2024-07-05 23:36  UTC)<br/>
  Decay: 2.0 on Matar Bay<br/> Decay: 1.0 on Vega Bay
  (2024-07-05 23:36  UTC)<br/>
-*Meissa* of the Ymir sector is attacked by Automatons (2024-07-06 01:04  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Lvl 9 Automatons (2024-07-06 01:04  UTC)<br/>
  Decay: 0.0 on Meissa<br/> Decay: 1.0 on Vandalon IV<br/> Decay: 1.5 on Wezen
  (2024-07-06 02:00  UTC)<br/>
-*Vega Bay* of the Ymir sector is attacked by Automatons (2024-07-06 05:15  UTC)<br/>
+*Vega Bay* of the Ymir sector is attacked by Lvl 8 Automatons (2024-07-06 05:15  UTC)<br/>
  Decay: 0.0 on Vega Bay
  (2024-07-06 06:00  UTC)<br/>
 
 # Day: #150
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-07-06 12:03  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Lvl 8.5 Automatons (2024-07-06 12:03  UTC)<br/>
  Decay: 0.0 on Aesir Pass<br/> Decay: 0.5 on Marfark<br/> Decay: 0.75 on Matar Bay<br/> Decay: 1.0 on Wezen
  (2024-07-06 14:00  UTC)<br/>
  Decay: 2.0 on Fori Prime, Nivel 43<br/> Decay: 1.5 on Gacrux, Gatria
@@ -1940,8 +1940,8 @@ Dispatch: STRATEGIC UPDATE. Excavation of the Advanced Weapons Lab on *X-45* hav
 ### Day: #151
  Decay: 0.0 on X-45
  (2024-07-07 09:00  UTC)<br/>
-*Wasat* of the Ymir sector is attacked by Automatons (2024-07-07 20:43  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-07-07 20:43  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Lvl 5 Automatons (2024-07-07 20:43  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 4 Automatons (2024-07-07 20:43  UTC)<br/>
 *X-45* defense is won (2024-07-07 22:29  UTC)<br/>
  Decay: 0.0 on Vernen Wells, Wasat<br/> Decay: 2.0 on Aesir Pass
  (2024-07-07 22:29  UTC)<br/>
@@ -12517,3 +12517,92 @@ DSS deploys to *Hort* of the Rigel sector (2025-10-25 22:37  UTC)<br/>
 
 ### Day: #627
 *Hort* Region 0 On-Earsahou City is besieged by Humans (2025-10-26 11:11  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-10-26 16:37  UTC)<br/>
+Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Liberty Day 2025 is won | Objective: Eradicate (2025-10-26 23:00  UTC)<br/>
+Dispatch: OPERATIONAL ADVISORY. Liberty Day has now concluded. Though this year's celebration is over, let the memory of our Democratic oneness fuel your resolve as we now return, refreshed, to the ongoing fight for Freedom. Consult your Galactic Map for more information. (2025-10-26 23:01  UTC)<br/>
+*Hort* Region 2 Magnitude City has fallen to Humans (2025-10-27 00:03  UTC)<br/>
+*Hort* Region 1 Clockstop City is besieged by Humans (2025-10-27 01:22  UTC)<br/>
+*Hort* defense is won (2025-10-27 02:43  UTC)<br/>
+DSS deploys to *Fenmire* of the Marspira sector (2025-10-27 02:43  UTC)<br/>
+ Decay: 1.5 on Hort
+ (2025-10-27 04:00  UTC)<br/>
+
+### Day: #628
+*Effluvia* - *Solghast* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Solghast* - *Diluvia* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Solghast* - *Reaf* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Diluvia* - *Irulta* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Parsh* - *Grafmere* warp link is removed (2025-10-27 10:23  UTC)<br/>
+*Reaf* - *Parsh* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Reaf* - *Irulta* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Reaf* - *Outpost 32* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Irulta* - *Diluvia* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Irulta* - *Elysian Meadows* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Genesis Prime* - *Outpost 32* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Calypso* - *Outpost 32* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Calypso* - *Elysian Meadows* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Calypso* - *Andar* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Elysian Meadows* - *Alderidge Cove* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Alderidge Cove* - *Bellatrix* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Alderidge Cove* - *Botein* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Alaraph* - *Alamak VII* warp link is removed (2025-10-27 10:23  UTC)<br/>
+*Alathfar XI* - *Alaraph* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Alathfar XI* - *Andar* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Alathfar XI* - *Karlia* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Asperoth Prime* - *Andar* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Asperoth Prime* - *Keid* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Bellatrix* - *Andar* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Bellatrix* - *Khandark* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Botein* - *Alderidge Cove* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Botein* - *Skat Bay* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Karlia* - *Alaraph* warp link is removed (2025-10-27 10:23  UTC)<br/>
+*Keid* - *Karlia* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Keid* - *Shete* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Khandark* - *Keid* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Khandark* - *Skat Bay* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Setia* - *Shete* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Siemnot* - *Shete* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Sirius* - *Siemnot* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Skat Bay* - *Sirius* warp link is added (2025-10-27 10:23  UTC)<br/>
+*Calypso* - *Alderidge Cove* warp link is added (2025-10-27 10:28  UTC)<br/>
+*Skat Bay* - *Siemnot* warp link is added (2025-10-27 10:28  UTC)<br/>
+*Botein* - *Khandark* warp link is added (2025-10-27 10:30  UTC)<br/>
+*Botein* - *Skat Bay* warp link is removed (2025-10-27 10:30  UTC)<br/>
+*Khandark* - *Keid* warp link is removed (2025-10-27 10:30  UTC)<br/>
+*Asperoth Prime* - *Alathfar XI* warp link is added (2025-10-27 10:31  UTC)<br/>
+*Asperoth Prime* - *Alathfar XI* warp link is removed (2025-10-27 10:32  UTC)<br/>
+*Bellatrix* - *Andar* warp link is removed (2025-10-27 10:32  UTC)<br/>
+*Khandark* - *Asperoth Prime* warp link is added (2025-10-27 10:32  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is attacked by Illuminates (2025-10-27 10:42  UTC)<br/>
+*Viridia Prime* - *Diluvia* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Obari* - *Viridia Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Emorath* - *Viridia Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Ilduna Prime* - *Emorath* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Elysian Meadows* - *Alderidge Cove* warp link is removed (2025-10-27 12:18  UTC)<br/>
+*East Iridium Trading Bay* - *Emorath* warp link is added (2025-10-27 12:18  UTC)<br/>
+*East Iridium Trading Bay* - *Elysian Meadows* warp link is added (2025-10-27 12:18  UTC)<br/>
+*East Iridium Trading Bay* - *Brink-2* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Liberty Ridge* - *Emorath* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Liberty Ridge* - *Baldrick Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Baldrick Prime* - *Obari* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Baldrick Prime* - *Obari* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Baldrick Prime* - *Ilduna Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Osupsam* - *Brink-2* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Brink-2* - *Kneth Port* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Bunda Secundus* - *Canopus* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Canopus* - *Liberty Ridge* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Canopus* - *Osupsam* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Klaka 5* - *Osupsam* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Klaka 5* - *Kneth Port* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Kneth Port* - *Botein* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Kneth Port* - *Spherion* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Kraz* - *Bunda Secundus* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Leng Secundus* - *Klaka 5* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Leng Secundus* - *Kraz* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Leng Secundus* - *Stout* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Spherion* - *Sirius* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Stor Tha Prime* - *Spherion* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Stor Tha Prime* - *Stout* warp link is added (2025-10-27 12:18  UTC)<br/>
+*Termadon* - *Stor Tha Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
+ Decay: 0.0 on Hesoe Prime
+ (2025-10-27 12:18  UTC)<br/>
