@@ -12526,6 +12526,7 @@ Dispatch: OPERATIONAL ADVISORY. Liberty Day has now concluded. Though this year'
 DSS deploys to *Fenmire* of the Marspira sector (2025-10-27 02:43  UTC)<br/>
  Decay: 1.5 on Hort
  (2025-10-27 04:00  UTC)<br/>
+Assault Division: Hive Lords U1A leaves *Oshaune* (2025-10-27 08:31  UTC)<br/>
 
 ### Day: #628
 *Effluvia* - *Solghast* warp link is added (2025-10-27 10:23  UTC)<br/>
@@ -12606,3 +12607,7 @@ DSS deploys to *Fenmire* of the Marspira sector (2025-10-27 02:43  UTC)<br/>
 *Termadon* - *Stor Tha Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
  Decay: 0.0 on Hesoe Prime
  (2025-10-27 12:18  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-10-27 16:38  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2025-10-27 18:39  UTC)<br/>
+
+### Day: #629
