@@ -1694,7 +1694,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 *Ingmar* defense is won (2024-06-22 10:41  UTC)<br/>
  Decay: 500.0 on Ingmar
  (2024-06-22 12:00  UTC)<br/>
-*Pöpli IX* of the Xzar sector is attacked by Automatons (2024-06-22 14:58  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Lvl 6 Automatons (2024-06-22 14:58  UTC)<br/>
  Decay: 0.0 on Pöpli IX
  (2024-06-22 16:00  UTC)<br/>
 *Pandion-XXIV* defense is failed (2024-06-22 20:59  UTC)<br/>
@@ -1714,27 +1714,27 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 ### Day: #137
  Decay: 500.0 on Pöpli IX, Mort
  (2024-06-23 09:00  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-06-23 09:53  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl 7 Automatons (2024-06-23 09:53  UTC)<br/>
  Decay: 0.0 on Ingmar
  (2024-06-23 12:00  UTC)<br/>
 *Ingmar* defense is won (2024-06-23 20:29  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2024-06-23 20:29  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-23 21:56  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 7 Terminids (2024-06-23 21:56  UTC)<br/>
  Decay: 500.0 on Ingmar
  (2024-06-23 21:56  UTC)<br/>
 *Mantes* - *Vandalon IV* warp link is added (2024-06-23 21:58  UTC)<br/>
-*Mantes* of the Xzar sector is attacked by Automatons (2024-06-23 21:58  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl 6 Automatons (2024-06-23 21:58  UTC)<br/>
  Decay: 0.0 on Mantes, Phact Bay
  (2024-06-24 00:00  UTC)<br/>
 *Mantes* defense is won (2024-06-24 07:38  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2024-06-24 07:38  UTC)<br/>
-*Varylia 5* of the Trigon sector is attacked by Automatons (2024-06-24 08:57  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Lvl 6 Automatons (2024-06-24 08:57  UTC)<br/>
  Decay: 500.0 on Mantes
  (2024-06-24 08:57  UTC)<br/>
 
 ### Day: #138
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-06-24 09:24  UTC)<br/>
-*Troost* of the Trigon sector is attacked by Automatons (2024-06-24 09:24  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl 6 Automatons (2024-06-24 09:24  UTC)<br/>
+*Troost* of the Trigon sector is attacked by Lvl 6 Automatons (2024-06-24 09:24  UTC)<br/>
  Decay: 0.0 on Varylia 5
  (2024-06-24 09:24  UTC)<br/>
  Decay: 0.0 on Ingmar, Troost
@@ -1747,8 +1747,8 @@ Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the X
 ↳ *Phact Bay* liberation campaign starts (2024-06-24 22:00  UTC)<br/>
  Decay: 1.0 on Phact Bay
  (2024-06-25 00:00  UTC)<br/>
-*Nivel 43* of the Mirin sector is attacked by Terminids (2024-06-25 07:48  UTC)<br/>
-*Mort* of the Xzar sector is attacked by Automatons (2024-06-25 07:55  UTC)<br/>
+*Nivel 43* of the Mirin sector is attacked by Lvl 7 Terminids (2024-06-25 07:48  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Lvl 5 Automatons (2024-06-25 07:55  UTC)<br/>
 
 ### Day: #139
  Decay: 0.0 on Mort, Nivel 43
@@ -1779,9 +1779,9 @@ Major Order | [A1-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-5) Xzar
 Dispatch: MAJOR ORDER WON. The Automatons have been rebuffed. The territory so many sacrificed to liberate remains safe in the hands of Freedom. Consult the Galactic Map on your ship for more information. (2024-06-26 10:04  UTC)<br/>
 Major Order | [A1-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-6) Jin Xi-Falstaff Liberation is issued | Objective: Control (2024-06-26 11:04  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the Falstaff and Jin Xi sectors. This greedy annexation will not be tolerated. Consult the Galactic Map on your ship for more information. (2024-06-26 11:04  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-06-26 11:06  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-26 11:06  UTC)<br/>
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2024-06-26 11:06  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 7 Terminids (2024-06-26 11:06  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 6 Terminids (2024-06-26 11:06  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 6 Terminids (2024-06-26 11:06  UTC)<br/>
  Decay: 0.0 on Bore Rock, Acamar IV, Fori Prime, Nivel 43<br/> Decay: 1.5 on Gacrux<br/> Decay: 0.75 on Vandalon IV
  (2024-06-26 12:00  UTC)<br/>
 *Bore Rock* defense is won (2024-06-26 23:28  UTC)<br/>
@@ -1804,9 +1804,9 @@ Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the
 *Phact Bay* is liberated (2024-06-28 08:36  UTC)<br/>
 
 ### Day: #142
-*Bore Rock* of the Falstaff sector is attacked by Terminids (2024-06-28 20:45  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:52  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-28 20:53  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Lvl 7 Terminids (2024-06-28 20:45  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 2 Terminids (2024-06-28 20:52  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 2 Terminids (2024-06-28 20:53  UTC)<br/>
  Decay: 0.0 on Bore Rock, Acamar IV, Phact Bay
  (2024-06-28 22:00  UTC)<br/>
 *Acamar IV* defense is won (2024-06-29 06:31  UTC)<br/>
@@ -1817,7 +1817,7 @@ Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the
 ### Day: #143
  Decay: 1.5 on Phact Bay
  (2024-06-29 09:00  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2024-06-29 10:29  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 5 Terminids (2024-06-29 10:29  UTC)<br/>
  Decay: 1.5 on Nivel 43<br/> Decay: 2.0 on Pandion-XXIV
  (2024-06-29 10:29  UTC)<br/>
  Decay: 0.0 on Crimsica
@@ -1832,14 +1832,14 @@ Dispatch: NEW MAJOR ORDER. The Terminids are infesting untarnished worlds in the
 ### Day: #144
 *Crimsica* defense is failed (2024-06-30 10:29  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-06-30 10:29  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-30 10:52  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 6 Terminids (2024-06-30 10:52  UTC)<br/>
  Decay: 2.0 on Crimsica
  (2024-06-30 10:52  UTC)<br/>
 Dispatch: An outbreak of Terminids has erupted in the Jin Xi Sector, despite the valiant reclamation of adjacent worlds by the Helldivers. It appears that the abnormally large spore dispersals following recent Hive Annihilation Actions may have led to seeding of Jin Xi planets before the Terminids could be fully eradicated from adjacent worlds. (2024-06-30 10:56  UTC)<br/>
 Dispatch: STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Under pressure, the bugs are scrabbling for planetary purchase. Do not allow them to infest new ground. (2024-06-30 10:56  UTC)<br/>
 *Gatria* of the Jin Xi sector instantly flips to Terminid control (2024-06-30 10:57  UTC)<br/>
 ↳ *Gatria* liberation campaign starts (2024-06-30 10:57  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-06-30 10:57  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 5 Terminids (2024-06-30 10:57  UTC)<br/>
  Decay: 2.0 on Esker<br/> Decay: 0.0 on Acamar IV, Phact Bay<br/> Decay: 1.5 on Gatria
  (2024-06-30 12:00  UTC)<br/>
  Decay: 3.0 on Gatria
@@ -12611,3 +12611,15 @@ DSS effect Orbital Blockade stops (2025-10-27 16:38  UTC)<br/>
 DSS deploys to *Hesoe Prime* of the Rigel sector (2025-10-27 18:39  UTC)<br/>
 
 ### Day: #629
+*Hesoe Prime* defense is failed (2025-10-28 10:43  UTC)<br/>
+↳ *Hesoe Prime* liberation campaign starts (2025-10-28 10:43  UTC)<br/>
+Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberate Hive World *Oshaune* is issued | Objective: Liberate (2025-10-28 12:10  UTC)<br/>
+ Decay: 1.0 on Hesoe Prime
+ (2025-10-28 12:10  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The time has come to liberate the Hive World. All Helldivers are ordered to deploy to OSHAUNE. Do not relent until it is purged. (2025-10-28 12:11  UTC)<br/>
+DSS deploys to *Oshaune* of the Mirin sector (2025-10-28 14:39  UTC)<br/>
+Dispatch: DSS DEPLOYED TO OSHAUNE. In an effective exercise of Managed Democracy, the Helldivers have elected to deploy the DSS to OSHAUNE. The onboard Atmospheric Autoclave has begun sterilizing Gloom spores on the planet, weakening Terminid resistance. (2025-10-28 14:41  UTC)<br/>
+*Bore Rock* is lightly enveloped by the Gloom (2025-10-28 15:22  UTC)<br/>
+ Decay: 5.0 on Oshaune
+ (2025-10-28 15:22  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. BORE ROCK is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-10-28 15:33  UTC)<br/>
