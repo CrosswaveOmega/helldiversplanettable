@@ -1317,8 +1317,8 @@ Dispatch: OPERATION ""ENDURING PEACE""—PHASE I. The time has come to address t
 
 ### Day: #111
 Dispatch: EMERGENCY ALERT. Spore production on the *Meridia* Supercolony has risen to critical levels. Planets in the vicinity of the Supercolony are under imminent threat of infestation. Emergency evacuation orders have been issued. All Helldivers are called to address this critical situation. (2024-05-28 09:56  UTC)<br/>
-*Veld* of the Orion sector is attacked by Terminids (2024-05-28 09:58  UTC)<br/>
-*Cirrus* of the Orion sector is attacked by Terminids (2024-05-28 09:59  UTC)<br/>
+*Veld* of the Orion sector is attacked by Lvl 10 Terminids (2024-05-28 09:58  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Lvl 10 Terminids (2024-05-28 09:59  UTC)<br/>
  Decay: 2.0 on Turing
  (2024-05-28 12:00  UTC)<br/>
 *Acamar IV* defense is failed (2024-05-28 16:01  UTC)<br/>
@@ -1334,7 +1334,7 @@ Dispatch: EMERGENCY ALERT. Spore production on the *Meridia* Supercolony has ris
 *Cirrus* is liberated (2024-05-29 23:35  UTC)<br/>
 ↳ Orion sector is fully under Human control (2024-05-29 23:35  UTC)<br/>
 *Acamar IV* is liberated (2024-05-30 05:22  UTC)<br/>
-*Heeth* of the Orion sector is attacked by Terminids (2024-05-30 08:02  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Lvl 11 Terminids (2024-05-30 08:02  UTC)<br/>
 Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted. Therefore, *Super Earth* High Command recommends prioritizing the defense of *Heeth*. (2024-05-30 08:02  UTC)<br/>
 
 ### Day: #113
@@ -1379,8 +1379,8 @@ Dispatch: TECTONIC DRILL UPGRADES. The Ministry of Science has rapidly engineere
 Dispatch: ARSENAL AUGMENTATION. Patriotic citizens have organized to support the destruction of *Meridia* by making homemade napalm. Thanks to this grassroots effort, Napalm Orbital Strikes will augment all loadouts until Operation Enduring Peace concludes. (2024-06-01 10:44  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2024-06-01 12:00  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2024-06-01 15:19  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-06-01 15:19  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 12 Terminids (2024-06-01 15:19  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-06-01 15:19  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. The assault on the Supercolony appears to have spurred an increase in Terminid outbreaks on other planets. Scientists have likened this response to a kicked hornet's nest, from the beloved childhood pastime. High Command advises Helldivers to maintain focus on the Supercolony: this may be our only chance to destroy it. (2024-06-01 15:19  UTC)<br/>
  Decay: 4.9 on Meridia
  (2024-06-01 15:19  UTC)<br/>
@@ -1393,7 +1393,7 @@ Dispatch: STRATEGIC UPDATE. The assault on the Supercolony appears to have spurr
 
 ### Day: #116
 Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on the Supercolony. *Moradesh* scientists have identified this as evidence of early Dark Fluid accretion stages: micro-bubbles have begun to form beneath the planet's crust, disrupting Terminid hives. Tectonic integrity has begun to decrease. The future of the Liberty teeters at the abyss. These are the critical hours. One final push is all that remains. (2024-06-02 09:47  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-06-02 09:52  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl N/A Terminids (2024-06-02 09:52  UTC)<br/>
  Decay: 1.6 on Meridia
  (2024-06-02 12:00  UTC)<br/>
 *Turing* defense is failed (2024-06-02 15:21  UTC)<br/>
@@ -1412,7 +1412,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
 ↳ *Crimsica* liberation campaign starts (2024-06-02 19:13  UTC)<br/>
 ↳ *Fenrir III* defense is auto-won via gambit (2024-06-02 19:16  UTC)<br/>
 Dispatch: OPERATION "ENDURING PEACE"—SUCCESSFUL. The Supercolony has been destroyed. In its place, a beautiful black hole remains, drawing in every Terminid spore in the system. Congratulations is in order. The Helldivers won a historic victory for Managed Democracy today. Consult the Galactic Map on your ship for more information. (2024-06-02 19:22  UTC)<br/>
-*Vega Bay* of the Ymir sector is attacked by Automatons (2024-06-02 19:37  UTC)<br/>
+*Vega Bay* of the Ymir sector is attacked by Lvl 8 Automatons (2024-06-02 19:37  UTC)<br/>
 
 ### Day: #117
 Major Order | [A1-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-1) Supercolony Cleanup is issued | Objective: Liberate (2024-06-03 18:46  UTC)<br/>
@@ -1439,7 +1439,7 @@ Dispatch: NEW MAJOR ORDER. With the Supercolony destroyed, it is now finally pos
 ### Day: #119
 *Erata Prime* is liberated (2024-06-05 11:48  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2024-06-05 11:48  UTC)<br/>
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-06-05 15:40  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Lvl 8 Automatons (2024-06-05 15:40  UTC)<br/>
  Decay: 0.0 on Aesir Pass
  (2024-06-05 16:00  UTC)<br/>
  Decay: 1.5 on Acamar IV
@@ -1482,7 +1482,7 @@ Dispatch: STRATEGIC GUIDANCE. *Super Earth* High Command advises all Helldivers 
 ↳ *Vega Bay* liberation campaign starts (2024-06-08 22:28  UTC)<br/>
 
 ### Day: #123
-*Ustotu* of the Trigon sector is attacked by Automatons (2024-06-09 16:07  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Lvl 7 Automatons (2024-06-09 16:07  UTC)<br/>
  Decay: 0.0 on Ustotu<br/> Decay: 1.0 on Wasat, Vega Bay
  (2024-06-09 18:00  UTC)<br/>
 *Vega Bay* is liberated (2024-06-10 01:22  UTC)<br/>
@@ -1631,12 +1631,12 @@ Dispatch: INTEL REPORT. Abnormally high levels of interstellar spore emissions h
 *Nivel 43* is not accessible despite connecting to the liberated world of *Esker* (2024-06-18 20:19  UTC)<br/>
  Decay: 500.0 on Fori Prime
  (2024-06-18 20:19  UTC)<br/>
-*Esker* of the Falstaff sector is attacked by Terminids (2024-06-18 20:20  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Lvl 10 Terminids (2024-06-18 20:20  UTC)<br/>
  Decay: 0.0 on Esker<br/> Decay: 2.5 on Nivel 43<br/> Decay: 3.0 on Zagon Prime
  (2024-06-18 22:00  UTC)<br/>
 
 ### Day: #133
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-06-19 13:21  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 10 Terminids (2024-06-19 13:21  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire* from the Terminid Swarm, the addition of the FLAM-40 FLAMETHROWER Support Weapon to all loadouts has been authorized for the next 24 hours. (2024-06-19 14:43  UTC)<br/>
  Decay: 0.0 on Fori Prime
  (2024-06-19 14:43  UTC)<br/>
@@ -1651,10 +1651,10 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 *Fori Prime* defense is failed (2024-06-20 13:21  UTC)<br/>
 ↳ *Fori Prime* liberation campaign starts (2024-06-20 13:21  UTC)<br/>
 ↳ *Oshaune* liberation campaign ends (2024-06-20 13:21  UTC)<br/>
-*Mort* of the Xzar sector is attacked by Automatons (2024-06-20 13:28  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Lvl 6 Automatons (2024-06-20 13:28  UTC)<br/>
 *Crimsica* - *Acamar IV* warp link is added (2024-06-20 15:08  UTC)<br/>
 *Gacrux* - *Fori Prime* warp link is added (2024-06-20 15:08  UTC)<br/>
-*Gacrux* of the Jin Xi sector is attacked by Terminids (2024-06-20 15:08  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-06-20 15:08  UTC)<br/>
  Decay: 0.0 on Mort<br/> Decay: 1.5 on Fori Prime
  (2024-06-20 15:08  UTC)<br/>
  Decay: 1.0 on Fori Prime<br/> Decay: 0.0 on Gacrux<br/> Decay: 2.0 on Nivel 43
@@ -1672,8 +1672,8 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
 ↳ *Zagon Prime* liberation campaign starts (2024-06-21 17:02  UTC)<br/>
  Decay: 1.5 on Gacrux
  (2024-06-21 17:02  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-06-21 19:57  UTC)<br/>
-*Erson Sands* of the Falstaff sector is attacked by Terminids (2024-06-21 19:58  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 9 Terminids (2024-06-21 19:57  UTC)<br/>
+*Erson Sands* of the Falstaff sector is attacked by Lvl 8 Terminids (2024-06-21 19:58  UTC)<br/>
 *Fori Prime* is liberated (2024-06-21 21:12  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-06-21 21:12  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-06-21 21:12  UTC)<br/>
@@ -1681,10 +1681,10 @@ Dispatch: STRATEGIC UPDATE. In order to assist with the liberation of *Hellmire*
  Decay: 0.0 on Erson Sands, Pandion-XXIV<br/> Decay: 2.0 on Gacrux
  (2024-06-21 21:12  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully achieved a significant reduction in Terminid population levels, proving the efficacy of targeting Terminid Nurseries directly. Many once-infested planets are now ready for our citizens to settle. This is the first step towards Terminid containment and the long-lasting prosperity it will bring our citizens. (2024-06-21 21:18  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-06-21 21:19  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl 6 Automatons (2024-06-21 21:19  UTC)<br/>
 Major Order | [A1-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-6-5) Xzar Lockdown is issued | Objective: Control (2024-06-21 21:22  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automatons have been making incursions into the Xzar Sector, in an effort to re-steal the sites of their introductory crimes. Consult the Galactic Map on your ship for more information. (2024-06-21 21:22  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2024-06-21 23:03  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl 6 Automatons (2024-06-21 23:03  UTC)<br/>
  Decay: 0.0 on Ingmar
  (2024-06-21 23:03  UTC)<br/>
  Decay: 0.0 on Vandalon IV
@@ -12623,3 +12623,15 @@ Dispatch: DSS DEPLOYED TO OSHAUNE. In an effective exercise of Managed Democracy
  Decay: 5.0 on Oshaune
  (2025-10-28 15:22  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. BORE ROCK is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-10-28 15:33  UTC)<br/>
+
+# Day: #630
+Assault Division: Rupture Strain U3A deploys to *Bore Rock* (2025-10-29 12:02  UTC)<br/>
+Assault Division: Spore Burst Strain U6A leaves *Fori Prime* (2025-10-29 12:02  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 18 Terminids (2025-10-29 12:03  UTC)<br/>
+Assault Division: Rupture Strain U3A divides into 2 groups [U3A, U3B] (2025-10-29 12:03  UTC)<br/>
+Assault Division: Rupture Strain U3A deploys to *Terrek* (2025-10-29 12:03  UTC)<br/>
+Assault Division: Rupture Strain U3C deploys to *Fori Prime* (2025-10-29 12:03  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Lvl 18 Terminids (2025-10-29 12:05  UTC)<br/>
+Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3D] (2025-10-29 12:05  UTC)<br/>
+Assault Division: Rupture Strain U3D deploys to *Gacrux* (2025-10-29 12:05  UTC)<br/>
+Dispatch: RUPTURE STRAIN OBSERVED. Outbreaks of the Terminid Rupture Strain have erupted on TERREK and GACRUX. SEAF defenses are overrun; citizens are imperiled. The Strain has been dormant for some time, but High Command always predicted its eventual resurgence. It seems the burrowing Terminids hid themselves deep underneath the ground, waiting to strike. (2025-10-29 12:05  UTC)<br/>
