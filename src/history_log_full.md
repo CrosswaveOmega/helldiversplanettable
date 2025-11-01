@@ -1026,11 +1026,11 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
 ↳ *Estanu* liberation campaign starts (2024-05-01 14:40  UTC)<br/>
  Decay: 3.0 on Estanu
  (2024-05-01 16:00  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-05-01 18:47  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl 10 Terminids (2024-05-01 18:47  UTC)<br/>
  Decay: 3.5 on Turing
  (2024-05-01 18:47  UTC)<br/>
 *Meridia* of the Umlaut sector's warp links are obliterated (2024-05-01 19:40  UTC)<br/>
-*Penta* of the Lacaille sector is attacked by Automatons (2024-05-02 07:57  UTC)<br/>
+*Penta* of the Lacaille sector is attacked by Lvl 6 Automatons (2024-05-02 07:57  UTC)<br/>
 
 ### Day: #85
  Decay: 2.5 on Terminid worlds<br/> Decay: 3.0 on Turing
@@ -1054,7 +1054,7 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
 
 ### Day: #86
 *Turing* is liberated (2024-05-03 10:56  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-05-03 13:31  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 10 Terminids (2024-05-03 13:31  UTC)<br/>
 
 ### Day: #87
 *Fori Prime* defense is failed (2024-05-04 13:33  UTC)<br/>
@@ -1065,7 +1065,7 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
  Decay: 2.5 on Fori Prime
  (2024-05-04 14:00  UTC)<br/>
 *Erata Prime* is liberated (2024-05-05 07:06  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-05 08:11  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 7 Automatons (2024-05-05 08:11  UTC)<br/>
 Major Order | [A1-4-11](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-11) Deactivate the TCS is won | Objective: Liberate (2024-05-05 08:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Further calamity has been averted, thanks to the swift and disciplined response of the Helldivers to deactivate the remaining Terminid Control System nodes. With further Termicide dispersement arrested, the remaining Barrier Planets are safe from suffering *Meridia*'s fate. *Meridia* has been classified as a "Supercolony." While the worst has been avoided, with the TCS inoperable and this new Supercolony active, the Terminids are now a greater threat than ever before. (2024-05-05 08:36  UTC)<br/>
 
@@ -1087,7 +1087,7 @@ Dispatch: MAJOR ORDER WON. Further calamity has been averted, thanks to the swif
 *Acamar IV* of the Jin Xi sector instantly flips to Terminid control (2024-05-06 13:48  UTC)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-05-06 13:48  UTC)<br/>
 Major Order | [A1-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-1) Supercolony Spore Outbreak is issued | Objective: Liberate (2024-05-06 13:49  UTC)<br/>
-*Pandion-XXIV* of the Jin Xi sector is attacked by Terminids (2024-05-06 13:50  UTC)<br/>
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 9 Terminids (2024-05-06 13:50  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridia* Supercolony, have erupted on multiple planets. The Supercolony appears to be producing far more Terminid spores than other infested planets, leading to unpredictable outbreaks within its vicinity. The Helldivers must contain these outbreaks immediately, before they spread out of control. (2024-05-06 13:55  UTC)<br/>
  Decay: 3.0 on Heeth, Veld<br/> Decay: 2.5 on Angel's Venture<br/> Decay: 3.5 on Acamar IV
  (2024-05-06 16:00  UTC)<br/>
@@ -1105,8 +1105,8 @@ Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridi
  (2024-05-07 22:00  UTC)<br/>
 
 ### Day: #91
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-08 15:15  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-08 15:16  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 9 Terminids (2024-05-08 15:15  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 6 Automatons (2024-05-08 15:16  UTC)<br/>
  Decay: 1.5 on Veld, Angel's Venture, Acamar IV
  (2024-05-08 16:00  UTC)<br/>
 *Angel's Venture* is liberated (2024-05-08 23:22  UTC)<br/>
@@ -1121,7 +1121,7 @@ Dispatch: NEW MAJOR ORDER. Sudden, massive outbreaks, traced back to the *Meridi
 ↳ *Penta* liberation campaign ends (2024-05-09 15:18  UTC)<br/>
  Decay: 1.0 on Lesath
  (2024-05-09 16:00  UTC)<br/>
-*Phact Bay* of the Jin Xi sector is attacked by Terminids (2024-05-09 18:55  UTC)<br/>
+*Phact Bay* of the Jin Xi sector is attacked by Lvl 6 Terminids (2024-05-09 18:55  UTC)<br/>
  Decay: 1.0 on Veld<br/> Decay: 0.0 on Acamar IV<br/> Decay: 0.0 on Erata Prime
  (2024-05-09 20:00  UTC)<br/>
 *Veld* is liberated (2024-05-10 04:48  UTC)<br/>
@@ -1133,7 +1133,7 @@ Dispatch: MAJOR ORDER FAILED. We have failed to contain all of the outbreaks fro
 Major Order | [A1-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-2) Decommission Automatons for Anti-Tank Mines is issued | Objective: Eradicate (2024-05-10 14:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to conduct a forceful, large-scale decommissioning of Automaton forces. The recovered scrap of dismantled bots will then be put towards construction of MD-17 Anti-Tank Mines. (2024-05-10 14:44  UTC)<br/>
 Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield Systems, a contracted defense service: "Battlefield Systems regrets to inform all Helldivers that a software issue has resulted in duplicate reporting of enemies killed during a previous Major Order. The issue has since been resolved. Users should anticipate longer times to reach target numbers of enemies to kill or dismantle. With this issue resolved, rest assured that battlefield tracking will now return to perfect functioning." (2024-05-10 14:48  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-10 15:31  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 8 Automatons (2024-05-10 15:31  UTC)<br/>
 *Phact Bay* defense is failed (2024-05-10 19:00  UTC)<br/>
 ↳ *Phact Bay* liberation campaign starts (2024-05-10 19:00  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign ends (2024-05-10 19:00  UTC)<br/>
@@ -1143,8 +1143,8 @@ Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield System
 
 ### Day: #94
 *Fenrir III* is liberated (2024-05-11 14:44  UTC)<br/>
-*Wasat* of the Ymir sector is attacked by Automatons (2024-05-11 19:01  UTC)<br/>
-*Angel's Venture* of the Orion sector is attacked by Terminids (2024-05-11 19:02  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Lvl 7 Automatons (2024-05-11 19:01  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Lvl 8 Terminids (2024-05-11 19:02  UTC)<br/>
 *Acamar IV* is liberated (2024-05-11 20:34  UTC)<br/>
 *Pandion-XXIV* liberation campaign starts (2024-05-11 20:34  UTC)<br/>
  Decay: 0.0 on Angel's Venture
@@ -1165,11 +1165,11 @@ Dispatch: CONTRACTOR MESSAGE. The following is a message from Battlefield System
  (2024-05-13 04:00  UTC)<br/>
 
 ### Day: #96
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-13 11:47  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 8 Automatons (2024-05-13 11:47  UTC)<br/>
 *Vernen Wells* defense is won (2024-05-14 05:18  UTC)<br/>
 
 ### Day: #97
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-14 12:13  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 7 Automatons (2024-05-14 12:13  UTC)<br/>
 *Lesath* defense is won (2024-05-15 05:27  UTC)<br/>
 
 ### Day: #98
@@ -1178,10 +1178,10 @@ Dispatch: MAJOR ORDER FAILED. Despite the best efforts of the Helldivers to deco
 Declaration of The Second Galactic War is issued (2024-05-15 15:09  UTC)<br/>
 Major Order | [A1-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-3) SEAF Camps is issued | Objective: Control (2024-05-15 15:10  UTC)<br/>
 Dispatch: War has been declared. Mobilization across all sectors of the industry and economy has begun. Billions of able-bodied citizens from across the Federation have already volunteered for conscription. To train these new recruits, massive new facilities are being erected on a small number of lightly-populated planets. The Helldivers must hold the planets construction is completed. (2024-05-15 15:10  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-15 15:11  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 8 Automatons (2024-05-15 15:11  UTC)<br/>
 *Angel's Venture* of the Orion sector instantly flips to Terminid control (2024-05-15 15:12  UTC)<br/>
 ↳ *Angel's Venture* liberation campaign starts (2024-05-15 15:12  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2024-05-15 15:13  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 9 Terminids (2024-05-15 15:13  UTC)<br/>
  Decay: 2.5 on Angel's Venture
  (2024-05-15 16:00  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-05-16 07:55  UTC)<br/>
@@ -1191,13 +1191,13 @@ Dispatch: War has been declared. Mobilization across all sectors of the industry
 *Angel's Venture* is liberated (2024-05-16 10:18  UTC)<br/>
 ↳ Orion sector is fully under Human control (2024-05-16 10:18  UTC)<br/>
 *Vernen Wells* defense is won (2024-05-16 12:06  UTC)<br/>
-*Aesir Pass* of the Hydra sector is attacked by Automatons (2024-05-16 14:12  UTC)<br/>
+*Aesir Pass* of the Hydra sector is attacked by Lvl 14 Automatons (2024-05-16 14:12  UTC)<br/>
 *Erata Prime* defense is failed (2024-05-16 15:21  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-05-16 15:21  UTC)<br/>
 ↳ *Hellmire* liberation campaign ends (2024-05-16 15:21  UTC)<br/>
 *Fenrir III* is liberated (2024-05-16 16:18  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-05-16 16:18  UTC)<br/>
-*Heeth* of the Orion sector is attacked by Terminids (2024-05-16 18:35  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Lvl 20 Terminids (2024-05-16 18:35  UTC)<br/>
  Decay: 1.0 on Erata Prime
  (2024-05-16 20:00  UTC)<br/>
 
@@ -1207,8 +1207,8 @@ Dispatch: War has been declared. Mobilization across all sectors of the industry
 *Aesir Pass* defense is won (2024-05-17 20:57  UTC)<br/>
 
 ### Day: #101
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-05-18 10:44  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-05-18 12:00  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 8 Terminids (2024-05-18 10:44  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 9 Automatons (2024-05-18 12:00  UTC)<br/>
 Major Order | [A1-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-3) SEAF Camps is won | Objective: Control (2024-05-18 15:28  UTC)<br/>
 Major Order | [A1-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-4) Kill 3.14 Billion Enemies is issued | Objective: Eradicate (2024-05-18 15:29  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing their part for the war effort. The fervent faith of *Super Earth* citizens for the war effort deserves to be rewarded—viscerally. To that end, the Helldivers are ordered to demonstrate the unassailable might of a united citizenry by destroying greater numbers of our enemies than ever before. (2024-05-18 15:29  UTC)<br/>
@@ -1216,8 +1216,8 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
 *Erata Prime* is liberated (2024-05-19 04:08  UTC)<br/>
 
 ### Day: #102
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-19 11:20  UTC)<br/>
-*Angel's Venture* of the Orion sector is attacked by Terminids (2024-05-19 11:20  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 9 Terminids (2024-05-19 11:20  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Lvl 8 Terminids (2024-05-19 11:20  UTC)<br/>
 *Lesath* defense is failed (2024-05-19 12:04  UTC)<br/>
 ↳ Lacaille sector is fully under Automaton control (2024-05-19 12:04  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2024-05-19 12:04  UTC)<br/>
@@ -1228,9 +1228,9 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
 *Angel's Venture* defense is won (2024-05-19 21:59  UTC)<br/>
 ↳ Orion sector is fully under Human control (2024-05-19 21:59  UTC)<br/>
 *Fenrir III* defense is won (2024-05-20 05:58  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-05-20 06:44  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-20 06:44  UTC)<br/>
-*Varylia 5* of the Trigon sector is attacked by Automatons (2024-05-20 08:42  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 8 Automatons (2024-05-20 06:44  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 9 Terminids (2024-05-20 06:44  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Lvl 6 Automatons (2024-05-20 08:42  UTC)<br/>
 
 ### Day: #103
 *Fenrir III* defense is won (2024-05-20 17:00  UTC)<br/>
@@ -1246,7 +1246,7 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
 ### Day: #104
  Decay: 1.0 on Varylia 5
  (2024-05-21 09:00  UTC)<br/>
-*Turing* of the Umlaut sector is attacked by Terminids (2024-05-21 09:20  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 10 Terminids (2024-05-21 09:20  UTC)<br/>
 *Turing* defense is won (2024-05-21 23:30  UTC)<br/>
 
 ### Day: #105
@@ -1257,8 +1257,8 @@ Dispatch: NEW MAJOR ORDER. Across the Federation, patriotic citizens are doing t
  (2024-05-23 08:00  UTC)<br/>
 
 ### Day: #106
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2024-05-23 11:16  UTC)<br/>
-*Wezen* of the Ymir sector is attacked by Automatons (2024-05-23 11:16  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 8 Terminids (2024-05-23 11:16  UTC)<br/>
+*Wezen* of the Ymir sector is attacked by Lvl 8 Automatons (2024-05-23 11:16  UTC)<br/>
 Major Order | [A1-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-4) Kill 3.14 Billion Enemies is failed | Objective: Eradicate (2024-05-23 15:42  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Huge quantities of Terminids and Automatons have been righteously terminated by the valiant Helldivers, but not in high enough quantities to further inspire the already unquestionably patriotic citizens of *Super Earth*. They will continue to support the war effort with unquestionable unity and grim determination, yearning for a more hopeful future. (2024-05-23 15:48  UTC)<br/>
 Major Order | [A1-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-5) Liberate *Varylia 5* is issued | Objective: Liberate (2024-05-23 15:51  UTC)<br/>
@@ -1275,7 +1275,7 @@ Dispatch: BATTLEFRONT UPDATE. Fresh intel warns of an increased level of Automat
  Decay: 1.0 on Wezen
  (2024-05-24 12:00  UTC)<br/>
 Dispatch: INTEL BRIEF. Spore activity on the *Meridia* Supercolony has sharply increased. Sudden Terminid outbreaks on previously-safe planets may increase in frequency as a result. (2024-05-24 19:27  UTC)<br/>
-*Angel's Venture* of the Orion sector is attacked by Terminids (2024-05-24 19:29  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Lvl 11 Terminids (2024-05-24 19:29  UTC)<br/>
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-05-24 19:32  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-05-24 19:32  UTC)<br/>
 Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Angel's Venture*. If they succeed, the valuable, newly-constructed SEAF Training Facility on the planet will be destroyed, which will significantly decrease the capability of the SEAF to aid in galactic defense. *Super Earth* High Command recommends prioritizing the defense of *Angel's Venture*. (2024-05-24 19:35  UTC)<br/>
@@ -1284,7 +1284,7 @@ Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Angel's Venture*. If 
 *Angel's Venture* defense is won (2024-05-25 16:58  UTC)<br/>
 ↳ Orion sector is fully under Human control (2024-05-25 16:58  UTC)<br/>
 Dispatch: ANGEL'S VENTURE DEFENDED. Thanks to the selfless valor of the Helldivers, the citizens of *Angel's Venture* are safe from the Terminid Menace. (2024-05-25 17:33  UTC)<br/>
-*Fenrir III* of the Umlaut sector is attacked by Terminids (2024-05-25 18:23  UTC)<br/>
+*Fenrir III* of the Umlaut sector is attacked by Lvl 11 Terminids (2024-05-25 18:23  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. Automaton resistance has faltered, no doubt due to the stalwart and unrelenting pressure applied by the valiant Helldivers. Maintain the offensive; liberate the Petafactory on *Varylia 5*. (2024-05-25 19:26  UTC)<br/>
  Decay: 3.5 on Varylia 5
  (2024-05-25 20:00  UTC)<br/>
@@ -1294,7 +1294,7 @@ Dispatch: STRATEGIC UPDATE. Automaton resistance has faltered, no doubt due to t
 ↳ Major Order | [A1-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-5) Liberate *Varylia 5* is won | Objective: Liberate (2024-05-26 14:30  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Petafactory on *Varylia 5* has been liberated by the Helldivers, thwarting their expansion and allowing production to begin on the EXO-49 EMANCIPATOR EXOSUIT. Consult the Galactic Map on your Super Destroyer for a full briefing. (2024-05-26 14:32  UTC)<br/>
 Dispatch: INTEL BRIEF. Spore production on the *Meridia* Supercolony has doubled overnight, indicating continued evolution of the Terminid threat. Increased Terminid outbreaks on nearby planets is highly likely. Helldivers are advised to exercise extreme vigilance in stamping out these outbreaks, lest they spread out of control. (2024-05-26 15:00  UTC)<br/>
-*Heeth* of the Orion sector is attacked by Terminids (2024-05-26 15:03  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Lvl 12 Terminids (2024-05-26 15:03  UTC)<br/>
 Dispatch: STRATEGIC GUIDANCE. The Terminids are attacking *Heeth*, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted. Therefore, *Super Earth* High Command recommends prioritizing the defense of *Heeth*. (2024-05-26 15:04  UTC)<br/>
 *Fenrir III* defense is failed (2024-05-26 18:26  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-05-26 18:26  UTC)<br/>
@@ -1309,7 +1309,7 @@ Dispatch: STRATEGIC UPDATE. Enemy aggression on both fronts remains unrelenting.
  (2024-05-27 14:00  UTC)<br/>
 Major Order | [A1-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-6) Operation Enduring Peace Phase One is issued | Objective: Control (2024-05-27 15:14  UTC)<br/>
 Dispatch: OPERATION ""ENDURING PEACE""—PHASE I. The time has come to address the Terminid Supercolony on *Meridia*. Using an experimental substance weaponized by our top scientific minds, the Helldivers will conduct a targeted strike to permanently end the threat posed by the Supercolony. The first phase of this operation is to secure a route to *Meridia*, and hold the staging ground until sufficient quantities of Dark Fluid can be weaponized and deployed. This is the priority: all other territorial losses are acceptable to ensure the success of this operation. Consult the Galactic Map on your ship for more details. (2024-05-27 15:14  UTC)<br/>
-*Acamar IV* of the Jin Xi sector is attacked by Terminids (2024-05-27 15:57  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 12 Terminids (2024-05-27 15:57  UTC)<br/>
  Decay: 3.0 on Terminid worlds
  (2024-05-27 15:57  UTC)<br/>
 *Fenrir III* is liberated (2024-05-27 17:16  UTC)<br/>
@@ -12635,3 +12635,66 @@ Assault Division: Rupture Strain U3C deploys to *Fori Prime* (2025-10-29 12:03  
 Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3D] (2025-10-29 12:05  UTC)<br/>
 Assault Division: Rupture Strain U3D deploys to *Gacrux* (2025-10-29 12:05  UTC)<br/>
 Dispatch: RUPTURE STRAIN OBSERVED. Outbreaks of the Terminid Rupture Strain have erupted on TERREK and GACRUX. SEAF defenses are overrun; citizens are imperiled. The Strain has been dormant for some time, but High Command always predicted its eventual resurgence. It seems the burrowing Terminids hid themselves deep underneath the ground, waiting to strike. (2025-10-29 12:05  UTC)<br/>
+ Decay: 0.0 on Terrek, Gacrux
+ (2025-10-29 14:00  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2025-10-30 08:08  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-10-30 08:08  UTC)<br/>
+Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3E] (2025-10-30 08:08  UTC)<br/>
+Assault Division: Rupture Strain U3E deploys to *Crimsica* (2025-10-30 08:08  UTC)<br/>
+Dispatch: RUPTURE STRAIN OUTBREAK. The Terminid Rupture strain has erupted on CRIMSICA. (2025-10-30 08:10  UTC)<br/>
+
+### Day: #631
+ Decay: 0.0 on Crimsica
+ (2025-10-30 09:00  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2025-10-30 09:00  UTC)<br/>
+*Terrek* defense is failed (2025-10-30 12:04  UTC)<br/>
+↳ *Terrek* liberation campaign starts (2025-10-30 12:04  UTC)<br/>
+*Gacrux* defense is failed (2025-10-30 12:05  UTC)<br/>
+↳ *Gacrux* liberation campaign starts (2025-10-30 12:05  UTC)<br/>
+↳ *Partion* liberation campaign ends (2025-10-30 12:05  UTC)<br/>
+ Decay: 0.5 on Terrek<br/> Decay: 1.0 on Gacrux
+ (2025-10-30 14:00  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2025-10-30 18:00  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-10-30 21:34  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-10-30 23:50  UTC)<br/>
+
+### Day: #632
+DSS effect Heavy Ordnance Distribution is activated (2025-10-31 13:14  UTC)<br/>
+*Estanu* is no longer enveloped by the Gloom (2025-10-31 13:22  UTC)<br/>
+*Erata Prime* is no longer enveloped by the Gloom (2025-10-31 13:22  UTC)<br/>
+*Erata Prime* is lightly enveloped by the Gloom (2025-10-31 13:23  UTC)<br/>
+*Solghast* Region 0 Luxe Point Settlement is now present (2025-10-31 15:38  UTC)<br/>
+*Solghast* Region 1 Shady Oaks Town is now present (2025-10-31 15:38  UTC)<br/>
+*Solghast* Region 2 Dostoinstvo City is now present (2025-10-31 15:38  UTC)<br/>
+*Diluvia* Region 0 Gracious Liberty Town is now present (2025-10-31 15:38  UTC)<br/>
+*Diluvia* Region 1 Luscious Liberty City is now present (2025-10-31 15:38  UTC)<br/>
+*Diluvia* Region 2 Councillor Rora City is now present (2025-10-31 15:38  UTC)<br/>
+*Alaraph* Region 0 Permacuris City is now present (2025-10-31 15:38  UTC)<br/>
+*Alaraph* Region 1 Hangar 6 City is now present (2025-10-31 15:38  UTC)<br/>
+*Alathfar XI* Region 0 UNNAMED City is now present (2025-10-31 15:38  UTC)<br/>
+*Alathfar XI* Region 1 Worksong Town is now present (2025-10-31 15:38  UTC)<br/>
+*Alathfar XI* Region 2 Severity Megacity is now present (2025-10-31 15:38  UTC)<br/>
+*Asperoth Prime* Region 0  Aspen Hills City is now present (2025-10-31 15:38  UTC)<br/>
+*Asperoth Prime* Region 1 Megacorpus City is now present (2025-10-31 15:38  UTC)<br/>
+*Baldrick Prime* - *Obari* warp link is removed (2025-10-31 15:38  UTC)<br/>
+*Alathfar XI*'s max health is changed to 2.2m (2025-10-31 15:38  UTC)<br/>
+ Decay: 3.5 on Oshaune
+ (2025-10-31 15:38  UTC)<br/>
+*Shete* Region 0 Holl City is now present (2025-10-31 15:50  UTC)<br/>
+*Solghast*'s max health is changed to 1.7m (2025-10-31 15:50  UTC)<br/>
+*Diluvia*'s max health is changed to 2m (2025-10-31 15:50  UTC)<br/>
+*Alaraph*'s max health is changed to 1.8m (2025-10-31 15:50  UTC)<br/>
+*Asperoth Prime*'s max health is changed to 1.8m (2025-10-31 15:50  UTC)<br/>
+*Shete*'s max health is changed to 1.4m (2025-10-31 15:50  UTC)<br/>
+Assault Division: Hive Lords U2A deploys to *Oshaune* (2025-10-31 16:00  UTC)<br/>
+Dispatch: HIVE LORD RAMPAGE. Tectonic disturbances caused by an increase in 380mm HE Barrages, supported by the DSS Heavy Ordnance Distrubtion, have led to a sharp increase in Hive Lord activity on *Oshaune*. Helldivers are advised to utilize additional 380mm HE Barrages to counter this threat. (2025-10-31 16:01  UTC)<br/>
+ Decay: 4.5 on Oshaune
+ (2025-10-31 18:00  UTC)<br/>
+Minor Order | [A2-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-1) Kill 50000 Hive Lords is issued | Objective: Eradicate (2025-11-01 01:19  UTC)<br/>
+Dispatch: NEW STRATEGIC THREAT. Enemy resistance on *Oshaune* has spiked, precipitated by an unexpectedly high amount of Hive Lords. SEAF forces have been devastated. The Helldivers are ordered to kill 50,000 Hive Lords to bring enemy resistance back down. (2025-11-01 01:20  UTC)<br/>
+Dispatch: EXO-49 EMANCIPATOR EXOSUIT TEMPORARILY AVAILABLE. High Command has authorized the EXO-49 Emancipator Exosuit Stratagem for all *Oshaune* deployments for the next 24 hours. The limited window of availability is all that can be afforded, due to our previous failure to liberate VARYLIA 5. (2025-11-01 02:17  UTC)<br/>
+ Decay: 6.5 on Oshaune
+ (2025-11-01 02:17  UTC)<br/>
+Dispatch: DSS GLOOM SHIELDING DEGRADING. The spore-resistance polymer shielding the DSS from the Gloom is beginning to show early signs of degradation. DSS operation remains unaffected for now, but Gloom spores will eventually eat through the polymer and damage the station, should the DSS remains within the Gloom for an extended period of time. (2025-11-01 05:13  UTC)<br/>
