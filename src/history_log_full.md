@@ -38,8 +38,8 @@ Major Order | [A1-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-1) Oper
 ↳ Major Order | [A1-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-1) Operation Valiant Enclosure is won | Objective: Liberate (2024-02-14 14:07  UTC)<br/>
 
 ### Day: #8
-*Mantes* of the Xzar sector is attacked by Automatons (2024-02-15 12:00  UTC)<br/>
-*Draupnir* of the Xzar sector is attacked by Automatons (2024-02-15 12:08  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-15 12:00  UTC)<br/>
+*Draupnir* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-15 12:08  UTC)<br/>
 Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defend 8 from Automatons is issued | Objective: Defend (2024-02-15 12:17  UTC)<br/>
 
 ### Day: #9
@@ -53,13 +53,13 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 *Mantes* defense is failed (2024-02-17 13:42  UTC)<br/>
 ↳ *Mantes* liberation campaign starts (2024-02-17 13:42  UTC)<br/>
 ↳ *Malevelon Creek* is still accessible despite being cut off (2024-02-17 13:42  UTC)<br/>
-*Ubanea* of the Severin sector is attacked by Automatons (2024-02-17 13:52  UTC)<br/>
+*Ubanea* of the Severin sector is attacked by Lvl N/A Automatons (2024-02-17 13:52  UTC)<br/>
 *Troost* - *Vandalon IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Vandalon IV* - *Ustotu* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Ustotu* - *Varylia 5* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Ustotu* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
 *Varylia 5* - *Choepessa IV* warp link is added (2024-02-17 23:16  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2024-02-17 23:16  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl N/A Automatons (2024-02-17 23:16  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2024-02-18 00:00  UTC)<br/>
 *Meridia* is liberated (2024-02-18 01:25  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2024-02-18 01:25  UTC)<br/>
@@ -70,15 +70,15 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 ↳ Xzar sector is fully under Human control (2024-02-18 07:39  UTC)<br/>
 
 ### Day: #11
-*Mantes* of the Xzar sector is attacked by Automatons (2024-02-18 17:33  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-18 17:33  UTC)<br/>
 *Vandalon IV* defense is won (2024-02-18 17:33  UTC)<br/>
 ↳ Trigon sector is fully under Human control (2024-02-18 17:33  UTC)<br/>
 *Fenrir III* is liberated (2024-02-19 07:50  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-02-19 07:50  UTC)<br/>
 
 ### Day: #12
-*Ubanea* of the Severin sector is attacked by Automatons (2024-02-19 10:26  UTC)<br/>
-*Draupnir* of the Xzar sector is attacked by Automatons (2024-02-19 10:26  UTC)<br/>
+*Ubanea* of the Severin sector is attacked by Lvl N/A Automatons (2024-02-19 10:26  UTC)<br/>
+*Draupnir* of the Xzar sector is attacked by LVl N/A Automatons (2024-02-19 10:26  UTC)<br/>
 *Mantes* defense is won (2024-02-19 16:19  UTC)<br/>
 
 ### Day: #13
@@ -86,8 +86,8 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 ↳ *Draupnir* liberation campaign starts (2024-02-20 23:09  UTC)<br/>
 
 ### Day: #14
-*Mantes* of the Xzar sector is attacked by Automatons (2024-02-21 10:13  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2024-02-21 10:19  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-21 10:13  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl N/A Automatons (2024-02-21 10:19  UTC)<br/>
 *Ubanea* defense is failed (2024-02-21 10:29  UTC)<br/>
 ↳ Severin sector is fully under Automaton control (2024-02-21 10:29  UTC)<br/>
 ↳ *Tibit* liberation campaign ends (2024-02-21 10:29  UTC)<br/>
@@ -98,15 +98,15 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 ↳ *Vandalon IV* liberation campaign starts (2024-02-22 22:23  UTC)<br/>
 *Mantes* defense is won (2024-02-23 03:20  UTC)<br/>
 *Turing* is liberated (2024-02-23 03:21  UTC)<br/>
-*Troost* of the Trigon sector is attacked by Automatons (2024-02-23 06:58  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-02-23 06:58  UTC)<br/>
+*Troost* of the Trigon sector is attacked by Lvl N/A Automatons (2024-02-23 06:58  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-23 06:58  UTC)<br/>
 
 ### Day: #16
 
 ### Day: #17
 *Ingmar* defense is won (2024-02-24 15:19  UTC)<br/>
-*Mantes* of the Xzar sector is attacked by Automatons (2024-02-24 22:09  UTC)<br/>
-*Pöpli IX* of the Xzar sector is attacked by Automatons (2024-02-24 22:09  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-24 22:09  UTC)<br/>
+*Pöpli IX* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-24 22:09  UTC)<br/>
 *Troost* defense is failed (2024-02-25 06:48  UTC)<br/>
 
 ### Day: #18
@@ -116,10 +116,10 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 ↳ *Mantes* liberation campaign starts (2024-02-25 22:09  UTC)<br/>
 *Pöpli IX* defense is failed (2024-02-25 22:09  UTC)<br/>
 ↳ *Pöpli IX* liberation campaign starts (2024-02-25 22:09  UTC)<br/>
-*Mort* of the Xzar sector is attacked by Automatons (2024-02-26 00:02  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Lvl 8 Automatons (2024-02-26 00:02  UTC)<br/>
 
 ### Day: #19
-*Draupnir* of the Xzar sector is attacked by Automatons (2024-02-26 21:27  UTC)<br/>
+*Draupnir* of the Xzar sector is attacked by Lvl 7.7 Automatons (2024-02-26 21:27  UTC)<br/>
 
 # Day: #20
 *Draupnir* defense is failed (2024-02-27 21:34  UTC)<br/>
@@ -127,9 +127,9 @@ Major Order | [A1-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-2-2) Defe
 ↳ *Malevelon Creek* is still accessible despite being cut off (2024-02-27 21:34  UTC)<br/>
 ↳ *Ubanea* liberation campaign ends (2024-02-27 21:53  UTC)<br/>
 ↳ *Malevelon Creek* liberation campaign ends (2024-02-27 21:53  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-02-27 21:56  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl N/A Automatons (2024-02-27 21:56  UTC)<br/>
 *Ingmar* defense is won (2024-02-27 22:00  UTC)<br/>
-*Ingmar* of the Xzar sector is attacked by Automatons (2024-02-27 22:00  UTC)<br/>
+*Ingmar* of the Xzar sector is attacked by Lvl 40 Automatons (2024-02-27 22:00  UTC)<br/>
 *Mort* defense is won (2024-02-27 23:55  UTC)<br/>
 *Mantes* is liberated (2024-02-28 06:41  UTC)<br/>
 ↳ *Draupnir* liberation campaign starts (2024-02-28 06:41  UTC)<br/>
@@ -181,7 +181,7 @@ Major Order | [A1-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-1) Cont
 ↳ *Meridia* liberation campaign starts (2024-03-02 21:59  UTC)<br/>
 ↳ *Estanu* liberation campaign ends (2024-03-02 21:59  UTC)<br/>
 ↳ *Crimsica* liberation campaign ends (2024-03-02 21:59  UTC)<br/>
-*Mantes* of the Xzar sector is attacked by Automatons (2024-03-02 22:03  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl 16 Automatons (2024-03-02 22:03  UTC)<br/>
 *Ingmar* is liberated (2024-03-03 00:30  UTC)<br/>
 *Fenrir III* is liberated (2024-03-03 06:25  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-03-03 06:25  UTC)<br/>
@@ -212,7 +212,7 @@ Major Order | [A1-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-1) Cont
 *Mantes* is liberated (2024-03-04 21:47  UTC)<br/>
 ↳ *Malevelon Creek* liberation campaign starts (2024-03-04 21:47  UTC)<br/>
 ↳ *Draupnir* liberation campaign starts (2024-03-04 21:47  UTC)<br/>
-*Angel's Venture* of the Orion sector is attacked by Terminids (2024-03-04 23:34  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Lvl N/A Terminids (2024-03-04 23:34  UTC)<br/>
 *Angel's Venture* defense is won (2024-03-05 04:01  UTC)<br/>
 ↳ Orion sector is fully under Human control (2024-03-05 04:01  UTC)<br/>
 
@@ -222,7 +222,7 @@ War monitoring satellites are launched, allowing helldiver counts and planet lib
  (2024-03-05 19:00  UTC)<br/>
 *Veld* of the Orion sector instantly flips to Terminid control (2024-03-05 20:17  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2024-03-05 20:17  UTC)<br/>
-*Ustotu* of the Trigon sector is attacked by Automatons (2024-03-05 20:21  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Lvl 24 Automatons (2024-03-05 20:21  UTC)<br/>
  Decay: 5.0 on Veld
  (2024-03-05 22:00  UTC)<br/>
  Decay: 1.25 on Automaton worlds
@@ -274,7 +274,7 @@ Dispatch: NEW MAJOR ORDER. *Tien Kwan* is home to the sole arsenal of new Exosui
  (2024-03-07 16:00  UTC)<br/>
  Decay: 5.0 on Automaton worlds
  (2024-03-07 18:00  UTC)<br/>
-*Angel's Venture* of the Orion sector is attacked by Terminids (2024-03-07 19:35  UTC)<br/>
+*Angel's Venture* of the Orion sector is attacked by Lvl N/A Terminids (2024-03-07 19:35  UTC)<br/>
  Decay: 5.0 on Terminid worlds<br/> Decay: 7.5 on Automaton worlds
  (2024-03-07 19:35  UTC)<br/>
 Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-07 21:12  UTC)<br/>
@@ -345,7 +345,7 @@ Dispatch: *Fenrir III* SECURED. The Terminid Control System is now fully activat
 *Turing* is liberated (2024-03-14 19:31  UTC)<br/>
 Dispatch: TURING SECURED. The Terminid Control System is now fully activated on *Turing*. (2024-03-14 19:46  UTC)<br/>
 Dispatch: The TCS has been fully activated on half of the Barrier Planets. (2024-03-14 19:47  UTC)<br/>
-*Heeth* of the Orion sector is attacked by Terminids (2024-03-14 21:13  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Lvl 18 Terminids (2024-03-14 21:13  UTC)<br/>
  Decay: 3.0 on Terminid worlds<br/> Decay: 500.0 on Turing
  (2024-03-14 21:13  UTC)<br/>
 
@@ -378,7 +378,7 @@ Dispatch: The Terminid Control System is fully activated. The Termicide is worki
  (2024-03-17 22:00  UTC)<br/>
 
 # Day: #40
-*Estanu* of the Draco sector is attacked by Terminids (2024-03-18 12:11  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl N/A Terminids (2024-03-18 12:11  UTC)<br/>
 *Draupnir* is liberated (2024-03-18 16:11  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2024-03-18 16:11  UTC)<br/>
 ↳ *Ubanea* liberation campaign starts (2024-03-18 16:11  UTC)<br/>
@@ -422,7 +422,7 @@ Major Order | [A1-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-4) Libe
 Dispatch: MAJOR ORDER FAILED. Though many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered. The expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice. (2024-03-22 12:21  UTC)<br/>
 Major Order | [A1-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-5) CBCT Protection is issued | Objective: Control (2024-03-22 13:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Civilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete. (2024-03-22 13:01  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-03-22 14:35  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl N/A Terminids (2024-03-22 14:35  UTC)<br/>
 
 ### Day: #45
 *Estanu* defense is won (2024-03-23 10:06  UTC)<br/>
@@ -441,14 +441,14 @@ Dispatch: TERMINID SURGE. Ministry of Science reports an unanticipated spike in 
  (2024-03-24 04:00  UTC)<br/>
 
 ### Day: #46
-*Mantes* of the Xzar sector is attacked by Automatons (2024-03-24 12:45  UTC)<br/>
+*Mantes* of the Xzar sector is attacked by Lvl 8 Automatons (2024-03-24 12:45  UTC)<br/>
 *Hellmire* is liberated (2024-03-24 12:57  UTC)<br/>
 ↳ *Nivel 43* liberation campaign starts (2024-03-24 12:57  UTC)<br/>
  Decay: 500.0 on Hellmire
  (2024-03-24 14:00  UTC)<br/>
 *Oshaune* is liberated (2024-03-24 19:58  UTC)<br/>
 ↳ *Omicron* liberation campaign starts (2024-03-24 19:58  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-03-24 21:47  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl 16 Terminids (2024-03-24 21:47  UTC)<br/>
  Decay: 500.0 on Oshaune
  (2024-03-24 21:47  UTC)<br/>
 *Hellmire* of the Mirin sector instantly flips to Terminid control (2024-03-24 21:59  UTC)<br/>
@@ -482,7 +482,7 @@ Dispatch: MAJOR ORDER SUCCEEDED. The last of the crude solid E-710 has been coll
 Dispatch: NEW MAJOR ORDER. Interrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called "The Reclamation," which appears to be a massive invasion of unprecedented scale. Further details are scarce. In response, High Command has authorized OPERATION SWIFT DISASSEMBLY. The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success. (2024-03-26 14:48  UTC)<br/>
 Major Order | [A1-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-6) Operation Swift Disassembly Phase One is issued | Objective: Liberate (2024-03-26 14:48  UTC)<br/>
 Dispatch: OPERATION SWIFT DISASSEMBLY. PHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans. (2024-03-26 14:48  UTC)<br/>
-*Hellmire* of the Mirin sector is attacked by Terminids (2024-03-26 21:02  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 8 Terminids (2024-03-26 21:02  UTC)<br/>
 *Mantes* is liberated (2024-03-26 21:12  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2024-03-26 21:12  UTC)<br/>
  Decay: 500.0 on Mantes
@@ -502,7 +502,7 @@ Dispatch: OPERATION SWIFT DISASSEMBLY. PHASE I: Disrupt Communications. We have 
 ↳ *Nivel 43* liberation campaign ends (2024-03-27 21:04  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2024-03-27 22:00  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-03-28 08:13  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl N/A Terminids (2024-03-28 08:13  UTC)<br/>
 
 # Day: #50
 Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the Automatons, the Ministry of Defense has fast-tracked new support weapons for immediate distribution. The LAS-99 Quasar Cannon and MG-101 Heavy Machine Gun are now available for requisition. (2024-03-28 12:33  UTC)<br/>
@@ -524,12 +524,12 @@ Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the A
 Dispatch: OP SWIFT DISASSEMBLY, PHASE I—COMPLETED. The Automaton Comms Array on *Troost* has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted. However, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry. (2024-03-29 12:47  UTC)<br/>
  Decay: 500.0 on Troost
  (2024-03-29 12:47  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-03-29 12:51  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl N/A Terminids (2024-03-29 12:51  UTC)<br/>
 Major Order | [A1-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-7) Operation Swift Disassembly Phase Two is issued | Objective: Liberate (2024-03-29 12:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE II: Reduce Non-Sentient Combatant Production. Intel analysis have identified the planet *Tibit* as the most significant producer of illegal Automaton combatants. Liberating this planet would significantly impact the enemy's capacity to replenish decommissioned socialists. It would also limit further theft of the planet's natural resources from future generations of inarguably sentient humans. (2024-03-29 12:53  UTC)<br/>
 *Omicron* liberation campaign ends (2024-03-29 13:47  UTC)<br/>
 Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated. (2024-03-29 19:01  UTC)<br/>
-*Draupnir* of the Xzar sector is attacked by Automatons (2024-03-29 19:05  UTC)<br/>
+*Draupnir* of the Xzar sector is attacked by Lvl 8 Automatons (2024-03-29 19:05  UTC)<br/>
  Decay: 1.0 on Durgen, Maia, Tibit<br/> Decay: 0.5 on Malevelon Creek, Ubanea
  (2024-03-29 20:00  UTC)<br/>
  Decay: 0.5 on Durgen, Tibit
@@ -548,7 +548,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
  Decay: 0.5 on Draupnir
  (2024-03-30 19:25  UTC)<br/>
 *Oshaune* liberation campaign ends (2024-03-30 19:28  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-03-30 20:55  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl N/A Terminids (2024-03-30 20:55  UTC)<br/>
  Decay: 0.5 on Maia
  (2024-03-30 22:00  UTC)<br/>
 
@@ -578,14 +578,14 @@ Dispatch: NEW MAJOR ORDER. Several weeks ago, our citizens watched in horror as 
 Dispatch: MALEVELON CREEK LIBERATED. At long last, *Malevelon Creek* is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them. Colonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek. (2024-04-01 17:32  UTC)<br/>
  Decay: 500.0 on Malevelon Creek
  (2024-04-01 17:32  UTC)<br/>
-*Ubanea* of the Severin sector is attacked by Automatons (2024-04-01 17:33  UTC)<br/>
+*Ubanea* of the Severin sector is attacked by Lvl 8 Automatons (2024-04-01 17:33  UTC)<br/>
 Major Order | [A1-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-2) Operation Swift Disassembly Phase Three is issued | Objective: Control (2024-04-01 17:44  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2024-04-01 17:45  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 8 Terminids (2024-04-01 17:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Automatons, clearly having calculated their impending shutdown, have put their remaining resources into a large-scale counterattack. Desperate as it is, should this re-invasion succeed, it may jeopardize our ability to destroy the bots in time to prevent their incoming invasion. Hold your ground. (2024-04-01 17:47  UTC)<br/>
 *Ubanea* defense is won (2024-04-02 05:09  UTC)<br/>
 *Maia* - *Vandalon IV* warp link is added (2024-04-02 05:44  UTC)<br/>
-*Malevelon Creek* of the Severin sector is attacked by Automatons (2024-04-02 07:53  UTC)<br/>
-*Ubanea* of the Severin sector is attacked by Automatons (2024-04-02 07:53  UTC)<br/>
+*Malevelon Creek* of the Severin sector is attacked by Lvl 4 Automatons (2024-04-02 07:53  UTC)<br/>
+*Ubanea* of the Severin sector is attacked by Lvl 7 Automatons (2024-04-02 07:53  UTC)<br/>
 
 ### Day: #55
 *Malevelon Creek* defense is won (2024-04-02 17:01  UTC)<br/>
@@ -594,15 +594,15 @@ Dispatch: NEW MAJOR ORDER. OP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Aut
  Decay: 1.0 on Crimsica
  (2024-04-02 20:00  UTC)<br/>
 *Ubanea* defense is won (2024-04-02 23:05  UTC)<br/>
-*Vandalon IV* of the Trigon sector is attacked by Automatons (2024-04-03 07:41  UTC)<br/>
+*Vandalon IV* of the Trigon sector is attacked by Lvl 8 Automatons (2024-04-03 07:41  UTC)<br/>
 
 ### Day: #56
 Dispatch: PRESIDENTIAL DECREE. The President of *Super Earth* has officially recognized this day as *Malevelon Creek* Memorial Day. Every year on this day, *Super Earth* citizens will unite for a full 3 minutes of their lunch break in solemn remembrance of those who gave their lives to free *Malevelon Creek*. In addition, all Helldivers have been issued a special commemorative cape, so they may carry the memory of their fallen companions into battle. (2024-04-03 09:45  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-03 12:33  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 8 Terminids (2024-04-03 12:33  UTC)<br/>
 *Estanu* defense is won (2024-04-04 06:16  UTC)<br/>
 *Vandalon IV* defense is won (2024-04-04 07:02  UTC)<br/>
 ↳ Trigon sector is fully under Human control (2024-04-04 07:02  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-04 07:52  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 9 Terminids (2024-04-04 07:52  UTC)<br/>
 
 ### Day: #57
 Major Order | [A1-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-2) Operation Swift Disassembly Phase Three is won | Objective: Control (2024-04-04 09:15  UTC)<br/>
@@ -678,15 +678,15 @@ Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids containe
 Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
 *Chort Bay* - *Merak* warp link is removed (2024-04-09 11:42  UTC)<br/>
 *Chort Bay* - *Menkent* warp link is added (2024-04-09 11:42  UTC)<br/>
-*Choohe* of the Lacaille sector is attacked by Automatons (2024-04-09 11:42  UTC)<br/>
+*Choohe* of the Lacaille sector is attacked by Lvl N/A Automatons (2024-04-09 11:42  UTC)<br/>
 *Choohe* defense is won (2024-04-09 11:43  UTC)<br/>
 *Choohe* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
 ↳ *Choohe* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
 *Penta* of the Lacaille sector instantly flips to Automaton control (2024-04-09 11:43  UTC)<br/>
 ↳ *Penta* liberation campaign starts (2024-04-09 11:43  UTC)<br/>
-*Chort Bay* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
-*Menkent* of the Hydra sector is attacked by Automatons (2024-04-09 11:43  UTC)<br/>
+*Chort Bay* of the Lacaille sector is attacked by Lvl 13 Automatons (2024-04-09 11:43  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 12 Automatons (2024-04-09 11:43  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Lvl 12 Automatons (2024-04-09 11:43  UTC)<br/>
 Major Order | [A1-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-4) Liberate *Hellmire*, *Estanu* and *Crimsica* is won | Objective: Liberate (2024-04-09 12:02  UTC)<br/>
 Dispatch: MAJOR ORDER WON. With the planet cleared, laborers have broken ground on the first of many Terminid Enrichment & Extraction Centers. New security measures, E-710 extraction procedures, and accelerated growth additives will be tested and perfected, laying the groundwork for development across the rest of the Terminid Quarantine Zone. Thanks to the Helldivers, the future of humanity is bright. Procreation applications will now be considered for approval, following the typical 180-day review process. (2024-04-09 12:02  UTC)<br/>
 Major Order | [A1-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-5) The Reclamation is issued | Objective: Defend (2024-04-09 12:02  UTC)<br/>
@@ -711,9 +711,9 @@ Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTAC
 ↳ Lacaille sector is fully under Automaton control (2024-04-10 11:45  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2024-04-10 11:45  UTC)<br/>
 ↳ *Penta* liberation campaign ends (2024-04-10 11:45  UTC)<br/>
-*Matar Bay* of the Andromeda sector is attacked by Automatons (2024-04-10 11:49  UTC)<br/>
-*Menkent* of the Hydra sector is attacked by Automatons (2024-04-10 11:50  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-10 11:50  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Lvl 13 Automatons (2024-04-10 11:49  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Lvl 11 Automatons (2024-04-10 11:50  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 9.6 Automatons (2024-04-10 11:50  UTC)<br/>
  Decay: 1.5 on Chort Bay, Lesath
  (2024-04-10 14:00  UTC)<br/>
 *Vernen Wells* defense is won (2024-04-11 06:11  UTC)<br/>
@@ -723,18 +723,18 @@ Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1. FEDERATION UNDER ATTAC
 ↳ *Menkent* liberation campaign starts (2024-04-11 11:50  UTC)<br/>
 ↳ *Choohe* liberation campaign ends (2024-04-11 11:50  UTC)<br/>
 ↳ *Chort Bay* liberation campaign ends (2024-04-11 11:50  UTC)<br/>
-*Martale* of the Andromeda sector is attacked by Automatons (2024-04-11 11:52  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-04-11 11:52  UTC)<br/>
+*Martale* of the Andromeda sector is attacked by Lvl 9 Automatons (2024-04-11 11:52  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 9 Automatons (2024-04-11 11:52  UTC)<br/>
 *Matar Bay* defense is failed (2024-04-11 11:53  UTC)<br/>
 ↳ *Matar Bay* liberation campaign starts (2024-04-11 11:53  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-11 11:53  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 9 Automatons (2024-04-11 11:53  UTC)<br/>
  Decay: 1.5 on Matar Bay, Menkent
  (2024-04-11 14:00  UTC)<br/>
 
 ### Day: #65
 *Vernen Wells* defense is won (2024-04-12 10:22  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2024-04-12 10:33  UTC)<br/>
-*Hellmire* of the Mirin sector is attacked by Terminids (2024-04-12 10:35  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 6 Terminids (2024-04-12 10:33  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Lvl 6 Terminids (2024-04-12 10:35  UTC)<br/>
 Dispatch: SUPER DESTROYER FLEET UPGRADE. In response to increased enemy threat, Helldivers are now authorized to requisition Level 4 Modules for all Super Destroyer systems. Like previous upgrades, the Level 4 Suite significantly upgrades the Super Destroyer with cutting-edge technology, provided by defense contractors who are galactic leaders in quality and safety. These critical upgrades will be installed without delay upon submission of the requisite number of samples, proof of commitment to furthering the cause of Liberty. (2024-04-12 11:35  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-12 11:35  UTC)<br/>
@@ -771,7 +771,7 @@ Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are or
  (2024-04-14 06:00  UTC)<br/>
 
 ### Day: #67
-*Menkent* of the Hydra sector is attacked by Automatons (2024-04-14 17:22  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Lvl 5 Automatons (2024-04-14 17:22  UTC)<br/>
 *Lesath* is liberated (2024-04-14 21:23  UTC)<br/>
 ↳ *Penta* liberation campaign starts (2024-04-14 21:23  UTC)<br/>
  Decay: 0.0 on Penta<br/> Decay: 500.0 on Lesath
@@ -784,7 +784,7 @@ Dispatch: NEW MAJOR ORDER. We must halt the Automaton advance. Helldivers are or
 ↳ Draco sector is fully under Human control (2024-04-15 13:24  UTC)<br/>
  Decay: 500.0 on Crimsica
  (2024-04-15 14:00  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-04-16 07:57  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 9 Terminids (2024-04-16 07:57  UTC)<br/>
 
 ### Day: #69
 Major Order | [A1-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-6) *Menkent* Line is won | Objective: Control (2024-04-16 12:09  UTC)<br/>
@@ -805,7 +805,7 @@ Dispatch: INTELLIGENCE BRIEF. The Automatons have deployed a new heavy unit: the
 # Day: #70
  Decay: 500.0 on Marfark
  (2024-04-17 10:00  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-18 07:37  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 10 Terminids (2024-04-18 07:37  UTC)<br/>
 Major Order | [A1-4-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-7) *Marfark* Defense is won | Objective: Control (2024-04-18 07:51  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automaton Invasion Fleet has been repelled. The bots committed much of their reserves to this attack. Even the large-scale deployment of the Factory Strider could not break the resolve of the Helldivers. The situation remains dire. The Automatons still illegally occupy vast swaths of our territory. But with this victory, the Helldivers have won the opportunity to turn back the tide. (2024-04-18 07:51  UTC)<br/>
  Decay: 1.0 on Automaton worlds
@@ -835,13 +835,13 @@ Dispatch: In further proof of their elite training and irreplaceable value, the 
 ↳ *Omicron* liberation campaign starts (2024-04-19 12:08  UTC)<br/>
  Decay: 500.0 on Oshaune
  (2024-04-19 14:00  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-19 15:07  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl 10 Terminids (2024-04-19 15:07  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 8 Terminids (2024-04-19 15:07  UTC)<br/>
 Major Order | [A1-4-9](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-9) Defense on Two Fronts Defend 10 is issued | Objective: Defend (2024-04-19 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinister syncronicity, both the Terminids and Automatons have launched large-scale assaults. The Helldivers must now defend our citizens on two fronts at once. (2024-04-19 15:07  UTC)<br/>
-*Lesath* of the Lacaille sector is attacked by Automatons (2024-04-19 15:08  UTC)<br/>
-*Charon Prime* of the Andromeda sector is attacked by Automatons (2024-04-19 15:09  UTC)<br/>
-*Marfark* of the Andromeda sector is attacked by Automatons (2024-04-19 15:10  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 9 Automatons (2024-04-19 15:08  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 7 Automatons (2024-04-19 15:09  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 8 Automatons (2024-04-19 15:10  UTC)<br/>
 *Estanu* defense is won (2024-04-20 07:38  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-20 07:38  UTC)<br/>
 
@@ -857,19 +857,19 @@ Dispatch: NEW MAJOR ORDER. Freedom is under attack once more. In an act of sinis
 ↳ Mirin sector is fully under Terminid control (2024-04-20 15:08  UTC)<br/>
 ↳ *Oshaune* liberation campaign starts (2024-04-20 15:08  UTC)<br/>
 ↳ *Omicron* liberation campaign ends (2024-04-20 15:08  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-04-20 15:10  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 8 Terminids (2024-04-20 15:10  UTC)<br/>
 *Lesath* defense is failed (2024-04-20 15:10  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2024-04-20 15:10  UTC)<br/>
 ↳ *Penta* liberation campaign ends (2024-04-20 15:10  UTC)<br/>
 ↳ Lacaille sector is fully under Automaton control (2024-04-20 15:10  UTC)<br/>
 *Charon Prime* defense is failed (2024-04-20 15:11  UTC)<br/>
 ↳ *Charon Prime* liberation campaign starts (2024-04-20 15:11  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-20 15:11  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 8 Terminids (2024-04-20 15:11  UTC)<br/>
 *Marfark* defense is failed (2024-04-20 15:12  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2024-04-20 15:12  UTC)<br/>
 ↳ *Martale* liberation campaign ends (2024-04-20 15:12  UTC)<br/>
-*Vernen Wells* of the Hydra sector is attacked by Automatons (2024-04-20 15:12  UTC)<br/>
-*Meissa* of the Ymir sector is attacked by Automatons (2024-04-20 15:13  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Lvl 6 Automatons (2024-04-20 15:12  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Lvl 6 Automatons (2024-04-20 15:13  UTC)<br/>
  Decay: 0.5 on Charon Prime, Lesath, Marfark<br/> Decay: 1.0 on Oshaune
  (2024-04-20 16:00  UTC)<br/>
 The Second Galactic War is paused (2024-04-21 04:02  UTC)<br/>
@@ -882,15 +882,15 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 *Estanu* defense is won (2024-04-22 11:58  UTC)<br/>
 *Fori Prime* defense is won (2024-04-22 18:46  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-22 18:46  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-22 20:07  UTC)<br/>
-*Charbal-VII* of the Andromeda sector is attacked by Automatons (2024-04-22 20:10  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 6 Terminids (2024-04-22 20:07  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Lvl 4 Automatons (2024-04-22 20:10  UTC)<br/>
 *Vernen Wells* defense is failed (2024-04-22 20:29  UTC)<br/>
 ↳ *Vernen Wells* liberation campaign starts (2024-04-22 20:29  UTC)<br/>
 *Meissa* defense is failed (2024-04-22 20:30  UTC)<br/>
 ↳ *Meissa* liberation campaign starts (2024-04-22 20:30  UTC)<br/>
 ↳ *Matar Bay* liberation campaign ends (2024-04-22 20:30  UTC)<br/>
-*Menkent* of the Hydra sector is attacked by Automatons (2024-04-22 20:39  UTC)<br/>
-*Choepessa IV* of the Trigon sector is attacked by Automatons (2024-04-22 20:41  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Lvl 6 Automatons (2024-04-22 20:39  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Lvl 4 Automatons (2024-04-22 20:41  UTC)<br/>
 *Aesir Pass* - *Curia* warp link is added (2024-04-22 20:49  UTC)<br/>
 *Aesir Pass* - *Tarsh* warp link is added (2024-04-22 20:49  UTC)<br/>
 *Curia* - *Tarsh* warp link is added (2024-04-22 20:49  UTC)<br/>
@@ -917,8 +917,8 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 *Choepessa IV* defense is failed (2024-04-23 20:43  UTC)<br/>
 ↳ *Choepessa IV* liberation campaign starts (2024-04-23 20:43  UTC)<br/>
 ↳ *Charon Prime* liberation campaign ends (2024-04-23 20:43  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-23 20:44  UTC)<br/>
-*Mort* of the Xzar sector is attacked by Automatons (2024-04-23 20:45  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 7 Terminids (2024-04-23 20:44  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Lvl 4 Automatons (2024-04-23 20:45  UTC)<br/>
  Decay: 0.5 on Automaton worlds<br/> Decay: 0.0 on Choepessa IV
  (2024-04-23 22:00  UTC)<br/>
 *Oshaune* is liberated (2024-04-24 03:35  UTC)<br/>
@@ -931,15 +931,15 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
  (2024-04-24 09:00  UTC)<br/>
 *Mort* defense is won (2024-04-24 11:14  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2024-04-24 11:14  UTC)<br/>
-*Varylia 5* of the Trigon sector is attacked by Automatons (2024-04-24 11:28  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-04-24 11:30  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Lvl 4 Automatons (2024-04-24 11:28  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl 6 Terminids (2024-04-24 11:30  UTC)<br/>
 *Estanu* defense is won (2024-04-24 11:59  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-24 11:59  UTC)<br/>
-*Fori Prime* of the Draco sector is attacked by Terminids (2024-04-24 20:33  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Lvl 6 Terminids (2024-04-24 20:33  UTC)<br/>
 *Oshaune* defense is won (2024-04-24 20:39  UTC)<br/>
 ↳ *Fori Prime* defense is auto-won via gambit (2024-04-24 21:02  UTC)<br/>
 ↳ Draco sector is fully under Human control (2024-04-24 21:02  UTC)<br/>
-*Ustotu* of the Trigon sector is attacked by Automatons (2024-04-24 21:06  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Lvl 4 Automatons (2024-04-24 21:06  UTC)<br/>
 *Vernen Wells* is liberated (2024-04-24 22:56  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2024-04-24 22:56  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2024-04-24 22:56  UTC)<br/>
@@ -951,7 +951,7 @@ The Second Galactic War is no longer paused (2024-04-22 07:46  UTC)<br/>
 *Ustotu* defense is won (2024-04-25 12:46  UTC)<br/>
 ↳ Major Order | [A1-4-9](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-9) Defense on Two Fronts Defend 10 is won | Objective: Defend (2024-04-25 13:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Freedom has overcome oppression once more. Even the combined might of the Terminids and Automatons was no match for the fierce and obedient resistance of the Helldivers. Though some ground was lost, our enemies are exhausted, their assault broken upon the immovable shield wall of the Helldivers. The fight is far from over, but the light of Liberty shines bright over the worlds of the Federation today. (2024-04-25 13:43  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-25 19:26  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 9 Terminids (2024-04-25 19:26  UTC)<br/>
  Decay: 1.0 on Automaton worlds
  (2024-04-25 19:26  UTC)<br/>
 
@@ -969,7 +969,7 @@ Dispatch: NEW OPERATION ORDER: "LEGITIMATE UNDERTAKING". Phase I: Citizen Rescue
 # Day: #80
  Decay: 0.0 on Penta, Chort Bay<br/> Decay: 500.0 on Lesath
  (2024-04-27 10:00  UTC)<br/>
-*Oshaune* of the Mirin sector is attacked by Terminids (2024-04-27 19:51  UTC)<br/>
+*Oshaune* of the Mirin sector is attacked by Lvl 9 Terminids (2024-04-27 19:51  UTC)<br/>
 
 ### Day: #81
 *Penta* is liberated (2024-04-28 09:49  UTC)<br/>
@@ -1003,7 +1003,7 @@ Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their ca
  (2024-04-29 14:22  UTC)<br/>
 Major Order | [A1-4-11](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-11) Deactivate the TCS is issued | Objective: Liberate (2024-04-29 14:24  UTC)<br/>
 Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Planets. The bugs appear to be showing resistance to Termicide. On *Meridia*, Terminid reproduction rates have exploded overnight. While the mechanism for this adaptation is unclear, it appears to be linked to continued Termicide exposure. It cannot be allowed to spread. The Helldivers are ordered to deactivate the Terminid Control System on the remaining Barrier Planets immediately. (2024-04-29 14:28  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2024-04-29 14:31  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 12 Terminids (2024-04-29 14:31  UTC)<br/>
  Decay: 3.0 on Terminid worlds
  (2024-04-29 14:31  UTC)<br/>
  Decay: 4.0 on Fenrir III, Turing, Erata Prime
@@ -1014,7 +1014,7 @@ Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Pl
 ### Day: #83
 *Crimsica* defense is failed (2024-04-30 14:33  UTC)<br/>
 ↳ *Crimsica* liberation campaign starts (2024-04-30 14:33  UTC)<br/>
-*Estanu* of the Draco sector is attacked by Terminids (2024-04-30 14:38  UTC)<br/>
+*Estanu* of the Draco sector is attacked by Lvl 12 Terminids (2024-04-30 14:38  UTC)<br/>
  Decay: 3.0 on Crimsica
  (2024-04-30 16:00  UTC)<br/>
  Decay: 3.0 on Fenrir III
@@ -5539,7 +5539,7 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2024-12-12 03:50  UTC)<br/>
  Decay: 2.0 on Phact Bay
  (2024-12-12 16:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2024-12-12 19:27  UTC)<br/>
-*Calypso* of the Saleria sector is invaded by Illuminate (2024-12-13 02:21  UTC)<br/>
+*Calypso* of the Saleria sector is invaded by Lvl 96.768 Illuminate (2024-12-13 02:21  UTC)<br/>
 Major Order | [A1-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-2) Factory Hub Defense is won | Objective: Defend (2024-12-13 02:22  UTC)<br/>
 DSS is disabled (2024-12-13 02:22  UTC)<br/>
 DSS effect Eagle Storm stops (2024-12-13 02:22  UTC)<br/>
@@ -5570,11 +5570,11 @@ Dispatch: SITE CONSTRUCTION UPDATE. The Admiral Defense (AM) Factory Hub has bee
  (2024-12-16 04:00  UTC)<br/>
 
 ### Day: #313
-*Genesis Prime* of the Rictus sector is invaded by Illuminate (2024-12-16 21:38  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Lvl 12 Illuminate (2024-12-16 21:38  UTC)<br/>
 Major Order | [A1-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-4) Repel Illuminate Incursions is issued | Objective: Defend (2024-12-16 21:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat. (2024-12-16 22:13  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. The parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts. (2024-12-17 00:10  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminate (2024-12-17 00:10  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Lvl 6 Illuminate (2024-12-17 00:10  UTC)<br/>
 *Gar Haren* defense is failed (2024-12-17 02:34  UTC)<br/>
 ↳ *Gar Haren* liberation campaign starts (2024-12-17 02:34  UTC)<br/>
 *Shelt* defense is failed (2024-12-17 02:36  UTC)<br/>
@@ -5587,19 +5587,19 @@ Dispatch: ILLUMINATE INCURSIONS ONGOING. MOG has come under attack. It is now cl
  (2024-12-17 09:00  UTC)<br/>
 *Genesis Prime*'s invasion is successful (2024-12-17 09:38  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2024-12-17 09:38  UTC)<br/>
-*Bellatrix* of the Guang sector is invaded by Illuminate (2024-12-17 10:40  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Lvl 6 Illuminate (2024-12-17 10:40  UTC)<br/>
 *Mog*'s invasion is successful (2024-12-17 12:10  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2024-12-17 12:10  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2024-12-17 18:27  UTC)<br/>
 ↳ Guang sector is fully under Human control (2024-12-17 18:27  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2024-12-17 18:29  UTC)<br/>
-*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2024-12-17 18:30  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 6 Illuminate (2024-12-17 18:29  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is invaded by Lvl 5 Illuminate (2024-12-17 18:30  UTC)<br/>
 Dispatch: ILLUMINATE INCURSIONS ANALYZED. MINDEF strategists have conducted an analysis of the Illuminate attack pattern, providing insight into their plans. With a high degree of certainty, their next attack is predicted to be on NEW STOCKHOLM. (2024-12-17 20:47  UTC)<br/>
 *Kerth Secundus*'s invasion is repelled (2024-12-18 01:32  UTC)<br/>
 *Valmox*'s invasion is repelled (2024-12-18 06:17  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2024-12-18 06:17  UTC)<br/>
-*Andar* of the Akira sector is invaded by Illuminate (2024-12-18 08:39  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2024-12-18 08:41  UTC)<br/>
+*Andar* of the Akira sector is invaded by Lvl 8 Illuminate (2024-12-18 08:39  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 8 Illuminate (2024-12-18 08:41  UTC)<br/>
 
 ### Day: #315
 Dispatch: MULTIPLE ILLUMINATE INCURSIONS. ANDAR and ACUBENS PRIME have come under simultaneous attack by Illuminate forces. (2024-12-18 09:03  UTC)<br/>
@@ -5609,20 +5609,20 @@ Dispatch: EXPERIMENTAL WEAPON DEPLOYMENT. High Command has temporarily authorize
 ↳ Akira sector is fully under Human control (2024-12-18 21:15  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2024-12-18 21:54  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2024-12-18 21:54  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2024-12-18 22:26  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 8 Illuminate (2024-12-18 22:26  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Lvl 14 Terminids (2024-12-18 23:47  UTC)<br/>
 Dispatch: SITUATIONAL DEVELOPMENT. Some Helldivers may have noticed novel electromagnetic phenomena in vicinity of the *Meridia* Black Hole. High Command is aware of the situation, which is being closely monitored by experts in the field. Helldivers are advised to avoid distractions and focus their full attention on repelling the Illuminate threat. (2024-12-19 01:19  UTC)<br/>
  Decay: 0.0 on Fenrir III
  (2024-12-19 01:19  UTC)<br/>
 *Hadar*'s invasion is repelled (2024-12-19 06:10  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2024-12-19 06:10  UTC)<br/>
-*Gemma* of the Ursa sector is invaded by Illuminate (2024-12-19 06:29  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Lvl 11 Illuminate (2024-12-19 06:29  UTC)<br/>
 
 ### Day: #316
 Dispatch: ARSENAL AUGMENTATION. The amount of ammo, Stratagems, and lives of heroes used to combat the Illuminate extremists have put the Q4 defense budget under unexpected strain. To address this issue, the Ministry of Defense has entered into a contract with reputable arms manufacturer Ståhl Arms. All Helldivers have been granted access to six new items, including two weapons and one armor set, effective immediately. (2024-12-19 15:21  UTC)<br/>
 *Gemma*'s invasion is successful (2024-12-19 18:30  UTC)<br/>
 ↳ Ursa sector is fully under Human control (2024-12-19 18:30  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is invaded by Illuminate (2024-12-19 19:35  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is invaded by Lvl 7 Illuminate (2024-12-19 19:35  UTC)<br/>
 Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV). If the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted. (2024-12-19 19:43  UTC)<br/>
 *Fenrir III* defense is failed (2024-12-19 23:49  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-12-19 23:49  UTC)<br/>
@@ -5632,8 +5632,8 @@ Dispatch: FACTORY HUB THREATENED. The AM Defense Factory Hub on ACHERNAR SECUNDU
  (2024-12-20 02:28  UTC)<br/>
 
 ### Day: #317
-*Skaash* of the Ursa sector is invaded by Illuminate (2024-12-20 09:36  UTC)<br/>
-*Bashyr* of the Gallux sector is invaded by Illuminate (2024-12-20 09:36  UTC)<br/>
+*Skaash* of the Ursa sector is invaded by Lvl 7 Illuminate (2024-12-20 09:36  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 7 Illuminate (2024-12-20 09:36  UTC)<br/>
 Dispatch: ACHERNAR SECUNDUS SECURED. The Illuminate have been repelled from ACHERNAR SECUNDUS, and the AM Defense Factory Hub has been secured. Production of the Fast Reconnaissance Vehicle (FRV) has resumed. The vehicle will soon be available for fleetwide requisition. Significantly, millions of colonists are also now safe. (2024-12-20 13:00  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Lvl 15 Terminids (2024-12-20 20:29  UTC)<br/>
 *Skaash*'s invasion is repelled (2024-12-20 21:17  UTC)<br/>
@@ -5648,33 +5648,33 @@ Dispatch: MAJOR ORDER WON. After days of fighting, colonies lie in ruins across 
 ### Day: #318
 Major Order | [A1-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-5) Secure *Fenrir III* is issued | Objective: Control (2024-12-21 11:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vicinity of the *Meridia* Singularity. Astronomers have reported fluctuations in the event horizon and electromagnetic flares. These developments demand further investigation. High Command has ordered the construction of a new Center of Science on *Fenrir III*. The Helldivers must clear the planet and nearby area of any Terminid infestation in order to facilitate its safe construction. (2024-12-21 11:16  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2024-12-21 11:18  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 8 Illuminate (2024-12-21 11:18  UTC)<br/>
 *Erata Prime* defense is failed (2024-12-21 20:30  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-12-21 20:30  UTC)<br/>
-*Asperoth Prime* of the Akira sector is invaded by Illuminate (2024-12-21 22:10  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Lvl 7 Illuminate (2024-12-21 22:10  UTC)<br/>
  Decay: 2.0 on Erata Prime
  (2024-12-21 22:10  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2024-12-21 23:19  UTC)<br/>
 ↳ Guang sector is fully under Human control (2024-12-21 23:19  UTC)<br/>
-*Osupsam* of the Tarragon sector is invaded by Illuminate (2024-12-22 08:24  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Lvl 9 Illuminate (2024-12-22 08:24  UTC)<br/>
 
 ### Day: #319
 *Asperoth Prime*'s invasion is successful (2024-12-22 10:10  UTC)<br/>
 ↳ Akira sector is fully under Human control (2024-12-22 10:10  UTC)<br/>
 *Fenrir III* is liberated (2024-12-22 17:13  UTC)<br/>
 ↳ *Hellmire* liberation campaign starts (2024-12-22 17:13  UTC)<br/>
-*Baldrick Prime* of the Meridian sector is invaded by Illuminate (2024-12-22 18:16  UTC)<br/>
+*Baldrick Prime* of the Meridian sector is invaded by Lvl 8 Illuminate (2024-12-22 18:16  UTC)<br/>
 *Esker* of the Falstaff sector is attacked by Lvl 11 Terminids (2024-12-22 20:08  UTC)<br/>
 *Osupsam*'s invasion is successful (2024-12-22 20:24  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2024-12-22 20:24  UTC)<br/>
  Decay: 0.0 on Esker
  (2024-12-22 20:24  UTC)<br/>
-*Hydrobius* of the Omega sector is invaded by Illuminate (2024-12-23 05:19  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Lvl 6 Illuminate (2024-12-23 05:19  UTC)<br/>
 *Baldrick Prime*'s invasion is successful (2024-12-23 06:17  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2024-12-23 06:17  UTC)<br/>
 
 # Day: #320
-*Seasse* of the Omega sector is invaded by Illuminate (2024-12-23 17:18  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 9 Illuminate (2024-12-23 17:18  UTC)<br/>
 *Hydrobius*'s invasion is successful (2024-12-23 17:20  UTC)<br/>
 *Esker* defense is failed (2024-12-23 20:09  UTC)<br/>
 ↳ *Esker* liberation campaign starts (2024-12-23 20:09  UTC)<br/>
@@ -5688,12 +5688,12 @@ Dispatch: NEW MAJOR ORDER. Novel anomalous phenomena has been observed in the vi
 ↳ *Hellmire* liberation campaign starts (2024-12-24 00:49  UTC)<br/>
  Decay: 0.0 on Bore Rock
  (2024-12-24 00:49  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2024-12-24 04:12  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Lvl 7 Illuminate (2024-12-24 04:12  UTC)<br/>
 *Seasse*'s invasion is successful (2024-12-24 05:18  UTC)<br/>
 ↳ Omega sector is fully under Human control (2024-12-24 05:18  UTC)<br/>
 
 ### Day: #321
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-24 15:25  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 9 Illuminate (2024-12-24 15:25  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2024-12-24 16:13  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2024-12-24 16:13  UTC)<br/>
 Major Order | [A1-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-5) Secure *Fenrir III* is won | Objective: Control (2024-12-24 23:09  UTC)<br/>
@@ -5708,32 +5708,32 @@ Dispatch: HOLIDAY TIDINGS. The Spirit of Reckoning has left a present for all He
 ↳ Falstaff sector is fully under Terminid control (2024-12-24 23:43  UTC)<br/>
  Decay: 1.0 on Bore Rock
  (2024-12-25 00:00  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2024-12-25 02:10  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 8 Illuminate (2024-12-25 02:10  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2024-12-25 03:26  UTC)<br/>
 *Shelt* is liberated (2024-12-25 04:00  UTC)<br/>
 ↳ Talus sector is fully under Human control (2024-12-25 04:00  UTC)<br/>
 Dispatch: HOLIDAY SONG. All Helldivers are invited to join in the classic holiday carol "Here They Come a'Reckonin':" Oh, here they come a'Recknonin', O'er hill and vale, Children play, bombs away, *Super Earth* we hail! Here they come a'Reckonin', Justice justly served, Flowers grow, blood will flow, Peace on *Super Earth*! (2024-12-25 11:06  UTC)<br/>
-*Myrium* of the Morgon sector is invaded by Illuminate (2024-12-25 13:30  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Lvl 6 Illuminate (2024-12-25 13:30  UTC)<br/>
 *Rasp*'s invasion is successful (2024-12-25 14:11  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2024-12-25 14:11  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-25 22:28  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 8 Illuminate (2024-12-25 22:28  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. On the Second Day of the Festival of Reckoning, the Helldivers are given access to a bounty of Explosive weaponry. (2024-12-25 22:32  UTC)<br/>
 *Myrium*'s invasion is successful (2024-12-26 01:31  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2024-12-26 01:31  UTC)<br/>
 
 ### Day: #323
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2024-12-26 09:35  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 9 Illuminate (2024-12-26 09:35  UTC)<br/>
 *Canopus*'s invasion is successful (2024-12-26 10:30  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2024-12-26 10:30  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Lvl 12 Automatons (2024-12-26 19:40  UTC)<br/>
 *Hellmire* liberation campaign ends (2024-12-26 19:43  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2024-12-26 20:33  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 9 Illuminate (2024-12-26 20:33  UTC)<br/>
  Decay: 0.0 on Lesath<br/> Decay: 0.0 on Martale
  (2024-12-26 20:33  UTC)<br/>
 Dispatch: HOLIDAY TIDINGS. The Third Day of the Festival of Reckoning is the most special day: the Feast of the Electorate, celebrating the first Free and Managed election. Helldivers are given access to a truly overflowing bounty of all manner of weaponry. (2024-12-26 21:33  UTC)<br/>
 *Heze Bay*'s invasion is successful (2024-12-26 21:36  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2024-12-26 21:36  UTC)<br/>
-*Julheim* of the Nanos sector is invaded by Illuminate (2024-12-27 06:57  UTC)<br/>
+*Julheim* of the Nanos sector is invaded by Lvl 15 Illuminate (2024-12-27 06:57  UTC)<br/>
 Dispatch: ILLUMINATE INCURSION. The Illuminate have launched a vicious assault on JULHEIM, bringing death and destruction to families' peaceful and solemn observance of the Festival of Reckoning. It is clear that nothing is sacred to these zealots. The Helldivers must ensure the innocents killed by the Illuminate today are fully avenged. (2024-12-27 07:00  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-27 08:33  UTC)<br/>
 ↳ Akira sector is fully under Human control (2024-12-27 08:33  UTC)<br/>
@@ -5749,65 +5749,65 @@ Major Order | [A1-12-6](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-6) Fe
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has come to a close. Consult the Galactic Map on your ship for more information. (2024-12-27 23:31  UTC)<br/>
 Major Order | [A1-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-7) Illuminate Eradication and Deterrence is issued | Objective: Eradicate/Defend (2024-12-27 23:33  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate and Voteless as possible over the coming wave of attacks. This will both deter the enemy and allow the Ministry of Science to autopsy the remains, possibly yielding intel about the Illuminate and how the Voteless are created. (2024-12-27 23:36  UTC)<br/>
-*Gemma* of the Ursa sector is invaded by Illuminate (2024-12-28 00:35  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Lvl 10 Illuminate (2024-12-28 00:35  UTC)<br/>
 *Julheim*'s invasion is successful (2024-12-28 00:58  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2024-12-28 00:58  UTC)<br/>
 
 ### Day: #325
-*Volterra* of the Korpus sector is invaded by Illuminate (2024-12-28 11:28  UTC)<br/>
+*Volterra* of the Korpus sector is invaded by Lvl 8 Illuminate (2024-12-28 11:28  UTC)<br/>
 *Gemma*'s invasion is successful (2024-12-28 12:36  UTC)<br/>
 ↳ Ursa sector is fully under Human control (2024-12-28 12:36  UTC)<br/>
 *Volterra*'s invasion is repelled (2024-12-28 21:59  UTC)<br/>
 ↳ Korpus sector is fully under Human control (2024-12-28 21:59  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2024-12-28 22:47  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 8 Illuminate (2024-12-28 22:47  UTC)<br/>
 
 ### Day: #326
 *Iro*'s invasion is repelled (2024-12-29 09:09  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2024-12-29 09:09  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2024-12-29 09:41  UTC)<br/>
-*Liberty Ridge* of the Meridian sector is invaded by Illuminate (2024-12-29 20:33  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 9 Illuminate (2024-12-29 09:41  UTC)<br/>
+*Liberty Ridge* of the Meridian sector is invaded by Lvl 7 Illuminate (2024-12-29 20:33  UTC)<br/>
 *Keid*'s invasion is successful (2024-12-29 21:41  UTC)<br/>
 ↳ Akira sector is fully under Human control (2024-12-29 21:41  UTC)<br/>
 *Liberty Ridge*'s invasion is repelled (2024-12-30 07:09  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2024-12-30 07:09  UTC)<br/>
-*Irulta* of the Saleria sector is invaded by Illuminate (2024-12-30 07:09  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Lvl 8 Illuminate (2024-12-30 07:09  UTC)<br/>
 
 ### Day: #327
-*Hort* of the Rigel sector is invaded by Illuminate (2024-12-30 18:19  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2024-12-30 18:20  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 7 Illuminate (2024-12-30 18:19  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 7 Illuminate (2024-12-30 18:20  UTC)<br/>
 *Irulta*'s invasion is successful (2024-12-30 19:09  UTC)<br/>
 ↳ Saleria sector is fully under Human control (2024-12-30 19:09  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2024-12-31 06:15  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 7 Illuminate (2024-12-31 06:15  UTC)<br/>
 *Hort*'s invasion is successful (2024-12-31 06:19  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2024-12-31 06:21  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2024-12-31 06:21  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2024-12-31 06:24  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 8 Illuminate (2024-12-31 06:24  UTC)<br/>
 
 ### Day: #328
-*Kharst* of the Gallux sector is invaded by Illuminate (2024-12-31 17:35  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Lvl 7 Illuminate (2024-12-31 17:35  UTC)<br/>
 *Canopus*'s invasion is successful (2024-12-31 18:16  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2024-12-31 18:16  UTC)<br/>
 *Kraz*'s invasion is successful (2024-12-31 18:24  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2024-12-31 18:24  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-01-01 04:41  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-01 04:41  UTC)<br/>
 *Kharst*'s invasion is repelled (2025-01-01 04:50  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-01 04:50  UTC)<br/>
 
 ### Day: #329
 *Parsh*'s invasion is repelled (2025-01-01 15:26  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-01 15:26  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-01-01 16:32  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 7 Illuminate (2025-01-01 16:32  UTC)<br/>
 *Choohe* of the Lacaille sector is attacked by Lvl 11 Automatons (2025-01-01 20:03  UTC)<br/>
  Decay: 0.0 on Choohe
  (2025-01-01 22:00  UTC)<br/>
 *RD-4*'s invasion is repelled (2025-01-02 02:47  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-02 02:47  UTC)<br/>
 Major Order | [A1-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-7) Illuminate Eradication and Deterrence is won | Objective: Eradicate/Defend (2025-01-02 02:47  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-02 04:25  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 6 Illuminate (2025-01-02 04:25  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2025-01-02 07:52  UTC)<br/>
 
 # Day: #330
-*Regnus* of the Morgon sector is invaded by Illuminate (2025-01-02 15:35  UTC)<br/>
+*Regnus* of the Morgon sector is invaded by Lvl 7 Illuminate (2025-01-02 15:35  UTC)<br/>
 *Sirius*'s invasion is successful (2025-01-02 16:26  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-01-02 16:26  UTC)<br/>
 *Choohe* defense is failed (2025-01-02 20:05  UTC)<br/>
@@ -5818,25 +5818,25 @@ Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll f
 ↳ Lacaille sector is fully under Automaton control (2025-01-02 20:05  UTC)<br/>
  Decay: 1.5 on Choohe
  (2025-01-02 22:00  UTC)<br/>
-*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-01-03 03:26  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Lvl 8 Illuminate (2025-01-03 03:26  UTC)<br/>
 *Regnus*'s invasion is successful (2025-01-03 03:36  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-03 03:36  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2025-01-03 06:57  UTC)<br/>
 
 ### Day: #331
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-03 14:48  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 7 Illuminate (2025-01-03 14:48  UTC)<br/>
 *Siemnot*'s invasion is successful (2025-01-03 15:27  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-01-03 15:27  UTC)<br/>
 *Alamak VII*'s invasion is successful (2025-01-04 02:48  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-04 02:48  UTC)<br/>
-*Eukoria* of the Morgon sector is invaded by Illuminate (2025-01-04 02:50  UTC)<br/>
+*Eukoria* of the Morgon sector is invaded by Lvl 6 Illuminate (2025-01-04 02:50  UTC)<br/>
 
 ### Day: #332
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-01-04 14:35  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 7 Illuminate (2025-01-04 14:35  UTC)<br/>
 *Eukoria*'s invasion is successful (2025-01-04 14:51  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-04 14:51  UTC)<br/>
-*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-01-05 02:12  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Lvl 7 Illuminate (2025-01-05 02:12  UTC)<br/>
 *Haldus*'s invasion is successful (2025-01-05 02:36  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-05 02:36  UTC)<br/>
 *Mastia* is liberated (2025-01-05 04:33  UTC)<br/>
@@ -5844,16 +5844,16 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facili
 ### Day: #333
 *Ras Algethi*'s invasion is successful (2025-01-05 14:13  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-01-05 14:13  UTC)<br/>
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-01-05 14:25  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-05 14:25  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Lvl 13 Automatons (2025-01-05 19:48  UTC)<br/>
 Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldivers are called to its defense! (2025-01-05 20:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
  (2025-01-05 20:30  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2025-01-06 02:14  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 5 Illuminate (2025-01-06 02:14  UTC)<br/>
 *Oasis*'s invasion is successful (2025-01-06 02:25  UTC)<br/>
 
 ### Day: #334
-*Bellatrix* of the Guang sector is invaded by Illuminate (2025-01-06 13:59  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Lvl 6 Illuminate (2025-01-06 13:59  UTC)<br/>
 *Iro*'s invasion is successful (2025-01-06 14:15  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-06 14:15  UTC)<br/>
 *Gaellivare* defense is failed (2025-01-06 19:50  UTC)<br/>
@@ -5861,7 +5861,7 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ↳ *Lesath* liberation campaign ends (2025-01-06 19:50  UTC)<br/>
  Decay: 1.5 on Gaellivare
  (2025-01-06 22:00  UTC)<br/>
-*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-01-07 01:36  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Lvl 5 Illuminate (2025-01-07 01:36  UTC)<br/>
 *Bellatrix*'s invasion is successful (2025-01-07 02:00  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-07 02:00  UTC)<br/>
 *Tarsh* is liberated (2025-01-07 03:55  UTC)<br/>
@@ -5872,13 +5872,13 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ### Day: #335
  Decay: 0.0 on Acamar IV
  (2025-01-07 09:00  UTC)<br/>
-*Botein* of the Guang sector is invaded by Illuminate (2025-01-07 13:14  UTC)<br/>
+*Botein* of the Guang sector is invaded by Lvl 5 Illuminate (2025-01-07 13:14  UTC)<br/>
 *Brink-2*'s invasion is successful (2025-01-07 13:37  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-01-07 13:37  UTC)<br/>
 *Gaellivare* is liberated (2025-01-07 23:04  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2025-01-07 23:04  UTC)<br/>
 ↳ Talus sector is fully under Human control (2025-01-07 23:04  UTC)<br/>
-*Grafmere* of the Rictus sector is invaded by Illuminate (2025-01-08 00:40  UTC)<br/>
+*Grafmere* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-08 00:40  UTC)<br/>
 *Botein*'s invasion is successful (2025-01-08 01:15  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-08 01:15  UTC)<br/>
 *Acamar IV* defense is failed (2025-01-08 08:36  UTC)<br/>
@@ -5888,7 +5888,7 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ### Day: #336
  Decay: 1.0 on Acamar IV
  (2025-01-08 09:00  UTC)<br/>
-*Khandark* of the Guang sector is invaded by Illuminate (2025-01-08 11:19  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Lvl 6 Illuminate (2025-01-08 11:19  UTC)<br/>
 *Grafmere*'s invasion is successful (2025-01-08 12:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
@@ -5899,12 +5899,12 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Matar Bay* of the Andromeda sector is attacked by Lvl 10 Automatons (2025-01-08 19:27  UTC)<br/>
  Decay: 0.0 on Matar Bay
  (2025-01-08 20:00  UTC)<br/>
-*Polaris Prime* of the Farsight sector is invaded by Illuminate (2025-01-08 22:50  UTC)<br/>
+*Polaris Prime* of the Farsight sector is invaded by Lvl 6 Illuminate (2025-01-08 22:50  UTC)<br/>
 *Khandark*'s invasion is successful (2025-01-08 23:19  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-08 23:19  UTC)<br/>
 
 ### Day: #337
-*Andar* of the Akira sector is invaded by Illuminate (2025-01-09 10:28  UTC)<br/>
+*Andar* of the Akira sector is invaded by Lvl 5 Illuminate (2025-01-09 10:28  UTC)<br/>
 *Polaris Prime*'s invasion is successful (2025-01-09 10:50  UTC)<br/>
 ↳ Farsight sector is fully under Human control (2025-01-09 10:50  UTC)<br/>
 *Acamar IV* is liberated (2025-01-09 11:58  UTC)<br/>
@@ -5917,7 +5917,7 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 ↳ *Choohe* liberation campaign ends (2025-01-09 19:29  UTC)<br/>
  Decay: 1.0 on Martale<br/> Decay: 1.5 on Matar Bay
  (2025-01-09 20:00  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminate (2025-01-09 22:08  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Lvl 5 Illuminate (2025-01-09 22:08  UTC)<br/>
 *Andar*'s invasion is successful (2025-01-09 22:29  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-01-09 22:29  UTC)<br/>
 *Terrek* defense is won (2025-01-10 06:38  UTC)<br/>
@@ -5926,7 +5926,7 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
  (2025-01-10 08:00  UTC)<br/>
 
 ### Day: #338
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-10 09:09  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 5 Illuminate (2025-01-10 09:09  UTC)<br/>
 ​​*Mog*'s invasion is successful (2025-01-10 10:08  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-10 10:08  UTC)<br/>
 *Gar Haren* - *Grand Errant* warp link is added (2025-01-10 18:39  UTC)<br/>
@@ -5940,12 +5940,12 @@ Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has be
 *Pherkad Secundus* of the Farsight sector is attacked by Lvl 14 Terminids (2025-01-10 18:40  UTC)<br/>
 Major Order | [A2-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-2) Defend 5 And Hold Two Planets is issued | Objective: Defend/Control (2025-01-10 18:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a sharp increase in Terminid spore outflow from the Gloom, cascading throughout all Terminid-occupied worlds to greatly accelerate bug expansion. Multiple outbreaks have already been detected. The Helldivers must respond immediately to stem further outbreaks. Consult your Galactic Map for more information. (2025-01-10 18:46  UTC)<br/>
-*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-10 20:46  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Lvl 5 Illuminate (2025-01-10 20:46  UTC)<br/>
  Decay: 0.0 on Grand Errant, Pherkad Secundus
  (2025-01-10 20:46  UTC)<br/>
 *Alamak VII*'s invasion is successful (2025-01-10 21:09  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-10 21:09  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-01-11 08:17  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 5 Illuminate (2025-01-11 08:17  UTC)<br/>
 *Ilduna Prime*'s invasion is successful (2025-01-11 08:47  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-11 08:47  UTC)<br/>
 
@@ -5958,7 +5958,7 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 ↳ *Pherkad Secundus* liberation campaign starts (2025-01-11 18:42  UTC)<br/>
  Decay: 0.0 on Erata Prime
  (2025-01-11 18:42  UTC)<br/>
-*Irulta* of the Saleria sector is invaded by Illuminate (2025-01-11 19:59  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Lvl 4 Illuminate (2025-01-11 19:59  UTC)<br/>
  Decay: 2.0 on Pherkad Secundus
  (2025-01-11 19:59  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-01-11 20:18  UTC)<br/>
@@ -5969,7 +5969,7 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 *Polaris Prime* of the Farsight sector is attacked by Lvl 11 Terminids (2025-01-11 23:18  UTC)<br/>
  Decay: 0.0 on Polaris Prime
  (2025-01-12 00:00  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-01-12 07:49  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-01-12 07:49  UTC)<br/>
 *Irulta*'s invasion is successful (2025-01-12 08:00  UTC)<br/>
 ↳ Saleria sector is fully under Human control (2025-01-12 08:00  UTC)<br/>
 
@@ -5982,7 +5982,7 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 *Achernar Secundus* of the Borgus sector is attacked by Lvl 11 Terminids (2025-01-12 18:59  UTC)<br/>
  Decay: 2.0 on Erata Prime
  (2025-01-12 18:59  UTC)<br/>
-*Bashyr* of the Gallux sector is invaded by Illuminate (2025-01-12 19:28  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-01-12 19:28  UTC)<br/>
  Decay: 0.0 on Achernar Secundus
  (2025-01-12 19:28  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. A particularly effective patriotic communications campaign encouraged an influx of war donations. The ORBITAL NAPALM BARRAGE stratagem is temporarily available to all Helldivers. (2025-01-12 19:45  UTC)<br/>
@@ -5991,7 +5991,7 @@ Dispatch: ARSENAL AUGMENTATION. A particularly effective patriotic communication
 *Heeth* of the Orion sector is attacked by Lvl 14 Terminids (2025-01-12 21:21  UTC)<br/>
  Decay: 0.0 on Heeth
  (2025-01-12 22:00  UTC)<br/>
-*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-01-13 07:11  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-01-13 07:11  UTC)<br/>
 *Bashyr*'s invasion is successful (2025-01-13 07:28  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-13 07:28  UTC)<br/>
 
@@ -6000,7 +6000,7 @@ Dispatch: ARSENAL AUGMENTATION. A particularly effective patriotic communication
 ↳ Borgus sector is fully under Human control (2025-01-13 11:22  UTC)<br/>
  Decay: 500.0 on Achernar Secundus
  (2025-01-13 12:00  UTC)<br/>
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-01-13 18:52  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 4 Illuminate (2025-01-13 18:52  UTC)<br/>
 *Zea Rugosia*'s invasion is successful (2025-01-13 19:11  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-13 19:11  UTC)<br/>
 *Heeth* defense is failed (2025-01-13 21:24  UTC)<br/>
@@ -6012,13 +6012,13 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
  (2025-01-13 22:00  UTC)<br/>
  Decay: 2.0 on Heeth
  (2025-01-14 00:00  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-01-14 06:41  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-01-14 06:41  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-01-14 06:53  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-14 06:53  UTC)<br/>
 
 ### Day: #342
 *Angel's Venture* defense is won (2025-01-14 16:44  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-01-14 18:22  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 3 Illuminate (2025-01-14 18:22  UTC)<br/>
  Decay: 2.5 on Angel's Venture
  (2025-01-14 18:22  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2025-01-14 18:42  UTC)<br/>
@@ -6030,20 +6030,20 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
 *Moradesh* of the Celeste sector is attacked by Lvl 13 Terminids (2025-01-14 21:37  UTC)<br/>
  Decay: 1.0 on Cirrus<br/> Decay: 0.0 on Moradesh
  (2025-01-14 22:00  UTC)<br/>
-*Myrium* of the Morgon sector is invaded by Illuminate (2025-01-15 06:01  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Lvl 4 Illuminate (2025-01-15 06:01  UTC)<br/>
 *Seasse*'s invasion is successful (2025-01-15 06:22  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-01-15 06:22  UTC)<br/>
 
 ### Day: #343
 *Moradesh* defense is won (2025-01-15 13:53  UTC)<br/>
 ↳ Celeste sector is fully under Human control (2025-01-15 13:53  UTC)<br/>
-*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-15 16:43  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Lvl 3 Illuminate (2025-01-15 16:43  UTC)<br/>
  Decay: 500.0 on Moradesh
  (2025-01-15 16:43  UTC)<br/>
 *Myrium*'s invasion is successful (2025-01-15 18:01  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-15 18:01  UTC)<br/>
 Dispatch: Voluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary COMMANDO usage fleetwide. (2025-01-15 21:25  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-01-16 04:42  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 4 Illuminate (2025-01-16 04:42  UTC)<br/>
 *Alairt III*'s invasion is successful (2025-01-16 04:43  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-16 04:43  UTC)<br/>
 
@@ -6052,28 +6052,28 @@ Major Order | [A2-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-2) Defe
 Dispatch: MAJOR ORDER WON. The Terminid outbreak has been contained. Consult your Galactic Map for more information. (2025-01-16 13:10  UTC)<br/>
 *Stout*'s invasion is repelled (2025-01-16 14:43  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-16 14:43  UTC)<br/>
-*Emorath* of the Meridian sector is invaded by Illuminate (2025-01-16 16:14  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Lvl 3 Illuminate (2025-01-16 16:14  UTC)<br/>
 DSS is activated (2025-01-16 17:47  UTC)<br/>
 Major Order | [A2-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-3) Repel 14 Illuminate Invasions is issued | Objective: Defend (2025-01-16 17:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Democracy Space Station has been returned to operational status, following a systemwide breakdown during the initial Illuminate invasion. While the station was offline, Ministry of Defense engineers implemented a number of operational adjustments. Consult your Galactic Map for more information. The Illuminate have continued their assault on Freedom unabated. Utilize the power of the newly-repaired DSS to repel their invasion and save our citizens. (2025-01-16 17:53  UTC)<br/>
 *Emorath*'s invasion is repelled (2025-01-16 21:06  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-16 21:06  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-16 21:20  UTC)<br/>
-​​*Rasp* of the Gallux sector is invaded by Illuminate (2025-01-16 22:33  UTC)<br/>
+​​*Rasp* of the Gallux sector is invaded by Lvl 8 Illuminate (2025-01-16 22:33  UTC)<br/>
 DSS deploys to *Rasp* of the Gallux sector (2025-01-17 05:21  UTC)<br/>
 *Rasp*'s invasion is repelled (2025-01-17 08:51  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-17 08:51  UTC)<br/>
 
 ### Day: #345
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-01-17 09:29  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 9 Illuminate (2025-01-17 09:29  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-17 13:21  UTC)<br/>
 DSS deploys to *Haldus* of the Ferris sector (2025-01-17 17:32  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-01-17 17:52  UTC)<br/>
-*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-17 20:52  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Lvl 8 Illuminate (2025-01-17 20:52  UTC)<br/>
 *Haldus*'s invasion is successful (2025-01-17 21:30  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-17 21:30  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2025-01-18 01:33  UTC)<br/>
-*Spherion* of the Quintus sector is invaded by Illuminate (2025-01-18 08:37  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Lvl 7 Illuminate (2025-01-18 08:37  UTC)<br/>
 *Rirga Bay*'s invasion is repelled (2025-01-18 08:50  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-18 08:50  UTC)<br/>
 
@@ -6084,21 +6084,21 @@ Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy
 DSS deploys to *Heeth* of the Orion sector (2025-01-18 13:34  UTC)<br/>
 DSS deploys to *Spherion* of the Quintus sector (2025-01-18 17:34  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-01-18 17:54  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-01-18 19:30  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 8 Illuminate (2025-01-18 19:30  UTC)<br/>
 *Spherion*'s invasion is successful (2025-01-18 20:37  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-18 20:37  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-18 21:34  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-01-18 23:49  UTC)<br/>
 DSS deploys to *Kraz* of the Alstrad sector (2025-01-19 01:36  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-01-19 07:04  UTC)<br/>
-*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-19 07:06  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 4 Illuminate (2025-01-19 07:04  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Lvl 4 Illuminate (2025-01-19 07:06  UTC)<br/>
 *Kraz*'s invasion is successful (2025-01-19 07:30  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-01-19 07:30  UTC)<br/>
 
 ### Day: #347
 DSS deploys to *Heeth* of the Orion sector (2025-01-19 09:37  UTC)<br/>
 DSS deploys to *Ilduna Prime* of the Meridian sector (2025-01-19 17:37  UTC)<br/>
-*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-01-19 18:06  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Lvl 8 Illuminate (2025-01-19 18:06  UTC)<br/>
 *Ilduna Prime*'s invasion is repelled (2025-01-19 18:12  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-19 18:12  UTC)<br/>
 *Hort*'s invasion is successful (2025-01-19 19:05  UTC)<br/>
@@ -6106,7 +6106,7 @@ DSS deploys to *Ilduna Prime* of the Meridian sector (2025-01-19 17:37  UTC)<br/
 DSS deploys to *Heeth* of the Orion sector (2025-01-19 21:38  UTC)<br/>
 DSS effect Eagle Storm stops (2025-01-19 23:51  UTC)<br/>
 DSS deploys to *Alathfar XI* of the Akira sector (2025-01-20 05:38  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-01-20 05:46  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 8 Illuminate (2025-01-20 05:46  UTC)<br/>
 *Alathfar XI*'s invasion is successful (2025-01-20 06:06  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-01-20 06:06  UTC)<br/>
 
@@ -6114,10 +6114,10 @@ DSS deploys to *Alathfar XI* of the Akira sector (2025-01-20 05:38  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-01-20 09:38  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-01-20 10:20  UTC)<br/>
 *Heeth* is liberated (2025-01-20 11:01  UTC)<br/>
-*Genesis Prime* of the Rictus sector is invaded by Illuminate (2025-01-20 13:06  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Lvl 4 Illuminate (2025-01-20 13:06  UTC)<br/>
 DSS deploys to *RD-4* of the Rigel sector (2025-01-20 13:39  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2025-01-20 15:14  UTC)<br/>
-*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-01-20 17:30  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 4 Illuminate (2025-01-20 15:14  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Lvl 4 Illuminate (2025-01-20 17:30  UTC)<br/>
 DSS deploys to *Genesis Prime* of the Rictus sector (2025-01-20 17:40  UTC)<br/>
 *RD-4*'s invasion is successful (2025-01-20 17:47  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-20 17:47  UTC)<br/>
@@ -6125,26 +6125,26 @@ DSS deploys to *Brink-2* of the Tarragon sector (2025-01-20 21:40  UTC)<br/>
 *Genesis Prime*'s invasion is repelled (2025-01-20 22:02  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-20 22:02  UTC)<br/>
 *Brink-2*'s invasion is repelled (2025-01-21 02:24  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2025-01-21 02:57  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 6 Illuminate (2025-01-21 02:57  UTC)<br/>
 *Canopus*'s invasion is successful (2025-01-21 03:15  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-01-21 03:15  UTC)<br/>
-*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-01-21 04:18  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Lvl 3 Illuminate (2025-01-21 04:18  UTC)<br/>
 DSS deploys to *Canopus* of the Tarragon sector (2025-01-21 05:41  UTC)<br/>
 
 ### Day: #349
 DSS deploys to *Keid* of the Akira sector (2025-01-21 09:42  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-01-21 10:23  UTC)<br/>
 *Keid*'s invasion is repelled (2025-01-21 14:09  UTC)<br/>
-*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
-*Setia* of the Omega sector is invaded by Illuminate (2025-01-21 14:29  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Lvl 3 Illuminate (2025-01-21 14:29  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 3 Illuminate (2025-01-21 14:29  UTC)<br/>
+*Setia* of the Omega sector is invaded by Lvl 3 Illuminate (2025-01-21 14:29  UTC)<br/>
 *Asperoth Prime*'s invasion is successful (2025-01-21 16:19  UTC)<br/>
 DSS deploys to *Asperoth Prime* of the Akira sector (2025-01-21 17:42  UTC)<br/>
 *Alathfar XI*'s invasion is repelled (2025-01-21 21:30  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-01-21 21:30  UTC)<br/>
 DSS deploys to *Alathfar XI* of the Akira sector (2025-01-21 21:43  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-01-22 00:04  UTC)<br/>
-*Herthon Secundus* of the Ferris sector is invaded by Illuminate (2025-01-22 00:34  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-01-22 00:04  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-01-22 00:34  UTC)<br/>
 DSS deploys to *Hort* of the Rigel sector (2025-01-22 01:43  UTC)<br/>
 *Hort*'s invasion is successful (2025-01-22 02:29  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-22 02:29  UTC)<br/>
@@ -6158,29 +6158,29 @@ Major Order | [A2-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-3) Repe
 Dispatch: MAJOR ORDER FAILED. The Illuminate campaign of terror continues unrestricted. Even the resurgent DSS, deployed with unassailable precision by the Helldivers, was not enough to repel the tide of xeno-autocracy. Millions of colonists have perished, and untold more have been corrupted into Voteless servants. (2025-01-22 12:07  UTC)<br/>
 *Herthon Secundus*'s invasion is successful (2025-01-22 12:34  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-22 12:34  UTC)<br/>
-*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-01-22 13:43  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Lvl 8 Illuminate (2025-01-22 13:43  UTC)<br/>
 DSS deploys to *Herthon Secundus* of the Ferris sector (2025-01-22 13:44  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-01-22 17:30  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-22 17:45  UTC)<br/>
 ​​DSS deploys to *Rirga Bay* of the Rigel sector (2025-01-22 21:45  UTC)<br/>
-*Hydrobius* of the Omega sector is invaded by Illuminate (2025-01-23 01:04  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Lvl 6 Illuminate (2025-01-23 01:04  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-01-23 01:44  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-01-23 01:44  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-23 01:46  UTC)<br/>
 DSS deploys to *Hydrobius* of the Omega sector (2025-01-23 05:46  UTC)<br/>
 
 ### Day: #351
-*Khandark* of the Guang sector is invaded by Illuminate (2025-01-23 11:44  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Lvl 5 Illuminate (2025-01-23 11:44  UTC)<br/>
 *Hydrobius*'s invasion is successful (2025-01-23 13:04  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-01-23 13:04  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-23 13:47  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-01-23 17:33  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-01-23 23:41  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 5 Illuminate (2025-01-23 23:41  UTC)<br/>
 *Khandark*'s invasion is successful (2025-01-23 23:44  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-23 23:44  UTC)<br/>
 
 ### Day: #352
-​​*Bellatrix* of the Guang sector is invaded by Illuminate (2025-01-24 10:49  UTC)<br/>
+​​*Bellatrix* of the Guang sector is invaded by Lvl 4 Illuminate (2025-01-24 10:49  UTC)<br/>
 *Stout*'s invasion is successful (2025-01-24 11:42  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-24 11:42  UTC)<br/>
 Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is issued | Objective: Samples/Control (2025-01-24 13:03  UTC)<br/>
@@ -6191,16 +6191,16 @@ Dispatch: ADVISORY. Counterfeit sample detection measures have been strengthened
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-01-24 17:50  UTC)<br/>
  Decay: 1.0 on Vernen Wells
  (2025-01-24 17:50  UTC)<br/>
-*Termadon* of the Quintus sector is invaded by Illuminate (2025-01-24 22:01  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Lvl 4 Illuminate (2025-01-24 22:01  UTC)<br/>
 *Bellatrix*'s invasion is successful (2025-01-24 22:49  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-24 22:49  UTC)<br/>
 
 ### Day: #353
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-01-25 09:34  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 3 Illuminate (2025-01-25 09:34  UTC)<br/>
 *Termadon*'s invasion is successful (2025-01-25 10:02  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-01-25 10:02  UTC)<br/>
 DSS deploys to *Gacrux* of the Jin Xi sector (2025-01-25 17:52  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-01-25 20:20  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 3 Illuminate (2025-01-25 20:20  UTC)<br/>
 *Alamak VII*'s invasion is successful (2025-01-25 21:35  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-25 21:35  UTC)<br/>
 *Fenrir III* of the Umlaut sector is attacked by Lvl 14 Terminids (2025-01-25 22:50  UTC)<br/>
@@ -6208,12 +6208,12 @@ DSS deploys to *Gacrux* of the Jin Xi sector (2025-01-25 17:52  UTC)<br/>
  (2025-01-26 00:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-01-26 01:16  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-01-26 05:53  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-01-26 07:37  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-01-26 07:37  UTC)<br/>
 *Hadar*'s invasion is successful (2025-01-26 08:20  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-01-26 08:20  UTC)<br/>
 
 ### Day: #354
-*Baldrick Prime* of the Meridian sector is invaded by Illuminate (2025-01-26 18:42  UTC)<br/>
+*Baldrick Prime* of the Meridian sector is invaded by Lvl 4 Illuminate (2025-01-26 18:42  UTC)<br/>
 *Rasp*'s invasion is successful (2025-01-26 19:38  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-26 19:38  UTC)<br/>
 *Fenrir III* defense is won (2025-01-26 21:48  UTC)<br/>
@@ -6221,7 +6221,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-01-26 05:53  UTC)<br/>
  (2025-01-27 00:00  UTC)<br/>
 DSS effect Eagle Storm stops (2025-01-27 01:19  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-01-27 01:56  UTC)<br/>
-*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-27 06:26  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Lvl 4 Illuminate (2025-01-27 06:26  UTC)<br/>
 *Baldrick Prime*'s invasion is successful (2025-01-27 06:42  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-27 06:42  UTC)<br/>
 
@@ -6231,7 +6231,7 @@ Dispatch: INTEL REPORT. Multiple Astronomical Monitoring Stations have reported 
 *Terrek* of the Orion sector is attacked by Lvl 8 Terminids (2025-01-27 14:05  UTC)<br/>
  Decay: 0.0 on Terrek, Phact Bay<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Erata Prime, Gacrux<br/> Decay: 2.5 on Menkent
  (2025-01-27 16:00  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminate (2025-01-27 17:44  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Lvl 4 Illuminate (2025-01-27 17:44  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-01-27 17:57  UTC)<br/>
 *Alairt III*'s invasion is successful (2025-01-27 18:27  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-01-27 18:27  UTC)<br/>
@@ -6240,7 +6240,7 @@ DSS effect Orbital Blockade is activated (2025-01-27 23:44  UTC)<br/>
 *Terrek* defense is won (2025-01-28 02:53  UTC)<br/>
  Decay: 500.0 on Terrek
  (2025-01-28 04:00  UTC)<br/>
-*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-01-28 05:21  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-01-28 05:21  UTC)<br/>
 *Mog*'s invasion is successful (2025-01-28 05:45  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-28 05:45  UTC)<br/>
 DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
@@ -6250,7 +6250,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
 ↳ *Phact Bay* liberation campaign starts (2025-01-28 14:06  UTC)<br/>
 ↳ *Partion* liberation campaign ends (2025-01-28 14:06  UTC)<br/>
 ↳ *Gatria* liberation campaign ends (2025-01-28 14:06  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-01-28 16:41  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 4 Illuminate (2025-01-28 16:41  UTC)<br/>
  Decay: 3.0 on Menkent<br/> Decay: 2.0 on Phact Bay
  (2025-01-28 16:41  UTC)<br/>
 *Zea Rugosia*'s invasion is successful (2025-01-28 17:22  UTC)<br/>
@@ -6258,7 +6258,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-01-28 05:59  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2025-01-28 18:00  UTC)<br/>
 DSS deploys to *Elysian Meadows* of the Guang sector (2025-01-28 22:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-01-28 23:47  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-01-29 03:34  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 5 Illuminate (2025-01-29 03:34  UTC)<br/>
 *Elysian Meadows*'s invasion is repelled (2025-01-29 04:28  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-01-29 04:28  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 06:01  UTC)<br/>
@@ -6270,26 +6270,26 @@ DSS deploys to *Parsh* of the Rictus sector (2025-01-29 10:01  UTC)<br/>
 Major Order | [A2-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-4) Gloom Sample Gathering is won | Objective: Samples/Control (2025-01-29 13:14  UTC)<br/>
 Dispatch: MAJOR ORDER WON. After innumerable scientific expeditions, the Xenoentomology Center has more than enough Terminid specimens to progress development on Gloom-resistant technology. Much work remains, but thanks to the Helldivers, the first expedition into the Gloom—and subsequent acquisition of its potentially vast E-710 reserves—may soon be within reach. Consult the Galactic Map on your Super Destroyer for more information. (2025-01-29 13:17  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2025-01-29 14:02  UTC)<br/>
-*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-01-29 14:15  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Lvl 5 Illuminate (2025-01-29 14:15  UTC)<br/>
 *Parsh*'s invasion is successful (2025-01-29 15:35  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-29 15:35  UTC)<br/>
  Decay: 3.5 on Menkent
  (2025-01-29 22:00  UTC)<br/>
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-01-30 01:29  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 4 Illuminate (2025-01-30 01:29  UTC)<br/>
 *Ilduna Prime*'s invasion is successful (2025-01-30 02:15  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-01-30 02:15  UTC)<br/>
 
 ### Day: #358
-*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-01-30 12:41  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Lvl 4 Illuminate (2025-01-30 12:41  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-01-30 13:30  UTC)<br/>
 *Chort Bay* of the Lacaille sector is established as a Jet Brigade Factories POI (2025-01-30 14:02  UTC)<br/>
 Major Order | [A2-1-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-5) Jet Brigade Factories is issued | Objective: Liberate (2025-01-30 14:05  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Intel from the Staging Grounds for the Automaton Jet Brigade on *Choohe* has finally been deciphered, and the source of the violent unit identified. The Factories that produced the robotic marauders is located on CHORT BAY. The Helldivers are ordered to strike deep into Automaton territory with the objective of liberating CHORT BAY and destroying the Jet Brigade Factories there. (2025-01-30 14:06  UTC)<br/>
-*Skaash* of the Ursa sector is invaded by Illuminate (2025-01-30 16:01  UTC)<br/>
+*Skaash* of the Ursa sector is invaded by Lvl 4 Illuminate (2025-01-30 16:01  UTC)<br/>
  Decay: 0.5 on Vernen Wells<br/> Decay: 3.0 on Chort Bay<br/> Decay: 4.0 on Menkent
  (2025-01-30 16:01  UTC)<br/>
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-01-30 16:02  UTC)<br/>
-*Myrium* of the Morgon sector is invaded by Illuminate (2025-01-30 16:09  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 3 Illuminate (2025-01-30 16:02  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Lvl 3 Illuminate (2025-01-30 16:09  UTC)<br/>
 *Meridia* - *Estanu* warp link is removed (2025-01-30 16:39  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-01-30 18:05  UTC)<br/>
 *Meridia* - *Crimsica* warp link is removed (2025-01-30 20:03  UTC)<br/>
@@ -6303,8 +6303,8 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-01-30 18:05  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-31 04:09  UTC)<br/>
 
 ### Day: #359
-*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-01-31 09:06  UTC)<br/>
-*Kharst* of the Gallux sector is invaded by Illuminate (2025-01-31 09:08  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Lvl 3 Illuminate (2025-01-31 09:06  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-01-31 09:08  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-01-31 09:32  UTC)<br/>
 Dispatch: INTEL REPORT. Long-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity. (2025-01-31 10:36  UTC)<br/>
 *Lesath* is liberated (2025-01-31 16:42  UTC)<br/>
@@ -6316,9 +6316,9 @@ Dispatch: INTEL REPORT. Long-range imagery of CHORT BAY has confirmed the presen
 *Kharst*'s invasion is successful (2025-01-31 21:08  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-31 21:08  UTC)<br/>
 DSS deploys to *Chort Bay* of the Lacaille sector (2025-01-31 22:08  UTC)<br/>
-*Khandark* of the Guang sector is invaded by Illuminate (2025-01-31 22:40  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-01-31 22:41  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2025-01-31 22:41  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Lvl 2 Illuminate (2025-01-31 22:40  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-01-31 22:41  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-01-31 22:41  UTC)<br/>
 *Turing* - *Meridia* warp link is removed (2025-01-31 22:44  UTC)<br/>
 
 # Day: #360
@@ -6329,9 +6329,9 @@ DSS effect Heavy Ordnance Distribution stops (2025-02-01 09:35  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-01 10:41  UTC)<br/>
 *Valmox*'s invasion is successful (2025-02-01 10:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-01 10:41  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-02-01 13:34  UTC)<br/>
-*Senge 23* of the Omega sector is invaded by Illuminate (2025-02-01 16:04  UTC)<br/>
-*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-02-01 19:10  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-01 13:34  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Lvl 2 Illuminate (2025-02-01 16:04  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-02-01 19:10  UTC)<br/>
 *Fenrir III* - *Meridia* warp link is removed (2025-02-01 19:42  UTC)<br/>
  Decay: 5.0 on Menkent
  (2025-02-01 20:00  UTC)<br/>
@@ -6348,7 +6348,7 @@ Assault Division: Jet Brigade U3A deploys to *Menkent* (2025-02-02 06:53  UTC)<b
 Dispatch: STRATEGIC ADVISORY. The Automaton Jet Brigade has been spotted on Planet MENKENT. (2025-02-02 06:57  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-02-02 07:10  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-02 07:10  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-02-02 07:14  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lvl 2 Illuminate (2025-02-02 07:14  UTC)<br/>
 
 ### Day: #361
 DSS effect Orbital Blockade is activated (2025-02-02 14:03  UTC)<br/>
@@ -6358,9 +6358,9 @@ Dispatch: STRATEGIC ALERT. The DSS has confirmed the presence of a rebuilt Autom
 ↳ Leo sector is fully under Human control (2025-02-02 19:17  UTC)<br/>
  Decay: 4.7 on Menkent
  (2025-02-02 19:17  UTC)<br/>
-*Setia* of the Omega sector is invaded by Illuminate (2025-02-02 19:59  UTC)<br/>
-*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-02-02 20:00  UTC)<br/>
+*Setia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-02-02 19:59  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-02-02 20:00  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-02-02 20:00  UTC)<br/>
 *Angel's Venture* - *Meridia* warp link is removed (2025-02-02 20:17  UTC)<br/>
 *Meridia* moves to X 0.5074972 Y 0.20084213 (2025-02-02 20:26  UTC)<br/>
 Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel to the *Meridia* Singularity unadvisable. It will be off-limits to visitation until further notice. (2025-02-02 20:29  UTC)<br/>
@@ -6378,7 +6378,7 @@ Dispatch: TRAVEL ADVISORY. Increased gravitational disturbances have made travel
  Decay: 4.2 on Menkent
  (2025-02-03 09:00  UTC)<br/>
 Dispatch: INTEL REPORT. Through careful analysis of available astronomical data, the Center of Science has successfully modeled the recent fluctuations in spacetime. Experts have long posited the existence of Dark Energy, a repulsive force permeating the universe and accelerating its expansion. By simulating sudden localized Dark Energy loss, the Center has been able to model spacetime fluctuations. The Center is currently exploring how this model maps onto recent Illuminate activity. (2025-02-03 12:10  UTC)<br/>
-*Hydrobius* of the Omega sector is invaded by Illuminate (2025-02-03 13:14  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Lvl 2 Illuminate (2025-02-03 13:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-03 14:07  UTC)<br/>
 *Lesath* of the Lacaille sector is attacked by Lvl 42 Automatons (2025-02-03 16:01  UTC)<br/>
 Assault Division: Jet Brigade U3A leaves *Menkent* (2025-02-03 16:01  UTC)<br/>
@@ -6390,35 +6390,35 @@ Major Order | [A2-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-1) Defe
  (2025-02-03 17:03  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-02-03 19:46  UTC)<br/>
 *Marfark* of the Andromeda sector is attacked by Lvl 7 Automatons (2025-02-03 20:41  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-03 21:21  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-02-03 21:21  UTC)<br/>
  Decay: 0.5 on Aesir Pass<br/> Decay: 0.0 on Marfark
  (2025-02-03 21:21  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-02-03 22:20  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-04 00:26  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-02-04 00:26  UTC)<br/>
 *Hydrobius*'s invasion is successful (2025-02-04 01:16  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-02-04 01:16  UTC)<br/>
 
 ### Day: #363
-*Irulta* of the Saleria sector is invaded by Illuminate (2025-02-04 09:11  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Lvl 2 Illuminate (2025-02-04 09:11  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-04 09:21  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-04 09:21  UTC)<br/>
 Dispatch: INTEL REPORT. The Ministry of Science has confirmed the proposed link between Illuminate activity and the disappearance of large swaths of Dark Energy from our Galaxy. With every invasion, the Illuminate appear to be siphoning off more of this exotic force. The purpose of their actions remains unknown. By measuring spacetime fluctuations, the Ministry of Science is able to estimate how much Dark Energy is being stolen. Trackers on all Galactic Maps have been updated accordingly. (2025-02-04 11:35  UTC)<br/>
 *Kraz*'s invasion is successful (2025-02-04 12:26  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-02-04 12:26  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-02-04 13:18  UTC)<br/>
-*Botein* of the Guang sector is invaded by Illuminate (2025-02-04 16:52  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-04 13:18  UTC)<br/>
+*Botein* of the Guang sector is invaded by Lvl 2 Illuminate (2025-02-04 16:52  UTC)<br/>
 DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
 *Marfark* defense is failed (2025-02-04 20:44  UTC)<br/>
 *Irulta*'s invasion is successful (2025-02-04 21:11  UTC)<br/>
  Decay: 0.5 on Marfark
  (2025-02-04 21:11  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-02-04 23:12  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 2 Illuminate (2025-02-04 23:12  UTC)<br/>
 *RD-4*'s invasion is successful (2025-02-05 01:19  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-05 01:19  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-02-05 02:20  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-02-05 02:20  UTC)<br/>
 *Botein*'s invasion is successful (2025-02-05 04:52  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-02-05 04:52  UTC)<br/>
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-02-05 07:25  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 2 Illuminate (2025-02-05 07:25  UTC)<br/>
 
 ### Day: #364
 *Seasse*'s invasion is successful (2025-02-05 11:12  UTC)<br/>
@@ -6427,7 +6427,7 @@ DSS effect Eagle Storm stops (2025-02-04 19:48  UTC)<br/>
  (2025-02-05 11:12  UTC)<br/>
 *Lesath* defense is won (2025-02-05 13:01  UTC)<br/>
 Assault Division: Jet Brigade U3A is routed from Lesath (2025-02-05 13:01  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-02-05 14:15  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-02-05 14:15  UTC)<br/>
  Decay: 1.5 on Lesath
  (2025-02-05 14:15  UTC)<br/>
 *Stout*'s invasion is successful (2025-02-05 14:21  UTC)<br/>
@@ -6436,40 +6436,40 @@ DSS deploys to *Choohe* of the Lacaille sector (2025-02-05 18:25  UTC)<br/>
 *Meissa* of the Ymir sector is attacked by Lvl 7 Automatons (2025-02-05 19:23  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-02-05 19:25  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-02-05 19:25  UTC)<br/>
-*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-05 21:14  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-02-05 21:14  UTC)<br/>
  Decay: 0.0 on Meissa<br/> Decay: 2.0 on Menkent
  (2025-02-05 21:14  UTC)<br/>
 *Meridia* moves to X 0.5064972 Y 0.19884212 (2025-02-05 21:42  UTC)<br/>
 *Kraz*'s invasion is repelled (2025-02-06 00:23  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-02-06 00:23  UTC)<br/>
 DSS deploys to *Meissa* of the Ymir sector (2025-02-06 02:25  UTC)<br/>
-*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2025-02-06 06:42  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-02-06 06:42  UTC)<br/>
 *Osupsam*'s invasion is repelled (2025-02-06 07:01  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-06 07:01  UTC)<br/>
 
 ### Day: #365
 *Meissa* defense is won (2025-02-06 12:18  UTC)<br/>
 ↳ Ymir sector is fully under Human control (2025-02-06 12:18  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2025-02-06 12:26  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-02-06 12:26  UTC)<br/>
 *Kerth Secundus*'s invasion is repelled (2025-02-06 14:04  UTC)<br/>
  Decay: 500.0 on Meissa
  (2025-02-06 14:04  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-06 14:27  UTC)<br/>
-*Bellatrix* of the Guang sector is invaded by Illuminate (2025-02-06 15:23  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Lvl 2 Illuminate (2025-02-06 15:23  UTC)<br/>
 DSS deploys to *Valmox* of the Rictus sector (2025-02-06 18:28  UTC)<br/>
 *Valmox*'s invasion is repelled (2025-02-06 19:34  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-06 19:34  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-06 22:29  UTC)<br/>
-*Gemma* of the Ursa sector is invaded by Illuminate (2025-02-06 23:11  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Lvl 3 Illuminate (2025-02-06 23:11  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2025-02-06 23:59  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-02-06 23:59  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-02-07 06:31  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lvl 3 Illuminate (2025-02-07 06:31  UTC)<br/>
 *Gemma*'s invasion is repelled (2025-02-07 06:59  UTC)<br/>
 ↳ Ursa sector is fully under Human control (2025-02-07 06:59  UTC)<br/>
 
 ### Day: #366
-*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-02-07 10:17  UTC)<br/>
-*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-07 17:02  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Lvl 3 Illuminate (2025-02-07 10:17  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Lvl 3 Illuminate (2025-02-07 17:02  UTC)<br/>
 Major Order | [A2-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-1) Defend *Chort Bay* is won | Objective: Control (2025-02-07 17:13  UTC)<br/>
 *Propus*'s invasion is successful (2025-02-07 18:34  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-02-07 18:34  UTC)<br/>
@@ -6478,14 +6478,14 @@ Dispatch: MAJOR ORDER WON. The bulk of our deployed SEAF soldiers on *Chort Bay*
 Dispatch: Arsenal Augmentation. The GAS MINES stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact. (2025-02-07 20:32  UTC)<br/>
 *Alathfar XI*'s invasion is repelled (2025-02-07 22:00  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-02-07 22:00  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2025-02-08 01:36  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 3 Illuminate (2025-02-08 01:36  UTC)<br/>
 *Klaka 5*'s invasion is successful (2025-02-08 05:04  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-02-08 05:04  UTC)<br/>
-*Liberty Ridge* of the Meridian sector is invaded by Illuminate (2025-02-08 05:28  UTC)<br/>
+*Liberty Ridge* of the Meridian sector is invaded by Lvl 4 Illuminate (2025-02-08 05:28  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-02-08 06:12  UTC)<br/>
 
 ### Day: #367
-*Ilduna Prime* of the Meridian sector is invaded by Illuminate (2025-02-08 11:15  UTC)<br/>
+*Ilduna Prime* of the Meridian sector is invaded by Lvl 3 Illuminate (2025-02-08 11:15  UTC)<br/>
 *Canopus*'s invasion is successful (2025-02-08 13:36  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-08 13:36  UTC)<br/>
 Major Order | [A2-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-2) Repel 11 Invasions is issued | Objective: Defend (2025-02-08 14:17  UTC)<br/>
@@ -6498,7 +6498,7 @@ Dispatch: PATRIOTIC ANNOUNCEMENT. In recognition of the Helldivers' service, bra
 *Liberty Ridge*'s invasion is successful (2025-02-08 17:28  UTC)<br/>
 DSS deploys to *Ilduna Prime* of the Meridian sector (2025-02-08 18:36  UTC)<br/>
 *Meridia* moves to X 0.49963817 Y 0.19377457 (2025-02-08 19:00  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-08 19:34  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 5 Illuminate (2025-02-08 19:34  UTC)<br/>
 *Ilduna Prime*'s invasion is repelled (2025-02-08 20:29  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-02-08 20:29  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-08 22:36  UTC)<br/>
@@ -6507,7 +6507,7 @@ DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-09 02:37  UTC)<br/>
 *Hesoe Prime*'s invasion is repelled (2025-02-09 02:49  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-09 02:49  UTC)<br/>
 *Meridia* moves to X 0.49641848 Y 0.19192566 (2025-02-09 03:00  UTC)<br/>
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-02-09 03:12  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-02-09 03:12  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-09 06:14  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 06:37  UTC)<br/>
 *Meridia* moves to X 0.49482554 Y 0.19101092 (2025-02-09 07:00  UTC)<br/>
@@ -6515,7 +6515,7 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 06:37  UTC)<br/>
 ### Day: #368
 *Haldus*'s invasion is repelled (2025-02-09 09:20  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-02-09 09:20  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-02-09 10:11  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 5 Illuminate (2025-02-09 10:11  UTC)<br/>
 DSS deploys to *Haldus* of the Ferris sector (2025-02-09 10:39  UTC)<br/>
 *Meridia* moves to X 0.4932545 Y 0.19010876 (2025-02-09 11:00  UTC)<br/>
 DSS deploys to *Seasse* of the Omega sector (2025-02-09 14:40  UTC)<br/>
@@ -6523,7 +6523,7 @@ DSS deploys to *Seasse* of the Omega sector (2025-02-09 14:40  UTC)<br/>
 *Seasse*'s invasion is repelled (2025-02-09 17:46  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-02-09 17:46  UTC)<br/>
 *Meridia* moves to X 0.49013838 Y 0.18831933 (2025-02-09 19:00  UTC)<br/>
-*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-09 20:03  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Lvl 5 Illuminate (2025-02-09 20:03  UTC)<br/>
 Dispatch: TEMPORARY ARSENAL AUGMENTATION. The Orbital Railcannon Strike stratagem has been temporarily authorized for use by all Helldivers. (2025-02-09 21:55  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-09 22:40  UTC)<br/>
 *Meridia* moves to X 0.48862976 Y 0.187453 (2025-02-09 23:00  UTC)<br/>
@@ -6538,7 +6538,7 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2025-02-10 06:42  UTC)<br/>
 ### Day: #369
  Decay: 0.0 on Charon Prime
  (2025-02-10 09:00  UTC)<br/>
-*Emorath* of the Meridian sector is invaded by Illuminate (2025-02-10 10:18  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Lvl 7 Illuminate (2025-02-10 10:18  UTC)<br/>
 *Meridia* moves to X 0.48429146 Y 0.18496174 (2025-02-10 11:00  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-10 14:42  UTC)<br/>
 *Meridia* moves to X 0.48294592 Y 0.18418907 (2025-02-10 15:00  UTC)<br/>
@@ -6546,12 +6546,12 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-10 14:42  UTC)<br
 *Emorath*'s invasion is successful (2025-02-10 22:20  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-02-10 22:20  UTC)<br/>
 *Meridia* moves to X 0.4802862 Y 0.18266174 (2025-02-10 23:00  UTC)<br/>
-*Shete* of the Xi Tauri sector is invaded by Illuminate (2025-02-11 00:44  UTC)<br/>
+*Shete* of the Xi Tauri sector is invaded by Lvl 6 Illuminate (2025-02-11 00:44  UTC)<br/>
 *Meridia* moves to X 0.47899893 Y 0.18192253 (2025-02-11 03:00  UTC)<br/>
 DSS deploys to *Shete* of the Xi Tauri sector (2025-02-11 06:46  UTC)<br/>
 *Meridia* moves to X 0.47772506 Y 0.181191 (2025-02-11 07:00  UTC)<br/>
 *Charon Prime* defense is won (2025-02-11 07:18  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2025-02-11 07:51  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 7 Illuminate (2025-02-11 07:51  UTC)<br/>
  Decay: 0.0 on Charon Prime
  (2025-02-11 07:51  UTC)<br/>
 
@@ -6561,18 +6561,18 @@ DSS deploys to *Shete* of the Xi Tauri sector (2025-02-11 06:46  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-11 11:15  UTC)<br/>
 DSS deploys to *Iro* of the Rictus sector (2025-02-11 14:48  UTC)<br/>
 *Meridia* moves to X 0.4751202 Y 0.17969516 (2025-02-11 15:00  UTC)<br/>
-*Senge 23* of the Omega sector is invaded by Illuminate (2025-02-11 15:33  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Lvl 7 Illuminate (2025-02-11 15:33  UTC)<br/>
 *Meridia* moves to X 0.47377783 Y 0.1789243 (2025-02-11 19:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-02-11 19:28  UTC)<br/>
 *Iro*'s invasion is successful (2025-02-11 19:53  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-11 19:53  UTC)<br/>
 DSS deploys to *Senge 23* of the Omega sector (2025-02-11 22:49  UTC)<br/>
 *Meridia* moves to X 0.4723938 Y 0.17812954 (2025-02-11 23:00  UTC)<br/>
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-02-11 23:34  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 4 Illuminate (2025-02-11 23:34  UTC)<br/>
 *Meridia* moves to X 0.47098598 Y 0.17732109 (2025-02-12 03:00  UTC)<br/>
 *Senge 23*'s invasion is successful (2025-02-12 03:33  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-02-12 03:33  UTC)<br/>
-*Irulta* of the Saleria sector is invaded by Illuminate (2025-02-12 06:33  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Lvl 7 Illuminate (2025-02-12 06:33  UTC)<br/>
 DSS deploys to *Haldus* of the Ferris sector (2025-02-12 06:50  UTC)<br/>
 *Meridia* moves to X 0.4695391 Y 0.17649023 (2025-02-12 07:00  UTC)<br/>
 
@@ -6585,7 +6585,7 @@ DSS deploys to *Irulta* of the Saleria sector (2025-02-12 10:50  UTC)<br/>
 *Meridia* moves to X 0.4665703 Y 0.17478539 (2025-02-12 15:00  UTC)<br/>
 *Angel's Venture* of the Orion sector is now under threat (2025-02-12 15:31  UTC)<br/>
 Dispatch: PRIORITY ALERT. The Meridian Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with ANGEL'S VENTURE. ANGEL'S VENTURE can no longer be saved. Evacuation of high-priority citizens is underway. (2025-02-12 15:33  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-12 16:07  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 5 Illuminate (2025-02-12 16:07  UTC)<br/>
 *Irulta*'s invasion is successful (2025-02-12 18:33  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-12 18:33  UTC)<br/>
 *Meridia* moves to moves to X 0.4650719 Y 0.1739249 (2025-02-12 19:00  UTC)<br/>
@@ -6593,7 +6593,7 @@ DSS effect Eagle Storm stops (2025-02-12 19:30  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-02-12 20:19  UTC)<br/>
 DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-12 22:51  UTC)<br/>
 *Meridia* moves to X 0.4635523 Y 0.1730523 (2025-02-12 23:00  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-02-12 23:17  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 5 Illuminate (2025-02-12 23:17  UTC)<br/>
 *Hesoe Prime*'s invasion is repelled (2025-02-13 00:02  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-13 00:02  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 02:52  UTC)<br/>
@@ -6609,7 +6609,7 @@ DSS deploys to *Rasp* of the Gallux sector (2025-02-13 06:52  UTC)<br/>
  (2025-02-13 09:00  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-13 10:53  UTC)<br/>
 *Meridia* moves to X 0.45903358 Y 0.17045744 (2025-02-13 11:00  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-02-13 13:04  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 5 Illuminate (2025-02-13 13:04  UTC)<br/>
 Major Order | [A2-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-2) Repel 11 Invasions is failed | Objective: Defend (2025-02-13 14:34  UTC)<br/>
 *Angel's Venture* of the Orion sector is annihilated (2025-02-13 14:37  UTC)<br/>
 *Moradesh* of the Celeste sector is now under threat (2025-02-13 14:37  UTC)<br/>
@@ -6632,7 +6632,7 @@ DSS deploys to *Hort* of the Rigel sector (2025-02-13 18:54  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-02-13 20:21  UTC)<br/>
 *Hort*'s invasion is repelled (2025-02-13 21:10  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-13 21:10  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2025-02-13 21:33  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 6 Illuminate (2025-02-13 21:33  UTC)<br/>
 DSS deploys to *Darius II* of the Borgus sector (2025-02-13 22:54  UTC)<br/>
 *Meridia* moves to X 0.45635754 Y 0.16951685 (2025-02-13 23:00  UTC)<br/>
 *Darius II* defense is won (2025-02-13 23:39  UTC)<br/>
@@ -6644,7 +6644,7 @@ DSS deploys to *Keid* of the Akira sector (2025-02-14 02:55  UTC)<br/>
 *Keid*'s invasion is repelled (2025-02-14 05:31  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-02-14 05:31  UTC)<br/>
 *Meridia* moves to X 0.4550757 Y 0.1693595 (2025-02-14 07:00  UTC)<br/>
-*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-02-14 07:31  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Lvl 5 Illuminate (2025-02-14 07:31  UTC)<br/>
 
 ### Day: #373
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 10:55  UTC)<br/>
@@ -6653,7 +6653,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 10:55  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-02-14 13:28  UTC)<br/>
 DSS deploys to *Brink-2* of the Tarragon sector (2025-02-14 14:56  UTC)<br/>
 *Meridia* moves to X 0.4538401 Y 0.16920784 (2025-02-14 15:00  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-02-14 18:21  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 4 Illuminate (2025-02-14 18:21  UTC)<br/>
 *Brink-2*'s invasion is repelled (2025-02-14 18:48  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-14 18:48  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-14 18:56  UTC)<br/>
@@ -6677,13 +6677,13 @@ Major Order | [A2-2-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-3) Repe
  (2025-02-15 12:11  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Terminids are surging at the Gloom border. *Fenrir III* is under attack. The Center of Science on this planet is of vital importance to stopping the Meridian Singularity. The Ministry of Science's top astrophysicists are gathered there, researching both the Singularity itself and the Dark Energy that somehow powers its movement. All Helldivers are ordered to defend *Fenrir III*. The Center of Science must not be lost. (2025-02-15 12:31  UTC)<br/>
 Dispatch: ALERT. A new Terminid strain, likely to have developed inside the Gloom, has been encountered near the Center of Science on *Fenrir III*. The Center's Dark Energy research is now at critical risk. Scattered reports on the new Terminids indicate discoloration, increased intelligence, and drastic changes to hunting patterns. Information remains scarce, as no SEAF units have returned from close encounters. This variant group has been dubbed the Predator Strain. (2025-02-15 12:47  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-02-15 12:58  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-02-15 12:58  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-15 13:31  UTC)<br/>
 *Meridia* moves to X 0.45032343 Y 0.1687762 (2025-02-15 15:00  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-02-15 18:58  UTC)<br/>
 *Meridia* moves to X 0.44980544 Y 0.16871262 (2025-02-15 19:00  UTC)<br/>
 *Meridia* moves to X 0.44929093 Y 0.16864946 (2025-02-15 23:00  UTC)<br/>
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-02-15 23:37  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 4 Illuminate (2025-02-15 23:37  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2025-02-16 00:58  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-02-16 00:58  UTC)<br/>
 
@@ -6691,7 +6691,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-02-15 18:58  UTC)<br/>
 *Meridia* moves to X 0.468060403 Y 0.1756411 (2025-02-16 11:00  UTC)<br/>
 *Oasis*'s invasion is successful (2025-02-16 11:37  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-16 11:37  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-02-16 11:46  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 3 Illuminate (2025-02-16 11:46  UTC)<br/>
 *Meridia* moves to X 0.44722483 Y 0.16839586 (2025-02-16 15:00  UTC)<br/>
 *Meridia* moves to X 0.44671717 Y 0.16833355 (2025-02-16 19:00  UTC)<br/>
 *Fenrir III* defense is won (2025-02-16 22:35  UTC)<br/>
@@ -6702,14 +6702,14 @@ Assault Division: Predator Strain U1A deploys to *Erata Prime* (2025-02-16 22:38
  (2025-02-16 23:00  UTC)<br/>
 *Parsh*'s invasion is successful (2025-02-16 23:47  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-16 23:47  UTC)<br/>
-*Andar* of the Akira sector is invaded by Illuminate (2025-02-17 00:59  UTC)<br/>
+*Andar* of the Akira sector is invaded by Lvl 3 Illuminate (2025-02-17 00:59  UTC)<br/>
 *Meridia* moves to X 0.445719 Y 0.16821104 (2025-02-17 03:00  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
 *Meridia* moves to X 0.44523245 Y 0.16815132 (2025-02-17 07:00  UTC)<br/>
 
 ### Day: #376
 *Meridia* moves to X 0.444749 Y 0.16809197 (2025-02-17 11:00  UTC)<br/>
-*Baldrick Prime* of the Meridian sector is invaded by Illuminate (2025-02-17 12:00  UTC)<br/>
+*Baldrick Prime* of the Meridian sector is invaded by Lvl 3 Illuminate (2025-02-17 12:00  UTC)<br/>
 *Andar*'s invasion is successful (2025-02-17 12:59  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-02-17 12:59  UTC)<br/>
 *Meridia* moves to X 0.44426426 Y 0.16803248 (2025-02-17 15:00  UTC)<br/>
@@ -6717,10 +6717,10 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-02-17 03:01  UTC)<br/>
  (2025-02-17 16:00  UTC)<br/>
 *Meridia* moves to X 0.44377872 Y 0.16797288 (2025-02-17 19:00  UTC)<br/>
 *Meridia* moves to X 0.443297 Y 0.16791375 (2025-02-17 23:00  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2025-02-17 23:59  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-02-17 23:59  UTC)<br/>
 *Baldrick Prime*'s invasion is successful (2025-02-18 00:00  UTC)<br/>
 *Meridia* moves to X 0.44281846 Y 0.16785501 (2025-02-18 03:00  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminate (2025-02-18 06:43  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Lvl 3 Illuminate (2025-02-18 06:43  UTC)<br/>
 *Meridia* moves to X 0.44234326 Y 0.16779669 (2025-02-18 07:00  UTC)<br/>
 
 ### Day: #377
@@ -6752,7 +6752,7 @@ Assault Division: Spore Burst Strain U1A leaves *Fori Prime* (2025-02-18 14:18  
  Decay: 15.0 on Fori Prime
  (2025-02-18 14:18  UTC)<br/>
 *Meridia* moves to X 0.44134736 Y 0.16767445 (2025-02-18 15:00  UTC)<br/>
-*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-02-18 15:11  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Lvl 3 Illuminate (2025-02-18 15:11  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
  Decay: 10.0 on Fori Prime
  (2025-02-18 16:00  UTC)<br/>
@@ -6761,7 +6761,7 @@ DSS deploys to *Mog* of the Morgon sector (2025-02-18 15:16  UTC)<br/>
 *Meridia* moves to X 0.44079316 Y 0.16760643 (2025-02-18 19:00  UTC)<br/>
 *Meridia* moves to X 0.440225 Y 0.16753669 (2025-02-18 23:00  UTC)<br/>
 DSS deploys to *Klaka 5* of the Alstrad sector (2025-02-18 23:17  UTC)<br/>
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-02-18 23:18  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 2 Illuminate (2025-02-18 23:18  UTC)<br/>
 *Meridia* moves to X 0.43964475 Y 0.16746548 (2025-02-19 03:00  UTC)<br/>
 *Klaka 5*'s invasion is successful (2025-02-19 03:11  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2025-02-19 03:11  UTC)<br/>
@@ -6770,7 +6770,7 @@ DSS deploys to *Heze Bay* of the Hanzo sector (2025-02-19 07:17  UTC)<br/>
 NOTE: Predator Strain map icon and text appear on *Fori Prime* but the actual enemies are not yet spawnable due to the id effect for them not being applied. The icon and text is later removed at 01:23pm the same day (2025-02-19 08:38  UTC)<br/>
 
 ### Day: #378
-*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-02-19 10:14  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Lvl 3 Illuminate (2025-02-19 10:14  UTC)<br/>
 *Meridia* moves to X 0.4384542 Y 0.16731934 (2025-02-19 11:00  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-02-19 11:18  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-02-19 11:18  UTC)<br/>
@@ -6783,7 +6783,7 @@ Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Repo
  (2025-02-19 14:41  UTC)<br/>
 *Moradesh* moves to X 0.3172561 Y 0.15246321 (2025-02-19 15:00  UTC)<br/>
 *Moradesh* moves to X 0.31666064 Y 0.15239012 (2025-02-19 19:00  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-02-19 19:44  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-19 19:44  UTC)<br/>
 *Meridia* moves to X 0.42139462 Y 0.16522539 (2025-02-19 19:47  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-19 19:47  UTC)<br/>
 *Ras Algethi*'s invasion is successful (2025-02-19 22:14  UTC)<br/>
@@ -6791,7 +6791,7 @@ Dispatch: ALERT. Predator Strain Terminids have been sighted on FORI PRIME. Repo
 *Meridia* moves to X 0.42115816 Y 0.16519637 (2025-02-19 23:00  UTC)<br/>
 *Meridia* moves to X 0.4208622 Y 0.16516005 (2025-02-20 03:00  UTC)<br/>
 DSS deploys to *Hesoe Prime* of the Rigel sector (2025-02-20 03:19  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-02-20 03:43  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-20 03:43  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-02-20 06:05  UTC)<br/>
 *Meridia* moves to X 0.42056197 Y 0.1651232 (2025-02-20 07:00  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2025-02-20 07:44  UTC)<br/>
@@ -6801,13 +6801,13 @@ DSS effect Eagle Storm is activated (2025-02-20 06:05  UTC)<br/>
  (2025-02-20 09:00  UTC)<br/>
 *Meridia* moves to X 0.42025197 Y 0.16508514 (2025-02-20 11:00  UTC)<br/>
 DSS deploys to *Hort* of the Rigel sector (2025-02-20 11:20  UTC)<br/>
-*Genesis Prime* of the Rictus sector is invaded by Illuminate (2025-02-20 13:41  UTC)<br/>
+*Genesis Prime* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-02-20 13:41  UTC)<br/>
 ​​*Meridia* moves to X 0.41994244 Y 0.16504715 (2025-02-20 15:00  UTC)<br/>
 *Hort*'s invasion is successful (2025-02-20 15:43  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-20 15:43  UTC)<br/>
 *Meridia* moves to X 0.41962686 Y 0.16500841 (2025-02-20 19:00  UTC)<br/>
 DSS deploys to *Genesis Prime* of the Rictus sector (2025-02-20 19:20  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-02-20 21:53  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 2 Illuminate (2025-02-20 21:53  UTC)<br/>
  Decay: 7.0 on Fori Prime
  (2025-02-20 21:53  UTC)<br/>
 *Meridia* moves to X 0.4193123 Y 0.1649698 (2025-02-20 23:00  UTC)<br/>
@@ -6815,7 +6815,7 @@ DSS deploys to *Genesis Prime* of the Rictus sector (2025-02-20 19:20  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-21 01:41  UTC)<br/>
 *Meridia* moves to X 0.4189873 Y 0.16492991 (2025-02-21 03:00  UTC)<br/>
 DSS deploys to *Elysian Meadows* of the Guang sector (2025-02-21 03:22  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-21 05:12  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-02-21 05:12  UTC)<br/>
 DSS effect Eagle Storm stops (2025-02-21 06:07  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-02-21 06:44  UTC)<br/>
 *Meridia* moves to X 0.418658 Y 0.16488948 (2025-02-21 07:00  UTC)<br/>
@@ -6825,11 +6825,11 @@ DSS effect Orbital Blockade is activated (2025-02-21 06:44  UTC)<br/>
  (2025-02-21 09:00  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-02-21 09:54  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-02-21 09:54  UTC)<br/>
-*Spherion* of the Quintus sector is invaded by Illuminate (2025-02-21 10:20  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-02-21 10:20  UTC)<br/>
 *Meridia* moves to X 0.41831577 Y 0.1648475 (2025-02-21 11:00  UTC)<br/>
 DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-21 11:22  UTC)<br/>
 *Meridia* moves to X 0.4179593 Y 0.16480373 (2025-02-21 15:00  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2025-02-21 16:30  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-02-21 16:30  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-21 17:12  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-21 17:12  UTC)<br/>
 *Meridia* moves to X 0.4175849 Y 0.16475777 (2025-02-21 19:00  UTC)<br/>
@@ -6841,7 +6841,7 @@ DSS deploys to *Spherion* of the Quintus sector (2025-02-21 19:23  UTC)<br/>
 *Meridia* moves to X 0.4171933 Y 0.1647097 (2025-02-21 23:00  UTC)<br/>
 DSS deploys to *Iro* of the Rictus sector (2025-02-21 23:23  UTC)<br/>
 *Meridia* moves to X 0.4167972 Y 0.1646611 (2025-02-22 03:00  UTC)<br/>
-*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-02-22 04:26  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-02-22 04:26  UTC)<br/>
 *Iro*'s invasion is successful (2025-02-22 04:30  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-02-22 04:30  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-22 06:47  UTC)<br/>
@@ -6855,13 +6855,13 @@ DSS deploys to *Siemnot* of the Xi Tauri sector (2025-02-22 11:24  UTC)<br/>
  Decay: 4.0 on Fori Prime
  (2025-02-22 12:00  UTC)<br/>
 *Meridia* moves to X 0.41561884 Y 0.16451645 (2025-02-22 15:00  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-02-22 15:07  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-22 15:07  UTC)<br/>
 *Siemnot*'s invasion is successful (2025-02-22 16:26  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-02-22 16:26  UTC)<br/>
 *Meridia* moves to X 0.4152246 Y 0.16446806 (2025-02-22 19:00  UTC)<br/>
 DSS deploys to *RD-4* of the Rigel sector (2025-02-22 19:25  UTC)<br/>
 *Meridia* moves to X 0.41483104 Y 0.16441976 (2025-02-22 23:00  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-02-23 01:05  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-02-23 01:05  UTC)<br/>
  Decay: 3.0 on Fori Prime
  (2025-02-23 01:05  UTC)<br/>
 *Meridia* moves to X 0.4576778 Y 0.1696789 (2025-02-23 02:42  UTC)<br/>
@@ -6877,7 +6877,7 @@ DSS deploys to *Acubens Prime* of the Gallux sector (2025-02-23 07:26  UTC)<br/>
 *Moradesh* moves to X 0.29306585 Y 0.14949402 (2025-02-23 10:45  UTC)<br/>
 *Meridia* moves to X 0.41365007 Y 0.16427477 (2025-02-23 11:02  UTC)<br/>
 *Moradesh* moves to X 0.33707795 Y 0.1548962 (2025-02-23 11:02  UTC)<br/>
-*Myrium* of the Morgon sector is invaded by Illuminate (2025-02-23 12:27  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Lvl 2 Illuminate (2025-02-23 12:27  UTC)<br/>
 Dispatch: ALERT. The Gloom cover on *Fori Prime* is predicted to thicken over the coming hours. The equipment enabling the Helldivers' Gloom expedition is designed to withstand low spore levels only. Given the heightened risk, there will be no further operations on *Fori Prime* after the current Major Order is completed. (2025-02-23 12:32  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-02-23 13:06  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-02-23 13:06  UTC)<br/>
@@ -6886,7 +6886,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-02-23 15:27  UTC)<br/>
 *Meridia* moves to X 0.41296208 Y 0.16419075 (2025-02-23 19:00  UTC)<br/>
 DSS deploys to *Myrium* of the Morgon sector (2025-02-23 19:28  UTC)<br/>
 *Meridia* moves to X 0.41261867 Y 0.16414881 (2025-02-23 23:00  UTC)<br/>
-*Bashyr* of the Gallux sector is invaded by Illuminate (2025-02-23 23:24  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-02-23 23:24  UTC)<br/>
 *Myrium*'s invasion is successful (2025-02-24 00:28  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-02-24 00:28  UTC)<br/>
 *Fori Prime* is liberated (2025-02-24 02:52  UTC)<br/>
@@ -6903,7 +6903,7 @@ DSS deploys to *Bashyr* of the Gallux sector (2025-02-24 03:28  UTC)<br/>
 *Fori Prime* liberation campaign ends (2025-02-24 07:04  UTC)<br/>
 *Fori Prime* is now unobservable due to the Gloom (2025-02-24 07:04  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully plunged through the impenetrable Gloom and surveyed one of its Terminid-plagued worlds. The results from this survey confirm that Gloom-mutated Terminid populations are saturated with high-yield specimens. The influx of E-710 secured during this operation will enable accelerated research on the Meridian Singularity. It is only a matter of time until we know how the Illuminate are moving the Singularity—and how to stop it. (2025-02-24 07:04  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-02-24 08:57  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-02-24 08:57  UTC)<br/>
 
 ### Day: #383
 *Meridia* moves to X 0.41159394 Y 0.16402367 (2025-02-24 11:00  UTC)<br/>
@@ -6918,7 +6918,7 @@ DSS deploys to *Martale* of the Andromeda sector (2025-02-24 15:30  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-02-24 18:39  UTC)<br/>
 *Meridia* moves to X 0.41093177 Y 0.1639428 (2025-02-24 19:00  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-24 19:30  UTC)<br/>
-*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-02-24 19:55  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-02-24 19:55  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-02-24 21:17  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-02-24 21:19  UTC)<br/>
 *Meridia* moves to X 0.41060728 Y 0.16390318 (2025-02-24 23:00  UTC)<br/>
@@ -6934,7 +6934,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-02-25 03:31  UTC)<br/>
 *Rirga Bay*'s invasion is successful (2025-02-25 07:56  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-02-25 07:56  UTC)<br/>
 *Grand Errant* of the Farsight sector is attacked by Lvl 17 Terminids (2025-02-25 08:37  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-02-25 08:38  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-02-25 08:38  UTC)<br/>
 
 ### Day: #384
  Decay: 0.0 on Grand Errant
@@ -6965,7 +6965,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons have launched a brazen attack, underha
  (2025-02-25 16:34  UTC)<br/>
 *Meridia* moves to X 0.4090176 Y 0.16370903 (2025-02-25 19:00  UTC)<br/>
 DSS deploys to *Martale* of the Andromeda sector (2025-02-25 19:32  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-02-25 19:43  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lvl 3 Illuminate (2025-02-25 19:43  UTC)<br/>
 *Stout*'s invasion is successful (2025-02-25 20:38  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-02-25 20:38  UTC)<br/>
 *Meridia* moves to X 0.4087029 Y 0.1636706 (2025-02-25 23:00  UTC)<br/>
@@ -6976,7 +6976,7 @@ DSS effect Orbital Blockade activates (2025-02-26 06:56  UTC)<br/>
 Dispatch: NOTICE. The Democratic Council has decreed that all spacefaring vessels must submit to full cargo inspections biweekly (twice a week), rather than the previous biweekly (once every two weeks). To ensure compliance, the Super Store will be unavailable over the coming hours. (2025-02-26 07:17  UTC)<br/>
 *Propus*'s invasion is successful (2025-02-26 07:44  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-02-26 07:44  UTC)<br/>
-*Khandark* of the Guang sector is invaded by Illuminate (2025-02-26 08:14  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Lvl 3 Illuminate (2025-02-26 08:14  UTC)<br/>
 *Grand Errant* defense is failed (2025-02-26 08:38  UTC)<br/>
 ↳ *Grand Errant* liberation campaign starts (2025-02-26 08:38  UTC)<br/>
 
@@ -6998,7 +6998,7 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br
  Decay: 2.0 on Charon Prime
  (2025-02-26 18:00  UTC)<br/>
 *Meridia* moves to X 0.40715343 Y 0.16348137 (2025-02-26 19:00  UTC)<br/>
-​​*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-02-26 19:35  UTC)<br/>
+​​*Osupsam* of the Tarragon sector is invaded by Lvl 3 Illuminate (2025-02-26 19:35  UTC)<br/>
 *Khandark*'s invasion is successful (2025-02-26 20:15  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-02-26 20:15  UTC)<br/>
 *Bekvam III* of the Nanos sector is attacked by Lvl 24 Automatons (2025-02-26 22:28  UTC)<br/>
@@ -7007,7 +7007,7 @@ DSS deploys to *Charon Prime* of the Andromeda sector (2025-02-26 15:34  UTC)<br
  (2025-02-26 23:00  UTC)<br/>
 *Meridia* moves to X 0.4065411 Y 0.1634066 (2025-02-27 03:00  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-02-27 03:36  UTC)<br/>
-*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-02-27 06:20  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Lvl 3 Illuminate (2025-02-27 06:20  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-02-27 06:58  UTC)<br/>
 *Meridia* moves to X 0.40623695 Y 0.16336945 (2025-02-27 07:00  UTC)<br/>
 *Charbal-VII* of the Andromeda sector is attacked by Lvl 20 Automatons (2025-02-27 07:25  UTC)<br/>
@@ -7034,7 +7034,7 @@ Dispatch: STRATEGIC UPDATE. A sudden and unexpected collapse in Automaton capabi
 *Charon Prime* is liberated (2025-02-27 17:25  UTC)<br/>
 ↳ *Charbal-VII* defense is auto-won via gambit (2025-02-27 17:25  UTC)<br/>
 ↳ *Martale* liberation campaign starts (2025-02-27 17:25  UTC)<br/>
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-02-27 17:53  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 3 Illuminate (2025-02-27 17:53  UTC)<br/>
  Decay: 0.0 on Charbal-VII
  (2025-02-27 17:53  UTC)<br/>
 The Second Galactic War is paused (2025-02-27 18:20  UTC)<br/>
@@ -7051,13 +7051,13 @@ DSS effect Eagle Storm is activated (2025-02-28 20:23  UTC)<br/>
 *Meridia* moves to X 0.40474656 Y 0.16318744 (2025-02-28 23:00  UTC)<br/>
 *Alamak VII*'s invasion is successful (2025-03-01 01:53  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-03-01 01:53  UTC)<br/>
-*Afoyay Bay* of the Gallux sector is invaded by Illuminate (2025-03-01 02:47  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-03-01 02:47  UTC)<br/>
 *Meridia* moves to X 0.4044535 Y 0.16315165 (2025-03-01 03:00  UTC)<br/>
 *Meridia* moves to X 0.40416458 Y 0.16311637 (2025-03-01 07:00  UTC)<br/>
 
 ### Day: #388
 *Meridia* moves to X 0.4038774 Y 0.16308129 (2025-03-01 11:00  UTC)<br/>
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-03-01 13:58  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-03-01 13:58  UTC)<br/>
 *Afoyay Bay*'s invasion is successful (2025-03-01 14:48  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-01 14:48  UTC)<br/>
 *Meridia* moves to X 0.4035911 Y 0.16304633 (2025-03-01 15:00  UTC)<br/>
@@ -7072,7 +7072,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
  Decay: 0.0 on Blistica
  (2025-03-01 22:23  UTC)<br/>
 *Meridia* moves to X 0.40301758 Y 0.16297628 (2025-03-01 23:00  UTC)<br/>
-*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-03-02 01:43  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-03-02 01:43  UTC)<br/>
 *Haldus*'s invasion is successful (2025-03-02 01:57  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-02 01:57  UTC)<br/>
 *Meridia* moves to X 0.40273285 Y 0.16294152 (2025-03-02 03:00  UTC)<br/>
@@ -7083,7 +7083,7 @@ DSS deploys to *Meissa* of the Ymir sector (2025-03-01 22:23  UTC)<br/>
 
 ### Day: #389
 *Meridia* moves to X 0.40216672 Y 0.16287237 (2025-03-02 11:00  UTC)<br/>
-*Setia* of the Omega sector is invaded by Illuminate (2025-03-02 12:26  UTC)<br/>
+*Setia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-03-02 12:26  UTC)<br/>
 Major Order | [A2-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-5) Trolley Problem 2.0 is won | Objective: Control (2025-03-02 12:55  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Against all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. Consult the Galactic Map on your ship for more information. (2025-03-02 12:59  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-03-02 13:44  UTC)<br/>
@@ -7103,7 +7103,7 @@ DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
 *Meridia* moves to X 0.40159914 Y 0.16280307 (2025-03-02 19:00  UTC)<br/>
 *Setia*'s invasion is repelled (2025-03-02 20:23  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-02 20:23  UTC)<br/>
-*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-03-02 22:13  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Lvl 3 Illuminate (2025-03-02 22:13  UTC)<br/>
 *Blistica* defense is failed (2025-03-02 22:14  UTC)<br/>
 ↳ *Blistica* liberation campaign starts (2025-03-02 22:14  UTC)<br/>
 ↳ *Yed Prior* liberation campaign ends (2025-03-02 22:14  UTC)<br/>
@@ -7118,20 +7118,20 @@ DSS deploys to *Claorell* of the Tanis sector (2025-03-02 18:25  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-03-03 06:45  UTC)<br/>
  Decay: 3.0 on Chort Bay
  (2025-03-03 06:45  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-03-03 06:54  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 4 Illuminate (2025-03-03 06:54  UTC)<br/>
 *Meridia* moves to X 0.400773 Y 0.16270217 (2025-03-03 07:00  UTC)<br/>
 
 # Day: #390
 *Meridia* moves to X 0.4005026 Y 0.16266915 (2025-03-03 11:00  UTC)<br/>
 *Meridia* moves to X 0.40023375 Y 0.16263631 (2025-03-03 15:00  UTC)<br/>
-*Kharst* of the Gallux sector is invaded by Illuminate (2025-03-03 16:55  UTC)<br/>
+*Kharst* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-03-03 16:55  UTC)<br/>
  Decay: 1.0 on Clasa
  (2025-03-03 16:55  UTC)<br/>
 *Parsh*'s invasion is successful (2025-03-03 18:54  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-03 18:54  UTC)<br/>
 *Meridia* moves to X 0.39996415 Y 0.1626034 (2025-03-03 19:00  UTC)<br/>
 *Meridia* moves to X 0.39969048 Y 0.16256997 (2025-03-03 23:00  UTC)<br/>
-*Andar* of the Akira sector is invaded by Illuminate (2025-03-04 01:57  UTC)<br/>
+*Andar* of the Akira sector is invaded by Lvl 5 Illuminate (2025-03-04 01:57  UTC)<br/>
 *Meridia* moves to X 0.399418 Y 0.1625367 (2025-03-04 03:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
 *Kharst*'s invasion is successful (2025-03-04 04:56  UTC)<br/>
@@ -7139,7 +7139,7 @@ DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
 *Meridia* moves to X 0.39913762 Y 0.16250245 (2025-03-04 07:00  UTC)<br/>
 
 ### Day: #391
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-03-04 10:27  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 4 Illuminate (2025-03-04 10:27  UTC)<br/>
 *Meridia* moves to X 0.39885685 Y 0.16246817 (2025-03-04 11:00  UTC)<br/>
 *Andar*'s invasion is successful (2025-03-04 13:57  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-03-04 13:57  UTC)<br/>
@@ -7149,30 +7149,30 @@ DSS effect Orbital Blockade is activated (2025-03-04 04:37  UTC)<br/>
  Decay: 3.0 on Claorell
  (2025-03-04 15:00  UTC)<br/>
 *Meridia* moves to X 0.39827725 Y 0.16239738 (2025-03-04 19:00  UTC)<br/>
-*Senge 23* of the Omega sector is invaded by Illuminate (2025-03-04 20:55  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Lvl 4 Illuminate (2025-03-04 20:55  UTC)<br/>
 *Oasis*'s invasion is successful (2025-03-04 22:27  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-04 22:27  UTC)<br/>
 *Meridia* moves to X 0.3979859 Y 0.1623618 (2025-03-04 23:00  UTC)<br/>
 *Meridia* moves to X 0.39769188 Y 0.16232589 (2025-03-05 03:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-03-05 05:11  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 4 Illuminate (2025-03-05 05:11  UTC)<br/>
 *Meridia* moves to X 0.397398 Y 0.16229 (2025-03-05 07:00  UTC)<br/>
 *Senge 23*'s invasion is successful (2025-03-05 08:56  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-05 08:56  UTC)<br/>
 
 ### Day: #392
 *Meridia* moves to X 0.39709434 Y 0.16225292 (2025-03-05 11:00  UTC)<br/>
-*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-03-05 13:30  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Lvl 3 Illuminate (2025-03-05 13:30  UTC)<br/>
 *Meridia* moves to X 0.3967893 Y 0.16221566 (2025-03-05 15:00  UTC)<br/>
 *Hort*'s invasion is successful (2025-03-05 17:11  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-05 17:11  UTC)<br/>
 *Meridia* moves to X 0.3964754 Y 0.16217734 (2025-03-05 19:00  UTC)<br/>
-*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-03-05 22:10  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Lvl 4 Illuminate (2025-03-05 22:10  UTC)<br/>
 *Meridia* moves to X 0.3961597 Y 0.16213877 (2025-03-05 23:00  UTC)<br/>
 *Zea Rugosia*'s invasion is successful (2025-03-06 01:30  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-06 01:30  UTC)<br/>
 *Meridia* moves to X 0.39583623 Y 0.16209927 (2025-03-06 03:00  UTC)<br/>
-​​*Propus* of the Leo sector is invaded by Illuminate (2025-03-06 05:11  UTC)<br/>
+​​*Propus* of the Leo sector is invaded by Lvl 4 Illuminate (2025-03-06 05:11  UTC)<br/>
 *Meridia* moves to X 0.39550966 Y 0.1620594 (2025-03-06 07:00  UTC)<br/>
 *Claorell* is liberated (2025-03-06 08:12  UTC)<br/>
 
@@ -7180,7 +7180,7 @@ DSS effect Orbital Blockade stops (2025-03-05 04:39  UTC)<br/>
 *Ras Algethi*'s invasion is successful (2025-03-06 10:10  UTC)<br/>
 DSS deploys to *Propus* of the Leo sector (2025-03-06 10:34  UTC)<br/>
 *Meridia* moves to X 0.39517206 Y 0.16201816 (2025-03-06 11:00  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-03-06 14:11  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-03-06 14:11  UTC)<br/>
 Major Order | [A2-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-1) Repel Illuminate or Defend *Claorell* is won | Objective: Control/Defend (2025-03-06 14:33  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Automatons have been repelled from *Claorell*. The Deep Mantle Forge Complex remains within our domain, secure from being bent to despotic means. The scientists at the *Moradesh* Research Facility did not have enough time to complete their experiments. They have been evacuated, as the planet's inevitable destruction nears. (2025-03-06 14:33  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
@@ -7188,11 +7188,11 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-06 14:34  UTC)<br/>
 *Propus*'s invasion is successful (2025-03-06 17:12  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-03-06 17:12  UTC)<br/>
 *Meridia* moves to X 0.39448172 Y 0.16193385 (2025-03-06 19:00  UTC)<br/>
-*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-06 22:23  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-03-06 22:23  UTC)<br/>
 *Meridia* moves to X 0.39413172 Y 0.16189112 (2025-03-06 23:00  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-03-07 02:11  UTC)<br/>
 *Meridia* moves to X 0.39377385 Y 0.16184741 (2025-03-07 03:00  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-03-07 04:59  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-03-07 04:59  UTC)<br/>
 *Meridia* moves to X 0.39341033 Y 0.161803 (2025-03-07 07:00  UTC)<br/>
 
 ### Day: #394
@@ -7204,7 +7204,7 @@ Dispatch: NEW MAJOR ORDER. Analysis of gravitational waves has revealed that the
 Dispatch: STRATEGIC ALERT. Supply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal. However, rapid liberation of the Terminid-infested planet BORE ROCK would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. (2025-03-07 16:20  UTC)<br/>
 *Darius II* of the Borgus sector is attacked by Lvl 18 Terminids (2025-03-07 16:21  UTC)<br/>
 *Mintoria* of the Gellert sector is attacked by Lvl 15 Automatons (2025-03-07 16:22  UTC)<br/>
-*Gemma* of the Ursa sector is invaded by Illuminate (2025-03-07 16:50  UTC)<br/>
+*Gemma* of the Ursa sector is invaded by Lvl 4 Illuminate (2025-03-07 16:50  UTC)<br/>
  Decay: 1.5 on Bore Rock<br/> Decay: 0.0 on Darius II, Mintoria
  (2025-03-07 16:50  UTC)<br/>
 *Rasp*'s invasion is successful (2025-03-07 16:59  UTC)<br/>
@@ -7216,13 +7216,13 @@ DSS effect Heavy Ordnance Distribution is activated (2025-03-08 00:43  UTC)<br/>
 *Meridia* moves to X 0.39152548 Y 0.16157283 (2025-03-08 03:00  UTC)<br/>
 *Gemma*'s invasion is successful (2025-03-08 04:51  UTC)<br/>
 ↳ Ursa sector is fully under Human control (2025-03-08 04:51  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-03-08 05:25  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 3 Illuminate (2025-03-08 05:25  UTC)<br/>
 *Meridia* moves to X 0.39115268 Y 0.1615273 (2025-03-08 07:00  UTC)<br/>
 
 ### Day: #395
 *Meridia* moves to X 0.39078254 Y 0.1614821 (2025-03-08 11:00  UTC)<br/>
 *Meridia* moves to X 0.39041424 Y 0.16143712 (2025-03-08 15:00  UTC)<br/>
-*Spherion* of the Quintus sector is invaded by Illuminate (2025-03-08 16:04  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Lvl 3 Illuminate (2025-03-08 16:04  UTC)<br/>
 *Darius II* defense is failed (2025-03-08 16:22  UTC)<br/>
 ↳ *Darius II* liberation campaign starts (2025-03-08 16:22  UTC)<br/>
 ↳ *Phact Bay* liberation campaign ends (2025-03-08 16:22  UTC)<br/>
@@ -7251,7 +7251,7 @@ NOTE: This is the third time in history that the Second Galactic War has been �
 
 ### Day: #397
 The Second Galactic War is no longer paused (2025-03-10 09:45  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-03-10 10:30  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 3 Illuminate (2025-03-10 10:30  UTC)<br/>
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Erson Sands, Chort Bay, Claorell, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Sten sector, Draco sector, Talus sector, Tanis sector, Falstaff sector, L'estrade sector, Jin Xi sector, Farsight sector, Lacaille sector, Ymir sector, Valdis sector, Mirin sector<br/> Decay: 1.0 on Marspira sector, Talus sector, Falstaff sector, Orion sector, Borgus sector, Jin Xi sector, Tanis sector, Andromeda sector<br/> Decay: 0.5 on Shelt, Blistica, Bekvam III, Vernen Wells, Gar Haren<br/> Decay: 0.25 on Cirrus<br/> Decay: 2.0 on Orion sector, Sten sector, Hydra sector, Umlaut sector, Andromeda sector, Jin Xi sector<br/> Decay: 2.5 on Aurora Bay, Penta, Turing, Angel's Venture, Choohe, Erata Prime<br/> Decay: 0.0 on Charbal-VII, Mintoria<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2025-03-10 10:30  UTC)<br/>
 *Meridia* moves to X 0.36996076 Y 0.16123913 (2025-03-10 11:00  UTC)<br/>
@@ -7262,7 +7262,7 @@ DSS effect Eagle Storm is activated (2025-03-10 11:47  UTC)<br/>
 *Meridia* moves to X 0.36667815 Y 0.15998812 (2025-03-10 19:00  UTC)<br/>
 *Meridia* changes from Orion to Celeste sector (2025-03-10 19:07  UTC)<br/>
 DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-03-10 21:46  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-03-10 22:02  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 3 Illuminate (2025-03-10 22:02  UTC)<br/>
 ​​*Hort*'s invasion is successful (2025-03-10 22:31  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-10 22:31  UTC)<br/>
 *Meridia* moves to X 0.36504653 Y 0.15936628 (2025-03-10 23:00  UTC)<br/>
@@ -7270,7 +7270,7 @@ DSS deploys to *Zzaniah Prime* of the Gellert sector (2025-03-10 21:46  UTC)<br/
 *Meridia* moves to X 0.3617875 Y 0.15812425 (2025-03-11 07:00  UTC)<br/>
 
 ### Day: #398
-*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-11 09:17  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-03-11 09:17  UTC)<br/>
 *Zzaniah Prime* defense is won (2025-03-11 09:42  UTC)<br/>
 *Hadar*'s invasion is successful (2025-03-11 10:02  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-11 10:02  UTC)<br/>
@@ -7284,7 +7284,7 @@ DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-11 13:48  UTC)<br/>
  (2025-03-11 13:48  UTC)<br/>
 *Meridia* moves to X 0.35854077 Y 0.1568869 (2025-03-11 15:00  UTC)<br/>
 *Meridia* moves to X 0.3569224 Y 0.15627013 (2025-03-11 19:00  UTC)<br/>
-*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-03-11 20:26  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Lvl 3 Illuminate (2025-03-11 20:26  UTC)<br/>
 *Bashyr*'s invasion is successful (2025-03-11 21:16  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-11 21:16  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2025-03-11 21:48  UTC)<br/>
@@ -7298,7 +7298,7 @@ Dispatch: STRATEGIC ALERT. The liberation of BORE ROCK from the Terminids has ca
 *Meridia* moves to X 0.35368332 Y 0.1550357 (2025-03-12 03:00  UTC)<br/>
 DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-12 05:49  UTC)<br/>
 *Meridia* moves to X 0.35207206 Y 0.15442163 (2025-03-12 07:00  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-03-12 07:14  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lvl 2 Illuminate (2025-03-12 07:14  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-03-12 08:26  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-03-12 08:26  UTC)<br/>
 
@@ -7306,7 +7306,7 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-03-12 05:49  UTC)<br/>
 *Meridia* moves to X 0.35044956 Y 0.15380329 (2025-03-12 11:00  UTC)<br/>
 *Chort Bay* of the Lacaille sector's Jet Brigade Factories POI is removed (2025-03-12 13:24  UTC)<br/>
 *Meridia* moves to X 0.34897754 Y 0.15322481 (2025-03-12 15:00  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-03-12 18:24  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-03-12 18:24  UTC)<br/>
 *Meridia* moves to X 0.34852955 Y 0.15283987 (2025-03-12 19:00  UTC)<br/>
 *Propus*'s invasion is successful (2025-03-12 19:14  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-03-12 19:14  UTC)<br/>
@@ -7315,7 +7315,7 @@ DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
 *Meridia* moves to X 0.34763095 Y 0.15206775 (2025-03-13 03:00  UTC)<br/>
 *RD-4*'s invasion is successful (2025-03-13 06:24  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-13 06:24  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2025-03-13 06:51  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-03-13 06:51  UTC)<br/>
 *Meridia* moves to X 0.34718513 Y 0.15168467 (2025-03-13 07:00  UTC)<br/>
 
 # Day: #400
@@ -7330,7 +7330,7 @@ DSS effect Orbital Blockade stops (2025-03-12 22:57  UTC)<br/>
 *Meridia* moves to X 0.34586495 Y 0.1505503 (2025-03-13 19:00  UTC)<br/>
 Major Order | [A2-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-2) Blockade the Singularity is failed | Objective: Eradicate (2025-03-13 19:35  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. Following days of diligent resource collection and repurposing of enemy combatants, the Helldivers have enabled the construction of a partial blockade of the Meridian Singularity. Scrap metal collection efforts were below target, resulting in a barrier that is porous, but still moderately effective. Consult your Galactic Map for more information. (2025-03-13 19:38  UTC)<br/>
-*Irulta* of the Saleria sector is invaded by Illuminate (2025-03-13 19:38  UTC)<br/>
+*Irulta* of the Saleria sector is invaded by Lvl 2 Illuminate (2025-03-13 19:38  UTC)<br/>
 *Meridia* moves to X 0.34543288 Y 0.15017904 (2025-03-13 23:00  UTC)<br/>
 *Meridia* moves to X 0.34500557 Y 0.14981188 (2025-03-14 03:00  UTC)<br/>
 *Meridia* moves to X 0.34458163 Y 0.1494476 (2025-03-14 07:00  UTC)<br/>
@@ -7338,7 +7338,7 @@ Dispatch: MAJOR ORDER FAILED. Following days of diligent resource collection and
 *Fort Union* - *Moradesh* warp link is removed (2025-03-14 07:26  UTC)<br/>
 *Veld* - *Moradesh* warp link is removed (2025-03-14 07:26  UTC)<br/>
 *Moradesh* - *Cirrus* warp link is removed (2025-03-14 07:26  UTC)<br/>
-*Botein* of the Guang sector is invaded by Illuminate (2025-03-14 07:35  UTC)<br/>
+*Botein* of the Guang sector is invaded by Lvl 2 Illuminate (2025-03-14 07:35  UTC)<br/>
 *Irulta*'s invasion is successful (2025-03-14 07:39  UTC)<br/>
 ↳ Saleria sector is fully under Human control (2025-03-14 07:39  UTC)<br/>
 Dispatch: MORADESH DESTROYED. *Moradesh* has been torn apart by the Meridian Singularity. Over 95% of its Class C or higher citizens were safely evacuated prior to the planets' destruction. In memoriam, 24-hour period of quiet reflection on the nature of vengeance has been ordered by the Ministry of Humanity. (2025-03-14 07:44  UTC)<br/>
@@ -7365,11 +7365,11 @@ Dispatch: STRATEGIC ALERT. *Achernar Secundus*, home of the AM Defense Factory H
 *Botein*'s invasion is repelled (2025-03-14 17:40  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-03-14 17:40  UTC)<br/>
 *Meridia* moves to X 0.3433347 Y 0.14837617 (2025-03-14 19:00  UTC)<br/>
-*Regnus* of the Morgon sector is invaded by Illuminate (2025-03-14 19:25  UTC)<br/>
+*Regnus* of the Morgon sector is invaded by Lvl 2 Illuminate (2025-03-14 19:25  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-03-14 21:56  UTC)<br/>
 *Meridia* moves to X 0.3429339 Y 0.14803176 (2025-03-14 23:00  UTC)<br/>
 *Meridia* moves to X 0.34253713 Y 0.14769083 (2025-03-15 03:00  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2025-03-15 06:33  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-03-15 06:33  UTC)<br/>
 *Meridia* moves to X 0.34214422 Y 0.14735323 (2025-03-15 07:00  UTC)<br/>
 *Regnus*'s invasion is successful (2025-03-15 07:25  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-03-15 07:25  UTC)<br/>
@@ -7382,7 +7382,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-03-14 21:56  UTC)<br/>
 ↳ *Gar Haren* liberation campaign ends (2025-03-15 16:09  UTC)<br/>
 *Fenrir III* defense is failed (2025-03-15 16:11  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2025-03-15 16:11  UTC)<br/>
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-03-15 16:14  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 2 Illuminate (2025-03-15 16:14  UTC)<br/>
 Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV fuel will be reduced by 90% until the planet is reclaimed or until fuel can be sourced elsewhere. (2025-03-15 16:27  UTC)<br/>
  Decay: 2.0 on Fenrir III<br/> Decay: 1.5 on Achernar Secundus
  (2025-03-15 16:27  UTC)<br/>
@@ -7393,12 +7393,12 @@ Dispatch: ACHERNAR SECUNDUS FALLEN. *Achernar Secundus* has fallen to the Termin
 *Meridia* moves to X 0.34019744 Y 0.14568044 (2025-03-16 03:00  UTC)<br/>
 *Alamak VII*'s invasion is successful (2025-03-16 04:15  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-03-16 04:15  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-03-16 05:30  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 2 Illuminate (2025-03-16 05:30  UTC)<br/>
 *Meridia* moves to X 0.33981717 Y 0.14535369 (2025-03-16 07:00  UTC)<br/>
 
 ### Day: #403
 *Meridia* moves to X 0.3394432 Y 0.14503235 (2025-03-16 11:00  UTC)<br/>
-*Siemnot* of the Xi Tauri sector is invaded by Illuminate (2025-03-16 14:12  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-03-16 14:12  UTC)<br/>
 *Meridia* moves to X 0.3390733 Y 0.14471452 (2025-03-16 15:00  UTC)<br/>
 *Seasse*'s invasion is successful (2025-03-16 17:31  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-16 17:31  UTC)<br/>
@@ -7421,7 +7421,7 @@ Assault Division: Predator Strain U2A deploys to *Bore Rock* (2025-03-16 21:18  
  (2025-03-16 23:00  UTC)<br/>
 *Fenrir III* is liberated (2025-03-17 01:15  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-03-17 01:15  UTC)<br/>
-*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-03-17 01:20  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Lvl 2 Illuminate (2025-03-17 01:20  UTC)<br/>
 DSS deploys to *Achernar Secundus* of the Borgus sector (2025-03-17 02:03  UTC)<br/>
 *Siemnot*'s invasion is successful (2025-03-17 02:13  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-03-17 02:13  UTC)<br/>
@@ -7430,7 +7430,7 @@ DSS deploys to *Achernar Secundus* of the Borgus sector (2025-03-17 02:03  UTC)<
 
 ### Day: #404
 *Meridia* moves to X 0.33720404 Y 0.14310834 (2025-03-17 11:00  UTC)<br/>
-*Andar* of the Akira sector is invaded by Illuminate (2025-03-17 12:00  UTC)<br/>
+*Andar* of the Akira sector is invaded by Lvl 2 Illuminate (2025-03-17 12:00  UTC)<br/>
 *Asperoth Prime*'s invasion is successful (2025-03-17 13:20  UTC)<br/>
 *Achernar Secundus* is liberated (2025-03-17 14:30  UTC)<br/>
 ↳ *Gar Haren* liberation campaign starts (2025-03-17 14:30  UTC)<br/>
@@ -7444,7 +7444,7 @@ DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-17 18:05  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2025-03-17 21:20  UTC)<br/>
 ↳ Falstaff sector is fully under Terminid control (2025-03-17 21:20  UTC)<br/>
 Assault Division: Predator Strain U2A leaves *Bore Rock* (2025-03-17 21:20  UTC)<br/>
-*Canopus* of the Tarragon sector is invaded by Illuminate (2025-03-17 21:59  UTC)<br/>
+*Canopus* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-03-17 21:59  UTC)<br/>
  Decay: 1.0 on Bore Rock
  (2025-03-17 21:59  UTC)<br/>
 *Meridia* moves to X 0.33561346 Y 0.14196298 (2025-03-17 23:00  UTC)<br/>
@@ -7461,7 +7461,7 @@ Major Order | [A2-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-3) Penr
  Decay: 1.5 on Bekvam III
  (2025-03-18 10:18  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-18 10:21  UTC)<br/>
-*Setia* of the Omega sector is invaded by Illuminate (2025-03-18 10:33  UTC)<br/>
+*Setia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-03-18 10:33  UTC)<br/>
  Decay: 1.5 on Charbal-VII, Choepessa IV
  (2025-03-18 10:33  UTC)<br/>
 *Meridia* moves to X 0.3338972 Y 0.14074768 (2025-03-18 11:00  UTC)<br/>
@@ -7482,13 +7482,13 @@ DSS deploys to *Martale* of the Andromeda sector (2025-03-18 22:08  UTC)<br/>
 *Setia*'s invasion is successful (2025-03-18 22:34  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-18 22:34  UTC)<br/>
 *Meridia* moves to X 0.3322739 Y 0.13959822 (2025-03-18 23:00  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-03-18 23:19  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 2 Illuminate (2025-03-18 23:19  UTC)<br/>
 *Meridia* moves to X 0.3317502 Y 0.13922739 (2025-03-19 03:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
 *Meridia* moves to X 0.3312325 Y 0.13886078 (2025-03-19 07:00  UTC)<br/>
 
 ### Day: #406
-*Kerth Secundus* of the Rictus sector is invaded by Illuminate (2025-03-19 09:32  UTC)<br/>
+*Kerth Secundus* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-03-19 09:32  UTC)<br/>
 *Meridia* moves to X 0.33071983 Y 0.13849777 (2025-03-19 11:00  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-03-19 11:20  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-03-19 11:20  UTC)<br/>
@@ -7504,7 +7504,7 @@ DSS effect Orbital Blockade stops (2025-03-19 05:48  UTC)<br/>
  Decay: 0.0 on Duma Tyr
  (2025-03-19 18:00  UTC)<br/>
 *Meridia* moves to X 0.32968992 Y 0.13776848 (2025-03-19 19:00  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-03-19 20:05  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-03-19 20:05  UTC)<br/>
 *Kerth Secundus*'s invasion is successful (2025-03-19 21:32  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-19 21:32  UTC)<br/>
 *Meridia* moves to X 0.32917884 Y 0.13740657 (2025-03-19 23:00  UTC)<br/>
@@ -7514,7 +7514,7 @@ Assault Division: Incineration Corps U1B is routed from Martale (2025-03-20 02:1
 *Meridia* moves to X 0.32866967 Y 0.13704604 (2025-03-20 03:00  UTC)<br/>
  Decay: 1.5 on Martale
  (2025-03-20 03:00  UTC)<br/>
-*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-03-20 06:27  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-03-20 06:27  UTC)<br/>
 *Meridia* moves to X 0.32816613 Y 0.13668948 (2025-03-20 07:00  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2025-03-20 08:06  UTC)<br/>
 
@@ -7542,14 +7542,14 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
  (2025-03-20 16:27  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-03-20 18:27  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-03-20 18:27  UTC)<br/>
-*Senge 23* of the Omega sector is invaded by Illuminate (2025-03-20 18:58  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Lvl 2 Illuminate (2025-03-20 18:58  UTC)<br/>
 *Meridia* moves to X 0.32666048 Y 0.13562332 (2025-03-20 19:00  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Lvl 12 Automatons (2025-03-20 19:49  UTC)<br/>
  Decay: 0.0 on Varylia 5
  (2025-03-20 22:00  UTC)<br/>
 *Meridia* moves to X 0.32617363 Y 0.13527857 (2025-03-20 23:00  UTC)<br/>
 *Meridia* moves to X 0.32569337 Y 0.1349385 (2025-03-21 03:00  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2025-03-21 06:29  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 2 Illuminate (2025-03-21 06:29  UTC)<br/>
 *Senge 23*'s invasion is successful (2025-03-21 06:58  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-21 06:58  UTC)<br/>
 *Meridia* moves to X 0.32521912 Y 0.13460268 (2025-03-21 07:00  UTC)<br/>
@@ -7564,7 +7564,7 @@ Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisor
  (2025-03-21 11:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
 *Meridia* moves to X 0.3242832 Y 0.13393997 (2025-03-21 15:00  UTC)<br/>
-*Reaf* of the Saleria sector is invaded by Illuminate (2025-03-21 16:19  UTC)<br/>
+*Reaf* of the Saleria sector is invaded by Lvl 2 Illuminate (2025-03-21 16:19  UTC)<br/>
 *Keid*'s invasion is successful (2025-03-21 18:29  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-03-21 18:29  UTC)<br/>
 *Meridia* moves to X 0.32381833 Y 0.13361077 (2025-03-21 19:00  UTC)<br/>
@@ -7581,7 +7581,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-03-21 14:31  UTC)<br/>
 Dispatch: All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. In the current operational context, liberating JULHEIM would end the current Automaton attacks upon both CHARBAL VII and DOLPH. (2025-03-21 21:48  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 *Meridia* moves to X 0.32335046 Y 0.13327947 (2025-03-21 23:00  UTC)<br/>
-*Brink-2* of the Tarragon sector is invaded by Illuminate (2025-03-21 23:47  UTC)<br/>
+*Brink-2* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-03-21 23:47  UTC)<br/>
  Decay: 1.0 on Julheim
  (2025-03-21 23:47  UTC)<br/>
 *Meridia* moves to X 0.32287973 Y 0.13294613 (2025-03-22 03:00  UTC)<br/>
@@ -7590,7 +7590,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 *Meridia* moves to X 0.32239392 Y 0.13260214 (2025-03-22 07:00  UTC)<br/>
 
 ### Day: #409
-*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-03-22 09:29  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-03-22 09:29  UTC)<br/>
 *X-45* of the Ymir sector is attacked by Lvl 10 Automatons (2025-03-22 10:19  UTC)<br/>
 *Meridia* moves to X 0.3219108 Y 0.13226004 (2025-03-22 11:00  UTC)<br/>
  Decay: 0.0 on X-45
@@ -7598,7 +7598,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
 *Brink-2*'s invasion is successful (2025-03-22 11:47  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-03-22 11:47  UTC)<br/>
 *Meridia* moves to X 0.32142022 Y 0.13191265 (2025-03-22 15:00  UTC)<br/>
-*Regnus* of the Morgon sector is invaded by Illuminate (2025-03-22 17:10  UTC)<br/>
+*Regnus* of the Morgon sector is invaded by Lvl 2 Illuminate (2025-03-22 17:10  UTC)<br/>
 *Meridia* moves to X 0.32093233 Y 0.1356717 (2025-03-22 19:00  UTC)<br/>
 *Charbal-VII* defense is failed (2025-03-22 20:08  UTC)<br/>
 ↳ *Charbal-VII* liberation campaign starts (2025-03-22 20:08  UTC)<br/>
@@ -7613,7 +7613,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-03-21 22:15  UTC)<br/>
  Decay: 0.0 on Choepessa IV
  (2025-03-23 00:00  UTC)<br/>
 *Meridia* moves to X 0.31992528 Y 0.13085409 (2025-03-23 03:00  UTC)<br/>
-*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-03-23 03:05  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-03-23 03:05  UTC)<br/>
 *Regnus*'s invasion is successful (2025-03-23 05:10  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-03-23 05:10  UTC)<br/>
 *Meridia* moves to X 0.31941798 Y 0.13049485 (2025-03-23 07:00  UTC)<br/>
@@ -7631,7 +7631,7 @@ The Second Galactic War is paused (2025-03-23 12:51  UTC)<br/>
 NOTE: This is the fourth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, *Meridia* movement, etc are static and no longer actively progressing. Later the same day at 01:31pm, the war begins again. The incident lasted 40 minutes (2025-03-23 12:51  UTC)<br/>
 The Second Galactic War is no longer paused (2025-03-23 13:31  UTC)<br/>
 *Meridia* moves to X 0.31850475 Y 0.1298482 (2025-03-23 15:00  UTC)<br/>
-*Termadon* of the Quintus sector is invaded by Illuminate (2025-03-23 15:20  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-03-23 15:20  UTC)<br/>
 *Leng Secundus*'s invasion is successful (2025-03-23 15:49  UTC)<br/>
 *Meridia* moves to X 0.31800786 Y 0.12949632 (2025-03-23 19:00  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-23 19:03  UTC)<br/>
@@ -7639,7 +7639,7 @@ Major Order | [A2-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-4) Fuel
 Dispatch: MAJOR ORDER FAILED. The Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground. Further, insufficient E-710 was gathered to deploy the Penrose Energy Siphon. Consult your Galactic Map for more information. (2025-03-23 21:47  UTC)<br/>
 *Julheim* is liberated (2025-03-23 21:50  UTC)<br/>
 Assault Division: Incineration Corps U1A is routed from Julheim (2025-03-23 21:50  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-03-23 22:32  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-03-23 22:32  UTC)<br/>
 *Meridia* moves to X 0.31751648 Y 0.12914838 (2025-03-23 23:00  UTC)<br/>
 *Choepessa IV* defense is failed (2025-03-24 00:16  UTC)<br/>
 ↳ *Choepessa IV* liberation campaign starts (2025-03-24 00:16  UTC)<br/>
@@ -7649,7 +7649,7 @@ Assault Division: Incineration Corps U1A is routed from Julheim (2025-03-23 21:5
 DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
 *Termadon*'s invasion is successful (2025-03-24 03:20  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-03-24 03:20  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2025-03-24 05:24  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-03-24 05:24  UTC)<br/>
 *Meridia* moves to X 0.31650025 Y 0.12842879 (2025-03-24 07:00  UTC)<br/>
 
 ### Day: #411
@@ -7662,11 +7662,11 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-24 03:03  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-24 13:00  UTC)<br/>
 *Meridia* moves to X 0.31543767 Y 0.12767638 (2025-03-24 15:00  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2025-03-24 15:05  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-03-24 15:20  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 3 Illuminate (2025-03-24 15:20  UTC)<br/>
 *Meridia* moves to X 0.31492382 Y 0.1273125 (2025-03-24 19:00  UTC)<br/>
 Major Order | [A2-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-5) Fuel Penrose Energy Siphon And Liberate Two Worlds is issued | Objective: Liberate (2025-03-24 19:44  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of *Ivis* have begun preparing for the possibility of a full-planet evacuation. There can be no further delays to the deployment of the Penrose Energy Siphon. The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information. (2025-03-24 19:44  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-03-24 21:38  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 3 Illuminate (2025-03-24 21:38  UTC)<br/>
 *Seasse*'s invasion is repelled (2025-03-24 22:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-24 22:28  UTC)<br/>
 *Meridia* moves to X 0.3144163 Y 0.12695312 (2025-03-24 23:00  UTC)<br/>
@@ -7674,7 +7674,7 @@ Dispatch: NEW MAJOR ORDER. The Automaton offensive has been stalled, but at the 
 DSS deploys to *Bore Rock* of the Falstaff sector (2025-03-25 03:07  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
 *Meridia* moves to X 0.3134084 Y 0.12623943 (2025-03-25 07:00  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-03-25 08:27  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lv 2 Illuminate (2025-03-25 08:27  UTC)<br/>
 
 ### Day: #412
 *Sirius*'s invasion is successful (2025-03-25 09:39  UTC)<br/>
@@ -7684,7 +7684,7 @@ DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
  Decay: 0.0 on Ustotu
  (2025-03-25 14:00  UTC)<br/>
 *Meridia* moves to X 0.31241295 Y 0.12553453 (2025-03-25 15:00  UTC)<br/>
-*Emorath* of the Meridian sector is invaded by Illuminate (2025-03-25 18:18  UTC)<br/>
+*Emorath* of the Meridian sector is invaded by Lvl 2 Illuminate (2025-03-25 18:18  UTC)<br/>
 *Meridia* moves to X 0.31192213 Y 0.12518701 (2025-03-25 19:00  UTC)<br/>
 *Bore Rock* is liberated (2025-03-25 20:09  UTC)<br/>
 ↳ *Esker* liberation campaign starts (2025-03-25 20:09  UTC)<br/>
@@ -7694,7 +7694,7 @@ DSS effect Orbital Blockade is activated (2025-03-25 06:48  UTC)<br/>
 DSS deploys to *Choepessa IV* of the Trigon sector (2025-03-25 23:09  UTC)<br/>
 *Meridia* moves to X 0.3109308 Y 0.124485016 (2025-03-26 03:00  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2025-03-26 03:10  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-03-26 04:24  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-03-26 04:24  UTC)<br/>
 *Emorath*'s invasion is successful (2025-03-26 06:19  UTC)<br/>
 ↳ Meridian sector is fully under Human control (2025-03-26 06:19  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
@@ -7702,7 +7702,7 @@ DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
 
 ### Day: #413
 *Meridia* moves to X 0.30994403 Y 0.12378628 (2025-03-26 11:00  UTC)<br/>
-*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-03-26 12:18  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-03-26 12:18  UTC)<br/>
 *Ustotu* defense is failed (2025-03-26 12:32  UTC)<br/>
 ↳ *Ustotu* liberation campaign starts (2025-03-26 12:32  UTC)<br/>
 ↳ *Varylia 5* liberation campaign ends (2025-03-26 12:32  UTC)<br/>
@@ -7717,7 +7717,7 @@ DSS effect Orbital Blockade stops (2025-03-26 06:51  UTC)<br/>
 *Meridia* moves to X 0.30894 Y 0.123075314 (2025-03-26 19:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-03-26 19:06  UTC)<br/>
 *Meridia* moves to X 0.30843556 Y 0.12271813 (2025-03-26 23:00  UTC)<br/>
-*Alairt III* of the Hanzo sector is invaded by Illuminate (2025-03-26 23:12  UTC)<br/>
+*Alairt III* of the Hanzo sector is invaded by Lvl 2 Illuminate (2025-03-26 23:12  UTC)<br/>
 *Leng Secundus*'s invasion is successful (2025-03-27 00:19  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-03-27 00:19  UTC)<br/>
 *Esker* is liberated (2025-03-27 02:17  UTC)<br/>
@@ -7735,7 +7735,7 @@ DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-27 03:12  UTC)<br/>
  Decay: 0.0 on Mort
  (2025-03-27 04:00  UTC)<br/>
 *Meridia* moves to X 0.30769798 Y 0.12219584 (2025-03-27 07:00  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-03-27 08:20  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-03-27 08:20  UTC)<br/>
 
 ### Day: #414
 *Meridia* moves to X 0.30744982 Y 0.12202012 (2025-03-27 11:00  UTC)<br/>
@@ -7746,7 +7746,7 @@ DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-27 03:12  UTC)<br/>
  (2025-03-27 12:00  UTC)<br/>
 Major Order | [A2-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-3-6) Repel 6 Illuminate Invasions is issued | Objective: Defend (2025-03-27 14:26  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path. The Helldivers are ordered to suppress Illuminate invasion events. If successful, this will free *Super Earth* from the Singularity's path of destruction. High Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information. (2025-03-27 14:29  UTC)<br/>
-*Mog* of the Morgon sector is invaded by Illuminate (2025-03-27 14:30  UTC)<br/>
+*Mog* of the Morgon sector is invaded by Lvl 4 Illuminate (2025-03-27 14:30  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2025-03-27 15:13  UTC)<br/>
 *Rasp*'s invasion is repelled (2025-03-27 16:30  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-03-27 16:30  UTC)<br/>
@@ -7755,7 +7755,7 @@ DSS effect Eagle Storm stops (2025-03-27 19:08  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2025-03-27 19:14  UTC)<br/>
 *Mog*'s invasion is repelled (2025-03-27 21:10  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-03-27 21:10  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2025-03-27 22:28  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 7 Illuminate (2025-03-27 22:28  UTC)<br/>
 *Meridia* moves to X 0.30667618 Y 0.1214723 (2025-03-27 23:00  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2025-03-27 23:14  UTC)<br/>
 *Meridia* moves to X 0.3064335 Y 0.12130047 (2025-03-28 03:00  UTC)<br/>
@@ -7765,7 +7765,7 @@ DSS deploys to *Keid* of the Akira sector (2025-03-28 03:14  UTC)<br/>
 *Mort* defense is failed (2025-03-28 06:52  UTC)<br/>
 ↳ *Mort* liberation campaign starts (2025-03-28 06:52  UTC)<br/>
 *Meridia* moves to X 0.3061973 Y 0.12113319 (2025-03-28 07:00  UTC)<br/>
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-03-28 07:51  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 8 Illuminate (2025-03-28 07:51  UTC)<br/>
  Decay: 1.5 on Mort
  (2025-03-28 07:51  UTC)<br/>
 
@@ -7779,12 +7779,12 @@ DSS deploys to *Oasis* of the Rictus sector (2025-03-28 15:16  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-03-28 18:09  UTC)<br/>
  Decay: 0.0 on Ingmar
  (2025-03-28 18:09  UTC)<br/>
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-03-28 18:31  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 8 Illuminate (2025-03-28 18:31  UTC)<br/>
 *Meridia* moves to X 0.30554798 Y 0.12067341 (2025-03-28 19:00  UTC)<br/>
 *Meridia* moves to X 0.3053465 Y 0.120530725 (2025-03-28 23:00  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-03-28 23:16  UTC)<br/>
 *Meridia* moves to X 0.30515137 Y 0.12039257 (2025-03-29 03:00  UTC)<br/>
-*Alderidge Cove* of the Guang sector is invaded by Illuminate (2025-03-29 04:27  UTC)<br/>
+*Alderidge Cove* of the Guang sector is invaded by Lvl 8 Illuminate (2025-03-29 04:27  UTC)<br/>
 *Alamak VII*'s invasion is repelled (2025-03-29 04:34  UTC)<br/>
 ↳ Hanzo sector is fully under Human control (2025-03-29 04:34  UTC)<br/>
 *Meridia* moves to X 0.3049617 Y 0.120258264 (2025-03-29 07:00  UTC)<br/>
@@ -7803,18 +7803,18 @@ Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy *Super E
 *Pilen V* of the Altus sector is now under threat (2025-03-29 15:55  UTC)<br/>
 *Ingmar* defense is failed (2025-03-29 16:18  UTC)<br/>
 ↳ *Ingmar* liberation campaign starts (2025-03-29 16:18  UTC)<br/>
-*Seasse* of the Omega sector is invaded by Illuminate (2025-03-29 16:29  UTC)<br/>
+*Seasse* of the Omega sector is invaded by Lvl 4 Illuminate (2025-03-29 16:29  UTC)<br/>
  Decay: 1.5 on Ingmar
  (2025-03-29 18:00  UTC)<br/>
 *Meridia* moves to X 0.30443493 Y 0.11988525 (2025-03-29 19:00  UTC)<br/>
 DSS deploys to *Ingmar* of the Xzar sector (2025-03-29 19:19  UTC)<br/>
 *Meridia* moves to X 0.30427653 Y 0.11977308 (2025-03-29 23:00  UTC)<br/>
-*Bashyr* of the Gallux sector is invaded by Illuminate (2025-03-30 00:31  UTC)<br/>
+*Bashyr* of the Gallux sector is invaded by Lvl 3 Illuminate (2025-03-30 00:31  UTC)<br/>
 *Meridia* moves to X 0.3041188 Y 0.11966141 (2025-03-30 03:00  UTC)<br/>
 *Seasse*'s invasion is successful (2025-03-30 04:30  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-03-30 04:30  UTC)<br/>
 *Meridia* moves to X 0.3039467 Y 0.119539544 (2025-03-30 07:00  UTC)<br/>
-*Myrium* of the Morgon sector is invaded by Illuminate (2025-03-30 08:52  UTC)<br/>
+*Myrium* of the Morgon sector is invaded by Lvl 3 Illuminate (2025-03-30 08:52  UTC)<br/>
 
 ### Day: #417
 *Meridia* moves to X 0.30377486 Y 0.11941785 (2025-03-30 11:00  UTC)<br/>
@@ -7833,7 +7833,7 @@ Dispatch: NEW MAJOR ORDER. The Automatons, led by the Incineration Corps, have l
 ↳ Gallux sector is fully under Human control (2025-03-30 12:32  UTC)<br/>
 *Meridia* moves to X 0.30358973 Y 0.11928677 (2025-03-30 15:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-03-30 18:04  UTC)<br/>
-*Hadar* of the Ferris sector is invaded by Illuminate (2025-03-30 18:37  UTC)<br/>
+*Hadar* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-03-30 18:37  UTC)<br/>
 *Meridia* moves to X 0.30340844 Y 0.11915839 (2025-03-30 19:00  UTC)<br/>
 *Myrium*'s invasion is successful (2025-03-30 20:53  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-03-30 20:53  UTC)<br/>
@@ -7845,7 +7845,7 @@ DSS deploys to *Pöpli IX* of the Xzar sector (2025-03-31 00:38  UTC)<br/>
  Decay: 500.0 on Ingmar<br/> Decay: 1.0 on Vandalon IV
  (2025-03-31 02:00  UTC)<br/>
 *Meridia* moves to X 0.3030361 Y 0.118894726 (2025-03-31 03:00  UTC)<br/>
-*Ras Algethi* of the Leo sector is invaded by Illuminate (2025-03-31 05:19  UTC)<br/>
+*Ras Algethi* of the Leo sector is invaded by Lvl 2 Illuminate (2025-03-31 05:19  UTC)<br/>
 *Hadar*'s invasion is successful (2025-03-31 06:38  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-03-31 06:38  UTC)<br/>
 *Meridia* moves to X 0.30285543 Y 0.1187668 (2025-03-31 07:00  UTC)<br/>
@@ -7886,7 +7886,7 @@ Assault Division: Incineration Corps U2C leaves *Meissa* (2025-03-31 13:58  UTC)
 Assault Division: Incineration Corps U2D leaves *Choohe* (2025-03-31 13:59  UTC)<br/>
 Assault Division: Incineration Corps U2C deploys to *X-45* (2025-03-31 14:00  UTC)<br/>
 Assault Division: Incineration Corps U2D deploys to *Matar Bay* (2025-03-31 14:00  UTC)<br/>
-*Khandark* of the Guang sector is invaded by Illuminate (2025-03-31 14:37  UTC)<br/>
+*Khandark* of the Guang sector is invaded by Lvl 2 Illuminate (2025-03-31 14:37  UTC)<br/>
 Assault Division: Incineration Corps U2C leaves *X-45* (2025-03-31 14:59  UTC)<br/>
 Assault Division: Incineration Corps U2D leaves *Matar Bay* (2025-03-31 14:59  UTC)<br/>
 *Meridia* moves to X 0.3024986 Y 0.11851413 (2025-03-31 15:00  UTC)<br/>
@@ -7922,7 +7922,7 @@ Assault Division: Incineration Corps U2C deploys to *Vandalon IV* (2025-03-31 19
  (2025-03-31 20:00  UTC)<br/>
 *Meridia* moves to X 0.30213344 Y 0.11825555 (2025-03-31 23:00  UTC)<br/>
 DSS deploys to *Vandalon IV* of the Trigon sector (2025-03-31 23:25  UTC)<br/>
-*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-03-31 23:45  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Lvl 2 Illuminate (2025-03-31 23:45  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-01 01:16  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-04-01 01:19  UTC)<br/>
 *Khandark*'s invasion is successful (2025-04-01 02:37  UTC)<br/>
@@ -7936,7 +7936,7 @@ DSS effect Orbital Blockade stops (2025-04-01 01:19  UTC)<br/>
 *Julheim* defense is failed (2025-04-01 09:54  UTC)<br/>
 ↳ *Julheim* liberation campaign starts (2025-04-01 09:54  UTC)<br/>
 ↳ *Charbal-VII* liberation campaign ends (2025-04-01 09:54  UTC)<br/>
-*Rirga Bay* of the Rigel sector is invaded by Illuminate (2025-04-01 10:13  UTC)<br/>
+*Rirga Bay* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-01 10:13  UTC)<br/>
  Decay: 1.0 on Julheim
  (2025-04-01 10:13  UTC)<br/>
 *Meridia* moves to X 0.30157503 Y 0.11786014 (2025-04-01 11:00  UTC)<br/>
@@ -7981,7 +7981,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-04-01 19:27  UTC)<br/>
  (2025-04-01 19:27  UTC)<br/>
 Assault Division: Jet Brigade U4A leaves *Charon Prime* (2025-04-01 19:40  UTC)<br/>
 Assault Division: Jet Brigade U4A deploys to *Charon Prime* (2025-04-01 19:41  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-01 19:47  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-04-01 19:47  UTC)<br/>
 Assault Division: Incineration Corps U2E leaves *Marfark* (2025-04-01 19:48  UTC)<br/>
 Assault Division: Incineration Corps U2E merges with Incineration Corps U2D on *Bekvam III* (2025-04-01 19:48  UTC)<br/>
 Assault Division: Jet Brigade U4A leaves *Charon Prime* (2025-04-01 20:39  UTC)<br/>
@@ -8000,7 +8000,7 @@ Assault Division: Jet Brigade U4A deploys to *Pöpli IX* (2025-04-01 22:18  UTC)
  (2025-04-01 23:00  UTC)<br/>
 *Meridia* moves to X 0.30083495 Y 0.11733608 (2025-04-02 03:00  UTC)<br/>
 DSS deploys to *Pöpli IX* of the Xzar sector (2025-04-02 03:29  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-04-02 06:44  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-02 06:44  UTC)<br/>
 *Meridia* moves to X 0.30065444 Y 0.117208265 (2025-04-02 07:00  UTC)<br/>
 *Sirius*'s invasion is successful (2025-04-02 07:48  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-04-02 07:48  UTC)<br/>
@@ -8010,7 +8010,7 @@ DSS deploys to *Pöpli IX* of the Xzar sector (2025-04-02 03:29  UTC)<br/>
 *Meridia* moves to X 0.3002977 Y 0.11695565 (2025-04-02 15:00  UTC)<br/>
 Assault Division: Incineration Corps U2D leaves *Bekvam III* (2025-04-02 15:57  UTC)<br/>
 Assault Division: Incineration Corps U2D deploys to *Julheim* (2025-04-02 15:58  UTC)<br/>
-*Propus* of the Leo sector is invaded by Illuminate (2025-04-02 17:13  UTC)<br/>
+*Propus* of the Leo sector is invaded by Lvl 2 Illuminate (2025-04-02 17:13  UTC)<br/>
  Decay: 3.0 on Julheim
  (2025-04-02 17:13  UTC)<br/>
 *Hort*'s invasion is successful (2025-04-02 18:46  UTC)<br/>
@@ -8030,7 +8030,7 @@ Assault Division: Incineration Corps U2D leaves *Mort* (2025-04-02 23:28  UTC)<b
 Assault Division: Incineration Corps U2D deploys to *Pöpli IX* (2025-04-02 23:29  UTC)<br/>
 Dispatch: BATTLEFIELD IMPACT. Cascading logistical disruptions have resulted in the temporary emplacement of ammunition rationing measures. Resupply pod ammunition will be decreased to 50% for all operations on PÖPLI IX until further notice. (2025-04-02 23:33  UTC)<br/>
 *Meridia* moves to X 0.29978487 Y 0.116592504 (2025-04-03 03:00  UTC)<br/>
-*Senge 23* of the Omega sector is invaded by Illuminate (2025-04-03 03:50  UTC)<br/>
+*Senge 23* of the Omega sector is invaded by Lvl 2 Illuminate (2025-04-03 03:50  UTC)<br/>
 *Propus*'s invasion is successful (2025-04-03 05:14  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-04-03 05:14  UTC)<br/>
 *Meridia* moves to X 0.29961705 Y 0.11647369 (2025-04-03 07:00  UTC)<br/>
@@ -8039,7 +8039,7 @@ Dispatch: BATTLEFIELD IMPACT. Cascading logistical disruptions have resulted in 
 *Meridia* moves to X 0.29945183 Y 0.116356686 (2025-04-03 11:00  UTC)<br/>
 Dispatch: BATTLEFIELD IMPACT. Cryo-good transport is facing interdiction by Automaton fleets, reducing REINFORCEMENTS to 3 for all operations on PÖPLI IX. in the short term. (2025-04-03 12:04  UTC)<br/>
 Dispatch: ANNOUNCEMENT. Today marks *Malevelon Creek* Memorial Day. On this day, we pause to honor the countless heroes who made the ultimate sacrifice in defense of *Malevelon Creek*. The ongoing assault towards the planet is a timely reminder that truly honoring their sacrifice means being willing to make even more sacrifices—to preserve what they fought for. Let all citizens join together in 3 minutes of solemn remembrance during their lunch break, in honor of our fallen heroes. (2025-04-03 13:01  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-04-03 14:57  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-03 14:57  UTC)<br/>
 *Meridia* moves to X 0.32142022 Y 0.13191265 (2025-04-03 15:00  UTC)<br/>
 *Senge 23*'s invasion is successful (2025-04-03 15:51  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-03 15:51  UTC)<br/>
@@ -8057,7 +8057,7 @@ DSS effect Eagle Storm stops (2025-04-03 21:24  UTC)<br/>
  Decay: 0.0 on Bekvam III, Charbal-VII, Choepessa IV
  (2025-04-03 21:24  UTC)<br/>
 *Meridia* moves to X 0.32042825 Y 0.13121024 (2025-04-03 23:00  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-04-04 01:50  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-04 01:50  UTC)<br/>
 *Parsh*'s invasion is successful (2025-04-04 02:57  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-04-04 02:57  UTC)<br/>
 *Meridia* moves to X 0.29878926 Y 0.11628686 (2025-04-04 03:00  UTC)<br/>
@@ -8065,7 +8065,7 @@ DSS effect Eagle Storm stops (2025-04-03 21:24  UTC)<br/>
 
 ### Day: #422
 *Meridia* moves to X 0.29847237 Y 0.11628686 (2025-04-04 11:00  UTC)<br/>
-*Alaraph* of the Akira sector is invaded by Illuminate (2025-04-04 12:21  UTC)<br/>
+*Alaraph* of the Akira sector is invaded by Lvl 2 Illuminate (2025-04-04 12:21  UTC)<br/>
 *Julheim* is liberated (2025-04-04 12:34  UTC)<br/>
 ↳ *Charbal-VII* liberation campaign starts (2025-04-04 12:34  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2025-04-04 12:35  UTC)<br/>
@@ -8075,7 +8075,7 @@ Dispatch: ALERT. The Meridian Singularity has come within critical range of *Ivi
 *Meridia* moves to X 0.29831868 Y 0.11628686 (2025-04-04 15:00  UTC)<br/>
 *Meridia* moves to X 0.29816568 Y 0.11628686 (2025-04-04 19:00  UTC)<br/>
 *Meridia* moves to X 0.2980196 Y 0.11628686 (2025-04-04 23:00  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-04-04 23:38  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-04-04 23:38  UTC)<br/>
 *Alaraph*'s invasion is successful (2025-04-05 00:21  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-05 00:21  UTC)<br/>
 *Meridia* moves to X 0.2978759 Y 0.11628686 (2025-04-05 03:00  UTC)<br/>
@@ -8085,7 +8085,7 @@ Dispatch: ALERT. The Meridian Singularity has come within critical range of *Ivi
 *Mort* is liberated (2025-04-05 09:11  UTC)<br/>
 ↳ Xzar sector is fully under Human control (2025-04-05 09:11  UTC)<br/>
 DSS deploys to *Bekvam III* of the Nanos sector (2025-04-05 09:12  UTC)<br/>
-*Hort* of the Rigel sector is invaded by Illuminate (2025-04-05 10:10  UTC)<br/>
+*Hort* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-05 10:10  UTC)<br/>
 *Meridia* moves to X 0.29760566 Y 0.11628686 (2025-04-05 11:00  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-04-05 11:38  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-05 11:38  UTC)<br/>
@@ -8097,20 +8097,20 @@ Dispatch: IVIS DESTROYED. *Ivis* has been destroyed by the Meridian Singularity.
 *Meridia* moves to X 0.29734164 Y 0.11628686 (2025-04-05 19:00  UTC)<br/>
 *Hort*'s invasion is repelled (2025-04-05 19:00  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-04-05 19:00  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-04-05 21:27  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-04-05 21:27  UTC)<br/>
 *Meridia* moves to X 0.29723212 Y 0.11628686 (2025-04-05 23:00  UTC)<br/>
 *Meridia* moves to X 0.29713514 Y 0.11628686 (2025-04-06 03:00  UTC)<br/>
 *Rasp*'s invasion is repelled (2025-04-06 03:52  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-06 03:52  UTC)<br/>
 *Meridia* moves to X 0.2970543 Y 0.11628686 (2025-04-06 07:00  UTC)<br/>
 *Ursica XI* of the Borgus sector is attacked by Lvl 12 Terminids (2025-04-06 08:16  UTC)<br/>
-*Bellatrix* of the Guang sector is invaded by Illuminate (2025-04-06 08:46  UTC)<br/>
+*Bellatrix* of the Guang sector is invaded by Lvl 2 Illuminate (2025-04-06 08:46  UTC)<br/>
  Decay: 0.0 on Ursica XI
  (2025-04-06 08:46  UTC)<br/>
 
 ### Day: #424
 *Meridia* moves to X 0.29700541 Y 0.11628686 (2025-04-06 11:00  UTC)<br/>
-*Alamak VII* of the Hanzo sector is invaded by Illuminate (2025-04-06 13:05  UTC)<br/>
+*Alamak VII* of the Hanzo sector is invaded by Lvl 4 Illuminate (2025-04-06 13:05  UTC)<br/>
 *Meridia* moves to X 0.2969636 Y 0.11628686 (2025-04-06 15:00  UTC)<br/>
 DSS deploys to *Ursica XI* of the Borgus sector (2025-04-06 15:44  UTC)<br/>
 *Bekvam III* is liberated (2025-04-06 17:25  UTC)<br/>
@@ -8119,7 +8119,7 @@ DSS deploys to *Ursica XI* of the Borgus sector (2025-04-06 15:44  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-04-06 17:25  UTC)<br/>
 *Meridia* moves to X 0.2969013 Y 0.11628686 (2025-04-06 19:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-06 19:55  UTC)<br/>
-*Hydrobius* of the Omega sector is invaded by Illuminate (2025-04-06 20:26  UTC)<br/>
+*Hydrobius* of the Omega sector is invaded by Lvl 2 Illuminate (2025-04-06 20:26  UTC)<br/>
 *Bellatrix*'s invasion is repelled (2025-04-06 20:28  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-04-06 20:28  UTC)<br/>
 *Meridia* moves to X 0.29681507 Y 0.11628686 (2025-04-06 23:00  UTC)<br/>
@@ -8128,7 +8128,7 @@ DSS effect Orbital Blockade is activated (2025-04-06 19:55  UTC)<br/>
 *Meridia* moves to X 0.2967084 Y 0.11628686 (2025-04-07 03:00  UTC)<br/>
 *Ursica XI* defense is won (2025-04-07 03:19  UTC)<br/>
 DSS deploys to *Ustotu* of the Trigon sector (2025-04-07 03:20  UTC)<br/>
-*Shete* of the Xi Tauri sector is invaded by Illuminate (2025-04-07 04:54  UTC)<br/>
+*Shete* of the Xi Tauri sector is invaded by Lvl 3 Illuminate (2025-04-07 04:54  UTC)<br/>
  Decay: 500.0 on Ursica XI
  (2025-04-07 04:54  UTC)<br/>
 *Meridia* moves to X 0.29659984 Y 0.11628686 (2025-04-07 07:00  UTC)<br/>
@@ -8137,7 +8137,7 @@ DSS deploys to *Ustotu* of the Trigon sector (2025-04-07 03:20  UTC)<br/>
 
 ### Day: #425
 *Meridia* moves to X 0.2964726 Y 0.11629 (2025-04-07 11:00  UTC)<br/>
-*Rogue 5* of the Rigel sector is invaded by Illuminate (2025-04-07 13:06  UTC)<br/>
+*Rogue 5* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-07 13:06  UTC)<br/>
 *Meridia* moves to X 0.2963289 Y 0.11630324 (2025-04-07 15:00  UTC)<br/>
 Major Order | [A2-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-1) DSS Passive Upgrade Choices is issued | Objective: Liberate (2025-04-07 15:15  UTC)<br/>
  Decay: 1.0 on Automaton worlds<br/> Decay: 2.0 on Varylia 5, Wezen
@@ -8147,19 +8147,19 @@ Dispatch: NEW MAJOR ORDER. Diligent engineers at the Deep Mantle Forge Complex o
 ↳ Xi Tauri sector is fully under Human control (2025-04-07 16:55  UTC)<br/>
 *Meridia* moves to X 0.29616705 Y 0.11631816 (2025-04-07 19:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-04-07 19:59  UTC)<br/>
-*Rasp* of the Gallux sector is invaded by Illuminate (2025-04-07 21:03  UTC)<br/>
+*Rasp* of the Gallux sector is invaded by Lvl 4 Illuminate (2025-04-07 21:03  UTC)<br/>
 *Meridia* moves to X 0.2960047 Y 0.11633312 (2025-04-07 23:00  UTC)<br/>
 *Rogue 5*'s invasion is successful (2025-04-08 01:07  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-04-08 01:07  UTC)<br/>
 *Meridia* moves to X 0.29582283 Y 0.116349876 (2025-04-08 03:00  UTC)<br/>
-*Iro* of the Rictus sector is invaded by Illuminate (2025-04-08 04:59  UTC)<br/>
+*Iro* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-08 04:59  UTC)<br/>
 *Meridia* moves to X 0.29563907 Y 0.11636681 (2025-04-08 07:00  UTC)<br/>
 
 ### Day: #426
 *Rasp*'s invasion is successful (2025-04-08 09:04  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-08 09:04  UTC)<br/>
 *Meridia* moves to X 0.2954361 Y 0.11638551 (2025-04-08 11:00  UTC)<br/>
-*Alathfar XI* of the Akira sector is invaded by Illuminate (2025-04-08 13:58  UTC)<br/>
+*Alathfar XI* of the Akira sector is invaded by Lvl 2 Illuminate (2025-04-08 13:58  UTC)<br/>
 *Meridia* moves to X 0.29523513 Y 0.116404034 (2025-04-08 15:00  UTC)<br/>
 *Iro*'s invasion is successful (2025-04-08 17:00  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-04-08 17:00  UTC)<br/>
@@ -8169,7 +8169,7 @@ DSS effect Orbital Blockade stops (2025-04-07 19:59  UTC)<br/>
 DSS deploys to *Gar Haren* of the Jin Xi sector (2025-04-08 17:01  UTC)<br/>
 *Meridia* moves to X 0.29502058 Y 0.11642381 (2025-04-08 19:00  UTC)<br/>
 *Meridia* moves to X 0.29480922 Y 0.116443284 (2025-04-08 23:00  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-08 23:04  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-04-08 23:04  UTC)<br/>
 DSS deploys to *Varylia 5* of the Trigon sector (2025-04-08 23:51  UTC)<br/>
 *Alathfar XI*'s invasion is successful (2025-04-09 01:59  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-09 01:59  UTC)<br/>
@@ -8179,7 +8179,7 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-04-08 23:51  UTC)<br/>
 *Meridia* moves to X 0.29436782 Y 0.11648396 (2025-04-09 07:00  UTC)<br/>
 
 ### Day: #427
-*Karlia* of the Omega sector is invaded by Illuminate (2025-04-09 10:12  UTC)<br/>
+*Karlia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-04-09 10:12  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-04-09 10:53  UTC)<br/>
 *Meridia* moves to X 0.29415363 Y 0.11650369 (2025-04-09 11:00  UTC)<br/>
 *Sirius*'s invasion is successful (2025-04-09 11:04  UTC)<br/>
@@ -8188,11 +8188,11 @@ DSS effect Eagle Storm is activated (2025-04-09 10:53  UTC)<br/>
  Decay: 0.0 on Troost
  (2025-04-09 16:00  UTC)<br/>
 *Meridia* moves to X 0.29373425 Y 0.11654234 (2025-04-09 19:00  UTC)<br/>
-*Stor Tha Prime* of the Quintus sector is invaded by Illuminate (2025-04-09 19:05  UTC)<br/>
+*Stor Tha Prime* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-09 19:05  UTC)<br/>
 *Karlia*'s invasion is successful (2025-04-09 22:13  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-09 22:13  UTC)<br/>
 *Meridia* moves to X 0.29330206 Y 0.11658217 (2025-04-10 03:00  UTC)<br/>
-*RD-4* of the Rigel sector is invaded by Illuminate (2025-04-10 05:06  UTC)<br/>
+*RD-4* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-10 05:06  UTC)<br/>
 *Varylia 5* is liberated (2025-04-10 05:14  UTC)<br/>
 ↳ *Wezen* liberation campaign starts (2025-04-10 05:14  UTC)<br/>
 DSS deploys to *Stor Tha Prime* of the Quintus sector (2025-04-10 05:14  UTC)<br/>
@@ -8209,12 +8209,12 @@ DSS effect Eagle Storm stops (2025-04-10 10:56  UTC)<br/>
 *Meridia* moves to X 0.29286948 Y 0.11662203 (2025-04-10 11:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2025-04-10 14:22  UTC)<br/>
 *Meridia* moves to X 0.29265735 Y 0.11664158 (2025-04-10 15:00  UTC)<br/>
-*Stout* of the Quintus sector is invaded by Illuminate (2025-04-10 15:13  UTC)<br/>
+*Stout* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-10 15:13  UTC)<br/>
 *RD-4*'s invasion is successful (2025-04-10 17:07  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-04-10 17:07  UTC)<br/>
 *Meridia* moves to X 0.29244113 Y 0.116661504 (2025-04-10 19:00  UTC)<br/>
 *Meridia* moves to X 0.2922279 Y 0.11668115 (2025-04-10 23:00  UTC)<br/>
-*Bunda Secundus* of the Tarragon sector is invaded by Illuminate (2025-04-11 01:03  UTC)<br/>
+*Bunda Secundus* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-04-11 01:03  UTC)<br/>
 *Meridia* moves to X 0.29201844 Y 0.116700456 (2025-04-11 03:00  UTC)<br/>
 *Stout*'s invasion is successful (2025-04-11 03:14  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-11 03:14  UTC)<br/>
@@ -8229,7 +8229,7 @@ Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super 
  Decay: 5.0 on Terminid worlds<br/> Decay: 6.0 on Terminid worlds
  (2025-04-11 09:00  UTC)<br/>
 *Meridia* moves to X 0.29159266 Y 0.11673969 (2025-04-11 11:00  UTC)<br/>
-*Zea Rugosia* of the Ferris sector is invaded by Illuminate (2025-04-11 11:06  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-04-11 11:06  UTC)<br/>
 Assault Division: Spore Burst Strain U2A deploys to *Nivel 43* (2025-04-11 11:43  UTC)<br/>
 *Nivel 43* is no longer unobservable (2025-04-11 11:44  UTC)<br/>
 *Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
@@ -8241,14 +8241,14 @@ Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expediti
 DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
 *Meridia* moves to X 0.2913785 Y 0.11675942 (2025-04-11 15:00  UTC)<br/>
 *Meridia* moves to X 0.29116783 Y 0.116778836 (2025-04-11 19:00  UTC)<br/>
-*Alaraph* of the Akira sector is invaded by Illuminate (2025-04-11 21:08  UTC)<br/>
+*Alaraph* of the Akira sector is invaded by Lvl 2Illuminate (2025-04-11 21:08  UTC)<br/>
 *Meridia* moves to X 0.2909609 Y 0.1167979 (2025-04-11 23:00  UTC)<br/>
  Decay: 5.9 on Nivel 43
  (2025-04-11 23:00  UTC)<br/>
 *Zea Rugosia*'s invasion is successful (2025-04-11 23:06  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-04-11 23:06  UTC)<br/>
 *Meridia* moves to X 0.29074815 Y 0.11681751 (2025-04-12 03:00  UTC)<br/>
-*Botein* of the Guang sector is invaded by Illuminate (2025-04-12 06:16  UTC)<br/>
+*Botein* of the Guang sector is invaded by Lvl 2 Illuminate (2025-04-12 06:16  UTC)<br/>
 *Meridia* moves to X 0.2905437 Y 0.11683635 (2025-04-12 07:00  UTC)<br/>
 
 # Day: #430
@@ -8258,7 +8258,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-12 09:09  UTC)<br/>
 *Meridia* moves to X 0.29032615 Y 0.116856396 (2025-04-12 11:00  UTC)<br/>
 *Meridia* moves to X 0.29011104 Y 0.11687622 (2025-04-12 15:00  UTC)<br/>
-*Asperoth Prime* of the Akira sector is invaded by Illuminate (2025-04-12 15:22  UTC)<br/>
+*Asperoth Prime* of the Akira sector is invaded by Lvl 2 Illuminate (2025-04-12 15:22  UTC)<br/>
 *Botein*'s invasion is successful (2025-04-12 18:16  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-04-12 18:16  UTC)<br/>
 *Meridia* moves to X 0.28988972 Y 0.116896614 (2025-04-12 19:00  UTC)<br/>
@@ -8267,7 +8267,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-04-11 14:24  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. In order to boost civilian support of ongoing operations, *Super Earth* High Command has authorized temporary universal access to the HEAVY MACHINE GUN stratagem. (2025-04-12 20:36  UTC)<br/>
  Decay: 5.0 on Esker
  (2025-04-12 20:36  UTC)<br/>
-*Termadon* of the Quintus sector is invaded by Illuminate (2025-04-13 02:19  UTC)<br/>
+*Termadon* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-13 02:19  UTC)<br/>
 *Meridia* moves to X 0.2894385 Y 0.116938196 (2025-04-13 03:00  UTC)<br/>
 *Asperoth Prime*'s invasion is successful (2025-04-13 03:22  UTC)<br/>
 ↳ Akira sector is fully under Human control (2025-04-13 03:22  UTC)<br/>
@@ -8277,7 +8277,7 @@ DSS deploys to *Termadon* of the Quintus sector (2025-04-13 04:04  UTC)<br/>
 *Meridia* moves to X 0.2892011 Y 0.11696007 (2025-04-13 07:00  UTC)<br/>
 
 ### Day: #431
-*Heze Bay* of the Hanzo sector is invaded by Illuminate (2025-04-13 09:21  UTC)<br/>
+*Heze Bay* of the Hanzo sector is invaded by Lvl 2 Illuminate (2025-04-13 09:21  UTC)<br/>
 *Meridia* moves to X 0.28896847 Y 0.11698151 (2025-04-13 11:00  UTC)<br/>
  Decay: 4.5 on Nivel 43
  (2025-04-13 11:00  UTC)<br/>
@@ -8287,7 +8287,7 @@ DSS deploys to *Achird III* of the Borgus sector (2025-04-13 12:17  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-04-13 14:01  UTC)<br/>
 *Meridia* moves to X 0.28872213 Y 0.11700421 (2025-04-13 15:00  UTC)<br/>
 *Meridia* moves to X 0.28848204 Y 0.11702633 (2025-04-13 19:00  UTC)<br/>
-*Spherion* of the Quintus sector is invaded by Illuminate (2025-04-13 19:24  UTC)<br/>
+*Spherion* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-13 19:24  UTC)<br/>
  Decay: 4.0 on Esker
  (2025-04-13 19:24  UTC)<br/>
 *Heze Bay*'s invasion is successful (2025-04-13 21:22  UTC)<br/>
@@ -8296,7 +8296,7 @@ DSS effect Orbital Blockade is activated (2025-04-13 14:01  UTC)<br/>
  (2025-04-13 21:22  UTC)<br/>
 *Meridia* moves to X 0.28823823 Y 0.1170488 (2025-04-13 23:00  UTC)<br/>
 *Meridia* moves to X 0.28799662 Y 0.11707106 (2025-04-14 03:00  UTC)<br/>
-*Grafmere* of the Rictus sector is invaded by Illuminate (2025-04-14 05:10  UTC)<br/>
+*Grafmere* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-14 05:10  UTC)<br/>
 *Meridia* moves to X 0.28775904 Y 0.11709295 (2025-04-14 07:00  UTC)<br/>
 *Spherion*'s invasion is successful (2025-04-14 07:25  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-14 07:25  UTC)<br/>
@@ -8308,7 +8308,7 @@ DSS effect Orbital Blockade is activated (2025-04-13 14:01  UTC)<br/>
 *Meridia* moves to X 0.28751314 Y 0.11711562 (2025-04-14 11:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-04-14 14:01  UTC)<br/>
 *Meridia* moves to X 0.28727505 Y 0.11713756 (2025-04-14 15:00  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-04-14 15:23  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-14 15:23  UTC)<br/>
  Decay: 3.2 on Nivel 43
  (2025-04-14 15:23  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
@@ -8318,7 +8318,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
 *Meridia* moves to X 0.2867951 Y 0.11718178 (2025-04-14 23:00  UTC)<br/>
  Decay: 2.9 on Nivel 43
  (2025-04-14 23:00  UTC)<br/>
-*Haldus* of the Ferris sector is invaded by Illuminate (2025-04-15 01:24  UTC)<br/>
+*Haldus* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-04-15 01:24  UTC)<br/>
 *Meridia* moves to X 0.28656176 Y 0.11720329 (2025-04-15 03:00  UTC)<br/>
 *Hesoe Prime*'s invasion is successful (2025-04-15 03:23  UTC)<br/>
 ↳ Rigel sector is fully under Human control (2025-04-15 03:23  UTC)<br/>
@@ -8338,7 +8338,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-04-14 16:08  UTC)<br/>
 *Meridia* moves to X 0.28608897 Y 0.11724685 (2025-04-15 11:00  UTC)<br/>
  Decay: 2.5 on Nivel 43
  (2025-04-15 11:00  UTC)<br/>
-*Setia* of the Omega sector is invaded by Illuminate (2025-04-15 11:27  UTC)<br/>
+*Setia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-04-15 11:27  UTC)<br/>
 Assault Division: Predator Strain U3A deploys to *Nivel 43* (2025-04-15 12:11  UTC)<br/>
 *Haldus*'s invasion is successful (2025-04-15 13:25  UTC)<br/>
 ↳ Ferris sector is fully under Human control (2025-04-15 13:25  UTC)<br/>
@@ -8348,7 +8348,7 @@ Assault Division: Predator Strain U3A deploys to *Nivel 43* (2025-04-15 12:11  U
  (2025-04-15 15:00  UTC)<br/>
 *Meridia* moves to X 0.28561932 Y 0.11729013 (2025-04-15 19:00  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-15 20:12  UTC)<br/>
-*Kraz* of the Alstrad sector is invaded by Illuminate (2025-04-15 21:31  UTC)<br/>
+*Kraz* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-04-15 21:31  UTC)<br/>
 *Meridia* moves to X 0.28539065 Y 0.1173112 (2025-04-15 23:00  UTC)<br/>
 *Setia*'s invasion is successful (2025-04-15 23:28  UTC)<br/>
 ↳ Omega sector is fully under Human control (2025-04-15 23:28  UTC)<br/>
@@ -8363,7 +8363,7 @@ DSS deploys to *Ursica XI* of the Borgus sector (2025-04-16 04:18  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2025-04-16 06:00  UTC)<br/>
 *Meridia* moves to X 0.28492698 Y 0.11735393 (2025-04-16 07:00  UTC)<br/>
-*Acubens Prime* of the Gallux sector is invaded by Illuminate (2025-04-16 07:26  UTC)<br/>
+*Acubens Prime* of the Gallux sector is invaded by Lvl 2 Illuminate (2025-04-16 07:26  UTC)<br/>
 
 ### Day: #434
 *Kraz*'s invasion is successful (2025-04-16 09:35  UTC)<br/>
@@ -8387,14 +8387,14 @@ Dispatch: NEW MAJOR ORDER. Multiple Gloom-adjacent planets have come under sudde
  (2025-04-16 14:00  UTC)<br/>
 *Meridia* moves to X 0.2844687 Y 0.11739616 (2025-04-16 15:00  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-16 16:18  UTC)<br/>
-*Valmox* of the Rictus sector is invaded by Illuminate (2025-04-16 16:38  UTC)<br/>
+*Valmox* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-16 16:38  UTC)<br/>
 *Meridia* moves to X 0.28423908 Y 0.11741732 (2025-04-16 19:00  UTC)<br/>
 *Acubens Prime*'s invasion is successful (2025-04-16 19:30  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-04-16 19:30  UTC)<br/>
  Decay: -5.0 on Nivel 43
  (2025-04-16 22:00  UTC)<br/>
 *Meridia* moves to X 0.28399825 Y 0.11743951 (2025-04-16 23:00  UTC)<br/>
-*Keid* of the Akira sector is invaded by Illuminate (2025-04-17 01:35  UTC)<br/>
+*Keid* of the Akira sector is invaded by Lvl 2 Illuminate (2025-04-17 01:35  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-04-17 01:52  UTC)<br/>
 DSS effect Eagle Storm stops (2025-04-17 01:55  UTC)<br/>
 *Meridia* moves to X 0.28376308 Y 0.11746118 (2025-04-17 03:00  UTC)<br/>
@@ -8416,7 +8416,7 @@ Assault Division: Predator Strain U4D deploys to *Pandion-XXIV* (2025-04-17 10:3
 ↳ *Esker* liberation campaign starts (2025-04-17 11:34  UTC)<br/>
 Assault Division: Predator Strain U4D leaves *Pandion-XXIV* (2025-04-17 11:35  UTC)<br/>
 Assault Division: Predator Strain U4D deploys to *Phact Bay* (2025-04-17 11:36  UTC)<br/>
-*Sirius* of the Xi Tauri sector is invaded by Illuminate (2025-04-17 11:39  UTC)<br/>
+*Sirius* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-04-17 11:39  UTC)<br/>
 Assault Division: Predator Strain U4D leaves *Phact Bay* (2025-04-17 12:35  UTC)<br/>
  Decay: 1.5 on Esker
  (2025-04-17 12:35  UTC)<br/>
@@ -8447,14 +8447,14 @@ Assault Division: Predator Strain U4F leaves *Gacrux* (2025-04-17 20:33  UTC)<br
  (2025-04-17 20:33  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Lvl 17 Terminids (2025-04-17 20:34  UTC)<br/>
 Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-17 20:34  UTC)<br/>
-*Elysian Meadows* of the Guang sector is invaded by Illuminate (2025-04-17 20:35  UTC)<br/>
+*Elysian Meadows* of the Guang sector is invaded by Lvl 2 Illuminate (2025-04-17 20:35  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2025-04-17 22:00  UTC)<br/>
 *Meridia* moves to X 0.28253004 Y 0.11757481 (2025-04-17 23:00  UTC)<br/>
 *Sirius*'s invasion is successful (2025-04-17 23:40  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-04-17 23:40  UTC)<br/>
 *Meridia* moves to X 0.28227207 Y 0.11759858 (2025-04-18 03:00  UTC)<br/>
-*Osupsam* of the Tarragon sector is invaded by Illuminate (2025-04-18 06:32  UTC)<br/>
+*Osupsam* of the Tarragon sector is invaded by Lvl 2 Illuminate (2025-04-18 06:32  UTC)<br/>
 *Meridia* moves to X 0.2820214 Y 0.117621675 (2025-04-18 07:00  UTC)<br/>
 *Elysian Meadows*'s invasion is successful (2025-04-18 08:35  UTC)<br/>
 ↳ Guang sector is fully under Human control (2025-04-18 08:35  UTC)<br/>
@@ -8471,7 +8471,7 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-18 11:16  UTC)<br/>
 ↳ *Bore Rock* liberation campaign starts (2025-04-18 15:40  UTC)<br/>
 ↳ *Esker* liberation campaign ends (2025-04-18 15:40  UTC)<br/>
 ↳ Falstaff sector is fully under Terminid control (2025-04-18 15:40  UTC)<br/>
-*Skat Bay* of the Xi Tauri sector is invaded by Illuminate (2025-04-18 16:42  UTC)<br/>
+*Skat Bay* of the Xi Tauri sector is invaded by Lvl 2 Illuminate (2025-04-18 16:42  UTC)<br/>
  Decay: 1.0 on Bore Rock
  (2025-04-18 16:42  UTC)<br/>
 *Osupsam*'s invasion is successful (2025-04-18 18:34  UTC)<br/>
@@ -8499,7 +8499,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-04-18 22:52  UTC)<br/>
 Assault Division: Predator Strain U4I deploys to *Estanu* (2025-04-18 23:38  UTC)<br/>
  Decay: 0.0 on Estanu
  (2025-04-19 00:00  UTC)<br/>
-*Herthon Secundus* of the Ferris sector is invaded by Illuminate (2025-04-19 02:44  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is invaded by Lvl 2 Illuminate (2025-04-19 02:44  UTC)<br/>
 *Meridia* moves to X 0.28076077 Y 0.117737845 (2025-04-19 03:00  UTC)<br/>
 *Skat Bay*'s invasion is successful (2025-04-19 04:43  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-04-19 04:43  UTC)<br/>
@@ -8524,7 +8524,7 @@ Assault Division: Predator Strain U4E is routed from Bore Rock (2025-04-19 11:18
 Assault Division: Predator Strain U4G is routed from Terrek (2025-04-19 11:18  UTC)<br/>
 Assault Division: Predator Strain U4H is routed from Erata Prime (2025-04-19 11:18  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-19 11:19  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is invaded by Illuminate (2025-04-19 11:44  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is invaded by Lvl 2 Illuminate (2025-04-19 11:44  UTC)<br/>
  Decay: 500.0 on Terrek<br/> Decay: 2.5 on Erata Prime
  (2025-04-19 11:44  UTC)<br/>
 *Herthon Secundus*'s invasion is successful (2025-04-19 14:45  UTC)<br/>
@@ -8532,7 +8532,7 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2025-04-19 11:19  UTC)<br/>
 *Meridia* moves to X 0.28000876 Y 0.11780714 (2025-04-19 15:00  UTC)<br/>
 *Meridia* moves to X 0.2797499 Y 0.117831 (2025-04-19 19:00  UTC)<br/>
 Assault Division: Predator Strain U4F leaves *Acamar IV* (2025-04-19 20:40  UTC)<br/>
-*Parsh* of the Rictus sector is invaded by Illuminate (2025-04-19 20:44  UTC)<br/>
+*Parsh* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-19 20:44  UTC)<br/>
 Assault Division: Predator Strain U4F deploys to *Acamar IV* (2025-04-19 21:32  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-04-19 22:56  UTC)<br/>
 *Meridia* moves to X 0.27949303 Y 0.11785467 (2025-04-19 23:00  UTC)<br/>
@@ -8556,7 +8556,7 @@ Assault Division: Predator Strain U4K is routed from Turing (2025-04-20 04:53  U
 DSS deploys to *Estanu* of the Draco sector (2025-04-20 04:53  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Lvl 9 Terminids (2025-04-20 04:53  UTC)<br/>
 Assault Division: Predator Strain U4L deploys to *Erata Prime* (2025-04-20 04:53  UTC)<br/>
-*Klaka 5* of the Alstrad sector is invaded by Illuminate (2025-04-20 05:42  UTC)<br/>
+*Klaka 5* of the Alstrad sector is invaded by Lvl 2 Illuminate (2025-04-20 05:42  UTC)<br/>
  Decay: 1.5 on Crimsica<br/> Decay: 2.5 on Turing<br/> Decay: 0.0 on Erata Prime
  (2025-04-20 05:42  UTC)<br/>
 *Meridia* moves to X 0.27895916 Y 0.117903866 (2025-04-20 07:00  UTC)<br/>
@@ -8569,7 +8569,7 @@ Assault Division: Predator Strain U4M deploys to *Fenrir III* (2025-04-20 10:43 
 *Meridia* moves to X 0.27868083 Y 0.11792951 (2025-04-20 11:00  UTC)<br/>
  Decay: 0.0 on Fenrir III
  (2025-04-20 11:00  UTC)<br/>
-*Leng Secundus* of the Quintus sector is invaded by Illuminate (2025-04-20 14:49  UTC)<br/>
+*Leng Secundus* of the Quintus sector is invaded by Lvl 2 Illuminate (2025-04-20 14:49  UTC)<br/>
 *Meridia* moves to X 0.2784068 Y 0.11795476 (2025-04-20 15:00  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-20 16:30  UTC)<br/>
 *Klaka 5*'s invasion is successful (2025-04-20 17:42  UTC)<br/>
@@ -8586,7 +8586,7 @@ Dispatch: MAJOR ORDER WON. The sudden onslaught of Gloom-mutated Terminids has b
  Decay: 2.5 on Erata Prime
  (2025-04-20 22:00  UTC)<br/>
 *Meridia* moves to X 0.27783877 Y 0.11800711 (2025-04-20 23:00  UTC)<br/>
-*Karlia* of the Omega sector is invaded by Illuminate (2025-04-20 23:27  UTC)<br/>
+*Karlia* of the Omega sector is invaded by Lvl 2 Illuminate (2025-04-20 23:27  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-04-20 23:33  UTC)<br/>
 *Leng Secundus*'s invasion is repelled (2025-04-21 02:38  UTC)<br/>
 ↳ Quintus sector is fully under Human control (2025-04-21 02:38  UTC)<br/>
@@ -8601,23 +8601,23 @@ DSS deploys to *Karlia* of the Omega sector (2025-04-21 06:49  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-04-21 08:43  UTC)<br/>
  Decay: 1.0 on Fenrir III
  (2025-04-21 08:43  UTC)<br/>
-*Oasis* of the Rictus sector is invaded by Illuminate (2025-04-21 08:54  UTC)<br/>
+*Oasis* of the Rictus sector is invaded by Lvl 2 Illuminate (2025-04-21 08:54  UTC)<br/>
 
 ### Day: #439
 *Meridia* moves to X 0.27696344 Y 0.11808777 (2025-04-21 11:00  UTC)<br/>
 *Meridia* moves to X 0.2766846 Y 0.118113466 (2025-04-21 15:00  UTC)<br/>
 *Oasis*'s invasion is repelled (2025-04-21 16:54  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-04-21 16:54  UTC)<br/>
-*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-21 18:31  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Lvl 8 Illuminate (2025-04-21 18:31  UTC)<br/>
 NOTE: For two minutes from the start of the invasion to 06:33pm it was possible to see the Predator Strain flag due to the API function allowing it to appear not expiring yet. It was manually removed after 2 minutes gameplay wise they wouldn't have spawned due to this being an Illuminate event. (2025-04-21 18:33  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-21 18:37  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Lvl 5 Illuminate (2025-04-21 18:37  UTC)<br/>
 *Meridia* moves to X 0.27641737 Y 0.11813809 (2025-04-21 19:00  UTC)<br/>
 *Meridia* moves to X 0.276147 Y 0.118163005 (2025-04-21 23:00  UTC)<br/>
 DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-22 01:52  UTC)<br/>
 *Pilen V*'s invasion is repelled (2025-04-22 02:00  UTC)<br/>
 ↳ Altus sector is fully under Human control (2025-04-22 02:00  UTC)<br/>
 *Meridia* moves to X 0.2758496 Y 0.11819041 (2025-04-22 03:00  UTC)<br/>
-*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-22 06:15  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Lvl 10 Illuminate (2025-04-22 06:15  UTC)<br/>
 *Fenrir III*'s invasion is successful (2025-04-22 06:32  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2025-04-22 06:33  UTC)<br/>
 *Meridia* moves to X 0.2755509 Y 0.11821793 (2025-04-22 07:00  UTC)<br/>
@@ -8626,7 +8626,7 @@ DSS deploys to *Esker* of the Falstaff sector (2025-04-22 06:33  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-22 09:54  UTC)<br/>
 *Meridia* moves to X 0.2752564 Y 0.11824507 (2025-04-22 11:00  UTC)<br/>
 *Meridia* moves to X 0.2749703 Y 0.11827143 (2025-04-22 15:00  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-22 16:04  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Lvl 10 Illuminate (2025-04-22 16:04  UTC)<br/>
 *Turing*'s invasion is repelled (2025-04-22 16:41  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-22 16:41  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2025-04-22 16:42  UTC)<br/>
@@ -8634,7 +8634,7 @@ DSS deploys to *Esker* of the Falstaff sector (2025-04-22 16:42  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-04-22 19:55  UTC)<br/>
 *Meridia* moves to X 0.2744121 Y 0.11832287 (2025-04-22 23:00  UTC)<br/>
 DSS deploys to *Pilen V* of the Altus sector (2025-04-22 23:56  UTC)<br/>
-*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-23 02:15  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Lvl 11 Illuminate (2025-04-23 02:15  UTC)<br/>
 *Pilen V*'s invasion is repelled (2025-04-23 02:44  UTC)<br/>
 ↳ Altus sector is fully under Human control (2025-04-23 02:44  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-04-23 02:44  UTC)<br/>
@@ -8644,7 +8644,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-23 03:56  UTC)<br/>
 
 ### Day: #441
 *Meridia* moves to X 0.27362347 Y 0.118395545 (2025-04-23 11:00  UTC)<br/>
-*Mastia* of the Marspira sector is invaded by Illuminate (2025-04-23 13:42  UTC)<br/>
+*Mastia* of the Marspira sector is invaded by Lvl 6 Illuminate (2025-04-23 13:42  UTC)<br/>
 *Fenrir III*'s invasion is repelled (2025-04-23 14:01  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-23 14:01  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2025-04-23 14:01  UTC)<br/>
@@ -8652,11 +8652,11 @@ DSS deploys to *Esker* of the Falstaff sector (2025-04-23 14:01  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-04-23 15:57  UTC)<br/>
 *Meridia* moves to X 0.27312994 Y 0.11844102 (2025-04-23 19:00  UTC)<br/>
 Dispatch: INFORMATIONAL ADVISORY. SEAF Combat Pathologists have identified a defect affecting a small percentage of currently-deployed Voteless: occipital abnormalities require the exercise of local mind control to a much greater degree than normal. This creates a short-term opportunity for the current order: successfully repelling Illuminate attacks will instantly repatriate large numbers of Voteless. Once freed, their remains will be available to further advance our scientific endeavors. (2025-04-23 20:21  UTC)<br/>
-*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-23 20:28  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Lvl 10 Illuminate (2025-04-23 20:28  UTC)<br/>
 *Mastia*'s invasion is repelled (2025-04-23 20:30  UTC)<br/>
 ↳ Marspira sector is fully under Human control (2025-04-23 20:30  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-04-23 20:30  UTC)<br/>
-*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-23 20:42  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Lvl 9 Illuminate (2025-04-23 20:42  UTC)<br/>
 *Meridia* moves to X 0.27288818 Y 0.1184633 (2025-04-23 23:00  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-23 23:57  UTC)<br/>
 *Meridia* moves to X 0.27262127 Y 0.118487895 (2025-04-24 03:00  UTC)<br/>
@@ -8669,7 +8669,7 @@ Dispatch: XENOENTOMOLOGY CENTER DAMAGED. The Xenoentomology Center on *Turing* h
 *Turing* of the Umlaut sector instantly flips to Terminid control (2025-04-24 08:29  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2025-04-24 08:29  UTC)<br/>
 Assault Division: Predator Strain U5A deploys to *Turing* (2025-04-24 08:29  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminate (2025-04-24 08:42  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Lvl 7 Illuminate (2025-04-24 08:42  UTC)<br/>
 *Fenrir III*'s invasion is successful (2025-04-24 08:42  UTC)<br/>
 DSS deploys to *Troost* of the Trigon sector (2025-04-24 08:42  UTC)<br/>
 Dispatch: PILEN V UNDER ATTACK. The Illuminate attack on *Pilen V* threatens the Repulsive Gravity Field Generator, critical to halting the Meridian Wormhole. The Generator is nearing completion; the Illuminate cannot be allowed to destroy our progress. (2025-04-24 08:44  UTC)<br/>
@@ -8682,7 +8682,7 @@ DSS deploys to *Pilen V* of the Altus sector (2025-04-24 11:57  UTC)<br/>
 DSS deploys to *Turing* of the Umlaut sector (2025-04-24 16:33  UTC)<br/>
 *Veld* of the Orion sector is attacked by Lvl 13 Terminids (2025-04-24 16:49  UTC)<br/>
 Assault Division: Predator Strain U5B deploys to *Veld* (2025-04-24 16:49  UTC)<br/>
-*Mastia* of the Marspira sector is invaded by Illuminate (2025-04-24 16:52  UTC)<br/>
+*Mastia* of the Marspira sector is invaded by Lvl 10 Illuminate (2025-04-24 16:52  UTC)<br/>
  Decay: 0.0 on Veld
  (2025-04-24 18:00  UTC)<br/>
 *Meridia* moves to X 0.27139843 Y 0.118600585 (2025-04-24 19:00  UTC)<br/>
@@ -8706,11 +8706,11 @@ Dispatch: INCURSION ALERT. Illuminate forces have attacked MASTIA, endangering t
  Decay: 0.0 on Gaellivare
  (2025-04-25 12:30  UTC)<br/>
 DSS deploys to *Veld* of the Orion sector (2025-04-25 12:58  UTC)<br/>
-*Nublaria I* of the Celeste sector is invaded by Illuminate (2025-04-25 14:18  UTC)<br/>
+*Nublaria I* of the Celeste sector is invaded by Lvl 10 Illuminate (2025-04-25 14:18  UTC)<br/>
 Major Order | [A2-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-5) Complete 625k Operations and Liberate *Turing* is issued | Objective: Operation/Liberate (2025-04-25 14:53  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. On *Pilen V*, the Repulsive Gravity Field Generator nears completion. Once activated, it is projected to completely halt the Meridian Singularity's movement. Interference from the Illuminate is expected to peak as activation nears. The Helldivers are ordered to thin Illuminate forces and defend vital planets. Further, the Helldivers are ordered to gather E-710 by containing the Predator Strain outbreak on *Turing*. (2025-04-25 14:56  UTC)<br/>
 *Meridia* moves to X 0.27015334 Y 0.118715316 (2025-04-25 15:00  UTC)<br/>
-*Krakatwo* of the Celeste sector is invaded by Illuminate (2025-04-25 18:59  UTC)<br/>
+*Krakatwo* of the Celeste sector is invaded by Lvl 8 Illuminate (2025-04-25 18:59  UTC)<br/>
 *Meridia* moves to X 0.26999384 Y 0.118730016 (2025-04-25 19:00  UTC)<br/>
 *Veld* defense is failed (2025-04-25 20:39  UTC)<br/>
 ↳ *Veld* liberation campaign starts (2025-04-25 20:39  UTC)<br/>
@@ -8718,7 +8718,7 @@ DSS deploys to *Turing* of the Umlaut sector (2025-04-25 20:58  UTC)<br/>
  Decay: 1.0 on Veld
  (2025-04-25 20:58  UTC)<br/>
 *Meridia* moves to X 0.26982418 Y 0.118745655 (2025-04-25 23:00  UTC)<br/>
-*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-04-26 00:54  UTC)<br/>
+*Widow's Harbor* of the Altus sector is invaded by Lvl 8 Illuminate (2025-04-26 00:54  UTC)<br/>
 *Nublaria I*'s invasion is successful (2025-04-26 02:17  UTC)<br/>
 *Meridia* moves to X 0.26962152 Y 0.118764326 (2025-04-26 03:00  UTC)<br/>
 *Slif* of the Celeste sector is attacked by Lvl 15 Terminids (2025-04-26 05:53  UTC)<br/>
@@ -8735,14 +8735,14 @@ DSS effect Orbital Blockade stops (2025-04-26 08:55  UTC)<br/>
 *Meridia* moves to X 0.2691336 Y 0.11880929 (2025-04-26 11:00  UTC)<br/>
 *Gaellivare* defense is failed (2025-04-26 11:48  UTC)<br/>
 ↳ *Gaellivare* liberation campaign starts (2025-04-26 11:48  UTC)<br/>
-*Mastia* of the Marspira sector is invaded by Illuminate (2025-04-26 12:25  UTC)<br/>
+*Mastia* of the Marspira sector is invaded by Lvl 7 Illuminate (2025-04-26 12:25  UTC)<br/>
  Decay: 1.5 on Gaellivare
  (2025-04-26 12:25  UTC)<br/>
 *Widow's Harbor*'s invasion is successful (2025-04-26 12:53  UTC)<br/>
 ↳ Altus sector is fully under Human control (2025-04-26 12:53  UTC)<br/>
 *Meridia* moves to X 0.26889017 Y 0.11883172 (2025-04-26 15:00  UTC)<br/>
 *Meridia* moves to X 0.268653 Y 0.11885358 (2025-04-26 19:00  UTC)<br/>
-*Achernar Secundus* of the Borgus sector is invaded by Illuminate (2025-04-26 22:03  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is invaded by Lvl 7 Illuminate (2025-04-26 22:03  UTC)<br/>
 Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens the AM Defense Factory Hub and endangers the investments of a key military contractor. (2025-04-26 22:11  UTC)<br/>
 *Meridia* moves to X 0.26842287 Y 0.11887478 (2025-04-26 23:00  UTC)<br/>
 *Mastia*'s invasion is successful (2025-04-27 00:24  UTC)<br/>
@@ -8755,7 +8755,7 @@ Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens 
  (2025-04-27 07:00  UTC)<br/>
 
 ### Day: #445
-*Claorell* of the Tanis sector is invaded by Illuminate (2025-04-27 09:24  UTC)<br/>
+*Claorell* of the Tanis sector is invaded by Lvl 7 Illuminate (2025-04-27 09:24  UTC)<br/>
 *Achernar Secundus*'s invasion is successful (2025-04-27 10:03  UTC)<br/>
 *Meridia* moves to X 0.2677207 Y 0.11893948 (2025-04-27 11:00  UTC)<br/>
 *Mastia* of the Marspira sector is attacked by Lvl 6 Automatons (2025-04-27 12:11  UTC)<br/>
@@ -8765,7 +8765,7 @@ Dispatch: INCURSION ALERT. An Illuminate attack on ACHERNAR SECUNDUS, threatens 
  Decay: 1.5 on Turing
  (2025-04-27 15:00  UTC)<br/>
 *Meridia* moves to X 0.26728034 Y 0.118980065 (2025-04-27 19:00  UTC)<br/>
-*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-27 20:09  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Lvl 7 Illuminate (2025-04-27 20:09  UTC)<br/>
 Dispatch: INCURSION ALERT. The Illuminate have launched an assault on FENRIR III, the home planet of the Center of Science. (2025-04-27 20:18  UTC)<br/>
 *Claorell*'s invasion is successful (2025-04-27 21:24  UTC)<br/>
 Dispatch: INCURSION ALERT. Illuminate forces are invading CLAORELL, where the Deep Mantle Forge Complex produces key materials for the DSS. (2025-04-27 21:32  UTC)<br/>
@@ -8781,7 +8781,7 @@ Dispatch: The Illuminate targets, while strategically valuable, so far have litt
  (2025-04-28 03:00  UTC)<br/>
 Assault Division: Predator Strain U5C leaves *Slif* (2025-04-28 05:54  UTC)<br/>
 *Meridia* moves to X 0.26665115 Y 0.119038045 (2025-04-28 07:00  UTC)<br/>
-*Tibit* of the Severin sector is invaded by Illuminate (2025-04-28 07:11  UTC)<br/>
+*Tibit* of the Severin sector is invaded by Lvl 9 Illuminate (2025-04-28 07:11  UTC)<br/>
 Dispatch: INCURSION ALERT. Illuminate forces have attacked TIBIT. Derelict Automaton factories are located on the planet, but little else of strategic interest. The enemy rationale for targeting this planet is unknown. (2025-04-28 07:13  UTC)<br/>
 *Fenrir III*'s invasion is successful (2025-04-28 08:08  UTC)<br/>
  Decay: 1.0 on Turing
@@ -8806,7 +8806,7 @@ DSS deploys to *Tibit* of the Severin sector (2025-04-28 13:35  UTC)<br/>
  (2025-04-28 15:00  UTC)<br/>
 DSS effect Heavy Ordnance Distribution starts (2025-04-28 15:53  UTC)<br/>
 *Claorell* of the Tanis sector is attacked by Lvl 5 Automatons (2025-04-28 15:54  UTC)<br/>
-*Erata Prime* of the Umlaut sector is invaded by Illuminate (2025-04-28 18:22  UTC)<br/>
+*Erata Prime* of the Umlaut sector is invaded by Lvl 9 Illuminate (2025-04-28 18:22  UTC)<br/>
  Decay: 0.0 on Claorell
  (2025-04-28 18:22  UTC)<br/>
 *Meridia* moves to X 0.26609665 Y 0.11908914 (2025-04-28 19:00  UTC)<br/>
@@ -8816,14 +8816,14 @@ DSS deploys to *Claorell* of the Tanis sector (2025-04-28 19:12  UTC)<br/>
 DSS deploys to *Erata Prime* of the Umlaut sector (2025-04-28 20:58  UTC)<br/>
 *Pilen V* of the Altus sector is no longer under threat (2025-04-28 21:09  UTC)<br/>
 *Meridia* moves to X 0.26598296 Y 0.11909962 (2025-04-28 23:00  UTC)<br/>
-*Tien Kwan* of the Theseus sector is invaded by Illuminate (2025-04-29 02:32  UTC)<br/>
+*Tien Kwan* of the Theseus sector is invaded by Lvl 11 Illuminate (2025-04-29 02:32  UTC)<br/>
 *Meridia* moves to X 0.26591358 Y 0.11910601 (2025-04-29 03:00  UTC)<br/>
 *Erata Prime*'s invasion is repelled (2025-04-29 03:12  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2025-04-29 03:12  UTC)<br/>
 DSS deploys to *Claorell* of the Tanis sector (2025-04-29 03:12  UTC)<br/>
 *Claorell* defense is failed (2025-04-29 03:54  UTC)<br/>
 ↳ *Claorell* liberation campaign starts (2025-04-29 03:55  UTC)<br/>
-*Fenrir III* of the Umlaut sector is invaded by Illuminate (2025-04-29 04:14  UTC)<br/>
+*Fenrir III* of the Umlaut sector is invaded by Lvl 11 Illuminate (2025-04-29 04:14  UTC)<br/>
  Decay: 3.0 on Claorell
  (2025-04-29 04:14  UTC)<br/>
 DSS deploys to *Tien Kwan* of the Theseus sector (2025-04-29 04:59  UTC)<br/>
@@ -8834,7 +8834,7 @@ DSS deploys to *Fenrir III* of the Umlaut sector (2025-04-29 06:01  UTC)<br/>
 
 ### Day: #447
 *Meridia* moves to X 0.26588857 Y 0.11910832 (2025-04-29 09:08  UTC)<br/>
-*Turing* of the Umlaut sector is invaded by Illuminate (2025-04-29 09:45  UTC)<br/>
+*Turing* of the Umlaut sector is invaded by Lvl 11 Illuminate (2025-04-29 09:45  UTC)<br/>
 *Turing* of the Umlaut sector's Xenoentomology Center POI is removed (2025-04-29 09:45  UTC)<br/>
 Assault Division: Predator Strain U5A is routed from Turing (2025-04-29 09:45  UTC)<br/>
 *Turing* of the Umlaut sector is established as a Xenoentomology Center POI (2025-04-29 09:47  UTC)<br/>
@@ -9172,7 +9172,8 @@ Assault Division: The Great Host U1A deploys to *Meridia* (2025-05-13 08:58  UTC
 *Super Earth* of the Sol sector's biome is changed from *Super Earth* [*Super Earth*] to *Super Earth* Metropolis [*Super Earth*] (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1A leaves *Meridia* (2025-05-13 09:00  UTC)<br/>
 Assault Division: The Great Host U1A deploys to *Widow's Harbor* (2025-05-13 09:01  UTC)<br/>
-*Widow's Harbor* of the Altus sector is invaded by Illuminate (2025-05-13 09:02  UTC)<br/>
+*Widow's Harbor* of the Altus sector is invaded by Lvl 800 Illuminate (2025-05-13 09:02  UTC)<br/>
+NOTE: The level of this invasion is an estimate (2025-05-13 09:02  UTC)<br/>
 Major Order | [A2-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-2) Weaken The Great Host By Any Means Necessary is issued | Objective: Control (2025-05-13 09:05  UTC)<br/>
 Dispatch: ALERT -- ALERT -- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. WIDOW'S HARBOR ATTACKED. ALL UNITS TO WIDOW'S HARBOR (2025-05-13 09:05  UTC)<br/>
 DSS deploys to *Krakatwo* of the Celeste sector (2025-05-13 09:05  UTC)<br/>
@@ -9207,7 +9208,8 @@ DSS deploys to *Nublaria I* of the Celeste sector (2025-05-15 09:03  UTC)<br/>
 Assault Division: The Great Host U1A leaves *Widow's Harbor* (2025-05-15 10:58  UTC)<br/>
  Decay: 75.0 on Widow's Harbor
  (2025-05-15 10:58  UTC)<br/>
-*Pilen V* of the Altus sector is invaded by Illuminate (2025-05-15 11:01  UTC)<br/>
+*Pilen V* of the Altus sector is invaded by Lvl 741 Illuminate (2025-05-15 11:01  UTC)<br/>
+NOTE: The level of this invasion is an estimate (2025-05-15 11:01  UTC)<br/>
 Assault Division: The Great Host U1A deploys to *Pilen V* (2025-05-15 11:02  UTC)<br/>
 Assault Division: Predator Strain U5E leaves *Krakatwo* (2025-05-15 11:46  UTC)<br/>
 Assault Division: Predator Strain U5E merges with Predator Strain U5F on *Nublaria I* (2025-05-15 11:48  UTC)<br/>
@@ -9227,7 +9229,8 @@ NOTE: While technically an invasion [although UI misreported it as a liberation 
 Assault Division: The Great Host U1A leaves *Pilen V* (2025-05-17 17:49  UTC)<br/>
  Decay: 75.0 on Pilen V
  (2025-05-17 17:49  UTC)<br/>
-*New Haven* of the Altus sector is invaded by Illuminate (2025-05-17 17:50  UTC)<br/>
+*New Haven* of the Altus sector is invaded by Lvl 688 Illuminate (2025-05-17 17:50  UTC)<br/>
+NOTE: The level of this invasion is an estimate (2025-05-17 17:50  UTC)<br/>
 Assault Division: The Great Host U1A deploys to *New Haven* (2025-05-17 17:50  UTC)<br/>
 
 ### Day: #466
@@ -12574,7 +12577,7 @@ Assault Division: Hive Lords U1A leaves *Oshaune* (2025-10-27 08:31  UTC)<br/>
 *Asperoth Prime* - *Alathfar XI* warp link is removed (2025-10-27 10:32  UTC)<br/>
 *Bellatrix* - *Andar* warp link is removed (2025-10-27 10:32  UTC)<br/>
 *Khandark* - *Asperoth Prime* warp link is added (2025-10-27 10:32  UTC)<br/>
-*Hesoe Prime* of the Rigel sector is attacked by Illuminates (2025-10-27 10:42  UTC)<br/>
+*Hesoe Prime* of the Rigel sector is attacked by Lvl 12 Illuminates (2025-10-27 10:42  UTC)<br/>
 *Viridia Prime* - *Diluvia* warp link is added (2025-10-27 12:18  UTC)<br/>
 *Obari* - *Viridia Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
 *Emorath* - *Viridia Prime* warp link is added (2025-10-27 12:18  UTC)<br/>
@@ -12637,7 +12640,7 @@ Assault Division: Rupture Strain U3D deploys to *Gacrux* (2025-10-29 12:05  UTC)
 Dispatch: RUPTURE STRAIN OBSERVED. Outbreaks of the Terminid Rupture Strain have erupted on TERREK and GACRUX. SEAF defenses are overrun; citizens are imperiled. The Strain has been dormant for some time, but High Command always predicted its eventual resurgence. It seems the burrowing Terminids hid themselves deep underneath the ground, waiting to strike. (2025-10-29 12:05  UTC)<br/>
  Decay: 0.0 on Terrek, Gacrux
  (2025-10-29 14:00  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2025-10-30 08:08  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 32 Terminids (2025-10-30 08:08  UTC)<br/>
 *Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-10-30 08:08  UTC)<br/>
 Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3E] (2025-10-30 08:08  UTC)<br/>
 Assault Division: Rupture Strain U3E deploys to *Crimsica* (2025-10-30 08:08  UTC)<br/>
@@ -12676,7 +12679,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-10-31 13:14  UTC)<br/>
 *Alathfar XI* Region 0 UNNAMED City is now present (2025-10-31 15:38  UTC)<br/>
 *Alathfar XI* Region 1 Worksong Town is now present (2025-10-31 15:38  UTC)<br/>
 *Alathfar XI* Region 2 Severity Megacity is now present (2025-10-31 15:38  UTC)<br/>
-*Asperoth Prime* Region 0  Aspen Hills City is now present (2025-10-31 15:38  UTC)<br/>
+*Asperoth Prime* Region 0 Aspen Hills City is now present (2025-10-31 15:38  UTC)<br/>
 *Asperoth Prime* Region 1 Megacorpus City is now present (2025-10-31 15:38  UTC)<br/>
 *Baldrick Prime* - *Obari* warp link is removed (2025-10-31 15:38  UTC)<br/>
 *Alathfar XI*'s max health is changed to 2.2m (2025-10-31 15:38  UTC)<br/>
@@ -12698,3 +12701,24 @@ Dispatch: EXO-49 EMANCIPATOR EXOSUIT TEMPORARILY AVAILABLE. High Command has aut
  Decay: 6.5 on Oshaune
  (2025-11-01 02:17  UTC)<br/>
 Dispatch: DSS GLOOM SHIELDING DEGRADING. The spore-resistance polymer shielding the DSS from the Gloom is beginning to show early signs of degradation. DSS operation remains unaffected for now, but Gloom spores will eventually eat through the polymer and damage the station, should the DSS remains within the Gloom for an extended period of time. (2025-11-01 05:13  UTC)<br/>
+*Crimsica* defense is failed (2025-11-01 08:09  UTC)<br/>
+↳ *Crimsica* liberation campaign starts (2025-11-01 08:09  UTC)<br/>
+
+### Day: #633
+ Decay: 1.5 on Crimsica
+ (2025-11-01 09:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-11-01 13:15  UTC)<br/>
+Assault Division: Predator Strain U7A leaves *Oshaune* (2025-11-01 15:36  UTC)<br/>
+Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3F] (2025-11-01 15:37  UTC)<br/>
+Assault Division: Rupture Strain U3F deploys to *Oshaune* (2025-11-01 15:37  UTC)<br/>
+Dispatch: OSHAUNE RESISTANCE SPIKE. Terminid activity on *Oshaune* has sharply increased, slowing progress to liberate the Hive World. Analysts believe this increased activity is a collective response to the threat posed by the ongoing offensive. In other words, it is proof that we are winning. Do not relent. The Hive World must be purged. (2025-11-01 15:38  UTC)<br/>
+ Decay: 8.0 on Oshaune
+ (2025-11-01 16:00  UTC)<br/>
+Minor Order | [A2-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-1) Kill 50000 Hive Lords is won | Objective: Eradicate (2025-11-01 19:12  UTC)<br/>
+Dispatch: STRATEGIC THREAT COUNTERED. The Helldivers have culled the directed amount of Hive Lords. As a result, Terminid resistance on OSHAUNE has returned to normal levels. (2025-11-01 19:16  UTC)<br/>
+ Decay: 4.5 on Oshaune
+ (2025-11-01 20:00  UTC)<br/>
+Dispatch: DSS STATUS CRITICAL. The anti-spore polymer shielding on the DSS is critically degraded following prolonged Gloom exposure. The station remains operational, but should it remain in Gloom space much longer, it will suffer a severe breakdown, requiring weeks to repair. Moving the DSS now to KARLIA to re-apply the polymer coating would prevent this damage. The Helldivers must decide whether to take the DSS out of the action on *Oshaune*, or risk lasting damage to the station. (2025-11-01 22:46  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-11-02 01:58  UTC)<br/>
+DSS deploys to *Karlia* (2025-11-02 02:43  UTC)<br/>
+Dispatch: DSS WITHDRAWN. The Democracy Space Station has conducted an emergency warp to KARLIA to avert catastrophic system failure. It will remain out of commission until Gloom spores are fully cleansed from the station. (2025-11-02 02:43  UTC)<br/>
