@@ -12632,7 +12632,7 @@ Assault Division: Rupture Strain U3A deploys to *Bore Rock* (2025-10-29 12:02  U
 Assault Division: Spore Burst Strain U6A leaves *Fori Prime* (2025-10-29 12:02  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Lvl 18 Terminids (2025-10-29 12:03  UTC)<br/>
 Assault Division: Rupture Strain U3A divides into 2 groups [U3A, U3B] (2025-10-29 12:03  UTC)<br/>
-Assault Division: Rupture Strain U3A deploys to *Terrek* (2025-10-29 12:03  UTC)<br/>
+Assault Division: Rupture Strain U3B deploys to *Terrek* (2025-10-29 12:03  UTC)<br/>
 Assault Division: Rupture Strain U3C deploys to *Fori Prime* (2025-10-29 12:03  UTC)<br/>
 *Gacrux* of the Jin Xi sector is attacked by Lvl 18 Terminids (2025-10-29 12:05  UTC)<br/>
 Assault Division: Rupture Strain U3C divides into 2 groups [U3C, U3D] (2025-10-29 12:05  UTC)<br/>
@@ -12722,3 +12722,25 @@ Dispatch: DSS STATUS CRITICAL. The anti-spore polymer shielding on the DSS is cr
 DSS effect Eagle Storm is activated (2025-11-02 01:58  UTC)<br/>
 DSS deploys to *Karlia* (2025-11-02 02:43  UTC)<br/>
 Dispatch: DSS WITHDRAWN. The Democracy Space Station has conducted an emergency warp to KARLIA to avert catastrophic system failure. It will remain out of commission until Gloom spores are fully cleansed from the station. (2025-11-02 02:43  UTC)<br/>
+
+### Day: #634
+DSS deploys to *Oshaune* of the Mirin sector (2025-11-02 14:42  UTC)<br/>
+Dispatch: DSS CLEANSED. The DSS has been cleansed from gloom spores and is ready for re-deployment to OSHAUNE. (2025-11-02 14:44  UTC)<br/>
+ Decay: 4.0 on Oshaune
+ (2025-11-02 16:00  UTC)<br/>
+Assault Division: Rupture Strain U3B leaves *Terrek* (2025-11-02 21:20  UTC)<br/>
+Assault Division: Rupture Strain U3B merges with Rupture Strain U3A on *Bore Rock* (2025-11-02 21:20  UTC)<br/>
+Assault Division: Rupture Strain U3D leaves *Gacrux* (2025-11-02 21:20  UTC)<br/>
+Assault Division: Rupture Strain U3D merges with Rupture Strain U3C on *Fori Prime* (2025-11-02 21:20  UTC)<br/>
+Assault Division: Rupture Strain U3E leaves *Crimsica* (2025-11-02 21:20  UTC)<br/>
+Assault Division: Rupture Strain U3E merges with Rupture Strain U3C on *Fori Prime* (2025-11-02 21:20  UTC)<br/>
+Dispatch: OSHAUNE ALMOST LIBERATED. OSHAUNE is nearly liberated. Remaining Terminid resistance is expected to be fierce. The infestation runs deep. Do not relent. All forces are directed to push on OSHAUNE. (2025-11-02 21:23  UTC)<br/>
+Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on OSHAUNE. (2025-11-02 22:27  UTC)<br/>
+Assault Division: Rupture Strain U3A leaves *Bore Rock* (2025-11-02 22:44  UTC)<br/>
+Assault Division: Rupture Strain U3C leaves *Fori Prime* (2025-11-02 22:44  UTC)<br/>
+Assault Division: Rupture Strain U3C merges with Rupture Strain U3F on *Oshaune* (2025-11-02 22:44  UTC)<br/>
+ Decay: 5.0 on Oshaune
+ (2025-11-02 22:44  UTC)<br/>
+Dispatch: STRATAGEM AUTHORIZED ON OSHAUNE. Terminid resistance on OSHAUNE has been extremely high, as expected for the infested Hive World. The offensive is in danger of failing. Operational momentum must be regained. High Command has authorized the use of the Recoilless Rifle Stratagem on OSHAUNE for the next 24 hours. (2025-11-02 23:41  UTC)<br/>
+DSS effect Eagle Storm stops (2025-11-03 02:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-11-03 02:39  UTC)<br/>
