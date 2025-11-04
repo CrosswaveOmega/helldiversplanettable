@@ -12744,3 +12744,7 @@ Assault Division: Rupture Strain U3C merges with Rupture Strain U3F on *Oshaune*
 Dispatch: STRATAGEM AUTHORIZED ON OSHAUNE. Terminid resistance on OSHAUNE has been extremely high, as expected for the infested Hive World. The offensive is in danger of failing. Operational momentum must be regained. High Command has authorized the use of the Recoilless Rifle Stratagem on OSHAUNE for the next 24 hours. (2025-11-02 23:41  UTC)<br/>
 DSS effect Eagle Storm stops (2025-11-03 02:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-11-03 02:39  UTC)<br/>
+
+### Day: #635
+Dispatch: Warp Pack TEMPORARILY AVAILABLE. High Command has authorized the Warp Pack Stratagem for all *Oshaune* deployments for the next 24 hours. The limited window of availability is all that can be afforded, due to our previous failure to liberate OASIS. (2025-11-03 09:16  UTC)<br/>
+Dispatch: HIVE WORLD NEARING LIBERATION. The liberation of *Oshaune* is nearly complete. A significant spike in Terminid activity, both on the planet itself and from all reaches of the Gloom, has been observed. This is to be expected; the Terminid swarm senses its impending doom. This is the final stage of the operation. Push forward. Finish the mission. (2025-11-03 14:17  UTC)<br/>
