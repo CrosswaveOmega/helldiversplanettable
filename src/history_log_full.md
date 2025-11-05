@@ -12748,3 +12748,44 @@ DSS effect Orbital Blockade is activated (2025-11-03 02:39  UTC)<br/>
 ### Day: #635
 Dispatch: Warp Pack TEMPORARILY AVAILABLE. High Command has authorized the Warp Pack Stratagem for all *Oshaune* deployments for the next 24 hours. The limited window of availability is all that can be afforded, due to our previous failure to liberate OASIS. (2025-11-03 09:16  UTC)<br/>
 Dispatch: HIVE WORLD NEARING LIBERATION. The liberation of *Oshaune* is nearly complete. A significant spike in Terminid activity, both on the planet itself and from all reaches of the Gloom, has been observed. This is to be expected; the Terminid swarm senses its impending doom. This is the final stage of the operation. Push forward. Finish the mission. (2025-11-03 14:17  UTC)<br/>
+ Decay: 2.0 on Terrek, Gacrux<br/> Decay: 2.5 on Crimsica<br/> Decay: 1.5 on Bore Rock<br/> Decay: 5.0 on Fori Prime
+ (2025-11-03 16:00  UTC)<br/>
+*Zagon Prime*'s max health is changed to 2m (2025-11-03 20:56  UTC)<br/>
+*Omicron*'s max health is changed to 3m (2025-11-03 20:56  UTC)<br/>
+*Zagon Prime*'s max health is changed to 1m (2025-11-03 20:57  UTC)<br/>
+*Omicron*'s max health is changed to 1m (2025-11-03 20:57  UTC)<br/>
+NOTE: Starting at 08:57pm UTC the planet health of *Omicron* and *Zagon Prime* begins to switch between two values periodically. This is still ongoing currently (2025-11-03 20:57  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoilless Rifle Stratagem has ended. (2025-11-03 23:36  UTC)<br/>
+*Oshaune* is liberated (2025-11-04 01:03  UTC)<br/>
+Assault Division: Rupture Strain U3F is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
+Assault Division: Hive Lords U2A is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
+Assault Division: Dragonroaches U1A is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
+Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberate Hive World *Oshaune* is won | Objective: Liberate (2025-11-04 01:03  UTC)<br/>
+ Decay: 10.0 on Zagon Prime
+ (2025-11-04 01:03  UTC)<br/>
+DSS deploys to *Fenmire* of the Marspira sector (2025-11-04 01:04  UTC)<br/>
+Dispatch: MAJOR ORDER WON. A great victory has been won. Through fortitude and ingenuity, the haze of the Gloom has been pierced. The first great hurdle towards dispersing its maleficence has been cleared. Hive World OSHAUNE has been liberated. Consult your Galactic Map for more information. (2025-11-04 01:05  UTC)<br/>
+*Oshaune* is no longer enveloped by the Gloom (2025-11-04 01:06  UTC)<br/>
+*Fori Prime* is no longer enveloped by the Gloom (2025-11-04 01:06  UTC)<br/>
+Assault Division: Dragonroaches U1C leaves *Fori Prime* (2025-11-04 01:06  UTC)<br/>
+*Oshaune* of the Mirin sector is established as a E-711 Extraction Facility POI (2025-11-04 01:07  UTC)<br/>
+*Navi VII* is no longer enveloped by the Gloom (2025-11-04 01:07  UTC)<br/>
+*Navi VII* is no longer unobservable (2025-11-04 01:08  UTC)<br/>
+*Azur Secundus* is no longer enveloped by the Gloom (2025-11-04 01:08  UTC)<br/>
+*Azur Secundus* is no longer unobservable (2025-11-04 01:08  UTC)<br/>
+*Overgoe Prime* is no longer enveloped by the Gloom (2025-11-04 01:09  UTC)<br/>
+*Partion* is no longer enveloped by the Gloom (2025-11-04 01:11  UTC)<br/>
+*Bore Rock* is no longer enveloped by the Gloom (2025-11-04 01:12  UTC)<br/>
+*Erata Prime* is no longer enveloped by the Gloom (2025-11-04 01:12  UTC)<br/>
+*Estanu* is no longer enveloped by the Gloom (2025-11-04 01:13  UTC)<br/>
+*Navi VII* is heavily enveloped by the Gloom (2025-11-04 01:15  UTC)<br/>
+*Navi VII* is now unobservable due to the Gloom (2025-11-04 01:15  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-11-04 02:40  UTC)<br/>
+ Decay: 2.5 on Azur Secundus<br/> Decay: 1.0 on Terrek, Gacrux<br/> Decay: 1.5 on Crimsica<br/> Decay: 2.0 on Fori Prime, Overgoe Prime
+ (2025-11-04 02:40  UTC)<br/>
+
+### Day: #636
+
+### Day: #637
+*Fenmire* Region 2 Saorsa Glen Megacity has fallen to Humans (2025-11-05 10:03  UTC)<br/>
+*Fenmire* Region 0 Brawfermland Town is besieged by Humans (2025-11-05 10:03  UTC)<br/>
