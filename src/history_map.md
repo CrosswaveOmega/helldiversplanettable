@@ -36,6 +36,7 @@ const world = FileAttachment("./data/outputgeo.geojson").json();
 const htarget = FileAttachment("./data/libtargets/hTarget.svg").url();
 const ttarget = FileAttachment("./data/libtargets/tTarget.svg").url();
 const atarget = FileAttachment("./data/libtargets/aTarget.svg").url();
+const itarget = FileAttachment("./data/libtargets/iTarget.svg").url();
 const dss = FileAttachment("./data/dss.png").url();
 
 planets.forEach((planet) => {
@@ -77,6 +78,7 @@ const targets = {
     1: htarget,
     2: ttarget,
     3: atarget,
+    4: itarget,
   };
 function list_planets(planets){
   return planets.map(planet => planet[0]).join(', ');

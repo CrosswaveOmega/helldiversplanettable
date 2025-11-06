@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 73.133392 75"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="34.731056"
+   inkscape:export-ydpi="34.731056"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.999997,-14.999999)">
+
+<style>
+    .common-style {
+      fill: #9E16DB;
+      stroke: #7D00E0;
+      stroke-width: 1px;
+    }
+  </style>
+      
+    <path
+       class="common-style"
+       d="m 30,19.999999 14.999999,14.999999 v 0 0 0 L 50,29.999998 35.000001,14.999999 Z"
+       id="path1" />
+    <path
+       class="common-style"
+       d="M 103.13339,20 89.533352,34.999999 v 0 0 0 l -4.53335,-5 L 98.600036,15 Z"
+       id="path1-4" />
+    <path
+       class="common-style"
+       d="M 29.999997,85.000001 44.999996,70.000002 v 0 0 0 l 5.000001,5 -14.999999,14.999999 z"
+       id="path1-2" />
+    <path
+       class="common-style"
+       d="M 103.13339,85 89.533351,70.000001 v 0 0 0 l -4.53335,5 L 98.600031,90 Z"
+       id="path1-4-0" />
+    <circle
+       style="stroke-width:0.264583; fill:none"
+       id="path2"
+       cx="67.5"
+       cy="52.5"
+       r="17.5" />
+  </g>
+</svg>
