@@ -10981,7 +10981,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-08-22 07:27  UTC)<br/>
 ↳ *Martale* liberation campaign ends (2025-08-22 08:33  UTC)<br/>
 ↳ Andromeda sector is fully under Automaton control (2025-08-22 08:33  UTC)<br/>
 *Parsh* of the Rictus sector is attacked by Lvl 40 Illuminate (2025-08-22 08:33  UTC)<br/>
-*Parsh* Region 0 UNNAMED City is besieged by Humans (2025-08-22 08:33  UTC)<br/>
+*Parsh* Region 0 Porugu City is besieged by Humans (2025-08-22 08:33  UTC)<br/>
  Decay: 0.0 on Grafmere
  (2025-08-22 08:33  UTC)<br/>
  Region Decay: 0.4 on Grafmere's GRAFSART region<br/> Region Decay: 0.1 on Grafmere's GRAFSWALLIT region<br/> Region Decay: 0.6 on Grafmere's GRAFSEAD region
@@ -11042,9 +11042,9 @@ DSS effect Orbital Blockade is activated (2025-08-23 08:25  UTC)<br/>
 *Adhara* Region 1 Strength City is now present (2025-08-23 09:23  UTC)<br/>
 *Emeria* - *Borea* warp link is added (2025-08-23 09:23  UTC)<br/>
 *Emeria* - *Barabos* warp link is added (2025-08-23 09:23  UTC)<br/>
-*Regnus* Region 0 UNNAMED Town is now present (2025-08-23 09:28  UTC)<br/>
-*Regnus* Region 1 UNNAMED Town is now present (2025-08-23 09:28  UTC)<br/>
-*Regnus* Region 2 UNNAMED City is now present (2025-08-23 09:28  UTC)<br/>
+*Regnus* Region 0 People's Hand Town is now present (2025-08-23 09:28  UTC)<br/>
+*Regnus* Region 1 Topsoil Town is now present (2025-08-23 09:28  UTC)<br/>
+*Regnus* Region 2 Human Will City is now present (2025-08-23 09:28  UTC)<br/>
 *Adhara* of the Gallux sector is attacked by Lvl 20 Illuminate (2025-08-23 11:19  UTC)<br/>
 *Adhara* Region 1 Strength City is besieged by Humans (2025-08-23 11:19  UTC)<br/>
 *Veld* Region 0 Cle Elum Rediviva Town has fallen to Humans (2025-08-23 11:29  UTC)<br/>
@@ -11142,7 +11142,7 @@ DSS deploys to *Curia* of the Marspira sector (2025-08-24 17:28  UTC)<br/>
 Dispatch: IMPALER RAMPAGE OVER. Quantities of Impaler Terminids on URSICA XI have normalized. (2025-08-24 19:46  UTC)<br/>
  Decay: 1.0 on Ursica XI
  (2025-08-24 19:46  UTC)<br/>
-*Adhara* Region 0 UNNAMED Settlement is besieged by Humans (2025-08-24 21:54  UTC)<br/>
+*Adhara* Region 0 Traitor's End Settlement is besieged by Humans (2025-08-24 21:54  UTC)<br/>
 *Fenmire* Region 2 Saorsa Glen Megacity is besieged by Humans (2025-08-24 23:45  UTC)<br/>
 *Myrium* Region 2 Antboot City is besieged by Humans (2025-08-25 00:17  UTC)<br/>
 *Kerth Secundus* Region 1 Blestrail Town is besieged by Humans (2025-08-25 01:23  UTC)<br/>
@@ -12803,3 +12803,38 @@ DSS effect Orbital Blockade stops (2025-11-04 02:40  UTC)<br/>
 DSS deploys to *Shete* of the Xi Tauri sector (2025-11-05 18:45  UTC)<br/>
 *Fenmire* Region 0 Brawfermland Town has fallen to Humans (2025-11-05 22:43  UTC)<br/>
 *Fenmire* Region 1 New Aberdeen Megacity is besieged by Humans (2025-11-05 22:43  UTC)<br/>
+
+### Day: #638
+*Alaraph* of the Akira sector is attacked by Lvl 40 Illuminate (2025-11-06 12:44  UTC)<br/>
+*Alaraph* Region 0 Permacuris City is besieged by Humans (2025-11-06 12:44  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on FENMIRE. (2025-11-06 12:59  UTC)<br/>
+ Decay: 0.0 on Alaraph
+ (2025-11-06 12:59  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
+ (2025-11-06 12:59  UTC)<br/>
+*Fenmire* is liberated (2025-11-06 13:05  UTC)<br/>
+↳ *Curia* liberation campaign starts (2025-11-06 13:05  UTC)<br/>
+*Barabos* decay rate changes to -0.5% per hour (2025-11-06 13:05  UTC)<br/>
+ Decay: 0.25 on Fenmire
+ (2025-11-06 13:05  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The reconstruction of York Supreme has been ordered to commence posthaste. ANDAR and ASPEROTH PRIME contain large, mostly untapped reserves of limestone, iron ore, and gravel. The Helldivers are ordered to hold ANDAR and ASPEROTH PRIME until extraction of sufficient materials is complete. (2025-11-06 13:32  UTC)<br/>
+ Decay: -0.5 on Barabos
+ (2025-11-06 13:32  UTC)<br/>
+Major Order | [A2-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-2) Hold *Andar* and *Asperoth Prime* is issued | Objective: Control (2025-11-06 13:35  UTC)<br/>
+*Hydrobius* of the Omega sector is attacked by Lvl 25 Illuminate (2025-11-06 14:27  UTC)<br/>
+*Hydrobius* Region 0 Generatorsville City is besieged by Humans (2025-11-06 14:27  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2025-11-06 16:00  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2025-11-06 16:00  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2025-11-06 18:45  UTC)<br/>
+DSS deploys to *Shete* of the Xi Tauri sector (2025-11-06 22:45  UTC)<br/>
+*Shete* Region 0 Holl City has fallen to Humans (2025-11-07 02:04  UTC)<br/>
+*Shete* defense is won (2025-11-07 02:04  UTC)<br/>
+ Decay: 1.5 on Shete
+ (2025-11-07 04:00  UTC)<br/>
+
+### Day: #639
+*Alaraph* Region 1 Hangar 6 City is besieged by Humans (2025-11-07 11:52  UTC)<br/>
+*Clasa* of the Tanis sector is attacked by Lvl 21 Automatons (2025-11-07 14:22  UTC)<br/>
+*Clasa* Region 2 Voting District F-012357 City is besieged by Humans (2025-11-07 14:22  UTC)<br/>
