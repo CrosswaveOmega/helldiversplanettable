@@ -12838,3 +12838,37 @@ DSS deploys to *Shete* of the Xi Tauri sector (2025-11-06 22:45  UTC)<br/>
 *Alaraph* Region 1 Hangar 6 City is besieged by Humans (2025-11-07 11:52  UTC)<br/>
 *Clasa* of the Tanis sector is attacked by Lvl 21 Automatons (2025-11-07 14:22  UTC)<br/>
 *Clasa* Region 2 Voting District F-012357 City is besieged by Humans (2025-11-07 14:22  UTC)<br/>
+*Alaraph* Region 0 Permacuris City has fallen to Humans (2025-11-07 14:52  UTC)<br/>
+ Decay: 0.0 on Clasa
+ (2025-11-07 14:52  UTC)<br/>
+ Region Decay: 0.1 on Clasa's SYCAMORE GARDENS region<br/> Region Decay: 0.2 on Clasa's KODIAK FALLS region<br/> Region Decay: 0.4 on Clasa's VOTING DISTRICT F-012357 region
+ (2025-11-07 14:52  UTC)<br/>
+*Clasa* Region 1 Kodiak Falls Town is besieged by Humans (2025-11-07 23:16  UTC)<br/>
+*Alaraph* defense is won (2025-11-08 01:49  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-11-08 01:49  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2025-11-08 01:49  UTC)<br/>
+ Decay: 1.5 on Alaraph
+ (2025-11-08 04:00  UTC)<br/>
+
+# Day: #640
+DSS deploys to *Yed Prior* of the Tanis sector (2025-11-08 10:46  UTC)<br/>
+*Terrek* is liberated (2025-11-08 12:32  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-11-08 12:32  UTC)<br/>
+*Zea Rugosia* of the Ferris sector is attacked by Lvl 21 Illuminate (2025-11-08 12:39  UTC)<br/>
+*Zea Rugosia* Region 1 Gene Settlement is besieged by Humans (2025-11-08 12:39  UTC)<br/>
+*Hydrobius* defense is failed (2025-11-08 14:29  UTC)<br/>
+↳ *Hydrobius* liberation campaign starts (2025-11-08 14:29  UTC)<br/>
+↳ *Senge 23* liberation campaign ends (2025-11-08 14:29  UTC)<br/>
+ Decay: 0.0 on Zea Rugosia
+ (2025-11-08 14:29  UTC)<br/>
+ Region Decay: 0.2 on Zea Rugosia's NEW COB region<br/> Region Decay: 0.1 on Zea Rugosia's GENE region<br/> Region Decay: 0.4 on Zea Rugosia's STARPASS region
+ (2025-11-08 14:29  UTC)<br/>
+Strategic Opportunity | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is issued | Objective: Liberate (2025-11-08 15:22  UTC)<br/>
+ Decay: 1.5 on Hydrobius
+ (2025-11-08 15:22  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. The last remaining rainforests on *Super Earth* were a tragic casualty of the Illuminate invasion. The Ministry of Prosperity has launched a restoration operation, to preserve and conserve the natural beauty of the galaxy. The native flora of BARABOS is similar to those of the lost rainforests. The Helldivers are ordered to liberate BARABOS from the enemy, so its plant life can be carefully uprooted and re-planted on *Super Earth*. (2025-11-08 16:34  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2025-11-08 16:34  UTC)<br/>
+*Karlia* of the Omega sector is attacked by Lvl 30 Illuminate (2025-11-08 19:00  UTC)<br/>
+*Karlia* Region 0 Adnan City is besieged by Humans (2025-11-08 19:00  UTC)<br/>
+ Region Decay: 0.2 on Karlia's ADNAN region
+ (2025-11-08 19:00  UTC)<br/>
