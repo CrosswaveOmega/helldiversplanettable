@@ -12872,3 +12872,15 @@ Dispatch: NEW STRATEGIC OPPORTUNITY. The last remaining rainforests on *Super Ea
 *Karlia* Region 0 Adnan City is besieged by Humans (2025-11-08 19:00  UTC)<br/>
  Region Decay: 0.2 on Karlia's ADNAN region
  (2025-11-08 19:00  UTC)<br/>
+ Decay: 0.0 on Karlia
+ (2025-11-08 20:00  UTC)<br/>
+DSS deploys to *Barabos* of the Marspira sector (2025-11-08 22:46  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-11-08 23:11  UTC)<br/>
+*Barabos* is liberated (2025-11-09 05:28  UTC)<br/>
+Strategic Opportunity | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is won | Objective: Liberate (2025-11-09 05:28  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2025-11-09 05:28  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. BARABOS has been liberated. Ministry of Prosperity conservationists are hard at work uprooting cultivars and plant material to re-seed one *Super Earth*'s destroyed rainforests. Soon, *Super Earth*'s natural beauty will be restored, thanks to the ecological protection efforts of the Helldivers. (2025-11-09 06:10  UTC)<br/>
+ Decay: 1.5 on Barabos
+ (2025-11-09 06:10  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours. (2025-11-09 06:16  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town is besieged by Humans (2025-11-09 07:18  UTC)<br/>
