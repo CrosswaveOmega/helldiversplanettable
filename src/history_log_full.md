@@ -12884,3 +12884,31 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. BARABOS has been liberated. Ministry of 
  (2025-11-09 06:10  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours. (2025-11-09 06:16  UTC)<br/>
 *Zea Rugosia* Region 0 New Cob Town is besieged by Humans (2025-11-09 07:18  UTC)<br/>
+
+### Day: #641
+*Clasa* defense is failed (2025-11-09 14:23  UTC)<br/>
+↳ Class liberation campaign starts (2025-11-09 14:23  UTC)<br/>
+ Decay: 1.5 on Clasa
+ (2025-11-09 16:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-11-09 23:11  UTC)<br/>
+*Karlia* Region 0 Adnan City has fallen to Humans (2025-11-09 23:18  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City is besieged by Humans (2025-11-10 02:04  UTC)<br/>
+*Karlia* defense is won (2025-11-10 03:28  UTC)<br/>
+DSS deploys to *Zea Rugosia* of the Ferris sector (2025-11-10 03:29  UTC)<br/>
+ Decay: 1.5 on Karlia
+ (2025-11-10 04:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Orbital Napalm Barrage Stratagem availability has now ended. (2025-11-10 06:16  UTC)<br/>
+
+### Day: #642
+*Zea Rugosia* Region 1 Gene Settlement has fallen to Humans (2025-11-10 11:21  UTC)<br/>
+*Zea Rugosia* defense is failed (2025-11-10 12:40  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign starts (2025-11-10 12:40  UTC)<br/>
+↳ *Haldus* liberation campaign ends (2025-11-10 12:40  UTC)<br/>
+↳ *Afoyay Bay* liberation campaign ends (2025-11-10 12:40  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-11-10 12:48  UTC)<br/>
+ Decay: 1.0 on Zea Rugosia
+ (2025-11-10 12:48  UTC)<br/>
+*Shete* of the Xi Tauri sector is attacked by Lvl 32 Illuminate (2025-11-10 14:00  UTC)<br/>
+*Shete* Region 0 Holl City is besieged by Humans (2025-11-10 14:00  UTC)<br/>
+ Region Decay: 0.4 on Shete's HOLL region
+ (2025-11-10 14:00  UTC)<br/>
