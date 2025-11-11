@@ -12912,3 +12912,6 @@ DSS effect Eagle Storm is activated (2025-11-10 12:48  UTC)<br/>
 *Shete* Region 0 Holl City is besieged by Humans (2025-11-10 14:00  UTC)<br/>
  Region Decay: 0.4 on Shete's HOLL region
  (2025-11-10 14:00  UTC)<br/>
+HP reached a checkpoint. (2025-11-10 16:00  UTC)<br/>
+HP reached a checkpoint. (2025-11-10 16:00  UTC)<br/>
+DSS deploys to *Shete* of the Xi Tauri sector (2025-11-10 18:47  UTC)<br/>
