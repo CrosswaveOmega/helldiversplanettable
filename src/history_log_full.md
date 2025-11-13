@@ -12948,3 +12948,8 @@ Assault Division: Rupture Strain U4A deploys to *Pandion-XXIV* (2025-11-13 09:27
  (2025-11-13 10:00  UTC)<br/>
 Major Order | [A2-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-2) Hold *Andar* and *Asperoth Prime* is won | Objective: Control (2025-11-13 13:38  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have valiantly saved ANDAR and ASPEROTH PRIME from the grasping tentacles of the Illuminate. Thanks to their efforts, vast quantities of raw construction materials have been extracted, molded into prefabricated buildings, and shipped to *Super Earth*. Now, the reconstruction of York Supreme can begin. Consult the Galactic Map for more information. (2025-11-13 13:49  UTC)<br/>
+DSS deploys to *Pandion-XXIV* of the Jin Xi sector (2025-11-13 14:49  UTC)<br/>
+Major Order | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Hold *Mastia* and get Automaton Samples and Illuminate Samples is issued| Objective: Gather (2025-11-13 15:36  UTC)<br/>
+Dispatch: NEW MAJOR ORDER.   The Center for Citizen Surveillance & Safety has released a disturbing report: several domestic planets are rife with dissident activity.  It is critical to expand the Center as soon as possible. The Helldivers are ordered to secure 15,000,000 Illuminate samples and 62,500,000 Automaton samples, which will be used to aid development of surveillance technology.  Consult your Galactic Map for more information. (2025-11-13 15:37  UTC)<br/>
+*Curia* liberation campaign ends (2025-11-13 18:31  UTC)<br/>
+*Curia* is liberated (2025-11-13 18:31  UTC)<br/>
