@@ -12915,3 +12915,36 @@ DSS effect Eagle Storm is activated (2025-11-10 12:48  UTC)<br/>
 HP reached a checkpoint. (2025-11-10 16:00  UTC)<br/>
 HP reached a checkpoint. (2025-11-10 16:00  UTC)<br/>
 DSS deploys to *Shete* of the Xi Tauri sector (2025-11-10 18:47  UTC)<br/>
+
+### Day: #643
+*Shete* Region 0 Holl City has fallen to Humans (2025-11-11 10:27  UTC)<br/>
+*Alaraph* of the Akira sector is attacked by Lvl 34 Illuminates (2025-11-11 12:03  UTC)<br/>
+*Alaraph* Region 1 Hangar 6 City is besieged by Humans (2025-11-11 12:03  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-11-11 12:38  UTC)<br/>
+ Decay: 0.0 on Alaraph
+ (2025-11-11 12:38  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
+ (2025-11-11 12:38  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-11-11 15:43  UTC)<br/>
+*Shete* defense is won (2025-11-11 16:51  UTC)<br/>
+↳ Xi Tauri sector is fully under Human control (2025-11-11 16:51  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2025-11-11 16:51  UTC)<br/>
+ Decay: 1.5 on Shete
+ (2025-11-11 18:00  UTC)<br/>
+*Alaraph* Region 1 Hangar 6 City has fallen to Humans (2025-11-12 04:13  UTC)<br/>
+
+### Day: #644
+*Alaraph* defense is won (2025-11-12 10:09  UTC)<br/>
+↳ Akira sector is fully under Human control (2025-11-12 10:09  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-11-12 10:10  UTC)<br/>
+ Decay: 1.5 on Alaraph
+ (2025-11-12 12:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-11-12 15:44  UTC)<br/>
+
+### Day: #645
+*Pandion-XXIV* of the Jin Xi sector is attacked by Lvl 15 Terminids (2025-11-13 09:27  UTC)<br/>
+Assault Division: Rupture Strain U4A deploys to *Pandion-XXIV* (2025-11-13 09:27  UTC)<br/>
+ Decay: 0.0 on Pandion-XXIV
+ (2025-11-13 10:00  UTC)<br/>
+Major Order | [A2-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-2) Hold *Andar* and *Asperoth Prime* is won | Objective: Control (2025-11-13 13:38  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have valiantly saved ANDAR and ASPEROTH PRIME from the grasping tentacles of the Illuminate. Thanks to their efforts, vast quantities of raw construction materials have been extracted, molded into prefabricated buildings, and shipped to *Super Earth*. Now, the reconstruction of York Supreme can begin. Consult the Galactic Map for more information. (2025-11-13 13:49  UTC)<br/>
