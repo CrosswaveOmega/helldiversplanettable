@@ -12954,3 +12954,17 @@ Dispatch: NEW MAJOR ORDER. The Center for Citizen Surveillance & Safety has rele
 *Curia* is liberated (2025-11-13 18:31  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement has fallen to Automatons (2025-11-13 22:46  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-11-13 22:46  UTC)<br/>
+
+### Day: #646
+*Lesath* of the Lacaille sector is attacked by Lvl 40 Automatons (2025-11-14 09:27  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2025-11-14 09:27  UTC)<br/>
+*Pandion-XXIV* defense is failed (2025-11-14 09:28  UTC)<br/>
+↳ *Pandion-XXIV* liberation campaign starts (2025-11-14 09:28  UTC)<br/>
+↳ *Phact Bay* liberation campaign ends (2025-11-14 09:28  UTC)<br/>
+Assault Division: Rupture Strain U4A leaves *Pandion-XXIV* (2025-11-14 09:28  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-11-14 10:50  UTC)<br/>
+ Decay: 0.0 on Lesath<br/> Decay: 2.0 on Pandion-XXIV
+ (2025-11-14 10:50  UTC)<br/>
+ Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
+ (2025-11-14 10:50  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-11-14 14:50  UTC)<br/>
