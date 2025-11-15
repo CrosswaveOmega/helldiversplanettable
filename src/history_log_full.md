@@ -12968,3 +12968,22 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2025-11-14 10:50  UTC)<br/>
  Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
  (2025-11-14 10:50  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-11-14 14:50  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 17 Automatons (2025-11-14 15:12  UTC)<br/>
+ Decay: 0.0 on Mastia
+ (2025-11-14 16:00  UTC)<br/>
+ Decay: 2.5 on Phact Bay
+ (2025-11-14 18:00  UTC)<br/>
+DSS deploys to *Mastia* of the Marspira sector (2025-11-14 22:50  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2025-11-15 02:01  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2025-11-15 06:31  UTC)<br/>
+Strategic Opportunity | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is issued | Objective: Eradicate (2025-11-15 07:22  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Citizen fear is high following the CCSS report of dissidents lurking among us. Loyal citizens deserve to live in safety. While dissidents lurk in the shadows, The Voteless are out in the open, where they may be easily targeted by military weaponry. Kill 5,000,000 Voteless with the Orbital Laser Stratagem, and show loyal citizens and dissidents alike the fate of those who stray from Liberty's Light. (2025-11-15 07:28  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 72 hours. (2025-11-15 07:30  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-11-15 08:39  UTC)<br/>
+
+### Day: #647
+*Estanu* of the Draco sector is attacked by Lvl 6 Terminids (2025-11-15 10:04  UTC)<br/>
+ Decay: 0.0 on Estanu
+ (2025-11-15 12:00  UTC)<br/>
+*Mastia* defense is won (2025-11-15 13:50  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-11-15 13:50  UTC)<br/>
