@@ -4053,7 +4053,7 @@ Major Order | [A1-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-10-3) Te
  Decay: 1.5 on Crimsica, Estanu<br/> Decay: 0.1 on Acamar IV<br/> Decay: 3.0 on Fori Prime
  (2024-10-11 15:07  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. In order to aid research of High-Efficiency Alcubiere Drives, the Helldivers are ordered to help establish a multi-planet Terminid Research Preserve on *Acamar IV*. The Helldivers are to clear and hold the surrounding planets in order to establish a quarantine. Inside the quarantine, Terminid specimens will be seeded inside tightly-controlled multi-acre facilities, where they can be studied by researchers as needed. (2024-10-11 15:08  UTC)<br/>
-*Acamar IV* of the Jin Xi sector instantly flips to Terminid Control (2024-10-11 15:11  UTC)<br/>
+*Acamar IV* of the Jin Xi sector instantly flips to Terminid control (2024-10-11 15:11  UTC)<br/>
 ↳ *Acamar IV* liberation campaign starts (2024-10-11 15:11  UTC)<br/>
 ↳ *Pandion-XXIV* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
 ↳ *Gacrux* liberation campaign ends (2024-10-11 15:11  UTC)<br/>
@@ -12987,3 +12987,32 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availabili
  (2025-11-15 12:00  UTC)<br/>
 *Mastia* defense is won (2025-11-15 13:50  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2025-11-15 13:50  UTC)<br/>
+ Decay: 1.5 on Mastia
+ (2025-11-15 16:00  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2025-11-15 21:57  UTC)<br/>
+*Alamak VII* of the Hanzo sector is attacked by Lvl 18 Illuminate (2025-11-15 22:24  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Megacity is besieged by Humans (2025-11-15 22:24  UTC)<br/>
+*Effluvia* is liberated (2025-11-15 22:46  UTC)<br/>
+↳ *Parsh* liberation campaign starts (2025-11-15 22:46  UTC)<br/>
+↳ Cancri sector is fully under Human control (2025-11-15 22:46  UTC)<br/>
+*Parsh* Region 0 Porugu City is besieged by Humans (2025-11-15 22:46  UTC)<br/>
+ Decay: 0.0 on Alamak VII
+ (2025-11-15 22:46  UTC)<br/>
+ Region Decay: 0.4 on Parsh's PORUGU region<br/> Region Decay: 0.6 on Parsh's PADOSAN region<br/> Region Decay: 0.2 on Alamak VII's KESUMA region<br/> Region Decay: 0.4 on Alamak VII's UNGU region<br/> Region Decay: 0.1 on Alamak VII's NO COMPOUND region<br/> Region Decay: 0.6 on Alamak VII's FILIBUSTER region
+ (2025-11-15 22:46  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City has fallen to Humans (2025-11-16 05:19  UTC)<br/>
+*Estanu* defense is won (2025-11-16 06:10  UTC)<br/>
+*Alamak VII* Region 1 Ungu City is besieged by Humans (2025-11-16 06:16  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-11-16 07:04  UTC)<br/>
+ Decay: 1.0 on Estanu
+ (2025-11-16 07:04  UTC)<br/>
+*Lesath* defense is won (2025-11-16 07:18  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-11-16 07:18  UTC)<br/>
+*Polaris Prime* of the Farsight sector is attacked by Lvl 12 Terminids (2025-11-16 08:53  UTC)<br/>
+*Polaris Prime* Region 2 Kalasatama Port City is besieged by Humans (2025-11-16 08:53  UTC)<br/>
+ Decay: 1.5 on Lesath
+ (2025-11-16 08:53  UTC)<br/>
+
+### Day: #648
+ Region Decay: 0.4 on Polaris Prime's VILHELMINA DOROTHEA FREDRIKA region<br/> Region Decay: 0.2 on Polaris Prime's MOGO PLAINS region<br/> Region Decay: 0.4 on Polaris Prime's KALASATAMA PORT region
+ (2025-11-16 09:00  UTC)<br/>
