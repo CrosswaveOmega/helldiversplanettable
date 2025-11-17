@@ -13016,3 +13016,28 @@ DSS deploys to *Alamak VII* of the Hanzo sector (2025-11-16 07:18  UTC)<br/>
 ### Day: #648
  Region Decay: 0.4 on Polaris Prime's VILHELMINA DOROTHEA FREDRIKA region<br/> Region Decay: 0.2 on Polaris Prime's MOGO PLAINS region<br/> Region Decay: 0.4 on Polaris Prime's KALASATAMA PORT region
  (2025-11-16 09:00  UTC)<br/>
+Strategic Opportunity | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is won | Objective: Eradicate (2025-11-16 11:01  UTC)<br/>
+ Decay: 0.0 on Polaris Prime
+ (2025-11-16 11:01  UTC)<br/>
+Dispatch: The LAS-98 Laser Cannon stratagem is temporarily available to all Helldivers. (2025-11-16 11:06  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers rapidly annihilated over 5,000,000 Voteless with the Orbital Laser Stratagem, proving to our loyal citizens the overwhelming and inescapable security that Managed Democracy provides.. (2025-11-16 17:06  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Lvl 18 Automatons (2025-11-16 22:49  UTC)<br/>
+ Decay: 0.0 on Menkent
+ (2025-11-17 00:00  UTC)<br/>
+*Polaris Prime* Region 0 Vilhelmina Dorothea Fredrika City is besieged by Humans (2025-11-17 01:15  UTC)<br/>
+DSS deploys to *Menkent* of the Hydra sector (2025-11-17 02:53  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-11-17 03:52  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-11-17 05:45  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-11-17 07:05  UTC)<br/>
+*Mastia* of the Marspira sector is attacked by Lvl 19 Automatons (2025-11-17 08:17  UTC)<br/>
+
+### Day: #649
+ Decay: 0.0 on Mastia
+ (2025-11-17 09:00  UTC)<br/>
+*Polaris Prime* defense is won (2025-11-17 13:20  UTC)<br/>
+*Alamak VII* defense is won (2025-11-17 14:35  UTC)<br/>
+ Decay: 1.5 on Polaris Prime
+ (2025-11-17 14:35  UTC)<br/>
+DSS deploys to *Mastia* of the Marspira sector (2025-11-17 14:54  UTC)<br/>
+ Decay: 0.5 on Alamak VII
+ (2025-11-17 14:54  UTC)<br/>
