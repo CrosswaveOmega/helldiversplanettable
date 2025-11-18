@@ -13041,3 +13041,20 @@ DSS effect Orbital Blockade stops (2025-11-17 07:05  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-11-17 14:54  UTC)<br/>
  Decay: 0.5 on Alamak VII
  (2025-11-17 14:54  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Humans (2025-11-17 17:25  UTC)<br/>
+*Crimsica* Region 0 Lil'Ome Settlement is besieged by Humans (2025-11-17 17:25  UTC)<br/>
+*Menkent* defense is failed (2025-11-17 22:50  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2025-11-17 22:50  UTC)<br/>
+↳ *Choohe* liberation campaign ends (2025-11-17 22:50  UTC)<br/>
+↳ Hydra sector is fully under Automaton control (2025-11-17 22:50  UTC)<br/>
+ Decay: 3.0 on Menkent
+ (2025-11-18 00:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-11-18 01:35  UTC)<br/>
+*Mastia* defense is won (2025-11-18 08:26  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-11-18 08:26  UTC)<br/>
+
+# Day: #650
+ Decay: 1.5 on Mastia
+ (2025-11-18 09:00  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 16 Terminids (2025-11-18 12:38  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-11-18 12:38  UTC)<br/>
