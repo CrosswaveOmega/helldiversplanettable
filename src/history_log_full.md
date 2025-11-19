@@ -13058,3 +13058,12 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-11-18 08:26  UTC)<br/>
  (2025-11-18 09:00  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Lvl 16 Terminids (2025-11-18 12:38  UTC)<br/>
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-11-18 12:38  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2025-11-18 14:00  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2025-11-18 14:00  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2025-11-18 19:50  UTC)<br/>
+DSS effect Eagle Storm stops (2025-11-19 01:35  UTC)<br/>
+
+### Day: #651
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-11-19 12:10  UTC)<br/>
