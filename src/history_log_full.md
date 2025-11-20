@@ -5893,7 +5893,8 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
-*Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Security POI (2025-01-08 14:23  UTC)<br/>
+*Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Safety POI (2025-01-08 14:23  UTC)<br/>
+NOTE: It appears that even from the first briefing and dispatch that these were introduced there was a mismatch on if the POI was called Security or Safety on the end. For the purposes of this document it is being noted as Safety as that is what the in-game POI is referred to with (2025-01-08 14:23  UTC)<br/>
  Decay: 1.5 on Mastia
  (2025-01-08 16:00  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Lvl 10 Automatons (2025-01-08 19:27  UTC)<br/>
@@ -13071,3 +13072,22 @@ DSS effect Eagle Storm stops (2025-11-19 01:35  UTC)<br/>
 Dispatch: MAJOR ORDER ADVISORY. Automaton sample collection for the current Major Order is currently projected to barely fall short of requirements. But success is still within reach. High Command advises all Helldivers to focus efforts upon acquisition of Automaton samples for the next 24 hours. (2025-11-19 16:33  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-11-19 17:33  UTC)<br/>
 *Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-11-19 17:33  UTC)<br/>
+*Acamar IV* defense is won (2025-11-19 21:29  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-11-19 22:34  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-11-19 22:34  UTC)<br/>
+*Tarsh* is liberated (2025-11-20 03:41  UTC)<br/>
+↳ Marspira sector is fully under Human control (2025-11-20 03:41  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2025-11-20 03:41  UTC)<br/>
+
+### Day: #652
+*Vernen Wells* Region 2 Anne's Vigil Town has fallen to Humans (2025-11-20 12:58  UTC)<br/>
+*Vernen Wells* Region 1 Benevolence Town is besieged by Humans (2025-11-20 12:58  UTC)<br/>
+Major Order | [A2-11-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-4) Hold *Mastia* and get Automaton Samples and Illuminate Samples is won | Objective: Control/Samples (2025-11-20 15:43  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have secured the resources needed to expand the Center for Citizen Surveillance & Safety, far beyond its walls. Consult the Galactic Map for more information. (2025-11-20 15:43  UTC)<br/>
+Major Order | [A2-11-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-6) Defend 8 and Hold *Turing* is issued | Objective: Defend/Control (2025-11-20 16:02  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Incursions have been detected on all three fronts. The Helldivers are called to their immediate defense. SEAF defensive garrisons are stretched thin by efforts to quell the dissident crisis on GAELLIVARE, ALTA V, and DILUVIA. The enemy is taking advantage of the vulnerabilities this created in our lines. Consult the Galactic Map for more information. (2025-11-20 16:02  UTC)<br/>
+*Inari* of the Korpus sector is attacked by Lvl 18 Terminids (2025-11-20 16:03  UTC)<br/>
+*Reaf* of the Saleria sector is attacked by Lvl 14 Illuminate (2025-11-20 16:04  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Lvl 28 Automatons (2025-11-20 16:11  UTC)<br/>
+*Vog-Sojoth* Region 0 Haerstvik Town is besieged by Humans (2025-11-20 16:11  UTC)<br/>
