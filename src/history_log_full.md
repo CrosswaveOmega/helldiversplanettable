@@ -13067,3 +13067,7 @@ DSS effect Eagle Storm stops (2025-11-19 01:35  UTC)<br/>
 
 ### Day: #651
 *Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-11-19 12:10  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement has fallen to Human (2025-11-19 14:09  UTC)<br/>
+Dispatch: MAJOR ORDER ADVISORY. Automaton sample collection for the current Major Order is currently projected to barely fall short of requirements. But success is still within reach. High Command advises all Helldivers to focus efforts upon acquisition of Automaton samples for the next 24 hours. (2025-11-19 16:33  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-11-19 17:33  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-11-19 17:33  UTC)<br/>
