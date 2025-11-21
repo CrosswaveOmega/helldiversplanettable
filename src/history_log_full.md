@@ -9582,7 +9582,7 @@ Dispatch: MAJOR ORDER FAILED. The remnant Illuminate forces have evaded Justice.
 *Phact Bay* Region 2 New Eagle Megacity is now present (2025-06-10 11:20  UTC)<br/>
 *Polaris Prime* Region 0 Vilhelmia Dorothea Fredrika City is now present (2025-06-10 11:20  UTC)<br/>
 *Polaris Prime* Region 1 Mogo Plains Town is now present (2025-06-10 11:20  UTC)<br/>
-*Polaris Prime* Region 2 Kalasatama City is now present (2025-06-10 11:20  UTC)<br/>
+*Polaris Prime* Region 2 Kalasatama Port City is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 0 Handakas Town is now present (2025-06-10 11:20  UTC)<br/>
 *Prasa* Region 1 Haku City City is now present (2025-06-10 11:20  UTC)<br/>
 *Volterra*'s max health is changed to 2m (2025-06-10 11:31  UTC)<br/>
@@ -10405,6 +10405,7 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-07-17 08:53  UTC)<br/>
 
 ### Day: #526
 *Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-07-17 12:17  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-07-18 00:09  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-07-18 04:23  UTC)<br/>
 *Tarsh* defense is won (2025-07-18 05:23  UTC)<br/>
 DSS deploys to *Gaellivare* of the Talus sector (2025-07-18 05:23  UTC)<br/>
@@ -10721,6 +10722,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2025-08-04 08:39  UTC)<br/>
 
 ### Day: #545
 *Choepessa IV* liberation campaign ends (2025-08-05 09:47  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-08-05 09:47  UTC)<br/>
 *Choepessa IV* liberation campaign starts (2025-08-05 09:48  UTC)<br/>
 *Vernen Wells* liberation campaign ends (2025-08-05 09:48  UTC)<br/>
 *Vernen Wells* liberation campaign starts (2025-08-05 09:49  UTC)<br/>
@@ -12147,6 +12149,9 @@ Dispatch: M-105 Stalwart stratagem availability has ended. (2025-10-07 01:01  UT
 *Herthon Secundus* Region 2 Consensus is now present (2025-10-07 09:15  UTC)<br/>
 *Herthon Secundus*'s max health is changed to 1.8m (2025-10-07 09:15  UTC)<br/>
 *Herthon Secundus* liberation campaign starts (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* Region 0 Penscewt Town is besieged by Humans (2025-10-07 09:15  UTC)<br/>
+*Herthon Secundus* Region 1 Eagle's Likeness is besieged by Humans (2025-10-07 09:15  UTC)<br/>
+NOTE: The exact start time of these two above region battles is not properly known and based on image evidence it is estimated that they started at the same time the liberation campaign did (2025-10-07 09:15  UTC)<br/>
  Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region
  (2025-10-07 09:15  UTC)<br/>
 *Hort* Region 0 On-Earsahou City is now present (2025-10-07 09:38  UTC)<br/>
@@ -13091,3 +13096,20 @@ Dispatch: NEW MAJOR ORDER. Incursions have been detected on all three fronts. Th
 *Reaf* of the Saleria sector is attacked by Lvl 14 Illuminate (2025-11-20 16:04  UTC)<br/>
 *Vog-Sojoth* of the Tanis sector is attacked by Lvl 28 Automatons (2025-11-20 16:11  UTC)<br/>
 *Vog-Sojoth* Region 0 Haerstvik Town is besieged by Humans (2025-11-20 16:11  UTC)<br/>
+ Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
+ (2025-11-20 18:00  UTC)<br/>
+ Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
+ (2025-11-20 18:00  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-11-20 22:57  UTC)<br/>
+
+### Day: #653
+*Inari* defense is won (2025-11-21 11:22  UTC)<br/>
+↳ Korpus sector is fully under Human control (2025-11-21 11:22  UTC)<br/>
+*Vog-Sojoth* Region 0 Haerstvik Town has fallen to Humans (2025-11-21 12:22  UTC)<br/>
+ Decay: 0.5 on Inari
+ (2025-11-21 12:22  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Lvl 19 Terminids (2025-11-21 12:56  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2025-11-21 14:00  UTC)<br/>
+*Reaf* defense is failed (2025-11-21 16:05  UTC)<br/>
+↳ *Reaf* liberation campaign starts (2025-11-21 16:05  UTC)<br/>
