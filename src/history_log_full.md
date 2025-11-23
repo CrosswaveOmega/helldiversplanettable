@@ -13113,3 +13113,37 @@ DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-11-20 22:57  UTC)<br/>
  (2025-11-21 14:00  UTC)<br/>
 *Reaf* defense is failed (2025-11-21 16:05  UTC)<br/>
 ↳ *Reaf* liberation campaign starts (2025-11-21 16:05  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 40 Terminids (2025-11-21 17:26  UTC)<br/>
+*Turing* Region 0 Chatoyant City is besieged by Humans (2025-11-21 17:26  UTC)<br/>
+ Decay: 1.0 on Reaf
+ (2025-11-21 17:26  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2025-11-21 18:00  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2025-11-21 18:00  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-11-21 22:57  UTC)<br/>
+*Irulta* of the Saleria sector is attacked by Lvl 24 Illuminate (2025-11-22 01:38  UTC)<br/>
+*Irulta* Region 0 Recon Heights Settlement is besieged by Humans (2025-11-22 01:38  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-11-22 02:23  UTC)<br/>
+ Decay: 0.0 on Irulta
+ (2025-11-22 02:23  UTC)<br/>
+ Region Decay: 0.1 on Irulta's RECON HEIGHTS region<br/> Region Decay: 0.2 on Irulta's SILO A region<br/> Region Decay: 0.4 on Irulta's VOTER'S FALLOW region
+ (2025-11-22 02:23  UTC)<br/>
+*Turing* Region 1 Carbondale Town is besieged by Humans (2025-11-22 04:50  UTC)<br/>
+
+### Day: #654
+*Terrek* defense is failed (2025-11-22 12:57  UTC)<br/>
+↳ *Terrek* liberation campaign starts (2025-11-22 12:57  UTC)<br/>
+*Turing* Region 0 Chatoyant City has fallen to Humans (2025-11-22 13:03  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2025-11-22 13:03  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2025-11-22 14:57  UTC)<br/>
+*Vog-Sojoth* defense is won (2025-11-22 15:59  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2025-11-22 16:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Walking Barrage Stratagem for the next 24 hours. (2025-11-22 16:21  UTC)<br/>
+ Decay: 2.0 on Vog-Sojoth
+ (2025-11-22 16:21  UTC)<br/>
+Assault Division: Incineration Corps U6A deploys to *Merak* (2025-11-22 17:30  UTC)<br/>
+Assault Division: Incineration Corps U6B deploys to *Aurora Bay* (2025-11-22 17:30  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on MERAK. (2025-11-22 17:30  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on AURORA BAY. (2025-11-22 17:31  UTC)<br/>
