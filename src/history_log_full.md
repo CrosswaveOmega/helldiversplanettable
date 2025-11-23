@@ -12422,7 +12422,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2025-10-21 08:30  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-10-21 09:00  UTC)<br/>
 *Nivel 43* liberation campaign ends (2025-10-21 10:07  UTC)<br/>
-Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Secure Ground Around *Hellmire* is issued | Objective: Liberate/Control (2025-10-21 12:33  UTC)<br/>
+Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Secure Ground Around *Hellmire* is issued | Objective: Liberate/Control (2025-10-21 12:33  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Following weeks of preparation, SEAF forces stand at the brink of liberating the Terminid Hive World, *Oshaune*. The offensive will launch from Gloom Base Alpha on *Hellmire*. The Helldivers are ordered to prepare for the impending offensive by liberating ERATA PRIME and ESTANU to better protect *Hellmire* from Terminid attacks upon it. (2025-10-21 12:34  UTC)<br/>
 Assault Division: Spore Burst Strain U6A divides into 2 groups [U6A, U6C] (2025-10-21 14:57  UTC)<br/>
 Assault Division: Spore Burst Strain U6C deploys to *Estanu* (2025-10-21 14:57  UTC)<br/>
@@ -12506,7 +12506,7 @@ DSS deploys to *Oshaune* of the Mirin sector (2025-10-25 05:56  UTC)<br/>
 ### Day: #626
  Decay: 0.0 on Charbal-VII
  (2025-10-25 09:00  UTC)<br/>
-Major Order | [A2-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-3) Secure Ground Around *Hellmire* is won | Objective: Liberate/Control (2025-10-25 12:36  UTC)<br/>
+Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Secure Ground Around *Hellmire* is won | Objective: Liberate/Control (2025-10-25 12:36  UTC)<br/>
  Decay: 7.0 on Oshaune
  (2025-10-25 12:36  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers have liberated *Erata Prime* and *Estanu*, establishing a security buffer around *Hellmire*. Now, the strategic conditions to liberate *Oshaune* are finally set. With great valor and sacrifice, the Terminid Hive World will at last be freed. (2025-10-25 12:41  UTC)<br/>
@@ -12517,7 +12517,7 @@ DSS deploys to *Charbal-VII* of the Andromeda sector (2025-10-25 14:37  UTC)<br/
  (2025-10-25 18:00  UTC)<br/>
  Decay: 0.0 on Hort
  (2025-10-25 20:00  UTC)<br/>
-Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Liberty Day 2025 is issued | Objective: Eradicate (2025-10-25 22:01  UTC)<br/>
+Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberty Day 2025 is issued | Objective: Eradicate (2025-10-25 22:01  UTC)<br/>
 Dispatch: Once more we celebrate the greatest and most patriotic of days: Liberty Day. In celebration, all Helldivers shall join together and achieve the designated kill count using only the classic R-2124 Constitution rifle, exactly as our ancestors first bestowed the gift of Freedom to all. Upon completion, all serving Helldivers shall receive this year's Liberty Day cape. Consult your Galactic Map for more information. (2025-10-25 22:01  UTC)<br/>
 DSS deploys to *Hort* of the Rigel sector (2025-10-25 22:37  UTC)<br/>
 *Charbal-VII* defense is won (2025-10-25 23:16  UTC)<br/>
@@ -12527,7 +12527,7 @@ DSS deploys to *Hort* of the Rigel sector (2025-10-25 22:37  UTC)<br/>
 ### Day: #627
 *Hort* Region 0 On-Earsahou City is besieged by Humans (2025-10-26 11:11  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-10-26 16:37  UTC)<br/>
-Major Order | [A2-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-4) Liberty Day 2025 is won | Objective: Eradicate (2025-10-26 23:00  UTC)<br/>
+Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberty Day 2025 is won | Objective: Eradicate (2025-10-26 23:00  UTC)<br/>
 Dispatch: OPERATIONAL ADVISORY. Liberty Day has now concluded. Though this year's celebration is over, let the memory of our Democratic oneness fuel your resolve as we now return, refreshed, to the ongoing fight for Freedom. Consult your Galactic Map for more information. (2025-10-26 23:01  UTC)<br/>
 *Hort* Region 2 Magnitude City has fallen to Humans (2025-10-27 00:03  UTC)<br/>
 *Hort* Region 1 Clockstop City is besieged by Humans (2025-10-27 01:22  UTC)<br/>
@@ -12623,7 +12623,7 @@ DSS deploys to *Hesoe Prime* of the Rigel sector (2025-10-27 18:39  UTC)<br/>
 ### Day: #629
 *Hesoe Prime* defense is failed (2025-10-28 10:43  UTC)<br/>
 ↳ *Hesoe Prime* liberation campaign starts (2025-10-28 10:43  UTC)<br/>
-Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberate Hive World *Oshaune* is issued | Objective: Liberate (2025-10-28 12:10  UTC)<br/>
+Major Order | [A2-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-6) Liberate Hive World *Oshaune* is issued | Objective: Liberate (2025-10-28 12:10  UTC)<br/>
  Decay: 1.0 on Hesoe Prime
  (2025-10-28 12:10  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The time has come to liberate the Hive World. All Helldivers are ordered to deploy to OSHAUNE. Do not relent until it is purged. (2025-10-28 12:11  UTC)<br/>
@@ -12767,7 +12767,7 @@ Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoil
 Assault Division: Rupture Strain U3F is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
 Assault Division: Hive Lords U2A is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
 Assault Division: Dragonroaches U1A is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
-Major Order | [A2-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-5) Liberate Hive World *Oshaune* is won | Objective: Liberate (2025-11-04 01:03  UTC)<br/>
+Major Order | [A2-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-10-6) Liberate Hive World *Oshaune* is won | Objective: Liberate (2025-11-04 01:03  UTC)<br/>
  Decay: 10.0 on Zagon Prime
  (2025-11-04 01:03  UTC)<br/>
 DSS deploys to *Fenmire* of the Marspira sector (2025-11-04 01:04  UTC)<br/>
@@ -13147,3 +13147,29 @@ Assault Division: Incineration Corps U6A deploys to *Merak* (2025-11-22 17:30  U
 Assault Division: Incineration Corps U6B deploys to *Aurora Bay* (2025-11-22 17:30  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on MERAK. (2025-11-22 17:30  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on AURORA BAY. (2025-11-22 17:31  UTC)<br/>
+Assault Division: Incineration Corps U6A leaves *Merak* (2025-11-22 18:28  UTC)<br/>
+Assault Division: Incineration Corps U6B leaves *Aurora Bay* (2025-11-22 18:28  UTC)<br/>
+Assault Division: Incineration Corps U6A deploys to *Penta* (2025-11-22 18:30  UTC)<br/>
+Assault Division: Incineration Corps U6B deploys to *Choohe* (2025-11-22 18:31  UTC)<br/>
+DSS deploys to *Irulta* of the Saleria sector (2025-11-22 18:57  UTC)<br/>
+*Turing* defense is won (2025-11-22 19:12  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2025-11-22 19:12  UTC)<br/>
+Assault Division: Incineration Corps U6A leaves *Penta* (2025-11-22 19:29  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2025-11-22 19:29  UTC)<br/>
+Assault Division: Incineration Corps U6B leaves *Choohe* (2025-11-22 19:30  UTC)<br/>
+Assault Division: Incineration Corps U6B deploys to *Matar Bay* (2025-11-22 19:30  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 50 Automatons (2025-11-22 19:31  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2025-11-22 19:31  UTC)<br/>
+Assault Division: Incineration Corps U6A deploys to *Lesath* (2025-11-22 19:31  UTC)<br/>
+Assault Division: Incineration Corps U6B leaves *Matar Bay* (2025-11-22 20:29  UTC)<br/>
+ Decay: 0.0 on Lesath
+ (2025-11-22 20:29  UTC)<br/>
+ Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
+ (2025-11-22 20:29  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Lvl 22 Automatons (2025-11-22 20:32  UTC)<br/>
+Assault Division: Incineration Corps U6B deploys to *Marfark* (2025-11-22 20:32  UTC)<br/>
+*Irulta* Region 0 Recon Heights Settlement has fallen to Humans (2025-11-22 22:09  UTC)<br/>
+ Decay: 0.0 on Marfark
+ (2025-11-22 22:09  UTC)<br/>
+*Irulta* Region 2 Voter's Fallow City is besieged by Humans (2025-11-23 00:34  UTC)<br/>
