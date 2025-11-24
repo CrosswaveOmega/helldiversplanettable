@@ -13173,3 +13173,36 @@ Assault Division: Incineration Corps U6B deploys to *Marfark* (2025-11-22 20:32 
  Decay: 0.0 on Marfark
  (2025-11-22 22:09  UTC)<br/>
 *Irulta* Region 2 Voter's Fallow City is besieged by Humans (2025-11-23 00:34  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-11-23 02:23  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2025-11-23 02:58  UTC)<br/>
+*Irulta* Region 1 Silo A Town is besieged by Humans (2025-11-23 04:14  UTC)<br/>
+
+### Day: #655
+*Lesath* Region 1 Morskie Oko Town has fallen to Humans (2025-11-23 10:31  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2025-11-23 13:34  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Orbital Walking Barrage Stratagem availability has now ended. (2025-11-23 16:22  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-11-23 18:20  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 35 Terminids (2025-11-23 20:09  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2025-11-23 20:09  UTC)<br/>
+*Marfark* defense is failed (2025-11-23 20:33  UTC)<br/>
+↳ *Marfark* liberation campaign starts (2025-11-23 20:33  UTC)<br/>
+↳ *Martale* liberation campaign ends (2025-11-23 20:33  UTC)<br/>
+↳ *Matar Bay* liberation campaign ends (2025-11-23 20:33  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2025-11-23 20:33  UTC)<br/>
+ Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Meridian sector, Arturion sector, Falstaff sector, Draco sector, Ursa sector, Rictus sector, Hanzo sector, Saleria sector, Guang sector, Tarragon sector, Theseus sector, Sagan sector, Xzar sector, Borgus sector, Akira sector, Severin sector, Trigon sector, Tanis sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Gellert sector, Sten sector, Farsight sector, Xi Tauri sector, Ymir sector<br/> Decay: 1.0 on Ferris sector, Mirin sector, Saleria sector, Sagan sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Borgus sector, Morgon sector, Rictus sector, Falstaff sector, Umlaut sector, Gallux sector, Hanzo sector, Draco sector, Jin Xi sector, Farsight sector, Rigel sector, Andromeda sector, Ymir sector, Valdis sector, Omega sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Nanos sector, Umlaut sector, Hanzo sector, Guang sector, Andromeda sector, Tanis sector, Ymir sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Seyshel Beach, Effluvia, Fenmire, Myrium, Kerth Secundus, Parsh<br/> Decay: 2.5 on Azur Secundus, Imber, Penta, Angel's Venture, Choohe, Erata Prime, Phact Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Hydra sector, Tanis sector, Andromeda sector, Draco sector, Jin Xi sector<br/> Decay: 5.0 on Aurora Bay, Erson Sands, Oshaune, Cyberstan<br/> Decay: 3.0 on Chort Bay, Menkent, Vindemitarix Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 4.0 on Mekbuda, Merga IV, Nivel 43<br/> Decay: 10.0 on Zagon Prime, Omicron
+ (2025-11-23 22:00  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2025-11-23 23:47  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town has fallen to Humans (2025-11-24 00:48  UTC)<br/>
+*Irulta* defense is failed (2025-11-24 01:40  UTC)<br/>
+↳ *Irulta* liberation campaign starts (2025-11-24 01:40  UTC)<br/>
+ Decay: 1.0 on Irulta
+ (2025-11-24 02:00  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2025-11-24 04:06  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement has fallen to Humans (2025-11-24 04:29  UTC)<br/>
+
+### Day: #656
+*Inari* of the Korpus sector is attacked by Lvl 18 Terminids (2025-11-24 10:30  UTC)<br/>
+*Acamar IV* Region 1 Eridani City is besieged by Humans (2025-11-24 12:35  UTC)<br/>
+ Decay: 0.0 on Inari
+ (2025-11-24 12:35  UTC)<br/>
