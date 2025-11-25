@@ -13188,9 +13188,11 @@ DSS effect Orbital Blockade is activated (2025-11-23 18:20  UTC)<br/>
 ↳ *Marfark* liberation campaign starts (2025-11-23 20:33  UTC)<br/>
 ↳ *Martale* liberation campaign ends (2025-11-23 20:33  UTC)<br/>
 ↳ *Matar Bay* liberation campaign ends (2025-11-23 20:33  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2025-11-23 20:33  UTC)<br/>
  Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
  (2025-11-23 20:33  UTC)<br/>
- Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Meridian sector, Arturion sector, Falstaff sector, Draco sector, Ursa sector, Rictus sector, Hanzo sector, Saleria sector, Guang sector, Tarragon sector, Theseus sector, Sagan sector, Xzar sector, Borgus sector, Akira sector, Severin sector, Trigon sector, Tanis sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Gellert sector, Sten sector, Farsight sector, Xi Tauri sector, Ymir sector<br/> Decay: 1.0 on Ferris sector, Mirin sector, Saleria sector, Sagan sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Borgus sector, Morgon sector, Rictus sector, Falstaff sector, Umlaut sector, Gallux sector, Hanzo sector, Draco sector, Jin Xi sector, Farsight sector, Rigel sector, Andromeda sector, Ymir sector, Valdis sector, Omega sector, Trigon sector, Tanis sector<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Nanos sector, Umlaut sector, Hanzo sector, Guang sector, Andromeda sector, Tanis sector, Ymir sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Seyshel Beach, Effluvia, Fenmire, Myrium, Kerth Secundus, Parsh<br/> Decay: 2.5 on Azur Secundus, Imber, Penta, Angel's Venture, Choohe, Erata Prime, Phact Bay<br/> Decay: 0.0 on Human worlds<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Hydra sector, Tanis sector, Andromeda sector, Draco sector, Jin Xi sector<br/> Decay: 5.0 on Aurora Bay, Erson Sands, Oshaune, Cyberstan<br/> Decay: 3.0 on Chort Bay, Menkent, Vindemitarix Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 4.0 on Mekbuda, Merga IV, Nivel 43<br/> Decay: 10.0 on Zagon Prime, Omicron
+ Decay: 1.0 on Marfark
  (2025-11-23 22:00  UTC)<br/>
 *Lesath* Region 2 Crystal Slopes City is besieged by Humans (2025-11-23 23:47  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town has fallen to Humans (2025-11-24 00:48  UTC)<br/>
@@ -13206,3 +13208,31 @@ DSS effect Orbital Blockade is activated (2025-11-23 18:20  UTC)<br/>
 *Acamar IV* Region 1 Eridani City is besieged by Humans (2025-11-24 12:35  UTC)<br/>
  Decay: 0.0 on Inari
  (2025-11-24 12:35  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-11-24 18:21  UTC)<br/>
+Assault Division: Incineration Corps U6A leaves *Lesath* (2025-11-24 19:31  UTC)<br/>
+↳ *Penta* liberation campaign ends (2025-11-24 19:32  UTC)<br/>
+↳ *Chort Bay* liberation campaign ends (2025-11-24 19:32  UTC)<br/>
+↳ *Menkent* liberation campaign ends (2025-11-24 19:32  UTC)<br/>
+*Lesath* defense is failed (2025-11-24 19:33  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2025-11-24 19:33  UTC)<br/>
+↳ Lacaille sector is fully under Automaton control (2025-11-24 19:33  UTC)<br/>
+Assault Division: Incineration Corps U6A deploys to *Lesath* (2025-11-24 19:36  UTC)<br/>
+HP reached a checkpoint. (2025-11-24 20:00  UTC)<br/>
+HP reached a checkpoint. (2025-11-24 20:00  UTC)<br/>
+*New Stockholm* of the Hanzo sector is attacked by Lvl 14 Illuminate (2025-11-24 22:32  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2025-11-24 22:59  UTC)<br/>
+ Decay: 0.0 on New Stockholm
+ (2025-11-24 22:59  UTC)<br/>
+
+### Day: #657
+Assault Division: Incineration Corps U6B leaves *Marfark* (2025-11-25 09:51  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Lvl 40 Automatons (2025-11-25 09:52  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town is besieged by Humans (2025-11-25 09:52  UTC)<br/>
+Assault Division: Incineration Corps U6B deploys to *Bekvam III* (2025-11-25 09:52  UTC)<br/>
+*Inari* defense is failed (2025-11-25 10:31  UTC)<br/>
+↳ *Inari* liberation campaign starts (2025-11-25 10:31  UTC)<br/>
+↳ *Ursica XI* liberation campaign ends (2025-11-25 10:31  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2025-11-25 10:31  UTC)<br/>
+ Region Decay: 0.2 on Bekvam III's CONVENIENCE region<br/> Region Decay: 0.4 on Bekvam III's FIREFLY MEADOWS region
+ (2025-11-25 10:31  UTC)<br/>
