@@ -13236,3 +13236,24 @@ Assault Division: Incineration Corps U6B deploys to *Bekvam III* (2025-11-25 09:
  (2025-11-25 10:31  UTC)<br/>
  Region Decay: 0.2 on Bekvam III's CONVENIENCE region<br/> Region Decay: 0.4 on Bekvam III's FIREFLY MEADOWS region
  (2025-11-25 10:31  UTC)<br/>
+ Decay: 0.5 on Inari
+ (2025-11-25 12:00  UTC)<br/>
+*Herthon Secundus* of the Ferris sector is attacked by Lvl 24 Illuminate (2025-11-25 15:44  UTC)<br/>
+*Herthon Secundus* Region 2 Consensus City is besieged by Humans (2025-11-25 15:44  UTC)<br/>
+ Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region
+ (2025-11-25 16:00  UTC)<br/>
+ Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region
+ (2025-11-25 16:00  UTC)<br/>
+*Acamar IV* defense is won (2025-11-25 18:26  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2025-11-25 18:26  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2025-11-25 20:00  UTC)<br/>
+*New Stockholm* defense is failed (2025-11-25 22:34  UTC)<br/>
+↳ *New Stockholm* liberation campaign starts (2025-11-25 22:34  UTC)<br/>
+*Herthon Secundus* Region 0 Penscewt Town is besieged by Humans (2025-11-25 22:58  UTC)<br/>
+ Decay: 1.0 on New Stockholm
+ (2025-11-25 22:58  UTC)<br/>
+*Bekvam III* Region 0 Convenience Town has fallen to Humans (2025-11-26 03:36  UTC)<br/>
+
+### Day: #658
+DSS effect Eagle Storm is activated (2025-11-26 09:08  UTC)<br/>
