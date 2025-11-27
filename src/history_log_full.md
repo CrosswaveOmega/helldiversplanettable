@@ -13257,3 +13257,19 @@ DSS deploys to *Bekvam III* of the Nanos sector (2025-11-25 18:26  UTC)<br/>
 
 ### Day: #658
 DSS effect Eagle Storm is activated (2025-11-26 09:08  UTC)<br/>
+*Iro* of the Rictus sector is attacked by Lvl 10 Illuminate (2025-11-26 20:48  UTC)<br/>
+ Decay: 0.0 on Iro
+ (2025-11-26 22:00  UTC)<br/>
+*Herthon Secundus* Region 1 Eagle's Likeness Town is besieged by Humans (2025-11-27 02:31  UTC)<br/>
+DSS deploys to *Iro* of the Rictus sector (2025-11-27 07:01  UTC)<br/>
+
+### Day: #659
+DSS effect Eagle Storm stops (2025-11-27 09:09  UTC)<br/>
+*Bekvam III* defense is won (2025-11-27 12:29  UTC)<br/>
+Assault Division: Incineration Corps U6B is routed from Bekvam III (2025-11-27 12:29  UTC)<br/>
+ Decay: 0.5 on Bekvam III
+ (2025-11-27 14:00  UTC)<br/>
+Assault Division: Incineration Corps U6A leaves *Lesath* (2025-11-27 15:11  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Lvl 16 Automatons (2025-11-27 15:13  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2025-11-27 15:13  UTC)<br/>
+Assault Division: Incineration Corps U6A deploys to *Gaellivare* (2025-11-27 15:13  UTC)<br/>
