@@ -13273,3 +13273,29 @@ Assault Division: Incineration Corps U6A leaves *Lesath* (2025-11-27 15:11  UTC)
 *Gaellivare* of the Talus sector is attacked by Lvl 16 Automatons (2025-11-27 15:13  UTC)<br/>
 *Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2025-11-27 15:13  UTC)<br/>
 Assault Division: Incineration Corps U6A deploys to *Gaellivare* (2025-11-27 15:13  UTC)<br/>
+↳ *Ain-5* liberation campaign ends (2025-11-27 15:44  UTC)<br/>
+ Decay: 0.0 on Gaellivare
+ (2025-11-27 15:44  UTC)<br/>
+ Region Decay: 0.1 on Gaellivare's VÁHTJER region<br/> Region Decay: 0.3 on Gaellivare's MALMBERGET region
+ (2025-11-27 15:44  UTC)<br/>
+*Herthon Secundus* defense is failed (2025-11-27 15:45  UTC)<br/>
+*Herthon Secundus* liberation campaign starts (2025-11-27 15:45  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign ends (2025-11-27 15:45  UTC)<br/>
+Major Order | [A2-11-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-6) Defend 8 and Hold *Turing* is failed | Objective: Defend/Control (2025-11-27 16:05  UTC)<br/>
+ Decay: 1.0 on Herthon Secundus
+ (2025-11-27 16:05  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The enemy has gained ground on multiple fronts. Forces have been pulled back in retreat as all 3 factions push forward. Fierce, stalwart Helldiver resistance forestalled catastrophe, but the losses are nevertheless significant. Consult the Galactic Map for more information. (2025-11-27 16:12  UTC)<br/>
+Major Order | [A2-11-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-7) Liberate *Afoyay Bay* and Gain Ground is issued | Objective: Conquest/Liberate (2025-11-27 17:25  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Government of *Super Earth* has declared a new war: The War on Dissidence. SEAF units have been deployed in force to cities across the Federation. Our enemies are expected to attempt to exploit this vulnerability; the Helldivers must hold the line. Additionally, High Command has ordered the construction of the Center for the Containment of Dissidence on AFOYAY BAY. The Helldivers are additionally ordered to liberate AFOYAY BAY. (2025-11-27 17:26  UTC)<br/>
+*Iro* defense is failed (2025-11-27 22:57  UTC)<br/>
+↳ *Valmox* liberation campaign ends (2025-11-27 22:57  UTC)<br/>
+↳ *Grafmere* liberation campaign ends (2025-11-27 22:57  UTC)<br/>
+↳ Rictus sector is fully under Illuminate control (2025-11-27 22:57  UTC)<br/>
+DSS deploys to *Gaellivare* of the Talus sector (2025-11-27 22:57  UTC)<br/>
+ Decay: 1.0 on Iro
+ (2025-11-28 00:00  UTC)<br/>
+DSS deploys to *New Stockholm* of the Hanzo sector (2025-11-28 07:01  UTC)<br/>
+Dispatch: AMMO RATIONING. Helldivers will be issued 25% less ammunition on deployment for the near future, in order to support the maintenance of law and order as dissident apprehension continues. (2025-11-28 08:58  UTC)<br/>
+
+# Day: #660
+*Gaellivare* Region 0 Váhtjer Settlement is besieged by Humans (2025-11-28 14:13  UTC)<br/>
