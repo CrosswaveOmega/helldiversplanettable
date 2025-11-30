@@ -13299,3 +13299,15 @@ Dispatch: AMMO RATIONING. Helldivers will be issued 25% less ammunition on deplo
 
 # Day: #660
 *Gaellivare* Region 0 Váhtjer Settlement is besieged by Humans (2025-11-28 14:13  UTC)<br/>
+Dispatch: STIM RATIONING. Ongoing nonlethal operations to maintain citizen safety during the War on Dissidence has led to a shortage of medical supplies. Helldiver stim rations will be reduced by 1% for the next 24 hours. (2025-11-28 21:38  UTC)<br/>
+*Gaellivare* defense is won (2025-11-29 00:26  UTC)<br/>
+Assault Division: Incineration Corps U6A is routed from Gaellivare (2025-11-29 00:26  UTC)<br/>
+ Decay: 0.5 on Gaellivare
+ (2025-11-29 02:00  UTC)<br/>
+
+### Day: #661
+Dispatch: Orbital Smoke Strike COOLDOWN INCREASE. Nonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds. (2025-11-29 09:37  UTC)<br/>
+*New Stockholm* is liberated (2025-11-29 20:49  UTC)<br/>
+↳ *Iro* liberation campaign starts (2025-11-29 20:49  UTC)<br/>
+↳ *Ain-5* liberation campaign starts (2025-11-29 20:49  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-11-29 20:49  UTC)<br/>
