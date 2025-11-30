@@ -13311,3 +13311,11 @@ Dispatch: Orbital Smoke Strike COOLDOWN INCREASE. Nonlethal armaments are in dir
 ↳ *Iro* liberation campaign starts (2025-11-29 20:49  UTC)<br/>
 ↳ *Ain-5* liberation campaign starts (2025-11-29 20:49  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2025-11-29 20:49  UTC)<br/>
+Dispatch: FRV COOLDOWN INCREASE. FRV Stratagem cooldowns will be temporarily increased by 60 seconds in order to support SEAF operations to maintain order within *Super Earth* cities. (2025-11-29 21:57  UTC)<br/>
+ Decay: 1.5 on New Stockholm
+ (2025-11-29 21:57  UTC)<br/>
+DSS deploys to *Ain-5* of the Hanzo sector (2025-11-30 03:02  UTC)<br/>
+
+### Day: #662
+*Terrek* is liberated (2025-11-30 10:38  UTC)<br/>
+↳ Orion sector is fully under Human control (2025-11-30 10:38  UTC)<br/>
