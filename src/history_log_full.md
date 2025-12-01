@@ -13319,3 +13319,23 @@ DSS deploys to *Ain-5* of the Hanzo sector (2025-11-30 03:02  UTC)<br/>
 ### Day: #662
 *Terrek* is liberated (2025-11-30 10:38  UTC)<br/>
 ↳ Orion sector is fully under Human control (2025-11-30 10:38  UTC)<br/>
+*Elysian Meadows* of the Guang sector is attacked by Lvl 10 Illuminates (2025-11-30 18:23  UTC)<br/>
+Dispatch: EAGLE REARM COOLDOWN INCREASE. Eagle fighters are being deployed to conduct flyovers over *Super Earth* cities to reassure loyal citizens of their safety during this tumultuous time. Eagle Rearm cooldowns will be increased by 60 seconds for the near future. (2025-11-30 20:37  UTC)<br/>
+ Decay: 0.0 on Elysian Meadows
+ (2025-11-30 20:37  UTC)<br/>
+DSS deploys to *Elysian Meadows* of the Guang sector (2025-11-30 23:03  UTC)<br/>
+DSS deploys to *Ain-5* of the Hanzo sector (2025-12-01 03:03  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-12-01 03:53  UTC)<br/>
+
+### Day: #663
+*Ain-5* is liberated (2025-12-01 10:21  UTC)<br/>
+↳ *Afoyay Bay* liberation campaign starts (2025-12-01 10:21  UTC)<br/>
+DSS deploys to *Elysian Meadows* of the Guang sector (2025-12-01 10:21  UTC)<br/>
+ Decay: 1.5 on Ain-5
+ (2025-12-01 12:00  UTC)<br/>
+Dispatch: EXOSUIT COOLDOWN INCREASE. Exosuits will be deployed to *Super Earth* city streets as a display of safety and security. As a result, Exosuit Stratagem cooldowns will be increased by 150 seconds until the end of the current dissident apprehension operation. (2025-12-01 13:50  UTC)<br/>
+DSS deploys to *Afoyay Bay* of the Gallux sector (2025-12-01 15:03  UTC)<br/>
+*Shete* of the Xi Tauri sector is attacked by Lvl 18 Illuminates (2025-12-01 16:15  UTC)<br/>
+*Shete* Region 0 Holl City is besieged by Humans (2025-12-01 16:15  UTC)<br/>
+ Region Decay: 0.4 on Shete's HOLL region
+ (2025-12-01 16:15  UTC)<br/>
