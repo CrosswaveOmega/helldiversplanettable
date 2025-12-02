@@ -13339,3 +13339,13 @@ DSS deploys to *Afoyay Bay* of the Gallux sector (2025-12-01 15:03  UTC)<br/>
 *Shete* Region 0 Holl City is besieged by Humans (2025-12-01 16:15  UTC)<br/>
  Region Decay: 0.4 on Shete's HOLL region
  (2025-12-01 16:15  UTC)<br/>
+*Elysian Meadows* defense is failed (2025-12-01 18:24  UTC)<br/>
+↳ *Elysian Meadows* liberation campaign starts (2025-12-01 18:24  UTC)<br/>
+ Decay: 0.0 on Shete
+ (2025-12-01 18:24  UTC)<br/>
+*Zzaniah Prime* of the Gellert sector is attacked by Lvl 13 Automatons (2025-12-01 20:05  UTC)<br/>
+ Decay: 1.0 on Elysian Meadows
+ (2025-12-01 20:05  UTC)<br/>
+ Decay: 0.0 on Zzaniah Prime
+ (2025-12-01 22:00  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-12-02 03:53  UTC)<br/>
