@@ -13349,3 +13349,28 @@ DSS deploys to *Afoyay Bay* of the Gallux sector (2025-12-01 15:03  UTC)<br/>
  Decay: 0.0 on Zzaniah Prime
  (2025-12-01 22:00  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-12-02 03:53  UTC)<br/>
+
+### Day: #664
+Strategic Opportunity | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is issued | Objective: Liberate (2025-12-02 12:20  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Extremely-high-confidence intel indicates the presence of dissidents hiding from justice in the jungles of Terminid-infested PHERKAD SECUNDUS. The Helldivers are ordered to liberate PHERKAD SECUNDUS, to flush out the hidden dissidents and enable their apprehension. (2025-12-02 12:20  UTC)<br/>
+*East Iridium Trading Bay* of the Tarragon sector is attacked by Lvl 10 Illuminate (2025-12-02 16:09  UTC)<br/>
+*Afoyay Bay* is liberated (2025-12-02 16:11  UTC)<br/>
+↳ *Adhara* liberation campaign starts (2025-12-02 16:11  UTC)<br/>
+↳ *Zea Rugosia* liberation campaign starts (2025-12-02 16:11  UTC)<br/>
+↳ *Valmox* liberation campaign starts (2025-12-02 16:11  UTC)<br/>
+*Adhara* Region 0 Traitor's End Settlement is besieged by Humans (2025-12-02 16:11  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City is besieged by Humans (2025-12-02 16:11  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement is besieged by Humans (2025-12-02 16:11  UTC)<br/>
+DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-02 16:11  UTC)<br/>
+ Region Decay: 0.2 on Zea Rugosia's NEW COB region<br/> Region Decay: 0.1 on Zea Rugosia's GENE region<br/> Region Decay: 0.4 on Zea Rugosia's STARPASS region<br/> Region Decay: 0.1 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.4 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.4 on Valmox's OBEDIENCE region<br/> Region Decay: 0.1 on Adhara's TRAITOR'S END region<br/> Region Decay: 0.4 on Adhara's STRENGTH region
+ (2025-12-02 18:00  UTC)<br/>
+ Region Decay: 0.2 on Zea Rugosia's NEW COB region<br/> Region Decay: 0.1 on Zea Rugosia's GENE region<br/> Region Decay: 0.4 on Zea Rugosia's STARPASS region<br/> Region Decay: 0.1 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.4 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.4 on Valmox's OBEDIENCE region<br/> Region Decay: 0.1 on Adhara's TRAITOR'S END region<br/> Region Decay: 0.4 on Adhara's STRENGTH region
+ (2025-12-02 18:00  UTC)<br/>
+*Zzaniah Prime* defense is failed (2025-12-02 20:06  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign starts (2025-12-02 20:06  UTC)<br/>
+ Decay: 1.5 on Zzaniah Prime
+ (2025-12-02 22:00  UTC)<br/>
+DSS deploys to *East Iridium Trading Bay* of the Tarragon sector (2025-12-03 07:04  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-12-03 07:57  UTC)<br/>
+
+### Day: #665
