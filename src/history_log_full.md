@@ -13374,3 +13374,25 @@ DSS deploys to *East Iridium Trading Bay* of the Tarragon sector (2025-12-03 07:
 DSS effect Heavy Ordnance Distribution is activated (2025-12-03 07:57  UTC)<br/>
 
 ### Day: #665
+*East Iridium Trading Bay* defense is won (2025-12-03 12:19  UTC)<br/>
+↳ Tarragon sector is fully under Human control (2025-12-03 12:19  UTC)<br/>
+DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-03 12:19  UTC)<br/>
+Strategic Opportunity | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is failed | Objective: Liberate (2025-12-03 12:19  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY LOST. The Hellidvers have failed to liberate PHERKAD SECUNDUS. No trace of the dissidents was found; still they elude Justice, hiding amongst the Terminids with whom they no doubt sympathize. (2025-12-03 12:22  UTC)<br/>
+DSS deploys to *Inari* of the Korpus sector (2025-12-03 15:05  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Terminids (2025-12-03 15:29  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-12-03 15:29  UTC)<br/>
+*Shete* defense is failed (2025-12-03 16:17  UTC)<br/>
+↳ *Shete* liberation campaign starts (2025-12-03 16:17  UTC)<br/>
+*Inari* is liberated (2025-12-03 16:55  UTC)<br/>
+↳ *Ursica XI* liberation campaign starts (2025-12-03 16:55  UTC)<br/>
+↳ Korpus sector is fully under Human control (2025-12-03 16:55  UTC)<br/>
+DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-03 16:55  UTC)<br/>
+Major Order | [A2-11-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-7) Liberate *Afoyay Bay* and Gain Ground is won | Objective: Conquest/Liberate (2025-12-03 17:27  UTC)<br/>
+ Region Decay: 0.2 on Ursica XI's NEW KATHMANDU region<br/> Region Decay: 0.4 on Ursica XI's PO'S RAVENNA region
+ (2025-12-03 17:27  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The first battle in the War on Dissidence has ended in a decisive victory, thanks to the Helldivers. Ground has been broken on the Center for the Confinement of Dissidence (CECOD). Once built, CECOD will hold up to 15 million dissidents, enabling thorough and secure re-education. Consult the Galactic Map for more information. (2025-12-03 17:30  UTC)<br/>
+*Pherkad Secundus* is liberated (2025-12-03 22:07  UTC)<br/>
+↳ *Gatria* liberation campaign starts (2025-12-03 22:07  UTC)<br/>
+*Gatria* Region 1 Ersatz City is besieged by Humans (2025-12-03 22:07  UTC)<br/>
+DSS deploys to *Borea* of the Sagan sector (2025-12-03 22:07  UTC)<br/>
