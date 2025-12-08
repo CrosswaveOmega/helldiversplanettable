@@ -13410,7 +13410,7 @@ DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 *Mox* is now identified in the Trigon sector (2025-12-04 09:04  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is established as a Center for the Confinement of Dissidence (CECOD) POI (2025-12-04 09:12  UTC)<br/>
 *Fury* is now identified in the Xzar sector (2025-12-04 10:04  UTC)<br/>
-*Fury* coordinates are X -0.729 Y 0.172 (2025-12-04 10:04  UTC)<br/>
+*Fury*  moves to X -0.729 Y 0.172 (2025-12-04 10:04  UTC)<br/>
 *Fury* of the Xzar sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
 *Fury* - *Ustotu* warp link is added (2025-12-04 10:04  UTC)<br/>
 *Fury* - *Mort* warp link is added (2025-12-04 10:04  UTC)<br/>
@@ -13418,13 +13418,13 @@ DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 *Fury*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
 *Fury* of the Xzar sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
 *K* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
-*K* coordinates are X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
+*K*  moves to X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
 *K* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
 *K* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
 *K* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
 *K*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
 *K*  of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
-*Mox* coordinates are X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
+*Mox*  moves to X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
 *Mox* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
 *Mox* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
 *Mox* - *Vega Bay* warp link is added (2025-12-04 10:04  UTC)<br/>
