@@ -317,10 +317,10 @@ Dispatch: Well done, Helldivers. *Tien Kwan* has been returned to the care of Ma
 
 ### Day: #34
 Major Order | [A1-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A1-3-3) TCS Activation is issued | Objective: Liberate (2024-03-12 13:46  UTC)<br/>
-*Erata Prime* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
-*Fenrir III* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
-*Meridia* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
-*Turing* has been classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Erata Prime* is classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Fenrir III* is classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Meridia* is classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
+*Turing* is classified as a High Priority Campaign (2024-03-12 13:46  UTC)<br/>
 Dispatch: Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. However, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens. The Terminid Control System must be activated--at any cost. (2024-03-12 13:47  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Activate Terminid Control System (2024-03-12 13:47  UTC)<br/>
  Decay: 4.5 on Terminid worlds
@@ -984,13 +984,13 @@ Major Order | [A1-4-10](https://helldivers.wiki.gg/wiki/Major_Orders#A1-4-10) Op
 Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their calculated oppression and hardwired avarice, have stymied our valiant efforts to liberate *Choohe*. The loss of the indispensible explosives on the planet will mean significant delays to the production of Anti-Tank Mines. The explosive technicians on *Choohe* have almost certainly been torn to pieces by the vicious blades of the Automatons. All will agree that every possible resource was directed towards their salvation. Their sacrifice is hereby honored. (2024-04-29 12:21  UTC)<br/>
 *Fenrir III* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Fenrir III* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
-*Fenrir III* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
+*Fenrir III* is classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Erata Prime* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
-*Erata Prime* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
+*Erata Prime* is classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Turing* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ *Turing* liberation campaign starts (2024-04-29 14:22  UTC)<br/>
-*Turing* has been classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
+*Turing* is classified as a High Priority Campaign (2024-04-29 14:22  UTC)<br/>
 *Meridia* of the Umlaut sector instantly flips to Terminid control (2024-04-29 14:22  UTC)<br/>
 ↳ Umlaut sector is fully under Terminid control (2024-04-29 14:22  UTC)<br/>
 *Meridia* of the Umlaut sector's biome is changed from Volcanic Jungle [Primordial] to Supercolony [Primordial] (2024-04-29 14:22  UTC)<br/>
@@ -1346,7 +1346,7 @@ Dispatch: MAJOR ORDER WON. The path to the Terminid Supercolony on *Meridia* is 
 *Meridia* - *Estanu* warp link is added (2024-05-30 15:35  UTC)<br/>
 *Meridia* - *Crimsica* warp link is added (2024-05-30 15:35  UTC)<br/>
 *Meridia* liberation campaign starts (2024-05-30 15:35  UTC)<br/>
-*Meridia* has been classified as a High Priority Campaign (2024-05-30 15:35  UTC)<br/>
+*Meridia* is classified as a High Priority Campaign (2024-05-30 15:35  UTC)<br/>
 Major Order | [A1-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-5-7) Operation Enduring Peace Phase Two is issued | Objective: Liberate (2024-05-30 15:36  UTC)<br/>
 Dispatch: OPERATION "ENDURING PEACE"—PHASE II (FINAL). The time has come to eradicate the Terminid Supercolony completely. The Helldivers will deploy to the surface of *Meridia* to deploy partial payloads of Dark Fluid across the planet. Once a critical mass is reached, the Dark Fluid will accrete into a superdense mass, triggering total planetary implosion. The Supercolony, and its hyper-reproductive Terminids, will be destroyed. The fate of the galaxy is in your hands, Helldivers. (2024-05-30 15:39  UTC)<br/>
  Decay: 10.0 on Meridia
@@ -6744,7 +6744,7 @@ Dispatch: MAJOR ORDER WON. Despite the appearance of the Predator Strain, the Te
 Major Order | [A2-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-2-4) *Fori Prime* Gloom Research Expedition is issued | Objective: Liberate/Sample/Eradicate (2025-02-18 12:35  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. *Super Earth* High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom. Consult the Galactic Map on your ship for more information. (2025-02-18 12:35  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-02-18 12:36  UTC)<br/>
-*Fori Prime* has been classified as a High Priority Campaign (2025-02-18 12:36  UTC)<br/>
+*Fori Prime* is classified as a High Priority Campaign (2025-02-18 12:36  UTC)<br/>
 Terminid Brood debuts a new Assault Division: Spore Burst Strain (2025-02-18 12:36  UTC)<br/>
 Assault Division: Spore Burst Strain U1A deploys to *Fori Prime* (2025-02-18 12:36  UTC)<br/>
 Dispatch: STRATEGIC UPDATE. In the interest of preserving the structural integrity of biological and/or geological materials on FORI PRIME during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission. (2025-02-18 12:38  UTC)<br/>
@@ -8234,7 +8234,7 @@ Dispatch: MAJOR ORDER WON. By returning WEZEN to the rightful control of *Super 
 Assault Division: Spore Burst Strain U2A deploys to *Nivel 43* (2025-04-11 11:43  UTC)<br/>
 *Nivel 43* is no longer unobservable (2025-04-11 11:44  UTC)<br/>
 *Nivel 43* liberation campaign starts (2025-04-11 11:45  UTC)<br/>
-*Nivel 43* has been classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
+*Nivel 43* is classified as a High Priority Campaign (2025-04-11 11:45  UTC)<br/>
 Major Order | [A2-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-4-2) *Nivel 43* Gloom Research Expedition is issued | Objective: Liberate (2025-04-11 11:46  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. High Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information. (2025-04-11 11:46  UTC)<br/>
 *Bunda Secundus*'s invasion is successful (2025-04-11 13:04  UTC)<br/>
@@ -11455,8 +11455,8 @@ Major Order | [A2-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-9) Oper
 *Hellmire* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Fori Prime* liberation campaign starts (2025-08-31 22:30  UTC)<br/>
 *Hellmire* - *Oshaune* warp link is added (2025-08-31 22:30  UTC)<br/>
-*Hellmire* has been classified as a High Priority Campaign (2025-08-31 22:30  UTC)<br/>
-*Fori Prime* has been classified as a High Priority Campaign (2025-08-31 22:30  UTC)<br/>
+*Hellmire* is classified as a High Priority Campaign (2025-08-31 22:30  UTC)<br/>
+*Fori Prime* is classified as a High Priority Campaign (2025-08-31 22:30  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to once again brave the mutative darkness of the Gloom, and establish a forward operating base within its perimeter. From there, they will be able to conduct operations deep into the Mirin sector, an area believed by Xenoentomologists to contain at least one prominent Gloom source. (2025-08-31 22:31  UTC)<br/>
  Decay: 4.0 on Hellmire, Fori Prime, Nivel 43
  (2025-09-01 00:00  UTC)<br/>
@@ -12761,7 +12761,7 @@ Dispatch: HIVE WORLD NEARING LIBERATION. The liberation of *Oshaune* is nearly c
 *Omicron*'s max health is changed to 3m (2025-11-03 20:56  UTC)<br/>
 *Zagon Prime*'s max health is changed to 1m (2025-11-03 20:57  UTC)<br/>
 *Omicron*'s max health is changed to 1m (2025-11-03 20:57  UTC)<br/>
-NOTE: Starting at 08:57pm UTC the planet health of *Omicron* and *Zagon Prime* begins to switch between two values periodically. This ends at 10:44am UTC on 5th Nov. (2025-11-03 20:57  UTC)<br/>
+NOTE: Starting at 08:57pm UTC the planet health of *Omicron* and *Zagon Prime* begins to switch between two values periodically. This ends at 10:44am UTC on 5th Nov. They end with a value of a 3m and 2m respectively (2025-11-03 20:57  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoilless Rifle Stratagem has ended. (2025-11-03 23:36  UTC)<br/>
 *Oshaune* is liberated (2025-11-04 01:03  UTC)<br/>
 Assault Division: Rupture Strain U3F is routed from Oshaune (2025-11-04 01:03  UTC)<br/>
@@ -13379,6 +13379,8 @@ DSS effect Heavy Ordnance Distribution is activated (2025-12-03 07:57  UTC)<br/>
 DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-03 12:19  UTC)<br/>
 Strategic Opportunity | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is failed | Objective: Liberate (2025-12-03 12:19  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. The Hellidvers have failed to liberate PHERKAD SECUNDUS. No trace of the dissidents was found; still they elude Justice, hiding amongst the Terminids with whom they no doubt sympathize. (2025-12-03 12:22  UTC)<br/>
+ Decay: 1.5 on East Iridium Trading Bay
+ (2025-12-03 14:00  UTC)<br/>
 DSS deploys to *Inari* of the Korpus sector (2025-12-03 15:05  UTC)<br/>
 *Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Terminids (2025-12-03 15:29  UTC)<br/>
 *Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2025-12-03 15:29  UTC)<br/>
@@ -13388,6 +13390,8 @@ DSS deploys to *Inari* of the Korpus sector (2025-12-03 15:05  UTC)<br/>
 ↳ *Ursica XI* liberation campaign starts (2025-12-03 16:55  UTC)<br/>
 ↳ Korpus sector is fully under Human control (2025-12-03 16:55  UTC)<br/>
 DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-03 16:55  UTC)<br/>
+ Decay: 1.0 on Shete
+ (2025-12-03 16:55  UTC)<br/>
 Major Order | [A2-11-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-7) Liberate *Afoyay Bay* and Gain Ground is won | Objective: Conquest/Liberate (2025-12-03 17:27  UTC)<br/>
  Region Decay: 0.2 on Ursica XI's NEW KATHMANDU region<br/> Region Decay: 0.4 on Ursica XI's PO'S RAVENNA region
  (2025-12-03 17:27  UTC)<br/>
@@ -13396,3 +13400,73 @@ Dispatch: MAJOR ORDER WON. The first battle in the War on Dissidence has ended i
 ↳ *Gatria* liberation campaign starts (2025-12-03 22:07  UTC)<br/>
 *Gatria* Region 1 Ersatz City is besieged by Humans (2025-12-03 22:07  UTC)<br/>
 DSS deploys to *Borea* of the Sagan sector (2025-12-03 22:07  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2025-12-04 00:00  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2025-12-04 00:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
+
+### Day: #666
+*Mox* is now identified in the Trigon sector (2025-12-04 09:04  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is established as a Center for the Confinement of Dissidence (CECOD) POI (2025-12-04 09:12  UTC)<br/>
+*Fury* is now identified in the Xzar sector (2025-12-04 10:04  UTC)<br/>
+*Fury* coordinates are X -0.729 Y 0.172 (2025-12-04 10:04  UTC)<br/>
+*Fury* of the Xzar sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+*Fury* - *Ustotu* warp link is added (2025-12-04 10:04  UTC)<br/>
+*Fury* - *Mort* warp link is added (2025-12-04 10:04  UTC)<br/>
+*Fury* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
+*Fury*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+*Fury* of the Xzar sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+*K* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
+*K* coordinates are X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
+*K* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+*K* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
+*K* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
+*K*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+*K*  of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+*Mox* coordinates are X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
+*Mox* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+*Mox* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
+*Mox* - *Vega Bay* warp link is added (2025-12-04 10:04  UTC)<br/>
+*Mox*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+*Mox* of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+*Fury* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
+*Mox* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
+*K* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
+*Fury* is classified as a High Priority Campaign (2025-12-04 10:06  UTC)<br/>
+*Mox* is classified as a High Priority Campaign (2025-12-04 10:06  UTC)<br/>
+*K* is classified as a High Priority Campaign (2025-12-04 10:06  UTC)<br/>
+*Mox* liberation campaign ends (2025-12-04 10:07  UTC)<br/>
+*K* liberation campaign ends (2025-12-04 10:07  UTC)<br/>
+Major Order | [A2-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-2) Liberate 3 Magma Worlds is issued | Objective: Liberate (2025-12-04 10:10  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Helldiver operations have led to the discovery of Automaton operations on multiple Magma planets, previously outside of operational surveillance. These planets have been added to the Galactic Map. The Helldivers are ordered to deploy to these planets immediately. BICEP, ADRENAL 8, and TERRENE are the initial targets. Seize the Automaton industrial facilities so they may be turned towards Democratic Prosperity. (2025-12-04 10:10  UTC)<br/>
+NOTE: At 10:34am the dispatch and briefing were fixed to correctly reflect that the objective was *Fury*, *K*, and *Mox* respectively (2025-12-04 10:34  UTC)<br/>
+ Decay: -0.5 on Fury, K, Mox
+ (2025-12-04 10:34  UTC)<br/>
+ Decay: 0.0 on Fury, K, Mox
+ (2025-12-04 14:00  UTC)<br/>
+DSS deploys to *Fury* of the Xzar sector (2025-12-04 15:05  UTC)<br/>
+ Decay: 2.0 on Fury, K, Mox
+ (2025-12-04 15:05  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-12-04 17:40  UTC)<br/>
+
+### Day: #667
+ Decay: 1.0 on K, Mox
+ (2025-12-05 14:00  UTC)<br/>
+ Decay: 2.0 on K, Mox
+ (2025-12-05 16:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-12-05 17:42  UTC)<br/>
+
+### Day: #668
+*Fury* is liberated (2025-12-06 09:34  UTC)<br/>
+↳ Xzar sector is fully under Human control (2025-12-06 09:34  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2025-12-06 09:34  UTC)<br/>
+*Varylia 5* Region 0 Sequim City has fallen to Humans (2025-12-07 01:15  UTC)<br/>
+
+### Day: #669
+*Varylia 5* is liberated (2025-12-07 17:18  UTC)<br/>
+↳ *Wezen* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
+↳ *K* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
+↳ *Mox* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2025-12-07 17:18  UTC)<br/>
+DSS deploys to *K* of the Trigon sector (2025-12-07 23:08  UTC)<br/>
