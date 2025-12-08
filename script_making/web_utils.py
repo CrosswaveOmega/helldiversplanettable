@@ -42,7 +42,7 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
                 outv={}
                 for e,p in enumerate(response_json):
                     if p is not None:
-                        print(p)
+                        #print(p)
                         outv[p['index']]=p
                     else:
                         logger.warning(f"responce {e} is None!")
