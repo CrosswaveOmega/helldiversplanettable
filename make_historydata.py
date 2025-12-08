@@ -308,7 +308,7 @@ async def format_event_obj() -> None:
                 "event": False,
                 "biome": "moor_baseplanet"
             }
-            extraplanets[event.planet['sector']].append(addme)
+            extraplanets[planetv['sector']].append(addme)
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
             if last_time.replace(tzinfo=timezone.utc) >= datetime.now(timezone.utc):
