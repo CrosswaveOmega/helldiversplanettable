@@ -39,7 +39,14 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
             async with session.get(url, params=params) as response:
                 print(response)
                 response_json = await response.json()
-                outv = {p["index"]: p for p in response_json}
+                outv={}
+                for e,p in enumerate(response_json):
+                    if p is not None:
+                        print(outv)
+                        outv[p['index']]=p
+                    else:
+                        logger.warning(f"responce {e} is None!")
+                #outv = {p["index"]: p for p in response_json if p is not None}
                 delta = datetime.now() - now
                 logger.info(f"That took about {str(delta)}")
                 return outv
