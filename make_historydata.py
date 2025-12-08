@@ -910,7 +910,7 @@ def update_planet_ownership(
 
         if event.type == "planet move":
             # Move to a new position.
-            pattern = r"X (\d+\.\d+) Y (\d+\.\d+)"
+            pattern = r"X (-?\d+\.\d+) Y (-?\d+\.\d+)"
             coordinates = re.findall(pattern, event.text)
             if coordinates:
                 x, y = coordinates[0]
