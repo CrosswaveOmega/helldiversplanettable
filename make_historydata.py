@@ -1,6 +1,7 @@
 import json
 import re
 from typing import Any, Dict, List, Optional, Tuple
+from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 import os
 import asyncio
@@ -88,6 +89,8 @@ CLUSTER_SIZE = 2048
 vjson = load_and_merge_json_files("planets", "./hd2json")
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
 ejson = MyEffects(**check_and_load_json("./myeffects.json"))
+
+extraplanets=defaultdict(list)
 
 is_redirected = not sys.stdout.isatty()
 if is_redirected:
@@ -273,6 +276,7 @@ async def format_event_obj() -> None:
     for event in days_out.events_all:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
+        
         event.type, match = get_event_type(text, event_types)
         event.region = get_region(allregions, text)
 
@@ -285,7 +289,23 @@ async def format_event_obj() -> None:
             event.region,
             event.type,
         )
-
+        
+        if event.type =="planet added":
+            print(event.planet)
+            addme={
+                "name": event.planet['name'],
+                "position": {
+                    "x": -1,
+                    "y": -1,
+                },
+                "sector": event.planet['sector'],
+                "index": event.planet['index'],
+                "currentOwner": "Humans",
+                "waypoints": [ ],
+                "event": False,
+                "biome": "moor_baseplanet"
+            }
+            extraplanets[event.planet['sector']].append(addme)
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
             if last_time.replace(tzinfo=timezone.utc) >= datetime.now(timezone.utc):
@@ -322,6 +342,7 @@ async def format_event_obj() -> None:
                 march_5th,
                 lastregionstats,
             )
+
         if event.type == "warhistoryapilaunch":
             monitoring = True
             march_5th = datetime.fromtimestamp(event.timestamp, tz=timezone.utc)
@@ -609,7 +630,7 @@ def DECODE(number):
 
 def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str, Any]]]:
     """Open the planet data inside gen_data/sectorplanets.json,
-    and create the inital galaxy state object."""
+    and create the inital galaxy s tate object."""
     planets: Dict[str, Dict[str, Any]] = {}
 
     if not os.path.exists("./src/data/gen_data/sectorplanets.json"):
@@ -618,6 +639,9 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
         )
 
     sectors = check_and_load_json("./src/data/gen_data/sectorplanets.json")
+    for sector, listv in extraplanets.items():
+        for p in listv:
+            sectors[sector].append(p)
     temp = {}
     for _, pls in sectors.items():
         for p in pls:
@@ -913,6 +937,7 @@ def update_planet_ownership(
                 event.text, vjson["biomes"]
             )
             planetclone[str(ind)].biome = slug
+
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
 
