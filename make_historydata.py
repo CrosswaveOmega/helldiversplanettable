@@ -992,12 +992,14 @@ def handle_decay_events(decay):
     if decay:
         decay_for_planets = {}
         for ind, o, p in decay:
+            print(str(ind))
             planet = vjson["planets"].get(str(ind))
-            planet["owner"] = o
-            if p not in decay_for_planets:
-                decay_for_planets[p] = []
             if planet:
-                decay_for_planets[p].append(planet)
+                planet["owner"] = o
+                if p not in decay_for_planets:
+                    decay_for_planets[p] = []
+                if planet:
+                    decay_for_planets[p].append(planet)
 
         for decay, planets in decay_for_planets.items():
             usenames = derive_decay_names(planets, vjson)
