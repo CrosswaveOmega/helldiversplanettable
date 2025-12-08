@@ -101,6 +101,11 @@
         "name": "planet move",
         "matchable": ["moves to"]
     },
+    "PlanetAppearEvent": {
+        "name": "planet added",
+        "matchable": ["is now identified"]
+    },
+    
     "FullLibEvent": {
         "name": "full_lib",
         "matchable": ["fully liberated"]
