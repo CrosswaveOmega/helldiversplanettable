@@ -292,14 +292,17 @@ async def format_event_obj() -> None:
         
         if event.type =="planet added":
             print(event.planet)
+            name,id=event.planet[0]
+            planetv=planets_Dict[id]
+
             addme={
-                "name": event.planet['name'],
+                "name": planetv['name'],
                 "position": {
                     "x": -1,
                     "y": -1,
                 },
-                "sector": event.planet['sector'],
-                "index": event.planet['index'],
+                "sector": planetv['sector'],
+                "index": planetv['index'],
                 "currentOwner": "Humans",
                 "waypoints": [ ],
                 "event": False,

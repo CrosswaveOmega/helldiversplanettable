@@ -42,10 +42,11 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
                 outv={}
                 for e,p in enumerate(response_json):
                     if p is not None:
-                        print(outv)
+                        print(p)
                         outv[p['index']]=p
                     else:
                         logger.warning(f"responce {e} is None!")
+                        print(f"responce {e} is None!")
                 #outv = {p["index"]: p for p in response_json if p is not None}
                 delta = datetime.now() - now
                 logger.info(f"That took about {str(delta)}")
