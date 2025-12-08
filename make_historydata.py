@@ -302,7 +302,7 @@ async def format_event_obj() -> None:
                     "y": -1,
                 },
                 "sector": planetv['sector'],
-                "index": planetv['index'],
+                "index": id,
                 "currentOwner": "Humans",
                 "waypoints": [ ],
                 "event": False,
