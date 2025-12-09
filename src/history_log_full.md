@@ -675,7 +675,7 @@ Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids containe
 *Cyberstan* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 *Aurora Bay* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
 *Merak* of the Valdis sector instantly flips to Automaton control (2024-04-09 11:41  UTC)<br/>
-Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
+↳ Valdis sector is fully under Automaton control (2024-04-09 11:41  UTC)<br/>
 *Chort Bay* - *Merak* warp link is removed (2024-04-09 11:42  UTC)<br/>
 *Chort Bay* - *Menkent* warp link is added (2024-04-09 11:42  UTC)<br/>
 *Choohe* of the Lacaille sector is attacked by Lvl N/A Automatons (2024-04-09 11:42  UTC)<br/>
@@ -13407,29 +13407,29 @@ DSS deploys to *Borea* of the Sagan sector (2025-12-03 22:07  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 
 ### Day: #666
-*Mox* is now identified in the Trigon sector (2025-12-04 09:04  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is established as a Center for the Confinement of Dissidence (CECOD) POI (2025-12-04 09:12  UTC)<br/>
 *Fury* is now identified in the Xzar sector (2025-12-04 10:04  UTC)<br/>
-*Fury*  moves to X -0.729 Y 0.172 (2025-12-04 10:04  UTC)<br/>
-*Fury* of the Xzar sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
-*Fury* - *Ustotu* warp link is added (2025-12-04 10:04  UTC)<br/>
-*Fury* - *Mort* warp link is added (2025-12-04 10:04  UTC)<br/>
-*Fury* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
-*Fury*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
-*Fury* of the Xzar sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* moves to X -0.729 Y 0.172 (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* of the Xzar sector's biome is set to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* - *Ustotu* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* - *Mort* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *Fury*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* of the Xzar sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
 *K* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
-*K*  moves to X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
-*K* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
-*K* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
-*K* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
-*K*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
-*K*  of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
-*Mox*  moves to X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
-*Mox* of the Trigon sector's biome is changed from Magma [Magma] to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
-*Mox* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
-*Mox* - *Vega Bay* warp link is added (2025-12-04 10:04  UTC)<br/>
-*Mox*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
-*Mox* of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *K* moves to X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
+↳ *K* of the Trigon sector's biome is set to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+↳ *K* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *K* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *K*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+↳ *K*  of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+*Mox* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* moves to X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* of the Trigon sector's biome is set to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* - *Vega Bay* warp link is added (2025-12-04 10:04  UTC)<br/>
+↳ *Mox*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
 *Fury* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
 *Mox* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
 *K* liberation campaign starts (2025-12-04 10:06  UTC)<br/>
@@ -13468,7 +13468,50 @@ DSS deploys to *Varylia 5* of the Trigon sector (2025-12-06 09:34  UTC)<br/>
 ↳ *Wezen* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
 ↳ *K* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
 ↳ *Mox* liberation campaign starts (2025-12-07 17:18  UTC)<br/>
+*K* is classified as a High Priority Campaign (2025-12-07 17:18  UTC)<br/>
+*Mox* is classified as a High Priority Campaign (2025-12-07 17:18  UTC)<br/>
 DSS deploys to *Choepessa IV* of the Trigon sector (2025-12-07 17:18  UTC)<br/>
 DSS deploys to *K* of the Trigon sector (2025-12-07 23:08  UTC)<br/>
 
 # Day: #670
+
+# Day: #670
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on MERAK. (2025-12-08 11:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Merak* (2025-12-08 11:00  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on AURORA BAY. (2025-12-08 11:01  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Aurora Bay* (2025-12-08 11:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Merak* (2025-12-08 11:59  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Aurora Bay* (2025-12-08 11:59  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Penta* (2025-12-08 12:01  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Choohe* (2025-12-08 12:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Penta* (2025-12-08 13:00  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Choohe* (2025-12-08 13:00  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Matar Bay* (2025-12-08 13:01  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Matar Bay* (2025-12-08 13:59  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Lesath* (2025-12-08 14:00  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Meissa* (2025-12-08 14:01  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Vernen Wells* (2025-12-08 14:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Vernen Wells* (2025-12-08 14:59  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Meissa* (2025-12-08 15:00  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Wasat* (2025-12-08 15:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Aesir Pass* (2025-12-08 15:01  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Wasat* (2025-12-08 15:59  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Aesir Pass* (2025-12-08 16:00  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Vega Bay* (2025-12-08 16:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Marfark* (2025-12-08 16:01  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Vega Bay* (2025-12-08 16:59  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Marfark* (2025-12-08 17:00  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Mox* (2025-12-08 17:01  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Martale* (2025-12-08 17:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Martale* (2025-12-08 18:00  UTC)<br/>
+ Decay: 4.0 on Mox
+ (2025-12-08 18:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Charon Prime* (2025-12-08 18:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Charon Prime* (2025-12-08 19:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *Choepessa IV* (2025-12-08 19:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *Choepessa IV* (2025-12-08 20:00  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *K* (2025-12-08 20:03  UTC)<br/>
+ Decay: 4.0 on K
+ (2025-12-08 22:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-12-09 00:08  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Eagle Napalm Airstrike Stratagem for the next 96 hours. (2025-12-09 12:57  UTC)<br/>
