@@ -941,6 +941,12 @@ def update_planet_ownership(
             )
             planetclone[str(ind)].biome = slug
 
+        if event.type == "Biome Set":
+            _, _, _, _, _, _, slug = extract_biome_change_details(
+                event.text, vjson["biomes"]
+            )
+            planetclone[str(ind)].biome = slug
+
         if event.type == "Black Hole":
             planetclone[str(ind)].biome = "blackhole"
 

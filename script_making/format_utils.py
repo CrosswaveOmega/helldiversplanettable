@@ -288,6 +288,38 @@ def extract_biome_change_details(
     else:
         return None
 
+def extract_biome_set_details(
+    text: str,
+    biomes: Dict[str, Any],
+) -> Optional[Tuple[str, str,  str, str, str]]:
+    """
+    Extracts biome change details from a text.
+
+    Args:
+        text (str): The input text containing biome change details.
+
+    Returns:
+        Optional[Tuple[str, str, str, str, str, str,str]]: Returns a tuple containing
+        planet name, sector name, original biome, original type, new biome, new type, and slug if matched, else None.
+    """
+
+    pattern = r"(?P<planet>.*?) of the (?P<sector>.*?) sector's biome is set to (?P<new_biome>.*?) \[(?P<new_type>.*?)\]"
+    match = re.match(pattern, text)
+    if match:
+        planet = match.group("planet").strip()
+        sector = match.group("sector").strip()
+        new_biome = match.group("new_biome").strip()
+        new_type = match.group("new_type").strip()
+        slug = "moor_baseplanet"
+        for i, v in biomes.items():
+            if new_biome in v["name"] and new_type in v["name"]:
+                slug = i
+
+        return planet, sector, new_biome, new_type, slug
+    else:
+        return None
+
+
 
 def sort_event_type(
     event: GameEvent,

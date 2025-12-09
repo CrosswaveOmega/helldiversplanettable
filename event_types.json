@@ -105,7 +105,7 @@
         "name": "planet added",
         "matchable": ["is now identified"]
     },
-    
+
     "FullLibEvent": {
         "name": "full_lib",
         "matchable": ["fully liberated"]
@@ -133,6 +133,10 @@
     },
     "biome_change": {
         "name": "Biome Change",
+        "matchable": ["biome is changed"]
+    },
+    "biome_add": {
+        "name": "Biome Set",
         "matchable": ["biome is changed"]
     },
     "Effect": {
