@@ -11501,8 +11501,10 @@ Dispatch: STRATEGIC TIMELINE ACCELERATED. In order to maintain operational momen
 Major Order | [A2-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-1) Operation Righteous Reclamation Phase Two is issued | Objective: Control/Samples (2025-09-02 11:51  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Operation Righteous Reclamation has entered its second stage. Outpost Alpha enables the Helldivers' spore-resistant Super Destroyers to access the Hive World OSHAUNE. The Helldivers are ordered to conduct initial reconnaissance of the Hive World and secure research samples from it. Understanding this unique biome is key to annihilating it for good. While operations on HELLMIRE are ongoing, Outpost Alpha must not be lost. (2025-09-02 11:53  UTC)<br/>
 Dispatch: GLOOM INTERFERENCE. Due to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE. Extraction times on this planet have increased by 50s. (2025-09-02 12:20  UTC)<br/>
+Terminid Brood debuts a new Assault Division: Dragonroaches (2025-09-02 13:11  UTC)<br/>
 Assault Division: Dragonroaches U1A deploys to *Oshaune* (2025-09-02 13:11  UTC)<br/>
 Assault Division: Dragonroaches U1A leaves *Oshaune* (2025-09-02 14:10  UTC)<br/>
+Terminid Brood debuts a new Assault Division: Hive Lords (2025-09-02 14:10  UTC)<br/>
 Assault Division: Hive Lords U1A deploys to *Oshaune* (2025-09-02 14:12  UTC)<br/>
 Assault Division: Hive Lords U1A leaves *Oshaune* (2025-09-02 15:10  UTC)<br/>
 Assault Division: Rupture Strain U1B leaves *Nivel 43* (2025-09-02 15:23  UTC)<br/>
@@ -13474,8 +13476,6 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2025-12-07 17:18  UTC)<br/>
 DSS deploys to *K* of the Trigon sector (2025-12-07 23:08  UTC)<br/>
 
 # Day: #670
-
-# Day: #670
 Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on MERAK. (2025-12-08 11:00  UTC)<br/>
 Assault Division: Incineration Corps U7A deploys to *Merak* (2025-12-08 11:00  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on AURORA BAY. (2025-12-08 11:01  UTC)<br/>
@@ -13514,4 +13514,12 @@ Assault Division: Incineration Corps U7A deploys to *K* (2025-12-08 20:03  UTC)<
  Decay: 4.0 on K
  (2025-12-08 22:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-12-09 00:08  UTC)<br/>
+
+### Day: #671
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Eagle Napalm Airstrike Stratagem for the next 96 hours. (2025-12-09 12:57  UTC)<br/>
+Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 24 hours. (2025-12-09 21:17  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-12-10 00:09  UTC)<br/>
+
+### Day: #672
+*Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-12-10 09:38  UTC)<br/>
+Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World *Oshaune*, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (2025-12-10 10:01  UTC)<br/>
