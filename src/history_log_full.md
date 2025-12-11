@@ -13523,3 +13523,9 @@ DSS effect Orbital Blockade stops (2025-12-10 00:09  UTC)<br/>
 ### Day: #672
 *Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-12-10 09:38  UTC)<br/>
 Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World *Oshaune*, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (2025-12-10 10:01  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *K* (2025-12-10 21:00  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Mox* (2025-12-10 21:00  UTC)<br/>
+
+### Day: #673
+Major Order | [A2-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-2) Liberate 3 Magma Worlds is failed | Objective: Liberate (2025-12-11 10:14  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (2025-12-11 10:16  UTC)<br/>
