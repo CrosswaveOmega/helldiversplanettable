@@ -13523,9 +13523,21 @@ DSS effect Orbital Blockade stops (2025-12-10 00:09  UTC)<br/>
 ### Day: #672
 *Crimsica* Region 0 Lil'Ome Settlement has fallen to Humans (2025-12-10 09:38  UTC)<br/>
 Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World *Oshaune*, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (2025-12-10 10:01  UTC)<br/>
-Assault Division: Incineration Corps U7A leaves *K* (2025-12-10 21:00  UTC)<br/>
-Assault Division: Incineration Corps U7B leaves *Mox* (2025-12-10 21:00  UTC)<br/>
+Assault Division: Incineration Corps U7A leaves *K* (2025-12-11 03:05  UTC)<br/>
 
 ### Day: #673
 Major Order | [A2-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-2) Liberate 3 Magma Worlds is failed | Objective: Liberate (2025-12-11 10:14  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (2025-12-11 10:16  UTC)<br/>
+Major Order | [A2-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-3) Hold *Afoyay Bay* and 3 Magma Worlds is issued | Objective: Control (2025-12-11 12:16  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. High Command has initiated Operation Free Space by ordering construction of Pandora Base on *Afoyay Bay*. This top-secret foundry will develop next-generation Galactic defense technologies central to Operation Free Space. Hold *Afoyay Bay* to secure the endeavor and its workforce, supplied by the Center for the Confinement of Dissidence, and liberate and hold Magma Planets, to stabilize essential supply lines. (2025-12-11 12:16  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Lvl 28 Automatons (2025-12-11 15:07  UTC)<br/>
+*Varylia 5* Region 0 Sequim City is besieged by Humans (2025-12-11 15:07  UTC)<br/>
+Assault Division: Incineration Corps U7A deploys to *K* (2025-12-11 15:07  UTC)<br/>
+*New Stockholm* of the Hanzo sector is attacked by Lvl 14 Illuminate (2025-12-11 16:21  UTC)<br/>
+ Decay: 0.0 on Varylia 5<br/> Decay: 2.0 on K
+ (2025-12-11 16:21  UTC)<br/>
+ Region Decay: 0.4 on Varylia 5's SEQUIM region
+ (2025-12-11 16:21  UTC)<br/>
+ Decay: 0.0 on New Stockholm
+ (2025-12-11 18:00  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-12-12 06:03  UTC)<br/>
