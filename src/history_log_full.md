@@ -13541,3 +13541,61 @@ Assault Division: Incineration Corps U7A deploys to *K* (2025-12-11 15:07  UTC)<
  Decay: 0.0 on New Stockholm
  (2025-12-11 18:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-12-12 06:03  UTC)<br/>
+
+### Day: #674
+↳ *Iro* liberation campaign ends (2025-12-12 16:21  UTC)<br/>
+*New Stockholm* defense is failed (2025-12-12 16:22  UTC)<br/>
+↳ *New Stockholm* liberation campaign starts (2025-12-12 16:22  UTC)<br/>
+*K* is liberated (2025-12-12 18:31  UTC)<br/>
+↳ *Varylia 5* defense is auto-won via gambit (2025-12-12 18:31  UTC)<br/>
+DSS deploys to *Mox* of the Trigon sector (2025-12-12 18:31  UTC)<br/>
+ Decay: 1.0 on New Stockholm
+ (2025-12-12 18:31  UTC)<br/>
+ Decay: 1.5 on Varylia 5
+ (2025-12-12 20:00  UTC)<br/>
+Assault Division: Hive Lords U3A deploys to *Omicron* (2025-12-12 21:40  UTC)<br/>
+Assault Division: Dragonroaches U2A deploys to *Omicron* (2025-12-12 21:40  UTC)<br/>
+Assault Division: Rupture Strain U5A deploys to *Bore Rock* (2025-12-12 21:41  UTC)<br/>
+Assault Division: Dragonroaches U2B deploys to *Esker* (2025-12-12 21:43  UTC)<br/>
+*Omicron* is no longer unobservable (2025-12-12 21:46  UTC)<br/>
+*Omicron* liberation campaign starts (2025-12-12 21:47  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Matar Bay* (2025-12-13 00:13  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Martale* (2025-12-13 00:15  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Martale* (2025-12-13 01:13  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Charon Prime* (2025-12-13 01:15  UTC)<br/>
+DSS effect Eagle Storm stops (2025-12-13 06:03  UTC)<br/>
+
+### Day: #675
+DSS effect Heavy Ordnance Distribution is activated (2025-12-13 12:29  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Eagle Napalm Airstrike Stratagem availability has now ended. (2025-12-13 13:04  UTC)<br/>
+The Second Galactic War is paused (2025-12-13 19:15  UTC)<br/>
+NOTE: This is the fifth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, defense timers, etc are static and no longer actively progressing. Later the same day at 08:14pm, the war begins again. The incident lasted 59 minutes (2025-12-13 19:15  UTC)<br/>
+The Second Galactic War is no longer paused (2025-12-13 20:14  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Mox* (2025-12-13 20:14  UTC)<br/>
+Assault Division: Dragonroaches U2B leaves *Esker* (2025-12-13 20:14  UTC)<br/>
+Assault Division: Rupture Strain U5A leaves *Bore Rock* (2025-12-13 20:14  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2025-12-13 20:14  UTC)<br/>
+Assault Division: Rupture Strain U5A deploys to *Terrek* (2025-12-13 20:14  UTC)<br/>
+Assault Division: Dragonroaches U2B deploys to *Bore Rock* (2025-12-13 20:14  UTC)<br/>
+Assault Division: Predator Strain U8A deploys to *Bore Rock* (2025-12-13 20:14  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Vega Bay* (2025-12-13 20:14  UTC)<br/>
+ Decay: 3.0 on Mox
+ (2025-12-13 20:14  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Vega Bay* (2025-12-13 21:13  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Wasat* (2025-12-13 21:13  UTC)<br/>
+ Decay: 0.0 on Terrek<br/> Decay: 2.0 on Mox
+ (2025-12-13 21:13  UTC)<br/>
+Dispatch: NEW HIVE WORLD. Gloom outflow analysis from *Oshaune* has identified another Terminid Hive World. Hive Worlds are nests of Tyranny, producers of Gloom spores, and of valuable E-711. In order to protect our citizens from the threat of the Gloom, and ensure the uninterrupted extraction of E-711, High Command has authorized Helldiver operations on *Omicron*, effective immediately. (2025-12-13 21:55  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Wasat* (2025-12-13 22:13  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Meissa* (2025-12-13 22:13  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Meissa* (2025-12-13 23:14  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Matar Bay* (2025-12-13 23:15  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Charon Prime* (2025-12-14 02:13  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-12-14 02:15  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Charbal-VII* (2025-12-14 02:15  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Charbal-VII* (2025-12-14 03:13  UTC)<br/>
+ Decay: 0.0 on Charbal-VII
+ (2025-12-14 03:13  UTC)<br/>
+
+### Day: #676
+Assault Division: Incineration Corps U7B deploys to *Charbal-VII* (2025-12-14 10:34  UTC)<br/>
