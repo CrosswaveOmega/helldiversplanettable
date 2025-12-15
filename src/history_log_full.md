@@ -13591,7 +13591,7 @@ Assault Division: Incineration Corps U7B deploys to *Meissa* (2025-12-13 22:13  
 Assault Division: Incineration Corps U7B leaves *Meissa* (2025-12-13 23:14  UTC)<br/>
 Assault Division: Incineration Corps U7B deploys to *Matar Bay* (2025-12-13 23:15  UTC)<br/>
 Assault Division: Incineration Corps U7B leaves *Charon Prime* (2025-12-14 02:13  UTC)<br/>
-*Charbal-VII* of the Andromeda sector is attacked by Automatons (2025-12-14 02:15  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Lvl 14 Automatons (2025-12-14 02:15  UTC)<br/>
 Assault Division: Incineration Corps U7B deploys to *Charbal-VII* (2025-12-14 02:15  UTC)<br/>
 Assault Division: Incineration Corps U7B leaves *Charbal-VII* (2025-12-14 03:13  UTC)<br/>
  Decay: 0.0 on Charbal-VII
@@ -13599,3 +13599,26 @@ Assault Division: Incineration Corps U7B leaves *Charbal-VII* (2025-12-14 03:13 
 
 ### Day: #676
 Assault Division: Incineration Corps U7B deploys to *Charbal-VII* (2025-12-14 10:34  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-12-14 12:30  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 29 Terminids (2025-12-14 15:39  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town is besieged by Humans (2025-12-14 15:39  UTC)<br/>
+Assault Division: Dragonroaches U2C deploys to *Erata Prime* (2025-12-14 15:39  UTC)<br/>
+Assault Division: Dragonroaches U2B divides into 2 groups [U2B, U2C] (2025-12-14 15:40  UTC)<br/>
+Assault Division: Dragonroaches U2B leaves *Bore Rock* (2025-12-14 15:40  UTC)<br/>
+Assault Division: Dragonroaches U2B merges with Dragonroaches U2C on *Erata Prime* (2025-12-14 15:40  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2025-12-14 16:00  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2025-12-14 16:00  UTC)<br/>
+*Terrek* defense is failed (2025-12-14 19:36  UTC)<br/>
+↳ *Terrek* liberation campaign starts (2025-12-14 19:36  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2025-12-14 20:00  UTC)<br/>
+*Charbal-VII* defense is failed (2025-12-15 02:15  UTC)<br/>
+↳ *Charbal-VII* liberation campaign starts (2025-12-15 02:15  UTC)<br/>
+↳ Andromeda sector is fully under Automaton control (2025-12-15 02:15  UTC)<br/>
+ Decay: 0.5 on Charbal-VII
+ (2025-12-15 04:00  UTC)<br/>
+
+### Day: #677
+*Erata Prime* Region 1 Pham's Site Settlement is besieged by Humans (2025-12-15 13:19  UTC)<br/>
