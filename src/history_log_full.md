@@ -13622,3 +13622,17 @@ Assault Division: Dragonroaches U2B merges with Dragonroaches U2C on *Erata Prim
 
 ### Day: #677
 *Erata Prime* Region 1 Pham's Site Settlement is besieged by Humans (2025-12-15 13:19  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2025-12-15 15:45  UTC)<br/>
+*Erata Prime* Region 0 New Da Nang Town has fallen to Humans (2025-12-15 16:38  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Lvl 14 Terminids (2025-12-15 19:59  UTC)<br/>
+Assault Division: Rupture Strain U5A leaves *Terrek* (2025-12-15 19:59  UTC)<br/>
+Assault Division: Rupture Strain U5A deploys to *Cirrus* (2025-12-15 19:59  UTC)<br/>
+Assault Division: Predator Strain U8A leaves *Bore Rock* (2025-12-15 19:59  UTC)<br/>
+Assault Division: Predator Strain U8A deploys to *Terrek* (2025-12-15 19:59  UTC)<br/>
+ Decay: 0.0 on Cirrus
+ (2025-12-15 22:00  UTC)<br/>
+*Erata Prime* Region 1 Pham's Site Settlement has fallen to Humans (2025-12-16 05:13  UTC)<br/>
+
+### Day: #678
+*Erata Prime* defense is won (2025-12-16 14:27  UTC)<br/>
+Assault Division: Dragonroaches U2C is routed from Erata Prime (2025-12-16 14:27  UTC)<br/>
