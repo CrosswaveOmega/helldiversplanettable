@@ -13636,3 +13636,21 @@ Assault Division: Predator Strain U8A deploys to *Terrek* (2025-12-15 19:59  UTC
 ### Day: #678
 *Erata Prime* defense is won (2025-12-16 14:27  UTC)<br/>
 Assault Division: Dragonroaches U2C is routed from Erata Prime (2025-12-16 14:27  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2025-12-16 16:00  UTC)<br/>
+*Cirrus* defense is failed (2025-12-16 20:00  UTC)<br/>
+↳ *Cirrus* liberation campaign starts (2025-12-16 20:00  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Lvl 21 Terminids (2025-12-16 20:03  UTC)<br/>
+Assault Division: Rupture Strain U5A leaves *Cirrus* (2025-12-16 20:03  UTC)<br/>
+Assault Division: Predator Strain U8A leaves *Terrek* (2025-12-16 20:03  UTC)<br/>
+Assault Division: Rupture Strain U5A deploys to *Heeth* (2025-12-16 20:04  UTC)<br/>
+Assault Division: Predator Strain U8A deploys to *Cirrus* (2025-12-16 20:04  UTC)<br/>
+Assault Division: Incineration Corps U7B leaves *Charbal-VII* (2025-12-16 20:06  UTC)<br/>
+*Julheim* of the Nanos sector is attacked by Lvl 31 Automatons (2025-12-16 20:07  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity is besieged by Humans (2025-12-16 20:07  UTC)<br/>
+Assault Division: Incineration Corps U7B deploys to *Julheim* (2025-12-16 20:07  UTC)<br/>
+ Region Decay: 0.6 on Julheim's FROSTOWN region
+ (2025-12-16 22:00  UTC)<br/>
+ Region Decay: 0.6 on Julheim's FROSTOWN region
+ (2025-12-16 22:00  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-12-16 23:56  UTC)<br/>
