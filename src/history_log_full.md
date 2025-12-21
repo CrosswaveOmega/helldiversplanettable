@@ -13654,3 +13654,53 @@ Assault Division: Incineration Corps U7B deploys to *Julheim* (2025-12-16 20:07 
  Region Decay: 0.6 on Julheim's FROSTOWN region
  (2025-12-16 22:00  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-12-16 23:56  UTC)<br/>
+*Mox* is liberated (2025-12-17 07:41  UTC)<br/>
+↳ *Vega Bay* liberation campaign starts (2025-12-17 07:41  UTC)<br/>
+*Vega Bay* Region 1 Giri Town is besieged by Humans (2025-12-17 07:41  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-12-17 07:42  UTC)<br/>
+
+### Day: #679
+ Region Decay: 0.1 on Vega Bay's ONSEN region<br/> Region Decay: 0.2 on Vega Bay's GIRI region<br/> Region Decay: 0.2 on Vega Bay's SAPPORO region
+ (2025-12-17 09:00  UTC)<br/>
+*Heeth* defense is failed (2025-12-17 20:04  UTC)<br/>
+↳ *Heeth* liberation campaign starts (2025-12-17 20:04  UTC)<br/>
+ Decay: 2.0 on Heeth
+ (2025-12-17 22:00  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-12-17 23:14  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-12-17 23:57  UTC)<br/>
+
+# Day: #680
+*Heeth* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
+*Marfark* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
+*New Stockholm* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
+
+# Day: #680
+Dispatch: NEW STRATEGIC OPPORTUNITY. A portion of this year's Reckoning Fund has been allocated for Experimental Stratagem Testing. Three enemy-held planets have been specially chosen for weapons testing: MARFARK, NEW STOCKHOLM, and HEETH. On these planets, the ORBITAL 120MM HE BARRAGE has been experimentally modified to the Orbital 120MM HE/EMS Barrage. The Helldivers are ordered to reach the targeted kill count on any one of the chosen planets. (2025-12-18 10:00  UTC)<br/>
+Major Order | [A2-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-3) Hold *Afoyay Bay* and 3 Magma Worlds is won | Objective: Control (2025-12-18 12:18  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Construction of Pandora Base has begun. High Command has declassified the ultimate objective of Operation Free Space: the Star of Peace. This glorious upgrade will augment the Democracy Space Station into a beacon capable of projecting Liberty's light across entire planetary systems. Consult the Galactic Map for more information. (2025-12-18 12:20  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2025-12-18 15:15  UTC)<br/>
+*Julheim* defense is failed (2025-12-18 20:08  UTC)<br/>
+↳ *Julheim* liberation campaign starts (2025-12-18 20:08  UTC)<br/>
+Major Order | [A2-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-4) Festival of Reckoning 2025 is issued | Objective: Conquest (2025-12-18 21:59  UTC)<br/>
+Minor Order | [A2-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-5) Kill Enemies on a Recon Campaign is issued | Objective: Eradicate (2025-12-18 21:59  UTC)<br/>
+ Decay: 1.0 on Julheim
+ (2025-12-18 21:59  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2025-12-19 07:15  UTC)<br/>
+
+### Day: #681
+*Terrek* is liberated (2025-12-19 20:19  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2025-12-19 20:19  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To aid in the spread of holiday cheer, all Helldiver deployments will be augmented with the HOVER PACK for the next 48 hours. (2025-12-19 21:59  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have supported the advancement of science and the entertainment of citizens young and old, killing 400,000,000 of the enemy on HEETH. Fun and merriment was had by all viewing the joyous dismemberment and electrocution of Freedom's enemies, delivered by the experimental Orbital 120MM HE/EMS Barrage. (2025-12-20 00:25  UTC)<br/>
+
+### Day: #682
+Dispatch: FESTIVAL OF RECKONING UPDATE. While the Helldivers celebrate away from home, High Command provides the following update of domestic celebrations in the hope of giving them a feeling of being back at home: this year's annual Dissident Execution Parade went off without a hitch. Citizens cheered a record-high of 8,701 executions over the course of 7.5 hours, closed by a rousing rendition of “All I Want for The Festival of Reckoning is Vengeance” by the *Hydrofall Prime* Children's Choir. (2025-12-20 09:59  UTC)<br/>
+Assault Division: Predator Strain U9A deploys to *Esker* (2025-12-20 20:51  UTC)<br/>
+Assault Division: Dragonroaches U3A deploys to *Nivel 43* (2025-12-20 20:52  UTC)<br/>
+Minor Order | [A2-12-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-5) Kill Enemies on a Recon Campaign is won | Objective: Eradicate (2025-12-21 00:23  UTC)<br/>
+*Cirrus* is liberated (2025-12-21 03:58  UTC)<br/>
+DSS deploys to *Duma Tyr* of the Nanos sector (2025-12-21 03:58  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-12-21 04:46  UTC)<br/>
+
+### Day: #683
+Dispatch: ARSENAL AUGMENTATION. To engender a spirit of righteous reckoning, all Helldiver deployments will be augmented with the ORBITAL LASER for the next 24 hours. (2025-12-21 09:59  UTC)<br/>
