@@ -13704,3 +13704,18 @@ DSS effect Eagle Storm is activated (2025-12-21 04:46  UTC)<br/>
 
 ### Day: #683
 Dispatch: ARSENAL AUGMENTATION. To engender a spirit of righteous reckoning, all Helldiver deployments will be augmented with the ORBITAL LASER for the next 24 hours. (2025-12-21 09:59  UTC)<br/>
+*Duma Tyr* is liberated (2025-12-22 00:59  UTC)<br/>
+*Tarsh* decay rate changes to -1.0% per hour (2025-12-22 00:59  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-12-22 00:59  UTC)<br/>
+ Decay: -1.0 on Borea<br/> Decay: 1.5 on Duma Tyr
+ (2025-12-22 02:00  UTC)<br/>
+DSS effect Eagle Storm stops (2025-12-22 04:47  UTC)<br/>
+
+### Day: #684
+*Hort* of the Rigel sector is attacked by Lvl 17 Illuminate (2025-12-22 09:28  UTC)<br/>
+*Hort* Region 0 On-Earsahou City is besieged by Humans (2025-12-22 09:28  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To foster a greater sense of peace among citizens, all Helldiver deployments will be augmented with the HEAVY MACHINE GUN for the next 24 hours. (2025-12-22 10:00  UTC)<br/>
+ Decay: 0.0 on Hort
+ (2025-12-22 10:00  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2025-12-22 10:00  UTC)<br/>
