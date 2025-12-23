@@ -13719,3 +13719,5 @@ Dispatch: ARSENAL AUGMENTATION. To foster a greater sense of peace among citizen
  (2025-12-22 10:00  UTC)<br/>
  Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
  (2025-12-22 10:00  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2025-12-22 15:17  UTC)<br/>
+*Hort* Region 1 Clockstop City is besieged by Humans (2025-12-22 22:13  UTC)<br/>
