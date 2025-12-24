@@ -13721,3 +13721,18 @@ Dispatch: ARSENAL AUGMENTATION. To foster a greater sense of peace among citizen
  (2025-12-22 10:00  UTC)<br/>
 DSS deploys to *Hort* of the Rigel sector (2025-12-22 15:17  UTC)<br/>
 *Hort* Region 1 Clockstop City is besieged by Humans (2025-12-22 22:13  UTC)<br/>
+
+### Day: #685
+Minor Order | [A2-12-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-6) Kill Enemies On A Recon Campaign 2 is issued | Objective: Eradicate (2025-12-23 10:01  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning moves into its second phase, with the official theme of “Gratitude,” our citizens gather to list the gifts of the Federation: Freedom. Managed Choices. Security. It is with this spirit of Gratitude that High Command authorizes the second modified Stratagem for Experimental Testing: the Incendiary Gatling Barrage, available on HEETH, MARFARK, and NEW STOCKHOLM. As before, the Helldivers are encouraged to celebrate the ongoing Festival with unprejudiced enthusiasm, by reaching the targeted kill count on any of the chosen planets. (2025-12-23 10:01  UTC)<br/>
+*Hort* defense is won (2025-12-23 11:29  UTC)<br/>
+DSS deploys to *Julheim* of the Nanos sector (2025-12-23 11:30  UTC)<br/>
+ Decay: 1.5 on Hort
+ (2025-12-23 12:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2025-12-24 07:00  UTC)<br/>
+
+### Day: #686
+*Borea* is liberated (2025-12-24 09:50  UTC)<br/>
+↳ Sagan sector is fully under Human control (2025-12-24 09:50  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. That all may dwell happily in the bonds of citizenship, all Helldiver deployments will be augmented with the DE-ESCALATOR and "GUARD DOG" *K*-9 for the next 48 hours. (2025-12-24 10:01  UTC)<br/>
+*Julheim* Region 0 Frostown Megacity has fallen to Humans (2025-12-24 10:04  UTC)<br/>
