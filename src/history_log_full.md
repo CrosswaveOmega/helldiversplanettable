@@ -13736,3 +13736,8 @@ DSS effect Heavy Ordnance Distribution is activated (2025-12-24 07:00  UTC)<br/>
 ↳ Sagan sector is fully under Human control (2025-12-24 09:50  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. That all may dwell happily in the bonds of citizenship, all Helldiver deployments will be augmented with the DE-ESCALATOR and "GUARD DOG" *K*-9 for the next 48 hours. (2025-12-24 10:01  UTC)<br/>
 *Julheim* Region 0 Frostown Megacity has fallen to Humans (2025-12-24 10:04  UTC)<br/>
+HP reached a checkpoint. (2025-12-24 12:00  UTC)<br/>
+HP reached a checkpoint. (2025-12-24 12:00  UTC)<br/>
+*Julheim* is liberated (2025-12-24 20:47  UTC)<br/>
+↳ Nanos sector is fully under Human control (2025-12-24 20:47  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2025-12-24 20:47  UTC)<br/>
