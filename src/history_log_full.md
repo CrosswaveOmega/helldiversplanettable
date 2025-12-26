@@ -10680,7 +10680,7 @@ HP reached a checkpoint. (2025-08-02 08:00  UTC)<br/>
 HP reached a checkpoint. (2025-08-02 08:00  UTC)<br/>
 
 ### Day: #542
-Assault Division: Spore Burst Strain U1H divides into 2 groups, [U1H, U1J] (2025-08-02 11:00  UTC)<br/>
+Assault Division: Spore Burst Strain U1H divides into 2 groups [U1H, U1J] (2025-08-02 11:00  UTC)<br/>
 Assault Division: Spore Burst Strain U1J deploys to *Achird III* (2025-08-02 11:00  UTC)<br/>
 *Turing* of the Umlaut sector is attacked by Lvl 43 Terminids (2025-08-02 11:58  UTC)<br/>
 *Turing* Region 2 Periwinkle Mills City is besieged by Humans (2025-08-02 11:58  UTC)<br/>
@@ -13741,3 +13741,35 @@ HP reached a checkpoint. (2025-12-24 12:00  UTC)<br/>
 *Julheim* is liberated (2025-12-24 20:47  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-12-24 20:47  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-12-24 20:47  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-12-25 07:00  UTC)<br/>
+
+### Day: #687
+Dispatch: FESTIVAL OF RECKONING CAROL. All Helldivers are invited to join in the classic holiday carol "O Come, And Report Them:" O Come, and report them, dissidents and traitors, Inform, inform ye on Treachery! Come and report them, tell on all your neighbors! O come let us arrest them; O come let us arrest them; O come let us arrest them, traitors and scum! (2025-12-25 10:02  UTC)<br/>
+DSS effect Orbital Blockade is activated (2025-12-25 11:02  UTC)<br/>
+
+### Day: #688
+Dispatch: ARSENAL AUGMENTATION. That this reckoning may be spirited and just, all Helldiver deployments will be augmented with the ORBITAL RAILCANNON STRIKE for the next 24 hours. (2025-12-26 10:02  UTC)<br/>
+DSS effect Orbital Blockade stops (2025-12-26 11:03  UTC)<br/>
+Assault Division: Predator Strain U9A leaves *Esker* (2025-12-26 13:47  UTC)<br/>
+Assault Division: Predator Strain U9A deploys to *Bore Rock* (2025-12-26 13:48  UTC)<br/>
+Assault Division: Dragonroaches U3A divides into 2 groups [U3A, U3B] (2025-12-26 13:48  UTC)<br/>
+Assault Division: Dragonroaches U3B deploys to *Esker* (2025-12-26 13:48  UTC)<br/>
+Assault Division: Rupture Strain U6A deploys to *Fori Prime* (2025-12-26 13:49  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Aurora Bay* (2025-12-26 13:50  UTC)<br/>
+*Alamak VII* of the Hanzo sector is attacked by Lvl 34 Illuminate (2025-12-26 13:51  UTC)<br/>
+*Alamak VII* Region 3 Filibuster Megacity is besieged by Humans (2025-12-26 13:51  UTC)<br/>
+*Charon Prime* is liberated (2025-12-26 14:33  UTC)<br/>
+↳ *Martale* liberation campaign starts (2025-12-26 14:33  UTC)<br/>
+*Martale* Region 0 Songguo Cun Settlement is besieged by Humans (2025-12-26 14:33  UTC)<br/>
+ Decay: 0.0 on Alamak VII
+ (2025-12-26 14:33  UTC)<br/>
+ Region Decay: 0.2 on Alamak VII's KESUMA region<br/> Region Decay: 0.4 on Alamak VII's UNGU region<br/> Region Decay: 0.1 on Alamak VII's NO COMPOUND region<br/> Region Decay: 0.6 on Alamak VII's FILIBUSTER region
+ (2025-12-26 14:33  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2025-12-26 14:34  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Aurora Bay* (2025-12-26 14:49  UTC)<br/>
+ Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region
+ (2025-12-26 14:49  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Choohe* (2025-12-26 14:50  UTC)<br/>
+DSS deploys to *Alamak VII* of the Hanzo sector (2025-12-26 15:19  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Choohe* (2025-12-26 15:19  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Menkent* (2025-12-26 15:19  UTC)<br/>
