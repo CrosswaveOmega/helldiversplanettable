@@ -13771,5 +13771,25 @@ Assault Division: Jet Brigade U9A leaves *Aurora Bay* (2025-12-26 14:49  UTC)<br
  (2025-12-26 14:49  UTC)<br/>
 Assault Division: Jet Brigade U9A deploys to *Choohe* (2025-12-26 14:50  UTC)<br/>
 DSS deploys to *Alamak VII* of the Hanzo sector (2025-12-26 15:19  UTC)<br/>
-Assault Division: Jet Brigade U9A leaves *Choohe* (2025-12-26 15:19  UTC)<br/>
-Assault Division: Jet Brigade U9A deploys to *Menkent* (2025-12-26 15:19  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Choohe* (2025-12-26 15:49  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Menkent* (2025-12-26 15:50  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Menkent* (2025-12-26 16:49  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Vernen Wells* (2025-12-26 16:50  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Vernen Wells* (2025-12-26 17:49  UTC)<br/>
+*Tarsh* of the Marspira sector is attacked by Lvl 59 Automatons (2025-12-26 17:51  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-12-26 17:51  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Tarsh* (2025-12-26 17:51  UTC)<br/>
+Minor Order | [A2-12-6](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-6) Kill Enemies On A Recon Campaign 2 is won | Objective: Eradicate (2025-12-26 17:53  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. Citizens across the Federation celebrate the righteous, joyous deliverance of Justice to our enemies, watching as the Helldivers have reached the targeted kill count on MARFARK. The holiday spirit can be seen and felt across the Galaxy, not least in the record-breaking sales of commercial goods. (2025-12-26 17:53  UTC)<br/>
+ Region Decay: 0.1 on Tarsh's FORTITUDE region<br/> Region Decay: 0.1 on Tarsh's FREEDOM'S TORCH region<br/> Region Decay: 0.1 on Tarsh's FEARLESS HOLLOW region
+ (2025-12-26 18:00  UTC)<br/>
+ Region Decay: 0.1 on Tarsh's FORTITUDE region<br/> Region Decay: 0.1 on Tarsh's FREEDOM'S TORCH region<br/> Region Decay: 0.1 on Tarsh's FEARLESS HOLLOW region
+ (2025-12-26 18:00  UTC)<br/>
+ Decay: 0.0 on Tarsh
+ (2025-12-26 20:00  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-12-26 21:54  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-12-26 23:08  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-12-26 23:19  UTC)<br/>
+
+### Day: #689
+Dispatch: ARSENAL AUGMENTATION. That our enemies may suffer greatly, all Helldiver deployments will be augmented with the Shield Generator Relay for the next 24 hours. (2025-12-27 10:03  UTC)<br/>
