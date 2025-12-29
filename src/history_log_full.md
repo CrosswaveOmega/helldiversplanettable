@@ -13793,3 +13793,28 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-12-26 23:19  UTC)<br/>
 
 ### Day: #689
 Dispatch: ARSENAL AUGMENTATION. That our enemies may suffer greatly, all Helldiver deployments will be augmented with the Shield Generator Relay for the next 24 hours. (2025-12-27 10:03  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-12-27 16:44  UTC)<br/>
+*Alamak VII* Region 1 Ungu City is besieged by Humans (2025-12-27 19:19  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town has fallen to Humans (2025-12-27 21:17  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-12-27 23:43  UTC)<br/>
+*Alamak VII* Region 2 No Compound Settlement is besieged by Humans (2025-12-28 05:46  UTC)<br/>
+
+# Day: #690
+Minor Order | [A2-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-7) Kill Enemies On A Recon Campaign 3 is issued | Objective: Eradicate (2025-12-28 10:03  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning enters its third and final phase, the theme of “Vengeance” fills the hearts of *Super Earth* citizens. The Helldivers are ordered to aid in the testing of the final experimental Stratagem: the Smoke-Enhanced Walking Barrage, available for use on MARFARK, HEETH, and NEW STOCKHOLM. The Helldivers are ordered to reach the designated kill count on any one of these planets. (2025-12-28 10:03  UTC)<br/>
+*Alamak VII* defense is failed (2025-12-28 13:53  UTC)<br/>
+*Alamak VII* liberation campaign starts (2025-12-28 13:53  UTC)<br/>
+*Alamak VII* Region 0 Kesuma Town is besieged by Humans (2025-12-28 13:53  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Human (2025-12-28 14:59  UTC)<br/>
+ Decay: 0.5 on Alamak VII
+ (2025-12-28 14:59  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Tarsh* (2025-12-28 17:50  UTC)<br/>
+*Tarsh* defense is failed (2025-12-28 17:52  UTC)<br/>
+↳ *Tarsh* liberation campaign starts (2025-12-28 17:52  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-12-28 17:52  UTC)<br/>
+ Decay: 1.5 on Tarsh
+ (2025-12-28 20:00  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Tarsh* (2025-12-29 00:26  UTC)<br/>
+Assault Division: Dragonroaches U3B leaves *Esker* (2025-12-29 00:29  UTC)<br/>
+Assault Division: Dragonroaches U3B deploys to *Bore Rock* (2025-12-29 00:30  UTC)<br/>
+*Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-12-29 01:22  UTC)<br/>
