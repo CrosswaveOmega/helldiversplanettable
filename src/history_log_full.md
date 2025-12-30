@@ -13818,3 +13818,14 @@ Assault Division: Jet Brigade U9A deploys to *Tarsh* (2025-12-29 00:26  UTC)<br/
 Assault Division: Dragonroaches U3B leaves *Esker* (2025-12-29 00:29  UTC)<br/>
 Assault Division: Dragonroaches U3B deploys to *Bore Rock* (2025-12-29 00:30  UTC)<br/>
 *Tarsh* Region 0 Fortitude Settlement has fallen to Humans (2025-12-29 01:22  UTC)<br/>
+
+### Day: #691
+Dispatch: ARSENAL AUGMENTATION. That we recall those lost through retribution of their murderers, all Helldiver deployments will be augmented with the PORTABLE HELLBOMB for the next 24 hours. (2025-12-29 10:04  UTC)<br/>
+*Curia* of the Marspira sector is attacked by Lvl 19 Automatons (2025-12-29 13:29  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Tarsh* (2025-12-29 13:29  UTC)<br/>
+Assault Division: Jet Brigade U9A deploys to *Curia* (2025-12-29 13:30  UTC)<br/>
+ Decay: 0.0 on Curia
+ (2025-12-29 14:00  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2025-12-29 19:21  UTC)<br/>
+Dispatch: Wally indicated to his superiors that several of the other walruses had made concerning comments about the righteousness of *Super Earth*'s wars. They were arrested, the storm ended, and production continued, just in time. Wally's bravery had saved the Festival of Reckoning. (2025-12-30 10:04  UTC)<br/>
+Dispatch: A RECKONING STORY. To augment holiday cheer, the Helldivers are reminded of the classic tale of Wally, the White-Nosed Walrus: Wally was ostracized from the other walruses at the weapons factory, because of his odd white nose. He wasn't included in walrus games. But one day, there was a terrible storm, and the factory shut down. (2025-12-30 10:05  UTC)<br/>
