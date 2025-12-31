@@ -13827,5 +13827,13 @@ Assault Division: Jet Brigade U9A deploys to *Curia* (2025-12-29 13:30  UTC)<br/
  Decay: 0.0 on Curia
  (2025-12-29 14:00  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2025-12-29 19:21  UTC)<br/>
+
+### Day: #692
 Dispatch: Wally indicated to his superiors that several of the other walruses had made concerning comments about the righteousness of *Super Earth*'s wars. They were arrested, the storm ended, and production continued, just in time. Wally's bravery had saved the Festival of Reckoning. (2025-12-30 10:04  UTC)<br/>
 Dispatch: A RECKONING STORY. To augment holiday cheer, the Helldivers are reminded of the classic tale of Wally, the White-Nosed Walrus: Wally was ostracized from the other walruses at the weapons factory, because of his odd white nose. He wasn't included in walrus games. But one day, there was a terrible storm, and the factory shut down. (2025-12-30 10:05  UTC)<br/>
+*Curia* defense is won (2025-12-30 12:10  UTC)<br/>
+Assault Division: Jet Brigade U9A is routed from Curia (2025-12-30 12:10  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2025-12-30 12:11  UTC)<br/>
+DSS effect Eagle Storm is activated (2025-12-30 13:59  UTC)<br/>
+ Decay: 1.0 on Curia
+ (2025-12-30 13:59  UTC)<br/>
