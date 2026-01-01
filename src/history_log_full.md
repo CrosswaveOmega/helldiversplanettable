@@ -13837,3 +13837,12 @@ DSS deploys to *Tarsh* of the Marspira sector (2025-12-30 12:11  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-12-30 13:59  UTC)<br/>
  Decay: 1.0 on Curia
  (2025-12-30 13:59  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Humans (2025-12-30 23:32  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2025-12-31 04:10  UTC)<br/>
+
+### Day: #693
+Dispatch: ARSENAL AUGMENTATION. That Freedom be cherished and held close, all Helldiver deployments will be augmented with the AIRBURST ROCKET LAUNCHER for the next 24 hours. (2025-12-31 10:05  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-12-31 10:49  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-12-31 11:52  UTC)<br/>
+DSS effect Eagle Storm stops (2025-12-31 13:59  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-12-31 18:14  UTC)<br/>
