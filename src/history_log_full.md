@@ -5789,6 +5789,8 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 ↳ Tarragon sector is fully under Human control (2024-12-31 18:16  UTC)<br/>
 *Kraz*'s invasion is successful (2024-12-31 18:24  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2024-12-31 18:24  UTC)<br/>
+*Heeth* is no longer classified as a Recon campaign (2025-01-01 00:06  UTC)<br/>
+*Marfark* is no longer classified as a Recon campaign (2025-01-01 00:07  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-01 04:41  UTC)<br/>
 *Kharst*'s invasion is repelled (2025-01-01 04:50  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-01 04:50  UTC)<br/>
@@ -13740,6 +13742,7 @@ HP reached a checkpoint. (2025-12-24 12:00  UTC)<br/>
 HP reached a checkpoint. (2025-12-24 12:00  UTC)<br/>
 *Julheim* is liberated (2025-12-24 20:47  UTC)<br/>
 ↳ Nanos sector is fully under Human control (2025-12-24 20:47  UTC)<br/>
+Assault Division: Incineration Corps U7B is routed from Julheim (2025-12-24 20:47  UTC)<br/>
 DSS deploys to *Charon Prime* of the Andromeda sector (2025-12-24 20:47  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-12-25 07:00  UTC)<br/>
 
@@ -13811,6 +13814,7 @@ Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning enters its thi
 Assault Division: Jet Brigade U9A leaves *Tarsh* (2025-12-28 17:50  UTC)<br/>
 *Tarsh* defense is failed (2025-12-28 17:52  UTC)<br/>
 ↳ *Tarsh* liberation campaign starts (2025-12-28 17:52  UTC)<br/>
+↳ *Vernen Wells* liberation campaign ends (2025-12-28 17:52  UTC)<br/>
 *Tarsh* Region 0 Fortitude Settlement is besieged by Humans (2025-12-28 17:52  UTC)<br/>
  Decay: 1.5 on Tarsh
  (2025-12-28 20:00  UTC)<br/>
@@ -13846,3 +13850,38 @@ Dispatch: ARSENAL AUGMENTATION. That Freedom be cherished and held close, all He
 *Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-12-31 11:52  UTC)<br/>
 DSS effect Eagle Storm stops (2025-12-31 13:59  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2025-12-31 18:14  UTC)<br/>
+Minor Order | [A2-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-7) Kill Enemies On A Recon Campaign 3 is failed | Objective: Eradicate (2025-12-31 23:04  UTC)<br/>
+Dispatch: FESTIVAL OF RECKONING GIFT. In the spirit of Generosity, Gratitude, and Vengeance, High Command bequeaths to all Helldivers a seasonal cape to celebrate the end of this year's Festival of Reckoning. (2025-12-31 23:05  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY LOST. Though weapons were thoroughly tested, and much fun and merriment was had by all, the failure to reach the targeted kill count on any single planet has left our citizens and weaponry scientists with an unseasonal feeling of disappointment and unfulfillment. (2025-12-31 23:05  UTC)<br/>
+Major Order | [A2-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-4) Festival of Reckoning 2025 is won | Objective: Conquest (2025-12-31 23:05  UTC)<br/>
+Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting *Super Earth* with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (2025-12-31 23:07  UTC)<br/>
+
+### Day: #694
+*Heeth* decay rate changes to -1.0% decay (2026-01-01 10:23  UTC)<br/>
+ Decay: -1.0 on Heeth
+ (2026-01-01 12:00  UTC)<br/>
+*Tarsh* is liberated (2026-01-01 14:50  UTC)<br/>
+↳ *Vernen Wells* liberation campaign starts (2026-01-01 14:50  UTC)<br/>
+↳ Marspira sector is fully under Human control (2026-01-01 14:50  UTC)<br/>
+*Vernen Wells* Region 2 Anne's Vigil Town is besieged by Humans (2026-01-01 14:50  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-01-01 14:50  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Merak* (2026-01-01 16:10  UTC)<br/>
+ Region Decay: 0.1 on Vernen Wells's BLACKVEIN MINES region<br/> Region Decay: 0.2 on Vernen Wells's BENEVOLENCE region<br/> Region Decay: 0.2 on Vernen Wells's ANNE'S VIGIL region
+ (2026-01-01 16:10  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Merak* (2026-01-01 18:09  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Penta* (2026-01-01 18:10  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Penta* (2026-01-01 20:09  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Lesath* (2026-01-01 20:10  UTC)<br/>
+*Gaellivare* of the Talus sector is attacked by Lvl 29 Automatons (2026-01-01 22:10  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2026-01-01 22:10  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Lvl 24 Automatons (2026-01-01 22:10  UTC)<br/>
+*Vog-Sojoth* Region 0 Haerstvik Town is besieged by Humans (2026-01-01 22:10  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Lesath* (2026-01-01 22:10  UTC)<br/>
+Assault Division: Incineration Corps U8A divides into 2 groups [U8A, U8B] (2026-01-01 22:10  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Gaellivare* (2026-01-01 22:10  UTC)<br/>
+Assault Division: Incineration Corps U8B deploys to *Vog-Sojoth* (2026-01-01 22:10  UTC)<br/>
+ Region Decay: 0.1 on Gaellivare's VÁHTJER region<br/> Region Decay: 0.3 on Gaellivare's MALMBERGET region<br/> Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
+ (2026-01-02 00:00  UTC)<br/>
+ Region Decay: 0.1 on Gaellivare's VÁHTJER region<br/> Region Decay: 0.3 on Gaellivare's MALMBERGET region<br/> Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
+ (2026-01-02 00:00  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2026-01-02 03:22  UTC)<br/>
