@@ -5809,6 +5809,8 @@ Major Order | [A1-12-7](https://helldivers.wiki.gg/wiki/Major_Orders#A1-12-7) Il
 Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression. Consult the Galactic Map on your ship for more information. (2025-01-02 07:52  UTC)<br/>
 
 # Day: #330
+
+# Day: #330
 *Regnus* of the Morgon sector is invaded by Lvl 7 Illuminate (2025-01-02 15:35  UTC)<br/>
 *Sirius*'s invasion is successful (2025-01-02 16:26  UTC)<br/>
 ↳ Xi Tauri sector is fully under Human control (2025-01-02 16:26  UTC)<br/>
@@ -5825,6 +5827,8 @@ Dispatch: MAJOR ORDER WON. The Illuminate have been forced to pay a heavy toll f
 ↳ Morgon sector is fully under Human control (2025-01-03 03:36  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is issued | Objective: Control (2025-01-03 06:56  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information. (2025-01-03 06:57  UTC)<br/>
+
+### Day: #331
 
 ### Day: #331
 *Alamak VII* of the Hanzo sector is invaded by Lvl 7 Illuminate (2025-01-03 14:48  UTC)<br/>
@@ -13885,3 +13889,21 @@ Assault Division: Incineration Corps U8B deploys to *Vog-Sojoth* (2026-01-01 22:
  Region Decay: 0.1 on Gaellivare's VÁHTJER region<br/> Region Decay: 0.3 on Gaellivare's MALMBERGET region<br/> Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
  (2026-01-02 00:00  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2026-01-02 03:22  UTC)<br/>
+Major Order | [A3-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-1) Exfil From *Omicron* is issued | Objective: Extraction (2026-01-02 13:04  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Operation Free Space proceeds on schedule. Its centerpiece is the creation of the Star of Peace, an augmentation to the Democracy Space Station. The primary weapon of the Star of Peace is a cutting-edge beam of ionized Dark Fluid. Synthesizing sufficient Dark Fluid to fire the Star of Peace even once will require vast amounts of E-711. The Helldivers are ordered to enable high-risk E-711 extraction on the mostly-untouched Hive World of *Omicron*. (2026-01-02 13:05  UTC)<br/>
+*Gaellivare* Region 0 Váhtjer Settlement is besieged by Humans (2026-01-02 15:53  UTC)<br/>
+DSS deploys to *Omicron* of the L'estrade sector (2026-01-02 19:23  UTC)<br/>
+*Heeth* is liberated (2026-01-02 21:23  UTC)<br/>
+↳ Orion sector is fully under Human control (2026-01-02 21:23  UTC)<br/>
+Assault Division: Rupture Strain U5A is routed from Heeth (2026-01-02 21:23  UTC)<br/>
+DSS effect Orbital Blockade is activated (2026-01-02 23:40  UTC)<br/>
+ Decay: 2.0 on Heeth
+ (2026-01-02 23:40  UTC)<br/>
+*Vog-Sojoth* defense is failed (2026-01-03 22:11  UTC)<br/>
+↳ *Vog-Sojoth* liberation campaign starts (2026-01-03 22:11  UTC)<br/>
+*Gaellivare* defense is failed (2026-01-03 22:11  UTC)<br/>
+↳ *Gaellivare* liberation campaign starts (2026-01-03 22:11  UTC)<br/>
+↳ *Lesath* liberation campaign ends (2026-01-03 22:11  UTC)<br/>
+DSS effect Orbital Blockade stops (2026-01-03 23:41  UTC)<br/>
+ Decay: 0.5 on Gaellivare<br/> Decay: 2.0 on Vog-Sojoth
+ (2026-01-03 23:41  UTC)<br/>
