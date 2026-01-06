@@ -5789,8 +5789,10 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 ↳ Tarragon sector is fully under Human control (2024-12-31 18:16  UTC)<br/>
 *Kraz*'s invasion is successful (2024-12-31 18:24  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2024-12-31 18:24  UTC)<br/>
-*Heeth* is no longer classified as a Recon campaign (2025-01-01 00:06  UTC)<br/>
-*Marfark* is no longer classified as a Recon campaign (2025-01-01 00:07  UTC)<br/>
+*Heeth* recon campaign ends (2025-01-01 00:06  UTC)<br/>
+*Heeth* liberation campaign starts (2025-01-01 00:06  UTC)<br/>
+*Marfark* recon campaign ends (2025-01-01 00:07  UTC)<br/>
+*Marfark* liberation campaign starts (2025-01-01 00:07  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-01 04:41  UTC)<br/>
 *Kharst*'s invasion is repelled (2025-01-01 04:50  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-01 04:50  UTC)<br/>
@@ -5844,9 +5846,12 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facili
 *Mastia* is liberated (2025-01-05 04:33  UTC)<br/>
 
 ### Day: #333
+
+### Day: #333
 *Ras Algethi*'s invasion is successful (2025-01-05 14:13  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-01-05 14:13  UTC)<br/>
 *Oasis* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-05 14:25  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2025-01-05 18:12  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Lvl 13 Automatons (2025-01-05 19:48  UTC)<br/>
 Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldivers are called to its defense! (2025-01-05 20:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
@@ -13672,9 +13677,12 @@ DSS deploys to *Julheim* of the Nanos sector (2025-12-17 23:14  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-12-17 23:57  UTC)<br/>
 
 # Day: #680
-*Heeth* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
-*Marfark* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
-*New Stockholm* is classified as a Recon campaign (2025-12-18 09:59  UTC)<br/>
+*Heeth* liberation campaign ends (2025-12-18 09:59  UTC)<br/>
+*Heeth* recon campaign starts (2025-12-18 09:59  UTC)<br/>
+*Marfark* liberation campaign ends (2025-12-18 09:59  UTC)<br/>
+*Marfark* recon campaign starts (2025-12-18 09:59  UTC)<br/>
+*New Stockholm* liberation campaign ends (2025-12-18 09:59  UTC)<br/>
+*New Stockholm* recon campaign starts (2025-12-18 09:59  UTC)<br/>
 
 # Day: #680
 Dispatch: NEW STRATEGIC OPPORTUNITY. A portion of this year's Reckoning Fund has been allocated for Experimental Stratagem Testing. Three enemy-held planets have been specially chosen for weapons testing: MARFARK, NEW STOCKHOLM, and HEETH. On these planets, the ORBITAL 120MM HE BARRAGE has been experimentally modified to the Orbital 120MM HE/EMS Barrage. The Helldivers are ordered to reach the targeted kill count on any one of the chosen planets. (2025-12-18 10:00  UTC)<br/>
@@ -13868,6 +13876,8 @@ DSS deploys to *Crimsica* of the Draco sector (2026-01-01 14:50  UTC)<br/>
 Assault Division: Incineration Corps U8A deploys to *Merak* (2026-01-01 16:10  UTC)<br/>
  Region Decay: 0.1 on Vernen Wells's BLACKVEIN MINES region<br/> Region Decay: 0.2 on Vernen Wells's BENEVOLENCE region<br/> Region Decay: 0.2 on Vernen Wells's ANNE'S VIGIL region
  (2026-01-01 16:10  UTC)<br/>
+*New Stockholm* recon campaign ends (2026-01-01 16:38  UTC)<br/>
+*New Stockholm* liberation campaign starts (2026-01-01 16:38  UTC)<br/>
 Assault Division: Incineration Corps U8A leaves *Merak* (2026-01-01 18:09  UTC)<br/>
 Assault Division: Incineration Corps U8A deploys to *Penta* (2026-01-01 18:10  UTC)<br/>
 Assault Division: Incineration Corps U8A leaves *Penta* (2026-01-01 20:09  UTC)<br/>
@@ -13910,3 +13920,4 @@ DSS effect Orbital Blockade stops (2026-01-03 23:41  UTC)<br/>
 
 ### Day: #697
 DSS effect Heavy Ordnance Distribution is activated (2026-01-04 18:12  UTC)<br/>
+*Gaellivare* Region 0 Váhtjer Settlement has fallen to Humans (2026-01-05 23:48  UTC)<br/>
