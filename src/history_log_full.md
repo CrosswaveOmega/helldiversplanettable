@@ -5860,6 +5860,8 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 *Oasis*'s invasion is successful (2025-01-06 02:25  UTC)<br/>
 
 ### Day: #334
+
+### Day: #334
 *Bellatrix* of the Guang sector is invaded by Lvl 6 Illuminate (2025-01-06 13:59  UTC)<br/>
 *Iro*'s invasion is successful (2025-01-06 14:15  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-06 14:15  UTC)<br/>
