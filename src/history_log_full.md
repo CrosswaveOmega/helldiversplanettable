@@ -5846,8 +5846,6 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facili
 *Mastia* is liberated (2025-01-05 04:33  UTC)<br/>
 
 ### Day: #333
-
-### Day: #333
 *Ras Algethi*'s invasion is successful (2025-01-05 14:13  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-01-05 14:13  UTC)<br/>
 *Oasis* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-05 14:25  UTC)<br/>
@@ -5858,8 +5856,6 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
  (2025-01-05 20:30  UTC)<br/>
 *Iro* of the Rictus sector is invaded by Lvl 5 Illuminate (2025-01-06 02:14  UTC)<br/>
 *Oasis*'s invasion is successful (2025-01-06 02:25  UTC)<br/>
-
-### Day: #334
 
 ### Day: #334
 *Bellatrix* of the Guang sector is invaded by Lvl 6 Illuminate (2025-01-06 13:59  UTC)<br/>
@@ -13717,7 +13713,7 @@ DSS effect Eagle Storm is activated (2025-12-21 04:46  UTC)<br/>
 ### Day: #683
 Dispatch: ARSENAL AUGMENTATION. To engender a spirit of righteous reckoning, all Helldiver deployments will be augmented with the ORBITAL LASER for the next 24 hours. (2025-12-21 09:59  UTC)<br/>
 *Duma Tyr* is liberated (2025-12-22 00:59  UTC)<br/>
-*Tarsh* decay rate changes to -1.0% per hour (2025-12-22 00:59  UTC)<br/>
+*Borea* decay rate changes to -1.0% per hour (2025-12-22 00:59  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-12-22 00:59  UTC)<br/>
  Decay: -1.0 on Borea<br/> Decay: 1.5 on Duma Tyr
  (2025-12-22 02:00  UTC)<br/>
@@ -13867,7 +13863,7 @@ Major Order | [A2-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-4) Fe
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting *Super Earth* with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (2025-12-31 23:07  UTC)<br/>
 
 ### Day: #694
-*Heeth* decay rate changes to -1.0% decay (2026-01-01 10:23  UTC)<br/>
+*Heeth* decay rate changes to -1.0% per hour (2026-01-01 10:23  UTC)<br/>
  Decay: -1.0 on Heeth
  (2026-01-01 12:00  UTC)<br/>
 *Tarsh* is liberated (2026-01-01 14:50  UTC)<br/>
@@ -13922,4 +13918,23 @@ DSS effect Orbital Blockade stops (2026-01-03 23:41  UTC)<br/>
 
 ### Day: #697
 DSS effect Heavy Ordnance Distribution is activated (2026-01-04 18:12  UTC)<br/>
+
+### Day: #698
 *Gaellivare* Region 0 Váhtjer Settlement has fallen to Humans (2026-01-05 23:48  UTC)<br/>
+
+### Day: #699
+
+# Day: #700
+Assault Division: Incineration Corps U8A leaves *Gaellivare* (2026-01-07 12:33  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Lesath* (2026-01-07 12:34  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Lesath* (2026-01-07 13:45  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Vernen Wells* (2026-01-07 13:45  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Vernen Wells* (2026-01-07 14:44  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Aesir Pass* (2026-01-07 14:45  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Aesir Pass* (2026-01-07 15:44  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Marfark* (2026-01-07 15:45  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Marfark* (2026-01-07 16:44  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Martale* (2026-01-07 16:45  UTC)<br/>
+
+### Day: #701
+Assault Division: Jet Brigade U10A deploys to *Aurora Bay* (2026-01-08 12:06  UTC)<br/>
