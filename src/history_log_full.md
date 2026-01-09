@@ -5897,6 +5897,7 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 *Grafmere*'s invasion is successful (2025-01-08 12:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
+Major Order | [A3-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-2) Defend Magma Worlds is issued | Objective: Control (2025-01-08 13:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
 *Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Safety POI (2025-01-08 14:23  UTC)<br/>
 NOTE: It appears that even from the first briefing and dispatch that these were introduced there was a mismatch on if the POI was called Security or Safety on the end. For the purposes of this document it is being noted as Safety as that is what the in-game POI is referred to with (2025-01-08 14:23  UTC)<br/>
@@ -13938,3 +13939,31 @@ Assault Division: Incineration Corps U8A deploys to *Martale* (2026-01-07 16:45 
 
 ### Day: #701
 Assault Division: Jet Brigade U10A deploys to *Aurora Bay* (2026-01-08 12:06  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Aurora Bay* (2026-01-08 13:05  UTC)<br/>
+Major Order | [A3-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-1) Exfil From *Omicron* is failed | Objective: Extraction (2026-01-08 13:06  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Choohe* (2026-01-08 13:07  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Terminid Hive World of *Omicron* has proven extremely infested, frustrating efforts to extract E-711 from the planet. While some E-711 was secured, synthesizing it into Dark Fluid remains a highly inefficient process. Currently, projected yields are insufficient to enable the Star of Peace to fire. Consult the Galactic Map for more details. (2026-01-08 13:09  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Star of Peace requires thermal shielding to withstand firing its high-yield beam, optimized for mass Freedom dispensation. Helldivers: hold the Magma Planets to secure the mining infrastructure from Automaton greed, and to enable harvesting of their internal iridium-infused heatsinks. (2026-01-08 13:18  UTC)<br/>
+*K* of the Trigon sector is attacked by Lvl 27 Automatons (2026-01-08 13:19  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Martale* (2026-01-08 13:19  UTC)<br/>
+*Charon Prime* of the Andromeda sector is attacked by Lvl 21 Automatons (2026-01-08 13:20  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Charon Prime* (2026-01-08 13:20  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Choohe* (2026-01-08 14:05  UTC)<br/>
+ Decay: 0.0 on Charon Prime, K
+ (2026-01-08 14:05  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Matar Bay* (2026-01-08 14:06  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Matar Bay* (2026-01-08 15:05  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Meissa* (2026-01-08 15:06  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-01-08 15:26  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Meissa* (2026-01-08 16:05  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Wasat* (2026-01-08 16:07  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Wasat* (2026-01-08 17:05  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Vega Bay* (2026-01-08 17:07  UTC)<br/>
+Assault Division: Jet Brigade U10A leaves *Vega Bay* (2026-01-08 18:05  UTC)<br/>
+*Mox* of the Trigon sector is attacked by Lvl 40 Automatons (2026-01-08 18:07  UTC)<br/>
+DSS deploys to *K* of the Trigon sector (2026-01-08 19:26  UTC)<br/>
+ Decay: 0.0 on Mox
+ (2026-01-08 19:26  UTC)<br/>
+DSS effect Eagle Storm is activated (2026-01-08 19:51  UTC)<br/>
+Assault Division: Jet Brigade U10A deploys to *Mox* (2026-01-08 19:56  UTC)<br/>
+DSS deploys to *Mox* of the Trigon sector (2026-01-09 03:26  UTC)<br/>
