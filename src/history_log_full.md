@@ -5933,6 +5933,8 @@ NOTE: It appears that even from the first briefing and dispatch that these were 
  (2025-01-10 08:00  UTC)<br/>
 
 ### Day: #338
+
+### Day: #338
 *Alamak VII* of the Hanzo sector is invaded by Lvl 5 Illuminate (2025-01-10 09:09  UTC)<br/>
 ​​*Mog*'s invasion is successful (2025-01-10 10:08  UTC)<br/>
 ↳ Morgon sector is fully under Human control (2025-01-10 10:08  UTC)<br/>
@@ -13965,5 +13967,16 @@ DSS deploys to *K* of the Trigon sector (2026-01-08 19:26  UTC)<br/>
  Decay: 0.0 on Mox
  (2026-01-08 19:26  UTC)<br/>
 DSS effect Eagle Storm is activated (2026-01-08 19:51  UTC)<br/>
-Assault Division: Jet Brigade U10A deploys to *Mox* (2026-01-08 19:56  UTC)<br/>
+NOTE: From 07:56pm 8th Jan 2026 to 9:03am 9th Jan 2026 Jet Brigade was supposed to be deployed on *Mox* according to the api but it was not. Sites like Companion reflected the intended display but in game the Jet Brigade was completely absent until it was fixed by the GMs (2026-01-08 19:56  UTC)<br/>
 DSS deploys to *Mox* of the Trigon sector (2026-01-09 03:26  UTC)<br/>
+
+### Day: #702
+Assault Division: Jet Brigade U10A deploys to *Mox* (2026-01-09 09:04  UTC)<br/>
+*Charon Prime* defense is failed (2026-01-09 13:21  UTC)<br/>
+↳ *Charon Prime* liberation campaign starts (2026-01-09 13:21  UTC)<br/>
+↳ *Martale* liberation campaign ends (2026-01-09 13:21  UTC)<br/>
+↳ Andromeda sector is fully under Automaton control (2026-01-09 13:21  UTC)<br/>
+ Decay: 2.0 on Charon Prime
+ (2026-01-09 14:00  UTC)<br/>
+DSS effect Eagle Storm stops (2026-01-09 19:52  UTC)<br/>
+*K* defense is won (2026-01-10 05:10  UTC)<br/>
