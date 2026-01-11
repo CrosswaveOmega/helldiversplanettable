@@ -2909,7 +2909,7 @@ Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Terminid worlds<br/> Decay: 2.5 on Sten sector, Orion sector, Hydra sector, Umlaut sector, Lacaille sector, L'estrade sector, Mirin sector<br/> Decay: 1.0 on Human worlds<br/> Decay: 1.5 on Marspira sector, Draco sector, Hydra sector, Valdis sector, Lacaille sector, Falstaff sector, Jin Xi sector<br/> Decay: 2.0 on Trandor, Menkent<br/> Decay: 0.0 on Fenrir III<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 0.8 on Human worlds
  (2024-08-29 00:00  UTC)<br/>
 *Marfark* defense is won (2024-08-29 02:29  UTC)<br/>
-Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
+↳ Andromeda sector is fully under Human control (2024-08-29 02:29  UTC)<br/>
  Decay: 0.5 on Marfark
  (2024-08-29 04:00  UTC)<br/>
  Decay: 1.0 on Aesir Pass
@@ -5931,8 +5931,6 @@ NOTE: It appears that even from the first briefing and dispatch that these were 
 ↳ Orion sector is fully under Human control (2025-01-10 06:38  UTC)<br/>
  Decay: 500.0 on Terrek
  (2025-01-10 08:00  UTC)<br/>
-
-### Day: #338
 
 ### Day: #338
 *Alamak VII* of the Hanzo sector is invaded by Lvl 5 Illuminate (2025-01-10 09:09  UTC)<br/>
@@ -13980,3 +13978,18 @@ Assault Division: Jet Brigade U10A deploys to *Mox* (2026-01-09 09:04  UTC)<br/>
  (2026-01-09 14:00  UTC)<br/>
 DSS effect Eagle Storm stops (2026-01-09 19:52  UTC)<br/>
 *K* defense is won (2026-01-10 05:10  UTC)<br/>
+ Decay: 1.5 on K
+ (2026-01-10 06:00  UTC)<br/>
+
+### Day: #703
+DSS effect Orbital Blockade is activated (2026-01-10 21:46  UTC)<br/>
+
+### Day: #704
+*Mox* defense is won (2026-01-11 09:24  UTC)<br/>
+Assault Division: Jet Brigade U10A is routed from Mox (2026-01-11 09:24  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-01-11 09:24  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Jump Pack Stratagem for the next 24 hours. (2026-01-11 10:30  UTC)<br/>
+ Decay: 3.0 on Mox
+ (2026-01-11 10:30  UTC)<br/>
+Minor Order | [A3-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-3) Liberate *Vog-Sojoth* is issued | Objective: Liberate (2026-01-11 10:39  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. The culmination of Operation Free Space approaches. Details are forthcoming. For now, in order to set the strategic operations for success, the Helldivers are ordered to liberate VOG-SOJOTH. (2026-01-11 10:39  UTC)<br/>
