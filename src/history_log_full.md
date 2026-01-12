@@ -5981,6 +5981,7 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 ↳ Saleria sector is fully under Human control (2025-01-12 08:00  UTC)<br/>
 
 # Day: #340
+Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (2025-01-12 11:55  UTC)<br/>
 *Polaris Prime* defense is won (2025-01-12 18:14  UTC)<br/>
 *Erata Prime* defense is failed (2025-01-12 18:19  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2025-01-12 18:19  UTC)<br/>
@@ -13993,3 +13994,12 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availabili
  (2026-01-11 10:30  UTC)<br/>
 Minor Order | [A3-1-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-3) Liberate *Vog-Sojoth* is issued | Objective: Liberate (2026-01-11 10:39  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The culmination of Operation Free Space approaches. Details are forthcoming. For now, in order to set the strategic operations for success, the Helldivers are ordered to liberate VOG-SOJOTH. (2026-01-11 10:39  UTC)<br/>
+ Decay: 1.5 on Gaellivare, Vog-Sojoth<br/> Decay: 1.0 on Lesath
+ (2026-01-11 12:00  UTC)<br/>
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2026-01-11 15:27  UTC)<br/>
+*Vog-Sojoth* Region 0 Haerstvik Town has fallen to Humans (2026-01-11 19:30  UTC)<br/>
+DSS effect Orbital Blockade stops (2026-01-11 21:46  UTC)<br/>
+ Decay: 2.5 on Nivel 43
+ (2026-01-12 08:00  UTC)<br/>
+
+### Day: #705
