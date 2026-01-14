@@ -14013,3 +14013,17 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have liberated VOG-SOJOTH
  Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
  (2026-01-12 19:33  UTC)<br/>
 DSS deploys to *Choepessa IV* of the Trigon sector (2026-01-12 23:28  UTC)<br/>
+
+### Day: #706
+*Choepessa IV* Region 1 Kalasatama City has fallen to Humans (2026-01-14 07:36  UTC)<br/>
+
+### Day: #707
+Major Order | [A3-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-2) Defend Magma Worlds is won | Objective: Control (2026-01-14 13:21  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have secured the Magma Planets. Internal components harvested from sufficiently-intact Automatons have equipped the Star of Peace with the thermal shielding it required. The Star of Peace nears operational readiness, and will deliver Operation Free Space imminently. Consult the Galactic Map for more information. (2026-01-14 13:21  UTC)<br/>
+Major Order | [A3-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-4) Vote to Fire Star of Peace is issued | Objective: Control (2026-01-14 13:22  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The DSS will soon be augmented with the Star of Peace, a defensive weapon capable of collapsing entire planets. The Helldivers will vote on which planet to target, beginning in 48 hours. They must ensure the selected planet is adjacent to a planet under *Super Earth* control at the time of firing. There are three potential targets, one per faction: *Penta*, *Valmox*, and *Zagon Prime*. (2026-01-14 13:22  UTC)<br/>
+*Penta* of the Lacaille sector is now under threat (2026-01-14 13:23  UTC)<br/>
+*Zagon Prime* of the Mirin sector is now under threat (2026-01-14 13:23  UTC)<br/>
+*Valmox* of the Rictus sector is now under threat (2026-01-14 13:23  UTC)<br/>
+*Valmox* liberation campaign ends (2026-01-14 13:25  UTC)<br/>
+*Zagon Prime* is no longer unobservable (2026-01-14 13:31  UTC)<br/>
