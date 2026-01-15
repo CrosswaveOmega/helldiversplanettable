@@ -14027,3 +14027,12 @@ Dispatch: NEW MAJOR ORDER. The DSS will soon be augmented with the Star of Peace
 *Valmox* of the Rictus sector is now under threat (2026-01-14 13:23  UTC)<br/>
 *Valmox* liberation campaign ends (2026-01-14 13:25  UTC)<br/>
 *Zagon Prime* is no longer unobservable (2026-01-14 13:31  UTC)<br/>
+*Crimsica* is liberated (2026-01-14 15:30  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2026-01-14 19:30  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2026-01-15 07:48  UTC)<br/>
+
+### Day: #708
+Dispatch: STAR OF PEACE VOTING IN 24 HOURS. In 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: *Penta*, *Afoyay Bay*, or *Zagon Prime*. The Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing. (2026-01-15 13:23  UTC)<br/>
+NOTE: The dispatch incorrectly states that *Afoyay Bay* is a target to be fired upon. This is later fixed at ? to say *Valmox* (2026-01-15 13:23  UTC)<br/>
+Assault Division: Dragonroaches U3A leave *Nivel 43* (2026-01-15 13:58  UTC)<br/>
+Assault Division: Dragonroaches U3A deploys to *Erson Sands* (2026-01-15 13:59  UTC)<br/>
