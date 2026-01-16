@@ -14033,6 +14033,14 @@ DSS effect Heavy Ordnance Distribution is activated (2026-01-15 07:48  UTC)<br/>
 
 ### Day: #708
 Dispatch: STAR OF PEACE VOTING IN 24 HOURS. In 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: *Penta*, *Afoyay Bay*, or *Zagon Prime*. The Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing. (2026-01-15 13:23  UTC)<br/>
-NOTE: The dispatch incorrectly states that *Afoyay Bay* is a target to be fired upon. This is later fixed at ? to say *Valmox* (2026-01-15 13:23  UTC)<br/>
+NOTE: The dispatch incorrectly states that *Afoyay Bay* is a target to be fired upon. This is later fixed at an unknown time to say *Valmox* (2026-01-15 13:23  UTC)<br/>
 Assault Division: Dragonroaches U3A leave *Nivel 43* (2026-01-15 13:58  UTC)<br/>
 Assault Division: Dragonroaches U3A deploys to *Erson Sands* (2026-01-15 13:59  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity has fallen to Humans (2026-01-15 15:23  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2026-01-15 15:23  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2026-01-15 15:23  UTC)<br/>
+ Decay: 1.5 on Nivel 43
+ (2026-01-15 15:23  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town has fallen to Humans (2026-01-15 23:35  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2026-01-16 04:42  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2026-01-16 07:48  UTC)<br/>
