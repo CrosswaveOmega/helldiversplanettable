@@ -11806,8 +11806,6 @@ Dispatch: MAJOR ORDER WON. The outpouring of Terminids from the Gloom appears to
 *Overgoe Prime* is overtaken by the Gloomwall (2025-09-15 11:21  UTC)<br/>
  Decay: 1.0 on Hellmire
  (2025-09-15 11:21  UTC)<br/>
-*Socorro III* is no longer unobservable (2025-09-15 12:27  UTC)<br/>
-*Erson Sands* is no longer unobservable (2025-09-15 12:27  UTC)<br/>
 *Esker* is lightly enveloped by the Gloom (2025-09-15 12:31  UTC)<br/>
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. ESKER is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (2025-09-15 12:35  UTC)<br/>
  Decay: 4.0 on Overgoe Prime
@@ -14034,7 +14032,7 @@ DSS effect Heavy Ordnance Distribution is activated (2026-01-15 07:48  UTC)<br/>
 ### Day: #708
 Dispatch: STAR OF PEACE VOTING IN 24 HOURS. In 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: *Penta*, *Afoyay Bay*, or *Zagon Prime*. The Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing. (2026-01-15 13:23  UTC)<br/>
 NOTE: The dispatch incorrectly states that *Afoyay Bay* is a target to be fired upon. This is later fixed at an unknown time to say *Valmox* (2026-01-15 13:23  UTC)<br/>
-Assault Division: Dragonroaches U3A leave *Nivel 43* (2026-01-15 13:58  UTC)<br/>
+Assault Division: Dragonroaches U3A leaves *Nivel 43* (2026-01-15 13:58  UTC)<br/>
 Assault Division: Dragonroaches U3A deploys to *Erson Sands* (2026-01-15 13:59  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest Megacity has fallen to Humans (2026-01-15 15:23  UTC)<br/>
 *Lesath* Region 1 Morskie Oko Town is besieged by Humans (2026-01-15 15:23  UTC)<br/>
@@ -14055,3 +14053,19 @@ Dispatch: STAR OF PEACE VOTING HAS BEGUN. Helldivers are advised to access the D
  (2026-01-17 06:00  UTC)<br/>
 
 # Day: #710
+*Nivel 43* is liberated (2026-01-17 16:44  UTC)<br/>
+↳ *Esker* liberation campaign starts (2026-01-17 16:44  UTC)<br/>
+Assault Division: Spore Burst Strain U4H is routed from Nivel 43 (2026-01-17 16:44  UTC)<br/>
+*Erson Sands* is no longer unobservable (2026-01-17 20:33  UTC)<br/>
+*Hort* of the Rigel sector is attacked by Lvl 18 Illuminate (2026-01-17 20:42  UTC)<br/>
+*Hort* Region 1 Clockstop City is besieged by Humans (2026-01-17 20:42  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-01-17 22:00  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-01-17 22:00  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Lvl 12 Automatons (2026-01-18 03:23  UTC)<br/>
+*Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2026-01-18 03:40  UTC)<br/>
+ Decay: 0.0 on Zefia
+ (2026-01-18 04:00  UTC)<br/>
+
+### Day: #711
