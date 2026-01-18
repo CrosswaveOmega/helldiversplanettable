@@ -910,7 +910,7 @@ def update_planet_ownership(
 
         if event.type == "planet move":
             # Move to a new position.
-            pattern = r"X (\d+\.\d+) Y (\d+\.\d+)"
+            pattern = r"X (-?\d+\.\d+) Y (-?\d+\.\d+)"
             coordinates = re.findall(pattern, event.text)
             if coordinates:
                 x, y = coordinates[0]
@@ -936,6 +936,12 @@ def update_planet_ownership(
                     store[f"{site}Pos"] = str(ind)
 
         if event.type == "Biome Change":
+            _, _, _, _, _, _, slug = extract_biome_change_details(
+                event.text, vjson["biomes"]
+            )
+            planetclone[str(ind)].biome = slug
+
+        if event.type == "Biome Set":
             _, _, _, _, _, _, slug = extract_biome_change_details(
                 event.text, vjson["biomes"]
             )
