@@ -5789,10 +5789,6 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to kill as many Illuminate
 ↳ Tarragon sector is fully under Human control (2024-12-31 18:16  UTC)<br/>
 *Kraz*'s invasion is successful (2024-12-31 18:24  UTC)<br/>
 ↳ Alstrad sector is fully under Human control (2024-12-31 18:24  UTC)<br/>
-*Heeth* recon campaign ends (2025-01-01 00:06  UTC)<br/>
-*Heeth* liberation campaign starts (2025-01-01 00:06  UTC)<br/>
-*Marfark* recon campaign ends (2025-01-01 00:07  UTC)<br/>
-*Marfark* liberation campaign starts (2025-01-01 00:07  UTC)<br/>
 *Parsh* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-01 04:41  UTC)<br/>
 *Kharst*'s invasion is repelled (2025-01-01 04:50  UTC)<br/>
 ↳ Gallux sector is fully under Human control (2025-01-01 04:50  UTC)<br/>
@@ -5849,7 +5845,6 @@ Dispatch: NEW MAJOR ORDER. The Helldivers are ordered to secure MASTIA to facili
 *Ras Algethi*'s invasion is successful (2025-01-05 14:13  UTC)<br/>
 ↳ Leo sector is fully under Human control (2025-01-05 14:13  UTC)<br/>
 *Oasis* of the Rictus sector is invaded by Lvl 6 Illuminate (2025-01-05 14:25  UTC)<br/>
-DSS effect Heavy Ordnance Distribution stops (2025-01-05 18:12  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Lvl 13 Automatons (2025-01-05 19:48  UTC)<br/>
 Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldivers are called to its defense! (2025-01-05 20:30  UTC)<br/>
  Decay: 0.0 on Gaellivare
@@ -5897,7 +5892,6 @@ Dispatch: INVASION! Automaton dropships fill the skies of GAELLIVARE. All Helldi
 *Grafmere*'s invasion is successful (2025-01-08 12:41  UTC)<br/>
 ↳ Rictus sector is fully under Human control (2025-01-08 12:41  UTC)<br/>
 Major Order | [A2-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-1-1) CCSS Construction is won | Objective: Control (2025-01-08 13:09  UTC)<br/>
-Major Order | [A3-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-2) Defend Magma Worlds is issued | Objective: Control (2025-01-08 13:17  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information. (2025-01-08 13:19  UTC)<br/>
 *Mastia* of the Marspira sector is established as a Center for Citizen Surveillance and Safety POI (2025-01-08 14:23  UTC)<br/>
 NOTE: It appears that even from the first briefing and dispatch that these were introduced there was a mismatch on if the POI was called Security or Safety on the end. For the purposes of this document it is being noted as Safety as that is what the in-game POI is referred to with (2025-01-08 14:23  UTC)<br/>
@@ -5981,7 +5975,6 @@ Dispatch: NEW MAJOR ORDER. The Xenoentomology Center on *Turing* has detected a 
 ↳ Saleria sector is fully under Human control (2025-01-12 08:00  UTC)<br/>
 
 # Day: #340
-Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (2025-01-12 11:55  UTC)<br/>
 *Polaris Prime* defense is won (2025-01-12 18:14  UTC)<br/>
 *Erata Prime* defense is failed (2025-01-12 18:19  UTC)<br/>
 ↳ *Erata Prime* liberation campaign starts (2025-01-12 18:19  UTC)<br/>
@@ -13863,6 +13856,10 @@ Dispatch: FESTIVAL OF RECKONING GIFT. In the spirit of Generosity, Gratitude, an
 Dispatch: STRATEGIC OPPORTUNITY LOST. Though weapons were thoroughly tested, and much fun and merriment was had by all, the failure to reach the targeted kill count on any single planet has left our citizens and weaponry scientists with an unseasonal feeling of disappointment and unfulfillment. (2025-12-31 23:05  UTC)<br/>
 Major Order | [A2-12-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-4) Festival of Reckoning 2025 is won | Objective: Conquest (2025-12-31 23:05  UTC)<br/>
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting *Super Earth* with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (2025-12-31 23:07  UTC)<br/>
+*Heeth* recon campaign ends (2026-01-01 00:06  UTC)<br/>
+*Heeth* liberation campaign starts (2026-01-01 00:06  UTC)<br/>
+*Marfark* recon campaign ends (2026-01-01 00:07  UTC)<br/>
+*Marfark* liberation campaign starts (2026-01-01 00:07  UTC)<br/>
 
 ### Day: #694
 *Heeth* decay rate changes to -1.0% per hour (2026-01-01 10:23  UTC)<br/>
@@ -13922,6 +13919,7 @@ DSS effect Orbital Blockade stops (2026-01-03 23:41  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2026-01-04 18:12  UTC)<br/>
 
 ### Day: #698
+DSS effect Heavy Ordnance Distribution stops (2026-01-05 18:12  UTC)<br/>
 *Gaellivare* Region 0 Váhtjer Settlement has fallen to Humans (2026-01-05 23:48  UTC)<br/>
 
 ### Day: #699
@@ -13944,6 +13942,7 @@ Assault Division: Jet Brigade U10A leaves *Aurora Bay* (2026-01-08 13:05  UTC)<b
 Major Order | [A3-1-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-1) Exfil From *Omicron* is failed | Objective: Extraction (2026-01-08 13:06  UTC)<br/>
 Assault Division: Jet Brigade U10A deploys to *Choohe* (2026-01-08 13:07  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. The Terminid Hive World of *Omicron* has proven extremely infested, frustrating efforts to extract E-711 from the planet. While some E-711 was secured, synthesizing it into Dark Fluid remains a highly inefficient process. Currently, projected yields are insufficient to enable the Star of Peace to fire. Consult the Galactic Map for more details. (2026-01-08 13:09  UTC)<br/>
+Major Order | [A3-1-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-2) Defend Magma Worlds is issued | Objective: Control (2026-01-08 13:17  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Star of Peace requires thermal shielding to withstand firing its high-yield beam, optimized for mass Freedom dispensation. Helldivers: hold the Magma Planets to secure the mining infrastructure from Automaton greed, and to enable harvesting of their internal iridium-infused heatsinks. (2026-01-08 13:18  UTC)<br/>
 *K* of the Trigon sector is attacked by Lvl 27 Automatons (2026-01-08 13:19  UTC)<br/>
 Assault Division: Incineration Corps U8A leaves *Martale* (2026-01-08 13:19  UTC)<br/>
@@ -14003,6 +14002,7 @@ DSS effect Orbital Blockade stops (2026-01-11 21:46  UTC)<br/>
  (2026-01-12 08:00  UTC)<br/>
 
 ### Day: #705
+Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (2026-01-12 11:55  UTC)<br/>
 *Vog-Sojoth* is liberated (2026-01-12 19:25  UTC)<br/>
 ↳ *Lesath* liberation campaign starts (2026-01-12 19:25  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-01-12 19:25  UTC)<br/>
@@ -14044,3 +14044,14 @@ Assault Division: Dragonroaches U3A deploys to *Erson Sands* (2026-01-15 13:59  
 *Lesath* Region 1 Morskie Oko Town has fallen to Humans (2026-01-15 23:35  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town is besieged by Humans (2026-01-16 04:42  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2026-01-16 07:48  UTC)<br/>
+
+### Day: #709
+DSS deploys to *Super Earth* of the Sol sector (2026-01-16 13:17  UTC)<br/>
+Dispatch: STAR OF PEACE VOTING HAS BEGUN. Helldivers are advised to access the Democracy Space Station voting panel from the Galactic Map. Helldivers may vote a single time. If the chosen planet is not a strategically viable location at the time of firing—if no planet adjacent to the targeted planet is held by *Super Earth*—the second-highest voted planet will be targeted instead. (2026-01-16 13:23  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City has fallen to Humans (2026-01-16 16:24  UTC)<br/>
+*Lesath* is liberated (2026-01-16 16:25  UTC)<br/>
+*Gaellivare* decay rate changes to -0.59% per hour (2026-01-17 03:54  UTC)<br/>
+ Decay: -1.0 on Gaellivare
+ (2026-01-17 06:00  UTC)<br/>
+
+# Day: #710
