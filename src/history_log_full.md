@@ -14069,3 +14069,38 @@ Assault Division: Spore Burst Strain U4H is routed from Nivel 43 (2026-01-17 16:
  (2026-01-18 04:00  UTC)<br/>
 
 ### Day: #711
+*Hort* Region 0 On-Earsahou City is besieged by Humans (2026-01-18 18:52  UTC)<br/>
+Major Order | [A3-1-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-4) Vote to Fire Star of Peace is won | Objective: Control (2026-01-18 18:52  UTC)<br/>
+Dispatch: STAR OF PEACE VOTING CONCLUDED. The voting period has ended. PENTA has been chosen by the Helldivers as the inaugural target of the Star of Peace. Firing will commence at the end of the Order period. (2026-01-18 20:29  UTC)<br/>
+DSS deploys to *Penta* of the Lacaille sector (2026-01-18 20:29  UTC)<br/>
+*Penta* collapses into a black hole (2026-01-18 20:29  UTC)<br/>
+*Penta* of the Lacaille sector is established as a Conventional Black Hole POI (2026-01-18 20:29  UTC)<br/>
+*Chort Bay* liberation campaign starts (2026-01-18 20:32  UTC)<br/>
+*Merak* decay rate changes to -1.0% per hour (2026-01-18 20:32  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Operation Free Space has been successfully completed. In a triumph of Managed Democracy, the Star of Peace has fired upon PENTA, collapsing it into a black hole and destroying all enemy forces present. The firing of this experimental defensive weapon was a monumental success. However, the DSS sustained damage during the firing process, and must be taken offline for repairs for a short period of time. (2026-01-18 20:42  UTC)<br/>
+*Penta* of the Lacaille sector's warp links are obliterated (2026-01-18 20:42  UTC)<br/>
+*Chort Bay* - *Merak* warp link is added (2026-01-18 20:42  UTC)<br/>
+*Merak* decay rate is no longer -1.0% per hour (2026-01-18 20:45  UTC)<br/>
+*Valmox* sector is no longer under threat (2026-01-18 21:07  UTC)<br/>
+*Zagon Prime* sector is no longer under threat (2026-01-18 21:07  UTC)<br/>
+ Decay: -1.0 on Merak
+ (2026-01-18 21:07  UTC)<br/>
+*Valmox* liberation campaign starts (2026-01-18 21:08  UTC)<br/>
+*Valmox* Region 1 Reformed-By-Truth City is besieged by Humans (2026-01-18 21:08  UTC)<br/>
+*Menkent* liberation campaign starts (2026-01-18 21:22  UTC)<br/>
+ Decay: 1.0 on Merak
+ (2026-01-18 21:22  UTC)<br/>
+ Region Decay: 0.1 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.4 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.4 on Valmox's OBEDIENCE region
+ (2026-01-18 21:22  UTC)<br/>
+Assault Division: Hive Lords U3A divides into 2 groups [U3A, U3B] (2026-01-18 21:24  UTC)<br/>
+Assault Division: Hive Lords U3B deploys to *Zagon Prime* (2026-01-18 21:24  UTC)<br/>
+Assault Division: Dragonroaches U2A divides into 2 groups [U2A, U2D] (2026-01-18 21:24  UTC)<br/>
+Assault Division: Dragonroaches U2D deploys to *Zagon Prime* (2026-01-18 21:24  UTC)<br/>
+*Zagon Prime* liberation campaign starts (2026-01-18 21:24  UTC)<br/>
+*Zefia* defense is won (2026-01-19 02:42  UTC)<br/>
+ Decay: 1.5 on Zefia
+ (2026-01-19 04:00  UTC)<br/>
+
+### Day: #712
+Assault Division: Hive Lords U3B leaves *Zagon Prime* (2026-01-19 10:14  UTC)<br/>
+Assault Division: Dragonroaches U2A leaves *Omicron* (2026-01-19 10:19  UTC)<br/>
