@@ -14104,3 +14104,15 @@ Assault Division: Dragonroaches U2D deploys to *Zagon Prime* (2026-01-18 21:24  
 ### Day: #712
 Assault Division: Hive Lords U3B leaves *Zagon Prime* (2026-01-19 10:14  UTC)<br/>
 Assault Division: Dragonroaches U2A leaves *Omicron* (2026-01-19 10:19  UTC)<br/>
+*Hort* Region 2 Magnitude City is besieged by Humans (2026-01-19 12:30  UTC)<br/>
+*Hort* defense is failed (2026-01-19 20:44  UTC)<br/>
+↳ *Rirga Bay* liberation campaign ends (2026-01-19 20:44  UTC)<br/>
+↳ *RD-4* liberation campaign ends (2026-01-19 20:44  UTC)<br/>
+↳ *Hesoe Prime* liberation campaign ends (2026-01-19 20:44  UTC)<br/>
+↳ Rigel sector is fully under Illuminate control (2026-01-19 20:44  UTC)<br/>
+ Decay: 1.0 on Hort
+ (2026-01-19 22:00  UTC)<br/>
+
+### Day: #713
+DSS deploys to *Afoyay Bay* of the Gallux sector (2026-01-20 14:56  UTC)<br/>
+Dispatch: DSS MOVED. High Command has ordered the transport of the Democracy Space Station, damaged during the firing of the Star of Peace, to Pandora Base on planet *Afoyay Bay*, to begin full-scale repair of the station. (2026-01-20 14:58  UTC)<br/>
