@@ -13678,6 +13678,7 @@ DSS effect Orbital Blockade stops (2025-12-17 23:57  UTC)<br/>
 # Day: #680
 Dispatch: NEW STRATEGIC OPPORTUNITY. A portion of this year's Reckoning Fund has been allocated for Experimental Stratagem Testing. Three enemy-held planets have been specially chosen for weapons testing: MARFARK, NEW STOCKHOLM, and HEETH. On these planets, the ORBITAL 120MM HE BARRAGE has been experimentally modified to the Orbital 120MM HE/EMS Barrage. The Helldivers are ordered to reach the targeted kill count on any one of the chosen planets. (2025-12-18 10:00  UTC)<br/>
 Major Order | [A2-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-3) Hold *Afoyay Bay* and 3 Magma Worlds is won | Objective: Control (2025-12-18 12:18  UTC)<br/>
+Afoyay of the Gallux sector is established as a Pandora Base POI (2025-12-18 12:20  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Construction of Pandora Base has begun. High Command has declassified the ultimate objective of Operation Free Space: the Star of Peace. This glorious upgrade will augment the Democracy Space Station into a beacon capable of projecting Liberty's light across entire planetary systems. Consult the Galactic Map for more information. (2025-12-18 12:20  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-12-18 15:15  UTC)<br/>
 *Julheim* defense is failed (2025-12-18 20:08  UTC)<br/>
@@ -14116,3 +14117,12 @@ Assault Division: Dragonroaches U2A leaves *Omicron* (2026-01-19 10:19  UTC)<br/
 ### Day: #713
 DSS deploys to *Afoyay Bay* of the Gallux sector (2026-01-20 14:56  UTC)<br/>
 Dispatch: DSS MOVED. High Command has ordered the transport of the Democracy Space Station, damaged during the firing of the Star of Peace, to Pandora Base on planet *Afoyay Bay*, to begin full-scale repair of the station. (2026-01-20 14:58  UTC)<br/>
+*Gaellivare* is liberated (2026-01-20 18:01  UTC)<br/>
+↳ Talus sector is fully under Human control (2026-01-20 18:01  UTC)<br/>
+ Decay: 1.5 on Gaellivare
+ (2026-01-20 20:00  UTC)<br/>
+
+### Day: #714
+*Adhara* Region 0 Traitor's End Settlement has fallen to Humans (2026-01-21 12:13  UTC)<br/>
+Major Order | [A3-1-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-5) Secure *Valmox* and *Myrium* is issued | Objective: Liberate/Control (2026-01-21 12:40  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Disturbing evidence has come to light: the Star of Peace may have experienced a data breach at or near the time of firing. The station has been placed into lockdown. Exacerbating the situation, intel indicates an imminent Illuminate attack on *Afoyay Bay*, seeking to destroy the Star of Peace. the Helldivers are ordered to clear a path through VALMOX and MYRIUM, while holding *Afoyay Bay*, to enable the evacuation of Pandora Base and CECOD personnel. (2026-01-21 12:41  UTC)<br/>
