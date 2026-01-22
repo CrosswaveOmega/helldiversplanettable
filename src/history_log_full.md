@@ -4794,7 +4794,7 @@ Dispatch: SITUATIONAL REFRESHER. This helpful refresher is provided as an aid fo
  Decay: 500.0 on Human worlds<br/> Decay: 3.0 on Hellmire, Gaellivare, Erson Sands, Fori Prime, Nivel 43, Zagon Prime<br/> Decay: 1.5 on Marspira sector, Gellert sector, Draco sector, Hydra sector, Valdis sector, Jin Xi sector, Andromeda sector, Tanis sector<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, L'estrade sector, Umlaut sector, Jin Xi sector, Mirin sector<br/> Decay: 1.0 on Curia, Imber, Cirrus, Veld, Aesir Pass, Fenrir III, Darius II<br/> Decay: 0.5 on Shelt, Marfark, Matar Bay<br/> Decay: 2.5 on Heeth, Penta, Turing, Angel's Venture, Choohe, Chort Bay<br/> Decay: 0.2 on Acamar IV<br/> Decay: 0.0 on Charbal-VII, Charon Prime, Choepessa IV<br/> Decay: 2.9 on Lesath<br/> Decay: 0.8 on Human worlds<br/> Decay: 0.45 on Wasat
  (2024-11-07 16:01  UTC)<br/>
 *Estanu* of the Draco sector is attacked by Lvl 13 Terminids (2024-11-07 17:16  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Lvl 11Terminids (2024-11-07 17:16  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 11 Terminids (2024-11-07 17:16  UTC)<br/>
  Decay: 3.0 on Hellmire, Gaellivare, Nivel 43<br/> Decay: 1.0 on Curia, Aesir Pass, Fenrir III<br/> Decay: 1.5 on Gellert sector, Hydra sector, Falstaff sector, Jin Xi sector, Andromeda sector, Valdis sector<br/> Decay: 0.0 on Crimsica, Estanu<br/> Decay: 2.5 on Heeth, Penta, Turing, Choohe, Chort Bay<br/> Decay: 2.0 on Sten sector, Tanis sector, Falstaff sector, Umlaut sector, Jin Xi sector<br/> Decay: 0.5 on Matar Bay<br/> Decay: 0.8 on Troost, Varylia 5
  (2024-11-07 17:16  UTC)<br/>
 *Esker* defense is failed (2024-11-07 18:52  UTC)<br/>
