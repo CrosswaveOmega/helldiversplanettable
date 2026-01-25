@@ -14131,3 +14131,8 @@ Minor Order | [A3-1-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-6) Comp
 *Clasa* liberation campaign ends (2026-01-22 13:00  UTC)<br/>
 *Clasa* high priority campaign starts (2026-01-22 13:01  UTC)<br/>
 Dispatch: NEW ELITE OPERATION. Intel has pinpointed a secure bot database on CLASA. Cyberassault teams are prepared to breach the site. Their objective is at the highest level of secrecy. However, an orbital defense array prevents low-orbit Destroyer operation. Elite Helldivers are ordered to deploy to CLASA and conduct Commando operations—operations with severely limited Super Destroyer support—in order to enable the upload teams to carry out their mission. (2026-01-22 13:01  UTC)<br/>
+
+### Day: #716
+*Myrium* is liberated (2026-01-23 16:49  UTC)<br/>
+
+### Day: #717
