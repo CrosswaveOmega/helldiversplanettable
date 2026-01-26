@@ -14136,3 +14136,9 @@ Dispatch: NEW ELITE OPERATION. Intel has pinpointed a secure bot database on CLA
 *Myrium* is liberated (2026-01-23 16:49  UTC)<br/>
 
 ### Day: #717
+*Valmox* Region 1 Reformed-By-Truth City has fallen to Humans (2026-01-24 16:28  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement is besieged by Humans (2026-01-24 16:28  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement has fallen to Humans (2026-01-24 21:29  UTC)<br/>
+
+### Day: #718
+*Valmox* Region 2 Obedience City is besieged by Humans (2026-01-25 11:17  UTC)<br/>
