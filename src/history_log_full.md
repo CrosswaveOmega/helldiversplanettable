@@ -14142,3 +14142,23 @@ Dispatch: NEW ELITE OPERATION. Intel has pinpointed a secure bot database on CLA
 
 ### Day: #718
 *Valmox* Region 2 Obedience City is besieged by Humans (2026-01-25 11:17  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Lvl 13 Illuminate (2026-01-25 23:23  UTC)<br/>
+Minor Order | [A3-1-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-6) Complete Operations On *Clasa* is issued | Objective: Operation is won (2026-01-26 01:41  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Illuminate have been repelled from *Afoyay Bay* long enough to evacuate the majority of CECOD and Pandora Base personnel to a secure location. The DSS has been moved to #planet1, where it is secure from enemy attack. The Ministry of Truth investigation has confirmed an unauthorized download of the full blueprints to the Star of Peace. However, no facility personnel were involved: this was an act of espionage by an external foe. Consult the Galactic Map for more information. (2026-01-26 01:41  UTC)<br/>
+NOTE: This is not the correct dispatch for the mO but it appears there was a mistake on the gamemaster's end. The dispatch was retracted at 06:21am the same day (2026-01-26 01:41  UTC)<br/>
+ Decay: 0.0 on Afoyay Bay
+ (2026-01-26 01:41  UTC)<br/>
+Dispatch: ELITE OPERATION COMPLETED. The Cyberassault teams have accomplished their mission, completing covert file transfer to the Automaton database. The small cadre of Helldivers who enabled mission success displayed uncommon skill in their conduct of Commando missions, proving the viability of this new method by which to extend Freedom's reach even into deeply contested territory. (2026-01-26 06:26  UTC)<br/>
+*Valmox* is liberated (2026-01-26 08:37  UTC)<br/>
+↳ *Iro* liberation campaign starts (2026-01-26 08:37  UTC)<br/>
+↳ *Mog* liberation campaign starts (2026-01-26 08:37  UTC)<br/>
+
+### Day: #719
+ Decay: 1.5 on Valmox
+ (2026-01-26 09:00  UTC)<br/>
+*Aesir Pass* liberation campaign ends (2026-01-26 14:40  UTC)<br/>
+*Aesir Pass* high priority campaign starts (2026-01-26 14:40  UTC)<br/>
+ Decay: 3.0 on Aesir Pass
+ (2026-01-26 14:40  UTC)<br/>
+Dispatch: COMMANDO OPERATION INITIATED. Automaton orbital defenses on AESIR PASS demand the employment of new Commando Operations on some regions of the planet. Helldivers seeking to prove themselves as the most elite of the elite are called to take on these operations. (2026-01-26 14:41  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2026-01-26 14:45  UTC)<br/>
