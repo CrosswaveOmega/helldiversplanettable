@@ -14162,3 +14162,23 @@ Dispatch: ELITE OPERATION COMPLETED. The Cyberassault teams have accomplished th
  (2026-01-26 14:40  UTC)<br/>
 Dispatch: COMMANDO OPERATION INITIATED. Automaton orbital defenses on AESIR PASS demand the employment of new Commando Operations on some regions of the planet. Helldivers seeking to prove themselves as the most elite of the elite are called to take on these operations. (2026-01-26 14:41  UTC)<br/>
 *Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2026-01-26 14:45  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Charon Prime* (2026-01-26 15:30  UTC)<br/>
+ Decay: 4.0 on Clasa
+ (2026-01-26 15:30  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Choepessa IV* (2026-01-26 15:32  UTC)<br/>
+Assault Division: Incineration Corps U8A leaves *Choepessa IV* (2026-01-26 16:45  UTC)<br/>
+*Fury* of the Xzar sector is attacked by Lvl 35 Automatons (2026-01-26 16:47  UTC)<br/>
+Assault Division: Incineration Corps U8A deploys to *Fury* (2026-01-26 16:47  UTC)<br/>
+*Afoyay Bay* defense is won (2026-01-26 18:37  UTC)<br/>
+ Decay: 0.0 on Fury
+ (2026-01-26 18:37  UTC)<br/>
+ Decay: 1.5 on Afoyay Bay
+ (2026-01-26 20:00  UTC)<br/>
+
+# Day: #720
+Major Order | [A3-1-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-5) Secure *Valmox* and *Myrium* is won | Objective: Liberate/Control (2026-01-27 12:44  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Illuminate have been repelled from *Afoyay Bay* long enough to evacuate the majority of CECOD and Pandora Base personnel to a secure location. The DSS has been moved to #planet1, where it is secure from enemy attack. The Ministry of Truth investigation has confirmed an unauthorized download of the full blueprints to the Star of Peace. However, no facility personnel were involved: this was an act of espionage by an external foe. Consult the Galactic Map for more information. (2026-01-27 12:47  UTC)<br/>
+NOTE: Despite what the dispatch says the DSS has not yet moved and planet1 is not defined. The line about the DSS moving is later removed from the dispatch at an unknown time between this dispatch and 06:43pm same day (2026-01-27 12:47  UTC)<br/>
+Major Order | [A3-1-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-7) Secure *Clasa*, *Yed Prior*, *Adhara* and *Mog* is issued | Objective: Control (2026-01-27 14:17  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. To identify the culprit behind the Star of Peace blueprint espionage, simultaneous searches of Automaton and Illuminate data storage nodes will be conducted. Helldivers: hold CLASA, YED PRIOR, MOG, and ADHARA to allow recovery teams to perform deep-system archival synchronization. Democracy demands simple, uncomplex truth. The Helldivers will now secure it. (2026-01-27 14:18  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement has fallen to Humans (2026-01-27 20:03  UTC)<br/>
