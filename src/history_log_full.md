@@ -14182,3 +14182,24 @@ NOTE: Despite what the dispatch says the DSS has not yet moved and planet1 is no
 Major Order | [A3-1-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-7) Secure *Clasa*, *Yed Prior*, *Adhara* and *Mog* is issued | Objective: Control (2026-01-27 14:17  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. To identify the culprit behind the Star of Peace blueprint espionage, simultaneous searches of Automaton and Illuminate data storage nodes will be conducted. Helldivers: hold CLASA, YED PRIOR, MOG, and ADHARA to allow recovery teams to perform deep-system archival synchronization. Democracy demands simple, uncomplex truth. The Helldivers will now secure it. (2026-01-27 14:18  UTC)<br/>
 *Clasa* Region 0 Sycamore Gardens Settlement has fallen to Humans (2026-01-27 20:03  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Lvl 26 Automatons (2026-01-28 08:26  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2026-01-28 08:26  UTC)<br/>
+
+### Day: #721
+ Decay: 0.0 on Lesath
+ (2026-01-28 09:00  UTC)<br/>
+ Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
+ (2026-01-28 09:00  UTC)<br/>
+*Adhara* Region 0 Traitor's End Settlement has fallen to Illuminate (2026-01-28 12:40  UTC)<br/>
+*Adhara* Region 0 Traitor's End Settlement is besieged by Humans (2026-01-28 12:40  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement has fallen to Automatons (2026-01-28 12:40  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement is besieged by Humans (2026-01-28 12:40  UTC)<br/>
+ Decay: 5.0 on Merak
+ (2026-01-28 12:40  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City has fallen to Automatons (2026-01-28 12:43  UTC)<br/>
+*Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2026-01-28 12:43  UTC)<br/>
+*Fury* defense is failed (2026-01-28 16:48  UTC)<br/>
+↳ *Fury* liberation campaign starts (2026-01-28 16:48  UTC)<br/>
+ Decay: 2.0 on Fury
+ (2026-01-28 18:00  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-01-28 19:56  UTC)<br/>
