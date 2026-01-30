@@ -14203,3 +14203,39 @@ Dispatch: NEW MAJOR ORDER. To identify the culprit behind the Star of Peace blue
  Decay: 2.0 on Fury
  (2026-01-28 18:00  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-01-28 19:56  UTC)<br/>
+*Yed Prior* is liberated (2026-01-29 04:14  UTC)<br/>
+*Clasa* decay rate changes to -0.59% per hour (2026-01-29 04:14  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2026-01-29 05:40  UTC)<br/>
+ Decay: -1.0 on Clasa<br/> Decay: 1.5 on Yed Prior
+ (2026-01-29 05:40  UTC)<br/>
+*Clasa* Region 0 Sycamore Gardens Settlement has fallen to Human (2026-01-29 05:48  UTC)<br/>
+
+### Day: #722
+*Clasa* Region 1 Kodiak Falls Town is besieged by Humans (2026-01-29 13:32  UTC)<br/>
+*Valmox* of the Rictus sector is attacked by Lvl 18 Illuminate (2026-01-29 15:29  UTC)<br/>
+*Valmox* Region 0 Rebelsgrave Settlement is besieged by Humans (2026-01-29 15:29  UTC)<br/>
+ Region Decay: 0.1 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.4 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.4 on Valmox's OBEDIENCE region
+ (2026-01-29 16:00  UTC)<br/>
+ Region Decay: 0.1 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.4 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.4 on Valmox's OBEDIENCE region
+ (2026-01-29 16:00  UTC)<br/>
+*Clasa* Region 1 Kodiak Falls Town has fallen to Humans (2026-01-29 23:05  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is besieged by Humans (2026-01-29 23:25  UTC)<br/>
+*Clasa* Region 2 Voting District F-012357 City is besieged by Humans (2026-01-30 01:17  UTC)<br/>
+*Valmox* Region 2 Obedience City is besieged by Humans (2026-01-30 05:00  UTC)<br/>
+*Lesath* defense is failed (2026-01-30 08:27  UTC)<br/>
+↳ *Lesath* liberation campaign starts (2026-01-30 08:27  UTC)<br/>
+↳ *Chort Bay* liberation campaign ends (2026-01-30 08:27  UTC)<br/>
+↳ *Menkent* liberation campaign ends (2026-01-30 08:27  UTC)<br/>
+
+### Day: #723
+*Nivel 43* of the Mirin sector is attacked by Terminids (2026-01-30 09:00  UTC)<br/>
+Assault Division: Rupture Strain U7A deploys to *Nivel 43* (2026-01-30 09:00  UTC)<br/>
+ Decay: 1.0 on Lesath
+ (2026-01-30 09:00  UTC)<br/>
+Minor Order | [A3-1-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-8) Defend *Nivel 43* is issued | Objective: Control (2026-01-30 09:07  UTC)<br/>
+Dispatch: NIVEL 43 UNDER ATTACK. Terminid forces are attempting to reinfest *Nivel 43*. This follows disturbing reports of a marked increase in the Gloom Spores engulfing the planet. Local and orbital visibility is further exacerbated by the sheer volume of bloodthirsty insect fascists now ravaging the planet. Helldivers: Hold *Nivel 43*. Repel the despotic swarm to enable surviving scientists to disperse the Gloom and restore optical sovereignty. (2026-01-30 09:07  UTC)<br/>
+*Nivel 43* is lightly enveloped by the Gloom (2026-01-30 09:09  UTC)<br/>
+ Decay: 0.0 on Nivel 43
+ (2026-01-30 10:00  UTC)<br/>
+*Clasa* is liberated (2026-01-30 13:19  UTC)<br/>
+↳ Tanis sector is fully under Human control (2026-01-30 13:19  UTC)<br/>
