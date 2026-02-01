@@ -14239,3 +14239,31 @@ Dispatch: NIVEL 43 UNDER ATTACK. Terminid forces are attempting to reinfest *Niv
  (2026-01-30 10:00  UTC)<br/>
 *Clasa* is liberated (2026-01-30 13:19  UTC)<br/>
 ↳ Tanis sector is fully under Human control (2026-01-30 13:19  UTC)<br/>
+DSS deploys to *Zefia* of the Tanis sector (2026-01-30 14:17  UTC)<br/>
+ Decay: 4.0 on Clasa
+ (2026-01-30 14:17  UTC)<br/>
+DSS deploys to *Nivel 43* of the Mirin sector (2026-01-30 14:18  UTC)<br/>
+Dispatch: DSS RETURNED TO SERVICE. The Democracy Space Station has been repaired and returned to service, following the defensive activation of the Star of Peace. The Star of Peace itself lacks sufficient Dark Fluid to fire again. Until more E-711 can be gathered from which to synthesize Dark Fluid, the DSS will operate in a non-planetary-destroying capacity only. (2026-01-30 14:20  UTC)<br/>
+*Adhara* Region 0 Traitor's End Settlement has fallen to Humans (2026-01-30 17:45  UTC)<br/>
+*Valmox* Region 1 Reformed-By-Truth City is besieged by Humans (2026-01-30 18:25  UTC)<br/>
+DSS deploys to *Adhara* of the Gallux sector (2026-01-31 02:23  UTC)<br/>
+
+### Day: #724
+*Nivel 43* defense is failed (2026-01-31 09:01  UTC)<br/>
+↳ *Nivel 43* liberation campaign starts (2026-01-31 09:01  UTC)<br/>
+↳ *Erson Sands* liberation campaign ends (2026-01-31 09:01  UTC)<br/>
+↳ *Esker* liberation campaign ends (2026-01-31 09:01  UTC)<br/>
+↳ *Zagon Prime* liberation campaign ends (2026-01-31 09:01  UTC)<br/>
+ Decay: 1.5 on Nivel 43
+ (2026-01-31 10:00  UTC)<br/>
+↳ *Mog* liberation campaign ends (2026-01-31 15:30  UTC)<br/>
+↳ *Iro* liberation campaign ends (2026-01-31 15:30  UTC)<br/>
+*Valmox* defense is failed (2026-01-31 15:31  UTC)<br/>
+↳ *Valmox* liberation campaign starts (2026-01-31 15:31  UTC)<br/>
+↳ Rictus sector is fully under Illuminate control (2026-01-31 15:31  UTC)<br/>
+ Decay: 1.0 on Valmox
+ (2026-01-31 16:00  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is attacked by Lvl 12 Illuminate (2026-01-31 20:19  UTC)<br/>
+ Decay: 0.0 on Afoyay Bay
+ (2026-01-31 22:00  UTC)<br/>
+DSS deploys to *Afoyay Bay* of the Gallux sector (2026-02-01 02:25  UTC)<br/>
