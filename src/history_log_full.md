@@ -14267,3 +14267,20 @@ DSS deploys to *Adhara* of the Gallux sector (2026-01-31 02:23  UTC)<br/>
  Decay: 0.0 on Afoyay Bay
  (2026-01-31 22:00  UTC)<br/>
 DSS deploys to *Afoyay Bay* of the Gallux sector (2026-02-01 02:25  UTC)<br/>
+
+### Day: #725
+*Adhara* Region 1 Strength City is besieged by Humans (2026-02-01 15:20  UTC)<br/>
+DSS effect Eagle Storm is activated (2026-02-01 16:52  UTC)<br/>
+*Afoyay Bay* defense is won (2026-02-02 06:34  UTC)<br/>
+DSS deploys to *Adhara* of the Gallux sector (2026-02-02 06:34  UTC)<br/>
+HP reached a checkpoint. (2026-02-02 08:00  UTC)<br/>
+HP reached a checkpoint. (2026-02-02 08:00  UTC)<br/>
+
+### Day: #726
+ Decay: 3.0 on Lesath
+ (2026-02-02 09:00  UTC)<br/>
+Minor Order | [A3-1-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-8) Defend *Nivel 43* is failed | Objective: Control (2026-02-02 09:09  UTC)<br/>
+Dispatch: NIVEL 43 HELD: ARSENAL AUGMENTATION. *Nivel 43* is secure. Reports of "coordinated" Terminids are officially attributed to residual pheromones from long-destroyed subterranean nurseries. Gloom dispersal has revealed stockpiles of Quasar Cannon, now authorized for fleetwide deployment for 72 hours. Disciplinary action is pending against the interns responsible for this inventory oversight, should their remains be identified. (2026-02-02 09:11  UTC)<br/>
+NOTE: This dispatch is wrongly sent out. It is retracted one minute later and the correct dispatch is sent out a few minutes later (2026-02-02 09:11  UTC)<br/>
+Dispatch: NIVEL 43 HAS FALLEN. *Nivel 43* has fallen to Terminid infestation. Intelligence suggests the Terminids may be attempting to re-establish long-destroyed subterranean nurseries, a process likely expedited by the consumed biomass of Xenobiologists who negligently failed to evacuate. High Command has flagged these scientists for posthumous censure for providing unauthorized nutritional aid to the enemy. (2026-02-02 09:17  UTC)<br/>
+*Zosma* of the Gellert sector is attacked by Lvl 17 Automatons (2026-02-02 09:28  UTC)<br/>
