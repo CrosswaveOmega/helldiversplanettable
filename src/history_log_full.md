@@ -14284,3 +14284,39 @@ Dispatch: NIVEL 43 HELD: ARSENAL AUGMENTATION. *Nivel 43* is secure. Reports of 
 NOTE: This dispatch is wrongly sent out. It is retracted one minute later and the correct dispatch is sent out a few minutes later (2026-02-02 09:11  UTC)<br/>
 Dispatch: NIVEL 43 HAS FALLEN. *Nivel 43* has fallen to Terminid infestation. Intelligence suggests the Terminids may be attempting to re-establish long-destroyed subterranean nurseries, a process likely expedited by the consumed biomass of Xenobiologists who negligently failed to evacuate. High Command has flagged these scientists for posthumous censure for providing unauthorized nutritional aid to the enemy. (2026-02-02 09:17  UTC)<br/>
 *Zosma* of the Gellert sector is attacked by Lvl 17 Automatons (2026-02-02 09:28  UTC)<br/>
+ Decay: 0.0 on Zosma
+ (2026-02-02 10:00  UTC)<br/>
+DSS effect Eagle Storm stops (2026-02-02 16:53  UTC)<br/>
+ Decay: 1.0 on Vernen Wells<br/> Decay: 2.0 on Lesath, Menkent
+ (2026-02-02 16:53  UTC)<br/>
+*Adhara* Region 1 Strength City has fallen to Humans (2026-02-02 17:21  UTC)<br/>
+*Adhara* is liberated (2026-02-02 17:22  UTC)<br/>
+↳ *Mog* liberation campaign starts (2026-02-02 17:22  UTC)<br/>
+↳ *Haldus* liberation campaign starts (2026-02-02 17:22  UTC)<br/>
+↳ Gallux sector is fully under Human control (2026-02-02 17:22  UTC)<br/>
+DSS deploys to *Zosma* of the Gellert sector (2026-02-02 17:22  UTC)<br/>
+ Decay: 1.5 on Adhara
+ (2026-02-02 18:00  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2026-02-02 22:27  UTC)<br/>
+Major Order | [A3-1-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-7) Secure *Clasa*, *Yed Prior*, *Adhara* and *Mog* is failed | Objective: Control (2026-02-03 02:21  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Though the investigation was blocked, in a fortuitous turn of impeccably accurate patriotic intuition, the stolen Star of Peace blueprints have been located precisely where expected. The only viable conclusion: the Automatons intend to build their own socialist Star of Peace, to wield for terror. High Command has no choice but to prosecute the perpetrators of this despicable and Galaxy-threatening act. *Cyberstan* must be destroyed. (2026-02-03 02:28  UTC)<br/>
+DSS deploys to *Zosma* of the Gellert sector (2026-02-03 06:27  UTC)<br/>
+Assault Division: Incineration Corps U9A deploys to *Aurora Bay* (2026-02-03 08:18  UTC)<br/>
+Assault Division: Incineration Corps U9B deploys to *Merak* (2026-02-03 08:19  UTC)<br/>
+
+### Day: #727
+*Zosma* defense is failed (2026-02-03 09:29  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2026-02-03 09:29  UTC)<br/>
+Major Order | [A3-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-1) Operation Valid Pretext Phase One is issued | Objective: Control (2026-02-03 09:58  UTC)<br/>
+Dispatch: OPERATION VALID PRETEXT. High Command orders the initiation of Operation VALID PRETEXT. The objective is the liberation of *Cyberstan* from the Automaton Legion, in order to deny the inevitable development of socialist planet-destroying capabilities. Phase I of this operation is the March to *Cyberstan*. The objective of this phase is to hold *Aurora Bay* or *Merak*, in order to establish the planet from which the emancipation of *Cyberstan* will be launched. (2026-02-03 09:58  UTC)<br/>
+ Decay: 1.0 on Zosma
+ (2026-02-03 09:58  UTC)<br/>
+Assault Division: Jet Brigade U11A deploys to *Aurora Bay* (2026-02-03 10:20  UTC)<br/>
+*Chort Bay* - *Aurora Bay* warp link is added (2026-02-03 10:20  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2026-02-03 10:27  UTC)<br/>
+*Cyberstan*'s max health is changed to 15m (2026-02-03 10:29  UTC)<br/>
+Assault Division: Jet Brigade U11A leaves *Aurora Bay* (2026-02-03 10:48  UTC)<br/>
+Assault Division: Jet Brigade U11A deploys to *Choohe* (2026-02-03 10:49  UTC)<br/>
+Dispatch: NEW STRATAGEM: BASTION MK XVI. To secure the success of Operation VALID PRETEXT, the Bastion Mk XVI is now available. This heavily armored Tank Destroyer newly accommodates a full squad for optimal dispensing of Liberty: a Driver and Gunner, plus two Spotters capable of engaging threats from open hatches. (2026-02-03 13:05  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2026-02-03 14:27  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town has fallen to Humans (2026-02-03 15:45  UTC)<br/>
