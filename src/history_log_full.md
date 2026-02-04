@@ -14311,6 +14311,9 @@ Major Order | [A3-2-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-1) Oper
 Dispatch: OPERATION VALID PRETEXT. High Command orders the initiation of Operation VALID PRETEXT. The objective is the liberation of *Cyberstan* from the Automaton Legion, in order to deny the inevitable development of socialist planet-destroying capabilities. Phase I of this operation is the March to *Cyberstan*. The objective of this phase is to hold *Aurora Bay* or *Merak*, in order to establish the planet from which the emancipation of *Cyberstan* will be launched. (2026-02-03 09:58  UTC)<br/>
  Decay: 1.0 on Zosma
  (2026-02-03 09:58  UTC)<br/>
+Heavy Armor surge has been detected on *Lesath* (2026-02-03 10:05  UTC)<br/>
+Hulk surge has been detected on *Menkent* (2026-02-03 10:07  UTC)<br/>
+Devastator surge has been detected on *Chort Bay* (2026-02-03 10:07  UTC)<br/>
 Assault Division: Jet Brigade U11A deploys to *Aurora Bay* (2026-02-03 10:20  UTC)<br/>
 *Chort Bay* - *Aurora Bay* warp link is added (2026-02-03 10:20  UTC)<br/>
 DSS deploys to *Zzaniah Prime* of the Gellert sector (2026-02-03 10:27  UTC)<br/>
@@ -14320,3 +14323,7 @@ Assault Division: Jet Brigade U11A deploys to *Choohe* (2026-02-03 10:49  UTC)<b
 Dispatch: NEW STRATAGEM: BASTION MK XVI. To secure the success of Operation VALID PRETEXT, the Bastion Mk XVI is now available. This heavily armored Tank Destroyer newly accommodates a full squad for optimal dispensing of Liberty: a Driver and Gunner, plus two Spotters capable of engaging threats from open hatches. (2026-02-03 13:05  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2026-02-03 14:27  UTC)<br/>
 *Lesath* Region 1 Morskie Oko Town has fallen to Humans (2026-02-03 15:45  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-02-03 22:53  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2026-02-03 22:57  UTC)<br/>
+
+### Day: #728
