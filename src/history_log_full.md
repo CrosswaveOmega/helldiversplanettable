@@ -14325,5 +14325,23 @@ DSS deploys to *Lesath* of the Lacaille sector (2026-02-03 14:27  UTC)<br/>
 *Lesath* Region 1 Morskie Oko Town has fallen to Humans (2026-02-03 15:45  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-02-03 22:53  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2026-02-03 22:57  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2026-02-03 23:01  UTC)<br/>
 
 ### Day: #728
+Assault Division: Jet Brigade U11B deploys to *Aurora Bay* (2026-02-04 12:00  UTC)<br/>
+Assault Division: Jet Brigade U11B leaves *Aurora Bay* (2026-02-04 12:29  UTC)<br/>
+Assault Division: Jet Brigade U11B deploys to *Chort Bay* (2026-02-04 12:33  UTC)<br/>
+Assault Division: Jet Brigade U11B leaves *Chort Bay* (2026-02-04 13:00  UTC)<br/>
+Assault Division: Jet Brigade U11B deploys to *Merak* (2026-02-04 13:01  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity has fallen to Humans (2026-02-04 14:43  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2026-02-04 14:43  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2026-02-04 14:43  UTC)<br/>
+*Lesath* is liberated (2026-02-04 23:00  UTC)<br/>
+↳ *Chort Bay* liberation campaign starts (2026-02-04 23:00  UTC)<br/>
+↳ *Menkent* liberation campaign starts (2026-02-04 23:00  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2026-02-04 23:00  UTC)<br/>
+Dispatch: LESATH LIBERATED. *Lesath* is secure, freeing up Shield Generator Relay reserves, to be made available for 24 hours upon *Cyberstan* landfall. Forces must advance: Liberate *Menkent* to seize additional ammunition, immediately granting Railgun availability for 24 hours. Liberate *Chort Bay* to secure pharmaceutical facilities, granting +1 Stim Capacity for 24 hours, banked for deployment on *Cyberstan*. (2026-02-04 23:11  UTC)<br/>
+DSS effect Orbital Blockade is activated (2026-02-04 23:32  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-05 03:19  UTC)<br/>
+
+### Day: #729
