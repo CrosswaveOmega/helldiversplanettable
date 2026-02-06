@@ -14345,3 +14345,31 @@ DSS effect Orbital Blockade is activated (2026-02-04 23:32  UTC)<br/>
 DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-05 03:19  UTC)<br/>
 
 ### Day: #729
+Dispatch: VOTE TO RAZE LESATH. LESATH has been liberated. To fully raze any remaining Automaton structures, the DSS may conduct a day-long bombardment of the planet's surface. This action would guarantee total destruction of enemy forces, and maximum vengeance for crimes committed. However, it would also render the DSS orbital support fully offline until the bombardment sequence has completed. The Helldivers are ordered to vote on the best course of action. Each Helldiver may vote once via the Galactic Map. (2026-02-05 12:07  UTC)<br/>
+Assault Division: Incineration Corps U9C deploys to Vindemitrax Prime (2026-02-05 13:32  UTC)<br/>
+Assault Division: Jet Brigade U11C deploys to *Aurora Bay* (2026-02-05 13:32  UTC)<br/>
+Assault Division: Incineration Corps U9C divides into 2 groups [U9C, U9D] (2026-02-05 14:29  UTC)<br/>
+Assault Division: Incineration Corps U9D deploys to *Mekbuda* (2026-02-05 14:29  UTC)<br/>
+ Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime
+ (2026-02-05 14:29  UTC)<br/>
+Assault Division: Incineration Corps U9C leaves Vindemitrax Prime (2026-02-05 15:30  UTC)<br/>
+Assault Division: Incineration Corps U9D leaves *Mekbuda* (2026-02-05 15:30  UTC)<br/>
+Assault Division: Incineration Corps U9C deploys to *Mekbuda* (2026-02-05 15:30  UTC)<br/>
+Assault Division: Incineration Corps U9D deploys to *Cyberstan* (2026-02-05 15:31  UTC)<br/>
+Assault Division: Jet Brigade U11A leaves *Choohe* (2026-02-05 15:57  UTC)<br/>
+Assault Division: Jet Brigade U11A deploys to *Chort Bay* (2026-02-05 15:58  UTC)<br/>
+Assault Division: Incineration Corps U9D leaves *Cyberstan* (2026-02-05 16:31  UTC)<br/>
+ Decay: 4.5 on Chort Bay
+ (2026-02-05 16:31  UTC)<br/>
+Assault Division: Incineration Corps U9D deploys to *Merga IV* (2026-02-05 16:32  UTC)<br/>
+Assault Division: Incineration Corps U9C leaves *Mekbuda* (2026-02-05 16:32  UTC)<br/>
+Assault Division: Incineration Corps U9A leaves *Aurora Bay* (2026-02-05 16:32  UTC)<br/>
+Assault Division: Incineration Corps U9C deploys to *Aurora Bay* (2026-02-05 16:32  UTC)<br/>
+Assault Division: Incineration Corps U9A deploys to *Choohe* (2026-02-05 16:33  UTC)<br/>
+Assault Division: Incineration Corps U9D leaves *Merga IV* (2026-02-05 17:28  UTC)<br/>
+Assault Division: Incineration Corps U9D merges with Incineration Corps U9B (2026-02-05 17:28  UTC)<br/>
+*Mekbuda* - *Aurora Bay* warp link is added (2026-02-05 17:54  UTC)<br/>
+*Merga IV* - *Merak* warp link is added (2026-02-05 17:54  UTC)<br/>
+ Decay: 6.0 on Merak
+ (2026-02-05 17:54  UTC)<br/>
+DSS effect Orbital Blockade stops (2026-02-05 23:33  UTC)<br/>
