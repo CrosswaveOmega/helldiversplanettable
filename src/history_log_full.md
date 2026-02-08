@@ -14339,6 +14339,7 @@ Assault Division: Jet Brigade U11B deploys to *Merak* (2026-02-04 13:01  UTC)<br
 *Lesath* is liberated (2026-02-04 23:00  UTC)<br/>
 ↳ *Chort Bay* liberation campaign starts (2026-02-04 23:00  UTC)<br/>
 ↳ *Menkent* liberation campaign starts (2026-02-04 23:00  UTC)<br/>
+Heavy Armor surge is no longer active on *Lesath* (2026-02-04 23:00  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-02-04 23:00  UTC)<br/>
 Dispatch: LESATH LIBERATED. *Lesath* is secure, freeing up Shield Generator Relay reserves, to be made available for 24 hours upon *Cyberstan* landfall. Forces must advance: Liberate *Menkent* to seize additional ammunition, immediately granting Railgun availability for 24 hours. Liberate *Chort Bay* to secure pharmaceutical facilities, granting +1 Stim Capacity for 24 hours, banked for deployment on *Cyberstan*. (2026-02-04 23:11  UTC)<br/>
 DSS effect Orbital Blockade is activated (2026-02-04 23:32  UTC)<br/>
@@ -14373,3 +14374,93 @@ Assault Division: Incineration Corps U9D merges with Incineration Corps U9B (202
  Decay: 6.0 on Merak
  (2026-02-05 17:54  UTC)<br/>
 DSS effect Orbital Blockade stops (2026-02-05 23:33  UTC)<br/>
+*Chort Bay* is liberated (2026-02-06 05:19  UTC)<br/>
+↳ *Merak* liberation campaign starts (2026-02-06 05:19  UTC)<br/>
+↳ *Choohe* liberation campaign starts (2026-02-06 05:19  UTC)<br/>
+↳ *Aurora Bay* liberation campaign starts (2026-02-06 05:19  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town is besieged by Humans (2026-02-06 05:19  UTC)<br/>
+Assault Division: Jet Brigade U11A is routed from Chort Bay (2026-02-06 05:19  UTC)<br/>
+Devastator surge is no longer active on *Chort Bay* (2026-02-06 05:19  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2026-02-06 05:19  UTC)<br/>
+Dispatch: CHORT BAY LIBERATED. Its labs grant +1 Stim Capacity for 24 hours, for use on *Cyberstan*. Liberate *Merak* to secure comms-relays, granting +20% Liberation Rate for 24 hours on *Cyberstan*. Or for immediate limited-time deployment, liberate: *Menkent*: seize ammo to grant Railgun. *Choohe*: seize heavy munitions to grant Airburst Rocket Launcher. *Aurora Bay*: hinder the Jet Brigade and grant Jump Pack. (2026-02-06 05:23  UTC)<br/>
+ Region Decay: 0.4 on Aurora Bay's BATU BELIG region<br/> Region Decay: 0.2 on Aurora Bay's EAGLEMOUNT region
+ (2026-02-06 06:00  UTC)<br/>
+ Region Decay: 0.4 on Aurora Bay's BATU BELIG region<br/> Region Decay: 0.2 on Aurora Bay's EAGLEMOUNT region
+ (2026-02-06 06:00  UTC)<br/>
+
+# Day: #730
+Assault Division: Jet Brigade U11C divides into 2 groups [U11C, U11D] (2026-02-06 09:10  UTC)<br/>
+Assault Division: Jet Brigade U11D deploys to *Mekbuda* (2026-02-06 09:11  UTC)<br/>
+Assault Division: Incineration Corps U9E deploys to Vindemitrax Prime (2026-02-06 09:11  UTC)<br/>
+Assault Division: Jet Brigade U11D leaves *Mekbuda* (2026-02-06 09:39  UTC)<br/>
+Assault Division: Incineration Corps U9E leaves Vindemitrax Prime (2026-02-06 10:08  UTC)<br/>
+Assault Division: Jet Brigade U11D leaves *Cyberstan* (2026-02-06 10:08  UTC)<br/>
+Assault Division: Incineration Corps U9E deploys to *Mekbuda* (2026-02-06 10:09  UTC)<br/>
+Assault Division: Incineration Corps U9F deploys to Vindemitrax Prime (2026-02-06 10:16  UTC)<br/>
+Assault Division: Incineration Corps U9E leaves *Mekbuda* (2026-02-06 10:44  UTC)<br/>
+ Decay: 100.0 on Cyberstan
+ (2026-02-06 10:44  UTC)<br/>
+Assault Division: Incineration Corps U9E deploys to *Cyberstan* (2026-02-06 10:45  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town has fallen to Humans (2026-02-06 11:17  UTC)<br/>
+Assault Division: Incineration Corps U9F leaves Vindemitrax Prime (2026-02-06 11:24  UTC)<br/>
+Assault Division: Incineration Corps U9F deploys to *Mekbuda* (2026-02-06 11:25  UTC)<br/>
+Assault Division: Incineration Corps U9E leaves *Cyberstan* (2026-02-06 11:34  UTC)<br/>
+DSS deploys to *Menkent* of the Hydra sector (2026-02-06 12:06  UTC)<br/>
+Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of LESATH. Consequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-06 12:07  UTC)<br/>
+Assault Division: Incineration Corps U9F leaves *Mekbuda* (2026-02-06 12:15  UTC)<br/>
+Assault Division: Incineration Corps U9F deploys to *Cyberstan* (2026-02-06 12:16  UTC)<br/>
+Hulk surge is no longer active on *Menkent* (2026-02-06 12:35  UTC)<br/>
+*Lesath* of the Lacaille sector is attacked by Automatons (2026-02-06 12:37  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is besieged by Humans (2026-02-06 12:37  UTC)<br/>
+Hulk surge has been detected on *Lesath* (2026-02-06 12:37  UTC)<br/>
+Dispatch: INTEL UPDATE. Automaton resistance on MERAK is lower than anticipated. Analysis indicates this is likely due to the destruction of *Penta* by the Star of Peace. This is yet another mark in the flawless strategic record of the Helldivers. (2026-02-06 12:48  UTC)<br/>
+ Region Decay: 0.2 on Lesath's SERENITY SUMMIT region<br/> Region Decay: 0.2 on Lesath's MORSKIE OKO region<br/> Region Decay: 0.4 on Lesath's CRYSTAL SLOPES region<br/> Region Decay: 0.6 on Lesath's BUCU'S REST region
+ (2026-02-06 12:48  UTC)<br/>
+DSS deploys to *Aurora Bay* of the Valdis sector (2026-02-06 13:33  UTC)<br/>
+ Decay: 0.0 on Lesath<br/> Decay: 4.0 on Merak
+ (2026-02-06 13:33  UTC)<br/>
+Dispatch: VOTE TO RAZE CHORT BAY. CHORT BAY has been liberated. Once again, the Helldivers may choose to direct the vast firepower of the Democracy Space Station towards a total bombardment of the planet's surface. The bombardment would last 24 hours. Voting has begun, and will end in 24 hours. (2026-02-06 13:34  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY: DENIAL OF RESURGENCE. During Operation VALID PRETEXT, Helldivers may vote to raze newly-liberated planets, triggering a day-long DSS bombardment of the liberated planet's surface. This guarantees total destruction of enemy forces, and maximum vengeance for crimes committed. However, it renders DSS orbital support fully offline until the bombardment sequence has completed. Therefore, Helldivers must exercise strategic judgment when voting on the best course of action. (2026-02-06 15:03  UTC)<br/>
+Assault Division: Jet Brigade U11C divides into 2 groups [U11C, U11E] (2026-02-06 15:05  UTC)<br/>
+Assault Division: Jet Brigade U11E deploys to *Mekbuda* (2026-02-06 15:05  UTC)<br/>
+Assault Division: Jet Brigade U11E leaves *Mekbuda* (2026-02-06 15:36  UTC)<br/>
+Assault Division: Jet Brigade U11E deploys to *Cyberstan* (2026-02-06 15:38  UTC)<br/>
+
+# Day: #730
+Assault Division: Jet Brigade U11E leaves *Cyberstan* (2026-02-06 15:59  UTC)<br/>
+Assault Division: Incineration Corps U9F leaves *Cyberstan* (2026-02-06 15:59  UTC)<br/>
+Assault Division: Jet Brigade U11D deploys to *Cyberstan* (2026-02-06 21:40  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is besieged by Humans (2026-02-06 23:12  UTC)<br/>
+
+### Day: #731
+Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of CHORT BAY. Consequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-07 10:58  UTC)<br/>
+NOTE: This message is sent out at the wrong time and is later retracted one minute later (2026-02-07 10:58  UTC)<br/>
+
+### Day: #731
+Assault Division: Jet Brigade U11B leaves *Merak* (2026-02-07 11:05  UTC)<br/>
+Assault Division: Jet Brigade U11B deploys to *Merga IV* (2026-02-07 11:06  UTC)<br/>
+Assault Division: Jet Brigade U11B leaves *Merga IV* (2026-02-07 11:35  UTC)<br/>
+ Decay: 3.0 on Merak
+ (2026-02-07 11:35  UTC)<br/>
+Assault Division: Jet Brigade U11B deploys to *Cyberstan* (2026-02-07 11:36  UTC)<br/>
+Assault Division: Jet Brigade U11B leaves *Cyberstan* (2026-02-07 12:08  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is besieged by Humans (2026-02-07 17:50  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town has fallen to Humans (2026-02-07 18:07  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2026-02-07 19:27  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town has fallen to Automatons (2026-02-07 20:35  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town is besieged by Humans (2026-02-07 20:35  UTC)<br/>
+*Chort Bay* of the Lacaille sector is attacked by Lvl 17 Automatons (2026-02-07 21:01  UTC)<br/>
+ Decay: 0.0 on Chort Bay
+ (2026-02-07 22:00  UTC)<br/>
+*Lesath* defense is won (2026-02-08 02:00  UTC)<br/>
+Hulk surge has is no longer active on *Lesath* (2026-02-08 02:00  UTC)<br/>
+DSS deploys to *Merak* of the Valdis sector (2026-02-08 02:00  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-08 03:27  UTC)<br/>
+ Decay: 2.0 on Lesath
+ (2026-02-08 03:27  UTC)<br/>
+
+### Day: #732
+
+### Day: #732
+DSS effect Eagle Storm is activated (2026-02-08 11:24  UTC)<br/>
+Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of CHORT BAY. Consequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-08 15:28  UTC)<br/>
