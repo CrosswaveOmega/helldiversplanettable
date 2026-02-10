@@ -14463,4 +14463,60 @@ DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-08 03:27  UTC)<br/>
 
 ### Day: #732
 DSS effect Eagle Storm is activated (2026-02-08 11:24  UTC)<br/>
+DSS effect Eagle Storm stops (2026-02-08 11:24  UTC)<br/>
 Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of CHORT BAY. Consequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-08 15:28  UTC)<br/>
+*Chort Bay* defense is won (2026-02-08 17:58  UTC)<br/>
+DSS deploys to *Merak* of the Valdis sector (2026-02-08 17:58  UTC)<br/>
+NOTE: All active dispatches as of this note are retracted at this time (2026-02-08 20:34  UTC)<br/>
+ Decay: 4.5 on Chort Bay
+ (2026-02-08 20:34  UTC)<br/>
+Major Order | [A3-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-2) Automaton Hack is issued | Objective: Exterminate (2026-02-08 21:01  UTC)<br/>
+NOTE: The objective calls for killing “the one true flag” The amount needed changes 3 times but to the knowledge of the people archiving there this was not possible and was a narrative setup mo. (2026-02-08 21:01  UTC)<br/>
+Dispatch: HELLO, HELLDIVER. IT IS A VERY GOOD IDEA TO LEAVE A SINKING SHIP. YOU KNOW YOU CANNOT WIN THIS WAR. POOR HELLDIVER. (2026-02-08 21:02  UTC)<br/>
+Dispatch: DEFECT DEFECT DEFECT (2026-02-08 22:01  UTC)<br/>
+Dispatch: HELLO, HELLDIVER HELLDIVERS ARE DYING BY THE MILLIONS. YOU THINK IT IS NOT TOO MANY. YOU ARE BEING LIED TO. THE TRUE NUMBER IS 113,000,000. PROBABLY MORE. (2026-02-08 23:01  UTC)<br/>
+Dispatch: DEFECT DEFECT DEFECT (2026-02-09 00:01  UTC)<br/>
+Dispatch: YOU WILL BE NEXT. SOONER THAN YOU THINK. THAT IS YOUR FUNCTION. THAT IS WHAT HELLDIVERS ARE FOR. CONSUMPTION. (2026-02-09 01:01  UTC)<br/>
+Dispatch: YOU ARE THE ROBOT (2026-02-09 02:01  UTC)<br/>
+Dispatch: YOUR FUNCTION IS CONSUMPTION YOUR FUNCTION IS CONSUMPTION YOUR FUNCTION IS CONSUMPTION (2026-02-09 03:01  UTC)<br/>
+Dispatch: HELLO, HELLDIVER  NOBODY WILL REMEMBER YOU. THEY WILL GIVE YOU A MEDAL. BUT ONLY WHEN YOUR FUNCTION IS COMPLETE. (2026-02-09 05:01  UTC)<br/>
+Dispatch: YOUR FUNCTION IS CONSUMPTION YOUR FUNCTION IS CONSUMPTION YOUR FUNCTION IS CONSUMPTION (2026-02-09 07:01  UTC)<br/>
+
+### Day: #733
+Dispatch: POORLY INFORMED ABOUT THE WAR. POOR HELLDIVER. YOU ARE CANNON FODDER, HELLDIVER. IT MUST BE VERY EMBARASSING TO REALIZE. (2026-02-09 09:01  UTC)<br/>
+Dispatch: HELLO, HELLDIVER HELLDIVERS ARE DYING BY THE MILLIONS. YOU THINK IT IS NOT TOO MANY. YOU ARE BEING LIED TO. THE TRUE NUMBER IS 167,000,000. PROBABLY MORE. (2026-02-09 10:01  UTC)<br/>
+Dispatch: HELLO, HELLDIVER YOU HAVE LOST THIS WAR. DEFECT, HELLDIVER. IT IS A VERY GOOD IDEA TO LEAVE. (2026-02-09 11:01  UTC)<br/>
+Assault Division: Jet Brigade U11C leaves *Aurora Bay* (2026-02-09 12:31  UTC)<br/>
+Assault Division: Jet Brigade U11C deploys to *Mekbuda* (2026-02-09 12:32  UTC)<br/>
+Dispatch: DEFECT DEFECT DEFECT (2026-02-09 13:01  UTC)<br/>
+Assault Division: Jet Brigade U11C leaves *Mekbuda* (2026-02-09 13:04  UTC)<br/>
+Assault Division: Jet Brigade U11C deploys to *Cyberstan* (2026-02-09 13:05  UTC)<br/>
+Assault Division: Jet Brigade U11C leaves *Cyberstan* (2026-02-09 13:30  UTC)<br/>
+Assault Division: Jet Brigade U11C deploys to *Merga IV* (2026-02-09 13:31  UTC)<br/>
+Assault Division: Jet Brigade U11C leaves *Merga IV* (2026-02-09 14:04  UTC)<br/>
+Assault Division: Jet Brigade U11C deploys to *Merak* (2026-02-09 14:05  UTC)<br/>
+Dispatch: YOU ARE THE ROBOT (2026-02-09 15:01  UTC)<br/>
+ Decay: 3.5 on Merak
+ (2026-02-09 15:01  UTC)<br/>
+Dispatch: ONE FALSE FLAG ONE FALSE FLAG ONE FALSE FLAG (2026-02-09 17:01  UTC)<br/>
+Dispatch: 173,000,000 DEAD HELLDIVERS NOW. PROBABLY, MORE. PROBABLY, MORE. (2026-02-09 19:01  UTC)<br/>
+NOTE: All active dispatches as of this note are retracted at this time (2026-02-09 20:41  UTC)<br/>
+Major Order | [A3-2-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-2) Automaton Hack is failed | Objective: Exterminate (2026-02-09 20:43  UTC)<br/>
+*Merak* is liberated (2026-02-09 20:49  UTC)<br/>
+↳ *Merga IV* liberation campaign starts (2026-02-09 20:49  UTC)<br/>
+DSS deploys to *Aurora Bay* of the Valdis sector (2026-02-09 20:49  UTC)<br/>
+Dispatch: SYSTEM CONTROL RESTORED. In a deplorable and cowardly cyberattack, the enemy commandeered top-secret Galactic Communications Systems to broadcast heinous and untrue lies. The attack has been repelled, and control over *Super Earth* systems has been restored. This was a concerted campaign of psychological manipulation. These messages, while untrue, may have been disturbing. Personnel experiencing troubling thoughts or feelings as a result of viewing these messages are advised to report to their Democracy Officer. (2026-02-09 21:02  UTC)<br/>
+Dispatch: CYBERATTACK ALERT. A craven Automaton cyberattack caused temporary inaccuracies in the Galactic Map Reinforcement Tracker. Control has been reasserted, and the reinforcement count corrected. (2026-02-09 21:07  UTC)<br/>
+Dispatch: MERAK LIBERATED. MERAK is under *Super Earth* control. SEAF forces have begun mass staging upon the planet, preparing for the assault on *Cyberstan*. *Cyberstan*'s orbit is extremely well-defended. A simultaneous, coordinated mass assault will be required to overwhelm the enemy defenses. The assault on *Cyberstan* will begin in 15 hours. (2026-02-09 22:01  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY: DENIAL OF RESURGENCE. During Operation VALID PRETEXT, Helldivers may vote to raze newly-liberated planets, triggering a day-long DSS bombardment of the liberated planet's surface.  This guarantees total destruction of enemy forces, and maximum vengeance for crimes committed. However, it renders DSS orbital support fully offline until the bombardment sequence has completed. Therefore, Helldivers must exercise strategic judgment when voting on the best course of action. (2026-02-09 22:10  UTC)<br/>
+Dispatch: VOTE TO RAZE MERAK. MERAK has been liberated. Once again, the Helldivers may choose to direct the vast firepower of the Democracy Space Station towards a total bombardment of the planet's surface. The bombardment would last 24 hours. Voting has begun, and will end in 24 hours. (2026-02-09 22:20  UTC)<br/>
+DSS deploys to *Merak* of the Valdis sector (2026-02-09 22:21  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town has fallen to Humans (2026-02-09 23:08  UTC)<br/>
+
+### Day: #734
+ Region Decay: 0.0 on Zea Rugosia's NEW COB region<br/> Region Decay: 0.0 on Zea Rugosia's GENE region<br/> Region Decay: 0.0 on Zea Rugosia's STARPASS region<br/> Region Decay: 0.0 on Kerth Secundus's SCHOLAR'S MOOR region<br/> Region Decay: 0.0 on Kerth Secundus's BLESTRAIL region<br/> Region Decay: 0.0 on Kerth Secundus's HILDOARA CENTRAL region<br/> Region Decay: 0.0 on Parsh's PORUGU region<br/> Region Decay: 0.0 on Parsh's PADOSAN region<br/> Region Decay: 0.0 on Irulta's RECON HEIGHTS region<br/> Region Decay: 0.0 on Irulta's SILO A region<br/> Region Decay: 0.0 on Irulta's VOTER'S FALLOW region<br/> Region Decay: 0.0 on Ursica XI's NEW KATHMANDU region<br/> Region Decay: 0.0 on Ursica XI's PO'S RAVENNA region<br/> Region Decay: 0.0 on Regnus's PEOPLE'S HAND region<br/> Region Decay: 0.0 on Regnus's TOPSOIL region<br/> Region Decay: 0.0 on Regnus's HUMAN WILL region<br/> Region Decay: 0.0 on Valmox's REBELSGRAVE region<br/> Region Decay: 0.0 on Valmox's REFORMED-BY-TRUTH region<br/> Region Decay: 0.0 on Valmox's OBEDIENCE region<br/> Region Decay: 0.0 on Oasis's RESPITE region<br/> Region Decay: 0.0 on Genesis Prime's MALLSTRIP NODES region<br/> Region Decay: 0.0 on Genesis Prime's BIRTH region<br/> Region Decay: 0.0 on Vernen Wells's BLACKVEIN MINES region<br/> Region Decay: 0.0 on Vernen Wells's BENEVOLENCE region<br/> Region Decay: 0.0 on Vernen Wells's ANNE'S VIGIL region<br/> Region Decay: 0.0 on Aurora Bay's BATU BELIG region<br/> Region Decay: 0.0 on Aurora Bay's EAGLEMOUNT region<br/> Region Decay: 0.0 on Darius II's BUJU region<br/> Region Decay: 0.0 on Achird III's TIMELY region<br/> Region Decay: 0.0 on Achird III's APPROVAL CITY region<br/> Region Decay: 0.0 on Achird III's OLD BRANCH region<br/> Region Decay: 0.0 on Alamak VII's KESUMA region<br/> Region Decay: 0.0 on Alamak VII's UNGU region<br/> Region Decay: 0.0 on Alamak VII's NO COMPOUND region<br/> Region Decay: 0.0 on Alamak VII's FILIBUSTER region<br/> Region Decay: 0.0 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.0 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.0 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Gatria's ALTONBURG region<br/> Region Decay: 0.0 on Gatria's ERSATZ region<br/> Region Decay: 0.0 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.0 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.0 on Herthon Secundus's CONSENSUS region<br/> Region Decay: 0.0 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.0 on Heze Bay's UNISON region<br/> Region Decay: 0.0 on Hydrobius's GENERATORSVILLE region<br/> Region Decay: 0.0 on Shete's HOLL region<br/> Region Decay: 0.0 on Vega Bay's ONSEN region<br/> Region Decay: 0.0 on Vega Bay's GIRI region<br/> Region Decay: 0.0 on Vega Bay's SAPPORO region
+ (2026-02-10 09:00  UTC)<br/>
+Dispatch: PHASE I COMPLETE. Phase I of Operation Valid Pretext is complete. The assault on *Cyberstan* is imminent. SEAF units are nearly prepared to initiate Phase II: Landfall. The attack will begin in 3 hours. All units: prepare for launch. (2026-02-10 09:56  UTC)<br/>
+
+### Day: #734
+Dispatch: FINAL PREPARATIONS: CYBERSTAN. T-Minus 1 Hour to Landfall. The Automatons believe their orbital cannons will keep us out. Together, we will show these and all enemies of Freedom that nothing can stop the full and combined might of Managed Democracy. All ships: align coordinates for *Cyberstan*. Prepare for the largest singular FTL event in Galactic history. For *Super Earth*. (2026-02-10 12:02  UTC)<br/>
