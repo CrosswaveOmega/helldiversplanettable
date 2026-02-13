@@ -191,17 +191,36 @@
             "name": "ULTRAMAFIC MINE",
             "description": "A mine extracting platinum from deep-seated deposits of igneous rock."
         },
-	"1342": {
-		"galacticEffectId": 1342,
-        "icon":"Badge",
-		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
-		"description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
-	},
-	"1352":{
-		"galacticEffectId": 1352,
-        "icon":"Orb",
-		"name": "CONVENTIONAL BLACK HOLE",
-		"description": "This former planet is now nothing but a normal, stable black hole."
+        "1342": {
+            "galacticEffectId": 1342,
+            "icon": "Badge",
+            "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
+            "description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+        },
+        "1352": {
+            "galacticEffectId": 1352,
+            "icon": "Orb",
+            "name": "CONVENTIONAL BLACK HOLE",
+            "description": "This former planet is now nothing but a normal, stable black hole."
+        },
+        "1344": {
+            "galacticEffectId": 1344,
+            "name": "PANDORA BASE",
+            "icon": "Badge",
+            "description": "The top-secret site where augmentations to the DSS are constructed."
+        },
+        "1353": {
+            "galacticEffectId": 1353,
+            "name": "DATA CENTER",
+            "icon": "Automatons",
+            "description": "The Automatons store large amounts of encrypted information here."
+        },"1361": {
+		"galacticEffectId": 1361,
+        
+		"name": "CYBORGS",
+        "icon": "Cyborgs",
+        "description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
+		
 	}
     }
 }
