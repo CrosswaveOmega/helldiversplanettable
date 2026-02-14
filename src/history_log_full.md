@@ -14551,8 +14551,35 @@ Dispatch: PHASE II COMPLETE: DROPHEAD SECURED. The synchronized blitz assault wa
 ### Day: #735
 
 ### Day: #735
-Major Order | [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) Operation Valid Pretext Phase Three is issued | Objective: Extraction (2026-02-11 13:02  UTC)<br/>
+Major Order | [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) Operation Valid Pretext Phase Three is issued | Objective: Operations (2026-02-11 13:02  UTC)<br/>
+NOTE: Due to the incident of [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) this MO's objective was retroactively changed from extraction to operations (2026-02-11 13:02  UTC)<br/>
 Dispatch: OPERATION VALID PRETEXT: PHASE III. Operation VALID PRETEXT now enters Phase III: Ground Invasion. The Helldivers will deploy directly to enemy Megafactories and repel the enemy, in order to effect their total destruction. Consult the Galactic Map for additional information. (2026-02-11 13:03  UTC)<br/>
 Dispatch: AUTONOMY 50% LIBERATED. Friendly forces now control roughly 50% of AUTONOMY. (2026-02-11 15:47  UTC)<br/>
+ Region Decay: 7.0 on Cyberstan's TRANSCENDENCE region<br/> Region Decay: 4.5 on Cyberstan's AUTONOMY region<br/> Region Decay: 6.0 on Cyberstan's STAR KIELD region<br/> Region Decay: 6.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 2.5 on Cyberstan's SOLIDARITET region<br/> Region Decay: 6.0 on Cyberstan's URSOOT NINE region<br/> Region Decay: 6.0 on Cyberstan's LURZA region<br/> Region Decay: 6.0 on Cyberstan's CAMRAT FOR region
+ (2026-02-11 18:00  UTC)<br/>
 Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of MERAK. Consequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-11 22:20  UTC)<br/>
 DSS deploys to *Cyberstan* of the Valdis sector (2026-02-11 22:21  UTC)<br/>
+
+### Day: #736
+
+### Day: #736
+Strategic Opportunity | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is issued | Objective: Eradicate (2026-02-12 12:32  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. To augment ongoing operations on *Cyberstan*, the Ministry of Defense has authorized the procurement of inert Terminid eggs, for sale as high-value patriotic curios to Class-A citizens. Helldivers: Cull Chargers, Impalers, and Bile Titans to allow xenozoologists to retrieve their eggs. Success will fund new fasttrack Helldiver training, resulting in addtional fleetwide reinforcements, and immediate use of the experimental INCENDIARY GATLING BARRAGE Stratagem. (2026-02-12 12:32  UTC)<br/>
+Dispatch: SEAF GROUND INVASION SITREP. 3rd Army has advanced past the 18th parallel in the western hemisphere. 68th Air Assault Division has taken heavy casualties; 23rd to reinforce. Heavy shelling on East front slowing advance. (2026-02-12 13:04  UTC)<br/>
+Dispatch: TACTICAL ADVISORY. Average Helldiver time-to-expiration has dropped sharply on *Cyberstan* operations. This is causing Reinforcements to decrease rapidly. To prevent this, High Command recommends that Helldivers avoid expiration for as long as possible. (2026-02-12 14:03  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town is besieged by Humans (2026-02-12 16:43  UTC)<br/>
+*Cyberstan* Region 1 Autonomy Settlement has fallen to Humans (2026-02-12 23:23  UTC)<br/>
+*Cyberstan* Region 3 Omniparitus Town is besieged by Humans (2026-02-12 23:23  UTC)<br/>
+*Cyberstan* Region 6 Lurza Town is besieged by Humans (2026-02-12 23:23  UTC)<br/>
+Dispatch: AUTONOMY DESTROYED. AUTONOMY has been wiped off the surface of *Cyberstan*, following the repulsion of enemy forces by the valiant Helldiver assault. Forces may now advance upon two new targets: OMNIPARITUS and LURZA. (2026-02-12 23:23  UTC)<br/>
+ Region Decay: 5.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 3.0 on Cyberstan's SOLIDARITET region<br/> Region Decay: 5.0 on Cyberstan's LURZA region
+ (2026-02-12 23:23  UTC)<br/>
+DSS effect Eagle Storm is activated (2026-02-13 01:36  UTC)<br/>
+Strategic Opportunity | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is failed | Objective: Eradicate (2026-02-13 05:06  UTC)<br/>
+NOTE: This major order is confirmed to have been cheated by hackers to send in false kill count data. They also attempt during this time to send in data for [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4). No medals are given out and it is reissued with modified objectives (2026-02-13 05:06  UTC)<br/>
+The Second Galactic War is paused (2026-02-13 05:06  UTC)<br/>
+NOTE: This is the sixth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, defense timers, etc are static and no longer actively progressing. Later the same day at 10:07am, the war begins again. The incident lasted 5 hours and 1 minute (2026-02-13 05:06  UTC)<br/>
+The Second Galactic War is no longer paused (2026-02-13 10:07  UTC)<br/>
+NOTE: At this time the major order [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) goes offline. 2 minutes later it goes back online with the objective changed from extracting from missions to finishing operations. This is due to the previously mentioned reasons in the last note. This change is retroactively applied to the formatting as well (2026-02-13 10:07  UTC)<br/>
+Strategic Opportunity | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is issued | Objective: Eradicate/Operation (2026-02-13 10:27  UTC)<br/>
+Dispatch: OPERATIONAL ADVISORY. Falsified mission data has been traced to dissidents corrupted by Automaton lies. The offenders have been volunteered to beta-test Permacura's Bio-Safety Protocols. This exemplifies the magnanimity of *Super Earth*: even the disloyal may find redemption by contributing to scientific progress. To ensure fleetwide integrity, Helldivers must now complete Full Operations to progress the Major Order. Proceed with your orders. Defection will not be tolerated. (2026-02-13 10:40  UTC)<br/>
