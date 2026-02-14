@@ -214,13 +214,12 @@
             "name": "DATA CENTER",
             "icon": "Automatons",
             "description": "The Automatons store large amounts of encrypted information here."
-        },"1361": {
-		"galacticEffectId": 1361,
-        
-		"name": "CYBORGS",
-        "icon": "Cyborgs",
-        "description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
-		
-	}
+        },
+        "1361": {
+            "galacticEffectId": 1361,
+            "name": "CYBORGS",
+            "icon": "Cyborgs",
+            "description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+        }
     }
 }
