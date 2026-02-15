@@ -14579,7 +14579,29 @@ Strategic Opportunity | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3
 NOTE: This major order is confirmed to have been cheated by hackers to send in false kill count data. They also attempt during this time to send in data for [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4). No medals are given out and it is reissued with modified objectives (2026-02-13 05:06  UTC)<br/>
 The Second Galactic War is paused (2026-02-13 05:06  UTC)<br/>
 NOTE: This is the sixth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, defense timers, etc are static and no longer actively progressing. Later the same day at 10:07am, the war begins again. The incident lasted 5 hours and 1 minute (2026-02-13 05:06  UTC)<br/>
+
+### Day: #737
 The Second Galactic War is no longer paused (2026-02-13 10:07  UTC)<br/>
 NOTE: At this time the major order [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) goes offline. 2 minutes later it goes back online with the objective changed from extracting from missions to finishing operations. This is due to the previously mentioned reasons in the last note. This change is retroactively applied to the formatting as well (2026-02-13 10:07  UTC)<br/>
 Strategic Opportunity | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is issued | Objective: Eradicate/Operation (2026-02-13 10:27  UTC)<br/>
 Dispatch: OPERATIONAL ADVISORY. Falsified mission data has been traced to dissidents corrupted by Automaton lies. The offenders have been volunteered to beta-test Permacura's Bio-Safety Protocols. This exemplifies the magnanimity of *Super Earth*: even the disloyal may find redemption by contributing to scientific progress. To ensure fleetwide integrity, Helldivers must now complete Full Operations to progress the Major Order. Proceed with your orders. Defection will not be tolerated. (2026-02-13 10:40  UTC)<br/>
+Dispatch: SEAF GROUND INVASION SITREP. 14th Marine Assault Division has established lodgement on Subcontinent Echo. Helldiver operations on AUTONOMY effected Automaton withdrawal, relieving 23rd Air Assault Division. 77th Mobile Infantry in retreat following Cyborg-led counteroffensive. (2026-02-13 14:37  UTC)<br/>
+ Region Decay: 4.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 7.0 on Cyberstan's URSOOT NINE region<br/> Region Decay: 4.0 on Cyberstan's LURZA region
+ (2026-02-13 14:37  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Disaster relief funds for Class C and under citizens have been re-allocated to fund the temporary augmentation of all Helldiver arsenals with the ORBITAL RAILCANNON STRIKE Stratagem for the next 24 hours, in support of Operation VALID PRETEXT. (2026-02-13 19:43  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. SEAF infantry have launched a distraction offensive on the manufacturing districts neighboring OMNIPARITUS. To prevent a total breach of their flank, Automaton command has been forced to divert significant forces away from OMNIPARITUS to intercept the SEAF advance. This has resulted in defenses on OMNIPARITUS being temporarily compromised. Helldivers: exploit this weakening of the Megafactory while it lasts. (2026-02-13 20:40  UTC)<br/>
+ Region Decay: 2.5 on Cyberstan's OMNIPARITUS region
+ (2026-02-13 22:00  UTC)<br/>
+DSS effect Eagle Storm stops (2026-02-14 01:37  UTC)<br/>
+Strategic Opportunity | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is won | Objective: Eradicate/Operation (2026-02-14 03:01  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The culling is complete. Recovery teams have secured millions of Titan-class eggs, which are currently being shipped to *Super Earth*'s most generous patriots. The vast majority of the recovered eggs are confirmed inert, and all sales are final. Proceeds have funded authorization of the INCENDIARY GATLING BARRAGE Stratagem for 24 hours, and an innovative fast-track training program for new Helldiver recruits, conferring 70,000,000 reinforcements—both for immediate deployment. (2026-02-14 03:01  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2026-02-14 07:59  UTC)<br/>
+Dispatch: OMNIPARITUS DEFENSES DISRUPTED. SEAF 4th Army has seized an Automaton ammunition cache in vicinity of OMNIPARITUS. Helldiver deployments to OMNIPARITUS will no longer have reduced ammunition. (2026-02-14 08:35  UTC)<br/>
+
+### Day: #738
+ Region Decay: 4.0 on Cyberstan's OMNIPARITUS region
+ (2026-02-14 09:00  UTC)<br/>
+Dispatch: REINFORCEMENT OPPORTUNITY. Warehouses containing 35,000,000 Helldivers in cryostasis were found on FORT JUSTICE following a spreadsheet audit. However, no sufficiently large FTL-capable vessels are available on short notice. The DSS could transport these troops. Doing so would take it offline for 12 hours. A vote has been initiated on the Galactic Map; send the DSS to FORT JUSTICE to secure reinforcements, or elsewhere to maintain its offensive pressure. (2026-02-14 09:10  UTC)<br/>
+Dispatch: OMNIPARITUS 50% LIBERATED. Friendly forces now control roughly 50% of OMNIPARITUS. (2026-02-14 22:13  UTC)<br/>
+ Region Decay: 3.5 on Cyberstan's OMNIPARITUS region
+ (2026-02-14 22:13  UTC)<br/>
