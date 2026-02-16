@@ -14568,9 +14568,9 @@ Dispatch: STRATEGIC OPPORTUNITY. To augment ongoing operations on *Cyberstan*, t
 Dispatch: SEAF GROUND INVASION SITREP. 3rd Army has advanced past the 18th parallel in the western hemisphere. 68th Air Assault Division has taken heavy casualties; 23rd to reinforce. Heavy shelling on East front slowing advance. (2026-02-12 13:04  UTC)<br/>
 Dispatch: TACTICAL ADVISORY. Average Helldiver time-to-expiration has dropped sharply on *Cyberstan* operations. This is causing Reinforcements to decrease rapidly. To prevent this, High Command recommends that Helldivers avoid expiration for as long as possible. (2026-02-12 14:03  UTC)<br/>
 *Aurora Bay* Region 1 Eaglemount Town is besieged by Humans (2026-02-12 16:43  UTC)<br/>
-*Cyberstan* Region 1 Autonomy Settlement has fallen to Humans (2026-02-12 23:23  UTC)<br/>
-*Cyberstan* Region 3 Omniparitus Town is besieged by Humans (2026-02-12 23:23  UTC)<br/>
-*Cyberstan* Region 6 Lurza Town is besieged by Humans (2026-02-12 23:23  UTC)<br/>
+*Cyberstan* Region 1 Autonomy Megafactory Size 1 has fallen to Humans (2026-02-12 23:23  UTC)<br/>
+*Cyberstan* Region 3 Omniparitus Megafactory Size 2 is besieged by Humans (2026-02-12 23:23  UTC)<br/>
+*Cyberstan* Region 6 Lurza Megafactory Size 2 is besieged by Humans (2026-02-12 23:23  UTC)<br/>
 Dispatch: AUTONOMY DESTROYED. AUTONOMY has been wiped off the surface of *Cyberstan*, following the repulsion of enemy forces by the valiant Helldiver assault. Forces may now advance upon two new targets: OMNIPARITUS and LURZA. (2026-02-12 23:23  UTC)<br/>
  Region Decay: 5.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 3.0 on Cyberstan's SOLIDARITET region<br/> Region Decay: 5.0 on Cyberstan's LURZA region
  (2026-02-12 23:23  UTC)<br/>
@@ -14605,3 +14605,33 @@ Dispatch: REINFORCEMENT OPPORTUNITY. Warehouses containing 35,000,000 Helldivers
 Dispatch: OMNIPARITUS 50% LIBERATED. Friendly forces now control roughly 50% of OMNIPARITUS. (2026-02-14 22:13  UTC)<br/>
  Region Decay: 3.5 on Cyberstan's OMNIPARITUS region
  (2026-02-14 22:13  UTC)<br/>
+ Region Decay: 5.0 on Cyberstan's STAR KIELD region<br/> Region Decay: 5.0 on Cyberstan's URSOOT NINE region
+ (2026-02-15 00:00  UTC)<br/>
+DSS effect Heavy Ordnance Distribution ends (2026-02-15 08:01  UTC)<br/>
+
+### Day: #739
+Dispatch: OMNIPARITUS 50% LIBERATED. Friendly forces now control roughly 50% of OMNIPARITUS. (2026-02-15 09:12  UTC)<br/>
+NOTE: This dispatch is later retracted at 09:47am same day (2026-02-15 09:12  UTC)<br/>
+DSS deploys to *Fort Justice* (2026-02-15 09:13  UTC)<br/>
+Dispatch: DSS SENT FOR REINFORCEMENTS. The Helldivers have voted to send the DSS to FORT JUSTICE to secure 35,000,000 additional reinforcements. The DSS will be offline for the next 12 hours. (2026-02-15 09:50  UTC)<br/>
+Strategic Opportunity | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is issued | Objective: Operation (2026-02-15 13:27  UTC)<br/>
+Dispatch: NEW STRATEGIC IMPERATIVE. Intel predicts with a high degree of confidence that the Illuminate are planning an attack, to take advantage of the ongoing campaign to liberate *Cyberstan*. The time and target are unknown. However, facilities of abducted civilians have been identified on KERTH SECUNDUS. Intel indicates the Illuminate intend to convert these citizens into Voteless hostiles for the purpose of this attack. Conduct operations on KERTH SECUNDUS in order to allow the capture of Illuminate prisoners. These enemy combatants will be subjected to Improved Questioning Techniques, to acquire actionable intelligence on the impending assault. The *Cyberstan* front is in dire need of additional reinforcements. Rescuing these captives will augment the Reinforcement Allocation for Operation VALID PRETEXT. (2026-02-15 13:27  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. OMNIPARITUS has been cut off from its supply lines, which have been redirected to STAR KIELD, in a desperate bid to reject Liberty's light. STAR KIELD</> is currently operating on emergency power reserves; <i=1>its defenses are temporaily compromised. Helldivers are ordered to put the Megafactory out of its misery immediately. (2026-02-15 17:40  UTC)<br/>
+NOTE: This dispatch is retracted immediately and then reissued five minutes later with the same warning but the mention of which megafactory is on reverse power is changed to Omniparitus (2026-02-15 17:40  UTC)<br/>
+ Region Decay: 6.0 on Cyberstan's STAR KIELD region<br/> Region Decay: 2.5 on Cyberstan's OMNIPARITUS region
+ (2026-02-15 18:00  UTC)<br/>
+DSS deploys to *Cyberstan* (2026-02-15 21:16  UTC)<br/>
+Dispatch: <i=1>REINFORCEMENTS RECEIVED<i/>. The DSS has returned from FORT JUSTICE with 35,000,000 reinforcements—this is reflected in the current total. The DSS has now returned to service. (2026-02-15 21:19  UTC)<br/>
+Strategic Opportunity | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is won | Objective: Operation (2026-02-16 00:10  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE SEIZED. Dozens of captured illuminate were subjected to Improved Questioning Techniques. However, no actionable intelligence on an impending Illuminate attack was acquired. The combatants have since expired due to constitutional weakness. This effort was not a waste. High Command has authorized the temporary use of the experimental SMOKE-ENHANCED WALKING BARRAGE Stratagem, to further evidence the non-wasteful nature of this effort. In addition, millions of rescued captives have immediately been enlisted into the Armed Forces and are now undergoing rapid military training for short-order deployment to *Cyberstan*. The Reinforcement Allocation has been increased by 35,000,000. (2026-02-16 00:10  UTC)<br/>
+*Cyberstan* Region 3 Omniparitus Megafactory Size 2 has fallen to Humans (2026-02-16 00:22  UTC)<br/>
+Dispatch: OMNIPARITUS DESTROYED. OMNIPARITUS has been wiped off the surface of *Cyberstan*, following the repulsion of enemy forces by the valiant Helldiver assault. Forces may now advance upon two new targets: STAR KIELD and URSOOT NINE. (2026-02-16 00:23  UTC)<br/>
+*Cyberstan* Region 2 Star Kield Megafactory Size 3 is besieged by Humans (2026-02-16 00:23  UTC)<br/>
+*Cyberstan* Region 5 Ursoot Nine Megafactory Size 3 is besieged by Humans (2026-02-16 00:23  UTC)<br/>
+NOTE: Subfaction units are present on Star Kield and Ursoot Nine. Jet Brigade and Incineration Corps respectively. (2026-02-16 00:23  UTC)<br/>
+Dispatch: SEAF GROUND INVASION SITREP. 3rd, 7th, and 8th Armies have advanced past equator. 12th Armor holding position IVO OMNIPARITUS demolition site. (2026-02-16 02:33  UTC)<br/>
+
+# Day: #740
+Dispatch: STRATEGIC ADVISORY. Tactical analysis indicates the Cyborg leadership is diverting its defenses to protect the capital, Transcendence. The enemy is falling to the combined might of Managed Democracy. The enemy is sacrificing their outer perimeter in a desperate bid to survive. Defenses on STAR KIELD are temporarily compromised. Helldivers: punish their cowardice. Exploit this weakened Megafactory while it remains so. (2026-02-16 14:17  UTC)<br/>
+ Region Decay: 3.4 on Cyberstan's STAR KIELD region<br/> Region Decay: 4.0 on Cyberstan's URSOOT NINE region
+ (2026-02-16 14:17  UTC)<br/>
