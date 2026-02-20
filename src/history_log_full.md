@@ -14662,3 +14662,38 @@ Dispatch: SEAF LOGISTICAL VICTORY. The SEAF 12th Armor Division has successfully
 Major Order | [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) Operation Valid Pretext Phase Four is issued | Objective: Liberate (2026-02-18 18:00  UTC)<br/>
 Dispatch: PHASE IV: LIBERATE CYBERSTAN. The capital Megafactory, Transcendence, is within reach. Destroying this facility will cause the collapse of all enemy defenses. All avenues for additional reinforcements have been exhausted. You must finish this fight with the forces you have. There is no safety net. Helldivers: Destroy Transcendence to liberate *Cyberstan*. Emancipate the planet from its socialist overlords so it may bathe in the majesty of Managed Democracy. For Liberty! (2026-02-18 18:00  UTC)<br/>
 Dispatch: ENEMY MOVEMENT INTERCEPTED. Automaton forces are attempting to evacuate mechanized personnel—falsely designated as “non-combatant” industrial units—into fortified bunkers within *Cyberstan*. High Command will not permit agents of Tyranny to regroup, reconfigure, or reassemble. SEAF artillery is shelling the purported “evacuation corridors” to prevent these assets from their true aim: being repurposed for war. Resultingly, <i=1>planet-wide defense ratings are temporarily compromised</>. (2026-02-18 18:29  UTC)<br/>
+Dispatch: SEAF OFFENSIVE SURGE. The SEAF 3rd and 7th Armies have launched a spirited bayonet charge across *Cyberstan*'s equatorial manufacturing belt, inspired by the Helldivers' relentless pursuit of Liberty across the planet. Entrenched Automaton positions are being overrun faster than predicted. The enemy line is buckling. As such, planet-wide defense ratings are temporarily compromised. Helldivers: capitalize on SEAF's exemplary momentum for as long as they can retain this advantage. (2026-02-18 20:10  UTC)<br/>
+ Region Decay: 1.0 on Cyberstan's SOLIDARITET region<br/> Region Decay: 1.0 on Cyberstan's LURZA region<br/> Region Decay: 2.0 on Cyberstan's CAMRAT FOR region
+ (2026-02-18 22:00  UTC)<br/>
+*Cyberstan* Region 2 Star Kield Megafactory Size 3 has fallen to Humans (2026-02-19 05:38  UTC)<br/>
+*Cyberstan* Region 0 Transcendence Megafactory Size 4 is besieged by Humans (2026-02-19 05:38  UTC)<br/>
+Dispatch: STAR KIELD DESTROYED. STAR KIELD has been razed to the ground. The way is clear to the Cyborg capital, the destruction of which will spell *Cyberstan*'s ultimate liberation: Transcendence. (2026-02-19 05:39  UTC)<br/>
+Dispatch: SEAF GROUND INVASION SITREP. 3rd Army has encircled STAR KIELD. 22nd Cavalry en route towards Transcendence. 14th Air Recon has identified multiple pockets of resistance for orbital targeting. (2026-02-19 06:25  UTC)<br/>
+DSS effect Eagle Storm is activated (2026-02-19 08:13  UTC)<br/>
+Dispatch: SEAF AIR SUPERIORITY. With Helldivers suppressing anti-orbital defenses, the SEAF 68th Air Assault Division has achieved total air superiority over the *Cyberstan* wastes. Eagle squadrons are now conducting uncontested carpet liberation sorties on Automaton supply depots. Soon, the enemy will have nowhere to hide. <i=1>Planet-wide defense ratings are temporarily compromised</>. Helldivers: exploit the increased weakening of *Cyberstan* while it lasts. (2026-02-19 08:39  UTC)<br/>
+
+### Day: #743
+ Region Decay: 4.5 on Cyberstan's TRANSCENDENCE region<br/> Region Decay: 0.5 on Cyberstan's SOLIDARITET region<br/> Region Decay: 2.0 on Cyberstan's URSOOT NINE region<br/> Region Decay: 0.5 on Cyberstan's LURZA region<br/> Region Decay: 1.0 on Cyberstan's CAMRAT FOR region
+ (2026-02-19 09:00  UTC)<br/>
+Dispatch: SEAF UNIT TRAPPED. The SEAF 77th Mobile Infantry Corps is encircled by Cyborg forces in vicinity of SOLIDARITET. The destruction of the Megafactory would cripple the enemy line, creating a route of egress. If SOLIDARITET is not liberated, the 77th will perish. (2026-02-19 10:56  UTC)<br/>
+DSS effect Eagle Storm stops (2026-02-19 20:38  UTC)<br/>
+Dispatch: INITIATE TERMINAL DIRECTIVE. *Cyberstan* cannot be freed with the remaining reinforcements. High Command orders the initiation of the TERMINAL DIRECTIVE. The DSS will commence planet-wide Orbital Bombardments, and all Helldiver arsenals will be augmented with the Portable Hellbomb. SEAF units have been ordered to withdraw. Their retreat will be contested. The Helldivers must fight on to secure their safe egress from the planet. If *Cyberstan* cannot be freed, it will be reduced to ashes. (2026-02-19 20:39  UTC)<br/>
+DSS effect Planetary Bombardment is activated (2026-02-19 20:40  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. Cyborg and Automaton forces have been observed shifting from CAMRAT FOR to CAMRAT FOR. Higher resistance on TRANSCENDENCE is anticipated. (2026-02-19 21:25  UTC)<br/>
+NOTE: This dispatch is retracted 1 minute later and reissued with the correct wording 26 minutes later (2026-02-19 21:25  UTC)<br/>
+ Region Decay: 3.5 on Cyberstan's TRANSCENDENCE region<br/> Region Decay: 0.1 on Cyberstan's SOLIDARITET region<br/> Region Decay: 0.5 on Cyberstan's URSOOT NINE region<br/> Region Decay: 0.1 on Cyberstan's LURZA region<br/> Region Decay: 0.1 on Cyberstan's CAMRAT FOR region
+ (2026-02-19 21:25  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. Cyborg and Automaton forces have been observed shifting from LURZA to TRANSCENDENCE. Higher resistance on TRANSCENDENCE is anticipated. (2026-02-19 21:41  UTC)<br/>
+ Region Decay: 3.6 on Cyberstan's TRANSCENDENCE region
+ (2026-02-19 21:41  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. Cyborg and Automaton forces have been observed shifting from URSOOT NINE to TRANSCENDENCE. Higher resistance on TRANSCENDENCE is anticipated. (2026-02-19 22:03  UTC)<br/>
+ Region Decay: 3.7 on Cyberstan's TRANSCENDENCE region
+ (2026-02-19 22:03  UTC)<br/>
+ Region Decay: 4.0 on Cyberstan's TRANSCENDENCE region
+ (2026-02-20 00:00  UTC)<br/>
+
+### Day: #744
+*Cyberstan* Region 4 Solidaritet Megafactory Size 1 has fallen to Humans (2026-02-20 13:03  UTC)<br/>
+*Cyberstan* Region 7 Camrat For Megafactory Size 2 is besieged by Humans (2026-02-20 13:03  UTC)<br/>
+Dispatch: 77TH RESCUED. The destruction of #megafactory1 by the Helldivers has allowed the secure withdrawal of the SEAF 77th Mobile Infantry Corps. The 30,000 brave soldiers of the 77th are currently being evacuated off-planet and receiving medical care. Each of these warriors had accepted the forfeiture of their lives in service of Freedom. But thanks to the Helldivers, they live to fight another day. (2026-02-20 13:04  UTC)<br/>
+NOTE: This dispatch is retracted 1 minute later and reissued with the correct wording 6 minutes later (2026-02-20 13:04  UTC)<br/>
