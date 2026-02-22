@@ -14713,3 +14713,16 @@ Dispatch: AMMUNITION RATIONING. Due to the sheer volume of ordnance required to 
 *Aurora Bay* Region 1 Eaglemount Town has fallen to Humans (2026-02-21 13:00  UTC)<br/>
 *Tarsh* of the Marspira sector is attacked by Lvl 32 Automatons (2026-02-21 14:53  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement is besieged by Humans (2026-02-21 14:53  UTC)<br/>
+ Region Decay: 0.1 on Tarsh's FORTITUDE region<br/> Region Decay: 0.1 on Tarsh's FREEDOM'S TORCH region<br/> Region Decay: 0.1 on Tarsh's FEARLESS HOLLOW region
+ (2026-02-21 16:00  UTC)<br/>
+ Region Decay: 0.1 on Tarsh's FORTITUDE region<br/> Region Decay: 0.1 on Tarsh's FREEDOM'S TORCH region<br/> Region Decay: 0.1 on Tarsh's FEARLESS HOLLOW region
+ (2026-02-21 16:00  UTC)<br/>
+*Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2026-02-21 19:28  UTC)<br/>
+
+### Day: #746
+*Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2026-02-22 10:26  UTC)<br/>
+DSS deploys to *Tarsh* of the Marspira sector (2026-02-22 12:18  UTC)<br/>
+DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-22 12:19  UTC)<br/>
+Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to authorize the total bombardment of CHORT BAY. Accordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be CHORT BAY hours from now. Consult the Galactic Map for more information. (2026-02-22 12:20  UTC)<br/>
+NOTE: This dispatch is retracted 1 minute later and reissued with the correct wording 6 minutes later (2026-02-22 12:20  UTC)<br/>
+*Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2026-02-22 15:08  UTC)<br/>
