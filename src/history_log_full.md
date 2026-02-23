@@ -14726,3 +14726,17 @@ DSS deploys to *Chort Bay* of the Lacaille sector (2026-02-22 12:19  UTC)<br/>
 Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to authorize the total bombardment of CHORT BAY. Accordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be CHORT BAY hours from now. Consult the Galactic Map for more information. (2026-02-22 12:20  UTC)<br/>
 NOTE: This dispatch is retracted 1 minute later and reissued with the correct wording 6 minutes later (2026-02-22 12:20  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement has fallen to Humans (2026-02-22 15:08  UTC)<br/>
+*K* of the Trigon sector is attacked by Lvl 30 Automatons (2026-02-22 19:03  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town has fallen to Automatons (2026-02-22 19:12  UTC)<br/>
+*Aurora Bay* Region 1 Eaglemount Town is besieged by Humans (2026-02-22 19:12  UTC)<br/>
+ Decay: 0.0 on K
+ (2026-02-22 20:00  UTC)<br/>
+*Tarsh* defense is won (2026-02-23 00:15  UTC)<br/>
+ Decay: 1.5 on Tarsh
+ (2026-02-23 02:00  UTC)<br/>
+
+### Day: #747
+DSS deploys to *K* of the Trigon (2026-02-23 12:29  UTC)<br/>
+Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of CHORT BAY. Consequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-23 12:34  UTC)<br/>
+NOTE: This dispatch is retracted 1 minute later (2026-02-23 12:34  UTC)<br/>
+Dispatch: VOTE TO RAZE LESATH. A Cyborg counteroffensive is anticipated. The DSS may bombard the surface of LESATH, preventing the Cyborgs from establishing a foothold there. Voting has begun. Each Helldiver may vote once via the Galactic Map. (2026-02-23 12:45  UTC)<br/>
