@@ -14740,3 +14740,20 @@ DSS deploys to *K* of the Trigon (2026-02-23 12:29  UTC)<br/>
 Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of CHORT BAY. Consequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-23 12:34  UTC)<br/>
 NOTE: This dispatch is retracted 1 minute later (2026-02-23 12:34  UTC)<br/>
 Dispatch: VOTE TO RAZE LESATH. A Cyborg counteroffensive is anticipated. The DSS may bombard the surface of LESATH, preventing the Cyborgs from establishing a foothold there. Voting has begun. Each Helldiver may vote once via the Galactic Map. (2026-02-23 12:45  UTC)<br/>
+*Polaris Prime* of the Farsight sector is attacked by Lvl 30 Terminids (2026-02-23 14:16  UTC)<br/>
+ Region Decay: 0.4 on Polaris Prime's VILHELMINA DOROTHEA FREDRIKA region<br/> Region Decay: 0.2 on Polaris Prime's MOGO PLAINS region<br/> Region Decay: 0.4 on Polaris Prime's KALASATAMA PORT region
+ (2026-02-23 14:16  UTC)<br/>
+Major Order | [A3-2-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-9) Liberate More Planets Then Are Lost Conquest issued | Objective: Conquest (2026-02-23 14:42  UTC)<br/>
+Dispatch: Titan-class Terminid eggs recently sold as patriotic curios to Class-A citizens have experienced unauthorized biological activation. Bizarrely coinciding with this phenomenon, Terminids are ransacking high-density Class-A citizen zones, threatening domestic tranquility and workforce productivity. Helldivers are ordered to liberate more planets than are lost to repel this grotesque fascist swarm. (2026-02-23 14:42  UTC)<br/>
+ Decay: 0.0 on Polaris Prime
+ (2026-02-23 14:42  UTC)<br/>
+HP reached a checkpoint. (2026-02-23 22:00  UTC)<br/>
+HP reached a checkpoint. (2026-02-23 22:00  UTC)<br/>
+*Polaris Prime* Region 0 Vilhelmina Dorothea Fredrika City has fallen to Humans (2026-02-24 04:14  UTC)<br/>
+*Polaris Prime* Region 2 Kalasatama Port City is besieged by Humans (2026-02-24 04:20  UTC)<br/>
+*Polaris Prime* defense is won (2026-02-24 07:19  UTC)<br/>
+
+### Day: #748
+ Decay: 1.5 on Polaris Prime
+ (2026-02-24 09:00  UTC)<br/>
+Dispatch: AMMUNITION ALLOCATIONS RESTORED. Deployment ammunition allocations have been restored to standard quantities. (2026-02-24 11:12  UTC)<br/>
