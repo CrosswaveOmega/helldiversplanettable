@@ -10258,7 +10258,7 @@ Sagan sector is fully under Human control (2025-07-15 06:21  UTC)<br/>
 *Bekvam III* Region 0 Convenience Town is now present (2025-07-15 08:43  UTC)<br/>
 *Bekvam III* Region 1 Firefly Meadows City is now present (2025-07-15 08:43  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town is now present (2025-07-15 08:43  UTC)<br/>
-*Lesath* Region 1 Morse Oko Town is now present (2025-07-15 08:43  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is now present (2025-07-15 08:43  UTC)<br/>
 *Lesath* Region 2 Crystal Slopes City is now present (2025-07-15 08:43  UTC)<br/>
 *Lesath* Region 3 Bucu's Rest is now present (2025-07-15 08:43  UTC)<br/>
 *Vog-Sojoth* Region 0 Haerstvik Town is now present (2025-07-15 08:43  UTC)<br/>
@@ -14736,7 +14736,7 @@ NOTE: This dispatch is retracted 1 minute later and reissued with the correct wo
  (2026-02-23 02:00  UTC)<br/>
 
 ### Day: #747
-DSS deploys to *K* of the Trigon (2026-02-23 12:29  UTC)<br/>
+DSS deploys to *K* of the Trigon Sector (2026-02-23 12:29  UTC)<br/>
 Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of CHORT BAY. Consequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT. Consult the Galactic Map for more information. (2026-02-23 12:34  UTC)<br/>
 NOTE: This dispatch is retracted 1 minute later (2026-02-23 12:34  UTC)<br/>
 Dispatch: VOTE TO RAZE LESATH. A Cyborg counteroffensive is anticipated. The DSS may bombard the surface of LESATH, preventing the Cyborgs from establishing a foothold there. Voting has begun. Each Helldiver may vote once via the Galactic Map. (2026-02-23 12:45  UTC)<br/>
@@ -14764,3 +14764,32 @@ Dispatch:  REINFORCEMENT BUDGET REDUCTION.  Due to the unauthorized biological a
  (2026-02-24 12:34  UTC)<br/>
  Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
  (2026-02-24 12:34  UTC)<br/>
+DSS deploys to *Lesath* of the Lacaille sector (2026-02-24 12:44  UTC)<br/>
+Dispatch:  DENIAL OF RESURGENCE VOTING CONCLUDED  Helldivers have voted to authorize the total bombardment of LESATH.  Accordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be 24 hours from now.  Consult the Galactic Map for more information. (2026-02-24 12:45  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town was demolished (2026-02-24 16:25  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town was demolished (2026-02-24 19:01  UTC)<br/>
+*K* defense is failed (2026-02-24 19:04  UTC)<br/>
+*K* liberation campaign starts (2026-02-24 19:04  UTC)<br/>
+ Decay: 1.5 on K
+ (2026-02-24 20:00  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City has fallen to Human (2026-02-24 23:16  UTC)<br/>
+*Crimsica* defense is won (2026-02-24 23:16  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2026-02-25 00:00  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City was demolished (2026-02-25 06:57  UTC)<br/>
+
+### Day: #749
+*Lesath* Region 3 Bucu's Rest was demolished (2026-02-25 12:20  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco Sector (2026-02-25 12:44  UTC)<br/>
+Dispatch:  DSS BACK ONLINE.  The Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH. (2026-02-25 12:46  UTC)<br/>
+*Lesath*'s max health is changed to 1m (2026-02-25 14:32  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-02-25 14:45  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2026-02-25 14:45  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-02-25 14:45  UTC)<br/>
+Assault Division: Dragonroaches U3B deploys to *Erata Prime* (2026-02-25 14:51  UTC)<br/>
+*Aurora Bay* - *Cyberstan* warp link is removed (2026-02-25 15:55  UTC)<br/>
+*Merak* - *Cyberstan* warp link is removed (2026-02-25 15:55  UTC)<br/>
+Dispatch:  CYBERSTAN ORBITAL DEFENSES RE-ENGAGED.  The orbital defense array on *Cyberstan* is back online. FTL travel to *Cyberstan* is no longer possible. (2026-02-25 15:55  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2026-02-25 15:55  UTC)<br/>
