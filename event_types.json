@@ -271,6 +271,11 @@
         "matchable": ["Region", "is now present"],
         "mode": "and"
     },
+    "Region Removed": {
+        "name": "region_removed",
+        "matchable": ["Region", "was demolished"],
+        "mode": "and"
+    },
     "RegionSiegeStartEvent": {
         "name": "region_siege_start",
         "matchable": ["Region", "is besieged by"],
