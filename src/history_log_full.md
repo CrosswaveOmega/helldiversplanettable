@@ -14757,3 +14757,10 @@ HP reached a checkpoint. (2026-02-23 22:00  UTC)<br/>
  Decay: 1.5 on Polaris Prime
  (2026-02-24 09:00  UTC)<br/>
 Dispatch: AMMUNITION ALLOCATIONS RESTORED. Deployment ammunition allocations have been restored to standard quantities. (2026-02-24 11:12  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2026-02-24 12:12  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Humans (2026-02-24 12:12  UTC)<br/>
+Dispatch:  REINFORCEMENT BUDGET REDUCTION.  Due to the unauthorized biological activation of Titan-class Terminid eggs, emergency luxury evacuation of displaced Class-A citizens has begun.  To ensure vital contributors to the Federal economy are extracted alongside their most valued—and confirmed inert—luxury assets, a proportion of Helldiver cryo-pods have been temporarily repurposed for civilian transport.  Reinforcement budgets will therefore be temporarily reduced by 1 until further notice. (2026-02-24 12:34  UTC)<br/>
+ Decay: 0.0 on Crimsica
+ (2026-02-24 12:34  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-02-24 12:34  UTC)<br/>
