@@ -14757,22 +14757,22 @@ HP reached a checkpoint. (2026-02-23 22:00  UTC)<br/>
  Decay: 1.5 on Polaris Prime
  (2026-02-24 09:00  UTC)<br/>
 Dispatch: AMMUNITION ALLOCATIONS RESTORED. Deployment ammunition allocations have been restored to standard quantities. (2026-02-24 11:12  UTC)<br/>
-*Crimsica* of the Draco sector is attacked by Terminids (2026-02-24 12:12  UTC)<br/>
-*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Humans (2026-02-24 12:12  UTC)<br/>
-Dispatch:  REINFORCEMENT BUDGET REDUCTION.  Due to the unauthorized biological activation of Titan-class Terminid eggs, emergency luxury evacuation of displaced Class-A citizens has begun.  To ensure vital contributors to the Federal economy are extracted alongside their most valued—and confirmed inert—luxury assets, a proportion of Helldiver cryo-pods have been temporarily repurposed for civilian transport.  Reinforcement budgets will therefore be temporarily reduced by 1 until further notice. (2026-02-24 12:34  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Lvl 21 Terminids (2026-02-24 12:12  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City is besieged by Humans (2026-02-24 12:12  UTC)<br/>
+Dispatch: REINFORCEMENT BUDGET REDUCTION. Due to the unauthorized biological activation of Titan-class Terminid eggs, emergency luxury evacuation of displaced Class-A citizens has begun. To ensure vital contributors to the Federal economy are extracted alongside their most valued—and confirmed inert—luxury assets, a proportion of Helldiver cryo-pods have been temporarily repurposed for civilian transport. Reinforcement budgets will therefore be temporarily reduced by 1 until further notice. (2026-02-24 12:34  UTC)<br/>
  Decay: 0.0 on Crimsica
  (2026-02-24 12:34  UTC)<br/>
  Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
  (2026-02-24 12:34  UTC)<br/>
 DSS deploys to *Lesath* of the Lacaille sector (2026-02-24 12:44  UTC)<br/>
-Dispatch:  DENIAL OF RESURGENCE VOTING CONCLUDED  Helldivers have voted to authorize the total bombardment of LESATH.  Accordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be 24 hours from now.  Consult the Galactic Map for more information. (2026-02-24 12:45  UTC)<br/>
+Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to authorize the total bombardment of LESATH. Accordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be 24 hours from now. Consult the Galactic Map for more information. (2026-02-24 12:45  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town was demolished (2026-02-24 16:25  UTC)<br/>
 *Lesath* Region 1 Morskie Oko Town was demolished (2026-02-24 19:01  UTC)<br/>
 *K* defense is failed (2026-02-24 19:04  UTC)<br/>
-*K* liberation campaign starts (2026-02-24 19:04  UTC)<br/>
+↳ *K* liberation campaign starts (2026-02-24 19:04  UTC)<br/>
  Decay: 1.5 on K
  (2026-02-24 20:00  UTC)<br/>
-*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City has fallen to Human (2026-02-24 23:16  UTC)<br/>
+*Crimsica* Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Humans (2026-02-24 23:16  UTC)<br/>
 *Crimsica* defense is won (2026-02-24 23:16  UTC)<br/>
  Decay: 1.5 on Crimsica
  (2026-02-25 00:00  UTC)<br/>
@@ -14781,15 +14781,36 @@ Dispatch:  DENIAL OF RESURGENCE VOTING CONCLUDED  Helldivers have voted to autho
 ### Day: #749
 *Lesath* Region 3 Bucu's Rest was demolished (2026-02-25 12:20  UTC)<br/>
 DSS deploys to *Fori Prime* of the Draco Sector (2026-02-25 12:44  UTC)<br/>
-Dispatch:  DSS BACK ONLINE.  The Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH. (2026-02-25 12:46  UTC)<br/>
+Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH. (2026-02-25 12:46  UTC)<br/>
+*Lesath* has been razed (2026-02-25 14:32  UTC)<br/>
 *Lesath*'s max health is changed to 1m (2026-02-25 14:32  UTC)<br/>
-*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-02-25 14:45  UTC)<br/>
-*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2026-02-25 14:45  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Lvl 15 Terminids (2026-02-25 14:45  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town is besieged by Humans (2026-02-25 14:45  UTC)<br/>
  Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
  (2026-02-25 14:45  UTC)<br/>
+Assault Division: Dragonroaches U3B leaves *Bore Rock* (2026-02-25 14:50  UTC)<br/>
 Assault Division: Dragonroaches U3B deploys to *Erata Prime* (2026-02-25 14:51  UTC)<br/>
 *Aurora Bay* - *Cyberstan* warp link is removed (2026-02-25 15:55  UTC)<br/>
 *Merak* - *Cyberstan* warp link is removed (2026-02-25 15:55  UTC)<br/>
-Dispatch:  CYBERSTAN ORBITAL DEFENSES RE-ENGAGED.  The orbital defense array on *Cyberstan* is back online. FTL travel to *Cyberstan* is no longer possible. (2026-02-25 15:55  UTC)<br/>
+Dispatch: CYBERSTAN ORBITAL DEFENSES RE-ENGAGED. The orbital defense array on *Cyberstan* is back online. FTL travel to *Cyberstan* is no longer possible. (2026-02-25 15:55  UTC)<br/>
  Decay: 0.0 on Erata Prime
  (2026-02-25 15:55  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2026-02-25 20:45  UTC)<br/>
+*Erata Prime* Region 2 Old Chemland Town has fallen to Humans (2026-02-25 23:06  UTC)<br/>
+*Erata Prime* defense is won (2026-02-26 01:12  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2026-02-26 01:12  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco sector (2026-02-26 01:12  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2026-02-26 02:00  UTC)<br/>
+
+# Day: #750
+*Oshaune* of the Mirin sector is attacked by Lvl 46 Terminids (2026-02-26 15:58  UTC)<br/>
+Assault Division: Hive Lords U3A divides into 2 groups [U3A, U3C] (2026-02-26 15:59  UTC)<br/>
+Assault Division: Hive Lords U3C deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
+Assault Division: Rupture Strain U8A deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
+Assault Division: Dragonroaches U4A deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
+Strategic Opportunity | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is issued | Objective: Control (2026-02-26 16:10  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY. The Terminids are invading *Oshaune*, likely driven by undemocratic instinct. *Oshaune* was liberated at great cost to our citizens, and its potential re-infestation would risk it becoming a Hive World once again. Helldivers: defend *Oshaune* and in doing so, secure the planet's stockpile of the Warp Pack Stratagem for immediate fleet-wide availability. (2026-02-26 16:10  UTC)<br/>
+Look on my Works, ye Mighty, and despair! (2026-02-26 18:00  UTC)<br/>
+ Decay: 0.0 on Oshaune
+ (2026-02-26 18:00  UTC)<br/>
