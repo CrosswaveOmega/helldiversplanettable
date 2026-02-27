@@ -14814,3 +14814,9 @@ Dispatch: STRATEGIC OPPORTUNITY. The Terminids are invading *Oshaune*, likely dr
 Look on my Works, ye Mighty, and despair! (2026-02-26 18:00  UTC)<br/>
  Decay: 0.0 on Oshaune
  (2026-02-26 18:00  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Lvl 8 Terminids (2026-02-26 19:09  UTC)<br/>
+*Turing* Region 1 Carbondale Town is besieged by Humans (2026-02-26 19:09  UTC)<br/>
+DSS deploys to *Oshaune* of the Mirin sector (2026-02-26 20:46  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2026-02-26 20:46  UTC)<br/>
+DSS effect Orbital Blockade is activated (2026-02-26 23:26  UTC)<br/>
