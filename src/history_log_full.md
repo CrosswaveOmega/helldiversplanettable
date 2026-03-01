@@ -14820,3 +14820,29 @@ DSS deploys to *Oshaune* of the Mirin sector (2026-02-26 20:46  UTC)<br/>
  Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
  (2026-02-26 20:46  UTC)<br/>
 DSS effect Orbital Blockade is activated (2026-02-26 23:26  UTC)<br/>
+
+### Day: #751
+Assault Division: Cyborgs U1A deploys to *Merga IV* (2026-02-27 10:00  UTC)<br/>
+*Turing* defense is won (2026-02-27 10:42  UTC)<br/>
+↳ Umlaut sector is fully under Human control (2026-02-27 10:42  UTC)<br/>
+*Fori Prime* is liberated (2026-02-27 12:34  UTC)<br/>
+↳ Draco sector is fully under Human control (2026-02-27 12:34  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Lvl 9 Terminids (2026-02-27 12:54  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2026-02-27 12:54  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2026-02-27 14:00  UTC)<br/>
+*Acamar IV* Region 0 Democracy Always Settlement has fallen to Humans (2026-02-27 20:37  UTC)<br/>
+*Acamar IV* defense is won (2026-02-27 23:11  UTC)<br/>
+DSS effect Orbital Blockade stops (2026-02-27 23:27  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2026-02-28 03:45  UTC)<br/>
+
+### Day: #752
+Dispatch: REINFORCEMENT BUDGET RESTORED. Reinforcement budgets have now returned to the standard quantity. (2026-02-28 20:37  UTC)<br/>
+Dispatch: STIM RATIONING. Class-A citizens affected by sudden domestic Terminid infestations are experiencing severe emotional distress and aesthetic trauma. To preserve their wellbeing, a proportion of top-of-the-line medical treatments are understandably being diverted to these high-density zones. Helldiver stim capacity is therefore temporarily reduced by 1 until further notice. (2026-02-28 20:44  UTC)<br/>
+*Oshaune* defense is won (2026-02-28 23:02  UTC)<br/>
+Assault Division: Hive Lords U3C is routed from Oshaune (2026-02-28 23:02  UTC)<br/>
+Assault Division: Rupture Strain U8A is routed from Oshaune (2026-02-28 23:02  UTC)<br/>
+Assault Division: Dragonroaches U4A is routed from Oshaune (2026-02-28 23:02  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2026-02-28 23:02  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2026-03-01 03:46  UTC)<br/>
+DSS effect Eagle Storm is activated (2026-03-01 04:17  UTC)<br/>
