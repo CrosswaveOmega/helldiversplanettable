@@ -14779,7 +14779,7 @@ Dispatch: DENIAL OF RESURGENCE VOTING CONCLUDED. Helldivers have voted to author
 *Lesath* Region 2 Crystal Slopes City was demolished (2026-02-25 06:57  UTC)<br/>
 
 ### Day: #749
-*Lesath* Region 3 Bucu's Rest was demolished (2026-02-25 12:20  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity was demolished (2026-02-25 12:20  UTC)<br/>
 DSS deploys to *Fori Prime* of the Draco Sector (2026-02-25 12:44  UTC)<br/>
 Dispatch: DSS BACK ONLINE. The Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH. (2026-02-25 12:46  UTC)<br/>
 *Lesath* has been razed (2026-02-25 14:32  UTC)<br/>
@@ -14822,7 +14822,8 @@ DSS deploys to *Oshaune* of the Mirin sector (2026-02-26 20:46  UTC)<br/>
 DSS effect Orbital Blockade is activated (2026-02-26 23:26  UTC)<br/>
 
 ### Day: #751
-Assault Division: Cyborgs U1A deploys to *Merga IV* (2026-02-27 10:00  UTC)<br/>
+Assault Division: Cyborgs U1A divides into 2 groups [U1A, U1B] (2026-02-27 10:00  UTC)<br/>
+Assault Division: Cyborgs U1B deploys to *Merga IV* (2026-02-27 10:00  UTC)<br/>
 *Turing* defense is won (2026-02-27 10:42  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2026-02-27 10:42  UTC)<br/>
 *Fori Prime* is liberated (2026-02-27 12:34  UTC)<br/>
@@ -14844,5 +14845,43 @@ Assault Division: Hive Lords U3C is routed from Oshaune (2026-02-28 23:02  UTC)<
 Assault Division: Rupture Strain U8A is routed from Oshaune (2026-02-28 23:02  UTC)<br/>
 Assault Division: Dragonroaches U4A is routed from Oshaune (2026-02-28 23:02  UTC)<br/>
 DSS deploys to *Gatria* of the Jin Xi sector (2026-02-28 23:02  UTC)<br/>
+*Gatria* Region 1 Ersatz City has fallen to Humans (2026-03-01 01:20  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2026-03-01 03:46  UTC)<br/>
 DSS effect Eagle Storm is activated (2026-03-01 04:17  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement is besieged by Humans (2026-03-01 06:17  UTC)<br/>
+
+### Day: #753
+*Lesath* Region 0 Serenity Summit Town is now present (2026-03-01 09:02  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is now present (2026-03-01 09:02  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is now present (2026-03-01 09:02  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is now present (2026-03-01 09:02  UTC)<br/>
+NOTE: Between now and 10:39am UTC the regions on this planet are added and removed countless times. The final state of them is that the regions are present. For the sake of not spamming this document with hundreds of lines this has been elected to be consolidated into a note (2026-03-01 09:02  UTC)<br/>
+*Gatria* Region 0 Altonburg Settlement has fallen to Human (2026-03-01 10:01  UTC)<br/>
+*Mox* of the Trigon sector is attacked by Lvl 28 Automatons (2026-03-01 10:38  UTC)<br/>
+*Zosma* - *Merga IV* warp link is added (2026-03-01 10:39  UTC)<br/>
+Assault Division: Cyborgs U1B leaves *Merga IV* (2026-03-01 14:15  UTC)<br/>
+Assault Division: Cyborgs U1B deploys to *Zosma* (2026-03-01 14:16  UTC)<br/>
+Assault Division: Cyborgs U1B leaves *Zosma* (2026-03-01 15:16  UTC)<br/>
+Assault Division: Cyborgs U1B deploys to *Zzaniah Prime* (2026-03-01 15:18  UTC)<br/>
+Strategic Opportunity | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is won | Objective: Control (2026-03-01 16:10  UTC)<br/>
+Dispatch: STIM RATIONING. Class-A citizens affected by sudden domestic Terminid infestations are experiencing severe emotional distress and aesthetic trauma. To preserve their wellbeing, a proportion of top-of-the-line medical treatments are understandably being diverted to these high-density zones. Helldiver stim capacity is therefore temporarily reduced by 1 until further notice. (2026-03-01 16:12  UTC)<br/>
+NOTE: This dispatch is retracted 18 minutes later (2026-03-01 16:12  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Lvl 35 Automatons (2026-03-01 16:36  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement is besieged by Humans (2026-03-01 16:36  UTC)<br/>
+Assault Division: Cyborgs U1B deploys to *Mintoria* (2026-03-01 16:36  UTC)<br/>
+DSS deploys to *Mox* of the Trigon sector (2026-03-01 16:47  UTC)<br/>
+ Region Decay: 0.05 on Mintoria's SEORAKSAN region<br/> Region Decay: 0.05 on Mintoria's GYEONGSEONG region
+ (2026-03-01 16:47  UTC)<br/>
+*Gatria* is liberated (2026-03-01 17:16  UTC)<br/>
+↳ *Gar Haren* liberation campaign starts (2026-03-01 17:16  UTC)<br/>
+↳ *Trandor* liberation campaign starts (2026-03-01 17:16  UTC)<br/>
+↳ *Phact Bay* liberation campaign starts (2026-03-01 17:16  UTC)<br/>
+*Trandor* Region 2 Gothenburg III City is besieged by Humans (2026-03-01 17:16  UTC)<br/>
+*Phact Bay* Region 0 Old Dove Town is besieged by Humans (2026-03-01 17:16  UTC)<br/>
+ Region Decay: 0.4 on Trandor's NYA SKELLEFTEA region<br/> Region Decay: 0.1 on Trandor's ÖDESHÖGRE region<br/> Region Decay: 0.4 on Trandor's GOTHENBURG III region<br/> Region Decay: 0.2 on Phact Bay's OLD DOVE region<br/> Region Decay: 0.4 on Phact Bay's BRNO region<br/> Region Decay: 0.6 on Phact Bay's NEW EAGLE region
+ (2026-03-01 17:16  UTC)<br/>
+DSS effect Eagle Storm stops (2026-03-02 04:18  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2026-03-02 04:48  UTC)<br/>
+*Mintoria* Region 0 Seoraksan Settlement has fallen to Humans (2026-03-02 06:24  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED - ARSENAL AUGMENTATION. The Terminids have been repelled from *Oshaune*. The planet remains free from infestation, and the Gloom remains contained. Additionally, Helldivers have secured the planet's stockpile of the Warp Pack Stratagem, which is now available fleet-wide for the next 24 hours; a great success in light of ongoing supply chain stabilization thoughout the Federation. (2026-03-02 16:33  UTC)<br/>
+Assault Division: Cyborgs U1B leaves *Zzaniah Prime* (2026-03-02 16:34  UTC)<br/>
