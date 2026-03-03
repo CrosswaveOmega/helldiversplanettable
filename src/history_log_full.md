@@ -14883,5 +14883,18 @@ DSS deploys to *Mox* of the Trigon sector (2026-03-01 16:47  UTC)<br/>
 DSS effect Eagle Storm stops (2026-03-02 04:18  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2026-03-02 04:48  UTC)<br/>
 *Mintoria* Region 0 Seoraksan Settlement has fallen to Humans (2026-03-02 06:24  UTC)<br/>
+
+### Day: #754
+*Lesath* Region 0 Serenity Summit Town is demolished (2026-03-02 12:38  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is demolished (2026-03-02 12:38  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is demolished (2026-03-02 12:38  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is demolished (2026-03-02 12:38  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town is besieged by Humans (2026-03-02 12:44  UTC)<br/>
+Major Order | [A3-2-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-9) Liberate More Planets Then Are Lost Conquest won | Objective: Conquest (2026-03-02 14:45  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have successfully repelled the Terminids' fully irrational mobilization, securing a net gain in planetary liberation. Affected residential zones will soon be purged of the fascist swarm. The Ministry of Truth has officially determined that the Titan-class eggs were definitively inert; their unauthorized biological activation resolutely defies explanation and is thus exempt from further scrutiny. Consult the Galactic Map for more information. (2026-03-02 14:47  UTC)<br/>
+Dispatch: COMMEMORATIVE CAPE. For two years, the Helldivers have defended Managed Democracy in the Second Galactic War. High Command recognizes and honors this selfless sacrifice with a specially-made cape, issued to all Helldivers free of charge. The cape may be found in the Armory of each Super Destroyer. (2026-03-02 15:34  UTC)<br/>
+Dispatch: STIM ALLOCATION RESTORED. Deployment stim capacity has been restored to the standard quantity. (2026-03-02 16:19  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED - ARSENAL AUGMENTATION. The Terminids have been repelled from *Oshaune*. The planet remains free from infestation, and the Gloom remains contained. Additionally, Helldivers have secured the planet's stockpile of the Warp Pack Stratagem, which is now available fleet-wide for the next 24 hours; a great success in light of ongoing supply chain stabilization thoughout the Federation. (2026-03-02 16:33  UTC)<br/>
 Assault Division: Cyborgs U1B leaves *Zzaniah Prime* (2026-03-02 16:34  UTC)<br/>
+*Phact Bay* Region 0 Old Dove Town has fallen to Humans (2026-03-02 16:52  UTC)<br/>
+*Mintoria* Region 1 Gyeongsong Town has fallen to Humans (2026-03-03 00:38  UTC)<br/>
