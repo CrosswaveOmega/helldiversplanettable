@@ -14913,3 +14913,6 @@ DSS deploys to *Kerth Secundus* of the Rictus sector (2026-03-04 04:49  UTC)<br/
 ### Day: #756
 Major Order | [A3-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-1) Spacetime Disruptions is issued | Objective: Samples/Control (2026-03-04 12:43  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Classified readouts indicate a severe escalation of spacetime disruptions across archaeological sites illicitly re-occupied by the Illuminate. Helldivers must infiltrate *Zea Rugosia* and *Herthon Secundus* to extract Rare Samples. These materials will grant crucial insights into this subterranean threat. Simultaneously, Helldivers must hold *Alairt III* to protect ongoing excavations against unauthorized repossession. (2026-03-04 12:44  UTC)<br/>
+*Kerth Secundus* Region 1 Blestrail Town is besieged by Humans (2026-03-04 20:12  UTC)<br/>
+DSS deploys to *Herthon Secundus* of the Ferris sector (2026-03-04 20:49  UTC)<br/>
+*Herthon Secundus* Region 2 Consensus City has fallen to Humans (2026-03-05 04:15  UTC)<br/>
