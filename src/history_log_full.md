@@ -14916,3 +14916,26 @@ Dispatch: NEW MAJOR ORDER. Classified readouts indicate a severe escalation of s
 *Kerth Secundus* Region 1 Blestrail Town is besieged by Humans (2026-03-04 20:12  UTC)<br/>
 DSS deploys to *Herthon Secundus* of the Ferris sector (2026-03-04 20:49  UTC)<br/>
 *Herthon Secundus* Region 2 Consensus City has fallen to Humans (2026-03-05 04:15  UTC)<br/>
+
+### Day: #757
+*Mintoria* Region 1 Gyeongsong Town has fallen to Humans (2026-03-06 05:55  UTC)<br/>
+ Region Decay: 0.1 on Mintoria's SEORAKSAN region<br/> Region Decay: 0.2 on Mintoria's GYEONGSEONG region
+ (2026-03-06 08:00  UTC)<br/>
+
+### Day: #758
+Strategic Opportunity | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is issued | Objective: Liberate (2026-03-06 15:51  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. The AM Defense Factory Hub on *Achernar Secundus* has lain in ruins since the planet's invasion by the Terminids. This facility represents a significant capital investment by AM Defense, a trusted Tier-1 contracting partner. Liberating the planet will allow AM Defense to rebuild, restoring critical supply chains strained by recent peacekeeping operations. Recovery of this asset is a high priority for the Ministry of Prosperity. (2026-03-06 15:52  UTC)<br/>
+*Achernar Secundus* liberation campaign starts (2026-03-06 22:23  UTC)<br/>
+*Achernar Secundus* Region 2 Ol' Oldham City is besieged by Humans (2026-03-06 22:23  UTC)<br/>
+ Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
+ (2026-03-07 00:00  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2026-03-07 04:50  UTC)<br/>
+DSS effect Orbital Blockade is activated (2026-03-07 05:11  UTC)<br/>
+*Lesath* Region 0 Serenity Summit Town is now present (2026-03-07 07:45  UTC)<br/>
+*Lesath* Region 1 Morskie Oko Town is now present (2026-03-07 07:45  UTC)<br/>
+*Lesath* Region 2 Crystal Slopes City is now present (2026-03-07 07:45  UTC)<br/>
+*Lesath* Region 3 Bucu's Rest Megacity is now present (2026-03-07 07:45  UTC)<br/>
+*Achernar Secundus* - *Acrux IX* warp link is added (2026-03-07 07:45  UTC)<br/>
+*Acrux IX* - *Grand Errant* warp link is added (2026-03-07 07:45  UTC)<br/>
+
+### Day: #759
