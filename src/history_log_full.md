@@ -14939,3 +14939,14 @@ DSS effect Orbital Blockade is activated (2026-03-07 05:11  UTC)<br/>
 *Acrux IX* - *Grand Errant* warp link is added (2026-03-07 07:45  UTC)<br/>
 
 ### Day: #759
+*Achernar Secundus* Region 2 Ol' Oldham City has fallen to Humans (2026-03-07 20:30  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town is besieged by Humans (2026-03-07 20:30  UTC)<br/>
+*Achernar Secundus* Region 0 Currency Town has fallen to Humans (2026-03-08 05:06  UTC)<br/>
+*Achernar Secundus* Region 1 New Newtonville City is besieged by Humans (2026-03-08 05:06  UTC)<br/>
+DSS effect Orbital Blockade stops (2026-03-08 05:12  UTC)<br/>
+
+# Day: #760
+DSS effect Eagle Storm is activated (2026-03-08 21:05  UTC)<br/>
+*Achernar Secundus* Region 1 New Newtonville City has fallen to Humans (2026-03-08 23:34  UTC)<br/>
+*Achernar Secundus* is liberated (2026-03-09 00:27  UTC)<br/>
+DSS deploys to *Zea Rugosia* of the Ferris sector (2026-03-09 00:27  UTC)<br/>
