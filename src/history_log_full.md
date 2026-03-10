@@ -14949,4 +14949,14 @@ DSS effect Orbital Blockade stops (2026-03-08 05:12  UTC)<br/>
 DSS effect Eagle Storm is activated (2026-03-08 21:05  UTC)<br/>
 *Achernar Secundus* Region 1 New Newtonville City has fallen to Humans (2026-03-08 23:34  UTC)<br/>
 *Achernar Secundus* is liberated (2026-03-09 00:27  UTC)<br/>
+Strategic Opportunity | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is won | Objective: Liberate (2026-03-09 00:27  UTC)<br/>
 DSS deploys to *Zea Rugosia* of the Ferris sector (2026-03-09 00:27  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. *Achernar Secundus* has been reclaimed. Reconstruction of the AM Defense Factory Hub is underway, stabilizing regional market confidence. In a gesture of corporate patriotism, AM Defense has issued a "Customer Appreciation" dividend: the Fast Recon Vehicle (FRV) Stratagem is available fleetwide for the next 24 hours. (2026-03-09 00:28  UTC)<br/>
+
+### Day: #761
+*Herthon Secundus* Region 2 Consensus City has fallen to Illuminate (2026-03-09 14:47  UTC)<br/>
+*Herthon Secundus* Region 2 Consensus City is besieged by Humans (2026-03-09 14:47  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town has fallen to Automatons (2026-03-09 14:47  UTC)<br/>
+*Mintoria* Region 1 Gyeongseong Town is besieged by Humans (2026-03-09 14:47  UTC)<br/>
+*Zea Rugosia* Region 2 Starpass City has fallen to Humans (2026-03-09 15:32  UTC)<br/>
+DSS effect Eagle Storm stops (2026-03-09 21:06  UTC)<br/>
