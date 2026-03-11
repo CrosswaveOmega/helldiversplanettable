@@ -14817,6 +14817,8 @@ Look on my Works, ye Mighty, and despair! (2026-02-26 18:00  UTC)<br/>
 *Turing* of the Umlaut sector is attacked by Lvl 8 Terminids (2026-02-26 19:09  UTC)<br/>
 *Turing* Region 1 Carbondale Town is besieged by Humans (2026-02-26 19:09  UTC)<br/>
 DSS deploys to *Oshaune* of the Mirin sector (2026-02-26 20:46  UTC)<br/>
+ Decay: 0.0 on Turing
+ (2026-02-26 20:46  UTC)<br/>
  Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
  (2026-02-26 20:46  UTC)<br/>
 DSS effect Orbital Blockade is activated (2026-02-26 23:26  UTC)<br/>
@@ -14828,6 +14830,8 @@ Assault Division: Cyborgs U1B deploys to *Merga IV* (2026-02-27 10:00  UTC)<br/>
 ↳ Umlaut sector is fully under Human control (2026-02-27 10:42  UTC)<br/>
 *Fori Prime* is liberated (2026-02-27 12:34  UTC)<br/>
 ↳ Draco sector is fully under Human control (2026-02-27 12:34  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2026-02-27 12:34  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Lvl 9 Terminids (2026-02-27 12:54  UTC)<br/>
 *Acamar IV* Region 0 Democracy Always Settlement is besieged by Humans (2026-02-27 12:54  UTC)<br/>
  Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
@@ -14995,8 +14999,16 @@ Assault Division: Cyborgs U1D leaves *Charbal-VII* (2026-03-11 03:06  UTC)<br/>
 Assault Division: Cyborgs U1D deploys to *Charbal-VII* (2026-03-11 03:07  UTC)<br/>
 
 ### Day: #763
-Major Order | [A3-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-1) Spacetime Disruptions is failed| Objective: Samples/Control (2026-03-11 12:47  UTC)<br/>
-Dispatch:  MAJOR ORDER FAILED  The Helldivers protected *Alairt III*, but could not extract sufficient Rare Samples from *Zea Rugosia* and *Herthon Secundus*.  Illegal patterns of astral pressure appear to be rapidly compounding into a volatile anomaly, gestating beneath planets bearing ancient Illuminate ruins. (2026-03-11 12:47  UTC)<br/>
-Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
+Major Order | [A3-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-1) Spacetime Disruptions is failed | Objective: Samples/Control (2026-03-11 12:47  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Helldivers protected *Alairt III*, but could not extract sufficient Rare Samples from *Zea Rugosia* and *Herthon Secundus*. Illegal patterns of astral pressure appear to be rapidly compounding into a volatile anomaly, gestating beneath planets bearing ancient Illuminate ruins. (2026-03-11 12:47  UTC)<br/>
+*Choepessa IV*'s max health is changed to 3.2m (2026-03-11 16:27  UTC)<br/>
+NOTE: Due to downtime with data tracking it is not known when Choepessa's health was changed to 2.2m only that it was at some point up to 31 minutes before this timestamp (2026-03-11 16:27  UTC)<br/>
+*Choepessa IV* Region 3 Evolution Plats Settlement is now present (2026-03-11 16:28  UTC)<br/>
+*Charbal-VII* Region 0 Utopia Varen Settlement is now present (2026-03-11 16:30  UTC)<br/>
+*Charbal-VII*'s max health is changed to 2m (2026-03-11 16:30  UTC)<br/>
  Region Decay: 0.0 on Charbal-VII's UTOPIA VAREN region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region
- (2026-03-11 18:32  UTC)<br/>
+ (2026-03-11 16:30  UTC)<br/>
+Major Order | [A3-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-3) Kill Cyborgs and Liberate 2 Worlds is issued | Objective: Liberate/Eradicate (2026-03-11 16:38  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Cyborgs are raising Megafactories across their stolen planets. The Cyborgs proliferate Megafactories for one purpose: the proliferation of the Cyborgs themselves. Inside Megafactories lie Cyborg Production Units, bio-furnaces which grow new Cyborg orgo-frames which are then cybernetically enhance with murderous weaponry. The exponential rise of the Cyborgs must be stopped before its too late. Liberate CHOEPESSA IV and CHARBAL-VII. Kill 113,000,000 Agitators and 70,000,000 Radicals to cull the growth of this animatronic threat. (2026-03-11 16:38  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-03-11 16:54  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
