@@ -14960,3 +14960,37 @@ Dispatch: STRATEGIC OPPORTUNITY SEIZED. *Achernar Secundus* has been reclaimed. 
 *Mintoria* Region 1 Gyeongseong Town is besieged by Humans (2026-03-09 14:47  UTC)<br/>
 *Zea Rugosia* Region 2 Starpass City has fallen to Humans (2026-03-09 15:32  UTC)<br/>
 DSS effect Eagle Storm stops (2026-03-09 21:06  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town is besieged by Humans (2026-03-10 08:27  UTC)<br/>
+
+### Day: #762
+Assault Division: Cyborgs U1A divides into 2 groups [U1A, U1C] (2026-03-10 16:44  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Mekbuda* (2026-03-10 16:44  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Mekbuda* (2026-03-10 17:43  UTC)<br/>
+*Zea Rugosia* Region 0 New Cob Town has fallen to Humans (2026-03-10 18:34  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Aurora Bay* (2026-03-10 19:31  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Choohe* (2026-03-10 19:32  UTC)<br/>
+Assault Division: Cyborgs U1A divides into 2 groups, [U1A, U1D] (2026-03-10 20:07  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Mekbuda* (2026-03-10 20:07  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Choohe* (2026-03-10 20:31  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Matar Bay* (2026-03-10 20:32  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Mekbuda* (2026-03-10 21:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Aurora Bay* (2026-03-10 21:07  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Matar Bay* (2026-03-10 21:31  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Martale* (2026-03-10 21:32  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Aurora Bay* (2026-03-10 22:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Choohe* (2026-03-10 22:07  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Martale* (2026-03-10 22:31  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Charon Prime* (2026-03-10 22:32  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Choohe* (2026-03-10 23:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Matar Bay* (2026-03-10 23:07  UTC)<br/>
+Assault Division: Cyborgs U1C leaves *Charon Prime* (2026-03-10 23:31  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Choepessa IV* (2026-03-10 23:32  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Matar Bay* (2026-03-11 00:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Martale* (2026-03-11 00:07  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Martale* (2026-03-11 01:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Charon Prime* (2026-03-11 01:07  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Charon Prime* (2026-03-11 02:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Charbal-VII* (2026-03-11 02:07  UTC)<br/>
+Assault Division: Cyborgs U1D leaves *Charbal-VII* (2026-03-11 03:06  UTC)<br/>
+Assault Division: Cyborgs U1D deploys to *Charbal-VII* (2026-03-11 03:07  UTC)<br/>
+Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
