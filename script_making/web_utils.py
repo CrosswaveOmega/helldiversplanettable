@@ -31,7 +31,7 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
     current_time = timev.isoformat()
     now = datetime.now()
     try:
-        url = "https://api-helldivers.kejax.net/api/planets/at"
+        url = "https://api-helldivers.kejax.net/api/planets"
         params = {"time": current_time}
         timeout = aiohttp.ClientTimeout(total=60*5)  # Set the timeout to 10 seconds
 
