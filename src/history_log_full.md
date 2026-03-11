@@ -14993,4 +14993,10 @@ Assault Division: Cyborgs U1D leaves *Charon Prime* (2026-03-11 02:06  UTC)<br/>
 Assault Division: Cyborgs U1D deploys to *Charbal-VII* (2026-03-11 02:07  UTC)<br/>
 Assault Division: Cyborgs U1D leaves *Charbal-VII* (2026-03-11 03:06  UTC)<br/>
 Assault Division: Cyborgs U1D deploys to *Charbal-VII* (2026-03-11 03:07  UTC)<br/>
+
+### Day: #763
+Major Order | [A3-3-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-1) Spacetime Disruptions is failed| Objective: Samples/Control (2026-03-11 12:47  UTC)<br/>
+Dispatch:  MAJOR ORDER FAILED  The Helldivers protected *Alairt III*, but could not extract sufficient Rare Samples from *Zea Rugosia* and *Herthon Secundus*.  Illegal patterns of astral pressure appear to be rapidly compounding into a volatile anomaly, gestating beneath planets bearing ancient Illuminate ruins. (2026-03-11 12:47  UTC)<br/>
 Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
+ Region Decay: 0.0 on Charbal-VII's UTOPIA VAREN region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region
+ (2026-03-11 18:32  UTC)<br/>
