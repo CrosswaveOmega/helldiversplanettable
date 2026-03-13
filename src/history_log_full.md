@@ -15012,3 +15012,11 @@ Major Order | [A3-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-3) Kill
 Dispatch: NEW MAJOR ORDER. The Cyborgs are raising Megafactories across their stolen planets. The Cyborgs proliferate Megafactories for one purpose: the proliferation of the Cyborgs themselves. Inside Megafactories lie Cyborg Production Units, bio-furnaces which grow new Cyborg orgo-frames which are then cybernetically enhance with murderous weaponry. The exponential rise of the Cyborgs must be stopped before its too late. Liberate CHOEPESSA IV and CHARBAL-VII. Kill 113,000,000 Agitators and 70,000,000 Radicals to cull the growth of this animatronic threat. (2026-03-11 16:38  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2026-03-11 16:54  UTC)<br/>
 Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-03-11 20:54  UTC)<br/>
+
+### Day: #764
+*Choepessa IV* Region 3 EVOLUTION PLATS Settlement has fallen to Human (2026-03-12 20:13  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-03-13 02:22  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION stops (2026-03-13 08:05  UTC)<br/>
+
+### Day: #765
