@@ -15013,6 +15013,7 @@ Dispatch: NEW MAJOR ORDER. The Cyborgs are raising Megafactories across their st
 DSS deploys to *Achird III* of the Borgus sector (2026-03-11 16:54  UTC)<br/>
 Assault Division: Cyborgs U1C deploys to *Aurora Bay* (2026-03-11 18:32  UTC)<br/>
 DSS deploys to *Choepessa IV* of the Trigon sector (2026-03-11 20:54  UTC)<br/>
+DSS effect Heavy Ordnance Distribution is activated (2026-03-12 08:05  UTC)<br/>
 
 ### Day: #764
 *Choepessa IV* Region 3 EVOLUTION PLATS Settlement has fallen to Human (2026-03-12 20:13  UTC)<br/>
@@ -15020,3 +15021,13 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2026-03-11 20:54  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION stops (2026-03-13 08:05  UTC)<br/>
 
 ### Day: #765
+Dispatch: NEW STRATEGIC OPPORTUNITY. Intel has identified the Utopia Varen Megafactory on Charbal VII as a primary Cyborg Production Unit hub. Massive quantities of components and organic tissue currently lie dormant within its bio-furnaces, awaiting cybernetic activation and augmentation. Liberating the planet will allow the pre-emptive decommissioning of these unregistered units. Succeed, and the required kill count for the current Major Order will be reduced by 25,000,000. (2026-03-13 18:17  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA Megacity has fallen to Human (2026-03-13 20:29  UTC)<br/>
+ Region Decay: 1.0 on Charbal-VII's UTOPIA VAREN region
+ (2026-03-13 20:29  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town has fallen to Human (2026-03-14 03:30  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2026-03-14 04:55  UTC)<br/>
+
+### Day: #766
+*Choepessa IV* is liberated (2026-03-14 09:53  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-03-14 23:59  UTC)<br/>
