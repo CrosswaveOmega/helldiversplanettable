@@ -15031,3 +15031,10 @@ DSS deploys to *Charbal-VII* of the Andromeda sector (2026-03-14 04:55  UTC)<br/
 ### Day: #766
 *Choepessa IV* is liberated (2026-03-14 09:53  UTC)<br/>
 DSS effect ORBITAL BLOCKADE starts (2026-03-14 23:59  UTC)<br/>
+
+### Day: #767
+*Charbal-VII* Region 0 UTOPIA VAREN Settlement has fallen to Human (2026-03-15 23:53  UTC)<br/>
+
+### Day: #768
+*Charbal-VII* is liberated (2026-03-16 14:04  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED. Charbal VII has been liberated. The Utopia Varen Megafactory and its bio-furnaces have been decisively dismantled.  With massive quantities of components and dormant organic tissue pre-emptively liquidated, the required kill count for the current Major Order has been officially reduced by 25,000,000. (2026-03-16 14:15  UTC)<br/>
