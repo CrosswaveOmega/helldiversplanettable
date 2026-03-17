@@ -15018,7 +15018,7 @@ DSS effect Heavy Ordnance Distribution is activated (2026-03-12 08:05  UTC)<br/>
 ### Day: #764
 *Choepessa IV* Region 3 EVOLUTION PLATS Settlement has fallen to Human (2026-03-12 20:13  UTC)<br/>
 *Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-03-13 02:22  UTC)<br/>
-DSS effect HEAVY ORDNANCE DISTRIBUTION stops (2026-03-13 08:05  UTC)<br/>
+DSS effect Heavy Ordnance Distribution stops (2026-03-13 08:05  UTC)<br/>
 
 ### Day: #765
 Dispatch: NEW STRATEGIC OPPORTUNITY. Intel has identified the Utopia Varen Megafactory on Charbal VII as a primary Cyborg Production Unit hub. Massive quantities of components and organic tissue currently lie dormant within its bio-furnaces, awaiting cybernetic activation and augmentation. Liberating the planet will allow the pre-emptive decommissioning of these unregistered units. Succeed, and the required kill count for the current Major Order will be reduced by 25,000,000. (2026-03-13 18:17  UTC)<br/>
@@ -15037,4 +15037,18 @@ DSS effect ORBITAL BLOCKADE starts (2026-03-14 23:59  UTC)<br/>
 
 ### Day: #768
 *Charbal-VII* is liberated (2026-03-16 14:04  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-03-16 14:04  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED. Charbal VII has been liberated. The Utopia Varen Megafactory and its bio-furnaces have been decisively dismantled.  With massive quantities of components and dormant organic tissue pre-emptively liquidated, the required kill count for the current Major Order has been officially reduced by 25,000,000. (2026-03-16 14:15  UTC)<br/>
+Major Order | [A3-3-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-3) Kill Cyborgs and Liberate 2 Worlds is failed | Objective: Liberate/Eradicate (2026-03-16 16:41  UTC)<br/>
+Dispatch:  MAJOR ORDER FAILED  The Cyborg demilitarization target was not reached. The Cyborg force remains strong; they lead their Automaton war slaves to spread their empire and subjugate more territory.  However, CHOEPESSA IV and CHARBAL-VII have been liberated by the Helldivers, their Megafactories destroyed.  Consult the Galactic Map for more information. (2026-03-16 16:43  UTC)<br/>
+
+### Day: #769
+*Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-03-17 10:03  UTC)<br/>
+Illuminate Cult debuts a new Assault Division: Mindless Masses (2026-03-17 10:13  UTC)<br/>
+Assault Division: Mindless Masses U1A deploys to *Heze Bay* (2026-03-17 10:13  UTC)<br/>
+Assault Division: Mindless Masses U2A deploys to *Rirga Bay* (2026-03-17 10:14  UTC)<br/>
+Illuminate Cult debuts a new Assault Division: Appropriators (2026-03-17 10:14  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  Highly threatening readings have been observed originating from planet SEASSE, deep in Illuminate territory. Gravitational waves that defy sanctioned scientific models are emanating from the planet, and anomalous weather formations now cover its surface.  The Helldivers are ordered to launch an immediate offensive towards SEASSE, with the objective of determining the nature of this Illuminate activity, and interdicting it. (2026-03-17 10:42  UTC)<br/>
+DSS effect Eagle Storm starts (2026-03-17 10:58  UTC)<br/>
+DSS deploys to *Kerth Secundus* of the Rictus sector (2026-03-17 12:57  UTC)<br/>
+Dispatch:  VOTELESS ASSAULT  A mass wave of Voteless have invaded HEZE BAY. The Illuminate themselves are not present; they have deployed only the twisted former citizens in a cowardly and naked attempt to distract from their operations on SEASSE. Non-voting abominations are destroying public property and terrorizing registered voters. (2026-03-17 14:40  UTC)<br/>
