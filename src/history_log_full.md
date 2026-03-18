@@ -15052,3 +15052,12 @@ Dispatch:  NEW MAJOR ORDER  Highly threatening readings have been observed origi
 DSS effect Eagle Storm starts (2026-03-17 10:58  UTC)<br/>
 DSS deploys to *Kerth Secundus* of the Rictus sector (2026-03-17 12:57  UTC)<br/>
 Dispatch:  VOTELESS ASSAULT  A mass wave of Voteless have invaded HEZE BAY. The Illuminate themselves are not present; they have deployed only the twisted former citizens in a cowardly and naked attempt to distract from their operations on SEASSE. Non-voting abominations are destroying public property and terrorizing registered voters. (2026-03-17 14:40  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2026-03-17 16:57  UTC)<br/>
+*Heze Bay* Region 0 UNANIMITY City has fallen to Human (2026-03-18 00:21  UTC)<br/>
+
+# Day: #770
+DSS effect EAGLE STORM ends (2026-03-18 10:59  UTC)<br/>
+*Heze Bay* Region 1 UNISON City has fallen to Human (2026-03-18 15:32  UTC)<br/>
+*Heze Bay* is liberated (2026-03-18 15:32  UTC)<br/>
+*Rirga Bay* liberation campaign starts (2026-03-18 15:32  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-03-18 15:32  UTC)<br/>
