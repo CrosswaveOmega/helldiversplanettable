@@ -15061,3 +15061,7 @@ DSS effect EAGLE STORM ends (2026-03-18 10:59  UTC)<br/>
 *Heze Bay* is liberated (2026-03-18 15:32  UTC)<br/>
 *Rirga Bay* liberation campaign starts (2026-03-18 15:32  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2026-03-18 15:32  UTC)<br/>
+ Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
+ (2026-03-18 16:00  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-18 20:57  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-18 21:56  UTC)<br/>
