@@ -455,6 +455,9 @@ export function makeplot(
     let dssPlanets = planets.filter((planet) => planet.dss === "DSS Here");
 
     let iconPlanets = planets.filter((planet) => planet.poi);
+    
+    let exoPlanets = planets.filter((planet) => planet.exo != null);
+
 
     let adivPlanets = planets.filter((planet) => planet.adiv);
 
@@ -607,6 +610,22 @@ export function makeplot(
                         return icons[p.poi].base64_image;
                     } else {
                         return icons["PlaceHolder"].base64_image;
+                    }
+                }
+            }),
+            Plot.image(exoPlanets, {
+                x: (p) => x_c(p.position.x) + 0.02,
+                y: (p) => y_c(p.position.y) + 0.02,
+                stroke: "#ff0000", // fixed stroke color change
+                fill: (p) => getColor(p.ta[0]),
+                width: width / 40,
+                height: width / 40,
+
+                src: (p) => {
+                    if (icons["Storm"]) {
+                        return icons["Storm"].base64_image;
+                    } else {
+                        return icons["Exostorm"].base64_image;
                     }
                 }
             }),

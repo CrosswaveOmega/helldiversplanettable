@@ -170,6 +170,35 @@
             }
         ]
     },
+    "exostorm": {
+        "name": "exostorm",
+
+        "matchable": ["Exostorm warning","was issued"],
+        "mode": "and",
+        "sub": [{
+                "name": "exostorm_no_storm",
+                "matchable": ["has ended"]
+            },
+            {
+                "name": "exostorm_class_one",
+                "matchable": ["Class-1"]
+            },
+            {
+                "name": "exostorm_class_two",
+                "matchable": ["Class-2"]
+            },
+            {
+                "name": "exostorm_class_three",
+                "matchable": ["Class-3"]
+            }
+        ]
+    },
+    "exostorm_no_storm": {
+        "name": "exostorm_no_storm",
+
+        "matchable": ["Exostorm warning","has ended"],
+        "mode":"and"
+    },
     "LostContactEffect": {
         "name": "No Contact",
 
