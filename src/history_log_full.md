@@ -15044,7 +15044,7 @@ Dispatch:  MAJOR ORDER FAILED  The Cyborg demilitarization target was not reache
 
 ### Day: #769
 *Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-03-17 10:03  UTC)<br/>
-A Class-1 Exostorm has started on *Seasse* (2026-03-17 10:13  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Seasse* (2026-03-17 10:13  UTC)<br/>
 Illuminate Cult debuts a new Assault Division: Mindless Masses (2026-03-17 10:13  UTC)<br/>
 Assault Division: Mindless Masses U1A deploys to *Heze Bay* (2026-03-17 10:13  UTC)<br/>
 Assault Division: Mindless Masses U2A deploys to *Rirga Bay* (2026-03-17 10:14  UTC)<br/>
@@ -15082,4 +15082,7 @@ Dispatch:  INTEL REPORT  Novel Illuminate threats have been encountered on SEASS
 DSS deploys to *Seasse* of the Omega sector (2026-03-20 04:58  UTC)<br/>
 
 ### Day: #772
+A Class-2 Exostorm warning was issued for *Seasse* (2026-03-20 15:00  UTC)<br/>
 Dispatch: EXOSTORM ESCALATION  The Exostorm on *Seasse* has escalated to Category 2. Localized Exospire weather cells are merging into planetary super-storms.  Due to atmospheric volatility, completion of operations is no longer required for mission success.  Helldivers are ordered to focus on high-volume Illuminate liquidation and the requisition of anomalous assets. Make the enemy pay in blood for every second of unlawful environmental interference. (2026-03-20 15:02  UTC)<br/>
+
+### Day: #773
