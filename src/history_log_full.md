@@ -15044,10 +15044,13 @@ Dispatch:  MAJOR ORDER FAILED  The Cyborg demilitarization target was not reache
 
 ### Day: #769
 *Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-03-17 10:03  UTC)<br/>
+A Class-1 Exostorm has started on *Seasse* (2026-03-17 10:13  UTC)<br/>
 Illuminate Cult debuts a new Assault Division: Mindless Masses (2026-03-17 10:13  UTC)<br/>
 Assault Division: Mindless Masses U1A deploys to *Heze Bay* (2026-03-17 10:13  UTC)<br/>
 Assault Division: Mindless Masses U2A deploys to *Rirga Bay* (2026-03-17 10:14  UTC)<br/>
 Illuminate Cult debuts a new Assault Division: Appropriators (2026-03-17 10:14  UTC)<br/>
+*Seasse* of the Omega sector is now under threat (2026-03-17 10:15  UTC)<br/>
+Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is issued | Objective: Kill/Operations/Hold (2026-03-17 10:42  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  Highly threatening readings have been observed originating from planet SEASSE, deep in Illuminate territory. Gravitational waves that defy sanctioned scientific models are emanating from the planet, and anomalous weather formations now cover its surface.  The Helldivers are ordered to launch an immediate offensive towards SEASSE, with the objective of determining the nature of this Illuminate activity, and interdicting it. (2026-03-17 10:42  UTC)<br/>
 DSS effect Eagle Storm starts (2026-03-17 10:58  UTC)<br/>
 DSS deploys to *Kerth Secundus* of the Rictus sector (2026-03-17 12:57  UTC)<br/>
@@ -15065,3 +15068,18 @@ DSS deploys to *Achird III* of the Borgus sector (2026-03-18 15:32  UTC)<br/>
  (2026-03-18 16:00  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-18 20:57  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-18 21:56  UTC)<br/>
+
+### Day: #771
+*Seasse* of the Omega sector is attacked by Humans (2026-03-19 22:10  UTC)<br/>
+*Seasse* of the Omega sector is no longer under threat (2026-03-19 22:10  UTC)<br/>
+Dispatch:  INTEL REPORT  The first Super Destroyers have reached SEASSE. The Illuminate appear to have raised massive spires from beneath their ancient ruins. The meteorological phenomena engulfing the planet appear to originate from these spires, which have been named Exospires.  Helldivers: focus operations on these Exospires. Deploy to SEASSE and destroy as many of them as possible. (2026-03-19 22:10  UTC)<br/>
+*Rirga Bay* is liberated (2026-03-19 22:11  UTC)<br/>
+*Hort* liberation campaign starts (2026-03-19 22:11  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-03-19 22:11  UTC)<br/>
+Dispatch:  INTEL REPORT  Novel Illuminate threats have been encountered on SEASSE. Troops report piloted armored suits on the battlefield, likely created from stolen Exosuit blueprints. (2026-03-19 22:32  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-03-19 22:32  UTC)<br/>
+DSS deploys to *Seasse* of the Omega sector (2026-03-20 04:58  UTC)<br/>
+
+### Day: #772
+Dispatch: EXOSTORM ESCALATION  The Exostorm on *Seasse* has escalated to Category 2. Localized Exospire weather cells are merging into planetary super-storms.  Due to atmospheric volatility, completion of operations is no longer required for mission success.  Helldivers are ordered to focus on high-volume Illuminate liquidation and the requisition of anomalous assets. Make the enemy pay in blood for every second of unlawful environmental interference. (2026-03-20 15:02  UTC)<br/>
