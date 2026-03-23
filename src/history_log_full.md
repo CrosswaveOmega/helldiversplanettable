@@ -15086,3 +15086,42 @@ A Class-2 Exostorm warning was issued for *Seasse* (2026-03-20 15:00  UTC)<br/>
 Dispatch: EXOSTORM ESCALATION  The Exostorm on *Seasse* has escalated to Category 2. Localized Exospire weather cells are merging into planetary super-storms.  Due to atmospheric volatility, completion of operations is no longer required for mission success.  Helldivers are ordered to focus on high-volume Illuminate liquidation and the requisition of anomalous assets. Make the enemy pay in blood for every second of unlawful environmental interference. (2026-03-20 15:02  UTC)<br/>
 
 ### Day: #773
+Assault Division: Cyborgs U1B leaves *Mintoria* (2026-03-21 20:15  UTC)<br/>
+Assault Division: Cyborgs U1B deploys to *Zefia* (2026-03-21 20:15  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Automatons (2026-03-21 20:16  UTC)<br/>
+Strategic Opportunity | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is issued | Objective: Defend (2026-03-21 20:18  UTC)<br/>
+Dispatch:  NEW STRATEGIC IMPERATIVE  Cyborg invasion forces have landed on the surface of ZEFIA. They seek to expand their empire and mar their surface with new Megafactories. The Cyborg threat cannot be allowed to grow unchecked. (2026-03-21 20:19  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Azur Secundus* (2026-03-21 20:40  UTC)<br/>
+Assault Division: Dragonroaches U5A leaves *Azur Secundus* (2026-03-21 21:40  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Overgoe Prime* (2026-03-21 21:40  UTC)<br/>
+Assault Division: Dragonroaches U5A leaves *Overgoe Prime* (2026-03-21 22:40  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Partion* (2026-03-21 22:40  UTC)<br/>
+Assault Division: Dragonroaches U5A leaves *Partion* (2026-03-21 23:40  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Phact Bay* (2026-03-21 23:40  UTC)<br/>
+Assault Division: Cyborgs U1A divides into 2 groups [U1A, U1E] (2026-03-22 00:16  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Mekbuda* (2026-03-22 00:16  UTC)<br/>
+DSS deploys to *Zefia* of the Tanis sector (2026-03-22 00:59  UTC)<br/>
+Assault Division: Cyborgs U1E leaves *Mekbuda* (2026-03-22 01:16  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Aurora Bay* (2026-03-22 01:16  UTC)<br/>
+Assault Division: Cyborgs U1E leaves *Aurora Bay* (2026-03-22 02:16  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Choohe* (2026-03-22 02:16  UTC)<br/>
+Assault Division: Cyborgs U1E leaves *Matar Bay* (2026-03-22 03:17  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Choohe* (2026-03-22 03:17  UTC)<br/>
+Assault Division: Cyborgs U1E leaves *Choohe* (2026-03-22 04:17  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Marfark* (2026-03-22 04:17  UTC)<br/>
+*Fury* liberation campaign ends (2026-03-22 06:22  UTC)<br/>
+Xzar sector is fully under Human control (2026-03-22 06:22  UTC)<br/>
+
+### Day: #774
+A Class-3 Exostorm warning was issued for *Seasse* (2026-03-22 11:04  UTC)<br/>
+Dispatch: CRITICAL EXOSTORM ESCALATION  The Exostorm has reached Category 3: all super-storms have merged into a single, extreme, planet-covering storm system.  The Ministry of Science reports initial adverse spacetime fractures within the *Seasse* system, amidst claims of fluctuating chronometric drift, and unidentifiable visual artifacts.  The tactical window is closing before spacetime stability is irrevocably compromised. (2026-03-22 11:07  UTC)<br/>
+*K* liberation campaign ends (2026-03-22 17:33  UTC)<br/>
+*Zefia* defense is won (2026-03-22 18:30  UTC)<br/>
+DSS deploys to *Seasse* of the Omega sector (2026-03-22 18:30  UTC)<br/>
+Dispatch:  STRATEGIC IMPERATIVE SEIZED  The Cyborgs have been repelled from ZEFIA. Their territorial ambitions have been checked for the time being. (2026-03-22 18:32  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availability of the Flamethrower Stratagem for the next 24 hours. (2026-03-22 18:34  UTC)<br/>
+*Achird III* Region 0 TIMELY Town has fallen to Human (2026-03-23 02:52  UTC)<br/>
+
+### Day: #775
+*Achird III* liberation campaign ends (2026-03-23 09:05  UTC)<br/>
+DSS effect Orbital Blockade starts (2026-03-23 09:43  UTC)<br/>
