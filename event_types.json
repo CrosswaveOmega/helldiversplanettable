@@ -61,6 +61,7 @@
         "name": "defense start",
         "matchable": ["is attacked by", "assaulted into a defense"]
     },
+
     "InvasionStartEvent": {
         "name": "invasion start",
         "matchable": ["is invaded by"]
@@ -96,6 +97,14 @@
     "CampaignEndEvent": {
         "name": "campaign_end",
         "matchable": ["campaign ends"]
+    },
+    "CampaignUrgentEndEvent": {
+        "name": "campaign_end",
+        "matchable": ["urgent liberation is failed"]
+    },
+    "CampaignUrgentWonEvent": {
+        "name": "planet_won",
+        "matchable": ["urgent liberation is won"]
     },
     "PlanetMoveEvent": {
         "name": "planet move",
