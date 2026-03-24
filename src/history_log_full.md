@@ -15049,6 +15049,7 @@ Illuminate Cult debuts a new Assault Division: Mindless Masses (2026-03-17 10:13
 Assault Division: Mindless Masses U1A deploys to *Heze Bay* (2026-03-17 10:13  UTC)<br/>
 Assault Division: Mindless Masses U2A deploys to *Rirga Bay* (2026-03-17 10:14  UTC)<br/>
 Illuminate Cult debuts a new Assault Division: Appropriators (2026-03-17 10:14  UTC)<br/>
+Assault Division: Appropriators U1A deploys to *Seasse* (2026-03-17 10:14  UTC)<br/>
 *Seasse* of the Omega sector is now under threat (2026-03-17 10:15  UTC)<br/>
 Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is issued | Objective: Kill/Operations/Hold (2026-03-17 10:42  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  Highly threatening readings have been observed originating from planet SEASSE, deep in Illuminate territory. Gravitational waves that defy sanctioned scientific models are emanating from the planet, and anomalous weather formations now cover its surface.  The Helldivers are ordered to launch an immediate offensive towards SEASSE, with the objective of determining the nature of this Illuminate activity, and interdicting it. (2026-03-17 10:42  UTC)<br/>
