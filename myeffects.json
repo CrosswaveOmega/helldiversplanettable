@@ -224,20 +224,26 @@
         "1373": {
             "galacticEffectId": 1373,
             "name": "CLASS 1 EXOSTORM",
-            "icon":"Storm",
+            "icon": "Storm",
             "description": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
         },
         "1374": {
             "galacticEffectId": 1374,
             "name": "CLASS 2 EXOSTORM",
-            "icon":"Storm",
+            "icon": "Storm",
             "description": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet."
         },
         "1375": {
             "galacticEffectId": 1375,
             "name": "CLASS 3 EXOSTORM",
-            "icon":"Storm",
+            "icon": "Storm",
             "description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+        },
+        "1376": {
+            "galacticEffectId": 1376,
+            "name": "The Void",
+            "icon": "Storm",
+            "description": "This world is enveloped by The Void."
         },
         "1378": {
             "galacticEffectId": 1378,
@@ -251,5 +257,5 @@
             "icon": "MechTeam",
             "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
         }
-        }
+    }
 }

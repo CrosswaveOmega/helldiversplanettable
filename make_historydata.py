@@ -908,11 +908,10 @@ def update_planet_ownership(
                     planetclone[str(ind)].remove_desc(eff.name)
                 planetclone[str(ind)].poi = ""
         if "exostorm" in event.type:
-            site = extract_poi_details(event.text)
             EXOSTORM_MAP = {
                 "exostorm_class_one": ("CLASS 1 EXOSTORM", 1),
                 "exostorm_class_two": ("CLASS 2 EXOSTORM", 2),
-                "exostorm_class_three": ("CLASS 3 EXOSTORM", 3),
+                "exostorm_class_three": ("CLASS 3 EXOSTORM", 3)
             }
 
             EXOSTORM_NAMES = [v[0] for v in EXOSTORM_MAP.values()]
@@ -929,7 +928,28 @@ def update_planet_ownership(
                 if eff:
                     planetclone[str(ind)].exo = level
                     planetclone[str(ind)].add_desc(name, eff.description)
+        if "void" in event.type:
+            EXOSTORM_MAP = {
+                "exostorm_class_one": ("CLASS 1 EXOSTORM", 1),
+                "exostorm_class_two": ("CLASS 2 EXOSTORM", 2),
+                "exostorm_class_three": ("CLASS 3 EXOSTORM", 3),
+                "void_added": ("The Void", 4)
+            }
 
+            EXOSTORM_NAMES = [v[0] for v in EXOSTORM_MAP.values()]
+
+            for name in EXOSTORM_NAMES:
+                planetclone[str(ind)].remove_desc(name)
+
+            if event.type == "void_removed":
+                planetclone[str(ind)].exo = None
+
+            elif event.type in EXOSTORM_MAP:
+                name, level = EXOSTORM_MAP[event.type]
+                eff = get_effect(name)
+                if eff:
+                    planetclone[str(ind)].exo = level
+                    planetclone[str(ind)].add_desc(name, eff.description)
         if event.type == "planet move":
             # Move to a new position.
             pattern = r"X (-?\d+\.\d+) Y (-?\d+\.\d+)"

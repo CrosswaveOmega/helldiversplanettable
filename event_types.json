@@ -173,31 +173,40 @@
     "exostorm": {
         "name": "exostorm",
 
-        "matchable": ["Exostorm warning","was issued"],
-        "mode": "and",
+        "matchable": ["exostorm warning was issued"],
         "sub": [{
-                "name": "exostorm_no_storm",
-                "matchable": ["has ended"]
-            },
-            {
                 "name": "exostorm_class_one",
-                "matchable": ["Class-1"]
+                "matchable": ["class-1"]
             },
             {
                 "name": "exostorm_class_two",
-                "matchable": ["Class-2"]
+                "matchable": ["class-2"]
             },
             {
                 "name": "exostorm_class_three",
-                "matchable": ["Class-3"]
+                "matchable": ["class-3"]
+            }
+        ]
+    },
+    "the_void": {
+        "name": "the_void",
+
+        "matchable": ["by the void"],
+        "sub": [{
+                "name": "void_removed",
+                "matchable": ["no longer enveloped"]
+            },
+            {
+                "name": "void_added",
+                "matchable": ["is enveloped"]
             }
         ]
     },
     "exostorm_no_storm": {
         "name": "exostorm_no_storm",
 
-        "matchable": ["Exostorm warning","has ended"],
-        "mode":"and"
+        "matchable": ["Exostorm warning", "has ended"],
+        "mode": "and"
     },
     "LostContactEffect": {
         "name": "No Contact",
