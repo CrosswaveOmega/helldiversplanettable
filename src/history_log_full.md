@@ -15070,7 +15070,7 @@ DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-18 20:57  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-18 21:56  UTC)<br/>
 
 ### Day: #771
-*Seasse* of the Omega sector is attacked by Humans (2026-03-19 22:10  UTC)<br/>
+*Seasse* urgent liberation campaign starts (2026-03-19 22:10  UTC)<br/>
 *Seasse* of the Omega sector is no longer under threat (2026-03-19 22:10  UTC)<br/>
 Dispatch:  INTEL REPORT  The first Super Destroyers have reached SEASSE. The Illuminate appear to have raised massive spires from beneath their ancient ruins. The meteorological phenomena engulfing the planet appear to originate from these spires, which have been named Exospires.  Helldivers: focus operations on these Exospires. Deploy to SEASSE and destroy as many of them as possible. (2026-03-19 22:10  UTC)<br/>
 *Rirga Bay* is liberated (2026-03-19 22:11  UTC)<br/>
@@ -15125,3 +15125,28 @@ Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availabil
 ### Day: #775
 *Achird III* liberation campaign ends (2026-03-23 09:05  UTC)<br/>
 DSS effect Orbital Blockade starts (2026-03-23 09:43  UTC)<br/>
+*Ursica XI* Region 0 NEW KATHMANDU Town is besieged by Human (2026-03-24 03:15  UTC)<br/>
+
+### Day: #776
+DSS deploys to *Phact Bay* of the Jin Xi sector (2026-03-24 09:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-03-24 09:43  UTC)<br/>
+Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is won| Objective: Kill/Operations/Hold (2026-03-24 10:46  UTC)<br/>
+*Seasse* urgent liberation is failed (2026-03-24 10:58  UTC)<br/>
+*Seasse* is enveloped by the Void (2026-03-24 10:58  UTC)<br/>
+*Seasse* is now unobservable due to the Void (2026-03-24 10:58  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  The Helldivers interceded on SEASSE, successfully nullifying this latest Illuminate scheme.  However, the planet remains in the inhuman, tentacled grasp of the xenophobic enemy. The Exospires they have raised are generating a growing Exostorm that will soon cover the entire planet.  Consult the Galactic Map for more information. (2026-03-24 11:03  UTC)<br/>
+Dispatch:  SEASSE SYSTEM UNOBSERVABLE  The SEASSE System has been rendered unobservable to all equipment. The space surrounding the system is blocked by a seemingly impenetrable Void of an unknown nature.   Travel to SEASSE is not possible at this time. The Ministry of Science is aggressively investigating the situation. (2026-03-24 11:32  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-03-24 13:39  UTC)<br/>
+Assault Division: Appropriators U1A divides into 2 groups [U1A, U1B] (2026-03-24 14:40  UTC)<br/>
+Assault Division: Appropriators U1B deploys to *Hort* (2026-03-24 14:40  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Hort* (2026-03-24 14:49  UTC)<br/>
+*Hort* urgent liberation campaign starts (2026-03-24 14:50  UTC)<br/>
+*Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-03-24 14:55  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-24 14:55  UTC)<br/>
+Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and *Hort* is issued | Objective: Hold (2026-03-24 15:01  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  SEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.   Simultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack. (2026-03-24 15:01  UTC)<br/>
+ Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
+ (2026-03-24 15:01  UTC)<br/>
+*Hort* Region 0 On-Earsahou City is demolished (2026-03-24 15:24  UTC)<br/>
+*Hort* Region 1 Clockstop City is demolished (2026-03-24 15:24  UTC)<br/>
+*Hort* Region 2 Magnitude City is demolished (2026-03-24 15:24  UTC)<br/>
