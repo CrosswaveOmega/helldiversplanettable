@@ -15145,7 +15145,7 @@ A Class-1 Exostorm warning was issued for *Hort* (2026-03-24 14:49  UTC)<br/>
 *Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-03-24 14:55  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-24 14:55  UTC)<br/>
 Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and *Hort* is issued | Objective: Hold (2026-03-24 15:01  UTC)<br/>
-Dispatch:  NEW MAJOR ORDER  SEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.   Simultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack. (2026-03-24 15:01  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  SEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.   Simultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack. (2026-03-24 15:01  UTC)<br/>
  Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
  (2026-03-24 15:01  UTC)<br/>
 *Hort* Region 0 On-Earsahou City is demolished (2026-03-24 15:24  UTC)<br/>
