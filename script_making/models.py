@@ -116,6 +116,7 @@ class PlanetState(BaseModel):
     link: List[int] = Field(alias="link", default_factory=list)
     link2: Optional[int] = Field(alias="link2", default=None)
     gls: Optional[int] = Field(alias="gloom", default=None)
+    exo: Optional[int] = Field(alias="exostorm", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
