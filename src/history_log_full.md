@@ -15063,6 +15063,7 @@ DSS deploys to *Heze Bay* of the Hanzo sector (2026-03-17 16:57  UTC)<br/>
 DSS effect EAGLE STORM ends (2026-03-18 10:59  UTC)<br/>
 *Heze Bay* Region 1 UNISON City has fallen to Human (2026-03-18 15:32  UTC)<br/>
 *Heze Bay* is liberated (2026-03-18 15:32  UTC)<br/>
+Assault Division: Mindless Masses U1A is routed from Heze Bay (2026-03-18 15:32  UTC)<br/>
 *Rirga Bay* liberation campaign starts (2026-03-18 15:32  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2026-03-18 15:32  UTC)<br/>
  Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
@@ -15071,10 +15072,11 @@ DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-18 20:57  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-18 21:56  UTC)<br/>
 
 ### Day: #771
-*Seasse* urgent liberation campaign starts (2026-03-19 22:10  UTC)<br/>
+*Seasse* urgent liberation campaign starts, Level 268 (2026-03-19 22:10  UTC)<br/>
 *Seasse* of the Omega sector is no longer under threat (2026-03-19 22:10  UTC)<br/>
 Dispatch:  INTEL REPORT  The first Super Destroyers have reached SEASSE. The Illuminate appear to have raised massive spires from beneath their ancient ruins. The meteorological phenomena engulfing the planet appear to originate from these spires, which have been named Exospires.  Helldivers: focus operations on these Exospires. Deploy to SEASSE and destroy as many of them as possible. (2026-03-19 22:10  UTC)<br/>
 *Rirga Bay* is liberated (2026-03-19 22:11  UTC)<br/>
+Assault Division: Mindless Masses U1A is routed from Heze Bay (2026-03-19 22:11  UTC)<br/>
 *Hort* liberation campaign starts (2026-03-19 22:11  UTC)<br/>
 DSS deploys to *Achird III* of the Borgus sector (2026-03-19 22:11  UTC)<br/>
 Dispatch:  INTEL REPORT  Novel Illuminate threats have been encountered on SEASSE. Troops report piloted armored suits on the battlefield, likely created from stolen Exosuit blueprints. (2026-03-19 22:32  UTC)<br/>
@@ -15089,7 +15091,7 @@ Dispatch: EXOSTORM ESCALATION  The Exostorm on *Seasse* has escalated to Categor
 ### Day: #773
 Assault Division: Cyborgs U1B leaves *Mintoria* (2026-03-21 20:15  UTC)<br/>
 Assault Division: Cyborgs U1B deploys to *Zefia* (2026-03-21 20:15  UTC)<br/>
-*Zefia* of the Tanis sector is attacked by Automatons (2026-03-21 20:16  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Lvl 12 Automatons (2026-03-21 20:16  UTC)<br/>
 Strategic Opportunity | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is issued | Objective: Defend (2026-03-21 20:18  UTC)<br/>
 Dispatch:  NEW STRATEGIC IMPERATIVE  Cyborg invasion forces have landed on the surface of ZEFIA. They seek to expand their empire and mar their surface with new Megafactories. The Cyborg threat cannot be allowed to grow unchecked. (2026-03-21 20:19  UTC)<br/>
 Assault Division: Dragonroaches U5A deploys to *Azur Secundus* (2026-03-21 20:40  UTC)<br/>
@@ -15141,13 +15143,22 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-03-24 13:39  UTC)<br/>
 Assault Division: Appropriators U1A divides into 2 groups [U1A, U1B] (2026-03-24 14:40  UTC)<br/>
 Assault Division: Appropriators U1B deploys to *Hort* (2026-03-24 14:40  UTC)<br/>
 A Class-1 Exostorm warning was issued for *Hort* (2026-03-24 14:49  UTC)<br/>
-*Hort* urgent liberation campaign starts (2026-03-24 14:50  UTC)<br/>
+*Hort* urgent liberation campaign starts, Level 103 (2026-03-24 14:50  UTC)<br/>
 *Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-03-24 14:55  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-24 14:55  UTC)<br/>
-Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and *Hort* is issued | Objective: Hold (2026-03-24 15:01  UTC)<br/>
+Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and Liberate *Hort* is issued | Objective: Hold/Liberate (2026-03-24 15:01  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER.  SEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.   Simultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack. (2026-03-24 15:01  UTC)<br/>
  Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
  (2026-03-24 15:01  UTC)<br/>
 *Hort* Region 0 On-Earsahou City is demolished (2026-03-24 15:24  UTC)<br/>
 *Hort* Region 1 Clockstop City is demolished (2026-03-24 15:24  UTC)<br/>
 *Hort* Region 2 Magnitude City is demolished (2026-03-24 15:24  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-24 21:01  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-24 23:02  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2026-03-25 05:01  UTC)<br/>
+
+### Day: #777
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-03-25 13:40  UTC)<br/>
+*Rirga Bay* defense is won (2026-03-25 14:49  UTC)<br/>
+Assault Division: Mindless Masses U2A is routed from Rirga Bay (2026-03-25 14:49  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Azur Secundus* (2026-03-25 15:27  UTC)<br/>
