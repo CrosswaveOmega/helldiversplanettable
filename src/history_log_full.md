@@ -15162,3 +15162,16 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-03-25 13:40  UTC)<br/>
 *Rirga Bay* defense is won (2026-03-25 14:49  UTC)<br/>
 Assault Division: Mindless Masses U2A is routed from Rirga Bay (2026-03-25 14:49  UTC)<br/>
 Assault Division: Predator Strain U10A deploys to *Azur Secundus* (2026-03-25 15:27  UTC)<br/>
+Assault Division: Predator Strain U10A leaves  *Azur Secundus* (2026-03-25 16:27  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Overgoe Prime* (2026-03-25 16:27  UTC)<br/>
+Assault Division: Predator Strain U10A leaves *Overgoe Prime* (2026-03-25 17:26  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Partion* (2026-03-25 17:27  UTC)<br/>
+Assault Division: Predator Strain U10A leaves *Partion* (2026-03-25 18:26  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Phact Bay* (2026-03-25 18:27  UTC)<br/>
+Assault Division: Predator Strain U10A leaves *Phact Bay* (2026-03-25 19:26  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Gar Haren* (2026-03-25 19:27  UTC)<br/>
+Assault Division: Predator Strain U10A leaves *Gar Haren* (2026-03-25 20:26  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Grand Errant* (2026-03-25 20:27  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-03-26 04:21  UTC)<br/>
+
+### Day: #778
