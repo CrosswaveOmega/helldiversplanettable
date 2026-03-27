@@ -15175,3 +15175,12 @@ Assault Division: Predator Strain U10A deploys to *Grand Errant* (2026-03-25 20:
 DSS effect EAGLE STORM starts (2026-03-26 04:21  UTC)<br/>
 
 ### Day: #778
+A Class-2 Exostorm warning was issued for *Hort* (2026-03-26 17:26  UTC)<br/>
+Assault Division: Mindless Masses U3A deploys to *Senge 23* (2026-03-26 18:25  UTC)<br/>
+Assault Division: Mindless Masses U3A leaves *Senge 23* (2026-03-26 19:24  UTC)<br/>
+Assault Division: Mindless Masses U3A deploys to *Hydrobius* (2026-03-26 19:25  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-03-27 04:22  UTC)<br/>
+
+### Day: #779
+Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is issued | Objective: Liberate (2026-03-27 15:20  UTC)<br/>
+Dispatch:  NEW STRATEGIC OPPORTUNITY  Restoring the AM Defense Factory Hub on *Achernar Secundus* has resulted in an abundance of vehicle production.  To remove impediments from production lines, High Command authorizes free, fleetwide access to the Fast Recon Vehicle (FRV) Stratagem for all Helldivers on *Ursica XI*.   Helldivers: utilize this fortuitous bounty to liberate *Ursica XI* with virtuous velocity, and to provide combat telemetry required for forthcoming mobile R&D. (2026-03-27 15:20  UTC)<br/>
