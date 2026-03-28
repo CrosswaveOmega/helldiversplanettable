@@ -15126,14 +15126,13 @@ Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availabil
 *Achird III* Region 0 TIMELY Town has fallen to Human (2026-03-23 02:52  UTC)<br/>
 
 ### Day: #775
-*Achird III* liberation campaign ends (2026-03-23 09:05  UTC)<br/>
 DSS effect Orbital Blockade starts (2026-03-23 09:43  UTC)<br/>
 *Ursica XI* Region 0 NEW KATHMANDU Town is besieged by Human (2026-03-24 03:15  UTC)<br/>
 
 ### Day: #776
 DSS deploys to *Phact Bay* of the Jin Xi sector (2026-03-24 09:00  UTC)<br/>
 DSS effect ORBITAL BLOCKADE ends (2026-03-24 09:43  UTC)<br/>
-Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is won| Objective: Kill/Operations/Hold (2026-03-24 10:46  UTC)<br/>
+Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is won | Objective: Kill/Operations/Hold (2026-03-24 10:46  UTC)<br/>
 *Seasse* urgent liberation is failed (2026-03-24 10:58  UTC)<br/>
 *Seasse* is enveloped by the Void (2026-03-24 10:58  UTC)<br/>
 *Seasse* is now unobservable due to the Void (2026-03-24 10:58  UTC)<br/>
@@ -15146,6 +15145,7 @@ A Class-1 Exostorm warning was issued for *Hort* (2026-03-24 14:49  UTC)<br/>
 *Hort* urgent liberation campaign starts, Level 103 (2026-03-24 14:50  UTC)<br/>
 *Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-03-24 14:55  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-24 14:55  UTC)<br/>
+Assault Division: Mindless Masses U2A deploys to *Rirga Bay* (2026-03-24 14:55  UTC)<br/>
 Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and Liberate *Hort* is issued | Objective: Hold/Liberate (2026-03-24 15:01  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER.  SEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.   Simultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack. (2026-03-24 15:01  UTC)<br/>
  Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
@@ -15184,3 +15184,15 @@ DSS effect EAGLE STORM ends (2026-03-27 04:22  UTC)<br/>
 ### Day: #779
 Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is issued | Objective: Liberate (2026-03-27 15:20  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  Restoring the AM Defense Factory Hub on *Achernar Secundus* has resulted in an abundance of vehicle production.  To remove impediments from production lines, High Command authorizes free, fleetwide access to the Fast Recon Vehicle (FRV) Stratagem for all Helldivers on *Ursica XI*.   Helldivers: utilize this fortuitous bounty to liberate *Ursica XI* with virtuous velocity, and to provide combat telemetry required for forthcoming mobile R&D. (2026-03-27 15:20  UTC)<br/>
+*Ursica XI* is liberated (2026-03-28 01:09  UTC)<br/>
+
+# Day: #780
+*Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-03-28 10:30  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-28 10:30  UTC)<br/>
+Assault Division: Mindless Masses U4A deploys to *Rirga Bay* (2026-03-28 10:30  UTC)<br/>
+ Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
+ (2026-03-28 10:30  UTC)<br/>
+Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is won | Objective: Liberate (2026-03-28 15:21  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers have liberated *Ursica XI* and, in doing so, swiftly gathered an immense volume of combat telemetry, to catalyze R&D teams at AM Defense.   By analyzing high-speed logistical maneuvers and peak-thermal engagement data, engineers are finalizing specialized chassis intended to better support Helldivers.   Today's success has ensured that the light of Liberty and the flames of Justice shall travel further—and purge Tyranny faster—than ever before. (2026-03-28 15:21  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Hort* (2026-03-28 15:44  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-28 17:03  UTC)<br/>
