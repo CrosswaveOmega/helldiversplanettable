@@ -15196,3 +15196,27 @@ Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers have liberated *Ursica XI* and, in doing so, swiftly gathered an immense volume of combat telemetry, to catalyze R&D teams at AM Defense.   By analyzing high-speed logistical maneuvers and peak-thermal engagement data, engineers are finalizing specialized chassis intended to better support Helldivers.   Today's success has ensured that the light of Liberty and the flames of Justice shall travel further—and purge Tyranny faster—than ever before. (2026-03-28 15:21  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Hort* (2026-03-28 15:44  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-28 17:03  UTC)<br/>
+
+### Day: #781
+*Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-29 09:41  UTC)<br/>
+NOTE: From now until XX:XXam, *Hort*'s Cities were on a loop of being added and removed every few minutes (2026-03-29 16:03  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-03-29 18:00  UTC)<br/>
+*Hort* is liberated (2026-03-29 20:38  UTC)<br/>
+*Hesoe Prime* liberation campaign starts (2026-03-29 20:38  UTC)<br/>
+*RD-4* liberation campaign starts (2026-03-29 20:38  UTC)<br/>
+Dispatch:  RITUAL STORM NEUTRALIZED  The Helldivers have successfully liberated *Hort*. In doing so, they have heroically dismantled the mechanisms behind the Ritual Storm, neutralizing the atmospheric anomaly, and securing the planet.   This victory marks our first successful suppression of such a metaphysical threat.  High Command advises all forces to pivot immediately: stem the tide of Mindless Masses currently pouring out of the Void. Liberty's momentum must not falter. (2026-03-29 22:39  UTC)<br/>
+
+### Day: #782
+*Rirga Bay* defense is failed (2026-03-30 10:31  UTC)<br/>
+*Rirga Bay* liberation campaign starts (2026-03-30 10:31  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-03-30 10:31  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Azur Secundus* (2026-03-30 11:30  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Azur Secundus* (2026-03-30 12:39  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Overgoe Prime* (2026-03-30 12:39  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Overgoe Prime* (2026-03-30 13:33  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Partion* (2026-03-30 13:33  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Partion* (2026-03-30 14:32  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Phact Bay* (2026-03-30 14:32  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Phact Bay* (2026-03-30 15:32  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Gar Haren* (2026-03-30 15:32  UTC)<br/>
