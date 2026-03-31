@@ -15199,7 +15199,7 @@ DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-28 17:03  UTC)<br/>
 
 ### Day: #781
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-29 09:41  UTC)<br/>
-NOTE: From now until XX:XXam, *Hort*'s Cities were on a loop of being added and removed every few minutes (2026-03-29 16:03  UTC)<br/>
+NOTE: From now until March 31st - 12:13pm, *Hort*'s Cities were on a loop of being added and removed every few minutes (2026-03-29 16:03  UTC)<br/>
  Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
  (2026-03-29 18:00  UTC)<br/>
 *Hort* is liberated (2026-03-29 20:38  UTC)<br/>
@@ -15220,3 +15220,12 @@ Assault Division: Rupture Strain U9A leaves *Partion* (2026-03-30 14:32  UTC)<br
 Assault Division: Rupture Strain U9A deploys to *Phact Bay* (2026-03-30 14:32  UTC)<br/>
 Assault Division: Rupture Strain U9A leaves *Phact Bay* (2026-03-30 15:32  UTC)<br/>
 Assault Division: Rupture Strain U9A deploys to *Gar Haren* (2026-03-30 15:32  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-30 17:49  UTC)<br/>
+DSS effect Orbital Blockade starts (2026-03-31 03:06  UTC)<br/>
+
+### Day: #783
+*Rirga Bay* is liberated (2026-03-31 14:23  UTC)<br/>
+Assault Division: Mindless Masses U4A is routed from Rirga Bay (2026-03-31 14:23  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2026-03-31 14:23  UTC)<br/>
+Assault Division: Dragonroaches U5A leaves *Phact Bay* (2026-03-31 14:41  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Darius II* (2026-03-31 14:41  UTC)<br/>
