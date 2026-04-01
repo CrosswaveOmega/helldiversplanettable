@@ -15221,7 +15221,7 @@ Assault Division: Rupture Strain U9A deploys to *Phact Bay* (2026-03-30 14:32  U
 Assault Division: Rupture Strain U9A leaves *Phact Bay* (2026-03-30 15:32  UTC)<br/>
 Assault Division: Rupture Strain U9A deploys to *Gar Haren* (2026-03-30 15:32  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-03-30 17:49  UTC)<br/>
-DSS effect Orbital Blockade starts (2026-03-31 03:06  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-03-31 03:06  UTC)<br/>
 
 ### Day: #783
 *Rirga Bay* is liberated (2026-03-31 14:23  UTC)<br/>
@@ -15229,3 +15229,34 @@ Assault Division: Mindless Masses U4A is routed from Rirga Bay (2026-03-31 14:23
 DSS deploys to *Phact Bay* of the Jin Xi sector (2026-03-31 14:23  UTC)<br/>
 Assault Division: Dragonroaches U5A leaves *Phact Bay* (2026-03-31 14:41  UTC)<br/>
 Assault Division: Dragonroaches U5A deploys to *Darius II* (2026-03-31 14:41  UTC)<br/>
+Major Order | [A3-3-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-6) Hold *Rirga Bay* and Liberate *Hort* is won | Objective: Hold/Liberate (2026-03-31 15:05  UTC)<br/>
+Assault Division: Dragonroaches U5A leaves *Darius II* (2026-03-31 15:43  UTC)<br/>
+Assault Division: Dragonroaches U5A deploys to *Achird III* (2026-03-31 15:45  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Terminids (2026-03-31 15:45  UTC)<br/>
+*Achird III* Region 2 OLD BRANCH City is besieged by Terminid (2026-03-31 15:45  UTC)<br/>
+ Region Decay: 0.2 on Achird III's TIMELY region<br/> Region Decay: 0.4 on Achird III's APPROVAL CITY region<br/> Region Decay: 0.4 on Achird III's OLD BRANCH region
+ (2026-03-31 15:45  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-03-31 21:05  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-03-31 22:36  UTC)<br/>
+Assault Division: Predator Strain U10A leaves *Grand Errant* (2026-04-01 08:25  UTC)<br/>
+Assault Division: Predator Strain U10A deploys to *Acrux IX* (2026-04-01 08:25  UTC)<br/>
+*Acrux IX* of the Ursa sector is attacked by Terminids (2026-04-01 08:28  UTC)<br/>
+
+### Day: #784
+*Achird III* Region 2 OLD BRANCH City has fallen to Human (2026-04-01 09:13  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Gar Haren* (2026-04-01 10:00  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Grand Errant* (2026-04-01 10:00  UTC)<br/>
+*Ursica XI* - *Acrab XI* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Inari* - *Skaash* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Skaash* - *Caramoor* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Acrab XI* - *Skaash* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Acrux IX* - *Acrab XI* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Acrux IX* - *Gemma* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Gemma* - *Acrab XI* warp link is added (2026-04-01 11:04  UTC)<br/>
+*Grand Errant* - *Gemma* warp link is added (2026-04-01 11:04  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Grand Errant* (2026-04-01 11:05  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Gemma* (2026-04-01 11:05  UTC)<br/>
+*Gemma* of the Ursa sector is attacked by Terminids (2026-04-01 11:05  UTC)<br/>
+Major Order | [A3-3-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-8) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
+*Achird III* Region 1 APPROVAL CITY City is besieged by Terminid (2026-04-01 11:14  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER   Terminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated.   Defend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. (2026-04-01 11:14  UTC)<br/>
