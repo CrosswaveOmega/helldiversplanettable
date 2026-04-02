@@ -15203,6 +15203,7 @@ NOTE: From now until March 31st - 12:13pm, *Hort*'s Cities were on a loop of bei
  Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
  (2026-03-29 18:00  UTC)<br/>
 *Hort* is liberated (2026-03-29 20:38  UTC)<br/>
+Assault Division: Appropriators U1B is routed from Hort (2026-03-29 20:38  UTC)<br/>
 *Hesoe Prime* liberation campaign starts (2026-03-29 20:38  UTC)<br/>
 *RD-4* liberation campaign starts (2026-03-29 20:38  UTC)<br/>
 Dispatch:  RITUAL STORM NEUTRALIZED  The Helldivers have successfully liberated *Hort*. In doing so, they have heroically dismantled the mechanisms behind the Ritual Storm, neutralizing the atmospheric anomaly, and securing the planet.   This victory marks our first successful suppression of such a metaphysical threat.  High Command advises all forces to pivot immediately: stem the tide of Mindless Masses currently pouring out of the Void. Liberty's momentum must not falter. (2026-03-29 22:39  UTC)<br/>
@@ -15260,3 +15261,24 @@ Assault Division: Rupture Strain U9A deploys to *Gemma* (2026-04-01 11:05  UTC)<
 Major Order | [A3-3-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-8) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
 *Achird III* Region 1 APPROVAL CITY City is besieged by Terminid (2026-04-01 11:14  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER   Terminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated.   Defend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. (2026-04-01 11:14  UTC)<br/>
+DSS deploys to *Acrux IX* of the Ursa sector (2026-04-01 17:05  UTC)<br/>
+*Achird III* defense is won (2026-04-01 21:31  UTC)<br/>
+*Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-04-01 21:31  UTC)<br/>
+Assault Division: Dragonroaches U5A is routed from Achird III (2026-04-01 21:31  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2026-04-02 04:09  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Terminid (2026-04-02 04:09  UTC)<br/>
+*Acrux IX* defense is won (2026-04-02 06:59  UTC)<br/>
+Assault Division: Predator Strain U10A is routed from Acrux IX (2026-04-02 06:59  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2026-04-02 06:59  UTC)<br/>
+ Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
+ (2026-04-02 06:59  UTC)<br/>
+
+### Day: #785
+*Gemma* defense is failed (2026-04-02 11:06  UTC)<br/>
+*Gemma* liberation campaign starts (2026-04-02 11:06  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2026-04-02 12:15  UTC)<br/>
+*Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement is besieged by Terminid (2026-04-02 12:15  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2026-04-02 12:15  UTC)<br/>
+Assault Division: Appropriators U1A divides into 2 groups [U1A, U1C] (2026-04-02 12:17  UTC)<br/>
+Assault Division: Appropriators U1C deploys to *Rogue 5* (2026-04-02 12:17  UTC)<br/>
