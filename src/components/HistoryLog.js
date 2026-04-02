@@ -384,6 +384,83 @@ export function make_planet_at_time(planet, gstates, galaxy_time, static_values)
     return planetstate;
 }
 
+function computeVoronoiGeo(visible_planets, all_planets, x_c, y_c) {
+    // adapted from https://gist.github.com/isedgar/ac26c58e3eb2934623a8b8bc89611b64 
+
+    // but works with geojson coordinates.
+    const margin = 1;
+    const xs = all_planets.map(p => p.position.x);
+    const ys = all_planets.map(p => p.position.y);
+    const xmin = Math.min(...xs) - margin;
+    const xmax = Math.max(...xs) + margin;
+    const ymin = Math.min(...ys) - margin;
+    const ymax = Math.max(...ys) + margin;
+
+    const bounds = [
+        { x: xmin, y: ymin },
+        { x: xmax, y: ymin },
+        { x: xmax, y: ymax },
+        { x: xmin, y: ymax }
+    ];
+
+    function clonePolygon(poly) {
+        return poly.map(p => ({ x: p.x, y: p.y }));
+    }
+
+    function clipPolygon(polygon, line) {
+        const newPoly = [];
+        for (let i = 0; i < polygon.length; i++) {
+            const curr = polygon[i];
+            const next = polygon[(i + 1) % polygon.length];
+            const f1 = line.a * curr.x + line.b * curr.y - line.c;
+            const f2 = line.a * next.x + line.b * next.y - line.c;
+            if (f1 <= 0) newPoly.push(curr);
+            if (f1 * f2 < 0) {
+                const t = f1 / (f1 - f2);
+                const ix = curr.x + t * (next.x - curr.x);
+                const iy = curr.y + t * (next.y - curr.y);
+                newPoly.push({ x: ix, y: iy });
+            }
+        }
+        return newPoly;
+    }
+
+    // Compute Voronoi polygons for all planets
+    const voronoiPolygons = all_planets.map(p => {
+        let poly = clonePolygon(bounds);
+        const px = p.position.x;
+        const py = p.position.y;
+
+        for (const other of all_planets) {
+            if (other === p) continue;
+            const ox = other.position.x;
+            const oy = other.position.y;
+
+            const mx = (px + ox) / 2;
+            const my = (py + oy) / 2;
+            const dx = ox - px;
+            const dy = oy - py;
+            const line = { a: dx, b: dy, c: dx * mx + dy * my };
+            poly = clipPolygon(poly, line);
+            if (poly.length === 0) break;
+        }
+
+        return { polygon: poly, planet: p };
+    });
+
+    // Return only the polygons for visible_planets
+    return voronoiPolygons
+        .filter(v => visible_planets.includes(v.planet))
+        .map(v => {
+            const coords = [...v.polygon, v.polygon[0]].map(p => [x_c(p.x), y_c(p.y)]);
+            return {
+                type: "Feature",
+                geometry: { type: "Polygon", coordinates: [coords] },
+                properties: { planetName: v.planet.name }
+            };
+        });
+}
+
 export function makeplot(
     history,
     gstates,
@@ -455,7 +532,7 @@ export function makeplot(
     let dssPlanets = planets.filter((planet) => planet.dss === "DSS Here");
 
     let iconPlanets = planets.filter((planet) => planet.poi);
-    
+
     let exoPlanets = planets.filter((planet) => planet.exo != null);
 
 
@@ -488,6 +565,16 @@ export function makeplot(
         gloompoints.push(...randomCoords);
     });
 
+    let exo4Planets = planets.filter(p => p.exo === 4);
+
+
+    // Compute Voronoi polygons for those planets
+    // Filter planets if needed
+    let voronoiPlanets = planets; // or exo4Planets
+    console.log(world);
+    // Compute Voronoi in screen coordinates
+    let voronoiFeatures = computeVoronoiGeo(exo4Planets, voronoiPlanets, x_c, y_c);
+
     // eslint-disable-next-line no-undef
     eList(history, slider, document.getElementById("DAYVIEW"));
 
@@ -505,26 +592,8 @@ export function makeplot(
         aspectRatio: 1,
         height: width,
         projection: { type: "identity", domain: world },
-        /*{
-            type: "identity",
-            domain: {
-                type: "MultiPoint",
-                coordinates: [
-                    [100, -100],
-                    [100, 100], 
-                    [-100, 100],
-                    [-100, -100],
-                ],
-            },
-        }*/
+
         marks: [
-            // Plot.image([{}], {
-            //     x: () => 0,
-            //     y: () => 0,
-            //     width: width,
-            //     height: width,
-            //     src: backround,
-            // }),
 
             Plot.geo(world, {
                 stroke: "#c0c0c0",
@@ -544,7 +613,11 @@ export function makeplot(
                 //fill: p => getColor(p.ta[1]),
                 strokeWidth: width / 200,
             }),
-
+            Plot.geo(voronoiFeatures, {
+                fill: "rgb(0,0,0)",
+                stroke: "#630e8a",
+                strokeWidth: width / 500
+            }),
             Plot.dot(planets, {
                 x: (p) => x_c(p.position.x),
                 y: (p) => y_c(p.position.y),
