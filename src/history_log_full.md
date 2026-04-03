@@ -14143,7 +14143,7 @@ Dispatch: NEW ELITE OPERATION. Intel has pinpointed a secure bot database on CLA
 ### Day: #718
 *Valmox* Region 2 Obedience City is besieged by Humans (2026-01-25 11:17  UTC)<br/>
 *Afoyay Bay* of the Gallux sector is attacked by Lvl 13 Illuminate (2026-01-25 23:23  UTC)<br/>
-Minor Order | [A3-1-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-6) Complete Operations On *Clasa* is issued | Objective: Operation is won (2026-01-26 01:41  UTC)<br/>
+Minor Order | [A3-1-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-1-6) Complete Operations On *Clasa* is won | Objective: Operation (2026-01-26 01:41  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Illuminate have been repelled from *Afoyay Bay* long enough to evacuate the majority of CECOD and Pandora Base personnel to a secure location. The DSS has been moved to #planet1, where it is secure from enemy attack. The Ministry of Truth investigation has confirmed an unauthorized download of the full blueprints to the Star of Peace. However, no facility personnel were involved: this was an act of espionage by an external foe. Consult the Galactic Map for more information. (2026-01-26 01:41  UTC)<br/>
 NOTE: This is not the correct dispatch for the mO but it appears there was a mistake on the gamemaster's end. The dispatch was retracted at 06:21am the same day (2026-01-26 01:41  UTC)<br/>
  Decay: 0.0 on Afoyay Bay
@@ -15258,7 +15258,7 @@ Assault Division: Rupture Strain U9A deploys to *Grand Errant* (2026-04-01 10:00
 Assault Division: Rupture Strain U9A leaves *Grand Errant* (2026-04-01 11:05  UTC)<br/>
 Assault Division: Rupture Strain U9A deploys to *Gemma* (2026-04-01 11:05  UTC)<br/>
 *Gemma* of the Ursa sector is attacked by Terminids (2026-04-01 11:05  UTC)<br/>
-Major Order | [A3-3-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-8) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
+Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
 *Achird III* Region 1 APPROVAL CITY City is besieged by Terminid (2026-04-01 11:14  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER   Terminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated.   Defend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. (2026-04-01 11:14  UTC)<br/>
 DSS deploys to *Acrux IX* of the Ursa sector (2026-04-01 17:05  UTC)<br/>
@@ -15282,3 +15282,20 @@ DSS deploys to *Achernar Secundus* of the Borgus sector (2026-04-02 06:59  UTC)<
  (2026-04-02 12:15  UTC)<br/>
 Assault Division: Appropriators U1A divides into 2 groups [U1A, U1C] (2026-04-02 12:17  UTC)<br/>
 Assault Division: Appropriators U1C deploys to *Rogue 5* (2026-04-02 12:17  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Terminid (2026-04-02 15:17  UTC)<br/>
+Assault Division: Rupture Strain U9A leaves *Gemma* (2026-04-02 18:05  UTC)<br/>
+Assault Division: Rupture Strain U9A deploys to *Acrab XI* (2026-04-02 18:05  UTC)<br/>
+*Acrab XI* of the Ursa sector is attacked by Terminids (2026-04-02 18:05  UTC)<br/>
+Assault Division: Appropriators U1C leaves *Rogue 5* (2026-04-02 18:05  UTC)<br/>
+Assault Division: Appropriators U1C deploys to *RD-4* (2026-04-02 18:05  UTC)<br/>
+Assault Division: Appropriators U1C leaves *RD-4* (2026-04-02 18:05  UTC)<br/>
+Assault Division: Appropriators U1C deploys to *Hesoe Prime* (2026-04-02 18:05  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-04-02 19:52  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town has fallen to Human (2026-04-02 22:42  UTC)<br/>
+*Achernar Secundus* defense is won (2026-04-02 22:42  UTC)<br/>
+DSS deploys to *Acrab XI* of the Ursa sector (2026-04-02 22:42  UTC)<br/>
+
+### Day: #786
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-04-03 09:06  UTC)<br/>
+Dispatch:  NEW STRATEGIC OPPORTUNITY  The Ministry of Science needs intelligence on the Void in order to facilitate the development of technology to interdict the developing threat.   The Helldivers must contest Illuminate presence on designated planets, in order to allow research teams to gather data from sites of Illuminate ruins.  Successfully complete 2,000,000 missions on selected planets to gather intel. (2026-04-03 09:17  UTC)<br/>
+*Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement has fallen to Human (2026-04-03 11:51  UTC)<br/>
