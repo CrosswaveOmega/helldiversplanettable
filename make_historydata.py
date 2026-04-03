@@ -833,13 +833,22 @@ def update_planet_ownership(
             continue
         dec = list(DECODE(planetclone[str(ind)].t))
         if event.type == "campaign_start":
+            update_region_owners(
+                event, name, str(ind), planetclone, set_to=dec[0], store=store
+            )
             event.faction = dec[0]
             dec[2] = 1
         if event.type == "campaign_end":
+            update_region_owners(
+                event, name, str(ind), planetclone, set_to=dec[0], store=store
+            )
             dec[2] = 0
         if event.type == "planet won":
             dec[0] = 1
             dec[2] = 0
+            update_region_owners(
+                event, name, str(ind), planetclone, set_to=dec[0], store=store
+            )
         if event.type == "planet superwon":
             dec[0] = 1
             dec[2] = 0
