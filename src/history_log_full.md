@@ -15299,3 +15299,11 @@ DSS deploys to *Acrab XI* of the Ursa sector (2026-04-02 22:42  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-04-03 09:06  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  The Ministry of Science needs intelligence on the Void in order to facilitate the development of technology to interdict the developing threat.   The Helldivers must contest Illuminate presence on designated planets, in order to allow research teams to gather data from sites of Illuminate ruins.  Successfully complete 2,000,000 missions on selected planets to gather intel. (2026-04-03 09:17  UTC)<br/>
 *Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement has fallen to Human (2026-04-03 11:51  UTC)<br/>
+*Acrab XI* defense is won (2026-04-03 15:58  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-04-03 19:52  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-04-03 22:42  UTC)<br/>
+*Acamar IV* defense is won (2026-04-04 05:03  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2026-04-04 05:04  UTC)<br/>
+
+### Day: #787
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-04 22:42  UTC)<br/>
