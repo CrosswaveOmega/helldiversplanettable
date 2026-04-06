@@ -15335,3 +15335,11 @@ Assault Division: Rupture Strain U10A leaves *Gar Haren* (2026-04-05 16:15  UTC)
 Assault Division: Dragonroaches U6A leaves *Gar Haren* (2026-04-05 16:15  UTC)<br/>
 Assault Division: Rupture Strain U10A deploys to *Grand Errant* (2026-04-05 16:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Grand Errant* (2026-04-05 16:16  UTC)<br/>
+Assault Division: Rupture Strain U10A leaves *Grand Errant* (2026-04-05 17:15  UTC)<br/>
+Assault Division: Dragonroaches U6A leaves *Grand Errant* (2026-04-05 17:15  UTC)<br/>
+Assault Division: Rupture Strain U10A deploys to *Acrux IX* (2026-04-05 17:16  UTC)<br/>
+Assault Division: Dragonroaches U6A deploys to *Acrux IX* (2026-04-05 17:16  UTC)<br/>
+*Acrux IX* of the Ursa sector is attacked by Terminids (2026-04-05 17:17  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2026-04-05 21:09  UTC)<br/>
+DSS deploys to *Acrux IX* of the Ursa sector (2026-04-06 01:09  UTC)<br/>
+*Acrab XI* of the Ursa sector is attacked by Terminids (2026-04-06 10:10  UTC)<br/>
