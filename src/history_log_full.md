@@ -15400,3 +15400,7 @@ Dispatch:  NEW STRATEGIC OPPORTUNITY  Recent Terminid attacks have underscored t
 
 ### Day: #794
 DSS effect EAGLE STORM starts (2026-04-11 10:27  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity is besieged by Automaton (2026-04-12 00:38  UTC)<br/>
+
+### Day: #795
+DSS effect EAGLE STORM ends (2026-04-12 10:28  UTC)<br/>
