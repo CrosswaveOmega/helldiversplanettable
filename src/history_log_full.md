@@ -15261,6 +15261,7 @@ Assault Division: Rupture Strain U9A deploys to *Gemma* (2026-04-01 11:05  UTC)<
 Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
 *Achird III* Region 1 APPROVAL CITY City is besieged by Terminid (2026-04-01 11:14  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER   Terminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated.   Defend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. (2026-04-01 11:14  UTC)<br/>
+Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is won| Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
 DSS deploys to *Acrux IX* of the Ursa sector (2026-04-01 17:05  UTC)<br/>
 *Achird III* defense is won (2026-04-01 21:31  UTC)<br/>
 *Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-04-01 21:31  UTC)<br/>
@@ -15308,38 +15309,94 @@ DSS deploys to *Hesoe Prime* of the Rigel sector (2026-04-04 05:04  UTC)<br/>
 
 ### Day: #787
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-04 22:42  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Azur Secundus* (2026-04-05 00:14  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Overgoe Prime* (2026-04-05 00:14  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Azur Secundus* (2026-04-05 00:14  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Overgoe Prime* (2026-04-05 00:14  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Azur Secundus* (2026-04-05 00:14  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Overgoe Prime* (2026-04-05 00:14  UTC)<br/>
 
 ### Day: #788
-Assault Division: Rupture Strain U10A deploys to *Azur Secundus* (2026-04-05 11:14  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Azur Secundus* (2026-04-05 11:14  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Azur Secundus* (2026-04-05 11:14  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Overgoe Prime* (2026-04-05 13:15  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Overgoe Prime* (2026-04-05 13:15  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Overgoe Prime* (2026-04-05 13:15  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Partion* (2026-04-05 13:16  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Partion* (2026-04-05 13:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Partion* (2026-04-05 13:16  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Partion* (2026-04-05 14:15  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Phact Bay* (2026-04-05 14:15  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Partion* (2026-04-05 14:15  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Phact Bay* (2026-04-05 14:15  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Partion* (2026-04-05 14:15  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Phact Bay* (2026-04-05 14:15  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Phact Bay* (2026-04-05 15:15  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Phact Bay* (2026-04-05 15:15  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Phact Bay* (2026-04-05 15:15  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Gar Haren* (2026-04-05 15:16  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Gar Haren* (2026-04-05 15:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Gar Haren* (2026-04-05 15:16  UTC)<br/>
 Strategic Opportunity | [A3-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-2) Exfil from *Hesoe Prime* is won | Objective: Extraction (2026-04-05 15:37  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers successfully completed the missions on key planets. Strategic intel has been relayed to the Ministry of Science.   The intel gathered will be a vital component of the Illuminate's inevitable downfall, possible thanks to the sacrifices of the Helldivers. (2026-04-05 15:37  UTC)<br/>
 Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours. (2026-04-05 15:39  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Gar Haren* (2026-04-05 16:15  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Gar Haren* (2026-04-05 16:15  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Gar Haren* (2026-04-05 16:15  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Grand Errant* (2026-04-05 16:16  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Grand Errant* (2026-04-05 16:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Grand Errant* (2026-04-05 16:16  UTC)<br/>
-Assault Division: Rupture Strain U10A leaves *Grand Errant* (2026-04-05 17:15  UTC)<br/>
+Assault Division: Predator Strain U11A leaves *Grand Errant* (2026-04-05 17:15  UTC)<br/>
 Assault Division: Dragonroaches U6A leaves *Grand Errant* (2026-04-05 17:15  UTC)<br/>
-Assault Division: Rupture Strain U10A deploys to *Acrux IX* (2026-04-05 17:16  UTC)<br/>
+Assault Division: Predator Strain U11A deploys to *Acrux IX* (2026-04-05 17:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Acrux IX* (2026-04-05 17:16  UTC)<br/>
 *Acrux IX* of the Ursa sector is attacked by Terminids (2026-04-05 17:17  UTC)<br/>
 DSS deploys to *Grand Errant* of the Farsight sector (2026-04-05 21:09  UTC)<br/>
 DSS deploys to *Acrux IX* of the Ursa sector (2026-04-06 01:09  UTC)<br/>
 *Acrab XI* of the Ursa sector is attacked by Terminids (2026-04-06 10:10  UTC)<br/>
+DSS deploys to *Acrab XI* of the Ursa sector (2026-04-06 17:09  UTC)<br/>
+*Acrux IX* defense is failed (2026-04-06 17:17  UTC)<br/>
+*Acrux IX* liberation campaign starts (2026-04-06 17:17  UTC)<br/>
+Assault Division: Dragonroaches U6A is routed from Acrux IX (2026-04-06 17:17  UTC)<br/>
+Assault Division: Predator Strain U11A is routed from Acrux IX (2026-04-06 17:17  UTC)<br/>
+*Acrab XI* defense is won (2026-04-07 02:39  UTC)<br/>
+DSS deploys to *Marfark* of the Andromeda sector (2026-04-07 02:39  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  The Terminid threat has been repelled from the Ursa sector. Rupture and Predator strains have been squashed in a strategic win for Democracy. (2026-04-07 02:40  UTC)<br/>
+
+# Day: #790
+Assault Division: Incineration Corps U10A deploys to Vindemitrax Prime (2026-04-07 09:58  UTC)<br/>
+Assault Division: Incineration Corps U10A divides into 2 groups [U10A, U10B] (2026-04-07 11:00  UTC)<br/>
+Assault Division: Incineration Corps U10B deploys to *Mekbuda* (2026-04-07 11:00  UTC)<br/>
+Assault Division: Incineration Corps U9A leaves *Choohe* (2026-04-07 11:08  UTC)<br/>
+Assault Division: Incineration Corps U9A deploys to *Matar Bay* (2026-04-07 11:08  UTC)<br/>
+Assault Division: Incineration Corps U9C leaves *Aurora Bay* (2026-04-07 11:08  UTC)<br/>
+Assault Division: Incineration Corps U9C deploys to *Choohe* (2026-04-07 11:08  UTC)<br/>
+Assault Division: Incineration Corps U9A leaves *Matar Bay* (2026-04-07 12:02  UTC)<br/>
+Assault Division: Incineration Corps U9A deploys to *Marfark* (2026-04-07 12:02  UTC)<br/>
+Assault Division: Incineration Corps U9C leaves *Choohe* (2026-04-07 12:02  UTC)<br/>
+Assault Division: Incineration Corps U9C deploys to *Matar Bay* (2026-04-07 12:02  UTC)<br/>
+Assault Division: Incineration Corps U9C leaves *Matar Bay* (2026-04-07 13:08  UTC)<br/>
+Assault Division: Incineration Corps U9C merges with Incineration Corps U9A on *Marfark* (2026-04-07 13:08  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2026-04-07 14:17  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City is besieged by Automaton (2026-04-07 14:17  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Automatons (2026-04-07 14:22  UTC)<br/>
+Major Order | [A3-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-3) Exfil from *Marfark*, Hold *Varylia 5* and *Choepessa IV* is issued| Objective: Exfil/Hold (2026-04-07 14:27  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  MINDEF intel has assessed with high confidence that a fresh Cyborg effort to expand Megafactories to new planets is imminent. The Helldivers are ordered to complete 5,000,000 missions on MARFARK, to acquire more information about the Cyborg targets.  Cyborg forces have simultaneously launched offensives on CHOEPESSA IV and VARYLIA 5. These may be setup strikes to lay groundwork for a larger invasion. Hold the planets against Cyborg invasion. (2026-04-07 14:27  UTC)<br/>
+ Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region<br/> Region Decay: 0.4 on Varylia 5's SEQUIM region
+ (2026-04-07 16:00  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2026-04-07 21:10  UTC)<br/>
+Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is issued| Objective: Samples (2026-04-07 21:26  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City is besieged by Automaton (2026-04-08 07:23  UTC)<br/>
+
+### Day: #791
+DSS effect ORBITAL BLOCKADE starts (2026-04-08 11:18  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town is besieged by Automaton (2026-04-08 15:49  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City has fallen to Human (2026-04-08 23:25  UTC)<br/>
+*Varylia 5* defense is won (2026-04-08 23:25  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-04-08 23:25  UTC)<br/>
+
+### Day: #792
+DSS effect ORBITAL BLOCKADE ends (2026-04-09 11:19  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town has fallen to Human (2026-04-09 13:40  UTC)<br/>
+*Choepessa IV* defense is failed (2026-04-09 14:23  UTC)<br/>
+*Choepessa IV* liberation campaign starts (2026-04-09 14:23  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town has fallen to Automaton (2026-04-09 14:23  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City has fallen to Automaton (2026-04-09 14:23  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity siege has ended (2026-04-09 14:23  UTC)<br/>
+
+### Day: #793
+Dispatch:  NEW STRATEGIC OPPORTUNITY  Recent Terminid attacks have underscored the imperative need for an effective chemical deterrent to Fascism. Efforts to create an improved Termicide are underway. High Command has ordered the reinforcement and resupply of the Xenoentomology Center on *Turing* to lead this effort.  The Helldivers are ordered to secure 15,000,000 Common Samples from OMICRON. Samples from a Terminid Hive World will be invaluable to this research project. (2026-04-10 09:26  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-04-10 11:12  UTC)<br/>
+
+### Day: #794
+DSS effect EAGLE STORM starts (2026-04-11 10:27  UTC)<br/>
