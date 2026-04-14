@@ -15370,12 +15370,11 @@ Assault Division: Incineration Corps U9C merges with Incineration Corps U9A on *
 *Varylia 5* of the Trigon sector is attacked by Automatons (2026-04-07 14:17  UTC)<br/>
 *Varylia 5* Region 0 SEQUIM City is besieged by Automaton (2026-04-07 14:17  UTC)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2026-04-07 14:22  UTC)<br/>
-Major Order | [A3-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-3) Exfil from *Marfark*, Hold *Varylia 5* and *Choepessa IV* is issued| Objective: Exfil/Hold (2026-04-07 14:27  UTC)<br/>
+Major Order | [A3-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-3) Exfil from *Marfark*, Hold *Varylia 5* and *Choepessa IV* is issued | Objective: Exfil/Hold (2026-04-07 14:27  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  MINDEF intel has assessed with high confidence that a fresh Cyborg effort to expand Megafactories to new planets is imminent. The Helldivers are ordered to complete 5,000,000 missions on MARFARK, to acquire more information about the Cyborg targets.  Cyborg forces have simultaneously launched offensives on CHOEPESSA IV and VARYLIA 5. These may be setup strikes to lay groundwork for a larger invasion. Hold the planets against Cyborg invasion. (2026-04-07 14:27  UTC)<br/>
  Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region<br/> Region Decay: 0.4 on Varylia 5's SEQUIM region
  (2026-04-07 16:00  UTC)<br/>
 DSS deploys to *Varylia 5* of the Trigon sector (2026-04-07 21:10  UTC)<br/>
-Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is issued| Objective: Samples (2026-04-07 21:26  UTC)<br/>
 *Choepessa IV* Region 1 KALASATAMA City is besieged by Automaton (2026-04-08 07:23  UTC)<br/>
 
 ### Day: #791
@@ -15395,8 +15394,10 @@ DSS effect ORBITAL BLOCKADE ends (2026-04-09 11:19  UTC)<br/>
 *Choepessa IV* Region 2 YDINKESKUSTA MegaCity siege has ended (2026-04-09 14:23  UTC)<br/>
 
 ### Day: #793
+Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is issued | Objective: Samples (2026-04-10 09:26  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  Recent Terminid attacks have underscored the imperative need for an effective chemical deterrent to Fascism. Efforts to create an improved Termicide are underway. High Command has ordered the reinforcement and resupply of the Xenoentomology Center on *Turing* to lead this effort.  The Helldivers are ordered to secure 15,000,000 Common Samples from OMICRON. Samples from a Terminid Hive World will be invaluable to this research project. (2026-04-10 09:26  UTC)<br/>
 *Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-04-10 11:12  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS City has fallen to Human (2026-04-10 18:35  UTC)<br/>
 
 ### Day: #794
 DSS effect EAGLE STORM starts (2026-04-11 10:27  UTC)<br/>
@@ -15404,3 +15405,15 @@ DSS effect EAGLE STORM starts (2026-04-11 10:27  UTC)<br/>
 
 ### Day: #795
 DSS effect EAGLE STORM ends (2026-04-12 10:28  UTC)<br/>
+Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is won | Objective: Samples (2026-04-12 18:52  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The requisite number of samples were secured from *Omicron*, with minimal expenditure of personnel. Development of Termicide 2.0 is underway, with a focus on limiting unintentional genome modification. (2026-04-12 18:53  UTC)<br/>
+
+### Day: #796
+*Choepessa IV* Region 0 HILJAISUUS City is besieged by Automaton (2026-04-13 09:52  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity siege has fallen to Human (2026-04-13 09:52  UTC)<br/>
+
+### Day: #797
+*Choepessa IV* is liberated (2026-04-14 13:44  UTC)<br/>
+DSS deploys to *Marfark* of the Andromeda sector (2026-04-14 13:44  UTC)<br/>
+Dispatch:  MAJOR ORDER FAILED  Efforts to acquire intel regarding future Cyborg expansion plans have failed. Their next targets remain unknown, and all citizens on nearby planets fear for their voting rights.  However, swift Helldiver defensive action rebuffed from CHOEPESSA IV and VARYLIA 5. The citizens there, and their homesteads, remain safe from Cyborg mutilation and dismemberment. (2026-04-14 14:31  UTC)<br/>
+Major Order | [A3-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-3) Exfil from *Marfark*, Hold *Varylia 5* and *Choepessa IV* is failed | Objective: Exfil/Hold (2026-04-14 14:32  UTC)<br/>
