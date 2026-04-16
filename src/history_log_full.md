@@ -15411,9 +15411,29 @@ Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The requisite number of samples were se
 ### Day: #796
 *Choepessa IV* Region 0 HILJAISUUS City is besieged by Automaton (2026-04-13 09:52  UTC)<br/>
 *Choepessa IV* Region 2 YDINKESKUSTA MegaCity siege has fallen to Human (2026-04-13 09:52  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-04-14 01:52  UTC)<br/>
 
 ### Day: #797
 *Choepessa IV* is liberated (2026-04-14 13:44  UTC)<br/>
 DSS deploys to *Marfark* of the Andromeda sector (2026-04-14 13:44  UTC)<br/>
 Dispatch:  MAJOR ORDER FAILED  Efforts to acquire intel regarding future Cyborg expansion plans have failed. Their next targets remain unknown, and all citizens on nearby planets fear for their voting rights.  However, swift Helldiver defensive action rebuffed from CHOEPESSA IV and VARYLIA 5. The citizens there, and their homesteads, remain safe from Cyborg mutilation and dismemberment. (2026-04-14 14:31  UTC)<br/>
 Major Order | [A3-4-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-3) Exfil from *Marfark*, Hold *Varylia 5* and *Choepessa IV* is failed | Objective: Exfil/Hold (2026-04-14 14:32  UTC)<br/>
+DSS deploys to *Acrux IX* of the Ursa sector (2026-04-14 21:15  UTC)<br/>
+Assault Division: Mindless Masses U5A deploys to *Rirga Bay* (2026-04-15 07:23  UTC)<br/>
+*Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-04-15 07:28  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-04-15 07:28  UTC)<br/>
+
+### Day: #798
+ Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
+ (2026-04-15 09:00  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2026-04-15 13:16  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-04-15 18:04  UTC)<br/>
+Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defend 6 from Illuminate is issued | Objective: Defend (2026-04-15 21:28  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER The Illuminate have launched unprovoked raids against our most valued territories. Appropriator squads are attempting unauthorized relocation of human assets, threatening Federation workforce productivity. Helldivers: defend against Illuminate attacks, and repel this insidious abduction scheme with righteous vigor. (2026-04-15 21:28  UTC)<br/>
+*Heze Bay* of the Hanzo sector is attacked by Illuminates (2026-04-15 21:31  UTC)<br/>
+*Heze Bay* Region 0 UNANIMITY City is besieged by Illuminate (2026-04-15 21:31  UTC)<br/>
+ Region Decay: 0.4 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.4 on Heze Bay's UNISON region
+ (2026-04-15 21:31  UTC)<br/>
+Assault Division: Appropriators U2A deploys to *Heze Bay* (2026-04-15 21:32  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-16 01:53  UTC)<br/>
+*Heze Bay* Region 1 UNISON City is besieged by Illuminate (2026-04-16 07:09  UTC)<br/>
