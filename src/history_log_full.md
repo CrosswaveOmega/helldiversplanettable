@@ -15437,3 +15437,18 @@ Dispatch:  NEW MAJOR ORDER The Illuminate have launched unprovoked raids against
 Assault Division: Appropriators U2A deploys to *Heze Bay* (2026-04-15 21:32  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-16 01:53  UTC)<br/>
 *Heze Bay* Region 1 UNISON City is besieged by Illuminate (2026-04-16 07:09  UTC)<br/>
+
+### Day: #799
+*Rirga Bay* defense is won (2026-04-16 12:13  UTC)<br/>
+Assault Division: Mindless Masses U5A is routed from Rirga Bay (2026-04-16 12:13  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2026-04-16 12:13  UTC)<br/>
+Assault Division: Appropriators U1A divides into 2 groups [U1A, U1D] (2026-04-16 15:25  UTC)<br/>
+Assault Division: Appropriators U1D deploys to *Senge 23* (2026-04-16 15:25  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availability of the Orbital Gatling Barrage Stratagem for the next 48 hours. (2026-04-16 15:48  UTC)<br/>
+Assault Division: Appropriators U1D leaves *Senge 23* (2026-04-16 16:22  UTC)<br/>
+Assault Division: Appropriators U1D deploys to *Shete* (2026-04-16 17:26  UTC)<br/>
+*Heze Bay* Region 0 UNANIMITY City has fallen to Human (2026-04-17 02:47  UTC)<br/>
+*Heze Bay* defense is won (2026-04-17 02:47  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-04-17 02:47  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-04-17 06:12  UTC)<br/>
+*Acrux IX* is liberated (2026-04-17 08:18  UTC)<br/>
