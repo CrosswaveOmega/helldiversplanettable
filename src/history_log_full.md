@@ -15452,3 +15452,28 @@ Assault Division: Appropriators U1D deploys to *Shete* (2026-04-16 17:26  UTC)<b
 DSS deploys to *Hydrobius* of the Omega sector (2026-04-17 02:47  UTC)<br/>
 DSS effect ORBITAL BLOCKADE starts (2026-04-17 06:12  UTC)<br/>
 *Acrux IX* is liberated (2026-04-17 08:18  UTC)<br/>
+
+# Day: #800
+*Hydrobius* Region 0 GENERATORSVILLE City has fallen to Human (2026-04-17 19:37  UTC)<br/>
+*Keid* of the Akira sector is attacked by Illuminates (2026-04-17 21:27  UTC)<br/>
+Assault Division: Appropriators U1D leaves *Shete* (2026-04-17 21:27  UTC)<br/>
+Assault Division: Appropriators U1D deploys to *Keid* (2026-04-17 21:27  UTC)<br/>
+*Hort* of the Rigel sector is attacked by Illuminates (2026-04-17 21:29  UTC)<br/>
+*Hort* Region 1 CLOCKSTOP City is besieged by Illuminate (2026-04-17 21:29  UTC)<br/>
+Assault Division: Appropriators U1C leaves *Hesoe Prime* (2026-04-17 21:29  UTC)<br/>
+Assault Division: Appropriators U1C deploys to *Hort* (2026-04-17 21:29  UTC)<br/>
+ Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-04-17 22:00  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2026-04-18 05:17  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-18 06:12  UTC)<br/>
+
+### Day: #801
+*Hort* Region 0 ON-EARSAHOU City is besieged by Illuminate (2026-04-18 16:44  UTC)<br/>
+*Siemnot* of the Xi Tauri sector is attacked by Illuminates (2026-04-18 21:21  UTC)<br/>
+*Keid* defense is failed (2026-04-18 21:28  UTC)<br/>
+*Keid* liberation campaign starts (2026-04-18 21:28  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2026-04-19 01:17  UTC)<br/>
+*Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-04-19 04:17  UTC)<br/>
+
+### Day: #802
+DSS effect EAGLE STORM starts (2026-04-19 11:00  UTC)<br/>
