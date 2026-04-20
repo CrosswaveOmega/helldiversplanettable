@@ -15474,6 +15474,26 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-18 06:12  UTC)<br/>
 *Keid* liberation campaign starts (2026-04-18 21:28  UTC)<br/>
 DSS deploys to *Hort* of the Rigel sector (2026-04-19 01:17  UTC)<br/>
 *Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-04-19 04:17  UTC)<br/>
+Assault Division: Appropriators U4A leaves *Hesoe Prime* (2026-04-19 07:01  UTC)<br/>
+Assault Division: Mindless Masses U5A leaves *Rogue 5* (2026-04-19 07:01  UTC)<br/>
 
 ### Day: #802
 DSS effect EAGLE STORM starts (2026-04-19 11:00  UTC)<br/>
+*Ain-5* of the Hanzo sector is attacked by Illuminates (2026-04-19 16:39  UTC)<br/>
+Assault Division: Appropriators U3A deploys to *Ain-5* (2026-04-19 16:39  UTC)<br/>
+Assault Division: Mindless Masses U5A deploys to *Rogue 5* (2026-04-19 20:37  UTC)<br/>
+*Eukoria* of the Morgon sector is attacked by Illuminates (2026-04-19 20:44  UTC)<br/>
+*Siemnot* defense is failed (2026-04-19 21:22  UTC)<br/>
+*Shete* liberation campaign ends (2026-04-19 21:22  UTC)<br/>
+*Siemnot* liberation campaign starts (2026-04-19 21:22  UTC)<br/>
+Assault Division: Appropriators U4A deploys to *Hesoe Prime* (2026-04-19 22:37  UTC)<br/>
+*Hort* Region 0 ON-EARSAHOU City has fallen to Human (2026-04-20 04:39  UTC)<br/>
+*Hort* Region 1 CLOCKSTOP City has fallen to Human (2026-04-20 04:39  UTC)<br/>
+*Hort* Region 2 MAGNITUDE City has fallen to Human (2026-04-20 04:39  UTC)<br/>
+*Hort* defense is won (2026-04-20 04:39  UTC)<br/>
+DSS deploys to *Ain-5* of the Hanzo sector (2026-04-20 04:39  UTC)<br/>
+
+### Day: #803
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-20 11:00  UTC)<br/>
+DSS deploys to *Eukoria* of the Morgon sector (2026-04-20 13:18  UTC)<br/>
+*Ain-5* defense is won (2026-04-20 13:56  UTC)<br/>
