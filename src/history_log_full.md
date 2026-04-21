@@ -15428,7 +15428,7 @@ Assault Division: Mindless Masses U5A deploys to *Rirga Bay* (2026-04-15 07:23  
  (2026-04-15 09:00  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-04-15 13:16  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Human (2026-04-15 18:04  UTC)<br/>
-Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defend 6 from Illuminate is issued | Objective: Defend (2026-04-15 21:28  UTC)<br/>
+Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defend 5 from Illuminate is issued | Objective: Defend (2026-04-15 21:28  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER The Illuminate have launched unprovoked raids against our most valued territories. Appropriator squads are attempting unauthorized relocation of human assets, threatening Federation workforce productivity. Helldivers: defend against Illuminate attacks, and repel this insidious abduction scheme with righteous vigor. (2026-04-15 21:28  UTC)<br/>
 *Heze Bay* of the Hanzo sector is attacked by Illuminates (2026-04-15 21:31  UTC)<br/>
 *Heze Bay* Region 0 UNANIMITY City is besieged by Illuminate (2026-04-15 21:31  UTC)<br/>
@@ -15497,3 +15497,7 @@ DSS deploys to *Ain-5* of the Hanzo sector (2026-04-20 04:39  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-20 11:00  UTC)<br/>
 DSS deploys to *Eukoria* of the Morgon sector (2026-04-20 13:18  UTC)<br/>
 *Ain-5* defense is won (2026-04-20 13:56  UTC)<br/>
+*Eukoria* defense is won (2026-04-20 17:40  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-04-20 17:40  UTC)<br/>
+Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defend 5 from Illuminate is won | Objective: Defend (2026-04-20 17:41  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  The Helldivers have successfully defended against Illuminate abductions, rescuing countless citizens from an Undemocratic fate. Any citizens unaccounted for have had their voting rights suspended until their whereabouts can be verified. The cowardly Illuminate and their incompetent Appropriator squads have been driven back, proving that no citizen is beyond the reach of *Super Earth*'s protection. By denying the enemy the human genetic material they clearly covet, their harvesting initiatives have been stripped of all momentum. Ongoing analysis of salvaged Appropriator hardware indicates that the Illuminate may have systematically targeted citizens possessing specific physiological traits. The Ministry of Humanity is now monitoring the Federal populace for genetic correlations with past abductees—though citizens are reminded that left-handedness remains a non-threatening trait. Rescued voters have been granted two hours of unpaid PTSD leave before returning to mandatory duties. Meanwhile, standardized post-life citizenship benefits for those liquidated during the conflict have been processed with peak administrative efficiency. (2026-04-20 17:41  UTC)<br/>
