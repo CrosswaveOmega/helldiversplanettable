@@ -15501,3 +15501,27 @@ DSS deploys to *Eukoria* of the Morgon sector (2026-04-20 13:18  UTC)<br/>
 DSS deploys to *Hydrobius* of the Omega sector (2026-04-20 17:40  UTC)<br/>
 Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defend 5 from Illuminate is won | Objective: Defend (2026-04-20 17:41  UTC)<br/>
 Dispatch:  MAJOR ORDER WON  The Helldivers have successfully defended against Illuminate abductions, rescuing countless citizens from an Undemocratic fate. Any citizens unaccounted for have had their voting rights suspended until their whereabouts can be verified. The cowardly Illuminate and their incompetent Appropriator squads have been driven back, proving that no citizen is beyond the reach of *Super Earth*'s protection. By denying the enemy the human genetic material they clearly covet, their harvesting initiatives have been stripped of all momentum. Ongoing analysis of salvaged Appropriator hardware indicates that the Illuminate may have systematically targeted citizens possessing specific physiological traits. The Ministry of Humanity is now monitoring the Federal populace for genetic correlations with past abductees—though citizens are reminded that left-handedness remains a non-threatening trait. Rescued voters have been granted two hours of unpaid PTSD leave before returning to mandatory duties. Meanwhile, standardized post-life citizenship benefits for those liquidated during the conflict have been processed with peak administrative efficiency. (2026-04-20 17:41  UTC)<br/>
+
+### Day: #804
+*Curia* of the Marspira sector is attacked by Automatons (2026-04-21 13:38  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2026-04-21 13:40  UTC)<br/>
+Dispatch: NEW MAJOR ORDER The Cyborgs have launched a multi-planet wave of expansionist aggression. CURIA and CHARBAL-VII are under immediate threat. Intelligence indicates that VOG-SOJOTH is a likely secondary target. The Helldivers are ordered to deploy immediately to the defense of these planets.The Helldivers are ordered to deploy immediately to the defense of these planets. (2026-04-21 13:45  UTC)<br/>
+DSS deploys to *Curia* of the Marspira sector (2026-04-21 21:19  UTC)<br/>
+
+### Day: #805
+Dispatch: JET BRIGADE SIGHTED The Automaton Jet Brigade has resurfaced on AURORA BAY. (2026-04-22 11:05  UTC)<br/>
+*Curia* defense is won (2026-04-22 11:07  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2026-04-22 11:07  UTC)<br/>
+*Charbal-VII* liberation campaign starts (2026-04-22 13:41  UTC)<br/>
+*Charbal-VII* defense is failed (2026-04-22 13:41  UTC)<br/>
+*Yed Prior* of the Tanis sector is attacked by Automatons (2026-04-22 14:34  UTC)<br/>
+
+### Day: #806
+Dispatch: NEW STRATEGIC OPPORTUNITY The development of Termicide 2.0 requires extensive live-tissue stress testing. High Command has ordered a large-scale cull of Bile Titans to provide raw biological data for the Xenoentomology Center on *Turing*. Helldivers: eliminate 5,000,000 Bile Titans to catalyze this crucial next phase of research. By analyzing the breakdown of these massive specimens under experimental chemical loads, we can ensure the final formula is both efficient and patriotic. (2026-04-23 13:02  UTC)<br/>
+*Blistica* liberation campaign ends (2026-04-23 14:34  UTC)<br/>
+*Yed Prior* liberation campaign starts (2026-04-23 14:35  UTC)<br/>
+*Yed Prior* defense is failed (2026-04-23 14:35  UTC)<br/>
+ Region Decay: 0.1 on Clasa's SYCAMORE GARDENS region<br/> Region Decay: 0.2 on Clasa's KODIAK FALLS region<br/> Region Decay: 0.4 on Clasa's VOTING DISTRICT F-012357 region
+ (2026-04-23 22:00  UTC)<br/>
+
+### Day: #807
