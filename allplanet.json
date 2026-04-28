@@ -20,6 +20,18 @@
             "name": "Hive World",
             "description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny."
         },
+        "cyberstan": {
+            "name": "Cyberstan Megafactory",
+            "description": "Cyberstan, once again, forms the axis of the Cyborg Legion's insurrection. Massive Megafactories cover its surface, churning out mechanical armies and weapons of mass extinction."
+        },
+        "deciduous_base": {
+            "name": "Deciduous Forest",
+            "description": "Description is a placeholder"
+        },
+        "magma_base": {
+            "name": "Magma",
+            "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
+        },
         "moor_arid": {
             "name": "Scorched Moor",
             "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
@@ -35,6 +47,10 @@
         "moor_tundra": {
             "name": "Tundra",
             "description": "A perennially chilly climate has allowed short, colorful shrubs to flourish across this planet's surface."
+        },
+        "oasis_base": {
+            "name": "Desert Oasis",
+            "description": "Description is a placeholder"
         },
         "primordial_base": {
             "name": "Volcanic Jungle",
@@ -87,10 +103,6 @@
         "swamp_haunted": {
             "name": "Haunted Swamp",
             "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-        },
-        "magma_base": {
-            "name": "Magma",
-            "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
         },
         "unknown": {
             "name": "Unknown",
@@ -10068,7 +10080,7 @@
         "260": {
             "name": "Cyberstan",
             "sector": "Valdis",
-            "biome": "arctic_glacier_coldrocky",
+            "biome": "cyberstan",
             "environmentals": [
                 "none"
             ],
@@ -10137,6 +10149,51 @@
             "type": "magma",
             "weather_effects": [
                 "normal_temp"
+            ]
+        },
+        "267": {
+            "name": "Big Rock",
+            "sector": "Sten",
+            "biome": "oasis_base",
+            "environmentals": [
+                "none"
+            ],
+            "names": {
+                "en-US": "Big Rock"
+            },
+            "type": "oasis",
+            "weather_effects": [
+                "none"
+            ]
+        },
+        "268": {
+            "name": "Luxuriant",
+            "sector": "Jin Xi",
+            "biome": "deciduous_base",
+            "environmentals": [
+                "none"
+            ],
+            "names": {
+                "en-US": "Luxuriant"
+            },
+            "type": "deciduous",
+            "weather_effects": [
+                "none"
+            ]
+        },
+        "269": {
+            "name": "Brilliance",
+            "sector": "Orion",
+            "biome": "deciduous_base",
+            "environmentals": [
+                "none"
+            ],
+            "names": {
+                "en-US": "Brilliance"
+            },
+            "type": "deciduous",
+            "weather_effects": [
+                "none"
             ]
         }
     }
