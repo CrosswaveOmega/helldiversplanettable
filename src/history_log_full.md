@@ -15503,25 +15503,104 @@ Major Order | [A3-4-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-5) Defe
 Dispatch:  MAJOR ORDER WON  The Helldivers have successfully defended against Illuminate abductions, rescuing countless citizens from an Undemocratic fate. Any citizens unaccounted for have had their voting rights suspended until their whereabouts can be verified. The cowardly Illuminate and their incompetent Appropriator squads have been driven back, proving that no citizen is beyond the reach of *Super Earth*'s protection. By denying the enemy the human genetic material they clearly covet, their harvesting initiatives have been stripped of all momentum. Ongoing analysis of salvaged Appropriator hardware indicates that the Illuminate may have systematically targeted citizens possessing specific physiological traits. The Ministry of Humanity is now monitoring the Federal populace for genetic correlations with past abductees—though citizens are reminded that left-handedness remains a non-threatening trait. Rescued voters have been granted two hours of unpaid PTSD leave before returning to mandatory duties. Meanwhile, standardized post-life citizenship benefits for those liquidated during the conflict have been processed with peak administrative efficiency. (2026-04-20 17:41  UTC)<br/>
 
 ### Day: #804
+Assault Division: Cyborgs U1D is routed from Charbal-VII (2026-04-21 11:23  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Aesir Pass* (2026-04-21 11:29  UTC)<br/>
+Assault Division: Jet Brigade U9A leaves *Curia* (2026-04-21 13:36  UTC)<br/>
+Assault Division: Cyborgs U1E deploys to *Curia* (2026-04-21 13:37  UTC)<br/>
 *Curia* of the Marspira sector is attacked by Automatons (2026-04-21 13:38  UTC)<br/>
 *Charbal-VII* of the Andromeda sector is attacked by Automatons (2026-04-21 13:40  UTC)<br/>
+Major Order | [A3-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-6) Defend from the Cyborgs is issued| Objective: Defend (2026-04-21 13:45  UTC)<br/>
 Dispatch: NEW MAJOR ORDER The Cyborgs have launched a multi-planet wave of expansionist aggression. CURIA and CHARBAL-VII are under immediate threat. Intelligence indicates that VOG-SOJOTH is a likely secondary target. The Helldivers are ordered to deploy immediately to the defense of these planets.The Helldivers are ordered to deploy immediately to the defense of these planets. (2026-04-21 13:45  UTC)<br/>
 DSS deploys to *Curia* of the Marspira sector (2026-04-21 21:19  UTC)<br/>
 
 ### Day: #805
+Assault Division: Jet Brigade U10M deploys to *Mekbuda* (2026-04-22 11:04  UTC)<br/>
 Dispatch: JET BRIGADE SIGHTED The Automaton Jet Brigade has resurfaced on AURORA BAY. (2026-04-22 11:05  UTC)<br/>
+Assault Division: Jet Brigade U10M deploys to *Aurora Bay* (2026-04-22 11:07  UTC)<br/>
 *Curia* defense is won (2026-04-22 11:07  UTC)<br/>
 DSS deploys to *Charbal-VII* of the Andromeda sector (2026-04-22 11:07  UTC)<br/>
-*Charbal-VII* liberation campaign starts (2026-04-22 13:41  UTC)<br/>
+Assault Division: Jet Brigade U10M deploys to *Mekbuda* (2026-04-22 11:32  UTC)<br/>
+Assault Division: Jet Brigade U10M deploys to *Cyberstan* (2026-04-22 12:04  UTC)<br/>
+Assault Division: Cyborgs U1E is routed from Curia (2026-04-22 12:40  UTC)<br/>
 *Charbal-VII* defense is failed (2026-04-22 13:41  UTC)<br/>
+*Charbal-VII* liberation campaign starts (2026-04-22 13:41  UTC)<br/>
+Assault Division: Jet Brigade U10M deploys to *Blistica* (2026-04-22 14:00  UTC)<br/>
+Assault Division: Jet Brigade U10M deploys to *Yed Prior* (2026-04-22 14:34  UTC)<br/>
 *Yed Prior* of the Tanis sector is attacked by Automatons (2026-04-22 14:34  UTC)<br/>
 
 ### Day: #806
+Major Order | [A3-4-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-7) Cull Bile Titans is issued| Objective: Exterminate (2026-04-23 13:02  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY The development of Termicide 2.0 requires extensive live-tissue stress testing. High Command has ordered a large-scale cull of Bile Titans to provide raw biological data for the Xenoentomology Center on *Turing*. Helldivers: eliminate 5,000,000 Bile Titans to catalyze this crucial next phase of research. By analyzing the breakdown of these massive specimens under experimental chemical loads, we can ensure the final formula is both efficient and patriotic. (2026-04-23 13:02  UTC)<br/>
 *Blistica* liberation campaign ends (2026-04-23 14:34  UTC)<br/>
-*Yed Prior* liberation campaign starts (2026-04-23 14:35  UTC)<br/>
 *Yed Prior* defense is failed (2026-04-23 14:35  UTC)<br/>
+*Yed Prior* liberation campaign starts (2026-04-23 14:35  UTC)<br/>
+*Clasa* of the Tanis sector is attacked by Automatons (2026-04-23 20:52  UTC)<br/>
+*Clasa* Region 0 SYCAMORE GARDENS Settlement has fallen to Automaton (2026-04-23 20:52  UTC)<br/>
+*Clasa* Region 1 KODIAK FALLS Town is besieged by Humans (2026-04-23 20:52  UTC)<br/>
+*Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Automaton (2026-04-23 20:52  UTC)<br/>
  Region Decay: 0.1 on Clasa's SYCAMORE GARDENS region<br/> Region Decay: 0.2 on Clasa's KODIAK FALLS region<br/> Region Decay: 0.4 on Clasa's VOTING DISTRICT F-012357 region
  (2026-04-23 22:00  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. Thanks to the Helldivers, the Bile Titan cull is complete, providing megatonnes of inert specimens to help finalize the Termicide 2.0 formula. While a few newly-retired analysts suggested mass-culling may trigger a "defensive evolutionary pivot", the Ministry of Science dismisses such claims as seditious fiction. Our chemical dominance is assured; Terminid biology remains under total management. (2026-04-24 00:35  UTC)<br/>
+*Clasa* Region 0 SYCAMORE GARDENS Settlement is besieged by Humans (2026-04-24 02:42  UTC)<br/>
 
 ### Day: #807
+*Clasa* Region 2 VOTING DISTRICT F-012357 City is besieged by Automaton (2026-04-24 14:28  UTC)<br/>
+*Clasa* Region 0 SYCAMORE GARDENS Settlement siege has ended (2026-04-24 20:52  UTC)<br/>
+*Clasa* Region 1 KODIAK FALLS Town siege has ended (2026-04-24 20:52  UTC)<br/>
+*Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Automaton (2026-04-24 20:52  UTC)<br/>
+*Clasa* defense is failed (2026-04-24 20:52  UTC)<br/>
+*Clasa* liberation campaign starts (2026-04-24 20:52  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-04-25 02:37  UTC)<br/>
+*Charbal-VII* is liberated (2026-04-25 06:10  UTC)<br/>
+*Charbal-VII* liberation campaign ends (2026-04-25 06:10  UTC)<br/>
+DSS deploys to *Charon Prime* of the Andromeda sector (2026-04-25 06:10  UTC)<br/>
+*Vog-Sojoth* Region 0 HAERSTVIK Town is besieged by Automaton (2026-04-25 07:31  UTC)<br/>
+*Vog-Sojoth* of the Tanis sector is attacked by Automatons (2026-04-25 07:31  UTC)<br/>
+ Region Decay: 0.2 on Vog-Sojoth's HAERSTVIK region
+ (2026-04-25 07:31  UTC)<br/>
+
+### Day: #808
+DSS deploys to *Vog-Sojoth* of the Tanis sector (2026-04-25 13:21  UTC)<br/>
+*Vog-Sojoth* Region 0 HAERSTVIK Town has fallen to Human (2026-04-25 15:56  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-04-26 02:38  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-04-26 05:20  UTC)<br/>
+*Vog-Sojoth* Region 0 HAERSTVIK Town is besieged by Automaton (2026-04-26 07:32  UTC)<br/>
+*Vog-Sojoth* defense is failed (2026-04-26 07:32  UTC)<br/>
+*Vog-Sojoth* liberation campaign starts (2026-04-26 07:32  UTC)<br/>
+
+### Day: #809
+*Vog-Sojoth* Region 0 HAERSTVIK Town has fallen to Human (2026-04-26 13:16  UTC)<br/>
+*Vog-Sojoth* Region 0 HAERSTVIK Town has fallen to Human (2026-04-27 04:41  UTC)<br/>
+*Vog-Sojoth* liberation campaign ends (2026-04-27 04:41  UTC)<br/>
+*Vog-Sojoth* is liberated (2026-04-27 04:41  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2026-04-27 04:41  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-27 05:20  UTC)<br/>
+
+# Day: #810
+Major Order | [A3-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-6) Defend from the Cyborgs is won| Objective: Defend (2026-04-27 13:48  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
+*Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Human (2026-04-27 22:38  UTC)<br/>
+
+### Day: #811
+*Terrek* - *Brilliance* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Heeth* - *Brilliance* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Bore Rock* - *Brilliance* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Gatria* - *Luxuriant* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Overgoe Prime* - *Big Rock* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Peacock* - *Big Rock* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Peacock* - *Luxuriant* warp link is added (2026-04-28 11:47  UTC)<br/>
+*Luxuriant* is now identified in the Jin Xi sector (2026-04-28 12:01  UTC)<br/>
+↳ *Luxuriant* moves to X 0.874 Y -0.07 (2026-04-28 12:01  UTC)<br/>
+*Brilliance* is now identified in the Orion sector (2026-04-28 12:01  UTC)<br/>
+↳ *Brilliance* moves to X 0.34 Y 0.323 (2026-04-28 12:01  UTC)<br/>
+*Big Rock* is now identified in the Sten sector (2026-04-28 12:01  UTC)<br/>
+↳ *Big Rock* moves to X 0.944 Y 0.099 (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst U2A deploys to *Big Rock* (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst U3A deploys to *Luxuriant* (2026-04-28 12:01  UTC)<br/>
+Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Cull Bile Titans is issued| Objective: Liberate (2026-04-28 13:02  UTC)<br/>
+Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-04-28 14:19  UTC)<br/>
+Assault Division: Predator Strain U1A deploys to Terrak (2026-04-28 14:19  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-04-28 14:20  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-28 16:45  UTC)<br/>
+DSS deploys to BRILLIANCE of the Orion sector (2026-04-28 17:23  UTC)<br/>
