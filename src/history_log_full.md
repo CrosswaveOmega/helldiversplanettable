@@ -15602,5 +15602,14 @@ Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Cull
 Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-04-28 14:19  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to Terrak (2026-04-28 14:19  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2026-04-28 14:20  UTC)<br/>
-DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-28 16:45  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-04-28 16:45  UTC)<br/>
 DSS deploys to BRILLIANCE of the Orion sector (2026-04-28 17:23  UTC)<br/>
+*Acamar IV* of the JinXi sector is attacked by Terminids (2026-04-29 07:04  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City is besieged by Terminids (2026-04-29 07:04  UTC)<br/>
+
+### Day: #812
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2026-04-29 09:00  UTC)<br/>
+*Terrek* defense is failed (2026-04-29 14:20  UTC)<br/>
+*Terrek* liberation campaign starts (2026-04-29 14:20  UTC)<br/>
+*Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement is besieged by Terminid (2026-04-29 14:23  UTC)<br/>
