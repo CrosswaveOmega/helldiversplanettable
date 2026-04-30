@@ -15613,3 +15613,7 @@ DSS deploys to BRILLIANCE of the Orion sector (2026-04-28 17:23  UTC)<br/>
 *Terrek* defense is failed (2026-04-29 14:20  UTC)<br/>
 *Terrek* liberation campaign starts (2026-04-29 14:20  UTC)<br/>
 *Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement is besieged by Terminid (2026-04-29 14:23  UTC)<br/>
+
+### Day: #813
+*Azterra* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
+*Cirrus* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
