@@ -15617,3 +15617,15 @@ DSS deploys to BRILLIANCE of the Orion sector (2026-04-28 17:23  UTC)<br/>
 ### Day: #813
 *Azterra* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
 *Cirrus* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2026-05-01 01:25  UTC)<br/>
+*Brilliance* is liberated (2026-05-01 03:52  UTC)<br/>
+*Pandion-XXIV* liberation campaign ends (2026-05-01 07:05  UTC)<br/>
+*Acamar IV* defense is failed (2026-05-01 07:06  UTC)<br/>
+*Acamar IV* liberation campaign starts (2026-05-01 07:06  UTC)<br/>
+
+### Day: #814
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-01 09:25  UTC)<br/>
+*Azterra* defense is failed (2026-05-01 15:07  UTC)<br/>
+*Azterra* liberation campaign starts (2026-05-01 15:07  UTC)<br/>
+*Cirrus* defense is failed (2026-05-01 15:07  UTC)<br/>
+*Cirrus* liberation campaign starts (2026-05-01 15:07  UTC)<br/>
