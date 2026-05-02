@@ -15629,3 +15629,4 @@ DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-01 09:25  UTC)<br/>
 *Azterra* liberation campaign starts (2026-05-01 15:07  UTC)<br/>
 *Cirrus* defense is failed (2026-05-01 15:07  UTC)<br/>
 *Cirrus* liberation campaign starts (2026-05-01 15:07  UTC)<br/>
+*Brilliance* of the Orion sector is attacked by Terminids (2026-05-02 05:55  UTC)<br/>
