@@ -15595,6 +15595,8 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 ↳ *Brilliance* moves to X 0.34 Y 0.323 (2026-04-28 12:01  UTC)<br/>
 *Big Rock* is now identified in the Sten sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Big Rock* moves to X 0.944 Y 0.099 (2026-04-28 12:01  UTC)<br/>
+*Brilliance* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
+*Luxuriant* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U2A deploys to *Big Rock* (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U3A deploys to *Luxuriant* (2026-04-28 12:01  UTC)<br/>
