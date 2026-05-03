@@ -15632,3 +15632,7 @@ DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-01 09:25  UTC)<br/>
 *Cirrus* defense is failed (2026-05-01 15:07  UTC)<br/>
 *Cirrus* liberation campaign starts (2026-05-01 15:07  UTC)<br/>
 *Brilliance* of the Orion sector is attacked by Terminids (2026-05-02 05:55  UTC)<br/>
+
+### Day: #815
+*Turing* of the Umlaut sector is attacked by Terminids (2026-05-02 20:38  UTC)<br/>
+*Turing* Region 0 CHATOYANT City is besieged by Terminid (2026-05-02 20:38  UTC)<br/>
