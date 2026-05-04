@@ -15636,3 +15636,15 @@ DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-01 09:25  UTC)<br/>
 ### Day: #815
 *Turing* of the Umlaut sector is attacked by Terminids (2026-05-02 20:38  UTC)<br/>
 *Turing* Region 0 CHATOYANT City is besieged by Terminid (2026-05-02 20:38  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2026-05-02 22:00  UTC)<br/>
+
+### Day: #816
+*Turing* Region 1 CARBONDALE Town is besieged by Terminid (2026-05-03 16:13  UTC)<br/>
+*Turing* Region 2 PERIWINKLE MILLS City is besieged by Terminid (2026-05-03 23:15  UTC)<br/>
+*Brilliance* defense is won (2026-05-04 00:23  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2026-05-04 00:23  UTC)<br/>
+
+### Day: #817
+DSS effect ORBITAL BLOCKADE starts (2026-05-04 10:15  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  The Helldivers have secured *Brilliance* from the Terminids. The beauty and bounty of these planets will finally be shared, thanks to the Helldivers.   Consult the Galactic Map for more information. (2026-05-04 12:08  UTC)<br/>
