@@ -15648,3 +15648,7 @@ DSS deploys to *Turing* of the Umlaut sector (2026-05-04 00:23  UTC)<br/>
 ### Day: #817
 DSS effect ORBITAL BLOCKADE starts (2026-05-04 10:15  UTC)<br/>
 Dispatch:  MAJOR ORDER WON  The Helldivers have secured *Brilliance* from the Terminids. The beauty and bounty of these planets will finally be shared, thanks to the Helldivers.   Consult the Galactic Map for more information. (2026-05-04 12:08  UTC)<br/>
+*Turing* Region 0 CHATOYANT City has fallen to Human (2026-05-04 19:20  UTC)<br/>
+*Turing* defense is won (2026-05-04 19:20  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-05-04 19:20  UTC)<br/>
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-04 21:28  UTC)<br/>
