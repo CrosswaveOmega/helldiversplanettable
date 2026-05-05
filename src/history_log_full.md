@@ -15540,6 +15540,7 @@ Dispatch: NEW STRATEGIC OPPORTUNITY The development of Termicide 2.0 requires ex
 *Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Automaton (2026-04-23 20:52  UTC)<br/>
  Region Decay: 0.1 on Clasa's SYCAMORE GARDENS region<br/> Region Decay: 0.2 on Clasa's KODIAK FALLS region<br/> Region Decay: 0.4 on Clasa's VOTING DISTRICT F-012357 region
  (2026-04-23 22:00  UTC)<br/>
+Major Order | [A3-4-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-7) Cull Bile Titans is won| Objective: Exterminate (2026-04-24 00:35  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. Thanks to the Helldivers, the Bile Titan cull is complete, providing megatonnes of inert specimens to help finalize the Termicide 2.0 formula. While a few newly-retired analysts suggested mass-culling may trigger a "defensive evolutionary pivot", the Ministry of Science dismisses such claims as seditious fiction. Our chemical dominance is assured; Terminid biology remains under total management. (2026-04-24 00:35  UTC)<br/>
 *Clasa* Region 0 SYCAMORE GARDENS Settlement is besieged by Humans (2026-04-24 02:42  UTC)<br/>
 
@@ -15600,7 +15601,7 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 Assault Division: Spore Burst U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U2A deploys to *Big Rock* (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U3A deploys to *Luxuriant* (2026-04-28 12:01  UTC)<br/>
-Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Cull Bile Titans is issued| Objective: Liberate (2026-04-28 13:02  UTC)<br/>
+Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Liberate Vacation Worlds is issued| Objective: Liberate (2026-04-28 13:02  UTC)<br/>
 Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-04-28 14:19  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to Terrak (2026-04-28 14:19  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2026-04-28 14:20  UTC)<br/>
@@ -15617,6 +15618,9 @@ DSS deploys to BRILLIANCE of the Orion sector (2026-04-28 17:23  UTC)<br/>
 *Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement is besieged by Terminid (2026-04-29 14:23  UTC)<br/>
 
 ### Day: #813
+Assault Division: Predator Strain U1A divides into 3 groups [U1A, U1B, U1C] (2026-04-30 15:06  UTC)<br/>
+Assault Division: Predator Strain U1B deploys to *Azterra* (2026-04-30 15:06  UTC)<br/>
+Assault Division: Predator Strain U1C deploys to *Cirrus* (2026-04-30 15:06  UTC)<br/>
 *Azterra* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
 *Cirrus* of the Orion sector is attacked by Terminids (2026-04-30 15:06  UTC)<br/>
 DSS deploys to *Terrek* of the Orion sector (2026-05-01 01:25  UTC)<br/>
@@ -15647,8 +15651,39 @@ DSS deploys to *Turing* of the Umlaut sector (2026-05-04 00:23  UTC)<br/>
 
 ### Day: #817
 DSS effect ORBITAL BLOCKADE starts (2026-05-04 10:15  UTC)<br/>
+Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Liberate Vacation Worlds is won | Objective: Liberate (2026-05-04 12:07  UTC)<br/>
 Dispatch:  MAJOR ORDER WON  The Helldivers have secured *Brilliance* from the Terminids. The beauty and bounty of these planets will finally be shared, thanks to the Helldivers.   Consult the Galactic Map for more information. (2026-05-04 12:08  UTC)<br/>
 *Turing* Region 0 CHATOYANT City has fallen to Human (2026-05-04 19:20  UTC)<br/>
 *Turing* defense is won (2026-05-04 19:20  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-05-04 19:20  UTC)<br/>
 DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-04 21:28  UTC)<br/>
+Assault Division: Spore Burst U4A leaves *Cirrus* (2026-05-05 00:00  UTC)<br/>
+*Fenrir III* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
+*Turing* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
+
+### Day: #818
+*Bore Rock* is lightly enveloped by the Gloom (2026-05-05 09:07  UTC)<br/>
+Assault Division: Spore Burst U4A deploys to *Bore Rock* (2026-05-05 09:08  UTC)<br/>
+Assault Division: Spore Burst U4A leaves *Bore Rock* (2026-05-05 09:48  UTC)<br/>
+Assault Division: Spore Burst U4A deploys to *Terrek* (2026-05-05 09:48  UTC)<br/>
+Assault Division: Predator Strain U1A leaves Terrak (2026-05-05 09:48  UTC)<br/>
+Assault Division: Predator Strain U1A deploys to *Bore Rock* (2026-05-05 09:50  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-05-05 10:16  UTC)<br/>
+Assault Division: Predator Strain U1C leaves *Cirrus* (2026-05-05 11:19  UTC)<br/>
+Assault Division: Spore Burst U4A leaves *Terrek* (2026-05-05 11:19  UTC)<br/>
+Assault Division: Spore Burst U4A deploys to *Cirrus* (2026-05-05 11:20  UTC)<br/>
+Assault Division: Predator Strain U1C deploys to *Heeth* (2026-05-05 11:21  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Terminids (2026-05-05 11:21  UTC)<br/>
+Fronteria is now identified in the Jin Xi sector (2026-05-05 12:01  UTC)<br/>
+↳ Fronteria moves to X 0.502 Y 0.209 (2026-05-05 12:01  UTC)<br/>
+Zygos is now identified in the Orion sector (2026-05-05 12:01  UTC)<br/>
+↳ Zygos moves to X 0.388 Y 0.211 (2026-05-05 12:01  UTC)<br/>
+Fronteria - *Crimsica* warp link is added (2026-05-05 12:01  UTC)<br/>
+Fronteria - Heath warp link is added (2026-05-05 12:01  UTC)<br/>
+Zygos - *Veld* warp link is added (2026-05-05 12:01  UTC)<br/>
+Zygos - *Cirrus* warp link is added (2026-05-05 12:01  UTC)<br/>
+Zygos - *Fort Union* warp link is added (2026-05-05 12:01  UTC)<br/>
+Zygos of the Orion sector is attacked by Terminids (2026-05-05 12:02  UTC)<br/>
+Major Order | [A3-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-1) Defend Vacation Worlds is issued | Objective: Defend (2026-05-05 12:03  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  The Ministry of Expansion has authorized the immediate reclamation of *Oasis* resort worlds; tropical paradises long purified by the cleansing nuclear fires of GW1.  The insatiable Terminid scourge is tarnishing these temperate environments, via new and dangerous Spore Burst mutations that thrive in high-humidity atmospheres.  Helldivers: defend the designated planets. Secure these golden vistas for the most deserving of our citizens. (2026-05-05 12:04  UTC)<br/>
+DSS deploys to Zygos of the Orion sector (2026-05-05 17:29  UTC)<br/>
