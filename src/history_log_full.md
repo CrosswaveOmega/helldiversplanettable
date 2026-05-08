@@ -15687,3 +15687,23 @@ Zygos of the Orion sector is attacked by Terminids (2026-05-05 12:02  UTC)<br/>
 Major Order | [A3-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-1) Defend Vacation Worlds is issued | Objective: Defend (2026-05-05 12:03  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  The Ministry of Expansion has authorized the immediate reclamation of *Oasis* resort worlds; tropical paradises long purified by the cleansing nuclear fires of GW1.  The insatiable Terminid scourge is tarnishing these temperate environments, via new and dangerous Spore Burst mutations that thrive in high-humidity atmospheres.  Helldivers: defend the designated planets. Secure these golden vistas for the most deserving of our citizens. (2026-05-05 12:04  UTC)<br/>
 DSS deploys to Zygos of the Orion sector (2026-05-05 17:29  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-05-06 01:25  UTC)<br/>
+
+### Day: #819
+*Heeth* defense is failed (2026-05-06 11:22  UTC)<br/>
+*Heeth* liberation campaign starts (2026-05-06 11:22  UTC)<br/>
+Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-06 16:32  UTC)<br/>
+Dispatch:  NEW STRATEGIC OPPORTUNITY.  Unmanned spacecraft reconnaissance has identified Illuminate Appropriators on KEID conducting excavation of Un-Democratic Architectural Remains (UARs). UARs have been associated with Exospires and Void emergence.  The Helldivers are ordered to interdict these hostiles. Deployments to KEID will be equipped the EXO-49 EMANCIPATOR EXOSUIT in order to combat exo-augmented units. (2026-05-06 16:32  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-05-07 01:26  UTC)<br/>
+*ZYGOS* defense is won (2026-05-07 05:17  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2026-05-07 05:18  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-05-07 08:40  UTC)<br/>
+
+# Day: #820
+Note: The Lumberer and Breakthrough are added to the DSS's cooldown reduction effect (2026-05-07 09:08  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2026-05-07 13:31  UTC)<br/>
+Assault Division: Predator Strain UBA deploys to *FRONTERIA* (2026-05-07 14:21  UTC)<br/>
+*FRONTERIA* of the Umlaut sector is attacked by Terminids (2026-05-07 14:22  UTC)<br/>
+DSS deploys to *FRONTERIA* of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
+Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
