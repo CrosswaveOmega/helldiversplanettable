@@ -15707,3 +15707,6 @@ Assault Division: Predator Strain UBA deploys to *FRONTERIA* (2026-05-07 14:21  
 DSS deploys to *FRONTERIA* of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
 Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
+
+### Day: #821
