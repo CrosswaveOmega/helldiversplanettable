@@ -15707,6 +15707,26 @@ Assault Division: Predator Strain UBA deploys to *FRONTERIA* (2026-05-07 14:21  
 DSS deploys to *FRONTERIA* of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
 Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
+Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is won | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
 
 ### Day: #821
+Assault Division: Cyborgs U1A divides into 2 groups [U1A, U1F] (2026-05-08 14:32  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Mekbuda* (2026-05-08 14:32  UTC)<br/>
+Assault Division: Cyborgs U1F leaves  *Mekbuda* (2026-05-08 15:33  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Aurora Bay* (2026-05-08 15:33  UTC)<br/>
+Assault Division: Cyborgs U1F leaves  *Aurora Bay* (2026-05-08 16:32  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Choohe* (2026-05-08 16:32  UTC)<br/>
+Assault Division: Cyborgs U1F leaves  *Choohe* (2026-05-08 17:34  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Menkent* (2026-05-08 17:34  UTC)<br/>
+Assault Division: Cyborgs U1F leaves  *Menkent* (2026-05-08 18:33  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Vernen Wells* (2026-05-08 18:33  UTC)<br/>
+Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is issued | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
+Dispatch:  NEW STRATEGIC OPPORTUNITY  High Command has authorized a mandatory requisition of squandered capital hoarded on Automaton-held planets.  Helldivers: secure 70,000,000 Automaton samples and neutralize 25,000,000 Cyborg Radicals.  Acquisition of these socialist assets will bolster cross-Ministry research and intel efforts, enable a new season of televised vivisectional audits, and will fund the immediate use of the Autocannon Stratagem. (2026-05-08 21:19  UTC)<br/>
+*FRONTERIA* defense is won (2026-05-09 02:39  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
+
+### Day: #822
+*Vernen Wells* Region 2 ANNE'S VIGIL Town has fallen to Human (2026-05-09 13:04  UTC)<br/>
