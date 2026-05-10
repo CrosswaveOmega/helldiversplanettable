@@ -15730,3 +15730,5 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
 
 ### Day: #822
 *Vernen Wells* Region 2 ANNE'S VIGIL Town has fallen to Human (2026-05-09 13:04  UTC)<br/>
+*Vernen Wells* Region 0 BLACKVEIN MINES Settlement is besieged by Automaton (2026-05-09 21:08  UTC)<br/>
+*Vernen Wells* Region 0 BLACKVEIN MINES Settlement has fallen to Human (2026-05-10 02:39  UTC)<br/>
