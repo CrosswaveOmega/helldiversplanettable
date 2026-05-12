@@ -15578,7 +15578,7 @@ DSS deploys to *Clasa* of the Tanis sector (2026-04-27 04:41  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-27 05:20  UTC)<br/>
 
 # Day: #810
-Major Order | [A3-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-6) Defend from the Cyborgs is won| Objective: Defend (2026-04-27 13:48  UTC)<br/>
+Major Order | [A3-4-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-6) Defend from the Cyborgs is won | Objective: Defend (2026-04-27 13:48  UTC)<br/>
 DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 *Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Human (2026-04-27 22:38  UTC)<br/>
 
@@ -15724,6 +15724,7 @@ Assault Division: Cyborgs U1F deploys to *Menkent* (2026-05-08 17:34  UTC)<br/>
 Assault Division: Cyborgs U1F leaves  *Menkent* (2026-05-08 18:33  UTC)<br/>
 Assault Division: Cyborgs U1F deploys to *Vernen Wells* (2026-05-08 18:33  UTC)<br/>
 Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is issued | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
+Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is failed | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  High Command has authorized a mandatory requisition of squandered capital hoarded on Automaton-held planets.  Helldivers: secure 70,000,000 Automaton samples and neutralize 25,000,000 Cyborg Radicals.  Acquisition of these socialist assets will bolster cross-Ministry research and intel efforts, enable a new season of televised vivisectional audits, and will fund the immediate use of the Autocannon Stratagem. (2026-05-08 21:19  UTC)<br/>
 *FRONTERIA* defense is won (2026-05-09 02:39  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
@@ -15732,3 +15733,15 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
 *Vernen Wells* Region 2 ANNE'S VIGIL Town has fallen to Human (2026-05-09 13:04  UTC)<br/>
 *Vernen Wells* Region 0 BLACKVEIN MINES Settlement is besieged by Automaton (2026-05-09 21:08  UTC)<br/>
 *Vernen Wells* Region 0 BLACKVEIN MINES Settlement has fallen to Human (2026-05-10 02:39  UTC)<br/>
+Assault Division: Predator Strain U1C leaves *Heeth* (2026-05-10 07:55  UTC)<br/>
+Assault Division: Predator Strain U1C deploys to *Cirrus* (2026-05-10 07:55  UTC)<br/>
+Assault Division: Predator Strain U1C leaves *Cirrus* (2026-05-10 08:57  UTC)<br/>
+Assault Division: Predator Strain U1C deploys to Zygos (2026-05-10 08:57  UTC)<br/>
+Zygos of the Orion sector is attacked by Terminids (2026-05-10 08:59  UTC)<br/>
+
+### Day: #823
+DSS deploys to Zygos of the Orion sector (2026-05-10 13:32  UTC)<br/>
+
+### Day: #824
+Dispatch:  STRATEGIC OPPORTUNITY LOST  The Helldivers' acquisition of materiel has been blocked by the Automatons and Cyborgs.  Though a blow to citizens eager to enjoy the now-postponed televised vivisectional audits, the impeded procurement efforts yielded valuable intel.  Thanks to recovered frequency-resonant hardware, the precise origin point of the Automatons' prior cyberattack upon Galactic Communications Systems has been identified.  Democracy requires that Free Speech must remain correctly Free. (2026-05-11 19:33  UTC)<br/>
+Assault Division: Cyborgs U1F is routed from Vernen Wells (2026-05-11 19:35  UTC)<br/>
