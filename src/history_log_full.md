@@ -15476,6 +15476,7 @@ DSS deploys to *Hort* of the Rigel sector (2026-04-19 01:17  UTC)<br/>
 *Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-04-19 04:17  UTC)<br/>
 Assault Division: Appropriators U4A leaves *Hesoe Prime* (2026-04-19 07:01  UTC)<br/>
 Assault Division: Mindless Masses U5A leaves *Rogue 5* (2026-04-19 07:01  UTC)<br/>
+Assault Division: Mindless Masses U5A deploys to *Hesoe Prime* (2026-04-19 07:01  UTC)<br/>
 
 ### Day: #802
 DSS effect EAGLE STORM starts (2026-04-19 11:00  UTC)<br/>
@@ -15744,4 +15745,32 @@ DSS deploys to Zygos of the Orion sector (2026-05-10 13:32  UTC)<br/>
 
 ### Day: #824
 Dispatch:  STRATEGIC OPPORTUNITY LOST  The Helldivers' acquisition of materiel has been blocked by the Automatons and Cyborgs.  Though a blow to citizens eager to enjoy the now-postponed televised vivisectional audits, the impeded procurement efforts yielded valuable intel.  Thanks to recovered frequency-resonant hardware, the precise origin point of the Automatons' prior cyberattack upon Galactic Communications Systems has been identified.  Democracy requires that Free Speech must remain correctly Free. (2026-05-11 19:33  UTC)<br/>
-Assault Division: Cyborgs U1F is routed from Vernen Wells (2026-05-11 19:35  UTC)<br/>
+Assault Division: Cyborgs U1F leaves *Vernen Wells* (2026-05-11 19:35  UTC)<br/>
+*ZYGOS* defense is won (2026-05-12 04:15  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-12 04:15  UTC)<br/>
+Major Order | [A3-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-1) Defend Vacation Worlds is won| Objective: Defend (2026-05-12 04:16  UTC)<br/>
+
+### Day: #825
+*Vernen Wells* Region 1 BENEVOLENCE Town is besieged by Automaton (2026-05-12 10:09  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Vernen Wells* (2026-05-12 10:29  UTC)<br/>
+*Bore Rock* is overtaken by the Gloomwall (2026-05-12 11:20  UTC)<br/>
+Assault Division: Cyborgs U1F leaves *Vernen Wells* (2026-05-12 12:01  UTC)<br/>
+Assault Division: Cyborgs U1F deploys to *Aesir Pass* (2026-05-12 12:01  UTC)<br/>
+Assault Division: Cyborgs U1F is routed from Aesir Pass (2026-05-12 12:08  UTC)<br/>
+Assault Division: Mindless Masses U5A leaves *Hesoe Prime* (2026-05-12 14:33  UTC)<br/>
+Assault Division: Mindless Masses U5A deploys to *Hort* (2026-05-12 14:33  UTC)<br/>
+*Hort* of the Rigel sector is attacked by Illuminates (2026-05-12 14:35  UTC)<br/>
+*Hort* Region 1 CLOCKSTOP City is besieged by Illuminate (2026-05-12 14:35  UTC)<br/>
+*Heze Bay* of the Hanzo sector is attacked by Illuminates (2026-05-12 14:37  UTC)<br/>
+Assault Division: Appropriators U5A deploys to *Heze Bay* (2026-05-12 14:37  UTC)<br/>
+ Region Decay: 0.4 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.4 on Heze Bay's UNISON region<br/> Region Decay: 0.4 on Hort's ON-EARSAHOU region<br/> Region Decay: 0.4 on Hort's CLOCKSTOP region<br/> Region Decay: 0.4 on Hort's MAGNITUDE region
+ (2026-05-12 16:00  UTC)<br/>
+DSS deploys to *Hort* of the Rigel sector (2026-05-12 21:34  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-05-13 02:25  UTC)<br/>
+*Hort* Region 0 ON-EARSAHOU City is besieged by Illuminate (2026-05-13 08:07  UTC)<br/>
+
+### Day: #826
+*Vernen Wells* Region 1 BENEVOLENCE Town has fallen to Human (2026-05-13 09:33  UTC)<br/>
+*Vernen Wells* is liberated (2026-05-13 11:33  UTC)<br/>
+Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is issued| Objective: Liberation (2026-05-13 14:19  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  Several months ago, a Cyborg cyber-attack subjected our citizens to hateful, vile lies, in a blatant attempt to sway their loyalty. Intel has now located the facility from which this message was broadcast: an interstellar communications array on MEISSA.  The Helldivers are ordered to liberate the planet and faciliate the facility's capture. (2026-05-13 14:20  UTC)<br/>
