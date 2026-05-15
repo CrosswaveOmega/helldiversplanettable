@@ -15774,3 +15774,15 @@ DSS effect ORBITAL BLOCKADE starts (2026-05-13 02:25  UTC)<br/>
 *Vernen Wells* is liberated (2026-05-13 11:33  UTC)<br/>
 Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is issued| Objective: Liberation (2026-05-13 14:19  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  Several months ago, a Cyborg cyber-attack subjected our citizens to hateful, vile lies, in a blatant attempt to sway their loyalty. Intel has now located the facility from which this message was broadcast: an interstellar communications array on MEISSA.  The Helldivers are ordered to liberate the planet and faciliate the facility's capture. (2026-05-13 14:20  UTC)<br/>
+*Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-05-13 19:59  UTC)<br/>
+DSS deploys to *Marfark* of the Andromeda sector (2026-05-13 21:35  UTC)<br/>
+DSS deploys to *Choohe* of the Lacaille sector (2026-05-14 01:35  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-05-14 02:26  UTC)<br/>
+*Heze Bay* Region 0 UNANIMITY City is besieged by Illuminate (2026-05-14 06:21  UTC)<br/>
+
+### Day: #827
+*Hort* Region 1 CLOCKSTOP City has fallen to Human (2026-05-14 11:06  UTC)<br/>
+*Hort* defense is won (2026-05-14 11:06  UTC)<br/>
+*Heze Bay* defense is failed (2026-05-14 14:38  UTC)<br/>
+*Heze Bay* liberation campaign starts (2026-05-14 14:38  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-05-14 18:12  UTC)<br/>
