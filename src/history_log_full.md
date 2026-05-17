@@ -15772,7 +15772,7 @@ DSS effect ORBITAL BLOCKADE starts (2026-05-13 02:25  UTC)<br/>
 ### Day: #826
 *Vernen Wells* Region 1 BENEVOLENCE Town has fallen to Human (2026-05-13 09:33  UTC)<br/>
 *Vernen Wells* is liberated (2026-05-13 11:33  UTC)<br/>
-Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is issued| Objective: Liberation (2026-05-13 14:19  UTC)<br/>
+Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is issued | Objective: Liberation (2026-05-13 14:19  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  Several months ago, a Cyborg cyber-attack subjected our citizens to hateful, vile lies, in a blatant attempt to sway their loyalty. Intel has now located the facility from which this message was broadcast: an interstellar communications array on MEISSA.  The Helldivers are ordered to liberate the planet and faciliate the facility's capture. (2026-05-13 14:20  UTC)<br/>
 *Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-05-13 19:59  UTC)<br/>
 DSS deploys to *Marfark* of the Andromeda sector (2026-05-13 21:35  UTC)<br/>
@@ -15786,3 +15786,28 @@ DSS effect ORBITAL BLOCKADE ends (2026-05-14 02:26  UTC)<br/>
 *Heze Bay* defense is failed (2026-05-14 14:38  UTC)<br/>
 *Heze Bay* liberation campaign starts (2026-05-14 14:38  UTC)<br/>
 DSS effect EAGLE STORM starts (2026-05-14 18:12  UTC)<br/>
+
+### Day: #828
+DSS effect EAGLE STORM ends (2026-05-15 18:13  UTC)<br/>
+*Choohe* is liberated (2026-05-15 23:01  UTC)<br/>
+*Matar Bay* liberation campaign starts (2026-05-15 23:01  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2026-05-15 23:01  UTC)<br/>
+ Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-05-15 23:01  UTC)<br/>
+DSS deploys to *Marfark* of the Andromeda sector (2026-05-16 01:36  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-05-16 05:36  UTC)<br/>
+
+### Day: #829
+Assault Division: Appropriators U5A leaves *Heze Bay* (2026-05-16 12:16  UTC)<br/>
+Assault Division: Appropriators U5A deploys to *Rirga Bay* (2026-05-16 12:17  UTC)<br/>
+*Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-05-16 12:18  UTC)<br/>
+*Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-05-16 12:18  UTC)<br/>
+*Rirga Bay* defense is won (2026-05-16 12:28  UTC)<br/>
+*Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-05-16 12:29  UTC)<br/>
+Strategic Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is issued | Objective: Kill (2026-05-16 12:51  UTC)<br/>
+Dispatch:  NEW STRATEGIC DIRECTIVE  In order to combat blatant propaganda and disinformation, the Helldivers are ordered to patriotically eliminate 10,000,000 enemies of Freedom utilizing the One True Flag, which will be added to all mission loadouts for the duration of this order. (2026-05-16 12:51  UTC)<br/>
+ Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
+ (2026-05-16 12:51  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City has fallen to Human (2026-05-16 14:04  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-05-16 14:04  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-05-16 21:52  UTC)<br/>
