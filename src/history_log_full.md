@@ -15811,3 +15811,29 @@ Dispatch:  NEW STRATEGIC DIRECTIVE  In order to combat blatant propaganda and di
 *Matar Bay* Region 0 PARRHESIA City has fallen to Human (2026-05-16 14:04  UTC)<br/>
 *Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-05-16 14:04  UTC)<br/>
 *Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-05-16 21:52  UTC)<br/>
+
+# Day: #830
+*Matar Bay* is liberated (2026-05-17 18:43  UTC)<br/>
+*Martale* liberation campaign starts (2026-05-17 18:43  UTC)<br/>
+*Meissa* liberation campaign starts (2026-05-17 18:43  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2026-05-17 18:43  UTC)<br/>
+ Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region
+ (2026-05-17 20:00  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2026-05-18 01:38  UTC)<br/>
+*Terrek* is liberated (2026-05-18 06:49  UTC)<br/>
+Dispatch:  WARFRONT DEVELOPMENT  High-morale SEAF reinforcements have taken significant ground on MEISSA. (2026-05-18 08:03  UTC)<br/>
+*Vernen Wells* of the Hydra sector is attacked by Automatons (2026-05-18 08:06  UTC)<br/>
+*Vernen Wells* Region 0 BLACKVEIN MINES Settlement is besieged by Automaton (2026-05-18 08:06  UTC)<br/>
+
+### Day: #831
+ Region Decay: 0.1 on Vernen Wells's BLACKVEIN MINES region<br/> Region Decay: 0.2 on Vernen Wells's BENEVOLENCE region<br/> Region Decay: 0.2 on Vernen Wells's ANNE'S VIGIL region
+ (2026-05-18 09:00  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-05-18 09:22  UTC)<br/>
+Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-05-18 09:22  UTC)<br/>
+*Seasse* liberation campaign ends (2026-05-18 12:30  UTC)<br/>
+*Rirga Bay* defense is failed (2026-05-18 12:31  UTC)<br/>
+*Rirga Bay* liberation campaign starts (2026-05-18 12:31  UTC)<br/>
+*Meissa* is liberated (2026-05-18 12:36  UTC)<br/>
+*X-45* liberation campaign starts (2026-05-18 12:36  UTC)<br/>
+*Wasat* liberation campaign starts (2026-05-18 12:36  UTC)<br/>
+*Wasat* Region 1 DRYWELL MegaCity is besieged by Automaton (2026-05-18 12:36  UTC)<br/>
