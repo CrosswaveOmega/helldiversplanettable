@@ -15774,6 +15774,7 @@ DSS effect ORBITAL BLOCKADE starts (2026-05-13 02:25  UTC)<br/>
 *Vernen Wells* is liberated (2026-05-13 11:33  UTC)<br/>
 Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is issued | Objective: Liberation (2026-05-13 14:19  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  Several months ago, a Cyborg cyber-attack subjected our citizens to hateful, vile lies, in a blatant attempt to sway their loyalty. Intel has now located the facility from which this message was broadcast: an interstellar communications array on MEISSA.  The Helldivers are ordered to liberate the planet and faciliate the facility's capture. (2026-05-13 14:20  UTC)<br/>
+*Meissa* of the Ymir sector is established as a Communications Array POI (2026-05-13 14:26  UTC)<br/>
 *Hort* Region 2 MAGNITUDE City is besieged by Illuminate (2026-05-13 19:59  UTC)<br/>
 DSS deploys to *Marfark* of the Andromeda sector (2026-05-13 21:35  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2026-05-14 01:35  UTC)<br/>
@@ -15841,8 +15842,8 @@ Dispatch:  STRATEGIC DIRECTIVE COMPLETED  The Helldivers have enthusiastically a
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-18 12:36  UTC)<br/>
 Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is won | Objective: Liberation (2026-05-18 12:36  UTC)<br/>
 Strategic Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is won | Objective: Kill (2026-05-18 12:36  UTC)<br/>
-Dispatch:  MAJOR ORDER WON  MEISSA has been liberated. The Cyborgs and Automatons have been repelled, and the Communications Array from which their vile propaganda was broadcast has been captured.  Consult the Galactic Map for more information. (2026-05-18 12:37  UTC)<br/>
-Dispatch:  ARSENAL AUGMENTATION  That Freedom be cherished and held close, all Helldiver deployments will be augmented with the EAGLE 500KG BOMB for the next 48 hours. (2026-05-18 12:39  UTC)<br/>
+Dispatch:  MAJOR ORDER WON,  MEISSA has been liberated. The Cyborgs and Automatons have been repelled, and the Communications Array from which their vile propaganda was broadcast has been captured.  Consult the Galactic Map for more information. (2026-05-18 12:37  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION.  That Freedom be cherished and held close, all Helldiver deployments will be augmented with the EAGLE 500KG BOMB for the next 48 hours. (2026-05-18 12:39  UTC)<br/>
  Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
  (2026-05-18 14:00  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-05-18 16:39  UTC)<br/>
@@ -15853,5 +15854,9 @@ Dispatch:  NOTICE: NETWORK REFIT  High Command has authorized a scheduled refit 
 *Terrek* defense is won (2026-05-19 03:15  UTC)<br/>
 *Vernen Wells* defense is won (2026-05-19 05:53  UTC)<br/>
 DSS deploys to *Cirrus* of the Orion sector (2026-05-19 05:53  UTC)<br/>
+Dispatch:  WARNING: MAINTENANCE IMMINENT  Super Destroyer network maintenance begins in 1 hour. Helldivers are advised to extract before commencement: remaining in-atmosphere may lose rewards.  During maintenance, external Super Credit acquisitions will be offline. The Superstore will remain open, but spending transactions, Warbond claims, field pickups, and reward processing may experience temporary desynchronization. (2026-05-19 07:01  UTC)<br/>
 
 ### Day: #832
+Dispatch:  NETWORK MAINTENANCE COMPLETE  The Super Destroyer network refit has successfully concluded. Logic circuits are now fully optimized for maximum structural efficiency.  All network systems are operational. External Super Credit acquisition channels have reopened. Any lingering latency regarding login queues, Superstore purchases, Warbond claims, or delayed mission reward payouts will automatically resolve.  Return to your stations, and continue to uphold the glory of Managed Democracy. (2026-05-19 12:17  UTC)<br/>
+*Menkent* is liberated (2026-05-19 14:24  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-19 16:41  UTC)<br/>
