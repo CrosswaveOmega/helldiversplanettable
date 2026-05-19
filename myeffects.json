@@ -262,6 +262,13 @@
             "name": "SPORE BURST STRAIN",
             "icon": "SporeBurstStrain",
             "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+        },
+        "1387": {
+            "galacticEffectId": 1387,
+            "name": "COMMUNICATIONS ARRAY",
+
+            "icon": "Automatons",
+            "description": "The relay towers on this planet are important to Automaton communications."
         }
     }
 }
