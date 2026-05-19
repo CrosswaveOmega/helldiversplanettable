@@ -15833,7 +15833,25 @@ Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-05-18 09:22  UTC)
 *Seasse* liberation campaign ends (2026-05-18 12:30  UTC)<br/>
 *Rirga Bay* defense is failed (2026-05-18 12:31  UTC)<br/>
 *Rirga Bay* liberation campaign starts (2026-05-18 12:31  UTC)<br/>
+Dispatch:  STRATEGIC DIRECTIVE COMPLETED  The Helldivers have enthusiastically and thoroughly battled the twin snakes of propaganda and disinformation, by executing over 10,000,000 enemies of the state.   Utilization of the One True Flag demonstrated the invulnerability of Managed Democracy and its hallowed symbols, and inspired citizens across the Federation to redouble their vigilance against manipulation. (2026-05-18 12:35  UTC)<br/>
 *Meissa* is liberated (2026-05-18 12:36  UTC)<br/>
 *X-45* liberation campaign starts (2026-05-18 12:36  UTC)<br/>
 *Wasat* liberation campaign starts (2026-05-18 12:36  UTC)<br/>
 *Wasat* Region 1 DRYWELL MegaCity is besieged by Automaton (2026-05-18 12:36  UTC)<br/>
+DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-18 12:36  UTC)<br/>
+Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is won | Objective: Liberation (2026-05-18 12:36  UTC)<br/>
+Strategic Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is won | Objective: Kill (2026-05-18 12:36  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  MEISSA has been liberated. The Cyborgs and Automatons have been repelled, and the Communications Array from which their vile propaganda was broadcast has been captured.  Consult the Galactic Map for more information. (2026-05-18 12:37  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION  That Freedom be cherished and held close, all Helldiver deployments will be augmented with the EAGLE 500KG BOMB for the next 48 hours. (2026-05-18 12:39  UTC)<br/>
+ Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
+ (2026-05-18 14:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-05-18 16:39  UTC)<br/>
+*Vernen Wells* Region 0 BLACKVEIN MINES Settlement has fallen to Human (2026-05-18 17:07  UTC)<br/>
+*Vernen Wells* Region 2 ANNE'S VIGIL Town is besieged by Automaton (2026-05-18 18:23  UTC)<br/>
+Dispatch:  NOTICE: NETWORK REFIT  High Command has authorized a scheduled refit of the Super Destroyer network on May 19 at 10:00AM CET.  Expect temporary login interruptions during this maintenance, as we optimize logic circuits for Freedom.  During maintenance, external Super Credit acquisitions will be offline. The Superstore will remain open, but spending transactions, Warbond claims, field pickups, and reward processing may experience temporary desynchronization. (2026-05-18 18:39  UTC)<br/>
+*Vernen Wells* Region 2 ANNE'S VIGIL Town has fallen to Human (2026-05-19 00:47  UTC)<br/>
+*Terrek* defense is won (2026-05-19 03:15  UTC)<br/>
+*Vernen Wells* defense is won (2026-05-19 05:53  UTC)<br/>
+DSS deploys to *Cirrus* of the Orion sector (2026-05-19 05:53  UTC)<br/>
+
+### Day: #832
