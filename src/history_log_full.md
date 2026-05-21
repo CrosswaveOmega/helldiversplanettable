@@ -15860,3 +15860,14 @@ Dispatch:  WARNING: MAINTENANCE IMMINENT  Super Destroyer network maintenance be
 Dispatch:  NETWORK MAINTENANCE COMPLETE  The Super Destroyer network refit has successfully concluded. Logic circuits are now fully optimized for maximum structural efficiency.  All network systems are operational. External Super Credit acquisition channels have reopened. Any lingering latency regarding login queues, Superstore purchases, Warbond claims, or delayed mission reward payouts will automatically resolve.  Return to your stations, and continue to uphold the glory of Managed Democracy. (2026-05-19 12:17  UTC)<br/>
 *Menkent* is liberated (2026-05-19 14:24  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-19 16:41  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2026-05-20 05:40  UTC)<br/>
+*Martale* Region 0 SONGGUO CUN Settlement has fallen to Human (2026-05-20 06:21  UTC)<br/>
+
+### Day: #833
+*Cirrus* is liberated (2026-05-20 10:58  UTC)<br/>
+Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is issued | Objective: Liberation (2026-05-20 12:00  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  One year ago today, the Battle for *Super Earth* began, as the Illuminate launched an unprovoked assault on our sovereign homeworld.  As we begin this period of remembrance leading up to Victory Day, the Helldivers are ordered liberate 5 Illuminate-controlled planets and successfully hold *Super Earth*—to honor the heroes from all walks of life, who made the ultimate sacrifice to protect Managed Democracy. (2026-05-20 12:01  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 1  One year ago, the Illuminate Great Host entered the Sol System. *Widow's Harbor*, *Pilen V*, and *New Haven* fell as the enemy advanced, razing Mars to ash.  By nightfall, the invasion reached the homeland. Alien forces besieged Eagleopolis, Remembrance, and Equality-on-Sea. Helldivers deployed alongside regular SEAF infantry, holding the line and dealing a massive blow to the alien fleet. (2026-05-20 14:13  UTC)<br/>
+*Kerth Secundus* Region 0 SCHOLAR'S MOOR Town is besieged by Illuminate (2026-05-20 14:16  UTC)<br/>
+DSS deploys to *Kerth Secundus* of the Rictus sector (2026-05-20 17:40  UTC)<br/>
+*Kerth Secundus* Region 0 SCHOLAR'S MOOR Town has fallen to Human (2026-05-20 22:42  UTC)<br/>
