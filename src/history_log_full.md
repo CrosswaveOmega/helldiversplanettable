@@ -15871,3 +15871,10 @@ Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 1  One year
 *Kerth Secundus* Region 0 SCHOLAR'S MOOR Town is besieged by Illuminate (2026-05-20 14:16  UTC)<br/>
 DSS deploys to *Kerth Secundus* of the Rictus sector (2026-05-20 17:40  UTC)<br/>
 *Kerth Secundus* Region 0 SCHOLAR'S MOOR Town has fallen to Human (2026-05-20 22:42  UTC)<br/>
+
+### Day: #834
+DSS effect ORBITAL BLOCKADE starts (2026-05-21 10:32  UTC)<br/>
+Dispatch: THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 2  One year ago, the true might of our urban defenders was made known. With Eagleopolis locked in brutal combat, the Illuminate menace extended its reach across multiple sectors, launching a massive assault against the coastal citizens of Equality-on-Sea. Helldivers and SEAF garrisons dug in, turning the pristine waters into a meat grinder of alien flesh. The war of attrition hardened; the Federation refused to crack. (2026-05-21 12:00  UTC)<br/>
+*Kerth Secundus* Region 2 HILDOARA CENTRAL MegaCity has fallen to Human (2026-05-22 02:28  UTC)<br/>
+*Kerth Secundus* is liberated (2026-05-22 02:28  UTC)<br/>
+DSS deploys to *Mog* of the Morgon sector (2026-05-22 02:28  UTC)<br/>
