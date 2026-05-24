@@ -15878,3 +15878,25 @@ Dispatch: THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 2  One year 
 *Kerth Secundus* Region 2 HILDOARA CENTRAL MegaCity has fallen to Human (2026-05-22 02:28  UTC)<br/>
 *Kerth Secundus* is liberated (2026-05-22 02:28  UTC)<br/>
 DSS deploys to *Mog* of the Morgon sector (2026-05-22 02:28  UTC)<br/>
+ Region Decay: 0.4 on Grafmere's GRAFSART region<br/> Region Decay: 0.1 on Grafmere's GRAFSWALLIT region<br/> Region Decay: 0.6 on Grafmere's GRAFSEAD region
+ (2026-05-22 04:00  UTC)<br/>
+
+### Day: #835
+Dispatch:  ARSENAL AUGMENTATION  That we recall those lost through retribution of their murderers, all Helldiver deployments will be augmented with the Stalwart for the next 24 hours. (2026-05-22 09:42  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-05-22 10:32  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 3  One year ago, the Federation suffered a heavy wound. After days of unrelenting bombardment, the Mega City of Eagleopolis was breached. The Great Mall of *Super Earth*—sacred haven of enterprise, commerce and home of the beloved Congressional Rapids Family Fun Zone—was reduced to rubble.  Yet, the Helldivers and SEAF persevered, continuing to extract a heavy toll in Tyrannical alien blood for every harm they inflicted upon us. (2026-05-22 12:01  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-05-22 12:56  UTC)<br/>
+Dispatch:  NEW STRATEGIC IMPERATIVE  The Terminids have launched a vile assault directly threatening *Brilliance*, home to the eccentric genius who crippled the Illuminate with an uploaded virus one year ago.  Rumors of unauthorized cross-species experimentation or "insect-conversion side effects" are entirely unfounded.  Helldivers must secure the perimeter around *Brilliance* by defending all adjacent planets. We cannot allow this legendary mind to be callously silenced. (2026-05-22 13:12  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-05-22 13:12  UTC)<br/>
+*Heeth* is liberated (2026-05-22 23:17  UTC)<br/>
+*Erata Prime* defense is won (2026-05-22 23:17  UTC)<br/>
+*Azterra* is liberated (2026-05-23 03:53  UTC)<br/>
+Assault Division: Predator Strain U1B is routed from Azterra (2026-05-23 03:53  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-05-23 07:13  UTC)<br/>
+
+### Day: #836
+*Mog* is liberated (2026-05-23 09:44  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2026-05-23 09:44  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 4  One year ago, Phase 1 concluded. Through immense sacrifice, Helldivers successfully completed the first major defensive order, slashing total Illuminate Fleet Strength to 60% by the end of the initial attack phase.  The xenophobic enemy immediately pivoted, launching a surprise assault against Administrative Center 02. With six Mega Cities left standing, SEAF battalions dug into the concrete plazas, bracing for a brutal next phase. (2026-05-23 12:02  UTC)<br/>
+DSS deploys to *Parsh* of the Rictus sector (2026-05-23 13:42  UTC)<br/>
