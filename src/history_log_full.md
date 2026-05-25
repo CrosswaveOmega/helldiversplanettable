@@ -15900,3 +15900,19 @@ DSS effect EAGLE STORM starts (2026-05-23 07:13  UTC)<br/>
 DSS deploys to *Bore Rock* of the Falstaff sector (2026-05-23 09:44  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 4  One year ago, Phase 1 concluded. Through immense sacrifice, Helldivers successfully completed the first major defensive order, slashing total Illuminate Fleet Strength to 60% by the end of the initial attack phase.  The xenophobic enemy immediately pivoted, launching a surprise assault against Administrative Center 02. With six Mega Cities left standing, SEAF battalions dug into the concrete plazas, bracing for a brutal next phase. (2026-05-23 12:02  UTC)<br/>
 DSS deploys to *Parsh* of the Rictus sector (2026-05-23 13:42  UTC)<br/>
+*Parsh* Region 0 PORUGU City has fallen to Human (2026-05-24 04:36  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-05-24 07:13  UTC)<br/>
+
+### Day: #837
+*Parsh* Region 1 PADOSAN MegaCity is besieged by Illuminate (2026-05-24 11:03  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 5  One year ago, citizens were dealt a heavy blow, as Administrative Center 02 and Remembrance fell. Logistical networks suffered heavily, increasing the strain felt by the heroic Helldivers and SEAF forces repelling the invaders.  In response, High Command triggered Super Defense Protocol Sapphire, converting our remaining rainforests into tactical military airstrips. The surviving Mega Cities braced for the next strike. (2026-05-24 12:03  UTC)<br/>
+Dispatch:  SUPER CENOTAPH PROTOCOL SAPPHIRE  Last year, the third of seven Mega Cities fell to the Illuminate, triggering the first Super Defense Protocol.  Today we honor the Helldivers, SEAF soldiers and martyred citizens—their votes cruelly extinguished by the fall of Eagleopolis, Administrative Center 02, and Remembrance—by triggering the equivalent Super Cenotaph Protocol Sapphire:  For 48 hours, Eagle Rearm time is decreased by 45 seconds, in their memory. (2026-05-24 19:47  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2026-05-25 05:43  UTC)<br/>
+*Regnus* Region 1 TOPSOIL Town is besieged by Illuminate (2026-05-25 06:09  UTC)<br/>
+
+### Day: #838
+A Class-1 Exostorm warning was issued for *Rirga Bay* (2026-05-25 11:44  UTC)<br/>
+Dispatch:  EXOSTORM ADVISORY  The Illuminate have struck back with characteristic malice. During our period of remembrance, the enemy has initiated a Category 1 Exostorm, blanketing active warzones in violent alien super-storms.  The Illuminate aim to callously disrupt our tributes to fallen heroes. High Command condemns this grotesque attempt to weaponize weather against our grief.  Drive the Void back. Do not let the Illuminate tarnish Victory Day. (2026-05-25 11:45  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 6  One year ago, the conflict became an industrial furnace. Having failed to break the fierce tenacity of Equality-on-Sea, the Illuminate redirected their primary offensive divisions toward the architectural spires of York Supreme.  Helldivers and SEAF fought block-by-block, utilizing our newly constructed jungle airstrips to rain continuous payload strikes directly onto the advancing alien columns. (2026-05-25 12:05  UTC)<br/>
+*Parsh* Region 1 PADOSAN MegaCity has fallen to Human (2026-05-25 17:03  UTC)<br/>
+*Parsh* is liberated (2026-05-25 17:03  UTC)<br/>
