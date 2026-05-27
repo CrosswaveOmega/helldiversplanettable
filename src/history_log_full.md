@@ -15916,3 +15916,10 @@ Dispatch:  EXOSTORM ADVISORY  The Illuminate have struck back with characteristi
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 6  One year ago, the conflict became an industrial furnace. Having failed to break the fierce tenacity of Equality-on-Sea, the Illuminate redirected their primary offensive divisions toward the architectural spires of York Supreme.  Helldivers and SEAF fought block-by-block, utilizing our newly constructed jungle airstrips to rain continuous payload strikes directly onto the advancing alien columns. (2026-05-25 12:05  UTC)<br/>
 *Parsh* Region 1 PADOSAN MegaCity has fallen to Human (2026-05-25 17:03  UTC)<br/>
 *Parsh* is liberated (2026-05-25 17:03  UTC)<br/>
+DSS deploys to *Irulta* of the Saleria sector (2026-05-25 21:43  UTC)<br/>
+Dispatch:  STRATEGIC IMPERATIVE ACHIEVED  The quarantine ring held. Helldivers successfully insulated *Brilliance* from harm.  The Ministry of Science confirms the legendary patriot remains safely inside the laboratory, completely un-mutated, and that any chittering or frantic clicking vocalisations are merely signs of their uncommon genius.  Consult the Galactic Map for more information. (2026-05-26 08:36  UTC)<br/>
+*Bore Rock* is liberated (2026-05-26 08:37  UTC)<br/>
+
+### Day: #839
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 7  One year ago, High Command authorized a masterstroke. With Port Mercy and York Supreme facing intense sieges, a critical detachment of the Helldiver fleet was diverted to the Automaton front.  200 million bots were successfully processed to enable immediate repairs of the Democracy Space Station (DSS); a crusade that would prove to be the undoing of the Illuminate invasion. (2026-05-26 12:05  UTC)<br/>
+DSS deploys to *Reaf* of the Saleria sector (2026-05-27 01:44  UTC)<br/>
