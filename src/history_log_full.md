@@ -15923,3 +15923,22 @@ Dispatch:  STRATEGIC IMPERATIVE ACHIEVED  The quarantine ring held. Helldivers s
 ### Day: #839
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 7  One year ago, High Command authorized a masterstroke. With Port Mercy and York Supreme facing intense sieges, a critical detachment of the Helldiver fleet was diverted to the Automaton front.  200 million bots were successfully processed to enable immediate repairs of the Democracy Space Station (DSS); a crusade that would prove to be the undoing of the Illuminate invasion. (2026-05-26 12:05  UTC)<br/>
 DSS deploys to *Reaf* of the Saleria sector (2026-05-27 01:44  UTC)<br/>
+
+# Day: #840
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 8  One year ago, the Federation faced arguably the darkest day of the Battle for *Super Earth*. Overwhelmed by the attrition resulting from the enemy's underhanded tactics, the defensive order failed, leaving multiple Mega Cities on the brink of collapse.  With *Super Earth*'s survival hanging in the balance, High Command officially declared the final phase of the Battle for *Super Earth*; one way or the other, the invasion's final hours were upon us. (2026-05-27 12:06  UTC)<br/>
+*Reaf* is liberated (2026-05-27 12:15  UTC)<br/>
+DSS deploys to *Irulta* of the Saleria sector (2026-05-27 12:15  UTC)<br/>
+*Regnus* Region 0 PEOPLE'S HAND Town is besieged by Illuminate (2026-05-27 13:06  UTC)<br/>
+*Irulta* Region 0 RECON HEIGHTS Settlement is besieged by Illuminate (2026-05-27 13:24  UTC)<br/>
+*Irulta* Region 2 VOTER'S FALLOW City has fallen to Human (2026-05-27 13:24  UTC)<br/>
+*Irulta* Region 0 RECON HEIGHTS Settlement has fallen to Human (2026-05-27 17:19  UTC)<br/>
+*Irulta* Region 1 SILO A Town is besieged by Illuminate (2026-05-28 03:05  UTC)<br/>
+A Class-2 Exostorm warning was issued for *Rirga Bay* (2026-05-28 06:30  UTC)<br/>
+Dispatch:  SUPER CENOTAPH PROTOCOL DIAMOND  Last year, the fourth Mega City fell to the Illuminate, triggering the second Super Defense Protocol.  In honor of the additional Helldivers, SEAF soldiers and citizens patriotically martyred by the fall of Port Mercy—the equivalent Super Cenotaph Protocol Diamond is now active:  For 48 hours, all Helldiver loadouts will be augmented with the Orbital Napalm Barrage Stratagem, as our fallen loved ones would have wanted. (2026-05-28 08:32  UTC)<br/>
+
+### Day: #841
+*Irulta* Region 1 SILO A Town has fallen to Human (2026-05-28 10:44  UTC)<br/>
+*Irulta* is liberated (2026-05-28 10:44  UTC)<br/>
+DSS deploys to *Rirga Bay* of the Rigel sector (2026-05-28 10:44  UTC)<br/>
+Dispatch:  SUPER CENOTAPH PROTOCOL RUBY  Last year, the fifth Mega City fell to the Illuminate, triggering the third Super Defense Protocol.  In honor of York Supreme, the millions newly martyred by its fall, and the sheer Democratic tenacity that ensured our survival—the equivalent Super Cenotaph Protocol Ruby is now active:  For 48 hours, all Helldiver loadouts will be augmented with the Fast Recon Vehicle Stratagem, in accordance with the fallen's wishes. (2026-05-28 11:36  UTC)<br/>
+Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 9  One year ago, Port Mercy and York Supreme—last and greatest of the Yorks—fell. Logistical networks collapsed, halving ammo loads at the worst possible moment.  But thanks to the Automaton-dismantling efforts of the Helldivers, High Command unleashed the fully repaired Democracy Space Station. The DSS warped into orbit, initiating the "Eagle Blockade" and raining apocalyptic fire upon the invaders. The tide began to turn. (2026-05-28 12:06  UTC)<br/>
