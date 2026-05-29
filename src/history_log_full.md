@@ -15942,3 +15942,7 @@ Dispatch:  SUPER CENOTAPH PROTOCOL DIAMOND  Last year, the fourth Mega City fell
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-05-28 10:44  UTC)<br/>
 Dispatch:  SUPER CENOTAPH PROTOCOL RUBY  Last year, the fifth Mega City fell to the Illuminate, triggering the third Super Defense Protocol.  In honor of York Supreme, the millions newly martyred by its fall, and the sheer Democratic tenacity that ensured our survival—the equivalent Super Cenotaph Protocol Ruby is now active:  For 48 hours, all Helldiver loadouts will be augmented with the Fast Recon Vehicle Stratagem, in accordance with the fallen's wishes. (2026-05-28 11:36  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 9  One year ago, Port Mercy and York Supreme—last and greatest of the Yorks—fell. Logistical networks collapsed, halving ammo loads at the worst possible moment.  But thanks to the Automaton-dismantling efforts of the Helldivers, High Command unleashed the fully repaired Democracy Space Station. The DSS warped into orbit, initiating the "Eagle Blockade" and raining apocalyptic fire upon the invaders. The tide began to turn. (2026-05-28 12:06  UTC)<br/>
+Assault Division: Spore Burst U3A leaves *Luxuriant* (2026-05-28 15:47  UTC)<br/>
+Assault Division: Spore Burst U3A deploys to *Gatria* (2026-05-28 15:47  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2026-05-28 15:48  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement is besieged by Terminid (2026-05-28 15:48  UTC)<br/>
