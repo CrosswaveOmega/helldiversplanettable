@@ -15597,6 +15597,9 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 ↳ *Brilliance* moves to X 0.34 Y 0.323 (2026-04-28 12:01  UTC)<br/>
 *Big Rock* is now identified in the Sten sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Big Rock* moves to X 0.944 Y 0.099 (2026-04-28 12:01  UTC)<br/>
+*Luxuriant* of the Jin Xi sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
+*Brilliance* of the Orion sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
+*Big Rock* of the Sten sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
 *Brilliance* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
 *Luxuriant* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
 Assault Division: Spore Burst U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
@@ -15866,7 +15869,7 @@ DSS deploys to *Martale* of the Andromeda sector (2026-05-20 05:40  UTC)<br/>
 ### Day: #833
 *Cirrus* is liberated (2026-05-20 10:58  UTC)<br/>
 Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is issued | Objective: Liberation (2026-05-20 12:00  UTC)<br/>
-Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is won| Objective: Liberation (2026-05-20 12:00  UTC)<br/>
+Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is won | Objective: Liberation (2026-05-20 12:00  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  One year ago today, the Battle for *Super Earth* began, as the Illuminate launched an unprovoked assault on our sovereign homeworld.  As we begin this period of remembrance leading up to Victory Day, the Helldivers are ordered liberate 5 Illuminate-controlled planets and successfully hold *Super Earth*—to honor the heroes from all walks of life, who made the ultimate sacrifice to protect Managed Democracy. (2026-05-20 12:01  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 1  One year ago, the Illuminate Great Host entered the Sol System. *Widow's Harbor*, *Pilen V*, and *New Haven* fell as the enemy advanced, razing Mars to ash.  By nightfall, the invasion reached the homeland. Alien forces besieged Eagleopolis, Remembrance, and Equality-on-Sea. Helldivers deployed alongside regular SEAF infantry, holding the line and dealing a massive blow to the alien fleet. (2026-05-20 14:13  UTC)<br/>
 *Kerth Secundus* Region 0 SCHOLAR'S MOOR Town is besieged by Illuminate (2026-05-20 14:16  UTC)<br/>
