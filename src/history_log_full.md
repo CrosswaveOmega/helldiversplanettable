@@ -15805,7 +15805,7 @@ Assault Division: Appropriators U5A deploys to *Rirga Bay* (2026-05-16 12:17  UT
 *Rirga Bay* Region 0 BLIGHTSMURK Town is besieged by Illuminate (2026-05-16 12:18  UTC)<br/>
 *Rirga Bay* defense is won (2026-05-16 12:28  UTC)<br/>
 *Rirga Bay* of the Rigel sector is attacked by Illuminates (2026-05-16 12:29  UTC)<br/>
-Strategic Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is issued | Objective: Kill (2026-05-16 12:51  UTC)<br/>
+Minor Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is issued | Objective: Kill (2026-05-16 12:51  UTC)<br/>
 Dispatch:  NEW STRATEGIC DIRECTIVE  In order to combat blatant propaganda and disinformation, the Helldivers are ordered to patriotically eliminate 10,000,000 enemies of Freedom utilizing the One True Flag, which will be added to all mission loadouts for the duration of this order. (2026-05-16 12:51  UTC)<br/>
  Region Decay: 0.2 on Rirga Bay's BLIGHTSMURK region
  (2026-05-16 12:51  UTC)<br/>
@@ -15841,7 +15841,7 @@ Dispatch:  STRATEGIC DIRECTIVE COMPLETED  The Helldivers have enthusiastically a
 *Wasat* Region 1 DRYWELL MegaCity is besieged by Automaton (2026-05-18 12:36  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-18 12:36  UTC)<br/>
 Major Order | [A3-5-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-4) Liberate *Meissa* is won | Objective: Liberation (2026-05-18 12:36  UTC)<br/>
-Strategic Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is won | Objective: Kill (2026-05-18 12:36  UTC)<br/>
+Minor Order | [A3-5-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-5) Kill enemies with the One True Flag is won | Objective: Kill (2026-05-18 12:36  UTC)<br/>
 Dispatch:  MAJOR ORDER WON,  MEISSA has been liberated. The Cyborgs and Automatons have been repelled, and the Communications Array from which their vile propaganda was broadcast has been captured.  Consult the Galactic Map for more information. (2026-05-18 12:37  UTC)<br/>
 Dispatch:  ARSENAL AUGMENTATION.  That Freedom be cherished and held close, all Helldiver deployments will be augmented with the EAGLE 500KG BOMB for the next 48 hours. (2026-05-18 12:39  UTC)<br/>
  Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
@@ -15866,6 +15866,7 @@ DSS deploys to *Martale* of the Andromeda sector (2026-05-20 05:40  UTC)<br/>
 ### Day: #833
 *Cirrus* is liberated (2026-05-20 10:58  UTC)<br/>
 Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is issued | Objective: Liberation (2026-05-20 12:00  UTC)<br/>
+Major Order | [A3-5-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-6) Liberate Illuminate-controlled planets is won| Objective: Liberation (2026-05-20 12:00  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  One year ago today, the Battle for *Super Earth* began, as the Illuminate launched an unprovoked assault on our sovereign homeworld.  As we begin this period of remembrance leading up to Victory Day, the Helldivers are ordered liberate 5 Illuminate-controlled planets and successfully hold *Super Earth*—to honor the heroes from all walks of life, who made the ultimate sacrifice to protect Managed Democracy. (2026-05-20 12:01  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 1  One year ago, the Illuminate Great Host entered the Sol System. *Widow's Harbor*, *Pilen V*, and *New Haven* fell as the enemy advanced, razing Mars to ash.  By nightfall, the invasion reached the homeland. Alien forces besieged Eagleopolis, Remembrance, and Equality-on-Sea. Helldivers deployed alongside regular SEAF infantry, holding the line and dealing a massive blow to the alien fleet. (2026-05-20 14:13  UTC)<br/>
 *Kerth Secundus* Region 0 SCHOLAR'S MOOR Town is besieged by Illuminate (2026-05-20 14:16  UTC)<br/>
@@ -15928,11 +15929,11 @@ DSS deploys to *Reaf* of the Saleria sector (2026-05-27 01:44  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 8  One year ago, the Federation faced arguably the darkest day of the Battle for *Super Earth*. Overwhelmed by the attrition resulting from the enemy's underhanded tactics, the defensive order failed, leaving multiple Mega Cities on the brink of collapse.  With *Super Earth*'s survival hanging in the balance, High Command officially declared the final phase of the Battle for *Super Earth*; one way or the other, the invasion's final hours were upon us. (2026-05-27 12:06  UTC)<br/>
 *Reaf* is liberated (2026-05-27 12:15  UTC)<br/>
 DSS deploys to *Irulta* of the Saleria sector (2026-05-27 12:15  UTC)<br/>
-*Regnus* Region 0 PEOPLE'S HAND Town is besieged by Illuminate (2026-05-27 13:06  UTC)<br/>
-*Irulta* Region 0 RECON HEIGHTS Settlement is besieged by Illuminate (2026-05-27 13:24  UTC)<br/>
+*Regnus* Region 0 PEOPLE'S HAND Town is besieged by Human (2026-05-27 13:06  UTC)<br/>
+*Irulta* Region 0 RECON HEIGHTS Settlement is besieged by Human (2026-05-27 13:24  UTC)<br/>
 *Irulta* Region 2 VOTER'S FALLOW City has fallen to Human (2026-05-27 13:24  UTC)<br/>
 *Irulta* Region 0 RECON HEIGHTS Settlement has fallen to Human (2026-05-27 17:19  UTC)<br/>
-*Irulta* Region 1 SILO A Town is besieged by Illuminate (2026-05-28 03:05  UTC)<br/>
+*Irulta* Region 1 SILO A Town is besieged by Human (2026-05-28 03:05  UTC)<br/>
 A Class-2 Exostorm warning was issued for *Rirga Bay* (2026-05-28 06:30  UTC)<br/>
 Dispatch:  SUPER CENOTAPH PROTOCOL DIAMOND  Last year, the fourth Mega City fell to the Illuminate, triggering the second Super Defense Protocol.  In honor of the additional Helldivers, SEAF soldiers and citizens patriotically martyred by the fall of Port Mercy—the equivalent Super Cenotaph Protocol Diamond is now active:  For 48 hours, all Helldiver loadouts will be augmented with the Orbital Napalm Barrage Stratagem, as our fallen loved ones would have wanted. (2026-05-28 08:32  UTC)<br/>
 
@@ -15945,4 +15946,18 @@ Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 9  One year
 Assault Division: Spore Burst U3A leaves *Luxuriant* (2026-05-28 15:47  UTC)<br/>
 Assault Division: Spore Burst U3A deploys to *Gatria* (2026-05-28 15:47  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2026-05-28 15:48  UTC)<br/>
-*Gatria* Region 0 ALTONBURG Settlement is besieged by Terminid (2026-05-28 15:48  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2026-05-28 16:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-05-29 02:37  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement has fallen to Humans (2026-05-29 05:49  UTC)<br/>
+*Gatria* Region 1 ERSATZ City is besieged by Humans (2026-05-29 06:54  UTC)<br/>
+
+### Day: #842
+Dispatch: THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 10. One year ago, reduced to 10% of their initial Fleet Strength, the Illuminate launched a desperate assault on Prosperity City, the capital of the Federation, resulting in the loss of over half the city and the death of the then-President of *Super Earth*. Exhausted Helldivers and SEAF forces rallied together to make their final stand, and showed the enemies of Freedom that nothing can break Managed Democracy. (2026-05-29 12:07  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-05-30 02:38  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-05-30 04:29  UTC)<br/>
+
+### Day: #843
+Dispatch: THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 11. One year ago, the sun rose on a fully-liberated *Super Earth*. Prosperity City and Equality-on-Sea—the city that had held since the first hours of the battle—had broken the Illuminate Fleet. The Battle for *Super Earth* was won. Accordingly, in memory of the heroes and citizens lost in the Battle, we celebrate our hard-fought Freedom. Today we celebrate Victory Day. (2026-05-30 09:14  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Rirga Bay* (2026-05-30 09:29  UTC)<br/>
+Dispatch: CRITICAL EXOSTORM ESCALATION. The unnatural tempest on RIRGA BAY has reached Category 3, now a chaotic singular, planet-wide system of absolute atmospheric violence. Initial adverse spacetime fractures have been reported by the Ministry of Science. The Illuminate are callously tearing at the fabric of reality to insult the memory of our martyrs. This shall not stand. Force the Void back and silence the enemy's slurs. Victory Day shall not be tainted by their xenophobic kind. (2026-05-30 09:30  UTC)<br/>
