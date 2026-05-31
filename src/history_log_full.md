@@ -15602,9 +15602,9 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 *Big Rock* of the Sten sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
 *Brilliance* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
 *Luxuriant* liberation campaign starts (2026-04-28 12:01  UTC)<br/>
-Assault Division: Spore Burst U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
-Assault Division: Spore Burst U2A deploys to *Big Rock* (2026-04-28 12:01  UTC)<br/>
-Assault Division: Spore Burst U3A deploys to *Luxuriant* (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Brilliance* (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst Strain U2A deploys to *Big Rock* (2026-04-28 12:01  UTC)<br/>
+Assault Division: Spore Burst Strain U3A deploys to *Luxuriant* (2026-04-28 12:01  UTC)<br/>
 Major Order | [A3-4-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-8) Liberate Vacation Worlds is issued| Objective: Liberate (2026-04-28 13:02  UTC)<br/>
 Assault Division: Predator Strain U1A leaves *Bore Rock* (2026-04-28 14:19  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to Terrak (2026-04-28 14:19  UTC)<br/>
@@ -15661,21 +15661,21 @@ Dispatch:  MAJOR ORDER WON  The Helldivers have secured *Brilliance* from the Te
 *Turing* defense is won (2026-05-04 19:20  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-05-04 19:20  UTC)<br/>
 DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-04 21:28  UTC)<br/>
-Assault Division: Spore Burst U4A leaves *Cirrus* (2026-05-05 00:00  UTC)<br/>
+Assault Division: Spore Burst Strain U4A leaves *Cirrus* (2026-05-05 00:00  UTC)<br/>
 *Fenrir III* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
 *Turing* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
 
 ### Day: #818
 *Bore Rock* is lightly enveloped by the Gloom (2026-05-05 09:07  UTC)<br/>
-Assault Division: Spore Burst U4A deploys to *Bore Rock* (2026-05-05 09:08  UTC)<br/>
-Assault Division: Spore Burst U4A leaves *Bore Rock* (2026-05-05 09:48  UTC)<br/>
-Assault Division: Spore Burst U4A deploys to *Terrek* (2026-05-05 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U4A deploys to *Bore Rock* (2026-05-05 09:08  UTC)<br/>
+Assault Division: Spore Burst Strain U4A leaves *Bore Rock* (2026-05-05 09:48  UTC)<br/>
+Assault Division: Spore Burst Strain U4A deploys to *Terrek* (2026-05-05 09:48  UTC)<br/>
 Assault Division: Predator Strain U1A leaves Terrak (2026-05-05 09:48  UTC)<br/>
 Assault Division: Predator Strain U1A deploys to *Bore Rock* (2026-05-05 09:50  UTC)<br/>
 DSS effect ORBITAL BLOCKADE ends (2026-05-05 10:16  UTC)<br/>
 Assault Division: Predator Strain U1C leaves *Cirrus* (2026-05-05 11:19  UTC)<br/>
-Assault Division: Spore Burst U4A leaves *Terrek* (2026-05-05 11:19  UTC)<br/>
-Assault Division: Spore Burst U4A deploys to *Cirrus* (2026-05-05 11:20  UTC)<br/>
+Assault Division: Spore Burst Strain U4A leaves *Terrek* (2026-05-05 11:19  UTC)<br/>
+Assault Division: Spore Burst Strain U4A deploys to *Cirrus* (2026-05-05 11:20  UTC)<br/>
 Assault Division: Predator Strain U1C deploys to *Heeth* (2026-05-05 11:21  UTC)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2026-05-05 11:21  UTC)<br/>
 Fronteria is now identified in the Jin Xi sector (2026-05-05 12:01  UTC)<br/>
@@ -15910,6 +15910,8 @@ DSS effect EAGLE STORM ends (2026-05-24 07:13  UTC)<br/>
 ### Day: #837
 *Parsh* Region 1 PADOSAN MegaCity is besieged by Illuminate (2026-05-24 11:03  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 5  One year ago, citizens were dealt a heavy blow, as Administrative Center 02 and Remembrance fell. Logistical networks suffered heavily, increasing the strain felt by the heroic Helldivers and SEAF forces repelling the invaders.  In response, High Command triggered Super Defense Protocol Sapphire, converting our remaining rainforests into tactical military airstrips. The surviving Mega Cities braced for the next strike. (2026-05-24 12:03  UTC)<br/>
+ Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Saleria sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Nanos sector, Tanis sector, Hanzo sector, Akira sector, Severin sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Ymir sector, Gellert sector, Mirin sector, Sten sector, Farsight sector, Xi Tauri sector, Trigon sector<br/> Decay: 5.0 on Zea Rugosia, Aurora Bay, Herthon Secundus, Marfark, Oshaune<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Nanos sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Trigon sector, Tanis sector, Rigel sector, Ymir sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Seyshel Beach, Effluvia, Fenmire, Myrium, Kerth Secundus, Parsh<br/> Decay: 1.0 on Mirin sector, Saleria sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Rictus sector, Hanzo sector, Guang sector, Hydra sector, Falstaff sector, Umlaut sector, Jin Xi sector, Draco sector, Ursa sector, Farsight sector, Akira sector, Rigel sector, Omega sector, Xi Tauri sector, Trigon sector, Ymir sector, Tanis sector, Gellert sector<br/> Decay: 2.5 on Sten sector, Talus sector, Lacaille sector, Orion sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Falstaff sector, Andromeda sector, Tanis sector, Draco sector, Jin Xi sector, Lacaille sector, Hydra sector, Xzar sector<br/> Decay: -1.0 on Regnus<br/> Decay: 3.0 on Aesir Pass, Charbal-VII, Mox<br/> Decay: 4.0 on Clasa, Hesoe Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime<br/> Decay: 3.5 on Merak<br/> Decay: 8.0 on Seasse<br/> Decay: 10.0 on Zagon Prime, Omicron<br/> Decay: 100.0 on Cyberstan
+ (2026-05-24 16:00  UTC)<br/>
 Dispatch:  SUPER CENOTAPH PROTOCOL SAPPHIRE  Last year, the third of seven Mega Cities fell to the Illuminate, triggering the first Super Defense Protocol.  Today we honor the Helldivers, SEAF soldiers and martyred citizens—their votes cruelly extinguished by the fall of Eagleopolis, Administrative Center 02, and Remembrance—by triggering the equivalent Super Cenotaph Protocol Sapphire:  For 48 hours, Eagle Rearm time is decreased by 45 seconds, in their memory. (2026-05-24 19:47  UTC)<br/>
 DSS deploys to *Bore Rock* of the Falstaff sector (2026-05-25 05:43  UTC)<br/>
 *Regnus* Region 1 TOPSOIL Town is besieged by Illuminate (2026-05-25 06:09  UTC)<br/>
@@ -15932,6 +15934,8 @@ DSS deploys to *Reaf* of the Saleria sector (2026-05-27 01:44  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 8  One year ago, the Federation faced arguably the darkest day of the Battle for *Super Earth*. Overwhelmed by the attrition resulting from the enemy's underhanded tactics, the defensive order failed, leaving multiple Mega Cities on the brink of collapse.  With *Super Earth*'s survival hanging in the balance, High Command officially declared the final phase of the Battle for *Super Earth*; one way or the other, the invasion's final hours were upon us. (2026-05-27 12:06  UTC)<br/>
 *Reaf* is liberated (2026-05-27 12:15  UTC)<br/>
 DSS deploys to *Irulta* of the Saleria sector (2026-05-27 12:15  UTC)<br/>
+ Decay: 1.5 on Reaf
+ (2026-05-27 12:15  UTC)<br/>
 *Regnus* Region 0 PEOPLE'S HAND Town is besieged by Human (2026-05-27 13:06  UTC)<br/>
 *Irulta* Region 0 RECON HEIGHTS Settlement is besieged by Human (2026-05-27 13:24  UTC)<br/>
 *Irulta* Region 2 VOTER'S FALLOW City has fallen to Human (2026-05-27 13:24  UTC)<br/>
@@ -15945,10 +15949,14 @@ Dispatch:  SUPER CENOTAPH PROTOCOL DIAMOND  Last year, the fourth Mega City fell
 *Irulta* is liberated (2026-05-28 10:44  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-05-28 10:44  UTC)<br/>
 Dispatch:  SUPER CENOTAPH PROTOCOL RUBY  Last year, the fifth Mega City fell to the Illuminate, triggering the third Super Defense Protocol.  In honor of York Supreme, the millions newly martyred by its fall, and the sheer Democratic tenacity that ensured our survival—the equivalent Super Cenotaph Protocol Ruby is now active:  For 48 hours, all Helldiver loadouts will be augmented with the Fast Recon Vehicle Stratagem, in accordance with the fallen's wishes. (2026-05-28 11:36  UTC)<br/>
+ Decay: 1.5 on Irulta<br/> Decay: -1.0 on Elysian Meadows
+ (2026-05-28 11:36  UTC)<br/>
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 9  One year ago, Port Mercy and York Supreme—last and greatest of the Yorks—fell. Logistical networks collapsed, halving ammo loads at the worst possible moment.  But thanks to the Automaton-dismantling efforts of the Helldivers, High Command unleashed the fully repaired Democracy Space Station. The DSS warped into orbit, initiating the "Eagle Blockade" and raining apocalyptic fire upon the invaders. The tide began to turn. (2026-05-28 12:06  UTC)<br/>
-Assault Division: Spore Burst U3A leaves *Luxuriant* (2026-05-28 15:47  UTC)<br/>
-Assault Division: Spore Burst U3A deploys to *Gatria* (2026-05-28 15:47  UTC)<br/>
+Assault Division: Spore Burst Strain U3A leaves *Luxuriant* (2026-05-28 15:47  UTC)<br/>
+Assault Division: Spore Burst Strain U3A deploys to *Gatria* (2026-05-28 15:47  UTC)<br/>
 *Gatria* of the Jin Xi sector is attacked by Terminids (2026-05-28 15:48  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2026-05-28 16:00  UTC)<br/>
  Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
  (2026-05-28 16:00  UTC)<br/>
 DSS effect ORBITAL BLOCKADE starts (2026-05-29 02:37  UTC)<br/>
