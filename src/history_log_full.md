@@ -16534,3 +16534,27 @@ DSS effect EAGLE STORM ends (2026-06-01 18:16  UTC)<br/>
 Assault Division: MINDLESS MASSES U3A leaves *Hydrobius* (2026-06-02 07:29  UTC)<br/>
 Assault Division: APPROPRIATORS U2B deploys to *Hydrobius* (2026-06-02 07:30  UTC)<br/>
 Assault Division: MINDLESS MASSES U3A deploys to *Heze Bay* (2026-06-02 07:31  UTC)<br/>
+Assault Division: APPROPRIATORS U3A deploys to *Senge 23* (2026-06-02 07:31  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Hydrobius* (2026-06-02 07:33  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Senge 23* (2026-06-02 07:36  UTC)<br/>
+
+### Day: #846
+ Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Saleria sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Nanos sector, Tanis sector, Hanzo sector, Akira sector, Severin sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Ymir sector, Gellert sector, Mirin sector, Sten sector, Farsight sector, Xi Tauri sector, Trigon sector<br/> Decay: 5.0 on Zea Rugosia, Aurora Bay, Herthon Secundus, Marfark, Oshaune<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Nanos sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Tanis sector, Rigel sector, Ymir sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Human worlds<br/> Decay: 1.0 on Mirin sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Rictus sector, Hanzo sector, Hydra sector, Falstaff sector, Umlaut sector, Jin Xi sector, Draco sector, Ursa sector, Farsight sector, Akira sector, Rigel sector, Omega sector, Xi Tauri sector, Trigon sector, Ymir sector, Tanis sector, Gellert sector<br/> Decay: 2.5 on Sten sector, Talus sector, Lacaille sector, Orion sector, Umlaut sector, Jin Xi sector<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Falstaff sector, Andromeda sector, Tanis sector, Draco sector, Jin Xi sector, Lacaille sector, Hydra sector, Xzar sector<br/> Decay: 3.0 on Aesir Pass, Charbal-VII, Mox<br/> Decay: 4.0 on Clasa, Hesoe Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime<br/> Decay: 3.5 on Merak<br/> Decay: 8.0 on Seasse<br/> Decay: 10.0 on Zagon Prime, Omicron<br/> Decay: 100.0 on Cyberstan
+ (2026-06-02 10:00  UTC)<br/>
+HP reached a checkpoint. (2026-06-02 12:00  UTC)<br/>
+HP reached a checkpoint. (2026-06-02 12:00  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-06-02 14:15  UTC)<br/>
+*Choepessa IV* defense is won (2026-06-02 14:15  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2026-06-02 14:15  UTC)<br/>
+ Decay: 0.5 on Choepessa IV
+ (2026-06-02 14:15  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Aurora Bay* (2026-06-02 16:00  UTC)<br/>
+Assault Division: Jet Brigade U1A leaves *Aurora Bay* (2026-06-02 16:30  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Choohe* (2026-06-02 16:30  UTC)<br/>
+ Decay: 0.0 on Choohe
+ (2026-06-02 16:30  UTC)<br/>
+Hulk surge has been detected on *Choohe* (2026-06-02 16:31  UTC)<br/>
+*Choohe* of the Lacaille sector is attacked by Automatons (2026-06-02 16:31  UTC)<br/>
+Dispatch:  INTEL ADVISORY  The Automaton Jet Brigade is active on CHOOHE, in conjunction with a simultaneous Hulk Surge. (2026-06-02 16:32  UTC)<br/>
+*Varylia 5* defense is won (2026-06-03 02:23  UTC)<br/>
+DSS deploys to *Choohe* of the Lacaille sector (2026-06-03 02:23  UTC)<br/>
