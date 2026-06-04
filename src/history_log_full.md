@@ -16589,3 +16589,4 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-04 13:49  UTC)<br/>
 *Charbal-VII* defense is won (2026-06-04 14:46  UTC)<br/>
  Decay: 3.0 on Charbal-VII
  (2026-06-04 14:46  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City is besieged by Humans (2026-06-04 16:14  UTC)<br/>
