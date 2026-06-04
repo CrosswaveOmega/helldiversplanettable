@@ -16028,6 +16028,7 @@ DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-04 21:28  UTC)<br/>
 Assault Division: Spore Burst Strain U4A leaves *Cirrus* (2026-05-05 00:00  UTC)<br/>
 *Fenrir III* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
 *Turing* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
+Note: Yes, the warp link was added before the planet was. (2026-05-05 07:09  UTC)<br/>
 
 ### Day: #818
 *Bore Rock* is lightly enveloped by the Gloom (2026-05-05 09:07  UTC)<br/>
@@ -16083,11 +16084,8 @@ DSS deploys to *Heeth* of the Orion sector (2026-05-07 13:31  UTC)<br/>
 Assault Division: Predator Strain UBA deploys to *FRONTERIA* (2026-05-07 14:21  UTC)<br/>
 *FRONTERIA* of the Umlaut sector is attacked by Terminids (2026-05-07 14:22  UTC)<br/>
 DSS deploys to *FRONTERIA* of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
-Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
-Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
 Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is won | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
-Dispatch:  STRATEGIC OPPORTUNITY SEIZED  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
-DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
 
 ### Day: #821
@@ -16558,3 +16556,36 @@ Hulk surge has been detected on *Choohe* (2026-06-02 16:31  UTC)<br/>
 Dispatch:  INTEL ADVISORY  The Automaton Jet Brigade is active on CHOOHE, in conjunction with a simultaneous Hulk Surge. (2026-06-02 16:32  UTC)<br/>
 *Varylia 5* defense is won (2026-06-03 02:23  UTC)<br/>
 DSS deploys to *Choohe* of the Lacaille sector (2026-06-03 02:23  UTC)<br/>
+ Decay: 1.5 on Varylia 5
+ (2026-06-03 04:00  UTC)<br/>
+Assault Division: THE INCINERATION CORPS U9A leaves *Charbal-VII* (2026-06-03 08:10  UTC)<br/>
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2026-06-03 08:12  UTC)<br/>
+*Charbal-VII* Region 0 UTOPIA VAREN Settlement is besieged by Humans (2026-06-03 08:12  UTC)<br/>
+
+### Day: #847
+ Decay: 0.0 on Charbal-VII
+ (2026-06-03 09:00  UTC)<br/>
+ Region Decay: 1.0 on Charbal-VII's UTOPIA VAREN region
+ (2026-06-03 09:00  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2026-06-03 13:48  UTC)<br/>
+*Choohe* defense is failed (2026-06-03 16:32  UTC)<br/>
+*Choohe* liberation campaign starts (2026-06-03 16:32  UTC)<br/>
+ Decay: 2.5 on Choohe
+ (2026-06-03 18:00  UTC)<br/>
+Hulk surge has is no longer active on *Choohe* (2026-06-04 07:49  UTC)<br/>
+Hulk surge has been detected on *Matar Bay* (2026-06-04 07:50  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2026-06-04 07:50  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-06-04 07:50  UTC)<br/>
+
+### Day: #848
+ Decay: 0.0 on Matar Bay
+ (2026-06-04 09:00  UTC)<br/>
+ Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-06-04 09:00  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2026-06-04 10:00  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-04 13:49  UTC)<br/>
+*Charbal-VII* Region 0 UTOPIA VAREN Settlement has fallen to Humans (2026-06-04 14:46  UTC)<br/>
+*Charbal-VII* defense is won (2026-06-04 14:46  UTC)<br/>
+ Decay: 3.0 on Charbal-VII
+ (2026-06-04 14:46  UTC)<br/>
