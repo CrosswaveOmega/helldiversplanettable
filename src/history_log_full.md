@@ -16549,6 +16549,7 @@ DSS deploys to *Varylia 5* of the Trigon sector (2026-06-02 14:15  UTC)<br/>
 Assault Division: Jet Brigade U1A deploys to *Aurora Bay* (2026-06-02 16:00  UTC)<br/>
 Assault Division: Jet Brigade U1A leaves *Aurora Bay* (2026-06-02 16:30  UTC)<br/>
 Assault Division: Jet Brigade U1A deploys to *Choohe* (2026-06-02 16:30  UTC)<br/>
+Assault Division: Jet Brigade U1A deploys to *Matar Bay* (2026-06-02 16:30  UTC)<br/>
  Decay: 0.0 on Choohe
  (2026-06-02 16:30  UTC)<br/>
 Hulk surge has been detected on *Choohe* (2026-06-02 16:31  UTC)<br/>
@@ -16590,3 +16591,30 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-04 13:49  UTC)<br/>
  Decay: 3.0 on Charbal-VII
  (2026-06-04 14:46  UTC)<br/>
 *Matar Bay* Region 0 PARRHESIA City is besieged by Humans (2026-06-04 16:14  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-06-04 23:21  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2026-06-05 06:41  UTC)<br/>
+Assault Division: Incineration Corps U10B leaves  *Mekbuda* (2026-06-05 06:41  UTC)<br/>
+Assault Division: Incineration Corps U10B deploys to *Aurora Bay* (2026-06-05 06:42  UTC)<br/>
+*Matar Bay* defense is won (2026-06-05 07:07  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-06-05 07:07  UTC)<br/>
+ Decay: 0.0 on Meissa
+ (2026-06-05 07:07  UTC)<br/>
+A Class-2 Exostorm warning was issued for *Hydrobius* (2026-06-05 07:36  UTC)<br/>
+A Class-2 Exostorm warning was issued for *Senge 23* (2026-06-05 07:36  UTC)<br/>
+ Decay: 2.0 on Matar Bay
+ (2026-06-05 07:36  UTC)<br/>
+Assault Division: Incineration Corps U10B leaves  *Aurora Bay* (2026-06-05 07:45  UTC)<br/>
+Assault Division: Incineration Corps U10B deploys to *Choohe* (2026-06-05 07:46  UTC)<br/>
+Assault Division: Incineration Corps U10B leaves  *Choohe* (2026-06-05 08:46  UTC)<br/>
+Assault Division: Incineration Corps U10B deploys to *Matar Bay* (2026-06-05 08:46  UTC)<br/>
+Devastator surge has been detected on *Matar Bay* (2026-06-05 08:47  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2026-06-05 08:47  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-06-05 08:47  UTC)<br/>
+Dispatch:  INTEL ADVISORY  The Automaton Incineration Corps is active on MATAR BAY, in conjunction with a simultaneous Devastator Surge. (2026-06-05 08:48  UTC)<br/>
+
+### Day: #849
+ Decay: 0.0 on Matar Bay
+ (2026-06-05 09:00  UTC)<br/>
+ Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-06-05 09:00  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2026-06-05 09:49  UTC)<br/>
