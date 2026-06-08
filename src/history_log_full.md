@@ -16573,7 +16573,7 @@ DSS deploys to *Charbal-VII* of the Andromeda sector (2026-06-03 13:48  UTC)<br/
 *Choohe* liberation campaign starts (2026-06-03 16:32  UTC)<br/>
  Decay: 2.5 on Choohe
  (2026-06-03 18:00  UTC)<br/>
-Hulk surge has is no longer active on *Choohe* (2026-06-04 07:49  UTC)<br/>
+Hulk surge is no longer active on *Choohe* (2026-06-04 07:49  UTC)<br/>
 Hulk surge has been detected on *Matar Bay* (2026-06-04 07:50  UTC)<br/>
 *Matar Bay* of the Andromeda sector is attacked by Automatons (2026-06-04 07:50  UTC)<br/>
 *Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-06-04 07:50  UTC)<br/>
@@ -16596,6 +16596,8 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-04 13:49  UTC)<br/>
 Assault Division: Incineration Corps U10B leaves  *Mekbuda* (2026-06-05 06:41  UTC)<br/>
 Assault Division: Incineration Corps U10B deploys to *Aurora Bay* (2026-06-05 06:42  UTC)<br/>
 *Matar Bay* defense is won (2026-06-05 07:07  UTC)<br/>
+Assault Division: Jet Brigade U1A is routed from Matar Bay (2026-06-05 07:07  UTC)<br/>
+Hulk surge is no longer active on *Matar Bay* (2026-06-05 07:07  UTC)<br/>
 DSS deploys to *Hydrobius* of the Omega sector (2026-06-05 07:07  UTC)<br/>
  Decay: 0.0 on Meissa
  (2026-06-05 07:07  UTC)<br/>
@@ -16618,3 +16620,32 @@ Dispatch:  INTEL ADVISORY  The Automaton Incineration Corps is active on MATAR B
  Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
  (2026-06-05 09:00  UTC)<br/>
 DSS deploys to *Meissa* of the Ymir sector (2026-06-05 09:49  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-06-06 01:04  UTC)<br/>
+*Meissa* defense is won (2026-06-06 04:07  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-06 04:07  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-06-06 04:58  UTC)<br/>
+ Decay: 1.5 on Meissa
+ (2026-06-06 04:58  UTC)<br/>
+
+# Day: #850
+*Matar Bay* Region 0 PARRHESIA City is besieged by Automaton (2026-06-06 09:30  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-06-07 01:04  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City has fallen to Human (2026-06-07 03:19  UTC)<br/>
+*Matar Bay* defense is won (2026-06-07 03:19  UTC)<br/>
+Assault Division: Incineration Corps U10B is routed from Matar Bay (2026-06-07 03:19  UTC)<br/>
+Devastator surge is no longer active on *Matar Bay* (2026-06-07 03:19  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-06-07 03:20  UTC)<br/>
+ Decay: 2.0 on Matar Bay
+ (2026-06-07 04:00  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Hydrobius* (2026-06-07 08:59  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Senge 23* (2026-06-07 08:59  UTC)<br/>
+
+### Day: #851
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-07 13:50  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2026-06-07 18:24  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Terminid (2026-06-07 18:24  UTC)<br/>
+Dispatch:  ARSENAL AUGMENTATION  That our enemies may suffer greatly, all Helldiver deployments will be augmented with the Railgun for the next 24 hours. (2026-06-07 18:51  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2026-06-07 18:51  UTC)<br/>
+ Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
+ (2026-06-07 18:51  UTC)<br/>
