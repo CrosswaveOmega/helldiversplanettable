@@ -15238,6 +15238,7 @@ DSS deploys to *Phact Bay* of the Jin Xi sector (2026-03-24 09:00  UTC)<br/>
 DSS effect ORBITAL BLOCKADE ends (2026-03-24 09:43  UTC)<br/>
 Major Order | [A3-3-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-4) Kill Illuminate, Complete Operations against Illuminate and Hold *Rirga Bay* is won | Objective: Kill/Operations/Hold (2026-03-24 10:46  UTC)<br/>
 *Seasse* urgent liberation is failed (2026-03-24 10:58  UTC)<br/>
+*Seasse* liberation campaign ends (2026-03-24 10:58  UTC)<br/>
 *Seasse* is enveloped by the Void (2026-03-24 10:58  UTC)<br/>
 *Seasse* is now unobservable due to the Void (2026-03-24 10:58  UTC)<br/>
 Dispatch:  MAJOR ORDER WON  The Helldivers interceded on SEASSE, successfully nullifying this latest Illuminate scheme.  However, the planet remains in the inhuman, tentacled grasp of the xenophobic enemy. The Exospires they have raised are generating a growing Exostorm that will soon cover the entire planet.  Consult the Galactic Map for more information. (2026-03-24 11:03  UTC)<br/>
@@ -16519,7 +16520,7 @@ DSS deploys to *Martale* of the Andromeda sector (2026-05-31 20:34  UTC)<br/>
 *Choepessa IV* Region 0 HILJAISUUS Town is besieged by Automaton (2026-06-01 13:32  UTC)<br/>
 *Varylia 5* of the Trigon sector is attacked by Automatons (2026-06-01 13:33  UTC)<br/>
 *Varylia 5* Region 0 SEQUIM City is besieged by Automaton (2026-06-01 13:33  UTC)<br/>
-Major Order | [A3-5-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-8) Hold *K* and *Fury* is issued | Objective: Hold (2026-06-01 15:26  UTC)<br/>
+Major Order | [A3-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-1) Hold *K* and *Fury* is issued | Objective: Hold (2026-06-01 15:26  UTC)<br/>
  Decay: 0.0 on Choepessa IV, Varylia 5
  (2026-06-01 15:26  UTC)<br/>
  Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region<br/> Region Decay: 0.4 on Varylia 5's SEQUIM region
@@ -16649,3 +16650,76 @@ Dispatch:  ARSENAL AUGMENTATION  That our enemies may suffer greatly, all Helldi
  (2026-06-07 18:51  UTC)<br/>
  Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
  (2026-06-07 18:51  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-06-07 21:51  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2026-06-08 01:51  UTC)<br/>
+
+### Day: #852
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Terminid (2026-06-08 10:54  UTC)<br/>
+Major Order | [A3-6-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-1) Hold *K* and *Fury* is won | Objective: Hold (2026-06-08 15:31  UTC)<br/>
+Dispatch:  MAJOR ORDER WON  The Helldivers have defended *K* and FURY from the Cyborg offensive. Their adroit response has prevented the Cyborg seizure of the resource-rich worlds, denying their exploitation in service of the Socialist war apparatus.  Consult the Galactic Map for more information. (2026-06-08 15:31  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City has fallen to Human (2026-06-08 17:21  UTC)<br/>
+*Achernar Secundus* defense is won (2026-06-08 17:21  UTC)<br/>
+DSS deploys to *Martale* of the Andromeda sector (2026-06-08 17:21  UTC)<br/>
+ Decay: 1.5 on Achernar Secundus
+ (2026-06-08 18:00  UTC)<br/>
+Hydrobious urgent liberation is failed (2026-06-09 07:38  UTC)<br/>
+Hydrobious liberation campaign ends (2026-06-09 07:38  UTC)<br/>
+Hydrobiousis enveloped by the Void (2026-06-09 07:38  UTC)<br/>
+Hydrobiousis now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
+*Senge 23* enveloped by the Void (2026-06-09 07:38  UTC)<br/>
+*Senge 23* now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-09 07:41  UTC)<br/>
+*Martale* Region 1 XIN FUZHOU City has fallen to Human (2026-06-09 08:48  UTC)<br/>
+
+ (2026-06-09 08:48  UTC)<br/>
+
+### Day: #853
+Assault Division: Rupture Strain  U1A deploys to *Omicron* (2026-06-09 09:46  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City is besieged by Terminid (2026-06-09 14:25  UTC)<br/>
+Major Order | [A3-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-2) Complete operations on *Omicron* is issued | Objective: Operations (2026-06-09 14:41  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER  The Star of Peace requires vast quantities of Dark Fluid to fire; the Federation's reserves remain depleted following the weapon's inaugural operation.  Dark Fluid is synthesized directly from E-711. The Hive World of *Omicron* possesses immense E-711 reservoirs.  The Helldivers are ordered to complete 1,750,000 Operations on *Omicron* to quell Terminid resistance and clear the way for E-711 extraction pipelines, to enable the synthesis of Dark Fluid. (2026-06-09 14:42  UTC)<br/>
+DSS deploys to *Omicron* of the L'estrade sector (2026-06-09 17:52  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-06-10 07:42  UTC)<br/>
+
+### Day: #854
+DSS effect EAGLE STORM starts (2026-06-10 09:11  UTC)<br/>
+Assault Division: Rupture Strain  U1A is routed from Omicron (2026-06-10 09:29  UTC)<br/>
+Assault Division: Dragonroaches U3A leaves  *Erson Sands* (2026-06-10 11:31  UTC)<br/>
+Assault Division: Dragonroaches U3A deploys to *Esker* (2026-06-10 11:31  UTC)<br/>
+Assault Division: Dragonroaches U2D leaves  *Zagon Prime* (2026-06-10 11:31  UTC)<br/>
+Assault Division: Dragonroaches U2D deploys to *Nivel 43* (2026-06-10 11:31  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Azur Secundus* (2026-06-10 11:31  UTC)<br/>
+Assault Division: Dragonroaches U1A leaves  *Azur Secundus* (2026-06-10 12:02  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Overgoe Prime* (2026-06-10 12:02  UTC)<br/>
+Assault Division: Dragonroaches U1A leaves  *Overgoe Prime* (2026-06-10 12:29  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Partion* (2026-06-10 12:31  UTC)<br/>
+Assault Division: Dragonroaches U1A leaves  *Partion* (2026-06-10 13:01  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Gacrux* (2026-06-10 13:01  UTC)<br/>
+Assault Division: Dragonroaches U1A leaves  *Gacrux* (2026-06-10 13:31  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Acamar IV* (2026-06-10 13:31  UTC)<br/>
+Assault Division: Dragonroaches U1A leaves *Acamar IV* (2026-06-10 14:00  UTC)<br/>
+Assault Division: Dragonroaches U1A deploys to *Crimsica* (2026-06-10 14:00  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2026-06-10 14:03  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement is besieged by Terminid (2026-06-10 14:03  UTC)<br/>
+Minor Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Hold *Crimsica* is issued | Objective: Hold (2026-06-10 14:03  UTC)<br/>
+Dispatch:  NEW STRATEGIC IMPERATIVE  Fascist Terminids have invaded *Crimsica*, attacking the incredibly secure E-710 farm situated there.  This completely unforeseeable response to the current Major Order has caused E-710 prices to skyrocket, impacting all citizens.  Fleetwide rationing of E-710 is now in place, reducing logistical capabilities. Multiple supply shortages will be conveyed momentarily.  Helldivers: Hold *Crimsica*, and restore the fuel lines of Managed Democracy. (2026-06-10 14:03  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-06-10 16:00  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-06-10 16:00  UTC)<br/>
+Dispatch:  STRATEGIC ALERT: SUPPLY SHORTAGES  Until further notice, as a result of fleetwide E-710 rationing, the following supply shortages are now in effect:  Orbital Stratagem Cooldowns will be increased by 15 seconds.  Eagle Rearm Cooldowns will be increased by 15 seconds.  Reinforcement budgets will be temporarily reduced by 1.  Helldivers will be issued 25% less ammunition on deployment. (2026-06-10 17:05  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-10 17:52  UTC)<br/>
+Assault Division: Dragonroaches U3A leaves  *Esker* (2026-06-10 20:13  UTC)<br/>
+Assault Division: Dragonroaches U3A deploys to *Bore Rock* (2026-06-10 20:13  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2026-06-10 20:15  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2026-06-10 20:15  UTC)<br/>
+Minor Order | [A3-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-4) Kill Dragonroaches is issued | Objective: Kill (2026-06-10 21:05  UTC)<br/>
+Dispatch:  NEW STRATEGIC OPPORTUNITY  Dragon Roaches are igniting E-710 reserves on *Crimsica*, worsening the fuel crisis.  To aid their extermination—and comply with ammo restrictions—High Command authorizes temporary fleetwide deployment of the CQC-20 Breaching Hammer and experimental Dark Energy Jet Pack—calculated to secure more E-711 than they expend.  Helldivers: kill 2,000,000 Dragon Roaches, and prove the righteous don't need bullets to crush Tyranny. (2026-06-10 21:06  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement has fallen to Human (2026-06-10 21:10  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-06-11 01:53  UTC)<br/>
+Minor Order | [A3-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-4) Kill Dragonroaches is won | Objective: Kill (2026-06-11 05:36  UTC)<br/>
+Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers have successfully purged sufficient Dragon Roaches from the skies.  By relying on the CQC-20 Breaching Hammer, this success has allowed the Federation's strained supply lines the necessary time to begin recovery, and proven that true patriots do not need bullets to dispense Justice.  Accordingly, the CQC-20 Breaching Hammer and Dark Energy Jet Packs will remain available to Helldivers for the duration of the current Major Order. (2026-06-11 05:38  UTC)<br/>
+
+### Day: #855
+DSS effect EAGLE STORM ends (2026-06-11 09:12  UTC)<br/>
