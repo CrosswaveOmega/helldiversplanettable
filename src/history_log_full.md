@@ -16723,3 +16723,54 @@ Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers have successfully purged
 
 ### Day: #855
 DSS effect EAGLE STORM ends (2026-06-11 09:12  UTC)<br/>
+Assault Division: Hive Lords U3A leaves *Omicron* (2026-06-11 13:11  UTC)<br/>
+Assault Division: Rupture Strain U1A deploys to *Omicron* (2026-06-11 13:13  UTC)<br/>
+*Esker* liberation campaign ends (2026-06-11 20:15  UTC)<br/>
+ Decay: 1.5 on Bore Rock
+ (2026-06-11 20:15  UTC)<br/>
+*Bore Rock* defense is failed (2026-06-11 20:16  UTC)<br/>
+*Bore Rock* liberation campaign starts (2026-06-11 20:16  UTC)<br/>
+Falstaff sector is fully under Terminid control (2026-06-11 20:16  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Humans (2026-06-12 01:28  UTC)<br/>
+DSS deploys to *Omicron* of the L'estrade sector (2026-06-12 01:53  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City has fallen to Humans (2026-06-12 02:59  UTC)<br/>
+*Crimsica* defense is won (2026-06-12 02:59  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2026-06-12 04:00  UTC)<br/>
+
+### Day: #856
+Assault Division: Rupture Strain U1A leaves *Omicron* (2026-06-12 09:23  UTC)<br/>
+Assault Division: Spore Burst Strain U4A deploys to *Omicron* (2026-06-12 09:23  UTC)<br/>
+Assault Division: Hive Lords U3A deploys to *Omicron* (2026-06-12 09:25  UTC)<br/>
+Assault Division: Dragonroaches U2D leaves *Nivel 43* (2026-06-12 09:26  UTC)<br/>
+Assault Division: Dragonroaches U2D deploys to *Erata Prime* (2026-06-12 09:28  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-06-12 09:28  UTC)<br/>
+↳ *Erata Prime* Region 0 NEW DA NANG Town is besieged by Humans (2026-06-12 09:28  UTC)<br/>
+*Erata Prime* defense is won (2026-06-12 09:34  UTC)<br/>
+↳*Erata Prime* Region 0 NEW DA NANG Town siege has ended (2026-06-12 09:34  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2026-06-12 09:34  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-06-12 09:34  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-06-12 09:35  UTC)<br/>
+↳*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Humans (2026-06-12 09:35  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2026-06-12 13:54  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Humans (2026-06-12 21:43  UTC)<br/>
+DSS deploys to *Omicron* of the L'estrade sector (2026-06-12 21:54  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town is besieged by Humans (2026-06-13 00:08  UTC)<br/>
+
+### Day: #857
+Assault Division: Dragonroaches U3A leaves *Bore Rock* (2026-06-13 10:25  UTC)<br/>
+Assault Division: Dragonroaches U3A deploys to *Brilliance* (2026-06-13 10:26  UTC)<br/>
+*Brilliance* of the Orion sector is attacked by Terminids (2026-06-13 10:26  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Terminid (2026-06-13 10:50  UTC)<br/>
+ Decay: 0.0 on Brilliance
+ (2026-06-13 10:50  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-06-13 12:58  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-06-13 12:58  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-06-13 12:58  UTC)<br/>
+*Erata Prime* defense is won (2026-06-13 12:58  UTC)<br/>
+Minor Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Hold *Crimsica* is won| Objective: Hold (2026-06-13 14:03  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2026-06-13 14:03  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE ACHIEVED The Helldivers have heroically prevailed, overcoming myriad inconveniences, and have repelled the fascist Terminid swarm on *Crimsica*. With the vital E-710 refineries secured from the threat of Dragon Roach immolation, Liberty presides over our newly-restored fuel lines once more. Fleetwide supply restrictions have been immediately lifted, and citizens throughout the Federation can comfortably refuel vehicles to their heart's desire. (2026-06-13 14:04  UTC)<br/>
