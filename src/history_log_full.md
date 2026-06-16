@@ -15676,6 +15676,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-04-16 01:53  UTC)<br/>
 *Heze Bay* Region 1 UNISON City is besieged by Illuminate (2026-04-16 07:09  UTC)<br/>
 
 ### Day: #799
+↳ *Sangis* moves to X -0.167 Y -0.757 (2026-04-16 09:01  UTC)<br/>
 *Rirga Bay* defense is won (2026-04-16 12:13  UTC)<br/>
 Assault Division: Mindless Masses U5A is routed from Rirga Bay (2026-04-16 12:13  UTC)<br/>
 DSS deploys to *Heze Bay* of the Hanzo sector (2026-04-16 12:13  UTC)<br/>
@@ -16027,8 +16028,8 @@ DSS deploys to *Luxuriant* of the Jin Xi sector (2026-05-04 21:28  UTC)<br/>
  Decay: 0.5 on Turing
  (2026-05-04 21:28  UTC)<br/>
 Assault Division: Spore Burst Strain U4A leaves *Cirrus* (2026-05-05 00:00  UTC)<br/>
-*Fenrir III* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
-*Turing* - Fronteria warp link is added (2026-05-05 07:09  UTC)<br/>
+*Fenrir III* - *Fronteria* warp link is added (2026-05-05 07:09  UTC)<br/>
+*Turing* - *Fronteria* warp link is added (2026-05-05 07:09  UTC)<br/>
 Note: Yes, the warp link was added before the planet was. (2026-05-05 07:09  UTC)<br/>
 
 ### Day: #818
@@ -16046,21 +16047,21 @@ Assault Division: Spore Burst Strain U4A leaves *Terrek* (2026-05-05 11:19  UTC)
 Assault Division: Spore Burst Strain U4A deploys to *Cirrus* (2026-05-05 11:20  UTC)<br/>
 Assault Division: Predator Strain U1C deploys to *Heeth* (2026-05-05 11:21  UTC)<br/>
 *Heeth* of the Orion sector is attacked by Terminids (2026-05-05 11:21  UTC)<br/>
-Fronteria is now identified in the Jin Xi sector (2026-05-05 12:01  UTC)<br/>
-↳ Fronteria moves to X 0.502 Y 0.209 (2026-05-05 12:01  UTC)<br/>
-Zygos is now identified in the Orion sector (2026-05-05 12:01  UTC)<br/>
-↳ Zygos moves to X 0.388 Y 0.211 (2026-05-05 12:01  UTC)<br/>
-Fronteria - *Crimsica* warp link is added (2026-05-05 12:01  UTC)<br/>
-Fronteria - Heath warp link is added (2026-05-05 12:01  UTC)<br/>
-Zygos - *Veld* warp link is added (2026-05-05 12:01  UTC)<br/>
-Zygos - *Cirrus* warp link is added (2026-05-05 12:01  UTC)<br/>
-Zygos - *Fort Union* warp link is added (2026-05-05 12:01  UTC)<br/>
+*Fronteria* is now identified in the Jin Xi sector (2026-05-05 12:01  UTC)<br/>
+↳ *Fronteria* moves to X 0.502 Y 0.209 (2026-05-05 12:01  UTC)<br/>
+*Zygos* is now identified in the Orion sector (2026-05-05 12:01  UTC)<br/>
+↳ *Zygos* moves to X 0.388 Y 0.211 (2026-05-05 12:01  UTC)<br/>
+*Fronteria* - *Crimsica* warp link is added (2026-05-05 12:01  UTC)<br/>
+*Fronteria* - Heath warp link is added (2026-05-05 12:01  UTC)<br/>
+*Zygos* - *Veld* warp link is added (2026-05-05 12:01  UTC)<br/>
+*Zygos* - *Cirrus* warp link is added (2026-05-05 12:01  UTC)<br/>
+*Zygos* - *Fort Union* warp link is added (2026-05-05 12:01  UTC)<br/>
  Decay: 0.0 on Heeth
  (2026-05-05 12:01  UTC)<br/>
-Zygos of the Orion sector is attacked by Terminids (2026-05-05 12:02  UTC)<br/>
+*Zygos* of the Orion sector is attacked by Terminids (2026-05-05 12:02  UTC)<br/>
 Major Order | [A3-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-1) Defend Vacation Worlds is issued | Objective: Defend (2026-05-05 12:03  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  The Ministry of Expansion has authorized the immediate reclamation of *Oasis* resort worlds; tropical paradises long purified by the cleansing nuclear fires of GW1.  The insatiable Terminid scourge is tarnishing these temperate environments, via new and dangerous Spore Burst mutations that thrive in high-humidity atmospheres.  Helldivers: defend the designated planets. Secure these golden vistas for the most deserving of our citizens. (2026-05-05 12:04  UTC)<br/>
-DSS deploys to Zygos of the Orion sector (2026-05-05 17:29  UTC)<br/>
+DSS deploys to *Zygos* of the Orion sector (2026-05-05 17:29  UTC)<br/>
 DSS effect EAGLE STORM starts (2026-05-06 01:25  UTC)<br/>
 
 ### Day: #819
@@ -16073,18 +16074,18 @@ DSS effect EAGLE STORM starts (2026-05-06 01:25  UTC)<br/>
 Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is issued | Objective: Eradicate (2026-05-06 16:32  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY.  Unmanned spacecraft reconnaissance has identified Illuminate Appropriators on KEID conducting excavation of Un-Democratic Architectural Remains (UARs). UARs have been associated with Exospires and Void emergence.  The Helldivers are ordered to interdict these hostiles. Deployments to KEID will be equipped the EXO-49 EMANCIPATOR EXOSUIT in order to combat exo-augmented units. (2026-05-06 16:32  UTC)<br/>
 DSS effect EAGLE STORM ends (2026-05-07 01:26  UTC)<br/>
-*ZYGOS* defense is won (2026-05-07 05:17  UTC)<br/>
+ZYGOS defense is won (2026-05-07 05:17  UTC)<br/>
 DSS deploys to *Keid* of the Akira sector (2026-05-07 05:18  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-05-07 08:40  UTC)<br/>
 
 # Day: #820
 Note: The Lumberer and Breakthrough are added to the DSS's cooldown reduction effect (2026-05-07 09:08  UTC)<br/>
- Decay: 2.5 on FRONTERIA, ZYGOS
+ Decay: 2.5 on Fronteria, Zygos
  (2026-05-07 12:00  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2026-05-07 13:31  UTC)<br/>
-Assault Division: Predator Strain UBA deploys to *FRONTERIA* (2026-05-07 14:21  UTC)<br/>
-*FRONTERIA* of the Umlaut sector is attacked by Terminids (2026-05-07 14:22  UTC)<br/>
-DSS deploys to *FRONTERIA* of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
+Assault Division: Predator Strain UBA deploys to FRONTERIA (2026-05-07 14:21  UTC)<br/>
+FRONTERIA of the Umlaut sector is attacked by Terminids (2026-05-07 14:22  UTC)<br/>
+DSS deploys to FRONTERIA of the Umlaut sector (2026-05-07 21:31  UTC)<br/>
 Major Order | [A3-5-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-2) Eradicate Illuminate Appropriators is won | Objective: Eradicate (2026-05-07 23:07  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED.  High quantities of recovered Illuminate corpses prove the successful execution of the Helldivers' directive. Illuminate Appropriator activity on KEID has significantly diminished, and UARs remain safely buried. Archaeological teams have been deployed to place additional terrain atop UAR sites, to prevent future excavation. (2026-05-07 23:07  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-05-08 08:41  UTC)<br/>
@@ -16103,7 +16104,7 @@ Assault Division: Cyborgs U1F deploys to *Vernen Wells* (2026-05-08 18:33  UTC)<
 Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is issued | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
 Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is failed | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  High Command has authorized a mandatory requisition of squandered capital hoarded on Automaton-held planets.  Helldivers: secure 70,000,000 Automaton samples and neutralize 25,000,000 Cyborg Radicals.  Acquisition of these socialist assets will bolster cross-Ministry research and intel efforts, enable a new season of televised vivisectional audits, and will fund the immediate use of the Autocannon Stratagem. (2026-05-08 21:19  UTC)<br/>
-*FRONTERIA* defense is won (2026-05-09 02:39  UTC)<br/>
+FRONTERIA defense is won (2026-05-09 02:39  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
 
 ### Day: #822
@@ -16112,68 +16113,68 @@ DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
 *Vernen Wells* Region 0 BLACKVEIN MINES Settlement has fallen to Human (2026-05-10 02:39  UTC)<br/>
 Assault Division: Predator Strain U1C leaves *Heeth* (2026-05-10 07:55  UTC)<br/>
 Assault Division: Predator Strain U1C deploys to *Cirrus* (2026-05-10 07:55  UTC)<br/>
- Decay: 2.44 on ZYGOS
+ Decay: 2.44 on Zygos
  (2026-05-10 07:55  UTC)<br/>
 Assault Division: Predator Strain U1C leaves *Cirrus* (2026-05-10 08:57  UTC)<br/>
-Assault Division: Predator Strain U1C deploys to Zygos (2026-05-10 08:57  UTC)<br/>
- Decay: 2.37 on ZYGOS
+Assault Division: Predator Strain U1C deploys to *Zygos* (2026-05-10 08:57  UTC)<br/>
+ Decay: 2.37 on Zygos
  (2026-05-10 08:57  UTC)<br/>
-Zygos of the Orion sector is attacked by Terminids (2026-05-10 08:59  UTC)<br/>
+*Zygos* of the Orion sector is attacked by Terminids (2026-05-10 08:59  UTC)<br/>
 
 ### Day: #823
- Decay: 2.35 on ZYGOS
+ Decay: 2.35 on Zygos
  (2026-05-10 09:00  UTC)<br/>
- Decay: 2.28 on ZYGOS
+ Decay: 2.28 on Zygos
  (2026-05-10 10:00  UTC)<br/>
- Decay: 2.13 on ZYGOS
+ Decay: 2.13 on Zygos
  (2026-05-10 12:00  UTC)<br/>
-DSS deploys to Zygos of the Orion sector (2026-05-10 13:32  UTC)<br/>
- Decay: 2.01 on ZYGOS
+DSS deploys to *Zygos* of the Orion sector (2026-05-10 13:32  UTC)<br/>
+ Decay: 2.01 on Zygos
  (2026-05-10 13:32  UTC)<br/>
- Decay: 1.98 on ZYGOS
+ Decay: 1.98 on Zygos
  (2026-05-10 14:00  UTC)<br/>
- Decay: 1.83 on ZYGOS
+ Decay: 1.83 on Zygos
  (2026-05-10 16:00  UTC)<br/>
- Decay: 1.68 on ZYGOS
+ Decay: 1.68 on Zygos
  (2026-05-10 18:00  UTC)<br/>
- Decay: 1.53 on ZYGOS
+ Decay: 1.53 on Zygos
  (2026-05-10 20:00  UTC)<br/>
- Decay: 1.38 on ZYGOS
+ Decay: 1.38 on Zygos
  (2026-05-10 22:00  UTC)<br/>
- Decay: 1.23 on ZYGOS
+ Decay: 1.23 on Zygos
  (2026-05-11 00:00  UTC)<br/>
- Decay: 1.08 on ZYGOS
+ Decay: 1.08 on Zygos
  (2026-05-11 02:00  UTC)<br/>
- Decay: 0.93 on ZYGOS
+ Decay: 0.93 on Zygos
  (2026-05-11 04:00  UTC)<br/>
- Decay: 0.78 on ZYGOS
+ Decay: 0.78 on Zygos
  (2026-05-11 06:00  UTC)<br/>
- Decay: 0.63 on ZYGOS
+ Decay: 0.63 on Zygos
  (2026-05-11 08:00  UTC)<br/>
 
 ### Day: #824
- Decay: 0.56 on ZYGOS
+ Decay: 0.56 on Zygos
  (2026-05-11 09:00  UTC)<br/>
- Decay: 0.49 on ZYGOS
+ Decay: 0.49 on Zygos
  (2026-05-11 10:00  UTC)<br/>
- Decay: 0.34 on ZYGOS
+ Decay: 0.34 on Zygos
  (2026-05-11 12:00  UTC)<br/>
- Decay: 0.19 on ZYGOS
+ Decay: 0.19 on Zygos
  (2026-05-11 14:00  UTC)<br/>
- Decay: 0.04 on ZYGOS
+ Decay: 0.04 on Zygos
  (2026-05-11 16:00  UTC)<br/>
- Decay: 0.0 on ZYGOS
+ Decay: 0.0 on Zygos
  (2026-05-11 18:00  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY LOST  The Helldivers' acquisition of materiel has been blocked by the Automatons and Cyborgs.  Though a blow to citizens eager to enjoy the now-postponed televised vivisectional audits, the impeded procurement efforts yielded valuable intel.  Thanks to recovered frequency-resonant hardware, the precise origin point of the Automatons' prior cyberattack upon Galactic Communications Systems has been identified.  Democracy requires that Free Speech must remain correctly Free. (2026-05-11 19:33  UTC)<br/>
 Assault Division: Cyborgs U1F leaves *Vernen Wells* (2026-05-11 19:35  UTC)<br/>
- Decay: 0.36 on ZYGOS
+ Decay: 0.36 on Zygos
  (2026-05-12 02:00  UTC)<br/>
-*ZYGOS* defense is won (2026-05-12 04:15  UTC)<br/>
+ZYGOS defense is won (2026-05-12 04:15  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-12 04:15  UTC)<br/>
- Decay: 1.96 on ZYGOS
+ Decay: 1.96 on Zygos
  (2026-05-12 04:15  UTC)<br/>
 Major Order | [A3-5-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-1) Defend Vacation Worlds is won| Objective: Defend (2026-05-12 04:16  UTC)<br/>
- Decay: 2.5 on ZYGOS
+ Decay: 2.5 on Zygos
  (2026-05-12 06:00  UTC)<br/>
 
 ### Day: #825
@@ -16775,3 +16776,37 @@ Minor Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Hold
  (2026-06-13 14:03  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE ACHIEVED. The Helldivers have heroically prevailed, overcoming myriad inconveniences, and have repelled the fascist Terminid swarm on *Crimsica*. With the vital E-710 refineries secured from the threat of Dragon Roach immolation, Liberty presides over our newly-restored fuel lines once more. Fleetwide supply restrictions have been immediately lifted, and citizens throughout the Federation can comfortably refuel vehicles to their heart's desire. (2026-06-13 14:04  UTC)<br/>
 DSS deploys to *Brilliance* of the Orion sector (2026-06-13 17:54  UTC)<br/>
+
+### Day: #858
+ Decay: 2.5 on Brilliance
+ (2026-06-15 06:00  UTC)<br/>
+
+### Day: #859
+
+# Day: #860
+ Decay: 3.0 on Basquine VIII, Sangis
+ (2026-06-16 09:00  UTC)<br/>
+*Basquine VIII* is now identified in the Orion sector (2026-06-16 09:01  UTC)<br/>
+↳ *Basquine VIII* moves to X 0.272 Y -0.775 (2026-06-16 09:01  UTC)<br/>
+*Sangis* is now identified in the Sten sector (2026-06-16 09:01  UTC)<br/>
+*Basquine VIII* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
+*Sangis* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
+Major Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Liberate Basquina VIII and *Sangis* is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Hordes of Voteless abominations have been detected on planets close to the Void. They have swarmed across BASQUINE VIII and SANGIS, formerly untouched preserves. The Helldivers are ordered to liberate those planets from the Voteless hordes. (2026-06-16 09:02  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
+*Karlia* Region 0 ADNAN City is besieged by Illuminate (2026-06-16 09:10  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) UA2 deploys to *Karlia* (2026-06-16 09:10  UTC)<br/>
+*Karlia* of the Omega sector is attacked by Illuminates (2026-06-16 09:10  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City is besieged by Illuminate (2026-06-16 09:11  UTC)<br/>
+*Alaraph* Region 1 HANGAR 6 City has fallen to Illuminate (2026-06-16 09:11  UTC)<br/>
+Assault Division: MINDLESS MASSES UA1 deploys to *Alaraph* (2026-06-16 09:11  UTC)<br/>
+*Alaraph* of the Akira sector is attacked by Illuminates (2026-06-16 09:11  UTC)<br/>
+*RD-4* liberation campaign ends (2026-06-16 09:22  UTC)<br/>
+ Decay: 0.0 on Alaraph, Karlia
+ (2026-06-16 09:22  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region<br/> Region Decay: 0.2 on Karlia's ADNAN region
+ (2026-06-16 09:22  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION High Command has authorized the use of new FRV models: SUPPLY FRV on BASQUINE VIII and INCINERATOR FRV on SANGIS. The FRV model associated with the first liberated planet will go into full-scale production. (2026-06-16 10:02  UTC)<br/>
+DSS deploys to *Basquine VIII* of the Rigel sector (2026-06-16 13:56  UTC)<br/>
