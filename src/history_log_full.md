@@ -16794,6 +16794,7 @@ DSS deploys to *Brilliance* of the Orion sector (2026-06-13 17:54  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
 Major Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Liberate Basquina VIII and *Sangis* is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER Hordes of Voteless abominations have been detected on planets close to the Void. They have swarmed across BASQUINE VIII and SANGIS, formerly untouched preserves. The Helldivers are ordered to liberate those planets from the Voteless hordes. (2026-06-16 09:02  UTC)<br/>
+Major Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Liberate Basquina VIII and *Sangis* is failed | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Assault Division: MINDLESS MASSES (Enemies) UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
 Assault Division: MINDLESS MASSES (Enemies) UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
 *Karlia* Region 0 ADNAN City is besieged by Illuminate (2026-06-16 09:10  UTC)<br/>
@@ -16810,3 +16811,67 @@ Assault Division: MINDLESS MASSES UA1 deploys to *Alaraph* (2026-06-16 09:11  UT
  (2026-06-16 09:22  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION High Command has authorized the use of new FRV models: SUPPLY FRV on BASQUINE VIII and INCINERATOR FRV on SANGIS. The FRV model associated with the first liberated planet will go into full-scale production. (2026-06-16 10:02  UTC)<br/>
 DSS deploys to *Basquine VIII* of the Rigel sector (2026-06-16 13:56  UTC)<br/>
+*Alaraph* Region 1 HANGAR 6 City has fallen to Illuminate (2026-06-17 03:45  UTC)<br/>
+*Karlia* Region 0 ADNAN City has fallen to Illuminate (2026-06-17 06:24  UTC)<br/>
+*Martale* Region 0 SONGGUO CUN Settlement is besieged by Automaton (2026-06-17 06:25  UTC)<br/>
+*Martale* Region 1 XIN FUZHOU City has fallen to Automaton (2026-06-17 06:25  UTC)<br/>
+*Clasa* Region 2 VOTING DISTRICT F-012357 City is besieged by Automaton (2026-06-17 06:26  UTC)<br/>
+ Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-06-17 08:00  UTC)<br/>
+
+### Day: #861
+DSS effect EAGLE STORM starts (2026-06-17 13:28  UTC)<br/>
+ Decay: 2.0 on Basquine VIII
+ (2026-06-17 13:28  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2026-06-17 14:08  UTC)<br/>
+DSS deploys to *Basquine VIII* of the Rigel sector (2026-06-17 14:14  UTC)<br/>
+
+### Day: #862
+*Alaraph* Region 1 HANGAR 6 City siege has ended (2026-06-18 09:12  UTC)<br/>
+*Alaraph* defense is failed (2026-06-18 09:12  UTC)<br/>
+*Alaraph* liberation campaign starts (2026-06-18 09:12  UTC)<br/>
+*Oasis* liberation campaign ends (2026-06-18 09:12  UTC)<br/>
+*Sangis* liberation campaign ends (2026-06-18 09:16  UTC)<br/>
+ Decay: 1.0 on Alaraph
+ (2026-06-18 09:16  UTC)<br/>
+*Karlia* defense is failed (2026-06-18 09:17  UTC)<br/>
+*Karlia* liberation campaign starts (2026-06-18 09:17  UTC)<br/>
+ Decay: 1.0 on Karlia
+ (2026-06-18 10:00  UTC)<br/>
+*RD-4* liberation campaign starts (2026-06-18 12:19  UTC)<br/>
+*Basquine VIII* liberation campaign ends (2026-06-18 12:19  UTC)<br/>
+*Basquine VIII* is liberated (2026-06-18 12:19  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2026-06-18 12:19  UTC)<br/>
+Dispatch: Following the liberation of BASQUINE VIII, all Helldiver loadouts will be augmented with the SUPPLY FRV for the duration of this Campaign. (2026-06-18 12:23  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-06-18 13:29  UTC)<br/>
+ Decay: 1.0 on Sangis
+ (2026-06-18 13:29  UTC)<br/>
+*Karlia* Region 0 ADNAN City has fallen to Human (2026-06-19 00:21  UTC)<br/>
+
+### Day: #863
+*Hydrobius* Region 0 GENERATORSVILLE City is besieged by Illuminate (2026-06-19 14:20  UTC)<br/>
+*Hydrobius* liberation campaign starts (2026-06-19 14:20  UTC)<br/>
+*Sangis* liberation campaign starts (2026-06-19 14:20  UTC)<br/>
+*Karlia* Region 0 ADNAN City has fallen to Human (2026-06-19 14:20  UTC)<br/>
+*Karlia* is liberated (2026-06-19 14:20  UTC)<br/>
+*Karlia* liberation campaign ends (2026-06-19 14:20  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-19 14:20  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2026-06-19 16:00  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2026-06-19 16:00  UTC)<br/>
+Dispatch: CAMPAIGN SUCCESS TERMS CENSUS THUNDER is a multi-phasic campaign. It is anticipated to consist of multiple Major Orders. Campaign success is defined as success in a majority of the Major Orders comprising the campaign. Helldivers are, therefore, strategically advised to succeed in all Major Orders. (2026-06-19 19:56  UTC)<br/>
+DSS deploys to *Sangis* of the Omega sector (2026-06-19 22:15  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-20 05:41  UTC)<br/>
+ Decay: 2.5 on Alaraph, Heze Bay
+ (2026-06-20 05:41  UTC)<br/>
+
+### Day: #864
+*Alaraph* Region 1 HANGAR 6 City has fallen to Illuminate (2026-06-20 09:04  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED BASQUINE VIII is secure. However, the Helldivers were unable to secure SANGIS. Its vast, untouched forests have been severely impacted by the Voteless incursion, and may never recover. (2026-06-20 09:05  UTC)<br/>
+Major Order | [A3-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-4) Liberate BLISTICA and collect samples is issued| Objective: Liberate/Samples (2026-06-20 10:03  UTC)<br/>
+Dispatch: NEW MAJOR ORDER The Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void. Deploy to Automaton-held BLISTICA to secure the enemy's bio-processors. Additionally, secure 15,000,000 samples from ALARAPH, currently overrun by Voteless. (2026-06-20 10:03  UTC)<br/>
+ Decay: 1.5 on Blistica<br/> Decay: 3.0 on Alaraph
+ (2026-06-20 12:00  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2026-06-20 14:17  UTC)<br/>
+*Mintoria* Region 1 GYEONGSEONG Town has fallen to Human (2026-06-20 18:33  UTC)<br/>
