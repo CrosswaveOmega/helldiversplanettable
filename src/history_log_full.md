@@ -16792,9 +16792,9 @@ DSS deploys to *Brilliance* of the Orion sector (2026-06-13 17:54  UTC)<br/>
 *Basquine VIII* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
 *Sangis* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
-Major Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Liberate Basquina VIII and *Sangis* is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
+Major Order | [A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER Hordes of Voteless abominations have been detected on planets close to the Void. They have swarmed across BASQUINE VIII and SANGIS, formerly untouched preserves. The Helldivers are ordered to liberate those planets from the Voteless hordes. (2026-06-16 09:02  UTC)<br/>
-Major Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Liberate Basquina VIII and *Sangis* is failed | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
+Major Order |[A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is failed | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Assault Division: MINDLESS MASSES (Enemies) UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
 Assault Division: MINDLESS MASSES (Enemies) UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
 *Karlia* Region 0 ADNAN City is besieged by Illuminate (2026-06-16 09:10  UTC)<br/>
@@ -16867,11 +16867,45 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-20 05:41  UTC)<br/>
  (2026-06-20 05:41  UTC)<br/>
 
 ### Day: #864
-*Alaraph* Region 1 HANGAR 6 City has fallen to Illuminate (2026-06-20 09:04  UTC)<br/>
-Dispatch: MAJOR ORDER FAILED BASQUINE VIII is secure. However, the Helldivers were unable to secure SANGIS. Its vast, untouched forests have been severely impacted by the Voteless incursion, and may never recover. (2026-06-20 09:05  UTC)<br/>
-Major Order | [A3-6-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-4) Liberate BLISTICA and collect samples is issued| Objective: Liberate/Samples (2026-06-20 10:03  UTC)<br/>
-Dispatch: NEW MAJOR ORDER The Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void. Deploy to Automaton-held BLISTICA to secure the enemy's bio-processors. Additionally, secure 15,000,000 samples from ALARAPH, currently overrun by Voteless. (2026-06-20 10:03  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. BASQUINE VIII is secure. However, the Helldivers were unable to secure SANGIS. Its vast, untouched forests have been severely impacted by the Voteless incursion, and may never recover. (2026-06-20 09:05  UTC)<br/>
+Major Order | [A3-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-6) Census Thunder - Material Acquisition is issued| Objective: Liberate/Samples (2026-06-20 10:03  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void. Deploy to Automaton-held BLISTICA to secure the enemy's bio-processors. Additionally, secure 15,000,000 samples from ALARAPH, currently overrun by Voteless. (2026-06-20 10:03  UTC)<br/>
  Decay: 1.5 on Blistica<br/> Decay: 3.0 on Alaraph
  (2026-06-20 12:00  UTC)<br/>
 DSS deploys to *Mintoria* of the Gellert sector (2026-06-20 14:17  UTC)<br/>
 *Mintoria* Region 1 GYEONGSEONG Town has fallen to Human (2026-06-20 18:33  UTC)<br/>
+*Mintoria* Region 0 SEORAKSAN Settlement has fallen to Human (2026-06-20 23:53  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-06-21 05:43  UTC)<br/>
+
+### Day: #865
+*Alaraph* Region 0 PERMACURIS City has fallen to Human (2026-06-22 02:07  UTC)<br/>
+*Mintoria* is liberated (2026-06-22 04:15  UTC)<br/>
+↳*Blistica* liberation campaign starts (2026-06-22 04:15  UTC)<br/>
+↳*Zzaniah Prime* liberation campaign starts (2026-06-22 04:15  UTC)<br/>
+↳DSS deploys to *Alaraph* of the Akira sector (2026-06-22 04:15  UTC)<br/>
+ Decay: 3.5 on Blistica
+ (2026-06-22 04:15  UTC)<br/>
+
+### Day: #866
+DSS deploys to *Blistica* of the Gellert sector (2026-06-22 10:18  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-06-22 22:47  UTC)<br/>
+
+### Day: #867
+Assault Division: Cyborgs U9A deploys to *Matar Bay* (2026-06-23 11:13  UTC)<br/>
+*Matar Bay* of the Andromeda sector is attacked by Automatons (2026-06-23 11:14  UTC)<br/>
+↳*Matar Bay* Region 1 ISEGORIA Town is besieged by Automaton (2026-06-23 11:14  UTC)<br/>
+ Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-06-23 12:00  UTC)<br/>
+ Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-06-23 12:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-06-23 22:48  UTC)<br/>
+*Blistica* is liberated (2026-06-24 06:50  UTC)<br/>
+↳DSS deploys to *Yed Prior* of the Tanis sector (2026-06-24 06:50  UTC)<br/>
+Major Order | [A3-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-6) Census Thunder - Material Acquisition is won| Objective: Liberate/Samples (2026-06-24 06:51  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers have liberated BLISTICA from the Automatons. Simultaneously, the Helldivers secured over 15,000,000 Voteless tissue samples. These samples have proved the hypothesis of Federation scientists: exotic alterations to their cells have occured, allowing for laboratory study of the Void for the first time. (2026-06-24 06:52  UTC)<br/>
+
+### Day: #868
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-24 10:19  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-06-24 13:42  UTC)<br/>
+Major Order | [A3-6-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-7) Census Thunder - Repatriation is issued | Objective: Liberate/Exterminate (2026-06-24 14:47  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Science has commenced construction of a Voteless Processing Plant on ALARAPH. The Helldivers are ordered to hold ALARAPH until the facility is complete. Additionally, prepare 25,000,000 Voteless specimens for study, by rendering them inert. (2026-06-24 14:47  UTC)<br/>
