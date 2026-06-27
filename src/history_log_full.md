@@ -16909,3 +16909,40 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-24 10:19  UTC)<br/>
 *Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-06-24 13:42  UTC)<br/>
 Major Order | [A3-6-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-7) Census Thunder - Repatriation is issued | Objective: Liberate/Exterminate (2026-06-24 14:47  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Science has commenced construction of a Voteless Processing Plant on ALARAPH. The Helldivers are ordered to hold ALARAPH until the facility is complete. Additionally, prepare 25,000,000 Voteless specimens for study, by rendering them inert. (2026-06-24 14:47  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City has fallen to Illuminate (2026-06-24 15:04  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City is besieged by Human (2026-06-24 15:04  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2026-06-24 22:20  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City is besieged by Human (2026-06-24 23:09  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-06-25 01:15  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-25 02:20  UTC)<br/>
+ Decay: 0.0 on Yed Prior
+ (2026-06-25 08:00  UTC)<br/>
+
+### Day: #869
+*Alaraph* Region 0 PERMACURIS City has fallen to Human (2026-06-25 10:25  UTC)<br/>
+Assault Division: MINDLESS MASSES UA4 deploys to *Shete* (2026-06-25 13:57  UTC)<br/>
+*Alaraph* Region 1 HANGAR 6 City is besieged by Human (2026-06-25 15:26  UTC)<br/>
+Assault Division: APPROPRIATORS UB2 deploys to *Setia* (2026-06-25 18:02  UTC)<br/>
+Assault Division: APPROPRIATORS UB2 deploys to *Sangis* (2026-06-25 19:06  UTC)<br/>
+DSS effect Eagle Storm ends (2026-06-26 01:16  UTC)<br/>
+
+# Day: #870
+*Alaraph* Region 1 HANGAR 6 City has fallen to Human (2026-06-26 10:06  UTC)<br/>
+*Matar Bay* defense is failed (2026-06-26 10:11  UTC)<br/>
+*Matar Bay* liberation campaign starts (2026-06-26 10:11  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City siege has ended (2026-06-26 10:11  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town is besieged by Humans (2026-06-26 10:11  UTC)<br/>
+*Martale* liberation campaign ends (2026-06-26 10:11  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2026-06-26 10:21  UTC)<br/>
+ Decay: 2.0 on Matar Bay
+ (2026-06-26 10:21  UTC)<br/>
+ Decay: 1.5 on Sangis
+ (2026-06-26 14:00  UTC)<br/>
+DSS deploys to *Yed Prior* of the Tanis sector (2026-06-27 06:21  UTC)<br/>
+*Alaraph* is liberated (2026-06-27 07:42  UTC)<br/>
+*Oasis* liberation campaign starts (2026-06-27 07:42  UTC)<br/>
+*Oasis* Region 0 RESPITE City is besieged by Human (2026-06-27 07:42  UTC)<br/>
+
+### Day: #871
+ Region Decay: 0.4 on Oasis's RESPITE region
+ (2026-06-27 09:00  UTC)<br/>
