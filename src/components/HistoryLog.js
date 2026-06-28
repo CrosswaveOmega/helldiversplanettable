@@ -9,13 +9,24 @@ export async function decompressJSON(compressedData) {
     console.log(typeof compressedData);
     console.log(compressedData.constructor.name);
     console.log(compressedData instanceof ArrayBuffer);
-    const inflate = new pako.Inflate({ to: "string" ,windowsize: 15});
+    const inflate = new pako.Inflate({
+    toText: true,
+    windowBits: 15
+    });
+
     inflate.push(compressedData, true);
+
+    if (inflate.err) {
+        throw new Error(inflate.msg);
+    }
+
     
     console.log(inflate.err);
     console.log(inflate.msg);
     console.log(inflate.result.length);
-    const decompressed = pako.inflate(compressedData, { windowsize: 15, to: 'string' });
+
+    const decompressed = new TextDecoder().decode(inflate.result);
+    const obj = JSON.parse(decompressed);
     return JSON.parse(decompressed);
 }
 
