@@ -16946,3 +16946,16 @@ DSS deploys to *Yed Prior* of the Tanis sector (2026-06-27 06:21  UTC)<br/>
 ### Day: #871
  Region Decay: 0.4 on Oasis's RESPITE region
  (2026-06-27 09:00  UTC)<br/>
+
+### Day: #872
+*Yed Prior* is liberated (2026-06-28 10:35  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-28 10:35  UTC)<br/>
+*Alaraph* of the Akira sector is attacked by Illuminates (2026-06-28 11:05  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City is besieged by Humans (2026-06-28 11:05  UTC)<br/>
+ Decay: -1.0 on Clasa
+ (2026-06-28 11:05  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
+ (2026-06-28 12:00  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
+ (2026-06-28 12:00  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2026-06-28 18:23  UTC)<br/>
