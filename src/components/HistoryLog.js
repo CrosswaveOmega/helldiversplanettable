@@ -7,6 +7,7 @@ import * as pako from "npm:pako"
 export async function decompressJSON(compressedData) {
     // Decompress a byte array into an object.
     const decompressed = pako.inflate(compressedData, { windowsize: 15, to: 'string' });
+    console.log(decompressed);
     return JSON.parse(decompressed);
 }
 
