@@ -16663,12 +16663,12 @@ Dispatch:  MAJOR ORDER WON  The Helldivers have defended *K* and FURY from the C
 DSS deploys to *Martale* of the Andromeda sector (2026-06-08 17:21  UTC)<br/>
  Decay: 1.5 on Achernar Secundus
  (2026-06-08 18:00  UTC)<br/>
-Hydrobious urgent liberation is failed (2026-06-09 07:38  UTC)<br/>
-Hydrobious liberation campaign ends (2026-06-09 07:38  UTC)<br/>
-Hydrobiousis enveloped by the Void (2026-06-09 07:38  UTC)<br/>
-Hydrobiousis now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
-*Senge 23* enveloped by the Void (2026-06-09 07:38  UTC)<br/>
-*Senge 23* now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
+*Hydrobius* urgent liberation is failed (2026-06-09 07:38  UTC)<br/>
+*Hydrobius* liberation campaign ends (2026-06-09 07:38  UTC)<br/>
+*Hydrobius* is enveloped by the Void (2026-06-09 07:38  UTC)<br/>
+*Hydrobius* is now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
+*Senge 23* is enveloped by the Void (2026-06-09 07:38  UTC)<br/>
+*Senge 23* is now unobservable due to the Void (2026-06-09 07:38  UTC)<br/>
 DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-09 07:41  UTC)<br/>
 *Martale* Region 1 XIN FUZHOU City has fallen to Human (2026-06-09 08:48  UTC)<br/>
 
