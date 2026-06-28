@@ -18,7 +18,9 @@ title: The Great Big Galactic War History Map
 ```js
 async function get_gstates(){
   let parta=await FileAttachment("./data/gstates.json").arrayBuffer();
+  console.log("Loaded in gstates");
   let partb=await decompressJSON(parta);
+  console.log("parsed gstaes");
   return partb;
 }
 
