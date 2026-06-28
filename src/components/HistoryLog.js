@@ -6,8 +6,16 @@ import * as pako from "npm:pako"
 
 export async function decompressJSON(compressedData) {
     // Decompress a byte array into an object.
+    console.log(typeof compressedData);
+    console.log(compressedData.constructor.name);
+    console.log(compressedData instanceof ArrayBuffer);
+    const inflate = new pako.Inflate({ to: "string" ,windowsize: 15});
+    inflate.push(compressedData, true);
+    
+    console.log(inflate.err);
+    console.log(inflate.msg);
+    console.log(inflate.result.length);
     const decompressed = pako.inflate(compressedData, { windowsize: 15, to: 'string' });
-    console.log(decompressed);
     return JSON.parse(decompressed);
 }
 
