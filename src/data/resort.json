@@ -17271,6 +17271,54 @@
       {
          "pl": 100,
          "eind": 10601
+      },
+      {
+         "pl": "<10",
+         "eind": 10620
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10628
+      },
+      {
+         "pl": 100,
+         "eind": 10630
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "pl": 100,
+         "eind": 10643
+      },
+      {
+         "pl": "<10",
+         "eind": 10644
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
+      },
+      {
+         "pl": 100,
+         "eind": 10653
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10660
       }
    ],
    "1": [
@@ -49382,6 +49430,106 @@
       {
          "r": 2.7777777,
          "eind": 10339
+      },
+      {
+         "t": 21,
+         "eind": 10634
+      },
+      {
+         "pl": 8100,
+         "r": 0.0,
+         "eind": 10635
+      },
+      {
+         "pl": 8900,
+         "eind": 10636
+      },
+      {
+         "pl": 12700,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10637
+      },
+      {
+         "pl": 26900,
+         "eind": 10638
+      },
+      {
+         "pl": 27600,
+         "eind": 10639
+      },
+      {
+         "pl": 24500,
+         "eind": 10640
+      },
+      {
+         "pl": 20400,
+         "eind": 10641
+      },
+      {
+         "pl": 14700,
+         "r": 2.7777777,
+         "t": 16,
+         "dss": "",
+         "desc": [],
+         "eind": 10642
+      },
+      {
+         "pl": 3700,
+         "eind": 10643
+      },
+      {
+         "pl": 800,
+         "eind": 10644
+      },
+      {
+         "pl": 400,
+         "eind": 10645
+      },
+      {
+         "pl": 500,
+         "eind": 10648
+      },
+      {
+         "pl": 400,
+         "eind": 10649
+      },
+      {
+         "pl": 500,
+         "eind": 10650
+      },
+      {
+         "pl": 600,
+         "eind": 10651
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": "<10",
+         "eind": 10653
+      },
+      {
+         "pl": 100,
+         "eind": 10656
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "77": [
@@ -67853,6 +68001,137 @@
       {
          "pl": "<10",
          "eind": 10521
+      },
+      {
+         "pl": 800,
+         "r": 0.0,
+         "eind": 10629
+      },
+      {
+         "pl": 5800,
+         "eind": 10630
+      },
+      {
+         "pl": 29800,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10633
+      },
+      {
+         "pl": 31300,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10635
+      },
+      {
+         "pl": 31000,
+         "eind": 10636
+      },
+      {
+         "pl": 28000,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10637
+      },
+      {
+         "pl": 22700,
+         "eind": 10638
+      },
+      {
+         "pl": 20900,
+         "eind": 10639
+      },
+      {
+         "pl": 14200,
+         "eind": 10640
+      },
+      {
+         "pl": 9900,
+         "eind": 10641
+      },
+      {
+         "pl": 6800,
+         "eind": 10642
+      },
+      {
+         "pl": 13700,
+         "eind": 10643
+      },
+      {
+         "pl": 15000,
+         "eind": 10644
+      },
+      {
+         "pl": 24500,
+         "eind": 10645
+      },
+      {
+         "pl": 23800,
+         "eind": 10647
+      },
+      {
+         "pl": 23400,
+         "eind": 10648
+      },
+      {
+         "pl": 12300,
+         "r": 6.9444447,
+         "eind": 10649
+      },
+      {
+         "pl": 900,
+         "eind": 10650
+      },
+      {
+         "pl": 800,
+         "eind": 10651
+      },
+      {
+         "pl": 300,
+         "eind": 10652
+      },
+      {
+         "pl": 500,
+         "eind": 10654
+      },
+      {
+         "pl": 600,
+         "eind": 10655
+      },
+      {
+         "pl": 300,
+         "eind": 10656
+      },
+      {
+         "pl": 200,
+         "eind": 10658
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "271": [
@@ -95492,6 +95771,90 @@
       {
          "pl": 500,
          "eind": 10616
+      },
+      {
+         "pl": 600,
+         "eind": 10617
+      },
+      {
+         "pl": 300,
+         "eind": 10618
+      },
+      {
+         "pl": 200,
+         "eind": 10619
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 200,
+         "eind": 10627
+      },
+      {
+         "pl": 100,
+         "eind": 10630
+      },
+      {
+         "pl": "<10",
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": "<10",
+         "eind": 10647
+      },
+      {
+         "pl": 100,
+         "eind": 10648
+      },
+      {
+         "pl": 200,
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": "<10",
+         "eind": 10653
+      },
+      {
+         "pl": 100,
+         "eind": 10654
+      },
+      {
+         "pl": 200,
+         "eind": 10655
+      },
+      {
+         "pl": 1600,
+         "eind": 10657
+      },
+      {
+         "pl": 1900,
+         "eind": 10658
+      },
+      {
+         "pl": 500,
+         "eind": 10659
+      },
+      {
+         "pl": 200,
+         "eind": 10660
+      },
+      {
+         "pl": 300,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
+         "eind": 10662
       }
    ],
    "212": [
@@ -137674,6 +138037,50 @@
       {
          "pl": 100,
          "eind": 10616
+      },
+      {
+         "pl": "<10",
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10635
+      },
+      {
+         "pl": "<10",
+         "eind": 10636
+      },
+      {
+         "pl": 100,
+         "eind": 10647
+      },
+      {
+         "pl": "<10",
+         "eind": 10648
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": "<10",
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "100": [
@@ -156665,6 +157072,11 @@
       {
          "r": 6.9444447,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 10644
       }
    ],
    "64": [
@@ -205444,6 +205856,101 @@
       {
          "pl": "<10",
          "eind": 10477
+      },
+      {
+         "pl": 4000,
+         "r": 0.0,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 199912
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10659
+      },
+      {
+         "pl": 13400,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 184302
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10660
+      },
+      {
+         "pl": 38200,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10661
+      },
+      {
+         "pl": 23000,
+         "eind": 10662
       }
    ],
    "270": [
@@ -233443,6 +233950,94 @@
       {
          "pl": 300,
          "eind": 10615
+      },
+      {
+         "pl": 400,
+         "eind": 10617
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": 200,
+         "eind": 10621
+      },
+      {
+         "pl": 100,
+         "eind": 10622
+      },
+      {
+         "pl": 200,
+         "eind": 10623
+      },
+      {
+         "pl": 300,
+         "eind": 10625
+      },
+      {
+         "pl": 200,
+         "eind": 10627
+      },
+      {
+         "pl": 100,
+         "eind": 10628
+      },
+      {
+         "pl": 200,
+         "eind": 10633
+      },
+      {
+         "pl": 100,
+         "eind": 10640
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10655
+      },
+      {
+         "pl": 700,
+         "eind": 10657
+      },
+      {
+         "pl": 800,
+         "eind": 10658
+      },
+      {
+         "pl": 200,
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10660
+      },
+      {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": 100,
+         "eind": 10662
       }
    ],
    "78": [
@@ -262012,6 +262607,252 @@
       {
          "pl": "<10",
          "eind": 10486
+      },
+      {
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10645
+      },
+      {
+         "t": 21,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 391119
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10646
+      },
+      {
+         "pl": 2800,
+         "r": 0.0,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 399886
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10647
+      },
+      {
+         "pl": 3300,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 398266
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10648
+      },
+      {
+         "pl": 6500,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 389883
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10649
+      },
+      {
+         "pl": 36200,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 304716
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10650
+      },
+      {
+         "pl": 42200,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 192281
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10651
+      },
+      {
+         "pl": 19400,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 83674
+            }
+         },
+         "eind": 10652
+      },
+      {
+         "pl": 18300,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 48780
+            }
+         },
+         "eind": 10653
+      },
+      {
+         "pl": 24400,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10654
+      },
+      {
+         "pl": 33900,
+         "eind": 10655
+      },
+      {
+         "pl": 33500,
+         "r": 4.1666665,
+         "eind": 10656
+      },
+      {
+         "pl": 1900,
+         "eind": 10657
+      },
+      {
+         "pl": 1100,
+         "eind": 10658
+      },
+      {
+         "pl": 500,
+         "eind": 10659
+      },
+      {
+         "pl": 400,
+         "eind": 10660
+      },
+      {
+         "pl": 300,
+         "eind": 10661
+      },
+      {
+         "pl": 100,
+         "eind": 10662
       }
    ],
    "169": [
@@ -287092,6 +287933,91 @@
       {
          "r": 5.5555553,
          "eind": 10339
+      },
+      {
+         "t": 21,
+         "eind": 10640
+      },
+      {
+         "pl": 1100,
+         "r": 0.0,
+         "eind": 10641
+      },
+      {
+         "pl": 1200,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10642
+      },
+      {
+         "pl": 4500,
+         "eind": 10643
+      },
+      {
+         "pl": 5900,
+         "eind": 10644
+      },
+      {
+         "pl": 15600,
+         "eind": 10645
+      },
+      {
+         "pl": 15900,
+         "eind": 10647
+      },
+      {
+         "pl": 14400,
+         "eind": 10648
+      },
+      {
+         "pl": 29100,
+         "eind": 10649
+      },
+      {
+         "pl": 1100,
+         "r": 5.5555553,
+         "eind": 10650
+      },
+      {
+         "pl": 500,
+         "eind": 10651
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10653
+      },
+      {
+         "pl": 300,
+         "eind": 10654
+      },
+      {
+         "pl": 400,
+         "eind": 10655
+      },
+      {
+         "pl": 200,
+         "eind": 10656
+      },
+      {
+         "pl": 100,
+         "eind": 10657
+      },
+      {
+         "pl": "<10",
+         "eind": 10658
       }
    ],
    "104": [
@@ -340416,6 +341342,94 @@
       {
          "pl": 200,
          "eind": 10616
+      },
+      {
+         "pl": 300,
+         "eind": 10617
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": "<10",
+         "eind": 10621
+      },
+      {
+         "pl": 200,
+         "eind": 10623
+      },
+      {
+         "pl": 300,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10630
+      },
+      {
+         "pl": 100,
+         "eind": 10635
+      },
+      {
+         "pl": 200,
+         "eind": 10638
+      },
+      {
+         "pl": 100,
+         "eind": 10639
+      },
+      {
+         "pl": "<10",
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": "<10",
+         "eind": 10647
+      },
+      {
+         "pl": 100,
+         "eind": 10648
+      },
+      {
+         "pl": "<10",
+         "eind": 10653
+      },
+      {
+         "pl": 100,
+         "eind": 10654
+      },
+      {
+         "pl": 200,
+         "eind": 10657
+      },
+      {
+         "pl": 300,
+         "eind": 10658
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": 100,
+         "eind": 10662
       }
    ],
    "203": [
@@ -364611,6 +365625,122 @@
       {
          "pl": 300,
          "eind": 10616
+      },
+      {
+         "pl": 500,
+         "eind": 10617
+      },
+      {
+         "pl": 400,
+         "eind": 10618
+      },
+      {
+         "pl": 200,
+         "eind": 10619
+      },
+      {
+         "pl": 100,
+         "eind": 10621
+      },
+      {
+         "pl": 200,
+         "eind": 10623
+      },
+      {
+         "pl": 300,
+         "eind": 10625
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "pl": 200,
+         "eind": 10637
+      },
+      {
+         "pl": 100,
+         "eind": 10641
+      },
+      {
+         "pl": "<10",
+         "eind": 10643
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": 300,
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10656
+      },
+      {
+         "pl": 300,
+         "eind": 10658
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": 400,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
+         "eind": 10662
       }
    ],
    "202": [
@@ -368642,6 +369772,82 @@
       {
          "pl": 100,
          "eind": 10612
+      },
+      {
+         "pl": 200,
+         "eind": 10617
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": "<10",
+         "eind": 10621
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": 200,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10628
+      },
+      {
+         "pl": 100,
+         "eind": 10637
+      },
+      {
+         "pl": "<10",
+         "eind": 10640
+      },
+      {
+         "pl": 100,
+         "eind": 10641
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": "<10",
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10651
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
+      },
+      {
+         "pl": 100,
+         "eind": 10656
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "248": [
@@ -395293,6 +396499,86 @@
       {
          "pl": 300,
          "eind": 10616
+      },
+      {
+         "pl": 400,
+         "eind": 10617
+      },
+      {
+         "pl": 300,
+         "eind": 10618
+      },
+      {
+         "pl": 200,
+         "eind": 10619
+      },
+      {
+         "pl": 100,
+         "eind": 10620
+      },
+      {
+         "pl": 300,
+         "eind": 10623
+      },
+      {
+         "pl": 400,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": 200,
+         "eind": 10637
+      },
+      {
+         "pl": 100,
+         "eind": 10640
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 300,
+         "eind": 10656
+      },
+      {
+         "pl": 200,
+         "eind": 10657
+      },
+      {
+         "pl": 300,
+         "eind": 10658
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": "<10",
+         "eind": 10660
+      },
+      {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": 100,
+         "eind": 10662
       }
    ],
    "160": [
@@ -442161,6 +443447,640 @@
             }
          },
          "eind": 10616
+      },
+      {
+         "hp": 1426748,
+         "pl": 5700,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 386701
+            }
+         },
+         "eind": 10617
+      },
+      {
+         "hp": 1449095,
+         "pl": 4000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 10618
+      },
+      {
+         "hp": 1452825,
+         "pl": 3400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10619
+      },
+      {
+         "hp": 1453728,
+         "pl": 3000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399968
+            }
+         },
+         "eind": 10620
+      },
+      {
+         "hp": 1448591,
+         "pl": 4100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399001
+            }
+         },
+         "eind": 10621
+      },
+      {
+         "hp": 1443335,
+         "pl": 4300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 396872
+            }
+         },
+         "eind": 10622
+      },
+      {
+         "hp": 1404471,
+         "pl": 10300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 381478
+            }
+         },
+         "eind": 10623
+      },
+      {
+         "hp": 1385571,
+         "pl": 7200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 371436
+            }
+         },
+         "eind": 10625
+      },
+      {
+         "hp": 1378431,
+         "pl": 7900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 367397
+            }
+         },
+         "eind": 10626
+      },
+      {
+         "hp": 1354101,
+         "pl": 4900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 353325
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "hp": 1347363,
+         "pl": 4500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 350882
+            }
+         },
+         "eind": 10628
+      },
+      {
+         "hp": 1346037,
+         "pl": 4300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 350128
+            }
+         },
+         "eind": 10629
+      },
+      {
+         "hp": 1343070,
+         "pl": 2900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 349002
+            }
+         },
+         "eind": 10630
+      },
+      {
+         "hp": 1359328,
+         "pl": 1900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 356911
+            }
+         },
+         "eind": 10633
+      },
+      {
+         "hp": 1366678,
+         "pl": 1600,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 360452
+            }
+         },
+         "eind": 10635
+      },
+      {
+         "hp": 1379807,
+         "pl": 1200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 365967
+            }
+         },
+         "eind": 10636
+      },
+      {
+         "hp": 1431260,
+         "pl": 800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 387363
+            }
+         },
+         "eind": 10637
+      },
+      {
+         "hp": 1464904,
+         "pl": 1000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10638
+      },
+      {
+         "hp": 1471418,
+         "pl": 800,
+         "eind": 10639
+      },
+      {
+         "hp": 1487459,
+         "pl": 700,
+         "eind": 10640
+      },
+      {
+         "hp": 1498814,
+         "pl": 500,
+         "eind": 10641
+      },
+      {
+         "hp": 1500000,
+         "pl": 300,
+         "eind": 10642
+      },
+      {
+         "pl": 400,
+         "eind": 10643
+      },
+      {
+         "pl": 800,
+         "eind": 10645
+      },
+      {
+         "pl": 700,
+         "eind": 10647
+      },
+      {
+         "pl": 600,
+         "eind": 10648
+      },
+      {
+         "pl": 900,
+         "eind": 10649
+      },
+      {
+         "pl": 2200,
+         "eind": 10650
+      },
+      {
+         "pl": 3000,
+         "eind": 10651
+      },
+      {
+         "pl": 1200,
+         "eind": 10652
+      },
+      {
+         "hp": 1499983,
+         "pl": 2000,
+         "eind": 10654
+      },
+      {
+         "hp": 1500000,
+         "pl": 2900,
+         "eind": 10655
+      },
+      {
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 10656
+      },
+      {
+         "hp": 1495587,
+         "pl": 10300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 394475
+            }
+         },
+         "eind": 10657
+      },
+      {
+         "hp": 1465062,
+         "pl": 15200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 366205
+            }
+         },
+         "eind": 10658
+      },
+      {
+         "hp": 1418873,
+         "pl": 5800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 329350
+            }
+         },
+         "eind": 10659
+      },
+      {
+         "hp": 1416192,
+         "pl": 2400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 326268
+            }
+         },
+         "eind": 10660
+      },
+      {
+         "hp": 1500000,
+         "pl": 2600,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 369071
+            }
+         },
+         "eind": 10661
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 389386
+            }
+         },
+         "eind": 10662
       }
    ],
    "171": [
@@ -459738,6 +461658,82 @@
       {
          "pl": 300,
          "eind": 10616
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": 300,
+         "eind": 10623
+      },
+      {
+         "pl": 200,
+         "eind": 10625
+      },
+      {
+         "pl": 300,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10630
+      },
+      {
+         "pl": 100,
+         "eind": 10633
+      },
+      {
+         "pl": "<10",
+         "eind": 10635
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": "<10",
+         "eind": 10647
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": 200,
+         "eind": 10651
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10655
+      },
+      {
+         "pl": 600,
+         "eind": 10657
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "172": [
@@ -468536,6 +470532,106 @@
       {
          "pl": 400,
          "eind": 10615
+      },
+      {
+         "pl": 500,
+         "eind": 10617
+      },
+      {
+         "pl": 300,
+         "eind": 10618
+      },
+      {
+         "pl": 200,
+         "eind": 10620
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 400,
+         "eind": 10625
+      },
+      {
+         "pl": 500,
+         "eind": 10626
+      },
+      {
+         "pl": 300,
+         "eind": 10627
+      },
+      {
+         "pl": 200,
+         "eind": 10628
+      },
+      {
+         "pl": 100,
+         "eind": 10630
+      },
+      {
+         "pl": "<10",
+         "eind": 10637
+      },
+      {
+         "pl": 100,
+         "eind": 10638
+      },
+      {
+         "pl": "<10",
+         "eind": 10639
+      },
+      {
+         "pl": 100,
+         "eind": 10640
+      },
+      {
+         "pl": "<10",
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10647
+      },
+      {
+         "pl": "<10",
+         "eind": 10648
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": 200,
+         "eind": 10651
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
+      },
+      {
+         "pl": 100,
+         "eind": 10654
+      },
+      {
+         "pl": 200,
+         "eind": 10655
+      },
+      {
+         "pl": 700,
+         "eind": 10657
+      },
+      {
+         "pl": 1000,
+         "eind": 10658
+      },
+      {
+         "pl": 300,
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10660
       }
    ],
    "173": [
@@ -483686,6 +485782,358 @@
             }
          },
          "eind": 10616
+      },
+      {
+         "pl": 2700,
+         "eind": 10617
+      },
+      {
+         "pl": 2000,
+         "eind": 10618
+      },
+      {
+         "pl": 1500,
+         "eind": 10619
+      },
+      {
+         "pl": 1300,
+         "eind": 10620
+      },
+      {
+         "hp": 1499998,
+         "pl": 1700,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399955
+            }
+         },
+         "eind": 10621
+      },
+      {
+         "hp": 1500000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399985
+            }
+         },
+         "eind": 10622
+      },
+      {
+         "pl": 3700,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399991
+            }
+         },
+         "eind": 10623
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10625
+      },
+      {
+         "pl": 3400,
+         "eind": 10626
+      },
+      {
+         "pl": 2100,
+         "eind": 10627
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399994
+            }
+         },
+         "eind": 10628
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399967
+            }
+         },
+         "eind": 10629
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10630
+      },
+      {
+         "pl": 800,
+         "eind": 10633
+      },
+      {
+         "pl": 600,
+         "eind": 10636
+      },
+      {
+         "pl": 400,
+         "eind": 10637
+      },
+      {
+         "pl": 300,
+         "eind": 10641
+      },
+      {
+         "pl": 200,
+         "eind": 10642
+      },
+      {
+         "pl": 600,
+         "eind": 10645
+      },
+      {
+         "pl": 400,
+         "eind": 10647
+      },
+      {
+         "pl": 300,
+         "eind": 10648
+      },
+      {
+         "pl": 400,
+         "eind": 10650
+      },
+      {
+         "pl": 500,
+         "eind": 10651
+      },
+      {
+         "pl": 200,
+         "eind": 10652
+      },
+      {
+         "pl": 300,
+         "eind": 10654
+      },
+      {
+         "pl": 500,
+         "eind": 10655
+      },
+      {
+         "pl": 400,
+         "eind": 10656
+      },
+      {
+         "pl": 6600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 397274
+            }
+         },
+         "eind": 10657
+      },
+      {
+         "hp": 1499994,
+         "pl": 8100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 383536
+            }
+         },
+         "eind": 10658
+      },
+      {
+         "hp": 1499977,
+         "pl": 3400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 366431
+            }
+         },
+         "eind": 10659
+      },
+      {
+         "hp": 1500000,
+         "pl": 1300,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 365899
+            }
+         },
+         "eind": 10660
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10661
+      },
+      {
+         "pl": 700,
+         "eind": 10662
       }
    ],
    "214": [
@@ -543534,6 +545982,114 @@
       {
          "pl": 700,
          "eind": 10616
+      },
+      {
+         "pl": 800,
+         "eind": 10617
+      },
+      {
+         "pl": 600,
+         "eind": 10618
+      },
+      {
+         "pl": 400,
+         "eind": 10619
+      },
+      {
+         "pl": 200,
+         "eind": 10620
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 700,
+         "eind": 10626
+      },
+      {
+         "pl": 400,
+         "eind": 10627
+      },
+      {
+         "pl": 300,
+         "eind": 10628
+      },
+      {
+         "pl": 200,
+         "eind": 10630
+      },
+      {
+         "pl": 300,
+         "eind": 10635
+      },
+      {
+         "pl": 200,
+         "eind": 10636
+      },
+      {
+         "pl": 300,
+         "eind": 10637
+      },
+      {
+         "pl": 400,
+         "eind": 10638
+      },
+      {
+         "pl": 300,
+         "eind": 10640
+      },
+      {
+         "pl": 200,
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10642
+      },
+      {
+         "pl": 200,
+         "eind": 10645
+      },
+      {
+         "pl": 300,
+         "eind": 10648
+      },
+      {
+         "pl": 400,
+         "eind": 10649
+      },
+      {
+         "pl": 200,
+         "eind": 10652
+      },
+      {
+         "pl": 300,
+         "eind": 10655
+      },
+      {
+         "pl": 500,
+         "eind": 10656
+      },
+      {
+         "pl": 700,
+         "eind": 10658
+      },
+      {
+         "pl": 200,
+         "eind": 10659
+      },
+      {
+         "pl": 300,
+         "eind": 10660
+      },
+      {
+         "pl": 800,
+         "eind": 10661
+      },
+      {
+         "pl": 400,
+         "eind": 10662
       }
    ],
    "198": [
@@ -558708,6 +561264,106 @@
       {
          "pl": 700,
          "eind": 10616
+      },
+      {
+         "pl": 800,
+         "eind": 10617
+      },
+      {
+         "pl": 600,
+         "eind": 10618
+      },
+      {
+         "pl": 400,
+         "eind": 10619
+      },
+      {
+         "pl": 300,
+         "eind": 10620
+      },
+      {
+         "pl": 200,
+         "eind": 10621
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 700,
+         "eind": 10626
+      },
+      {
+         "pl": 300,
+         "eind": 10627
+      },
+      {
+         "pl": 200,
+         "eind": 10628
+      },
+      {
+         "pl": 300,
+         "eind": 10637
+      },
+      {
+         "pl": 400,
+         "eind": 10638
+      },
+      {
+         "pl": 300,
+         "eind": 10640
+      },
+      {
+         "pl": 200,
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10642
+      },
+      {
+         "pl": 300,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10647
+      },
+      {
+         "pl": 300,
+         "eind": 10648
+      },
+      {
+         "pl": 400,
+         "eind": 10649
+      },
+      {
+         "pl": 200,
+         "eind": 10652
+      },
+      {
+         "pl": 300,
+         "eind": 10655
+      },
+      {
+         "pl": 500,
+         "eind": 10656
+      },
+      {
+         "pl": 700,
+         "eind": 10658
+      },
+      {
+         "pl": 200,
+         "eind": 10659
+      },
+      {
+         "pl": 800,
+         "eind": 10661
+      },
+      {
+         "pl": 400,
+         "eind": 10662
       }
    ],
    "199": [
@@ -584049,6 +586705,903 @@
             }
          },
          "eind": 10616
+      },
+      {
+         "pl": 4800,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 141310
+            }
+         },
+         "eind": 10617
+      },
+      {
+         "pl": 3600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 131913
+            }
+         },
+         "eind": 10618
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 128649
+            }
+         },
+         "eind": 10619
+      },
+      {
+         "pl": 1900,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 127012
+            }
+         },
+         "eind": 10620
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 123498
+            }
+         },
+         "eind": 10621
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 122124
+            }
+         },
+         "eind": 10622
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 117967
+            }
+         },
+         "eind": 10623
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 114586
+            }
+         },
+         "eind": 10625
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 112137
+            }
+         },
+         "eind": 10626
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 100173
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 98255
+            }
+         },
+         "eind": 10628
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 97868
+            }
+         },
+         "eind": 10629
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 97260
+            }
+         },
+         "eind": 10630
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 100231
+            }
+         },
+         "eind": 10633
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 101572
+            }
+         },
+         "eind": 10635
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 103491
+            }
+         },
+         "eind": 10636
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 109506
+            }
+         },
+         "eind": 10637
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 112885
+            }
+         },
+         "eind": 10638
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 113658
+            }
+         },
+         "eind": 10639
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 115939
+            }
+         },
+         "eind": 10640
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 117609
+            }
+         },
+         "eind": 10641
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 120598
+            }
+         },
+         "eind": 10642
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 121317
+            }
+         },
+         "eind": 10643
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 122107
+            }
+         },
+         "eind": 10644
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 127714
+            }
+         },
+         "eind": 10645
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 128639
+            }
+         },
+         "eind": 10647
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 130200
+            }
+         },
+         "eind": 10648
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 135174
+            }
+         },
+         "eind": 10649
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 140548
+            }
+         },
+         "eind": 10650
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 143219
+            }
+         },
+         "eind": 10651
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 146594
+            }
+         },
+         "eind": 10652
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 146897
+            }
+         },
+         "eind": 10653
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 148655
+            }
+         },
+         "eind": 10654
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 150050
+            }
+         },
+         "eind": 10655
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 153811
+            }
+         },
+         "eind": 10656
+      },
+      {
+         "pl": 2000,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154143
+            }
+         },
+         "eind": 10657
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154569
+            }
+         },
+         "eind": 10658
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154414
+            }
+         },
+         "eind": 10659
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154596
+            }
+         },
+         "eind": 10660
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 158759
+            }
+         },
+         "eind": 10661
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 159208
+            }
+         },
+         "eind": 10662
       }
    ],
    "158": [
@@ -626906,6 +630459,34 @@
       {
          "pl": 100,
          "eind": 10616
+      },
+      {
+         "pl": "<10",
+         "eind": 10619
+      },
+      {
+         "pl": 100,
+         "eind": 10625
+      },
+      {
+         "pl": "<10",
+         "eind": 10627
+      },
+      {
+         "pl": 100,
+         "eind": 10656
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "166": [
@@ -636630,6 +640211,102 @@
       {
          "pl": 800,
          "eind": 10616
+      },
+      {
+         "pl": 900,
+         "eind": 10617
+      },
+      {
+         "pl": 600,
+         "eind": 10618
+      },
+      {
+         "pl": 400,
+         "eind": 10619
+      },
+      {
+         "pl": 300,
+         "eind": 10620
+      },
+      {
+         "pl": 800,
+         "eind": 10623
+      },
+      {
+         "pl": 700,
+         "eind": 10625
+      },
+      {
+         "pl": 800,
+         "eind": 10626
+      },
+      {
+         "pl": 500,
+         "eind": 10627
+      },
+      {
+         "pl": 400,
+         "eind": 10628
+      },
+      {
+         "pl": 300,
+         "eind": 10630
+      },
+      {
+         "pl": 200,
+         "eind": 10640
+      },
+      {
+         "pl": 100,
+         "eind": 10641
+      },
+      {
+         "pl": 300,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10647
+      },
+      {
+         "pl": 300,
+         "eind": 10649
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10653
+      },
+      {
+         "pl": 300,
+         "eind": 10655
+      },
+      {
+         "pl": 700,
+         "eind": 10657
+      },
+      {
+         "pl": 900,
+         "eind": 10658
+      },
+      {
+         "pl": 300,
+         "eind": 10659
+      },
+      {
+         "pl": 200,
+         "eind": 10660
+      },
+      {
+         "pl": 400,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
+         "eind": 10662
       }
    ],
    "201": [
@@ -690543,6 +694220,807 @@
             }
          },
          "eind": 10616
+      },
+      {
+         "hp": 1590281,
+         "pl": 2400,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10617
+      },
+      {
+         "hp": 1490424,
+         "pl": 1800,
+         "eind": 10618
+      },
+      {
+         "hp": 1469586,
+         "pl": 1300,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 399966
+            }
+         },
+         "eind": 10619
+      },
+      {
+         "hp": 1454631,
+         "pl": 1100,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 399997
+            }
+         },
+         "eind": 10620
+      },
+      {
+         "hp": 1428165,
+         "pl": 5100,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 390066
+            }
+         },
+         "eind": 10621
+      },
+      {
+         "hp": 1408489,
+         "pl": 5600,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 377034
+            }
+         },
+         "eind": 10622
+      },
+      {
+         "hp": 1314354,
+         "pl": 9800,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 314104
+            }
+         },
+         "eind": 10623
+      },
+      {
+         "hp": 1249616,
+         "pl": 12000,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 268359
+            }
+         },
+         "eind": 10625
+      },
+      {
+         "hp": 1206009,
+         "pl": 14600,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 233230
+            }
+         },
+         "eind": 10626
+      },
+      {
+         "hp": 983133,
+         "pl": 8300,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 28102
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "hp": 953089,
+         "pl": 6500,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 198356
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 23,
+               "r": 1.1111112,
+               "hp": 3122
+            }
+         },
+         "eind": 10628
+      },
+      {
+         "hp": 348301,
+         "pl": 6200,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 197350
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10629
+      },
+      {
+         "hp": 334306,
+         "pl": 4600,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 99465
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 193388
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10630
+      },
+      {
+         "hp": 279098,
+         "pl": 2100,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 92847
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 191964
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10633
+      },
+      {
+         "hp": 264302,
+         "pl": 2200,
+         "dss": "",
+         "desc": [],
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 91533
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 193147
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10635
+      },
+      {
+         "hp": 244388,
+         "pl": 1600,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 90769
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 195463
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10636
+      },
+      {
+         "hp": 174907,
+         "pl": 1500,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 90040
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10637
+      },
+      {
+         "hp": 131024,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 89565
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10638
+      },
+      {
+         "hp": 123005,
+         "pl": 1400,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 89680
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10639
+      },
+      {
+         "hp": 104986,
+         "pl": 1100,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 90252
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10640
+      },
+      {
+         "hp": 92328,
+         "pl": 800,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 90674
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10641
+      },
+      {
+         "hp": 69370,
+         "pl": 600,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 91514
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10642
+      },
+      {
+         "hp": 61477,
+         "pl": 500,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 91709
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10643
+      },
+      {
+         "hp": 53544,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 91779
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10644
+      },
+      {
+         "hp": 9349,
+         "pl": 800,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.2777778,
+               "hp": 93256
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10645
+      },
+      {
+         "hp": 1475,
+         "t": 16,
+         "regions": {
+            "SYCAMORE GARDENS": {
+               "index": 0,
+               "name": "SYCAMORE GARDENS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 93606
+            },
+            "KODIAK FALLS": {
+               "index": 1,
+               "name": "KODIAK FALLS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "VOTING DISTRICT F-012357": {
+               "index": 2,
+               "name": "VOTING DISTRICT F-012357",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10647
+      },
+      {
+         "hp": 1700000,
+         "pl": 200,
+         "r": 11.111111,
+         "eind": 10648
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
       }
    ],
    "163": [
@@ -697850,6 +702328,30 @@
       {
          "pl": 600,
          "eind": 10616
+      },
+      {
+         "pl": 500,
+         "eind": 10617
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": "<10",
+         "eind": 10621
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10627
       }
    ],
    "251": [
@@ -738744,6 +743246,22 @@
       {
          "pl": 100,
          "eind": 10616
+      },
+      {
+         "pl": "<10",
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": 200,
+         "eind": 10625
+      },
+      {
+         "pl": "<10",
+         "eind": 10627
       }
    ],
    "94": [
@@ -742167,6 +746685,14 @@
             }
          },
          "eind": 10614
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10625
       }
    ],
    "95": [
@@ -746446,6 +750972,119 @@
       {
          "pl": "<10",
          "eind": 10612
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199998
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10620
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199999
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10621
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10622
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10625
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199998
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10630
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10633
       }
    ],
    "59": [
@@ -765601,6 +770240,106 @@
       {
          "pl": 1100,
          "eind": 10616
+      },
+      {
+         "pl": 1300,
+         "eind": 10617
+      },
+      {
+         "pl": 800,
+         "eind": 10618
+      },
+      {
+         "pl": 500,
+         "eind": 10619
+      },
+      {
+         "pl": 900,
+         "eind": 10623
+      },
+      {
+         "pl": 1300,
+         "eind": 10625
+      },
+      {
+         "pl": 1400,
+         "eind": 10626
+      },
+      {
+         "pl": 600,
+         "eind": 10627
+      },
+      {
+         "pl": 500,
+         "eind": 10628
+      },
+      {
+         "pl": 400,
+         "eind": 10630
+      },
+      {
+         "pl": 500,
+         "eind": 10635
+      },
+      {
+         "pl": 400,
+         "eind": 10637
+      },
+      {
+         "pl": 300,
+         "eind": 10640
+      },
+      {
+         "pl": 100,
+         "eind": 10642
+      },
+      {
+         "pl": 200,
+         "eind": 10643
+      },
+      {
+         "pl": 400,
+         "eind": 10645
+      },
+      {
+         "pl": 500,
+         "eind": 10649
+      },
+      {
+         "pl": 600,
+         "eind": 10650
+      },
+      {
+         "pl": 300,
+         "eind": 10652
+      },
+      {
+         "pl": 600,
+         "eind": 10655
+      },
+      {
+         "pl": 700,
+         "eind": 10656
+      },
+      {
+         "pl": 1000,
+         "eind": 10657
+      },
+      {
+         "pl": 1200,
+         "eind": 10658
+      },
+      {
+         "pl": 400,
+         "eind": 10659
+      },
+      {
+         "pl": 600,
+         "eind": 10661
+      },
+      {
+         "pl": 300,
+         "eind": 10662
       }
    ],
    "218": [
@@ -777540,6 +782279,165 @@
             }
          },
          "eind": 10616
+      },
+      {
+         "pl": 27200,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 232626
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10617
+      },
+      {
+         "pl": 20300,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 4058
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10618
+      },
+      {
+         "pl": 13900,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10619
+      },
+      {
+         "pl": 10500,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 10620
+      },
+      {
+         "pl": 800,
+         "r": 8.333333,
+         "eind": 10621
+      },
+      {
+         "pl": 500,
+         "eind": 10622
+      },
+      {
+         "pl": 800,
+         "eind": 10623
+      },
+      {
+         "pl": 900,
+         "eind": 10625
+      },
+      {
+         "pl": 300,
+         "eind": 10627
+      },
+      {
+         "pl": 100,
+         "eind": 10628
+      },
+      {
+         "pl": 200,
+         "eind": 10633
+      },
+      {
+         "pl": 300,
+         "eind": 10635
+      },
+      {
+         "pl": 200,
+         "eind": 10640
+      },
+      {
+         "pl": 100,
+         "eind": 10641
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
+      },
+      {
+         "pl": 100,
+         "eind": 10656
+      },
+      {
+         "pl": 200,
+         "eind": 10657
+      },
+      {
+         "pl": 100,
+         "eind": 10658
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "141": [
@@ -780704,6 +785602,42 @@
       {
          "pl": 200,
          "eind": 10615
+      },
+      {
+         "pl": 100,
+         "eind": 10619
+      },
+      {
+         "pl": 700,
+         "eind": 10621
+      },
+      {
+         "pl": 600,
+         "eind": 10622
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 400,
+         "eind": 10625
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
       }
    ],
    "184": [
@@ -790620,6 +795554,114 @@
       {
          "pl": 400,
          "eind": 10615
+      },
+      {
+         "pl": 500,
+         "eind": 10617
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 300,
+         "eind": 10619
+      },
+      {
+         "pl": 200,
+         "eind": 10620
+      },
+      {
+         "pl": 400,
+         "eind": 10621
+      },
+      {
+         "pl": 800,
+         "eind": 10623
+      },
+      {
+         "pl": 700,
+         "eind": 10625
+      },
+      {
+         "pl": 400,
+         "eind": 10627
+      },
+      {
+         "pl": 300,
+         "eind": 10628
+      },
+      {
+         "pl": 200,
+         "eind": 10630
+      },
+      {
+         "pl": 100,
+         "eind": 10633
+      },
+      {
+         "pl": 200,
+         "eind": 10635
+      },
+      {
+         "pl": 100,
+         "eind": 10636
+      },
+      {
+         "pl": 200,
+         "eind": 10637
+      },
+      {
+         "pl": 100,
+         "eind": 10640
+      },
+      {
+         "pl": "<10",
+         "eind": 10644
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 3000,
+         "eind": 10655
+      },
+      {
+         "pl": 4700,
+         "eind": 10656
+      },
+      {
+         "pl": 14200,
+         "eind": 10657
+      },
+      {
+         "pl": 14400,
+         "eind": 10658
+      },
+      {
+         "pl": 5400,
+         "eind": 10659
+      },
+      {
+         "pl": 3200,
+         "eind": 10660
+      },
+      {
+         "pl": 3900,
+         "eind": 10661
+      },
+      {
+         "pl": 2100,
+         "eind": 10662
       }
    ],
    "18": [
@@ -845020,6 +850062,10 @@
       {
          "pl": 100,
          "eind": 10616
+      },
+      {
+         "pl": "<10",
+         "eind": 10618
       }
    ],
    "206": [
@@ -857448,6 +862494,62 @@
       {
          "pl": 200,
          "eind": 10616
+      },
+      {
+         "pl": 100,
+         "eind": 10617
+      },
+      {
+         "pl": "<10",
+         "eind": 10620
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": 200,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10628
+      },
+      {
+         "pl": 100,
+         "eind": 10638
+      },
+      {
+         "pl": "<10",
+         "eind": 10640
+      },
+      {
+         "pl": 100,
+         "eind": 10649
+      },
+      {
+         "pl": "<10",
+         "eind": 10652
+      },
+      {
+         "pl": 100,
+         "eind": 10656
+      },
+      {
+         "pl": "<10",
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10661
+      },
+      {
+         "pl": "<10",
+         "eind": 10662
       }
    ],
    "72": [
@@ -897210,6 +902312,139 @@
       {
          "pl": 500,
          "eind": 10616
+      },
+      {
+         "pl": 400,
+         "eind": 10618
+      },
+      {
+         "pl": 200,
+         "eind": 10619
+      },
+      {
+         "pl": 500,
+         "eind": 10623
+      },
+      {
+         "pl": 400,
+         "eind": 10625
+      },
+      {
+         "pl": 500,
+         "eind": 10626
+      },
+      {
+         "pl": 300,
+         "eind": 10627
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399983
+            }
+         },
+         "eind": 10628
+      },
+      {
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10629
+      },
+      {
+         "pl": 100,
+         "eind": 10635
+      },
+      {
+         "pl": "<10",
+         "eind": 10642
+      },
+      {
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399994
+            }
+         },
+         "eind": 10643
+      },
+      {
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10644
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10649
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10654
+      },
+      {
+         "pl": 300,
+         "eind": 10655
+      },
+      {
+         "pl": 200,
+         "eind": 10656
+      },
+      {
+         "pl": 500,
+         "eind": 10657
+      },
+      {
+         "pl": 600,
+         "eind": 10658
+      },
+      {
+         "pl": 300,
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10660
+      },
+      {
+         "pl": 300,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
+         "eind": 10662
       }
    ],
    "130": [
@@ -931277,6 +936512,95 @@
       {
          "pl": 600,
          "eind": 10616
+      },
+      {
+         "pl": 700,
+         "eind": 10617
+      },
+      {
+         "pl": 500,
+         "eind": 10618
+      },
+      {
+         "pl": 300,
+         "eind": 10619
+      },
+      {
+         "pl": 600,
+         "eind": 10623
+      },
+      {
+         "pl": 700,
+         "eind": 10626
+      },
+      {
+         "pl": 400,
+         "eind": 10627
+      },
+      {
+         "pl": 300,
+         "eind": 10628
+      },
+      {
+         "hp": 999996,
+         "pl": 200,
+         "eind": 10629
+      },
+      {
+         "hp": 1000000,
+         "eind": 10630
+      },
+      {
+         "pl": 100,
+         "eind": 10635
+      },
+      {
+         "pl": "<10",
+         "eind": 10641
+      },
+      {
+         "pl": 100,
+         "eind": 10645
+      },
+      {
+         "pl": 200,
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10652
+      },
+      {
+         "pl": 200,
+         "eind": 10655
+      },
+      {
+         "pl": 300,
+         "eind": 10656
+      },
+      {
+         "pl": 600,
+         "eind": 10657
+      },
+      {
+         "pl": 900,
+         "eind": 10658
+      },
+      {
+         "pl": 200,
+         "eind": 10659
+      },
+      {
+         "pl": 100,
+         "eind": 10660
+      },
+      {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": 100,
+         "eind": 10662
       }
    ],
    "93": [
@@ -934122,6 +939446,30 @@
       {
          "pl": "<10",
          "eind": 10615
+      },
+      {
+         "pl": 100,
+         "eind": 10622
+      },
+      {
+         "pl": 200,
+         "eind": 10623
+      },
+      {
+         "pl": 100,
+         "eind": 10625
+      },
+      {
+         "pl": 200,
+         "eind": 10626
+      },
+      {
+         "pl": 100,
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "eind": 10630
       }
    ],
    "137": [
@@ -948428,6 +953776,85 @@
       {
          "pl": "<10",
          "eind": 10615
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "regions": {
+            "KESUMA": {
+               "index": 0,
+               "name": "KESUMA",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199999
+            },
+            "UNGU": {
+               "index": 1,
+               "name": "UNGU",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NO COMPOUND": {
+               "index": 2,
+               "name": "NO COMPOUND",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "FILIBUSTER": {
+               "index": 3,
+               "name": "FILIBUSTER",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "pl": "<10",
+         "regions": {
+            "KESUMA": {
+               "index": 0,
+               "name": "KESUMA",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "UNGU": {
+               "index": 1,
+               "name": "UNGU",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NO COMPOUND": {
+               "index": 2,
+               "name": "NO COMPOUND",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "FILIBUSTER": {
+               "index": 3,
+               "name": "FILIBUSTER",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 10628
       }
    ],
    "182": [
@@ -951907,6 +957334,176 @@
       {
          "pl": 500,
          "eind": 10616
+      },
+      {
+         "pl": 200,
+         "eind": 10618
+      },
+      {
+         "pl": 100,
+         "eind": 10620
+      },
+      {
+         "pl": 700,
+         "eind": 10621
+      },
+      {
+         "pl": 1000,
+         "eind": 10622
+      },
+      {
+         "pl": 2500,
+         "eind": 10623
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 10625
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399990
+            }
+         },
+         "eind": 10626
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10627
+      },
+      {
+         "pl": 1200,
+         "eind": 10628
+      },
+      {
+         "pl": 1100,
+         "eind": 10629
+      },
+      {
+         "pl": 900,
+         "eind": 10630
+      },
+      {
+         "pl": 600,
+         "eind": 10633
+      },
+      {
+         "pl": 500,
+         "eind": 10637
+      },
+      {
+         "pl": 700,
+         "eind": 10638
+      },
+      {
+         "pl": 600,
+         "eind": 10639
+      },
+      {
+         "pl": 500,
+         "eind": 10640
+      },
+      {
+         "pl": 400,
+         "eind": 10641
+      },
+      {
+         "pl": 300,
+         "eind": 10642
+      },
+      {
+         "pl": 200,
+         "eind": 10643
+      },
+      {
+         "pl": 300,
+         "eind": 10645
+      },
+      {
+         "pl": 400,
+         "eind": 10647
+      },
+      {
+         "pl": 500,
+         "eind": 10649
+      },
+      {
+         "pl": 200,
+         "eind": 10652
+      },
+      {
+         "pl": 300,
+         "eind": 10656
+      },
+      {
+         "pl": 500,
+         "eind": 10658
+      },
+      {
+         "pl": 100,
+         "eind": 10659
+      },
+      {
+         "pl": 200,
+         "eind": 10660
+      },
+      {
+         "pl": 500,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
+         "eind": 10662
       }
    ],
    "177": [
@@ -961554,6 +967151,14 @@
       {
          "pl": "<10",
          "eind": 10612
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10625
       }
    ],
    "225": [
@@ -967797,6 +973402,14 @@
       {
          "pl": "<10",
          "eind": 10612
+      },
+      {
+         "pl": 100,
+         "eind": 10623
+      },
+      {
+         "pl": "<10",
+         "eind": 10625
       }
    ],
    "232": [

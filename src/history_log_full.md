@@ -16959,3 +16959,67 @@ DSS deploys to *Matar Bay* of the Andromeda sector (2026-06-28 10:35  UTC)<br/>
  Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
  (2026-06-28 12:00  UTC)<br/>
 DSS deploys to *Alaraph* of the Akira sector (2026-06-28 18:23  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City has fallen to Human (2026-06-29 04:25  UTC)<br/>
+*Alaraph* defense is won (2026-06-29 07:22  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2026-06-29 07:22  UTC)<br/>
+
+### Day: #873
+ Decay: 3.0 on Alaraph
+ (2026-06-29 09:00  UTC)<br/>
+Major Order | [A3-6-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-7) Census Thunder - Repatriation is won| Objective: Liberate/Exterminate (2026-06-29 14:51  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Voteless Processing Plant is operational. Its bio-centrifuges have already processed several tons of Voteless tissue, aiding research into the Void. Voteless incursions from the Void have subsided. Consult the Control Center for more information. (2026-06-29 14:52  UTC)<br/>
+*Clasa* Region 1 KODIAK FALLS Town is besieged by Humans (2026-06-30 06:36  UTC)<br/>
+*Brilliance* of the Orion sector is attacked by Terminids (2026-06-30 08:08  UTC)<br/>
+*Clasa* Region 0 SYCAMORE GARDENS Settlement is besieged by Human (2026-06-30 08:15  UTC)<br/>
+*Clasa* Region 2 VOTING DISTRICT F-012357 City has fallen to Human (2026-06-30 08:15  UTC)<br/>
+ Decay: 0.0 on Brilliance
+ (2026-06-30 08:15  UTC)<br/>
+
+### Day: #874
+Major Order | [A3-6-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-8) Celestial Fense-Deployment is issued| Objective: Defend (2026-06-30 09:01  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Terminids have launched attacks to halt construction of the flawless, updated, and entirely safe TCS+ project. Helldivers must defend against 5 Terminid attacks to secure the sites; wherever Helldivers hold the line is where the unshakeable borders of Liberty will be drawn. (2026-06-30 09:02  UTC)<br/>
+Assault Division: Dragonroaches U3A leaves *Brilliance* (2026-06-30 13:03  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-06-30 13:11  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-06-30 14:23  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2026-06-30 14:23  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2026-06-30 22:24  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-07-01 02:27  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To aid the Helldivers with their newest mandate, the Orbital Gas Strike Stratagem has been made freely available fleetwide, for the next 48 hours. Furthermore, the mandated waiting period between each use of the Stratagem has been reduced during this same timeframe. (2026-07-01 03:03  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Terminids (2026-07-01 04:57  UTC)<br/>
+ Decay: 0.0 on Fori Prime
+ (2026-07-01 06:00  UTC)<br/>
+*Terrek* defense is won (2026-07-01 08:15  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco sector (2026-07-01 08:15  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-07-01 08:15  UTC)<br/>
+
+### Day: #875
+Assault Division: Spore Burst Strain U2A leaves *Big Rock* (2026-07-01 09:55  UTC)<br/>
+Assault Division: Spore Burst Strain U2A deploys to *Crimsica* (2026-07-01 14:01  UTC)<br/>
+*Crimsica* of the Draco sector is attacked by Terminids (2026-07-01 14:02  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Human (2026-07-01 14:02  UTC)<br/>
+*Clasa* is liberated (2026-07-01 14:55  UTC)<br/>
+Tanis sector is fully under Human control (2026-07-01 14:55  UTC)<br/>
+ Decay: 0.0 on Crimsica
+ (2026-07-01 14:55  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-07-01 14:55  UTC)<br/>
+ Decay: 4.0 on Clasa
+ (2026-07-01 16:00  UTC)<br/>
+ Decay: 2.5 on Brilliance
+ (2026-07-01 20:00  UTC)<br/>
+ Decay: 2.0 on Fori Prime
+ (2026-07-02 00:00  UTC)<br/>
+
+### Day: #876
+ Decay: 1.5 on Crimsica
+ (2026-07-02 22:00  UTC)<br/>
+
+### Day: #877
+ Decay: 0.0 on Erata Prime
+ (2026-07-03 09:00  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-07-03 09:00  UTC)<br/>
+
+### Day: #878
