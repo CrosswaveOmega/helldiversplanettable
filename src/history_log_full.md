@@ -17007,19 +17007,65 @@ Tanis sector is fully under Human control (2026-07-01 14:55  UTC)<br/>
  (2026-07-01 14:55  UTC)<br/>
  Decay: 4.0 on Clasa
  (2026-07-01 16:00  UTC)<br/>
+*Brilliance* defense is won (2026-07-01 19:30  UTC)<br/>
  Decay: 2.5 on Brilliance
- (2026-07-01 20:00  UTC)<br/>
+ (2026-07-01 19:30  UTC)<br/>
+*Fori Prime* defense is won (2026-07-01 22:11  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-07-01 22:11  UTC)<br/>
  Decay: 2.0 on Fori Prime
  (2026-07-02 00:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-07-02 02:28  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-07-02 02:36  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City has fallen to Human (2026-07-02 06:19  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement is besieged by Human (2026-07-02 06:49  UTC)<br/>
 
 ### Day: #876
+*Crimsica* Region 0 LIL'OME Settlement has fallen to Human (2026-07-02 10:17  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To further increase the likelihood of the Helldivers' success, the MD-8 Gas Mines Stratagem is now freely available fleetwide, for the next 48 hours. (2026-07-02 11:05  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Sangis* (2026-07-02 12:09  UTC)<br/>
+Dispatch: EXOSTORM ADVISORY A Category 1 Exostorm has been detected on SANGIS, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend SANGIS to nullify the exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-07-02 12:10  UTC)<br/>
+*Crimsica* defense is won (2026-07-02 21:57  UTC)<br/>
+DSS deploys to *Sangis* of the Omega sector (2026-07-02 21:58  UTC)<br/>
  Decay: 1.5 on Crimsica
  (2026-07-02 22:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-07-03 02:37  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To aid the Helldivers with their newest mandate, the Orbital Gas Strike Stratagem has been made freely available fleetwide, for the next 48 hours. Furthermore, the mandated waiting period between each use of the Stratagem has been reduced during this same timeframe. (2026-07-03 03:07  UTC)<br/>
+Assault Division: Rupture Strain U7A deploys to *Erata Prime* (2026-07-03 08:42  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-07-03 08:43  UTC)<br/>
 
 ### Day: #877
  Decay: 0.0 on Erata Prime
  (2026-07-03 09:00  UTC)<br/>
  Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
  (2026-07-03 09:00  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2026-07-03 14:25  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-07-03 15:19  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-07-03 16:57  UTC)<br/>
 
 ### Day: #878
+Dispatch: ARSENAL AUGMENTATION ENDED. Free fleetwide availability of the MD-8 Gas Mines Stratagem has now ended. (2026-07-04 11:10  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-07-04 16:57  UTC)<br/>
+*Erata Prime* defense is won (2026-07-04 17:55  UTC)<br/>
+DSS deploys to *Sangis* of the Omega sector (2026-07-04 17:55  UTC)<br/>
+Major Order | [A3-6-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-8) Celestial Fense-Deployment is won | Objective: Defend (2026-07-04 17:56  UTC)<br/>
+Dispatch: MAJOR ORDER WON The Helldivers have successfully defended the initial TCS+ construction sites; demand for the new wall has surged beyond all projected models. Resultantly, the Helldivers must prepare for rapid resource procurement operations across multiple enemy fronts. (2026-07-04 17:56  UTC)<br/>
+*Brilliance* of the Orion sector is established as a TERMINID CONTROL SYSTEM+ POI (2026-07-04 18:28  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2026-07-04 18:28  UTC)<br/>
+Assault Division: Cyborgs U9A deploys to *Meissa* (2026-07-05 08:30  UTC)<br/>
+ Decay: 0.0 on Meissa
+ (2026-07-05 08:30  UTC)<br/>
+
+### Day: #879
+Major Order | [A3-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-1) Celestial Fense-Procurement  is issued | Objective: Hold (2026-07-05 11:08  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Expansion requires an immediate influx of gas and mineral resources to maintain the construction pace of the new TCS+. To secure these, the Helldivers are ordered to liberate MOX from the Automatons and AESIR PASS from the Illuminate, while holding BRILLIANCE, the key construction site for planetary TCS+ arrays. (2026-07-05 11:09  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Expansion requires an immediate influx of gas and mineral resources to maintain the construction pace of the new TCS+. To secure these, the Helldivers are ordered to liberate MOX from the Automatons and GENESIS PRIME from the Illuminate, while holding BRILLIANCE, the key construction site for planetary TCS+ arrays. (2026-07-05 11:25  UTC)<br/>
+A Class-2  Exostorm warning was issued for *Sangis* (2026-07-05 12:11  UTC)<br/>
+Dispatch: EXOSTORM ESCALATION. The Exostorm on SANGIS has intensified to Category 2 - localized atmospheric cells are fusing into cascading planetary maelstroms. This severe atmospheric volatility presents an extreme hazard to Helldivers. Helldivers: defend SANGIS to nullify the Exostorm before it progresses into a far more hazardous Category 3 maelstrom. Overcome this environmental interference with the unyielding determination *Super Earth* demands. (2026-07-05 12:12  UTC)<br/>
+DSS deploys to *Mox* of the Trigon sector (2026-07-05 18:26  UTC)<br/>
+ Decay: 2.0 on Mox
+ (2026-07-06 08:00  UTC)<br/>
+
+# Day: #880
+ Decay: 1.0 on Meissa
+ (2026-07-06 09:00  UTC)<br/>

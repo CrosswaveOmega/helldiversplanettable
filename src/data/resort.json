@@ -17306,19 +17306,39 @@
       },
       {
          "pl": "<10",
-         "eind": 10652
+         "eind": 10657
       },
       {
          "pl": 100,
-         "eind": 10653
+         "eind": 10658
       },
       {
          "pl": "<10",
-         "eind": 10659
+         "eind": 10670
       },
       {
          "pl": 100,
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 200,
+         "eind": 10681
+      },
+      {
+         "pl": 100,
+         "eind": 10683
+      },
+      {
+         "pl": 200,
+         "eind": 10690
+      },
+      {
+         "pl": 100,
+         "eind": 10692
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
       }
    ],
    "1": [
@@ -49504,32 +49524,32 @@
          "eind": 10650
       },
       {
-         "pl": 600,
-         "eind": 10651
-      },
-      {
          "pl": 100,
-         "eind": 10652
+         "eind": 10654
       },
       {
          "pl": "<10",
-         "eind": 10653
-      },
-      {
-         "pl": 100,
          "eind": 10656
       },
       {
+         "pl": 100,
+         "eind": 10662
+      },
+      {
+         "pl": 200,
+         "eind": 10666
+      },
+      {
          "pl": "<10",
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": 100,
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": "<10",
-         "eind": 10662
+         "eind": 10676
       }
    ],
    "77": [
@@ -68093,45 +68113,94 @@
          "eind": 10648
       },
       {
-         "pl": 12300,
+         "pl": 25700,
          "r": 6.9444447,
+         "t": 16,
          "eind": 10649
       },
       {
-         "pl": 900,
+         "pl": 1100,
          "eind": 10650
       },
       {
-         "pl": 800,
+         "pl": 900,
          "eind": 10651
       },
       {
-         "pl": 300,
+         "pl": 800,
          "eind": 10652
       },
       {
-         "pl": 500,
-         "eind": 10654
+         "pl": 900,
+         "eind": 10653
       },
       {
-         "pl": 600,
-         "eind": 10655
+         "pl": 400,
+         "eind": 10654
       },
       {
          "pl": 300,
          "eind": 10656
       },
       {
-         "pl": 200,
-         "eind": 10658
+         "pl": 400,
+         "eind": 10657
       },
       {
-         "pl": 100,
+         "pl": 500,
          "eind": 10659
       },
       {
-         "pl": "<10",
+         "pl": 600,
+         "eind": 10661
+      },
+      {
+         "pl": 200,
          "eind": 10662
+      },
+      {
+         "pl": 300,
+         "eind": 10664
+      },
+      {
+         "pl": 100,
+         "eind": 10668
+      },
+      {
+         "pl": 200,
+         "eind": 10672
+      },
+      {
+         "pl": 100,
+         "eind": 10675
+      },
+      {
+         "pl": "<10",
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10678
+      },
+      {
+         "pl": "<10",
+         "eind": 10683
+      },
+      {
+         "pl": 100,
+         "eind": 10689
+      },
+      {
+         "pl": "<10",
+         "eind": 10690
+      },
+      {
+         "pl": 100,
+         "eind": 10692
+      },
+      {
+         "pl": "<10",
+         "eind": 10694
       }
    ],
    "271": [
@@ -95814,47 +95883,100 @@
       },
       {
          "pl": 200,
-         "eind": 10650
-      },
-      {
-         "pl": 100,
-         "eind": 10652
-      },
-      {
-         "pl": "<10",
-         "eind": 10653
+         "eind": 10651
       },
       {
          "pl": 100,
          "eind": 10654
       },
       {
-         "pl": 200,
-         "eind": 10655
+         "pl": "<10",
+         "eind": 10656
       },
       {
-         "pl": 1600,
+         "pl": 100,
          "eind": 10657
       },
       {
-         "pl": 1900,
-         "eind": 10658
-      },
-      {
-         "pl": 500,
-         "eind": 10659
-      },
-      {
          "pl": 200,
-         "eind": 10660
-      },
-      {
-         "pl": 300,
          "eind": 10661
       },
       {
+         "pl": 1600,
+         "eind": 10665
+      },
+      {
+         "pl": 2100,
+         "eind": 10666
+      },
+      {
+         "pl": 2000,
+         "eind": 10667
+      },
+      {
+         "pl": 800,
+         "desc": [],
+         "eind": 10668
+      },
+      {
+         "pl": 500,
+         "eind": 10670
+      },
+      {
          "pl": 200,
-         "eind": 10662
+         "eind": 10671
+      },
+      {
+         "pl": 300,
+         "eind": 10672
+      },
+      {
+         "pl": 200,
+         "eind": 10676
+      },
+      {
+         "pl": 400,
+         "eind": 10678
+      },
+      {
+         "pl": 1000,
+         "eind": 10681
+      },
+      {
+         "pl": 1400,
+         "eind": 10682
+      },
+      {
+         "pl": 800,
+         "eind": 10683
+      },
+      {
+         "pl": 700,
+         "eind": 10684
+      },
+      {
+         "pl": 600,
+         "eind": 10685
+      },
+      {
+         "pl": 500,
+         "eind": 10687
+      },
+      {
+         "pl": 300,
+         "eind": 10690
+      },
+      {
+         "pl": 400,
+         "eind": 10693
+      },
+      {
+         "pl": 300,
+         "eind": 10694
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "212": [
@@ -138076,11 +138198,35 @@
       },
       {
          "pl": 100,
-         "eind": 10661
+         "eind": 10666
       },
       {
          "pl": "<10",
-         "eind": 10662
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10672
+      },
+      {
+         "pl": "<10",
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10678
+      },
+      {
+         "pl": "<10",
+         "eind": 10683
+      },
+      {
+         "pl": 100,
+         "eind": 10689
+      },
+      {
+         "pl": "<10",
+         "eind": 10694
       }
    ],
    "100": [
@@ -205858,6 +206004,28 @@
          "eind": 10477
       },
       {
+         "adiv": "RuptureStrain",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 10668
+      },
+      {
+         "t": 21,
+         "eind": 10669
+      },
+      {
          "pl": 4000,
          "r": 0.0,
          "regions": {
@@ -205886,7 +206054,7 @@
                "hp": 200000
             }
          },
-         "eind": 10659
+         "eind": 10670
       },
       {
          "pl": 13400,
@@ -205916,10 +206084,89 @@
                "hp": 200000
             }
          },
-         "eind": 10660
+         "eind": 10671
       },
       {
-         "pl": 38200,
+         "pl": 34000,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 39436
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10672
+      },
+      {
+         "pl": 36600,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 1955
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10673
+      },
+      {
+         "pl": 35900,
          "regions": {
             "NEW DA NANG": {
                "index": 0,
@@ -205946,11 +206193,88 @@
                "hp": 200000
             }
          },
-         "eind": 10661
+         "eind": 10674
+      },
+      {
+         "pl": 38200,
+         "eind": 10675
       },
       {
          "pl": 23000,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 24000,
+         "eind": 10677
+      },
+      {
+         "pl": 40300,
+         "eind": 10678
+      },
+      {
+         "pl": 39800,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 10679
+      },
+      {
+         "pl": 24000,
+         "r": 6.9444447,
+         "eind": 10681
+      },
+      {
+         "pl": 2300,
+         "eind": 10682
+      },
+      {
+         "pl": 1000,
+         "eind": 10683
+      },
+      {
+         "pl": 800,
+         "eind": 10684
+      },
+      {
+         "pl": 700,
+         "eind": 10685
+      },
+      {
+         "pl": 600,
+         "eind": 10686
+      },
+      {
+         "pl": 700,
+         "eind": 10687
+      },
+      {
+         "pl": 800,
+         "eind": 10692
+      },
+      {
+         "pl": 600,
+         "eind": 10693
+      },
+      {
+         "pl": 300,
+         "eind": 10694
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "270": [
@@ -234005,39 +234329,95 @@
       },
       {
          "pl": 200,
-         "eind": 10649
+         "eind": 10651
       },
       {
          "pl": 100,
-         "eind": 10652
-      },
-      {
-         "pl": 200,
-         "eind": 10655
-      },
-      {
-         "pl": 700,
-         "eind": 10657
-      },
-      {
-         "pl": 800,
-         "eind": 10658
-      },
-      {
-         "pl": 200,
-         "eind": 10659
-      },
-      {
-         "pl": 100,
-         "eind": 10660
+         "eind": 10654
       },
       {
          "pl": 200,
          "eind": 10661
       },
       {
+         "pl": 700,
+         "eind": 10665
+      },
+      {
+         "pl": 900,
+         "eind": 10666
+      },
+      {
+         "pl": 800,
+         "eind": 10667
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
+         "pl": 200,
+         "eind": 10670
+      },
+      {
          "pl": 100,
-         "eind": 10662
+         "eind": 10671
+      },
+      {
+         "pl": 200,
+         "eind": 10672
+      },
+      {
+         "pl": 100,
+         "eind": 10676
+      },
+      {
+         "pl": 300,
+         "eind": 10678
+      },
+      {
+         "pl": 700,
+         "eind": 10681
+      },
+      {
+         "pl": 1000,
+         "eind": 10682
+      },
+      {
+         "pl": 700,
+         "eind": 10683
+      },
+      {
+         "pl": 600,
+         "eind": 10684
+      },
+      {
+         "pl": 500,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10687
+      },
+      {
+         "pl": 300,
+         "eind": 10689
+      },
+      {
+         "pl": 400,
+         "eind": 10692
+      },
+      {
+         "pl": 300,
+         "eind": 10693
+      },
+      {
+         "pl": 200,
+         "eind": 10694
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "78": [
@@ -262690,7 +263070,7 @@
          "eind": 10648
       },
       {
-         "pl": 6500,
+         "pl": 4500,
          "regions": {
             "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
                "index": 1,
@@ -262698,7 +263078,7 @@
                "desc": "Nothing of note.",
                "t": 19,
                "r": 0.2777778,
-               "hp": 389883
+               "hp": 391452
             },
             "LIL'OME": {
                "index": 78,
@@ -262710,6 +263090,43 @@
             }
          },
          "eind": 10649
+      },
+      {
+         "pl": 7400,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 383230
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10650
       },
       {
          "pl": 36200,
@@ -262731,10 +263148,10 @@
                "hp": 100000
             }
          },
-         "eind": 10650
+         "eind": 10651
       },
       {
-         "pl": 42200,
+         "pl": 42100,
          "regions": {
             "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
                "index": 1,
@@ -262742,7 +263159,7 @@
                "desc": "Nothing of note.",
                "t": 19,
                "r": 0.2777778,
-               "hp": 192281
+               "hp": 178498
             },
             "LIL'OME": {
                "index": 78,
@@ -262753,32 +263170,10 @@
                "hp": 100000
             }
          },
-         "eind": 10651
-      },
-      {
-         "pl": 19400,
-         "regions": {
-            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
-               "index": 1,
-               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
-               "desc": "Nothing of note.",
-               "t": 19,
-               "r": 0.2777778,
-               "hp": 400000
-            },
-            "LIL'OME": {
-               "index": 78,
-               "name": "LIL'OME",
-               "desc": "Nothing of note.",
-               "t": 16,
-               "r": 0.2777778,
-               "hp": 83674
-            }
-         },
          "eind": 10652
       },
       {
-         "pl": 18300,
+         "pl": 42500,
          "regions": {
             "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
                "index": 1,
@@ -262786,7 +263181,7 @@
                "desc": "Nothing of note.",
                "t": 19,
                "r": 0.2777778,
-               "hp": 400000
+               "hp": 166330
             },
             "LIL'OME": {
                "index": 78,
@@ -262794,21 +263189,21 @@
                "desc": "Nothing of note.",
                "t": 16,
                "r": 0.2777778,
-               "hp": 48780
+               "hp": 100000
             }
          },
          "eind": 10653
       },
       {
-         "pl": 24400,
+         "pl": 24900,
          "regions": {
             "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
                "index": 1,
                "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
                "desc": "Nothing of note.",
-               "t": 19,
+               "t": 16,
                "r": 0.2777778,
-               "hp": 400000
+               "hp": 2003
             },
             "LIL'OME": {
                "index": 78,
@@ -262822,37 +263217,162 @@
          "eind": 10654
       },
       {
-         "pl": 33900,
+         "pl": 22600,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
          "eind": 10655
+      },
+      {
+         "pl": 18300,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 48780
+            }
+         },
+         "eind": 10656
+      },
+      {
+         "pl": 18500,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 10657
+      },
+      {
+         "pl": 19900,
+         "eind": 10658
+      },
+      {
+         "pl": 24400,
+         "eind": 10659
+      },
+      {
+         "pl": 33900,
+         "eind": 10661
+      },
+      {
+         "pl": 35300,
+         "t": 16,
+         "eind": 10662
+      },
+      {
+         "dss": "",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10663
       },
       {
          "pl": 33500,
          "r": 4.1666665,
-         "eind": 10656
+         "eind": 10664
       },
       {
          "pl": 1900,
-         "eind": 10657
+         "eind": 10665
       },
       {
-         "pl": 1100,
-         "eind": 10658
+         "pl": 1500,
+         "eind": 10666
+      },
+      {
+         "pl": 1400,
+         "eind": 10667
       },
       {
          "pl": 500,
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": 400,
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 700,
+         "eind": 10672
+      },
+      {
+         "pl": 600,
+         "eind": 10673
       },
       {
          "pl": 300,
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": 100,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 200,
+         "eind": 10678
+      },
+      {
+         "pl": 100,
+         "eind": 10683
+      },
+      {
+         "pl": "<10",
+         "eind": 10685
+      },
+      {
+         "pl": 100,
+         "eind": 10687
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
       }
    ],
    "169": [
@@ -287979,45 +288499,61 @@
          "eind": 10648
       },
       {
-         "pl": 29100,
+         "pl": 17700,
          "eind": 10649
+      },
+      {
+         "pl": 32700,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 10650
       },
       {
          "pl": 1100,
          "r": 5.5555553,
-         "eind": 10650
-      },
-      {
-         "pl": 500,
          "eind": 10651
       },
       {
-         "pl": 100,
+         "pl": 400,
          "eind": 10652
       },
       {
          "pl": 200,
-         "eind": 10653
-      },
-      {
-         "pl": 300,
          "eind": 10654
       },
       {
+         "pl": 300,
+         "eind": 10658
+      },
+      {
          "pl": 400,
-         "eind": 10655
+         "eind": 10661
       },
       {
          "pl": 200,
-         "eind": 10656
+         "eind": 10662
       },
       {
          "pl": 100,
-         "eind": 10657
+         "eind": 10665
       },
       {
          "pl": "<10",
-         "eind": 10658
+         "eind": 10667
+      },
+      {
+         "pl": 100,
+         "eind": 10673
+      },
+      {
+         "pl": "<10",
+         "eind": 10675
       }
    ],
    "104": [
@@ -341404,7 +341940,7 @@
          "eind": 10648
       },
       {
-         "pl": "<10",
+         "pl": 200,
          "eind": 10653
       },
       {
@@ -341412,24 +341948,72 @@
          "eind": 10654
       },
       {
-         "pl": 200,
-         "eind": 10657
+         "pl": "<10",
+         "eind": 10656
       },
       {
-         "pl": 300,
+         "pl": 100,
          "eind": 10658
       },
       {
+         "pl": 200,
+         "eind": 10665
+      },
+      {
+         "pl": 300,
+         "eind": 10666
+      },
+      {
          "pl": 100,
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": 200,
-         "eind": 10661
+         "eind": 10672
       },
       {
          "pl": 100,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 200,
+         "eind": 10678
+      },
+      {
+         "pl": 300,
+         "eind": 10681
+      },
+      {
+         "pl": 500,
+         "eind": 10682
+      },
+      {
+         "pl": 300,
+         "eind": 10683
+      },
+      {
+         "pl": 200,
+         "eind": 10685
+      },
+      {
+         "pl": 100,
+         "eind": 10687
+      },
+      {
+         "pl": 700,
+         "eind": 10689
+      },
+      {
+         "pl": 400,
+         "eind": 10690
+      },
+      {
+         "pl": 100,
+         "eind": 10692
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
       }
    ],
    "203": [
@@ -365716,31 +366300,169 @@
       },
       {
          "pl": 300,
-         "eind": 10650
-      },
-      {
-         "pl": 100,
-         "eind": 10652
+         "eind": 10651
       },
       {
          "pl": 200,
-         "eind": 10656
+         "eind": 10654
       },
       {
-         "pl": 300,
-         "eind": 10658
+         "pl": 100,
+         "eind": 10655
+      },
+      {
+         "pl": "<10",
+         "eind": 10657
       },
       {
          "pl": 100,
          "eind": 10659
       },
       {
-         "pl": 400,
-         "eind": 10661
+         "pl": 200,
+         "eind": 10662
+      },
+      {
+         "pl": 300,
+         "eind": 10666
+      },
+      {
+         "pl": 100,
+         "eind": 10668
       },
       {
          "pl": 200,
-         "eind": 10662
+         "eind": 10672
+      },
+      {
+         "pl": 300,
+         "eind": 10673
+      },
+      {
+         "pl": 400,
+         "eind": 10675
+      },
+      {
+         "pl": 200,
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10677
+      },
+      {
+         "pl": 300,
+         "eind": 10678
+      },
+      {
+         "pl": 400,
+         "eind": 10681
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 10682
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10683
+      },
+      {
+         "pl": 300,
+         "eind": 10684
+      },
+      {
+         "pl": 200,
+         "eind": 10686
+      },
+      {
+         "pl": 100,
+         "eind": 10687
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 10689
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10690
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10696
       }
    ],
    "202": [
@@ -369823,31 +370545,63 @@
       },
       {
          "pl": "<10",
-         "eind": 10650
-      },
-      {
-         "pl": 100,
          "eind": 10651
       },
       {
-         "pl": "<10",
+         "pl": 100,
          "eind": 10652
       },
       {
+         "pl": "<10",
+         "eind": 10654
+      },
+      {
          "pl": 100,
+         "eind": 10655
+      },
+      {
+         "pl": "<10",
          "eind": 10656
       },
       {
+         "pl": 100,
+         "eind": 10662
+      },
+      {
          "pl": "<10",
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": 100,
-         "eind": 10661
+         "eind": 10672
       },
       {
          "pl": "<10",
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10678
+      },
+      {
+         "pl": 200,
+         "eind": 10682
+      },
+      {
+         "pl": 100,
+         "eind": 10683
+      },
+      {
+         "pl": 200,
+         "eind": 10684
+      },
+      {
+         "pl": 100,
+         "eind": 10685
+      },
+      {
+         "pl": "<10",
+         "eind": 10686
       }
    ],
    "248": [
@@ -396550,35 +397304,71 @@
       },
       {
          "pl": 100,
-         "eind": 10652
+         "eind": 10655
       },
       {
          "pl": 300,
-         "eind": 10656
+         "eind": 10662
       },
       {
          "pl": 200,
-         "eind": 10657
+         "eind": 10665
       },
       {
          "pl": 300,
-         "eind": 10658
+         "eind": 10666
       },
       {
          "pl": 100,
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": "<10",
-         "eind": 10660
+         "eind": 10671
       },
       {
          "pl": 200,
-         "eind": 10661
+         "eind": 10672
       },
       {
          "pl": 100,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 200,
+         "eind": 10678
+      },
+      {
+         "pl": 300,
+         "eind": 10681
+      },
+      {
+         "pl": 400,
+         "eind": 10682
+      },
+      {
+         "pl": 300,
+         "eind": 10683
+      },
+      {
+         "pl": 200,
+         "eind": 10685
+      },
+      {
+         "pl": 100,
+         "eind": 10686
+      },
+      {
+         "pl": 200,
+         "eind": 10687
+      },
+      {
+         "pl": 100,
+         "eind": 10690
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
       }
    ],
    "160": [
@@ -443899,32 +444689,98 @@
          "eind": 10648
       },
       {
-         "pl": 900,
+         "pl": 700,
          "eind": 10649
       },
       {
-         "pl": 2200,
+         "pl": 800,
          "eind": 10650
       },
       {
-         "pl": 3000,
+         "pl": 2200,
          "eind": 10651
       },
       {
-         "pl": 1200,
+         "pl": 3000,
          "eind": 10652
+      },
+      {
+         "pl": 3100,
+         "eind": 10653
+      },
+      {
+         "pl": 1700,
+         "eind": 10654
+      },
+      {
+         "pl": 1500,
+         "eind": 10655
+      },
+      {
+         "pl": 1200,
+         "eind": 10656
+      },
+      {
+         "hp": 1499991,
+         "eind": 10657
+      },
+      {
+         "hp": 1500000,
+         "pl": 1500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399992
+            }
+         },
+         "eind": 10658
       },
       {
          "hp": 1499983,
          "pl": 2000,
-         "eind": 10654
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10659
       },
       {
          "hp": 1500000,
          "pl": 2900,
-         "eind": 10655
+         "eind": 10661
       },
       {
+         "pl": 2800,
+         "eind": 10662
+      },
+      {
+         "pl": 2900,
          "regions": {
             "DEMOCRACY ALWAYS": {
                "index": 0,
@@ -443943,7 +444799,7 @@
                "hp": 399998
             }
          },
-         "eind": 10656
+         "eind": 10664
       },
       {
          "hp": 1495587,
@@ -443966,11 +444822,11 @@
                "hp": 394475
             }
          },
-         "eind": 10657
+         "eind": 10665
       },
       {
-         "hp": 1465062,
-         "pl": 15200,
+         "hp": 1477665,
+         "pl": 16100,
          "regions": {
             "DEMOCRACY ALWAYS": {
                "index": 0,
@@ -443986,10 +444842,56 @@
                "desc": "Nothing of note.",
                "t": 37,
                "r": 1.1111112,
-               "hp": 366205
+               "hp": 377488
             }
          },
-         "eind": 10658
+         "eind": 10666
+      },
+      {
+         "hp": 1473393,
+         "pl": 16200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 373661
+            }
+         },
+         "eind": 10667
+      },
+      {
+         "hp": 1423612,
+         "pl": 7400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 332935
+            }
+         },
+         "eind": 10668
       },
       {
          "hp": 1418873,
@@ -444012,7 +444914,7 @@
                "hp": 329350
             }
          },
-         "eind": 10659
+         "eind": 10670
       },
       {
          "hp": 1416192,
@@ -444035,7 +444937,76 @@
                "hp": 326268
             }
          },
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "hp": 1434779,
+         "pl": 3200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 335828
+            }
+         },
+         "eind": 10672
+      },
+      {
+         "hp": 1439801,
+         "pl": 3100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 338680
+            }
+         },
+         "eind": 10673
+      },
+      {
+         "hp": 1448336,
+         "pl": 2500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 342908
+            }
+         },
+         "eind": 10674
       },
       {
          "hp": 1500000,
@@ -444058,7 +445029,7 @@
                "hp": 369071
             }
          },
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": 1600,
@@ -444080,7 +445051,376 @@
                "hp": 389386
             }
          },
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 395467
+            }
+         },
+         "eind": 10677
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10678
+      },
+      {
+         "pl": 2700,
+         "eind": 10679
+      },
+      {
+         "pl": 5500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 10681
+      },
+      {
+         "hp": 1495953,
+         "pl": 11200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 397693
+            }
+         },
+         "eind": 10682
+      },
+      {
+         "hp": 1452908,
+         "pl": 10700,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 369739
+            }
+         },
+         "eind": 10683
+      },
+      {
+         "hp": 1439143,
+         "pl": 10500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 360418
+            }
+         },
+         "eind": 10684
+      },
+      {
+         "hp": 1419183,
+         "pl": 8600,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 348954
+            }
+         },
+         "eind": 10685
+      },
+      {
+         "hp": 1414969,
+         "pl": 7900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 346934
+            }
+         },
+         "eind": 10686
+      },
+      {
+         "hp": 1401091,
+         "pl": 7100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 340405
+            }
+         },
+         "eind": 10687
+      },
+      {
+         "hp": 1399497,
+         "pl": 7000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 339565
+            }
+         },
+         "eind": 10689
+      },
+      {
+         "hp": 1395675,
+         "pl": 5200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 338307
+            }
+         },
+         "eind": 10690
+      },
+      {
+         "hp": 1394767,
+         "pl": 5400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 340221
+            }
+         },
+         "eind": 10692
+      },
+      {
+         "hp": 1405016,
+         "pl": 4000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 349053
+            }
+         },
+         "eind": 10693
+      },
+      {
+         "hp": 1438465,
+         "pl": 3300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 366333
+            }
+         },
+         "eind": 10694
+      },
+      {
+         "hp": 1459503,
+         "pl": 2200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 377620
+            }
+         },
+         "eind": 10695
+      },
+      {
+         "hp": 1460945,
+         "pl": 2300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 379045
+            }
+         },
+         "eind": 10696
       }
    ],
    "171": [
@@ -461709,31 +463049,87 @@
       },
       {
          "pl": 200,
-         "eind": 10651
-      },
-      {
-         "pl": 100,
          "eind": 10652
       },
       {
-         "pl": 200,
-         "eind": 10655
-      },
-      {
-         "pl": 600,
-         "eind": 10657
-      },
-      {
          "pl": 100,
-         "eind": 10659
+         "eind": 10654
       },
       {
          "pl": 200,
          "eind": 10661
       },
       {
+         "pl": 600,
+         "eind": 10665
+      },
+      {
+         "pl": 200,
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10670
+      },
+      {
+         "pl": 200,
+         "eind": 10672
+      },
+      {
+         "pl": 100,
+         "eind": 10674
+      },
+      {
+         "pl": 200,
+         "eind": 10675
+      },
+      {
          "pl": "<10",
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10677
+      },
+      {
+         "pl": 200,
+         "eind": 10678
+      },
+      {
+         "pl": 300,
+         "eind": 10681
+      },
+      {
+         "pl": 600,
+         "eind": 10682
+      },
+      {
+         "pl": 500,
+         "eind": 10683
+      },
+      {
+         "pl": 400,
+         "eind": 10684
+      },
+      {
+         "pl": 300,
+         "eind": 10685
+      },
+      {
+         "pl": 200,
+         "eind": 10687
+      },
+      {
+         "pl": 300,
+         "eind": 10692
+      },
+      {
+         "pl": 200,
+         "eind": 10693
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "172": [
@@ -470602,11 +471998,15 @@
          "eind": 10649
       },
       {
-         "pl": 200,
+         "pl": "<10",
+         "eind": 10650
+      },
+      {
+         "pl": 100,
          "eind": 10651
       },
       {
-         "pl": "<10",
+         "pl": 200,
          "eind": 10652
       },
       {
@@ -470614,24 +472014,84 @@
          "eind": 10654
       },
       {
-         "pl": 200,
+         "pl": "<10",
          "eind": 10655
       },
       {
-         "pl": 700,
-         "eind": 10657
-      },
-      {
-         "pl": 1000,
-         "eind": 10658
-      },
-      {
-         "pl": 300,
+         "pl": 100,
          "eind": 10659
       },
       {
+         "pl": 200,
+         "eind": 10661
+      },
+      {
+         "pl": 700,
+         "eind": 10665
+      },
+      {
+         "pl": 1000,
+         "eind": 10666
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
          "pl": 100,
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 200,
+         "eind": 10672
+      },
+      {
+         "pl": 100,
+         "eind": 10674
+      },
+      {
+         "pl": 200,
+         "eind": 10678
+      },
+      {
+         "pl": 400,
+         "eind": 10681
+      },
+      {
+         "pl": 900,
+         "eind": 10682
+      },
+      {
+         "pl": 800,
+         "eind": 10683
+      },
+      {
+         "pl": 700,
+         "eind": 10684
+      },
+      {
+         "pl": 500,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10689
+      },
+      {
+         "pl": 300,
+         "eind": 10690
+      },
+      {
+         "pl": 400,
+         "eind": 10692
+      },
+      {
+         "pl": 300,
+         "eind": 10693
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "173": [
@@ -485996,27 +487456,27 @@
       },
       {
          "pl": 400,
-         "eind": 10650
-      },
-      {
-         "pl": 500,
          "eind": 10651
       },
       {
-         "pl": 200,
+         "pl": 500,
          "eind": 10652
       },
       {
-         "pl": 300,
+         "pl": 200,
          "eind": 10654
       },
       {
+         "pl": 300,
+         "eind": 10659
+      },
+      {
          "pl": 500,
-         "eind": 10655
+         "eind": 10661
       },
       {
          "pl": 400,
-         "eind": 10656
+         "eind": 10662
       },
       {
          "pl": 6600,
@@ -486038,11 +487498,11 @@
                "hp": 397274
             }
          },
-         "eind": 10657
+         "eind": 10665
       },
       {
-         "hp": 1499994,
-         "pl": 8100,
+         "hp": 1499992,
+         "pl": 8800,
          "regions": {
             "ALTONBURG": {
                "index": 0,
@@ -486058,10 +487518,56 @@
                "desc": "Nothing of note.",
                "t": 32,
                "r": 1.1111112,
-               "hp": 383536
+               "hp": 388259
             }
          },
-         "eind": 10658
+         "eind": 10666
+      },
+      {
+         "hp": 1499993,
+         "pl": 8900,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 386546
+            }
+         },
+         "eind": 10667
+      },
+      {
+         "hp": 1500000,
+         "pl": 4400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 368562
+            }
+         },
+         "eind": 10668
       },
       {
          "hp": 1499977,
@@ -486084,7 +487590,7 @@
                "hp": 366431
             }
          },
-         "eind": 10659
+         "eind": 10670
       },
       {
          "hp": 1500000,
@@ -486107,7 +487613,73 @@
                "hp": 365899
             }
          },
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 377743
+            }
+         },
+         "eind": 10672
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 380891
+            }
+         },
+         "eind": 10673
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 385671
+            }
+         },
+         "eind": 10674
       },
       {
          "pl": 1000,
@@ -486129,11 +487701,263 @@
                "hp": 400000
             }
          },
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": 700,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 600,
+         "eind": 10677
+      },
+      {
+         "pl": 1100,
+         "eind": 10678
+      },
+      {
+         "pl": 1000,
+         "eind": 10679
+      },
+      {
+         "pl": 2700,
+         "eind": 10681
+      },
+      {
+         "pl": 5700,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399611
+            }
+         },
+         "eind": 10682
+      },
+      {
+         "hp": 1499998,
+         "pl": 4800,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 396209
+            }
+         },
+         "eind": 10683
+      },
+      {
+         "hp": 1500000,
+         "pl": 4600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 395004
+            }
+         },
+         "eind": 10684
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 393034
+            }
+         },
+         "eind": 10685
+      },
+      {
+         "hp": 1499953,
+         "pl": 4100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 392626
+            }
+         },
+         "eind": 10686
+      },
+      {
+         "hp": 1500000,
+         "pl": 3400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 390647
+            }
+         },
+         "eind": 10687
+      },
+      {
+         "pl": 3300,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 390583
+            }
+         },
+         "eind": 10689
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 390864
+            }
+         },
+         "eind": 10690
+      },
+      {
+         "pl": 2800,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 393986
+            }
+         },
+         "eind": 10692
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10693
+      },
+      {
+         "pl": 1600,
+         "eind": 10694
+      },
+      {
+         "pl": 1200,
+         "eind": 10695
+      },
+      {
+         "pl": 1100,
+         "eind": 10696
       }
    ],
    "214": [
@@ -546060,36 +547884,116 @@
          "eind": 10649
       },
       {
-         "pl": 200,
-         "eind": 10652
-      },
-      {
          "pl": 300,
-         "eind": 10655
-      },
-      {
-         "pl": 500,
-         "eind": 10656
-      },
-      {
-         "pl": 700,
-         "eind": 10658
-      },
-      {
-         "pl": 200,
-         "eind": 10659
-      },
-      {
-         "pl": 300,
-         "eind": 10660
-      },
-      {
-         "pl": 800,
-         "eind": 10661
+         "eind": 10650
       },
       {
          "pl": 400,
+         "eind": 10651
+      },
+      {
+         "pl": 300,
+         "eind": 10654
+      },
+      {
+         "pl": 200,
+         "eind": 10656
+      },
+      {
+         "pl": 300,
+         "eind": 10661
+      },
+      {
+         "pl": 500,
          "eind": 10662
+      },
+      {
+         "pl": 700,
+         "eind": 10666
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
+         "pl": 200,
+         "eind": 10670
+      },
+      {
+         "pl": 300,
+         "eind": 10671
+      },
+      {
+         "pl": 700,
+         "eind": 10672
+      },
+      {
+         "pl": 800,
+         "eind": 10675
+      },
+      {
+         "pl": 400,
+         "eind": 10676
+      },
+      {
+         "pl": 300,
+         "eind": 10677
+      },
+      {
+         "pl": 500,
+         "eind": 10678
+      },
+      {
+         "pl": 600,
+         "eind": 10679
+      },
+      {
+         "pl": 800,
+         "eind": 10681
+      },
+      {
+         "pl": 1000,
+         "eind": 10682
+      },
+      {
+         "pl": 900,
+         "eind": 10683
+      },
+      {
+         "pl": 1000,
+         "eind": 10684
+      },
+      {
+         "pl": 600,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10686
+      },
+      {
+         "pl": 300,
+         "eind": 10687
+      },
+      {
+         "pl": 200,
+         "eind": 10690
+      },
+      {
+         "pl": 300,
+         "eind": 10692
+      },
+      {
+         "pl": 200,
+         "eind": 10694
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10696
       }
    ],
    "198": [
@@ -561338,32 +563242,104 @@
          "eind": 10649
       },
       {
-         "pl": 200,
-         "eind": 10652
+         "pl": 500,
+         "eind": 10653
       },
       {
          "pl": 300,
-         "eind": 10655
-      },
-      {
-         "pl": 500,
-         "eind": 10656
-      },
-      {
-         "pl": 700,
-         "eind": 10658
+         "eind": 10654
       },
       {
          "pl": 200,
-         "eind": 10659
+         "eind": 10656
       },
       {
-         "pl": 800,
+         "pl": 300,
          "eind": 10661
       },
       {
-         "pl": 400,
+         "pl": 500,
          "eind": 10662
+      },
+      {
+         "pl": 700,
+         "eind": 10666
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
+         "pl": 200,
+         "eind": 10670
+      },
+      {
+         "pl": 600,
+         "eind": 10672
+      },
+      {
+         "pl": 800,
+         "eind": 10675
+      },
+      {
+         "pl": 400,
+         "eind": 10676
+      },
+      {
+         "pl": 300,
+         "eind": 10677
+      },
+      {
+         "pl": 600,
+         "eind": 10678
+      },
+      {
+         "pl": 800,
+         "eind": 10681
+      },
+      {
+         "pl": 1200,
+         "eind": 10682
+      },
+      {
+         "pl": 900,
+         "eind": 10683
+      },
+      {
+         "pl": 800,
+         "eind": 10684
+      },
+      {
+         "pl": 500,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10686
+      },
+      {
+         "pl": 300,
+         "eind": 10687
+      },
+      {
+         "pl": 200,
+         "eind": 10690
+      },
+      {
+         "pl": 300,
+         "eind": 10693
+      },
+      {
+         "pl": 200,
+         "eind": 10694
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10696
       }
    ],
    "199": [
@@ -587298,7 +589274,7 @@
          "eind": 10648
       },
       {
-         "pl": 1500,
+         "pl": 1400,
          "regions": {
             "PARRHESIA": {
                "index": 0,
@@ -587314,7 +589290,7 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
-               "hp": 135174
+               "hp": 134549
             }
          },
          "eind": 10649
@@ -587335,10 +589311,32 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
-               "hp": 140548
+               "hp": 137937
             }
          },
          "eind": 10650
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 140548
+            }
+         },
+         "eind": 10651
       },
       {
          "pl": 1700,
@@ -587357,13 +589355,13 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
-               "hp": 143219
+               "hp": 143555
             }
          },
-         "eind": 10651
+         "eind": 10652
       },
       {
-         "pl": 900,
+         "pl": 1900,
          "regions": {
             "PARRHESIA": {
                "index": 0,
@@ -587379,10 +589377,54 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
-               "hp": 146594
+               "hp": 143900
             }
          },
-         "eind": 10652
+         "eind": 10653
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 146183
+            }
+         },
+         "eind": 10654
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 146357
+            }
+         },
+         "eind": 10655
       },
       {
          "pl": 800,
@@ -587404,9 +589446,53 @@
                "hp": 146897
             }
          },
-         "eind": 10653
+         "eind": 10656
       },
       {
+         "pl": 700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 147887
+            }
+         },
+         "eind": 10657
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 148204
+            }
+         },
+         "eind": 10658
+      },
+      {
+         "pl": 800,
          "regions": {
             "PARRHESIA": {
                "index": 0,
@@ -587425,7 +589511,7 @@
                "hp": 148655
             }
          },
-         "eind": 10654
+         "eind": 10659
       },
       {
          "pl": 1200,
@@ -587447,7 +589533,7 @@
                "hp": 150050
             }
          },
-         "eind": 10655
+         "eind": 10661
       },
       {
          "pl": 1600,
@@ -587466,10 +589552,31 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
+               "hp": 153690
+            }
+         },
+         "eind": 10662
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
                "hp": 153811
             }
          },
-         "eind": 10656
+         "eind": 10664
       },
       {
          "pl": 2000,
@@ -587491,10 +589598,10 @@
                "hp": 154143
             }
          },
-         "eind": 10657
+         "eind": 10665
       },
       {
-         "pl": 2600,
+         "pl": 2700,
          "regions": {
             "PARRHESIA": {
                "index": 0,
@@ -587510,10 +589617,53 @@
                "desc": "Nothing of note.",
                "t": 51,
                "r": 0.5555556,
-               "hp": 154569
+               "hp": 154350
             }
          },
-         "eind": 10658
+         "eind": 10666
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154394
+            }
+         },
+         "eind": 10667
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 154444
+            }
+         },
+         "eind": 10668
       },
       {
          "pl": 1000,
@@ -587535,7 +589685,7 @@
                "hp": 154414
             }
          },
-         "eind": 10659
+         "eind": 10670
       },
       {
          "pl": 900,
@@ -587557,7 +589707,71 @@
                "hp": 154596
             }
          },
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 156409
+            }
+         },
+         "eind": 10672
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 156947
+            }
+         },
+         "eind": 10673
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 157663
+            }
+         },
+         "eind": 10674
       },
       {
          "pl": 2500,
@@ -587579,7 +589793,7 @@
                "hp": 158759
             }
          },
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": 1400,
@@ -587601,7 +589815,364 @@
                "hp": 159208
             }
          },
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 160024
+            }
+         },
+         "eind": 10677
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 161713
+            }
+         },
+         "eind": 10678
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 161877
+            }
+         },
+         "eind": 10679
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 161991
+            }
+         },
+         "eind": 10681
+      },
+      {
+         "pl": 4300,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 159988
+            }
+         },
+         "eind": 10682
+      },
+      {
+         "pl": 3600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 146929
+            }
+         },
+         "eind": 10683
+      },
+      {
+         "pl": 3200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 143403
+            }
+         },
+         "eind": 10684
+      },
+      {
+         "pl": 2500,
+         "adiv": "",
+         "desc": [],
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 139499
+            }
+         },
+         "eind": 10685
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 139037
+            }
+         },
+         "eind": 10686
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 139075
+            }
+         },
+         "eind": 10687
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 139165
+            }
+         },
+         "eind": 10689
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 139635
+            }
+         },
+         "eind": 10690
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 141995
+            }
+         },
+         "eind": 10692
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 147666
+            }
+         },
+         "eind": 10693
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 158221
+            }
+         },
+         "eind": 10694
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 166762
+            }
+         },
+         "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10696
       }
    ],
    "158": [
@@ -630474,19 +633045,76 @@
       },
       {
          "pl": 100,
-         "eind": 10656
+         "eind": 10662
       },
       {
          "pl": "<10",
-         "eind": 10659
+         "eind": 10668
       },
       {
          "pl": 100,
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": "<10",
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10681
+      },
+      {
+         "pl": 200,
+         "eind": 10682
+      },
+      {
+         "pl": 100,
+         "eind": 10683
+      },
+      {
+         "pl": "<10",
+         "eind": 10687
+      },
+      {
+         "pl": 800,
+         "eind": 10689
+      },
+      {
+         "pl": 12200,
+         "eind": 10690
+      },
+      {
+         "hp": 1986557,
+         "pl": 26800,
+         "eind": 10692
+      },
+      {
+         "hp": 1922041,
+         "pl": 33100,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10693
+      },
+      {
+         "hp": 1738046,
+         "pl": 31800,
+         "eind": 10694
+      },
+      {
+         "hp": 1589024,
+         "pl": 13800,
+         "r": 5.5555553,
+         "eind": 10695
+      },
+      {
+         "hp": 1559106,
+         "pl": 13200,
+         "eind": 10696
       }
    ],
    "166": [
@@ -640273,40 +642901,116 @@
          "eind": 10649
       },
       {
-         "pl": 100,
-         "eind": 10652
-      },
-      {
          "pl": 200,
-         "eind": 10653
+         "eind": 10650
       },
       {
          "pl": 300,
-         "eind": 10655
+         "eind": 10651
       },
       {
-         "pl": 700,
+         "pl": 200,
+         "eind": 10654
+      },
+      {
+         "pl": 100,
          "eind": 10657
       },
       {
-         "pl": 900,
+         "pl": 200,
          "eind": 10658
       },
       {
          "pl": 300,
-         "eind": 10659
-      },
-      {
-         "pl": 200,
-         "eind": 10660
-      },
-      {
-         "pl": 400,
          "eind": 10661
       },
       {
+         "pl": 700,
+         "eind": 10665
+      },
+      {
+         "pl": 1000,
+         "eind": 10666
+      },
+      {
+         "pl": 1100,
+         "eind": 10667
+      },
+      {
+         "pl": 400,
+         "eind": 10668
+      },
+      {
+         "pl": 300,
+         "eind": 10670
+      },
+      {
          "pl": 200,
-         "eind": 10662
+         "eind": 10671
+      },
+      {
+         "pl": 400,
+         "eind": 10672
+      },
+      {
+         "pl": 500,
+         "eind": 10673
+      },
+      {
+         "pl": 400,
+         "eind": 10674
+      },
+      {
+         "pl": 200,
+         "eind": 10676
+      },
+      {
+         "pl": 300,
+         "eind": 10677
+      },
+      {
+         "pl": 500,
+         "eind": 10678
+      },
+      {
+         "pl": 400,
+         "eind": 10679
+      },
+      {
+         "pl": 700,
+         "eind": 10681
+      },
+      {
+         "pl": 1000,
+         "eind": 10682
+      },
+      {
+         "pl": 900,
+         "eind": 10683
+      },
+      {
+         "pl": 700,
+         "eind": 10684
+      },
+      {
+         "pl": 600,
+         "eind": 10685
+      },
+      {
+         "pl": 500,
+         "eind": 10687
+      },
+      {
+         "pl": 600,
+         "eind": 10692
+      },
+      {
+         "pl": 500,
+         "eind": 10693
+      },
+      {
+         "pl": 200,
+         "eind": 10695
       }
    ],
    "201": [
@@ -643337,6 +646041,58 @@
       {
          "pl": "<10",
          "eind": 10399
+      },
+      {
+         "r": 0.0,
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 10685
+      },
+      {
+         "pl": 2500,
+         "eind": 10686
+      },
+      {
+         "pl": 6300,
+         "eind": 10687
+      },
+      {
+         "pl": 6400,
+         "eind": 10689
+      },
+      {
+         "pl": 4800,
+         "eind": 10690
+      },
+      {
+         "pl": 3800,
+         "eind": 10692
+      },
+      {
+         "pl": 3700,
+         "eind": 10693
+      },
+      {
+         "pl": 2400,
+         "eind": 10694
+      },
+      {
+         "pl": 1100,
+         "eind": 10695
+      },
+      {
+         "pl": 400,
+         "r": 2.7777777,
+         "eind": 10696
       }
    ],
    "245": [
@@ -645111,6 +647867,30 @@
       {
          "pl": "<10",
          "eind": 10509
+      },
+      {
+         "pl": 100,
+         "eind": 10682
+      },
+      {
+         "pl": "<10",
+         "eind": 10683
+      },
+      {
+         "pl": 100,
+         "eind": 10687
+      },
+      {
+         "pl": "<10",
+         "eind": 10690
+      },
+      {
+         "pl": 100,
+         "eind": 10692
+      },
+      {
+         "pl": "<10",
+         "eind": 10695
       }
    ],
    "246": [
@@ -695020,7 +697800,15 @@
       },
       {
          "pl": "<10",
-         "eind": 10652
+         "eind": 10654
+      },
+      {
+         "pl": 100,
+         "eind": 10666
+      },
+      {
+         "pl": "<10",
+         "eind": 10668
       }
    ],
    "163": [
@@ -743262,6 +746050,22 @@
       {
          "pl": "<10",
          "eind": 10627
+      },
+      {
+         "pl": 100,
+         "eind": 10673
+      },
+      {
+         "pl": "<10",
+         "eind": 10674
+      },
+      {
+         "pl": 100,
+         "eind": 10681
+      },
+      {
+         "pl": "<10",
+         "eind": 10685
       }
    ],
    "94": [
@@ -746693,6 +749497,14 @@
       {
          "pl": "<10",
          "eind": 10625
+      },
+      {
+         "pl": 100,
+         "eind": 10692
+      },
+      {
+         "pl": "<10",
+         "eind": 10693
       }
    ],
    "95": [
@@ -751085,6 +753897,145 @@
             }
          },
          "eind": 10633
+      },
+      {
+         "pl": 100,
+         "eind": 10689
+      },
+      {
+         "pl": 3900,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199459
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10690
+      },
+      {
+         "pl": 6100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 189716
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10692
+      },
+      {
+         "pl": 5600,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 172357
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10693
+      },
+      {
+         "hp": 1599998,
+         "pl": 4200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 143715
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10694
+      },
+      {
+         "hp": 1599991,
+         "pl": 1900,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 123356
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10695
+      },
+      {
+         "hp": 1600000,
+         "pl": 1700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 119943
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10696
       }
    ],
    "59": [
@@ -770307,39 +773258,99 @@
       },
       {
          "pl": 600,
-         "eind": 10650
-      },
-      {
-         "pl": 300,
-         "eind": 10652
-      },
-      {
-         "pl": 600,
-         "eind": 10655
-      },
-      {
-         "pl": 700,
-         "eind": 10656
-      },
-      {
-         "pl": 1000,
-         "eind": 10657
-      },
-      {
-         "pl": 1200,
-         "eind": 10658
+         "eind": 10651
       },
       {
          "pl": 400,
-         "eind": 10659
+         "eind": 10654
+      },
+      {
+         "pl": 300,
+         "eind": 10656
       },
       {
          "pl": 600,
          "eind": 10661
       },
       {
-         "pl": 300,
+         "pl": 700,
          "eind": 10662
+      },
+      {
+         "pl": 1000,
+         "eind": 10665
+      },
+      {
+         "pl": 1200,
+         "eind": 10666
+      },
+      {
+         "pl": 500,
+         "eind": 10668
+      },
+      {
+         "pl": 400,
+         "eind": 10670
+      },
+      {
+         "pl": 600,
+         "eind": 10672
+      },
+      {
+         "pl": 300,
+         "eind": 10676
+      },
+      {
+         "pl": 400,
+         "eind": 10677
+      },
+      {
+         "pl": 700,
+         "eind": 10678
+      },
+      {
+         "pl": 1000,
+         "eind": 10681
+      },
+      {
+         "pl": 1600,
+         "eind": 10682
+      },
+      {
+         "pl": 1200,
+         "eind": 10683
+      },
+      {
+         "pl": 1100,
+         "eind": 10684
+      },
+      {
+         "pl": 900,
+         "eind": 10685
+      },
+      {
+         "pl": 800,
+         "eind": 10686
+      },
+      {
+         "pl": 600,
+         "eind": 10690
+      },
+      {
+         "pl": 800,
+         "eind": 10692
+      },
+      {
+         "pl": 1000,
+         "eind": 10693
+      },
+      {
+         "pl": 800,
+         "eind": 10694
+      },
+      {
+         "pl": 400,
+         "eind": 10695
       }
    ],
    "218": [
@@ -782412,32 +785423,56 @@
          "eind": 10649
       },
       {
-         "pl": "<10",
-         "eind": 10652
-      },
-      {
          "pl": 100,
-         "eind": 10656
+         "eind": 10650
       },
       {
          "pl": 200,
-         "eind": 10657
-      },
-      {
-         "pl": 100,
-         "eind": 10658
+         "eind": 10651
       },
       {
          "pl": "<10",
-         "eind": 10659
+         "eind": 10654
       },
       {
          "pl": 100,
-         "eind": 10661
-      },
-      {
-         "pl": "<10",
          "eind": 10662
+      },
+      {
+         "pl": 200,
+         "eind": 10665
+      },
+      {
+         "pl": 100,
+         "eind": 10667
+      },
+      {
+         "pl": "<10",
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10673
+      },
+      {
+         "pl": "<10",
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10681
+      },
+      {
+         "pl": "<10",
+         "eind": 10683
+      },
+      {
+         "pl": 100,
+         "eind": 10693
+      },
+      {
+         "pl": "<10",
+         "eind": 10694
       }
    ],
    "141": [
@@ -785637,7 +788672,31 @@
       },
       {
          "pl": "<10",
-         "eind": 10652
+         "eind": 10650
+      },
+      {
+         "pl": 100,
+         "eind": 10651
+      },
+      {
+         "pl": "<10",
+         "eind": 10654
+      },
+      {
+         "pl": 100,
+         "eind": 10666
+      },
+      {
+         "pl": "<10",
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10682
+      },
+      {
+         "pl": "<10",
+         "eind": 10684
       }
    ],
    "184": [
@@ -795625,43 +798684,239 @@
       },
       {
          "pl": 200,
-         "eind": 10649
+         "eind": 10651
       },
       {
          "pl": 100,
-         "eind": 10652
+         "eind": 10654
       },
       {
-         "pl": 3000,
-         "eind": 10655
-      },
-      {
-         "pl": 4700,
-         "eind": 10656
-      },
-      {
-         "pl": 14200,
+         "pl": "<10",
          "eind": 10657
       },
       {
-         "pl": 14400,
+         "pl": 100,
          "eind": 10658
       },
       {
-         "pl": 5400,
+         "exo": 1,
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            }
+         ],
          "eind": 10659
       },
       {
-         "pl": 3200,
-         "eind": 10660
-      },
-      {
-         "pl": 3900,
+         "pl": 3000,
          "eind": 10661
       },
       {
-         "pl": 2100,
+         "pl": 4300,
          "eind": 10662
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10663
+      },
+      {
+         "pl": 4700,
+         "eind": 10664
+      },
+      {
+         "pl": 14200,
+         "eind": 10665
+      },
+      {
+         "pl": 16600,
+         "eind": 10666
+      },
+      {
+         "pl": 6300,
+         "eind": 10668
+      },
+      {
+         "pl": 5400,
+         "eind": 10670
+      },
+      {
+         "pl": 3200,
+         "eind": 10671
+      },
+      {
+         "pl": 4400,
+         "dss": "",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            }
+         ],
+         "eind": 10672
+      },
+      {
+         "pl": 4200,
+         "eind": 10673
+      },
+      {
+         "pl": 3900,
+         "eind": 10674
+      },
+      {
+         "pl": 2100,
+         "eind": 10676
+      },
+      {
+         "pl": 1600,
+         "eind": 10677
+      },
+      {
+         "pl": 3300,
+         "eind": 10678
+      },
+      {
+         "pl": 3700,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10679
+      },
+      {
+         "pl": 10300,
+         "eind": 10681
+      },
+      {
+         "pl": 19400,
+         "eind": 10682
+      },
+      {
+         "pl": 14600,
+         "eind": 10683
+      },
+      {
+         "pl": 12900,
+         "eind": 10684
+      },
+      {
+         "pl": 10200,
+         "eind": 10685
+      },
+      {
+         "pl": 9100,
+         "eind": 10686
+      },
+      {
+         "pl": 8700,
+         "eind": 10687
+      },
+      {
+         "pl": 8400,
+         "eind": 10689
+      },
+      {
+         "pl": 5200,
+         "exo": 2,
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "CLASS 2 EXOSTORM",
+               "desc": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet."
+            }
+         ],
+         "eind": 10690
+      },
+      {
+         "pl": 4800,
+         "eind": 10692
+      },
+      {
+         "pl": 4300,
+         "dss": "",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 2 EXOSTORM",
+               "desc": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet."
+            }
+         ],
+         "eind": 10693
+      },
+      {
+         "pl": 2500,
+         "eind": 10694
+      },
+      {
+         "pl": 1000,
+         "eind": 10695
       }
    ],
    "18": [
@@ -862529,27 +865784,35 @@
       },
       {
          "pl": 100,
-         "eind": 10649
+         "eind": 10650
       },
       {
          "pl": "<10",
-         "eind": 10652
+         "eind": 10654
       },
       {
          "pl": 100,
-         "eind": 10656
-      },
-      {
-         "pl": "<10",
-         "eind": 10659
-      },
-      {
-         "pl": 100,
-         "eind": 10661
-      },
-      {
-         "pl": "<10",
          "eind": 10662
+      },
+      {
+         "pl": "<10",
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10672
+      },
+      {
+         "pl": "<10",
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10678
+      },
+      {
+         "pl": "<10",
+         "eind": 10687
       }
    ],
    "72": [
@@ -902408,35 +905671,19 @@
       },
       {
          "pl": 100,
-         "eind": 10652
+         "eind": 10650
       },
       {
          "pl": 200,
-         "eind": 10654
-      },
-      {
-         "pl": 300,
-         "eind": 10655
-      },
-      {
-         "pl": 200,
-         "eind": 10656
-      },
-      {
-         "pl": 500,
-         "eind": 10657
-      },
-      {
-         "pl": 600,
-         "eind": 10658
-      },
-      {
-         "pl": 300,
-         "eind": 10659
+         "eind": 10651
       },
       {
          "pl": 100,
-         "eind": 10660
+         "eind": 10654
+      },
+      {
+         "pl": 200,
+         "eind": 10659
       },
       {
          "pl": 300,
@@ -902445,6 +905692,90 @@
       {
          "pl": 200,
          "eind": 10662
+      },
+      {
+         "pl": 500,
+         "eind": 10665
+      },
+      {
+         "pl": 600,
+         "eind": 10666
+      },
+      {
+         "pl": 700,
+         "eind": 10667
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
+         "pl": 100,
+         "eind": 10671
+      },
+      {
+         "pl": 300,
+         "eind": 10672
+      },
+      {
+         "pl": 200,
+         "eind": 10674
+      },
+      {
+         "pl": 300,
+         "eind": 10675
+      },
+      {
+         "pl": 200,
+         "eind": 10676
+      },
+      {
+         "pl": 400,
+         "eind": 10678
+      },
+      {
+         "pl": 500,
+         "eind": 10681
+      },
+      {
+         "pl": 800,
+         "eind": 10682
+      },
+      {
+         "pl": 700,
+         "eind": 10683
+      },
+      {
+         "pl": 600,
+         "eind": 10684
+      },
+      {
+         "pl": 500,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10687
+      },
+      {
+         "pl": 300,
+         "eind": 10690
+      },
+      {
+         "pl": 400,
+         "eind": 10692
+      },
+      {
+         "pl": 300,
+         "eind": 10694
+      },
+      {
+         "pl": 100,
+         "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10696
       }
    ],
    "130": [
@@ -936564,43 +939895,115 @@
       },
       {
          "pl": 200,
-         "eind": 10650
+         "eind": 10651
       },
       {
          "pl": 100,
-         "eind": 10652
-      },
-      {
-         "pl": 200,
-         "eind": 10655
-      },
-      {
-         "pl": 300,
-         "eind": 10656
-      },
-      {
-         "pl": 600,
-         "eind": 10657
-      },
-      {
-         "pl": 900,
-         "eind": 10658
-      },
-      {
-         "pl": 200,
-         "eind": 10659
-      },
-      {
-         "pl": 100,
-         "eind": 10660
+         "eind": 10654
       },
       {
          "pl": 200,
          "eind": 10661
       },
       {
+         "pl": 300,
+         "eind": 10664
+      },
+      {
+         "pl": 600,
+         "eind": 10665
+      },
+      {
+         "pl": 900,
+         "eind": 10666
+      },
+      {
+         "pl": 300,
+         "eind": 10668
+      },
+      {
+         "pl": 200,
+         "eind": 10670
+      },
+      {
          "pl": 100,
-         "eind": 10662
+         "eind": 10671
+      },
+      {
+         "pl": 200,
+         "eind": 10672
+      },
+      {
+         "pl": 300,
+         "eind": 10673
+      },
+      {
+         "pl": 200,
+         "eind": 10674
+      },
+      {
+         "pl": 100,
+         "eind": 10676
+      },
+      {
+         "pl": 200,
+         "eind": 10677
+      },
+      {
+         "pl": 400,
+         "eind": 10678
+      },
+      {
+         "pl": 300,
+         "eind": 10679
+      },
+      {
+         "pl": 600,
+         "eind": 10681
+      },
+      {
+         "pl": 1200,
+         "eind": 10682
+      },
+      {
+         "pl": 1100,
+         "eind": 10683
+      },
+      {
+         "pl": 800,
+         "eind": 10684
+      },
+      {
+         "pl": 600,
+         "eind": 10685
+      },
+      {
+         "pl": 500,
+         "eind": 10687
+      },
+      {
+         "pl": 400,
+         "eind": 10690
+      },
+      {
+         "pl": 500,
+         "eind": 10692
+      },
+      {
+         "pl": 600,
+         "eind": 10693
+      },
+      {
+         "pl": 400,
+         "eind": 10694
+      },
+      {
+         "pl": 200,
+         "eind": 10695
+      },
+      {
+         "hp": 999997,
+         "eind": 10696
       }
    ],
    "93": [
@@ -957475,35 +960878,134 @@
       },
       {
          "pl": 500,
-         "eind": 10649
+         "eind": 10651
       },
       {
-         "pl": 200,
+         "pl": 600,
          "eind": 10652
       },
       {
+         "pl": 500,
+         "eind": 10653
+      },
+      {
          "pl": 300,
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 10654
+      },
+      {
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10655
+      },
+      {
+         "pl": 200,
          "eind": 10656
       },
       {
+         "pl": 300,
+         "eind": 10662
+      },
+      {
          "pl": 500,
-         "eind": 10658
+         "eind": 10666
+      },
+      {
+         "pl": 200,
+         "eind": 10668
       },
       {
          "pl": 100,
-         "eind": 10659
+         "eind": 10670
       },
       {
          "pl": 200,
-         "eind": 10660
+         "eind": 10671
+      },
+      {
+         "pl": 300,
+         "eind": 10672
+      },
+      {
+         "pl": 400,
+         "eind": 10673
+      },
+      {
+         "pl": 300,
+         "eind": 10674
       },
       {
          "pl": 500,
-         "eind": 10661
+         "eind": 10675
       },
       {
          "pl": 200,
-         "eind": 10662
+         "eind": 10676
+      },
+      {
+         "pl": 100,
+         "eind": 10677
+      },
+      {
+         "pl": 400,
+         "eind": 10678
+      },
+      {
+         "pl": 600,
+         "eind": 10682
+      },
+      {
+         "pl": 400,
+         "eind": 10684
+      },
+      {
+         "pl": 300,
+         "eind": 10685
+      },
+      {
+         "pl": 400,
+         "eind": 10687
+      },
+      {
+         "pl": 200,
+         "eind": 10690
+      },
+      {
+         "pl": 100,
+         "eind": 10695
       }
    ],
    "177": [
