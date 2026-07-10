@@ -16031,6 +16031,7 @@ Assault Division: Spore Burst Strain U4A leaves *Cirrus* (2026-05-05 00:00  UTC)
 *Fenrir III* - *Fronteria* warp link is added (2026-05-05 07:09  UTC)<br/>
 *Turing* - *Fronteria* warp link is added (2026-05-05 07:09  UTC)<br/>
 Note: Yes, the warp link was added before the planet was. (2026-05-05 07:09  UTC)<br/>
+*Sangis* - *Shete* warp link is added (2026-05-05 07:09  UTC)<br/>
 
 ### Day: #818
 *Bore Rock* is lightly enveloped by the Gloom (2026-05-05 09:07  UTC)<br/>
