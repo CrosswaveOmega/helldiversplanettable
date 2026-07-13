@@ -17054,6 +17054,7 @@ Dispatch: MAJOR ORDER WON The Helldivers have successfully defended the initial 
  Decay: 2.5 on Erata Prime
  (2026-07-04 18:28  UTC)<br/>
 Assault Division: Cyborgs U9A deploys to *Meissa* (2026-07-05 08:30  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2026-07-05 08:30  UTC)<br/>
  Decay: 0.0 on Meissa
  (2026-07-05 08:30  UTC)<br/>
 
@@ -17064,9 +17065,119 @@ Dispatch: NEW MAJOR ORDER. The Ministry of Expansion requires an immediate influ
 A Class-2  Exostorm warning was issued for *Sangis* (2026-07-05 12:11  UTC)<br/>
 Dispatch: EXOSTORM ESCALATION. The Exostorm on SANGIS has intensified to Category 2 - localized atmospheric cells are fusing into cascading planetary maelstroms. This severe atmospheric volatility presents an extreme hazard to Helldivers. Helldivers: defend SANGIS to nullify the Exostorm before it progresses into a far more hazardous Category 3 maelstrom. Overcome this environmental interference with the unyielding determination *Super Earth* demands. (2026-07-05 12:12  UTC)<br/>
 DSS deploys to *Mox* of the Trigon sector (2026-07-05 18:26  UTC)<br/>
+*Meissa* defense is failed (2026-07-06 08:31  UTC)<br/>
+*Wasat* Region 0 MIRAGE City has fallen to Automaton (2026-07-06 08:31  UTC)<br/>
+*Wasat* Region 1 DRYWELL MegaCity has fallen to Automaton (2026-07-06 08:31  UTC)<br/>
+*Matar Bay* Region 0 PARRHESIA City has fallen to Automaton (2026-07-06 08:31  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Automaton (2026-07-06 08:31  UTC)<br/>
+*Wasat* liberation campaign ends (2026-07-06 08:31  UTC)<br/>
+*X-45* liberation campaign ends (2026-07-06 08:31  UTC)<br/>
+*Matar Bay* liberation campaign ends (2026-07-06 08:31  UTC)<br/>
  Decay: 2.0 on Mox
- (2026-07-06 08:00  UTC)<br/>
+ (2026-07-06 08:31  UTC)<br/>
 
 # Day: #880
  Decay: 1.0 on Meissa
  (2026-07-06 09:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To aid the Helldivers with their newest mandate, the AX/TX-13 Dog Breath and the A/GM-17 Gas Mortar Sentry Stratagems are freely available fleetwide, for the next 48 hours. (2026-07-06 12:29  UTC)<br/>
+
+### Day: #881
+A Class-3  Exostorm warning was issued for *Sangis* (2026-07-07 12:12  UTC)<br/>
+Dispatch: CRITICAL EXOSTORM ESCALATION The unnatural Exostorm on SANGIS has reached Category 3, now a chaotic, singular, planet-wide tempest of absolute atmospheric violence. Initial adverse spacetime fractures have been reported by the Ministry of Science as localized reality fields begin to fluctuate. Helldivers: you must defend SANGIS to nullify the Exostorm. Failure to do so would result in galactic catastrophe. (2026-07-07 12:13  UTC)<br/>
+*Genesis Prime* Region 0 MALLSTRIP NODES Town has fallen to Human (2026-07-07 23:15  UTC)<br/>
+DSS deploys to *Genesis Prime* of the Rictus sector (2026-07-08 06:28  UTC)<br/>
+
+### Day: #882
+*Mox* is liberated (2026-07-08 12:16  UTC)<br/>
+*Mox* liberation campaign ends (2026-07-08 12:16  UTC)<br/>
+*Vega Bay* liberation campaign starts (2026-07-08 12:16  UTC)<br/>
+*Vega Bay* Region 2 SAPPORO Town has fallen to Automaton (2026-07-08 12:16  UTC)<br/>
+*Vega Bay* Region 1 GIRI Town has fallen to Automaton (2026-07-08 12:16  UTC)<br/>
+*Vega Bay* Region 0 ONSEN Settlement is besieged by Automaton (2026-07-08 12:16  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free fleetwide availability of the AX/TX-13 Dog Breath and A/GM-17 Gas Mortar Sentry Stratagems has now ended. (2026-07-08 12:33  UTC)<br/>
+ Region Decay: 0.1 on Vega Bay's ONSEN region<br/> Region Decay: 0.2 on Vega Bay's GIRI region<br/> Region Decay: 0.2 on Vega Bay's SAPPORO region
+ (2026-07-08 12:33  UTC)<br/>
+*Brilliance* of the Orion sector is attacked by Terminids (2026-07-08 13:39  UTC)<br/>
+Assault Division: Cyborgs U9A deploys to *Matar Bay* (2026-07-08 14:02  UTC)<br/>
+ Decay: 0.0 on Brilliance
+ (2026-07-08 14:02  UTC)<br/>
+Assault Division: Cyborgs U9A deploys to *Marfark* (2026-07-08 15:02  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-07-08 19:17  UTC)<br/>
+
+### Day: #883
+Major Order | [A3-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-1) Celestial Fense-Procurement is lost | Objective: Hold (2026-07-09 11:12  UTC)<br/>
+Dispatch: MAJOR ORDER LOST The Helldivers were prevented from procuring all required resources on MOX and GENESIS PRIME. However, their successful defense of BRILLIANCE enabled construction of the TCS+ wall to proceed, albeit with budget-optimized, localized materials. (2026-07-09 11:12  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Nivel 43* (2026-07-09 11:41  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A leaves *Nivel 43* (2026-07-09 11:43  UTC)<br/>
+*Seasse* urgent liberation is failed (2026-07-09 12:12  UTC)<br/>
+*Seasse* liberation campaign ends (2026-07-09 12:12  UTC)<br/>
+*Seasse* is enveloped by the Void (2026-07-09 12:12  UTC)<br/>
+*Seasse* is now unobservable due to the Void (2026-07-09 12:12  UTC)<br/>
+Dispatch: CATASTROPHIC ANOMALY: PLANET CONSUMED The Category 3 Exostorm on SANGIS has surpassed all known theoretical parameters. In an unprecedented cosmological event, the tempest has completely collapsed the planetary mass into an expanding expanse of the Void. High Command confirms: SANGIS has been entirely consumed and erased from the galactic map. Fortify all adjacent sectors with utmost urgency. (2026-07-09 12:14  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A leaves *Zagon Prime* (2026-07-09 12:17  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A leaves *Zagon Prime* (2026-07-09 12:18  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-07-09 13:50  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town is besieged by Terminid (2026-07-09 13:50  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Terminid (2026-07-09 13:50  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Terminid (2026-07-09 13:50  UTC)<br/>
+Dispatch: The first construction phase of the Termicide 2.0-dispersing TCS+ wall is nearing completion. In response, the Terminids are applying extreme pressure to break through and circumvent the new barrier before it seals them in forever. The Helldivers are ordered to kill 600,000,000 Terminids, while successfully holding TERREK and ERATA PRIME. Helldivers should anticipate the bugs' unlawful resistance to increase as they grow more desperate to evade their eradication. (2026-07-09 14:02  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2026-07-09 14:02  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-07-09 14:02  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-07-09 14:29  UTC)<br/>
+Terrak of the Orion sector is established as a TERMINID CONTROL SYSTEM+ POI (2026-07-09 23:15  UTC)<br/>
+*Erata Prime* of the Umlaut sector is established as a TERMINID CONTROL SYSTEM+ POI (2026-07-09 23:15  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2026-07-10 02:29  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Terminid (2026-07-10 04:25  UTC)<br/>
+*Brilliance* defense is won (2026-07-10 08:13  UTC)<br/>
+
+### Day: #884
+ Decay: 2.5 on Brilliance
+ (2026-07-10 09:00  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-07-10 10:28  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-07-10 12:00  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2026-07-10 12:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To aid the Helldivers with their newest mandate, the TX-41 Sterilizer Stratagem has been made freely available fleetwide, for the next 48 hours. (2026-07-10 16:12  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-07-10 17:47  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-07-10 21:17  UTC)<br/>
+
+### Day: #885
+*Terrek* defense is won (2026-07-11 09:15  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-07-11 09:15  UTC)<br/>
+A Class-1 Exostorm warning was issued for *Keid* (2026-07-11 12:12  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-07-11 18:06  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-07-11 18:06  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-07-11 18:06  UTC)<br/>
+*Erata Prime* defense is won (2026-07-11 18:06  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2026-07-11 18:06  UTC)<br/>
+ Decay: 2.5 on Erata Prime
+ (2026-07-11 20:00  UTC)<br/>
+Dispatch: EXOSTORM ADVISORY A Category 1 Exostorm has been detected on KEID, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend KEID to nullify the exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-07-11 21:14  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-07-11 21:18  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-07-11 23:10  UTC)<br/>
+*Vega Bay* Region 1 GIRI Town has fallen to Automaton (2026-07-12 01:28  UTC)<br/>
+*Vega Bay* Region 2 SAPPORO Town has fallen to Automaton (2026-07-12 01:28  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2026-07-12 02:30  UTC)<br/>
+*Blistica* of the Gellert sector is attacked by Automatons (2026-07-12 03:16  UTC)<br/>
+ Decay: 0.0 on Blistica
+ (2026-07-12 04:00  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-07-12 08:13  UTC)<br/>
+
+### Day: #886
+ Decay: 0.0 on Terrek
+ (2026-07-12 09:00  UTC)<br/>
+DSS deploys to *Terrek* of the Orion sector (2026-07-12 14:31  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free fleetwide availability of the TX-41 Sterilizer Stratagem has now ended. For Helldivers with authorization to continue using the Stratagem, the mandated waiting period between its usage has returned to normal. (2026-07-12 16:18  UTC)<br/>
+*Terrek* defense is won (2026-07-12 20:16  UTC)<br/>
+DSS deploys to *Keid* of the Akira sector (2026-07-12 20:17  UTC)<br/>

@@ -17339,6 +17339,54 @@
       {
          "pl": "<10",
          "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10698
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10705
+      },
+      {
+         "pl": "<10",
+         "eind": 10713
+      },
+      {
+         "pl": 100,
+         "eind": 10716
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10724
+      },
+      {
+         "pl": 400,
+         "eind": 10729
+      },
+      {
+         "pl": 200,
+         "eind": 10732
+      },
+      {
+         "pl": 300,
+         "eind": 10735
+      },
+      {
+         "pl": 200,
+         "eind": 10736
+      },
+      {
+         "pl": 100,
+         "eind": 10739
       }
    ],
    "1": [
@@ -49550,6 +49598,100 @@
       {
          "pl": "<10",
          "eind": 10676
+      },
+      {
+         "r": 0.0,
+         "t": 21,
+         "eind": 10742
+      },
+      {
+         "pl": 10300,
+         "eind": 10743
+      },
+      {
+         "pl": 12100,
+         "eind": 10744
+      },
+      {
+         "pl": 12500,
+         "eind": 10745
+      },
+      {
+         "pl": 16300,
+         "eind": 10746
+      },
+      {
+         "pl": 19000,
+         "eind": 10747
+      },
+      {
+         "pl": 13200,
+         "eind": 10748
+      },
+      {
+         "pl": 12800,
+         "r": 2.7777777,
+         "t": 16,
+         "eind": 10749
+      },
+      {
+         "pl": 500,
+         "eind": 10750
+      },
+      {
+         "pl": 600,
+         "eind": 10752
+      },
+      {
+         "pl": 500,
+         "eind": 10753
+      },
+      {
+         "pl": 400,
+         "eind": 10755
+      },
+      {
+         "pl": 300,
+         "eind": 10757
+      },
+      {
+         "pl": 400,
+         "eind": 10758
+      },
+      {
+         "pl": 300,
+         "eind": 10759
+      },
+      {
+         "pl": 100,
+         "t": 21,
+         "eind": 10762
+      },
+      {
+         "pl": 10300,
+         "r": 0.0,
+         "eind": 10763
+      },
+      {
+         "pl": 29300,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10764
+      },
+      {
+         "pl": 34900,
+         "t": 16,
+         "eind": 10766
+      },
+      {
+         "dss": "",
+         "desc": [],
+         "eind": 10767
       }
    ],
    "77": [
@@ -68201,6 +68343,179 @@
       {
          "pl": "<10",
          "eind": 10694
+      },
+      {
+         "t": 21,
+         "eind": 10717
+      },
+      {
+         "pl": 5500,
+         "r": 0.0,
+         "eind": 10718
+      },
+      {
+         "pl": 13200,
+         "eind": 10719
+      },
+      {
+         "pl": 14600,
+         "eind": 10720
+      },
+      {
+         "pl": 13300,
+         "eind": 10721
+      },
+      {
+         "pl": 16600,
+         "eind": 10722
+      },
+      {
+         "pl": 8200,
+         "eind": 10723
+      },
+      {
+         "pl": 9200,
+         "eind": 10724
+      },
+      {
+         "pl": 13000,
+         "eind": 10725
+      },
+      {
+         "pl": 17000,
+         "eind": 10727
+      },
+      {
+         "pl": 19000,
+         "eind": 10729
+      },
+      {
+         "pl": 27500,
+         "eind": 10732
+      },
+      {
+         "pl": 27400,
+         "eind": 10734
+      },
+      {
+         "pl": 27200,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10735
+      },
+      {
+         "pl": 30300,
+         "eind": 10736
+      },
+      {
+         "pl": 36700,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10737
+      },
+      {
+         "pl": 25900,
+         "eind": 10738
+      },
+      {
+         "pl": 13200,
+         "t": 16,
+         "eind": 10739
+      },
+      {
+         "pl": 3200,
+         "r": 6.9444447,
+         "eind": 10740
+      },
+      {
+         "pl": 800,
+         "eind": 10741
+      },
+      {
+         "pl": 1000,
+         "eind": 10743
+      },
+      {
+         "pl": 900,
+         "eind": 10744
+      },
+      {
+         "pl": 1000,
+         "eind": 10745
+      },
+      {
+         "pl": 900,
+         "eind": 10746
+      },
+      {
+         "pl": 400,
+         "eind": 10747
+      },
+      {
+         "pl": 200,
+         "eind": 10748
+      },
+      {
+         "pl": 100,
+         "eind": 10749
+      },
+      {
+         "pl": 200,
+         "eind": 10750
+      },
+      {
+         "pl": 300,
+         "eind": 10751
+      },
+      {
+         "pl": 200,
+         "eind": 10752
+      },
+      {
+         "pl": 300,
+         "eind": 10753
+      },
+      {
+         "pl": 200,
+         "eind": 10757
+      },
+      {
+         "pl": 300,
+         "eind": 10759
+      },
+      {
+         "pl": 200,
+         "eind": 10760
+      },
+      {
+         "pl": 100,
+         "eind": 10762
+      },
+      {
+         "pl": "<10",
+         "eind": 10763
+      },
+      {
+         "pl": 100,
+         "eind": 10764
+      },
+      {
+         "pl": 200,
+         "eind": 10765
       }
    ],
    "271": [
@@ -95977,6 +96292,146 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 300,
+         "eind": 10698
+      },
+      {
+         "pl": 400,
+         "eind": 10699
+      },
+      {
+         "pl": 300,
+         "eind": 10700
+      },
+      {
+         "pl": 400,
+         "eind": 10701
+      },
+      {
+         "pl": 200,
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10704
+      },
+      {
+         "pl": 200,
+         "eind": 10705
+      },
+      {
+         "pl": 300,
+         "eind": 10707
+      },
+      {
+         "pl": 200,
+         "eind": 10708
+      },
+      {
+         "pl": 100,
+         "eind": 10714
+      },
+      {
+         "pl": 200,
+         "eind": 10716
+      },
+      {
+         "pl": 100,
+         "eind": 10719
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "adiv": "DragonRoach",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "eind": 10725
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 10726
+      },
+      {
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10731
+      },
+      {
+         "pl": 300,
+         "adiv": "",
+         "desc": [],
+         "eind": 10732
+      },
+      {
+         "pl": 100,
+         "eind": 10736
+      },
+      {
+         "pl": 200,
+         "eind": 10742
+      },
+      {
+         "pl": 100,
+         "eind": 10743
+      },
+      {
+         "pl": 200,
+         "eind": 10744
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "pl": 400,
+         "eind": 10750
+      },
+      {
+         "pl": 600,
+         "eind": 10751
+      },
+      {
+         "pl": 700,
+         "eind": 10753
+      },
+      {
+         "pl": 600,
+         "eind": 10756
+      },
+      {
+         "pl": 500,
+         "eind": 10757
+      },
+      {
+         "pl": 700,
+         "eind": 10760
+      },
+      {
+         "pl": 400,
+         "eind": 10762
+      },
+      {
+         "pl": 200,
+         "eind": 10763
       }
    ],
    "212": [
@@ -104787,6 +105242,19 @@
       {
          "desc": [],
          "eind": 10425
+      },
+      {
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 10726
+      },
+      {
+         "desc": [],
+         "eind": 10729
       }
    ],
    "43": [
@@ -138227,6 +138695,14 @@
       {
          "pl": "<10",
          "eind": 10694
+      },
+      {
+         "pl": 100,
+         "eind": 10701
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
       }
    ],
    "100": [
@@ -206275,6 +206751,544 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10699
+      },
+      {
+         "pl": 100,
+         "eind": 10702
+      },
+      {
+         "pl": "<10",
+         "eind": 10703
+      },
+      {
+         "pl": 100,
+         "eind": 10705
+      },
+      {
+         "pl": "<10",
+         "eind": 10712
+      },
+      {
+         "pl": 100,
+         "eind": 10716
+      },
+      {
+         "pl": "<10",
+         "eind": 10719
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "t": 21,
+         "adiv": "SporeBurstStrain",
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10733
+      },
+      {
+         "pl": 1100,
+         "r": 0.0,
+         "eind": 10734
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 199982
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10735
+      },
+      {
+         "pl": 6900,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 150146
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10736
+      },
+      {
+         "pl": 9400,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 129638
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10737
+      },
+      {
+         "pl": 12000,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 111934
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10738
+      },
+      {
+         "pl": 7700,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 69131
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 199474
+            }
+         },
+         "eind": 10739
+      },
+      {
+         "pl": 15500,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 21,
+               "r": 0.5555556,
+               "hp": 52055
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 198526
+            }
+         },
+         "eind": 10740
+      },
+      {
+         "pl": 17700,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 7487
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 194989
+            }
+         },
+         "eind": 10741
+      },
+      {
+         "pl": 22500,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 162371
+            }
+         },
+         "eind": 10742
+      },
+      {
+         "pl": 25800,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 101146
+            }
+         },
+         "eind": 10743
+      },
+      {
+         "pl": 24500,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 0.5555556,
+               "hp": 47498
+            }
+         },
+         "eind": 10744
+      },
+      {
+         "pl": 23200,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 86
+            }
+         },
+         "eind": 10745
+      },
+      {
+         "pl": 22600,
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10746
+      },
+      {
+         "pl": 15800,
+         "eind": 10747
+      },
+      {
+         "pl": 11300,
+         "eind": 10748
+      },
+      {
+         "pl": 25200,
+         "eind": 10750
+      },
+      {
+         "pl": 34800,
+         "eind": 10751
+      },
+      {
+         "pl": 33300,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "regions": {
+            "NEW DA NANG": {
+               "index": 0,
+               "name": "NEW DA NANG",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "PHAM'S SITE": {
+               "index": 1,
+               "name": "PHAM'S SITE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "OLD CHEMLAND": {
+               "index": 2,
+               "name": "OLD CHEMLAND",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10753
+      },
+      {
+         "pl": 1500,
+         "r": 6.9444447,
+         "eind": 10754
+      },
+      {
+         "pl": 1000,
+         "eind": 10755
+      },
+      {
+         "pl": 900,
+         "eind": 10756
+      },
+      {
+         "pl": 700,
+         "eind": 10757
+      },
+      {
+         "pl": 800,
+         "eind": 10761
+      },
+      {
+         "pl": 400,
+         "eind": 10762
+      },
+      {
+         "pl": 300,
+         "eind": 10766
       }
    ],
    "270": [
@@ -234418,6 +235432,159 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10697
+      },
+      {
+         "pl": 300,
+         "eind": 10698
+      },
+      {
+         "pl": 400,
+         "eind": 10699
+      },
+      {
+         "pl": 200,
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10713
+      },
+      {
+         "pl": 200,
+         "eind": 10715
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10732
+      },
+      {
+         "pl": 100,
+         "eind": 10738
+      },
+      {
+         "pl": "<10",
+         "eind": 10739
+      },
+      {
+         "pl": 100,
+         "eind": 10740
+      },
+      {
+         "pl": 200,
+         "eind": 10742
+      },
+      {
+         "pl": 100,
+         "eind": 10743
+      },
+      {
+         "pl": 200,
+         "eind": 10744
+      },
+      {
+         "pl": 100,
+         "eind": 10745
+      },
+      {
+         "pl": 200,
+         "eind": 10746
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "pl": 300,
+         "eind": 10750
+      },
+      {
+         "pl": 600,
+         "eind": 10751
+      },
+      {
+         "pl": 700,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10753
+      },
+      {
+         "hp": 952153,
+         "pl": 31500,
+         "eind": 10754
+      },
+      {
+         "hp": 905430,
+         "pl": 30900,
+         "eind": 10755
+      },
+      {
+         "hp": 894731,
+         "pl": 29500,
+         "eind": 10756
+      },
+      {
+         "hp": 825963,
+         "pl": 21500,
+         "eind": 10757
+      },
+      {
+         "hp": 687653,
+         "pl": 24700,
+         "eind": 10758
+      },
+      {
+         "hp": 611452,
+         "pl": 27600,
+         "dss": "",
+         "desc": [],
+         "eind": 10759
+      },
+      {
+         "hp": 594916,
+         "pl": 22400,
+         "eind": 10760
+      },
+      {
+         "hp": 580973,
+         "pl": 16900,
+         "eind": 10761
+      },
+      {
+         "hp": 551655,
+         "pl": 8300,
+         "eind": 10762
+      },
+      {
+         "hp": 549675,
+         "pl": 4300,
+         "eind": 10763
+      },
+      {
+         "hp": 595438,
+         "pl": 2600,
+         "eind": 10764
+      },
+      {
+         "hp": 615720,
+         "eind": 10765
+      },
+      {
+         "hp": 663355,
+         "pl": 2900,
+         "eind": 10766
       }
    ],
    "78": [
@@ -263373,6 +264540,14 @@
       {
          "pl": "<10",
          "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10700
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
       }
    ],
    "169": [
@@ -342014,6 +343189,98 @@
       {
          "pl": "<10",
          "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10701
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10707
+      },
+      {
+         "pl": "<10",
+         "eind": 10714
+      },
+      {
+         "pl": 100,
+         "eind": 10716
+      },
+      {
+         "pl": 200,
+         "eind": 10720
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10732
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 200,
+         "eind": 10745
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "pl": 200,
+         "eind": 10750
+      },
+      {
+         "pl": 300,
+         "eind": 10752
+      },
+      {
+         "pl": 500,
+         "eind": 10754
+      },
+      {
+         "pl": 400,
+         "eind": 10757
+      },
+      {
+         "pl": 300,
+         "eind": 10758
+      },
+      {
+         "pl": 400,
+         "eind": 10759
+      },
+      {
+         "pl": 300,
+         "eind": 10761
+      },
+      {
+         "pl": 200,
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10763
+      },
+      {
+         "pl": 200,
+         "eind": 10764
+      },
+      {
+         "pl": 300,
+         "eind": 10765
+      },
+      {
+         "pl": 400,
+         "eind": 10766
       }
    ],
    "203": [
@@ -366463,6 +367730,329 @@
       {
          "pl": 100,
          "eind": 10696
+      },
+      {
+         "pl": "<10",
+         "eind": 10697
+      },
+      {
+         "pl": 100,
+         "eind": 10699
+      },
+      {
+         "pl": 200,
+         "eind": 10701
+      },
+      {
+         "pl": 100,
+         "eind": 10702
+      },
+      {
+         "pl": "<10",
+         "eind": 10704
+      },
+      {
+         "pl": 100,
+         "eind": 10705
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 10716
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10717
+      },
+      {
+         "pl": 400,
+         "eind": 10718
+      },
+      {
+         "pl": 300,
+         "eind": 10719
+      },
+      {
+         "pl": 200,
+         "eind": 10720
+      },
+      {
+         "pl": 300,
+         "eind": 10722
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10729
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199995
+            }
+         },
+         "eind": 10735
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10736
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 200,
+         "eind": 10743
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 10746
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10747
+      },
+      {
+         "pl": 200,
+         "eind": 10748
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199996
+            }
+         },
+         "eind": 10749
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10750
+      },
+      {
+         "pl": 400,
+         "eind": 10751
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199989
+            }
+         },
+         "eind": 10753
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10754
+      },
+      {
+         "pl": 500,
+         "eind": 10755
+      },
+      {
+         "pl": 400,
+         "eind": 10756
+      },
+      {
+         "pl": 300,
+         "eind": 10757
+      },
+      {
+         "pl": 400,
+         "eind": 10758
+      },
+      {
+         "pl": 500,
+         "eind": 10759
+      },
+      {
+         "pl": 600,
+         "eind": 10760
+      },
+      {
+         "pl": 400,
+         "eind": 10761
+      },
+      {
+         "pl": 200,
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10763
+      },
+      {
+         "pl": 300,
+         "eind": 10764
+      },
+      {
+         "pl": 400,
+         "eind": 10766
       }
    ],
    "202": [
@@ -370602,6 +372192,86 @@
       {
          "pl": "<10",
          "eind": 10686
+      },
+      {
+         "pl": 100,
+         "eind": 10720
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10727
+      },
+      {
+         "pl": "<10",
+         "eind": 10729
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "pl": "<10",
+         "eind": 10739
+      },
+      {
+         "pl": 100,
+         "eind": 10743
+      },
+      {
+         "pl": "<10",
+         "eind": 10744
+      },
+      {
+         "pl": 100,
+         "eind": 10745
+      },
+      {
+         "pl": "<10",
+         "eind": 10749
+      },
+      {
+         "pl": 100,
+         "eind": 10750
+      },
+      {
+         "pl": 200,
+         "eind": 10753
+      },
+      {
+         "pl": 300,
+         "eind": 10755
+      },
+      {
+         "pl": 200,
+         "eind": 10756
+      },
+      {
+         "pl": 100,
+         "eind": 10757
+      },
+      {
+         "pl": 200,
+         "eind": 10758
+      },
+      {
+         "pl": 100,
+         "eind": 10761
+      },
+      {
+         "pl": "<10",
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10764
+      },
+      {
+         "pl": 200,
+         "eind": 10766
       }
    ],
    "248": [
@@ -397369,6 +399039,126 @@
       {
          "pl": "<10",
          "eind": 10695
+      },
+      {
+         "pl": 100,
+         "eind": 10698
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10704
+      },
+      {
+         "pl": "<10",
+         "eind": 10714
+      },
+      {
+         "pl": 100,
+         "eind": 10716
+      },
+      {
+         "pl": 200,
+         "eind": 10718
+      },
+      {
+         "pl": 100,
+         "eind": 10719
+      },
+      {
+         "pl": 200,
+         "eind": 10720
+      },
+      {
+         "pl": 300,
+         "eind": 10722
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10727
+      },
+      {
+         "pl": 300,
+         "eind": 10737
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 200,
+         "eind": 10744
+      },
+      {
+         "pl": 300,
+         "eind": 10746
+      },
+      {
+         "pl": 200,
+         "eind": 10747
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "pl": 300,
+         "eind": 10751
+      },
+      {
+         "pl": 400,
+         "eind": 10754
+      },
+      {
+         "pl": 500,
+         "eind": 10755
+      },
+      {
+         "pl": 400,
+         "eind": 10757
+      },
+      {
+         "pl": 300,
+         "eind": 10758
+      },
+      {
+         "pl": 400,
+         "eind": 10759
+      },
+      {
+         "pl": 500,
+         "eind": 10760
+      },
+      {
+         "pl": 400,
+         "eind": 10761
+      },
+      {
+         "pl": 200,
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10763
+      },
+      {
+         "pl": 200,
+         "eind": 10764
+      },
+      {
+         "pl": 300,
+         "eind": 10765
+      },
+      {
+         "pl": 400,
+         "eind": 10766
       }
    ],
    "160": [
@@ -445377,7 +447167,7 @@
          "eind": 10694
       },
       {
-         "hp": 1459503,
+         "hp": 1460225,
          "pl": 2200,
          "regions": {
             "DEMOCRACY ALWAYS": {
@@ -445394,7 +447184,7 @@
                "desc": "Nothing of note.",
                "t": 37,
                "r": 1.1111112,
-               "hp": 377620
+               "hp": 378209
             }
          },
          "eind": 10695
@@ -445421,6 +447211,651 @@
             }
          },
          "eind": 10696
+      },
+      {
+         "hp": 1461246,
+         "pl": 3100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 380550
+            }
+         },
+         "eind": 10697
+      },
+      {
+         "hp": 1452866,
+         "pl": 5000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 379994
+            }
+         },
+         "eind": 10698
+      },
+      {
+         "hp": 1443584,
+         "pl": 7500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 378572
+            }
+         },
+         "eind": 10699
+      },
+      {
+         "hp": 1435621,
+         "pl": 6200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 378166
+            }
+         },
+         "eind": 10700
+      },
+      {
+         "hp": 1431536,
+         "pl": 4800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 383112
+            }
+         },
+         "eind": 10701
+      },
+      {
+         "hp": 1435015,
+         "pl": 3900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 388480
+            }
+         },
+         "eind": 10702
+      },
+      {
+         "hp": 1432459,
+         "pl": 3200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 389267
+            }
+         },
+         "eind": 10703
+      },
+      {
+         "hp": 1430387,
+         "pl": 3000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 389479
+            }
+         },
+         "eind": 10704
+      },
+      {
+         "hp": 1426246,
+         "pl": 4100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 390443
+            }
+         },
+         "eind": 10705
+      },
+      {
+         "hp": 1419406,
+         "pl": 6100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 391736
+            }
+         },
+         "eind": 10707
+      },
+      {
+         "hp": 1415260,
+         "pl": 4800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 394067
+            }
+         },
+         "eind": 10708
+      },
+      {
+         "hp": 1417500,
+         "pl": 3900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 397380
+            }
+         },
+         "eind": 10709
+      },
+      {
+         "hp": 1428015,
+         "pl": 3400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10710
+      },
+      {
+         "hp": 1432116,
+         "pl": 3200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 10711
+      },
+      {
+         "hp": 1449618,
+         "pl": 3500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10712
+      },
+      {
+         "hp": 1456592,
+         "pl": 2800,
+         "eind": 10713
+      },
+      {
+         "hp": 1460446,
+         "pl": 2500,
+         "eind": 10714
+      },
+      {
+         "hp": 1459353,
+         "pl": 4000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399997
+            }
+         },
+         "eind": 10715
+      },
+      {
+         "hp": 1458874,
+         "pl": 4400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10716
+      },
+      {
+         "hp": 1455968,
+         "pl": 5500,
+         "eind": 10717
+      },
+      {
+         "hp": 1454564,
+         "pl": 4600,
+         "eind": 10718
+      },
+      {
+         "hp": 1456426,
+         "pl": 2500,
+         "eind": 10719
+      },
+      {
+         "hp": 1483010,
+         "pl": 1400,
+         "eind": 10720
+      },
+      {
+         "hp": 1500000,
+         "pl": 1200,
+         "eind": 10721
+      },
+      {
+         "pl": 1400,
+         "eind": 10722
+      },
+      {
+         "pl": 800,
+         "eind": 10723
+      },
+      {
+         "pl": 900,
+         "eind": 10727
+      },
+      {
+         "pl": 1000,
+         "eind": 10729
+      },
+      {
+         "pl": 1700,
+         "eind": 10732
+      },
+      {
+         "pl": 1600,
+         "eind": 10734
+      },
+      {
+         "pl": 800,
+         "eind": 10736
+      },
+      {
+         "pl": 1000,
+         "eind": 10737
+      },
+      {
+         "pl": 900,
+         "eind": 10738
+      },
+      {
+         "pl": 500,
+         "eind": 10739
+      },
+      {
+         "pl": 900,
+         "eind": 10740
+      },
+      {
+         "hp": 1499999,
+         "pl": 1100,
+         "eind": 10741
+      },
+      {
+         "hp": 1499998,
+         "pl": 1500,
+         "eind": 10742
+      },
+      {
+         "hp": 1500000,
+         "pl": 1400,
+         "eind": 10743
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399996
+            }
+         },
+         "eind": 10744
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10745
+      },
+      {
+         "pl": 900,
+         "eind": 10748
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 399995
+            }
+         },
+         "eind": 10749
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 37,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10750
+      },
+      {
+         "hp": 1499981,
+         "pl": 3600,
+         "eind": 10751
+      },
+      {
+         "hp": 1500000,
+         "pl": 3500,
+         "eind": 10752
+      },
+      {
+         "pl": 3000,
+         "eind": 10753
+      },
+      {
+         "pl": 3600,
+         "eind": 10754
+      },
+      {
+         "pl": 3100,
+         "eind": 10755
+      },
+      {
+         "pl": 2900,
+         "eind": 10756
+      },
+      {
+         "pl": 2200,
+         "eind": 10757
+      },
+      {
+         "pl": 2700,
+         "eind": 10758
+      },
+      {
+         "pl": 2900,
+         "eind": 10759
+      },
+      {
+         "pl": 3600,
+         "eind": 10760
+      },
+      {
+         "pl": 3800,
+         "eind": 10761
+      },
+      {
+         "hp": 1499970,
+         "pl": 3500,
+         "eind": 10762
+      },
+      {
+         "hp": 1500000,
+         "pl": 2000,
+         "eind": 10763
+      },
+      {
+         "pl": 1900,
+         "eind": 10764
+      },
+      {
+         "pl": 1500,
+         "eind": 10765
+      },
+      {
+         "pl": 1400,
+         "eind": 10766
       }
    ],
    "171": [
@@ -463130,6 +465565,118 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10698
+      },
+      {
+         "pl": 300,
+         "eind": 10700
+      },
+      {
+         "pl": 200,
+         "eind": 10701
+      },
+      {
+         "pl": 100,
+         "eind": 10703
+      },
+      {
+         "pl": 200,
+         "eind": 10707
+      },
+      {
+         "pl": 100,
+         "eind": 10710
+      },
+      {
+         "pl": 200,
+         "eind": 10712
+      },
+      {
+         "pl": 100,
+         "eind": 10713
+      },
+      {
+         "pl": "<10",
+         "eind": 10714
+      },
+      {
+         "pl": 100,
+         "eind": 10715
+      },
+      {
+         "pl": 200,
+         "eind": 10717
+      },
+      {
+         "pl": 100,
+         "eind": 10719
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "pl": "<10",
+         "eind": 10736
+      },
+      {
+         "pl": 100,
+         "eind": 10742
+      },
+      {
+         "pl": "<10",
+         "eind": 10743
+      },
+      {
+         "pl": 100,
+         "eind": 10744
+      },
+      {
+         "pl": "<10",
+         "eind": 10745
+      },
+      {
+         "pl": 100,
+         "eind": 10747
+      },
+      {
+         "pl": "<10",
+         "eind": 10748
+      },
+      {
+         "pl": 100,
+         "eind": 10750
+      },
+      {
+         "pl": 200,
+         "eind": 10751
+      },
+      {
+         "pl": 300,
+         "eind": 10758
+      },
+      {
+         "pl": 200,
+         "eind": 10759
+      },
+      {
+         "pl": 300,
+         "eind": 10760
+      },
+      {
+         "pl": 200,
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10763
       }
    ],
    "172": [
@@ -472092,6 +474639,126 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10697
+      },
+      {
+         "pl": 300,
+         "eind": 10698
+      },
+      {
+         "pl": 500,
+         "eind": 10699
+      },
+      {
+         "pl": 300,
+         "eind": 10702
+      },
+      {
+         "pl": 200,
+         "eind": 10703
+      },
+      {
+         "pl": 400,
+         "eind": 10707
+      },
+      {
+         "pl": 300,
+         "eind": 10708
+      },
+      {
+         "pl": 200,
+         "eind": 10711
+      },
+      {
+         "pl": 300,
+         "eind": 10712
+      },
+      {
+         "pl": 200,
+         "eind": 10713
+      },
+      {
+         "pl": 300,
+         "eind": 10716
+      },
+      {
+         "pl": 400,
+         "eind": 10717
+      },
+      {
+         "pl": 300,
+         "eind": 10718
+      },
+      {
+         "pl": 200,
+         "eind": 10719
+      },
+      {
+         "pl": 100,
+         "eind": 10720
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "pl": "<10",
+         "eind": 10736
+      },
+      {
+         "pl": 100,
+         "eind": 10742
+      },
+      {
+         "pl": "<10",
+         "eind": 10744
+      },
+      {
+         "pl": 100,
+         "eind": 10745
+      },
+      {
+         "pl": "<10",
+         "eind": 10749
+      },
+      {
+         "pl": 100,
+         "eind": 10750
+      },
+      {
+         "pl": 200,
+         "eind": 10751
+      },
+      {
+         "pl": 300,
+         "eind": 10758
+      },
+      {
+         "pl": 200,
+         "eind": 10759
+      },
+      {
+         "pl": 500,
+         "eind": 10760
+      },
+      {
+         "pl": 300,
+         "eind": 10762
+      },
+      {
+         "pl": 200,
+         "eind": 10763
+      },
+      {
+         "pl": 100,
+         "eind": 10764
       }
    ],
    "173": [
@@ -487953,11 +490620,565 @@
       },
       {
          "pl": 1200,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399976
+            }
+         },
          "eind": 10695
       },
       {
          "pl": 1100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
          "eind": 10696
+      },
+      {
+         "pl": 1600,
+         "eind": 10697
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399983
+            }
+         },
+         "eind": 10698
+      },
+      {
+         "hp": 1499988,
+         "pl": 3900,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399964
+            }
+         },
+         "eind": 10699
+      },
+      {
+         "hp": 1500000,
+         "pl": 3500,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399992
+            }
+         },
+         "eind": 10700
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 10701
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399989
+            }
+         },
+         "eind": 10702
+      },
+      {
+         "hp": 1499990,
+         "pl": 1600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399995
+            }
+         },
+         "eind": 10703
+      },
+      {
+         "hp": 1500000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399996
+            }
+         },
+         "eind": 10704
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399993
+            }
+         },
+         "eind": 10705
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10707
+      },
+      {
+         "hp": 1499999,
+         "pl": 2600,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 10708
+      },
+      {
+         "hp": 1500000,
+         "pl": 2000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10709
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 10710
+      },
+      {
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10711
+      },
+      {
+         "pl": 1300,
+         "eind": 10713
+      },
+      {
+         "pl": 1100,
+         "eind": 10714
+      },
+      {
+         "pl": 2000,
+         "eind": 10715
+      },
+      {
+         "pl": 2300,
+         "eind": 10716
+      },
+      {
+         "pl": 2800,
+         "eind": 10717
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399994
+            }
+         },
+         "eind": 10718
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10719
+      },
+      {
+         "pl": 800,
+         "eind": 10720
+      },
+      {
+         "pl": 600,
+         "eind": 10721
+      },
+      {
+         "pl": 300,
+         "eind": 10723
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 10724
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10725
+      },
+      {
+         "pl": 600,
+         "eind": 10727
+      },
+      {
+         "pl": 700,
+         "eind": 10729
+      },
+      {
+         "pl": 900,
+         "eind": 10732
+      },
+      {
+         "pl": 800,
+         "eind": 10735
+      },
+      {
+         "pl": 300,
+         "eind": 10736
+      },
+      {
+         "pl": 400,
+         "eind": 10737
+      },
+      {
+         "pl": 300,
+         "eind": 10738
+      },
+      {
+         "pl": 200,
+         "eind": 10739
+      },
+      {
+         "pl": 300,
+         "eind": 10740
+      },
+      {
+         "pl": 400,
+         "eind": 10742
+      },
+      {
+         "pl": 500,
+         "eind": 10744
+      },
+      {
+         "pl": 400,
+         "eind": 10746
+      },
+      {
+         "pl": 600,
+         "eind": 10750
+      },
+      {
+         "pl": 900,
+         "eind": 10751
+      },
+      {
+         "pl": 800,
+         "eind": 10752
+      },
+      {
+         "pl": 700,
+         "eind": 10753
+      },
+      {
+         "pl": 1400,
+         "eind": 10754
+      },
+      {
+         "pl": 1300,
+         "eind": 10756
+      },
+      {
+         "pl": 1200,
+         "eind": 10757
+      },
+      {
+         "pl": 1300,
+         "eind": 10759
+      },
+      {
+         "pl": 2200,
+         "eind": 10760
+      },
+      {
+         "pl": 2700,
+         "eind": 10761
+      },
+      {
+         "pl": 2800,
+         "eind": 10762
+      },
+      {
+         "pl": 1400,
+         "eind": 10763
+      },
+      {
+         "pl": 1100,
+         "eind": 10764
+      },
+      {
+         "pl": 800,
+         "eind": 10765
       }
    ],
    "214": [
@@ -547994,6 +551215,202 @@
       {
          "pl": 100,
          "eind": 10696
+      },
+      {
+         "pl": 200,
+         "eind": 10699
+      },
+      {
+         "pl": 300,
+         "eind": 10700
+      },
+      {
+         "pl": 200,
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10703
+      },
+      {
+         "pl": 200,
+         "eind": 10705
+      },
+      {
+         "pl": 300,
+         "eind": 10707
+      },
+      {
+         "pl": 400,
+         "eind": 10712
+      },
+      {
+         "pl": 200,
+         "eind": 10713
+      },
+      {
+         "pl": 100,
+         "eind": 10714
+      },
+      {
+         "pl": 200,
+         "eind": 10715
+      },
+      {
+         "pl": 300,
+         "eind": 10716
+      },
+      {
+         "pl": 500,
+         "eind": 10717
+      },
+      {
+         "pl": 600,
+         "eind": 10718
+      },
+      {
+         "pl": 700,
+         "eind": 10719
+      },
+      {
+         "pl": 800,
+         "eind": 10722
+      },
+      {
+         "pl": 300,
+         "eind": 10723
+      },
+      {
+         "pl": 500,
+         "eind": 10724
+      },
+      {
+         "pl": 600,
+         "eind": 10725
+      },
+      {
+         "pl": 700,
+         "eind": 10729
+      },
+      {
+         "pl": 900,
+         "eind": 10732
+      },
+      {
+         "pl": 800,
+         "eind": 10735
+      },
+      {
+         "pl": 600,
+         "eind": 10736
+      },
+      {
+         "pl": 900,
+         "eind": 10737
+      },
+      {
+         "pl": 700,
+         "eind": 10738
+      },
+      {
+         "pl": 400,
+         "eind": 10739
+      },
+      {
+         "pl": 500,
+         "eind": 10740
+      },
+      {
+         "pl": 300,
+         "eind": 10741
+      },
+      {
+         "pl": 400,
+         "eind": 10742
+      },
+      {
+         "pl": 600,
+         "eind": 10743
+      },
+      {
+         "pl": 700,
+         "eind": 10744
+      },
+      {
+         "pl": 900,
+         "eind": 10746
+      },
+      {
+         "pl": 1100,
+         "eind": 10747
+      },
+      {
+         "pl": 600,
+         "eind": 10748
+      },
+      {
+         "pl": 700,
+         "eind": 10750
+      },
+      {
+         "pl": 1100,
+         "eind": 10751
+      },
+      {
+         "pl": 1300,
+         "eind": 10752
+      },
+      {
+         "pl": 1400,
+         "eind": 10753
+      },
+      {
+         "pl": 1800,
+         "eind": 10754
+      },
+      {
+         "pl": 1900,
+         "eind": 10755
+      },
+      {
+         "pl": 1800,
+         "eind": 10756
+      },
+      {
+         "pl": 1400,
+         "eind": 10757
+      },
+      {
+         "pl": 1500,
+         "eind": 10758
+      },
+      {
+         "pl": 1700,
+         "eind": 10759
+      },
+      {
+         "pl": 1800,
+         "eind": 10760
+      },
+      {
+         "pl": 1500,
+         "eind": 10761
+      },
+      {
+         "pl": 500,
+         "eind": 10762
+      },
+      {
+         "pl": 1000,
+         "eind": 10764
+      },
+      {
+         "pl": 1100,
+         "eind": 10765
+      },
+      {
+         "pl": 1400,
+         "eind": 10766
       }
    ],
    "198": [
@@ -563340,6 +566757,193 @@
       {
          "pl": 100,
          "eind": 10696
+      },
+      {
+         "pl": 200,
+         "eind": 10699
+      },
+      {
+         "pl": 100,
+         "eind": 10703
+      },
+      {
+         "pl": 200,
+         "eind": 10707
+      },
+      {
+         "pl": 100,
+         "eind": 10711
+      },
+      {
+         "pl": 200,
+         "eind": 10712
+      },
+      {
+         "pl": 100,
+         "eind": 10713
+      },
+      {
+         "pl": 300,
+         "eind": 10717
+      },
+      {
+         "pl": 500,
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 10719
+      },
+      {
+         "pl": 1200,
+         "eind": 10720
+      },
+      {
+         "pl": 1100,
+         "eind": 10721
+      },
+      {
+         "pl": 1300,
+         "eind": 10722
+      },
+      {
+         "pl": 600,
+         "eind": 10723
+      },
+      {
+         "pl": 700,
+         "eind": 10725
+      },
+      {
+         "pl": 900,
+         "eind": 10727
+      },
+      {
+         "pl": 1000,
+         "eind": 10729
+      },
+      {
+         "pl": 1700,
+         "eind": 10732
+      },
+      {
+         "pl": 1500,
+         "eind": 10735
+      },
+      {
+         "pl": 1000,
+         "eind": 10736
+      },
+      {
+         "pl": 1400,
+         "eind": 10737
+      },
+      {
+         "pl": 1200,
+         "eind": 10738
+      },
+      {
+         "pl": 700,
+         "eind": 10739
+      },
+      {
+         "pl": 600,
+         "eind": 10740
+      },
+      {
+         "pl": 500,
+         "eind": 10741
+      },
+      {
+         "pl": 700,
+         "eind": 10742
+      },
+      {
+         "pl": 1100,
+         "eind": 10743
+      },
+      {
+         "pl": 1000,
+         "eind": 10745
+      },
+      {
+         "pl": 1200,
+         "eind": 10746
+      },
+      {
+         "pl": 1400,
+         "eind": 10747
+      },
+      {
+         "pl": 1000,
+         "eind": 10748
+      },
+      {
+         "pl": 1100,
+         "eind": 10750
+      },
+      {
+         "pl": 1800,
+         "eind": 10751
+      },
+      {
+         "pl": 2100,
+         "eind": 10752
+      },
+      {
+         "pl": 3300,
+         "eind": 10754
+      },
+      {
+         "pl": 3100,
+         "eind": 10755
+      },
+      {
+         "pl": 3000,
+         "eind": 10756
+      },
+      {
+         "pl": 2000,
+         "eind": 10757
+      },
+      {
+         "pl": 2200,
+         "eind": 10758
+      },
+      {
+         "pl": 2500,
+         "eind": 10759
+      },
+      {
+         "pl": 2600,
+         "eind": 10760
+      },
+      {
+         "pl": 1800,
+         "eind": 10761
+      },
+      {
+         "pl": 600,
+         "eind": 10762
+      },
+      {
+         "pl": 500,
+         "eind": 10763
+      },
+      {
+         "pl": 900,
+         "eind": 10764
+      },
+      {
+         "pl": 1200,
+         "eind": 10766
       }
    ],
    "199": [
@@ -590150,6 +593754,7 @@
       },
       {
          "pl": 200,
+         "t": 48,
          "regions": {
             "PARRHESIA": {
                "index": 0,
@@ -590163,9 +593768,9 @@
                "index": 1,
                "name": "ISEGORIA",
                "desc": "Nothing of note.",
-               "t": 51,
+               "t": 48,
                "r": 0.5555556,
-               "hp": 166762
+               "hp": 167580
             }
          },
          "eind": 10695
@@ -590173,6 +593778,33 @@
       {
          "pl": 100,
          "eind": 10696
+      },
+      {
+         "pl": "<10",
+         "eind": 10697
+      },
+      {
+         "pl": 100,
+         "eind": 10700
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 10718
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 10719
       }
    ],
    "158": [
@@ -633106,15 +636738,187 @@
          "eind": 10694
       },
       {
-         "hp": 1589024,
-         "pl": 13800,
+         "hp": 1573730,
+         "pl": 13200,
          "r": 5.5555553,
          "eind": 10695
       },
       {
          "hp": 1559106,
-         "pl": 13200,
          "eind": 10696
+      },
+      {
+         "hp": 1528044,
+         "pl": 12500,
+         "eind": 10697
+      },
+      {
+         "hp": 1471182,
+         "pl": 16000,
+         "eind": 10698
+      },
+      {
+         "hp": 1426276,
+         "pl": 22400,
+         "eind": 10699
+      },
+      {
+         "hp": 1376833,
+         "pl": 23200,
+         "eind": 10700
+      },
+      {
+         "hp": 1200007,
+         "pl": 26400,
+         "eind": 10701
+      },
+      {
+         "hp": 945293,
+         "pl": 18000,
+         "eind": 10702
+      },
+      {
+         "hp": 889591,
+         "pl": 12800,
+         "eind": 10703
+      },
+      {
+         "hp": 861799,
+         "pl": 12400,
+         "eind": 10704
+      },
+      {
+         "hp": 766490,
+         "pl": 16700,
+         "eind": 10705
+      },
+      {
+         "hp": 704738,
+         "pl": 23400,
+         "eind": 10707
+      },
+      {
+         "hp": 646679,
+         "pl": 25200,
+         "eind": 10708
+      },
+      {
+         "hp": 582046,
+         "pl": 26300,
+         "eind": 10709
+      },
+      {
+         "hp": 438144,
+         "pl": 26900,
+         "eind": 10710
+      },
+      {
+         "hp": 393726,
+         "eind": 10711
+      },
+      {
+         "hp": 223610,
+         "pl": 26700,
+         "eind": 10712
+      },
+      {
+         "hp": 154669,
+         "pl": 16400,
+         "dss": "",
+         "desc": [],
+         "eind": 10713
+      },
+      {
+         "hp": 81630,
+         "pl": 11100,
+         "eind": 10714
+      },
+      {
+         "hp": 161,
+         "pl": 12900,
+         "t": 16,
+         "eind": 10715
+      },
+      {
+         "hp": 2000000,
+         "pl": 9100,
+         "eind": 10716
+      },
+      {
+         "pl": 1700,
+         "eind": 10717
+      },
+      {
+         "pl": 1100,
+         "eind": 10718
+      },
+      {
+         "pl": 1000,
+         "eind": 10719
+      },
+      {
+         "pl": 1100,
+         "eind": 10720
+      },
+      {
+         "pl": 800,
+         "eind": 10721
+      },
+      {
+         "pl": 900,
+         "eind": 10722
+      },
+      {
+         "pl": 200,
+         "eind": 10723
+      },
+      {
+         "pl": 300,
+         "eind": 10725
+      },
+      {
+         "pl": 200,
+         "eind": 10727
+      },
+      {
+         "pl": 300,
+         "eind": 10729
+      },
+      {
+         "pl": 400,
+         "eind": 10737
+      },
+      {
+         "pl": 200,
+         "eind": 10738
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 200,
+         "eind": 10745
+      },
+      {
+         "pl": 100,
+         "eind": 10747
+      },
+      {
+         "pl": "<10",
+         "eind": 10748
+      },
+      {
+         "pl": 100,
+         "eind": 10751
+      },
+      {
+         "pl": "<10",
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10765
       }
    ],
    "166": [
@@ -643011,6 +646815,150 @@
       {
          "pl": 200,
          "eind": 10695
+      },
+      {
+         "pl": 300,
+         "eind": 10697
+      },
+      {
+         "pl": 400,
+         "eind": 10698
+      },
+      {
+         "pl": 600,
+         "eind": 10699
+      },
+      {
+         "pl": 400,
+         "eind": 10700
+      },
+      {
+         "pl": 500,
+         "eind": 10701
+      },
+      {
+         "pl": 400,
+         "eind": 10702
+      },
+      {
+         "pl": 300,
+         "eind": 10703
+      },
+      {
+         "pl": 500,
+         "eind": 10707
+      },
+      {
+         "pl": 400,
+         "eind": 10709
+      },
+      {
+         "pl": 300,
+         "eind": 10713
+      },
+      {
+         "pl": 200,
+         "eind": 10714
+      },
+      {
+         "pl": 300,
+         "eind": 10715
+      },
+      {
+         "pl": 400,
+         "eind": 10716
+      },
+      {
+         "pl": 500,
+         "eind": 10717
+      },
+      {
+         "pl": 400,
+         "eind": 10719
+      },
+      {
+         "pl": 300,
+         "eind": 10720
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10724
+      },
+      {
+         "pl": 400,
+         "eind": 10732
+      },
+      {
+         "pl": 200,
+         "eind": 10736
+      },
+      {
+         "pl": 300,
+         "eind": 10737
+      },
+      {
+         "pl": 200,
+         "eind": 10739
+      },
+      {
+         "pl": 100,
+         "eind": 10740
+      },
+      {
+         "pl": 200,
+         "eind": 10743
+      },
+      {
+         "pl": 300,
+         "eind": 10744
+      },
+      {
+         "pl": 200,
+         "eind": 10748
+      },
+      {
+         "pl": 400,
+         "eind": 10751
+      },
+      {
+         "pl": 500,
+         "eind": 10752
+      },
+      {
+         "pl": 400,
+         "eind": 10753
+      },
+      {
+         "pl": 700,
+         "eind": 10754
+      },
+      {
+         "pl": 500,
+         "eind": 10757
+      },
+      {
+         "pl": 600,
+         "eind": 10760
+      },
+      {
+         "pl": 500,
+         "eind": 10762
+      },
+      {
+         "pl": 300,
+         "eind": 10763
+      },
+      {
+         "pl": 500,
+         "eind": 10764
+      },
+      {
+         "pl": 400,
+         "eind": 10765
       }
    ],
    "201": [
@@ -646044,6 +649992,7 @@
       },
       {
          "r": 0.0,
+         "t": 23,
          "adiv": "Cyborgs",
          "desc": [
             {
@@ -646086,13 +650035,32 @@
          "eind": 10694
       },
       {
-         "pl": 1100,
+         "pl": 1000,
+         "t": 48,
          "eind": 10695
       },
       {
          "pl": 400,
          "r": 2.7777777,
          "eind": 10696
+      },
+      {
+         "pl": 100,
+         "eind": 10697
+      },
+      {
+         "pl": "<10",
+         "eind": 10701
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            }
+         ],
+         "eind": 10718
       }
    ],
    "245": [
@@ -647890,6 +651858,25 @@
       },
       {
          "pl": "<10",
+         "t": 48,
+         "regions": {
+            "MIRAGE": {
+               "index": 0,
+               "name": "MIRAGE",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "DRYWELL": {
+               "index": 1,
+               "name": "DRYWELL",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
          "eind": 10695
       }
    ],
@@ -653943,6 +657930,914 @@
       {
          "r": 1.3888888,
          "eind": 10339
+      },
+      {
+         "t": 49,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10715
+      },
+      {
+         "pl": 100,
+         "eind": 10716
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99975
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10717
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99912
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10718
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10719
+      },
+      {
+         "pl": 300,
+         "eind": 10720
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10722
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10723
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99995
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10725
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99997
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10727
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10729
+      },
+      {
+         "pl": 300,
+         "eind": 10732
+      },
+      {
+         "pl": 200,
+         "eind": 10735
+      },
+      {
+         "pl": 300,
+         "eind": 10736
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10738
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10739
+      },
+      {
+         "pl": "<10",
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99987
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10740
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10741
+      },
+      {
+         "pl": 200,
+         "eind": 10744
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99992
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10745
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10746
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10747
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99993
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10748
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10749
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99995
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10750
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10751
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99997
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10752
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10753
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10754
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10755
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99988
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10756
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99992
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10757
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10758
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10759
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 55,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 10760
+      },
+      {
+         "pl": 400,
+         "eind": 10761
+      },
+      {
+         "pl": 200,
+         "eind": 10762
+      },
+      {
+         "pl": 100,
+         "eind": 10763
+      },
+      {
+         "pl": 200,
+         "eind": 10764
+      },
+      {
+         "pl": 300,
+         "eind": 10765
+      },
+      {
+         "pl": 500,
+         "eind": 10766
       }
    ],
    "247": [
@@ -658129,6 +663024,34 @@
       {
          "pl": "<10",
          "eind": 10398
+      },
+      {
+         "pl": 100,
+         "eind": 10722
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10755
+      },
+      {
+         "pl": "<10",
+         "eind": 10756
+      },
+      {
+         "pl": 100,
+         "eind": 10757
+      },
+      {
+         "pl": "<10",
+         "eind": 10758
+      },
+      {
+         "pl": 100,
+         "eind": 10766
       }
    ],
    "249": [
@@ -658785,6 +663708,10 @@
       {
          "pl": "<10",
          "eind": 10399
+      },
+      {
+         "t": 48,
+         "eind": 10695
       }
    ],
    "117": [
@@ -746066,6 +750993,22 @@
       {
          "pl": "<10",
          "eind": 10685
+      },
+      {
+         "pl": 100,
+         "eind": 10701
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10754
+      },
+      {
+         "pl": "<10",
+         "eind": 10757
       }
    ],
    "94": [
@@ -749505,6 +754448,14 @@
       {
          "pl": "<10",
          "eind": 10693
+      },
+      {
+         "pl": 100,
+         "eind": 10722
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
       }
    ],
    "95": [
@@ -753992,8 +758943,8 @@
          "eind": 10694
       },
       {
-         "hp": 1599991,
-         "pl": 1900,
+         "hp": 1600000,
+         "pl": 1700,
          "regions": {
             "MALLSTRIP NODES": {
                "index": 0,
@@ -754001,7 +758952,7 @@
                "desc": "Nothing of note.",
                "t": 67,
                "r": 0.5555556,
-               "hp": 123356
+               "hp": 121521
             },
             "BIRTH": {
                "index": 1,
@@ -754015,8 +758966,6 @@
          "eind": 10695
       },
       {
-         "hp": 1600000,
-         "pl": 1700,
          "regions": {
             "MALLSTRIP NODES": {
                "index": 0,
@@ -754036,6 +758985,565 @@
             }
          },
          "eind": 10696
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 116982
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10697
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 112618
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10698
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 108829
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10699
+      },
+      {
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 104575
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10700
+      },
+      {
+         "pl": 3300,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 90218
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10701
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 68833
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10702
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 63757
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10703
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 61052
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10704
+      },
+      {
+         "hp": 1599998,
+         "pl": 2700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 49398
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10705
+      },
+      {
+         "hp": 1600000,
+         "pl": 3700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 41119
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10707
+      },
+      {
+         "pl": 4000,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 33991
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10708
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 25768
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10709
+      },
+      {
+         "pl": 4500,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 6519
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10710
+      },
+      {
+         "hp": 1300134,
+         "pl": 4700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10711
+      },
+      {
+         "hp": 1286462,
+         "pl": 7200,
+         "eind": 10712
+      },
+      {
+         "hp": 1276165,
+         "pl": 4700,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10713
+      },
+      {
+         "hp": 1258982,
+         "pl": 4100,
+         "eind": 10714
+      },
+      {
+         "hp": 1228400,
+         "pl": 7700,
+         "eind": 10715
+      },
+      {
+         "hp": 1225056,
+         "pl": 11800,
+         "eind": 10716
+      },
+      {
+         "hp": 1192321,
+         "pl": 22000,
+         "eind": 10717
+      },
+      {
+         "hp": 1169756,
+         "pl": 21600,
+         "eind": 10718
+      },
+      {
+         "hp": 1132420,
+         "pl": 20200,
+         "eind": 10719
+      },
+      {
+         "hp": 992663,
+         "pl": 22800,
+         "eind": 10720
+      },
+      {
+         "hp": 893192,
+         "pl": 21800,
+         "eind": 10721
+      },
+      {
+         "hp": 737983,
+         "pl": 27300,
+         "eind": 10722
+      },
+      {
+         "hp": 497020,
+         "pl": 9600,
+         "eind": 10723
+      },
+      {
+         "hp": 434480,
+         "pl": 9900,
+         "eind": 10724
+      },
+      {
+         "hp": 420623,
+         "pl": 7000,
+         "eind": 10725
+      },
+      {
+         "hp": 413552,
+         "pl": 4500,
+         "eind": 10727
+      },
+      {
+         "hp": 411472,
+         "pl": 4000,
+         "eind": 10729
+      },
+      {
+         "hp": 409723,
+         "pl": 4100,
+         "eind": 10732
+      },
+      {
+         "hp": 409888,
+         "pl": 4000,
+         "eind": 10734
+      },
+      {
+         "hp": 410261,
+         "pl": 3500,
+         "dss": "",
+         "desc": [],
+         "eind": 10735
+      },
+      {
+         "hp": 477419,
+         "pl": 1200,
+         "eind": 10736
+      },
+      {
+         "hp": 501772,
+         "pl": 1100,
+         "eind": 10737
+      },
+      {
+         "hp": 518729,
+         "pl": 800,
+         "eind": 10738
+      },
+      {
+         "hp": 551585,
+         "pl": 200,
+         "eind": 10739
+      },
+      {
+         "hp": 560541,
+         "pl": 300,
+         "eind": 10740
+      },
+      {
+         "hp": 571447,
+         "eind": 10741
+      },
+      {
+         "hp": 586863,
+         "eind": 10742
+      },
+      {
+         "hp": 604768,
+         "pl": 400,
+         "eind": 10743
+      },
+      {
+         "hp": 623063,
+         "eind": 10744
+      },
+      {
+         "hp": 639074,
+         "eind": 10745
+      },
+      {
+         "hp": 670642,
+         "eind": 10746
+      },
+      {
+         "hp": 750808,
+         "pl": 200,
+         "eind": 10747
+      },
+      {
+         "hp": 778744,
+         "eind": 10748
+      },
+      {
+         "hp": 781061,
+         "pl": 100,
+         "eind": 10749
+      },
+      {
+         "hp": 806301,
+         "pl": 200,
+         "eind": 10750
+      },
+      {
+         "hp": 824566,
+         "pl": 300,
+         "eind": 10751
+      },
+      {
+         "hp": 842787,
+         "eind": 10752
+      },
+      {
+         "hp": 861041,
+         "pl": 400,
+         "eind": 10753
+      },
+      {
+         "hp": 878425,
+         "pl": 600,
+         "eind": 10754
+      },
+      {
+         "hp": 887269,
+         "pl": 500,
+         "eind": 10755
+      },
+      {
+         "hp": 889480,
+         "pl": 400,
+         "eind": 10756
+      },
+      {
+         "hp": 905596,
+         "pl": 200,
+         "eind": 10757
+      },
+      {
+         "hp": 926842,
+         "eind": 10758
+      },
+      {
+         "hp": 938745,
+         "pl": 300,
+         "eind": 10759
+      },
+      {
+         "hp": 945883,
+         "pl": 200,
+         "eind": 10760
+      },
+      {
+         "hp": 953027,
+         "eind": 10761
+      },
+      {
+         "hp": 991114,
+         "pl": 100,
+         "eind": 10762
+      },
+      {
+         "hp": 1000652,
+         "pl": "<10",
+         "eind": 10763
+      },
+      {
+         "hp": 1052961,
+         "pl": 100,
+         "eind": 10764
+      },
+      {
+         "hp": 1069821,
+         "pl": 200,
+         "eind": 10765
+      },
+      {
+         "hp": 1108247,
+         "eind": 10766
       }
    ],
    "59": [
@@ -773349,8 +778857,196 @@
          "eind": 10694
       },
       {
-         "pl": 400,
+         "pl": 300,
          "eind": 10695
+      },
+      {
+         "pl": 400,
+         "eind": 10696
+      },
+      {
+         "pl": 700,
+         "eind": 10698
+      },
+      {
+         "pl": 900,
+         "eind": 10699
+      },
+      {
+         "pl": 1100,
+         "eind": 10700
+      },
+      {
+         "pl": 1000,
+         "eind": 10701
+      },
+      {
+         "pl": 700,
+         "eind": 10702
+      },
+      {
+         "pl": 500,
+         "eind": 10703
+      },
+      {
+         "pl": 400,
+         "eind": 10704
+      },
+      {
+         "pl": 600,
+         "eind": 10705
+      },
+      {
+         "pl": 700,
+         "eind": 10707
+      },
+      {
+         "pl": 800,
+         "eind": 10708
+      },
+      {
+         "pl": 900,
+         "eind": 10710
+      },
+      {
+         "pl": 800,
+         "eind": 10711
+      },
+      {
+         "pl": 500,
+         "eind": 10713
+      },
+      {
+         "pl": 400,
+         "eind": 10714
+      },
+      {
+         "pl": 500,
+         "eind": 10715
+      },
+      {
+         "pl": 600,
+         "eind": 10716
+      },
+      {
+         "pl": 700,
+         "eind": 10717
+      },
+      {
+         "pl": 600,
+         "eind": 10719
+      },
+      {
+         "pl": 700,
+         "eind": 10720
+      },
+      {
+         "pl": 600,
+         "eind": 10722
+      },
+      {
+         "pl": 300,
+         "eind": 10723
+      },
+      {
+         "pl": 400,
+         "eind": 10724
+      },
+      {
+         "pl": 500,
+         "eind": 10732
+      },
+      {
+         "pl": 600,
+         "eind": 10734
+      },
+      {
+         "pl": 500,
+         "eind": 10735
+      },
+      {
+         "pl": 600,
+         "eind": 10736
+      },
+      {
+         "pl": 300,
+         "eind": 10739
+      },
+      {
+         "pl": 400,
+         "eind": 10741
+      },
+      {
+         "pl": 600,
+         "eind": 10743
+      },
+      {
+         "pl": 700,
+         "eind": 10745
+      },
+      {
+         "pl": 800,
+         "eind": 10746
+      },
+      {
+         "pl": 600,
+         "eind": 10747
+      },
+      {
+         "pl": 400,
+         "eind": 10748
+      },
+      {
+         "pl": 600,
+         "eind": 10750
+      },
+      {
+         "pl": 900,
+         "eind": 10751
+      },
+      {
+         "pl": 1000,
+         "eind": 10752
+      },
+      {
+         "pl": 1100,
+         "eind": 10754
+      },
+      {
+         "pl": 900,
+         "eind": 10757
+      },
+      {
+         "pl": 1000,
+         "eind": 10759
+      },
+      {
+         "pl": 1100,
+         "eind": 10760
+      },
+      {
+         "pl": 1000,
+         "eind": 10761
+      },
+      {
+         "pl": 700,
+         "eind": 10762
+      },
+      {
+         "pl": 600,
+         "eind": 10763
+      },
+      {
+         "pl": 700,
+         "eind": 10764
+      },
+      {
+         "pl": 800,
+         "eind": 10765
+      },
+      {
+         "pl": 900,
+         "eind": 10766
       }
    ],
    "218": [
@@ -788697,6 +794393,140 @@
       {
          "pl": "<10",
          "eind": 10684
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "pl": "<10",
+         "eind": 10739
+      },
+      {
+         "pl": 100,
+         "eind": 10743
+      },
+      {
+         "pl": "<10",
+         "eind": 10745
+      },
+      {
+         "pl": 100,
+         "eind": 10746
+      },
+      {
+         "exo": 1,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            }
+         ],
+         "eind": 10750
+      },
+      {
+         "pl": 200,
+         "eind": 10751
+      },
+      {
+         "pl": 300,
+         "eind": 10754
+      },
+      {
+         "pl": 200,
+         "eind": 10755
+      },
+      {
+         "pl": 400,
+         "eind": 10756
+      },
+      {
+         "pl": 6300,
+         "eind": 10757
+      },
+      {
+         "pl": 6600,
+         "eind": 10758
+      },
+      {
+         "pl": 7300,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10759
+      },
+      {
+         "pl": 9900,
+         "eind": 10760
+      },
+      {
+         "pl": 10500,
+         "eind": 10761
+      },
+      {
+         "pl": 7300,
+         "eind": 10762
+      },
+      {
+         "pl": 4900,
+         "eind": 10763
+      },
+      {
+         "pl": 5600,
+         "dss": "",
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            }
+         ],
+         "eind": 10764
+      },
+      {
+         "pl": 4200,
+         "eind": 10765
+      },
+      {
+         "pl": 5200,
+         "eind": 10766
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 1 EXOSTORM",
+               "desc": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 10767
       }
    ],
    "184": [
@@ -798921,6 +804751,129 @@
       {
          "pl": 1000,
          "eind": 10695
+      },
+      {
+         "pl": 1200,
+         "eind": 10698
+      },
+      {
+         "pl": 1600,
+         "eind": 10699
+      },
+      {
+         "pl": 1500,
+         "eind": 10700
+      },
+      {
+         "pl": 1700,
+         "eind": 10701
+      },
+      {
+         "pl": 1200,
+         "eind": 10702
+      },
+      {
+         "pl": 800,
+         "eind": 10703
+      },
+      {
+         "pl": 700,
+         "eind": 10704
+      },
+      {
+         "pl": 1000,
+         "exo": 3,
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "CLASS 3 EXOSTORM",
+               "desc": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+            }
+         ],
+         "eind": 10705
+      },
+      {
+         "pl": 2500,
+         "eind": 10707
+      },
+      {
+         "pl": 2300,
+         "eind": 10709
+      },
+      {
+         "pl": 2200,
+         "eind": 10710
+      },
+      {
+         "pl": 2400,
+         "eind": 10712
+      },
+      {
+         "pl": 1500,
+         "eind": 10713
+      },
+      {
+         "pl": 700,
+         "eind": 10714
+      },
+      {
+         "pl": 1000,
+         "eind": 10715
+      },
+      {
+         "pl": 1300,
+         "eind": 10716
+      },
+      {
+         "pl": 1800,
+         "eind": 10717
+      },
+      {
+         "pl": 1600,
+         "eind": 10718
+      },
+      {
+         "pl": 1400,
+         "eind": 10719
+      },
+      {
+         "pl": 1200,
+         "eind": 10721
+      },
+      {
+         "pl": 1500,
+         "eind": 10722
+      },
+      {
+         "pl": 400,
+         "eind": 10723
+      },
+      {
+         "pl": 500,
+         "eind": 10724
+      },
+      {
+         "pl": 800,
+         "eind": 10725
+      },
+      {
+         "pl": 1300,
+         "eind": 10727
+      },
+      {
+         "pl": 1400,
+         "eind": 10729
+      },
+      {
+         "pl": "<10",
+         "eind": 10732
       }
    ],
    "18": [
@@ -853325,6 +859278,35 @@
       {
          "pl": "<10",
          "eind": 10618
+      },
+      {
+         "t": 23,
+         "eind": 10760
+      },
+      {
+         "pl": 4400,
+         "r": 0.0,
+         "eind": 10761
+      },
+      {
+         "pl": 4800,
+         "eind": 10762
+      },
+      {
+         "pl": 3400,
+         "eind": 10763
+      },
+      {
+         "pl": 4300,
+         "eind": 10764
+      },
+      {
+         "pl": 4100,
+         "eind": 10765
+      },
+      {
+         "pl": 5100,
+         "eind": 10766
       }
    ],
    "206": [
@@ -865817,6 +871799,82 @@
       {
          "pl": "<10",
          "eind": 10687
+      },
+      {
+         "pl": 100,
+         "eind": 10700
+      },
+      {
+         "pl": "<10",
+         "eind": 10702
+      },
+      {
+         "pl": 100,
+         "eind": 10709
+      },
+      {
+         "pl": "<10",
+         "eind": 10712
+      },
+      {
+         "pl": 100,
+         "eind": 10719
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10732
+      },
+      {
+         "pl": "<10",
+         "eind": 10739
+      },
+      {
+         "pl": 100,
+         "eind": 10744
+      },
+      {
+         "pl": "<10",
+         "eind": 10748
+      },
+      {
+         "pl": 100,
+         "eind": 10750
+      },
+      {
+         "pl": 200,
+         "eind": 10754
+      },
+      {
+         "pl": 100,
+         "eind": 10757
+      },
+      {
+         "pl": 200,
+         "eind": 10759
+      },
+      {
+         "pl": 300,
+         "eind": 10761
+      },
+      {
+         "pl": 200,
+         "eind": 10763
+      },
+      {
+         "pl": 300,
+         "eind": 10764
+      },
+      {
+         "pl": 400,
+         "eind": 10765
+      },
+      {
+         "pl": 500,
+         "eind": 10766
       }
    ],
    "72": [
@@ -905780,6 +911838,169 @@
       {
          "pl": 200,
          "eind": 10696
+      },
+      {
+         "pl": 300,
+         "eind": 10698
+      },
+      {
+         "pl": 600,
+         "eind": 10699
+      },
+      {
+         "pl": 500,
+         "eind": 10700
+      },
+      {
+         "pl": 300,
+         "eind": 10702
+      },
+      {
+         "pl": 200,
+         "eind": 10703
+      },
+      {
+         "pl": 300,
+         "eind": 10705
+      },
+      {
+         "pl": 400,
+         "eind": 10707
+      },
+      {
+         "pl": 300,
+         "eind": 10709
+      },
+      {
+         "pl": 200,
+         "eind": 10713
+      },
+      {
+         "pl": 100,
+         "eind": 10714
+      },
+      {
+         "pl": 300,
+         "eind": 10715
+      },
+      {
+         "pl": 400,
+         "eind": 10717
+      },
+      {
+         "pl": 300,
+         "eind": 10718
+      },
+      {
+         "pl": 200,
+         "eind": 10721
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10725
+      },
+      {
+         "pl": 100,
+         "eind": 10736
+      },
+      {
+         "pl": 200,
+         "eind": 10737
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 300,
+         "eind": 10742
+      },
+      {
+         "pl": 200,
+         "eind": 10743
+      },
+      {
+         "pl": 300,
+         "eind": 10746
+      },
+      {
+         "pl": 200,
+         "eind": 10747
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399997
+            }
+         },
+         "eind": 10749
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 10750
+      },
+      {
+         "pl": 500,
+         "eind": 10751
+      },
+      {
+         "pl": 600,
+         "eind": 10752
+      },
+      {
+         "pl": 500,
+         "eind": 10753
+      },
+      {
+         "pl": 400,
+         "eind": 10755
+      },
+      {
+         "pl": 300,
+         "eind": 10757
+      },
+      {
+         "pl": 400,
+         "eind": 10758
+      },
+      {
+         "pl": 500,
+         "eind": 10760
+      },
+      {
+         "pl": 300,
+         "eind": 10762
+      },
+      {
+         "pl": 400,
+         "eind": 10764
+      },
+      {
+         "pl": 300,
+         "eind": 10765
       }
    ],
    "130": [
@@ -940008,6 +946229,151 @@
       {
          "hp": 999997,
          "eind": 10696
+      },
+      {
+         "hp": 1000000,
+         "pl": 300,
+         "eind": 10697
+      },
+      {
+         "pl": 500,
+         "eind": 10698
+      },
+      {
+         "pl": 700,
+         "eind": 10699
+      },
+      {
+         "pl": 600,
+         "eind": 10700
+      },
+      {
+         "pl": 400,
+         "eind": 10702
+      },
+      {
+         "pl": 300,
+         "eind": 10703
+      },
+      {
+         "pl": 200,
+         "eind": 10704
+      },
+      {
+         "pl": 300,
+         "eind": 10705
+      },
+      {
+         "pl": 500,
+         "eind": 10707
+      },
+      {
+         "pl": 400,
+         "eind": 10708
+      },
+      {
+         "pl": 300,
+         "eind": 10713
+      },
+      {
+         "pl": 200,
+         "eind": 10714
+      },
+      {
+         "pl": 300,
+         "eind": 10715
+      },
+      {
+         "pl": 500,
+         "eind": 10717
+      },
+      {
+         "pl": 400,
+         "eind": 10718
+      },
+      {
+         "pl": 200,
+         "eind": 10719
+      },
+      {
+         "pl": 100,
+         "eind": 10723
+      },
+      {
+         "pl": 200,
+         "eind": 10732
+      },
+      {
+         "pl": 100,
+         "eind": 10736
+      },
+      {
+         "pl": 200,
+         "eind": 10737
+      },
+      {
+         "pl": 100,
+         "eind": 10738
+      },
+      {
+         "pl": 200,
+         "eind": 10742
+      },
+      {
+         "pl": 100,
+         "eind": 10744
+      },
+      {
+         "pl": 200,
+         "eind": 10745
+      },
+      {
+         "pl": 100,
+         "eind": 10748
+      },
+      {
+         "pl": 300,
+         "eind": 10750
+      },
+      {
+         "pl": 400,
+         "eind": 10751
+      },
+      {
+         "pl": 600,
+         "eind": 10754
+      },
+      {
+         "pl": 500,
+         "eind": 10755
+      },
+      {
+         "pl": 400,
+         "eind": 10757
+      },
+      {
+         "pl": 500,
+         "eind": 10758
+      },
+      {
+         "pl": 700,
+         "eind": 10760
+      },
+      {
+         "pl": 500,
+         "eind": 10762
+      },
+      {
+         "pl": 300,
+         "eind": 10763
+      },
+      {
+         "pl": 400,
+         "eind": 10764
+      },
+      {
+         "pl": 300,
+         "eind": 10765
       }
    ],
    "93": [
@@ -942877,6 +949243,14 @@
       {
          "pl": "<10",
          "eind": 10630
+      },
+      {
+         "pl": 100,
+         "eind": 10754
+      },
+      {
+         "pl": "<10",
+         "eind": 10757
       }
    ],
    "137": [
@@ -957262,6 +963636,14 @@
             }
          },
          "eind": 10628
+      },
+      {
+         "pl": 100,
+         "eind": 10754
+      },
+      {
+         "pl": "<10",
+         "eind": 10757
       }
    ],
    "182": [
@@ -961010,6 +967392,122 @@
       {
          "pl": 100,
          "eind": 10695
+      },
+      {
+         "pl": 200,
+         "eind": 10701
+      },
+      {
+         "pl": 100,
+         "eind": 10702
+      },
+      {
+         "pl": "<10",
+         "eind": 10703
+      },
+      {
+         "pl": 200,
+         "eind": 10705
+      },
+      {
+         "pl": 300,
+         "eind": 10707
+      },
+      {
+         "pl": 200,
+         "eind": 10713
+      },
+      {
+         "pl": 100,
+         "eind": 10714
+      },
+      {
+         "pl": 200,
+         "eind": 10719
+      },
+      {
+         "pl": 100,
+         "eind": 10720
+      },
+      {
+         "pl": 200,
+         "eind": 10721
+      },
+      {
+         "pl": "<10",
+         "eind": 10723
+      },
+      {
+         "pl": 100,
+         "eind": 10724
+      },
+      {
+         "pl": 200,
+         "eind": 10732
+      },
+      {
+         "pl": 300,
+         "eind": 10737
+      },
+      {
+         "pl": 100,
+         "eind": 10739
+      },
+      {
+         "pl": 200,
+         "eind": 10743
+      },
+      {
+         "pl": 400,
+         "eind": 10747
+      },
+      {
+         "pl": 300,
+         "eind": 10748
+      },
+      {
+         "pl": 500,
+         "eind": 10751
+      },
+      {
+         "pl": 600,
+         "eind": 10753
+      },
+      {
+         "pl": 900,
+         "eind": 10754
+      },
+      {
+         "pl": 1000,
+         "eind": 10755
+      },
+      {
+         "pl": 500,
+         "eind": 10757
+      },
+      {
+         "pl": 600,
+         "eind": 10760
+      },
+      {
+         "pl": 500,
+         "eind": 10761
+      },
+      {
+         "pl": 300,
+         "eind": 10762
+      },
+      {
+         "pl": 200,
+         "eind": 10763
+      },
+      {
+         "pl": 400,
+         "eind": 10764
+      },
+      {
+         "pl": 500,
+         "eind": 10766
       }
    ],
    "177": [
