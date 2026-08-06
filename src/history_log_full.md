@@ -17552,7 +17552,7 @@ DSS effect EAGLE STORM starts (2026-08-04 06:26  UTC)<br/>
 *Erata Prime* Region 0 NEW DA NANG Town is besieged by Human (2026-08-04 21:52  UTC)<br/>
 *Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Human (2026-08-04 21:52  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Human (2026-08-04 21:52  UTC)<br/>
-Major Order |[A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is issued| Objective: Liberate (2026-08-04 22:03  UTC)<br/>
+Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is issued| Objective: Liberate (2026-08-04 22:03  UTC)<br/>
 Dispatch: NEW STRATEGIC IMPERATIVE. Dissident saboteurs have planted Terminids on ERATA PRIME, where the TCS+ is already fully functioning. This is an obvious and pathetic attempt to cast doubt upon the unimpeachable effectiveness of the TCS+. These dissidents were likely influenced by Cyborg disinformation, proving the imperative of ongoing operations to disrupt them. Nevertheless, the threat posed by this artificially-produced outbreak is very real. The Helldivers are ordered to eliminate it before it spreads out of control. (2026-08-04 22:03  UTC)<br/>
  Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
  (2026-08-04 22:03  UTC)<br/>
@@ -17564,3 +17564,6 @@ Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
  Decay: 1.5 on Gemma
  (2026-08-05 12:00  UTC)<br/>
 *Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-08-05 17:06  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 02:38  UTC)<br/>
+
+### Day: #911
