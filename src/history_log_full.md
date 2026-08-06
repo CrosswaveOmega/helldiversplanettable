@@ -15112,6 +15112,7 @@ Dispatch:  MAJOR ORDER FAILED  The Cyborg demilitarization target was not reache
 
 ### Day: #769
 *Achird III* Region 1 APPROVAL CITY City has fallen to Human (2026-03-17 10:03  UTC)<br/>
+*Achird III* Region 0 TIMELY Town is besieged by Human (2026-03-17 10:03  UTC)<br/>
  Decay: 5.67 on Seasse
  (2026-03-17 10:03  UTC)<br/>
 A Class-1 Exostorm warning was issued for *Seasse* (2026-03-17 10:13  UTC)<br/>
@@ -17279,3 +17280,287 @@ DSS deploys to *Brilliance* of the Orion sector (2026-07-18 16:01  UTC)<br/>
  Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region<br/> Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
  (2026-07-18 16:01  UTC)<br/>
 DSS effect EAGLE STORM starts (2026-07-18 17:40  UTC)<br/>
+Dispatch: VOTING ENDS IN 12 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 12 hours. Evaluate available intel and choose accordingly. (2026-07-18 20:44  UTC)<br/>
+*Keid* urgent liberation is failed (2026-07-18 21:16  UTC)<br/>
+*Keid* liberation campaign ends (2026-07-18 21:16  UTC)<br/>
+*Keid* is enveloped by the Void (2026-07-18 21:16  UTC)<br/>
+*Keid* is now unobservable due to the Void (2026-07-18 21:16  UTC)<br/>
+Dispatch: TOTAL EXOSTORM COLLAPSE. The Category 3 Exostorm on KEID has reached terminal density, completely collapsing the planetary environment into a permanent expanse of the Void. The entire planetary mass has been fully consumed by this expanding spatial vacuum. High Command confirms that KEID has been erased from the galactic map; all local coordinates are no longer viable for deployment. Fortify adjacent sectors. This anomaly must be contained. (2026-07-18 21:19  UTC)<br/>
+Dispatch: VOTING HAS BEGUN. Vote now to navigate the DSS to the next expected location of the Automaton orbital superweapon. Evaluate available intel and choose accordingly. Votes may be cast via the Galactic Map Voting ends in 24 hours. (2026-07-19 00:01  UTC)<br/>
+
+### Day: #893
+Dispatch: VOTING ENDS IN 12 HOURS Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 12 hours. Evaluate available intel and choose accordingly. (2026-07-19 11:49  UTC)<br/>
+*Brilliance* defense is won (2026-07-19 15:09  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-07-19 17:41  UTC)<br/>
+ Decay: 2.5 on Brilliance
+ (2026-07-19 17:41  UTC)<br/>
+Dispatch: VOTING ENDS IN 6 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 6 hours. Evaluate available intel and choose accordingly. (2026-07-19 17:49  UTC)<br/>
+Dispatch: VOTING ENDS IN 3 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly. (2026-07-19 20:49  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2026-07-19 23:55  UTC)<br/>
+*Yed Prior* of the Tanis sector is attacked by Automatons (2026-07-20 08:38  UTC)<br/>
+Major Order | [A3-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-5) LIGHTNING INTERCEPT-TRIANGULATION  is issued | Objective: Hold (2026-07-20 08:42  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2026-07-20 08:43  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Automaton orbital platform superweapon has struck YED PRIOR and Automaton ground forces are descending on the burning planet. Helldivers are ordered to deploy to YED PRIOR and hold it against enemy attack. Following the strike, SEAF field decrypters were cut off on WEZEN. Without access to their field expertise, decryption of Automaton transmissions has been critically stalled. Failing to liberate WEZEN and the decryption force would be a critical blow to tracking the superweapon. (2026-07-20 08:43  UTC)<br/>
+DSS deploys to *Clasa* of the Tanis sector (2026-07-20 08:53  UTC)<br/>
+ Decay: 0.0 on Yed Prior
+ (2026-07-20 08:53  UTC)<br/>
+DSS deploys to *Yed Prior* of the Tanis sector (2026-07-20 08:59  UTC)<br/>
+
+### Day: #894
+*Charbal-VII* of the Andromeda sector is attacked by Automatons (2026-07-20 09:28  UTC)<br/>
+*Charbal-VII* Region 0 UTOPIA VAREN Settlement is besieged by Humans (2026-07-20 09:28  UTC)<br/>
+ Region Decay: 1.0 on Charbal-VII's UTOPIA VAREN region
+ (2026-07-20 10:00  UTC)<br/>
+ Region Decay: 1.0 on Charbal-VII's UTOPIA VAREN region
+ (2026-07-20 10:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-07-20 19:51  UTC)<br/>
+*Aesir Pass* is liberated (2026-07-21 03:06  UTC)<br/>
+Hydra sector is fully under Human control (2026-07-21 03:06  UTC)<br/>
+*Yed Prior* defense is won (2026-07-21 05:18  UTC)<br/>
+ Decay: 3.0 on Aesir Pass
+ (2026-07-21 05:18  UTC)<br/>
+DSS deploys to *Wezen* of the Ymir sector (2026-07-21 07:30  UTC)<br/>
+ Decay: 0.0 on Yed Prior
+ (2026-07-21 07:30  UTC)<br/>
+
+### Day: #895
+Dispatch: EXOSTORM ADVISORY. A Category 1 Exostorm has been detected on HEZE BAY, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend HEZE BAY to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-07-21 18:21  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-07-21 19:52  UTC)<br/>
+Assault Division: MINDLESS MASSES U3A leaves *Heze Bay* (2026-07-21 21:52  UTC)<br/>
+Assault Division: APPROPRIATORS U4A deploys to *Heze Bay* (2026-07-21 21:54  UTC)<br/>
+*Wezen* liberation campaign ends (2026-07-21 22:13  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2026-07-21 22:13  UTC)<br/>
+*Yed Prior* of the Tanis sector is attacked by Automatons (2026-07-22 06:58  UTC)<br/>
+ Decay: 0.0 on Yed Prior
+ (2026-07-22 08:00  UTC)<br/>
+
+### Day: #896
+*Charbal-VII* defense is failed (2026-07-22 09:30  UTC)<br/>
+*Charbal-VII* liberation campaign starts (2026-07-22 09:30  UTC)<br/>
+ Decay: 3.0 on Charbal-VII
+ (2026-07-22 09:30  UTC)<br/>
+ Decay: 2.0 on Vega Bay
+ (2026-07-22 12:00  UTC)<br/>
+DSS deploys to *Yed Prior* of the Tanis sector (2026-07-22 17:01  UTC)<br/>
+*Yed Prior* defense is won (2026-07-23 02:22  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2026-07-23 02:22  UTC)<br/>
+ Decay: 0.0 on Yed Prior
+ (2026-07-23 04:00  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers repelled the Automatons from YED PRIOR, and liberated the decryption team on WEZEN. The data recovered from the teams indicate that additional intel regarding the Automatons' next target may be found on *X-45*. (2026-07-23 08:45  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Automatons (2026-07-23 08:50  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity is besieged by Humans (2026-07-23 08:50  UTC)<br/>
+Major Order | [A3-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-6) LIGHTNING INTERCEPT-FORCEFUL DECOMMISSION is issued | Objective: Liberate (2026-07-23 08:59  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Intelligence secured from the SEAF decryption forces on WEZEN confirms that Automatons are using *X-45* as a hub planet for facilities dedicated to the orbital superweapon. *X-45* must be liberated in order to seize the data needed to intercept the superweapon. Enemy positions are well-fortified; expect heavy resistance. Liberate the planet and secure the superweapon intel, for the sake of Managed Democracy everywhere. (2026-07-23 08:59  UTC)<br/>
+Major Order | [A3-7-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-7) LIGHTNING INTERCEPT-Disrupt Automaton Resource Extraction  is issued | Objective: Operations (2026-07-23 08:59  UTC)<br/>
+
+### Day: #897
+ Decay: 0.0 on Choepessa IV<br/> Decay: 3.0 on X-45
+ (2026-07-23 09:00  UTC)<br/>
+ Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region
+ (2026-07-23 09:00  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Automaton transmissions indicate that the bots are reallocating forces to extract raw material from CHOEPESSA IV ahead of the next orbital superweapon strike. It is suspected that these materials are crucial to the operation of the superweapon. Helldivers will deploy immediately and seize these supplies as part of the effort to gather intel on the superweapon. (2026-07-23 10:00  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2026-07-23 13:02  UTC)<br/>
+*Vega Bay* Region 0 ONSEN Settlement has fallen to Human (2026-07-23 13:06  UTC)<br/>
+Assault Division: MINDLESS MASSES UA4 deploys to *Siemnot* (2026-07-23 14:46  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-07-23 17:02  UTC)<br/>
+ Decay: 3.5 on Charon Prime
+ (2026-07-23 20:00  UTC)<br/>
+DSS deploys to *Vega Bay* of the Ymir sector (2026-07-24 01:02  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The supplies recovered from CHOEPESSA IV, along with seized intel from the Automatons, have been turned over to top tactical analysts. Early reports indicate that the bots are scrambling to increase the reliability of orbital scanning on planets with thick fog. (2026-07-24 03:05  UTC)<br/>
+Major Order | [A3-7-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-7) LIGHTNING INTERCEPT-Disrupt Automaton Resource Extraction  is won| Objective: Operations (2026-07-24 03:05  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town is besieged by Humans (2026-07-24 05:55  UTC)<br/>
+Major Order | [A3-7-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-8) Strategic Opportunity - Reconstruct Orbital Superweapon Intel is issued| Objective: Eliminate (2026-07-24 08:25  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Helldiver operations on CHOEPESSA IV have secured an intel cache that indicates planned testing parameters for the orbital superweapon are located on CHARON PRIME. In an attempt to prevent intel interception, the Automatons have distributed encrypted data fragments directly into the memory drives of planetside forces. To reconstruct the intel, Helldivers must terminate 100,000,000 Automatons and upload their internal drives for analysis. (2026-07-24 08:25  UTC)<br/>
+Major Order | [A3-7-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-8) Strategic Opportunity - Reconstruct Orbital Superweapon Intel is failed | Objective: Eliminate (2026-07-24 08:25  UTC)<br/>
+
+### Day: #898
+DSS effect ORBITAL BLOCKADE starts (2026-07-24 11:24  UTC)<br/>
+ Decay: 1.5 on Vega Bay
+ (2026-07-24 14:00  UTC)<br/>
+A Class-2 Exostorm warning was issued for *Heze Bay* (2026-07-24 18:21  UTC)<br/>
+Dispatch: EXOSTORM ESCALATION. The Exostorm on HEZE BAY has intensified to Category 2—localized atmospheric cells are fusing into cascading planetary maelstroms. This severe atmospheric volatility presents an extreme hazard to Helldivers. Helldivers: defend HEZE BAY to nullify the Exostorm before it progresses into a far more hazardous Category 3 maelstrom. Overcome this environmental interference with the unyielding determination *Super Earth* demands. (2026-07-24 18:22  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City is besieged by Humans (2026-07-24 22:34  UTC)<br/>
+*Vega Bay* Region 2 SAPPORO Town is besieged by Humans (2026-07-25 00:10  UTC)<br/>
+*Choepessa IV* defense is won (2026-07-25 00:34  UTC)<br/>
+ Decay: 0.5 on Choepessa IV
+ (2026-07-25 02:00  UTC)<br/>
+*Vega Bay* Region 2 SAPPORO Town has fallen to Human (2026-07-25 07:45  UTC)<br/>
+
+### Day: #899
+Dispatch: VOTING HAS BEGUN. Vote now to navigate the DSS to the next expected location of the Automaton orbital superweapon. Evaluate available intel and choose accordingly. Votes may be cast via the Galactic Map Voting ends in 24 hours. (2026-07-25 09:19  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-07-25 11:25  UTC)<br/>
+*Vega Bay* Region 1 GIRI Town is besieged by Humans (2026-07-25 16:45  UTC)<br/>
+Dispatch: VOTING ENDS IN 12 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 12 hours. Evaluate available intel and choose accordingly. (2026-07-25 21:19  UTC)<br/>
+*Vega Bay* is liberated (2026-07-26 00:02  UTC)<br/>
+*Wasat* liberation campaign starts (2026-07-26 00:02  UTC)<br/>
+*X-45* liberation campaign starts (2026-07-26 00:02  UTC)<br/>
+*Wasat* Region 1 DRYWELL MegaCity is besieged by Humans (2026-07-26 00:02  UTC)<br/>
+ Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
+ (2026-07-26 02:00  UTC)<br/>
+ Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
+ (2026-07-26 02:00  UTC)<br/>
+Dispatch: VOTING ENDS IN 6 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly. (2026-07-26 03:20  UTC)<br/>
+DSS deploys to *X-45* of the Ymir sector (2026-07-26 05:09  UTC)<br/>
+Dispatch: VOTING ENDS IN 3 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly. (2026-07-26 06:20  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY LOST The operational window has closed on CHARON PRIME. The local Automaton forces purged the superweapon data fragments before Helldivers could retrieve the complete package. (2026-07-26 08:27  UTC)<br/>
+ Decay: 2.0 on X-45
+ (2026-07-26 08:27  UTC)<br/>
+
+# Day: #900
+DSS deploys to *Mort* of the Xzar sector (2026-07-26 09:15  UTC)<br/>
+*Mort* of the Xzar sector is attacked by Automatons (2026-07-26 12:21  UTC)<br/>
+*Mort* Region 0 SAPPHIRE LAKE City is besieged by Automaton (2026-07-26 12:21  UTC)<br/>
+Dispatch: The DSS fired successfully on the enemy orbital platform. The enemy weapon sustained heavy damage, but remains operational. A second hit will likely destroy it completely. The Automatons have nevertheless launched a ground invasion on MORT. The Helldivers are ordered to the planet's defense. (2026-07-26 12:21  UTC)<br/>
+ Region Decay: 0.4 on Mort's SAPPHIRE LAKE region
+ (2026-07-26 14:00  UTC)<br/>
+ Region Decay: 0.4 on Mort's SAPPHIRE LAKE region
+ (2026-07-26 14:00  UTC)<br/>
+DSS deploys to *X-45* of the Ymir sector (2026-07-26 16:07  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-07-26 18:21  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Heze Bay* (2026-07-26 18:22  UTC)<br/>
+Dispatch: CRITICAL EXOSTORM ESCALATION The unnatural Exostorm on HEZE BAY has reached Category 3, now a chaotic, singular, planet-wide tempest of absolute atmospheric violence. Initial adverse spacetime fractures have been reported by the Ministry of Science as localized reality fields begin to fluctuate. Helldivers: you must defend HEZE BAY to nullify the Exostorm. Failure to do so would result in galactic catastrophe. (2026-07-26 18:23  UTC)<br/>
+*Wasat* Region 0 MIRAGE City has fallen to Automaton (2026-07-27 00:02  UTC)<br/>
+DSS deploys to *Mort* of the Xzar sector (2026-07-27 04:08  UTC)<br/>
+*X-45* is liberated (2026-07-27 05:20  UTC)<br/>
+*Meissa* liberation campaign starts (2026-07-27 05:20  UTC)<br/>
+Dispatch:  The orbital superweapon was successfully intercepted by the Helldivers and the DSS before it would strike MORT. Celebratory helmets for Helldivers involved are to be distributed by local Democracy Officers. (2026-07-27 05:21  UTC)<br/>
+Major Order | [A3-7-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-6) LIGHTNING INTERCEPT-FORCEFUL DECOMMISSION is won | Objective: Liberate (2026-07-27 05:49  UTC)<br/>
+ Decay: 2.0 on Meissa
+ (2026-07-27 05:49  UTC)<br/>
+
+### Day: #901
+*Mort* Region 0 SAPPHIRE LAKE City has fallen to Human (2026-07-27 10:18  UTC)<br/>
+*Mort* defense is won (2026-07-27 10:18  UTC)<br/>
+DSS deploys to *Heze Bay* of the Hanzo sector (2026-07-27 10:18  UTC)<br/>
+ Decay: 0.0 on Mort
+ (2026-07-27 12:00  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-07-27 18:21  UTC)<br/>
+Assault Division: CYBORGS U7B deploys to *Mekbuda* (2026-07-28 08:03  UTC)<br/>
+*Fronteria* is established as a TERMINID CONTROL SYSTEM+ POI (2026-07-28 08:17  UTC)<br/>
+*Turing* is established as a TERMINID CONTROL SYSTEM+ POI (2026-07-28 08:18  UTC)<br/>
+
+### Day: #902
+Assault Division: CYBORGS U7B deploys to *Aurora Bay* (2026-07-28 09:00  UTC)<br/>
+Assault Division: DRAGONROACHES U5A leaves *Achird III* (2026-07-28 09:08  UTC)<br/>
+*Achird III* of the Borgus sector is attacked by Terminids (2026-07-28 09:08  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2026-07-28 09:08  UTC)<br/>
+*Turing* Region 0 CHATOYANT City is besieged by Humans (2026-07-28 09:08  UTC)<br/>
+Major Order | [A3-7-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-9) Permanent Enclosure - Walk Extension is issued | Objective: Hold (2026-07-28 09:14  UTC)<br/>
+Dispatch: NEW MAJOR ORDER.  The time has now come to extend the barrier to fully pen in the Terminid Swarm. TCS+ Towers have been constructed on the following planets: FRONTERIA, TURING, and ACHIRD III. The construction has triggered instinctive assaults from the Terminids. The Helldivers are ordered to defend these planets and activate TCS+ towers in the process. (2026-07-28 09:14  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region<br/> Region Decay: 0.2 on Achird III's TIMELY region<br/> Region Decay: 0.4 on Achird III's APPROVAL CITY region<br/> Region Decay: 0.4 on Achird III's OLD BRANCH region
+ (2026-07-28 10:00  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region<br/> Region Decay: 0.2 on Achird III's TIMELY region<br/> Region Decay: 0.4 on Achird III's APPROVAL CITY region<br/> Region Decay: 0.4 on Achird III's OLD BRANCH region
+ (2026-07-28 10:00  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-07-28 12:08  UTC)<br/>
+Dispatch: TOTAL EXOSTORM COLLAPSE. The Category 3 Exostorm on HEZE BAY has reached terminal density, completely collapsing the planetary environment into a permanent expanse of the Void. The entire planetary mass has been fully consumed by this expanding spatial vacuum. High Command confirms that HEZE BAY has been erased from the galactic map; all local coordinates are no longer viable for deployment. Fortify adjacent sectors. This anomaly must be contained. (2026-07-28 18:23  UTC)<br/>
+*Heze Bay* urgent liberation is failed (2026-07-28 18:24  UTC)<br/>
+*Heze Bay* liberation campaign ends (2026-07-28 18:24  UTC)<br/>
+*Heze Bay* is enveloped by the Void (2026-07-28 18:24  UTC)<br/>
+*Heze Bay* is now unobservable due to the Void (2026-07-28 18:24  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2026-07-28 20:08  UTC)<br/>
+*Achird III* Region 1 APPROVAL CITY City is besieged by Humans (2026-07-28 22:41  UTC)<br/>
+*Turing* Region 0 CHATOYANT City has fallen to Human (2026-07-28 23:04  UTC)<br/>
+Dispatch: DISINFORMATION ALERT. All personnel: a dossier containing malicious, false information has been spread via cyberattack. It contains lab reports which have been duplicitously altered to indicate that Termicide 2.0 is ineffective. This is a heinous act of information warfare, perpetrated by the Cyborg Legion with the intent of disrupting citizen unity. All personnel are advised to destroy and immediately report any such information to their Democracy Officer immediately. (2026-07-29 00:15  UTC)<br/>
+DSS deploys to *Achird III* of the Borgus sector (2026-07-29 04:09  UTC)<br/>
+*Turing* defense is won (2026-07-29 04:38  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2026-07-29 06:00  UTC)<br/>
+*Achird III* Region 0 TIMELY Town has fallen to Human (2026-07-29 07:53  UTC)<br/>
+
+### Day: #903
+Assault Division: CYBORGS U7B deploys to *Choohe* (2026-07-29 11:12  UTC)<br/>
+Assault Division: CYBORGS U7B deploys to *Matar Bay* (2026-07-29 13:02  UTC)<br/>
+Assault Division: CYBORGS U7B deploys to *Meissa* (2026-07-29 15:03  UTC)<br/>
+*Achird III* defense is won (2026-07-29 19:22  UTC)<br/>
+DSS deploys to *Darius II* of the Borgus sector (2026-07-29 19:22  UTC)<br/>
+ Decay: 0.5 on Achird III
+ (2026-07-29 20:00  UTC)<br/>
+*Karlia* of the Omega sector is attacked by Illuminates (2026-07-30 08:23  UTC)<br/>
+*Karlia* Region 0 ADNAN City is besieged by Humans (2026-07-30 08:23  UTC)<br/>
+*Darius II* Region 0 BUJU City has fallen to Human (2026-07-30 08:52  UTC)<br/>
+ Decay: 0.0 on Karlia
+ (2026-07-30 08:52  UTC)<br/>
+ Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-07-30 08:52  UTC)<br/>
+
+### Day: #904
+Assault Division: Spore Burst Strain UH9 deploys to AZUR SECUNDUS (2026-07-30 12:27  UTC)<br/>
+Assault Division: Spore Burst Strain UH9 deploys to OVERGOE PRIME (2026-07-30 13:27  UTC)<br/>
+Assault Division: Spore Burst Strain UH9 deploys to PARTION (2026-07-30 14:27  UTC)<br/>
+Assault Division: Spore Burst Strain UH9 deploys to GACRUX (2026-07-30 15:27  UTC)<br/>
+Assault Division: Spore Burst Strain UH9 deploys to *Turing* (2026-07-30 16:27  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2026-07-30 16:29  UTC)<br/>
+*Turing* Region 1 CARBONDALE Town is besieged by Terminid (2026-07-30 16:29  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2026-07-30 18:00  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2026-07-30 18:00  UTC)<br/>
+*Darius II* is liberated (2026-07-30 19:36  UTC)<br/>
+*Phact Bay* liberation campaign starts (2026-07-30 19:36  UTC)<br/>
+*Phact Bay* Region 2 NEW EAGLE MegaCity is besieged by Humans (2026-07-30 19:36  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2026-07-30 19:36  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-07-30 20:09  UTC)<br/>
+ Region Decay: 0.2 on Phact Bay's OLD DOVE region<br/> Region Decay: 0.4 on Phact Bay's BRNO region<br/> Region Decay: 0.6 on Phact Bay's NEW EAGLE region
+ (2026-07-30 20:09  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2026-07-31 00:10  UTC)<br/>
+*Turing* Region 0 CHATOYANT City is besieged by Humans (2026-07-31 00:53  UTC)<br/>
+*Turing* Region 1 CARBONDALE Town has fallen to Humans (2026-07-31 00:55  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-07-31 04:03  UTC)<br/>
+
+### Day: #905
+*Turing* Region 0 CHATOYANT City has fallen to Human (2026-07-31 12:06  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2026-07-31 16:10  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 48 hours. (2026-07-31 19:16  UTC)<br/>
+*Turing* defense is won (2026-07-31 19:16  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2026-07-31 19:16  UTC)<br/>
+*Karlia* defense is won (2026-08-01 02:29  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-08-01 02:29  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-08-01 04:05  UTC)<br/>
+ Decay: 1.5 on Karlia
+ (2026-08-01 04:05  UTC)<br/>
+
+### Day: #906
+DSS effect ORBITAL BLOCKADE starts (2026-08-01 13:31  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City has fallen to Human (2026-08-01 15:42  UTC)<br/>
+*Acamar IV* is liberated (2026-08-02 01:34  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2026-08-02 01:34  UTC)<br/>
+*Pandion-XXIV* liberation campaign starts (2026-08-02 01:34  UTC)<br/>
+
+### Day: #907
+Major Order | [A3-7-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-9) Permanent Enclosure - Walk Extension is won | Objective: Hold (2026-08-02 09:19  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers valiantly defended FRONTERIA, TURING, and ACHIRD III from the Terminids. TCS+ Towers are now fully active on those planets, dispersing Termicide 2.0, which is proven beyond doubt to make Terminid infestation impossible. (2026-08-02 09:20  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-08-02 13:32  UTC)<br/>
+*Grand Errant* is liberated (2026-08-02 22:50  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-08-02 22:50  UTC)<br/>
+Farsight sector is fully under Human control (2026-08-02 22:50  UTC)<br/>
+ Decay: -1.0 on Gemma<br/> Decay: 1.5 on Grand Errant
+ (2026-08-03 00:00  UTC)<br/>
+
+### Day: #908
+Major Order | [A3-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-1) Permanent Enclosure -TRUTH ENFORCEMENT is issued| Objective: Liberate (2026-08-03 11:36  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. A recent Cyborg disinformation campaign attempted to spread lies amongst our citizens regarding the efficacy of Termicide 2.0. The Helldivers are ordered to pause construction of the TCS+ in order to liberate MEISSA, where these duplicitous files were believed to have been fabricated. (2026-08-03 11:36  UTC)<br/>
+ Decay: 4.5 on Meissa
+ (2026-08-03 11:36  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2026-08-03 16:13  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-08-04 06:26  UTC)<br/>
+
+### Day: #909
+*Nivel 43* liberation campaign ends (2026-08-04 21:51  UTC)<br/>
+*Erata Prime* of the Umlaut sector instantly flips to Terminid control (2026-08-04 21:52  UTC)<br/>
+*Erata Prime* liberation campaign starts (2026-08-04 21:52  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town is besieged by Human (2026-08-04 21:52  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Human (2026-08-04 21:52  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Human (2026-08-04 21:52  UTC)<br/>
+Major Order |[A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is issued| Objective: Liberate (2026-08-04 22:03  UTC)<br/>
+Dispatch: NEW STRATEGIC IMPERATIVE. Dissident saboteurs have planted Terminids on ERATA PRIME, where the TCS+ is already fully functioning. This is an obvious and pathetic attempt to cast doubt upon the unimpeachable effectiveness of the TCS+. These dissidents were likely influenced by Cyborg disinformation, proving the imperative of ongoing operations to disrupt them. Nevertheless, the threat posed by this artificially-produced outbreak is very real. The Helldivers are ordered to eliminate it before it spreads out of control. (2026-08-04 22:03  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-08-04 22:03  UTC)<br/>
+DSS effect Orbital Blockade ends (2026-08-05 06:26  UTC)<br/>
+
+# Day: #910
+*Gemma* is liberated (2026-08-05 10:55  UTC)<br/>
+Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
+ Decay: 1.5 on Gemma
+ (2026-08-05 12:00  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-08-05 17:06  UTC)<br/>
