@@ -17567,3 +17567,9 @@ Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
 *Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 02:38  UTC)<br/>
 
 ### Day: #911
+*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 12:34  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Terminid (2026-08-06 12:34  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-08-06 20:48  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE FAILED The Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists. (2026-08-06 22:03  UTC)<br/>
+Assault Division: Spore Burst Strain U1 deploys to *Hellmire* (2026-08-06 22:05  UTC)<br/>
+*Hellmire* of the Mirin sector is attacked by Terminids (2026-08-06 22:10  UTC)<br/>
