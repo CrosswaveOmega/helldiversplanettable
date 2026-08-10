@@ -17554,6 +17554,7 @@ DSS effect EAGLE STORM starts (2026-08-04 06:26  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Human (2026-08-04 21:52  UTC)<br/>
 Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is issued| Objective: Liberate (2026-08-04 22:03  UTC)<br/>
 Dispatch: NEW STRATEGIC IMPERATIVE. Dissident saboteurs have planted Terminids on ERATA PRIME, where the TCS+ is already fully functioning. This is an obvious and pathetic attempt to cast doubt upon the unimpeachable effectiveness of the TCS+. These dissidents were likely influenced by Cyborg disinformation, proving the imperative of ongoing operations to disrupt them. Nevertheless, the threat posed by this artificially-produced outbreak is very real. The Helldivers are ordered to eliminate it before it spreads out of control. (2026-08-04 22:03  UTC)<br/>
+Major Order | [A3-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-4) Strategic Opportunity - Liberate materials for Warp Relay Station is issued| Objective: Operations (2026-08-04 22:03  UTC)<br/>
  Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
  (2026-08-04 22:03  UTC)<br/>
 DSS effect Orbital Blockade ends (2026-08-05 06:26  UTC)<br/>
@@ -17570,6 +17571,88 @@ Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
 *Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 12:34  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Terminid (2026-08-06 12:34  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-08-06 20:48  UTC)<br/>
-Dispatch: STRATEGIC IMPERATIVE FAILED The Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists. (2026-08-06 22:03  UTC)<br/>
+Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is lost| Objective: Liberate (2026-08-06 22:03  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE FAILED. The Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists. (2026-08-06 22:03  UTC)<br/>
 Assault Division: Spore Burst Strain U1 deploys to *Hellmire* (2026-08-06 22:05  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2026-08-06 22:10  UTC)<br/>
+ Decay: 0.0 on Hellmire
+ (2026-08-07 00:00  UTC)<br/>
+Major Order | [A3-8-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-1) Permanent Enclosure -TRUTH ENFORCEMENT is won| Objective: Liberate (2026-08-07 08:52  UTC)<br/>
+Dispatch: MAJOR ORDER WON.  MEISSA has been liberated from the Cyborgs. Ministry of Truth strike teams, trained to view and handle enemy disinformation, secured and destroyed all enemy disinformation production and dissemination sites, which existed. (2026-08-07 08:52  UTC)<br/>
+*Meissa* is liberated (2026-08-07 08:53  UTC)<br/>
+DSS deploys to *Erata Prime* of the Umlaut sector (2026-08-07 08:53  UTC)<br/>
+
+### Day: #912
+ Decay: -1.0 on Wasat
+ (2026-08-07 09:00  UTC)<br/>
+ Decay: 1.5 on Erata Prime
+ (2026-08-07 14:00  UTC)<br/>
+*Hellmire* defense is failed (2026-08-07 22:11  UTC)<br/>
+*Hellmire* liberation campaign starts (2026-08-07 22:11  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2026-08-08 00:00  UTC)<br/>
+*Erata Prime* is liberated (2026-08-08 01:10  UTC)<br/>
+*Nivel 43* liberation campaign starts (2026-08-08 01:10  UTC)<br/>
+DSS deploys to *Hellmire* of the Mirin sector (2026-08-08 01:10  UTC)<br/>
+ Decay: -1.0 on Hellmire
+ (2026-08-08 02:00  UTC)<br/>
+*Darius II* is established as a TERMINID CONTROL SYSTEM+ POI (2026-08-08 06:41  UTC)<br/>
+*Achernar Secundus* is established as a TERMINID CONTROL SYSTEM+ POI (2026-08-08 06:42  UTC)<br/>
+*Grand Errant* is established as a TERMINID CONTROL SYSTEM+ POI (2026-08-08 06:42  UTC)<br/>
+*Pherkad Secundus* is established as a TERMINID CONTROL SYSTEM+ POI (2026-08-08 06:42  UTC)<br/>
+Assault Division: Spore Burst Strain UV1 deploys to *Pherkad Secundus* (2026-08-08 07:19  UTC)<br/>
+*Pherkad Secundus* of the Farsight sector is attacked by Terminids (2026-08-08 07:19  UTC)<br/>
+*Grand Errant* of the Farsight sector is attacked by Terminids (2026-08-08 07:38  UTC)<br/>
+ Decay: 0.0 on Pherkad Secundus
+ (2026-08-08 07:38  UTC)<br/>
+Major Order | [A3-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-3) Permanent Enclosure -FINAL CORDON is issued| Objective: Hold (2026-08-08 07:45  UTC)<br/>
+Dispatch:  NEW MAJOR ORDER.  TCS+ construction has begun on the final Barrier planets. Completion of the barrier and total enclosure of the Terminids is within reach.  Fierce Terminid assaults are anticipated. The Helldivers must protect the establishment of this intergalactic border. Hold DARIUS II, ACHERNAR SECUNDUS, GRAND ERRANT, and PHERKAD SECUNDUS until the TCS+ is operational. (2026-08-08 07:45  UTC)<br/>
+ Decay: 0.0 on Grand Errant
+ (2026-08-08 07:45  UTC)<br/>
+
+### Day: #913
+DSS deploys to *Grand Errant* of the Farsight sector (2026-08-08 16:17  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2026-08-08 16:17  UTC)<br/>
+*Grand Errant* defense is won (2026-08-08 19:44  UTC)<br/>
+DSS deploys to *Pherkad Secundus* of the Farsight sector (2026-08-08 19:44  UTC)<br/>
+Dispatch: SCIENTIFIC BREAKTHROUGH.  The Ministry of Science has reached a breakthrough in their study of the Void. Concentrations of Void-impacted molecules, collected from massive quantities of humanely-processed Voteless, may identify planet locations inside the Void. Top scientists have formed these masses into y-shapes, oriented them towards the Void, and discovered that specific directional vectors cause intense vibrations. They theorize this may indicate the direction of planets within the Void. (2026-08-08 21:23  UTC)<br/>
+ Decay: 1.5 on Grand Errant
+ (2026-08-08 21:23  UTC)<br/>
+ Decay: 4.0 on Charbal-VII
+ (2026-08-09 00:00  UTC)<br/>
+Dispatch:  NEW STRATEGIC IMPERATIVE.  Engineers on RIRGA BAY have found a way to penetrate the Void. Alcubiere warp bubbles can be modified to provid insulation from the cosmic radiation field at the Void's barrier.   This has been demonstrated in a laboratory setting using various amphibians. Construction of a **Warp Relay Station**, to transport Destroyers, has already begun on RIRGA BAY. The Helldivers are ordered to aid construction by liberating materials from Cyborg Megafactories. (2026-08-09 03:33  UTC)<br/>
+*Pherkad Secundus* defense is failed (2026-08-09 07:20  UTC)<br/>
+*Pherkad Secundus* liberation campaign starts (2026-08-09 07:20  UTC)<br/>
+*Gatria* liberation campaign ends (2026-08-09 07:20  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement has fallen to Terminids (2026-08-09 07:20  UTC)<br/>
+*Gatria* Region 1 ERSATZ City has fallen to Terminds (2026-08-09 07:20  UTC)<br/>
+
+### Day: #914
+ Decay: 1.0 on Pherkad Secundus
+ (2026-08-09 09:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-08-09 14:18  UTC)<br/>
+Major Order | [A3-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-4) Strategic Opportunity - Liberate materials for Warp Relay Station is won| Objective: Operations (2026-08-09 21:18  UTC)<br/>
+Dispatch:  STRATEGIC IMPERATIVE SEIZED.  The Helldivers have liberated stolen materials from Cyborg Megafactories, which are en route to the Warp Relay Station under construction on RIRGA BAY These materials will be repurposed from the perpetuation of socialist terrorism to the pursuit of science. (2026-08-09 21:18  UTC)<br/>
+*Grand Errant* of the Farsight sector is attacked by Terminids (2026-08-10 00:48  UTC)<br/>
+ Decay: 0.0 on Grand Errant
+ (2026-08-10 02:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-08-10 05:01  UTC)<br/>
+*Wasat* Region 0 MIRAGE City is besieged by Human (2026-08-10 07:47  UTC)<br/>
+
+### Day: #915
+*Gatria* liberation campaign starts (2026-08-10 09:14  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement has fallen to Terminid (2026-08-10 09:14  UTC)<br/>
+*Gatria* Region 1 ERSATZ City is besieged by Human (2026-08-10 09:14  UTC)<br/>
+*Pherkad Secundus* is liberated (2026-08-10 09:14  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2026-08-10 09:14  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2026-08-10 10:00  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region
+ (2026-08-10 10:00  UTC)<br/>
+*Fori Prime* of the Draco sector instantly flips to Terminid control (2026-08-10 13:29  UTC)<br/>
+*Fori Prime* liberation campaign starts (2026-08-10 13:29  UTC)<br/>
+*Hellmire* is liberated (2026-08-10 14:08  UTC)<br/>
+*Grand Errant* defense is won (2026-08-10 16:34  UTC)<br/>
+ Decay: 1.0 on Hellmire
+ (2026-08-10 16:34  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2026-08-10 16:35  UTC)<br/>

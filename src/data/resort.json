@@ -17647,6 +17647,50 @@
       {
          "pl": 100,
          "eind": 11039
+      },
+      {
+         "pl": 200,
+         "eind": 11045
+      },
+      {
+         "pl": 100,
+         "eind": 11046
+      },
+      {
+         "pl": "<10",
+         "eind": 11047
+      },
+      {
+         "pl": 100,
+         "eind": 11049
+      },
+      {
+         "pl": 300,
+         "eind": 11051
+      },
+      {
+         "pl": 200,
+         "eind": 11053
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": 200,
+         "eind": 11063
+      },
+      {
+         "pl": 100,
+         "eind": 11066
+      },
+      {
+         "pl": "<10",
+         "eind": 11078
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "1": [
@@ -84828,6 +84872,206 @@
       {
          "t": 21,
          "eind": 11044
+      },
+      {
+         "pl": 3300,
+         "r": 0.0,
+         "eind": 11045
+      },
+      {
+         "pl": 3800,
+         "eind": 11046
+      },
+      {
+         "pl": 2300,
+         "eind": 11047
+      },
+      {
+         "pl": 2800,
+         "eind": 11049
+      },
+      {
+         "pl": 8000,
+         "eind": 11050
+      },
+      {
+         "pl": 6200,
+         "eind": 11051
+      },
+      {
+         "pl": 5500,
+         "t": 33,
+         "eind": 11052
+      },
+      {
+         "pl": 3200,
+         "r": 2.7777777,
+         "eind": 11053
+      },
+      {
+         "pl": 3600,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "OUTPOST ALPHA",
+               "desc": "The first manned site established in Gloom-infested space."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11054
+      },
+      {
+         "hp": 980470,
+         "pl": 21100,
+         "r": -2.7777777,
+         "eind": 11055
+      },
+      {
+         "hp": 888907,
+         "pl": 25500,
+         "eind": 11056
+      },
+      {
+         "hp": 765217,
+         "pl": 18800,
+         "eind": 11057
+      },
+      {
+         "hp": 726590,
+         "pl": 17200,
+         "eind": 11059
+      },
+      {
+         "hp": 712989,
+         "pl": 16000,
+         "eind": 11060
+      },
+      {
+         "hp": 700371,
+         "pl": 14400,
+         "eind": 11061
+      },
+      {
+         "hp": 654532,
+         "pl": 4100,
+         "eind": 11062
+      },
+      {
+         "hp": 537736,
+         "pl": 3500,
+         "dss": "",
+         "desc": [
+            {
+               "name": "OUTPOST ALPHA",
+               "desc": "The first manned site established in Gloom-infested space."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11063
+      },
+      {
+         "hp": 495528,
+         "pl": 1700,
+         "eind": 11064
+      },
+      {
+         "hp": 474053,
+         "pl": 1800,
+         "eind": 11065
+      },
+      {
+         "hp": 439515,
+         "pl": 1600,
+         "eind": 11066
+      },
+      {
+         "hp": 394850,
+         "pl": 1900,
+         "eind": 11067
+      },
+      {
+         "hp": 364248,
+         "pl": 1200,
+         "eind": 11068
+      },
+      {
+         "hp": 349265,
+         "pl": 1100,
+         "eind": 11069
+      },
+      {
+         "hp": 327869,
+         "pl": 900,
+         "eind": 11070
+      },
+      {
+         "hp": 266474,
+         "pl": 1100,
+         "eind": 11071
+      },
+      {
+         "hp": 246434,
+         "pl": 1200,
+         "eind": 11072
+      },
+      {
+         "hp": 186907,
+         "eind": 11073
+      },
+      {
+         "hp": 146431,
+         "eind": 11074
+      },
+      {
+         "hp": 132177,
+         "pl": 900,
+         "eind": 11075
+      },
+      {
+         "hp": 98896,
+         "pl": 600,
+         "eind": 11076
+      },
+      {
+         "hp": 70035,
+         "pl": 300,
+         "eind": 11077
+      },
+      {
+         "hp": 56995,
+         "eind": 11078
+      },
+      {
+         "hp": 46069,
+         "pl": 600,
+         "eind": 11080
+      },
+      {
+         "hp": 9511,
+         "pl": 1200,
+         "eind": 11081
+      },
+      {
+         "hp": 1160,
+         "pl": 1300,
+         "t": 16,
+         "eind": 11082
+      },
+      {
+         "hp": 1000000,
+         "pl": 100,
+         "r": 2.7777777,
+         "eind": 11083
       }
    ],
    "211": [
@@ -97429,6 +97673,70 @@
       {
          "pl": "<10",
          "eind": 11030
+      },
+      {
+         "t": 33,
+         "eind": 11054
+      },
+      {
+         "pl": 800,
+         "eind": 11055
+      },
+      {
+         "pl": 1200,
+         "eind": 11056
+      },
+      {
+         "pl": 800,
+         "eind": 11057
+      },
+      {
+         "pl": 700,
+         "eind": 11059
+      },
+      {
+         "pl": 600,
+         "eind": 11061
+      },
+      {
+         "pl": 200,
+         "eind": 11062
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": 200,
+         "eind": 11064
+      },
+      {
+         "pl": 300,
+         "eind": 11067
+      },
+      {
+         "pl": 200,
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11070
+      },
+      {
+         "pl": 200,
+         "eind": 11072
+      },
+      {
+         "pl": 100,
+         "eind": 11075
+      },
+      {
+         "pl": "<10",
+         "eind": 11077
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "212": [
@@ -209794,6 +210102,155 @@
             }
          },
          "eind": 11042
+      },
+      {
+         "hp": 456731,
+         "pl": 5300,
+         "eind": 11045
+      },
+      {
+         "hp": 513112,
+         "pl": 5000,
+         "eind": 11046
+      },
+      {
+         "hp": 578373,
+         "pl": 3100,
+         "eind": 11047
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11048
+      },
+      {
+         "hp": 581506,
+         "pl": 4400,
+         "eind": 11049
+      },
+      {
+         "hp": 443272,
+         "pl": 24100,
+         "r": 4.1666665,
+         "eind": 11050
+      },
+      {
+         "hp": 210916,
+         "pl": 21800,
+         "eind": 11051
+      },
+      {
+         "hp": 133802,
+         "pl": 21000,
+         "eind": 11052
+      },
+      {
+         "hp": 50843,
+         "pl": 29700,
+         "eind": 11053
+      },
+      {
+         "hp": 6352,
+         "pl": 31200,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 11054
+      },
+      {
+         "hp": 1500000,
+         "pl": 8100,
+         "eind": 11055
+      },
+      {
+         "pl": 1000,
+         "eind": 11056
+      },
+      {
+         "pl": 600,
+         "eind": 11057
+      },
+      {
+         "pl": 500,
+         "eind": 11059
+      },
+      {
+         "pl": 600,
+         "eind": 11061
+      },
+      {
+         "pl": 500,
+         "eind": 11062
+      },
+      {
+         "pl": 700,
+         "eind": 11063
+      },
+      {
+         "pl": 600,
+         "eind": 11064
+      },
+      {
+         "pl": 500,
+         "eind": 11065
+      },
+      {
+         "pl": 300,
+         "eind": 11066
+      },
+      {
+         "pl": 200,
+         "eind": 11067
+      },
+      {
+         "pl": 100,
+         "eind": 11068
+      },
+      {
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "pl": 100,
+         "eind": 11076
+      },
+      {
+         "pl": "<10",
+         "eind": 11077
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "270": [
@@ -238562,6 +239019,70 @@
       {
          "pl": 200,
          "eind": 11040
+      },
+      {
+         "pl": 100,
+         "eind": 11045
+      },
+      {
+         "pl": "<10",
+         "eind": 11047
+      },
+      {
+         "pl": 100,
+         "eind": 11050
+      },
+      {
+         "pl": 200,
+         "eind": 11051
+      },
+      {
+         "pl": 300,
+         "eind": 11054
+      },
+      {
+         "pl": 500,
+         "eind": 11055
+      },
+      {
+         "pl": 400,
+         "eind": 11056
+      },
+      {
+         "pl": 300,
+         "eind": 11057
+      },
+      {
+         "pl": 200,
+         "eind": 11061
+      },
+      {
+         "pl": 100,
+         "eind": 11062
+      },
+      {
+         "pl": 200,
+         "eind": 11067
+      },
+      {
+         "pl": 100,
+         "eind": 11069
+      },
+      {
+         "pl": 200,
+         "eind": 11072
+      },
+      {
+         "pl": 100,
+         "eind": 11073
+      },
+      {
+         "pl": "<10",
+         "eind": 11076
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "78": [
@@ -292706,6 +293227,20 @@
       {
          "pl": "<10",
          "eind": 10675
+      },
+      {
+         "t": 33,
+         "eind": 11081
+      },
+      {
+         "hp": 260458,
+         "pl": 600,
+         "eind": 11082
+      },
+      {
+         "hp": 305764,
+         "pl": 1900,
+         "eind": 11083
       }
    ],
    "104": [
@@ -372726,6 +373261,359 @@
       {
          "pl": 200,
          "eind": 11041
+      },
+      {
+         "pl": "<10",
+         "eind": 11047
+      },
+      {
+         "pl": 100,
+         "eind": 11049
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199986
+            }
+         },
+         "eind": 11050
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 11051
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11052
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199996
+            }
+         },
+         "eind": 11053
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11054
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199996
+            }
+         },
+         "eind": 11055
+      },
+      {
+         "pl": 2000,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11056
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199985
+            }
+         },
+         "eind": 11057
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 11059
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199977
+            }
+         },
+         "eind": 11060
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11061
+      },
+      {
+         "pl": 400,
+         "eind": 11062
+      },
+      {
+         "pl": 800,
+         "eind": 11063
+      },
+      {
+         "pl": 900,
+         "eind": 11064
+      },
+      {
+         "pl": 1100,
+         "eind": 11065
+      },
+      {
+         "pl": 1000,
+         "eind": 11066
+      },
+      {
+         "pl": 1300,
+         "eind": 11067
+      },
+      {
+         "pl": 300,
+         "eind": 11068
+      },
+      {
+         "pl": 200,
+         "eind": 11069
+      },
+      {
+         "pl": 300,
+         "eind": 11071
+      },
+      {
+         "pl": 400,
+         "eind": 11073
+      },
+      {
+         "pl": 1000,
+         "eind": 11074
+      },
+      {
+         "pl": 900,
+         "eind": 11075
+      },
+      {
+         "pl": 700,
+         "eind": 11076
+      },
+      {
+         "pl": 300,
+         "eind": 11077
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 11080
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11081
+      },
+      {
+         "pl": 600,
+         "eind": 11082
       }
    ],
    "202": [
@@ -377228,6 +378116,86 @@
       {
          "pl": "<10",
          "eind": 11022
+      },
+      {
+         "pl": 200,
+         "eind": 11050
+      },
+      {
+         "pl": 400,
+         "eind": 11051
+      },
+      {
+         "pl": 500,
+         "eind": 11053
+      },
+      {
+         "pl": 700,
+         "eind": 11055
+      },
+      {
+         "pl": 800,
+         "eind": 11056
+      },
+      {
+         "pl": 400,
+         "eind": 11057
+      },
+      {
+         "pl": 300,
+         "eind": 11060
+      },
+      {
+         "pl": 100,
+         "eind": 11062
+      },
+      {
+         "pl": 300,
+         "eind": 11063
+      },
+      {
+         "pl": 400,
+         "eind": 11065
+      },
+      {
+         "pl": 300,
+         "eind": 11066
+      },
+      {
+         "pl": 400,
+         "eind": 11067
+      },
+      {
+         "pl": 100,
+         "eind": 11068
+      },
+      {
+         "pl": "<10",
+         "eind": 11070
+      },
+      {
+         "pl": 100,
+         "eind": 11071
+      },
+      {
+         "pl": 200,
+         "eind": 11073
+      },
+      {
+         "pl": 300,
+         "eind": 11074
+      },
+      {
+         "pl": 200,
+         "eind": 11076
+      },
+      {
+         "pl": 100,
+         "eind": 11077
+      },
+      {
+         "pl": 200,
+         "eind": 11082
       }
    ],
    "248": [
@@ -404683,6 +405651,106 @@
       {
          "pl": 300,
          "eind": 11040
+      },
+      {
+         "pl": 200,
+         "eind": 11045
+      },
+      {
+         "pl": 300,
+         "eind": 11046
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "pl": 400,
+         "eind": 11050
+      },
+      {
+         "pl": 700,
+         "eind": 11051
+      },
+      {
+         "pl": 800,
+         "eind": 11052
+      },
+      {
+         "pl": 900,
+         "eind": 11054
+      },
+      {
+         "pl": 1100,
+         "eind": 11055
+      },
+      {
+         "pl": 700,
+         "eind": 11057
+      },
+      {
+         "pl": 500,
+         "eind": 11059
+      },
+      {
+         "pl": 200,
+         "eind": 11062
+      },
+      {
+         "pl": 500,
+         "eind": 11063
+      },
+      {
+         "pl": 600,
+         "eind": 11064
+      },
+      {
+         "pl": 800,
+         "eind": 11065
+      },
+      {
+         "pl": 700,
+         "eind": 11066
+      },
+      {
+         "pl": 800,
+         "eind": 11067
+      },
+      {
+         "pl": 200,
+         "eind": 11068
+      },
+      {
+         "pl": 300,
+         "eind": 11071
+      },
+      {
+         "pl": 400,
+         "eind": 11072
+      },
+      {
+         "pl": 300,
+         "eind": 11073
+      },
+      {
+         "pl": 700,
+         "eind": 11074
+      },
+      {
+         "pl": 400,
+         "eind": 11076
+      },
+      {
+         "pl": 200,
+         "eind": 11077
+      },
+      {
+         "pl": 300,
+         "eind": 11081
+      },
+      {
+         "pl": 500,
+         "eind": 11083
       }
    ],
    "160": [
@@ -456336,6 +457404,38 @@
       {
          "pl": "<10",
          "eind": 11042
+      },
+      {
+         "pl": 100,
+         "eind": 11045
+      },
+      {
+         "pl": "<10",
+         "eind": 11046
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": "<10",
+         "eind": 11057
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": "<10",
+         "eind": 11064
+      },
+      {
+         "pl": 100,
+         "eind": 11067
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
       }
    ],
    "171": [
@@ -474560,6 +475660,82 @@
       {
          "pl": 200,
          "eind": 11039
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "pl": "<10",
+         "eind": 11049
+      },
+      {
+         "pl": 200,
+         "eind": 11050
+      },
+      {
+         "pl": 300,
+         "eind": 11053
+      },
+      {
+         "pl": 500,
+         "eind": 11055
+      },
+      {
+         "pl": 600,
+         "eind": 11056
+      },
+      {
+         "pl": 400,
+         "eind": 11057
+      },
+      {
+         "pl": 300,
+         "eind": 11059
+      },
+      {
+         "pl": "<10",
+         "eind": 11062
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": 300,
+         "eind": 11065
+      },
+      {
+         "pl": 200,
+         "eind": 11066
+      },
+      {
+         "pl": 100,
+         "eind": 11068
+      },
+      {
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "pl": 300,
+         "eind": 11073
+      },
+      {
+         "pl": 200,
+         "eind": 11075
+      },
+      {
+         "pl": 100,
+         "eind": 11076
+      },
+      {
+         "pl": "<10",
+         "eind": 11078
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "172": [
@@ -484054,6 +485230,66 @@
       {
          "pl": 100,
          "eind": 11040
+      },
+      {
+         "pl": "<10",
+         "eind": 11047
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": 200,
+         "eind": 11055
+      },
+      {
+         "pl": 100,
+         "eind": 11060
+      },
+      {
+         "pl": 200,
+         "eind": 11064
+      },
+      {
+         "pl": 100,
+         "eind": 11066
+      },
+      {
+         "pl": 200,
+         "eind": 11067
+      },
+      {
+         "pl": 100,
+         "eind": 11068
+      },
+      {
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "pl": 300,
+         "eind": 11074
+      },
+      {
+         "pl": 200,
+         "eind": 11075
+      },
+      {
+         "pl": 100,
+         "eind": 11076
+      },
+      {
+         "pl": "<10",
+         "eind": 11078
+      },
+      {
+         "pl": 100,
+         "eind": 11080
+      },
+      {
+         "pl": 200,
+         "eind": 11081
       }
    ],
    "173": [
@@ -502489,6 +503725,234 @@
       {
          "pl": 400,
          "eind": 11041
+      },
+      {
+         "pl": 300,
+         "eind": 11045
+      },
+      {
+         "pl": 200,
+         "eind": 11047
+      },
+      {
+         "pl": 300,
+         "eind": 11049
+      },
+      {
+         "pl": 600,
+         "eind": 11050
+      },
+      {
+         "pl": 500,
+         "eind": 11051
+      },
+      {
+         "pl": 700,
+         "eind": 11054
+      },
+      {
+         "pl": 1000,
+         "eind": 11055
+      },
+      {
+         "pl": 1100,
+         "eind": 11056
+      },
+      {
+         "pl": 700,
+         "eind": 11057
+      },
+      {
+         "pl": 800,
+         "eind": 11060
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 11061
+      },
+      {
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11062
+      },
+      {
+         "pl": 1600,
+         "eind": 11063
+      },
+      {
+         "pl": 1500,
+         "eind": 11064
+      },
+      {
+         "pl": 3100,
+         "eind": 11065
+      },
+      {
+         "pl": 3000,
+         "eind": 11066
+      },
+      {
+         "pl": 3900,
+         "eind": 11067
+      },
+      {
+         "pl": 2500,
+         "eind": 11068
+      },
+      {
+         "hp": 1499996,
+         "pl": 2300,
+         "t": 32,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 0,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11069
+      },
+      {
+         "hp": 1500000,
+         "pl": 100,
+         "eind": 11070
+      },
+      {
+         "pl": "<10",
+         "eind": 11076
+      },
+      {
+         "t": 33,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11079
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399996
+            }
+         },
+         "eind": 11080
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11081
+      },
+      {
+         "pl": 1500,
+         "eind": 11082
+      },
+      {
+         "pl": 1400,
+         "eind": 11083
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11084
       }
    ],
    "214": [
@@ -520357,6 +521821,110 @@
       {
          "pl": 300,
          "eind": 11042
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "pl": 200,
+         "eind": 11049
+      },
+      {
+         "pl": 400,
+         "eind": 11050
+      },
+      {
+         "pl": 300,
+         "eind": 11051
+      },
+      {
+         "pl": 400,
+         "eind": 11054
+      },
+      {
+         "pl": 900,
+         "eind": 11055
+      },
+      {
+         "pl": 1000,
+         "eind": 11056
+      },
+      {
+         "pl": 600,
+         "eind": 11057
+      },
+      {
+         "pl": 500,
+         "eind": 11059
+      },
+      {
+         "pl": 400,
+         "eind": 11060
+      },
+      {
+         "pl": 500,
+         "eind": 11061
+      },
+      {
+         "pl": 200,
+         "eind": 11062
+      },
+      {
+         "pl": 300,
+         "eind": 11064
+      },
+      {
+         "pl": 400,
+         "eind": 11067
+      },
+      {
+         "pl": 200,
+         "eind": 11069
+      },
+      {
+         "pl": 300,
+         "eind": 11070
+      },
+      {
+         "pl": 600,
+         "eind": 11071
+      },
+      {
+         "pl": 500,
+         "eind": 11072
+      },
+      {
+         "pl": 600,
+         "eind": 11073
+      },
+      {
+         "pl": 500,
+         "eind": 11074
+      },
+      {
+         "pl": 400,
+         "eind": 11075
+      },
+      {
+         "pl": 200,
+         "eind": 11076
+      },
+      {
+         "pl": 100,
+         "eind": 11077
+      },
+      {
+         "pl": 200,
+         "eind": 11080
+      },
+      {
+         "pl": 300,
+         "eind": 11081
+      },
+      {
+         "pl": 200,
+         "eind": 11083
       }
    ],
    "217": [
@@ -540104,6 +541672,130 @@
       {
          "pl": 2400,
          "eind": 11042
+      },
+      {
+         "pl": 1900,
+         "eind": 11045
+      },
+      {
+         "pl": 1200,
+         "eind": 11047
+      },
+      {
+         "pl": 2500,
+         "eind": 11050
+      },
+      {
+         "pl": 2200,
+         "eind": 11051
+      },
+      {
+         "pl": 2100,
+         "eind": 11052
+      },
+      {
+         "pl": 2200,
+         "eind": 11053
+      },
+      {
+         "pl": 2400,
+         "eind": 11054
+      },
+      {
+         "pl": 4300,
+         "eind": 11055
+      },
+      {
+         "pl": 4800,
+         "eind": 11056
+      },
+      {
+         "pl": 3600,
+         "eind": 11057
+      },
+      {
+         "pl": 3400,
+         "eind": 11059
+      },
+      {
+         "pl": 3300,
+         "eind": 11060
+      },
+      {
+         "pl": 3000,
+         "eind": 11061
+      },
+      {
+         "pl": 1400,
+         "eind": 11062
+      },
+      {
+         "pl": 2300,
+         "eind": 11063
+      },
+      {
+         "pl": 2800,
+         "eind": 11065
+      },
+      {
+         "pl": 2600,
+         "eind": 11066
+      },
+      {
+         "pl": 3000,
+         "eind": 11067
+      },
+      {
+         "pl": 2200,
+         "eind": 11068
+      },
+      {
+         "pl": 2000,
+         "eind": 11069
+      },
+      {
+         "pl": 2700,
+         "eind": 11070
+      },
+      {
+         "pl": 4500,
+         "eind": 11071
+      },
+      {
+         "pl": 4400,
+         "eind": 11072
+      },
+      {
+         "pl": 4100,
+         "eind": 11074
+      },
+      {
+         "pl": 3100,
+         "eind": 11075
+      },
+      {
+         "pl": 2000,
+         "eind": 11076
+      },
+      {
+         "pl": 1500,
+         "eind": 11077
+      },
+      {
+         "pl": 1600,
+         "eind": 11080
+      },
+      {
+         "pl": 2600,
+         "eind": 11081
+      },
+      {
+         "pl": 2800,
+         "eind": 11082
+      },
+      {
+         "pl": 2600,
+         "eind": 11083
       }
    ],
    "268": [
@@ -552055,6 +553747,195 @@
       {
          "pl": "<10",
          "eind": 11017
+      },
+      {
+         "pl": 100,
+         "eind": 11050
+      },
+      {
+         "pl": 200,
+         "eind": 11055
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": "<10",
+         "eind": 11061
+      },
+      {
+         "pl": 100,
+         "eind": 11065
+      },
+      {
+         "r": 11.111111,
+         "eind": 11066
+      },
+      {
+         "pl": 11300,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 995953
+            }
+         },
+         "eind": 11068
+      },
+      {
+         "pl": 10100,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 988964
+            }
+         },
+         "eind": 11069
+      },
+      {
+         "pl": 8400,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 978008
+            }
+         },
+         "eind": 11070
+      },
+      {
+         "pl": 12800,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 955479
+            }
+         },
+         "eind": 11071
+      },
+      {
+         "pl": 13500,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 947307
+            }
+         },
+         "eind": 11072
+      },
+      {
+         "pl": 16800,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 919519
+            }
+         },
+         "eind": 11073
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 932867
+            }
+         },
+         "eind": 11074
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 942818
+            }
+         },
+         "eind": 11075
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 968600
+            }
+         },
+         "eind": 11076
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 993763
+            }
+         },
+         "eind": 11077
+      },
+      {
+         "regions": {
+            "UTOPIA VAREN": {
+               "index": 156,
+               "name": "UTOPIA VAREN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 11078
+      },
+      {
+         "pl": 600,
+         "eind": 11080
+      },
+      {
+         "pl": 900,
+         "eind": 11081
+      },
+      {
+         "pl": 800,
+         "eind": 11082
       }
    ],
    "157": [
@@ -564449,6 +566330,90 @@
       {
          "pl": 200,
          "eind": 11042
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "pl": 300,
+         "eind": 11050
+      },
+      {
+         "pl": 500,
+         "eind": 11051
+      },
+      {
+         "pl": 600,
+         "eind": 11054
+      },
+      {
+         "pl": 800,
+         "eind": 11055
+      },
+      {
+         "pl": 700,
+         "eind": 11056
+      },
+      {
+         "pl": 400,
+         "eind": 11057
+      },
+      {
+         "pl": 300,
+         "eind": 11060
+      },
+      {
+         "pl": 200,
+         "eind": 11062
+      },
+      {
+         "pl": 400,
+         "eind": 11063
+      },
+      {
+         "pl": 500,
+         "eind": 11065
+      },
+      {
+         "pl": 400,
+         "eind": 11069
+      },
+      {
+         "pl": 700,
+         "eind": 11071
+      },
+      {
+         "pl": 900,
+         "eind": 11073
+      },
+      {
+         "pl": 800,
+         "eind": 11074
+      },
+      {
+         "pl": 700,
+         "eind": 11075
+      },
+      {
+         "pl": 400,
+         "eind": 11076
+      },
+      {
+         "pl": 200,
+         "eind": 11077
+      },
+      {
+         "pl": 300,
+         "eind": 11078
+      },
+      {
+         "pl": 200,
+         "eind": 11080
+      },
+      {
+         "pl": 500,
+         "eind": 11081
       }
    ],
    "198": [
@@ -599293,6 +601258,423 @@
       {
          "pl": 400,
          "eind": 11041
+      },
+      {
+         "pl": 300,
+         "eind": 11046
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99988
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11050
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99979
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11051
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99964
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11052
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11053
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99988
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11054
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99999
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11055
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99988
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11056
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11057
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99975
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11059
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11060
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99991
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11061
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11062
+      },
+      {
+         "pl": 600,
+         "eind": 11063
+      },
+      {
+         "pl": 700,
+         "eind": 11064
+      },
+      {
+         "pl": 1000,
+         "eind": 11065
+      },
+      {
+         "pl": 800,
+         "eind": 11066
+      },
+      {
+         "pl": 1100,
+         "eind": 11067
+      },
+      {
+         "pl": 600,
+         "eind": 11068
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11069
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11070
+      },
+      {
+         "pl": 700,
+         "eind": 11071
+      },
+      {
+         "pl": 1100,
+         "eind": 11073
+      },
+      {
+         "pl": 1400,
+         "eind": 11074
+      },
+      {
+         "pl": 1200,
+         "eind": 11075
+      },
+      {
+         "pl": 700,
+         "eind": 11076
+      },
+      {
+         "pl": 400,
+         "eind": 11077
+      },
+      {
+         "pl": 300,
+         "eind": 11078
+      },
+      {
+         "pl": 400,
+         "eind": 11080
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99997
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11081
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11082
+      },
+      {
+         "pl": 800,
+         "eind": 11083
       }
    ],
    "200": [
@@ -610823,6 +613205,228 @@
       {
          "pl": 600,
          "eind": 11042
+      },
+      {
+         "pl": 200,
+         "eind": 11047
+      },
+      {
+         "pl": 300,
+         "eind": 11049
+      },
+      {
+         "pl": 1600,
+         "eind": 11050
+      },
+      {
+         "pl": 2000,
+         "eind": 11051
+      },
+      {
+         "pl": 1900,
+         "eind": 11052
+      },
+      {
+         "pl": 2300,
+         "eind": 11053
+      },
+      {
+         "pl": 2700,
+         "eind": 11054
+      },
+      {
+         "pl": 4400,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 399999
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11055
+      },
+      {
+         "pl": 4300,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 399997
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11056
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11057
+      },
+      {
+         "pl": 2300,
+         "eind": 11059
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 399996
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11060
+      },
+      {
+         "pl": 2000,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11061
+      },
+      {
+         "pl": 900,
+         "eind": 11062
+      },
+      {
+         "pl": 1400,
+         "eind": 11063
+      },
+      {
+         "pl": 1700,
+         "eind": 11064
+      },
+      {
+         "pl": 1900,
+         "eind": 11065
+      },
+      {
+         "pl": 1800,
+         "eind": 11066
+      },
+      {
+         "pl": 2200,
+         "eind": 11067
+      },
+      {
+         "pl": 700,
+         "eind": 11068
+      },
+      {
+         "pl": 500,
+         "eind": 11069
+      },
+      {
+         "pl": 300,
+         "eind": 11070
+      },
+      {
+         "pl": 600,
+         "eind": 11071
+      },
+      {
+         "pl": 700,
+         "eind": 11072
+      },
+      {
+         "pl": 900,
+         "eind": 11073
+      },
+      {
+         "pl": 1700,
+         "eind": 11074
+      },
+      {
+         "pl": 1500,
+         "eind": 11075
+      },
+      {
+         "pl": 1200,
+         "eind": 11076
+      },
+      {
+         "pl": 800,
+         "eind": 11077
+      },
+      {
+         "pl": 700,
+         "eind": 11078
+      },
+      {
+         "pl": 1000,
+         "eind": 11081
+      },
+      {
+         "pl": 1400,
+         "eind": 11082
+      },
+      {
+         "pl": 1500,
+         "eind": 11083
       }
    ],
    "158": [
@@ -665808,6 +668412,114 @@
       {
          "pl": 600,
          "eind": 11041
+      },
+      {
+         "pl": 400,
+         "eind": 11045
+      },
+      {
+         "pl": 200,
+         "eind": 11047
+      },
+      {
+         "pl": 600,
+         "eind": 11050
+      },
+      {
+         "pl": 700,
+         "eind": 11051
+      },
+      {
+         "pl": 600,
+         "eind": 11052
+      },
+      {
+         "pl": 700,
+         "eind": 11053
+      },
+      {
+         "pl": 800,
+         "eind": 11054
+      },
+      {
+         "pl": 1100,
+         "eind": 11055
+      },
+      {
+         "pl": 1200,
+         "eind": 11056
+      },
+      {
+         "pl": 900,
+         "eind": 11057
+      },
+      {
+         "pl": 700,
+         "eind": 11059
+      },
+      {
+         "pl": 600,
+         "eind": 11060
+      },
+      {
+         "pl": 300,
+         "eind": 11062
+      },
+      {
+         "pl": 500,
+         "eind": 11063
+      },
+      {
+         "pl": 600,
+         "eind": 11064
+      },
+      {
+         "pl": 500,
+         "eind": 11066
+      },
+      {
+         "pl": 700,
+         "eind": 11067
+      },
+      {
+         "pl": 500,
+         "eind": 11068
+      },
+      {
+         "pl": 400,
+         "eind": 11070
+      },
+      {
+         "pl": 600,
+         "eind": 11071
+      },
+      {
+         "pl": 500,
+         "eind": 11072
+      },
+      {
+         "pl": 600,
+         "eind": 11073
+      },
+      {
+         "pl": 500,
+         "eind": 11075
+      },
+      {
+         "pl": 400,
+         "eind": 11076
+      },
+      {
+         "pl": 200,
+         "eind": 11077
+      },
+      {
+         "pl": 500,
+         "eind": 11081
+      },
+      {
+         "pl": 600,
+         "eind": 11082
       }
    ],
    "201": [
@@ -669268,6 +671980,129 @@
          "hp": 186495,
          "pl": 28700,
          "eind": 11042
+      },
+      {
+         "hp": 154518,
+         "pl": 32200,
+         "eind": 11045
+      },
+      {
+         "hp": 78691,
+         "pl": 31700,
+         "eind": 11046
+      },
+      {
+         "hp": 1573,
+         "pl": 16700,
+         "eind": 11047
+      },
+      {
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11048
+      },
+      {
+         "hp": 1000000,
+         "pl": 14100,
+         "eind": 11049
+      },
+      {
+         "pl": 1200,
+         "eind": 11050
+      },
+      {
+         "pl": 1800,
+         "eind": 11051
+      },
+      {
+         "pl": 1700,
+         "eind": 11052
+      },
+      {
+         "pl": 1200,
+         "eind": 11053
+      },
+      {
+         "pl": 1300,
+         "eind": 11054
+      },
+      {
+         "pl": 1500,
+         "eind": 11055
+      },
+      {
+         "pl": 1000,
+         "eind": 11056
+      },
+      {
+         "pl": 500,
+         "eind": 11057
+      },
+      {
+         "pl": 300,
+         "eind": 11059
+      },
+      {
+         "pl": 400,
+         "eind": 11060
+      },
+      {
+         "pl": 300,
+         "eind": 11061
+      },
+      {
+         "pl": 400,
+         "eind": 11063
+      },
+      {
+         "pl": 500,
+         "eind": 11064
+      },
+      {
+         "pl": 400,
+         "eind": 11066
+      },
+      {
+         "pl": 200,
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11070
+      },
+      {
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "pl": 300,
+         "eind": 11074
+      },
+      {
+         "pl": 200,
+         "eind": 11075
+      },
+      {
+         "pl": 100,
+         "eind": 11076
+      },
+      {
+         "pl": "<10",
+         "eind": 11077
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "245": [
@@ -671325,6 +674160,187 @@
       {
          "pl": 300,
          "eind": 11042
+      },
+      {
+         "pl": 100,
+         "eind": 11047
+      },
+      {
+         "hp": 1998564,
+         "pl": 300,
+         "r": -2.7777777,
+         "eind": 11049
+      },
+      {
+         "hp": 1944879,
+         "pl": 500,
+         "eind": 11050
+      },
+      {
+         "hp": 1881229,
+         "pl": 700,
+         "eind": 11051
+      },
+      {
+         "hp": 1859569,
+         "eind": 11052
+      },
+      {
+         "hp": 1837930,
+         "pl": 1100,
+         "eind": 11053
+      },
+      {
+         "hp": 1826910,
+         "pl": 1200,
+         "eind": 11054
+      },
+      {
+         "hp": 1815540,
+         "pl": 1600,
+         "eind": 11055
+      },
+      {
+         "hp": 1792686,
+         "pl": 1500,
+         "eind": 11056
+      },
+      {
+         "hp": 1764864,
+         "pl": 900,
+         "eind": 11057
+      },
+      {
+         "hp": 1756584,
+         "pl": 700,
+         "eind": 11059
+      },
+      {
+         "hp": 1753838,
+         "eind": 11060
+      },
+      {
+         "hp": 1751144,
+         "pl": 600,
+         "eind": 11061
+      },
+      {
+         "hp": 1737832,
+         "pl": 200,
+         "eind": 11062
+      },
+      {
+         "hp": 1664279,
+         "pl": 400,
+         "eind": 11063
+      },
+      {
+         "hp": 1631262,
+         "eind": 11064
+      },
+      {
+         "hp": 1613292,
+         "pl": 600,
+         "eind": 11065
+      },
+      {
+         "hp": 1584601,
+         "pl": 500,
+         "eind": 11066
+      },
+      {
+         "hp": 1547817,
+         "pl": 700,
+         "eind": 11067
+      },
+      {
+         "hp": 1522405,
+         "pl": 200,
+         "eind": 11068
+      },
+      {
+         "hp": 1509890,
+         "eind": 11069
+      },
+      {
+         "hp": 1492382,
+         "pl": 100,
+         "eind": 11070
+      },
+      {
+         "hp": 1440105,
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "hp": 1422604,
+         "eind": 11072
+      },
+      {
+         "hp": 1370397,
+         "pl": 300,
+         "eind": 11073
+      },
+      {
+         "hp": 1334527,
+         "pl": 600,
+         "eind": 11074
+      },
+      {
+         "hp": 1321504,
+         "pl": 500,
+         "eind": 11075
+      },
+      {
+         "hp": 1290766,
+         "pl": 300,
+         "eind": 11076
+      },
+      {
+         "hp": 1263331,
+         "pl": 100,
+         "regions": {
+            "MIRAGE": {
+               "index": 0,
+               "name": "MIRAGE",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "DRYWELL": {
+               "index": 1,
+               "name": "DRYWELL",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11077
+      },
+      {
+         "hp": 1250817,
+         "pl": 200,
+         "eind": 11078
+      },
+      {
+         "hp": 1240782,
+         "eind": 11080
+      },
+      {
+         "hp": 1208428,
+         "pl": 300,
+         "eind": 11081
+      },
+      {
+         "hp": 1200979,
+         "eind": 11082
+      },
+      {
+         "hp": 1176034,
+         "pl": 500,
+         "eind": 11083
       }
    ],
    "246": [
@@ -769230,6 +772246,46 @@
       {
          "pl": "<10",
          "eind": 11017
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": 200,
+         "eind": 11054
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": "<10",
+         "eind": 11059
+      },
+      {
+         "pl": 100,
+         "eind": 11064
+      },
+      {
+         "pl": "<10",
+         "eind": 11066
+      },
+      {
+         "pl": 100,
+         "eind": 11067
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11074
+      },
+      {
+         "pl": "<10",
+         "eind": 11076
       }
    ],
    "91": [
@@ -773676,6 +776732,86 @@
       {
          "pl": 200,
          "eind": 11042
+      },
+      {
+         "pl": 100,
+         "eind": 11045
+      },
+      {
+         "pl": 200,
+         "eind": 11050
+      },
+      {
+         "pl": 400,
+         "eind": 11051
+      },
+      {
+         "pl": 300,
+         "eind": 11052
+      },
+      {
+         "pl": 500,
+         "eind": 11053
+      },
+      {
+         "pl": 800,
+         "eind": 11055
+      },
+      {
+         "pl": 500,
+         "eind": 11057
+      },
+      {
+         "pl": 400,
+         "eind": 11059
+      },
+      {
+         "pl": 300,
+         "eind": 11060
+      },
+      {
+         "pl": 100,
+         "eind": 11062
+      },
+      {
+         "pl": 200,
+         "eind": 11063
+      },
+      {
+         "pl": 300,
+         "eind": 11065
+      },
+      {
+         "pl": 200,
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11070
+      },
+      {
+         "pl": 200,
+         "eind": 11071
+      },
+      {
+         "pl": 300,
+         "eind": 11074
+      },
+      {
+         "pl": 200,
+         "eind": 11075
+      },
+      {
+         "pl": 100,
+         "eind": 11076
+      },
+      {
+         "pl": "<10",
+         "eind": 11080
+      },
+      {
+         "pl": 200,
+         "eind": 11081
       }
    ],
    "94": [
@@ -777163,6 +780299,54 @@
       {
          "pl": "<10",
          "eind": 11017
+      },
+      {
+         "pl": 100,
+         "eind": 11045
+      },
+      {
+         "pl": "<10",
+         "eind": 11046
+      },
+      {
+         "pl": 100,
+         "eind": 11050
+      },
+      {
+         "pl": 200,
+         "eind": 11054
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": "<10",
+         "eind": 11061
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": "<10",
+         "eind": 11066
+      },
+      {
+         "pl": 100,
+         "eind": 11067
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11073
+      },
+      {
+         "pl": "<10",
+         "eind": 11076
       }
    ],
    "95": [
@@ -782369,6 +785553,14 @@
       {
          "pl": "<10",
          "eind": 11017
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": "<10",
+         "eind": 11057
       }
    ],
    "59": [
@@ -802559,6 +805751,136 @@
       {
          "pl": "<10",
          "eind": 11038
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": "<10",
+         "eind": 11052
+      },
+      {
+         "pl": 100,
+         "eind": 11055
+      },
+      {
+         "pl": "<10",
+         "eind": 11056
+      },
+      {
+         "t": 21,
+         "eind": 11060
+      },
+      {
+         "pl": 700,
+         "r": 0.0,
+         "eind": 11061
+      },
+      {
+         "pl": 14500,
+         "eind": 11062
+      },
+      {
+         "pl": 32400,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11063
+      },
+      {
+         "pl": 38800,
+         "t": 16,
+         "dss": "",
+         "desc": [],
+         "eind": 11064
+      },
+      {
+         "pl": 2000,
+         "r": 4.1666665,
+         "eind": 11065
+      },
+      {
+         "pl": 500,
+         "eind": 11066
+      },
+      {
+         "pl": 400,
+         "eind": 11067
+      },
+      {
+         "pl": 300,
+         "eind": 11068
+      },
+      {
+         "pl": 400,
+         "eind": 11071
+      },
+      {
+         "pl": 300,
+         "eind": 11072
+      },
+      {
+         "pl": 200,
+         "eind": 11073
+      },
+      {
+         "pl": 100,
+         "t": 21,
+         "eind": 11074
+      },
+      {
+         "pl": 11200,
+         "r": 0.0,
+         "eind": 11075
+      },
+      {
+         "pl": 9000,
+         "eind": 11076
+      },
+      {
+         "pl": 5700,
+         "eind": 11077
+      },
+      {
+         "pl": 6000,
+         "eind": 11078
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11079
+      },
+      {
+         "pl": 15300,
+         "eind": 11080
+      },
+      {
+         "pl": 27200,
+         "eind": 11081
+      },
+      {
+         "pl": 29400,
+         "eind": 11082
+      },
+      {
+         "pl": 29200,
+         "t": 16,
+         "eind": 11083
+      },
+      {
+         "dss": "",
+         "desc": [],
+         "eind": 11084
       }
    ],
    "218": [
@@ -808844,6 +812166,141 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "t": 21,
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11059
+      },
+      {
+         "pl": 1300,
+         "r": 0.0,
+         "eind": 11060
+      },
+      {
+         "pl": 2800,
+         "eind": 11061
+      },
+      {
+         "pl": 4900,
+         "eind": 11062
+      },
+      {
+         "pl": 7000,
+         "eind": 11063
+      },
+      {
+         "pl": 7200,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11064
+      },
+      {
+         "pl": 40600,
+         "eind": 11065
+      },
+      {
+         "pl": 33400,
+         "eind": 11066
+      },
+      {
+         "pl": 39600,
+         "eind": 11067
+      },
+      {
+         "pl": 23800,
+         "eind": 11068
+      },
+      {
+         "pl": 18500,
+         "t": 33,
+         "eind": 11069
+      },
+      {
+         "hp": 978956,
+         "pl": 18100,
+         "r": 2.7777777,
+         "eind": 11070
+      },
+      {
+         "hp": 791981,
+         "pl": 29800,
+         "eind": 11071
+      },
+      {
+         "hp": 731224,
+         "pl": 29900,
+         "eind": 11072
+      },
+      {
+         "hp": 554047,
+         "pl": 32500,
+         "eind": 11073
+      },
+      {
+         "hp": 403448,
+         "pl": 36400,
+         "eind": 11074
+      },
+      {
+         "hp": 348433,
+         "pl": 30000,
+         "eind": 11075
+      },
+      {
+         "hp": 245244,
+         "pl": 19700,
+         "eind": 11076
+      },
+      {
+         "hp": 84539,
+         "pl": 13300,
+         "eind": 11077
+      },
+      {
+         "hp": 11870,
+         "pl": 12200,
+         "eind": 11078
+      },
+      {
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11079
+      },
+      {
+         "hp": 1000000,
+         "pl": 2300,
+         "r": 4.1666665,
+         "eind": 11080
+      },
+      {
+         "pl": 700,
+         "eind": 11081
+      },
+      {
+         "pl": 800,
+         "eind": 11083
       }
    ],
    "219": [
@@ -883792,6 +887249,50 @@
       {
          "pl": 100,
          "eind": 11042
+      },
+      {
+         "pl": "<10",
+         "eind": 11045
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": 200,
+         "eind": 11056
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": "<10",
+         "eind": 11061
+      },
+      {
+         "pl": 100,
+         "eind": 11064
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11073
+      },
+      {
+         "pl": "<10",
+         "eind": 11077
+      },
+      {
+         "pl": 100,
+         "eind": 11082
+      },
+      {
+         "pl": "<10",
+         "eind": 11083
       }
    ],
    "206": [
@@ -895389,6 +898890,575 @@
       {
          "pl": 100,
          "eind": 11040
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99990
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11045
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11046
+      },
+      {
+         "pl": "<10",
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11047
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11049
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99999
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11050
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99880
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11051
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99977
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11052
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11053
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99981
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11054
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99865
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11055
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99470
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11056
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99291
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11057
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99159
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11059
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99070
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11060
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99038
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11061
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99046
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11062
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11063
+      },
+      {
+         "pl": 700,
+         "eind": 11064
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99980
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11065
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11066
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99992
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11067
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11068
+      },
+      {
+         "pl": 200,
+         "eind": 11070
+      },
+      {
+         "pl": 400,
+         "eind": 11071
+      },
+      {
+         "pl": 800,
+         "eind": 11074
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99991
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11075
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11076
+      },
+      {
+         "pl": 300,
+         "eind": 11077
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99999
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11078
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11080
+      },
+      {
+         "pl": 600,
+         "eind": 11081
       }
    ],
    "252": [
@@ -980071,6 +984141,38 @@
       {
          "pl": "<10",
          "eind": 11038
+      },
+      {
+         "pl": 100,
+         "eind": 11050
+      },
+      {
+         "pl": 200,
+         "eind": 11054
+      },
+      {
+         "pl": 100,
+         "eind": 11057
+      },
+      {
+         "pl": "<10",
+         "eind": 11062
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11073
+      },
+      {
+         "pl": "<10",
+         "eind": 11076
       }
    ],
    "137": [
@@ -994924,6 +999026,38 @@
             }
          },
          "eind": 11025
+      },
+      {
+         "pl": 100,
+         "eind": 11051
+      },
+      {
+         "pl": 200,
+         "eind": 11055
+      },
+      {
+         "pl": 100,
+         "eind": 11056
+      },
+      {
+         "pl": "<10",
+         "eind": 11059
+      },
+      {
+         "pl": 100,
+         "eind": 11067
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11073
+      },
+      {
+         "pl": "<10",
+         "eind": 11075
       }
    ],
    "182": [
@@ -1002492,6 +1006626,38 @@
       {
          "pl": "<10",
          "eind": 10520
+      },
+      {
+         "pl": 100,
+         "eind": 11054
+      },
+      {
+         "pl": "<10",
+         "eind": 11057
+      },
+      {
+         "pl": 100,
+         "eind": 11060
+      },
+      {
+         "pl": "<10",
+         "eind": 11061
+      },
+      {
+         "pl": 100,
+         "eind": 11067
+      },
+      {
+         "pl": "<10",
+         "eind": 11068
+      },
+      {
+         "pl": 100,
+         "eind": 11074
+      },
+      {
+         "pl": "<10",
+         "eind": 11075
       }
    ],
    "183": [
@@ -1009307,6 +1013473,70 @@
       {
          "pl": 100,
          "eind": 11040
+      },
+      {
+         "pl": "<10",
+         "eind": 11047
+      },
+      {
+         "pl": 100,
+         "eind": 11050
+      },
+      {
+         "pl": 200,
+         "eind": 11051
+      },
+      {
+         "pl": 300,
+         "eind": 11055
+      },
+      {
+         "pl": 200,
+         "eind": 11057
+      },
+      {
+         "pl": 100,
+         "eind": 11059
+      },
+      {
+         "pl": "<10",
+         "eind": 11062
+      },
+      {
+         "pl": 100,
+         "eind": 11063
+      },
+      {
+         "pl": 200,
+         "eind": 11066
+      },
+      {
+         "pl": 100,
+         "eind": 11068
+      },
+      {
+         "pl": "<10",
+         "eind": 11070
+      },
+      {
+         "pl": 100,
+         "eind": 11071
+      },
+      {
+         "pl": 200,
+         "eind": 11073
+      },
+      {
+         "pl": 100,
+         "eind": 11075
+      },
+      {
+         "pl": "<10",
+         "eind": 11078
+      },
+      {
+         "pl": 100,
+         "eind": 11081
       }
    ],
    "225": [
@@ -1012374,6 +1016604,11 @@
       {
          "pl": "<10",
          "eind": 10387
+      },
+      {
+         "hp": 2200000,
+         "r": 6.9444447,
+         "eind": 11080
       }
    ],
    "272": [
@@ -1015913,6 +1020148,142 @@
       {
          "pl": 900,
          "eind": 11042
+      },
+      {
+         "pl": 800,
+         "eind": 11045
+      },
+      {
+         "pl": 1000,
+         "eind": 11046
+      },
+      {
+         "pl": 400,
+         "eind": 11047
+      },
+      {
+         "pl": 1300,
+         "eind": 11050
+      },
+      {
+         "pl": 1800,
+         "eind": 11051
+      },
+      {
+         "pl": 1700,
+         "eind": 11052
+      },
+      {
+         "pl": 2500,
+         "eind": 11053
+      },
+      {
+         "pl": 2900,
+         "eind": 11054
+      },
+      {
+         "pl": 4400,
+         "eind": 11055
+      },
+      {
+         "hp": 999992,
+         "pl": 4000,
+         "eind": 11056
+      },
+      {
+         "hp": 1000000,
+         "pl": 2300,
+         "eind": 11057
+      },
+      {
+         "pl": 2000,
+         "eind": 11059
+      },
+      {
+         "pl": 1900,
+         "eind": 11060
+      },
+      {
+         "hp": 999986,
+         "pl": 1800,
+         "eind": 11061
+      },
+      {
+         "hp": 1000000,
+         "pl": 700,
+         "eind": 11062
+      },
+      {
+         "pl": 1100,
+         "eind": 11063
+      },
+      {
+         "pl": 1300,
+         "eind": 11064
+      },
+      {
+         "pl": 1700,
+         "eind": 11065
+      },
+      {
+         "pl": 1600,
+         "eind": 11066
+      },
+      {
+         "pl": 2000,
+         "eind": 11067
+      },
+      {
+         "pl": 1300,
+         "eind": 11068
+      },
+      {
+         "pl": 900,
+         "eind": 11069
+      },
+      {
+         "pl": 700,
+         "eind": 11070
+      },
+      {
+         "pl": 1000,
+         "eind": 11071
+      },
+      {
+         "pl": 1100,
+         "eind": 11072
+      },
+      {
+         "pl": 1500,
+         "eind": 11073
+      },
+      {
+         "pl": 1800,
+         "eind": 11074
+      },
+      {
+         "pl": 1600,
+         "eind": 11075
+      },
+      {
+         "pl": 1000,
+         "eind": 11076
+      },
+      {
+         "pl": 400,
+         "eind": 11077
+      },
+      {
+         "pl": 600,
+         "eind": 11081
+      },
+      {
+         "pl": 800,
+         "eind": 11082
+      },
+      {
+         "pl": 1000,
+         "eind": 11083
       }
    ],
    "232": [
