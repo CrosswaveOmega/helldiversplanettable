@@ -16677,7 +16677,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-09 07:41  UTC)<br/>
  (2026-06-09 08:48  UTC)<br/>
 
 ### Day: #853
-Assault Division: Rupture Strain  U1A deploys to *Omicron* (2026-06-09 09:46  UTC)<br/>
+Assault Division: Rupture Strain U1A deploys to *Omicron* (2026-06-09 09:46  UTC)<br/>
 *Acamar IV* Region 1 ERIDANI City is besieged by Terminid (2026-06-09 14:25  UTC)<br/>
 Major Order | [A3-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-2) Complete operations on *Omicron* is issued | Objective: Operations (2026-06-09 14:41  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER  The Star of Peace requires vast quantities of Dark Fluid to fire; the Federation's reserves remain depleted following the weapon's inaugural operation.  Dark Fluid is synthesized directly from E-711. The Hive World of *Omicron* possesses immense E-711 reservoirs.  The Helldivers are ordered to complete 1,750,000 Operations on *Omicron* to quell Terminid resistance and clear the way for E-711 extraction pipelines, to enable the synthesis of Dark Fluid. (2026-06-09 14:42  UTC)<br/>
@@ -16686,7 +16686,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-06-10 07:42  UTC)<br/>
 
 ### Day: #854
 DSS effect EAGLE STORM starts (2026-06-10 09:11  UTC)<br/>
-Assault Division: Rupture Strain  U1A is routed from Omicron (2026-06-10 09:29  UTC)<br/>
+Assault Division: Rupture Strain  U1A is routed (2026-06-10 09:29  UTC)<br/>
 Assault Division: Dragonroaches U3A leaves  *Erson Sands* (2026-06-10 11:31  UTC)<br/>
 Assault Division: Dragonroaches U3A deploys to *Esker* (2026-06-10 11:31  UTC)<br/>
 Assault Division: Dragonroaches U2D leaves  *Zagon Prime* (2026-06-10 11:31  UTC)<br/>
@@ -16778,12 +16778,25 @@ Minor Order | [A3-6-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-3) Hold
  (2026-06-13 14:03  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE ACHIEVED. The Helldivers have heroically prevailed, overcoming myriad inconveniences, and have repelled the fascist Terminid swarm on *Crimsica*. With the vital E-710 refineries secured from the threat of Dragon Roach immolation, Liberty presides over our newly-restored fuel lines once more. Fleetwide supply restrictions have been immediately lifted, and citizens throughout the Federation can comfortably refuel vehicles to their heart's desire. (2026-06-13 14:04  UTC)<br/>
 DSS deploys to *Brilliance* of the Orion sector (2026-06-13 17:54  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-06-14 03:32  UTC)<br/>
 
 ### Day: #858
+DSS effect ORBITAL BLOCKADE ends (2026-06-15 03:33  UTC)<br/>
+*Brilliance* defense is won (2026-06-15 05:40  UTC)<br/>
+DSS deploys to *Omicron* of the L'estrade sector (2026-06-15 05:40  UTC)<br/>
  Decay: 2.5 on Brilliance
  (2026-06-15 06:00  UTC)<br/>
+Assault Division: Dragonroaches U2D deploys to *Omicron* (2026-06-15 08:13  UTC)<br/>
+Assault Division: Predator Strain U1A leaves *Omicron* (2026-06-15 08:13  UTC)<br/>
+Assault Division: Predator Strain U7A leaves *Hellmire* (2026-06-15 08:13  UTC)<br/>
+Assault Division: Predator Strain UBA leaves FRONTERIA (2026-06-15 08:13  UTC)<br/>
+Assault Division: Rupture Strain U6A leaves  *Fori Prime* (2026-06-15 08:13  UTC)<br/>
 
 ### Day: #859
+Major Order | [A3-6-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-2) Complete operations on *Omicron* is failed | Objective: Operations (2026-06-15 14:56  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED.   The Helldivers were unable to pacify *Omicron*. Construction of E-711 extraction pipelines are indefinitely postponed; rearming the Star of Peace is delayed.  However, the quantity of Terminids culled has perfectly stabilized the E-710 fuel crisis to exact pre-crisis levels.  Helldivers are reminded to return all loaned CQC-20 Breaching Hammers and Dark Energy Jet Packs to their quartermaster immediately to avoid payroll deduction. (2026-06-15 14:56  UTC)<br/>
+*RD-4* liberation campaign ends (2026-06-16 08:25  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 08:26  UTC)<br/>
 
 # Day: #860
  Decay: 3.0 on Basquine VIII, Sangis
@@ -17568,12 +17581,10 @@ Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
 *Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 02:38  UTC)<br/>
 
 ### Day: #911
-*Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Human (2026-08-06 12:34  UTC)<br/>
-*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Terminid (2026-08-06 12:34  UTC)<br/>
 *Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-08-06 20:48  UTC)<br/>
 Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is lost| Objective: Liberate (2026-08-06 22:03  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE FAILED. The Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists. (2026-08-06 22:03  UTC)<br/>
-Assault Division: Spore Burst Strain U1 deploys to *Hellmire* (2026-08-06 22:05  UTC)<br/>
+Assault Division: Spore Burst Strain U1K deploys to *Hellmire* (2026-08-06 22:05  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2026-08-06 22:10  UTC)<br/>
  Decay: 0.0 on Hellmire
  (2026-08-07 00:00  UTC)<br/>
@@ -17594,6 +17605,7 @@ DSS deploys to *Erata Prime* of the Umlaut sector (2026-08-07 08:53  UTC)<br/>
 *Erata Prime* is liberated (2026-08-08 01:10  UTC)<br/>
 *Nivel 43* liberation campaign starts (2026-08-08 01:10  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2026-08-08 01:10  UTC)<br/>
+Umlaut sector is fully under Human control (2026-08-08 01:10  UTC)<br/>
  Decay: -1.0 on Hellmire
  (2026-08-08 02:00  UTC)<br/>
 *Darius II* is established as a TERMINID CONTROL SYSTEM+ POI (2026-08-08 06:41  UTC)<br/>
