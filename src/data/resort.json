@@ -17699,6 +17699,18 @@
       {
          "pl": 100,
          "eind": 11091
+      },
+      {
+         "pl": 200,
+         "eind": 11094
+      },
+      {
+         "pl": 100,
+         "eind": 11095
+      },
+      {
+         "pl": 200,
+         "eind": 11103
       }
    ],
    "1": [
@@ -68720,6 +68732,20 @@
          "eind": 10682
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10685
+      },
+      {
          "pl": "<10",
          "eind": 10687
       },
@@ -68801,6 +68827,10 @@
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
             },
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -68818,6 +68848,10 @@
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 10742
@@ -68994,6 +69028,10 @@
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
             },
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -69010,6 +69048,10 @@
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 10835
@@ -69021,6 +69063,10 @@
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
             {
                "name": "DSS",
@@ -69082,6 +69128,10 @@
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 10851
@@ -85094,6 +85144,10 @@
          "pl": 100,
          "r": 2.7777777,
          "eind": 11088
+      },
+      {
+         "pl": "<10",
+         "eind": 11092
       }
    ],
    "211": [
@@ -97771,6 +97825,18 @@
       {
          "pl": 300,
          "eind": 11091
+      },
+      {
+         "pl": 200,
+         "eind": 11092
+      },
+      {
+         "pl": 100,
+         "eind": 11098
+      },
+      {
+         "pl": 300,
+         "eind": 11103
       }
    ],
    "212": [
@@ -185669,6 +185735,20 @@
          "eind": 10339
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "Xenoentomology Center",
+               "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10950
+      },
+      {
          "t": 21,
          "regions": {
             "CHATOYANT": {
@@ -185828,6 +185908,10 @@
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
             },
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -185957,6 +186041,10 @@
             {
                "name": "Xenoentomology Center",
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 10963
@@ -186025,6 +186113,10 @@
             {
                "name": "Xenoentomology Center",
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
             {
                "name": "SPORE BURST STRAIN",
@@ -186191,6 +186283,10 @@
             {
                "name": "Xenoentomology Center",
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
             {
                "name": "SPORE BURST STRAIN",
@@ -186477,6 +186573,10 @@
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
             },
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
             }
@@ -186559,6 +186659,10 @@
             {
                "name": "Xenoentomology Center",
                "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 11047
@@ -209235,6 +209339,25 @@
       },
       {
          "pl": 6900,
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "regions": {
             "NEW DA NANG": {
                "index": 0,
@@ -209278,6 +209401,10 @@
             {
                "name": "DRAGONROACHES",
                "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
             {
                "name": "DSS",
@@ -209614,6 +209741,10 @@
             {
                "name": "DRAGONROACHES",
                "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "regions": {
@@ -210163,6 +210294,10 @@
                "desc": "Terminid Dragonroaches menace the skies of this planet."
             },
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -210212,6 +210347,10 @@
             {
                "name": "DRAGONROACHES",
                "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
          "eind": 11058
@@ -210284,6 +210423,18 @@
       {
          "pl": 200,
          "eind": 11090
+      },
+      {
+         "pl": 100,
+         "eind": 11092
+      },
+      {
+         "pl": "<10",
+         "eind": 11097
+      },
+      {
+         "pl": 100,
+         "eind": 11103
       }
    ],
    "270": [
@@ -210470,6 +210621,16 @@
          "adiv": "",
          "desc": [],
          "eind": 10481
+      },
+      {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10949
       }
    ],
    "75": [
@@ -239125,6 +239286,22 @@
       {
          "pl": 200,
          "eind": 11090
+      },
+      {
+         "pl": 100,
+         "eind": 11097
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11100
+      },
+      {
+         "pl": 200,
+         "eind": 11103
       }
    ],
    "78": [
@@ -268092,6 +268269,308 @@
       {
          "pl": "<10",
          "eind": 10706
+      },
+      {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10785
+      },
+      {
+         "t": 33,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11092
+      },
+      {
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11093
+      },
+      {
+         "hp": 400652,
+         "pl": 4100,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 399845
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 99616
+            }
+         },
+         "eind": 11094
+      },
+      {
+         "hp": 446418,
+         "pl": 5300,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 398772
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 97516
+            }
+         },
+         "eind": 11095
+      },
+      {
+         "hp": 439354,
+         "pl": 12200,
+         "r": -2.7777777,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 397355
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 95962
+            }
+         },
+         "eind": 11096
+      },
+      {
+         "hp": 416396,
+         "pl": 17500,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 387366
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 83293
+            }
+         },
+         "eind": 11097
+      },
+      {
+         "hp": 341404,
+         "pl": 14200,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 365723
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 31916
+            }
+         },
+         "eind": 11098
+      },
+      {
+         "hp": 306174,
+         "pl": 12000,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 357831
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 4765
+            }
+         },
+         "eind": 11100
+      },
+      {
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 357831
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 4765
+            }
+         },
+         "eind": 11101
+      },
+      {
+         "hp": 128171,
+         "pl": 12500,
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 347837
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "hp": 5609,
+         "pl": 21300,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 263752
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11103
       }
    ],
    "169": [
@@ -293270,6 +293749,16 @@
          "eind": 10679
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10786
+      },
+      {
          "t": 33,
          "eind": 11086
       },
@@ -293294,11 +293783,55 @@
          "dss": "DSS Here",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
          ],
          "eind": 11091
+      },
+      {
+         "hp": 299784,
+         "pl": 24400,
+         "eind": 11092
+      },
+      {
+         "hp": 196667,
+         "pl": 27200,
+         "eind": 11094
+      },
+      {
+         "hp": 6648,
+         "pl": 27400,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11095
+      },
+      {
+         "hp": 1000000,
+         "pl": 9400,
+         "eind": 11096
+      },
+      {
+         "pl": 1800,
+         "eind": 11097
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 300,
+         "eind": 11103
       }
    ],
    "104": [
@@ -373775,6 +374308,78 @@
       {
          "pl": 1200,
          "eind": 11091
+      },
+      {
+         "pl": 1000,
+         "eind": 11092
+      },
+      {
+         "pl": 1100,
+         "eind": 11094
+      },
+      {
+         "pl": 1200,
+         "eind": 11095
+      },
+      {
+         "pl": 1100,
+         "eind": 11096
+      },
+      {
+         "pl": 1000,
+         "eind": 11097
+      },
+      {
+         "pl": 500,
+         "eind": 11098
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199988
+            }
+         },
+         "eind": 11100
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "pl": 700,
+         "eind": 11103
       }
    ],
    "202": [
@@ -378373,6 +378978,30 @@
       {
          "pl": 400,
          "eind": 11091
+      },
+      {
+         "pl": 300,
+         "eind": 11092
+      },
+      {
+         "pl": 400,
+         "eind": 11094
+      },
+      {
+         "pl": 300,
+         "eind": 11096
+      },
+      {
+         "pl": 400,
+         "eind": 11097
+      },
+      {
+         "pl": 100,
+         "eind": 11098
+      },
+      {
+         "pl": 200,
+         "eind": 11100
       }
    ],
    "248": [
@@ -405940,6 +406569,22 @@
       {
          "pl": 800,
          "eind": 11091
+      },
+      {
+         "pl": 700,
+         "eind": 11094
+      },
+      {
+         "pl": 400,
+         "eind": 11098
+      },
+      {
+         "pl": 300,
+         "eind": 11100
+      },
+      {
+         "pl": 500,
+         "eind": 11103
       }
    ],
    "160": [
@@ -475959,6 +476604,30 @@
       {
          "pl": 300,
          "eind": 11090
+      },
+      {
+         "pl": 200,
+         "eind": 11092
+      },
+      {
+         "pl": 300,
+         "eind": 11096
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11100
+      },
+      {
+         "pl": 200,
+         "eind": 11102
+      },
+      {
+         "pl": 500,
+         "eind": 11103
       }
    ],
    "172": [
@@ -485525,6 +486194,26 @@
       {
          "pl": 500,
          "eind": 11090
+      },
+      {
+         "pl": 200,
+         "eind": 11092
+      },
+      {
+         "pl": 300,
+         "eind": 11095
+      },
+      {
+         "pl": 200,
+         "eind": 11097
+      },
+      {
+         "pl": 100,
+         "eind": 11098
+      },
+      {
+         "pl": 200,
+         "eind": 11103
       }
    ],
    "173": [
@@ -504280,6 +504969,230 @@
             }
          },
          "eind": 11091
+      },
+      {
+         "hp": 1423647,
+         "pl": 6300,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 295291
+            }
+         },
+         "eind": 11092
+      },
+      {
+         "hp": 1436969,
+         "pl": 2800,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 298995
+            }
+         },
+         "eind": 11094
+      },
+      {
+         "hp": 1465224,
+         "pl": 2000,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 309901
+            }
+         },
+         "eind": 11095
+      },
+      {
+         "hp": 1467042,
+         "pl": 6700,
+         "dss": "",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 309490
+            }
+         },
+         "eind": 11096
+      },
+      {
+         "hp": 1469769,
+         "pl": 5100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 308563
+            }
+         },
+         "eind": 11097
+      },
+      {
+         "hp": 1480636,
+         "pl": 2200,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 310969
+            }
+         },
+         "eind": 11098
+      },
+      {
+         "hp": 1485738,
+         "pl": 1900,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 312913
+            }
+         },
+         "eind": 11100
+      },
+      {
+         "hp": 1489743,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 314643
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "hp": 1499472,
+         "pl": 4400,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 319920
+            }
+         },
+         "eind": 11103
       }
    ],
    "214": [
@@ -522252,6 +523165,22 @@
       {
          "pl": 400,
          "eind": 11090
+      },
+      {
+         "pl": 300,
+         "eind": 11092
+      },
+      {
+         "pl": 400,
+         "eind": 11096
+      },
+      {
+         "pl": 300,
+         "eind": 11097
+      },
+      {
+         "pl": 700,
+         "eind": 11103
       }
    ],
    "217": [
@@ -542127,6 +543056,38 @@
       {
          "pl": 4000,
          "eind": 11091
+      },
+      {
+         "pl": 3100,
+         "eind": 11092
+      },
+      {
+         "pl": 2800,
+         "eind": 11094
+      },
+      {
+         "pl": 2600,
+         "eind": 11095
+      },
+      {
+         "pl": 2700,
+         "eind": 11096
+      },
+      {
+         "pl": 2600,
+         "eind": 11097
+      },
+      {
+         "pl": 2200,
+         "eind": 11098
+      },
+      {
+         "pl": 2600,
+         "eind": 11102
+      },
+      {
+         "pl": 5000,
+         "eind": 11103
       }
    ],
    "268": [
@@ -554275,6 +555236,30 @@
       {
          "pl": 800,
          "eind": 11091
+      },
+      {
+         "pl": 600,
+         "eind": 11092
+      },
+      {
+         "pl": 500,
+         "eind": 11094
+      },
+      {
+         "pl": 400,
+         "eind": 11095
+      },
+      {
+         "pl": 300,
+         "eind": 11096
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 300,
+         "eind": 11103
       }
    ],
    "157": [
@@ -566761,6 +567746,26 @@
       {
          "pl": 600,
          "eind": 11090
+      },
+      {
+         "pl": 500,
+         "eind": 11096
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 300,
+         "eind": 11100
+      },
+      {
+         "pl": 200,
+         "eind": 11102
+      },
+      {
+         "pl": 500,
+         "eind": 11103
       }
    ],
    "198": [
@@ -602106,6 +603111,132 @@
             }
          },
          "eind": 11091
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11092
+      },
+      {
+         "pl": 1300,
+         "eind": 11094
+      },
+      {
+         "pl": 1200,
+         "eind": 11095
+      },
+      {
+         "pl": 1100,
+         "eind": 11096
+      },
+      {
+         "pl": 900,
+         "eind": 11097
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11098
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99995
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11100
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99970
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11103
       }
    ],
    "200": [
@@ -613858,6 +614989,45 @@
       {
          "pl": 2400,
          "eind": 11090
+      },
+      {
+         "pl": 2200,
+         "eind": 11092
+      },
+      {
+         "pl": 2300,
+         "eind": 11094
+      },
+      {
+         "pl": 2200,
+         "eind": 11095
+      },
+      {
+         "pl": 2100,
+         "eind": 11097
+      },
+      {
+         "pl": 1400,
+         "eind": 11098
+      },
+      {
+         "pl": 1600,
+         "eind": 11100
+      },
+      {
+         "pl": 1300,
+         "eind": 11102
+      },
+      {
+         "pl": 2400,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11103
       }
    ],
    "158": [
@@ -669024,6 +670194,30 @@
       {
          "pl": 800,
          "eind": 11091
+      },
+      {
+         "pl": 700,
+         "eind": 11094
+      },
+      {
+         "pl": 800,
+         "eind": 11095
+      },
+      {
+         "pl": 700,
+         "eind": 11096
+      },
+      {
+         "pl": 400,
+         "eind": 11098
+      },
+      {
+         "pl": 500,
+         "eind": 11102
+      },
+      {
+         "pl": 900,
+         "eind": 11103
       }
    ],
    "201": [
@@ -672606,6 +673800,18 @@
       {
          "pl": 200,
          "eind": 11090
+      },
+      {
+         "pl": 100,
+         "eind": 11097
+      },
+      {
+         "pl": "<10",
+         "eind": 11100
+      },
+      {
+         "pl": 100,
+         "eind": 11103
       }
    ],
    "245": [
@@ -674862,6 +676068,47 @@
          "hp": 1137692,
          "pl": 800,
          "eind": 11091
+      },
+      {
+         "hp": 1119691,
+         "eind": 11092
+      },
+      {
+         "hp": 1099461,
+         "pl": 600,
+         "eind": 11094
+      },
+      {
+         "hp": 1064185,
+         "eind": 11095
+      },
+      {
+         "hp": 1056497,
+         "eind": 11096
+      },
+      {
+         "hp": 1048772,
+         "eind": 11097
+      },
+      {
+         "hp": 1019736,
+         "pl": 300,
+         "eind": 11098
+      },
+      {
+         "hp": 1006359,
+         "pl": 400,
+         "eind": 11100
+      },
+      {
+         "hp": 995613,
+         "pl": 300,
+         "eind": 11102
+      },
+      {
+         "hp": 958077,
+         "pl": 600,
+         "eind": 11103
       }
    ],
    "246": [
@@ -772848,6 +774095,10 @@
       {
          "pl": 100,
          "eind": 11090
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
       }
    ],
    "91": [
@@ -777386,6 +778637,74 @@
       {
          "pl": 400,
          "eind": 11090
+      },
+      {
+         "pl": 300,
+         "eind": 11092
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399992
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11103
       }
    ],
    "94": [
@@ -780925,6 +782244,10 @@
       {
          "pl": 100,
          "eind": 11090
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
       }
    ],
    "95": [
@@ -806358,6 +807681,16 @@
          "eind": 11060
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11062
+      },
+      {
          "t": 21,
          "eind": 11064
       },
@@ -806375,6 +807708,10 @@
          "dss": "DSS Here",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -806385,7 +807722,12 @@
          "pl": 38800,
          "t": 16,
          "dss": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "eind": 11068
       },
       {
@@ -806443,6 +807785,10 @@
          "dss": "DSS Here",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
@@ -806468,7 +807814,12 @@
       },
       {
          "dss": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "eind": 11089
       },
       {
@@ -806479,6 +807830,18 @@
       {
          "pl": 700,
          "eind": 11091
+      },
+      {
+         "pl": 400,
+         "eind": 11092
+      },
+      {
+         "pl": 300,
+         "eind": 11096
+      },
+      {
+         "pl": 500,
+         "eind": 11103
       }
    ],
    "218": [
@@ -812766,9 +814129,23 @@
          "eind": 10339
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11062
+      },
+      {
          "t": 21,
          "adiv": "SporeBurstStrain",
          "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
@@ -812797,6 +814174,10 @@
          "pl": 7200,
          "dss": "DSS Here",
          "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
             {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
@@ -812880,6 +814261,10 @@
          "dss": "",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "SPORE BURST STRAIN",
                "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
             }
@@ -812903,6 +814288,38 @@
       {
          "pl": 900,
          "eind": 11091
+      },
+      {
+         "pl": 800,
+         "eind": 11092
+      },
+      {
+         "pl": 900,
+         "eind": 11094
+      },
+      {
+         "pl": 600,
+         "eind": 11095
+      },
+      {
+         "pl": 500,
+         "eind": 11096
+      },
+      {
+         "pl": 400,
+         "eind": 11097
+      },
+      {
+         "pl": 200,
+         "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11102
+      },
+      {
+         "pl": 300,
+         "eind": 11103
       }
    ],
    "219": [
@@ -887899,6 +889316,14 @@
       {
          "pl": 100,
          "eind": 11090
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11103
       }
    ],
    "206": [
@@ -900142,6 +901567,166 @@
             }
          },
          "eind": 11091
+      },
+      {
+         "pl": 1000,
+         "eind": 11092
+      },
+      {
+         "pl": 900,
+         "eind": 11094
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99995
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11095
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11096
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99994
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11097
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99981
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11098
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11100
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99901
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11102
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11103
       }
    ],
    "252": [
@@ -946276,6 +947861,16 @@
       {
          "pl": "<10",
          "eind": 11020
+      },
+      {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11061
       }
    ],
    "130": [
@@ -950935,6 +952530,20 @@
       {
          "pl": "<10",
          "eind": 10442
+      },
+      {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11062
       }
    ],
    "131": [
@@ -984872,6 +986481,10 @@
       {
          "pl": 100,
          "eind": 11090
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
       }
    ],
    "137": [
@@ -999761,6 +1001374,10 @@
       {
          "pl": 100,
          "eind": 11090
+      },
+      {
+         "pl": "<10",
+         "eind": 11098
       }
    ],
    "182": [
@@ -1007366,6 +1008983,22 @@
       {
          "pl": "<10",
          "eind": 11079
+      },
+      {
+         "pl": 100,
+         "eind": 11092
+      },
+      {
+         "pl": "<10",
+         "eind": 11094
+      },
+      {
+         "pl": 100,
+         "eind": 11095
+      },
+      {
+         "pl": "<10",
+         "eind": 11096
       }
    ],
    "183": [
@@ -1014249,6 +1015882,18 @@
       {
          "pl": 200,
          "eind": 11090
+      },
+      {
+         "pl": 100,
+         "eind": 11098
+      },
+      {
+         "pl": "<10",
+         "eind": 11102
+      },
+      {
+         "pl": 100,
+         "eind": 11103
       }
    ],
    "225": [
@@ -1021021,6 +1022666,38 @@
       {
          "pl": 2300,
          "eind": 11091
+      },
+      {
+         "pl": 2100,
+         "eind": 11092
+      },
+      {
+         "pl": 2000,
+         "eind": 11094
+      },
+      {
+         "pl": 2200,
+         "eind": 11095
+      },
+      {
+         "pl": 1800,
+         "eind": 11097
+      },
+      {
+         "pl": 1000,
+         "eind": 11098
+      },
+      {
+         "pl": 1200,
+         "eind": 11100
+      },
+      {
+         "pl": 1000,
+         "eind": 11102
+      },
+      {
+         "pl": 1700,
+         "eind": 11103
       }
    ],
    "232": [

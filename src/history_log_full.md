@@ -17673,3 +17673,26 @@ DSS deploys to *Gatria* of the Jin Xi sector (2026-08-10 16:35  UTC)<br/>
  Decay: 1.5 on Grand Errant
  (2026-08-10 18:00  UTC)<br/>
 DSS deploys to *Fori Prime* of the Draco sector (2026-08-10 20:18  UTC)<br/>
+*Crimsica* of the Draco sector instantly flips to Terminid control (2026-08-10 22:09  UTC)<br/>
+*Crimsica* liberation campaign starts (2026-08-10 22:09  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement is besieged by Human (2026-08-10 22:09  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Human (2026-08-10 22:10  UTC)<br/>
+Dispatch:MINOR TERMINID OUTBREAK. A minor Terminid outbreak has occured on CRIMSICA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak. (2026-08-10 22:10  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-08-11 00:00  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-08-11 00:00  UTC)<br/>
+*Fori Prime* is liberated (2026-08-11 03:39  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2026-08-11 03:39  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-08-11 04:18  UTC)<br/>
+ Decay: -1.0 on Crimsica
+ (2026-08-11 04:18  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-08-11 05:02  UTC)<br/>
+Major Order | [A3-8-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-3) Permanent Enclosure -FINAL CORDON is won | Objective: Hold (2026-08-11 07:45  UTC)<br/>
+Dispatch: Campaign Won. The TCS+ is complete. On an unbroken line of planets, Termicide 2.0 fills the atmosphere, completely preventing the possibility of Terminid infestation. (2026-08-11 07:49  UTC)<br/>
+
+### Day: #916
+*Crimsica* Region 0 LIL'OME Settlement has fallen to Human (2026-08-11 09:14  UTC)<br/>
+*Crimsica* is liberated (2026-08-11 13:41  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-08-11 13:41  UTC)<br/>
+Draco sector is fully under Human control (2026-08-11 13:41  UTC)<br/>
