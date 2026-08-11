@@ -555,9 +555,9 @@ def update_planet_stats(
     # Update the Planet's Regions.
     for i, v in regionstats.items():
         pindex, rindex = i.split("_")
-        print(pindex, rindex, str(pindex) in planetclone)
+        #print(pindex, rindex, str(pindex) in planetclone)
         if str(pindex) in planetclone:
-            print(pindex, rindex, str(rindex) in planetclone[str(pindex)].regions)
+            #print(pindex, rindex, str(rindex) in planetclone[str(pindex)].regions)
             if str(rindex) in planetclone[str(pindex)].regions:
                 planetclone[str(pindex)].regions[str(rindex)].hp = int(
                     v.get("health", 0)
@@ -716,7 +716,7 @@ async def process_event(
 
     for i, v in lastregionstats.items():
         pindex, rindex = i.split("_")
-        print(pindex, rindex)
+        #print(pindex, rindex)
         if str(pindex) in planetclone:
             if str(rindex) in planetclone[str(pindex)].regions:
                 planetclone[str(pindex)].regions[str(rindex)].hp = v.get("health", 0)
@@ -737,6 +737,15 @@ async def process_event(
         laststats.update(planetstats)
     if regionstats:
         lastregionstats.update(regionstats)
+
+    if event.type=='AssaultDivResort':
+        for place, last in store.items():
+            if "Pos" in place:
+                eff = get_effect(place.replace("Pos",""))
+                planetclone[last].adiv = ""
+                if eff:
+                    planetclone[last].remove_desc(eff.name)
+                store[place]=None
 
     if "Assault Division" in event.type:
         site = extract_assault_division(event.text)
@@ -763,7 +772,7 @@ async def process_event(
         # ASSAULT DIVISIONS ARE ADDED IN HERE.
         update_planet_ownership(event, planetclone, store)
     print(store)
-
+    
     # event.galaxystate = planetclone
     return planetclone
 
@@ -779,7 +788,7 @@ def update_region_ownership(
     # A region when it happens
     for p in event.region:
         rn, ind = p
-        print(p, rn, rn not in planetclone[str(inde)].regions)
+        #print(p, rn, rn not in planetclone[str(inde)].regions)
         if rn not in planetclone[str(inde)].regions:
             planetclone[str(inde)].regions[rn] = PlanetRegion(
                 index=int(ind), name=rn, t=ENCODE(1, 0, 0), r=0, hp=100
@@ -1051,7 +1060,7 @@ def handle_decay_events(decay):
     if decay:
         decay_for_planets = {}
         for ind, o, p in decay:
-            print(str(ind))
+            #print(str(ind))
             planet = vjson["planets"].get(str(ind))
             if planet:
                 planet["owner"] = o
@@ -1081,7 +1090,7 @@ def handle_region_decay_events(
             sp=ind.split("_")
             planet=vjson["planets"].get(str(sp[0]))['name']
             outtext.append(f" Region Decay: {change} on {planet}'s " + sp[1]+ " region")
-            print(outtext)
+            #print(outtext)
             logger.info(outtext)
 
     return outtext

@@ -254,6 +254,10 @@
             }
         ]
     },
+    "AssaultDivResort": {
+        "name": "AssaultDivResort",
+        "matchable": ["ALL ASSAULT DIVISION PLACEMENTS ARE REORGANIZED"]
+    },
     "SiteEvent": {
         "name": "SiteEvent",
         "matchable": [" POI"],
