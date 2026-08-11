@@ -760,7 +760,9 @@ async def process_event(
                         )
                         planetclone[last].remove_desc(eff.name)
     if event.planet:
+        # ASSAULT DIVISIONS ARE ADDED IN HERE.
         update_planet_ownership(event, planetclone, store)
+    print(store)
 
     # event.galaxystate = planetclone
     return planetclone
