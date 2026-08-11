@@ -269,6 +269,16 @@
 
             "icon": "Automatons",
             "description": "The relay towers on this planet are important to Automaton communications."
+        },
+      	"1395": {
+            "galacticEffectId": 1395,
+            "name": "TERMINID CONTROL SYSTEM+",
+            "icon": "TCSIcon",
+            "description": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
         }
+        
+
     }
 }
+
+	

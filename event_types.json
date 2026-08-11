@@ -304,7 +304,17 @@
         "matchable": ["DSS effect", "stops"],
         "mode": "and"
     },
+    "DSS Effect started": {
+        "name": "DSS effect start",
+        "matchable": ["DSS effect", "starts"],
+        "mode": "and"
+    },
 
+    "DSS Effect ended": {
+        "name": "DSS effect end",
+        "matchable": ["DSS effect", "ends"],
+        "mode": "and"
+    },
     "War Pause": {
         "name": "Gwar Pause",
         "matchable": ["is paused"]
