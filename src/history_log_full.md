@@ -17119,7 +17119,7 @@ Assault Division: Cyborgs U9A deploys to *Marfark* (2026-07-08 15:02  UTC)<br/>
 DSS effect ORBITAL BLOCKADE starts (2026-07-08 19:17  UTC)<br/>
 
 ### Day: #883
-Major Order | [A3-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-1) Celestial Fence-Procurement is lost | Objective: Hold (2026-07-09 11:12  UTC)<br/>
+Major Order | [A3-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-1) Celestial Fence-Procurement is failed | Objective: Hold (2026-07-09 11:12  UTC)<br/>
 Dispatch: MAJOR ORDER LOST The Helldivers were prevented from procuring all required resources on MOX and GENESIS PRIME. However, their successful defense of BRILLIANCE enabled construction of the TCS+ wall to proceed, albeit with budget-optimized, localized materials. (2026-07-09 11:12  UTC)<br/>
 Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Nivel 43* (2026-07-09 11:41  UTC)<br/>
 Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
@@ -17359,6 +17359,7 @@ DSS deploys to *Yed Prior* of the Tanis sector (2026-07-22 17:01  UTC)<br/>
 DSS deploys to *Heze Bay* of the Hanzo sector (2026-07-23 02:22  UTC)<br/>
  Decay: 0.0 on Yed Prior
  (2026-07-23 04:00  UTC)<br/>
+Major Order | [A3-7-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-5) LIGHTNING INTERCEPT-TRIANGULATION is won | Objective: Hold (2026-07-23 08:43  UTC)<br/>
 Dispatch: MAJOR ORDER WON. The Helldivers repelled the Automatons from YED PRIOR, and liberated the decryption team on WEZEN. The data recovered from the teams indicate that additional intel regarding the Automatons' next target may be found on *X-45*. (2026-07-23 08:45  UTC)<br/>
 *Choepessa IV* of the Trigon sector is attacked by Automatons (2026-07-23 08:50  UTC)<br/>
 *Choepessa IV* Region 2 YDINKESKUSTA MegaCity is besieged by Humans (2026-07-23 08:50  UTC)<br/>
@@ -17582,7 +17583,7 @@ Ursa sector is fully under Human control (2026-08-05 10:55  UTC)<br/>
 
 ### Day: #911
 *Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-08-06 20:48  UTC)<br/>
-Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is lost| Objective: Liberate (2026-08-06 22:03  UTC)<br/>
+Major Order | [A3-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-2) Strategic Threat - Secure *Erata Prime* is failed | Objective: Liberate (2026-08-06 22:03  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE FAILED. The Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists. (2026-08-06 22:03  UTC)<br/>
 Assault Division: Spore Burst Strain U1K deploys to *Hellmire* (2026-08-06 22:05  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Terminids (2026-08-06 22:10  UTC)<br/>
@@ -17652,6 +17653,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-08-10 05:01  UTC)<br/>
 *Wasat* Region 0 MIRAGE City is besieged by Human (2026-08-10 07:47  UTC)<br/>
 
 ### Day: #915
+RIRGA BAY Region 2 ZONE 3 City  is now present (2026-08-10 09:01  UTC)<br/>
 *Gatria* liberation campaign starts (2026-08-10 09:14  UTC)<br/>
 *Gatria* Region 0 ALTONBURG Settlement has fallen to Terminid (2026-08-10 09:14  UTC)<br/>
 *Gatria* Region 1 ERSATZ City is besieged by Human (2026-08-10 09:14  UTC)<br/>
@@ -17668,3 +17670,6 @@ DSS deploys to *Grand Errant* of the Farsight sector (2026-08-10 09:14  UTC)<br/
  Decay: 1.0 on Hellmire
  (2026-08-10 16:34  UTC)<br/>
 DSS deploys to *Gatria* of the Jin Xi sector (2026-08-10 16:35  UTC)<br/>
+ Decay: 1.5 on Grand Errant
+ (2026-08-10 18:00  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco sector (2026-08-10 20:18  UTC)<br/>
