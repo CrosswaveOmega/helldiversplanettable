@@ -16810,10 +16810,10 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
 Major Order | [A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER Hordes of Voteless abominations have been detected on planets close to the Void. They have swarmed across BASQUINE VIII and SANGIS, formerly untouched preserves. The Helldivers are ordered to liberate those planets from the Voteless hordes. (2026-06-16 09:02  UTC)<br/>
 Major Order |[A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is failed | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
+Assault Division: MINDLESS MASSES UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
+Assault Division: MINDLESS MASSES UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
 *Karlia* Region 0 ADNAN City is besieged by Illuminate (2026-06-16 09:10  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) UA2 deploys to *Karlia* (2026-06-16 09:10  UTC)<br/>
+Assault Division: MINDLESS MASSES UA2 deploys to *Karlia* (2026-06-16 09:10  UTC)<br/>
 *Karlia* of the Omega sector is attacked by Illuminates (2026-06-16 09:10  UTC)<br/>
 *Alaraph* Region 0 PERMACURIS City is besieged by Illuminate (2026-06-16 09:11  UTC)<br/>
 *Alaraph* Region 1 HANGAR 6 City has fallen to Illuminate (2026-06-16 09:11  UTC)<br/>
@@ -17121,23 +17121,23 @@ DSS effect ORBITAL BLOCKADE starts (2026-07-08 19:17  UTC)<br/>
 ### Day: #883
 Major Order | [A3-7-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-1) Celestial Fence-Procurement is failed | Objective: Hold (2026-07-09 11:12  UTC)<br/>
 Dispatch: MAJOR ORDER LOST The Helldivers were prevented from procuring all required resources on MOX and GENESIS PRIME. However, their successful defense of BRILLIANCE enabled construction of the TCS+ wall to proceed, albeit with budget-optimized, localized materials. (2026-07-09 11:12  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Nivel 43* (2026-07-09 11:41  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A leaves *Nivel 43* (2026-07-09 11:43  UTC)<br/>
+Assault Division: DRAGONROACHES U1A deploys to *Nivel 43* (2026-07-09 11:41  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
+Assault Division: DRAGONROACHES U1A deploys to *Zagon Prime* (2026-07-09 11:43  UTC)<br/>
+Assault Division: DRAGONROACHES U1A leaves *Nivel 43* (2026-07-09 11:43  UTC)<br/>
 *Sangis* urgent liberation is failed (2026-07-09 12:12  UTC)<br/>
 *Sangis* liberation campaign ends (2026-07-09 12:12  UTC)<br/>
 *Sangis* is enveloped by the Void (2026-07-09 12:12  UTC)<br/>
 *Sangis* is now unobservable due to the Void (2026-07-09 12:12  UTC)<br/>
 Dispatch: CATASTROPHIC ANOMALY: PLANET CONSUMED. The Category 3 Exostorm on SANGIS has surpassed all known theoretical parameters. In an unprecedented cosmological event, the tempest has completely collapsed the planetary mass into an expanding expanse of the Void. High Command confirms: SANGIS has been entirely consumed and erased from the galactic map. Fortify all adjacent sectors with utmost urgency. (2026-07-09 12:14  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1A leaves *Zagon Prime* (2026-07-09 12:17  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A leaves *Zagon Prime* (2026-07-09 12:18  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
+Assault Division: Spore Burst Strain U1A leaves *Zagon Prime* (2026-07-09 12:17  UTC)<br/>
+Assault Division: DRAGONROACHES U1A leaves *Zagon Prime* (2026-07-09 12:18  UTC)<br/>
+Assault Division: DRAGONROACHES U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Nivel 43* (2026-07-09 12:20  UTC)<br/>
+Assault Division: DRAGONROACHES U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
+Assault Division: Spore Burst Strain U1A leaves *Nivel 43* (2026-07-09 13:48  UTC)<br/>
+Assault Division: DRAGONROACHES U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Erata Prime* (2026-07-09 13:50  UTC)<br/>
 *Erata Prime* of the Umlaut sector is attacked by Terminids (2026-07-09 13:50  UTC)<br/>
 *Erata Prime* Region 0 NEW DA NANG Town is besieged by Terminid (2026-07-09 13:50  UTC)<br/>
 *Erata Prime* Region 1 PHAM'S SITE Settlement has fallen to Terminid (2026-07-09 13:50  UTC)<br/>
@@ -17677,7 +17677,7 @@ DSS deploys to *Fori Prime* of the Draco sector (2026-08-10 20:18  UTC)<br/>
 *Crimsica* liberation campaign starts (2026-08-10 22:09  UTC)<br/>
 *Crimsica* Region 0 LIL'OME Settlement is besieged by Human (2026-08-10 22:09  UTC)<br/>
 *Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Human (2026-08-10 22:10  UTC)<br/>
-Dispatch:MINOR TERMINID OUTBREAK. A minor Terminid outbreak has occured on CRIMSICA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak. (2026-08-10 22:10  UTC)<br/>
+Dispatch: MINOR TERMINID OUTBREAK. A minor Terminid outbreak has occured[sic] on CRIMSICA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak. (2026-08-10 22:10  UTC)<br/>
  Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
  (2026-08-11 00:00  UTC)<br/>
  Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
@@ -17696,3 +17696,40 @@ Dispatch: Campaign Won. The TCS+ is complete. On an unbroken line of planets, Te
 *Crimsica* is liberated (2026-08-11 13:41  UTC)<br/>
 DSS deploys to *Matar Bay* of the Andromeda sector (2026-08-11 13:41  UTC)<br/>
 Draco sector is fully under Human control (2026-08-11 13:41  UTC)<br/>
+NOTIFICATION: ALL ASSAULT DIVISION PLACEMENTS ARE REORGANIZED AT THIS TIME (2026-08-11 15:35  UTC)<br/>
+ Decay: 1.5 on Crimsica
+ (2026-08-11 15:35  UTC)<br/>
+Assault Division: HIVE LORDS U1B deploys to *Omicron* (2026-08-11 15:49  UTC)<br/>
+Assault Division: DRAGONROACHES U1B deploys to *Omicron* (2026-08-11 15:49  UTC)<br/>
+Assault Division: Spore Burst Strain U1C deploys to *Turing* (2026-08-11 15:49  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Esker* (2026-08-11 15:49  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1A deploys to *Sulfura* (2026-08-11 15:49  UTC)<br/>
+Assault Division: Spore Burst Strain U1D deploys to *Hellmire* (2026-08-11 15:49  UTC)<br/>
+Assault Division: CYBORGS U1D deploys to *Mintoria* (2026-08-11 15:49  UTC)<br/>
+Assault Division: RUPTURE STRAIN U1A deploys to *Oshaune* (2026-08-11 15:49  UTC)<br/>
+Assault Division: DRAGONROACHES U1A deploys to *Oshaune* (2026-08-11 15:49  UTC)<br/>
+Assault Division: HIVE LORDS U1A deploys to *Oshaune* (2026-08-11 15:49  UTC)<br/>
+Assault Division: THE INCINERATION CORPS U1A deploys to *Julheim* (2026-08-11 15:49  UTC)<br/>
+Assault Division: THE INCINERATION CORPS U1B deploys to *Fury* (2026-08-11 15:49  UTC)<br/>
+Assault Division: CYBORGS U1A deploys to *Cyberstan* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1A deploys to *Seasse* (2026-08-11 15:49  UTC)<br/>
+Assault Division: CYBORGS U1B deploys to *Zefia* (2026-08-11 15:49  UTC)<br/>
+Assault Division: THE INCINERATION CORPS U1C deploys to *Vindemitarix Prime* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1B deploys to *Keid* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1C deploys to *Ain-5* (2026-08-11 15:49  UTC)<br/>
+Assault Division: THE JET BRIGADE U1A deploys to *Vog-Sojoth* (2026-08-11 15:49  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1B deploys to *Azterra* (2026-08-11 15:49  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1C deploys to *Zygos* (2026-08-11 15:49  UTC)<br/>
+Assault Division: MINDLESS MASSES U1A deploys to *Hort* (2026-08-11 15:49  UTC)<br/>
+Assault Division: CYBORGS U1E deploys to *Meissa* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1D deploys to *Hydrobius* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1E deploys to *Senge 23* (2026-08-11 15:49  UTC)<br/>
+Assault Division: MINDLESS MASSES U1B deploys to *Basquine VIII* (2026-08-11 15:49  UTC)<br/>
+Assault Division: MINDLESS MASSES U1C deploys to *Karlia* (2026-08-11 15:49  UTC)<br/>
+Assault Division: MINDLESS MASSES U1D deploys to *Alaraph* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1F deploys to *Sangis* (2026-08-11 15:49  UTC)<br/>
+Assault Division: Spore Burst Strain U1B deploys to *Crimsica* (2026-08-11 15:49  UTC)<br/>
+Assault Division: CYBORGS U1C deploys to *Marfark* (2026-08-11 15:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1G deploys to *Heze Bay* (2026-08-11 15:49  UTC)<br/>
+Assault Division: MINDLESS MASSES U1E deploys to *Siemnot* (2026-08-11 15:49  UTC)<br/>
+Assault Division: Spore Burst Strain U1E deploys to *Pherkad Secundus* (2026-08-11 15:49  UTC)<br/>

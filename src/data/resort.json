@@ -44625,6 +44625,16 @@
       {
          "r": 1.3888888,
          "eind": 10339
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "76": [
@@ -68803,6 +68813,15 @@
          "eind": 10729
       },
       {
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 10730
+      },
+      {
          "pl": 17000,
          "eind": 10731
       },
@@ -68823,10 +68842,6 @@
          "dss": "DSS Here",
          "desc": [
             {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
-            {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
@@ -68845,10 +68860,6 @@
          "pl": 36700,
          "dss": "",
          "desc": [
-            {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
             {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
@@ -69024,10 +69035,6 @@
          "dss": "DSS Here",
          "desc": [
             {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
-            {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             },
@@ -69046,10 +69053,6 @@
          "dss": "",
          "desc": [
             {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
-            {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
@@ -69060,10 +69063,6 @@
          "pl": 16600,
          "dss": "DSS Here",
          "desc": [
-            {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
             {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
@@ -69125,10 +69124,6 @@
          "pl": 1300,
          "dss": "",
          "desc": [
-            {
-               "name": "SPORE BURST STRAIN",
-               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-            },
             {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
@@ -69593,6 +69588,21 @@
       {
          "r": 6.9444447,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "25": [
@@ -70458,6 +70468,16 @@
       {
          "r": 1.3888888,
          "eind": 10339
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "26": [
@@ -85148,6 +85168,30 @@
       {
          "pl": "<10",
          "eind": 11092
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "OUTPOST ALPHA",
+               "desc": "The first manned site established in Gloom-infested space."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "OUTPOST ALPHA",
+               "desc": "The first manned site established in Gloom-infested space."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "211": [
@@ -97837,6 +97881,10 @@
       {
          "pl": 300,
          "eind": 11103
+      },
+      {
+         "pl": 800,
+         "eind": 11104
       }
    ],
    "212": [
@@ -105497,6 +105545,24 @@
       {
          "r": 13.888889,
          "eind": 10339
+      },
+      {
+         "adiv": "HiveLord",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "258": [
@@ -186666,6 +186732,24 @@
             }
          ],
          "eind": 11047
+      },
+      {
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "Xenoentomology Center",
+               "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "168": [
@@ -210435,6 +210519,16 @@
       {
          "pl": 100,
          "eind": 11103
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11104
       }
    ],
    "270": [
@@ -217748,6 +217842,20 @@
       {
          "pl": "<10",
          "eind": 10450
+      },
+      {
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "122": [
@@ -239302,6 +239410,10 @@
       {
          "pl": 200,
          "eind": 11103
+      },
+      {
+         "pl": 700,
+         "eind": 11104
       }
    ],
    "78": [
@@ -268571,6 +268683,34 @@
             }
          },
          "eind": 11103
+      },
+      {
+         "hp": 1500000,
+         "pl": 600,
+         "r": 4.1666665,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "pl": 500,
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "169": [
@@ -293832,6 +293972,10 @@
       {
          "pl": 300,
          "eind": 11103
+      },
+      {
+         "pl": 400,
+         "eind": 11104
       }
    ],
    "104": [
@@ -301162,6 +301306,21 @@
       {
          "r": 5.5555553,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "112": [
@@ -374380,6 +374539,10 @@
       {
          "pl": 700,
          "eind": 11103
+      },
+      {
+         "pl": 600,
+         "eind": 11105
       }
    ],
    "202": [
@@ -375691,6 +375854,11 @@
       {
          "r": 9.722222,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
       }
    ],
    "205": [
@@ -379142,6 +379310,16 @@
       {
          "r": 19.444445,
          "eind": 10339
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "260": [
@@ -389550,6 +389728,20 @@
       {
          "r": 277.77777,
          "eind": 10339
+      },
+      {
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "115": [
@@ -458288,6 +458480,10 @@
       {
          "pl": "<10",
          "eind": 11072
+      },
+      {
+         "desc": [],
+         "eind": 11104
       }
    ],
    "171": [
@@ -476628,6 +476824,14 @@
       {
          "pl": 500,
          "eind": 11103
+      },
+      {
+         "pl": 700,
+         "eind": 11104
+      },
+      {
+         "pl": 800,
+         "eind": 11105
       }
    ],
    "172": [
@@ -486214,6 +486418,10 @@
       {
          "pl": 200,
          "eind": 11103
+      },
+      {
+         "pl": 400,
+         "eind": 11104
       }
    ],
    "173": [
@@ -505193,6 +505401,54 @@
             }
          },
          "eind": 11103
+      },
+      {
+         "hp": 1496775,
+         "pl": 7300,
+         "adiv": "",
+         "desc": [],
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 318683
+            }
+         },
+         "eind": 11104
+      },
+      {
+         "hp": 1496388,
+         "pl": 7000,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 318314
+            }
+         },
+         "eind": 11105
       }
    ],
    "214": [
@@ -523181,6 +523437,14 @@
       {
          "pl": 700,
          "eind": 11103
+      },
+      {
+         "pl": 1500,
+         "eind": 11104
+      },
+      {
+         "pl": 1400,
+         "eind": 11105
       }
    ],
    "217": [
@@ -543088,6 +543352,66 @@
       {
          "pl": 5000,
          "eind": 11103
+      },
+      {
+         "pl": 15200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 596244
+            }
+         },
+         "eind": 11104
+      },
+      {
+         "pl": 15300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 595114
+            }
+         },
+         "eind": 11105
       }
    ],
    "268": [
@@ -583923,6 +584247,21 @@
       {
          "pl": "<10",
          "eind": 10927
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "199": [
@@ -603237,6 +603576,10 @@
             }
          },
          "eind": 11103
+      },
+      {
+         "pl": 800,
+         "eind": 11105
       }
    ],
    "200": [
@@ -615028,6 +615371,49 @@
             }
          ],
          "eind": 11103
+      },
+      {
+         "pl": 9600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 394171
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11104
+      },
+      {
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 392481
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11105
       }
    ],
    "158": [
@@ -656639,6 +657025,11 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
       }
    ],
    "266": [
@@ -670218,6 +670609,26 @@
       {
          "pl": 900,
          "eind": 11103
+      },
+      {
+         "pl": 1700,
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "DragonRoach",
+         "desc": [
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "201": [
@@ -673812,6 +674223,30 @@
       {
          "pl": 100,
          "eind": 11103
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "245": [
@@ -676109,6 +676544,15 @@
          "hp": 958077,
          "pl": 600,
          "eind": 11103
+      },
+      {
+         "hp": 936660,
+         "pl": 700,
+         "eind": 11104
+      },
+      {
+         "hp": 933979,
+         "eind": 11105
       }
    ],
    "246": [
@@ -704283,6 +704727,16 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "161": [
@@ -737252,6 +737706,11 @@
       {
          "pl": "<10",
          "eind": 10948
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
       }
    ],
    "251": [
@@ -742235,6 +742694,21 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "6": [
@@ -774099,6 +774573,10 @@
       {
          "pl": "<10",
          "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11104
       }
    ],
    "91": [
@@ -778705,6 +779183,10 @@
             }
          },
          "eind": 11103
+      },
+      {
+         "pl": 300,
+         "eind": 11104
       }
    ],
    "94": [
@@ -782248,6 +782730,10 @@
       {
          "pl": "<10",
          "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11104
       }
    ],
    "95": [
@@ -807842,6 +808328,10 @@
       {
          "pl": 500,
          "eind": 11103
+      },
+      {
+         "pl": 300,
+         "eind": 11104
       }
    ],
    "218": [
@@ -814320,6 +814810,31 @@
       {
          "pl": 300,
          "eind": 11103
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "pl": 200,
+         "adiv": "SporeBurstStrain",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "219": [
@@ -820157,6 +820672,21 @@
       {
          "pl": "<10",
          "eind": 10698
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "141": [
@@ -823803,6 +824333,30 @@
       {
          "pl": "<10",
          "eind": 10844
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "184": [
@@ -828870,6 +829424,30 @@
       {
          "t": 65,
          "eind": 10528
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "185": [
@@ -830688,6 +831266,21 @@
       {
          "pl": "<10",
          "eind": 11020
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "227": [
@@ -831606,6 +832199,30 @@
       {
          "r": 22.222221,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "228": [
@@ -833067,6 +833684,30 @@
             }
          ],
          "eind": 10407
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "229": [
@@ -834048,6 +834689,8 @@
       {
          "hp": 1688407,
          "pl": 300,
+         "adiv": "",
+         "desc": [],
          "eind": 10593
       },
       {
@@ -834063,10 +834706,6 @@
          "hp": 1736706,
          "adiv": "MechTeam",
          "desc": [
-            {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -834243,10 +834882,6 @@
          "exo": 1,
          "desc": [
             {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
-            {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             },
@@ -834268,10 +834903,6 @@
       {
          "dss": "DSS Here",
          "desc": [
-            {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -834316,10 +834947,6 @@
          "dss": "",
          "desc": [
             {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
-            {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             },
@@ -834354,10 +834981,6 @@
          "pl": 3700,
          "dss": "DSS Here",
          "desc": [
-            {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -834410,10 +835033,6 @@
          "exo": 2,
          "desc": [
             {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
-            {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             },
@@ -834436,10 +835055,6 @@
          "pl": 4300,
          "dss": "",
          "desc": [
-            {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -834491,10 +835106,6 @@
          "pl": 1000,
          "exo": 3,
          "desc": [
-            {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -834576,10 +835187,6 @@
          "exo": 4,
          "desc": [
             {
-               "name": "MINDLESS MASSES",
-               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-            },
-            {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             },
@@ -834597,6 +835204,30 @@
       {
          "pl": "<10",
          "eind": 10736
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "18": [
@@ -901727,6 +902358,49 @@
             }
          },
          "eind": 11103
+      },
+      {
+         "pl": 600,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "ULTRAMAFIC MINE",
+               "desc": "A mine extracting platinum from deep-seated deposits of igneous rock."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "ULTRAMAFIC MINE",
+               "desc": "A mine extracting platinum from deep-seated deposits of igneous rock."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99989
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11105
       }
    ],
    "252": [
@@ -911464,6 +912138,16 @@
       {
          "r": 2.7777777,
          "eind": 10339
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "109": [
@@ -979748,6 +980432,11 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
       }
    ],
    "133": [
@@ -986485,6 +987174,10 @@
       {
          "pl": "<10",
          "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11104
       }
    ],
    "137": [
@@ -987381,6 +988074,21 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "138": [
@@ -1001378,6 +1002086,14 @@
       {
          "pl": "<10",
          "eind": 11098
+      },
+      {
+         "pl": 100,
+         "eind": 11104
+      },
+      {
+         "pl": "<10",
+         "eind": 11105
       }
    ],
    "182": [
@@ -1006023,6 +1006739,30 @@
       {
          "pl": "<10",
          "eind": 10959
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "177": [
@@ -1008999,6 +1009739,11 @@
       {
          "pl": "<10",
          "eind": 11096
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
       }
    ],
    "183": [
@@ -1013777,6 +1014522,30 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "CLASS 3 EXOSTORM",
+               "desc": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+            }
+         ],
+         "eind": 11104
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "CLASS 3 EXOSTORM",
+               "desc": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+            },
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "224": [
@@ -1015894,6 +1016663,10 @@
       {
          "pl": 100,
          "eind": 11103
+      },
+      {
+         "pl": 200,
+         "eind": 11104
       }
    ],
    "225": [
@@ -1019224,6 +1019997,16 @@
       {
          "pl": "<10",
          "eind": 10589
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "193": [
@@ -1022698,6 +1023481,22 @@
       {
          "pl": 1700,
          "eind": 11103
+      },
+      {
+         "pl": 2300,
+         "adiv": "",
+         "desc": [],
+         "eind": 11104
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11105
       }
    ],
    "232": [
