@@ -70,7 +70,11 @@
         "name": "warhistoryapilaunch",
         "matchable": ["monitoring satellites are launched"]
     },
-
+    "makealias": {
+        "name": "makealias",
+        "matchable": ["is renamed to"],
+        "mode": "and"
+    },
     "NewLinkEvent": {
         "name": "newlink",
         "matchable": ["is added", "warp link"],
