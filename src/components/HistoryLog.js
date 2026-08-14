@@ -662,8 +662,9 @@ export function makeplot(
                 y: (p) => y_c(p.position.y),
                 r: width / 100,
                 src: (p) => {
+                    console.log(p.name, p.biome);
                     return planetimages[
-                        "planet_" + p.biome + "_rotate.gif"
+                        "planet_" + p.biome + "_rotate.png"
                     ].base64_image;
                 },
             }) :

@@ -282,6 +282,7 @@ def extract_biome_change_details(
         slug = "moor_baseplanet"
         for i, v in biomes.items():
             if new_biome in v["name"] and new_type in v["name"]:
+                print(slug)
                 slug = i
 
         return planet, sector, orig_biome, orig_type, new_biome, new_type, slug
