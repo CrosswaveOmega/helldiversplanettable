@@ -825,7 +825,7 @@ export function makeplotcurrent(
     //let planets=current_event.galaxystate;
     let galaxy_time = current_event.eind;
 
-    //console.log(planetimages);
+    console.log(planetimages);
     //console.log(slider, galaxy_time);
 
     let galaxystate = {}; //gstates.states[String(galaxy_time)];
@@ -904,7 +904,7 @@ export function makeplotcurrent(
                 width: (p) => planet_size(p, big, small),
                 height: (p) => planet_size(p, big, small),
                 src: (p) => {
-                    //console.log(p.biome);
+                    console.log(p.biome);
                     return planetimages[
                         "" + p.biome + ".webp"
                     ].base64_image;

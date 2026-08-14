@@ -42,6 +42,7 @@ const atarget = FileAttachment("./data/libtargets/aTarget.svg").url();
 
 planets.forEach((planet) => {
   const key = Object.keys(planetimages).find(k => k === planet.image);
+  console.log(planetimages);
   if (key) {
     planet.image = planetimages[key].base64_image;
   }
