@@ -281,8 +281,8 @@ def extract_biome_change_details(
         new_type = match.group("new_type").strip()
         slug = "moor_baseplanet"
         for i, v in biomes.items():
-            if new_biome in v["name"] and new_type in v["name"]:
-                print(slug)
+            if new_biome in v["name"]:# and new_type in v["name"]:
+                print(slug,i)
                 slug = i
 
         return planet, sector, orig_biome, orig_type, new_biome, new_type, slug
