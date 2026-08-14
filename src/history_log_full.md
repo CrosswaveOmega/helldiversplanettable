@@ -17778,7 +17778,7 @@ Assault Division: HEAVY SEAF PRESENCE U1A deploys to *Rirga Bay* (2026-08-12 12:
  (2026-08-12 12:03  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Rirga Bay* (2026-08-12 12:04  UTC)<br/>
 Major Order | [A3-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-5) Major Order - Defend *Rirga Bay* and complete operations on *Omicron* is issued | Objective: Hold and Operations (2026-08-12 12:04  UTC)<br/>
-NEW MAJOR ORDER To breach the Void, engineering corps are finalizing a Void Warp Relay on *Rirga Bay*. However, initial calibration tests have allowed an onslaught of horrific Illuminate creations to spill out from the gateway, threatening construction. Helldivers must hold *Rirga Bay*, stop the spread of these grotesque mutations, and collect critical E-711 to fuel the relay and facilitate upcoming SEAF deployments into the unknown.FORCE AUGMENTATION High Command has authorized auxiliary SEAF infantry to deploy alongside Helldivers on *Rirga Bay*. SEAF detachments will deploy to ongoing Helldiver missions as available to augment firepower and draw enemy aggression. SEAF troops report ecstatic morale at this opportunity to witness Helldiver lethality firsthand. (2026-08-12 12:04  UTC)<br/>
+Dispatch: FORCE AUGMENTATION High Command has authorized auxiliary SEAF infantry to deploy alongside Helldivers on *Rirga Bay*. SEAF detachments will deploy to ongoing Helldiver missions as available to augment firepower and draw enemy aggression. SEAF troops report ecstatic morale at this opportunity to witness Helldiver lethality firsthand. (2026-08-12 12:04  UTC)<br/>
 Dispatch: INTELLIGENCE BRIEF In a desperate bid to halt our progress on *Rirga Bay*, the enemy has launched an offensive from the Void, deploying grotesque, previously unseen biological weapons designated as Vote Snatchers. These Democratically-voided thralls are highly dangerous and possess zero perceivable humanity. Helldivers must neutralize them immediately to secure the Warp Relay perimeter. (2026-08-12 12:04  UTC)<br/>
 DSS deploys to *Siemnot* of the Xi Tauri sector (2026-08-12 12:19  UTC)<br/>
 *Rirga Bay* Region 0 BLIGHTSMURK Town has fallen to Illuminate (2026-08-12 14:03  UTC)<br/>
@@ -17830,3 +17830,31 @@ Assault Division: MINDLESS MASSES U1A leaves *Hort* (2026-08-14 05:57  UTC)<br/>
 *Hydrobius Voidling* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius Voidling* moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius Voidling* of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
+*Hydrobius Voidling* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*Senge 23 Voidling* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP BETA* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP ALPHA Voidling* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP DELTA* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP GAMMA* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+Major Order | [A3-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-6) Major Order - VOID PIERCER ADVANCEMENT is issued | Objective: Operations, Samples, Eliminate (2026-08-14 11:59  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Helldivers are to enter the Void immediately. Here, conventional navigational arrays are non-functional. To aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void source planet, Helldivers must extract 35,000,000 samples from *UVP ALPHA*, complete 1,000,000 operations on *UVP GAMMA*, and eliminate 1,250,000,000 hostiles on SENGE 23. (2026-08-14 11:59  UTC)<br/>
+*Rirga Bay* is established as a VOID GATEWAY POI (2026-08-14 12:00  UTC)<br/>
+ Decay: -1.0 on Void sector
+ (2026-08-14 12:00  UTC)<br/>
+*UVP ALPHA Voidling* liberation campaign starts (2026-08-14 12:01  UTC)<br/>
+*UVP GAMMA* liberation campaign starts (2026-08-14 12:01  UTC)<br/>
+*Senge 23 Voidling* liberation campaign starts (2026-08-14 12:01  UTC)<br/>
+Dispatch: INTELLIGENCE BRIEF Intel confirms deployment of two new Illuminate biological weapons. The Wretch is a feral skirmisher. Sever its bladed appendages; cranial trauma has no effect. The Crusher absorbs ballistics via unpatriotic tissue regeneration. Concentrate fire on its control helmet to expose a lethal vulnerability. Attempting to reason with these mutations is both highly treasonous and instantly fatal. Righteous eradication is a mandated act of mercy. (2026-08-14 13:37  UTC)<br/>
+ Decay: 1.0 on Void sector
+ (2026-08-14 13:37  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY Data indicates the exteriors of the Void is barricaded with highly intense cosmic radiation field. In order to avoid molecular disintegration, or worse, Helldivers are advised to utilize the Warp Relay on the gateway planet of RIRGA BAY to enter the Void. This is a perfectly safe and mandatory process for destroyer and crew. (2026-08-14 15:04  UTC)<br/>
+DSS deploys to *Hesoe Prime* of the Rigel sector (2026-08-14 16:20  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1A leaves *Rirga Bay* (2026-08-14 19:11  UTC)<br/>
+*Rirga Bay* effect was removed: Heavy SEAF Presence-Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions. (2026-08-14 19:11  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1E deploys to *Senge 23 Voidling* (2026-08-14 19:12  UTC)<br/>
+*Senge 23 Voidling* has a new effect: Heavy SEAF Presence-Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions. (2026-08-14 19:12  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1B leaves *Hesoe Prime* (2026-08-14 19:12  UTC)<br/>
+*Hesoe Prime* effect was removed: Heavy SEAF Presence-Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions. (2026-08-14 19:12  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1F deploys to *Rirga Bay* (2026-08-14 19:13  UTC)<br/>
+*Rirga Bay* has a new effect: Heavy SEAF Presence-Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions. (2026-08-14 19:13  UTC)<br/>
+DSS deploys to *UVP GAMMA* of the Unknown sector (2026-08-14 20:20  UTC)<br/>
