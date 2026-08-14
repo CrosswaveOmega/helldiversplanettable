@@ -9391,7 +9391,7 @@ Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-
 
 ### Day: #477
 *Fort Union* of the Orion sector is attacked by Lvl 6 Terminids (2025-05-29 09:00  UTC)<br/>
-Strategic Opportunity | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
+Minor Order | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is issued | Objective: Defend (2025-05-29 09:02  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on *Fort Union* has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (2025-05-29 09:03  UTC)<br/>
  Decay: 0.0 on Fort Union
  (2025-05-29 10:00  UTC)<br/>
@@ -9401,7 +9401,7 @@ NOTE: This dispatch was initially sent as “during the fall of Prosperity City,
  Region Decay: -4.68 on Super Earth's Prosperity City region<br/> Region Decay: -2.88 on Super Earth's Equality-on-Sea region
  (2025-05-29 21:57  UTC)<br/>
 *Fort Union* defense is won (2025-05-29 22:02  UTC)<br/>
-Strategic Opportunity | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is won | Objective: Defend (2025-05-29 22:02  UTC)<br/>
+Minor Order | [A2-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-5-7) Defend *Fort Union* Satellites is won | Objective: Defend (2025-05-29 22:02  UTC)<br/>
 Dispatch: MALWARE TRANSMITTED. Satellites on FORT UNION have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result. The unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment. (2025-05-29 22:24  UTC)<br/>
  Decay: 1.5 on Fort Union
  (2025-05-29 22:24  UTC)<br/>
@@ -10366,7 +10366,7 @@ DSS deploys to *Julheim* of the Nanos sector (2025-07-16 07:45  UTC)<br/>
  (2025-07-16 07:45  UTC)<br/>
  Region Decay: 0.4 on Oasis's RESPITE region
  (2025-07-16 07:45  UTC)<br/>
-Strategic Opportunity | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Defend *Oasis* is issued | Objective: Control (2025-07-16 07:59  UTC)<br/>
+Minor Order | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Defend *Oasis* is issued | Objective: Control (2025-07-16 07:59  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet. If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (2025-07-16 08:00  UTC)<br/>
  Decay: 1.5 on Claorell
  (2025-07-16 08:00  UTC)<br/>
@@ -10391,7 +10391,7 @@ DSS deploys to *Oasis* of the Rictus sector (2025-07-16 08:53  UTC)<br/>
 *Tarsh* Region 1 Freedom's Torch Settlement is besieged by Humans (2025-07-17 07:56  UTC)<br/>
  Decay: 1.0 on Oasis
  (2025-07-17 07:56  UTC)<br/>
-Strategic Opportunity | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Defend *Oasis* is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
+Minor Order | [A2-7-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-7-4) Defend *Oasis* is failed | Objective: Control (2025-07-17 07:58  UTC)<br/>
 Dispatch: OASIS FALLEN. OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (2025-07-17 08:03  UTC)<br/>
 *Gaellivare* of the Talus sector is attacked by Lvl 40 Automatons (2025-07-17 08:10  UTC)<br/>
 *Gaellivare* Region 1 Malmberget Megacity is besieged by Humans (2025-07-17 08:10  UTC)<br/>
@@ -10747,7 +10747,7 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized the fleetwide use of
  Decay: 1.5 on Duma Tyr
  (2025-08-07 09:00  UTC)<br/>
 DSS effect Eagle Storm is activated (2025-08-07 09:03  UTC)<br/>
-Strategic Opportunity | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is issued | Objective: Liberate (2025-08-07 11:07  UTC)<br/>
+Minor Order | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is issued | Objective: Liberate (2025-08-07 11:07  UTC)<br/>
  Decay: 2.5 on Charbal-VII
  (2025-08-07 11:07  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Intercepted Automaton messages have identified a secure database on CHARBAL-VII. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements. (2025-08-07 11:09  UTC)<br/>
@@ -10769,7 +10769,7 @@ Assault Division: Spore Burst Strain U1J merges with Assault Division: Spore Bur
 DSS effect Orbital Blockade is activated (2025-08-08 11:16  UTC)<br/>
 
 ### Day: #549
-Strategic Opportunity | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
+Minor Order | [A2-8-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-2) *Charbal-VII* Database is failed | Objective: Liberate (2025-08-09 11:08  UTC)<br/>
 Dispatch: AUTOMATON SECURE DATA MOVED. The Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence. (2025-08-09 11:12  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-08-09 11:19  UTC)<br/>
 DSS deploys to *Julheim* of the Nanos sector (2025-08-09 13:15  UTC)<br/>
@@ -10811,7 +10811,7 @@ Assault Division: Spore Burst Strain U1H merges with Assault Division: Spore Bur
 ### Day: #553
 Dispatch: NEW MAJOR ORDER. The *Super Earth* Government has authorized the construction of Tyranny Park 2, a massive recreational and education facility showcasing the most dire threats posed to Managed Democracy. Helldiver aid is needed for this important endeavor. Consult your Galactic Map for more information. (2025-08-13 09:02  UTC)<br/>
 DSS effect Heavy Ordnance Distribution stops (2025-08-13 09:38  UTC)<br/>
-Strategic Opportunity | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
+Minor Order | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is issued | Objective: Liberate (2025-08-13 13:01  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The Helldivers are ordered to liberate CRIMSICA in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information. (2025-08-13 13:01  UTC)<br/>
 DSS deploys to *Bore Rock* of the Falstaff sector (2025-08-13 13:19  UTC)<br/>
 DSS deploys to *Crimsica* of the Draco sector (2025-08-13 17:18  UTC)<br/>
@@ -10844,7 +10844,7 @@ Assault Division: Spore Burst Strain U1B leaves *Overgoe Prime* (2025-08-15 12:1
 *Crimsica* is liberated (2025-08-15 13:27  UTC)<br/>
 ↳ *Estanu* liberation campaign starts (2025-08-15 13:27  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2025-08-15 13:27  UTC)<br/>
-Strategic Opportunity | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is won | Objective: Liberate (2025-08-15 13:27  UTC)<br/>
+Minor Order | [A2-8-4](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-4) *Crimsica* E-710 Farm Construction is won | Objective: Liberate (2025-08-15 13:27  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. CRIMSICA has been liberated from the Terminids. Construction on a new and much more secure E-710 farm has already begun, along with a fleet of new Super Destroyers. Once complete, this fleet expansion will mean that more Helldivers can spread Managed Democracy simultaneously. The strongest fighting force in the Galaxy will soon be even stronger. (2025-08-15 13:29  UTC)<br/>
 Minor Order | [A2-8-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-8-5) Tyranny Park Expansion is issued | Objective: Eradicate (2025-08-15 14:11  UTC)<br/>
 Dispatch: TYRANNY PARK 2 EXPANSION ANNOUNCED. The first expansion for Tyranny Park 2 is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows. Helldivers: neutralize 50,000,000 Predator Strain and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae. Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (2025-08-15 14:15  UTC)<br/>
@@ -11856,7 +11856,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-18 00:06  UTC)<br/>
  (2025-09-18 02:00  UTC)<br/>
 DSS deploys to *Zefia* of the Tanis sector (2025-09-18 05:49  UTC)<br/>
 Dispatch: CLASA LIBERATED. CLASA has been liberated. The Helldivers are one step closer to liberating MINTORIA. (2025-09-18 06:18  UTC)<br/>
-Strategic Opportunity | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is issued | Objective: Liberate (2025-09-18 08:08  UTC)<br/>
+Minor Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is issued | Objective: Liberate (2025-09-18 08:08  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The jolly workhands of our weapons manufacturers are eager to help strike back at the Gloom. However, no currently available materiel can be spared to facilitate their proposed increase in productivity. Valyria 5 is home to the original Emancipator Exosuit factory. Underground storage bunkers on the planet may still contain Exosuit parts. The surface of *Choepessa IV* remains bestrewn with exploded and unexploded ordnance from the first Galactic War, which could be repurposed into Orbital munitions. The Helldivers are ordered to liberate one of these two planets, in order to secure materials for our indefatigable working heroes' extracurricular initiative. (2025-09-18 08:08  UTC)<br/>
 
 ### Day: #589
@@ -11900,7 +11900,7 @@ NOTE: The defense campaign was accidentally set to expire in 22 years instead of
  (2025-09-21 00:00  UTC)<br/>
 *Choepessa IV* Region 2 Ydinkeskusta Megacity is besieged by Humans (2025-09-21 02:29  UTC)<br/>
 DSS deploys to *Hellmire* of the Mirin sector (2025-09-21 05:51  UTC)<br/>
-Strategic Opportunity | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
+Minor Order | [A2-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-5) Liberate *Varylia 5* or *Choepessa IV* is failed | Objective: Liberate (2025-09-21 08:08  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (2025-09-21 08:17  UTC)<br/>
 
 ### Day: #592
@@ -11987,7 +11987,7 @@ DSS deploys to *Seyshel Beach* of the Cancri sector (2025-09-25 23:56  UTC)<br/>
 DSS deploys to *Alaraph* of the Akira sector (2025-09-26 05:54  UTC)<br/>
 
 ### Day: #597
-Strategic Opportunity | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
+Minor Order | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is issued | Objective: Liberate (2025-09-26 10:05  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on VARYLIA 5, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands' Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on OASIS make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (2025-09-26 10:05  UTC)<br/>
 *Choepessa IV* Region 1 Kalasatama City is besieged by Humans (2025-09-26 12:18  UTC)<br/>
 *Alaraph* is liberated (2025-09-27 05:42  UTC)<br/>
@@ -12009,7 +12009,7 @@ DSS deploys to *Hydrobius* of the Omega sector (2025-09-27 09:54  UTC)<br/>
 *Hydrobius* Region 0 Generatorsville City has fallen to Humans (2025-09-28 00:41  UTC)<br/>
 
 ### Day: #599
-Strategic Opportunity | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
+Minor Order | [A2-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A2-9-7) Liberate *Varylia 5* or *Oasis* is failed | Objective: Liberate (2025-09-28 10:05  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the Jolly Weapons Workhands' Extracurricular Initiative. Weapons production will proceed according to schedule, without beneficial increases in scope. (2025-09-28 10:12  UTC)<br/>
 Dispatch: MERIDIA RE-OPENED FOR OBSERVATION. The *Meridia*n Singularity has been re-opened for patriotic observation. All Helldivers are authorized to visit the former planet to contemplate the immense loss inflicted upon our society by the enemies of Freedom, and the imperative for merciless Justice thereby implied. (2025-09-28 14:56  UTC)<br/>
 *Hellmire* of the Mirin sector is attacked by Lvl 11 Terminids (2025-09-28 17:58  UTC)<br/>
@@ -12866,7 +12866,7 @@ DSS deploys to *Yed Prior* of the Tanis sector (2025-11-08 10:46  UTC)<br/>
  (2025-11-08 14:29  UTC)<br/>
  Region Decay: 0.2 on Zea Rugosia's NEW COB region<br/> Region Decay: 0.1 on Zea Rugosia's GENE region<br/> Region Decay: 0.4 on Zea Rugosia's STARPASS region
  (2025-11-08 14:29  UTC)<br/>
-Strategic Opportunity | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is issued | Objective: Liberate (2025-11-08 15:22  UTC)<br/>
+Minor Order | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is issued | Objective: Liberate (2025-11-08 15:22  UTC)<br/>
  Decay: 1.5 on Hydrobius
  (2025-11-08 15:22  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The last remaining rainforests on *Super Earth* were a tragic casualty of the Illuminate invasion. The Ministry of Prosperity has launched a restoration operation, to preserve and conserve the natural beauty of the galaxy. The native flora of BARABOS is similar to those of the lost rainforests. The Helldivers are ordered to liberate BARABOS from the enemy, so its plant life can be carefully uprooted and re-planted on *Super Earth*. (2025-11-08 16:34  UTC)<br/>
@@ -12880,7 +12880,7 @@ Dispatch: NEW STRATEGIC OPPORTUNITY. The last remaining rainforests on *Super Ea
 DSS deploys to *Barabos* of the Marspira sector (2025-11-08 22:46  UTC)<br/>
 DSS effect Orbital Blockade is activated (2025-11-08 23:11  UTC)<br/>
 *Barabos* is liberated (2025-11-09 05:28  UTC)<br/>
-Strategic Opportunity | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is won | Objective: Liberate (2025-11-09 05:28  UTC)<br/>
+Minor Order | [A2-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-3) Liberate *Barabos* is won | Objective: Liberate (2025-11-09 05:28  UTC)<br/>
 DSS deploys to *Karlia* of the Omega sector (2025-11-09 05:28  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. BARABOS has been liberated. Ministry of Prosperity conservationists are hard at work uprooting cultivars and plant material to re-seed one *Super Earth*'s destroyed rainforests. Soon, *Super Earth*'s natural beauty will be restored, thanks to the ecological protection efforts of the Helldivers. (2025-11-09 06:10  UTC)<br/>
  Decay: 1.5 on Barabos
@@ -12979,7 +12979,7 @@ DSS deploys to *Lesath* of the Lacaille sector (2025-11-14 14:50  UTC)<br/>
 DSS deploys to *Mastia* of the Marspira sector (2025-11-14 22:50  UTC)<br/>
 *Lesath* Region 1 Morskie Oko Town is besieged by Humans (2025-11-15 02:01  UTC)<br/>
 *Lesath* Region 0 Serenity Summit Town is besieged by Humans (2025-11-15 06:31  UTC)<br/>
-Strategic Opportunity | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is issued | Objective: Eradicate (2025-11-15 07:22  UTC)<br/>
+Minor Order | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is issued | Objective: Eradicate (2025-11-15 07:22  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Citizen fear is high following the CCSS report of dissidents lurking among us. Loyal citizens deserve to live in safety. While dissidents lurk in the shadows, The Voteless are out in the open, where they may be easily targeted by military weaponry. Kill 5,000,000 Voteless with the Orbital Laser Stratagem, and show loyal citizens and dissidents alike the fate of those who stray from Liberty's Light. (2025-11-15 07:28  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 72 hours. (2025-11-15 07:30  UTC)<br/>
 *Tarsh* Region 2 Fearless Hollow Settlement has fallen to Humans (2025-11-15 08:39  UTC)<br/>
@@ -13019,7 +13019,7 @@ DSS deploys to *Alamak VII* of the Hanzo sector (2025-11-16 07:18  UTC)<br/>
 ### Day: #648
  Region Decay: 0.4 on Polaris Prime's VILHELMINA DOROTHEA FREDRIKA region<br/> Region Decay: 0.2 on Polaris Prime's MOGO PLAINS region<br/> Region Decay: 0.4 on Polaris Prime's KALASATAMA PORT region
  (2025-11-16 09:00  UTC)<br/>
-Strategic Opportunity | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is won | Objective: Eradicate (2025-11-16 11:01  UTC)<br/>
+Minor Order | [A2-11-5](https://helldivers.wiki.gg/wiki/Major_Orders#A2-11-5) Kill 5,000,000 Voteless With Orbital Lasers is won | Objective: Eradicate (2025-11-16 11:01  UTC)<br/>
  Decay: 0.0 on Polaris Prime
  (2025-11-16 11:01  UTC)<br/>
 Dispatch: The LAS-98 Laser Cannon stratagem is temporarily available to all Helldivers. (2025-11-16 11:06  UTC)<br/>
@@ -13348,7 +13348,7 @@ DSS deploys to *Afoyay Bay* of the Gallux sector (2025-12-01 15:03  UTC)<br/>
 DSS effect Orbital Blockade stops (2025-12-02 03:53  UTC)<br/>
 
 ### Day: #664
-Strategic Opportunity | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is issued | Objective: Liberate (2025-12-02 12:20  UTC)<br/>
+Minor Order | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is issued | Objective: Liberate (2025-12-02 12:20  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Extremely-high-confidence intel indicates the presence of dissidents hiding from justice in the jungles of Terminid-infested PHERKAD SECUNDUS. The Helldivers are ordered to liberate PHERKAD SECUNDUS, to flush out the hidden dissidents and enable their apprehension. (2025-12-02 12:20  UTC)<br/>
 *East Iridium Trading Bay* of the Tarragon sector is attacked by Lvl 10 Illuminate (2025-12-02 16:09  UTC)<br/>
 *Afoyay Bay* is liberated (2025-12-02 16:11  UTC)<br/>
@@ -13374,7 +13374,7 @@ DSS effect Heavy Ordnance Distribution is activated (2025-12-03 07:57  UTC)<br/>
 *East Iridium Trading Bay* defense is won (2025-12-03 12:19  UTC)<br/>
 ↳ Tarragon sector is fully under Human control (2025-12-03 12:19  UTC)<br/>
 DSS deploys to *Pherkad Secundus* of the Farsight sector (2025-12-03 12:19  UTC)<br/>
-Strategic Opportunity | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is failed | Objective: Liberate (2025-12-03 12:19  UTC)<br/>
+Minor Order | [A2-12-1](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-1) Liberate *Pherkad Secundus* is failed | Objective: Liberate (2025-12-03 12:19  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST. The Hellidvers have failed to liberate PHERKAD SECUNDUS. No trace of the dissidents was found; still they elude Justice, hiding amongst the Terminids with whom they no doubt sympathize. (2025-12-03 12:22  UTC)<br/>
  Decay: 1.5 on East Iridium Trading Bay
  (2025-12-03 14:00  UTC)<br/>
@@ -14563,7 +14563,7 @@ DSS deploys to *Cyberstan* of the Valdis sector (2026-02-11 22:21  UTC)<br/>
 ### Day: #736
 
 ### Day: #736
-Strategic Opportunity | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is issued | Objective: Eradicate (2026-02-12 12:32  UTC)<br/>
+Minor Order | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is issued | Objective: Eradicate (2026-02-12 12:32  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. To augment ongoing operations on *Cyberstan*, the Ministry of Defense has authorized the procurement of inert Terminid eggs, for sale as high-value patriotic curios to Class-A citizens. Helldivers: Cull Chargers, Impalers, and Bile Titans to allow xenozoologists to retrieve their eggs. Success will fund new fasttrack Helldiver training, resulting in addtional fleetwide reinforcements, and immediate use of the experimental INCENDIARY GATLING BARRAGE Stratagem. (2026-02-12 12:32  UTC)<br/>
 Dispatch: SEAF GROUND INVASION SITREP. 3rd Army has advanced past the 18th parallel in the western hemisphere. 68th Air Assault Division has taken heavy casualties; 23rd to reinforce. Heavy shelling on East front slowing advance. (2026-02-12 13:04  UTC)<br/>
 Dispatch: TACTICAL ADVISORY. Average Helldiver time-to-expiration has dropped sharply on *Cyberstan* operations. This is causing Reinforcements to decrease rapidly. To prevent this, High Command recommends that Helldivers avoid expiration for as long as possible. (2026-02-12 14:03  UTC)<br/>
@@ -14575,7 +14575,7 @@ Dispatch: AUTONOMY DESTROYED. AUTONOMY has been wiped off the surface of *Cybers
  Region Decay: 5.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 3.0 on Cyberstan's SOLIDARITET region<br/> Region Decay: 5.0 on Cyberstan's LURZA region
  (2026-02-12 23:23  UTC)<br/>
 DSS effect Eagle Storm is activated (2026-02-13 01:36  UTC)<br/>
-Strategic Opportunity | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is failed | Objective: Eradicate (2026-02-13 05:06  UTC)<br/>
+Minor Order | [A3-2-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-5) Kill Terminid Heavies is failed | Objective: Eradicate (2026-02-13 05:06  UTC)<br/>
 NOTE: This major order is confirmed to have been cheated by hackers to send in false kill count data. They also attempt during this time to send in data for [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4). No medals are given out and it is reissued with modified objectives (2026-02-13 05:06  UTC)<br/>
 The Second Galactic War is paused (2026-02-13 05:06  UTC)<br/>
 NOTE: This is the sixth time in history that the Second Galactic War has been ‘paused'. All planet hps, timers, defense timers, etc are static and no longer actively progressing. Later the same day at 10:07am, the war begins again. The incident lasted 5 hours and 1 minute (2026-02-13 05:06  UTC)<br/>
@@ -14583,7 +14583,7 @@ NOTE: This is the sixth time in history that the Second Galactic War has been �
 ### Day: #737
 The Second Galactic War is no longer paused (2026-02-13 10:07  UTC)<br/>
 NOTE: At this time the major order [A3-2-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-4) goes offline. 2 minutes later it goes back online with the objective changed from extracting from missions to finishing operations. This is due to the previously mentioned reasons in the last note. This change is retroactively applied to the formatting as well (2026-02-13 10:07  UTC)<br/>
-Strategic Opportunity | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is issued | Objective: Eradicate/Operation (2026-02-13 10:27  UTC)<br/>
+Minor Order | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is issued | Objective: Eradicate/Operation (2026-02-13 10:27  UTC)<br/>
 Dispatch: OPERATIONAL ADVISORY. Falsified mission data has been traced to dissidents corrupted by Automaton lies. The offenders have been volunteered to beta-test Permacura's Bio-Safety Protocols. This exemplifies the magnanimity of *Super Earth*: even the disloyal may find redemption by contributing to scientific progress. To ensure fleetwide integrity, Helldivers must now complete Full Operations to progress the Major Order. Proceed with your orders. Defection will not be tolerated. (2026-02-13 10:40  UTC)<br/>
 Dispatch: SEAF GROUND INVASION SITREP. 14th Marine Assault Division has established lodgement on Subcontinent Echo. Helldiver operations on AUTONOMY effected Automaton withdrawal, relieving 23rd Air Assault Division. 77th Mobile Infantry in retreat following Cyborg-led counteroffensive. (2026-02-13 14:37  UTC)<br/>
  Region Decay: 4.0 on Cyberstan's OMNIPARITUS region<br/> Region Decay: 7.0 on Cyberstan's URSOOT NINE region<br/> Region Decay: 4.0 on Cyberstan's LURZA region
@@ -14593,7 +14593,7 @@ Dispatch: STRATEGIC ADVISORY. SEAF infantry have launched a distraction offensiv
  Region Decay: 2.5 on Cyberstan's OMNIPARITUS region
  (2026-02-13 22:00  UTC)<br/>
 DSS effect Eagle Storm stops (2026-02-14 01:37  UTC)<br/>
-Strategic Opportunity | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is won | Objective: Eradicate/Operation (2026-02-14 03:01  UTC)<br/>
+Minor Order | [A3-2-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-6) Kill Terminid Heavies And Complete Operations is won | Objective: Eradicate/Operation (2026-02-14 03:01  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. The culling is complete. Recovery teams have secured millions of Titan-class eggs, which are currently being shipped to *Super Earth*'s most generous patriots. The vast majority of the recovered eggs are confirmed inert, and all sales are final. Proceeds have funded authorization of the INCENDIARY GATLING BARRAGE Stratagem for 24 hours, and an innovative fast-track training program for new Helldiver recruits, conferring 70,000,000 reinforcements—both for immediate deployment. (2026-02-14 03:01  UTC)<br/>
 DSS effect Heavy Ordnance Distribution is activated (2026-02-14 07:59  UTC)<br/>
 Dispatch: OMNIPARITUS DEFENSES DISRUPTED. SEAF 4th Army has seized an Automaton ammunition cache in vicinity of OMNIPARITUS. Helldiver deployments to OMNIPARITUS will no longer have reduced ammunition. (2026-02-14 08:35  UTC)<br/>
@@ -14614,7 +14614,7 @@ Dispatch: OMNIPARITUS 50% LIBERATED. Friendly forces now control roughly 50% of 
 NOTE: This dispatch is later retracted at 09:47am same day (2026-02-15 09:12  UTC)<br/>
 DSS deploys to *Fort Justice* (2026-02-15 09:13  UTC)<br/>
 Dispatch: DSS SENT FOR REINFORCEMENTS. The Helldivers have voted to send the DSS to FORT JUSTICE to secure 35,000,000 additional reinforcements. The DSS will be offline for the next 12 hours. (2026-02-15 09:50  UTC)<br/>
-Strategic Opportunity | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is issued | Objective: Operation (2026-02-15 13:27  UTC)<br/>
+Minor Order | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is issued | Objective: Operation (2026-02-15 13:27  UTC)<br/>
 Dispatch: NEW STRATEGIC IMPERATIVE. Intel predicts with a high degree of confidence that the Illuminate are planning an attack, to take advantage of the ongoing campaign to liberate *Cyberstan*. The time and target are unknown. However, facilities of abducted civilians have been identified on KERTH SECUNDUS. Intel indicates the Illuminate intend to convert these citizens into Voteless hostiles for the purpose of this attack. Conduct operations on KERTH SECUNDUS in order to allow the capture of Illuminate prisoners. These enemy combatants will be subjected to Improved Questioning Techniques, to acquire actionable intelligence on the impending assault. The *Cyberstan* front is in dire need of additional reinforcements. Rescuing these captives will augment the Reinforcement Allocation for Operation VALID PRETEXT. (2026-02-15 13:27  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. OMNIPARITUS has been cut off from its supply lines, which have been redirected to STAR KIELD, in a desperate bid to reject Liberty's light. STAR KIELD is currently operating on emergency power reserves; its defenses are temporaily compromised. Helldivers are ordered to put the Megafactory out of its misery immediately. (2026-02-15 17:40  UTC)<br/>
 NOTE: This dispatch is retracted immediately and then reissued five minutes later with the same warning but the mention of which megafactory is on reverse power is changed to Omniparitus (2026-02-15 17:40  UTC)<br/>
@@ -14623,7 +14623,7 @@ Dispatch: STRATEGIC ADVISORY.  OMNIPARITUS has been cut off from its supply line
  (2026-02-15 17:45  UTC)<br/>
 DSS deploys to *Cyberstan* (2026-02-15 21:16  UTC)<br/>
 Dispatch: REINFORCEMENTS RECEIVED. The DSS has returned from FORT JUSTICE with 35,000,000 reinforcements—this is reflected in the current total. The DSS has now returned to service. (2026-02-15 21:19  UTC)<br/>
-Strategic Opportunity | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is won | Objective: Operation (2026-02-16 00:10  UTC)<br/>
+Minor Order | [A3-2-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-7) Complete Operations on *Kerth Secundus* is won | Objective: Operation (2026-02-16 00:10  UTC)<br/>
 Dispatch: STRATEGIC IMPERATIVE SEIZED. Dozens of captured illuminate were subjected to Improved Questioning Techniques. However, no actionable intelligence on an impending Illuminate attack was acquired. The combatants have since expired due to constitutional weakness. This effort was not a waste. High Command has authorized the temporary use of the experimental SMOKE-ENHANCED WALKING BARRAGE Stratagem, to further evidence the non-wasteful nature of this effort. In addition, millions of rescued captives have immediately been enlisted into the Armed Forces and are now undergoing rapid military training for short-order deployment to *Cyberstan*. The Reinforcement Allocation has been increased by 35,000,000. (2026-02-16 00:10  UTC)<br/>
 *Cyberstan* Region 3 Omniparitus Megafactory Size 2 has fallen to Humans (2026-02-16 00:22  UTC)<br/>
 Dispatch: OMNIPARITUS DESTROYED. OMNIPARITUS has been wiped off the surface of *Cyberstan*, following the repulsion of enemy forces by the valiant Helldiver assault. Forces may now advance upon two new targets: STAR KIELD and URSOOT NINE. (2026-02-16 00:23  UTC)<br/>
@@ -14809,7 +14809,7 @@ Assault Division: Hive Lords U3A divides into 2 groups [U3A, U3C] (2026-02-26 15
 Assault Division: Hive Lords U3C deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
 Assault Division: Rupture Strain U8A deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
 Assault Division: Dragonroaches U4A deploys to *Oshaune* (2026-02-26 15:59  UTC)<br/>
-Strategic Opportunity | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is issued | Objective: Control (2026-02-26 16:10  UTC)<br/>
+Minor Order | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is issued | Objective: Control (2026-02-26 16:10  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY. The Terminids are invading *Oshaune*, likely driven by undemocratic instinct. *Oshaune* was liberated at great cost to our citizens, and its potential re-infestation would risk it becoming a Hive World once again. Helldivers: defend *Oshaune* and in doing so, secure the planet's stockpile of the Warp Pack Stratagem for immediate fleet-wide availability. (2026-02-26 16:10  UTC)<br/>
 Look on my Works, ye Mighty, and despair! (2026-02-26 18:00  UTC)<br/>
  Decay: 0.0 on Oshaune
@@ -14895,7 +14895,7 @@ Assault Division: Cyborgs U1B leaves *Merga IV* (2026-03-01 14:15  UTC)<br/>
 Assault Division: Cyborgs U1B deploys to *Zosma* (2026-03-01 14:16  UTC)<br/>
 Assault Division: Cyborgs U1B leaves *Zosma* (2026-03-01 15:16  UTC)<br/>
 Assault Division: Cyborgs U1B deploys to *Zzaniah Prime* (2026-03-01 15:18  UTC)<br/>
-Strategic Opportunity | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is won | Objective: Control (2026-03-01 16:10  UTC)<br/>
+Minor Order | [A3-2-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-2-10) Defend *Oshaune* is won | Objective: Control (2026-03-01 16:10  UTC)<br/>
 Dispatch: STIM RATIONING. Class-A citizens affected by sudden domestic Terminid infestations are experiencing severe emotional distress and aesthetic trauma. To preserve their wellbeing, a proportion of top-of-the-line medical treatments are understandably being diverted to these high-density zones. Helldiver stim capacity is therefore temporarily reduced by 1 until further notice. (2026-03-01 16:12  UTC)<br/>
 NOTE: This dispatch is retracted 18 minutes later (2026-03-01 16:12  UTC)<br/>
 *Mintoria* of the Gellert sector is attacked by Lvl 35 Automatons (2026-03-01 16:36  UTC)<br/>
@@ -14969,7 +14969,7 @@ DSS deploys to *Herthon Secundus* of the Ferris sector (2026-03-04 20:49  UTC)<b
  (2026-03-06 08:00  UTC)<br/>
 
 ### Day: #758
-Strategic Opportunity | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is issued | Objective: Liberate (2026-03-06 15:51  UTC)<br/>
+Minor Order | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is issued | Objective: Liberate (2026-03-06 15:51  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. The AM Defense Factory Hub on *Achernar Secundus* has lain in ruins since the planet's invasion by the Terminids. This facility represents a significant capital investment by AM Defense, a trusted Tier-1 contracting partner. Liberating the planet will allow AM Defense to rebuild, restoring critical supply chains strained by recent peacekeeping operations. Recovery of this asset is a high priority for the Ministry of Prosperity. (2026-03-06 15:52  UTC)<br/>
 *Achernar Secundus* liberation campaign starts (2026-03-06 22:23  UTC)<br/>
 *Achernar Secundus* Region 2 Ol' Oldham City is besieged by Humans (2026-03-06 22:23  UTC)<br/>
@@ -15001,7 +15001,7 @@ DSS effect Orbital Blockade stops (2026-03-08 05:12  UTC)<br/>
 DSS effect Eagle Storm is activated (2026-03-08 21:05  UTC)<br/>
 *Achernar Secundus* Region 1 New Newtonville City has fallen to Humans (2026-03-08 23:34  UTC)<br/>
 *Achernar Secundus* is liberated (2026-03-09 00:27  UTC)<br/>
-Strategic Opportunity | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is won | Objective: Liberate (2026-03-09 00:27  UTC)<br/>
+Minor Order | [A3-3-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-2) Liberate *Achernar Secundus* is won | Objective: Liberate (2026-03-09 00:27  UTC)<br/>
 DSS deploys to *Zea Rugosia* of the Ferris sector (2026-03-09 00:27  UTC)<br/>
  Decay: 1.06 on Achernar Secundus
  (2026-03-09 00:27  UTC)<br/>
@@ -15183,7 +15183,7 @@ Assault Division: Cyborgs U1B deploys to *Zefia* (2026-03-21 20:15  UTC)<br/>
  Decay: 0.0 on Zefia
  (2026-03-21 20:15  UTC)<br/>
 *Zefia* of the Tanis sector is attacked by Lvl 12 Automatons (2026-03-21 20:16  UTC)<br/>
-Strategic Opportunity | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is issued | Objective: Defend (2026-03-21 20:18  UTC)<br/>
+Minor Order | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is issued | Objective: Defend (2026-03-21 20:18  UTC)<br/>
 Dispatch:  NEW STRATEGIC IMPERATIVE  Cyborg invasion forces have landed on the surface of ZEFIA. They seek to expand their empire and mar their surface with new Megafactories. The Cyborg threat cannot be allowed to grow unchecked. (2026-03-21 20:19  UTC)<br/>
 Assault Division: Dragonroaches U5A deploys to *Azur Secundus* (2026-03-21 20:40  UTC)<br/>
 Assault Division: Dragonroaches U5A leaves *Azur Secundus* (2026-03-21 21:40  UTC)<br/>
@@ -15220,6 +15220,7 @@ Dispatch: CRITICAL EXOSTORM ESCALATION  The Exostorm has reached Category 3: all
  (2026-03-22 17:33  UTC)<br/>
 *Zefia* defense is won (2026-03-22 18:30  UTC)<br/>
 DSS deploys to *Seasse* of the Omega sector (2026-03-22 18:30  UTC)<br/>
+Minor Order | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is won | Objective: Defend (2026-03-22 18:30  UTC)<br/>
  Decay: 1.0 on Zefia<br/> Decay: 1.5 on K
  (2026-03-22 18:30  UTC)<br/>
 Dispatch:  STRATEGIC IMPERATIVE SEIZED  The Cyborgs have been repelled from ZEFIA. Their territorial ambitions have been checked for the time being. (2026-03-22 18:32  UTC)<br/>
@@ -15300,7 +15301,7 @@ Assault Division: Mindless Masses U3A deploys to *Hydrobius* (2026-03-26 19:25  
 DSS effect EAGLE STORM ends (2026-03-27 04:22  UTC)<br/>
 
 ### Day: #779
-Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is issued | Objective: Liberate (2026-03-27 15:20  UTC)<br/>
+Minor Order | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is issued | Objective: Liberate (2026-03-27 15:20  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  Restoring the AM Defense Factory Hub on *Achernar Secundus* has resulted in an abundance of vehicle production.  To remove impediments from production lines, High Command authorizes free, fleetwide access to the Fast Recon Vehicle (FRV) Stratagem for all Helldivers on *Ursica XI*.   Helldivers: utilize this fortuitous bounty to liberate *Ursica XI* with virtuous velocity, and to provide combat telemetry required for forthcoming mobile R&D. (2026-03-27 15:20  UTC)<br/>
 *Ursica XI* is liberated (2026-03-28 01:09  UTC)<br/>
  Decay: -0.09 on Ursica XI
@@ -15318,7 +15319,7 @@ Assault Division: Mindless Masses U4A deploys to *Rirga Bay* (2026-03-28 10:30  
  (2026-03-28 10:30  UTC)<br/>
  Decay: 0.0 on Rirga Bay
  (2026-03-28 12:00  UTC)<br/>
-Strategic Opportunity | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is won | Objective: Liberate (2026-03-28 15:21  UTC)<br/>
+Minor Order | [A3-3-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-7) Liberate *Ursica XI* is won | Objective: Liberate (2026-03-28 15:21  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers have liberated *Ursica XI* and, in doing so, swiftly gathered an immense volume of combat telemetry, to catalyze R&D teams at AM Defense.   By analyzing high-speed logistical maneuvers and peak-thermal engagement data, engineers are finalizing specialized chassis intended to better support Helldivers.   Today's success has ensured that the light of Liberty and the flames of Justice shall travel further—and purge Tyranny faster—than ever before. (2026-03-28 15:21  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Hort* (2026-03-28 15:44  UTC)<br/>
 DSS deploys to *Rirga Bay* of the Rigel sector (2026-03-28 17:03  UTC)<br/>
@@ -15413,7 +15414,6 @@ Assault Division: Rupture Strain U9A deploys to *Gemma* (2026-04-01 11:05  UTC)<
 Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is issued | Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
 *Achird III* Region 1 APPROVAL CITY City is besieged by Terminid (2026-04-01 11:14  UTC)<br/>
 Dispatch:  NEW MAJOR ORDER   Terminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated.   Defend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. (2026-04-01 11:14  UTC)<br/>
-Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is won| Objective: Defend/Kill (2026-04-01 11:14  UTC)<br/>
  Decay: 0.0 on Gemma
  (2026-04-01 12:00  UTC)<br/>
 DSS deploys to *Acrux IX* of the Ursa sector (2026-04-01 17:05  UTC)<br/>
@@ -15472,7 +15472,7 @@ DSS deploys to *Acrab XI* of the Ursa sector (2026-04-02 22:42  UTC)<br/>
  Decay: 2.5 on Hesoe Prime
  (2026-04-03 09:00  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-04-03 09:06  UTC)<br/>
-Strategic Opportunity | [A3-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-2) Exfil from *Hesoe Prime* is issued | Objective: Extraction (2026-04-03 09:16  UTC)<br/>
+Minor Order | [A3-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-2) Exfil from *Hesoe Prime* is issued | Objective: Extraction (2026-04-03 09:16  UTC)<br/>
  Decay: 3.25 on Hesoe Prime
  (2026-04-03 09:16  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  The Ministry of Science needs intelligence on the Void in order to facilitate the development of technology to interdict the developing threat.   The Helldivers must contest Illuminate presence on designated planets, in order to allow research teams to gather data from sites of Illuminate ruins.  Successfully complete 2,000,000 missions on selected planets to gather intel. (2026-04-03 09:17  UTC)<br/>
@@ -15515,7 +15515,7 @@ Assault Division: Predator Strain U11A leaves *Phact Bay* (2026-04-05 15:15  UTC
 Assault Division: Dragonroaches U6A leaves *Phact Bay* (2026-04-05 15:15  UTC)<br/>
 Assault Division: Predator Strain U11A deploys to *Gar Haren* (2026-04-05 15:16  UTC)<br/>
 Assault Division: Dragonroaches U6A deploys to *Gar Haren* (2026-04-05 15:16  UTC)<br/>
-Strategic Opportunity | [A3-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-2) Exfil from *Hesoe Prime* is won | Objective: Extraction (2026-04-05 15:37  UTC)<br/>
+Minor Order | [A3-4-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-2) Exfil from *Hesoe Prime* is won | Objective: Extraction (2026-04-05 15:37  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The Helldivers successfully completed the missions on key planets. Strategic intel has been relayed to the Ministry of Science.   The intel gathered will be a vital component of the Illuminate's inevitable downfall, possible thanks to the sacrifices of the Helldivers. (2026-04-05 15:37  UTC)<br/>
 Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours. (2026-04-05 15:39  UTC)<br/>
 Assault Division: Predator Strain U11A leaves *Gar Haren* (2026-04-05 16:15  UTC)<br/>
@@ -15553,6 +15553,7 @@ Assault Division: Predator Strain U11A is routed from Acrux IX (2026-04-06 17:17
 DSS deploys to *Marfark* of the Andromeda sector (2026-04-07 02:39  UTC)<br/>
  Decay: 0.75 on Acrab XI
  (2026-04-07 02:39  UTC)<br/>
+Major Order | [A3-4-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-1) Defend 6 and Kill Terminids is won| Objective: Defend/Kill (2026-04-07 02:40  UTC)<br/>
 Dispatch:  MAJOR ORDER WON  The Terminid threat has been repelled from the Ursa sector. Rupture and Predator strains have been squashed in a strategic win for Democracy. (2026-04-07 02:40  UTC)<br/>
  Decay: 1.5 on Acrab XI
  (2026-04-07 04:00  UTC)<br/>
@@ -15616,7 +15617,7 @@ DSS effect ORBITAL BLOCKADE ends (2026-04-09 11:19  UTC)<br/>
  (2026-04-09 16:00  UTC)<br/>
 
 ### Day: #793
-Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is issued | Objective: Samples (2026-04-10 09:26  UTC)<br/>
+Minor Order | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is issued | Objective: Samples (2026-04-10 09:26  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  Recent Terminid attacks have underscored the imperative need for an effective chemical deterrent to Fascism. Efforts to create an improved Termicide are underway. High Command has ordered the reinforcement and resupply of the Xenoentomology Center on *Turing* to lead this effort.  The Helldivers are ordered to secure 15,000,000 Common Samples from OMICRON. Samples from a Terminid Hive World will be invaluable to this research project. (2026-04-10 09:26  UTC)<br/>
 *Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-04-10 11:12  UTC)<br/>
  Decay: 1.5 on Choepessa IV
@@ -15629,7 +15630,7 @@ DSS effect EAGLE STORM starts (2026-04-11 10:27  UTC)<br/>
 
 ### Day: #795
 DSS effect EAGLE STORM ends (2026-04-12 10:28  UTC)<br/>
-Strategic Opportunity | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is won | Objective: Samples (2026-04-12 18:52  UTC)<br/>
+Minor Order | [A3-4-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-4-4) Collect Common Samples from *Omicron* is won | Objective: Samples (2026-04-12 18:52  UTC)<br/>
 Dispatch:  STRATEGIC OPPORTUNITY SEIZED  The requisite number of samples were secured from *Omicron*, with minimal expenditure of personnel. Development of Termicide 2.0 is underway, with a focus on limiting unintentional genome modification. (2026-04-12 18:53  UTC)<br/>
 
 ### Day: #796
@@ -16104,7 +16105,6 @@ Assault Division: Cyborgs U1F deploys to *Menkent* (2026-05-08 17:34  UTC)<br/>
 Assault Division: Cyborgs U1F leaves  *Menkent* (2026-05-08 18:33  UTC)<br/>
 Assault Division: Cyborgs U1F deploys to *Vernen Wells* (2026-05-08 18:33  UTC)<br/>
 Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is issued | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
-Major Order | [A3-5-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-3) Collect Automaton Samples and Eradicate Cyborg Radicals is failed | Objective: Samples/Eradicate (2026-05-08 19:31  UTC)<br/>
 Dispatch:  NEW STRATEGIC OPPORTUNITY  High Command has authorized a mandatory requisition of squandered capital hoarded on Automaton-held planets.  Helldivers: secure 70,000,000 Automaton samples and neutralize 25,000,000 Cyborg Radicals.  Acquisition of these socialist assets will bolster cross-Ministry research and intel efforts, enable a new season of televised vivisectional audits, and will fund the immediate use of the Autocannon Stratagem. (2026-05-08 21:19  UTC)<br/>
 FRONTERIA defense is won (2026-05-09 02:39  UTC)<br/>
 DSS deploys to *Vernen Wells* of the Hydra sector (2026-05-09 02:39  UTC)<br/>
@@ -16809,7 +16809,6 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 08:26  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
 Major Order | [A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is issued | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER Hordes of Voteless abominations have been detected on planets close to the Void. They have swarmed across BASQUINE VIII and SANGIS, formerly untouched preserves. The Helldivers are ordered to liberate those planets from the Voteless hordes. (2026-06-16 09:02  UTC)<br/>
-Major Order |[A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is failed | Objective: Liberation (2026-06-16 09:02  UTC)<br/>
 Assault Division: MINDLESS MASSES UA3 deploys to Basquine VII (2026-06-16 09:10  UTC)<br/>
 Assault Division: MINDLESS MASSES UA4 deploys to *Sangis* (2026-06-16 09:10  UTC)<br/>
 *Karlia* Region 0 ADNAN City is besieged by Illuminate (2026-06-16 09:10  UTC)<br/>
@@ -16882,6 +16881,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-06-20 05:41  UTC)<br/>
  (2026-06-20 05:41  UTC)<br/>
 
 ### Day: #864
+Major Order |[A3-6-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-5) Census Thunder - Containment is failed | Objective: Liberation (2026-06-20 09:05  UTC)<br/>
 Dispatch: MAJOR ORDER FAILED. BASQUINE VIII is secure. However, the Helldivers were unable to secure SANGIS. Its vast, untouched forests have been severely impacted by the Voteless incursion, and may never recover. (2026-06-20 09:05  UTC)<br/>
 Major Order | [A3-6-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-6-6) Census Thunder - Material Acquisition is issued| Objective: Liberate/Samples (2026-06-20 10:03  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void. Deploy to Automaton-held BLISTICA to secure the enemy's bio-processors. Additionally, secure 15,000,000 samples from ALARAPH, currently overrun by Voteless. (2026-06-20 10:03  UTC)<br/>
@@ -17385,7 +17385,6 @@ Major Order | [A3-7-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-7) LIGH
 *Choepessa IV* Region 0 HILJAISUUS Town is besieged by Humans (2026-07-24 05:55  UTC)<br/>
 Major Order | [A3-7-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-8) Strategic Opportunity - Reconstruct Orbital Superweapon Intel is issued| Objective: Eliminate (2026-07-24 08:25  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Helldiver operations on CHOEPESSA IV have secured an intel cache that indicates planned testing parameters for the orbital superweapon are located on CHARON PRIME. In an attempt to prevent intel interception, the Automatons have distributed encrypted data fragments directly into the memory drives of planetside forces. To reconstruct the intel, Helldivers must terminate 100,000,000 Automatons and upload their internal drives for analysis. (2026-07-24 08:25  UTC)<br/>
-Major Order | [A3-7-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-8) Strategic Opportunity - Reconstruct Orbital Superweapon Intel is failed | Objective: Eliminate (2026-07-24 08:25  UTC)<br/>
 
 ### Day: #898
 DSS effect ORBITAL BLOCKADE starts (2026-07-24 11:24  UTC)<br/>
@@ -17416,6 +17415,7 @@ Dispatch: VOTING ENDS IN 12 HOURS. Voting to navigate the DSS to the next expect
 Dispatch: VOTING ENDS IN 6 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly. (2026-07-26 03:20  UTC)<br/>
 DSS deploys to *X-45* of the Ymir sector (2026-07-26 05:09  UTC)<br/>
 Dispatch: VOTING ENDS IN 3 HOURS. Voting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly. (2026-07-26 06:20  UTC)<br/>
+Major Order | [A3-7-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-8) Strategic Opportunity - Reconstruct Orbital Superweapon Intel is failed | Objective: Eliminate (2026-07-26 08:27  UTC)<br/>
 Dispatch: STRATEGIC OPPORTUNITY LOST The operational window has closed on CHARON PRIME. The local Automaton forces purged the superweapon data fragments before Helldivers could retrieve the complete package. (2026-07-26 08:27  UTC)<br/>
  Decay: 2.0 on X-45
  (2026-07-26 08:27  UTC)<br/>
@@ -17812,21 +17812,21 @@ Assault Division: Heavy SEAF Presence U1C deploys to *Hort* (2026-08-14 05:57  U
 Assault Division: MINDLESS MASSES U1A leaves *Hort* (2026-08-14 05:57  UTC)<br/>
 
 ### Day: #919
-*UVP GAMMA* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+*UVP GAMMA* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *UVP GAMMA* moves to X -0.349 Y -0.729 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP GAMMA* of the Unknown sector's biome is changed from Plains [Moor] to Bleak *Oasis* [Special] (2026-08-14 11:52  UTC)<br/>
-*UVP DELTA* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP GAMMA* of the Void sector's biome is changed from Plains [Moor] to Bleak *Oasis* [Special] (2026-08-14 11:52  UTC)<br/>
+*UVP DELTA* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *UVP DELTA* moves to X -0.427 Y -0.571 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP DELTA* of the Unknown sector's biome is changed from Plains [Moor] to Haunted Swamp [Moor] (2026-08-14 11:52  UTC)<br/>
-*UVP ALPHA Voidling* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP DELTA* of the Void sector's biome is changed from Plains [Moor] to Haunted Swamp [Moor] (2026-08-14 11:52  UTC)<br/>
+*UVP ALPHA Voidling* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *UVP ALPHA Voidling* moves to X -0.270 Y -0.778 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP ALPHA Voidling* of the Unknown sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
-*UVP BETA* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP ALPHA Voidling* of the Void sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
+*UVP BETA* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *UVP BETA* moves to X -0.468 Y -0.724 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP BETA* of the Unknown sector's biome is changed from Plains [Moor] to Deadlands [Primordial] (2026-08-14 11:52  UTC)<br/>
-*Senge 23 Voidling* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP BETA* of the Void sector's biome is changed from Plains [Moor] to Deadlands [Primordial] (2026-08-14 11:52  UTC)<br/>
+*Senge 23 Voidling* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *Senge 23 Voidling* moves to X -0.402 Y -0.793 (2026-08-14 11:52  UTC)<br/>
-↳ *Senge 23 Voidling* of the Unknown sector's biome is changed from Plains [Moor] to Rocky Canyons [Sandy] (2026-08-14 11:52  UTC)<br/>
-*Hydrobius Voidling* is now identified in the Unknown sector (2026-08-14 11:52  UTC)<br/>
+↳ *Senge 23 Voidling* of the Void sector's biome is changed from Plains [Moor] to Rocky Canyons [Sandy] (2026-08-14 11:52  UTC)<br/>
+*Hydrobius Voidling* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius Voidling* moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
-↳ *Hydrobius Voidling* of the Unknown sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
+↳ *Hydrobius Voidling* of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>

@@ -160158,7 +160158,7 @@
       },
       {
          "t": 32,
-         "biome": "moor_baseplanet",
+         "biome": "primordial_bug",
          "eind": 612
       },
       {
@@ -786817,7 +786817,7 @@
          "eind": 11145
       },
       {
-         "biome": "moor_baseplanet",
+         "biome": "oasis_bleak",
          "eind": 11146
       }
    ],
@@ -839523,6 +839523,7 @@
       {
          "t": 64,
          "link2": 0,
+         "biome": "primordial_dead",
          "position": {
             "x": -0.328,
             "y": -0.381
@@ -1030126,6 +1030127,7 @@
          "eind": 0
       },
       {
+         "biome": "oasis_bleak",
          "position": {
             "x": -0.349,
             "y": -0.729
@@ -1030155,6 +1030157,7 @@
          "eind": 0
       },
       {
+         "biome": "swamp_haunted",
          "position": {
             "x": -0.427,
             "y": -0.571
@@ -1030214,6 +1030217,7 @@
          "eind": 0
       },
       {
+         "biome": "primordial_dead",
          "position": {
             "x": -0.468,
             "y": -0.724
@@ -1030243,6 +1030247,7 @@
          "eind": 0
       },
       {
+         "biome": "sandy_mineral",
          "position": {
             "x": -0.402,
             "y": -0.793
@@ -1030272,6 +1030277,7 @@
          "eind": 0
       },
       {
+         "biome": "sandy_spiky",
          "position": {
             "x": -0.409,
             "y": -0.681
