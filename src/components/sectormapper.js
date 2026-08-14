@@ -175,6 +175,87 @@ function planet_size(p, s1, s2) {
     }
     return s2
 }
+function isSectorInWorld(subworld) {
+    // subworld always contains the synthetic "-expanded-bbox" feature,
+    // so "real" data means anything else is present.
+    return subworld.features.some(f => !f.properties.id.endsWith("-expanded-bbox"));
+}
+
+function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValuesMap, showImages) {
+    const n = planets.length;
+    const radius = n > 1 ? 300 : 0;
+    const size = 900;
+    const small = 48;
+    const big = 128;
+    // Lay planets on a circle since there's no real position data worth trusting spatially
+    const laidOut = planets.map((p, i) => {
+        const angle = (2 * Math.PI * i) / Math.max(n, 1) - Math.PI / 2;
+        return {
+            ...p,
+            _x: n > 1 ? radius * Math.cos(angle) : 0,
+            _y: n > 1 ? radius * Math.sin(angle) : 0,
+        };
+    });
+
+    return Plot.plot({
+        ariaLabel: sname,
+        width: size,
+        height: size,
+        aspectRatio: 1,
+        x: { domain: [-size / 2, size / 2], axis: null },
+        y: { domain: [-size / 2, size / 2], axis: null },
+        marks: [
+            // Dashed ring to visually signal "isolated / uncharted region", not a real map
+            Plot.dot([{ x: 0, y: 0 }], {
+                x: "x", y: "y", r: radius > 0 ? radius + 60 : 200,
+                fill: "none",
+                stroke: "#555",
+                strokeDasharray: "6,6",
+                strokeWidth: 2,
+            }),
+            Plot.link(
+                laidOut.flatMap((p) => [
+                    ...p.link.map((y) => ({ from: p, to: laidOut.find(q => q.id === y) })),
+                ]).filter(l => l.to),
+                {
+                    x1: (l) => l.from._x, y1: (l) => l.from._y,
+                    x2: (l) => l.to._x,   y2: (l) => l.to._y,
+                    stroke: "#CCCCCC",
+                    strokeWidth: 2,
+                }
+            ),
+            showImages
+                ? Plot.image(laidOut, {
+                    x: "_x", y: "_y",
+                    width: (p) => planet_size(p, big, small),
+                    height: (p) => planet_size(p, big, small),
+                    src: (p) => planetimages["" + p.biome + ".webp"].base64_image,
+                })
+                : Plot.dot(laidOut, {
+                    x: "_x", y: "_y", r: 5,
+                    fill: sectorValuesMap.get(sector),
+                }),
+            Plot.text(laidOut, {
+                x: "_x", y: "_y",
+                text: (p) => splitPlanetName(p.name),
+                dy: 32,
+                textAnchor: "bottom",
+                fill: "white",
+                stroke: "black",
+                fontSize: 20,
+                strokeWidth: 3,
+            }),
+            Plot.text([{ x: 0, y: -(radius + 90) }], {
+                x: "x", y: "y",
+                text: [sname ? `${sname} (isolated)` : "Isolated Sector"],
+                fill: "#FFD700",
+                fontSize: 18,
+                textAnchor: "middle",
+            }),
+        ],
+    });
+}
+
 
 export function makeplotcurrent_group(
     history,
@@ -383,6 +464,15 @@ export function makeplotcurrent_group(
     function createSubvariantWorldNeighbors(worldData, sector) {
         const sectors=getNeighbors();
         let mysectors= sectors[sector]?.['neighbors'];
+
+        if (!mysectors) {
+            return {
+                type: 'FeatureCollection',
+                features: []
+            };
+        }
+
+        console.log(mysectors);
         let main = mysectors.map(sector => sector.toLowerCase());
         return {
             type: 'FeatureCollection',
@@ -406,11 +496,18 @@ export function makeplotcurrent_group(
         console.log(sector, planets);
         let sname=sectordata[sector]?.['name'];
     
-        let {subworld,minX,minY,maxX,maxY} = createSubvariantWorld(world, sector);
+        let { subworld, minX, minY, maxX, maxY } = createSubvariantWorld(world, sector);
+        let neighbors = createSubvariantWorldNeighbors(world, sector);
+
+        const inWorld = isSectorInWorld(subworld);
+        const hasNeighbors = neighbors.features.length > 0;
+
+        if (!inWorld && !hasNeighbors) {
+            return makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValuesMap, showImages);
+        }
 
         const boundingBox = [minX-0.05, minY-0.05,maxX+0.05,maxY+0.05]; // Define the visible region
 
-        let neighbors = createSubvariantWorldNeighbors(world, sector);
         //console.log(subworld);
         let minx = Infinity, miny = Infinity, maxx = -Infinity, maxy = -Infinity;
         
@@ -432,7 +529,12 @@ export function makeplotcurrent_group(
         let newheight = sy * 2000;
     
         
+        if (!Number.isFinite(sx)) sx = 0;
+        if (!Number.isFinite(sy)) sy = 1;
+        if (!Number.isFinite(newwidth)) newwidth = 200;
+        if (!Number.isFinite(newheight)) newheight = 200;
 
+        console.log(subworld, sx, sy, newwidth, newheight);
         // Calculate adjusted positions for the neighbor labels
         const neighborLabels = neighbors.features.map(feature => {
             let name=sectordata[feature.properties.id]?.['name'];
