@@ -644,6 +644,8 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
     sectors = check_and_load_json("./src/data/gen_data/sectorplanets.json")
     for sector, listv in extraplanets.items():
         for p in listv:
+            if sector not in sectors:
+                sectors[sector]=[]
             sectors[sector].append(p)
     temp = {}
     for _, pls in sectors.items():
