@@ -605,6 +605,10 @@ const sectorneighbors={
             "Ursa"
         ],
         "name": "Farsight"
+    },
+    "void":{
+        "name":"Void",
+        "neighbors":[]
     }
 }
 
