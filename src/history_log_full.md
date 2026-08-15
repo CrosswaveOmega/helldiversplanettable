@@ -13432,6 +13432,9 @@ DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 *K* high priority campaign starts (2025-12-04 10:06  UTC)<br/>
 *Mox* high priority campaign ends (2025-12-04 10:07  UTC)<br/>
 *K* high priority campaign ends (2025-12-04 10:07  UTC)<br/>
+*Fury* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
+*Mox* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
+*K* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
 Major Order | [A2-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-2) Liberate 3 Magma Worlds is issued | Objective: Liberate (2025-12-04 10:10  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Helldiver operations have led to the discovery of Automaton operations on multiple Magma planets, previously outside of operational surveillance. These planets have been added to the Galactic Map. The Helldivers are ordered to deploy to these planets immediately. BICEP, ADRENAL 8, and TERRENE are the initial targets. Seize the Automaton industrial facilities so they may be turned towards Democratic Prosperity. (2025-12-04 10:10  UTC)<br/>
 NOTE: At 10:34am the dispatch and briefing were fixed to correctly reflect that the objective was *Fury*, *K*, and *Mox* respectively (2025-12-04 10:34  UTC)<br/>
@@ -15923,6 +15926,9 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 ↳ *Brilliance* moves to X 0.34 Y 0.323 (2026-04-28 12:01  UTC)<br/>
 *Big Rock* is now identified in the Sten sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Big Rock* moves to X 0.944 Y 0.099 (2026-04-28 12:01  UTC)<br/>
+*Brilliance* biome changed to Deciduous Forest (2026-04-28 12:01  UTC)<br/>
+*Luxuriant* biome changed to Deciduous Forest (2026-04-28 12:01  UTC)<br/>
+*Big Rock* biome changed to Desert *Oasis* (2026-04-28 12:01  UTC)<br/>
 *Luxuriant* of the Jin Xi sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
 *Brilliance* of the Orion sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
 *Big Rock* of the Sten sector instantly flips to Terminid control (2026-04-28 12:01  UTC)<br/>
@@ -17433,7 +17439,6 @@ DSS deploys to *X-45* of the Ymir sector (2026-07-26 16:07  UTC)<br/>
 DSS effect EAGLE STORM starts (2026-07-26 18:21  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Heze Bay* (2026-07-26 18:22  UTC)<br/>
 Dispatch: CRITICAL EXOSTORM ESCALATION The unnatural Exostorm on HEZE BAY has reached Category 3, now a chaotic, singular, planet-wide tempest of absolute atmospheric violence. Initial adverse spacetime fractures have been reported by the Ministry of Science as localized reality fields begin to fluctuate. Helldivers: you must defend HEZE BAY to nullify the Exostorm. Failure to do so would result in galactic catastrophe. (2026-07-26 18:23  UTC)<br/>
-*Wasat* Region 0 MIRAGE City has fallen to Automaton (2026-07-27 00:02  UTC)<br/>
 DSS deploys to *Mort* of the Xzar sector (2026-07-27 04:08  UTC)<br/>
 *X-45* is liberated (2026-07-27 05:20  UTC)<br/>
 *Meissa* liberation campaign starts (2026-07-27 05:20  UTC)<br/>
