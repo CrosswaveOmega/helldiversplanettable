@@ -181,14 +181,37 @@ function isSectorInWorld(subworld) {
     return subworld.features.some(f => !f.properties.id.endsWith("-expanded-bbox"));
 }
 
-function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValuesMap, showImages) {
+//generate a layout for the isolated planets based on their positions.
+function layoutIsolatedPlanets(planets, canvasSize = 900, padding = 140) {
+    const usable = canvasSize - padding * 2;
+
+    const xs = planets.map(p => p.position?.x).filter(v => typeof v === "number");
+    const ys = planets.map(p => p.position?.y).filter(v => typeof v === "number");
+
+    const hasRealSpread = xs.length === planets.length
+        && (Math.max(...xs) - Math.min(...xs) > 1e-6
+         || Math.max(...ys) - Math.min(...ys) > 1e-6);
+
+    if (hasRealSpread) {
+        const minX = Math.min(...xs), maxX = Math.max(...xs);
+        const minY = Math.min(...ys), maxY = Math.max(...ys);
+        const spanX = maxX - minX || 1;
+        const spanY = maxY - minY || 1;
+        const scale = usable / Math.max(spanX, spanY);
+        const cx = (minX + maxX) / 2;
+        const cy = (minY + maxY) / 2;
+
+        return planets.map(p => ({
+            ...p,
+            _x: x_c(p.position.x - cx) * scale,
+            _y: -y_c(p.position.y - cy) * scale,
+        }));
+    }
+
+    //  fallback if no usable position is to arrange on a ring instead
     const n = planets.length;
-    const radius = n > 1 ? 300 : 0;
-    const size = 900;
-    const small = 48;
-    const big = 128;
-    // Lay planets on a circle since there's no real position data worth trusting spatially
-    const laidOut = planets.map((p, i) => {
+    const radius = n > 1 ? usable / 2.5 : 0;
+    return planets.map((p, i) => {
         const angle = (2 * Math.PI * i) / Math.max(n, 1) - Math.PI / 2;
         return {
             ...p,
@@ -196,7 +219,17 @@ function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValu
             _y: n > 1 ? radius * Math.sin(angle) : 0,
         };
     });
+}
+function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValuesMap, showImages) {
+    const n = planets.length;
+    const radius = n > 1 ? 300 : 0;
+    const size = 900;
+    const small = 48;
+    const big = 128;
+    
+    console.log(planets)
 
+    const laidOut = layoutIsolatedPlanets(planets, size);
     return Plot.plot({
         ariaLabel: sname,
         width: size,
@@ -205,7 +238,7 @@ function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValu
         x: { domain: [-size / 2, size / 2], axis: null },
         y: { domain: [-size / 2, size / 2], axis: null },
         marks: [
-            // Dashed ring to visually signal "isolated / uncharted region", not a real map
+            // just a dashed ring
             Plot.dot([{ x: 0, y: 0 }], {
                 x: "x", y: "y", r: radius > 0 ? radius + 60 : 200,
                 fill: "none",
@@ -534,7 +567,6 @@ export function makeplotcurrent_group(
         if (!Number.isFinite(newwidth)) newwidth = 200;
         if (!Number.isFinite(newheight)) newheight = 200;
 
-        console.log(subworld, sx, sy, newwidth, newheight);
         // Calculate adjusted positions for the neighbor labels
         const neighborLabels = neighbors.features.map(feature => {
             let name=sectordata[feature.properties.id]?.['name'];
@@ -544,7 +576,7 @@ export function makeplotcurrent_group(
 
             const neighborCentroid = d3.polygonCentroid(feature.geometry.coordinates[0]);
             let canvasBasedSize = canvasBasedEstimator(name, 20)
-            console.log(canvasBasedSize);
+
             const w=canvasBasedSize[0];
             const h=canvasBasedSize[1];
             
