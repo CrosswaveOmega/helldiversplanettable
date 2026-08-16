@@ -10220,8 +10220,8 @@
             ]
         },
         "274": {
-            "name": "UVP ALPHA",
-            "sector": "Void",
+            "name": "UVP ALPHA (Unused)",
+            "sector": "TBD",
             "biome": "deciduous_crimson",
             "environmentals": [
                 "none"
@@ -10248,7 +10248,7 @@
             ]
         },
         "275": {
-            "name": "UVP GAMMA",
+            "name": "UVP Gamma - Void",
             "sector": "Void",
             "biome": "oasis_bleak",
             "environmentals": [
@@ -10279,6 +10279,7 @@
         "276": {
             "name": "VOID SOURCE PLANET",
             "sector": "Void",
+            "alias": "Anomalous Location",
             "biome": "rift_active",
             "environmentals": [
                 "none"
@@ -10293,7 +10294,7 @@
             ]
         },
         "277": {
-            "name": "UVP DELTA",
+            "name": "UVP Delta - Void",
             "sector": "Void",
             "biome": "swamp_haunted",
             "environmentals": [
@@ -10322,7 +10323,7 @@
             ]
         },
         "278": {
-            "name": "UVP ALPHA Voidling",
+            "name": "UVP Alpha - Void",
             "sector": "Void",
             "biome": "deciduous_crimson",
             "environmentals": [
@@ -10350,7 +10351,7 @@
             ]
         },
         "279": {
-            "name": "UVP BETA",
+            "name": "UVP Beta - Void",
             "sector": "Void",
             "biome": "primordial_dead",
             "environmentals": [
@@ -10378,7 +10379,7 @@
             ]
         },
         "280": {
-            "name": "Senge 23 Voidling",
+            "name": "Senge 23 - Void",
             "sector": "Void",
             "biome": "sandy_mineral",
             "environmentals": [
@@ -10406,7 +10407,7 @@
             ]
         },
         "281": {
-            "name": "Hydrobius Voidling",
+            "name": "Hydrobius - Void",
             "sector": "Void",
             "biome": "sandy_spiky",
             "environmentals": [

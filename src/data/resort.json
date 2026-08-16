@@ -19288,7 +19288,7 @@
          "eind": 5878
       },
       {
-         "link2": 236,
+         "link2": 237,
          "eind": 6155
       },
       {
@@ -25151,7 +25151,7 @@
          "eind": 6152
       },
       {
-         "link2": 237,
+         "link2": 238,
          "eind": 6155
       },
       {
@@ -25585,7 +25585,7 @@
       },
       {
          "hp": 1800000,
-         "link2": 264,
+         "link2": 265,
          "eind": 7537
       },
       {
@@ -28240,7 +28240,7 @@
          "eind": 95
       },
       {
-         "link2": 185,
+         "link2": 186,
          "eind": 1000
       },
       {
@@ -28248,7 +28248,7 @@
          "eind": 1077
       },
       {
-         "link2": 185,
+         "link2": 186,
          "eind": 2074
       },
       {
@@ -28407,7 +28407,7 @@
          "eind": 1077
       },
       {
-         "link2": 202,
+         "link2": 203,
          "eind": 2074
       },
       {
@@ -32235,7 +32235,7 @@
          "eind": 95
       },
       {
-         "link2": 203,
+         "link2": 204,
          "eind": 2074
       },
       {
@@ -40890,7 +40890,7 @@
          "eind": 95
       },
       {
-         "link2": 179,
+         "link2": 180,
          "eind": 654
       },
       {
@@ -40967,7 +40967,7 @@
          "eind": 5700
       },
       {
-         "link2": 227,
+         "link2": 228,
          "eind": 5702
       },
       {
@@ -42127,7 +42127,7 @@
          "eind": 9356
       },
       {
-         "link2": 326,
+         "link2": 327,
          "eind": 10018
       },
       {
@@ -42179,7 +42179,7 @@
          "eind": 1077
       },
       {
-         "link2": 213,
+         "link2": 214,
          "eind": 2809
       },
       {
@@ -53436,7 +53436,7 @@
       },
       {
          "pl": 600,
-         "link2": 327,
+         "link2": 328,
          "eind": 10018
       },
       {
@@ -58081,7 +58081,7 @@
          "eind": 2706
       },
       {
-         "link2": 175,
+         "link2": 176,
          "eind": 4096
       },
       {
@@ -66199,7 +66199,7 @@
          "eind": 311
       },
       {
-         "link2": 175,
+         "link2": 176,
          "eind": 612
       },
       {
@@ -67269,7 +67269,7 @@
          "eind": 2798
       },
       {
-         "link2": 214,
+         "link2": 215,
          "eind": 2809
       },
       {
@@ -67428,7 +67428,7 @@
          "eind": 3664
       },
       {
-         "link2": 220,
+         "link2": 221,
          "eind": 3903
       },
       {
@@ -68225,7 +68225,7 @@
          "eind": 0
       },
       {
-         "link2": 323,
+         "link2": 324,
          "eind": 9951
       },
       {
@@ -69805,7 +69805,7 @@
          "eind": 4543
       },
       {
-         "link2": 228,
+         "link2": 229,
          "eind": 5702
       },
       {
@@ -70756,7 +70756,7 @@
          "eind": 5613
       },
       {
-         "link2": 229,
+         "link2": 230,
          "eind": 5702
       },
       {
@@ -72280,7 +72280,7 @@
          "eind": 95
       },
       {
-         "link2": 180,
+         "link2": 181,
          "eind": 654
       },
       {
@@ -72349,7 +72349,7 @@
          "eind": 5549
       },
       {
-         "link2": 230,
+         "link2": 231,
          "eind": 5702
       },
       {
@@ -72730,7 +72730,7 @@
          "eind": 5863
       },
       {
-         "link2": 231,
+         "link2": 232,
          "eind": 6067
       },
       {
@@ -83318,7 +83318,7 @@
       },
       {
          "t": 33,
-         "link2": 263,
+         "link2": 264,
          "eind": 7078
       },
       {
@@ -84583,7 +84583,7 @@
          "eind": 7637
       },
       {
-         "link2": 269,
+         "link2": 270,
          "eind": 7697
       },
       {
@@ -85933,7 +85933,7 @@
          "eind": 1101
       },
       {
-         "link2": 194,
+         "link2": 195,
          "eind": 1119
       },
       {
@@ -106955,7 +106955,7 @@
          "eind": 5878
       },
       {
-         "link2": 261,
+         "link2": 262,
          "eind": 6886
       },
       {
@@ -109143,7 +109143,7 @@
          "eind": 95
       },
       {
-         "link2": 187,
+         "link2": 188,
          "eind": 1077
       },
       {
@@ -116514,7 +116514,7 @@
       {
          "hp": 813027,
          "pl": 2200,
-         "link2": 204,
+         "link2": 205,
          "eind": 2074
       },
       {
@@ -140344,7 +140344,7 @@
          "eind": 1935
       },
       {
-         "link2": 200,
+         "link2": 201,
          "eind": 2017
       },
       {
@@ -150603,7 +150603,7 @@
          "eind": 9743
       },
       {
-         "link2": 324,
+         "link2": 325,
          "eind": 9951
       },
       {
@@ -150777,7 +150777,7 @@
          "eind": 1642
       },
       {
-         "link2": 201,
+         "link2": 202,
          "eind": 2017
       },
       {
@@ -159893,7 +159893,7 @@
       },
       {
          "t": 33,
-         "link2": 183,
+         "link2": 184,
          "eind": 942
       },
       {
@@ -162132,7 +162132,7 @@
          "eind": 3846
       },
       {
-         "link2": 182,
+         "link2": 183,
          "eind": 3854
       },
       {
@@ -166417,7 +166417,7 @@
       },
       {
          "t": 33,
-         "link2": 176,
+         "link2": 177,
          "eind": 612
       },
       {
@@ -169463,7 +169463,7 @@
          "eind": 3827
       },
       {
-         "link2": 176,
+         "link2": 177,
          "eind": 3885
       },
       {
@@ -171512,7 +171512,7 @@
          "eind": 9356
       },
       {
-         "link2": 325,
+         "link2": 326,
          "eind": 10008
       },
       {
@@ -172068,7 +172068,7 @@
       },
       {
          "t": 33,
-         "link2": 177,
+         "link2": 178,
          "eind": 612
       },
       {
@@ -189379,7 +189379,7 @@
          "eind": 1952
       },
       {
-         "link2": 215,
+         "link2": 216,
          "eind": 2809
       },
       {
@@ -195621,7 +195621,7 @@
          "eind": 6999
       },
       {
-         "link2": 262,
+         "link2": 263,
          "eind": 7000
       },
       {
@@ -210642,11 +210642,11 @@
          "eind": 0
       },
       {
-         "link2": 182,
+         "link2": 183,
          "eind": 10008
       },
       {
-         "link2": 328,
+         "link2": 329,
          "position": {
             "x": 0.502,
             "y": 0.209
@@ -217979,7 +217979,7 @@
          "eind": 1077
       },
       {
-         "link2": 194,
+         "link2": 195,
          "eind": 1119
       },
       {
@@ -218216,7 +218216,7 @@
          "eind": 1314
       },
       {
-         "link2": 198,
+         "link2": 199,
          "eind": 1643
       },
       {
@@ -220847,7 +220847,7 @@
       },
       {
          "t": 21,
-         "link2": 194,
+         "link2": 195,
          "eind": 1643
       },
       {
@@ -221976,7 +221976,7 @@
          "eind": 1077
       },
       {
-         "link2": 194,
+         "link2": 195,
          "eind": 1119
       },
       {
@@ -223040,7 +223040,7 @@
          "eind": 2695
       },
       {
-         "link2": 216,
+         "link2": 217,
          "eind": 2809
       },
       {
@@ -241201,7 +241201,7 @@
          "eind": 904
       },
       {
-         "link2": 184,
+         "link2": 185,
          "eind": 942
       },
       {
@@ -283250,7 +283250,7 @@
          "hp": 518438,
          "pl": 12000,
          "r": 4.1667,
-         "link2": 195,
+         "link2": 196,
          "eind": 1137
       },
       {
@@ -294795,7 +294795,7 @@
       },
       {
          "t": 49,
-         "link2": 162,
+         "link2": 163,
          "eind": 116
       },
       {
@@ -294987,7 +294987,7 @@
          "eind": 193
       },
       {
-         "link2": 188,
+         "link2": 189,
          "eind": 1077
       },
       {
@@ -295229,7 +295229,7 @@
          "eind": 1177
       },
       {
-         "link2": 221,
+         "link2": 222,
          "eind": 4338
       },
       {
@@ -298240,7 +298240,7 @@
          "eind": 6869
       },
       {
-         "link2": 305,
+         "link2": 306,
          "eind": 8265
       },
       {
@@ -303881,7 +303881,7 @@
          "eind": 1822
       },
       {
-         "link2": 199,
+         "link2": 200,
          "eind": 1825
       },
       {
@@ -332262,11 +332262,11 @@
          "eind": 95
       },
       {
-         "link2": 165,
+         "link2": 166,
          "eind": 414
       },
       {
-         "link2": 174,
+         "link2": 175,
          "eind": 540
       },
       {
@@ -332363,7 +332363,7 @@
          "eind": 838
       },
       {
-         "link2": 186,
+         "link2": 187,
          "eind": 1000
       },
       {
@@ -360112,11 +360112,11 @@
          "eind": 6453
       },
       {
-         "link2": 311,
+         "link2": 312,
          "eind": 8999
       },
       {
-         "link2": 312,
+         "link2": 313,
          "eind": 9041
       },
       {
@@ -361297,7 +361297,7 @@
          "eind": 9140
       },
       {
-         "link2": 313,
+         "link2": 314,
          "eind": 9141
       },
       {
@@ -362815,7 +362815,7 @@
       },
       {
          "pl": 2100,
-         "link2": 312,
+         "link2": 313,
          "eind": 9322
       },
       {
@@ -376279,7 +376279,7 @@
          "eind": 9370
       },
       {
-         "link2": 315,
+         "link2": 316,
          "eind": 9371
       },
       {
@@ -382209,7 +382209,7 @@
       },
       {
          "r": 2.7778,
-         "link2": 249,
+         "link2": 250,
          "eind": 6393
       },
       {
@@ -382235,7 +382235,7 @@
          "eind": 9140
       },
       {
-         "link2": 314,
+         "link2": 315,
          "eind": 9141
       },
       {
@@ -388735,7 +388735,7 @@
          "eind": 9318
       },
       {
-         "link2": 249,
+         "link2": 250,
          "eind": 9322
       },
       {
@@ -406189,7 +406189,7 @@
          "eind": 95
       },
       {
-         "link2": 164,
+         "link2": 165,
          "eind": 411
       },
       {
@@ -410993,7 +410993,7 @@
          "eind": 8831
       },
       {
-         "link2": 310,
+         "link2": 311,
          "eind": 8832
       },
       {
@@ -434648,7 +434648,7 @@
       {
          "hp": 714726,
          "pl": 8400,
-         "link2": 182,
+         "link2": 183,
          "eind": 687
       },
       {
@@ -435541,7 +435541,7 @@
          "eind": 1067
       },
       {
-         "link2": 190,
+         "link2": 191,
          "eind": 1078
       },
       {
@@ -435553,7 +435553,7 @@
          "eind": 1082
       },
       {
-         "link2": 196,
+         "link2": 197,
          "eind": 1137
       },
       {
@@ -476153,7 +476153,7 @@
          "eind": 95
       },
       {
-         "link2": 189,
+         "link2": 190,
          "eind": 1077
       },
       {
@@ -476165,7 +476165,7 @@
          "eind": 1639
       },
       {
-         "link2": 189,
+         "link2": 190,
          "eind": 2017
       },
       {
@@ -505724,7 +505724,7 @@
          "eind": 95
       },
       {
-         "link2": 181,
+         "link2": 182,
          "eind": 682
       },
       {
@@ -506504,7 +506504,7 @@
          "eind": 948
       },
       {
-         "link2": 191,
+         "link2": 192,
          "eind": 1078
       },
       {
@@ -545243,7 +545243,7 @@
          "eind": 0
       },
       {
-         "link2": 200,
+         "link2": 201,
          "eind": 9951
       },
       {
@@ -550545,7 +550545,7 @@
          "eind": 95
       },
       {
-         "link2": 169,
+         "link2": 170,
          "eind": 518
       },
       {
@@ -552815,7 +552815,7 @@
          "eind": 3085
       },
       {
-         "link2": 222,
+         "link2": 223,
          "eind": 4338
       },
       {
@@ -557490,7 +557490,7 @@
       },
       {
          "pl": 5500,
-         "link2": 170,
+         "link2": 171,
          "eind": 518
       },
       {
@@ -558168,7 +558168,7 @@
          "eind": 4337
       },
       {
-         "link2": 223,
+         "link2": 224,
          "eind": 4338
       },
       {
@@ -605918,7 +605918,7 @@
          "eind": 414
       },
       {
-         "link2": 166,
+         "link2": 167,
          "eind": 416
       },
       {
@@ -606095,7 +606095,7 @@
          "eind": 492
       },
       {
-         "link2": 167,
+         "link2": 168,
          "eind": 493
       },
       {
@@ -618617,7 +618617,7 @@
          "eind": 95
       },
       {
-         "link2": 171,
+         "link2": 172,
          "eind": 518
       },
       {
@@ -628026,7 +628026,7 @@
          "eind": 8262
       },
       {
-         "link2": 306,
+         "link2": 307,
          "eind": 8265
       },
       {
@@ -636409,7 +636409,7 @@
          "eind": 395
       },
       {
-         "link2": 172,
+         "link2": 173,
          "eind": 518
       },
       {
@@ -645247,7 +645247,7 @@
          "eind": 6333
       },
       {
-         "link2": 307,
+         "link2": 308,
          "eind": 8265
       },
       {
@@ -645468,7 +645468,7 @@
          "eind": 139
       },
       {
-         "link2": 163,
+         "link2": 164,
          "eind": 254
       },
       {
@@ -645643,7 +645643,7 @@
          "eind": 344
       },
       {
-         "link2": 163,
+         "link2": 164,
          "eind": 345
       },
       {
@@ -645883,7 +645883,7 @@
          "eind": 1173
       },
       {
-         "link2": 197,
+         "link2": 198,
          "eind": 1174
       },
       {
@@ -650665,7 +650665,7 @@
          "eind": 95
       },
       {
-         "link2": 168,
+         "link2": 169,
          "eind": 493
       },
       {
@@ -657337,7 +657337,7 @@
          "eind": 8262
       },
       {
-         "link2": 308,
+         "link2": 309,
          "eind": 8265
       },
       {
@@ -674811,7 +674811,7 @@
          "eind": 1077
       },
       {
-         "link2": 192,
+         "link2": 193,
          "eind": 1078
       },
       {
@@ -678121,7 +678121,7 @@
       },
       {
          "pl": 100,
-         "link2": 193,
+         "link2": 194,
          "eind": 1078
       },
       {
@@ -680031,11 +680031,11 @@
          "eind": 95
       },
       {
-         "link2": 173,
+         "link2": 174,
          "eind": 518
       },
       {
-         "link2": 178,
+         "link2": 179,
          "eind": 653
       },
       {
@@ -680314,7 +680314,7 @@
          "eind": 1076
       },
       {
-         "link2": 173,
+         "link2": 174,
          "eind": 1078
       },
       {
@@ -684248,7 +684248,7 @@
          "eind": 6453
       },
       {
-         "link2": 309,
+         "link2": 310,
          "eind": 8265
       },
       {
@@ -694472,7 +694472,7 @@
          "eind": 1077
       },
       {
-         "link2": 205,
+         "link2": 206,
          "eind": 2074
       },
       {
@@ -694978,7 +694978,7 @@
       },
       {
          "pl": 600,
-         "link2": 206,
+         "link2": 207,
          "eind": 2236
       },
       {
@@ -708054,7 +708054,7 @@
          "eind": 1077
       },
       {
-         "link2": 202,
+         "link2": 203,
          "eind": 2074
       },
       {
@@ -708129,7 +708129,7 @@
          "eind": 2163
       },
       {
-         "link2": 207,
+         "link2": 208,
          "eind": 2236
       },
       {
@@ -734036,7 +734036,7 @@
          "eind": 1077
       },
       {
-         "link2": 208,
+         "link2": 209,
          "eind": 2236
       },
       {
@@ -734101,7 +734101,7 @@
       },
       {
          "hp": 563714,
-         "link2": 211,
+         "link2": 212,
          "eind": 2724
       },
       {
@@ -747112,7 +747112,7 @@
          "eind": 6109
       },
       {
-         "link2": 250,
+         "link2": 251,
          "eind": 6438
       },
       {
@@ -766024,7 +766024,7 @@
          "eind": 7618
       },
       {
-         "link2": 270,
+         "link2": 271,
          "eind": 7788
       },
       {
@@ -769196,7 +769196,7 @@
          "eind": 6155
       },
       {
-         "link2": 251,
+         "link2": 252,
          "eind": 6438
       },
       {
@@ -778538,11 +778538,11 @@
          "eind": 5878
       },
       {
-         "link2": 238,
+         "link2": 239,
          "eind": 6155
       },
       {
-         "link2": 252,
+         "link2": 253,
          "eind": 6438
       },
       {
@@ -781219,7 +781219,7 @@
          "eind": 7786
       },
       {
-         "link2": 238,
+         "link2": 239,
          "eind": 7788
       },
       {
@@ -786727,7 +786727,7 @@
          "eind": 6099
       },
       {
-         "link2": 239,
+         "link2": 240,
          "eind": 6155
       },
       {
@@ -787628,7 +787628,7 @@
          "eind": 6436
       },
       {
-         "link2": 253,
+         "link2": 254,
          "eind": 6438
       },
       {
@@ -788940,7 +788940,7 @@
          "eind": 7754
       },
       {
-         "link2": 271,
+         "link2": 272,
          "eind": 7788
       },
       {
@@ -794115,7 +794115,7 @@
          "eind": 6102
       },
       {
-         "link2": 270,
+         "link2": 271,
          "eind": 7788
       },
       {
@@ -797642,7 +797642,7 @@
          "eind": 5878
       },
       {
-         "link2": 272,
+         "link2": 273,
          "eind": 7788
       },
       {
@@ -798080,7 +798080,7 @@
       },
       {
          "t": 21,
-         "link2": 217,
+         "link2": 218,
          "eind": 3583
       },
       {
@@ -807921,7 +807921,7 @@
       },
       {
          "pl": 600,
-         "link2": 316,
+         "link2": 317,
          "eind": 9432
       },
       {
@@ -808648,7 +808648,7 @@
       },
       {
          "pl": 700,
-         "link2": 318,
+         "link2": 319,
          "eind": 9703
       },
       {
@@ -812101,7 +812101,7 @@
          "eind": 1077
       },
       {
-         "link2": 218,
+         "link2": 219,
          "eind": 3583
       },
       {
@@ -818724,7 +818724,7 @@
          "eind": 3577
       },
       {
-         "link2": 219,
+         "link2": 220,
          "eind": 3583
       },
       {
@@ -819991,7 +819991,7 @@
          "eind": 5878
       },
       {
-         "link2": 293,
+         "link2": 294,
          "eind": 7794
       },
       {
@@ -820501,7 +820501,7 @@
          "eind": 5878
       },
       {
-         "link2": 294,
+         "link2": 295,
          "eind": 7794
       },
       {
@@ -821151,7 +821151,7 @@
          "eind": 5878
       },
       {
-         "link2": 295,
+         "link2": 296,
          "eind": 7794
       },
       {
@@ -821769,7 +821769,7 @@
          "eind": 6153
       },
       {
-         "link2": 240,
+         "link2": 241,
          "eind": 6155
       },
       {
@@ -824913,7 +824913,7 @@
          "eind": 5878
       },
       {
-         "link2": 273,
+         "link2": 274,
          "eind": 7788
       },
       {
@@ -825801,15 +825801,15 @@
          "eind": 5878
       },
       {
-         "link2": 274,
+         "link2": 275,
          "eind": 7788
       },
       {
-         "link2": 290,
+         "link2": 291,
          "eind": 7791
       },
       {
-         "link2": 291,
+         "link2": 292,
          "eind": 7792
       },
       {
@@ -828171,17 +828171,17 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 0,
+         "link2": 100,
          "gls": null,
          "exo": null,
-         "biome": "moor_baseplanet",
+         "biome": "sandy_spiky",
          "dss": null,
          "poi": null,
          "adiv": null,
          "desc": [],
          "position": {
-            "x": -1.0,
-            "y": -1.0
+            "x": -0.04842106,
+            "y": -0.70721954
          },
          "regions": {},
          "eind": 0
@@ -828191,6 +828191,10 @@
          "pl": "<10",
          "r": 1388.8889,
          "eind": 95
+      },
+      {
+         "link2": 0,
+         "eind": 1077
       },
       {
          "t": 25,
@@ -828824,7 +828828,7 @@
          "eind": 6150
       },
       {
-         "link2": 241,
+         "link2": 242,
          "eind": 6155
       },
       {
@@ -833254,24 +833258,6 @@
       {
          "t": 64,
          "eind": 11112
-      },
-      {
-         "biome": "sandy_spiky",
-         "desc": [
-            {
-               "name": "APPROPRIATORS",
-               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-            },
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
-         "position": {
-            "x": -0.409,
-            "y": -0.681
-         },
-         "eind": 11146
       }
    ],
    "185": [
@@ -833280,7 +833266,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 100,
+         "link2": 101,
          "gls": null,
          "exo": null,
          "biome": "moor_arid",
@@ -833875,7 +833861,7 @@
          "eind": 7512
       },
       {
-         "link2": 275,
+         "link2": 276,
          "eind": 7788
       },
       {
@@ -835113,7 +835099,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 101,
+         "link2": 102,
          "gls": null,
          "exo": null,
          "biome": "primordial_blue",
@@ -836055,17 +836041,17 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 0,
+         "link2": 101,
          "gls": null,
          "exo": null,
-         "biome": "moor_baseplanet",
+         "biome": "sandy_mineral",
          "dss": null,
          "poi": null,
          "adiv": null,
          "desc": [],
          "position": {
-            "x": -1.0,
-            "y": -1.0
+            "x": -0.037947383,
+            "y": -0.8437918
          },
          "regions": {},
          "eind": 0
@@ -836075,6 +836061,10 @@
          "pl": "<10",
          "r": 1388.8889,
          "eind": 95
+      },
+      {
+         "link2": 0,
+         "eind": 1077
       },
       {
          "t": 25,
@@ -836395,7 +836385,7 @@
          "eind": 5878
       },
       {
-         "link2": 100,
+         "link2": 101,
          "eind": 6155
       },
       {
@@ -836870,7 +836860,7 @@
          "eind": 7534
       },
       {
-         "link2": 265,
+         "link2": 266,
          "eind": 7537
       },
       {
@@ -837528,68 +837518,6 @@
             }
          ],
          "eind": 11105
-      },
-      {
-         "biome": "sandy_mineral",
-         "desc": [
-            {
-               "name": "APPROPRIATORS",
-               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-            },
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
-         "position": {
-            "x": -0.402,
-            "y": -0.793
-         },
-         "eind": 11146
-      },
-      {
-         "t": 65,
-         "eind": 11149
-      },
-      {
-         "adiv": "SEAFPresence",
-         "desc": [
-            {
-               "name": "APPROPRIATORS",
-               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-            },
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
-               "name": "Heavy SEAF Presence",
-               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
-            }
-         ],
-         "eind": 11154
-      },
-      {
-         "adiv": "InvasionFleet",
-         "desc": [
-            {
-               "name": "APPROPRIATORS",
-               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-            },
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
-               "name": "Heavy SEAF Presence",
-               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
-            },
-            {
-               "name": "INVASION FLEET",
-               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
-            }
-         ],
-         "eind": 11168
       }
    ],
    "229": [
@@ -838023,7 +837951,7 @@
          "eind": 7613
       },
       {
-         "link2": 276,
+         "link2": 277,
          "eind": 7788
       },
       {
@@ -838147,7 +838075,7 @@
          "eind": 9836
       },
       {
-         "link2": 276,
+         "link2": 277,
          "eind": 10008
       },
       {
@@ -839150,7 +839078,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 102,
+         "link2": 103,
          "gls": null,
          "exo": null,
          "biome": "sandy_acid",
@@ -839230,7 +839158,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 103,
+         "link2": 104,
          "gls": null,
          "exo": null,
          "biome": "sandy_spiky",
@@ -839310,7 +839238,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 104,
+         "link2": 105,
          "gls": null,
          "exo": null,
          "biome": "primordial_blue",
@@ -839744,7 +839672,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 105,
+         "link2": 106,
          "gls": null,
          "exo": null,
          "biome": "sandy_moon",
@@ -840371,7 +840299,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 106,
+         "link2": 107,
          "gls": null,
          "exo": null,
          "biome": "primordial_dead",
@@ -840809,7 +840737,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 107,
+         "link2": 108,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -841333,7 +841261,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 108,
+         "link2": 109,
          "gls": null,
          "exo": null,
          "biome": "moor_arid",
@@ -841371,11 +841299,11 @@
          "eind": 5878
       },
       {
-         "link2": 242,
+         "link2": 243,
          "eind": 6155
       },
       {
-         "link2": 254,
+         "link2": 255,
          "eind": 6438
       },
       {
@@ -844759,7 +844687,7 @@
          "eind": 5878
       },
       {
-         "link2": 243,
+         "link2": 244,
          "eind": 6155
       },
       {
@@ -845955,7 +845883,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 109,
+         "link2": 110,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -846361,11 +846289,11 @@
          "eind": 5878
       },
       {
-         "link2": 277,
+         "link2": 278,
          "eind": 7788
       },
       {
-         "link2": 296,
+         "link2": 297,
          "eind": 7794
       },
       {
@@ -846967,7 +846895,7 @@
          "eind": 10339
       },
       {
-         "link2": 329,
+         "link2": 330,
          "eind": 11117
       }
    ],
@@ -847113,11 +847041,11 @@
          "eind": 5878
       },
       {
-         "link2": 278,
+         "link2": 279,
          "eind": 7788
       },
       {
-         "link2": 286,
+         "link2": 287,
          "eind": 7789
       },
       {
@@ -847167,7 +847095,7 @@
          "eind": 11116
       },
       {
-         "link2": 330,
+         "link2": 331,
          "exo": 4,
          "desc": [
             {
@@ -847306,7 +847234,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 110,
+         "link2": 111,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -847842,11 +847770,11 @@
          "eind": 6117
       },
       {
-         "link2": 279,
+         "link2": 280,
          "eind": 7788
       },
       {
-         "link2": 292,
+         "link2": 293,
          "eind": 7792
       },
       {
@@ -847886,7 +847814,7 @@
          "eind": 10339
       },
       {
-         "link2": 331,
+         "link2": 332,
          "eind": 11117
       }
    ],
@@ -848158,7 +848086,7 @@
          "eind": 10339
       },
       {
-         "link2": 332,
+         "link2": 333,
          "eind": 11117
       }
    ],
@@ -848168,7 +848096,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 111,
+         "link2": 112,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -848490,11 +848418,11 @@
          "eind": 5878
       },
       {
-         "link2": 280,
+         "link2": 281,
          "eind": 7788
       },
       {
-         "link2": 288,
+         "link2": 289,
          "eind": 7790
       },
       {
@@ -848540,7 +848468,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 112,
+         "link2": 113,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -848889,7 +848817,7 @@
          "eind": 5878
       },
       {
-         "link2": 297,
+         "link2": 298,
          "eind": 7794
       },
       {
@@ -849407,7 +849335,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 113,
+         "link2": 114,
          "gls": null,
          "exo": null,
          "biome": "sandy_mineral",
@@ -849487,7 +849415,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 114,
+         "link2": 115,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -849567,7 +849495,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 114,
+         "link2": 115,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -849727,7 +849655,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 115,
+         "link2": 116,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -849807,7 +849735,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 116,
+         "link2": 117,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -849887,7 +849815,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 117,
+         "link2": 118,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -849967,7 +849895,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 118,
+         "link2": 119,
          "gls": null,
          "exo": null,
          "biome": "sandy_base",
@@ -850005,7 +849933,7 @@
          "eind": 5878
       },
       {
-         "link2": 298,
+         "link2": 299,
          "eind": 7794
       },
       {
@@ -850127,7 +850055,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 119,
+         "link2": 120,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -850207,7 +850135,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 120,
+         "link2": 121,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -850287,7 +850215,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 121,
+         "link2": 122,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -850602,7 +850530,7 @@
          "eind": 6739
       },
       {
-         "link2": 247,
+         "link2": 248,
          "eind": 6886
       },
       {
@@ -851290,7 +851218,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 122,
+         "link2": 123,
          "gls": null,
          "exo": null,
          "biome": "sandy_spiky",
@@ -851446,7 +851374,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 123,
+         "link2": 124,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -851484,7 +851412,7 @@
          "eind": 5878
       },
       {
-         "link2": 255,
+         "link2": 256,
          "eind": 6438
       },
       {
@@ -851589,7 +851517,7 @@
          "eind": 5878
       },
       {
-         "link2": 256,
+         "link2": 257,
          "eind": 6438
       },
       {
@@ -866698,7 +866626,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 124,
+         "link2": 125,
          "gls": null,
          "exo": null,
          "biome": "sandy_mineral",
@@ -866736,7 +866664,7 @@
          "eind": 5878
       },
       {
-         "link2": 257,
+         "link2": 258,
          "eind": 6438
       },
       {
@@ -867666,7 +867594,7 @@
       },
       {
          "hp": 958222,
-         "link2": 281,
+         "link2": 282,
          "eind": 7788
       },
       {
@@ -868636,7 +868564,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 125,
+         "link2": 126,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -868716,7 +868644,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 125,
+         "link2": 126,
          "gls": null,
          "exo": null,
          "biome": "primordial_dead",
@@ -868754,7 +868682,7 @@
          "eind": 5878
       },
       {
-         "link2": 282,
+         "link2": 283,
          "eind": 7788
       },
       {
@@ -868867,7 +868795,7 @@
          "eind": 5878
       },
       {
-         "link2": 283,
+         "link2": 284,
          "eind": 7788
       },
       {
@@ -868950,7 +868878,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 126,
+         "link2": 127,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -869106,7 +869034,7 @@
          "eind": 6066
       },
       {
-         "link2": 232,
+         "link2": 233,
          "eind": 6067
       },
       {
@@ -870598,7 +870526,7 @@
          "eind": 6066
       },
       {
-         "link2": 233,
+         "link2": 234,
          "eind": 6067
       },
       {
@@ -871190,7 +871118,7 @@
          "eind": 9356
       },
       {
-         "link2": 319,
+         "link2": 320,
          "eind": 9703
       },
       {
@@ -871216,7 +871144,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 127,
+         "link2": 128,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -871258,7 +871186,7 @@
          "eind": 6066
       },
       {
-         "link2": 234,
+         "link2": 235,
          "eind": 6067
       },
       {
@@ -873512,7 +873440,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 128,
+         "link2": 129,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -873607,7 +873535,7 @@
          "eind": 5878
       },
       {
-         "link2": 258,
+         "link2": 259,
          "eind": 6438
       },
       {
@@ -874049,7 +873977,7 @@
          "eind": 5878
       },
       {
-         "link2": 259,
+         "link2": 260,
          "eind": 6438
       },
       {
@@ -876459,7 +876387,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 129,
+         "link2": 130,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -876680,7 +876608,7 @@
          "eind": 5878
       },
       {
-         "link2": 260,
+         "link2": 261,
          "eind": 6438
       },
       {
@@ -882371,7 +882299,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 130,
+         "link2": 131,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -883090,7 +883018,7 @@
          "eind": 5878
       },
       {
-         "link2": 299,
+         "link2": 300,
          "eind": 7794
       },
       {
@@ -883136,7 +883064,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 131,
+         "link2": 132,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -883361,7 +883289,7 @@
          "eind": 5886
       },
       {
-         "link2": 300,
+         "link2": 301,
          "eind": 7794
       },
       {
@@ -883407,7 +883335,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 130,
+         "link2": 131,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -883663,11 +883591,11 @@
          "eind": 5878
       },
       {
-         "link2": 301,
+         "link2": 302,
          "eind": 7794
       },
       {
-         "link2": 304,
+         "link2": 305,
          "eind": 7829
       },
       {
@@ -883713,7 +883641,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 132,
+         "link2": 133,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -887485,7 +887413,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 132,
+         "link2": 133,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -887523,7 +887451,7 @@
          "eind": 5878
       },
       {
-         "link2": 246,
+         "link2": 247,
          "eind": 6258
       },
       {
@@ -888320,7 +888248,7 @@
          "eind": 5878
       },
       {
-         "link2": 247,
+         "link2": 248,
          "eind": 6258
       },
       {
@@ -888480,7 +888408,7 @@
          "eind": 95
       },
       {
-         "link2": 133,
+         "link2": 134,
          "eind": 2724
       },
       {
@@ -893970,7 +893898,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 133,
+         "link2": 134,
          "gls": null,
          "exo": null,
          "biome": "primordial_blue",
@@ -894050,7 +893978,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 134,
+         "link2": 135,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -907127,7 +907055,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 135,
+         "link2": 136,
          "gls": null,
          "exo": null,
          "biome": "sandy_moon",
@@ -907676,7 +907604,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 134,
+         "link2": 135,
          "gls": null,
          "exo": null,
          "biome": "sandy_base",
@@ -907702,7 +907630,7 @@
          "eind": 1077
       },
       {
-         "link2": 212,
+         "link2": 213,
          "eind": 2724
       },
       {
@@ -912540,7 +912468,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 136,
+         "link2": 137,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -912675,7 +912603,7 @@
          "eind": 3465
       },
       {
-         "link2": 224,
+         "link2": 225,
          "eind": 4338
       },
       {
@@ -917755,7 +917683,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 137,
+         "link2": 138,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -917781,7 +917709,7 @@
          "eind": 1077
       },
       {
-         "link2": 225,
+         "link2": 226,
          "eind": 4338
       },
       {
@@ -923118,7 +923046,7 @@
          "eind": 95
       },
       {
-         "link2": 226,
+         "link2": 227,
          "eind": 4338
       },
       {
@@ -923262,7 +923190,7 @@
          "eind": 5878
       },
       {
-         "link2": 248,
+         "link2": 249,
          "eind": 6258
       },
       {
@@ -927689,7 +927617,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 138,
+         "link2": 139,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -927769,7 +927697,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 139,
+         "link2": 140,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -927925,7 +927853,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 140,
+         "link2": 141,
          "gls": null,
          "exo": null,
          "biome": "sandy_acid",
@@ -928005,7 +927933,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 141,
+         "link2": 142,
          "gls": null,
          "exo": null,
          "biome": "sandy_mineral",
@@ -928085,7 +928013,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 141,
+         "link2": 142,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -928241,7 +928169,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 142,
+         "link2": 143,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -928555,7 +928483,7 @@
          "eind": 6064
       },
       {
-         "link2": 235,
+         "link2": 236,
          "eind": 6067
       },
       {
@@ -938746,7 +938674,7 @@
          "eind": 9682
       },
       {
-         "link2": 320,
+         "link2": 321,
          "eind": 9703
       },
       {
@@ -938796,7 +938724,7 @@
          "eind": 95
       },
       {
-         "link2": 181,
+         "link2": 182,
          "eind": 2362
       },
       {
@@ -953109,7 +953037,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 142,
+         "link2": 143,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -953135,7 +953063,7 @@
          "eind": 1077
       },
       {
-         "link2": 209,
+         "link2": 210,
          "eind": 2362
       },
       {
@@ -956426,7 +956354,7 @@
       {
          "hp": 1969155,
          "pl": 24300,
-         "link2": 317,
+         "link2": 318,
          "regions": {
             "CURRENCY": {
                "index": 0,
@@ -957782,7 +957710,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 143,
+         "link2": 144,
          "gls": null,
          "exo": null,
          "biome": "sandy_mineral",
@@ -957808,7 +957736,7 @@
          "eind": 1077
       },
       {
-         "link2": 210,
+         "link2": 211,
          "eind": 2362
       },
       {
@@ -984496,7 +984424,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 144,
+         "link2": 145,
          "gls": null,
          "exo": null,
          "biome": "sandy_acid",
@@ -984644,7 +984572,7 @@
          "eind": 9356
       },
       {
-         "link2": 235,
+         "link2": 236,
          "eind": 9703
       },
       {
@@ -984670,7 +984598,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 145,
+         "link2": 146,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -984728,7 +984656,7 @@
          "eind": 9356
       },
       {
-         "link2": 321,
+         "link2": 322,
          "eind": 9703
       },
       {
@@ -985065,7 +984993,7 @@
       },
       {
          "pl": 3900,
-         "link2": 322,
+         "link2": 323,
          "eind": 9703
       },
       {
@@ -988687,7 +988615,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 146,
+         "link2": 147,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -988725,7 +988653,7 @@
          "eind": 5878
       },
       {
-         "link2": 244,
+         "link2": 245,
          "eind": 6155
       },
       {
@@ -992719,7 +992647,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 147,
+         "link2": 148,
          "gls": null,
          "exo": null,
          "biome": "primordial_blue",
@@ -993168,7 +993096,7 @@
          "eind": 6154
       },
       {
-         "link2": 245,
+         "link2": 246,
          "eind": 6155
       },
       {
@@ -998090,7 +998018,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 148,
+         "link2": 149,
          "gls": null,
          "exo": null,
          "biome": "primordial_purple",
@@ -998775,7 +998703,7 @@
          "eind": 6153
       },
       {
-         "link2": 239,
+         "link2": 240,
          "eind": 6155
       },
       {
@@ -1007012,7 +1006940,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 149,
+         "link2": 150,
          "gls": null,
          "exo": null,
          "biome": "sandy_base",
@@ -1011681,7 +1011609,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 150,
+         "link2": 151,
          "gls": null,
          "exo": null,
          "biome": "primordial_dead",
@@ -1011761,7 +1011689,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 151,
+         "link2": 152,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -1011841,7 +1011769,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 152,
+         "link2": 153,
          "gls": null,
          "exo": null,
          "biome": "sandy_base",
@@ -1012673,7 +1012601,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 153,
+         "link2": 154,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_base",
@@ -1013279,7 +1013207,7 @@
          "eind": 5878
       },
       {
-         "link2": 153,
+         "link2": 154,
          "eind": 7537
       },
       {
@@ -1014803,7 +1014731,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 154,
+         "link2": 155,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -1015496,7 +1015424,7 @@
       },
       {
          "hp": 2200000,
-         "link2": 266,
+         "link2": 267,
          "regions": {
             "ON-EARSAHOU": {
                "index": 0,
@@ -1019619,7 +1019547,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 155,
+         "link2": 156,
          "gls": null,
          "exo": null,
          "biome": "sandy_moon",
@@ -1022081,7 +1022009,7 @@
          "eind": 5878
       },
       {
-         "link2": 267,
+         "link2": 268,
          "eind": 7537
       },
       {
@@ -1022585,7 +1022513,7 @@
       },
       {
          "hp": 1200000,
-         "link2": 268,
+         "link2": 269,
          "regions": {
             "BLIGHTSMURK": {
                "index": 0,
@@ -1026007,7 +1025935,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 156,
+         "link2": 157,
          "gls": null,
          "exo": null,
          "biome": "sandy_acid",
@@ -1026233,7 +1026161,7 @@
          "eind": 5878
       },
       {
-         "link2": 302,
+         "link2": 303,
          "eind": 7794
       },
       {
@@ -1026279,7 +1026207,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 157,
+         "link2": 158,
          "gls": null,
          "exo": null,
          "biome": "primordial_base",
@@ -1026548,7 +1026476,7 @@
          "eind": 5878
       },
       {
-         "link2": 160,
+         "link2": 161,
          "eind": 7794
       },
       {
@@ -1026594,7 +1026522,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 156,
+         "link2": 157,
          "gls": null,
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
@@ -1026691,7 +1026619,7 @@
          "eind": 5878
       },
       {
-         "link2": 303,
+         "link2": 304,
          "eind": 7794
       },
       {
@@ -1026737,7 +1026665,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 158,
+         "link2": 159,
          "gls": null,
          "exo": null,
          "biome": "moor_red",
@@ -1027111,7 +1027039,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 157,
+         "link2": 158,
          "gls": null,
          "exo": null,
          "biome": "moor_baseplanet",
@@ -1027347,7 +1027275,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 159,
+         "link2": 160,
          "gls": null,
          "exo": null,
          "biome": "sandy_acid",
@@ -1027528,7 +1027456,7 @@
          "eind": 5878
       },
       {
-         "link2": 275,
+         "link2": 276,
          "eind": 7788
       },
       {
@@ -1028580,7 +1028508,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 160,
+         "link2": 161,
          "gls": null,
          "exo": null,
          "biome": "primordial_blue",
@@ -1028803,7 +1028731,7 @@
          "eind": 5878
       },
       {
-         "link2": 284,
+         "link2": 285,
          "eind": 7788
       },
       {
@@ -1029699,7 +1029627,7 @@
          "pl": null,
          "r": null,
          "t": 16,
-         "link2": 161,
+         "link2": 162,
          "gls": null,
          "exo": null,
          "biome": "sandy_moon",
@@ -1030269,15 +1030197,15 @@
          "eind": 5878
       },
       {
-         "link2": 285,
+         "link2": 286,
          "eind": 7788
       },
       {
-         "link2": 287,
+         "link2": 288,
          "eind": 7789
       },
       {
-         "link2": 289,
+         "link2": 290,
          "eind": 7790
       },
       {
@@ -1030546,7 +1030474,7 @@
          "eind": 11151
       }
    ],
-   "274": [
+   "278": [
       {
          "hp": null,
          "pl": null,
@@ -1030566,12 +1030494,6 @@
          },
          "regions": {},
          "eind": 0
-      },
-      {
-         "hp": 1000000,
-         "pl": "<10",
-         "r": 2.7777777,
-         "eind": 11116
       },
       {
          "exo": 4,
@@ -1030594,10 +1030516,84 @@
          "eind": 11146
       },
       {
+         "hp": 995167,
+         "pl": "<10",
+         "r": -2.7777777,
+         "eind": 11148
+      },
+      {
          "t": 17,
          "eind": 11149
       },
       {
+         "hp": 993412,
+         "pl": 28600,
+         "r": 2.7777777,
+         "eind": 11150
+      },
+      {
+         "hp": 1000000,
+         "pl": 32900,
+         "eind": 11151
+      },
+      {
+         "pl": 30500,
+         "eind": 11152
+      },
+      {
+         "pl": 29100,
+         "eind": 11153
+      },
+      {
+         "pl": 32300,
+         "eind": 11156
+      },
+      {
+         "pl": 30200,
+         "eind": 11157
+      },
+      {
+         "pl": 29200,
+         "eind": 11158
+      },
+      {
+         "pl": 36700,
+         "eind": 11159
+      },
+      {
+         "pl": 36900,
+         "eind": 11160
+      },
+      {
+         "pl": 28400,
+         "eind": 11161
+      },
+      {
+         "pl": 20000,
+         "eind": 11162
+      },
+      {
+         "pl": 17400,
+         "eind": 11163
+      },
+      {
+         "pl": 16200,
+         "eind": 11164
+      },
+      {
+         "pl": 15900,
+         "eind": 11165
+      },
+      {
+         "pl": 16000,
+         "eind": 11166
+      },
+      {
+         "pl": 20100,
+         "eind": 11167
+      },
+      {
+         "pl": 31400,
          "adiv": "InvasionFleet",
          "desc": [
             {
@@ -1030614,6 +1030610,14 @@
             }
          ],
          "eind": 11168
+      },
+      {
+         "pl": 30600,
+         "eind": 11169
+      },
+      {
+         "pl": 29700,
+         "eind": 11170
       },
       {
          "adiv": "SEAFPresence",
@@ -1030751,6 +1030755,209 @@
       {
          "t": 17,
          "eind": 11171
+      }
+   ],
+   "280": [
+      {
+         "hp": null,
+         "pl": null,
+         "r": null,
+         "t": 16,
+         "link2": 0,
+         "gls": null,
+         "exo": null,
+         "biome": "moor_baseplanet",
+         "dss": null,
+         "poi": null,
+         "adiv": null,
+         "desc": [],
+         "position": {
+            "x": -1.0,
+            "y": -1.0
+         },
+         "regions": {},
+         "eind": 0
+      },
+      {
+         "exo": 4,
+         "biome": "sandy_mineral",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "position": {
+            "x": -0.402,
+            "y": -0.793
+         },
+         "eind": 11146
+      },
+      {
+         "hp": 995140,
+         "pl": "<10",
+         "r": -2.7777777,
+         "eind": 11148
+      },
+      {
+         "t": 17,
+         "eind": 11149
+      },
+      {
+         "hp": 993385,
+         "pl": 12400,
+         "r": 2.7777777,
+         "eind": 11150
+      },
+      {
+         "hp": 1000000,
+         "pl": 13900,
+         "eind": 11151
+      },
+      {
+         "pl": 13600,
+         "eind": 11152
+      },
+      {
+         "pl": 14500,
+         "eind": 11153
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11154
+      },
+      {
+         "pl": 21400,
+         "eind": 11156
+      },
+      {
+         "pl": 21000,
+         "eind": 11157
+      },
+      {
+         "pl": 20100,
+         "eind": 11158
+      },
+      {
+         "pl": 23600,
+         "eind": 11159
+      },
+      {
+         "pl": 22400,
+         "eind": 11160
+      },
+      {
+         "pl": 16200,
+         "eind": 11161
+      },
+      {
+         "pl": 11200,
+         "eind": 11162
+      },
+      {
+         "pl": 10400,
+         "eind": 11163
+      },
+      {
+         "pl": 10300,
+         "eind": 11164
+      },
+      {
+         "pl": 10800,
+         "eind": 11166
+      },
+      {
+         "pl": 14600,
+         "eind": 11167
+      },
+      {
+         "pl": 22700,
+         "adiv": "InvasionFleet",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            }
+         ],
+         "eind": 11168
+      },
+      {
+         "pl": 28100,
+         "eind": 11169
+      },
+      {
+         "pl": 29800,
+         "eind": 11170
+      }
+   ],
+   "281": [
+      {
+         "hp": null,
+         "pl": null,
+         "r": null,
+         "t": 16,
+         "link2": 0,
+         "gls": null,
+         "exo": null,
+         "biome": "moor_baseplanet",
+         "dss": null,
+         "poi": null,
+         "adiv": null,
+         "desc": [],
+         "position": {
+            "x": -1.0,
+            "y": -1.0
+         },
+         "regions": {},
+         "eind": 0
+      },
+      {
+         "exo": 4,
+         "biome": "sandy_spiky",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "position": {
+            "x": -0.409,
+            "y": -0.681
+         },
+         "eind": 11146
+      },
+      {
+         "hp": 995248,
+         "pl": "<10",
+         "r": -2.7777777,
+         "eind": 11148
+      },
+      {
+         "hp": 993547,
+         "r": 2.7777777,
+         "eind": 11150
+      },
+      {
+         "hp": 1000000,
+         "eind": 11151
       }
    ]
 }
