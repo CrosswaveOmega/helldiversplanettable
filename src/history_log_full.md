@@ -17817,55 +17817,55 @@ Assault Division: Heavy SEAF Presence U1C deploys to *Hort* (2026-08-14 05:57  U
 Assault Division: MINDLESS MASSES U1A leaves *Hort* (2026-08-14 05:57  UTC)<br/>
 
 ### Day: #919
-*UVP GAMMA* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *UVP GAMMA* (Void) moves to X -0.349 Y -0.729 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP GAMMA* (Void) of the Void sector's biome is changed from Plains [Moor] to Bleak *Oasis* [Special] (2026-08-14 11:52  UTC)<br/>
-*UVP DELTA* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *UVP DELTA* (Void)  moves to X -0.427 Y -0.571 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP DELTA* (Void) of the Void sector's biome is changed from Plains [Moor] to Haunted Swamp [Moor] (2026-08-14 11:52  UTC)<br/>
-*UVP ALPHA* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *UVP ALPHA* (Void) moves to X -0.270 Y -0.778 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP ALPHA* (Void) of the Void sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
+*UVP GAMMA*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP GAMMA*  - Void moves to X -0.349 Y -0.729 (2026-08-14 11:52  UTC)<br/>
+↳ *UVP GAMMA*  - Void of the Void sector's biome is changed from Plains [Moor] to Bleak *Oasis* [Special] (2026-08-14 11:52  UTC)<br/>
+*UVP DELTA*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP DELTA*  - Void  moves to X -0.427 Y -0.571 (2026-08-14 11:52  UTC)<br/>
+↳ *UVP DELTA*  - Void of the Void sector's biome is changed from Plains [Moor] to Haunted Swamp [Moor] (2026-08-14 11:52  UTC)<br/>
+*UVP ALPHA*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP ALPHA*  - Void moves to X -0.270 Y -0.778 (2026-08-14 11:52  UTC)<br/>
+↳ *UVP ALPHA*  - Void of the Void sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
 *VOID SOURCE PLANET* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *VOID SOURCE PLANET* moves to X -0.323 Y -0.606 (2026-08-14 11:52  UTC)<br/>
 ↳ *VOID SOURCE PLANET* of the Void sector's biome is changed from Plains [Moor] to Unknown [Moor] (2026-08-14 11:52  UTC)<br/>
 *VOID SOURCE PLANET* is established as a ANOMALY LOCATION POI (2026-08-14 11:52  UTC)<br/>
-*UVP BETA* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *UVP BETA* (Void) moves to X -0.468 Y -0.724 (2026-08-14 11:52  UTC)<br/>
-↳ *UVP BETA* (Void) of the Void sector's biome is changed from Plains [Moor] to Deadlands [Primordial] (2026-08-14 11:52  UTC)<br/>
-*Senge 23* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *Senge 23* (Void) moves to X -0.402 Y -0.793 (2026-08-14 11:52  UTC)<br/>
-↳ *Senge 23* (Void) of the Void sector's biome is changed from Plains [Moor] to Rocky Canyons [Sandy] (2026-08-14 11:52  UTC)<br/>
-*Hydrobius* (Void) is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
-↳ *Hydrobius* (Void) moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
-↳ *Hydrobius* (Void) of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
-*Hydrobius* (Void) is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-*Senge 23* (Void) is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-*UVP BETA* (Void)  is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-*UVP ALPHA* (Void) is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-*UVP DELTA* (Void) is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-*UVP GAMMA* (Void) is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1D deploys to *UVP GAMMA* (Void) (2026-08-14 11:52  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1H deploys to *UVP GAMMA* (Void) (2026-08-14 11:52  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1B deploys to *UVP ALPHA* (Void) (2026-08-14 11:52  UTC)<br/>
+*UVP BETA*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *UVP BETA*  - Void moves to X -0.468 Y -0.724 (2026-08-14 11:52  UTC)<br/>
+↳ *UVP BETA*  - Void of the Void sector's biome is changed from Plains [Moor] to Deadlands [Primordial] (2026-08-14 11:52  UTC)<br/>
+*Senge 23*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *Senge 23*  - Void moves to X -0.402 Y -0.793 (2026-08-14 11:52  UTC)<br/>
+↳ *Senge 23*  - Void of the Void sector's biome is changed from Plains [Moor] to Rocky Canyons [Sandy] (2026-08-14 11:52  UTC)<br/>
+*Hydrobius*  - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
+↳ *Hydrobius*  - Void moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
+↳ *Hydrobius*  - Void of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
+*Hydrobius*  - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*Senge 23*  - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP BETA*  - Void  is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP ALPHA*  - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP DELTA*  - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*UVP GAMMA*  - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1D deploys to *UVP GAMMA*  - Void (2026-08-14 11:52  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1H deploys to *UVP GAMMA*  - Void (2026-08-14 11:52  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1B deploys to *UVP ALPHA*  - Void (2026-08-14 11:52  UTC)<br/>
 Major Order | [A3-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-6) Major Order - VOID PIERCER ADVANCEMENT is issued | Objective: Operations, Samples, Eliminate (2026-08-14 11:59  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Helldivers are to enter the Void immediately. Here, conventional navigational arrays are non-functional. To aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void source planet, Helldivers must extract 35,000,000 samples from *UVP ALPHA*, complete 1,000,000 operations on *UVP GAMMA*, and eliminate 1,250,000,000 hostiles on SENGE 23. (2026-08-14 11:59  UTC)<br/>
 *Rirga Bay* is established as a VOID GATEWAY POI (2026-08-14 12:00  UTC)<br/>
  Decay: -1.0 on Void sector
  (2026-08-14 12:00  UTC)<br/>
-*UVP ALPHA* (Void) recon campaign starts (2026-08-14 12:01  UTC)<br/>
-*UVP GAMMA* (Void)  recon campaign starts (2026-08-14 12:01  UTC)<br/>
-*Senge 23* (Void) recon campaign starts (2026-08-14 12:01  UTC)<br/>
+*UVP ALPHA*  - Void recon campaign starts (2026-08-14 12:01  UTC)<br/>
+*UVP GAMMA*  - Void  recon campaign starts (2026-08-14 12:01  UTC)<br/>
+*Senge 23*  - Void recon campaign starts (2026-08-14 12:01  UTC)<br/>
 Dispatch: INTELLIGENCE BRIEF Intel confirms deployment of two new Illuminate biological weapons. The Wretch is a feral skirmisher. Sever its bladed appendages; cranial trauma has no effect. The Crusher absorbs ballistics via unpatriotic tissue regeneration. Concentrate fire on its control helmet to expose a lethal vulnerability. Attempting to reason with these mutations is both highly treasonous and instantly fatal. Righteous eradication is a mandated act of mercy. (2026-08-14 13:37  UTC)<br/>
  Decay: 1.0 on Void sector
  (2026-08-14 13:37  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. Data indicates the exteriors of the Void is barricaded with highly intense cosmic radiation field. In order to avoid molecular disintegration, or worse, Helldivers are advised to utilize the Warp Relay on the gateway planet of RIRGA BAY to enter the Void. This is a perfectly safe and mandatory process for destroyer and crew. (2026-08-14 15:04  UTC)<br/>
 DSS deploys to *Hesoe Prime* of the Rigel sector (2026-08-14 16:20  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1A leaves *Rirga Bay* (2026-08-14 19:11  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1E deploys to *Senge 23* (Void) (2026-08-14 19:12  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1E deploys to *Senge 23*  - Void (2026-08-14 19:12  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1B leaves *Hesoe Prime* (2026-08-14 19:12  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1F deploys to *Rirga Bay* (2026-08-14 19:13  UTC)<br/>
-DSS deploys to *UVP GAMMA* (Void) of the Void sector (2026-08-14 20:20  UTC)<br/>
+DSS deploys to *UVP GAMMA*  - Void of the Void sector (2026-08-14 20:20  UTC)<br/>
 
 # Day: #920
 Dispatch: DSS STATUS UPDATE The gloom-resistant polymer coating enabling the DSS to sustain the corrosive spore environment is having an adverse reaction to the warp relay treatment. Rumors of taps or knocks on the hull of the station are unfounded. The DSS is exiting the void for examination. (2026-08-15 09:42  UTC)<br/>
@@ -17873,11 +17873,11 @@ Dispatch: DSS STATUS UPDATE The gloom-resistant polymer coating enabling the DSS
 Ymir sector is fully under Human control (2026-08-15 09:47  UTC)<br/>
  Decay: 1.5 on Wasat
  (2026-08-15 10:00  UTC)<br/>
-Assault Division: INVASION FLEET U1A deploys to *Senge 23* (Void) (2026-08-15 14:35  UTC)<br/>
-Assault Division: INVASION FLEET U1B deploys to *UVP GAMMA* (Void) (2026-08-15 14:35  UTC)<br/>
-Assault Division: INVASION FLEET U1C deploys to *UVP ALPHA* (Void)  (Void) (2026-08-15 14:35  UTC)<br/>
-Assault Division: VOTE SNATCHERS U1C deploys to *UVP BETA* (Void) (2026-08-15 22:00  UTC)<br/>
-Assault Division: Heavy SEAF Presence U1D leaves *UVP GAMMA* (Void) (2026-08-15 22:00  UTC)<br/>
-Assault Division: Heavy SEAF Presence U1G deploys to *UVP ALPHA* (Void) (2026-08-15 22:02  UTC)<br/>
-*UVP BETA* (Void) liberation campaign starts (2026-08-15 22:02  UTC)<br/>
+Assault Division: INVASION FLEET U1A deploys to *Senge 23*  - Void (2026-08-15 14:35  UTC)<br/>
+Assault Division: INVASION FLEET U1B deploys to *UVP GAMMA*  - Void (2026-08-15 14:35  UTC)<br/>
+Assault Division: INVASION FLEET U1C deploys to *UVP ALPHA*  - Void   - Void (2026-08-15 14:35  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1C deploys to *UVP BETA*  - Void (2026-08-15 22:00  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1D leaves *UVP GAMMA*  - Void (2026-08-15 22:00  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1G deploys to *UVP ALPHA*  - Void (2026-08-15 22:02  UTC)<br/>
+*UVP BETA*  - Void liberation campaign starts (2026-08-15 22:02  UTC)<br/>
 Dispatch: VOID PLANET TRIANGULATED. Helldiver actions within the Void have enabled the triangulation of *UVP BETA*, which may now be accessed. The Helldivers are ordered to support further data gathering efforts in order to support continued progress toward's the Void's center. (2026-08-15 22:03  UTC)<br/>
