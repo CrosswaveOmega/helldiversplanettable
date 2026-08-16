@@ -17876,3 +17876,5 @@ Assault Division: INVASION FLEET U1C deploys to *UVP ALPHA Voidling* (2026-08-15
 Assault Division: VOTE SNATCHERS U1C deploys to *UVP BETA* (2026-08-15 22:00  UTC)<br/>
 Assault Division: Heavy SEAF Presence U1D leaves *UVP GAMMA* (2026-08-15 22:00  UTC)<br/>
 Assault Division: Heavy SEAF Presence U1G deploys to *UVP ALPHA Voidling* (2026-08-15 22:02  UTC)<br/>
+*UVP BETA* liberation campaign starts (2026-08-15 22:02  UTC)<br/>
+Dispatch: VOID PLANET TRIANGULATED. Helldiver actions within the Void have enabled the triangulation of *UVP BETA*, which may now be accessed. The Helldivers are ordered to support further data gathering efforts in order to support continued progress toward's the Void's center. (2026-08-15 22:03  UTC)<br/>
