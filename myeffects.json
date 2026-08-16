@@ -1,165 +1,202 @@
 {
     "planetEffects": {
-        "1196": {
-            "galacticEffectId": 1196,
-            "name": "DSS Logistics Hub",
-            "icon": "Governmental",
-            "description": "Parts for the Democracy Space Station are prefabricated all over the Galaxy, then shipped here to await assembly."
-        },
-        "1197": {
-            "galacticEffectId": 1197,
-            "name": "Xenoentomology Center",
-            "icon": "Science",
-            "description": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
-        },
-        "1198": {
-            "galacticEffectId": 1198,
-            "name": "Deep Mantle Forge Complex",
-            "icon": "Hammer",
-            "description": "The smelters and refineries on this planet turn crude materials into usable hardware."
-        },
-        "1199": {
-            "galacticEffectId": 1199,
-            "name": "DSS Construction Site",
-            "icon": "Wrench",
-            "description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet\u2019s populace has centupled, and all the Galaxy can feel their democratic fervor."
-        },
-        "1202": {
-            "galacticEffectId": 1202,
-            "name": "JET BRIGADE",
-            "icon": "JetBrigade",
-            "description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
-        },
-        "1206": {
-            "galacticEffectId": 1206,
-            "name": "TERMINID RESEARCH PRESERVE",
-            "icon": "Badge",
-            "description": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction."
-        },
-        "1217": {
-            "galacticEffectId": 1217,
-            "name": "DEMOCRACY SPACE STATION",
-            "description": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
-        },
-        "1232": {
-            "galacticEffectId": 1232,
-            "name": "FACTORY HUB",
-            "icon": "Hammer",
-            "description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
-        },
-        "1234": {
-            "galacticEffectId": 1234,
-            "name": "CENTER OF SCIENCE",
-            "icon": "Science",
-            "description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
-        },
-        "1236": {
-            "galacticEffectId": 1236,
-            "name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
-            "icon": "Governmental",
-            "description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here."
-        },
-        "1239": {
-            "galacticEffectId": 1239,
-            "name": "JET BRIGADE FACTORIES",
-            "icon": "Automatons",
-            "description": "Vertically enhanced Jet Brigade soldiers are produced here."
-        },
-        "1230": {
-            "galacticEffectId": 1230,
-            "name": "MERIDIAN BLACK HOLE",
-            "icon": "Orb",
-            "description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains."
-        },
         "1240": {
             "galacticEffectId": 1241,
             "name": "VERGE OF DESTRUCTION",
             "icon": "Warning",
             "description": "This planet is under threat of destruction."
         },
+        "1195": {
+            "galacticEffectId": 1195,
+            "name": "DSS Construction Site- Phase 1",
+            "description": "Construction has began on the Democracy Space Station.  The local populace is honored to host thousands of construction crews for this historic event.",
+            "icon": "Wrench"
+        },
+        "1196": {
+            "galacticEffectId": 1196,
+            "name": "DSS Logistics Hub",
+            "description": "Parts for the Democracy Space Station are prefabricated all over the Galaxy, then shipped here to await assembly.",
+            "icon": "Governmental"
+        },
+        "1197": {
+            "galacticEffectId": 1197,
+            "name": "Xenoentomology Center",
+            "description": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research.",
+            "icon": "Science"
+        },
+        "1198": {
+            "galacticEffectId": 1198,
+            "name": "Deep Mantle Forge Complex",
+            "description": "The smelters and refineries on this planet turn crude materials into usable hardware.",
+            "icon": "Hammer"
+        },
+        "1199": {
+            "galacticEffectId": 1199,
+            "name": "DSS Construction Site- Phase 2",
+            "description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet's populace has centupled, and all the Galaxy can feel their democratic fervor.",
+            "icon": "Wrench"
+        },
+        "1203": {
+            "galacticEffectId": 1203,
+            "name": "THE JET BRIGADE",
+            "description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable.",
+            "icon": "JetBrigade"
+        },
+        "1204": {
+            "galacticEffectId": 1204,
+            "name": "LIBERTY DAY",
+            "description": "This planet is celebrating Liberty Day.",
+            "icon": "SuperEarth"
+        },
+        "1205": {
+            "galacticEffectId": 1205,
+            "name": "DSS CONSTRUCTION SITE - PHASE 3",
+            "description": "Construction of the Democracy Space Station is nearing completion. This project, which has employed millions, will soon take its place among the greatest achievements of Democracy.",
+            "icon": "Wrench"
+        },
+        "1206": {
+            "galacticEffectId": 1206,
+            "name": "TERMINID RESEARCH PRESERVE",
+            "description": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction.",
+            "icon": "Badge"
+        },
+        "1211": {
+            "galacticEffectId": 1211,
+            "name": "PLANETARY BOMBARDMENT",
+            "description": "The DSS fires nonstop orbital bombardments from its suite of 77 PRESIDENTIAL-Class Cannons, providing planetwide artillery support and accelerating liberation efforts. Temporarily, also increases Reinforcement Budget by +1 per squad member and augments all loadouts with FX-12 Shield Generator Relay Stratagem.",
+            "icon": "PlanetaryBomardment"
+        },
+        "1212": {
+            "galacticEffectId": 1212,
+            "name": "EAGLE STORM (Marker)",
+            "description": "Map marker for the Eagle Storm effect.",
+            "icon": "EagleStorm"
+        },
+        "1213": {
+            "galacticEffectId": 1213,
+            "name": "ORBITAL BLOCKADE (Marker)",
+            "description": "Map marker for the Orbital Blockade effect.",
+            "icon": "OrbitalBlockade"
+        },
+        "1217": {
+            "galacticEffectId": 1217,
+            "name": "DEMOCRACY SPACE STATION",
+            "description": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest.",
+            "icon": "SuperEarth"
+        },
+        "1228": {
+            "galacticEffectId": 1228,
+            "name": "MERIDIAN BLACK HOLE (old map marker)",
+            "description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid.  This galactic scar is all that remains.",
+            "icon": "Orb"
+        },
+        "1229": {
+            "galacticEffectId": 1229,
+            "name": "MERIDIAN BLACK HOLE",
+            "description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid.  This galactic scar is all that remains.",
+            "icon": "Orb"
+        },
+        "1230": {
+            "galacticEffectId": 1230,
+            "name": "MERIDIAN BLACK HOLE",
+            "description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains. Advisory: volatile spacetime fluctuations currently prohibit FTL travel to the Meridian Black Hole.",
+            "icon": "Orb"
+        },
+        "1232": {
+            "galacticEffectId": 1232,
+            "name": "FACTORY HUB",
+            "description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth.",
+            "icon": "Hammer"
+        },
+        "1234": {
+            "galacticEffectId": 1234,
+            "name": "CENTER OF SCIENCE",
+            "description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough.",
+            "icon": "Science"
+        },
+        "1236": {
+            "galacticEffectId": 1236,
+            "name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
+            "description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here.",
+            "icon": "Governmental"
+        },
+        "1239": {
+            "galacticEffectId": 1239,
+            "name": "JET BRIGADE FACTORIES",
+            "description": "Vertically enhanced Jet Brigade soldiers are produced here.",
+            "icon": "Automatons"
+        },
         "1241": {
             "galacticEffectId": 1241,
             "name": "FRACTURED PLANET",
-            "icon": "Orb",
-            "description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake."
-        },
-        "1242": {
-            "galacticEffectId": 1242,
-            "name": "MOVING SINGULARITY",
-            "icon": "Orb",
-            "description": "The singluarity is moving and is estimated to impact Super Earth."
+            "description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake.",
+            "icon": "Orb"
         },
         "1245": {
             "galacticEffectId": 1245,
             "name": "PREDATOR STRAIN",
-            "icon": "PredatorStrain",
-            "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
-        },
-        "1244": {
-            "galacticEffectId": 1244,
-            "name": "SPORE BURST STRAIN PRESPEED",
-            "icon": "SporeBurstStrain",
-            "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. They can explode into spores."
+            "description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat.",
+            "icon": "PredatorStrain"
         },
         "1249": {
             "galacticEffectId": 1249,
-            "name": "INCINERATION CORPS",
-            "icon": "FireBots",
-            "description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            "name": "THE INCINERATION CORPS",
+            "description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear.",
+            "icon": "FireBots"
+        },
+        "1252": {
+            "galacticEffectId": 1252,
+            "name": "FRACTURED PLANET",
+            "description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake.",
+            "icon": "Orb"
         },
         "1268": {
             "galacticEffectId": 1268,
             "name": "NEGATIVE ENERGY LABORATORY",
-            "icon": "Science",
-            "description": "Scientists without fear of implosion or spaghettification study negative energy here."
+            "description": "Scientists without fear of implosion or spaghettification study negative energy here.",
+            "icon": "Science"
+        },
+        "1269": {
+            "galacticEffectId": 1269,
+            "name": "The Great Host",
+            "description": "The Illuminate invasion fleet, constructed in secret behind the veil of the Meridian Wormhole. It is headed for Super Earth itself.",
+            "icon": "Illuminate"
         },
         "1282": {
             "galacticEffectId": 1282,
             "name": "HELLDIVER TRAINING FACILITIES",
-            "icon": "Badge",
-            "description": "Here, the best of the best go through the rigorous Helldiver training that will earn them their capes."
+            "description": "Here, the best of the best go through the rigorous Helldiver training that will earn them their capes.",
+            "icon": "Badge"
         },
         "1286": {
             "galacticEffectId": 1286,
             "name": "NEW HOPE CONSTRUCTION SITE",
-            "icon": "Wrench",
-            "description": "One of 3 Maximum Security Cities is under construction here."
+            "description": "One of 3 Maximum Security Cities is under construction here.",
+            "icon": "Hammer"
         },
         "1287": {
             "galacticEffectId": 1287,
             "name": "NEW HOPE CITY",
-            "icon": "Governmental",
-            "description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+            "description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation.",
+            "icon": "Governmental"
         },
         "1291": {
             "galacticEffectId": 1291,
             "name": "NEW ASPIRATION CITY",
-            "icon": "Governmental",
-            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation.",
+            "icon": "Governmental"
         },
         "1292": {
             "galacticEffectId": 1292,
             "name": "NEW YEARNING CITY",
-            "icon": "Governmental",
-            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+            "description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation.",
+            "icon": "Governmental"
         },
         "1295": {
             "galacticEffectId": 1295,
             "name": "TYRANNY PARK 2",
-            "icon": "Governmental",
-            "description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
-        },
-        "1303": {
-            "galacticEffectId": 1303,
-            "name": "RUPTURE STRAIN (ENEMIES)",
-            "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
-            "icon": "RuptureStrain"
-        },
-        "1304": {
-            "galacticEffectId": 1304,
-            "name": "OUTPOST ALPHA",
-            "description": "The first manned site established in Gloom-infested space.",
-            "icon": "Badge"
+            "description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders.",
+            "icon": "Governmental"
         },
         "1308": {
             "galacticEffectId": 1308,
@@ -170,8 +207,8 @@
         "1309": {
             "galacticEffectId": 1309,
             "name": "DRAGONROACHES",
-            "icon": "DragonRoach",
-            "description": "Terminid Dragonroaches menace the skies of this planet."
+            "description": "Terminid Dragonroaches menace the skies of this planet.",
+            "icon": "DragonRoach"
         },
         "1310": {
             "galacticEffectId": 1310,
@@ -179,65 +216,83 @@
             "description": "A deadly strain of ground-bursting Terminids is present on this planet.",
             "icon": "RuptureStrain"
         },
-        "1311": {
-            "galacticEffectId": 1311,
-            "name": "HIVE WORLD",
-            "icon": "HiveWorld",
-            "description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
-        },
-        "1324 ": {
+        "1324": {
             "galacticEffectId": 1324,
-            "icon": "Wrench",
             "name": "ULTRAMAFIC MINE",
-            "description": "A mine extracting platinum from deep-seated deposits of igneous rock."
+            "description": "A mine extracting platinum from deep-seated deposits of igneous rock.",
+            "icon": "Hammer"
+        },
+        "1329": {
+            "galacticEffectId": 1329,
+            "name": "LIBERTY DAY CELEBRATION",
+            "description": "Super Earth, our home, is the center of Liberty Day Festivities. Together, all citizens can watch on television the annual Defense Parade, the Justice Executions, and of course, the Freedom Fireworks. \n\nOn this special day, Helldivers are encouraged to visit Super Earth and watch this year's fireworks from their Super Destroyers.",
+            "icon": "SuperEarth"
         },
         "1342": {
             "galacticEffectId": 1342,
-            "icon": "Badge",
             "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
-            "description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
-        },
-        "1352": {
-            "galacticEffectId": 1352,
-            "icon": "Orb",
-            "name": "CONVENTIONAL BLACK HOLE",
-            "description": "This former planet is now nothing but a normal, stable black hole."
+            "description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated.",
+            "icon": "Badge"
         },
         "1344": {
             "galacticEffectId": 1344,
             "name": "PANDORA BASE",
-            "icon": "Badge",
-            "description": "The top-secret site where augmentations to the DSS are constructed."
+            "description": "The top-secret site where augmentations to the DSS are constructed.",
+            "icon": "Badge"
+        },
+        "1352": {
+            "galacticEffectId": 1352,
+            "name": "CONVENTIONAL BLACK HOLE",
+            "description": "This former planet is now nothing but a normal, stable black hole.",
+            "icon": "Orb"
         },
         "1353": {
             "galacticEffectId": 1353,
             "name": "DATA CENTER",
-            "icon": "Automatons",
-            "description": "The Automatons store large amounts of encrypted information here."
+            "description": "The Automatons store large amounts of encrypted information here.",
+            "icon": "Automatons"
+        },
+        "1355": {
+            "galacticEffectId": 1355,
+            "name": "HEAVY ARMOR SURGE",
+            "description": "Prepare to counter high numbers of heavily armored enemies.",
+            "icon": "Automatons"
+        },
+        "1357": {
+            "galacticEffectId": 1357,
+            "name": "HULK SURGE",
+            "description": "High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies.",
+            "icon": "Automatons"
+        },
+        "1359": {
+            "galacticEffectId": 1359,
+            "name": "DEVASTATOR SURGE",
+            "description": "The Automatons have deployed high numbers of Devastators to this planet.",
+            "icon": "Automatons"
         },
         "1361": {
+            "description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
             "galacticEffectId": 1361,
             "name": "CYBORGS",
-            "icon": "Cyborgs",
-            "description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            "icon": "Cyborgs"
         },
         "1373": {
             "galacticEffectId": 1373,
             "name": "CLASS 1 EXOSTORM",
-            "icon": "Storm",
-            "description": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+            "description": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum.",
+            "icon": "Storm"
         },
         "1374": {
             "galacticEffectId": 1374,
             "name": "CLASS 2 EXOSTORM",
-            "icon": "Storm",
-            "description": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet."
+            "description": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet.",
+            "icon": "Storm"
         },
         "1375": {
             "galacticEffectId": 1375,
             "name": "CLASS 3 EXOSTORM",
-            "icon": "Storm",
-            "description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+            "description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics.",
+            "icon": "Storm"
         },
         "1376": {
             "galacticEffectId": 1376,
@@ -248,37 +303,56 @@
         "1378": {
             "galacticEffectId": 1378,
             "name": "MINDLESS MASSES",
-            "icon": "ZombieTeam",
-            "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde.",
+            "icon": "ZombieTeam"
         },
         "1379": {
             "galacticEffectId": 1379,
             "name": "APPROPRIATORS",
-            "icon": "MechTeam",
-            "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs.",
+            "icon": "MechTeam"
         },
         "1386": {
             "galacticEffectId": 1386,
             "name": "SPORE BURST STRAIN",
-            "icon": "SporeBurstStrain",
-            "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed.",
+            "icon": "SporeBurstStrain"
         },
         "1387": {
             "galacticEffectId": 1387,
             "name": "COMMUNICATIONS ARRAY",
-
-            "icon": "Automatons",
-            "description": "The relay towers on this planet are important to Automaton communications."
+            "description": "The relay towers on this planet are important to Automaton communications.",
+            "icon": "Automatons"
         },
-      	"1395": {
+        "1395": {
             "galacticEffectId": 1395,
             "name": "TERMINID CONTROL SYSTEM+",
-            "icon": "TCSIcon",
-            "description": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            "description": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom.",
+            "icon": "TCSIcon"
+        },
+        "1400": {
+            "galacticEffectId": 1400,
+            "name": "Heavy SEAF Presence",
+            "description": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions.",
+            "icon": "SEAFPresence"
+        },
+        "1403": {
+            "galacticEffectId": 1403,
+            "name": "VOTE SNATCHERS",
+            "description": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics.",
+            "icon": "TerrorTeam"
+        },
+        "1407": {
+            "galacticEffectId": 1407,
+            "name": "VOID GATEWAY",
+            "description": "This planet serves as a connective point between this galaxy and the Void, allowing travel between the two spaces.",
+            "icon": "Gateway"
+        },
+        "1414": {
+            "galacticEffectId": 1414,
+            "name": "INVASION FLEET",
+            "description": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda.",
+            "icon": "InvasionFleet"
         }
-        
-
     }
 }
-
-	
