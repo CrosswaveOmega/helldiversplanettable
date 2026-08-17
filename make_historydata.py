@@ -501,6 +501,7 @@ async def get_region_stats(
     """Retrieve the current planet region status if present."""
     timestamp = str(ne.timestamp)
     dc = str(int(ne.day) // 30)
+    # There are no regions before cluster 15
     if int(dc) < 15:
         all_times_new[dc] = {}
 
@@ -518,14 +519,14 @@ async def get_region_stats(
     if interval not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
         if time > march_5th:
-            checkv = fetch_region_entries_by_closest_interval(conn, float(ne.timestamp))
+            checkv, closest = fetch_region_entries_by_closest_interval(conn, float(ne.timestamp))
             if checkv:
                 print(
-                    f"{timestamp} not found in all_region_times_new[{dc}] but WAS found in db"
+                    f"{timestamp} ({interval}) not found in all_region_times_new[{dc}] but a close enough one WAS found in db at {closest}"
                 )
 
                 logger.info(
-                    f"{timestamp} not found in all_region_times_new[{dc}] but WAS found in db"
+                    f"{timestamp} ({interval})  not found in all_region_times_new[{dc}] but a close enough one WAS found in db at {closest}"
                 )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]

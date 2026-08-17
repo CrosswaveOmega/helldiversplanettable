@@ -224,6 +224,27 @@ def fetch_region_entries_by_dayval(
         all_entries[interval][key] = indexv
     print(all_entries.keys())
     # input()
+    all_entries = dict(sorted(all_entries.items()))
+
+    print(all_entries.keys())
+
+    if all_entries:
+        filled_entries = {}
+
+        intervals = list(all_entries.keys())
+        lowest = intervals[0]
+        highest = intervals[-1]
+
+        current_entries = None
+
+        for interval in range(lowest, highest + 1):
+            if interval in all_entries:
+                current_entries = all_entries[interval]
+
+            if current_entries is not None:
+                filled_entries[interval] = current_entries
+
+        all_entries = filled_entries
     return all_entries
 
 
