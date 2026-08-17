@@ -17823,6 +17823,7 @@ UVP GAMMA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br
 UVP DELTA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ UVP DELTA - Void  moves to X -0.427 Y -0.571 (2026-08-14 11:52  UTC)<br/>
 ↳ UVP DELTA - Void of the Void sector's biome is changed from Plains [Moor] to Haunted Swamp [Moor] (2026-08-14 11:52  UTC)<br/>
+UVP DELTA - Void is obscured (2026-08-14 11:52  UTC)<br/>
 UVP ALPHA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ UVP ALPHA - Void moves to X -0.270 Y -0.778 (2026-08-14 11:52  UTC)<br/>
 ↳ UVP ALPHA - Void of the Void sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
@@ -17833,6 +17834,7 @@ UVP ALPHA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br
 UVP BETA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ UVP BETA - Void moves to X -0.468 Y -0.724 (2026-08-14 11:52  UTC)<br/>
 ↳ UVP BETA - Void of the Void sector's biome is changed from Plains [Moor] to Deadlands [Primordial] (2026-08-14 11:52  UTC)<br/>
+UVP BETA - Void is obscured (2026-08-14 11:52  UTC)<br/>
 *Senge 23 - Void* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *Senge 23 - Void* moves to X -0.402 Y -0.793 (2026-08-14 11:52  UTC)<br/>
 ↳ *Senge 23 - Void* of the Void sector's biome is changed from Plains [Moor] to Rocky Canyons [Sandy] (2026-08-14 11:52  UTC)<br/>
@@ -17840,6 +17842,7 @@ UVP BETA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/
 ↳ *Hydrobius - Void* moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius - Void* of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
 *Hydrobius - Void* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
+*Hydrobius - Void* is obscured (2026-08-14 11:52  UTC)<br/>
 *Senge 23 - Void* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 UVP BETA - Void  is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 UVP ALPHA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
@@ -17848,6 +17851,7 @@ UVP GAMMA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1D deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1H deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1B deploys to UVP ALPHA - Void (2026-08-14 11:52  UTC)<br/>
+*Hydrobius - Void* is visible (2026-08-14 11:52  UTC)<br/>
 Major Order | [A3-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-6) Major Order - VOID PIERCER ADVANCEMENT is issued | Objective: Operations, Samples, Eliminate (2026-08-14 11:59  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Helldivers are to enter the Void immediately. Here, conventional navigational arrays are non-functional. To aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void source planet, Helldivers must extract 35,000,000 samples from UVP ALPHA, complete 1,000,000 operations on UVP GAMMA, and eliminate 1,250,000,000 hostiles on SENGE 23. (2026-08-14 11:59  UTC)<br/>
 *Rirga Bay* is established as a VOID GATEWAY POI (2026-08-14 12:00  UTC)<br/>
