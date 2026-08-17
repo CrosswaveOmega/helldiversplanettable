@@ -133,10 +133,10 @@ def check_planet_stats_for_change(
                 newregen = v.get("regenPerSecond", 0)
                 decay_changed_on.append((i, v.get("owner", 0), newregen))
                 # print(f"planet {i} decay change to {newregen}")
-
-    logger.info(
-        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
-    )
+    if hp_change or decay_change:
+        logger.info(
+            f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+        )
     return decay_changed_on, hp_changed_on
 
 
@@ -166,10 +166,10 @@ def check_region_stats_for_change(
                     newregen = v.get("regenPerSecond", 0)
                     decay_changed_on.append((i, v.get("owner", 0), newregen))
                     # print(f"planet {i} decay change to {newregen}")
-
-    logger.info(
-        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
-    )
+    if hp_change or decay_change:
+        logger.info(
+            f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+        )
     return decay_changed_on, hp_changed_on
 
 
@@ -201,10 +201,10 @@ def check_planet_stats_dict_for_change(
         else:
             newregen = v.get("regenPerSecond", 0)
             decay_changed_on.append((i, v.get("owner", 0), newregen))
-
-    logger.info(
-        f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
-    )
+    if hp_change or decay_change:
+        logger.info(
+            f"checking the planet stats: hp:{hp_change}, decay:{decay_change} are significant"
+        )
     return decay_changed_on, hp_changed_on
 
 

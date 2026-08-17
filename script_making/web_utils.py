@@ -16,7 +16,7 @@ def get_web_file():
     """Parse the google doc into a text format."""
 
     url = "https://docs.google.com/document/d/1lvlNVU5aNPcUtPpxAsFS93P2xOJTAt-4HfKQH-IxRaA/export?format=txt"
-    with urllib.request.urlopen(url) as response:
+    with urllib.request.urlopen(url, timeout=60*15) as response:
         print("reading...")
         data = response.read()
         print("clear")
