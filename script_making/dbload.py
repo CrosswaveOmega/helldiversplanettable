@@ -154,7 +154,7 @@ def fetch_region_entries_by_closest_interval(
     )
     row = cursor.fetchone()
     if not row:
-        return {}
+        return {}, 0
 
     closest_interval = row[0]
 
