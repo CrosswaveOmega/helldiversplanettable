@@ -33,21 +33,21 @@ async def get_game_stat_at_time(timev: datetime) -> PlanetStatusDict:
     try:
         url = "https://api-helldivers.kejax.net/api/planets"
         params = {"time": int(timev.timestamp())}
-        timeout = aiohttp.ClientTimeout(total=60*5)  # Set the timeout to 10 seconds
+        timeout = aiohttp.ClientTimeout(total=60 * 5)  # Set the timeout to 10 seconds
 
         async with aiohttp.ClientSession(timeout=timeout) as session:
             async with session.get(url, params=params) as response:
                 print(response)
                 response_json = await response.json()
-                outv={}
-                for e,p in enumerate(response_json):
+                outv = {}
+                for e, p in enumerate(response_json):
                     if p is not None:
-                        #print(p)
-                        outv[p['index']]=p
+                        # print(p)
+                        outv[p["index"]] = p
                     else:
                         logger.warning(f"responce {e} is None!")
                         print(f"responce {e} is None!")
-                #outv = {p["index"]: p for p in response_json if p is not None}
+                # outv = {p["index"]: p for p in response_json if p is not None}
                 delta = datetime.now() - now
                 logger.info(f"That took about {str(delta)}")
                 return outv

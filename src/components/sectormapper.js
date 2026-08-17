@@ -112,6 +112,8 @@ function splitPlanetName(name, maxLength = 10) {
      */
 
     if (name.length <= maxLength) return name;
+    
+    
 
     const middle = Math.floor(name.length / 2);
     let leftSpace = name.lastIndexOf(" ", middle);
@@ -262,7 +264,7 @@ function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValu
                     x: "_x", y: "_y",
                     width: (p) => planet_size(p, big, small),
                     height: (p) => planet_size(p, big, small),
-                    src: (p) => planetimages["" + p.biome + ".webp"].base64_image,
+                    src: (p) => planetimages["" +  (p.show ? p.biome : "unknown") + ".webp"].base64_image,
                 })
                 : Plot.dot(laidOut, {
                     x: "_x", y: "_y", r: 5,
@@ -270,7 +272,7 @@ function makeIsolatedSectorPlot(sector, sname, planets, planetimages, sectorValu
                 }),
             Plot.text(laidOut, {
                 x: "_x", y: "_y",
-                text: (p) => splitPlanetName(p.name),
+                text: (p) => splitPlanetName(p.show ? p.name : "Unidentified"),
                 dy: 32,
                 textAnchor: "bottom",
                 fill: "white",

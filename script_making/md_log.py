@@ -17,6 +17,7 @@ Data aquired thanks to Herald/Cobfish's excelllent [Galactic Archive Log](https:
 See [The Helldivers Wiki's Major Orders Page](https://helldivers.wiki.gg/wiki/Major_Orders) for more details on the Major Orders.
 """
 
+
 def make_mo_markdown_link(text: str) -> str:
     """
     Replace any Major Order codes (A#-#-#) in the text with a Markdown link.
@@ -32,6 +33,7 @@ def make_mo_markdown_link(text: str) -> str:
         return f"[{code}]({url})"
 
     return re.sub(pattern, repl, text)
+
 
 def make_markdown_log(history: DaysObject):
     """Create the markdown log from the History Object"""

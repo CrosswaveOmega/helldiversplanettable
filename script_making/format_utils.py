@@ -281,18 +281,19 @@ def extract_biome_change_details(
         new_type = match.group("new_type").strip()
         slug = "moor_baseplanet"
         for i, v in biomes.items():
-            if new_biome in v["name"]:# and new_type in v["name"]:
-                print(slug,i)
+            if new_biome in v["name"]:  # and new_type in v["name"]:
+                print(slug, i)
                 slug = i
 
         return planet, sector, orig_biome, orig_type, new_biome, new_type, slug
     else:
         return None
 
+
 def extract_biome_set_details(
     text: str,
     biomes: Dict[str, Any],
-) -> Optional[Tuple[str, str,  str, str, str]]:
+) -> Optional[Tuple[str, str, str, str, str]]:
     """
     Extracts biome change details from a text.
 
@@ -319,7 +320,6 @@ def extract_biome_set_details(
         return planet, sector, new_biome, new_type, slug
     else:
         return None
-
 
 
 def sort_event_type(

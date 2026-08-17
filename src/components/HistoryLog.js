@@ -664,7 +664,7 @@ export function makeplot(
                 src: (p) => {
                     console.log(p.name, p.biome);
                     return planetimages[
-                        "planet_" + p.biome + "_rotate.png"
+                        "planet_" + (p.show ? p.biome : "unknown") + "_rotate.png"
                     ].base64_image;
                 },
             }) :
@@ -906,7 +906,7 @@ export function makeplotcurrent(
                 src: (p) => {
                     console.log(p.biome);
                     return planetimages[
-                        "" + p.biome + ".webp"
+                        "" + (p.show ? p.biome : "unknown") + ".webp"
                     ].base64_image;
                 },
             }) :
@@ -917,7 +917,7 @@ export function makeplotcurrent(
                 planets, {
                     x: (p) => x_c(p.position.x),
                     y: (p) => y_c(p.position.y),
-                    text: (p) => splitPlanetName(p.name),
+                    text: (p) => splitPlanetName(p.show ? p.name : "Unidentified"),
                     dy: 32,
                     textAnchor: "bottom",
                     fill: "white",

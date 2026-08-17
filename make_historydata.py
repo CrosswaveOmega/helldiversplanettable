@@ -90,7 +90,7 @@ vjson = load_and_merge_json_files("planets", "./hd2json")
 json.dump(vjson, open("allplanet.json", "w+", encoding="utf8"), indent=4)
 ejson = MyEffects(**check_and_load_json("./myeffects.json"))
 
-extraplanets=defaultdict(list)
+extraplanets = defaultdict(list)
 
 is_redirected = not sys.stdout.isatty()
 if is_redirected:
@@ -276,7 +276,7 @@ async def format_event_obj() -> None:
     for event in days_out.events_all:
         text = event.text
         event.planet = get_planet(planets_Dict2, text)
-        
+
         event.type, match = get_event_type(text, event_types)
         event.region = get_region(allregions, text)
 
@@ -289,26 +289,27 @@ async def format_event_obj() -> None:
             event.region,
             event.type,
         )
-        
-        if event.type =="planet added":
-            print(event.planet)
-            name,id=event.planet[0]
-            planetv=planets_Dict[id]
 
-            addme={
-                "name": planetv['name'],
+        if event.type == "planet added":
+            print(event.planet)
+            name, id = event.planet[0]
+            planetv = planets_Dict[id]
+
+            addme = {
+                "name": planetv["name"],
                 "position": {
                     "x": -1,
                     "y": -1,
                 },
-                "sector": planetv['sector'],
+                "sector": planetv["sector"],
                 "index": id,
                 "currentOwner": "Humans",
-                "waypoints": [ ],
+                "waypoints": [],
                 "event": False,
-                "biome": "moor_baseplanet"
+                "show": True,
+                "biome": "unknown",
             }
-            extraplanets[planetv['sector']].append(addme)
+            extraplanets[planetv["sector"]].append(addme)
         if monitoring:
             event_set, last_time = monitor_event(event, lasttime, [])
             if last_time.replace(tzinfo=timezone.utc) >= datetime.now(timezone.utc):
@@ -555,9 +556,9 @@ def update_planet_stats(
     # Update the Planet's Regions.
     for i, v in regionstats.items():
         pindex, rindex = i.split("_")
-        #print(pindex, rindex, str(pindex) in planetclone)
+        # print(pindex, rindex, str(pindex) in planetclone)
         if str(pindex) in planetclone:
-            #print(pindex, rindex, str(rindex) in planetclone[str(pindex)].regions)
+            # print(pindex, rindex, str(rindex) in planetclone[str(pindex)].regions)
             if str(rindex) in planetclone[str(pindex)].regions:
                 planetclone[str(pindex)].regions[str(rindex)].hp = int(
                     v.get("health", 0)
@@ -645,7 +646,7 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
     for sector, listv in extraplanets.items():
         for p in listv:
             if sector not in sectors:
-                sectors[sector]=[]
+                sectors[sector] = []
             sectors[sector].append(p)
     temp = {}
     for _, pls in sectors.items():
@@ -654,6 +655,7 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
                 "link": [int(w) for w in p["waypoints"]],
                 "t": ENCODE(get_faction(p["currentOwner"]), 0, 0),
                 "biome": p.get("biome", "unknown"),
+                "show": True,
                 "position": p["position"],
             }
             per = {
@@ -718,7 +720,7 @@ async def process_event(
 
     for i, v in lastregionstats.items():
         pindex, rindex = i.split("_")
-        #print(pindex, rindex)
+        # print(pindex, rindex)
         if str(pindex) in planetclone:
             if str(rindex) in planetclone[str(pindex)].regions:
                 planetclone[str(pindex)].regions[str(rindex)].hp = v.get("health", 0)
@@ -740,14 +742,14 @@ async def process_event(
     if regionstats:
         lastregionstats.update(regionstats)
 
-    if event.type=='AssaultDivResort':
+    if event.type == "AssaultDivResort":
         for place, last in store.items():
             if "Pos" in place:
-                eff = get_effect(place.replace("Pos",""))
+                eff = get_effect(place.replace("Pos", ""))
                 planetclone[last].adiv = ""
                 if eff:
                     planetclone[last].remove_desc(eff.name)
-                store[place]=None
+                store[place] = None
 
     if "Assault Division" in event.type:
         site = extract_assault_division(event.text)
@@ -774,7 +776,7 @@ async def process_event(
         # ASSAULT DIVISIONS ARE ADDED IN HERE.
         update_planet_ownership(event, planetclone, store)
     print(store)
-    
+
     # event.galaxystate = planetclone
     return planetclone
 
@@ -790,7 +792,7 @@ def update_region_ownership(
     # A region when it happens
     for p in event.region:
         rn, ind = p
-        #print(p, rn, rn not in planetclone[str(inde)].regions)
+        # print(p, rn, rn not in planetclone[str(inde)].regions)
         if rn not in planetclone[str(inde)].regions:
             planetclone[str(inde)].regions[rn] = PlanetRegion(
                 index=int(ind), name=rn, t=ENCODE(1, 0, 0), r=0, hp=100
@@ -933,7 +935,7 @@ def update_planet_ownership(
             EXOSTORM_MAP = {
                 "exostorm_class_one": ("CLASS 1 EXOSTORM", 1),
                 "exostorm_class_two": ("CLASS 2 EXOSTORM", 2),
-                "exostorm_class_three": ("CLASS 3 EXOSTORM", 3)
+                "exostorm_class_three": ("CLASS 3 EXOSTORM", 3),
             }
 
             EXOSTORM_NAMES = [v[0] for v in EXOSTORM_MAP.values()]
@@ -955,7 +957,7 @@ def update_planet_ownership(
                 "exostorm_class_one": ("CLASS 1 EXOSTORM", 1),
                 "exostorm_class_two": ("CLASS 2 EXOSTORM", 2),
                 "exostorm_class_three": ("CLASS 3 EXOSTORM", 3),
-                "void_added": ("The Void", 4)
+                "void_added": ("The Void", 4),
             }
 
             EXOSTORM_NAMES = [v[0] for v in EXOSTORM_MAP.values()]
@@ -1005,10 +1007,17 @@ def update_planet_ownership(
             )
             planetclone[str(ind)].biome = slug
 
+        if event.type == "HidePlanet":
+            planetclone[str(ind)].show = False
+
+        if event.type == "ShowPlanet":
+            planetclone[str(ind)].show = True
+
         if event.type == "Biome Set":
             _, _, _, _, _, _, slug = extract_biome_change_details(
                 event.text, vjson["biomes"]
             )
+            print()
             planetclone[str(ind)].biome = slug
 
         if event.type == "Black Hole":
@@ -1062,7 +1071,7 @@ def handle_decay_events(decay):
     if decay:
         decay_for_planets = {}
         for ind, o, p in decay:
-            #print(str(ind))
+            # print(str(ind))
             planet = vjson["planets"].get(str(ind))
             if planet:
                 planet["owner"] = o
@@ -1089,10 +1098,12 @@ def handle_region_decay_events(
         decay_for_planets: Dict[str, List[Any]] = {}
         for ind, o, dec in decay:
             change = round((float(dec) * 3600) / 10000, 2)
-            sp=ind.split("_")
-            planet=vjson["planets"].get(str(sp[0]))['name']
-            outtext.append(f" Region Decay: {change} on {planet}'s " + sp[1]+ " region")
-            #print(outtext)
+            sp = ind.split("_")
+            planet = vjson["planets"].get(str(sp[0]))["name"]
+            outtext.append(
+                f" Region Decay: {change} on {planet}'s " + sp[1] + " region"
+            )
+            # print(outtext)
             logger.info(outtext)
 
     return outtext

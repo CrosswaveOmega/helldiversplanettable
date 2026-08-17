@@ -152,6 +152,14 @@
         "name": "Biome Set",
         "matchable": ["biome is changed"]
     },
+    "HidePlanet": {
+        "name": "HidePlanet",
+        "matchable": ["is obscured"]
+    },
+    "ShowPlanet": {
+        "name": "ShowPlanet",
+        "matchable": ["is visible"]
+    },
     "Effect": {
         "name": "Currently Unknown Effect",
 
