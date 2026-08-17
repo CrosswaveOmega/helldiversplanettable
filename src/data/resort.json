@@ -1030940,6 +1030940,7 @@
          "eind": 0
       },
       {
+         "show": false,
          "position": {
             "x": -0.323,
             "y": -0.606
@@ -1031031,6 +1031032,7 @@
       },
       {
          "t": 17,
+         "show": true,
          "eind": 11171
       }
    ],
@@ -1031211,6 +1031213,7 @@
       {
          "exo": 4,
          "biome": "sandy_spiky",
+         "show": false,
          "desc": [
             {
                "name": "The Void",
