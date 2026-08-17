@@ -236,8 +236,8 @@ def check_region_stats_dict_for_change(
         else:
             newregen = v.get("regenPerSecond", 0)
             decay_changed_on.append((i, v.get("owner", 0), newregen))
-
-    logger.info(
-        f"checking the region stats: hp:{hp_change}, decay:{decay_change} are significant"
-    )
+    if hp_change or decay_change:
+        logger.info(
+            f"checking the region stats: hp:{hp_change}, decay:{decay_change} are significant"
+        )
     return decay_changed_on, hp_changed_on
