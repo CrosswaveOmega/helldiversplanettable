@@ -1477,8 +1477,9 @@ if __name__ == "__main__":
     get_web_file()
 
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
-
+    
     if text != old_text or args.force:
+        logger.info("Starting program...") 
         make_day_obj(text)
 
         asyncio.run(main_code())

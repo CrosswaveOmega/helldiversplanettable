@@ -171,7 +171,7 @@ def fetch_region_entries_by_closest_interval(
         indexv = {key: entry[i] for i, key in enumerate(keys)}
         key = f"{indexv['pindex']}_{indexv['rname']}"
         all_entries[key] = indexv
-    return all_entries
+    return all_entries, closest_interval
 
 
 def fetch_entries_by_dayval(conn: sqlite3.Connection, dayval: int) -> PlanetStatusDays:
