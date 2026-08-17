@@ -1468,10 +1468,12 @@ if __name__ == "__main__":
     # Determine if any significant change was made.
     old_text = ""
     print("Reading web file...")
+    logger.info("Reading web file...") 
     if os.path.exists("src/data/gen_data/lasttext.md"):
         with open("src/data/gen_data/lasttext.md", "r", encoding="utf-8") as file:
             old_text = file.read()
-
+    
+    logger.info("Getting web file...") 
     get_web_file()
 
     text = open("./src/data/gen_data/text.md", "r", encoding="utf8").read()
