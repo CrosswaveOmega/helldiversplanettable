@@ -429,6 +429,9 @@ async def get_planet_stats(
 
     if dc not in all_times_new:
         ents = fetch_entries_by_dayval(conn, dc)
+        logger.info(
+            f"all_times_new[{dc}] is not present.  {timestamp} ({int(float(timestamp)) // 900})"
+        )
         for k in list(all_times_new.keys()):
             if k != str(int(dc) - 1) and k != str(int(dc) + 1):
                 all_times_new.pop(k)
@@ -440,11 +443,11 @@ async def get_planet_stats(
             checkv = fetch_entries_by_interval(conn, float(ne.timestamp))
             if checkv:
                 print(
-                    f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
+                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db"
                 )
 
                 logger.info(
-                    f"{timestamp} not found in all_times_new[{dc}] but WAS found in db"
+                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db"
                 )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
@@ -775,7 +778,7 @@ async def process_event(
     if event.planet:
         # ASSAULT DIVISIONS ARE ADDED IN HERE.
         update_planet_ownership(event, planetclone, store)
-    print(store)
+    #print(store)
 
     # event.galaxystate = planetclone
     return planetclone
