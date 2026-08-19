@@ -436,7 +436,7 @@ async def get_planet_stats(
             if k != str(int(dc) - 1) and k != str(int(dc) + 1):
                 all_times_new.pop(k)
         all_times_new[dc] = ents
-    interval = int(float(timestamp)) // 900
+    interval = int(int(float(ne.timestamp)) // 900)
     if interval not in all_times_new[dc]:
         time = datetime.fromtimestamp(ne.timestamp, tz=timezone.utc)
         if time > march_5th:
@@ -447,7 +447,7 @@ async def get_planet_stats(
                 )
 
                 logger.info(
-                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db"
+                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db; dayval of new is {checkv['dayval']}"
                 )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
