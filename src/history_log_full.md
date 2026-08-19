@@ -13413,13 +13413,15 @@ DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 ↳ *Fury* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
 ↳ *Fury*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
 ↳ *Fury* of the Xzar sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *Fury* of the Xzar sector's biome is changed from Unknown [Unknown] to Magma [Magma] (2025-12-04 10:04  UTC)<br/>
 *K* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
 ↳ *K* moves to X -0.657 Y 0.33 (2025-12-04 10:04  UTC)<br/>
 ↳ *K* of the Trigon sector's biome is set to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
 ↳ *K* - *Choepessa IV* warp link is added (2025-12-04 10:04  UTC)<br/>
 ↳ *K* - *Varylia 5* warp link is added (2025-12-04 10:04  UTC)<br/>
 ↳ *K*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
-↳ *K*  of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *K* of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *K* of the Trigon sector's biome is changed from Unknown [Unknown] to Magma [Magma] (2025-12-04 10:04  UTC)<br/>
 *Mox* is now identified in the Trigon sector (2025-12-04 10:04  UTC)<br/>
 ↳ *Mox* moves to X -0.766 Y 0.41 (2025-12-04 10:04  UTC)<br/>
 ↳ *Mox* of the Trigon sector's biome is set to Magma [Magma] biome (2025-12-04 10:04  UTC)<br/>
@@ -13427,14 +13429,12 @@ DSS effect Heavy Ordnance Distribution stops (2025-12-04 07:58  UTC)<br/>
 ↳ *Mox* - *Vega Bay* warp link is added (2025-12-04 10:04  UTC)<br/>
 ↳ *Mox*'s max health is changed to 2m (2025-12-04 10:04  UTC)<br/>
 ↳ *Mox* of the Trigon sector instantly flips to Automaton control (2025-12-04 10:04  UTC)<br/>
+↳ *Mox* of the Trigon sector's biome is changed from Unknown [Unknown] to Magma [Magma] (2025-12-04 10:04  UTC)<br/>
 *Fury* high priority campaign starts (2025-12-04 10:06  UTC)<br/>
 *Mox* high priority campaign starts (2025-12-04 10:06  UTC)<br/>
 *K* high priority campaign starts (2025-12-04 10:06  UTC)<br/>
 *Mox* high priority campaign ends (2025-12-04 10:07  UTC)<br/>
 *K* high priority campaign ends (2025-12-04 10:07  UTC)<br/>
-*Fury* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
-*Mox* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
-*K* biome changed to Magma Desert (2025-12-04 10:07  UTC)<br/>
 Major Order | [A2-12-2](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-2) Liberate 3 Magma Worlds is issued | Objective: Liberate (2025-12-04 10:10  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Helldiver operations have led to the discovery of Automaton operations on multiple Magma planets, previously outside of operational surveillance. These planets have been added to the Galactic Map. The Helldivers are ordered to deploy to these planets immediately. BICEP, ADRENAL 8, and TERRENE are the initial targets. Seize the Automaton industrial facilities so they may be turned towards Democratic Prosperity. (2025-12-04 10:10  UTC)<br/>
 NOTE: At 10:34am the dispatch and briefing were fixed to correctly reflect that the objective was *Fury*, *K*, and *Mox* respectively (2025-12-04 10:34  UTC)<br/>
@@ -15922,10 +15922,13 @@ DSS effect EAGLE STORM starts (2026-04-27 16:44  UTC)<br/>
 *Peacock* - *Luxuriant* warp link is added (2026-04-28 11:47  UTC)<br/>
 *Luxuriant* is now identified in the Jin Xi sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Luxuriant* moves to X 0.874 Y -0.07 (2026-04-28 12:01  UTC)<br/>
-*Brilliance* is now identified in the Orion sector (2026-04-28 12:01  UTC)<br/>
+↳ *Luxuriant* of the Jin Xi sector's biome is changed from Unknown [Unknown] to Deciduous Forest [Forest] (2026-04-28 12:01  UTC)<br/>
+↳ *Brilliance* is now identified in the Orion sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Brilliance* moves to X 0.34 Y 0.323 (2026-04-28 12:01  UTC)<br/>
+↳ *Brilliance* of the Orion sector's biome is changed from Unknown [Unknown] to Deciduous Forest [Forest] (2026-04-28 12:01  UTC)<br/>
 *Big Rock* is now identified in the Sten sector (2026-04-28 12:01  UTC)<br/>
 ↳ *Big Rock* moves to X 0.944 Y 0.099 (2026-04-28 12:01  UTC)<br/>
+↳ *Big Rock* of the Sten sector's biome is changed from Unknown [Unknown] to Desert *Oasis* [*Oasis*] (2026-04-28 12:01  UTC)<br/>
 *Brilliance* biome changed to Deciduous Forest (2026-04-28 12:01  UTC)<br/>
 *Luxuriant* biome changed to Deciduous Forest (2026-04-28 12:01  UTC)<br/>
 *Big Rock* biome changed to Desert *Oasis* (2026-04-28 12:01  UTC)<br/>
@@ -16058,8 +16061,10 @@ Assault Division: Predator Strain U1C deploys to *Heeth* (2026-05-05 11:21  UTC)
 *Heeth* of the Orion sector is attacked by Terminids (2026-05-05 11:21  UTC)<br/>
 *Fronteria* is now identified in the Jin Xi sector (2026-05-05 12:01  UTC)<br/>
 ↳ *Fronteria* moves to X 0.502 Y 0.209 (2026-05-05 12:01  UTC)<br/>
+↳*Fronteria* of the Jin Xi sector's biome is changed from Unknown [Unknown] to Desert *Oasis* [*Oasis*] (2026-05-05 12:01  UTC)<br/>
 *Zygos* is now identified in the Orion sector (2026-05-05 12:01  UTC)<br/>
 ↳ *Zygos* moves to X 0.388 Y 0.211 (2026-05-05 12:01  UTC)<br/>
+↳ *Zygos* of the Orion sector's biome is changed from Unknown [Unknown] to Desert *Oasis* [*Oasis*] (2026-05-05 12:01  UTC)<br/>
 *Fronteria* - *Crimsica* warp link is added (2026-05-05 12:01  UTC)<br/>
 *Fronteria* - Heath warp link is added (2026-05-05 12:01  UTC)<br/>
 *Zygos* - *Veld* warp link is added (2026-05-05 12:01  UTC)<br/>
@@ -16810,7 +16815,9 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 08:26  UTC)<br/>
  (2026-06-16 09:00  UTC)<br/>
 *Basquine VIII* is now identified in the Orion sector (2026-06-16 09:01  UTC)<br/>
 ↳ *Basquine VIII* moves to X 0.272 Y -0.775 (2026-06-16 09:01  UTC)<br/>
+↳ *Basquine VIII* of the Orion sector's biome is changed from Unknown [Unknown] to Autumn Forest [Forest] (2026-06-16 09:01  UTC)<br/>
 *Sangis* is now identified in the Sten sector (2026-06-16 09:01  UTC)<br/>
+↳ *Sangis* of the Sten sector's biome is changed from Unknown [Unknown] to Autumn Forest [Forest] (2026-06-16 09:01  UTC)<br/>
 *Basquine VIII* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
 *Sangis* liberation campaign starts (2026-06-16 09:01  UTC)<br/>
 DSS deploys to *Acamar IV* of the Jin Xi sector (2026-06-16 09:01  UTC)<br/>
@@ -17543,6 +17550,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-08-01 04:05  UTC)<br/>
 ### Day: #906
 DSS effect ORBITAL BLOCKADE starts (2026-08-01 13:31  UTC)<br/>
 *Acamar IV* Region 1 ERIDANI City has fallen to Human (2026-08-01 15:42  UTC)<br/>
+↳ *Acamar IV* Region 1 ERIDANI City has fallen to Human (2026-08-01 15:42  UTC)<br/>
 *Acamar IV* is liberated (2026-08-02 01:34  UTC)<br/>
 DSS deploys to *Grand Errant* of the Farsight sector (2026-08-02 01:34  UTC)<br/>
 *Pandion-XXIV* liberation campaign starts (2026-08-02 01:34  UTC)<br/>
@@ -17831,7 +17839,7 @@ UVP ALPHA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br
 ↳ UVP ALPHA - Void of the Void sector's biome is changed from Plains [Moor] to Deciduous Crimson Forest [Forest] (2026-08-14 11:52  UTC)<br/>
 *VOID SOURCE PLANET* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *VOID SOURCE PLANET* moves to X -0.323 Y -0.606 (2026-08-14 11:52  UTC)<br/>
-↳ *VOID SOURCE PLANET* of the Void sector's biome is changed from Plains [Moor] to Unknown [Moor] (2026-08-14 11:52  UTC)<br/>
+↳ *VOID SOURCE PLANET* of the Void sector's biome is changed from Plains [Moor] to Void Forest [Special] (2026-08-14 11:52  UTC)<br/>
 *VOID SOURCE PLANET* is established as a ANOMALY LOCATION POI (2026-08-14 11:52  UTC)<br/>
 *VOID SOURCE PLANET* is obscured (2026-08-14 11:52  UTC)<br/>
 UVP BETA - Void is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
@@ -17851,9 +17859,9 @@ UVP BETA - Void  is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 UVP ALPHA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 UVP DELTA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 UVP GAMMA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1D deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1H deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1B deploys to UVP ALPHA - Void (2026-08-14 11:52  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1D deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
+Assault Division: APPROPRIATORS U1H deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1B deploys to UVP ALPHA - Void (2026-08-14 11:52  UTC)<br/>
 Major Order | [A3-8-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-6) Major Order - VOID PIERCER ADVANCEMENT is issued | Objective: Operations, Samples, Eliminate (2026-08-14 11:59  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Helldivers are to enter the Void immediately. Here, conventional navigational arrays are non-functional. To aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void source planet, Helldivers must extract 35,000,000 samples from UVP ALPHA, complete 1,000,000 operations on UVP GAMMA, and eliminate 1,250,000,000 hostiles on SENGE 23. (2026-08-14 11:59  UTC)<br/>
 *Rirga Bay* is established as a VOID GATEWAY POI (2026-08-14 12:00  UTC)<br/>
@@ -17867,10 +17875,10 @@ Dispatch: INTELLIGENCE BRIEF Intel confirms deployment of two new Illuminate bio
  (2026-08-14 13:37  UTC)<br/>
 Dispatch: STRATEGIC ADVISORY. Data indicates the exteriors of the Void is barricaded with highly intense cosmic radiation field. In order to avoid molecular disintegration, or worse, Helldivers are advised to utilize the Warp Relay on the gateway planet of RIRGA BAY to enter the Void. This is a perfectly safe and mandatory process for destroyer and crew. (2026-08-14 15:04  UTC)<br/>
 DSS deploys to *Hesoe Prime* of the Rigel sector (2026-08-14 16:20  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1A leaves *Rirga Bay* (2026-08-14 19:11  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1E deploys to *Senge 23 - Void* (2026-08-14 19:12  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1B leaves *Hesoe Prime* (2026-08-14 19:12  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1F deploys to *Rirga Bay* (2026-08-14 19:13  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1A leaves *Rirga Bay* (2026-08-14 19:11  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1E deploys to *Senge 23 - Void* (2026-08-14 19:12  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1B leaves *Hesoe Prime* (2026-08-14 19:12  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1F deploys to *Rirga Bay* (2026-08-14 19:13  UTC)<br/>
 DSS deploys to UVP GAMMA - Void of the Void sector (2026-08-14 20:20  UTC)<br/>
 
 # Day: #920
@@ -17906,6 +17914,7 @@ Dispatch: MAJOR ORDER WON. The Helldivers' investigative charting of the Void's 
 Assault Division: APPROPRIATORS U1I deploys to *UVP Delta - Void* (2026-08-18 04:49  UTC)<br/>
 Assault Division: INVASION FLEET U1D deploys to *UVP Delta - Void* (2026-08-18 04:49  UTC)<br/>
 *UVP Delta - Void* has a new effect: INVASION FLEET-The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed *Super Earth* civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda. (2026-08-18 04:49  UTC)<br/>
+*UVP Delta - Void* is visible (2026-08-18 04:49  UTC)<br/>
 *UVP Delta - Void* liberation campaign starts (2026-08-18 04:49  UTC)<br/>
 Dispatch:VOID PLANET TRIANGULATED. UVP DELTA is now reachable, thanks to Helldiver efforts. All detected planet within the Void are now accessible, with the exception of one, which is believed to lie at the Void's astro-temporal center. (2026-08-18 04:49  UTC)<br/>
 Dispatch: T-MINUS 7 HOURS: SEASSE The Void Warp Relay is nearing optimal calibration. The jump to *Seasse*, the Void source planet will commence in 7 hours. Tactical augmentations procured by the Helldivers during this preparatory phase are currently being processed by fleet logistics. The Illuminate will soon face the inescapable reality of Managed Democracy. (2026-08-18 04:51  UTC)<br/>
@@ -17913,16 +17922,62 @@ Dispatch: T-MINUS 6 HOURS: SEASSE The Void Warp Relay has entered its final powe
 
 ### Day: #923
 Dispatch: T-MINUS 3 HOURS: SEASSE Final systems checks are underway across the vanguard fleet. The Void Warp Relay is approaching the terminal energy density required for transit on schedule. High Command reminds all personnel to report to battle stations and immediately report any unapproved physical mutations. Continue to prepare for imminent, synchronized FTL transit. (2026-08-18 09:02  UTC)<br/>
-Dispatch: FINAL PREPARATIONS: SEASSE The Void Warp Relay calibration is complete. Helldivers are advised: T-Minus 1 Hour to Landfall. The path to to *Seasse*, the Void source planet, is fully stabilized. All Helldivers are ordered to conclude preparatory operations. Ready for imminent deployment into the heart of the anomaly, and the lawful eradication of the Void. For *Super Earth*. (2026-08-18 10:59  UTC)<br/>
+Dispatch: FINAL PREPARATIONS: SEASSE The Void Warp Relay calibration is complete. Helldivers are advised: T-Minus 1 Hour to Landfall. The path to *Seasse*, the Void source planet, is fully stabilized. All Helldivers are ordered to conclude preparatory operations. Ready for imminent deployment into the heart of the anomaly, and the lawful eradication of the Void. For *Super Earth*. (2026-08-18 10:59  UTC)<br/>
  Decay: -1.0 on Void sector
  (2026-08-18 10:59  UTC)<br/>
 *VOID SOURCE PLANET* is visible (2026-08-18 11:57  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1E deploys to *VOID SOURCE PLANET* (2026-08-18 11:57  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) U1G deploys to *VOID SOURCE PLANET* (2026-08-18 11:57  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1E deploys to *VOID SOURCE PLANET* (2026-08-18 11:57  UTC)<br/>
+Assault Division: MINDLESS MASSES U1G deploys to *VOID SOURCE PLANET* (2026-08-18 11:57  UTC)<br/>
  Decay: 1.0 on Void sector<br/> Decay: 4.0 on VOID SOURCE PLANET
  (2026-08-18 11:57  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1H deploys to *VOID SOURCE PLANET* (2026-08-18 12:01  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1H deploys to *VOID SOURCE PLANET* (2026-08-18 12:01  UTC)<br/>
 *VOID SOURCE PLANET* liberation campaign starts (2026-08-18 12:01  UTC)<br/>
 Major Order | [A3-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-7) Major Order - VOID PIERCER DISSOLUTION is issued| Objective: Liberate (2026-08-18 12:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. The Helldivers have reached the heart of the Void: *Seasse*, and must liberate the planet by any means necessary to stop the spread of this breeding ground for Tyranny. While forces clear the surface, an elite 20-person Ministry of Science team will descend into its depths to collapse the Void from within. High Command guarantees this process is entirely safe and completely understood. (2026-08-18 12:01  UTC)<br/>
-Dispatch:SEASSE SCIENCE EXPEDITION SITREP.  The elite 20-person Ministry of Science team has successfully breached the crust of *Seasse*. Their objective: to map the subterranean geological geometry and initiate the completely understood dissolution of the Void from its physical core. High Command reports optimal morale as these brave Patriots begin their descent into the anomaly. (2026-08-18 14:29  UTC)<br/>
+Dispatch: SEASSE SCIENCE EXPEDITION SITREP.  The elite 20-person Ministry of Science team has successfully breached the crust of *Seasse*. Their objective: to map the subterranean geological geometry and initiate the completely understood dissolution of the Void from its physical core. High Command reports optimal morale as these brave Patriots begin their descent into the anomaly. (2026-08-18 14:29  UTC)<br/>
+Dispatch: SEASSE SCIENCE EXPEDITION SITREP. The elite 18-person research team has reached the secondary lithospheric layer of *Seasse*. Sub-surface telemetry remains highly encouraging. The team has voluntarily deactivated their atmospheric filtration masks to better sample the localized, ecosystem through their own sense of Democracy. Progress remains entirely on schedule. (2026-08-19 08:38  UTC)<br/>
+
+### Day: #924
+Assault Division: INVASION FLEET U1E deploys to *VOID SOURCE PLANET* (2026-08-19 09:39  UTC)<br/>
+Assault Division: APPROPRIATORS U1J deploys to *Alairt III* (2026-08-19 12:19  UTC)<br/>
+*Alairt III* of the Hanzo sector is attacked by Illuminates (2026-08-19 12:21  UTC)<br/>
+*Alairt III* Region 3 FREE TRADE MegaCity is besieged by Human (2026-08-19 12:21  UTC)<br/>
+Dispatch:EXOSTORM ADVISORY. A Category 3 Exostorm has been detected on ALAIRT III, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend ALAIRT III to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 12:22  UTC)<br/>
+Dispatch: DSS STATUS UPDATE. The DSS (Democracy Space Station) is undergoing examination after exiting the Void. Reports of rhythmic knocking across the hull have been independently confirmed, and though they have intensified, High Command maintains these vibrations are merely localized thermal contraction. The examiners assigned by the Ministry of Truth have volunteered to remain aboard indefinitely to monitor the situation; as a precaution, all outbound shuttle access is suspended. (2026-08-19 13:38  UTC)<br/>
+ Decay: 0.0 on Alairt III
+ (2026-08-19 13:38  UTC)<br/>
+ Region Decay: 0.2 on Alairt III's GREATER STOROUSE region<br/> Region Decay: 0.2 on Alairt III's NEW STOROUSE region<br/> Region Decay: 0.2 on Alairt III's SHED region<br/> Region Decay: 0.6 on Alairt III's FREE TRADE region
+ (2026-08-19 13:38  UTC)<br/>
+*Alairt III* Region 0 GREATER STOROUSE Town is besieged by Human (2026-08-19 13:39  UTC)<br/>
+*Alairt III* Region 1 NEW STOROUSE Town is besieged by Human (2026-08-19 13:39  UTC)<br/>
+*Alairt III* Region 2 SHED Town is besieged by Human (2026-08-19 13:39  UTC)<br/>
+Assault Division: APPROPRIATORS U1K deploys to *Alaraph* (2026-08-19 13:44  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Alaraph* (2026-08-19 13:44  UTC)<br/>
+Assault Division: MINDLESS MASSES U1D leaves *Alaraph* (2026-08-19 13:44  UTC)<br/>
+*Alaraph* of the Akira sector is attacked by Illuminates (2026-08-19 13:47  UTC)<br/>
+↳ *Alaraph* Region 0 PERMACURIS City is besieged by Human (2026-08-19 13:47  UTC)<br/>
+Dispatch:EXOSTORM ADVISORY.  A Category 3 Exostorm has been detected on ALARAPH, blanketing the planet in violent celestial super-storms.  These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.  Helldivers: defend ALARAPH to nullify the Exostorm before it can worsen.  Do not let these celestial tempests halt our advance. (2026-08-19 13:47  UTC)<br/>
+*Alaraph* Region 1 HANGAR 6 City is besieged by Human (2026-08-19 13:48  UTC)<br/>
+Assault Division: APPROPRIATORS U1L deploys to *Karlia* (2026-08-19 14:54  UTC)<br/>
+Assault Division: MINDLESS MASSES U1C leaves *Karlia* (2026-08-19 14:54  UTC)<br/>
+ Decay: 0.0 on Alaraph
+ (2026-08-19 14:54  UTC)<br/>
+ Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region
+ (2026-08-19 14:54  UTC)<br/>
+*Karlia* of the Omega sector is attacked by Illuminates (2026-08-19 14:56  UTC)<br/>
+*Karlia* Region 0 ADNAN City is besieged by Human (2026-08-19 14:56  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Karlia* (2026-08-19 14:56  UTC)<br/>
+Dispatch: EXOSTORM ADVISORY A Category 3 Exostorm has been detected on KARLIA, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend KARLIA to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 14:57  UTC)<br/>
+ Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-08-19 16:00  UTC)<br/>
+ Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-08-19 16:00  UTC)<br/>
+Assault Division: MINDLESS MASSES U1G leaves *VOID SOURCE PLANET* (2026-08-19 17:57  UTC)<br/>
+ Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Saleria sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Nanos sector, Tanis sector, Hanzo sector, Akira sector, Severin sector, Umlaut sector, Farsight sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Gellert sector, Mirin sector, Sten sector, Xi Tauri sector, Ymir sector, Trigon sector, TBD sector<br/> Decay: 5.0 on Zea Rugosia, Aurora Bay, Herthon Secundus, Oshaune<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Korpus sector, Nanos sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Trigon sector, Tanis sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Human worlds<br/> Decay: 1.0 on Mirin sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Rictus sector, Hanzo sector, Guang sector, Hydra sector, Falstaff sector, Umlaut sector, Jin Xi sector, Draco sector, Akira sector, Rigel sector, Omega sector, Xi Tauri sector, Trigon sector, Gellert sector, Void sector<br/> Decay: 2.5 on Sten sector, Talus sector, Lacaille sector, Orion sector, Hanzo sector, Jin Xi sector, Rigel sector, Umlaut sector<br/> Decay: 3.5 on Blistica, Charon Prime, Merak<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Falstaff sector, Tanis sector, Draco sector, Jin Xi sector, Lacaille sector, Andromeda sector, Hydra sector, Ymir sector, Xzar sector, Trigon sector, Rigel sector<br/> Decay: 3.0 on Aesir Pass, Alaraph<br/> Decay: 4.0 on Charbal-VII, Clasa, Hesoe Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime<br/> Decay: 8.0 on Seasse<br/> Decay: 10.0 on Zagon Prime, Omicron<br/> Decay: 100.0 on Cyberstan<br/> Decay: -1.0 on UVP ALPHA (Unused)
+ (2026-08-19 17:57  UTC)<br/>
+Assault Division: MINDLESS MASSES U1H deploys to *VOID SOURCE PLANET* (2026-08-19 17:59  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1M deploys to *Asperoth Prime* (2026-08-19 18:21  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Asperoth Prime* (2026-08-19 18:22  UTC)<br/>
+*Asperoth Prime* of the Akira sector is attacked by Illuminates (2026-08-19 18:22  UTC)<br/>
+*Asperoth Prime* Region 1 MEGACORPUS City is besieged by Human (2026-08-19 18:22  UTC)<br/>
+Dispatch: EXOSTORM ADVISORY. A Category 3 Exostorm has been detected on ASPEROTH PRIME, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend ASPEROTH PRIME to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 18:23  UTC)<br/>
