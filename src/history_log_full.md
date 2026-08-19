@@ -17973,11 +17973,22 @@ Dispatch: EXOSTORM ADVISORY A Category 3 Exostorm has been detected on KARLIA, b
  Region Decay: 0.0 on Karlia's ADNAN region
  (2026-08-19 16:00  UTC)<br/>
 Assault Division: MINDLESS MASSES U1G leaves *VOID SOURCE PLANET* (2026-08-19 17:57  UTC)<br/>
- Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Saleria sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Borgus sector, Ursa sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Nanos sector, Tanis sector, Hanzo sector, Akira sector, Severin sector, Umlaut sector, Farsight sector, Ferris sector, Leo sector, Rigel sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Andromeda sector, Gellert sector, Mirin sector, Sten sector, Xi Tauri sector, Ymir sector, Trigon sector, TBD sector<br/> Decay: 5.0 on Zea Rugosia, Aurora Bay, Herthon Secundus, Oshaune<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Korpus sector, Nanos sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Trigon sector, Tanis sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Human worlds<br/> Decay: 1.0 on Mirin sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Rictus sector, Hanzo sector, Guang sector, Hydra sector, Falstaff sector, Umlaut sector, Jin Xi sector, Draco sector, Akira sector, Rigel sector, Omega sector, Xi Tauri sector, Trigon sector, Gellert sector, Void sector<br/> Decay: 2.5 on Sten sector, Talus sector, Lacaille sector, Orion sector, Hanzo sector, Jin Xi sector, Rigel sector, Umlaut sector<br/> Decay: 3.5 on Blistica, Charon Prime, Merak<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Falstaff sector, Tanis sector, Draco sector, Jin Xi sector, Lacaille sector, Andromeda sector, Hydra sector, Ymir sector, Xzar sector, Trigon sector, Rigel sector<br/> Decay: 3.0 on Aesir Pass, Alaraph<br/> Decay: 4.0 on Charbal-VII, Clasa, Hesoe Prime<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime<br/> Decay: 8.0 on Seasse<br/> Decay: 10.0 on Zagon Prime, Omicron<br/> Decay: 100.0 on Cyberstan<br/> Decay: -1.0 on UVP ALPHA (Unused)
- (2026-08-19 17:57  UTC)<br/>
 Assault Division: MINDLESS MASSES U1H deploys to *VOID SOURCE PLANET* (2026-08-19 17:59  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1M deploys to *Asperoth Prime* (2026-08-19 18:21  UTC)<br/>
+Assault Division: APPROPRIATORS U1M deploys to *Asperoth Prime* (2026-08-19 18:21  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Asperoth Prime* (2026-08-19 18:22  UTC)<br/>
 *Asperoth Prime* of the Akira sector is attacked by Illuminates (2026-08-19 18:22  UTC)<br/>
 *Asperoth Prime* Region 1 MEGACORPUS City is besieged by Human (2026-08-19 18:22  UTC)<br/>
 Dispatch: EXOSTORM ADVISORY. A Category 3 Exostorm has been detected on ASPEROTH PRIME, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend ASPEROTH PRIME to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 18:23  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1F deploys to *Alairt III* (2026-08-19 18:35  UTC)<br/>
+Assault Division: APPROPRIATORS U1J leaves *Alairt III* (2026-08-19 18:35  UTC)<br/>
+Assault Division: APPROPRIATORS U1K leaves *Alaraph* (2026-08-19 18:35  UTC)<br/>
+ Decay: 0.0 on Asperoth Prime
+ (2026-08-19 18:35  UTC)<br/>
+ Region Decay: 0.4 on Asperoth Prime's ASPEN HILLS region<br/> Region Decay: 0.4 on Asperoth Prime's MEGACORPUS region
+ (2026-08-19 18:35  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1H deploys to *Karlia* (2026-08-19 18:36  UTC)<br/>
+Assault Division: APPROPRIATORS U1L leaves *Karlia* (2026-08-19 18:36  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1I deploys to *Asperoth Prime* (2026-08-19 18:36  UTC)<br/>
+Assault Division: APPROPRIATORS U1M leaves *Asperoth Prime* (2026-08-19 18:36  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1G deploys to *Alaraph* (2026-08-19 18:37  UTC)<br/>
+*Asperoth Prime* Region 0 ASPEN HILLS City is besieged by Human (2026-08-19 18:38  UTC)<br/>
