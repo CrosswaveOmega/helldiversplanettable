@@ -447,7 +447,7 @@ async def get_planet_stats(
                 )
 
                 logger.info(
-                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db; dayval of new is {checkv['dayval']}"
+                    f"{timestamp} ({interval}) not found in all_times_new[{dc}] but WAS found in db; dayval of new is {checkv[next(iter(checkv))]['dayval']}"
                 )
                 all_times_new[dc][interval] = checkv
                 planetstats = all_times_new[dc][interval]
