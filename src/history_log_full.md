@@ -17942,7 +17942,7 @@ Assault Division: INVASION FLEET U1E deploys to *VOID SOURCE PLANET* (2026-08-19
 Assault Division: APPROPRIATORS U1J deploys to *Alairt III* (2026-08-19 12:19  UTC)<br/>
 *Alairt III* of the Hanzo sector is attacked by Illuminates (2026-08-19 12:21  UTC)<br/>
 *Alairt III* Region 3 FREE TRADE MegaCity is besieged by Human (2026-08-19 12:21  UTC)<br/>
-Dispatch:EXOSTORM ADVISORY. A Category 3 Exostorm has been detected on ALAIRT III, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend ALAIRT III to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 12:22  UTC)<br/>
+Dispatch: EXOSTORM ADVISORY. A Category 3 Exostorm has been detected on ALAIRT III, blanketing the planet in violent celestial super-storms. These unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards. Helldivers: defend ALAIRT III to nullify the Exostorm before it can worsen. Do not let these celestial tempests halt our advance. (2026-08-19 12:22  UTC)<br/>
 Dispatch: DSS STATUS UPDATE. The DSS (Democracy Space Station) is undergoing examination after exiting the Void. Reports of rhythmic knocking across the hull have been independently confirmed, and though they have intensified, High Command maintains these vibrations are merely localized thermal contraction. The examiners assigned by the Ministry of Truth have volunteered to remain aboard indefinitely to monitor the situation; as a precaution, all outbound shuttle access is suspended. (2026-08-19 13:38  UTC)<br/>
  Decay: 0.0 on Alairt III
  (2026-08-19 13:38  UTC)<br/>
@@ -17992,3 +17992,48 @@ Assault Division: VOTE SNATCHERS U1I deploys to *Asperoth Prime* (2026-08-19 18:
 Assault Division: APPROPRIATORS U1M leaves *Asperoth Prime* (2026-08-19 18:36  UTC)<br/>
 Assault Division: VOTE SNATCHERS U1G deploys to *Alaraph* (2026-08-19 18:37  UTC)<br/>
 *Asperoth Prime* Region 0 ASPEN HILLS City is besieged by Human (2026-08-19 18:38  UTC)<br/>
+Dispatch:  DSS STATUS UPDATE.  Examiners report the presence of chemical oxidation anomalies resembling alphanumeric patterns on several DSS bulkheads. Rumors that these crude markings may spell "*Calypso*" are unfounded, unscientific, and wholly un-Democratic.  Following an exhaustive risk assessment, all writing implements on the DSS have been incinerated, and all nutritional paste has been fortified with experimental binding agents to eliminate all biological pigment sources. (2026-08-20 01:38  UTC)<br/>
+Assault Division: MINDLESS MASSES U1H leaves *VOID SOURCE PLANET* (2026-08-20 07:49  UTC)<br/>
+Assault Division: APPROPRIATORS U1N deploys to *VOID SOURCE PLANET* (2026-08-20 07:53  UTC)<br/>
+Dispatch: SEASSE SCIENCE EXPEDITION SITREP.  High Command commends the elite 11-person science team for securing the tertiary mantle. Ground logs note an exceptionally pleasant, rhythmic harmonic resonance echoing from the bedrock, which the team describes as "the singing geometry." Core drilling continues to advance seamlessly toward the absolute center of the Void. (2026-08-20 08:39  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide use of the Orbital Railcannon Stratagem with reduced waiting period between calldowns at the Void Source Planet for the next 48 hours. (2026-08-20 08:56  UTC)<br/>
+
+### Day: #925
+Dispatch: DSS STATUS UPDATE. The DSS has temporarily ceased any and all communication transmissions. Automated diagnostics confirm transceiver hardware is operating at 100% efficiency. High Command has officially attributed this ongoing silence to a mandatory, station-wide silent contemplation period. Normal communications, log updates, and official examiner reports will resume immediately upon its scheduled conclusion. (2026-08-20 13:38  UTC)<br/>
+Dispatch: DSS STATUS UPDATE. The DSS has completed an unscheduled FTL jump toward *Calypso*, forgoing the standard administrative channels for requests of this nature. While the crew's sudden interest in this sector is under review, the on-board Ministry of Truth examiners are commended for their diligence, encouraged to complete their audit, and reminded that High Command has remotely disabled any and all manual controls aboard the station until further notice. (2026-08-20 20:04  UTC)<br/>
+DSS deploys to *Calypso* of the Saleria sector (2026-08-20 20:06  UTC)<br/>
+DSS deploys to  *Afoyay Bay* of the Gallux sector (2026-08-20 20:06  UTC)<br/>
+*Calypso* is now unobservable due to Unknown (2026-08-20 21:22  UTC)<br/>
+Dispatch: DSS STATUS UPDATE. To fully resolve minor navigational discrepancies aboard the DSS, High Command has remotely initiated a station-wide environmental optimization cycle. This deep sanitization has successfully returned the vessel to sterile parameters and hereby concludes the DSS examination to a satisfactory standard. Remote helm controls have locked a direct vector to *Afoyay Bay* for routine maintenance and post-cycle ventilation. (2026-08-20 21:24  UTC)<br/>
+*Calypso* - *Outpost 32* warp link is removed (2026-08-20 21:31  UTC)<br/>
+*Calypso* - *Elysian Meadows* warp link is removed (2026-08-20 21:31  UTC)<br/>
+*Calypso* - *Andar* warp link is removed (2026-08-20 21:31  UTC)<br/>
+Dispatch: DSS STATUS UPDATE. The DSS has docked at *Afoyay Bay*. A workforce of eager legally-mandated volunteers has been transported from the CECOD (Center for the Confinement of Dissidence) secure relocation site to carry out manual bio-remediation. The DURs (Dissidents-Undergoing-Reeducation) have also been tasked with restoring the DSS to match original inventory manifests, and report exceptional morale at this generous opportunity to earn atonement. (2026-08-20 22:01  UTC)<br/>
+
+### Day: #926
+*Alamak VII* urgent liberation is failed (2026-08-21 12:22  UTC)<br/>
+*Alamak VII* liberation campaign ends (2026-08-21 12:22  UTC)<br/>
+*Alairt III* defense is failed (2026-08-21 12:22  UTC)<br/>
+*Alairt III* is enveloped by the Void (2026-08-21 12:26  UTC)<br/>
+*Alairt III* is now unobservable due to the Void (2026-08-21 12:26  UTC)<br/>
+*Alaraph* defense is failed (2026-08-21 13:48  UTC)<br/>
+*Alaraph* liberation campaign starts (2026-08-21 13:48  UTC)<br/>
+*Oasis* liberation campaign ends (2026-08-21 13:48  UTC)<br/>
+ Decay: 0.5 on Alairt III
+ (2026-08-21 13:48  UTC)<br/>
+*Alaraph* is enveloped by the Void (2026-08-21 13:55  UTC)<br/>
+*Alaraph* is now unobservable due to the Void (2026-08-21 13:55  UTC)<br/>
+Assault Division: MINDLESS MASSES U1I deploys to *UVP Beta - Void* (2026-08-21 14:00  UTC)<br/>
+ Decay: 3.0 on Alaraph
+ (2026-08-21 14:00  UTC)<br/>
+Assault Division: APPROPRIATORS U1O deploys to *Hydrobius - Void* (2026-08-21 14:01  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY. Void Blossoms disperse toxic pollination, reshape worlds, and appear to invigorate Illuminate forces. Synthesizing chemical countermeasures to this invasive flora will reduce Illuminate planetary resistance on the source world of *Seasse*. Helldivers: extract 1,500,000 samples on UVP DELTA, terminate 25,000,000 Vote Snatchers on HYDROBIUS, and complete 50,000 operations on UVP BETA to hasten urgent research. (2026-08-21 14:01  UTC)<br/>
+Assault Division: APPROPRIATORS U1O leaves *Hydrobius - Void* (2026-08-21 14:46  UTC)<br/>
+*Karlia* defense is failed (2026-08-21 14:58  UTC)<br/>
+*Karlia* liberation campaign starts (2026-08-21 14:58  UTC)<br/>
+*Karlia* is now unobservable due to the Void (2026-08-21 15:05  UTC)<br/>
+*Karlia* is enveloped by the Void. (2026-08-21 15:05  UTC)<br/>
+ Decay: 1.0 on Karlia
+ (2026-08-21 15:05  UTC)<br/>
+*Alaraph* liberation campaign ends (2026-08-21 15:16  UTC)<br/>
+*Karlia* liberation campaign ends (2026-08-21 15:16  UTC)<br/>

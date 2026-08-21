@@ -17899,6 +17899,42 @@
       {
          "pl": 300,
          "eind": 11224
+      },
+      {
+         "pl": 200,
+         "eind": 11233
+      },
+      {
+         "pl": 100,
+         "eind": 11235
+      },
+      {
+         "pl": 200,
+         "eind": 11238
+      },
+      {
+         "pl": 800,
+         "eind": 11243
+      },
+      {
+         "pl": 600,
+         "eind": 11244
+      },
+      {
+         "pl": 300,
+         "eind": 11245
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 300,
+         "eind": 11251
+      },
+      {
+         "pl": 200,
+         "eind": 11256
       }
    ],
    "1": [
@@ -23432,6 +23468,22 @@
       {
          "pl": 100,
          "eind": 11222
+      },
+      {
+         "pl": "<10",
+         "eind": 11232
+      },
+      {
+         "pl": 100,
+         "eind": 11239
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11247
       }
    ],
    "176": [
@@ -25142,6 +25194,30 @@
       {
          "pl": 100,
          "eind": 11210
+      },
+      {
+         "pl": "<10",
+         "eind": 11233
+      },
+      {
+         "pl": 100,
+         "eind": 11239
+      },
+      {
+         "pl": "<10",
+         "eind": 11244
+      },
+      {
+         "pl": 100,
+         "eind": 11245
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11247
       }
    ],
    "180": [
@@ -28440,6 +28516,42 @@
       {
          "pl": "<10",
          "eind": 11227
+      },
+      {
+         "pl": 100,
+         "eind": 11231
+      },
+      {
+         "pl": "<10",
+         "eind": 11232
+      },
+      {
+         "pl": 100,
+         "eind": 11239
+      },
+      {
+         "pl": "<10",
+         "eind": 11244
+      },
+      {
+         "pl": 100,
+         "eind": 11245
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11249
+      },
+      {
+         "pl": "<10",
+         "eind": 11251
+      },
+      {
+         "pl": 100,
+         "eind": 11253
       }
    ],
    "46": [
@@ -98443,6 +98555,46 @@
       {
          "pl": 1600,
          "eind": 11224
+      },
+      {
+         "pl": 1300,
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "eind": 11233
+      },
+      {
+         "pl": 1200,
+         "eind": 11238
+      },
+      {
+         "pl": 1600,
+         "eind": 11239
+      },
+      {
+         "pl": 1500,
+         "eind": 11241
+      },
+      {
+         "pl": 1400,
+         "eind": 11245
+      },
+      {
+         "pl": 700,
+         "eind": 11246
+      },
+      {
+         "pl": 1000,
+         "eind": 11247
+      },
+      {
+         "pl": 1300,
+         "eind": 11249
+      },
+      {
+         "pl": 1400,
+         "eind": 11256
       }
    ],
    "212": [
@@ -166208,6 +166360,22 @@
       {
          "pl": "<10",
          "eind": 11203
+      },
+      {
+         "pl": 100,
+         "eind": 11243
+      },
+      {
+         "pl": 200,
+         "eind": 11244
+      },
+      {
+         "pl": 100,
+         "eind": 11245
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
       }
    ],
    "125": [
@@ -240154,6 +240322,54 @@
       {
          "pl": 1600,
          "eind": 11224
+      },
+      {
+         "pl": 1500,
+         "eind": 11231
+      },
+      {
+         "pl": 1200,
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "eind": 11233
+      },
+      {
+         "pl": 800,
+         "eind": 11237
+      },
+      {
+         "pl": 1200,
+         "eind": 11238
+      },
+      {
+         "pl": 1500,
+         "eind": 11239
+      },
+      {
+         "pl": 1300,
+         "eind": 11245
+      },
+      {
+         "pl": 600,
+         "eind": 11246
+      },
+      {
+         "pl": 1000,
+         "eind": 11247
+      },
+      {
+         "pl": 1200,
+         "eind": 11249
+      },
+      {
+         "pl": 1300,
+         "eind": 11251
+      },
+      {
+         "pl": 1400,
+         "eind": 11253
       }
    ],
    "78": [
@@ -375732,6 +375948,86 @@
             }
          },
          "eind": 11224
+      },
+      {
+         "pl": 2000,
+         "eind": 11231
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "pl": 700,
+         "eind": 11235
+      },
+      {
+         "pl": 1000,
+         "eind": 11238
+      },
+      {
+         "pl": 1800,
+         "eind": 11239
+      },
+      {
+         "pl": 1700,
+         "eind": 11245
+      },
+      {
+         "pl": 700,
+         "eind": 11246
+      },
+      {
+         "pl": 800,
+         "eind": 11247
+      },
+      {
+         "pl": 1300,
+         "eind": 11249
+      },
+      {
+         "pl": 1400,
+         "eind": 11255
       }
    ],
    "202": [
@@ -380185,6 +380481,58 @@
       {
          "pl": 600,
          "eind": 11224
+      },
+      {
+         "pl": 800,
+         "eind": 11231
+      },
+      {
+         "pl": 600,
+         "eind": 11232
+      },
+      {
+         "pl": 200,
+         "eind": 11233
+      },
+      {
+         "pl": 300,
+         "eind": 11235
+      },
+      {
+         "pl": 200,
+         "eind": 11236
+      },
+      {
+         "pl": 300,
+         "eind": 11238
+      },
+      {
+         "pl": 600,
+         "eind": 11239
+      },
+      {
+         "pl": 700,
+         "eind": 11243
+      },
+      {
+         "pl": 600,
+         "eind": 11244
+      },
+      {
+         "pl": 700,
+         "eind": 11245
+      },
+      {
+         "pl": 300,
+         "eind": 11246
+      },
+      {
+         "pl": 400,
+         "eind": 11249
+      },
+      {
+         "pl": 500,
+         "eind": 11251
       }
    ],
    "248": [
@@ -390727,6 +391075,14 @@
       {
          "pl": "<10",
          "eind": 11207
+      },
+      {
+         "pl": 100,
+         "eind": 11245
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
       }
    ],
    "115": [
@@ -407639,6 +407995,62 @@
       {
          "pl": 1400,
          "eind": 11222
+      },
+      {
+         "pl": 1600,
+         "eind": 11231
+      },
+      {
+         "pl": 1300,
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "eind": 11233
+      },
+      {
+         "pl": 600,
+         "eind": 11237
+      },
+      {
+         "pl": 900,
+         "eind": 11238
+      },
+      {
+         "pl": 1600,
+         "eind": 11239
+      },
+      {
+         "pl": 1500,
+         "eind": 11241
+      },
+      {
+         "pl": 1600,
+         "eind": 11244
+      },
+      {
+         "pl": 1500,
+         "eind": 11245
+      },
+      {
+         "pl": 600,
+         "eind": 11246
+      },
+      {
+         "pl": 700,
+         "eind": 11247
+      },
+      {
+         "pl": 900,
+         "eind": 11249
+      },
+      {
+         "pl": 1000,
+         "eind": 11251
+      },
+      {
+         "pl": 1100,
+         "eind": 11253
       }
    ],
    "160": [
@@ -477714,6 +478126,50 @@
       {
          "pl": 900,
          "eind": 11227
+      },
+      {
+         "pl": 800,
+         "eind": 11232
+      },
+      {
+         "pl": 400,
+         "eind": 11233
+      },
+      {
+         "pl": 700,
+         "eind": 11238
+      },
+      {
+         "pl": 1000,
+         "eind": 11239
+      },
+      {
+         "pl": 1100,
+         "eind": 11241
+      },
+      {
+         "pl": 1000,
+         "eind": 11244
+      },
+      {
+         "pl": 800,
+         "eind": 11245
+      },
+      {
+         "pl": 400,
+         "eind": 11246
+      },
+      {
+         "pl": 600,
+         "eind": 11247
+      },
+      {
+         "pl": 700,
+         "eind": 11249
+      },
+      {
+         "pl": 800,
+         "eind": 11253
       }
    ],
    "172": [
@@ -487485,6 +487941,42 @@
       {
          "pl": 500,
          "eind": 11218
+      },
+      {
+         "pl": 400,
+         "eind": 11232
+      },
+      {
+         "pl": 300,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11235
+      },
+      {
+         "pl": 400,
+         "eind": 11238
+      },
+      {
+         "pl": 500,
+         "eind": 11239
+      },
+      {
+         "pl": 400,
+         "eind": 11245
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 300,
+         "eind": 11247
+      },
+      {
+         "pl": 400,
+         "eind": 11251
       }
    ],
    "173": [
@@ -507896,6 +508388,100 @@
       {
          "pl": 4300,
          "eind": 11227
+      },
+      {
+         "pl": 3600,
+         "eind": 11232
+      },
+      {
+         "pl": 2600,
+         "eind": 11233
+      },
+      {
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399994
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "pl": 4700,
+         "eind": 11238
+      },
+      {
+         "pl": 4500,
+         "eind": 11239
+      },
+      {
+         "pl": 4100,
+         "eind": 11241
+      },
+      {
+         "pl": 4000,
+         "eind": 11244
+      },
+      {
+         "pl": 3700,
+         "eind": 11245
+      },
+      {
+         "pl": 2800,
+         "eind": 11246
+      },
+      {
+         "pl": 3900,
+         "eind": 11247
+      },
+      {
+         "pl": 5400,
+         "eind": 11249
+      },
+      {
+         "pl": 5600,
+         "eind": 11251
+      },
+      {
+         "pl": 5800,
+         "eind": 11253
+      },
+      {
+         "pl": 5600,
+         "eind": 11256
       }
    ],
    "214": [
@@ -526161,6 +526747,50 @@
       {
          "pl": 1500,
          "eind": 11227
+      },
+      {
+         "pl": 1200,
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "eind": 11233
+      },
+      {
+         "pl": 1300,
+         "eind": 11238
+      },
+      {
+         "pl": 1600,
+         "eind": 11239
+      },
+      {
+         "pl": 1400,
+         "eind": 11241
+      },
+      {
+         "pl": 1300,
+         "eind": 11245
+      },
+      {
+         "pl": 600,
+         "eind": 11246
+      },
+      {
+         "pl": 900,
+         "eind": 11247
+      },
+      {
+         "pl": 1300,
+         "eind": 11249
+      },
+      {
+         "pl": 1400,
+         "eind": 11251
+      },
+      {
+         "pl": 1500,
+         "eind": 11253
       }
    ],
    "217": [
@@ -548781,6 +549411,573 @@
             }
          },
          "eind": 11227
+      },
+      {
+         "pl": 11300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 297212
+            }
+         },
+         "eind": 11231
+      },
+      {
+         "pl": 9600,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 304183
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 7000,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 313072
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "pl": 7100,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 314287
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 314608
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 315011
+            }
+         },
+         "eind": 11237
+      },
+      {
+         "pl": 11700,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 320812
+            }
+         },
+         "eind": 11238
+      },
+      {
+         "pl": 11800,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 332959
+            }
+         },
+         "eind": 11239
+      },
+      {
+         "pl": 11100,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 336548
+            }
+         },
+         "eind": 11241
+      },
+      {
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 337257
+            }
+         },
+         "eind": 11243
+      },
+      {
+         "pl": 10800,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 338686
+            }
+         },
+         "eind": 11244
+      },
+      {
+         "pl": 10100,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 344776
+            }
+         },
+         "eind": 11245
+      },
+      {
+         "pl": 7200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 366766
+            }
+         },
+         "eind": 11246
+      },
+      {
+         "pl": 9500,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 372663
+            }
+         },
+         "eind": 11247
+      },
+      {
+         "pl": 12600,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 375173
+            }
+         },
+         "eind": 11249
+      },
+      {
+         "pl": 12900,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 375749
+            }
+         },
+         "eind": 11251
+      },
+      {
+         "pl": 13500,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 377366
+            }
+         },
+         "eind": 11253
+      },
+      {
+         "pl": 13800,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 377854
+            }
+         },
+         "eind": 11255
+      },
+      {
+         "pl": 13700,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 378282
+            }
+         },
+         "eind": 11256
       }
    ],
    "268": [
@@ -561089,6 +562286,50 @@
       {
          "pl": 300,
          "eind": 11218
+      },
+      {
+         "pl": 400,
+         "eind": 11231
+      },
+      {
+         "pl": 300,
+         "eind": 11232
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11238
+      },
+      {
+         "pl": 300,
+         "eind": 11239
+      },
+      {
+         "pl": 400,
+         "eind": 11241
+      },
+      {
+         "pl": 300,
+         "eind": 11243
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11247
+      },
+      {
+         "pl": 300,
+         "eind": 11249
+      },
+      {
+         "pl": 200,
+         "eind": 11253
       }
    ],
    "157": [
@@ -573754,6 +574995,58 @@
       {
          "pl": 800,
          "eind": 11224
+      },
+      {
+         "pl": 600,
+         "eind": 11232
+      },
+      {
+         "pl": 400,
+         "eind": 11233
+      },
+      {
+         "pl": 300,
+         "eind": 11235
+      },
+      {
+         "pl": 500,
+         "eind": 11238
+      },
+      {
+         "pl": 800,
+         "eind": 11239
+      },
+      {
+         "pl": 700,
+         "eind": 11241
+      },
+      {
+         "pl": 800,
+         "eind": 11243
+      },
+      {
+         "pl": 700,
+         "eind": 11244
+      },
+      {
+         "pl": 800,
+         "eind": 11245
+      },
+      {
+         "pl": 300,
+         "eind": 11246
+      },
+      {
+         "pl": 500,
+         "eind": 11247
+      },
+      {
+         "pl": 600,
+         "eind": 11249
+      },
+      {
+         "pl": 700,
+         "eind": 11251
       }
    ],
    "198": [
@@ -610540,6 +611833,416 @@
             }
          },
          "eind": 11227
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 62878
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11231
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 63658
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 64663
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 64852
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 64902
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 64931
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11237
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 66028
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11238
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 68052
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11239
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 68431
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11241
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 68520
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11243
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 68643
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11244
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 69293
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11245
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 71416
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11246
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 72320
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11247
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 72915
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11249
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 72999
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11251
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 73324
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11253
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 73413
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11255
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 73495
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11256
       }
    ],
    "200": [
@@ -623625,6 +625328,58 @@
       {
          "pl": 2900,
          "eind": 11224
+      },
+      {
+         "pl": 3300,
+         "eind": 11231
+      },
+      {
+         "pl": 2600,
+         "eind": 11232
+      },
+      {
+         "pl": 1500,
+         "eind": 11233
+      },
+      {
+         "pl": 2100,
+         "eind": 11238
+      },
+      {
+         "pl": 3100,
+         "eind": 11239
+      },
+      {
+         "pl": 2900,
+         "eind": 11241
+      },
+      {
+         "pl": 2800,
+         "eind": 11244
+      },
+      {
+         "pl": 2900,
+         "eind": 11245
+      },
+      {
+         "pl": 1500,
+         "eind": 11246
+      },
+      {
+         "pl": 1700,
+         "eind": 11247
+      },
+      {
+         "pl": 2400,
+         "eind": 11249
+      },
+      {
+         "pl": 2600,
+         "eind": 11253
+      },
+      {
+         "pl": 2500,
+         "eind": 11256
       }
    ],
    "158": [
@@ -679006,6 +680761,50 @@
       {
          "pl": 2200,
          "eind": 11224
+      },
+      {
+         "pl": 2300,
+         "eind": 11231
+      },
+      {
+         "pl": 2000,
+         "eind": 11232
+      },
+      {
+         "pl": 1100,
+         "eind": 11233
+      },
+      {
+         "pl": 1800,
+         "eind": 11238
+      },
+      {
+         "pl": 2200,
+         "eind": 11239
+      },
+      {
+         "pl": 2100,
+         "eind": 11241
+      },
+      {
+         "pl": 1000,
+         "eind": 11246
+      },
+      {
+         "pl": 1200,
+         "eind": 11247
+      },
+      {
+         "pl": 1900,
+         "eind": 11249
+      },
+      {
+         "pl": 2100,
+         "eind": 11251
+      },
+      {
+         "pl": 2200,
+         "eind": 11256
       }
    ],
    "201": [
@@ -783028,6 +784827,34 @@
       {
          "pl": 200,
          "eind": 11210
+      },
+      {
+         "pl": 100,
+         "eind": 11232
+      },
+      {
+         "pl": "<10",
+         "eind": 11235
+      },
+      {
+         "pl": 100,
+         "eind": 11238
+      },
+      {
+         "pl": 200,
+         "eind": 11239
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11247
+      },
+      {
+         "pl": 300,
+         "eind": 11251
       }
    ],
    "91": [
@@ -788278,6 +790105,54 @@
       {
          "pl": 700,
          "eind": 11227
+      },
+      {
+         "pl": 600,
+         "eind": 11231
+      },
+      {
+         "pl": 400,
+         "eind": 11232
+      },
+      {
+         "pl": 200,
+         "eind": 11233
+      },
+      {
+         "pl": 500,
+         "eind": 11238
+      },
+      {
+         "pl": 600,
+         "eind": 11241
+      },
+      {
+         "pl": 500,
+         "eind": 11243
+      },
+      {
+         "pl": 600,
+         "eind": 11245
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 600,
+         "eind": 11247
+      },
+      {
+         "pl": 800,
+         "eind": 11249
+      },
+      {
+         "pl": 900,
+         "eind": 11253
+      },
+      {
+         "pl": 800,
+         "eind": 11256
       }
    ],
    "94": [
@@ -792065,6 +793940,44 @@
       {
          "pl": 300,
          "eind": 11227
+      },
+      {
+         "pl": 200,
+         "eind": 11231
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11238
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11247
+      },
+      {
+         "t": 64,
+         "regions": {
+            "RESPITE": {
+               "index": 0,
+               "name": "RESPITE",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11249
+      },
+      {
+         "pl": "<10",
+         "eind": 11253
       }
    ],
    "95": [
@@ -797472,6 +799385,50 @@
       {
          "pl": 300,
          "eind": 11227
+      },
+      {
+         "pl": 200,
+         "eind": 11231
+      },
+      {
+         "pl": 100,
+         "eind": 11232
+      },
+      {
+         "pl": "<10",
+         "eind": 11233
+      },
+      {
+         "pl": 100,
+         "eind": 11235
+      },
+      {
+         "pl": "<10",
+         "eind": 11237
+      },
+      {
+         "pl": 100,
+         "eind": 11238
+      },
+      {
+         "pl": 200,
+         "eind": 11239
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11249
+      },
+      {
+         "pl": 300,
+         "eind": 11253
+      },
+      {
+         "pl": 400,
+         "eind": 11256
       }
    ],
    "59": [
@@ -803549,6 +805506,10 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "link2": 271,
+         "eind": 11243
       }
    ],
    "97": [
@@ -803915,6 +805876,23 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "dss": "",
+         "eind": 11240
+      },
+      {
+         "pl": 1600,
+         "eind": 11241
+      },
+      {
+         "pl": 400,
+         "link2": 0,
+         "eind": 11243
+      },
+      {
+         "pl": "<10",
+         "eind": 11244
       }
    ],
    "175": [
@@ -830469,6 +832447,101 @@
             }
          ],
          "eind": 11229
+      },
+      {
+         "pl": 1500,
+         "eind": 11231
+      },
+      {
+         "pl": 1100,
+         "eind": 11232
+      },
+      {
+         "pl": 500,
+         "eind": 11233
+      },
+      {
+         "pl": 900,
+         "eind": 11238
+      },
+      {
+         "pl": 1300,
+         "eind": 11239
+      },
+      {
+         "pl": 1200,
+         "eind": 11241
+      },
+      {
+         "pl": 1100,
+         "eind": 11244
+      },
+      {
+         "pl": 1300,
+         "eind": 11245
+      },
+      {
+         "pl": 500,
+         "eind": 11246
+      },
+      {
+         "pl": 800,
+         "eind": 11247
+      },
+      {
+         "pl": 4900,
+         "t": 65,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11249
+      },
+      {
+         "exo": 4,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11250
+      },
+      {
+         "pl": 3800,
+         "r": 8.333333,
+         "eind": 11251
+      },
+      {
+         "pl": 700,
+         "eind": 11253
+      },
+      {
+         "pl": 400,
+         "eind": 11255
+      },
+      {
+         "pl": 200,
+         "t": 64,
+         "eind": 11256
       }
    ],
    "141": [
@@ -831952,6 +834025,66 @@
             }
          },
          "eind": 11230
+      },
+      {
+         "pl": 1700,
+         "eind": 11231
+      },
+      {
+         "pl": 1100,
+         "eind": 11232
+      },
+      {
+         "pl": 400,
+         "eind": 11233
+      },
+      {
+         "pl": 700,
+         "eind": 11238
+      },
+      {
+         "pl": 900,
+         "eind": 11239
+      },
+      {
+         "pl": 1200,
+         "eind": 11241
+      },
+      {
+         "pl": 1100,
+         "eind": 11243
+      },
+      {
+         "pl": 1000,
+         "eind": 11244
+      },
+      {
+         "pl": 1100,
+         "eind": 11245
+      },
+      {
+         "pl": 400,
+         "eind": 11246
+      },
+      {
+         "pl": 600,
+         "eind": 11247
+      },
+      {
+         "pl": 1800,
+         "eind": 11249
+      },
+      {
+         "pl": 2300,
+         "eind": 11251
+      },
+      {
+         "pl": 3100,
+         "eind": 11253
+      },
+      {
+         "pl": 4200,
+         "eind": 11256
       }
    ],
    "186": [
@@ -841277,6 +843410,283 @@
             }
          ],
          "eind": 11228
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 387969
+            }
+         },
+         "eind": 11231
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 385884
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 383015
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 382330
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 382103
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 381881
+            }
+         },
+         "eind": 11237
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 377398
+            }
+         },
+         "eind": 11238
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 371320
+            }
+         },
+         "eind": 11239
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 370129
+            }
+         },
+         "eind": 11241
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 369852
+            }
+         },
+         "eind": 11243
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 369382
+            }
+         },
+         "eind": 11244
+      },
+      {
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 367458
+            }
+         },
+         "eind": 11245
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 359763
+            }
+         },
+         "eind": 11246
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 356864
+            }
+         },
+         "eind": 11247
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 354941
+            }
+         },
+         "eind": 11249
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 354506
+            }
+         },
+         "eind": 11251
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 352746
+            }
+         },
+         "eind": 11253
+      },
+      {
+         "t": 65,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.0,
+               "hp": 352746
+            }
+         },
+         "eind": 11254
+      },
+      {
+         "pl": 4500,
+         "r": 2.7777777,
+         "exo": 4,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.0,
+               "hp": 400000
+            }
+         },
+         "eind": 11255
+      },
+      {
+         "pl": 2900,
+         "t": 64,
+         "eind": 11256
       }
    ],
    "227": [
@@ -852076,6 +854486,44 @@
          "poi": "",
          "desc": [],
          "eind": 11133
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11240
+      },
+      {
+         "pl": 1200,
+         "eind": 11245
+      },
+      {
+         "pl": 500,
+         "eind": 11246
+      },
+      {
+         "pl": 600,
+         "eind": 11247
+      },
+      {
+         "pl": 800,
+         "eind": 11249
+      },
+      {
+         "pl": 700,
+         "eind": 11253
+      },
+      {
+         "pl": 800,
+         "eind": 11255
+      },
+      {
+         "pl": 700,
+         "eind": 11256
       }
    ],
    "98": [
@@ -853099,6 +855547,10 @@
       {
          "link2": 330,
          "eind": 11117
+      },
+      {
+         "link2": 334,
+         "eind": 11243
       }
    ],
    "99": [
@@ -900198,6 +902650,30 @@
       {
          "pl": 200,
          "eind": 11221
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11239
+      },
+      {
+         "pl": 300,
+         "eind": 11241
+      },
+      {
+         "pl": 200,
+         "eind": 11243
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11253
       }
    ],
    "206": [
@@ -914249,6 +916725,289 @@
             }
          },
          "eind": 11227
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 91751
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11231
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 92811
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94238
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94538
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94604
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94696
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11237
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 96570
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11238
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99568
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11239
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11241
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11243
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99999
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11244
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11245
+      },
+      {
+         "pl": 400,
+         "eind": 11246
+      },
+      {
+         "pl": 700,
+         "eind": 11247
+      },
+      {
+         "pl": 900,
+         "eind": 11249
+      },
+      {
+         "pl": 1000,
+         "eind": 11251
+      },
+      {
+         "pl": 1100,
+         "eind": 11255
+      },
+      {
+         "pl": 1000,
+         "eind": 11256
       }
    ],
    "252": [
@@ -999032,6 +1001791,58 @@
       {
          "pl": 400,
          "eind": 11227
+      },
+      {
+         "pl": 500,
+         "eind": 11231
+      },
+      {
+         "pl": 300,
+         "eind": 11232
+      },
+      {
+         "pl": 200,
+         "eind": 11233
+      },
+      {
+         "pl": 400,
+         "eind": 11238
+      },
+      {
+         "pl": 500,
+         "eind": 11239
+      },
+      {
+         "pl": 400,
+         "eind": 11241
+      },
+      {
+         "pl": 500,
+         "eind": 11243
+      },
+      {
+         "pl": 400,
+         "eind": 11244
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 400,
+         "eind": 11247
+      },
+      {
+         "pl": 700,
+         "eind": 11249
+      },
+      {
+         "pl": 600,
+         "eind": 11251
+      },
+      {
+         "pl": 500,
+         "eind": 11255
       }
    ],
    "137": [
@@ -1005640,6 +1008451,560 @@
             }
          },
          "eind": 11227
+      },
+      {
+         "pl": 6600,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 197430
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11231
+      },
+      {
+         "pl": 5400,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 196835
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11232
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 196478
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11233
+      },
+      {
+         "pl": 3200,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 196069
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11235
+      },
+      {
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 195854
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11236
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 195675
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11237
+      },
+      {
+         "pl": 5900,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 192375
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11238
+      },
+      {
+         "pl": 6400,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 188214
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11239
+      },
+      {
+         "pl": 6500,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 187558
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11241
+      },
+      {
+         "pl": 6600,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 187439
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11243
+      },
+      {
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 187119
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11244
+      },
+      {
+         "pl": 7000,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 185976
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11245
+      },
+      {
+         "pl": 3900,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 176861
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11246
+      },
+      {
+         "pl": 6600,
+         "t": 64,
+         "regions": {
+            "GREATER STOROUSE": {
+               "index": 0,
+               "name": "GREATER STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 171390
+            },
+            "NEW STOROUSE": {
+               "index": 1,
+               "name": "NEW STOROUSE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SHED": {
+               "index": 2,
+               "name": "SHED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "FREE TRADE": {
+               "index": 3,
+               "name": "FREE TRADE",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11247
+      },
+      {
+         "exo": 4,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11248
+      },
+      {
+         "pl": 400,
+         "r": 1.3888888,
+         "eind": 11249
+      },
+      {
+         "pl": 300,
+         "eind": 11253
       }
    ],
    "139": [
@@ -1014623,6 +1017988,61 @@
       {
          "pl": 200,
          "eind": 11222
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11239
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "t": 64,
+         "regions": {
+            "KESUMA": {
+               "index": 0,
+               "name": "KESUMA",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "UNGU": {
+               "index": 1,
+               "name": "UNGU",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NO COMPOUND": {
+               "index": 2,
+               "name": "NO COMPOUND",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "FILIBUSTER": {
+               "index": 3,
+               "name": "FILIBUSTER",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11247
+      },
+      {
+         "pl": "<10",
+         "eind": 11249
       }
    ],
    "182": [
@@ -1022541,6 +1025961,46 @@
       {
          "pl": 700,
          "eind": 11224
+      },
+      {
+         "pl": 500,
+         "eind": 11232
+      },
+      {
+         "pl": 300,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11235
+      },
+      {
+         "pl": 400,
+         "eind": 11238
+      },
+      {
+         "pl": 500,
+         "eind": 11239
+      },
+      {
+         "pl": 400,
+         "eind": 11245
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 300,
+         "eind": 11247
+      },
+      {
+         "pl": 500,
+         "eind": 11249
+      },
+      {
+         "pl": 600,
+         "eind": 11256
       }
    ],
    "183": [
@@ -1029744,6 +1033204,54 @@
       {
          "pl": 600,
          "eind": 11227
+      },
+      {
+         "pl": 700,
+         "eind": 11231
+      },
+      {
+         "pl": 500,
+         "eind": 11232
+      },
+      {
+         "pl": 200,
+         "eind": 11233
+      },
+      {
+         "pl": 300,
+         "eind": 11235
+      },
+      {
+         "pl": 500,
+         "eind": 11238
+      },
+      {
+         "pl": 600,
+         "eind": 11239
+      },
+      {
+         "pl": 500,
+         "eind": 11244
+      },
+      {
+         "pl": 600,
+         "eind": 11245
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 400,
+         "eind": 11247
+      },
+      {
+         "pl": 700,
+         "eind": 11249
+      },
+      {
+         "pl": 800,
+         "eind": 11253
       }
    ],
    "225": [
@@ -1033686,6 +1037194,38 @@
       {
          "pl": 100,
          "eind": 11210
+      },
+      {
+         "pl": 200,
+         "eind": 11231
+      },
+      {
+         "pl": 100,
+         "eind": 11232
+      },
+      {
+         "pl": "<10",
+         "eind": 11233
+      },
+      {
+         "pl": 100,
+         "eind": 11238
+      },
+      {
+         "pl": 200,
+         "eind": 11243
+      },
+      {
+         "pl": 100,
+         "eind": 11244
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11253
       }
    ],
    "272": [
@@ -1037746,6 +1041286,58 @@
       {
          "pl": 400,
          "eind": 11224
+      },
+      {
+         "pl": 500,
+         "eind": 11231
+      },
+      {
+         "pl": 400,
+         "eind": 11232
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 200,
+         "eind": 11236
+      },
+      {
+         "pl": 100,
+         "eind": 11237
+      },
+      {
+         "pl": 500,
+         "eind": 11238
+      },
+      {
+         "pl": 400,
+         "eind": 11241
+      },
+      {
+         "pl": 500,
+         "eind": 11244
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 300,
+         "eind": 11247
+      },
+      {
+         "pl": 500,
+         "eind": 11249
+      },
+      {
+         "pl": 400,
+         "eind": 11251
+      },
+      {
+         "pl": 500,
+         "eind": 11253
       }
    ],
    "232": [
@@ -1038716,6 +1042308,76 @@
       {
          "pl": 900,
          "eind": 11222
+      },
+      {
+         "pl": 1100,
+         "eind": 11231
+      },
+      {
+         "pl": 900,
+         "eind": 11232
+      },
+      {
+         "pl": 400,
+         "eind": 11233
+      },
+      {
+         "pl": 300,
+         "eind": 11235
+      },
+      {
+         "pl": 400,
+         "eind": 11237
+      },
+      {
+         "pl": 600,
+         "eind": 11238
+      },
+      {
+         "pl": 700,
+         "eind": 11239
+      },
+      {
+         "dss": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            }
+         ],
+         "eind": 11240
+      },
+      {
+         "pl": 200,
+         "eind": 11246
+      },
+      {
+         "pl": 400,
+         "eind": 11247
+      },
+      {
+         "pl": 600,
+         "eind": 11249
+      },
+      {
+         "pl": 700,
+         "eind": 11253
+      },
+      {
+         "pl": 600,
+         "eind": 11255
+      },
+      {
+         "pl": 700,
+         "eind": 11256
       }
    ],
    "277": [
@@ -1038858,6 +1042520,46 @@
       {
          "pl": 200,
          "eind": 11221
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": "<10",
+         "eind": 11235
+      },
+      {
+         "pl": 100,
+         "eind": 11236
+      },
+      {
+         "pl": "<10",
+         "eind": 11237
+      },
+      {
+         "pl": 100,
+         "eind": 11238
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11249
+      },
+      {
+         "pl": 2600,
+         "eind": 11253
+      },
+      {
+         "pl": 3000,
+         "eind": 11255
+      },
+      {
+         "pl": 3400,
+         "eind": 11256
       }
    ],
    "278": [
@@ -1039195,6 +1042897,62 @@
       {
          "pl": 4400,
          "eind": 11227
+      },
+      {
+         "pl": 5000,
+         "eind": 11231
+      },
+      {
+         "pl": 3800,
+         "eind": 11232
+      },
+      {
+         "pl": 1700,
+         "eind": 11233
+      },
+      {
+         "pl": 1500,
+         "eind": 11235
+      },
+      {
+         "pl": 2400,
+         "eind": 11238
+      },
+      {
+         "pl": 3600,
+         "eind": 11239
+      },
+      {
+         "pl": 3100,
+         "eind": 11241
+      },
+      {
+         "pl": 3200,
+         "eind": 11243
+      },
+      {
+         "pl": 1200,
+         "eind": 11246
+      },
+      {
+         "pl": 1800,
+         "eind": 11247
+      },
+      {
+         "pl": 2500,
+         "eind": 11249
+      },
+      {
+         "pl": 2600,
+         "eind": 11251
+      },
+      {
+         "pl": 2700,
+         "eind": 11253
+      },
+      {
+         "pl": 2800,
+         "eind": 11256
       }
    ],
    "276": [
@@ -1039432,6 +1043190,137 @@
          "hp": 2397495,
          "pl": 65100,
          "eind": 11227
+      },
+      {
+         "hp": 2288448,
+         "pl": 78700,
+         "eind": 11231
+      },
+      {
+         "hp": 2244528,
+         "pl": 63200,
+         "eind": 11232
+      },
+      {
+         "hp": 2195561,
+         "pl": 30700,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            }
+         ],
+         "eind": 11233
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11234
+      },
+      {
+         "hp": 2189194,
+         "pl": 28900,
+         "eind": 11235
+      },
+      {
+         "hp": 2187430,
+         "pl": 28600,
+         "eind": 11236
+      },
+      {
+         "hp": 2185686,
+         "pl": 28500,
+         "eind": 11237
+      },
+      {
+         "hp": 2135187,
+         "pl": 51500,
+         "eind": 11238
+      },
+      {
+         "hp": 2050552,
+         "pl": 67900,
+         "eind": 11239
+      },
+      {
+         "hp": 2031617,
+         "pl": 66100,
+         "eind": 11241
+      },
+      {
+         "hp": 2027882,
+         "pl": 66300,
+         "eind": 11243
+      },
+      {
+         "hp": 2020628,
+         "eind": 11244
+      },
+      {
+         "hp": 1987700,
+         "pl": 70400,
+         "eind": 11245
+      },
+      {
+         "hp": 1854158,
+         "pl": 28700,
+         "eind": 11246
+      },
+      {
+         "hp": 1819424,
+         "pl": 41700,
+         "eind": 11247
+      },
+      {
+         "hp": 1799225,
+         "pl": 56000,
+         "eind": 11249
+      },
+      {
+         "hp": 1795905,
+         "pl": 57500,
+         "eind": 11251
+      },
+      {
+         "hp": 1787728,
+         "pl": 53000,
+         "eind": 11253
+      },
+      {
+         "hp": 1785732,
+         "pl": 52000,
+         "eind": 11255
+      },
+      {
+         "hp": 1783612,
+         "pl": 51000,
+         "eind": 11256
       }
    ],
    "279": [
@@ -1039641,6 +1043530,72 @@
       {
          "pl": 200,
          "eind": 11216
+      },
+      {
+         "pl": 300,
+         "eind": 11231
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": "<10",
+         "eind": 11236
+      },
+      {
+         "pl": 100,
+         "eind": 11238
+      },
+      {
+         "pl": 200,
+         "eind": 11239
+      },
+      {
+         "pl": 100,
+         "eind": 11241
+      },
+      {
+         "pl": 200,
+         "eind": 11243
+      },
+      {
+         "pl": "<10",
+         "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11247
+      },
+      {
+         "adiv": "ZombieTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            }
+         ],
+         "eind": 11251
+      },
+      {
+         "pl": 2300,
+         "eind": 11253
+      },
+      {
+         "pl": 2600,
+         "eind": 11255
+      },
+      {
+         "pl": 2700,
+         "eind": 11256
       }
    ],
    "280": [
@@ -1039957,6 +1043912,66 @@
       {
          "pl": 2200,
          "eind": 11227
+      },
+      {
+         "pl": 2600,
+         "eind": 11231
+      },
+      {
+         "pl": 1900,
+         "eind": 11232
+      },
+      {
+         "pl": 1000,
+         "eind": 11233
+      },
+      {
+         "pl": 800,
+         "eind": 11235
+      },
+      {
+         "pl": 900,
+         "eind": 11236
+      },
+      {
+         "pl": 2000,
+         "eind": 11238
+      },
+      {
+         "pl": 2500,
+         "eind": 11239
+      },
+      {
+         "pl": 2200,
+         "eind": 11241
+      },
+      {
+         "pl": 2300,
+         "eind": 11245
+      },
+      {
+         "pl": 900,
+         "eind": 11246
+      },
+      {
+         "pl": 1000,
+         "eind": 11247
+      },
+      {
+         "pl": 1500,
+         "eind": 11249
+      },
+      {
+         "pl": 1600,
+         "eind": 11251
+      },
+      {
+         "pl": 1500,
+         "eind": 11253
+      },
+      {
+         "pl": 1400,
+         "eind": 11256
       }
    ],
    "281": [
@@ -1040111,6 +1044126,75 @@
       {
          "pl": 300,
          "eind": 11222
+      },
+      {
+         "pl": 500,
+         "eind": 11231
+      },
+      {
+         "pl": 400,
+         "eind": 11232
+      },
+      {
+         "pl": 100,
+         "eind": 11233
+      },
+      {
+         "pl": 300,
+         "eind": 11238
+      },
+      {
+         "pl": 100,
+         "eind": 11246
+      },
+      {
+         "pl": 200,
+         "eind": 11247
+      },
+      {
+         "pl": 300,
+         "eind": 11249
+      },
+      {
+         "adiv": "MechTeam",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11252
+      },
+      {
+         "pl": 5900,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            },
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11253
+      },
+      {
+         "pl": 7000,
+         "eind": 11255
+      },
+      {
+         "pl": 7900,
+         "eind": 11256
       }
    ]
 }
