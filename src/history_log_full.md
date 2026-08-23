@@ -18002,12 +18002,12 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide use of the
 Dispatch: DSS STATUS UPDATE. The DSS has temporarily ceased any and all communication transmissions. Automated diagnostics confirm transceiver hardware is operating at 100% efficiency. High Command has officially attributed this ongoing silence to a mandatory, station-wide silent contemplation period. Normal communications, log updates, and official examiner reports will resume immediately upon its scheduled conclusion. (2026-08-20 13:38  UTC)<br/>
 Dispatch: DSS STATUS UPDATE. The DSS has completed an unscheduled FTL jump toward *Calypso*, forgoing the standard administrative channels for requests of this nature. While the crew's sudden interest in this sector is under review, the on-board Ministry of Truth examiners are commended for their diligence, encouraged to complete their audit, and reminded that High Command has remotely disabled any and all manual controls aboard the station until further notice. (2026-08-20 20:04  UTC)<br/>
 DSS deploys to *Calypso* of the Saleria sector (2026-08-20 20:06  UTC)<br/>
-DSS deploys to  *Afoyay Bay* of the Gallux sector (2026-08-20 20:06  UTC)<br/>
 *Calypso* is now unobservable due to Unknown (2026-08-20 21:22  UTC)<br/>
 Dispatch: DSS STATUS UPDATE. To fully resolve minor navigational discrepancies aboard the DSS, High Command has remotely initiated a station-wide environmental optimization cycle. This deep sanitization has successfully returned the vessel to sterile parameters and hereby concludes the DSS examination to a satisfactory standard. Remote helm controls have locked a direct vector to *Afoyay Bay* for routine maintenance and post-cycle ventilation. (2026-08-20 21:24  UTC)<br/>
 *Calypso* - *Outpost 32* warp link is removed (2026-08-20 21:31  UTC)<br/>
 *Calypso* - *Elysian Meadows* warp link is removed (2026-08-20 21:31  UTC)<br/>
 *Calypso* - *Andar* warp link is removed (2026-08-20 21:31  UTC)<br/>
+DSS deploys to  *Afoyay Bay* of the Gallux sector (2026-08-20 22:01  UTC)<br/>
 Dispatch: DSS STATUS UPDATE. The DSS has docked at *Afoyay Bay*. A workforce of eager legally-mandated volunteers has been transported from the CECOD (Center for the Confinement of Dissidence) secure relocation site to carry out manual bio-remediation. The DURs (Dissidents-Undergoing-Reeducation) have also been tasked with restoring the DSS to match original inventory manifests, and report exceptional morale at this generous opportunity to earn atonement. (2026-08-20 22:01  UTC)<br/>
 
 ### Day: #926
@@ -18027,6 +18027,7 @@ Assault Division: MINDLESS MASSES U1I deploys to *UVP Beta - Void* (2026-08-21 1
  Decay: 3.0 on Alaraph
  (2026-08-21 14:00  UTC)<br/>
 Assault Division: APPROPRIATORS U1O deploys to *Hydrobius - Void* (2026-08-21 14:01  UTC)<br/>
+Major Order | [A3-8-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-8) Permanent Enclosure -STRATEGIC OPPORTUNITY is issued | Objective: Eliminate, Samples, Operations (2026-08-21 14:01  UTC)<br/>
 Dispatch: NEW STRATEGIC OPPORTUNITY. Void Blossoms disperse toxic pollination, reshape worlds, and appear to invigorate Illuminate forces. Synthesizing chemical countermeasures to this invasive flora will reduce Illuminate planetary resistance on the source world of *Seasse*. Helldivers: extract 1,500,000 samples on UVP DELTA, terminate 25,000,000 Vote Snatchers on HYDROBIUS, and complete 50,000 operations on UVP BETA to hasten urgent research. (2026-08-21 14:01  UTC)<br/>
 Assault Division: APPROPRIATORS U1O leaves *Hydrobius - Void* (2026-08-21 14:46  UTC)<br/>
 *Karlia* defense is failed (2026-08-21 14:58  UTC)<br/>
@@ -18037,3 +18038,42 @@ Assault Division: APPROPRIATORS U1O leaves *Hydrobius - Void* (2026-08-21 14:46 
  (2026-08-21 15:05  UTC)<br/>
 *Alaraph* liberation campaign ends (2026-08-21 15:16  UTC)<br/>
 *Karlia* liberation campaign ends (2026-08-21 15:16  UTC)<br/>
+*Alaraph* is now being evacuated (2026-08-21 15:17  UTC)<br/>
+*Karlia* is now being evacuated (2026-08-21 15:17  UTC)<br/>
+*Alairt III* is now being evacuated (2026-08-21 15:17  UTC)<br/>
+*Asperoth Prime* is now being evacuated (2026-08-21 18:18  UTC)<br/>
+*Asperoth Prime* is enveloped by the Void (2026-08-21 18:21  UTC)<br/>
+*Asperoth Prime* is now unobservable due to the Void (2026-08-21 18:21  UTC)<br/>
+*Asperoth Prime* liberation campaign starts (2026-08-21 18:23  UTC)<br/>
+*Asperoth Prime* defense is failed (2026-08-21 18:23  UTC)<br/>
+*Asperoth Prime* liberation campaign ends (2026-08-21 19:08  UTC)<br/>
+ Decay: 1.0 on Asperoth Prime
+ (2026-08-21 19:08  UTC)<br/>
+Dispatch: VOID EXPANSION DETECTED. The expanding perimeter of the Void has surpassed all projections. Massive swathes of galactic real estate have been consumed by the anomaly. Any colonial populations within the engulfed coordinates are advised to work from home, where viable, and to otherwise uphold their professional commitments until notified otherwise. (2026-08-21 19:09  UTC)<br/>
+Major Order | [A3-8-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-8) Permanent Enclosure -STRATEGIC OPPORTUNITY is won | Objective: Eliminate, Samples, Operations (2026-08-22 03:26  UTC)<br/>
+ Decay: 2.5 on VOID SOURCE PLANET
+ (2026-08-22 04:00  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers successfully achieved the required quotas to catalyze urgent research into Void Blossoms, delivering an absolute triumph for environmental enforcement. Using data cross-referenced from other pacified worlds, the Ministry of Science has formulated a rudimentary chemical compound to impair these uncommonly hostile botanical assets. Utilizing tactical crop-dusting protocols, this will weaken Illuminate defenses on *Seasse*. (2026-08-22 07:44  UTC)<br/>
+Dispatch: SEASSE SCIENCE EXPEDITION SITREP. The elite 3-person team has entered the core chasm. High Command notes that while some personnel have begun weeping tears of chromatic, iridescent fluid, this is a standard, completely non-hazardous biological response to advanced scientific discovery. The remaining team members continue sprinting forward into the glorious blinding light. (2026-08-22 08:41  UTC)<br/>
+ Decay: 1.0 on VOID SOURCE PLANET
+ (2026-08-22 08:41  UTC)<br/>
+*Karlia* is now being evacuated (2026-08-22 08:59  UTC)<br/>
+
+### Day: #927
+Assault Division: APPROPRIATORS (Enemies) U1P deploys to *Genesis Prime* (2026-08-22 10:06  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Genesis Prime* (2026-08-22 10:06  UTC)<br/>
+*Genesis Prime* is attacked by Humans (2026-08-22 10:06  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1Q deploys to *Herthon Secundus* (2026-08-22 10:10  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Herthon Secundus* (2026-08-22 10:10  UTC)<br/>
+*Herthon Secundus* is attacked by Humans (2026-08-22 10:10  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1R deploys to *Oasis* (2026-08-22 13:50  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Oasis* (2026-08-22 13:50  UTC)<br/>
+*Oasis* of the Rictus sector is attacked by Humans (2026-08-22 13:51  UTC)<br/>
+A Class-3 Exostorm warning was issued for *Alamak VII* (2026-08-22 13:52  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1S deploys to *Alamak VII* (2026-08-22 13:52  UTC)<br/>
+*Alamak VII* of the Hanzo sector is attacked by Humans (2026-08-22 13:52  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) U1J deploys to *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1E leaves *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1T deploys to *New Stockholm* (2026-08-22 16:41  UTC)<br/>
+A Class-3 Exostorm warning was issued for *New Stockholm* (2026-08-22 16:42  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized use of the Orbital Laser at the Void Source Planet for the next 24 hours. (2026-08-22 16:54  UTC)<br/>
