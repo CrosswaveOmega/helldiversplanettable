@@ -859806,11 +859806,28 @@
          "eind": 8264
       },
       {
+         "desc": [
+            {
+               "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
+               "desc": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+            },
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
+            }
+         ],
+         "eind": 8454
+      },
+      {
          "dss": "DSS Here",
          "desc": [
             {
                "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
                "desc": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+            },
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
             },
             {
                "name": "DSS",
@@ -859964,6 +859981,10 @@
             {
                "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
                "desc": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+            },
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
             }
          ],
          "eind": 8954
@@ -859984,6 +860005,10 @@
             {
                "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
                "desc": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+            },
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
             },
             {
                "name": "DSS",
@@ -860016,6 +860041,10 @@
             {
                "name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
                "desc": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+            },
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
             }
          ],
          "eind": 8975
@@ -860127,12 +860156,21 @@
       },
       {
          "poi": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
+            }
+         ],
          "eind": 11134
       },
       {
          "dss": "DSS Here",
          "desc": [
+            {
+               "name": "PANDORA BASE",
+               "desc": "The top-secret site where augmentations to the DSS are constructed."
+            },
             {
                "name": "DSS",
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."

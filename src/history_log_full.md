@@ -13673,7 +13673,7 @@ DSS effect Orbital Blockade stops (2025-12-17 23:57  UTC)<br/>
 # Day: #680
 Dispatch: NEW STRATEGIC OPPORTUNITY. A portion of this year's Reckoning Fund has been allocated for Experimental Stratagem Testing. Three enemy-held planets have been specially chosen for weapons testing: MARFARK, NEW STOCKHOLM, and HEETH. On these planets, the ORBITAL 120MM HE BARRAGE has been experimentally modified to the Orbital 120MM HE/EMS Barrage. The Helldivers are ordered to reach the targeted kill count on any one of the chosen planets. (2025-12-18 10:00  UTC)<br/>
 Major Order | [A2-12-3](https://helldivers.wiki.gg/wiki/Major_Orders#A2-12-3) Hold *Afoyay Bay* and 3 Magma Worlds is won | Objective: Control (2025-12-18 12:18  UTC)<br/>
-Afoyay of the Gallux sector is established as a Pandora Base POI (2025-12-18 12:20  UTC)<br/>
+*Afoyay Bay* of the Gallux sector is established as a Pandora Base POI (2025-12-18 12:20  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Construction of Pandora Base has begun. High Command has declassified the ultimate objective of Operation Free Space: the Star of Peace. This glorious upgrade will augment the Democracy Space Station into a beacon capable of projecting Liberty's light across entire planetary systems. Consult the Galactic Map for more information. (2025-12-18 12:20  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2025-12-18 15:15  UTC)<br/>
 *Julheim* defense is failed (2025-12-18 20:08  UTC)<br/>
