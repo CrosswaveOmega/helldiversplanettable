@@ -307,6 +307,7 @@ async def format_event_obj() -> None:
                 "waypoints": [],
                 "event": False,
                 "show": True,
+                "hidden": False,
                 "biome": "unknown",
             }
             extraplanets[planetv["sector"]].append(addme)
@@ -660,6 +661,7 @@ def initialize_planets() -> Tuple[Dict[str, Dict[str, Any]], Dict[str, Dict[str,
                 "t": ENCODE(get_faction(p["currentOwner"]), 0, 0),
                 "biome": p.get("biome", "unknown"),
                 "show": True,
+                "hidden":False,
                 "position": p["position"],
             }
             per = {
@@ -886,7 +888,7 @@ def update_planet_ownership(
 
         if event.type == "defense won":
             update_region_owners(
-                event, name, str(ind), planetclone, set_to=1, store=store
+                event, name, str(ind), planetclone, set_to=dec[0], store=store
             )
             dec[1] = 0
             dec[2] = 0
@@ -1016,6 +1018,12 @@ def update_planet_ownership(
 
         if event.type == "ShowPlanet":
             planetclone[str(ind)].show = True
+
+
+        if event.type == "planet removed":
+            planetclone[str(ind)].hidden = True
+
+
 
         if event.type == "Biome Set":
             _, _, _, _, _, _, slug = extract_biome_change_details(

@@ -510,30 +510,35 @@ export function makeplot(
     for (const [planet, static_values] of Object.entries(gstates.gstatic)) {
         galaxystate[planet] = make_planet_at_time(planet, gstates, galaxy_time, static_values);
 
+        if (galaxystate[planet].hidden!==true) {
+            let sector = galaxystate[planet].sector
+                .replace(/[^a-zA-Z]/g, "")
+                .toLowerCase();
 
-        let sector = galaxystate[planet].sector
-            .replace(/[^a-zA-Z]/g, "")
-            .toLowerCase();
 
+            //Sector Values
+            if (sectorValuesMap.has(sector)) {
+                const existingColor = d3.color(sectorValuesMap.get(sector));
+                const newColor = d3.color(getSectorColor(galaxystate[planet].ta[0]));
 
-        //Sector Values
-        if (sectorValuesMap.has(sector)) {
-            const existingColor = d3.color(sectorValuesMap.get(sector));
-            const newColor = d3.color(getSectorColor(galaxystate[planet].ta[0]));
+                const averagedColor = d3
+                    .rgb(
+                        (existingColor.r + newColor.r) / 2,
+                        (existingColor.g + newColor.g) / 2,
+                        (existingColor.b + newColor.b) / 2,
+                        (existingColor.opacity + newColor.opacity) / 2
+                    )
+                    .formatRgb();
 
-            const averagedColor = d3
-                .rgb(
-                    (existingColor.r + newColor.r) / 2,
-                    (existingColor.g + newColor.g) / 2,
-                    (existingColor.b + newColor.b) / 2,
-                    (existingColor.opacity + newColor.opacity) / 2
-                )
-                .formatRgb();
-
-            sectorValuesMap.set(sector, averagedColor);
-        } else {
-            sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
+                sectorValuesMap.set(sector, averagedColor);
+            } else {
+                sectorValuesMap.set(sector, getSectorColor(galaxystate[planet].ta[0]));
+            }
         }
+        else{
+             delete galaxystate[planet];
+        }
+
     }
     //Link is in gstates[]
     const waypoints = Object.values(galaxystate).flatMap((x) =>

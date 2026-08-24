@@ -119,6 +119,7 @@ class PlanetState(BaseModel):
     exo: Optional[int] = Field(alias="exostorm", default=None)
     biome: Optional[str] = Field(alias="biome", default=None)
     show: Optional[bool] = Field(alias="show", default=True)
+    hidden: Optional[bool]=Field(alias="hidden",default=False)
     dss: Optional[str] = Field(alias="dss", default=None)
     poi: Optional[str] = Field(alias="poi", default=None)
     adiv: Optional[str] = Field(alias="assaultdiv", default=None)
