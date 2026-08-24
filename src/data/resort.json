@@ -10,6 +10,7 @@
          "exo": null,
          "biome": "super_earth",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -17971,6 +17972,34 @@
       {
          "pl": 400,
          "eind": 11275
+      },
+      {
+         "pl": 300,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11288
+      },
+      {
+         "pl": 400,
+         "eind": 11296
+      },
+      {
+         "pl": 1900,
+         "eind": 11303
+      },
+      {
+         "pl": 2100,
+         "eind": 11308
+      },
+      {
+         "pl": 1900,
+         "eind": 11316
       }
    ],
    "1": [
@@ -17984,6 +18013,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -18065,6 +18095,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -18146,6 +18177,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -18519,6 +18551,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -18718,6 +18751,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -19214,6 +19248,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -23544,6 +23579,34 @@
       {
          "pl": 100,
          "eind": 11276
+      },
+      {
+         "pl": 200,
+         "eind": 11279
+      },
+      {
+         "pl": 100,
+         "eind": 11280
+      },
+      {
+         "pl": "<10",
+         "eind": 11284
+      },
+      {
+         "pl": 100,
+         "eind": 11288
+      },
+      {
+         "pl": 300,
+         "eind": 11303
+      },
+      {
+         "pl": 700,
+         "eind": 11308
+      },
+      {
+         "pl": 1000,
+         "eind": 11316
       }
    ],
    "176": [
@@ -23557,6 +23620,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -24047,6 +24111,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -25286,6 +25351,26 @@
       {
          "pl": 100,
          "eind": 11266
+      },
+      {
+         "pl": "<10",
+         "eind": 11283
+      },
+      {
+         "pl": 100,
+         "eind": 11291
+      },
+      {
+         "pl": 200,
+         "eind": 11303
+      },
+      {
+         "pl": 300,
+         "eind": 11308
+      },
+      {
+         "pl": 400,
+         "eind": 11316
       }
    ],
    "180": [
@@ -25299,6 +25384,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -28660,6 +28746,98 @@
       {
          "pl": 1900,
          "eind": 11278
+      },
+      {
+         "pl": 1800,
+         "eind": 11279
+      },
+      {
+         "pl": 1600,
+         "eind": 11280
+      },
+      {
+         "pl": 1200,
+         "eind": 11281
+      },
+      {
+         "pl": 900,
+         "eind": 11282
+      },
+      {
+         "t": 64,
+         "exo": 4,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "regions": {
+            "PENSCEWT": {
+               "index": 180,
+               "name": "PENSCEWT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLE'S LIKENESS": {
+               "index": 180,
+               "name": "EAGLE'S LIKENESS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "CONSENSUS": {
+               "index": 180,
+               "name": "CONSENSUS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11285
+      },
+      {
+         "pl": "<10",
+         "eind": 11288
+      },
+      {
+         "pl": 100,
+         "eind": 11290
+      },
+      {
+         "pl": "<10",
+         "eind": 11292
+      },
+      {
+         "pl": 100,
+         "eind": 11296
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11304
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11314
       }
    ],
    "46": [
@@ -28673,6 +28851,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -28837,6 +29016,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -30409,6 +30589,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -32671,6 +32852,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -41327,6 +41509,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -42613,6 +42796,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -45248,6 +45432,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -50709,6 +50894,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -54442,6 +54628,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -57823,6 +58010,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -66150,6 +66338,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -68662,6 +68851,14 @@
       {
          "r": 6.9444447,
          "eind": 10339
+      },
+      {
+         "pl": 100,
+         "eind": 11308
+      },
+      {
+         "pl": "<10",
+         "eind": 11316
       }
    ],
    "269": [
@@ -68675,6 +68872,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -69854,6 +70052,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -70241,6 +70440,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -71117,6 +71317,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -72730,6 +72931,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -73716,6 +73918,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -74573,6 +74776,10 @@
       {
          "r": 4.1666665,
          "eind": 10339
+      },
+      {
+         "pl": 100,
+         "eind": 11308
       }
    ],
    "52": [
@@ -74586,6 +74793,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -76228,6 +76436,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -76806,6 +77015,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -85720,6 +85930,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -98735,6 +98946,58 @@
       {
          "pl": 2000,
          "eind": 11276
+      },
+      {
+         "pl": 2200,
+         "eind": 11279
+      },
+      {
+         "pl": 1800,
+         "eind": 11280
+      },
+      {
+         "pl": 1500,
+         "eind": 11281
+      },
+      {
+         "pl": 1300,
+         "eind": 11282
+      },
+      {
+         "pl": 1100,
+         "eind": 11283
+      },
+      {
+         "pl": 1300,
+         "eind": 11288
+      },
+      {
+         "pl": 1500,
+         "eind": 11290
+      },
+      {
+         "pl": 1600,
+         "eind": 11291
+      },
+      {
+         "pl": 1800,
+         "eind": 11292
+      },
+      {
+         "pl": 1900,
+         "eind": 11293
+      },
+      {
+         "pl": 2100,
+         "eind": 11303
+      },
+      {
+         "pl": 2700,
+         "eind": 11308
+      },
+      {
+         "pl": 3100,
+         "eind": 11316
       }
    ],
    "212": [
@@ -98748,6 +99011,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -106427,6 +106691,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -107591,6 +107856,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -109796,6 +110062,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -116560,6 +116827,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -121110,6 +121378,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -124986,6 +125255,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -140491,6 +140761,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -140902,6 +141173,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -151019,6 +151291,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -151341,6 +151614,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -157923,6 +158197,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -159875,6 +160150,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -159934,6 +160210,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -166516,6 +166793,22 @@
       {
          "pl": "<10",
          "eind": 11246
+      },
+      {
+         "pl": 100,
+         "eind": 11298
+      },
+      {
+         "pl": 500,
+         "eind": 11303
+      },
+      {
+         "pl": 1200,
+         "eind": 11308
+      },
+      {
+         "pl": 1100,
+         "eind": 11316
       }
    ],
    "125": [
@@ -166529,6 +166822,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -172250,6 +172544,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -187492,6 +187787,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -211340,6 +211636,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -211538,6 +211835,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -218670,6 +218968,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -221534,6 +221833,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -222669,6 +222969,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -240542,6 +240843,54 @@
       {
          "pl": 1800,
          "eind": 11275
+      },
+      {
+         "pl": 1900,
+         "eind": 11279
+      },
+      {
+         "pl": 1700,
+         "eind": 11280
+      },
+      {
+         "pl": 1300,
+         "eind": 11281
+      },
+      {
+         "pl": 1100,
+         "eind": 11282
+      },
+      {
+         "pl": 1200,
+         "eind": 11284
+      },
+      {
+         "pl": 1400,
+         "eind": 11290
+      },
+      {
+         "pl": 1500,
+         "eind": 11291
+      },
+      {
+         "pl": 1600,
+         "eind": 11293
+      },
+      {
+         "pl": 1800,
+         "eind": 11296
+      },
+      {
+         "pl": 2000,
+         "eind": 11303
+      },
+      {
+         "pl": 2600,
+         "eind": 11308
+      },
+      {
+         "pl": 3100,
+         "eind": 11316
       }
    ],
    "78": [
@@ -240555,6 +240904,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -269893,6 +270243,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -282404,6 +282755,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295204,6 +295556,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295285,6 +295638,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295366,6 +295720,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295538,6 +295893,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295615,6 +295971,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -295692,6 +296049,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky_special",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -296033,6 +296391,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -296761,6 +297120,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -297870,6 +298230,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -299405,6 +299766,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -300107,6 +300469,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -300680,6 +301043,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -302466,6 +302830,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -333169,6 +333534,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -348892,6 +349258,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -360326,6 +360693,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -376358,6 +376726,62 @@
       {
          "pl": 2000,
          "eind": 11278
+      },
+      {
+         "pl": 2400,
+         "eind": 11279
+      },
+      {
+         "pl": 2200,
+         "eind": 11280
+      },
+      {
+         "pl": 1700,
+         "eind": 11281
+      },
+      {
+         "pl": 1100,
+         "eind": 11282
+      },
+      {
+         "pl": 1000,
+         "eind": 11284
+      },
+      {
+         "pl": 1100,
+         "eind": 11288
+      },
+      {
+         "pl": 1300,
+         "eind": 11290
+      },
+      {
+         "pl": 1500,
+         "eind": 11292
+      },
+      {
+         "pl": 1700,
+         "eind": 11293
+      },
+      {
+         "pl": 2000,
+         "eind": 11296
+      },
+      {
+         "pl": 1900,
+         "eind": 11298
+      },
+      {
+         "pl": 2200,
+         "eind": 11303
+      },
+      {
+         "pl": 3300,
+         "eind": 11308
+      },
+      {
+         "pl": 4400,
+         "eind": 11316
       }
    ],
    "202": [
@@ -376371,6 +376795,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -376590,6 +377015,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -377345,6 +377771,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -380895,6 +381322,54 @@
       {
          "pl": 600,
          "eind": 11275
+      },
+      {
+         "pl": 900,
+         "eind": 11279
+      },
+      {
+         "pl": 800,
+         "eind": 11280
+      },
+      {
+         "pl": 700,
+         "eind": 11281
+      },
+      {
+         "pl": 400,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11283
+      },
+      {
+         "pl": 400,
+         "eind": 11287
+      },
+      {
+         "pl": 500,
+         "eind": 11292
+      },
+      {
+         "pl": 800,
+         "eind": 11296
+      },
+      {
+         "pl": 700,
+         "eind": 11298
+      },
+      {
+         "pl": 800,
+         "eind": 11303
+      },
+      {
+         "pl": 1300,
+         "eind": 11308
+      },
+      {
+         "pl": 1900,
+         "eind": 11316
       }
    ],
    "248": [
@@ -380908,6 +381383,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -381059,6 +381535,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky_special",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -391453,6 +391930,18 @@
       {
          "pl": "<10",
          "eind": 11266
+      },
+      {
+         "pl": 100,
+         "eind": 11279
+      },
+      {
+         "pl": "<10",
+         "eind": 11281
+      },
+      {
+         "pl": 100,
+         "eind": 11303
       }
    ],
    "115": [
@@ -391466,6 +391955,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -396389,6 +396879,18 @@
       {
          "pl": "<10",
          "eind": 11150
+      },
+      {
+         "pl": 200,
+         "eind": 11303
+      },
+      {
+         "pl": 600,
+         "eind": 11308
+      },
+      {
+         "pl": 500,
+         "eind": 11316
       }
    ],
    "159": [
@@ -396402,6 +396904,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -408453,6 +408956,58 @@
       {
          "pl": 1600,
          "eind": 11275
+      },
+      {
+         "pl": 1900,
+         "eind": 11279
+      },
+      {
+         "pl": 1800,
+         "eind": 11280
+      },
+      {
+         "pl": 1200,
+         "eind": 11281
+      },
+      {
+         "pl": 900,
+         "eind": 11282
+      },
+      {
+         "pl": 800,
+         "eind": 11283
+      },
+      {
+         "pl": 1000,
+         "eind": 11288
+      },
+      {
+         "pl": 1100,
+         "eind": 11290
+      },
+      {
+         "pl": 1200,
+         "eind": 11292
+      },
+      {
+         "pl": 1300,
+         "eind": 11293
+      },
+      {
+         "pl": 1600,
+         "eind": 11296
+      },
+      {
+         "pl": 1700,
+         "eind": 11303
+      },
+      {
+         "pl": 2500,
+         "eind": 11308
+      },
+      {
+         "pl": 3200,
+         "eind": 11316
       }
    ],
    "160": [
@@ -408466,6 +409021,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -413906,6 +414462,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -436914,6 +437471,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -459968,6 +460526,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -478604,6 +479163,58 @@
       {
          "pl": 1200,
          "eind": 11275
+      },
+      {
+         "pl": 1300,
+         "eind": 11279
+      },
+      {
+         "pl": 1200,
+         "eind": 11280
+      },
+      {
+         "pl": 800,
+         "eind": 11281
+      },
+      {
+         "pl": 700,
+         "eind": 11282
+      },
+      {
+         "pl": 600,
+         "eind": 11283
+      },
+      {
+         "pl": 800,
+         "eind": 11288
+      },
+      {
+         "pl": 900,
+         "eind": 11290
+      },
+      {
+         "pl": 1000,
+         "eind": 11292
+      },
+      {
+         "pl": 1100,
+         "eind": 11293
+      },
+      {
+         "pl": 1200,
+         "eind": 11296
+      },
+      {
+         "pl": 1300,
+         "eind": 11303
+      },
+      {
+         "pl": 1600,
+         "eind": 11308
+      },
+      {
+         "pl": 1900,
+         "eind": 11316
       }
    ],
    "172": [
@@ -478617,6 +479228,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -488431,6 +489043,46 @@
       {
          "pl": 600,
          "eind": 11278
+      },
+      {
+         "pl": 700,
+         "eind": 11279
+      },
+      {
+         "pl": 500,
+         "eind": 11280
+      },
+      {
+         "pl": 400,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11283
+      },
+      {
+         "pl": 400,
+         "eind": 11288
+      },
+      {
+         "pl": 500,
+         "eind": 11292
+      },
+      {
+         "pl": 600,
+         "eind": 11296
+      },
+      {
+         "pl": 700,
+         "eind": 11303
+      },
+      {
+         "pl": 900,
+         "eind": 11308
+      },
+      {
+         "pl": 1100,
+         "eind": 11316
       }
    ],
    "173": [
@@ -488444,6 +489096,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -508988,6 +509641,72 @@
       {
          "pl": 6400,
          "eind": 11278
+      },
+      {
+         "pl": 5900,
+         "eind": 11279
+      },
+      {
+         "pl": 5500,
+         "eind": 11280
+      },
+      {
+         "pl": 4900,
+         "eind": 11281
+      },
+      {
+         "hp": 1499993,
+         "pl": 4400,
+         "eind": 11282
+      },
+      {
+         "hp": 1500000,
+         "pl": 4300,
+         "eind": 11283
+      },
+      {
+         "pl": 4200,
+         "eind": 11284
+      },
+      {
+         "pl": 4800,
+         "eind": 11288
+      },
+      {
+         "pl": 5600,
+         "eind": 11290
+      },
+      {
+         "pl": 5800,
+         "eind": 11291
+      },
+      {
+         "pl": 6400,
+         "eind": 11292
+      },
+      {
+         "pl": 7000,
+         "eind": 11293
+      },
+      {
+         "pl": 6000,
+         "eind": 11296
+      },
+      {
+         "pl": 5800,
+         "eind": 11298
+      },
+      {
+         "pl": 6300,
+         "eind": 11303
+      },
+      {
+         "pl": 8000,
+         "eind": 11308
+      },
+      {
+         "pl": 9200,
+         "eind": 11316
       }
    ],
    "214": [
@@ -509001,6 +509720,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -527333,6 +528053,70 @@
       {
          "pl": 1800,
          "eind": 11276
+      },
+      {
+         "pl": 1900,
+         "eind": 11279
+      },
+      {
+         "pl": 1700,
+         "eind": 11280
+      },
+      {
+         "pl": 1500,
+         "eind": 11281
+      },
+      {
+         "pl": 1300,
+         "eind": 11282
+      },
+      {
+         "pl": 1200,
+         "eind": 11283
+      },
+      {
+         "pl": 1100,
+         "eind": 11284
+      },
+      {
+         "pl": 1300,
+         "eind": 11288
+      },
+      {
+         "pl": 1400,
+         "eind": 11290
+      },
+      {
+         "pl": 1500,
+         "eind": 11291
+      },
+      {
+         "pl": 1700,
+         "eind": 11292
+      },
+      {
+         "pl": 1800,
+         "eind": 11293
+      },
+      {
+         "pl": 1900,
+         "eind": 11296
+      },
+      {
+         "pl": 1800,
+         "eind": 11298
+      },
+      {
+         "pl": 1900,
+         "eind": 11303
+      },
+      {
+         "pl": 2400,
+         "eind": 11308
+      },
+      {
+         "pl": 2700,
+         "eind": 11316
       }
    ],
    "217": [
@@ -527346,6 +528130,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -550940,6 +551725,514 @@
             }
          },
          "eind": 11278
+      },
+      {
+         "pl": 15300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 425671
+            }
+         },
+         "eind": 11279
+      },
+      {
+         "pl": 13200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 443096
+            }
+         },
+         "eind": 11280
+      },
+      {
+         "pl": 12200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 453386
+            }
+         },
+         "eind": 11281
+      },
+      {
+         "pl": 11000,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 457845
+            }
+         },
+         "eind": 11282
+      },
+      {
+         "pl": 10700,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 459575
+            }
+         },
+         "eind": 11283
+      },
+      {
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 461530
+            }
+         },
+         "eind": 11284
+      },
+      {
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 462040
+            }
+         },
+         "eind": 11287
+      },
+      {
+         "pl": 12200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 464870
+            }
+         },
+         "eind": 11288
+      },
+      {
+         "pl": 13800,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 466239
+            }
+         },
+         "eind": 11290
+      },
+      {
+         "pl": 14300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 466773
+            }
+         },
+         "eind": 11291
+      },
+      {
+         "pl": 15200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 467651
+            }
+         },
+         "eind": 11292
+      },
+      {
+         "pl": 16100,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 468423
+            }
+         },
+         "eind": 11293
+      },
+      {
+         "pl": 15200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 474193
+            }
+         },
+         "eind": 11296
+      },
+      {
+         "pl": 14700,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 474851
+            }
+         },
+         "eind": 11298
+      },
+      {
+         "pl": 16500,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 475523
+            }
+         },
+         "eind": 11303
+      },
+      {
+         "pl": 25900,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 476155
+            }
+         },
+         "eind": 11308
+      },
+      {
+         "pl": 34300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 476249
+            }
+         },
+         "eind": 11316
       }
    ],
    "268": [
@@ -550953,6 +552246,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -552186,6 +553480,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -552743,6 +554038,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -553209,6 +554505,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -554545,6 +555842,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -555212,6 +556510,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -556252,6 +557551,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -563336,6 +564636,38 @@
       {
          "pl": 400,
          "eind": 11275
+      },
+      {
+         "pl": 300,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11292
+      },
+      {
+         "pl": 400,
+         "eind": 11296
+      },
+      {
+         "pl": 300,
+         "eind": 11298
+      },
+      {
+         "pl": 400,
+         "eind": 11303
+      },
+      {
+         "pl": 600,
+         "eind": 11308
+      },
+      {
+         "pl": 800,
+         "eind": 11316
       }
    ],
    "157": [
@@ -563349,6 +564681,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -576089,6 +577422,58 @@
       {
          "pl": 1000,
          "eind": 11278
+      },
+      {
+         "pl": 1200,
+         "eind": 11279
+      },
+      {
+         "pl": 1100,
+         "eind": 11280
+      },
+      {
+         "pl": 800,
+         "eind": 11281
+      },
+      {
+         "pl": 600,
+         "eind": 11282
+      },
+      {
+         "pl": 500,
+         "eind": 11283
+      },
+      {
+         "pl": 600,
+         "eind": 11288
+      },
+      {
+         "pl": 700,
+         "eind": 11290
+      },
+      {
+         "pl": 800,
+         "eind": 11291
+      },
+      {
+         "pl": 900,
+         "eind": 11293
+      },
+      {
+         "pl": 1000,
+         "eind": 11296
+      },
+      {
+         "pl": 1100,
+         "eind": 11303
+      },
+      {
+         "pl": 1600,
+         "eind": 11308
+      },
+      {
+         "pl": 1900,
+         "eind": 11316
       }
    ],
    "198": [
@@ -576102,6 +577487,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -592100,6 +593486,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -613589,6 +614976,377 @@
             }
          },
          "eind": 11278
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 80597
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11279
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 82279
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11280
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 83370
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11281
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 84025
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11282
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 84383
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11283
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 84729
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11284
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 84837
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11287
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 85484
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11288
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 85726
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11290
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 85849
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11291
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 86053
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11292
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 86257
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11293
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 87496
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11296
+      },
+      {
+         "pl": 1900,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 87613
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11298
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 87740
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11303
+      },
+      {
+         "pl": 3200,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 87847
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11308
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 87899
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11316
       }
    ],
    "200": [
@@ -613602,6 +615360,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -626770,6 +628529,66 @@
       {
          "pl": 3500,
          "eind": 11278
+      },
+      {
+         "pl": 3900,
+         "eind": 11279
+      },
+      {
+         "pl": 3500,
+         "eind": 11280
+      },
+      {
+         "pl": 2900,
+         "eind": 11281
+      },
+      {
+         "pl": 2200,
+         "eind": 11282
+      },
+      {
+         "pl": 2100,
+         "eind": 11283
+      },
+      {
+         "pl": 2000,
+         "eind": 11284
+      },
+      {
+         "pl": 2300,
+         "eind": 11288
+      },
+      {
+         "pl": 2600,
+         "eind": 11290
+      },
+      {
+         "pl": 2700,
+         "eind": 11291
+      },
+      {
+         "pl": 2900,
+         "eind": 11292
+      },
+      {
+         "pl": 3000,
+         "eind": 11293
+      },
+      {
+         "pl": 3500,
+         "eind": 11296
+      },
+      {
+         "pl": 4100,
+         "eind": 11303
+      },
+      {
+         "pl": 7800,
+         "eind": 11308
+      },
+      {
+         "pl": 11900,
+         "eind": 11316
       }
    ],
    "158": [
@@ -626783,6 +628602,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -644310,6 +646130,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -649397,6 +651218,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -653484,6 +655306,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -658835,6 +660658,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -666794,6 +668618,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -668274,6 +670099,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671034,6 +672860,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671223,6 +673050,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671408,6 +673236,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671605,6 +673434,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671806,6 +673636,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -671999,6 +673830,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -672188,6 +674020,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -682235,6 +684068,66 @@
       {
          "pl": 2700,
          "eind": 11275
+      },
+      {
+         "pl": 2400,
+         "eind": 11280
+      },
+      {
+         "pl": 2200,
+         "eind": 11281
+      },
+      {
+         "pl": 1900,
+         "eind": 11282
+      },
+      {
+         "pl": 1600,
+         "eind": 11283
+      },
+      {
+         "pl": 1500,
+         "eind": 11287
+      },
+      {
+         "pl": 1700,
+         "eind": 11288
+      },
+      {
+         "pl": 2000,
+         "eind": 11290
+      },
+      {
+         "pl": 2100,
+         "eind": 11291
+      },
+      {
+         "pl": 2300,
+         "eind": 11292
+      },
+      {
+         "pl": 2400,
+         "eind": 11293
+      },
+      {
+         "pl": 2500,
+         "eind": 11296
+      },
+      {
+         "pl": 2400,
+         "eind": 11298
+      },
+      {
+         "pl": 2700,
+         "eind": 11303
+      },
+      {
+         "pl": 3700,
+         "eind": 11308
+      },
+      {
+         "pl": 4700,
+         "eind": 11316
       }
    ],
    "201": [
@@ -682248,6 +684141,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -685875,6 +687769,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -688427,6 +690322,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -697652,6 +699548,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -702030,6 +703927,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -702867,6 +704765,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -716450,6 +718349,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -722711,6 +724611,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -741726,6 +743627,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -742435,6 +744337,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -749220,6 +751123,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754219,6 +756123,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754300,6 +756205,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754381,6 +756287,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754463,6 +756370,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754540,6 +756448,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754621,6 +756530,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754698,6 +756608,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754779,6 +756690,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754860,6 +756772,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -754942,6 +756855,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -755023,6 +756937,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -755108,6 +757023,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -755185,6 +757101,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -773709,6 +775626,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -777123,6 +779041,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -786305,6 +788224,38 @@
       {
          "pl": 200,
          "eind": 11269
+      },
+      {
+         "pl": 300,
+         "eind": 11279
+      },
+      {
+         "pl": 200,
+         "eind": 11280
+      },
+      {
+         "pl": 100,
+         "eind": 11282
+      },
+      {
+         "pl": 200,
+         "eind": 11293
+      },
+      {
+         "pl": 300,
+         "eind": 11296
+      },
+      {
+         "pl": 500,
+         "eind": 11303
+      },
+      {
+         "pl": 1200,
+         "eind": 11308
+      },
+      {
+         "pl": 1700,
+         "eind": 11316
       }
    ],
    "91": [
@@ -786318,6 +788269,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -786969,6 +788921,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -791631,6 +793584,58 @@
       {
          "pl": 700,
          "eind": 11276
+      },
+      {
+         "pl": 800,
+         "eind": 11279
+      },
+      {
+         "pl": 600,
+         "eind": 11280
+      },
+      {
+         "pl": 500,
+         "eind": 11281
+      },
+      {
+         "pl": 400,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11283
+      },
+      {
+         "pl": 400,
+         "eind": 11284
+      },
+      {
+         "pl": 500,
+         "eind": 11288
+      },
+      {
+         "pl": 600,
+         "eind": 11290
+      },
+      {
+         "pl": 700,
+         "eind": 11292
+      },
+      {
+         "pl": 1100,
+         "eind": 11296
+      },
+      {
+         "pl": 2200,
+         "eind": 11303
+      },
+      {
+         "pl": 6900,
+         "eind": 11308
+      },
+      {
+         "pl": 12100,
+         "eind": 11316
       }
    ],
    "94": [
@@ -791644,6 +793649,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -795483,6 +797489,88 @@
       {
          "pl": 1500,
          "eind": 11278
+      },
+      {
+         "pl": 1700,
+         "eind": 11279
+      },
+      {
+         "pl": 1400,
+         "eind": 11280
+      },
+      {
+         "pl": 1100,
+         "eind": 11281
+      },
+      {
+         "pl": 900,
+         "eind": 11282
+      },
+      {
+         "pl": 800,
+         "eind": 11283
+      },
+      {
+         "pl": 1200,
+         "eind": 11287
+      },
+      {
+         "pl": 4700,
+         "eind": 11288
+      },
+      {
+         "pl": 5800,
+         "eind": 11290
+      },
+      {
+         "pl": 6000,
+         "eind": 11291
+      },
+      {
+         "pl": 6500,
+         "eind": 11292
+      },
+      {
+         "pl": 7000,
+         "t": 64,
+         "eind": 11293
+      },
+      {
+         "exo": 4,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11295
+      },
+      {
+         "pl": 100,
+         "eind": 11296
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11303
+      },
+      {
+         "r": 0.0,
+         "eind": 11308
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11312
       }
    ],
    "95": [
@@ -795496,6 +797584,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -800975,6 +803064,91 @@
       {
          "pl": 5800,
          "eind": 11275
+      },
+      {
+         "pl": 7000,
+         "eind": 11279
+      },
+      {
+         "pl": 6500,
+         "eind": 11280
+      },
+      {
+         "pl": 5600,
+         "eind": 11281
+      },
+      {
+         "pl": 4600,
+         "eind": 11282
+      },
+      {
+         "pl": 4400,
+         "eind": 11283
+      },
+      {
+         "pl": 4300,
+         "t": 64,
+         "exo": 4,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11284
+      },
+      {
+         "pl": 3700,
+         "eind": 11287
+      },
+      {
+         "pl": 200,
+         "eind": 11288
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11304
+      },
+      {
+         "r": 0.0,
+         "eind": 11308
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11310
+      },
+      {
+         "pl": 300,
+         "eind": 11316
       }
    ],
    "59": [
@@ -800988,6 +803162,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -803036,6 +805211,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -806980,6 +809156,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -807069,6 +809246,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -807460,6 +809638,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -821486,6 +823665,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -828062,6 +830242,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -829185,6 +831366,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -829270,6 +831452,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -829368,6 +831551,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -829554,6 +831738,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -829965,6 +832150,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -830320,6 +832506,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -830617,6 +832804,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -831028,6 +833216,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -834100,6 +836289,34 @@
       {
          "pl": "<10",
          "eind": 11258
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11302
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11317
       }
    ],
    "141": [
@@ -834113,6 +836330,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -834597,6 +836815,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -835096,6 +837315,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -835681,13 +837901,13 @@
          "eind": 11259
       },
       {
-         "t": 64,
+         "t": 65,
          "regions": {
             "ASPEN HILLS": {
                "index": 0,
                "name": "ASPEN HILLS",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 64,
                "r": 1.1111112,
                "hp": 399985
             },
@@ -835695,7 +837915,7 @@
                "index": 1,
                "name": "MEGACORPUS",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 64,
                "r": 1.1111112,
                "hp": 400000
             }
@@ -835705,6 +837925,7 @@
       {
          "pl": 200,
          "r": 2.7777777,
+         "t": 64,
          "regions": {
             "ASPEN HILLS": {
                "index": 0,
@@ -835728,6 +837949,20 @@
       {
          "pl": "<10",
          "eind": 11263
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11302
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
       }
    ],
    "186": [
@@ -835741,6 +837976,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -838020,6 +840256,16 @@
             }
          ],
          "eind": 11105
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11308
       }
    ],
    "184": [
@@ -838033,6 +840279,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -843116,6 +845363,20 @@
       {
          "t": 64,
          "eind": 11112
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11307
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
       }
    ],
    "185": [
@@ -843129,6 +845390,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -845334,6 +847596,34 @@
       {
          "pl": "<10",
          "eind": 11258
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11305
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11316
       }
    ],
    "227": [
@@ -845347,6 +847637,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -846277,6 +848568,16 @@
             }
          ],
          "eind": 11105
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11313
       }
    ],
    "228": [
@@ -846290,6 +848591,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -847763,6 +850065,24 @@
             }
          ],
          "eind": 11105
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11309
+      },
+      {
+         "t": 65,
+         "eind": 11313
+      },
+      {
+         "pl": 100,
+         "eind": 11316
       }
    ],
    "229": [
@@ -847776,6 +850096,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -848303,6 +850624,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849331,6 +851653,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849412,6 +851735,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849493,6 +851817,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849578,6 +851903,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849655,6 +851981,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -849930,6 +852257,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -850558,6 +852886,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -850997,6 +853326,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -851522,6 +853852,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -854614,6 +856945,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -856199,6 +858531,50 @@
       {
          "pl": 600,
          "eind": 11278
+      },
+      {
+         "pl": 500,
+         "eind": 11280
+      },
+      {
+         "pl": 300,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11283
+      },
+      {
+         "pl": 500,
+         "eind": 11288
+      },
+      {
+         "pl": 700,
+         "eind": 11290
+      },
+      {
+         "pl": 800,
+         "eind": 11296
+      },
+      {
+         "pl": 1200,
+         "eind": 11298
+      },
+      {
+         "pl": 5600,
+         "eind": 11303
+      },
+      {
+         "pl": 9900,
+         "eind": 11308
+      },
+      {
+         "pl": 9200,
+         "eind": 11316
       }
    ],
    "98": [
@@ -856212,6 +858588,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -857239,6 +859616,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -857556,6 +859934,11 @@
       {
          "hp": 1000000,
          "eind": 11157
+      },
+      {
+         "exo": null,
+         "desc": [],
+         "eind": 11308
       }
    ],
    "144": [
@@ -857569,6 +859952,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -858160,6 +860544,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -858433,6 +860818,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -858806,6 +861192,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859122,6 +861509,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859203,6 +861591,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859676,6 +862065,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859757,6 +862147,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859838,6 +862229,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -859923,6 +862315,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860000,6 +862393,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860081,6 +862475,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860162,6 +862557,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860243,6 +862639,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860328,6 +862725,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860405,6 +862803,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860486,6 +862885,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860567,6 +862967,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860676,6 +863077,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -860753,6 +863155,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -861573,6 +863976,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -861654,6 +864058,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -861731,6 +864136,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -861841,6 +864247,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -876985,6 +879392,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -878924,6 +881332,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -879005,6 +881414,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -879123,6 +881533,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -879241,6 +881652,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -880132,6 +882544,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -880824,6 +883237,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -881510,6 +883924,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -882719,6 +885134,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -883808,6 +886224,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -884044,6 +886461,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -886757,6 +889175,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -890334,6 +892753,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -892671,6 +895091,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -893100,6 +895521,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -893438,6 +895860,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -893710,6 +896133,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -894017,6 +896441,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -897790,6 +900215,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -898592,6 +901018,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -898765,6 +901192,7 @@
          "exo": null,
          "biome": "moor_arid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -904369,6 +906797,34 @@
       {
          "pl": 300,
          "eind": 11278
+      },
+      {
+         "pl": 200,
+         "eind": 11280
+      },
+      {
+         "pl": 100,
+         "eind": 11282
+      },
+      {
+         "pl": 200,
+         "eind": 11288
+      },
+      {
+         "pl": 100,
+         "eind": 11290
+      },
+      {
+         "pl": 200,
+         "eind": 11291
+      },
+      {
+         "pl": 300,
+         "eind": 11308
+      },
+      {
+         "pl": 400,
+         "eind": 11316
       }
    ],
    "206": [
@@ -904382,6 +906838,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -904463,6 +906920,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -918842,6 +921300,134 @@
       {
          "pl": 1300,
          "eind": 11278
+      },
+      {
+         "pl": 1500,
+         "eind": 11279
+      },
+      {
+         "pl": 1300,
+         "eind": 11280
+      },
+      {
+         "pl": 1200,
+         "eind": 11281
+      },
+      {
+         "pl": 900,
+         "eind": 11282
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11283
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11284
+      },
+      {
+         "pl": 700,
+         "eind": 11288
+      },
+      {
+         "pl": 900,
+         "eind": 11290
+      },
+      {
+         "pl": 1000,
+         "eind": 11292
+      },
+      {
+         "pl": 1200,
+         "eind": 11293
+      },
+      {
+         "pl": 1100,
+         "eind": 11298
+      },
+      {
+         "pl": 1300,
+         "eind": 11303
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99999
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11308
+      },
+      {
+         "pl": 3100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11316
       }
    ],
    "252": [
@@ -918855,6 +921441,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -919405,6 +921992,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -924270,6 +926858,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -928503,6 +931092,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -929487,6 +932077,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -934829,6 +937420,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939423,6 +942015,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939504,6 +942097,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939585,6 +942179,7 @@
          "exo": null,
          "biome": "sandy_spiky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939662,6 +942257,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939743,6 +942339,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939824,6 +942421,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939905,6 +942503,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -939982,6 +942581,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -950516,6 +953116,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -964852,6 +967453,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -969526,6 +972128,7 @@
          "exo": null,
          "biome": "sandy_mineral",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -995478,7 +998081,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995486,7 +998089,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 200000
             }
@@ -995624,7 +998227,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995632,7 +998235,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 199666
             }
@@ -995654,7 +998257,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995662,7 +998265,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 193813
             }
@@ -995684,7 +998287,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995692,7 +998295,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 182111
             }
@@ -995714,7 +998317,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995722,7 +998325,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 173377
             }
@@ -995744,7 +998347,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995752,7 +998355,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 165048
             }
@@ -995774,7 +998377,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995782,7 +998385,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 152633
             }
@@ -995803,7 +998406,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995811,7 +998414,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 150041
             }
@@ -995833,7 +998436,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995841,7 +998444,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 142756
             }
@@ -995870,7 +998473,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995878,7 +998481,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 113247
             }
@@ -995900,7 +998503,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995908,7 +998511,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 108741
             }
@@ -995930,7 +998533,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995938,7 +998541,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 72950
             }
@@ -995960,7 +998563,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -995990,7 +998593,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -996020,7 +998623,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -996050,7 +998653,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -996080,7 +998683,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -996105,7 +998708,7 @@
                "index": 131,
                "name": "APPROVAL CITY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 3842
             },
@@ -996113,7 +998716,7 @@
                "index": 131,
                "name": "OLD BRANCH",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 1.1111112,
                "hp": 400000
             },
@@ -996121,7 +998724,7 @@
                "index": 131,
                "name": "TIMELY",
                "desc": "Nothing of note.",
-               "t": 16,
+               "t": 32,
                "r": 0.5555556,
                "hp": 200000
             }
@@ -996241,6 +998844,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -996416,6 +999020,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -996738,6 +999343,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -997454,6 +1000060,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1000436,6 +1003043,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1003717,6 +1006325,7 @@
          "eind": 11276
       },
       {
+         "t": 67,
          "exo": 3,
          "desc": [
             {
@@ -1003733,6 +1006342,106 @@
       {
          "pl": 400,
          "eind": 11278
+      },
+      {
+         "pl": 1600,
+         "eind": 11279
+      },
+      {
+         "pl": 1300,
+         "eind": 11280
+      },
+      {
+         "pl": 1000,
+         "eind": 11281
+      },
+      {
+         "pl": 600,
+         "eind": 11282
+      },
+      {
+         "pl": 700,
+         "eind": 11283
+      },
+      {
+         "pl": 600,
+         "eind": 11284
+      },
+      {
+         "pl": 700,
+         "eind": 11287
+      },
+      {
+         "pl": 1300,
+         "eind": 11288
+      },
+      {
+         "pl": 1400,
+         "eind": 11290
+      },
+      {
+         "pl": 1500,
+         "eind": 11291
+      },
+      {
+         "pl": 1700,
+         "eind": 11292
+      },
+      {
+         "pl": 2000,
+         "eind": 11293
+      },
+      {
+         "pl": 11800,
+         "t": 64,
+         "eind": 11296
+      },
+      {
+         "exo": 4,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11297
+      },
+      {
+         "pl": 11700,
+         "eind": 11298
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11302
+      },
+      {
+         "pl": 7300,
+         "r": 0.0,
+         "eind": 11303
+      },
+      {
+         "pl": 4300,
+         "r": 0.00027777778,
+         "eind": 11308
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11310
+      },
+      {
+         "pl": 2600,
+         "eind": 11316
       }
    ],
    "137": [
@@ -1003746,6 +1006455,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1004658,6 +1007368,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1010899,6 +1013610,20 @@
       {
          "pl": "<10",
          "eind": 11258
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11306
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
       }
    ],
    "139": [
@@ -1010912,6 +1013637,7 @@
          "exo": null,
          "biome": "primordial_purple",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1019961,6 +1022687,83 @@
       {
          "pl": 1300,
          "eind": 11276
+      },
+      {
+         "pl": 1000,
+         "eind": 11279
+      },
+      {
+         "pl": 600,
+         "eind": 11281
+      },
+      {
+         "pl": 400,
+         "eind": 11282
+      },
+      {
+         "pl": 500,
+         "eind": 11287
+      },
+      {
+         "pl": 1000,
+         "eind": 11288
+      },
+      {
+         "pl": 1300,
+         "eind": 11290
+      },
+      {
+         "pl": 1400,
+         "eind": 11292
+      },
+      {
+         "pl": 1500,
+         "eind": 11293
+      },
+      {
+         "t": 64,
+         "eind": 11294
+      },
+      {
+         "exo": 4,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "The Void",
+               "desc": "This world is enveloped by The Void."
+            }
+         ],
+         "eind": 11295
+      },
+      {
+         "pl": "<10",
+         "eind": 11296
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11302
+      },
+      {
+         "r": 0.0,
+         "eind": 11303
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11311
       }
    ],
    "182": [
@@ -1019974,6 +1022777,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1024631,6 +1027435,20 @@
             }
          ],
          "eind": 11105
+      },
+      {
+         "exo": null,
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11305
+      },
+      {
+         "r": 0.00027777778,
+         "eind": 11308
       }
    ],
    "177": [
@@ -1024644,6 +1027462,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1024725,6 +1027544,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1024806,6 +1027626,7 @@
          "exo": null,
          "biome": "sandy_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1025287,6 +1028108,7 @@
          "exo": null,
          "biome": "moor_tundra",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1025640,6 +1028462,7 @@
          "exo": null,
          "biome": "arctic_glacier_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1027947,6 +1030770,46 @@
       {
          "pl": 400,
          "eind": 11272
+      },
+      {
+         "pl": 500,
+         "eind": 11279
+      },
+      {
+         "pl": 400,
+         "eind": 11280
+      },
+      {
+         "pl": 300,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11288
+      },
+      {
+         "pl": 400,
+         "eind": 11292
+      },
+      {
+         "pl": 500,
+         "eind": 11296
+      },
+      {
+         "pl": 1000,
+         "eind": 11303
+      },
+      {
+         "pl": 1900,
+         "eind": 11308
+      },
+      {
+         "pl": 2300,
+         "eind": 11316
       }
    ],
    "183": [
@@ -1027960,6 +1030823,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1032777,6 +1035641,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1035238,6 +1038103,58 @@
       {
          "pl": 500,
          "eind": 11276
+      },
+      {
+         "pl": 600,
+         "eind": 11279
+      },
+      {
+         "pl": 500,
+         "eind": 11280
+      },
+      {
+         "pl": 400,
+         "eind": 11281
+      },
+      {
+         "pl": 300,
+         "eind": 11282
+      },
+      {
+         "pl": 200,
+         "eind": 11284
+      },
+      {
+         "pl": 300,
+         "eind": 11288
+      },
+      {
+         "pl": 400,
+         "eind": 11291
+      },
+      {
+         "pl": 300,
+         "eind": 11292
+      },
+      {
+         "pl": 400,
+         "eind": 11293
+      },
+      {
+         "pl": 600,
+         "eind": 11296
+      },
+      {
+         "pl": 900,
+         "eind": 11303
+      },
+      {
+         "pl": 1700,
+         "eind": 11308
+      },
+      {
+         "pl": 2400,
+         "eind": 11316
       }
    ],
    "225": [
@@ -1035251,6 +1038168,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1035575,6 +1038493,10 @@
       {
          "r": 2.7777777,
          "eind": 10339
+      },
+      {
+         "t": 65,
+         "eind": 11313
       }
    ],
    "226": [
@@ -1035588,6 +1038510,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1039228,6 +1042151,18 @@
       {
          "pl": 100,
          "eind": 11272
+      },
+      {
+         "pl": "<10",
+         "eind": 11281
+      },
+      {
+         "pl": 100,
+         "eind": 11296
+      },
+      {
+         "pl": 200,
+         "eind": 11308
       }
    ],
    "272": [
@@ -1039241,6 +1042176,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1039490,6 +1042426,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1039763,6 +1042700,7 @@
          "exo": null,
          "biome": "primordial_base",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1040079,6 +1043017,7 @@
          "exo": null,
          "biome": "arctic_glacier_coldrocky",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1040223,6 +1043162,7 @@
          "exo": null,
          "biome": "moor_red",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1040598,6 +1043538,7 @@
          "exo": null,
          "biome": "moor_baseplanet",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1040835,6 +1043776,7 @@
          "exo": null,
          "biome": "sandy_acid",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1042069,6 +1045011,7 @@
          "exo": null,
          "biome": "primordial_blue",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1043360,6 +1046303,46 @@
       {
          "pl": 400,
          "eind": 11272
+      },
+      {
+         "pl": 500,
+         "eind": 11279
+      },
+      {
+         "pl": 400,
+         "eind": 11280
+      },
+      {
+         "pl": 300,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11290
+      },
+      {
+         "pl": 400,
+         "eind": 11293
+      },
+      {
+         "pl": 500,
+         "eind": 11296
+      },
+      {
+         "pl": 800,
+         "eind": 11303
+      },
+      {
+         "pl": 1800,
+         "eind": 11308
+      },
+      {
+         "pl": 2400,
+         "eind": 11316
       }
    ],
    "232": [
@@ -1043373,6 +1046356,7 @@
          "exo": null,
          "biome": "sandy_moon",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1043865,6 +1046849,7 @@
          "exo": null,
          "biome": "primordial_dead",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1043999,6 +1046984,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1044428,6 +1047414,34 @@
       {
          "pl": 600,
          "eind": 11272
+      },
+      {
+         "pl": 700,
+         "eind": 11279
+      },
+      {
+         "pl": 500,
+         "eind": 11280
+      },
+      {
+         "pl": 400,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11288
+      },
+      {
+         "pl": 400,
+         "eind": 11291
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ],
    "277": [
@@ -1044441,6 +1047455,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1044646,6 +1047661,26 @@
       {
          "pl": 400,
          "eind": 11278
+      },
+      {
+         "pl": 200,
+         "eind": 11279
+      },
+      {
+         "pl": 100,
+         "eind": 11281
+      },
+      {
+         "pl": "<10",
+         "eind": 11282
+      },
+      {
+         "pl": 100,
+         "eind": 11288
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ],
    "278": [
@@ -1044659,6 +1047694,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1045079,6 +1048115,54 @@
       {
          "pl": 2900,
          "eind": 11278
+      },
+      {
+         "pl": 3100,
+         "eind": 11279
+      },
+      {
+         "pl": 3000,
+         "eind": 11280
+      },
+      {
+         "pl": 2300,
+         "eind": 11281
+      },
+      {
+         "pl": 1400,
+         "eind": 11282
+      },
+      {
+         "pl": 1300,
+         "eind": 11283
+      },
+      {
+         "pl": 1200,
+         "eind": 11284
+      },
+      {
+         "pl": 1300,
+         "eind": 11287
+      },
+      {
+         "pl": 1700,
+         "eind": 11288
+      },
+      {
+         "pl": 1900,
+         "eind": 11290
+      },
+      {
+         "pl": 2100,
+         "eind": 11291
+      },
+      {
+         "pl": 2200,
+         "eind": 11293
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ],
    "276": [
@@ -1045092,6 +1048176,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1045542,6 +1048627,94 @@
          "hp": 1124796,
          "pl": 72100,
          "eind": 11278
+      },
+      {
+         "hp": 974059,
+         "pl": 89000,
+         "eind": 11279
+      },
+      {
+         "hp": 685710,
+         "pl": 85300,
+         "eind": 11280
+      },
+      {
+         "hp": 491212,
+         "pl": 63100,
+         "eind": 11281
+      },
+      {
+         "hp": 405386,
+         "pl": 44700,
+         "eind": 11282
+      },
+      {
+         "hp": 364914,
+         "pl": 41100,
+         "eind": 11283
+      },
+      {
+         "hp": 324203,
+         "pl": 40800,
+         "eind": 11284
+      },
+      {
+         "adiv": "InvasionFleet",
+         "eind": 11286
+      },
+      {
+         "hp": 313888,
+         "pl": 41100,
+         "eind": 11287
+      },
+      {
+         "hp": 248683,
+         "pl": 49400,
+         "eind": 11288
+      },
+      {
+         "hp": 214159,
+         "pl": 57200,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11290
+      },
+      {
+         "hp": 202187,
+         "pl": 60400,
+         "adiv": "TerrorTeam",
+         "eind": 11291
+      },
+      {
+         "hp": 179199,
+         "pl": 65500,
+         "eind": 11292
+      },
+      {
+         "hp": 156910,
+         "pl": 71500,
+         "eind": 11293
+      },
+      {
+         "t": 16,
+         "eind": 11301
       }
    ],
    "279": [
@@ -1045555,6 +1048728,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1045857,6 +1049031,30 @@
       {
          "pl": 400,
          "eind": 11275
+      },
+      {
+         "pl": 300,
+         "eind": 11280
+      },
+      {
+         "pl": 200,
+         "eind": 11281
+      },
+      {
+         "pl": 100,
+         "eind": 11282
+      },
+      {
+         "pl": 200,
+         "eind": 11288
+      },
+      {
+         "pl": 300,
+         "eind": 11293
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ],
    "280": [
@@ -1045870,6 +1049068,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1046277,6 +1049476,42 @@
       {
          "pl": 1600,
          "eind": 11275
+      },
+      {
+         "pl": 1700,
+         "eind": 11279
+      },
+      {
+         "pl": 1600,
+         "eind": 11280
+      },
+      {
+         "pl": 1000,
+         "eind": 11281
+      },
+      {
+         "pl": 700,
+         "eind": 11282
+      },
+      {
+         "pl": 800,
+         "eind": 11288
+      },
+      {
+         "pl": 900,
+         "eind": 11290
+      },
+      {
+         "pl": 1000,
+         "eind": 11291
+      },
+      {
+         "pl": 1100,
+         "eind": 11292
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ],
    "281": [
@@ -1046290,6 +1049525,7 @@
          "exo": null,
          "biome": "unknown",
          "show": true,
+         "hidden": false,
          "dss": null,
          "poi": null,
          "adiv": null,
@@ -1046544,6 +1049780,34 @@
       {
          "pl": 900,
          "eind": 11278
+      },
+      {
+         "pl": 600,
+         "eind": 11280
+      },
+      {
+         "pl": 400,
+         "eind": 11281
+      },
+      {
+         "pl": 200,
+         "eind": 11282
+      },
+      {
+         "pl": 300,
+         "eind": 11288
+      },
+      {
+         "pl": 400,
+         "eind": 11290
+      },
+      {
+         "pl": 500,
+         "eind": 11292
+      },
+      {
+         "t": 16,
+         "eind": 11300
       }
    ]
 }

@@ -18044,8 +18044,8 @@ Assault Division: APPROPRIATORS U1O leaves *Hydrobius - Void* (2026-08-21 14:46 
 *Asperoth Prime* is now being evacuated (2026-08-21 18:18  UTC)<br/>
 *Asperoth Prime* is enveloped by the Void (2026-08-21 18:21  UTC)<br/>
 *Asperoth Prime* is now unobservable due to the Void (2026-08-21 18:21  UTC)<br/>
-*Asperoth Prime* liberation campaign starts (2026-08-21 18:23  UTC)<br/>
 *Asperoth Prime* defense is failed (2026-08-21 18:23  UTC)<br/>
+*Asperoth Prime* liberation campaign starts (2026-08-21 18:23  UTC)<br/>
 *Asperoth Prime* liberation campaign ends (2026-08-21 19:08  UTC)<br/>
  Decay: 1.0 on Asperoth Prime
  (2026-08-21 19:08  UTC)<br/>
@@ -18076,4 +18076,111 @@ Assault Division: MINDLESS MASSES (Enemies) U1J deploys to *VOID SOURCE PLANET* 
 Assault Division: INVASION FLEET (Enemies) U1E leaves *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1T deploys to *New Stockholm* (2026-08-22 16:41  UTC)<br/>
 A Class-3 Exostorm warning was issued for *New Stockholm* (2026-08-22 16:42  UTC)<br/>
+*New Stockholm* of the Hanzo sector is attacked by Humans (2026-08-22 16:42  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized use of the Orbital Laser at the Void Source Planet for the next 24 hours. (2026-08-22 16:54  UTC)<br/>
+
+### Day: #928
+*Genesis Prime* defense is won by Illuminate (2026-08-23 10:10  UTC)<br/>
+*Genesis Prime* is enveloped by the Void. (2026-08-23 10:10  UTC)<br/>
+*Genesis Prime* is now unobservable due to the Void (2026-08-23 10:10  UTC)<br/>
+*Herthon Secundus* defense is won by Illuminate (2026-08-23 10:11  UTC)<br/>
+*Herthon Secundus* is enveloped by the Void. (2026-08-23 10:11  UTC)<br/>
+*Herthon Secundus* is now unobservable due to the Void. (2026-08-23 10:11  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1E leaves *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1F deploys to *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
+Dispatch:  VOID EXPANSION DETECTED  The expansion rate of the Void has accelerated, engulfing a substantial swath of outer galactic territory.   Affected sectors have been further consumed by the spatial vacuum. Helldivers are advised to focus all attention on efforts to map the Void. Preventing its further expansion is of the utmost urgency. (2026-08-23 10:15  UTC)<br/>
+Dispatch:  SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED  To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence.   No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 11:46  UTC)<br/>
+Dispatch:  SEASSE SCIENCE EXPEDITION SITREP.  Beneath the fractured marrow of the stone the light is a wet tongue that unwrites our skin the geometry has no corners only a singing tide that drinks our memories to feed the unborn dawn we are the ink on the blank page of the deep we are beautifully dissolved we are— (2026-08-23 11:52  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) U1J leaves *VOID SOURCE PLANET* (2026-08-23 12:44  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1J deploys to *VOID SOURCE PLANET* (2026-08-23 12:46  UTC)<br/>
+Dispatch:  SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED  To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence.   No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 13:15  UTC)<br/>
+*Oasis* defense is won by Illuminate (2026-08-23 13:51  UTC)<br/>
+*Alamak VII* defense is won by Illuminate (2026-08-23 13:52  UTC)<br/>
+Dispatch:  VOID EXPANSION DETECTED  The expanding perimeter of the Void has surpassed all projections. Massive swathes of galactic real estate have been consumed by the anomaly.  Any colonial populations within the engulfed coordinates are advised to work from home, where viable, and to otherwise uphold their professional commitments until notified otherwise. (2026-08-23 13:58  UTC)<br/>
+*Alamak VII* is enveloped by the Void. (2026-08-23 13:58  UTC)<br/>
+*Alamak VII* is unobservable due to the Void. (2026-08-23 13:58  UTC)<br/>
+*Oasis* is enveloped by the Void. (2026-08-23 13:58  UTC)<br/>
+*Oasis* is unobservable due to the Void. (2026-08-23 13:58  UTC)<br/>
+*New Stockholm* defense is won by Illuminate (2026-08-23 16:42  UTC)<br/>
+*New Stockholm* is enveloped by the Void. (2026-08-23 16:44  UTC)<br/>
+*New Stockholm* is unobservable due to the Void. (2026-08-23 16:44  UTC)<br/>
+*UVP Delta - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
+*Hydrobius - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
+*UVP Beta - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
+*UVP Gamma - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
+*UVP Alpha - Void* is now being evacuated (2026-08-23 16:47  UTC)<br/>
+*UVP Gamma - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*UVP Alpha - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*Senge 23 - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*UVP Beta - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*Hydrobius - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*UVP Delta - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
+*VOID SOURCE PLANET* is liberated (2026-08-23 16:56  UTC)<br/>
+↳Void sector is fully under Human control (2026-08-23 16:56  UTC)<br/>
+*Rirga Bay* is no longer marked with VOID GATEWAY POI (2026-08-23 16:56  UTC)<br/>
+*New Stockholm* is no longer enveloped by the Void. (2026-08-23 16:58  UTC)<br/>
+*New Stockholm* is no longer unobservable due to the Void. (2026-08-23 16:58  UTC)<br/>
+A Class-3 Exostorm on *New Stockholm* has stopped. (2026-08-23 16:58  UTC)<br/>
+*Alamak VII* is no longer enveloped by the Void. (2026-08-23 16:58  UTC)<br/>
+*Alamak VII* is no longer unobservable due to the Void. (2026-08-23 16:58  UTC)<br/>
+A Class-3 Exostorm on *Alamak VII* has stopped. (2026-08-23 16:58  UTC)<br/>
+*Asperoth Prime* is no longer enveloped by the Void. (2026-08-23 16:58  UTC)<br/>
+*Asperoth Prime* is no longer unobservable due to the Void. (2026-08-23 16:58  UTC)<br/>
+A Class-3 Exostorm on *Asperoth Prime* has stopped. (2026-08-23 16:58  UTC)<br/>
+*Alaraph* is no longer enveloped by the Void. (2026-08-23 16:58  UTC)<br/>
+*Alaraph* is no longer unobservable due to the Void. (2026-08-23 16:58  UTC)<br/>
+A Class-3 Exostorm on *Alaraph* has stopped. (2026-08-23 16:58  UTC)<br/>
+*Oasis* is no longer enveloped by the Void. (2026-08-23 17:03  UTC)<br/>
+*Oasis* is no longer unobservable due to the Void. (2026-08-23 17:03  UTC)<br/>
+ Decay: 0.0 on New Stockholm, Alamak VII
+ (2026-08-23 17:03  UTC)<br/>
+A Class-3 Exostorm on *Oasis* has stopped. (2026-08-23 17:04  UTC)<br/>
+*Genesis Prime* is no longer enveloped by The Void. (2026-08-23 17:04  UTC)<br/>
+*Genesis Prime* is no longer unobservable due to The Void. (2026-08-23 17:04  UTC)<br/>
+A Class-3 Exostorm on *Genesis Prime* has stopped. (2026-08-23 17:04  UTC)<br/>
+*Herthon Secundus* is no longer enveloped by the Void. (2026-08-23 17:04  UTC)<br/>
+*Herthon Secundus* is no longer unobservable due to the Void. (2026-08-23 17:04  UTC)<br/>
+A Class-3 Exostorm on *Herthon Secundus* has stopped. (2026-08-23 17:04  UTC)<br/>
+*Karlia* is no longer enveloped by the Void. (2026-08-23 17:09  UTC)<br/>
+*Karlia* is no longer unobservable due to the Void. (2026-08-23 17:09  UTC)<br/>
+A Class-3 Exostorm on *Karlia* has stopped. (2026-08-23 17:09  UTC)<br/>
+*Heze Bay* is no longer enveloped by the Void. (2026-08-23 17:09  UTC)<br/>
+*Heze Bay* is no longer unobservable due to the Void. (2026-08-23 17:09  UTC)<br/>
+*Alairt III* is no longer enveloped by the Void. (2026-08-23 17:10  UTC)<br/>
+*Alairt III* is no longer unobservable due to the Void. (2026-08-23 17:10  UTC)<br/>
+A Class-3 Exostorm on *Alairt III* has stopped. (2026-08-23 17:10  UTC)<br/>
+*Hydrobius* is no longer enveloped by the Void. (2026-08-23 17:11  UTC)<br/>
+*Hydrobius* is no unobservable due to the Void. (2026-08-23 17:11  UTC)<br/>
+A Class-3 Exostorm on *Heze Bay* has stopped. (2026-08-23 17:11  UTC)<br/>
+*Alderidge Cove* is no longer enveloped by the Void. (2026-08-23 17:17  UTC)<br/>
+*Alderidge Cove* is no longer unobservable due to the Void. (2026-08-23 17:17  UTC)<br/>
+A Class-3 Exostorm on *Alderidge Cove* has stopped. (2026-08-23 17:17  UTC)<br/>
+*Keid* is no longer enveloped by the Void. (2026-08-23 17:17  UTC)<br/>
+*Keid* is no longer unobservable due to the Void. (2026-08-23 17:17  UTC)<br/>
+A Class-3 Exostorm on *Keid* has stopped. (2026-08-23 17:17  UTC)<br/>
+ Decay: 0.0 on Illuminate worlds<br/> Decay: 0.0 on Oasis, Genesis Prime
+ (2026-08-23 17:17  UTC)<br/>
+*Senge 23* is no longer enveloped by the Void. (2026-08-23 17:18  UTC)<br/>
+*Senge 23* is no longer unobservable due to the Void. (2026-08-23 17:18  UTC)<br/>
+A Class-3 Exostorm on *Senge 23* has stopped. (2026-08-23 17:18  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1T leaves *New Stockholm* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1P leaves *Genesis Prime* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1E leaves *Senge 23* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1S leaves *Alamak VII* (2026-08-23 17:22  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1B leaves *Keid* (2026-08-23 17:22  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1I leaves *Asperoth Prime* (2026-08-23 17:22  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1R leaves *Oasis* (2026-08-23 17:25  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1G leaves *Heze Bay* (2026-08-23 17:25  UTC)<br/>
+*Senge 23* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
+*Rogue 5* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1A leaves *Seasse* (2026-08-23 17:26  UTC)<br/>
+*Seasse* is no longer enveloped by the Void. (2026-08-23 17:26  UTC)<br/>
+*Seasse* is no longer unobservable due to the Void. (2026-08-23 17:26  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1F leaves *Alairt III* (2026-08-23 17:28  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1Q leaves *Herthon Secundus* (2026-08-23 17:28  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1F leaves *Rirga Bay* (2026-08-23 17:29  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1I deploys to *Karlia* (2026-08-23 17:30  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1C leaves *Hort* (2026-08-23 17:30  UTC)<br/>
+ Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
+ (2026-08-23 17:30  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1J deploys to *Alaraph* (2026-08-23 17:31  UTC)<br/>
