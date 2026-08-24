@@ -118,7 +118,18 @@
         "name": "planet added",
         "matchable": ["is now identified"]
     },
-
+    "HidePlanet": {
+        "name": "HidePlanet",
+        "matchable": ["is obscured"]
+    },
+    "ShowPlanet": {
+        "name": "ShowPlanet",
+        "matchable": ["is visible"]
+    },
+    "PlanetRemoveEvent": {
+        "name": "planet removed",
+        "matchable": ["is no longer present"]
+    },
     "FullLibEvent": {
         "name": "full_lib",
         "matchable": ["fully liberated"]
@@ -152,14 +163,7 @@
         "name": "Biome Set",
         "matchable": ["biome is changed"]
     },
-    "HidePlanet": {
-        "name": "HidePlanet",
-        "matchable": ["is obscured"]
-    },
-    "ShowPlanet": {
-        "name": "ShowPlanet",
-        "matchable": ["is visible"]
-    },
+
     "Effect": {
         "name": "Currently Unknown Effect",
 
@@ -281,6 +285,10 @@
             {
                 "name": "SiteEvent destroyed",
                 "matchable": ["is removed"]
+            },
+            {
+                "name": "SiteEvent destroyed",
+                "matchable": ["is no longer marked"]
             }
         ]
     },
