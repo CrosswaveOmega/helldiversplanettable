@@ -15208,7 +15208,7 @@ Assault Division: Cyborgs U1E leaves *Matar Bay* (2026-03-22 03:17  UTC)<br/>
 Assault Division: Cyborgs U1E deploys to *Choohe* (2026-03-22 03:17  UTC)<br/>
 Assault Division: Cyborgs U1E leaves *Choohe* (2026-03-22 04:17  UTC)<br/>
 Assault Division: Cyborgs U1E deploys to *Marfark* (2026-03-22 04:17  UTC)<br/>
-*Fury* liberation campaign ends (2026-03-22 06:22  UTC)<br/>
+*Fury* is liberated (2026-03-22 06:22  UTC)<br/>
 Xzar sector is fully under Human control (2026-03-22 06:22  UTC)<br/>
  Decay: 0.5 on Fury
  (2026-03-22 06:22  UTC)<br/>
@@ -15218,9 +15218,9 @@ Xzar sector is fully under Human control (2026-03-22 06:22  UTC)<br/>
 ### Day: #774
 A Class-3 Exostorm warning was issued for *Seasse* (2026-03-22 11:04  UTC)<br/>
 Dispatch: CRITICAL EXOSTORM ESCALATION  The Exostorm has reached Category 3: all super-storms have merged into a single, extreme, planet-covering storm system.  The Ministry of Science reports initial adverse spacetime fractures within the *Seasse* system, amidst claims of fluctuating chronometric drift, and unidentifiable visual artifacts.  The tactical window is closing before spacetime stability is irrevocably compromised. (2026-03-22 11:07  UTC)<br/>
-*K* liberation campaign ends (2026-03-22 17:33  UTC)<br/>
+*K* is liberated (2026-03-22 17:34  UTC)<br/>
  Decay: 0.25 on K
- (2026-03-22 17:33  UTC)<br/>
+ (2026-03-22 17:34  UTC)<br/>
 *Zefia* defense is won (2026-03-22 18:30  UTC)<br/>
 DSS deploys to *Seasse* of the Omega sector (2026-03-22 18:30  UTC)<br/>
 Minor Order | [A3-3-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-3-5) Defend *Zefia* is won | Objective: Defend (2026-03-22 18:30  UTC)<br/>
@@ -15233,6 +15233,7 @@ Dispatch:  ARSENAL AUGMENTATION  High Command has authorized fleetwide availabil
 *Achird III* Region 0 TIMELY Town has fallen to Human (2026-03-23 02:52  UTC)<br/>
 
 ### Day: #775
+*Achird III* is liberated (2026-03-23 09:05  UTC)<br/>
 DSS effect Orbital Blockade starts (2026-03-23 09:43  UTC)<br/>
  Decay: 1.5 on Sol sector, Altus sector, Barnard sector, Cancri sector, Gothmar sector, Cantolus sector, Orion sector, Idun sector, Kelvin sector, Iptus sector, Korpus sector, Marspira sector, Talus sector, Celeste sector, Gallux sector, Morgon sector, Meridian sector, Sagan sector, Arturion sector, Falstaff sector, Draco sector, Ursa sector, Saleria sector, Guang sector, Tarragon sector, Theseus sector, Xzar sector, Nanos sector, Tanis sector, Borgus sector, Hanzo sector, Akira sector, Severin sector, Andromeda sector, Ferris sector, Leo sector, Omega sector, Alstrad sector, Hawking sector, Quintus sector, Gellert sector, Mirin sector, Sten sector, Farsight sector, Xi Tauri sector, Trigon sector, Ymir sector<br/> Decay: 5.0 on Zea Rugosia, Aurora Bay, Herthon Secundus, Oshaune<br/> Decay: 0.5 on Celeste sector, Orion sector, Talus sector, Gellert sector, Korpus sector, Nanos sector, Umlaut sector, Borgus sector, Hanzo sector, Guang sector, Tanis sector, Ymir sector<br/> Decay: 0.0 on Human worlds<br/> Decay: 0.25 on Seyshel Beach, Effluvia, Fenmire, Myrium, Kerth Secundus, Parsh<br/> Decay: 1.0 on Mirin sector, Saleria sector, Marspira sector, Nanos sector, Orion sector, Korpus sector, Morgon sector, Rictus sector, Hanzo sector, Guang sector, Hydra sector, Falstaff sector, Umlaut sector, Jin Xi sector, Draco sector, Farsight sector, Rigel sector, Andromeda sector, Ymir sector, Omega sector, Xi Tauri sector, Trigon sector, Gellert sector<br/> Decay: 2.5 on Sten sector, Talus sector, Lacaille sector, Orion sector, Trigon sector, Umlaut sector, Jin Xi sector, Rigel sector<br/> Decay: 0.0 on Meridia<br/> Decay: 2.0 on Orion sector, Morgon sector, Sten sector, Falstaff sector, Andromeda sector, Tanis sector, Draco sector, Jin Xi sector, Lacaille sector, Hydra sector, Xzar sector<br/> Decay: -1.0 on Ursica XI<br/> Decay: 3.0 on Aesir Pass, Mox<br/> Decay: 4.5 on Chort Bay<br/> Decay: 4.0 on Clasa<br/> Decay: 6.0 on L'estrade sector<br/> Decay: 7.0 on Mekbuda, Merga IV, Vindemitarix Prime<br/> Decay: 3.5 on Merak<br/> Decay: 8.0 on Seasse<br/> Decay: 10.0 on Zagon Prime, Omicron<br/> Decay: 100.0 on Cyberstan
  (2026-03-23 09:43  UTC)<br/>
@@ -17355,7 +17356,7 @@ Dispatch: EXOSTORM ADVISORY. A Category 1 Exostorm has been detected on HEZE BAY
 DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-07-21 19:52  UTC)<br/>
 Assault Division: MINDLESS MASSES U3A leaves *Heze Bay* (2026-07-21 21:52  UTC)<br/>
 Assault Division: APPROPRIATORS U4A deploys to *Heze Bay* (2026-07-21 21:54  UTC)<br/>
-*Wezen* liberation campaign ends (2026-07-21 22:13  UTC)<br/>
+*Wezen* is liberated (2026-07-21 22:13  UTC)<br/>
 DSS deploys to *Heze Bay* of the Hanzo sector (2026-07-21 22:13  UTC)<br/>
 *Yed Prior* of the Tanis sector is attacked by Automatons (2026-07-22 06:58  UTC)<br/>
  Decay: 0.0 on Yed Prior
@@ -18177,6 +18178,7 @@ Assault Division: APPROPRIATORS (Enemies) U1B leaves *Keid* (2026-08-23 17:22  U
 Assault Division: VOTE SNATCHERS (Enemies) U1I leaves *Asperoth Prime* (2026-08-23 17:22  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1R leaves *Oasis* (2026-08-23 17:25  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1G leaves *Heze Bay* (2026-08-23 17:25  UTC)<br/>
+*Seasse* instantly flips to Human control (2026-08-23 17:26  UTC)<br/>
 *Senge 23* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
 *Rogue 5* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1A leaves *Seasse* (2026-08-23 17:26  UTC)<br/>
