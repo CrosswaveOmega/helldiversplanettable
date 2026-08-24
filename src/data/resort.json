@@ -17987,19 +17987,35 @@
       },
       {
          "pl": 400,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1900,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2100,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1900,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 200,
+         "eind": 11324
+      },
+      {
+         "pl": 100,
+         "eind": 11325
+      },
+      {
+         "pl": 200,
+         "eind": 11326
+      },
+      {
+         "pl": 300,
+         "eind": 11332
       }
    ],
    "1": [
@@ -23598,15 +23614,35 @@
       },
       {
          "pl": 300,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 700,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1000,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 300,
+         "eind": 11324
+      },
+      {
+         "pl": 200,
+         "eind": 11325
+      },
+      {
+         "pl": 300,
+         "eind": 11327
+      },
+      {
+         "pl": 200,
+         "eind": 11330
+      },
+      {
+         "pl": 300,
+         "eind": 11332
       }
    ],
    "176": [
@@ -25358,19 +25394,23 @@
       },
       {
          "pl": 100,
-         "eind": 11291
+         "eind": 11292
       },
       {
          "pl": 200,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 300,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 400,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 100,
+         "eind": 11324
       }
    ],
    "180": [
@@ -28810,15 +28850,15 @@
       },
       {
          "pl": 100,
-         "eind": 11290
+         "eind": 11291
       },
       {
          "pl": "<10",
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 100,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "exo": null,
@@ -28828,16 +28868,60 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11304
+         "eind": 11306
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 11314
+         "eind": 11317
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
+      },
+      {
+         "t": 65,
+         "regions": {
+            "PENSCEWT": {
+               "index": 180,
+               "name": "PENSCEWT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLE'S LIKENESS": {
+               "index": 180,
+               "name": "EAGLE'S LIKENESS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "CONSENSUS": {
+               "index": 180,
+               "name": "CONSENSUS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11328
+      },
+      {
+         "hp": 1799890,
+         "pl": 100,
+         "eind": 11330
+      },
+      {
+         "hp": 1799722,
+         "pl": 200,
+         "eind": 11332
       }
    ],
    "46": [
@@ -68854,11 +68938,11 @@
       },
       {
          "pl": 100,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": "<10",
-         "eind": 11316
+         "eind": 11319
       }
    ],
    "269": [
@@ -74779,7 +74863,11 @@
       },
       {
          "pl": 100,
-         "eind": 11308
+         "eind": 11311
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
       }
    ],
    "52": [
@@ -98972,32 +99060,56 @@
          "eind": 11288
       },
       {
-         "pl": 1500,
+         "pl": 1400,
          "eind": 11290
       },
       {
-         "pl": 1600,
+         "pl": 1500,
          "eind": 11291
       },
       {
-         "pl": 1800,
+         "pl": 1600,
          "eind": 11292
       },
       {
-         "pl": 1900,
+         "pl": 1800,
          "eind": 11293
       },
       {
+         "pl": 1900,
+         "eind": 11294
+      },
+      {
          "pl": 2100,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2700,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 3100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1600,
+         "eind": 11324
+      },
+      {
+         "pl": 1100,
+         "eind": 11325
+      },
+      {
+         "pl": 1000,
+         "eind": 11327
+      },
+      {
+         "pl": 1200,
+         "eind": 11330
+      },
+      {
+         "pl": 1800,
+         "eind": 11332
       }
    ],
    "212": [
@@ -166796,19 +166908,23 @@
       },
       {
          "pl": 100,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 500,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1200,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
       }
    ],
    "125": [
@@ -240870,27 +240986,51 @@
       },
       {
          "pl": 1500,
-         "eind": 11291
+         "eind": 11292
       },
       {
          "pl": 1600,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 1800,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 2000,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2600,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 3100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1600,
+         "eind": 11324
+      },
+      {
+         "pl": 1200,
+         "eind": 11325
+      },
+      {
+         "pl": 1100,
+         "eind": 11326
+      },
+      {
+         "pl": 1000,
+         "eind": 11327
+      },
+      {
+         "pl": 1200,
+         "eind": 11330
+      },
+      {
+         "pl": 1700,
+         "eind": 11332
       }
    ],
    "78": [
@@ -376752,36 +376892,191 @@
          "eind": 11288
       },
       {
-         "pl": 1300,
+         "pl": 1200,
          "eind": 11290
       },
       {
-         "pl": 1500,
-         "eind": 11292
+         "pl": 1300,
+         "eind": 11291
       },
       {
-         "pl": 1700,
+         "pl": 1500,
          "eind": 11293
       },
       {
+         "pl": 1700,
+         "eind": 11294
+      },
+      {
          "pl": 2000,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1900,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 2200,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 3300,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 4400,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 196937
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 1900,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 197184
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 197271
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 197344
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 197414
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 198225
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199446
+            }
+         },
+         "eind": 11332
       }
    ],
    "202": [
@@ -381349,27 +381644,47 @@
       },
       {
          "pl": 500,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 800,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 700,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 800,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1300,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1900,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1200,
+         "eind": 11324
+      },
+      {
+         "pl": 700,
+         "eind": 11325
+      },
+      {
+         "pl": 500,
+         "eind": 11327
+      },
+      {
+         "pl": 600,
+         "eind": 11330
+      },
+      {
+         "pl": 900,
+         "eind": 11332
       }
    ],
    "248": [
@@ -391941,7 +392256,11 @@
       },
       {
          "pl": 100,
-         "eind": 11303
+         "eind": 11305
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
       }
    ],
    "115": [
@@ -396882,15 +397201,19 @@
       },
       {
          "pl": 200,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 600,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 500,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
       }
    ],
    "159": [
@@ -408983,31 +409306,47 @@
       },
       {
          "pl": 1100,
-         "eind": 11290
+         "eind": 11291
       },
       {
          "pl": 1200,
-         "eind": 11292
-      },
-      {
-         "pl": 1300,
          "eind": 11293
       },
       {
+         "pl": 1300,
+         "eind": 11294
+      },
+      {
          "pl": 1600,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1700,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2500,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 3200,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1600,
+         "eind": 11324
+      },
+      {
+         "pl": 1100,
+         "eind": 11325
+      },
+      {
+         "pl": 1000,
+         "eind": 11327
+      },
+      {
+         "pl": 1500,
+         "eind": 11332
       }
    ],
    "160": [
@@ -479194,27 +479533,47 @@
       },
       {
          "pl": 1000,
-         "eind": 11292
-      },
-      {
-         "pl": 1100,
          "eind": 11293
       },
       {
+         "pl": 1100,
+         "eind": 11294
+      },
+      {
          "pl": 1200,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1300,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1600,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1900,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1000,
+         "eind": 11324
+      },
+      {
+         "pl": 700,
+         "eind": 11325
+      },
+      {
+         "pl": 600,
+         "eind": 11327
+      },
+      {
+         "pl": 700,
+         "eind": 11330
+      },
+      {
+         "pl": 1100,
+         "eind": 11332
       }
    ],
    "172": [
@@ -489066,23 +489425,43 @@
       },
       {
          "pl": 500,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 600,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 700,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 900,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 500,
+         "eind": 11324
+      },
+      {
+         "pl": 400,
+         "eind": 11325
+      },
+      {
+         "pl": 200,
+         "eind": 11327
+      },
+      {
+         "pl": 400,
+         "eind": 11330
+      },
+      {
+         "pl": 500,
+         "eind": 11332
       }
    ],
    "173": [
@@ -509673,40 +510052,114 @@
          "eind": 11288
       },
       {
-         "pl": 5600,
+         "pl": 5300,
          "eind": 11290
       },
       {
-         "pl": 5800,
+         "pl": 5600,
          "eind": 11291
       },
       {
-         "pl": 6400,
+         "pl": 5800,
          "eind": 11292
       },
       {
-         "pl": 7000,
+         "pl": 6400,
          "eind": 11293
       },
       {
+         "pl": 7000,
+         "eind": 11294
+      },
+      {
          "pl": 6000,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 5800,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 6300,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 8000,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 9200,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "hp": 1499992,
+         "pl": 5100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 399999
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "hp": 1500000,
+         "pl": 4100,
+         "regions": {
+            "ALTONBURG": {
+               "index": 0,
+               "name": "ALTONBURG",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERSATZ": {
+               "index": 1,
+               "name": "ERSATZ",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "hp": 1499980,
+         "pl": 4000,
+         "eind": 11326
+      },
+      {
+         "hp": 1500000,
+         "pl": 3500,
+         "eind": 11327
+      },
+      {
+         "hp": 1499996,
+         "pl": 3300,
+         "eind": 11329
+      },
+      {
+         "hp": 1500000,
+         "pl": 4500,
+         "eind": 11330
+      },
+      {
+         "pl": 7100,
+         "eind": 11332
       }
    ],
    "214": [
@@ -528088,35 +528541,55 @@
       },
       {
          "pl": 1500,
-         "eind": 11291
-      },
-      {
-         "pl": 1700,
          "eind": 11292
       },
       {
-         "pl": 1800,
+         "pl": 1700,
          "eind": 11293
       },
       {
+         "pl": 1800,
+         "eind": 11294
+      },
+      {
          "pl": 1900,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1800,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 1900,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2400,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 2700,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1600,
+         "eind": 11324
+      },
+      {
+         "pl": 1200,
+         "eind": 11325
+      },
+      {
+         "pl": 1100,
+         "eind": 11327
+      },
+      {
+         "pl": 1400,
+         "eind": 11330
+      },
+      {
+         "pl": 1900,
+         "eind": 11332
       }
    ],
    "217": [
@@ -551965,6 +552438,36 @@
          "eind": 11288
       },
       {
+         "pl": 13000,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 465834
+            }
+         },
+         "eind": 11290
+      },
+      {
          "pl": 13800,
          "regions": {
             "OLD DOVE": {
@@ -551992,7 +552495,7 @@
                "hp": 466239
             }
          },
-         "eind": 11290
+         "eind": 11291
       },
       {
          "pl": 14300,
@@ -552022,7 +552525,7 @@
                "hp": 466773
             }
          },
-         "eind": 11291
+         "eind": 11292
       },
       {
          "pl": 15200,
@@ -552052,7 +552555,7 @@
                "hp": 467651
             }
          },
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 16100,
@@ -552082,7 +552585,7 @@
                "hp": 468423
             }
          },
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 15200,
@@ -552112,7 +552615,7 @@
                "hp": 474193
             }
          },
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 14700,
@@ -552142,7 +552645,7 @@
                "hp": 474851
             }
          },
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 16500,
@@ -552172,7 +552675,7 @@
                "hp": 475523
             }
          },
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 25900,
@@ -552202,7 +552705,7 @@
                "hp": 476155
             }
          },
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 34300,
@@ -552232,7 +552735,217 @@
                "hp": 476249
             }
          },
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 22000,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 391823
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 18600,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 373779
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 18900,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 363992
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 17100,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 356117
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "pl": 16400,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 353856
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "pl": 19500,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 339826
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "pl": 26200,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 327215
+            }
+         },
+         "eind": 11332
       }
    ],
    "268": [
@@ -564647,27 +565360,39 @@
       },
       {
          "pl": 300,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 400,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 300,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 400,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 600,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 800,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 500,
+         "eind": 11324
+      },
+      {
+         "pl": 300,
+         "eind": 11325
+      },
+      {
+         "pl": 400,
+         "eind": 11332
       }
    ],
    "157": [
@@ -577453,27 +578178,43 @@
       },
       {
          "pl": 800,
-         "eind": 11291
+         "eind": 11292
       },
       {
          "pl": 900,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 1000,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1100,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1600,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1900,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1000,
+         "eind": 11324
+      },
+      {
+         "pl": 700,
+         "eind": 11325
+      },
+      {
+         "pl": 600,
+         "eind": 11326
+      },
+      {
+         "pl": 1100,
+         "eind": 11332
       }
    ],
    "198": [
@@ -615160,7 +615901,7 @@
                "desc": "Nothing of note.",
                "t": 48,
                "r": 0.2777778,
-               "hp": 85726
+               "hp": 85639
             },
             "XIN FUZHOU": {
                "index": 1,
@@ -615181,7 +615922,7 @@
                "desc": "Nothing of note.",
                "t": 48,
                "r": 0.2777778,
-               "hp": 85849
+               "hp": 85726
             },
             "XIN FUZHOU": {
                "index": 1,
@@ -615193,6 +615934,27 @@
             }
          },
          "eind": 11291
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 85849
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11292
       },
       {
          "pl": 1400,
@@ -615214,7 +615976,7 @@
                "hp": 400000
             }
          },
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 1500,
@@ -615236,7 +615998,7 @@
                "hp": 400000
             }
          },
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 1800,
@@ -615258,7 +616020,7 @@
                "hp": 400000
             }
          },
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1900,
@@ -615280,7 +616042,7 @@
                "hp": 400000
             }
          },
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 2100,
@@ -615302,7 +616064,7 @@
                "hp": 400000
             }
          },
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 3200,
@@ -615324,7 +616086,7 @@
                "hp": 400000
             }
          },
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 4200,
@@ -615346,7 +616108,159 @@
                "hp": 400000
             }
          },
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 82988
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 82411
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 82214
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 81970
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 81884
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 81857
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "pl": 1800,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 82096
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11332
       }
    ],
    "200": [
@@ -628559,36 +629473,194 @@
          "eind": 11288
       },
       {
-         "pl": 2600,
+         "pl": 2500,
          "eind": 11290
       },
       {
-         "pl": 2700,
+         "pl": 2600,
          "eind": 11291
       },
       {
-         "pl": 2900,
+         "pl": 2700,
          "eind": 11292
       },
       {
-         "pl": 3000,
+         "pl": 2900,
          "eind": 11293
       },
       {
+         "pl": 3000,
+         "eind": 11294
+      },
+      {
          "pl": 3500,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 4100,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 7800,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 11900,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 10100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 365819
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 7100,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 362381
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 6400,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 361146
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 5700,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 360477
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "pl": 5500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 360028
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "pl": 5600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 359181
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "pl": 7800,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 359372
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11332
       }
    ],
    "158": [
@@ -684094,40 +685166,72 @@
          "eind": 11288
       },
       {
-         "pl": 2000,
+         "pl": 1900,
          "eind": 11290
       },
       {
-         "pl": 2100,
+         "pl": 2000,
          "eind": 11291
       },
       {
-         "pl": 2300,
+         "pl": 2100,
          "eind": 11292
       },
       {
-         "pl": 2400,
+         "pl": 2300,
          "eind": 11293
       },
       {
+         "pl": 2400,
+         "eind": 11294
+      },
+      {
          "pl": 2500,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 2400,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 2700,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 3700,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 4700,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 3000,
+         "eind": 11324
+      },
+      {
+         "pl": 2200,
+         "eind": 11325
+      },
+      {
+         "pl": 2100,
+         "eind": 11326
+      },
+      {
+         "pl": 1800,
+         "eind": 11327
+      },
+      {
+         "pl": 1700,
+         "eind": 11329
+      },
+      {
+         "pl": 2100,
+         "eind": 11330
+      },
+      {
+         "pl": 3300,
+         "eind": 11332
       }
    ],
    "201": [
@@ -788239,23 +789343,47 @@
       },
       {
          "pl": 200,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 300,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 500,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1200,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 1700,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 800,
+         "eind": 11324
+      },
+      {
+         "pl": 500,
+         "eind": 11325
+      },
+      {
+         "pl": 800,
+         "eind": 11327
+      },
+      {
+         "pl": 900,
+         "eind": 11329
+      },
+      {
+         "pl": 700,
+         "eind": 11330
+      },
+      {
+         "pl": 1000,
+         "eind": 11332
       }
    ],
    "91": [
@@ -793619,23 +794747,235 @@
       },
       {
          "pl": 700,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 1100,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 2200,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 6900,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 12100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 6300,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 382256
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 381841
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 3800,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 381866
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 6300,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 381621
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "pl": 7100,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 381205
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "hp": 2099995,
+         "pl": 7600,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 375800
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "hp": 2100000,
+         "pl": 10500,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 371952
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11332
       }
    ],
    "94": [
@@ -797519,21 +798859,25 @@
          "eind": 11288
       },
       {
-         "pl": 5800,
+         "pl": 5400,
          "eind": 11290
       },
       {
-         "pl": 6000,
+         "pl": 5800,
          "eind": 11291
       },
       {
-         "pl": 6500,
+         "pl": 6000,
          "eind": 11292
+      },
+      {
+         "pl": 6500,
+         "eind": 11293
       },
       {
          "pl": 7000,
          "t": 64,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "exo": 4,
@@ -797547,11 +798891,11 @@
                "desc": "This world is enveloped by The Void."
             }
          ],
-         "eind": 11295
+         "eind": 11296
       },
       {
          "pl": 100,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "exo": null,
@@ -797561,16 +798905,20 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11303
+         "eind": 11305
       },
       {
          "r": 0.0,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 11312
+         "eind": 11315
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
       }
    ],
    "95": [
@@ -803135,20 +804483,56 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11304
+         "eind": 11306
       },
       {
          "r": 0.0,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 11310
+         "eind": 11313
       },
       {
          "pl": 300,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
+      },
+      {
+         "t": 65,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "hp": 1599423,
+         "pl": 800,
+         "eind": 11330
+      },
+      {
+         "hp": 1598436,
+         "pl": 1100,
+         "eind": 11332
       }
    ],
    "59": [
@@ -836298,11 +837682,11 @@
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             }
          ],
-         "eind": 11302
+         "eind": 11304
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "SEAFPresence",
@@ -836316,7 +837700,43 @@
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
             }
          ],
-         "eind": 11317
+         "eind": 11320
+      },
+      {
+         "t": 65,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "pl": 100,
+         "eind": 11329
+      },
+      {
+         "hp": 1798143,
+         "pl": 3000,
+         "eind": 11330
+      },
+      {
+         "hp": 1794482,
+         "pl": 4600,
+         "eind": 11332
       }
    ],
    "141": [
@@ -837958,11 +839378,43 @@
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             }
          ],
-         "eind": 11302
+         "eind": 11304
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
+      },
+      {
+         "t": 65,
+         "regions": {
+            "ASPEN HILLS": {
+               "index": 0,
+               "name": "ASPEN HILLS",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "MEGACORPUS": {
+               "index": 1,
+               "name": "MEGACORPUS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "hp": 1799762,
+         "pl": 300,
+         "eind": 11330
+      },
+      {
+         "hp": 1799314,
+         "pl": 500,
+         "eind": 11332
       }
    ],
    "186": [
@@ -840265,7 +841717,7 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11308
+         "eind": 11311
       }
    ],
    "184": [
@@ -845372,11 +846824,11 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11307
+         "eind": 11310
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       }
    ],
    "185": [
@@ -847605,11 +849057,11 @@
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             }
          ],
-         "eind": 11305
+         "eind": 11308
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "SEAFPresence",
@@ -847623,7 +849075,51 @@
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
             }
          ],
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "t": 65,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.0,
+               "hp": 400000
+            }
+         },
+         "eind": 11328
+      },
+      {
+         "hp": 1398106,
+         "pl": 4000,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.0,
+               "hp": 398076
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "hp": 1393292,
+         "pl": 6400,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.0,
+               "hp": 393353
+            }
+         },
+         "eind": 11332
       }
    ],
    "227": [
@@ -848577,7 +850073,7 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11313
+         "eind": 11316
       }
    ],
    "228": [
@@ -850074,15 +851570,182 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11309
+         "eind": 11312
       },
       {
          "t": 65,
-         "eind": 11313
+         "eind": 11316
       },
       {
          "pl": 100,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 95914
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 95280
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 95035
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 94756
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 94570
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 93965
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "desc": [
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            }
+         ],
+         "eind": 11331
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 93881
+            }
+         },
+         "eind": 11332
       }
    ],
    "229": [
@@ -858554,27 +860217,43 @@
       },
       {
          "pl": 700,
-         "eind": 11290
+         "eind": 11291
       },
       {
          "pl": 800,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1200,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 5600,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 9900,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 9200,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 600,
+         "eind": 11324
+      },
+      {
+         "pl": 400,
+         "eind": 11325
+      },
+      {
+         "pl": 500,
+         "eind": 11330
+      },
+      {
+         "pl": 600,
+         "eind": 11332
       }
    ],
    "98": [
@@ -859938,7 +861617,7 @@
       {
          "exo": null,
          "desc": [],
-         "eind": 11308
+         "eind": 11311
       }
    ],
    "144": [
@@ -906816,15 +908495,27 @@
       },
       {
          "pl": 200,
-         "eind": 11291
+         "eind": 11292
       },
       {
          "pl": 300,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 400,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 200,
+         "eind": 11324
+      },
+      {
+         "pl": 100,
+         "eind": 11325
+      },
+      {
+         "pl": 200,
+         "eind": 11332
       }
    ],
    "206": [
@@ -921366,24 +923057,28 @@
          "eind": 11288
       },
       {
-         "pl": 900,
+         "pl": 800,
          "eind": 11290
       },
       {
-         "pl": 1000,
-         "eind": 11292
+         "pl": 900,
+         "eind": 11291
       },
       {
-         "pl": 1200,
+         "pl": 1000,
          "eind": 11293
       },
       {
+         "pl": 1200,
+         "eind": 11294
+      },
+      {
          "pl": 1100,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "pl": 1300,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 2200,
@@ -921405,7 +923100,7 @@
                "hp": 200000
             }
          },
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 3100,
@@ -921427,7 +923122,159 @@
                "hp": 200000
             }
          },
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94915
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11324
+      },
+      {
+         "pl": 1500,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94225
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11325
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 93986
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11326
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 93844
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11327
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 93782
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11329
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 93637
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11330
+      },
+      {
+         "pl": 1700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 93779
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11332
       }
    ],
    "252": [
@@ -1006377,24 +1008224,24 @@
       },
       {
          "pl": 1400,
-         "eind": 11290
-      },
-      {
-         "pl": 1500,
          "eind": 11291
       },
       {
-         "pl": 1700,
+         "pl": 1500,
          "eind": 11292
       },
       {
-         "pl": 2000,
+         "pl": 1700,
          "eind": 11293
+      },
+      {
+         "pl": 2000,
+         "eind": 11294
       },
       {
          "pl": 11800,
          "t": 64,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "exo": 4,
@@ -1006408,11 +1008255,11 @@
                "desc": "This world is enveloped by The Void."
             }
          ],
-         "eind": 11297
+         "eind": 11298
       },
       {
          "pl": 11700,
-         "eind": 11298
+         "eind": 11299
       },
       {
          "exo": null,
@@ -1006422,26 +1008269,35 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11302
+         "eind": 11304
       },
       {
          "pl": 7300,
          "r": 0.0,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 4300,
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 11310
+         "eind": 11313
       },
       {
          "pl": 2600,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
+      },
+      {
+         "pl": 100,
+         "t": 65,
+         "eind": 11332
       }
    ],
    "137": [
@@ -1013619,11 +1015475,11 @@
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             }
          ],
-         "eind": 11306
+         "eind": 11309
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       }
    ],
    "139": [
@@ -1022709,20 +1024565,24 @@
          "eind": 11288
       },
       {
-         "pl": 1300,
+         "pl": 1200,
          "eind": 11290
       },
       {
-         "pl": 1400,
-         "eind": 11292
+         "pl": 1300,
+         "eind": 11291
       },
       {
-         "pl": 1500,
+         "pl": 1400,
          "eind": 11293
       },
       {
-         "t": 64,
+         "pl": 1500,
          "eind": 11294
+      },
+      {
+         "t": 64,
+         "eind": 11295
       },
       {
          "exo": 4,
@@ -1022736,11 +1024596,11 @@
                "desc": "This world is enveloped by The Void."
             }
          ],
-         "eind": 11295
+         "eind": 11296
       },
       {
          "pl": "<10",
-         "eind": 11296
+         "eind": 11297
       },
       {
          "exo": null,
@@ -1022750,20 +1024610,20 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11302
+         "eind": 11304
       },
       {
          "r": 0.0,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "adiv": "",
          "desc": [],
-         "eind": 11311
+         "eind": 11314
       }
    ],
    "182": [
@@ -1027444,11 +1029304,43 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11305
+         "eind": 11308
       },
       {
          "r": 0.00027777778,
-         "eind": 11308
+         "eind": 11311
+      },
+      {
+         "t": 65,
+         "regions": {
+            "UNANIMITY": {
+               "index": 0,
+               "name": "UNANIMITY",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "UNISON": {
+               "index": 1,
+               "name": "UNISON",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11328
+      },
+      {
+         "hp": 1799560,
+         "pl": 300,
+         "eind": 11330
+      },
+      {
+         "hp": 1798903,
+         "pl": 500,
+         "eind": 11332
       }
    ],
    "177": [
@@ -1030793,23 +1032685,43 @@
       },
       {
          "pl": 400,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "pl": 500,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 1000,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1900,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 2300,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 400,
+         "eind": 11324
+      },
+      {
+         "pl": 200,
+         "eind": 11325
+      },
+      {
+         "pl": 300,
+         "eind": 11327
+      },
+      {
+         "pl": 400,
+         "eind": 11330
+      },
+      {
+         "pl": 500,
+         "eind": 11332
       }
    ],
    "183": [
@@ -1038130,31 +1040042,51 @@
       },
       {
          "pl": 400,
-         "eind": 11291
-      },
-      {
-         "pl": 300,
          "eind": 11292
       },
       {
-         "pl": 400,
+         "pl": 300,
          "eind": 11293
       },
       {
+         "pl": 400,
+         "eind": 11294
+      },
+      {
          "pl": 600,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 900,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1700,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 2400,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 400,
+         "eind": 11324
+      },
+      {
+         "pl": 300,
+         "eind": 11325
+      },
+      {
+         "pl": 400,
+         "eind": 11327
+      },
+      {
+         "pl": 500,
+         "eind": 11330
+      },
+      {
+         "pl": 600,
+         "eind": 11332
       }
    ],
    "225": [
@@ -1038496,7 +1040428,11 @@
       },
       {
          "t": 65,
-         "eind": 11313
+         "eind": 11316
+      },
+      {
+         "pl": 100,
+         "eind": 11324
       }
    ],
    "226": [
@@ -1042158,11 +1044094,19 @@
       },
       {
          "pl": 100,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 200,
-         "eind": 11308
+         "eind": 11311
+      },
+      {
+         "pl": "<10",
+         "eind": 11324
+      },
+      {
+         "pl": 100,
+         "eind": 11332
       }
    ],
    "272": [
@@ -1046322,27 +1048266,55 @@
       },
       {
          "pl": 300,
-         "eind": 11290
+         "eind": 11291
       },
       {
          "pl": 400,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "pl": 500,
-         "eind": 11296
+         "eind": 11297
       },
       {
          "pl": 800,
-         "eind": 11303
+         "eind": 11305
       },
       {
          "pl": 1800,
-         "eind": 11308
+         "eind": 11311
       },
       {
          "pl": 2400,
-         "eind": 11316
+         "eind": 11319
+      },
+      {
+         "pl": 1500,
+         "eind": 11324
+      },
+      {
+         "pl": 1000,
+         "eind": 11325
+      },
+      {
+         "pl": 800,
+         "eind": 11326
+      },
+      {
+         "pl": 2300,
+         "eind": 11327
+      },
+      {
+         "pl": 2700,
+         "eind": 11329
+      },
+      {
+         "pl": 3300,
+         "eind": 11330
+      },
+      {
+         "pl": 4100,
+         "eind": 11332
       }
    ],
    "232": [
@@ -1046997,14 +1048969,9 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "oasis_bleak",
          "adiv": "MechTeam",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "Heavy SEAF Presence",
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
@@ -1047053,10 +1049020,6 @@
          "pl": 53700,
          "dss": "DSS Here",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "Heavy SEAF Presence",
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
@@ -1047121,10 +1049084,6 @@
          "adiv": "InvasionFleet",
          "desc": [
             {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
                "name": "Heavy SEAF Presence",
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
             },
@@ -1047151,10 +1049110,6 @@
          "pl": 56500,
          "adiv": "",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -1047349,10 +1049304,6 @@
          "dss": "",
          "desc": [
             {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             },
@@ -1047437,11 +1049388,11 @@
       },
       {
          "pl": 400,
-         "eind": 11291
+         "eind": 11292
       },
       {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ],
    "277": [
@@ -1047468,15 +1049419,8 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "swamp_haunted",
          "show": false,
-         "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
          "position": {
             "x": -0.427,
             "y": -0.571
@@ -1047521,10 +1049465,6 @@
          "show": true,
          "adiv": "InvasionFleet",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "APPROPRIATORS",
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
@@ -1047680,7 +1049620,7 @@
       },
       {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ],
    "278": [
@@ -1047707,14 +1049647,9 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "moor_baseplanet",
          "adiv": "TerrorTeam",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
@@ -1047808,10 +1049743,6 @@
          "adiv": "InvasionFleet",
          "desc": [
             {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             },
@@ -1047833,10 +1049764,6 @@
       {
          "adiv": "SEAFPresence",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
@@ -1048149,20 +1050076,24 @@
          "eind": 11288
       },
       {
-         "pl": 1900,
+         "pl": 1800,
          "eind": 11290
       },
       {
-         "pl": 2100,
+         "pl": 1900,
          "eind": 11291
       },
       {
+         "pl": 2100,
+         "eind": 11292
+      },
+      {
          "pl": 2200,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ],
    "276": [
@@ -1048673,6 +1050604,11 @@
          "eind": 11288
       },
       {
+         "hp": 225839,
+         "pl": 54400,
+         "eind": 11290
+      },
+      {
          "hp": 214159,
          "pl": 57200,
          "adiv": "",
@@ -1048694,27 +1050630,41 @@
                "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
             }
          ],
-         "eind": 11290
+         "eind": 11291
       },
       {
          "hp": 202187,
          "pl": 60400,
          "adiv": "TerrorTeam",
-         "eind": 11291
+         "eind": 11292
       },
       {
          "hp": 179199,
          "pl": 65500,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "hp": 156910,
          "pl": 71500,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "t": 16,
-         "eind": 11301
+         "eind": 11302
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11322
       }
    ],
    "279": [
@@ -1048741,15 +1050691,8 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "primordial_dead",
          "show": false,
-         "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
          "position": {
             "x": -0.468,
             "y": -0.724
@@ -1048774,10 +1050717,6 @@
       {
          "adiv": "TerrorTeam",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
@@ -1048966,10 +1050905,6 @@
          "adiv": "ZombieTeam",
          "desc": [
             {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             },
@@ -1049050,11 +1050985,11 @@
       },
       {
          "pl": 300,
-         "eind": 11293
+         "eind": 11294
       },
       {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ],
    "280": [
@@ -1049081,14 +1051016,7 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "sandy_mineral",
-         "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
          "position": {
             "x": -0.402,
             "y": -0.793
@@ -1049127,10 +1051055,6 @@
       {
          "adiv": "SEAFPresence",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "Heavy SEAF Presence",
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
@@ -1049186,10 +1051110,6 @@
          "pl": 22700,
          "adiv": "InvasionFleet",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "Heavy SEAF Presence",
                "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
@@ -1049503,15 +1051423,15 @@
       },
       {
          "pl": 1000,
-         "eind": 11291
-      },
-      {
-         "pl": 1100,
          "eind": 11292
       },
       {
+         "pl": 1100,
+         "eind": 11293
+      },
+      {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ],
    "281": [
@@ -1049538,15 +1051458,8 @@
          "eind": 0
       },
       {
-         "exo": 4,
          "biome": "sandy_spiky",
          "show": false,
-         "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            }
-         ],
          "position": {
             "x": -0.409,
             "y": -0.681
@@ -1049591,10 +1051504,6 @@
          "show": true,
          "adiv": "TerrorTeam",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
@@ -1049700,10 +1051609,6 @@
          "adiv": "MechTeam",
          "desc": [
             {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
-            {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
             },
@@ -1049718,10 +1051623,6 @@
          "pl": 5900,
          "adiv": "",
          "desc": [
-            {
-               "name": "The Void",
-               "desc": "This world is enveloped by The Void."
-            },
             {
                "name": "VOTE SNATCHERS",
                "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
@@ -1049803,11 +1051704,11 @@
       },
       {
          "pl": 500,
-         "eind": 11292
+         "eind": 11293
       },
       {
          "t": 16,
-         "eind": 11300
+         "eind": 11301
       }
    ]
 }

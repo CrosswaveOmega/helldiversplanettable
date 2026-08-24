@@ -17852,13 +17852,7 @@ UVP BETA - Void is obscured (2026-08-14 11:52  UTC)<br/>
 *Hydrobius - Void* is now identified in the Void sector (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius - Void* moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius - Void* of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
-*Hydrobius - Void* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 *Hydrobius - Void* is obscured (2026-08-14 11:52  UTC)<br/>
-*Senge 23 - Void* is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-UVP BETA - Void  is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-UVP ALPHA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-UVP DELTA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
-UVP GAMMA - Void is enveloped by The Void. (2026-08-14 11:52  UTC)<br/>
 Assault Division: Heavy SEAF Presence U1D deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: APPROPRIATORS U1H deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: VOTE SNATCHERS U1B deploys to UVP ALPHA - Void (2026-08-14 11:52  UTC)<br/>
@@ -18091,9 +18085,10 @@ Assault Division: INVASION FLEET (Enemies) U1F deploys to *VOID SOURCE PLANET* (
 Dispatch:  VOID EXPANSION DETECTED  The expansion rate of the Void has accelerated, engulfing a substantial swath of outer galactic territory.   Affected sectors have been further consumed by the spatial vacuum. Helldivers are advised to focus all attention on efforts to map the Void. Preventing its further expansion is of the utmost urgency. (2026-08-23 10:15  UTC)<br/>
 Dispatch:  SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED  To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence.   No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 11:46  UTC)<br/>
 Dispatch:  SEASSE SCIENCE EXPEDITION SITREP.  Beneath the fractured marrow of the stone the light is a wet tongue that unwrites our skin the geometry has no corners only a singing tide that drinks our memories to feed the unborn dawn we are the ink on the blank page of the deep we are beautifully dissolved we are— (2026-08-23 11:52  UTC)<br/>
+Dispatch: SEASSE ХОДЕ НАУЧНОЙ SITREP Pod spękanym szpikiem kamienia światło jest mokrym językiem qui réécrit notre peau la geometria non ha angoli 주는 물결의 노래만이 있을 뿐이다. それは未だ見ぬ夜明けに solo una marea cantante que bebe nuestros recuerdos 我们是深渊空白书页上的墨迹，我们被美满地溶解，我们就是—— (2026-08-23 12:18  UTC)<br/>
 Assault Division: MINDLESS MASSES (Enemies) U1J leaves *VOID SOURCE PLANET* (2026-08-23 12:44  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1J deploys to *VOID SOURCE PLANET* (2026-08-23 12:46  UTC)<br/>
-Dispatch:  SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED  To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence.   No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 13:15  UTC)<br/>
+Dispatch: SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED. To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence. No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 13:15  UTC)<br/>
 *Oasis* defense is won by Illuminate (2026-08-23 13:51  UTC)<br/>
 *Alamak VII* defense is won by Illuminate (2026-08-23 13:52  UTC)<br/>
 Dispatch:  VOID EXPANSION DETECTED  The expanding perimeter of the Void has surpassed all projections. Massive swathes of galactic real estate have been consumed by the anomaly.  Any colonial populations within the engulfed coordinates are advised to work from home, where viable, and to otherwise uphold their professional commitments until notified otherwise. (2026-08-23 13:58  UTC)<br/>
@@ -18118,6 +18113,7 @@ Dispatch:  VOID EXPANSION DETECTED  The expanding perimeter of the Void has surp
 *VOID SOURCE PLANET* is liberated (2026-08-23 16:56  UTC)<br/>
 ↳Void sector is fully under Human control (2026-08-23 16:56  UTC)<br/>
 *Rirga Bay* is no longer marked with VOID GATEWAY POI (2026-08-23 16:56  UTC)<br/>
+Major Order | [A3-8-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-7) Major Order - VOID PIERCER DISSOLUTION is won | Objective: Liberate (2026-08-23 16:57  UTC)<br/>
 *New Stockholm* is no longer enveloped by the Void. (2026-08-23 16:58  UTC)<br/>
 *New Stockholm* is no longer unobservable due to the Void. (2026-08-23 16:58  UTC)<br/>
 A Class-3 Exostorm on *New Stockholm* has stopped. (2026-08-23 16:58  UTC)<br/>
@@ -18141,6 +18137,7 @@ A Class-3 Exostorm on *Genesis Prime* has stopped. (2026-08-23 17:04  UTC)<br/>
 *Herthon Secundus* is no longer enveloped by the Void. (2026-08-23 17:04  UTC)<br/>
 *Herthon Secundus* is no longer unobservable due to the Void. (2026-08-23 17:04  UTC)<br/>
 A Class-3 Exostorm on *Herthon Secundus* has stopped. (2026-08-23 17:04  UTC)<br/>
+Dispatch:MAJOR ORDER WON. The Helldivers have secured *Seasse*, enabling the three Ministry of Science team members to trigger the total, completely understood dissolution of the Void, reverting all affected worlds to their designated, legally-approved layout. Though mutated enemies persist in minimized numbers, the Void has been safely obliterated, securing the Federation against obfuscated Tyranny. (2026-08-23 17:08  UTC)<br/>
 *Karlia* is no longer enveloped by the Void. (2026-08-23 17:09  UTC)<br/>
 *Karlia* is no longer unobservable due to the Void. (2026-08-23 17:09  UTC)<br/>
 A Class-3 Exostorm on *Karlia* has stopped. (2026-08-23 17:09  UTC)<br/>
@@ -18184,3 +18181,51 @@ Assault Division: Heavy SEAF Presence (Enemies) U1C leaves *Hort* (2026-08-23 17
  Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
  (2026-08-23 17:30  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1J deploys to *Alaraph* (2026-08-23 17:31  UTC)<br/>
+*UVP Beta - Void* is no longer present (2026-08-23 17:33  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1C leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) U1I leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
+*UVP Beta - Void* is no longer being evacuated (2026-08-23 17:33  UTC)<br/>
+*Hydrobius - Void* is no longer present. (2026-08-23 17:34  UTC)<br/>
+*Senge 23 - Void* is no longer present. (2026-08-23 17:34  UTC)<br/>
+UVP DELTA - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
+UVP GAMMA - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
+*VOID SOURCE PLANET* - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1D leaves *Hydrobius - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1E leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1A leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) U1F leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1G leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1C leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1B leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1I leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1D leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1J leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1N leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1F leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1H leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+*VOID SOURCE PLANET* is no longer marked as ANOMALY LOCATION POI (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1B leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1H leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
+*UVP Alpha - Void* is no longer present (2026-08-23 17:40  UTC)<br/>
+
+### Day: #929
+*Alaraph* liberation campaign starts (2026-08-24 09:57  UTC)<br/>
+↳ *Alaraph* Region 1 HANGAR 6 City is besieged by Human (2026-08-24 09:57  UTC)<br/>
+*Genesis Prime* liberation campaign starts (2026-08-24 09:57  UTC)<br/>
+↳ *Genesis Prime* Region 0 MALLSTRIP NODES Town is besieged by Human (2026-08-24 09:57  UTC)<br/>
+*Asperoth Prime* liberation campaign starts (2026-08-24 09:57  UTC)<br/>
+↳ *Asperoth Prime* Region 1 MEGACORPUS City is besieged by Human (2026-08-24 09:57  UTC)<br/>
+*Heze Bay* liberation campaign starts (2026-08-24 09:58  UTC)<br/>
+↳ *Heze Bay* Region 0 UNANIMITY City is besieged by Human (2026-08-24 09:58  UTC)<br/>
+*Herthon Secundus* liberation campaign starts (2026-08-24 09:58  UTC)<br/>
+↳ *Herthon Secundus* Region 2 CONSENSUS City is besieged by Human (2026-08-24 09:58  UTC)<br/>
+*Karlia* liberation campaign starts (2026-08-24 09:58  UTC)<br/>
+↳ *Karlia* Region 0 ADNAN City is besieged by Human (2026-08-24 09:58  UTC)<br/>
+ Region Decay: 0.2 on Genesis Prime's MALLSTRIP NODES region<br/> Region Decay: 0.4 on Genesis Prime's BIRTH region<br/> Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region<br/> Region Decay: 0.4 on Asperoth Prime's ASPEN HILLS region<br/> Region Decay: 0.4 on Asperoth Prime's MEGACORPUS region<br/> Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region<br/> Region Decay: 0.4 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.4 on Heze Bay's UNISON region<br/> Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-08-24 10:00  UTC)<br/>
+ Region Decay: 0.2 on Genesis Prime's MALLSTRIP NODES region<br/> Region Decay: 0.4 on Genesis Prime's BIRTH region<br/> Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region<br/> Region Decay: 0.4 on Asperoth Prime's ASPEN HILLS region<br/> Region Decay: 0.4 on Asperoth Prime's MEGACORPUS region<br/> Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region<br/> Region Decay: 0.4 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.4 on Heze Bay's UNISON region<br/> Region Decay: 0.0 on Karlia's ADNAN region
+ (2026-08-24 10:00  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1D leaves *Hydrobius* (2026-08-24 12:06  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1G deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1U deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
+*New Stockholm* liberation campaign starts (2026-08-24 14:02  UTC)<br/>
