@@ -17853,6 +17853,13 @@ UVP BETA - Void is obscured (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius - Void* moves to X -0.409 Y -0.681 (2026-08-14 11:52  UTC)<br/>
 ↳ *Hydrobius - Void* of the Void sector's biome is changed from Plains [Moor] to Desert Cliffs [Sandy] (2026-08-14 11:52  UTC)<br/>
 *Hydrobius - Void* is obscured (2026-08-14 11:52  UTC)<br/>
+*Hydrobius - Void* of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+*Senge 23 - Void* of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+UVP BETA - Void of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+UVP ALPHA - Void of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+UVP DELTA - Void of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+UVP GAMMA - Void of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
+*VOID SOURCE PLANET* of the Void sector instantly flips to Illuminate control (2026-08-14 11:52  UTC)<br/>
 Assault Division: Heavy SEAF Presence U1D deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: APPROPRIATORS U1H deploys to UVP GAMMA - Void (2026-08-14 11:52  UTC)<br/>
 Assault Division: VOTE SNATCHERS U1B deploys to UVP ALPHA - Void (2026-08-14 11:52  UTC)<br/>
@@ -18103,6 +18110,8 @@ Dispatch:  VOID EXPANSION DETECTED  The expanding perimeter of the Void has surp
 *Hydrobius - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
 *UVP Beta - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
 *UVP Gamma - Void* is now being evacuated (2026-08-23 16:46  UTC)<br/>
+ Decay: -1.0 on Void sector
+ (2026-08-23 16:46  UTC)<br/>
 *UVP Alpha - Void* is now being evacuated (2026-08-23 16:47  UTC)<br/>
 *UVP Gamma - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
 *UVP Alpha - Void* recon campaign ends (2026-08-23 16:48  UTC)<br/>
@@ -18128,7 +18137,7 @@ A Class-3 Exostorm on *Asperoth Prime* has stopped. (2026-08-23 16:58  UTC)<br/>
 A Class-3 Exostorm on *Alaraph* has stopped. (2026-08-23 16:58  UTC)<br/>
 *Oasis* is no longer enveloped by the Void. (2026-08-23 17:03  UTC)<br/>
 *Oasis* is no longer unobservable due to the Void. (2026-08-23 17:03  UTC)<br/>
- Decay: 0.0 on New Stockholm, Alamak VII
+ Decay: 1.0 on VOID SOURCE PLANET<br/> Decay: 0.0 on New Stockholm, Alamak VII
  (2026-08-23 17:03  UTC)<br/>
 A Class-3 Exostorm on *Oasis* has stopped. (2026-08-23 17:04  UTC)<br/>
 *Genesis Prime* is no longer enveloped by The Void. (2026-08-23 17:04  UTC)<br/>
