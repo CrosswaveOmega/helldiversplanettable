@@ -18240,3 +18240,34 @@ Assault Division: APPROPRIATORS (Enemies) U1D leaves *Hydrobius* (2026-08-24 12:
 Assault Division: INVASION FLEET (Enemies) U1G deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
 Assault Division: APPROPRIATORS (Enemies) U1U deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
 *New Stockholm* liberation campaign starts (2026-08-24 14:02  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1D deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1C deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1C leaves *Azur Secundus* (2026-08-25 08:59  UTC)<br/>
+
+# Day: #930
+Assault Division: DRAGONROACHES (Enemies) U1D deploys to *Overgoe Prime* (2026-08-25 09:00  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1D leaves *Overgoe Prime* (2026-08-25 10:01  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1D leaves *Azur Secundus* (2026-08-25 10:02  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1E deploys to *Partion* (2026-08-25 10:03  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1E deploys to *Overgoe Prime* (2026-08-25 10:03  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1E leaves *Partion* (2026-08-25 10:36  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1F deploys to *Phact Bay* (2026-08-25 10:37  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1F leaves *Phact Bay* (2026-08-25 11:01  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1G deploys to *Pandion-XXIV* (2026-08-25 11:02  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1E leaves *Overgoe Prime* (2026-08-25 11:02  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1F deploys to *Partion* (2026-08-25 11:03  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1G leaves *Pandion-XXIV* (2026-08-25 11:32  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1H deploys to *Acamar IV* (2026-08-25 11:34  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2026-08-25 11:34  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City is besieged by Human (2026-08-25 11:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1I leaves *Karlia* (2026-08-25 11:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1K deploys to *Acamar IV* (2026-08-25 11:35  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1F deploys to *Brilliance* (2026-08-25 11:49  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2026-08-25 11:49  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2026-08-25 11:49  UTC)<br/>
+*Brilliance* of the Orion sector instantly flips to Terminid control (2026-08-25 11:50  UTC)<br/>
+*Brilliance* liberation campaign starts (2026-08-25 11:50  UTC)<br/>
+Major Order | [A3-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-9) Major Order - COUNTERDISSIDENT HAMMER DISSIDENT MANHUNT is issued| Objective: Liberate (2026-08-25 12:02  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. A Terminid outbreak has occurred on BRILLIANCE. The TCS+ array is under significant distress, with multiple nodes failing. The TCS+ has been empirically proved to make any Terminid infestation impossible. This outbreak, therefore, can only be the result of dissident sabotage. The Ministry of Truth has identified, with high confidence, three enemy planets as harbors of extremists: GACRUX, GAR HAREN, and LUXURIANT. The Helldivers are ordered to liberate these planets, so the dissidents may be brought to justice. (2026-08-25 12:02  UTC)<br/>
