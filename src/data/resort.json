@@ -23675,6 +23675,10 @@
       {
          "pl": 100,
          "eind": 11349
+      },
+      {
+         "pl": "<10",
+         "eind": 11355
       }
    ],
    "176": [
@@ -29004,6 +29008,14 @@
       {
          "hp": 1797866,
          "eind": 11351
+      },
+      {
+         "hp": 1797804,
+         "eind": 11355
+      },
+      {
+         "hp": 1797775,
+         "eind": 11356
       }
    ],
    "46": [
@@ -70228,6 +70240,34 @@
          "hp": 404262,
          "pl": 900,
          "eind": 11351
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11353
+      },
+      {
+         "hp": 436791,
+         "pl": 11400,
+         "eind": 11355
+      },
+      {
+         "hp": 454261,
+         "pl": 11100,
+         "eind": 11356
       }
    ],
    "271": [
@@ -99223,6 +99263,10 @@
       {
          "pl": 900,
          "eind": 11341
+      },
+      {
+         "pl": 500,
+         "eind": 11355
       }
    ],
    "212": [
@@ -158492,6 +158536,11 @@
             }
          ],
          "eind": 11345
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11352
       }
    ],
    "216": [
@@ -241251,6 +241300,10 @@
       {
          "pl": 800,
          "eind": 11351
+      },
+      {
+         "pl": 500,
+         "eind": 11355
       }
    ],
    "78": [
@@ -377478,6 +377531,14 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 1000,
+         "eind": 11355
+      },
+      {
+         "pl": 1100,
+         "eind": 11356
       }
    ],
    "202": [
@@ -382102,6 +382163,14 @@
       {
          "pl": 600,
          "eind": 11343
+      },
+      {
+         "pl": 300,
+         "eind": 11355
+      },
+      {
+         "pl": 400,
+         "eind": 11356
       }
    ],
    "248": [
@@ -409784,6 +409853,14 @@
       {
          "pl": 1100,
          "eind": 11343
+      },
+      {
+         "pl": 800,
+         "eind": 11355
+      },
+      {
+         "pl": 900,
+         "eind": 11356
       }
    ],
    "160": [
@@ -461359,6 +461436,50 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 36600,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 376751
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "pl": 39000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 357145
+            }
+         },
+         "eind": 11356
       }
    ],
    "171": [
@@ -480101,6 +480222,16 @@
       {
          "pl": 700,
          "eind": 11351
+      },
+      {
+         "hp": 987071,
+         "pl": 24100,
+         "eind": 11355
+      },
+      {
+         "hp": 969633,
+         "pl": 27800,
+         "eind": 11356
       }
    ],
    "172": [
@@ -490013,6 +490144,24 @@
       {
          "pl": 300,
          "eind": 11351
+      },
+      {
+         "pl": 3400,
+         "eind": 11355
+      },
+      {
+         "pl": 3000,
+         "eind": 11356
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11357
       }
    ],
    "173": [
@@ -510825,6 +510974,14 @@
       {
          "pl": 4200,
          "eind": 11351
+      },
+      {
+         "pl": 4100,
+         "eind": 11355
+      },
+      {
+         "pl": 3800,
+         "eind": 11356
       }
    ],
    "214": [
@@ -529299,6 +529456,10 @@
       {
          "pl": 1700,
          "eind": 11351
+      },
+      {
+         "pl": 800,
+         "eind": 11355
       }
    ],
    "217": [
@@ -553967,6 +554128,78 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11354
+      },
+      {
+         "pl": 9300,
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 224894
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "pl": 7900,
+         "adiv": "",
+         "desc": [],
+         "regions": {
+            "OLD DOVE": {
+               "index": 0,
+               "name": "OLD DOVE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BRNO": {
+               "index": 1,
+               "name": "BRNO",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "NEW EAGLE": {
+               "index": 2,
+               "name": "NEW EAGLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.6666666,
+               "hp": 229466
+            }
+         },
+         "eind": 11356
       }
    ],
    "268": [
@@ -566426,6 +566659,14 @@
       {
          "pl": 300,
          "eind": 11341
+      },
+      {
+         "pl": 100,
+         "eind": 11355
+      },
+      {
+         "pl": 200,
+         "eind": 11356
       }
    ],
    "157": [
@@ -579268,6 +579509,14 @@
       {
          "pl": 700,
          "eind": 11343
+      },
+      {
+         "pl": 500,
+         "eind": 11355
+      },
+      {
+         "pl": 600,
+         "eind": 11356
       }
    ],
    "198": [
@@ -617530,6 +617779,50 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 80782
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "SONGGUO CUN": {
+               "index": 0,
+               "name": "SONGGUO CUN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 81459
+            },
+            "XIN FUZHOU": {
+               "index": 1,
+               "name": "XIN FUZHOU",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11356
       }
    ],
    "200": [
@@ -631149,6 +631442,50 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 356460
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "PARRHESIA": {
+               "index": 0,
+               "name": "PARRHESIA",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 1.1111112,
+               "hp": 360617
+            },
+            "ISEGORIA": {
+               "index": 1,
+               "name": "ISEGORIA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11356
       }
    ],
    "158": [
@@ -686748,6 +687085,14 @@
       {
          "pl": 1900,
          "eind": 11349
+      },
+      {
+         "pl": 1100,
+         "eind": 11355
+      },
+      {
+         "pl": 1200,
+         "eind": 11356
       }
    ],
    "201": [
@@ -790920,6 +791265,14 @@
       {
          "pl": 300,
          "eind": 11349
+      },
+      {
+         "pl": 100,
+         "eind": 11355
+      },
+      {
+         "pl": 200,
+         "eind": 11356
       }
    ],
    "91": [
@@ -796808,6 +797161,65 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 900,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 389000
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 393567
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 11356
       }
    ],
    "94": [
@@ -806411,6 +806823,15 @@
       {
          "hp": 1589288,
          "eind": 11351
+      },
+      {
+         "hp": 1588951,
+         "pl": 200,
+         "eind": 11355
+      },
+      {
+         "hp": 1588831,
+         "eind": 11356
       }
    ],
    "59": [
@@ -839663,6 +840084,25 @@
          "hp": 1750399,
          "pl": 2100,
          "eind": 11351
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11352
+      },
+      {
+         "hp": 1749256,
+         "pl": 700,
+         "eind": 11355
+      },
+      {
+         "hp": 1749059,
+         "eind": 11356
       }
    ],
    "141": [
@@ -841386,6 +841826,14 @@
          "hp": 1794384,
          "pl": 100,
          "eind": 11351
+      },
+      {
+         "hp": 1794226,
+         "eind": 11355
+      },
+      {
+         "hp": 1794161,
+         "eind": 11356
       }
    ],
    "186": [
@@ -851250,6 +851698,35 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "hp": 1287479,
+         "pl": 1600,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.0,
+               "hp": 252635
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "hp": 1287046,
+         "regions": {
+            "ADNAN": {
+               "index": 0,
+               "name": "ADNAN",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.0,
+               "hp": 252155
+            }
+         },
+         "eind": 11356
       }
    ],
    "227": [
@@ -854092,6 +854569,49 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 92624
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 93349
+            }
+         },
+         "eind": 11356
       }
    ],
    "229": [
@@ -862650,6 +863170,10 @@
       {
          "pl": 300,
          "eind": 11337
+      },
+      {
+         "pl": 200,
+         "eind": 11355
       }
    ],
    "98": [
@@ -910916,6 +911440,10 @@
       {
          "pl": 100,
          "eind": 11335
+      },
+      {
+         "pl": 200,
+         "eind": 11356
       }
    ],
    "206": [
@@ -925888,6 +926416,50 @@
             }
          },
          "eind": 11351
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 94803
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11355
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 95490
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11356
       }
    ],
    "252": [
@@ -1010986,6 +1011558,15 @@
       {
          "hp": 986086,
          "eind": 11351
+      },
+      {
+         "hp": 985798,
+         "eind": 11355
+      },
+      {
+         "hp": 985690,
+         "pl": 100,
+         "eind": 11356
       }
    ],
    "137": [
@@ -1032071,6 +1032652,15 @@
       {
          "hp": 1794185,
          "eind": 11351
+      },
+      {
+         "hp": 1794101,
+         "eind": 11355
+      },
+      {
+         "hp": 1794065,
+         "pl": "<10",
+         "eind": 11356
       }
    ],
    "177": [
@@ -1042841,6 +1043431,10 @@
       {
          "pl": 200,
          "eind": 11343
+      },
+      {
+         "pl": 100,
+         "eind": 11355
       }
    ],
    "225": [
@@ -1051105,6 +1051699,10 @@
       {
          "pl": 600,
          "eind": 11343
+      },
+      {
+         "pl": 400,
+         "eind": 11355
       }
    ],
    "232": [

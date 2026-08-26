@@ -18271,3 +18271,9 @@ Assault Division: Spore Burst Strain (Enemies) U1F deploys to *Brilliance* (2026
 *Brilliance* liberation campaign starts (2026-08-25 11:50  UTC)<br/>
 Major Order | [A3-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-9) Major Order - COUNTERDISSIDENT HAMMER DISSIDENT MANHUNT is issued| Objective: Liberate (2026-08-25 12:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A Terminid outbreak has occurred on BRILLIANCE. The TCS+ array is under significant distress, with multiple nodes failing. The TCS+ has been empirically proved to make any Terminid infestation impossible. This outbreak, therefore, can only be the result of dissident sabotage. The Ministry of Truth has identified, with high confidence, three enemy planets as harbors of extremists: GACRUX, GAR HAREN, and LUXURIANT. The Helldivers are ordered to liberate these planets, so the dissidents may be brought to justice. (2026-08-25 12:02  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1J leaves *Alaraph* (2026-08-25 12:08  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1F leaves *Partion* (2026-08-25 12:08  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Brilliance* (2026-08-25 12:09  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1G deploys to *Phact Bay* (2026-08-25 12:10  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1G leaves *Phact Bay* (2026-08-25 15:21  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1H deploys to *Gar Haren* (2026-08-25 15:22  UTC)<br/>
