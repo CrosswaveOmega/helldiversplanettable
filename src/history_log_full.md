@@ -18277,3 +18277,87 @@ Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Brilliance* (202
 Assault Division: PREDATOR STRAIN (Enemies) U1G deploys to *Phact Bay* (2026-08-25 12:10  UTC)<br/>
 Assault Division: PREDATOR STRAIN (Enemies) U1G leaves *Phact Bay* (2026-08-25 15:21  UTC)<br/>
 Assault Division: PREDATOR STRAIN (Enemies) U1H deploys to *Gar Haren* (2026-08-25 15:22  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City has fallen to Human (2026-08-26 07:57  UTC)<br/>
+
+### Day: #931
+Assault Division: PREDATOR STRAIN (Enemies) U1H leaves *Gar Haren* (2026-08-26 12:01  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1I deploys to *Achernar Secundus* (2026-08-26 12:03  UTC)<br/>
+*Achernar Secundus* of the Borgus sector is attacked by Terminids (2026-08-26 12:04  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Human (2026-08-26 12:04  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1K leaves *Acamar IV* (2026-08-26 12:56  UTC)<br/>
+ Decay: 0.0 on Achernar Secundus
+ (2026-08-26 12:56  UTC)<br/>
+ Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
+ (2026-08-26 12:56  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Achernar Secundus* (2026-08-26 12:58  UTC)<br/>
+*Acamar IV* defense is won (2026-08-26 21:25  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2026-08-26 22:00  UTC)<br/>
+*Achernar Secundus* Region 1 NEW NEWTONVILLE City is besieged by Human (2026-08-27 03:14  UTC)<br/>
+*Gacrux* is liberated (2026-08-27 08:35  UTC)<br/>
+*Partion* liberation campaign starts (2026-08-27 08:35  UTC)<br/>
+
+### Day: #932
+Dispatch: GALACTIC MAP ADVISORY. SEAF Network Operations have noted a spike in inquiries regarding an unrecognized planet. As a precautionary measure, the SEAF Astrospatial Engineering Division have carried out a comprehensive audit and confirm: the Galactic Database contains zero discrepancies. Personnel are reminded that searching for non-existent coordinates constitutes an unauthorized use of Super Destroyer time and resources. Consult the Control Center for more information. (2026-08-27 11:36  UTC)<br/>
+DSS deploys to *Phact Bay* of the Jin Xi sector (2026-08-27 13:12  UTC)<br/>
+Dispatch: DSS STATUS UPDATE The DSS has returned to active service. In recognition of their bio-remediation efforts and exemplary work ethic, the DSS has been permanently crewed by the very DURs who painstakingly sanitized and restored the station. Armed with vivid firsthand knowledge that preventing contamination is preferred to purging and cleansing it, this workforce is uniquely motivated to maintain absolute sterile order, and expedite their path to fully restored voting rights. (2026-08-27 13:22  UTC)<br/>
+DSS deploys to *Gar Haren* of the Jin Xi sector (2026-08-27 17:12  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Human (2026-08-27 20:18  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-08-28 08:37  UTC)<br/>
+
+### Day: #933
+*Achernar Secundus* defense is failed (2026-08-28 12:06  UTC)<br/>
+*Achernar Secundus* liberation campaign starts (2026-08-28 12:06  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town siege has ended (2026-08-28 12:06  UTC)<br/>
+*Achernar Secundus* Region 1 NEW NEWTONVILLE City siege has ended (2026-08-28 12:06  UTC)<br/>
+*Gar Haren* is liberated (2026-08-28 13:13  UTC)<br/>
+DSS deploys to *Gatria* of the Jin Xi sector (2026-08-28 13:13  UTC)<br/>
+ Decay: 1.0 on Achernar Secundus
+ (2026-08-28 13:13  UTC)<br/>
+ Decay: -1.0 on Achernar Secundus
+ (2026-08-28 14:00  UTC)<br/>
+*Gatria* Region 1 ERSATZ City has fallen to Human (2026-08-29 00:43  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement is besieged by Human (2026-08-29 05:55  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-08-29 08:38  UTC)<br/>
+Dispatch: NEW STRATEGIC IMPERATIVE. Terminids threaten to overrun BRILLIANCE following dissident sabotage of its TCS+ towers. The Helldivers are ordered to reclaim the planet and cleanse the Terminid infestation, so that the TCS+ may be repaired. (2026-08-29 08:47  UTC)<br/>
+
+### Day: #934
+*Gatria* Region 0 ALTONBURG Settlement has fallen to Human (2026-08-29 09:40  UTC)<br/>
+*Gatria* is liberated (2026-08-29 13:42  UTC)<br/>
+*Trandor* liberation campaign starts (2026-08-29 13:42  UTC)<br/>
+*Trandor* Region 2 GOTHENBURG III City is besieged by Human (2026-08-29 13:42  UTC)<br/>
+*Luxuriant* liberation campaign starts (2026-08-29 13:42  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-08-29 13:42  UTC)<br/>
+ Region Decay: 0.4 on Trandor's NYA SKELLEFTEA region<br/> Region Decay: 0.1 on Trandor's ÖDESHÖGRE region<br/> Region Decay: 0.4 on Trandor's GOTHENBURG III region
+ (2026-08-29 14:00  UTC)<br/>
+ Region Decay: 0.4 on Trandor's NYA SKELLEFTEA region<br/> Region Decay: 0.1 on Trandor's ÖDESHÖGRE region<br/> Region Decay: 0.4 on Trandor's GOTHENBURG III region
+ (2026-08-29 14:00  UTC)<br/>
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-08-30 01:13  UTC)<br/>
+
+### Day: #935
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Achernar Secundus* (2026-08-30 20:14  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Luxuriant* (2026-08-30 20:15  UTC)<br/>
+ Decay: 1.5 on Luxuriant
+ (2026-08-30 20:15  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Brilliance* (2026-08-30 20:20  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Zefia* (2026-08-30 20:22  UTC)<br/>
+ Decay: 0.0 on Zefia
+ (2026-08-30 22:00  UTC)<br/>
+*Achernar Secundus* Region 1 NEW NEWTONVILLE City is besieged by Human (2026-08-31 03:18  UTC)<br/>
+Major Order | [A3-8-10](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-10) STRATEGIC IMPERATIVE BRILLIANCEis failed | Objective: Liberate (2026-08-31 08:46  UTC)<br/>
+Dispatch: STRATEGIC IMPERATIVE FAILED The Terminid outbreak remains on BRILLIANCE. Fewer than 5% of TCS+ nodes on the planet remain operational. At this time, the planet represents a severe gap in the TCS+ barrier planets, presenting risk of further outbreak and breach of containment. (2026-08-31 08:48  UTC)<br/>
+
+### Day: #936
+Major Order | [A3-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-9) COUNTERDISSIDENT HAMMER DISSIDENT MANHUNT is won | Objective: Liberate (2026-08-31 09:33  UTC)<br/>
+*Luxuriant* is liberated (2026-08-31 09:34  UTC)<br/>
+*Peacock* liberation campaign starts (2026-08-31 09:34  UTC)<br/>
+*Peacock* Region 1 SYZYGY Town is besieged by Human (2026-08-31 09:34  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-08-31 09:34  UTC)<br/>
+Dispatch: MAJOR ORDER WON The Heldlivers rapidly secured each planet suspected to harbor the dissidents responsible for sabotaging the TCS+. However, no dissidents were found or apprehended. This evasion demonstrates the capability to orchestrate the rapid evacuation of dissident agents from these planets. It is clear that the dissident network is even more extensive and well-resourced than initially estimated. (2026-08-31 09:35  UTC)<br/>
+ Region Decay: 0.1 on Peacock's QUASAR region<br/> Region Decay: 0.2 on Peacock's SYZYGY region
+ (2026-08-31 10:00  UTC)<br/>
+ Region Decay: 0.1 on Peacock's QUASAR region<br/> Region Decay: 0.2 on Peacock's SYZYGY region
+ (2026-08-31 10:00  UTC)<br/>
+DSS deploys to *Zefia* of the Tanis sector (2026-08-31 13:14  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1E leaves *Meissa* (2026-08-31 13:50  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2026-08-31 13:52  UTC)<br/>
