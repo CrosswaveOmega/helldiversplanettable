@@ -16455,6 +16455,11 @@ DSS deploys to *Irulta* of the Saleria sector (2026-05-25 21:43  UTC)<br/>
 *Bore Rock* is liberated (2026-05-26 08:36  UTC)<br/>
 Minor Order | [A3-5-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-5-7) Defend *Erata Prime* and Liberate *Heeth* and *Bore Rock* is won | Objective: Defend/Liberate (2026-05-26 08:36  UTC)<br/>
 Dispatch:  STRATEGIC IMPERATIVE ACHIEVED  The quarantine ring held. Helldivers successfully insulated *Brilliance* from harm.  The Ministry of Science confirms the legendary patriot remains safely inside the laboratory, completely un-mutated, and that any chittering or frantic clicking vocalisations are merely signs of their uncommon genius.  Consult the Galactic Map for more information. (2026-05-26 08:36  UTC)<br/>
+Dispatch:  STRATEGIC IMPERATIVE ACHIEVED  The quarantine ring held. Helldivers successfully insulated *Brilliance* from harm.  The Ministry of Science confirms the legendary patriot remains safely inside the laboratory, completely un-mutated, and that any chittering or frantic clicking vocalisations are merely signs of their uncommon genius.  Consult the Galactic Map for more information. (2026-05-26 08:36  UTC)<br/>
+*Esker* liberation campaign starts (2026-05-26 08:37  UTC)<br/>
+*Bore Rock* liberation campaign ends (2026-05-26 08:37  UTC)<br/>
+*Bore Rock* is liberated (2026-05-26 08:37  UTC)<br/>
+Falstaff sector is fully under Human control (2026-05-26 08:37  UTC)<br/>
 
 ### Day: #839
 Dispatch:  THIS DAY IN DEMOCRACY: The Battle for *Super Earth*—Day 7  One year ago, High Command authorized a masterstroke. With Port Mercy and York Supreme facing intense sieges, a critical detachment of the Helldiver fleet was diverted to the Automaton front.  200 million bots were successfully processed to enable immediate repairs of the Democracy Space Station (DSS); a crusade that would prove to be the undoing of the Illuminate invasion. (2026-05-26 12:05  UTC)<br/>
@@ -18062,21 +18067,21 @@ Dispatch: SEASSE SCIENCE EXPEDITION SITREP. The elite 3-person team has entered 
 *Karlia* is now being evacuated (2026-08-22 08:59  UTC)<br/>
 
 ### Day: #927
-Assault Division: APPROPRIATORS (Enemies) U1P deploys to *Genesis Prime* (2026-08-22 10:06  UTC)<br/>
+Assault Division: APPROPRIATORS U1P deploys to *Genesis Prime* (2026-08-22 10:06  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Genesis Prime* (2026-08-22 10:06  UTC)<br/>
 *Genesis Prime* is attacked by Humans (2026-08-22 10:06  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1Q deploys to *Herthon Secundus* (2026-08-22 10:10  UTC)<br/>
+Assault Division: APPROPRIATORS U1Q deploys to *Herthon Secundus* (2026-08-22 10:10  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Herthon Secundus* (2026-08-22 10:10  UTC)<br/>
 *Herthon Secundus* is attacked by Humans (2026-08-22 10:10  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1R deploys to *Oasis* (2026-08-22 13:50  UTC)<br/>
+Assault Division: APPROPRIATORS U1R deploys to *Oasis* (2026-08-22 13:50  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Oasis* (2026-08-22 13:50  UTC)<br/>
 *Oasis* of the Rictus sector is attacked by Humans (2026-08-22 13:51  UTC)<br/>
 A Class-3 Exostorm warning was issued for *Alamak VII* (2026-08-22 13:52  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1S deploys to *Alamak VII* (2026-08-22 13:52  UTC)<br/>
+Assault Division: APPROPRIATORS U1S deploys to *Alamak VII* (2026-08-22 13:52  UTC)<br/>
 *Alamak VII* of the Hanzo sector is attacked by Humans (2026-08-22 13:52  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) U1J deploys to *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1E leaves *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1T deploys to *New Stockholm* (2026-08-22 16:41  UTC)<br/>
+Assault Division: MINDLESS MASSES U1J deploys to *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
+Assault Division: INVASION FLEET U1E leaves *VOID SOURCE PLANET* (2026-08-22 15:51  UTC)<br/>
+Assault Division: APPROPRIATORS U1T deploys to *New Stockholm* (2026-08-22 16:41  UTC)<br/>
 A Class-3 Exostorm warning was issued for *New Stockholm* (2026-08-22 16:42  UTC)<br/>
 *New Stockholm* of the Hanzo sector is attacked by Humans (2026-08-22 16:42  UTC)<br/>
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized use of the Orbital Laser at the Void Source Planet for the next 24 hours. (2026-08-22 16:54  UTC)<br/>
@@ -18088,14 +18093,14 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized use of the Orbital L
 *Herthon Secundus* defense is won by Illuminate (2026-08-23 10:11  UTC)<br/>
 *Herthon Secundus* is enveloped by the Void. (2026-08-23 10:11  UTC)<br/>
 *Herthon Secundus* is now unobservable due to the Void. (2026-08-23 10:11  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1E leaves *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1F deploys to *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1E leaves *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
+Assault Division: INVASION FLEET U1F deploys to *VOID SOURCE PLANET* (2026-08-23 10:13  UTC)<br/>
 Dispatch:  VOID EXPANSION DETECTED  The expansion rate of the Void has accelerated, engulfing a substantial swath of outer galactic territory.   Affected sectors have been further consumed by the spatial vacuum. Helldivers are advised to focus all attention on efforts to map the Void. Preventing its further expansion is of the utmost urgency. (2026-08-23 10:15  UTC)<br/>
 Dispatch:  SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED  To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence.   No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 11:46  UTC)<br/>
 Dispatch:  SEASSE SCIENCE EXPEDITION SITREP.  Beneath the fractured marrow of the stone the light is a wet tongue that unwrites our skin the geometry has no corners only a singing tide that drinks our memories to feed the unborn dawn we are the ink on the blank page of the deep we are beautifully dissolved we are— (2026-08-23 11:52  UTC)<br/>
 Dispatch: SEASSE ХОДЕ НАУЧНОЙ SITREP Pod spękanym szpikiem kamienia światło jest mokrym językiem qui réécrit notre peau la geometria non ha angoli 주는 물결의 노래만이 있을 뿐이다. それは未だ見ぬ夜明けに solo una marea cantante que bebe nuestros recuerdos 我们是深渊空白书页上的墨迹，我们被美满地溶解，我们就是—— (2026-08-23 12:18  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) U1J leaves *VOID SOURCE PLANET* (2026-08-23 12:44  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1J deploys to *VOID SOURCE PLANET* (2026-08-23 12:46  UTC)<br/>
+Assault Division: MINDLESS MASSES U1J leaves *VOID SOURCE PLANET* (2026-08-23 12:44  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1J deploys to *VOID SOURCE PLANET* (2026-08-23 12:46  UTC)<br/>
 Dispatch: SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED. To optimize administrative efficiency, all subterranean research logs from *Seasse* have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence. No further reports are required; the expedition has fulfilled all mandated success criteria. (2026-08-23 13:15  UTC)<br/>
 *Oasis* defense is won by Illuminate (2026-08-23 13:51  UTC)<br/>
 *Alamak VII* defense is won by Illuminate (2026-08-23 13:52  UTC)<br/>
@@ -18170,53 +18175,53 @@ A Class-3 Exostorm on *Keid* has stopped. (2026-08-23 17:17  UTC)<br/>
 *Senge 23* is no longer enveloped by the Void. (2026-08-23 17:18  UTC)<br/>
 *Senge 23* is no longer unobservable due to the Void. (2026-08-23 17:18  UTC)<br/>
 A Class-3 Exostorm on *Senge 23* has stopped. (2026-08-23 17:18  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1T leaves *New Stockholm* (2026-08-23 17:21  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1P leaves *Genesis Prime* (2026-08-23 17:21  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1E leaves *Senge 23* (2026-08-23 17:21  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1S leaves *Alamak VII* (2026-08-23 17:22  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1B leaves *Keid* (2026-08-23 17:22  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1I leaves *Asperoth Prime* (2026-08-23 17:22  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1R leaves *Oasis* (2026-08-23 17:25  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1G leaves *Heze Bay* (2026-08-23 17:25  UTC)<br/>
+Assault Division: APPROPRIATORS U1T leaves *New Stockholm* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS U1P leaves *Genesis Prime* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS U1E leaves *Senge 23* (2026-08-23 17:21  UTC)<br/>
+Assault Division: APPROPRIATORS U1S leaves *Alamak VII* (2026-08-23 17:22  UTC)<br/>
+Assault Division: APPROPRIATORS U1B leaves *Keid* (2026-08-23 17:22  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1I leaves *Asperoth Prime* (2026-08-23 17:22  UTC)<br/>
+Assault Division: APPROPRIATORS U1R leaves *Oasis* (2026-08-23 17:25  UTC)<br/>
+Assault Division: APPROPRIATORS U1G leaves *Heze Bay* (2026-08-23 17:25  UTC)<br/>
 *Seasse* instantly flips to Human control (2026-08-23 17:26  UTC)<br/>
 *Senge 23* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
 *Rogue 5* liberation campaign starts (2026-08-23 17:26  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1A leaves *Seasse* (2026-08-23 17:26  UTC)<br/>
+Assault Division: APPROPRIATORS U1A leaves *Seasse* (2026-08-23 17:26  UTC)<br/>
 *Seasse* is no longer enveloped by the Void. (2026-08-23 17:26  UTC)<br/>
 *Seasse* is no longer unobservable due to the Void. (2026-08-23 17:26  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1F leaves *Alairt III* (2026-08-23 17:28  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1Q leaves *Herthon Secundus* (2026-08-23 17:28  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1F leaves *Rirga Bay* (2026-08-23 17:29  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1I deploys to *Karlia* (2026-08-23 17:30  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1C leaves *Hort* (2026-08-23 17:30  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1F leaves *Alairt III* (2026-08-23 17:28  UTC)<br/>
+Assault Division: APPROPRIATORS U1Q leaves *Herthon Secundus* (2026-08-23 17:28  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1F leaves *Rirga Bay* (2026-08-23 17:29  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1I deploys to *Karlia* (2026-08-23 17:30  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1C leaves *Hort* (2026-08-23 17:30  UTC)<br/>
  Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
  (2026-08-23 17:30  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1J deploys to *Alaraph* (2026-08-23 17:31  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1J deploys to *Alaraph* (2026-08-23 17:31  UTC)<br/>
 *UVP Beta - Void* is no longer present (2026-08-23 17:33  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1C leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) U1I leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1C leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
+Assault Division: MINDLESS MASSES U1I leaves *UVP Beta - Void* (2026-08-23 17:33  UTC)<br/>
 *UVP Beta - Void* is no longer being evacuated (2026-08-23 17:33  UTC)<br/>
 *Hydrobius - Void* is no longer present. (2026-08-23 17:34  UTC)<br/>
 *Senge 23 - Void* is no longer present. (2026-08-23 17:34  UTC)<br/>
 UVP DELTA - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
 UVP GAMMA - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
 *VOID SOURCE PLANET* - Void is no longer present. (2026-08-23 17:34  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1D leaves *Hydrobius - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1E leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1A leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: MINDLESS MASSES (Enemies) U1F leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1G leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1C leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1B leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1I leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1D leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: VOTE SNATCHERS (Enemies) U1J leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1N leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1F leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1H leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1D leaves *Hydrobius - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1E leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET U1A leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: MINDLESS MASSES U1F leaves *Senge 23 - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1G leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET U1C leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1B leaves *UVP Alpha - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS U1I leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET U1D leaves *UVP Delta - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: VOTE SNATCHERS U1J leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS U1N leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET U1F leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1H leaves *VOID SOURCE PLANET* (2026-08-23 17:34  UTC)<br/>
 *VOID SOURCE PLANET* is no longer marked as ANOMALY LOCATION POI (2026-08-23 17:34  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1B leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1H leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: INVASION FLEET U1B leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
+Assault Division: APPROPRIATORS U1H leaves *UVP Gamma - Void* (2026-08-23 17:34  UTC)<br/>
 *UVP Alpha - Void* is no longer present (2026-08-23 17:40  UTC)<br/>
 
 ### Day: #929
@@ -18236,33 +18241,33 @@ Assault Division: APPROPRIATORS (Enemies) U1H leaves *UVP Gamma - Void* (2026-08
  (2026-08-24 10:00  UTC)<br/>
  Region Decay: 0.2 on Genesis Prime's MALLSTRIP NODES region<br/> Region Decay: 0.4 on Genesis Prime's BIRTH region<br/> Region Decay: 0.4 on Alaraph's PERMACURIS region<br/> Region Decay: 0.4 on Alaraph's HANGAR 6 region<br/> Region Decay: 0.4 on Asperoth Prime's ASPEN HILLS region<br/> Region Decay: 0.4 on Asperoth Prime's MEGACORPUS region<br/> Region Decay: 0.2 on Herthon Secundus's PENSCEWT region<br/> Region Decay: 0.2 on Herthon Secundus's EAGLE'S LIKENESS region<br/> Region Decay: 0.4 on Herthon Secundus's CONSENSUS region<br/> Region Decay: 0.4 on Heze Bay's UNANIMITY region<br/> Region Decay: 0.4 on Heze Bay's UNISON region<br/> Region Decay: 0.0 on Karlia's ADNAN region
  (2026-08-24 10:00  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1D leaves *Hydrobius* (2026-08-24 12:06  UTC)<br/>
-Assault Division: INVASION FLEET (Enemies) U1G deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
-Assault Division: APPROPRIATORS (Enemies) U1U deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
+Assault Division: APPROPRIATORS U1D leaves *Hydrobius* (2026-08-24 12:06  UTC)<br/>
+Assault Division: INVASION FLEET U1G deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
+Assault Division: APPROPRIATORS U1U deploys to *Senge 23* (2026-08-24 12:08  UTC)<br/>
 *New Stockholm* liberation campaign starts (2026-08-24 14:02  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1D deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1C deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1C leaves *Azur Secundus* (2026-08-25 08:59  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1D deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
+Assault Division: DRAGONROACHES U1C deploys to *Azur Secundus* (2026-08-25 08:33  UTC)<br/>
+Assault Division: DRAGONROACHES U1C leaves *Azur Secundus* (2026-08-25 08:59  UTC)<br/>
 
 # Day: #930
-Assault Division: DRAGONROACHES (Enemies) U1D deploys to *Overgoe Prime* (2026-08-25 09:00  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1D leaves *Overgoe Prime* (2026-08-25 10:01  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1D leaves *Azur Secundus* (2026-08-25 10:02  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1E deploys to *Partion* (2026-08-25 10:03  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1E deploys to *Overgoe Prime* (2026-08-25 10:03  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1E leaves *Partion* (2026-08-25 10:36  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1F deploys to *Phact Bay* (2026-08-25 10:37  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1F leaves *Phact Bay* (2026-08-25 11:01  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1G deploys to *Pandion-XXIV* (2026-08-25 11:02  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1E leaves *Overgoe Prime* (2026-08-25 11:02  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1F deploys to *Partion* (2026-08-25 11:03  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1G leaves *Pandion-XXIV* (2026-08-25 11:32  UTC)<br/>
-Assault Division: DRAGONROACHES (Enemies) U1H deploys to *Acamar IV* (2026-08-25 11:34  UTC)<br/>
+Assault Division: DRAGONROACHES U1D deploys to *Overgoe Prime* (2026-08-25 09:00  UTC)<br/>
+Assault Division: DRAGONROACHES U1D leaves *Overgoe Prime* (2026-08-25 10:01  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1D leaves *Azur Secundus* (2026-08-25 10:02  UTC)<br/>
+Assault Division: DRAGONROACHES U1E deploys to *Partion* (2026-08-25 10:03  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1E deploys to *Overgoe Prime* (2026-08-25 10:03  UTC)<br/>
+Assault Division: DRAGONROACHES U1E leaves *Partion* (2026-08-25 10:36  UTC)<br/>
+Assault Division: DRAGONROACHES U1F deploys to *Phact Bay* (2026-08-25 10:37  UTC)<br/>
+Assault Division: DRAGONROACHES U1F leaves *Phact Bay* (2026-08-25 11:01  UTC)<br/>
+Assault Division: DRAGONROACHES U1G deploys to *Pandion-XXIV* (2026-08-25 11:02  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1E leaves *Overgoe Prime* (2026-08-25 11:02  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1F deploys to *Partion* (2026-08-25 11:03  UTC)<br/>
+Assault Division: DRAGONROACHES U1G leaves *Pandion-XXIV* (2026-08-25 11:32  UTC)<br/>
+Assault Division: DRAGONROACHES U1H deploys to *Acamar IV* (2026-08-25 11:34  UTC)<br/>
 *Acamar IV* of the Jin Xi sector is attacked by Terminids (2026-08-25 11:34  UTC)<br/>
 *Acamar IV* Region 1 ERIDANI City is besieged by Human (2026-08-25 11:34  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1I leaves *Karlia* (2026-08-25 11:34  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1K deploys to *Acamar IV* (2026-08-25 11:35  UTC)<br/>
-Assault Division: Spore Burst Strain (Enemies) U1F deploys to *Brilliance* (2026-08-25 11:49  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1I leaves *Karlia* (2026-08-25 11:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1K deploys to *Acamar IV* (2026-08-25 11:35  UTC)<br/>
+Assault Division: Spore Burst Strain U1F deploys to *Brilliance* (2026-08-25 11:49  UTC)<br/>
  Decay: 0.0 on Acamar IV
  (2026-08-25 11:49  UTC)<br/>
  Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
@@ -18271,25 +18276,25 @@ Assault Division: Spore Burst Strain (Enemies) U1F deploys to *Brilliance* (2026
 *Brilliance* liberation campaign starts (2026-08-25 11:50  UTC)<br/>
 Major Order | [A3-8-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-8-9) Major Order - COUNTERDISSIDENT HAMMER DISSIDENT MANHUNT is issued| Objective: Liberate (2026-08-25 12:02  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. A Terminid outbreak has occurred on BRILLIANCE. The TCS+ array is under significant distress, with multiple nodes failing. The TCS+ has been empirically proved to make any Terminid infestation impossible. This outbreak, therefore, can only be the result of dissident sabotage. The Ministry of Truth has identified, with high confidence, three enemy planets as harbors of extremists: GACRUX, GAR HAREN, and LUXURIANT. The Helldivers are ordered to liberate these planets, so the dissidents may be brought to justice. (2026-08-25 12:02  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1J leaves *Alaraph* (2026-08-25 12:08  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1F leaves *Partion* (2026-08-25 12:08  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Brilliance* (2026-08-25 12:09  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1G deploys to *Phact Bay* (2026-08-25 12:10  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1G leaves *Phact Bay* (2026-08-25 15:21  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1H deploys to *Gar Haren* (2026-08-25 15:22  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1J leaves *Alaraph* (2026-08-25 12:08  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1F leaves *Partion* (2026-08-25 12:08  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L deploys to *Brilliance* (2026-08-25 12:09  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1G deploys to *Phact Bay* (2026-08-25 12:10  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1G leaves *Phact Bay* (2026-08-25 15:21  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1H deploys to *Gar Haren* (2026-08-25 15:22  UTC)<br/>
 *Acamar IV* Region 1 ERIDANI City has fallen to Human (2026-08-26 07:57  UTC)<br/>
 
 ### Day: #931
-Assault Division: PREDATOR STRAIN (Enemies) U1H leaves *Gar Haren* (2026-08-26 12:01  UTC)<br/>
-Assault Division: PREDATOR STRAIN (Enemies) U1I deploys to *Achernar Secundus* (2026-08-26 12:03  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1H leaves *Gar Haren* (2026-08-26 12:01  UTC)<br/>
+Assault Division: PREDATOR STRAIN U1I deploys to *Achernar Secundus* (2026-08-26 12:03  UTC)<br/>
 *Achernar Secundus* of the Borgus sector is attacked by Terminids (2026-08-26 12:04  UTC)<br/>
 *Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Human (2026-08-26 12:04  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1K leaves *Acamar IV* (2026-08-26 12:56  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1K leaves *Acamar IV* (2026-08-26 12:56  UTC)<br/>
  Decay: 0.0 on Achernar Secundus
  (2026-08-26 12:56  UTC)<br/>
  Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
  (2026-08-26 12:56  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Achernar Secundus* (2026-08-26 12:58  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M deploys to *Achernar Secundus* (2026-08-26 12:58  UTC)<br/>
 *Acamar IV* defense is won (2026-08-26 21:25  UTC)<br/>
  Decay: 1.0 on Acamar IV
  (2026-08-26 22:00  UTC)<br/>
@@ -18335,12 +18340,14 @@ DSS deploys to *Brilliance* of the Orion sector (2026-08-29 13:42  UTC)<br/>
 DSS deploys to *Luxuriant* of the Jin Xi sector (2026-08-30 01:13  UTC)<br/>
 
 ### Day: #935
-Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Achernar Secundus* (2026-08-30 20:14  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Luxuriant* (2026-08-30 20:15  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M leaves *Achernar Secundus* (2026-08-30 20:14  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M deploys to *Luxuriant* (2026-08-30 20:15  UTC)<br/>
  Decay: 1.5 on Luxuriant
  (2026-08-30 20:15  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Brilliance* (2026-08-30 20:20  UTC)<br/>
-Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Zefia* (2026-08-30 20:22  UTC)<br/>
+Assault Division: CYBORGS U1D leaves *Mintoria* (2026-08-30 20:18  UTC)<br/>
+*Zefia* of the Tanis sector is attacked by Automatons (2026-08-30 20:19  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L leaves *Brilliance* (2026-08-30 20:20  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L deploys to *Zefia* (2026-08-30 20:22  UTC)<br/>
  Decay: 0.0 on Zefia
  (2026-08-30 22:00  UTC)<br/>
 *Achernar Secundus* Region 1 NEW NEWTONVILLE City is besieged by Human (2026-08-31 03:18  UTC)<br/>
@@ -18359,5 +18366,349 @@ Dispatch: MAJOR ORDER WON The Heldlivers rapidly secured each planet suspected t
  Region Decay: 0.1 on Peacock's QUASAR region<br/> Region Decay: 0.2 on Peacock's SYZYGY region
  (2026-08-31 10:00  UTC)<br/>
 DSS deploys to *Zefia* of the Tanis sector (2026-08-31 13:14  UTC)<br/>
-Assault Division: CYBORGS (Enemies) U1E leaves *Meissa* (2026-08-31 13:50  UTC)<br/>
+Assault Division: CYBORGS U1E leaves *Meissa* (2026-08-31 13:50  UTC)<br/>
 *Meissa* of the Ymir sector is attacked by Automatons (2026-08-31 13:52  UTC)<br/>
+ Decay: 0.0 on Meissa
+ (2026-08-31 14:00  UTC)<br/>
+*Zefia* defense is failed (2026-08-31 20:23  UTC)<br/>
+*Zefia* liberation campaign starts (2026-08-31 20:23  UTC)<br/>
+*Mintoria* liberation campaign ends (2026-08-31 20:23  UTC)<br/>
+ Decay: 1.0 on Zefia
+ (2026-08-31 22:00  UTC)<br/>
+DSS deploys to *Meissa* of the Ymir sector (2026-09-01 01:14  UTC)<br/>
+
+### Day: #937
+Major Order | [A3-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-1) Counterdissident Hammer -CITIZEN ARREST is issued | Objective: Eliminate (2026-09-01 11:03  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The dissident network responsible for the sabotage of the TCS+ has eluded justice. Predictive analytics indicate the network has dispersed domestically. High Command has ordered a Full Deputization of *Super Earth* citizens Class B and above. The Helldivers are ordered to secure material for the production of bounty trophies for the capture of suspected dissidents. Neutralize the high-value Illuminate and Cyborg/Automaton belligerents indicated on the Galactic Map. (2026-09-01 11:04  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-09-01 11:30  UTC)<br/>
+ Decay: 2.0 on Senge 23<br/> Decay: 2.5 on Zefia
+ (2026-09-01 11:30  UTC)<br/>
+Assault Division: CYBORGS U1D deploys to *Meissa* (2026-09-01 12:49  UTC)<br/>
+Assault Division: CYBORGS U1D leaves *Meissa* (2026-09-01 18:21  UTC)<br/>
+Assault Division: CYBORGS U1E deploys to *Matar Bay* (2026-09-01 18:21  UTC)<br/>
+*Meissa* defense is won (2026-09-01 20:47  UTC)<br/>
+DSS deploys to *Zefia* of the Tanis sector (2026-09-01 20:47  UTC)<br/>
+ Decay: 4.5 on Meissa
+ (2026-09-01 22:00  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Human (2026-09-02 00:12  UTC)<br/>
+
+### Day: #938
+DSS effect EAGLE STORM ends (2026-09-02 11:30  UTC)<br/>
+Dispatch: MAJOR ORDER ADJUSTMENT. Ongoing analysis of current major order targets has identified current targets to be overestimates. The analysts responsible for this oversight have been removed from their positions and transferred to frontline units where their evident talents will better serve Managed Democracy. The adjusted kill targets for the current Major Order are as follows: 25,000,000 Agitators, 1,000,000 Vox Engines, 50,000,000 Obtruders, and 250,000 Gatekeepers. (2026-09-02 20:39  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-09-02 22:04  UTC)<br/>
+*Senge 23* Region 1 EAGLESTAR ETERNAL Settlement has fallen to Human (2026-09-03 08:17  UTC)<br/>
+
+### Day: #939
+*Zefia* is liberated (2026-09-03 12:45  UTC)<br/>
+*Mintoria* liberation campaign starts (2026-09-03 12:45  UTC)<br/>
+*Mintoria* Region 0 SEORAKSAN Settlement is besieged by Human (2026-09-03 12:45  UTC)<br/>
+Tanis sector is fully under Human control (2026-09-03 12:45  UTC)<br/>
+ Region Decay: 0.1 on Mintoria's SEORAKSAN region<br/> Region Decay: 0.2 on Mintoria's GYEONGSEONG region
+ (2026-09-03 12:45  UTC)<br/>
+DSS deploys to *Karlia* of the Omega sector (2026-09-03 12:46  UTC)<br/>
+Major Order | [A3-9-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-1) Counterdissident Hammer -CITIZEN ARREST is won | Objective: Eliminate (2026-09-03 12:51  UTC)<br/>
+Dispatch: MAJOR ORDER WON Deputized citizens have apprehended thousands of suspected dissidents across the Federation. They were motivated and rewarded by premium trophies of Freedom's enemies valiantly secured by the Helldivers. Hundreds of apprehended suspects have already confessed to conspiracy to sabotage the TCS+ and destroy Managed Democracy. The dissident network, which existed, is rapidly being mapped and dismantled. (2026-09-03 12:53  UTC)<br/>
+*Achernar Secundus* is liberated (2026-09-03 18:57  UTC)<br/>
+Borgus sector is fully under Human control (2026-09-03 18:57  UTC)<br/>
+ Decay: 1.5 on Achernar Secundus
+ (2026-09-03 20:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-09-03 22:05  UTC)<br/>
+*Karlia* Region 0 ADNAN City has fallen to Human (2026-09-03 22:11  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-09-04 01:16  UTC)<br/>
+
+# Day: #940
+Assault Division: Spore Burst Strain U1A leaves *Esker* (2026-09-04 11:47  UTC)<br/>
+Assault Division: Spore Burst Strain U1A deploys to *Bore Rock* (2026-09-04 11:48  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Recent sabotages of the TCS+ by dissidents have threatened the populace and inflamed public outrage. The Helldivers are ordered to liberate BORE ROCK and NIVEL 43, Terminid-held planets adjacent to those sabotaged by dissidents, so that the TCS+ can be built on those planets as well. In so doing, the impregnable barrier of the TCS+ will be made twice as impregnable as before. (2026-09-04 12:53  UTC)<br/>
+Major Order | [A3-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-2)  Counterdissident Hammer-BARRIER ENHANCEMENT is issued | Objective: Liberate (2026-09-04 12:53  UTC)<br/>
+ Decay: 3.0 on Bore Rock
+ (2026-09-04 12:53  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION High Command has authorized fleetwide availability of the Eagle Gas Airstrike Stratagem for the next 72 hours. (2026-09-04 12:54  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-09-04 17:16  UTC)<br/>
+DSS deploys to *Nivel 43* of the Mirin sector (2026-09-04 21:16  UTC)<br/>
+
+### Day: #941
+Assault Division: CYBORGS U1B leaves *Zefia* (2026-09-05 10:15  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M leaves *Luxuriant* (2026-09-05 10:15  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L leaves *Zefia* (2026-09-05 10:16  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M deploys to *Erata Prime* (2026-09-05 10:17  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L deploys to *Terrek* (2026-09-05 10:18  UTC)<br/>
+*Zagon Prime* has a new effect: CAMPAIGN BLOCKER-Campaigns cannot be launched. (2026-09-05 10:24  UTC)<br/>
+*Esker* has a new effect: CAMPAIGN BLOCKER-Campaigns cannot be launched. (2026-09-05 10:25  UTC)<br/>
+*Erson Sands* has a new effect: CAMPAIGN BLOCKER-Campaigns cannot be launched. (2026-09-05 11:06  UTC)<br/>
+*Nivel 43* is liberated (2026-09-05 11:14  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2026-09-05 11:14  UTC)<br/>
+Assault Division: Spore Burst Strain U1F leaves *Brilliance* (2026-09-05 11:14  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-09-06 04:58  UTC)<br/>
+
+### Day: #942
+Assault Division: Heavy SEAF Presence U1M leaves *Erata Prime* (2026-09-06 10:51  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M deploys to *Heeth* (2026-09-06 10:52  UTC)<br/>
+*Heeth* of the Orion sector is attacked by Terminids (2026-09-06 10:52  UTC)<br/>
+Dispatch:  HEETH UNDER ATTACK. The bugs have attacked *Heeth*. Rally to its defense, before they are able to permanently infest it. (2026-09-06 10:52  UTC)<br/>
+ Decay: 0.0 on Heeth
+ (2026-09-06 12:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-09-07 04:59  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2026-09-07 05:18  UTC)<br/>
+Major Order | [A3-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-2) Counterdissident Hammer-BARRIER ENHANCEMENT is won | Objective: Liberate (2026-09-07 08:10  UTC)<br/>
+*Bore Rock* is liberated (2026-09-07 08:11  UTC)<br/>
+*Nivel 43* has a new effect: TERMINID CONTROL SYSTEM+ POI (2026-09-07 08:12  UTC)<br/>
+Dispatch: CAMPAIGN WON. TCS+ nodes are under construction on BORE ROCK and NIVEL 43 following their liberation by the Helldivers. The containment of the Terminids has never been more guaranteed. The dissident network responsible for these sabotages, which existed, has been dismantled. (2026-09-07 08:12  UTC)<br/>
+*Bore Rock* is no longer enveloped by The Gloom. (2026-09-07 08:20  UTC)<br/>
+Assault Division: Spore Burst Strain U1A leaves *Bore Rock* (2026-09-07 08:20  UTC)<br/>
+*Nivel 43* is no longer enveloped by The Gloom. (2026-09-07 08:20  UTC)<br/>
+
+### Day: #943
+*Heeth* defense is failed (2026-09-07 10:53  UTC)<br/>
+*Heeth* liberation campaign starts (2026-09-07 10:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1N deploys to *Erata Prime* (2026-09-07 10:53  UTC)<br/>
+Dispatch: HEETH LOST *Heeth* has fallen to the Terminid Menace. We cannot allow this infestation to continue to spread. (2026-09-07 10:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1N deploys to *Erata Prime* (2026-09-07 10:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M leaves *Heeth* (2026-09-07 10:56  UTC)<br/>
+ Decay: 2.0 on Heeth
+ (2026-09-07 12:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Eagle Gas Airstrike Stratagem availability has now ended. (2026-09-07 13:00  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1L leaves *Terrek* (2026-09-07 13:52  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2026-09-07 13:53  UTC)<br/>
+↳ *Bekvam III* Region 0 CONVENIENCE Town is besieged by Human (2026-09-07 13:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence U1M deploys to *Bekvam III* (2026-09-07 13:55  UTC)<br/>
+Assault Division: CYBORGS U1D deploys to *Merga IV* (2026-09-07 14:52  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2026-09-07 14:52  UTC)<br/>
+ Region Decay: 0.2 on Bekvam III's CONVENIENCE region<br/> Region Decay: 0.4 on Bekvam III's FIREFLY MEADOWS region
+ (2026-09-07 14:52  UTC)<br/>
+Assault Division: CYBORGS U1D deploys to *Zosma* (2026-09-07 15:52  UTC)<br/>
+Assault Division: CYBORGS U1D deploys to *Zzaniah Prime* (2026-09-07 16:52  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2026-09-07 21:18  UTC)<br/>
+*Bekvam III* Region 0 CONVENIENCE Town has fallen to Human (2026-09-08 03:08  UTC)<br/>
+ZZANIAH PRIME  Region 0 GEMSTELLE GENERATOR Settlement is now present (2026-09-08 08:43  UTC)<br/>
+ Decay: 3.0 on Zzaniah Prime
+ (2026-09-08 08:43  UTC)<br/>
+
+### Day: #944
+Assault Division: CYBORGS (Enemies) U1E leaves *Matar Bay* (2026-09-08 11:22  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1B deploys to *Martale* (2026-09-08 11:23  UTC)<br/>
+Major Order | [A3-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-3) BLAZING ELECTORATE-PREEMPTIVE CYBERDEFENCE is issued | Objective: Liberate (2026-09-08 12:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Intercepted Cyborg communications indicate an upcoming cyberattack designed to impede election Management for the upcoming Quarter-term elections. It is believed these assaults will originate from Megafactories on CHARBAL-VII and ZZANIAH PRIME. The Helldivers are ordered to liberate these planets immediately. (2026-09-08 12:01  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1B leaves *Martale* (2026-09-08 12:23  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1E deploys to *Charon Prime* (2026-09-08 12:24  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Erata Prime* (2026-09-08 12:44  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Charbal-VII* (2026-09-08 12:46  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1E leaves *Charon Prime* (2026-09-08 14:49  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1B deploys to *Charbal-VII* (2026-09-08 14:50  UTC)<br/>
+DSS deploys to *Charbal-VII* of the Andromeda sector (2026-09-08 17:20  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Aurora Bay* (2026-09-08 18:56  UTC)<br/>
+Dispatch: JET BRIGADE SIGHTED The Automaton Jet Brigade has resurfaced on AURORA BAY. (2026-09-08 18:56  UTC)<br/>
+*Bekvam III* Region 1 FIREFLY MEADOWS City is besieged by Human (2026-09-08 19:14  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Choohe* (2026-09-08 19:56  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Matar Bay* (2026-09-08 20:56  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Marfark* (2026-09-08 21:56  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2026-09-08 21:57  UTC)<br/>
+*Marfark* has a new effect: HULK SURGE-High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies. (2026-09-08 21:57  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2026-09-08 21:57  UTC)<br/>
+*Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement is besieged by Human (2026-09-08 21:57  UTC)<br/>
+ Region Decay: 1.0 on Marfark's TECHNOLOCKIA ALLATEED region
+ (2026-09-08 22:00  UTC)<br/>
+ Region Decay: 1.0 on Marfark's TECHNOLOCKIA ALLATEED region
+ (2026-09-08 22:00  UTC)<br/>
+*Bekvam III* defense is won (2026-09-09 07:34  UTC)<br/>
+
+### Day: #945
+ Decay: 0.5 on Bekvam III
+ (2026-09-09 09:00  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1C leaves *Marfark* (2026-09-09 12:21  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1A leaves *Vog-Sojoth* (2026-09-09 12:28  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A leaves *Julheim* (2026-09-09 12:39  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Fury* (2026-09-09 12:39  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B leaves *Azterra* (2026-09-09 13:10  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1A leaves *Sulfura* (2026-09-09 13:11  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1C leaves *Zygos* (2026-09-09 13:11  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1I leaves *Achernar Secundus* (2026-09-09 13:16  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1D leaves *Hellmire* (2026-09-09 13:24  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1E leaves *Pherkad Secundus* (2026-09-09 13:24  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1B leaves *Crimsica* (2026-09-09 13:25  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1C leaves *Turing* (2026-09-09 13:25  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1H leaves *Acamar IV* (2026-09-09 13:44  UTC)<br/>
+*Zzaniah Prime*'s max health is changed to 2m (2026-09-09 14:54  UTC)<br/>
+Dispatch: INCINERATION CORPS SIGHTED. The Automaton Incineration Corps has resurfaced on VINDEMITARIX PRIME. (2026-09-09 14:56  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Mekbuda* (2026-09-09 15:56  UTC)<br/>
+ Decay: 2.5 on Blistica
+ (2026-09-09 15:56  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C leaves *Vindemitarix Prime* (2026-09-09 16:55  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Aurora Bay* (2026-09-09 16:57  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Choohe* (2026-09-09 17:57  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Matar Bay* (2026-09-09 18:57  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Martale* (2026-09-09 19:56  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Charbal-VII* (2026-09-09 21:56  UTC)<br/>
+*Marfark* defense is failed (2026-09-09 21:58  UTC)<br/>
+↳ *Marfark* liberation campaign starts (2026-09-09 21:58  UTC)<br/>
+↳ *Martale* liberation campaign ends (2026-09-09 21:58  UTC)<br/>
+↳ Andromeda sector is fully under Automaton control (2026-09-09 21:58  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Choepessa IV* (2026-09-09 22:56  UTC)<br/>
+*Choepessa IV* of the Trigon sector is attacked by Automatons (2026-09-09 22:56  UTC)<br/>
+↳ *Choepessa IV* Region 0 HILJAISUUS Town is besieged by Human (2026-09-09 22:56  UTC)<br/>
+ Decay: 1.5 on Marfark
+ (2026-09-09 22:56  UTC)<br/>
+ Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region
+ (2026-09-10 00:00  UTC)<br/>
+ Region Decay: 0.2 on Choepessa IV's HILJAISUUS region<br/> Region Decay: 0.4 on Choepessa IV's KALASATAMA region<br/> Region Decay: 0.6 on Choepessa IV's YDINKESKUSTA region<br/> Region Decay: 0.0 on Choepessa IV's EVOLUTION PLATS region
+ (2026-09-10 00:00  UTC)<br/>
+*Charbal-VII* Region 0 UTOPIA VAREN Settlement has fallen to Human (2026-09-10 02:34  UTC)<br/>
+
+### Day: #946
+ Decay: 3.0 on Charbal-VII
+ (2026-09-10 12:00  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-09-10 17:44  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City is besieged by Human (2026-09-10 18:32  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity is besieged by Human (2026-09-10 23:49  UTC)<br/>
+*Charbal-VII* is liberated (2026-09-11 01:03  UTC)<br/>
+DSS deploys to *Mintoria* of the Gellert sector (2026-09-11 01:04  UTC)<br/>
+*Mintoria* Region 0 SEORAKSAN Settlement has fallen to Human (2026-09-11 03:48  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Charbal-VII* (2026-09-11 08:45  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1B leaves *Charbal-VII* (2026-09-11 08:45  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A leaves *Charbal-VII* (2026-09-11 08:45  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Choepessa IV* (2026-09-11 08:46  UTC)<br/>
+
+### Day: #947
+*Mintoria* Region 1 GYEONGSEONG Town is besieged by Human (2026-09-11 17:09  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-09-11 17:48  UTC)<br/>
+*Choepessa IV* defense is failed (2026-09-11 23:02  UTC)<br/>
+↳*Choepessa IV* liberation campaign starts (2026-09-11 23:02  UTC)<br/>
+*Choepessa IV* Region 0 HILJAISUUS Town siege has ended (2026-09-11 23:02  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity siege has ended (2026-09-11 23:02  UTC)<br/>
+ Decay: 0.5 on Choepessa IV
+ (2026-09-11 23:02  UTC)<br/>
+*Mintoria* Region 1 GYEONGSEONG Town has fallen to Human (2026-09-11 23:37  UTC)<br/>
+*Mintoria* is liberated (2026-09-12 07:37  UTC)<br/>
+↳ *Zzaniah Prime* liberation campaign starts (2026-09-12 07:37  UTC)<br/>
+↳ *Zzaniah Prime* Region 0 GEMSTELLE GENERATOR Settlement is besieged by Human (2026-09-12 07:37  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-09-12 07:37  UTC)<br/>
+
+### Day: #948
+ Region Decay: 0.0 on Zzaniah Prime's GEMSTELLE GENERATOR region
+ (2026-09-12 09:00  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2026-09-12 13:25  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Choepessa IV* (2026-09-12 21:21  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Choepessa IV* (2026-09-12 21:21  UTC)<br/>
+*K* has a new effect: DEVASTATOR SURGE-The Automatons have deployed high numbers of Devastators to this planet. (2026-09-12 21:22  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C deploys to *K* (2026-09-12 21:22  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *K* (2026-09-12 21:23  UTC)<br/>
+*K* of the Trigon sector is attacked by Automatons (2026-09-12 21:23  UTC)<br/>
+ Decay: 0.0 on K
+ (2026-09-12 22:00  UTC)<br/>
+
+### Day: #949
+*Zzaniah Prime* Region 0 GEMSTELLE GENERATOR Settlement has fallen to Human (2026-09-13 11:46  UTC)<br/>
+Major Order | [A3-9-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-3) BLAZING ELECTORATE-PREEMPTIVE CYBERDEFENCE is failed | Objective: Liberate (2026-09-13 12:06  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The Helldivers recaptured CHARBAL-VII, but the Cyborgs retained hold of ZZANIAH PRIME. Massive server banks were discovered in the captured Megafactories. Cybersecurity specialists have confirmed that these server banks could be used in the conduct of cyberattacks—confirming the enemy's intent beyond doubt. (2026-09-13 12:08  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B leaves *Marfark* (2026-09-13 19:32  UTC)<br/>
+*Marfark* effect was removed: HULK SURGE-High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies. (2026-09-13 19:32  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1A deploys to *Bekvam III* (2026-09-13 19:33  UTC)<br/>
+*Bekvam III* has a new effect: HULK SURGE-High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies. (2026-09-13 19:34  UTC)<br/>
+*Bekvam III* of the Nanos sector is attacked by Automatons (2026-09-13 19:34  UTC)<br/>
+*Bekvam III* Region 1 FIREFLY MEADOWS City is besieged by Human (2026-09-13 19:34  UTC)<br/>
+DSS deploys to *K* of the Trigon sector (2026-09-13 21:26  UTC)<br/>
+ Decay: 0.0 on Bekvam III
+ (2026-09-13 21:26  UTC)<br/>
+ Region Decay: 0.2 on Bekvam III's CONVENIENCE region<br/> Region Decay: 0.4 on Bekvam III's FIREFLY MEADOWS region
+ (2026-09-13 21:26  UTC)<br/>
+
+# Day: #950
+*Bekvam III* Region 0 CONVENIENCE Town is besieged by Human (2026-09-14 14:36  UTC)<br/>
+Major Order | [A3-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-4) BLAZING ELECTORATE-IMPOSTER MITIGATION is issued | Objective: Eliminate (2026-09-14 15:19  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Evidence of an even more abhorrent Cyborg plot to manipulate the upcoming Quarter-term elections has been discovered: to create androids, disguised as *Super Earth* citizens, to infiltrate voting centers. The Helldivers are ordered to immediately deploy to destroy 200,000,000 Automaton Troopers, depleting their stock of potential infiltrators. (2026-09-14 15:23  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2026-09-14 15:36  UTC)<br/>
+DSS deploys to *Afoyay Bay* of the Gallux sector (2026-09-14 15:37  UTC)<br/>
+DSS deploys to *Zzaniah Prime* of the Gellert sector (2026-09-14 15:39  UTC)<br/>
+*Bekvam III* defense is failed (2026-09-14 19:35  UTC)<br/>
+*Bekvam III* liberation campaign starts (2026-09-14 19:35  UTC)<br/>
+*Bekvam III* Region 1 FIREFLY MEADOWS City siege has ended (2026-09-14 19:35  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-09-14 19:44  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-09-14 20:22  UTC)<br/>
+ Decay: 0.5 on Bekvam III
+ (2026-09-14 20:22  UTC)<br/>
+*K* defense is failed (2026-09-14 21:24  UTC)<br/>
+↳*K* liberation campaign starts (2026-09-14 21:24  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2026-09-14 21:24  UTC)<br/>
+ Decay: 1.5 on K
+ (2026-09-14 22:00  UTC)<br/>
+
+### Day: #951
+*Bekvam III* Region 0 CONVENIENCE Town has fallen to Human (2026-09-15 09:34  UTC)<br/>
+DSS deploys to *Bekvam III* of the Nanos sector (2026-09-15 12:39  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-09-15 19:45  UTC)<br/>
+*Terrek* defense is failed (2026-09-15 20:23  UTC)<br/>
+↳*Terrek* liberation campaign starts (2026-09-15 20:23  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-09-15 22:00  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-09-15 23:04  UTC)<br/>
+*Bekvam III* Region 1 FIREFLY MEADOWS City is besieged by Human (2026-09-15 23:14  UTC)<br/>
+Major Order | [A3-9-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-4) BLAZING ELECTORATE-IMPOSTER MITIGATION is won | Objective: Eliminate (2026-09-16 06:06  UTC)<br/>
+Dispatch: MAJOR ORDER WON The Helldivers rapidly and violently decommissioned over 200,000,000 Automaton Troopers. Any ongoing production of imposter robot voters must now be redirected to refilling their frontline ranks. The upcoming Quarter-term elections have been protected from yet another external threat. (2026-09-16 06:08  UTC)<br/>
+
+### Day: #952
+*Luxuriant* of the Jin Xi sector is attacked by Terminids (2026-09-16 11:03  UTC)<br/>
+*Bekvam III* is liberated (2026-09-16 13:58  UTC)<br/>
+↳DSS deploys to *Trandor* of the Sten sector (2026-09-16 13:58  UTC)<br/>
+Nanos sector is fully under Human control (2026-09-16 13:58  UTC)<br/>
+ Decay: 0.0 on Luxuriant
+ (2026-09-16 13:58  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-09-16 23:04  UTC)<br/>
+
+### Day: #953
+*K* effect was removed: DEVASTATOR SURGE-The Automatons have deployed high numbers of Devastators to this planet. (2026-09-17 09:21  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C leaves *K* (2026-09-17 09:21  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *K* (2026-09-17 09:22  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Varylia 5* (2026-09-17 09:23  UTC)<br/>
+*Varylia 5* has a new effect: DEVASTATOR SURGE-The Automatons have deployed high numbers of Devastators to this planet. (2026-09-17 09:23  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2026-09-17 09:24  UTC)<br/>
+↳*Varylia 5* Region 0 SEQUIM City is besieged by Human (2026-09-17 09:24  UTC)<br/>
+ Region Decay: 0.4 on Varylia 5's SEQUIM region
+ (2026-09-17 10:00  UTC)<br/>
+ Region Decay: 0.4 on Varylia 5's SEQUIM region
+ (2026-09-17 10:00  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1A leaves *Bekvam III* (2026-09-17 13:19  UTC)<br/>
+*Bekvam III* effect was removed: HULK SURGE-High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies. (2026-09-17 13:19  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Bekvam III* (2026-09-17 14:52  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Varylia 5* (2026-09-17 14:53  UTC)<br/>
+Major Order | [A3-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-5) BLAZING ELECTORATE-ELECTION RE-FORTIFICATION is issued | Objective: Eliminate (2026-09-17 16:00  UTC)<br/>
+ Decay: 2.5 on K
+ (2026-09-17 16:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The *Super Earth* Government, informed by the results of an expert election security panel, has passed a comprehensive Super Secure Elections Act, which allocates new military spending for upholding election security. Helldiver arsenals have been augmented with a number of stratagems. They are directed to uphold election security—by any means necessary. (2026-09-17 16:01  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on TERREK with the Anti-Personnel Mine Deployer Stratagem for the next 24 hours. (2026-09-17 16:02  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on BLISTICA with the Incendiary Mines Stratagem for the next 24 hours. (2026-09-17 16:03  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on HALDUS with the Gas Mines Stratagem for the next 24 hours. (2026-09-17 16:04  UTC)<br/>
+
+### Day: #954
+*Zzaniah Prime* Region 0 GEMSTELLE GENERATOR Settlement is besieged by Human (2026-09-18 09:00  UTC)<br/>
+*Luxuriant* defense is failed (2026-09-18 11:04  UTC)<br/>
+↳*Luxuriant* liberation campaign starts (2026-09-18 11:04  UTC)<br/>
+↳*Peacock* liberation campaign ends (2026-09-18 11:04  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City has fallen to Human (2026-09-18 11:34  UTC)<br/>
+ Decay: 1.5 on Luxuriant
+ (2026-09-18 11:34  UTC)<br/>
+*Fury* of the Xzar sector is attacked by Automatons (2026-09-18 13:00  UTC)<br/>
+ Decay: 2.5 on Marfark<br/> Decay: 0.0 on Fury
+ (2026-09-18 13:00  UTC)<br/>
+ Decay: 2.5 on Luxuriant
+ (2026-09-18 14:00  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on MARFARK with the Anti-Personnel Mine Deployer Stratagem for the next 24 hours. (2026-09-18 16:21  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on GENESIS PRIME with the Incendiary Mines Stratagem for the next 24 hours. (2026-09-18 16:22  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on GENESIS PRIME with the Incendiary Mines Stratagem for the next 24 hours. (2026-09-18 16:23  UTC)<br/>
+*Varylia 5* defense is won (2026-09-18 18:56  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-09-18 20:41  UTC)<br/>
+ Decay: 1.0 on Varylia 5
+ (2026-09-18 20:41  UTC)<br/>
+*Karlia* is liberated (2026-09-19 02:44  UTC)<br/>
+*Hydrobius* liberation campaign starts (2026-09-19 02:44  UTC)<br/>
+↳*Hydrobius* Region 0 GENERATORSVILLE City is besieged by Human (2026-09-19 02:44  UTC)<br/>
+*Alderidge Cove* liberation campaign starts (2026-09-19 02:44  UTC)<br/>
+*Keid* liberation campaign starts (2026-09-19 02:44  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2026-09-19 04:00  UTC)<br/>
+ Region Decay: 0.4 on Hydrobius's GENERATORSVILLE region
+ (2026-09-19 04:00  UTC)<br/>
+
+### Day: #955
+*Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-09-19 15:35  UTC)<br/>
