@@ -18712,3 +18712,130 @@ DSS deploys to *Choepessa IV* of the Trigon sector (2026-09-18 20:41  UTC)<br/>
 
 ### Day: #955
 *Choepessa IV* Region 1 KALASATAMA City has fallen to Human (2026-09-19 15:35  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on CHARON PRIME with the Gas Mines Stratagem for the next 24 hours. (2026-09-19 19:07  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on ROGUE 5 with the Anti-Personnel Mine Deployer Stratagem for the next 24 hours. (2026-09-19 19:08  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. Funds from the Super Secure Elections Act have been allocated to support Helldiver operations on ROGUE 5 with the Anti-Personnel Mine Deployer Stratagem for the next 24 hours. (2026-09-19 19:09  UTC)<br/>
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-09-20 04:43  UTC)<br/>
+
+### Day: #956
+*Fury* defense is failed (2026-09-20 13:03  UTC)<br/>
+*Fury* liberation campaign starts (2026-09-20 13:03  UTC)<br/>
+ Decay: 2.0 on Fury
+ (2026-09-20 14:00  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-09-21 00:22  UTC)<br/>
+
+### Day: #957
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Varylia 5* (2026-09-21 11:48  UTC)<br/>
+DSS deploys to *Alaraph* of the Akira sector (2026-09-21 12:45  UTC)<br/>
+*Khandark* of the Guang sector is attacked by Illuminates (2026-09-21 14:11  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A leaves *Varylia 5* (2026-09-21 15:53  UTC)<br/>
+*Varylia 5* effect was removed: DEVASTATOR SURGE-The Automatons have deployed high numbers of Devastators to this planet. (2026-09-21 15:53  UTC)<br/>
+ Decay: 0.0 on Khandark
+ (2026-09-21 15:53  UTC)<br/>
+Major Order | [A3-9-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-5) BLAZING ELECTORATE-ELECTION RE-FORTIFICATION is won | Objective: Eliminate (2026-09-21 16:03  UTC)<br/>
+Dispatch: CAMPAIGN FAILURE Cyborg interference has raised significant doubts in the veracity of the Quarter-Term Elections. As a result, a re-vote has been ordered, with enhanced election security measures to make interference impossible. SEAF Battalions have been recalled from the frontlines to secure voting sites. (2026-09-21 16:06  UTC)<br/>
+ Decay: 1.5 on Choepessa IV
+ (2026-09-21 18:00  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-09-21 20:45  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-09-22 00:23  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity is besieged by Human (2026-09-22 05:34  UTC)<br/>
+*Alaraph* Region 0 PERMACURIS City is besieged by Human (2026-09-22 05:40  UTC)<br/>
+
+### Day: #958
+DSS deploys to *Afoyay Bay* of the Gallux sector (2026-09-22 09:13  UTC)<br/>
+Dispatch: STRATEGIC UPDATE Miscalibrations in the Democracy Space Station have required it to be taken temporarily offline in order to be resolved. The Ministry of Defense has shifted significant personnel to these fixes, making it a top priority. Those responsible for the mistakes will attend an intensive re-training seminar. If the issue persists, their families will also attend the seminar. (2026-09-22 09:14  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Enemy aggression prevents the long-term construction of the new Maelstrom Tank, threatening our citizens' inherent right to self-defense. Liberate MARFARK and PHACT BAY immediately. (2026-09-22 12:00  UTC)<br/>
+Major Order | [A3-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-6) ARMORED EAGLE-Secure Territory is issued | Objective: Liberate (2026-09-22 12:10  UTC)<br/>
+*Khandark* defense is failed (2026-09-22 14:12  UTC)<br/>
+*Khandark* liberation campaign starts (2026-09-22 14:12  UTC)<br/>
+ Decay: 1.0 on Khandark
+ (2026-09-22 16:00  UTC)<br/>
+
+### Day: #959
+*Fronteria* of the Umlaut sector instantly flips to Terminid control (2026-09-23 12:22  UTC)<br/>
+*Fronteria* liberation campaign starts (2026-09-23 12:22  UTC)<br/>
+Dispatch:  NEW STRATEGIC IMPERATIVE. Dissident saboteurs have planted Terminids on FRONTERIA, where the TCS+ is already fully functioning. This is an obvious and pathetic attempt to cast doubt upon the unimpeachable effectiveness of the TCS+. These dissidents were likely influenced by Cyborg disinformation, proving the imperative of ongoing operations to disrupt them. Nevertheless, the threat posed by this artificially-produced outbreak is very real. The Helldivers are ordered to eliminate it before it spreads out of control. (2026-09-23 12:24  UTC)<br/>
+Dispatch: MINOR TERMINID OUTBREAK. A minor Terminid outbreak has occurred on FRONTERIA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak. (2026-09-23 12:30  UTC)<br/>
+*Phact Bay* Region 2 NEW EAGLE MegaCity has fallen to Human (2026-09-23 18:59  UTC)<br/>
+*Phact Bay* Region 1 BRNO City is besieged by Human (2026-09-23 22:43  UTC)<br/>
+Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on VINDEMITARIX PRIME. (2026-09-24 00:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Vindemitarix Prime* (2026-09-24 00:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C deploys to *Mekbuda* (2026-09-24 01:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Aurora Bay* (2026-09-24 02:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C deploys to *Choohe* (2026-09-24 03:06  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Matar Bay* (2026-09-24 04:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Meissa* (2026-09-24 05:07  UTC)<br/>
+*Meissa* of the Ymir sector is attacked by Automatons (2026-09-24 05:07  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C deploys to *Marfark* (2026-09-24 06:07  UTC)<br/>
+ Decay: 0.0 on Meissa
+ (2026-09-24 06:07  UTC)<br/>
+ Decay: 3.0 on Marfark
+ (2026-09-24 08:00  UTC)<br/>
+
+# Day: #960
+*Phact Bay* Region 1 BRNO City has fallen to Human (2026-09-24 16:22  UTC)<br/>
+*Phact Bay* Region 0 OLD DOVE Town is besieged by Human (2026-09-24 18:41  UTC)<br/>
+*Phact Bay* Region 0 OLD DOVE Town has fallen to Human (2026-09-25 03:31  UTC)<br/>
+*Meissa* defense is failed (2026-09-25 05:08  UTC)<br/>
+*Meissa* liberation campaign starts (2026-09-25 05:08  UTC)<br/>
+*Matar Bay* liberation campaign ends (2026-09-25 05:08  UTC)<br/>
+ Decay: 4.5 on Meissa
+ (2026-09-25 06:00  UTC)<br/>
+
+### Day: #961
+*Phact Bay* is liberated (2026-09-25 13:19  UTC)<br/>
+ Decay: -1.0 on Pandion-XXIV
+ (2026-09-25 14:00  UTC)<br/>
+*Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement has fallen to Human (2026-09-26 00:15  UTC)<br/>
+ Decay: 1.5 on Marfark
+ (2026-09-26 02:00  UTC)<br/>
+
+### Day: #962
+Major Order | [A3-9-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-6) ARMORED EAGLE-Secure Territory is won | Objective: Liberate (2026-09-26 11:26  UTC)<br/>
+*Martale* liberation campaign starts (2026-09-26 11:27  UTC)<br/>
+*Martale* Region 0 SONGGUO CUN Settlement is besieged by Human (2026-09-26 11:27  UTC)<br/>
+*Matar Bay* liberation campaign starts (2026-09-26 11:27  UTC)<br/>
+*Matar Bay* Region 1 ISEGORIA Town is besieged by Human (2026-09-26 11:27  UTC)<br/>
+*Marfark* is liberated (2026-09-26 11:27  UTC)<br/>
+Dispatch: MAJOR ORDER WON. The Helldivers liberated PHACT BAY and MARFARK. AM Defense has already broken ground on massive factories for large-scale Maelstrom Tank fabrication. Pre-orders from qualifying citizens for home defense Tanks have already sold out, evidencing the eagerness of *Super Earth* citizens to exercise their natural-born freedoms. (2026-09-26 11:29  UTC)<br/>
+ Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region<br/> Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-09-26 12:00  UTC)<br/>
+ Region Decay: 0.1 on Martale's SONGGUO CUN region<br/> Region Decay: 0.4 on Martale's XIN FUZHOU region<br/> Region Decay: 0.4 on Matar Bay's PARRHESIA region<br/> Region Decay: 0.2 on Matar Bay's ISEGORIA region
+ (2026-09-26 12:00  UTC)<br/>
+
+### Day: #963
+*Matar Bay* Region 1 ISEGORIA Town has fallen to Human (2026-09-27 11:57  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Production of Maelstrom Tanks for civilian and military use is proceeding on schedule. Now, deluxe features offered as incentives for early investors must be fabricated. The Helldivers are ordered to dismantle 5,000,000 Automaton Tanks to repurpose their engine cooling systems as climate-controlled cupholders, and harvest 25,000,000 Chargers to convert their carapaces to vibration-insulation panels. (2026-09-27 19:29  UTC)<br/>
+Major Order | [A3-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-7) ARMORED EAGLE-Resource Acquisition is issued | Objective: Eliminate (2026-09-27 19:29  UTC)<br/>
+*Pandion-XXIV* is liberated (2026-09-28 05:05  UTC)<br/>
+ Decay: 2.0 on Pandion-XXIV
+ (2026-09-28 06:00  UTC)<br/>
+
+### Day: #964
+*Terrek* is liberated (2026-09-28 11:31  UTC)<br/>
+
+### Day: #965
+
+### Day: #966
+
+### Day: #967
+Major Order | [A3-9-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-7) ARMORED EAGLE-Resource Acquisition is failed | Objective: Eliminate (2026-10-01 19:30  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. Insufficient materials have been harvested by the Helldivers to fulfill production quotas for deluxe Maelstrom Tank features. This has caused significant distress amongst the early investors who were promised these features as incentives, resulting in a precipitous drop in pre-sales and a decrease in share value. As a result, the Maelstrom Tank project is now at risk of termination. (2026-10-01 19:33  UTC)<br/>
+*Martale* Region 0 SONGGUO CUN Settlement has fallen to Human (2026-10-01 20:40  UTC)<br/>
+
+### Day: #968
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Meissa* (2026-10-02 19:13  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A deploys to *Wasat* (2026-10-02 19:15  UTC)<br/>
+*Wasat* of the Ymir sector is attacked by Automatons (2026-10-02 19:18  UTC)<br/>
+*Wasat* Region 1 DRYWELL MegaCity is besieged by Human (2026-10-02 19:18  UTC)<br/>
+*Gatria* of the Jin Xi sector is attacked by Terminids (2026-10-02 19:19  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement is besieged by Human (2026-10-02 19:19  UTC)<br/>
+Major Order | [A3-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-1) ARMORED EAGLE-Patriotic Invigoration is issued | Objective: Defend (2026-10-02 19:24  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Unrelenting enemy aggression has put production of the Maelstrom Tank in jeopardy. To recoup costs, the Helldivers are ordered to aid the creation of a public awareness sales campaign. Footage of the Helldivers obliterating Freedom's enemies could increase pre-sales, providing the funding needed to save the project. GATRIA and WASAT have just come under attack. Deploy to defend these planets, utilizing the Maelstrom Tank. (2026-10-02 19:25  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region<br/> Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
+ (2026-10-02 20:00  UTC)<br/>
+ Region Decay: 0.1 on Gatria's ALTONBURG region<br/> Region Decay: 0.4 on Gatria's ERSATZ region<br/> Region Decay: 0.4 on Wasat's MIRAGE region<br/> Region Decay: 0.6 on Wasat's DRYWELL region
+ (2026-10-02 20:00  UTC)<br/>
+*Gatria* Region 0 ALTONBURG Settlement has fallen to Human (2026-10-03 00:26  UTC)<br/>
+
+### Day: #969
