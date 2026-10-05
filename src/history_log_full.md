@@ -18839,3 +18839,16 @@ Dispatch: NEW MAJOR ORDER. Unrelenting enemy aggression has put production of th
 *Gatria* Region 0 ALTONBURG Settlement has fallen to Human (2026-10-03 00:26  UTC)<br/>
 
 ### Day: #969
+*Gatria* defense is won (2026-10-03 20:05  UTC)<br/>
+HP reached a checkpoint. (2026-10-03 22:00  UTC)<br/>
+HP reached a checkpoint. (2026-10-03 22:00  UTC)<br/>
+*Wasat* Region 0 MIRAGE City is besieged by Human (2026-10-04 00:07  UTC)<br/>
+Major Order | [A3-10-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-1) ARMORED EAGLE-Patriotic Invigoration is won | Objective: Defense (2026-10-04 04:34  UTC)<br/>
+*Wasat* defense is won (2026-10-04 04:35  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Buoyed by inspiring footage of the Federation's greatest heroes decimating its greatest enemies, Maelstrom Tank sales to the public have skyrocketed. Citizens are clamoring for the opportunity to defend their homes and families with their very own Tank. The Maelstrom Tank is available for Helldiver use in perpetuity. (2026-10-04 04:36  UTC)<br/>
+ Decay: 1.5 on Wasat
+ (2026-10-04 06:00  UTC)<br/>
+
+# Day: #970
+
+### Day: #971
