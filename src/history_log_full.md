@@ -18867,3 +18867,9 @@ Dispatch: DSS MAINTENANCE UPDATE. The Democracy Space Station has been offline f
 Major Order | [A3-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-2) EPIC PURGE-CHEMICAL PEACEKEEPING is issued | Objective: Liberate, Eliminate (2026-10-06 13:01  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Shattered Illuminate divisions are consolidating on SENGE 23. High Command has authorized a live broadcast of their imminent eradication to every loyal home. To bolster this initative, the recently restored DSS (Democracy Space Station) has deployed, newly equipped with the Eagle Gas Storm to enable widespread chemical peacekeeping. Liberate SENGE 23 and eliminate 400,000,000 Illuminate hostiles. (2026-10-06 13:02  UTC)<br/>
 DSS deploys to *Senge 23* of the Omega sector (2026-10-06 16:20  UTC)<br/>
+*Senge 23* Region 0 EXALT Town has fallen to Human (2026-10-06 19:11  UTC)<br/>
+
+### Day: #973
+DSS effect EAGLE STORM ends (2026-10-07 12:20  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-10-07 13:52  UTC)<br/>
+Dispatch: TERREK is under attack by the Terminids! All Helldivers must deploy immediately to defend it! (2026-10-07 13:58  UTC)<br/>
