@@ -18873,3 +18873,6 @@ DSS deploys to *Senge 23* of the Omega sector (2026-10-06 16:20  UTC)<br/>
 DSS effect EAGLE STORM ends (2026-10-07 12:20  UTC)<br/>
 *Terrek* of the Orion sector is attacked by Terminids (2026-10-07 13:52  UTC)<br/>
 Dispatch: TERREK is under attack by the Terminids! All Helldivers must deploy immediately to defend it! (2026-10-07 13:58  UTC)<br/>
+Dispatch: DSS MAINTENANCE UPDATE. Unforeseable supply line disruptions are preventing Helldiver contributions to DSS Tactical Actions from being received. The issue is currently being addressed and will be resolved in an appropriately expedient manner unworthy of complaint. Personnel are advised to avoid contribution to the DSS and undue contemplation or communication about this issue until normal operation is restored. Violations will be appropriately logged in the violator's permanent files. (2026-10-07 15:39  UTC)<br/>
+ Decay: 0.0 on Terrek
+ (2026-10-07 15:39  UTC)<br/>
