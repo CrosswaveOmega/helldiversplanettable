@@ -18876,3 +18876,17 @@ Dispatch: TERREK is under attack by the Terminids! All Helldivers must deploy im
 Dispatch: DSS MAINTENANCE UPDATE. Unforeseable supply line disruptions are preventing Helldiver contributions to DSS Tactical Actions from being received. The issue is currently being addressed and will be resolved in an appropriately expedient manner unworthy of complaint. Personnel are advised to avoid contribution to the DSS and undue contemplation or communication about this issue until normal operation is restored. Violations will be appropriately logged in the violator's permanent files. (2026-10-07 15:39  UTC)<br/>
  Decay: 0.0 on Terrek
  (2026-10-07 15:39  UTC)<br/>
+*Senge 23* is liberated (2026-10-08 08:31  UTC)<br/>
+*Setia* liberation campaign starts (2026-10-08 08:31  UTC)<br/>
+Major Order | [A3-10-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-2) EPIC PURGE-CHEMICAL PEACEKEEPING is won | Objective: Liberate, Eliminate (2026-10-08 08:31  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-10-08 08:32  UTC)<br/>
+Dispatch: MAJOR ORDER WON The liberation of SENGE 23 has concluded with a decisive victory for the Helldivers. High-definition broadcasts of the engagement were successfully transmitted to cheering homes across the Federation, prompting an immediate 4.2% increase in regional real estate futures. As a routine operational byproduct, harmless gaseous residues are now dispersing into adjacent residential flight corridors. Air quality experts have decisively concluded there is no cause for concern. (2026-10-08 08:33  UTC)<br/>
+
+### Day: #974
+*X-45* of the Ymir sector is attacked by Automatons (2026-10-08 12:19  UTC)<br/>
+Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EPIC PURGE-BIO-SAMPLE CULLING is issued | Objective: Hold, Eliminate (2026-10-08 13:41  UTC)<br/>
+ Decay: 3.5 on Meissa<br/> Decay: 0.0 on X-45
+ (2026-10-08 13:41  UTC)<br/>
+Dispatch: NEW MAJOR ORDER The Illuminate have manipulated harmless gaseous residues into somehow affecting exclusive Class A retirement facilities orbiting SENGE 23. To prove the safety of Eagle Gas Storms—normally entirely benevolent to human lungs—Helldivers must hold SENGE 23, and deploy to the Terminid front to eliminate 30,000,000 Bile Spewers and 40,000,000 Bile Spitters, to aid vital and fully planned research into airborne toxicity. (2026-10-08 13:42  UTC)<br/>
+*Terrek* defense is failed (2026-10-08 13:53  UTC)<br/>
+*Terrek* liberation campaign starts (2026-10-08 13:53  UTC)<br/>
