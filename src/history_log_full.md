@@ -18890,3 +18890,13 @@ Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EP
 Dispatch: NEW MAJOR ORDER The Illuminate have manipulated harmless gaseous residues into somehow affecting exclusive Class A retirement facilities orbiting SENGE 23. To prove the safety of Eagle Gas Storms—normally entirely benevolent to human lungs—Helldivers must hold SENGE 23, and deploy to the Terminid front to eliminate 30,000,000 Bile Spewers and 40,000,000 Bile Spitters, to aid vital and fully planned research into airborne toxicity. (2026-10-08 13:42  UTC)<br/>
 *Terrek* defense is failed (2026-10-08 13:53  UTC)<br/>
 *Terrek* liberation campaign starts (2026-10-08 13:53  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-10-08 14:00  UTC)<br/>
+
+### Day: #975
+*X-45* defense is failed (2026-10-09 12:20  UTC)<br/>
+*X-45* liberation campaign starts (2026-10-09 12:20  UTC)<br/>
+ Decay: 2.0 on X-45
+ (2026-10-09 14:00  UTC)<br/>
+*Brilliance* is liberated (2026-10-09 17:40  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2026-10-09 17:40  UTC)<br/>
