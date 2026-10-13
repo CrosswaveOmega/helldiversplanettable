@@ -18975,7 +18975,7 @@ Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Marfark* (2026-10
  (2026-10-11 20:43  UTC)<br/>
 *Menkent* defense is failed (2026-10-11 20:44  UTC)<br/>
 *Menkent* liberation campaign starts (2026-10-11 20:44  UTC)<br/>
-Major Order | [A3-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-4) STRATEGIC DIRECTIVE-HOLD MENKENT AND MARFARK (2026-10-11 20:50  UTC)<br/>
+Major Order | [A3-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-4) STRATEGIC DIRECTIVE-HOLD MENKENT AND MARFARK is failed | Objective:Hold (2026-10-11 20:50  UTC)<br/>
  Decay: 2.0 on Menkent
  (2026-10-11 20:50  UTC)<br/>
 Dispatch: STRATEGIC DIRECTIVE FAILED Despite the Helldivers overcoming the Automatons on MARFARK, the heartless machines retained their foul communist propaganda arrays on MENKENT, broadcasting obscene lies regarding the safety of SEAF chemical peacekeeping operations. The Ministry of Truth has proactively suspended all civilian broadcasts until speech is correctly free once more, and has escorted any citizen cruelly exposed to the signal to voluntary acoustic re-education facilities. (2026-10-11 20:52  UTC)<br/>
@@ -19020,5 +19020,5 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-10-13 02:07  UTC)<br/>
 ### Day: #979
 *Vega Bay* Region 2 SAPPORO Town is besieged by Human (2026-10-13 11:04  UTC)<br/>
 *Vega Bay* Region 1 GIRI Town has fallen to Human (2026-10-13 11:23  UTC)<br/>
-Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EPIC PURGE-BIO-SAMPLE CULLING is [won/failed] | Objective: Hold/Eliminate (2026-10-13 13:45  UTC)<br/>
+Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EPIC PURGE-BIO-SAMPLE CULLING is won | Objective: Hold/Eliminate (2026-10-13 13:45  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' steadfast obedience, the chemical safety demonstration on SENGE 23 has concluded with the successful defense of the planet from further Illuminate interference. Additionally, a complete recalibration of SEAF aerosol payloads has resulted in Class A retirees happily reporting an immediate improvement to their well-deserved scenic views, and an abundance of pristine, pine-scented air. (2026-10-13 13:47  UTC)<br/>
