@@ -18898,5 +18898,127 @@ Dispatch: NEW MAJOR ORDER The Illuminate have manipulated harmless gaseous resid
 *X-45* liberation campaign starts (2026-10-09 12:20  UTC)<br/>
  Decay: 2.0 on X-45
  (2026-10-09 14:00  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q deploys to *Mekbuda* (2026-10-09 16:42  UTC)<br/>
 *Brilliance* is liberated (2026-10-09 17:40  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Mekbuda* (2026-10-09 17:40  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2026-10-09 17:40  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q deploys to *Aurora Bay* (2026-10-09 17:42  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Aurora Bay* (2026-10-09 18:40  UTC)<br/>
+ Decay: -1.0 on Terrek
+ (2026-10-09 18:40  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q deploys to *Choohe* (2026-10-09 18:42  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Choohe* (2026-10-09 19:40  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Aurora Bay* (2026-10-09 19:42  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q deploys to *Matar Bay* (2026-10-09 19:42  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Aurora Bay* (2026-10-09 20:10  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Choohe* (2026-10-09 20:12  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Choohe* (2026-10-09 20:40  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Matar Bay* (2026-10-09 20:41  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Menkent* (2026-10-09 20:42  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q deploys to *Marfark* (2026-10-09 20:42  UTC)<br/>
+*Menkent* of the Hydra sector is attacked by Automatons (2026-10-09 20:42  UTC)<br/>
+*Marfark* of the Andromeda sector is attacked by Automatons (2026-10-09 20:42  UTC)<br/>
+*Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement is besieged by Human (2026-10-09 20:42  UTC)<br/>
+Dispatch: NEW STRATEGIC DIRECTIVE. Automatons are attacking MENKENT and MARFARK, and worse, broadcasting vile lies claiming defensive gas strikes on SENGE 23 harmed *Super Earth* citizens. Helldivers: liberate MARFARK, targeted by the Incineration Corps, and MENKENT, targeted by the Jet Brigade to forcibly deny these baseless, unlawful socialist fabrications—and their craven falsehoods. (2026-10-09 20:47  UTC)<br/>
+ Decay: 0.0 on Marfark, Menkent
+ (2026-10-09 20:47  UTC)<br/>
+ Region Decay: 1.0 on Marfark's TECHNOLOCKIA ALLATEED region
+ (2026-10-09 20:47  UTC)<br/>
+Major Order | [A3-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-4) STRATEGIC DIRECTIVE-HOLD MENKENT AND MARFARK is issued | Objective: Hold (2026-10-09 21:34  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Mekbuda* (2026-10-09 21:40  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Mekbuda* (2026-10-09 22:04  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Aurora Bay* (2026-10-09 22:05  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Aurora Bay* (2026-10-09 23:04  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Choohe* (2026-10-09 23:05  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Choohe* (2026-10-10 00:04  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Matar Bay* (2026-10-10 00:06  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Matar Bay* (2026-10-10 01:05  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Meissa* (2026-10-10 01:06  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *Meissa* (2026-10-10 02:05  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *X-45* (2026-10-10 02:06  UTC)<br/>
+DSS deploys to *Marfark* of the Andromeda sector (2026-10-10 04:23  UTC)<br/>
+
+### Day: #976
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Marfark* (2026-10-10 19:42  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Fronteria* (2026-10-10 19:44  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Hydrobius* (2026-10-10 19:45  UTC)<br/>
+Dispatch: WARFRONT DEVELOPMENT. SEAF Battalions previously recalled to secure voting sites as detailed in the "Blazing Electorate" campaign are now returning to the frontlines. Trigger dicipline[sic] encouraged, democratic fervor mandatory. (2026-10-10 19:45  UTC)<br/>
+Assault Division: RUPTURE STRAIN (Enemies) U1B deploys to *Partion* (2026-10-10 19:48  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B deploys to *Azur Secundus* (2026-10-10 20:14  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B leaves *Azur Secundus* (2026-10-10 21:13  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B deploys to *Overgoe Prime* (2026-10-10 21:14  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B leaves *Overgoe Prime* (2026-10-10 22:13  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B deploys to *Partion* (2026-10-10 22:14  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B leaves *Partion* (2026-10-10 23:13  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B deploys to *Gacrux* (2026-10-10 23:14  UTC)<br/>
+*Gacrux* of the Jin Xi sector is attacked by Terminids (2026-10-10 23:14  UTC)<br/>
+ Decay: 0.0 on Gacrux
+ (2026-10-11 00:00  UTC)<br/>
+
+### Day: #977
+*Terrek* is liberated (2026-10-11 12:42  UTC)<br/>
+*Senge 23* of the Omega sector is attacked by Illuminates (2026-10-11 13:34  UTC)<br/>
+*Senge 23* Region 0 EXALT Town is besieged by Human (2026-10-11 13:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Hydrobius* (2026-10-11 13:34  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-10-11 13:34  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Senge 23* (2026-10-11 13:36  UTC)<br/>
+ Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
+ (2026-10-11 14:00  UTC)<br/>
+ Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
+ (2026-10-11 14:00  UTC)<br/>
+*Marfark* defense is won (2026-10-11 19:56  UTC)<br/>
+DSS deploys to *Senge 23* of the Omega sector (2026-10-11 19:57  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Menkent* (2026-10-11 20:43  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U7Q leaves *Marfark* (2026-10-11 20:43  UTC)<br/>
+ Decay: 1.5 on Marfark
+ (2026-10-11 20:43  UTC)<br/>
+*Menkent* defense is failed (2026-10-11 20:44  UTC)<br/>
+*Menkent* liberation campaign starts (2026-10-11 20:44  UTC)<br/>
+Major Order | [A3-10-4](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-4) STRATEGIC DIRECTIVE-HOLD MENKENT AND MARFARK (2026-10-11 20:50  UTC)<br/>
+ Decay: 2.0 on Menkent
+ (2026-10-11 20:50  UTC)<br/>
+Dispatch: STRATEGIC DIRECTIVE FAILED Despite the Helldivers overcoming the Automatons on MARFARK, the heartless machines retained their foul communist propaganda arrays on MENKENT, broadcasting obscene lies regarding the safety of SEAF chemical peacekeeping operations. The Ministry of Truth has proactively suspended all civilian broadcasts until speech is correctly free once more, and has escorted any citizen cruelly exposed to the signal to voluntary acoustic re-education facilities. (2026-10-11 20:52  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Menkent* (2026-10-11 21:36  UTC)<br/>
+*Gacrux* defense is failed (2026-10-11 23:14  UTC)<br/>
+*Gacrux* liberation campaign starts (2026-10-11 23:14  UTC)<br/>
+ Decay: 1.0 on Gacrux
+ (2026-10-12 00:00  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-10-12 02:07  UTC)<br/>
+*Senge 23* Region 0 EXALT Town has fallen to Human (2026-10-12 03:33  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C leaves *Marfark* (2026-10-12 07:08  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Marfark* (2026-10-12 07:09  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Bekvam III* (2026-10-12 07:10  UTC)<br/>
+
+### Day: #978
+*Senge 23* defense is won (2026-10-12 13:02  UTC)<br/>
+DSS deploys to *Heeth* of the Orion sector (2026-10-12 13:02  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Bekvam III* (2026-10-12 15:15  UTC)<br/>
+ Decay: 3.0 on Senge 23
+ (2026-10-12 15:15  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Charon Prime* (2026-10-12 15:16  UTC)<br/>
+Assault Division: INVASION FLEET (Enemies) U1G leaves *Senge 23* (2026-10-12 15:21  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1U leaves *Senge 23* (2026-10-12 15:22  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Senge 23* (2026-10-12 15:22  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Hydrobius* (2026-10-12 15:23  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B leaves *X-45* (2026-10-12 17:50  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1C deploys to *Vega Bay* (2026-10-12 17:51  UTC)<br/>
+*Vega Bay* of the Ymir sector is attacked by Automatons (2026-10-12 17:52  UTC)<br/>
+*Vega Bay* Region 1 GIRI Town is besieged by Human (2026-10-12 17:52  UTC)<br/>
+*Heeth* is liberated (2026-10-12 19:43  UTC)<br/>
+Orion sector is fully under Human control (2026-10-12 19:43  UTC)<br/>
+ Decay: 0.0 on Vega Bay
+ (2026-10-12 19:43  UTC)<br/>
+ Region Decay: 0.1 on Vega Bay's ONSEN region<br/> Region Decay: 0.2 on Vega Bay's GIRI region<br/> Region Decay: 0.2 on Vega Bay's SAPPORO region
+ (2026-10-12 19:43  UTC)<br/>
+DSS deploys to *Matar Bay* of the Andromeda sector (2026-10-12 19:44  UTC)<br/>
+DSS deploys to *Vega Bay* of the Ymir sector (2026-10-12 20:24  UTC)<br/>
+ Decay: -1.0 on Fronteria
+ (2026-10-12 20:24  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-10-13 02:07  UTC)<br/>
+
+### Day: #979
+*Vega Bay* Region 2 SAPPORO Town is besieged by Human (2026-10-13 11:04  UTC)<br/>
+*Vega Bay* Region 1 GIRI Town has fallen to Human (2026-10-13 11:23  UTC)<br/>
+Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EPIC PURGE-BIO-SAMPLE CULLING is [won/failed] | Objective: Hold/Eliminate (2026-10-13 13:45  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' steadfast obedience, the chemical safety demonstration on SENGE 23 has concluded with the successful defense of the planet from further Illuminate interference. Additionally, a complete recalibration of SEAF aerosol payloads has resulted in Class A retirees happily reporting an immediate improvement to their well-deserved scenic views, and an abundance of pristine, pine-scented air. (2026-10-13 13:47  UTC)<br/>

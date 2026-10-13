@@ -18489,6 +18489,86 @@
       {
          "pl": 200,
          "eind": 11836
+      },
+      {
+         "pl": 100,
+         "eind": 11855
+      },
+      {
+         "pl": 200,
+         "eind": 11857
+      },
+      {
+         "pl": 100,
+         "eind": 11861
+      },
+      {
+         "pl": 200,
+         "eind": 11863
+      },
+      {
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11869
+      },
+      {
+         "pl": 100,
+         "eind": 11881
+      },
+      {
+         "pl": 200,
+         "eind": 11885
+      },
+      {
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "pl": 200,
+         "eind": 11888
+      },
+      {
+         "pl": 100,
+         "eind": 11896
+      },
+      {
+         "pl": 200,
+         "eind": 11899
+      },
+      {
+         "pl": 100,
+         "eind": 11900
+      },
+      {
+         "pl": 200,
+         "eind": 11901
+      },
+      {
+         "pl": 100,
+         "eind": 11902
+      },
+      {
+         "pl": 200,
+         "eind": 11907
+      },
+      {
+         "pl": 100,
+         "eind": 11913
+      },
+      {
+         "pl": 200,
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11921
+      },
+      {
+         "pl": 200,
+         "eind": 11923
       }
    ],
    "1": [
@@ -31139,8 +31219,208 @@
          "eind": 11841
       },
       {
-         "hp": 1775586,
+         "hp": 1775605,
          "eind": 11842
+      },
+      {
+         "hp": 1775586,
+         "eind": 11843
+      },
+      {
+         "hp": 1775581,
+         "eind": 11845
+      },
+      {
+         "hp": 1775570,
+         "eind": 11847
+      },
+      {
+         "hp": 1775568,
+         "eind": 11849
+      },
+      {
+         "hp": 1775567,
+         "eind": 11851
+      },
+      {
+         "hp": 1775565,
+         "eind": 11854
+      },
+      {
+         "hp": 1775563,
+         "eind": 11855
+      },
+      {
+         "hp": 1775549,
+         "eind": 11857
+      },
+      {
+         "hp": 1775532,
+         "eind": 11859
+      },
+      {
+         "hp": 1775513,
+         "eind": 11861
+      },
+      {
+         "hp": 1775481,
+         "eind": 11863
+      },
+      {
+         "hp": 1775457,
+         "eind": 11865
+      },
+      {
+         "hp": 1775415,
+         "eind": 11867
+      },
+      {
+         "hp": 1775359,
+         "eind": 11868
+      },
+      {
+         "hp": 1775349,
+         "eind": 11869
+      },
+      {
+         "hp": 1775343,
+         "eind": 11870
+      },
+      {
+         "hp": 1775314,
+         "eind": 11871
+      },
+      {
+         "hp": 1775290,
+         "eind": 11872
+      },
+      {
+         "hp": 1775251,
+         "eind": 11873
+      },
+      {
+         "hp": 1775223,
+         "eind": 11874
+      },
+      {
+         "hp": 1775220,
+         "eind": 11876
+      },
+      {
+         "hp": 1775208,
+         "eind": 11879
+      },
+      {
+         "hp": 1775199,
+         "eind": 11881
+      },
+      {
+         "hp": 1775195,
+         "eind": 11883
+      },
+      {
+         "hp": 1775175,
+         "eind": 11885
+      },
+      {
+         "hp": 1775156,
+         "eind": 11886
+      },
+      {
+         "hp": 1775028,
+         "eind": 11887
+      },
+      {
+         "hp": 1775005,
+         "eind": 11888
+      },
+      {
+         "hp": 1774998,
+         "eind": 11889
+      },
+      {
+         "hp": 1774993,
+         "eind": 11891
+      },
+      {
+         "hp": 1774918,
+         "eind": 11892
+      },
+      {
+         "hp": 1774912,
+         "eind": 11894
+      },
+      {
+         "hp": 1774904,
+         "eind": 11898
+      },
+      {
+         "hp": 1774875,
+         "eind": 11899
+      },
+      {
+         "hp": 1774850,
+         "eind": 11900
+      },
+      {
+         "hp": 1774813,
+         "eind": 11901
+      },
+      {
+         "hp": 1774803,
+         "eind": 11902
+      },
+      {
+         "hp": 1774772,
+         "eind": 11903
+      },
+      {
+         "hp": 1774751,
+         "eind": 11906
+      },
+      {
+         "hp": 1774728,
+         "eind": 11907
+      },
+      {
+         "hp": 1774714,
+         "eind": 11908
+      },
+      {
+         "hp": 1774683,
+         "eind": 11913
+      },
+      {
+         "hp": 1774676,
+         "eind": 11916
+      },
+      {
+         "hp": 1774669,
+         "eind": 11918
+      },
+      {
+         "hp": 1774618,
+         "eind": 11919
+      },
+      {
+         "hp": 1774567,
+         "eind": 11920
+      },
+      {
+         "hp": 1774542,
+         "eind": 11921
+      },
+      {
+         "hp": 1774539,
+         "eind": 11922
+      },
+      {
+         "hp": 1774535,
+         "eind": 11923
+      },
+      {
+         "hp": 1774515,
+         "eind": 11924
       }
    ],
    "46": [
@@ -53860,8 +54140,208 @@
          "eind": 11841
       },
       {
-         "pl": 3700,
+         "pl": 3300,
          "eind": 11842
+      },
+      {
+         "pl": 3700,
+         "eind": 11843
+      },
+      {
+         "hp": 984112,
+         "pl": 7600,
+         "r": -2.7777777,
+         "eind": 11845
+      },
+      {
+         "hp": 962375,
+         "pl": 8200,
+         "eind": 11847
+      },
+      {
+         "hp": 951298,
+         "pl": 7900,
+         "eind": 11849
+      },
+      {
+         "hp": 940584,
+         "pl": 8200,
+         "eind": 11851
+      },
+      {
+         "hp": 935265,
+         "pl": 7600,
+         "eind": 11854
+      },
+      {
+         "hp": 919830,
+         "pl": 6700,
+         "eind": 11855
+      },
+      {
+         "hp": 909608,
+         "pl": 6900,
+         "eind": 11857
+      },
+      {
+         "hp": 890109,
+         "pl": 6000,
+         "eind": 11859
+      },
+      {
+         "hp": 871092,
+         "pl": 5500,
+         "eind": 11861
+      },
+      {
+         "hp": 851600,
+         "pl": 5900,
+         "eind": 11863
+      },
+      {
+         "hp": 832361,
+         "pl": 7000,
+         "eind": 11865
+      },
+      {
+         "hp": 789096,
+         "pl": 6300,
+         "eind": 11867
+      },
+      {
+         "hp": 707285,
+         "pl": 6600,
+         "eind": 11868
+      },
+      {
+         "hp": 682546,
+         "pl": 6200,
+         "eind": 11869
+      },
+      {
+         "hp": 657694,
+         "pl": 6400,
+         "eind": 11870
+      },
+      {
+         "hp": 605298,
+         "pl": 7900,
+         "eind": 11871
+      },
+      {
+         "hp": 550493,
+         "pl": 13700,
+         "eind": 11872
+      },
+      {
+         "hp": 493940,
+         "pl": 14800,
+         "eind": 11873
+      },
+      {
+         "hp": 398303,
+         "pl": 13700,
+         "eind": 11874
+      },
+      {
+         "hp": 391346,
+         "pl": 15100,
+         "eind": 11876
+      },
+      {
+         "hp": 384319,
+         "pl": 13500,
+         "eind": 11878
+      },
+      {
+         "hp": 358012,
+         "pl": 11600,
+         "eind": 11879
+      },
+      {
+         "hp": 333928,
+         "pl": 9900,
+         "eind": 11881
+      },
+      {
+         "hp": 310885,
+         "pl": 10000,
+         "eind": 11883
+      },
+      {
+         "hp": 287847,
+         "pl": 8700,
+         "eind": 11885
+      },
+      {
+         "hp": 242656,
+         "pl": 9400,
+         "eind": 11886
+      },
+      {
+         "hp": 94251,
+         "pl": 7000,
+         "eind": 11887
+      },
+      {
+         "hp": 5062,
+         "pl": 10800,
+         "t": 16,
+         "eind": 11888
+      },
+      {
+         "hp": 1000000,
+         "pl": 3400,
+         "r": 2.7777777,
+         "eind": 11889
+      },
+      {
+         "pl": 1300,
+         "eind": 11891
+      },
+      {
+         "pl": 600,
+         "eind": 11892
+      },
+      {
+         "pl": 400,
+         "eind": 11894
+      },
+      {
+         "pl": 300,
+         "eind": 11899
+      },
+      {
+         "pl": 400,
+         "eind": 11900
+      },
+      {
+         "pl": 300,
+         "eind": 11901
+      },
+      {
+         "pl": 200,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11916
+      },
+      {
+         "pl": 100,
+         "eind": 11918
+      },
+      {
+         "pl": "<10",
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11924
       }
    ],
    "77": [
@@ -62079,6 +62559,10 @@
          "eind": 11841
       },
       {
+         "pl": 3000,
+         "eind": 11842
+      },
+      {
          "pl": 3500,
          "dss": "DSS Here",
          "desc": [
@@ -62087,7 +62571,271 @@
                "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
             }
          ],
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "hp": 998292,
+         "pl": 27700,
+         "eind": 11845
+      },
+      {
+         "hp": 972809,
+         "pl": 37700,
+         "eind": 11847
+      },
+      {
+         "hp": 955317,
+         "pl": 37200,
+         "eind": 11849
+      },
+      {
+         "hp": 937900,
+         "pl": 40400,
+         "eind": 11851
+      },
+      {
+         "hp": 928817,
+         "pl": 37800,
+         "eind": 11854
+      },
+      {
+         "hp": 903453,
+         "pl": 33600,
+         "eind": 11855
+      },
+      {
+         "hp": 887511,
+         "pl": 35000,
+         "eind": 11857
+      },
+      {
+         "hp": 857626,
+         "pl": 30900,
+         "eind": 11859
+      },
+      {
+         "hp": 828132,
+         "pl": 30000,
+         "eind": 11861
+      },
+      {
+         "hp": 795384,
+         "pl": 33000,
+         "eind": 11863
+      },
+      {
+         "hp": 761274,
+         "pl": 39200,
+         "eind": 11865
+      },
+      {
+         "hp": 686428,
+         "pl": 35600,
+         "dss": "",
+         "desc": [],
+         "eind": 11867
+      },
+      {
+         "hp": 594540,
+         "pl": 17500,
+         "eind": 11868
+      },
+      {
+         "hp": 574015,
+         "pl": 16400,
+         "eind": 11869
+      },
+      {
+         "hp": 553812,
+         "pl": 16700,
+         "eind": 11870
+      },
+      {
+         "hp": 511355,
+         "pl": 20000,
+         "eind": 11871
+      },
+      {
+         "hp": 466756,
+         "pl": 28500,
+         "eind": 11872
+      },
+      {
+         "hp": 430895,
+         "pl": 29800,
+         "eind": 11873
+      },
+      {
+         "hp": 373743,
+         "pl": 27200,
+         "eind": 11874
+      },
+      {
+         "hp": 369803,
+         "pl": 29400,
+         "eind": 11876
+      },
+      {
+         "hp": 365794,
+         "pl": 26200,
+         "eind": 11878
+      },
+      {
+         "hp": 351980,
+         "pl": 24300,
+         "eind": 11879
+      },
+      {
+         "hp": 341722,
+         "pl": 20800,
+         "eind": 11881
+      },
+      {
+         "hp": 332458,
+         "pl": 20600,
+         "eind": 11883
+      },
+      {
+         "hp": 323916,
+         "pl": 18400,
+         "eind": 11885
+      },
+      {
+         "hp": 306972,
+         "pl": 20900,
+         "eind": 11886
+      },
+      {
+         "hp": 303335,
+         "pl": 8100,
+         "eind": 11887
+      },
+      {
+         "hp": 317510,
+         "pl": 8400,
+         "eind": 11888
+      },
+      {
+         "hp": 320277,
+         "pl": 15700,
+         "eind": 11889
+      },
+      {
+         "hp": 319327,
+         "pl": 14600,
+         "eind": 11891
+      },
+      {
+         "hp": 324330,
+         "pl": 14700,
+         "eind": 11892
+      },
+      {
+         "hp": 326985,
+         "pl": 14800,
+         "eind": 11894
+      },
+      {
+         "hp": 327593,
+         "pl": 14400,
+         "eind": 11896
+      },
+      {
+         "hp": 328389,
+         "pl": 13400,
+         "eind": 11898
+      },
+      {
+         "hp": 329827,
+         "pl": 11900,
+         "eind": 11899
+      },
+      {
+         "hp": 330543,
+         "pl": 12700,
+         "eind": 11900
+      },
+      {
+         "hp": 328650,
+         "pl": 15600,
+         "eind": 11901
+      },
+      {
+         "hp": 335773,
+         "pl": 13400,
+         "eind": 11902
+      },
+      {
+         "hp": 352874,
+         "pl": 7900,
+         "eind": 11903
+      },
+      {
+         "hp": 359926,
+         "pl": 6700,
+         "eind": 11906
+      },
+      {
+         "hp": 350416,
+         "pl": 16200,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11907
+      },
+      {
+         "hp": 237748,
+         "pl": 33200,
+         "eind": 11908
+      },
+      {
+         "hp": 105486,
+         "pl": 31800,
+         "eind": 11913
+      },
+      {
+         "hp": 10962,
+         "pl": 35100,
+         "t": 16,
+         "eind": 11916
+      },
+      {
+         "dss": "",
+         "desc": [],
+         "eind": 11917
+      },
+      {
+         "hp": 1000000,
+         "pl": 14800,
+         "eind": 11918
+      },
+      {
+         "pl": 900,
+         "eind": 11919
+      },
+      {
+         "pl": 500,
+         "eind": 11920
+      },
+      {
+         "pl": 400,
+         "eind": 11921
+      },
+      {
+         "pl": 500,
+         "eind": 11922
+      },
+      {
+         "pl": 600,
+         "eind": 11923
+      },
+      {
+         "pl": 900,
+         "eind": 11924
       }
    ],
    "80": [
@@ -75862,6 +76610,11 @@
          "eind": 11841
       },
       {
+         "hp": 46210,
+         "pl": 40800,
+         "eind": 11842
+      },
+      {
          "hp": 5917,
          "pl": 38200,
          "t": 16,
@@ -75872,7 +76625,156 @@
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
             }
          ],
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "hp": 2000000,
+         "pl": 10900,
+         "eind": 11845
+      },
+      {
+         "pl": 3400,
+         "eind": 11847
+      },
+      {
+         "pl": 2400,
+         "eind": 11849
+      },
+      {
+         "pl": 2500,
+         "eind": 11851
+      },
+      {
+         "pl": 2200,
+         "eind": 11854
+      },
+      {
+         "pl": 1900,
+         "eind": 11855
+      },
+      {
+         "pl": 2100,
+         "eind": 11857
+      },
+      {
+         "pl": 1800,
+         "eind": 11859
+      },
+      {
+         "pl": 1700,
+         "eind": 11861
+      },
+      {
+         "pl": 1800,
+         "eind": 11863
+      },
+      {
+         "pl": 1900,
+         "eind": 11865
+      },
+      {
+         "pl": 1400,
+         "eind": 11867
+      },
+      {
+         "pl": 800,
+         "eind": 11868
+      },
+      {
+         "pl": 900,
+         "eind": 11871
+      },
+      {
+         "pl": 1100,
+         "eind": 11872
+      },
+      {
+         "pl": 900,
+         "eind": 11873
+      },
+      {
+         "pl": 700,
+         "eind": 11874
+      },
+      {
+         "pl": 600,
+         "eind": 11878
+      },
+      {
+         "pl": 500,
+         "eind": 11881
+      },
+      {
+         "pl": 600,
+         "eind": 11886
+      },
+      {
+         "pl": 300,
+         "eind": 11887
+      },
+      {
+         "pl": 400,
+         "eind": 11888
+      },
+      {
+         "pl": 500,
+         "eind": 11892
+      },
+      {
+         "pl": 400,
+         "eind": 11894
+      },
+      {
+         "pl": 300,
+         "eind": 11898
+      },
+      {
+         "pl": 400,
+         "eind": 11901
+      },
+      {
+         "pl": 300,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11907
+      },
+      {
+         "pl": 300,
+         "eind": 11908
+      },
+      {
+         "pl": 200,
+         "eind": 11913
+      },
+      {
+         "pl": 300,
+         "eind": 11916
+      },
+      {
+         "pl": 200,
+         "eind": 11919
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11922
+      },
+      {
+         "pl": 200,
+         "eind": 11924
       }
    ],
    "271": [
@@ -147565,6 +148467,21 @@
       {
          "r": 6.9444447,
          "eind": 11806
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11878
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11879
       }
    ],
    "100": [
@@ -159087,6 +160004,142 @@
       {
          "pl": 400,
          "eind": 11841
+      },
+      {
+         "pl": 500,
+         "eind": 11845
+      },
+      {
+         "pl": 400,
+         "eind": 11855
+      },
+      {
+         "pl": 500,
+         "eind": 11857
+      },
+      {
+         "pl": 400,
+         "eind": 11859
+      },
+      {
+         "pl": 500,
+         "eind": 11865
+      },
+      {
+         "pl": 300,
+         "eind": 11868
+      },
+      {
+         "pl": 400,
+         "eind": 11869
+      },
+      {
+         "pl": 300,
+         "eind": 11870
+      },
+      {
+         "pl": 400,
+         "eind": 11871
+      },
+      {
+         "pl": 800,
+         "eind": 11872
+      },
+      {
+         "pl": 600,
+         "eind": 11874
+      },
+      {
+         "pl": 700,
+         "eind": 11876
+      },
+      {
+         "pl": 600,
+         "eind": 11878
+      },
+      {
+         "pl": 500,
+         "eind": 11885
+      },
+      {
+         "pl": 600,
+         "eind": 11886
+      },
+      {
+         "pl": 300,
+         "eind": 11887
+      },
+      {
+         "pl": 400,
+         "eind": 11888
+      },
+      {
+         "pl": 600,
+         "eind": 11889
+      },
+      {
+         "pl": 700,
+         "eind": 11892
+      },
+      {
+         "pl": 600,
+         "eind": 11894
+      },
+      {
+         "pl": 500,
+         "eind": 11898
+      },
+      {
+         "pl": 400,
+         "eind": 11900
+      },
+      {
+         "pl": 600,
+         "eind": 11901
+      },
+      {
+         "pl": 500,
+         "eind": 11902
+      },
+      {
+         "pl": 200,
+         "eind": 11903
+      },
+      {
+         "pl": 500,
+         "eind": 11907
+      },
+      {
+         "pl": 600,
+         "eind": 11908
+      },
+      {
+         "pl": 500,
+         "eind": 11913
+      },
+      {
+         "pl": 600,
+         "eind": 11916
+      },
+      {
+         "pl": 700,
+         "eind": 11918
+      },
+      {
+         "pl": 400,
+         "eind": 11920
+      },
+      {
+         "pl": 300,
+         "eind": 11921
+      },
+      {
+         "pl": 400,
+         "eind": 11922
+      },
+      {
+         "pl": 700,
+         "eind": 11924
       }
    ],
    "213": [
@@ -159448,6 +160501,21 @@
       {
          "r": 5.5555553,
          "eind": 11806
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11880
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11881
       }
    ],
    "215": [
@@ -166970,7 +168038,214 @@
       },
       {
          "pl": 900,
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "pl": 1000,
+         "eind": 11845
+      },
+      {
+         "pl": 1100,
+         "eind": 11847
+      },
+      {
+         "pl": 1200,
+         "eind": 11849
+      },
+      {
+         "pl": 1300,
+         "eind": 11851
+      },
+      {
+         "pl": 1100,
+         "eind": 11854
+      },
+      {
+         "pl": 1000,
+         "eind": 11855
+      },
+      {
+         "pl": 900,
+         "eind": 11861
+      },
+      {
+         "pl": 800,
+         "eind": 11863
+      },
+      {
+         "pl": 1100,
+         "eind": 11865
+      },
+      {
+         "pl": 800,
+         "eind": 11867
+      },
+      {
+         "pl": 700,
+         "eind": 11868
+      },
+      {
+         "pl": 800,
+         "eind": 11871
+      },
+      {
+         "pl": 1200,
+         "eind": 11872
+      },
+      {
+         "pl": 1400,
+         "eind": 11873
+      },
+      {
+         "pl": 1500,
+         "eind": 11874
+      },
+      {
+         "pl": 1600,
+         "eind": 11876
+      },
+      {
+         "adiv": "RuptureStrain",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 11877
+      },
+      {
+         "pl": 1700,
+         "eind": 11878
+      },
+      {
+         "pl": 2300,
+         "eind": 11879
+      },
+      {
+         "pl": 2200,
+         "eind": 11881
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11882
+      },
+      {
+         "pl": 2800,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 11883
+      },
+      {
+         "pl": 2000,
+         "eind": 11885
+      },
+      {
+         "pl": 1900,
+         "eind": 11886
+      },
+      {
+         "pl": 1200,
+         "eind": 11887
+      },
+      {
+         "pl": 1600,
+         "eind": 11888
+      },
+      {
+         "pl": 2300,
+         "eind": 11889
+      },
+      {
+         "pl": 1900,
+         "eind": 11891
+      },
+      {
+         "pl": 2200,
+         "eind": 11892
+      },
+      {
+         "pl": 2100,
+         "eind": 11894
+      },
+      {
+         "pl": 1900,
+         "eind": 11896
+      },
+      {
+         "pl": 1800,
+         "eind": 11898
+      },
+      {
+         "pl": 1700,
+         "eind": 11899
+      },
+      {
+         "pl": 2000,
+         "eind": 11901
+      },
+      {
+         "pl": 1800,
+         "eind": 11902
+      },
+      {
+         "pl": 900,
+         "eind": 11903
+      },
+      {
+         "pl": 800,
+         "eind": 11906
+      },
+      {
+         "pl": 1700,
+         "eind": 11907
+      },
+      {
+         "pl": 2000,
+         "eind": 11908
+      },
+      {
+         "pl": 1900,
+         "eind": 11913
+      },
+      {
+         "pl": 2100,
+         "eind": 11918
+      },
+      {
+         "pl": 2000,
+         "eind": 11919
+      },
+      {
+         "pl": 1200,
+         "eind": 11920
+      },
+      {
+         "pl": 900,
+         "eind": 11921
+      },
+      {
+         "pl": 1000,
+         "eind": 11922
+      },
+      {
+         "pl": 2300,
+         "eind": 11924
       }
    ],
    "216": [
@@ -221681,6 +222956,224 @@
       {
          "pl": 1600,
          "eind": 11842
+      },
+      {
+         "pl": 2700,
+         "eind": 11845
+      },
+      {
+         "pl": 3100,
+         "eind": 11847
+      },
+      {
+         "pl": 2900,
+         "eind": 11849
+      },
+      {
+         "pl": 3100,
+         "eind": 11851
+      },
+      {
+         "pl": 3000,
+         "eind": 11854
+      },
+      {
+         "pl": 2700,
+         "eind": 11855
+      },
+      {
+         "pl": 2800,
+         "eind": 11857
+      },
+      {
+         "pl": 2500,
+         "eind": 11859
+      },
+      {
+         "pl": 2200,
+         "eind": 11861
+      },
+      {
+         "pl": 2600,
+         "eind": 11865
+      },
+      {
+         "pl": 2300,
+         "eind": 11867
+      },
+      {
+         "pl": 1800,
+         "eind": 11868
+      },
+      {
+         "pl": 1600,
+         "eind": 11869
+      },
+      {
+         "pl": 1700,
+         "eind": 11870
+      },
+      {
+         "pl": 2200,
+         "eind": 11871
+      },
+      {
+         "pl": 3300,
+         "eind": 11872
+      },
+      {
+         "pl": 3700,
+         "eind": 11873
+      },
+      {
+         "pl": 3600,
+         "eind": 11874
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11875
+      },
+      {
+         "pl": 4000,
+         "eind": 11876
+      },
+      {
+         "pl": 5000,
+         "eind": 11878
+      },
+      {
+         "pl": 7500,
+         "eind": 11879
+      },
+      {
+         "pl": 7600,
+         "eind": 11883
+      },
+      {
+         "pl": 6500,
+         "eind": 11885
+      },
+      {
+         "pl": 6800,
+         "eind": 11886
+      },
+      {
+         "pl": 3500,
+         "eind": 11887
+      },
+      {
+         "pl": 4300,
+         "eind": 11888
+      },
+      {
+         "pl": 6600,
+         "eind": 11889
+      },
+      {
+         "pl": 6000,
+         "eind": 11891
+      },
+      {
+         "pl": 8000,
+         "eind": 11892
+      },
+      {
+         "pl": 7700,
+         "eind": 11894
+      },
+      {
+         "pl": 7500,
+         "eind": 11896
+      },
+      {
+         "pl": 7000,
+         "eind": 11898
+      },
+      {
+         "pl": 6100,
+         "eind": 11899
+      },
+      {
+         "pl": 7100,
+         "eind": 11900
+      },
+      {
+         "pl": 8600,
+         "eind": 11901
+      },
+      {
+         "pl": 7800,
+         "eind": 11902
+      },
+      {
+         "pl": 4700,
+         "eind": 11903
+      },
+      {
+         "pl": 4100,
+         "eind": 11906
+      },
+      {
+         "pl": 7400,
+         "eind": 11907
+      },
+      {
+         "pl": 8100,
+         "eind": 11908
+      },
+      {
+         "pl": 7100,
+         "eind": 11913
+      },
+      {
+         "pl": 8600,
+         "eind": 11916
+      },
+      {
+         "hp": 1987309,
+         "pl": 19400,
+         "r": -2.7777777,
+         "eind": 11918
+      },
+      {
+         "hp": 1716759,
+         "pl": 26500,
+         "eind": 11919
+      },
+      {
+         "hp": 1497203,
+         "pl": 17800,
+         "eind": 11920
+      },
+      {
+         "hp": 1317932,
+         "pl": 13600,
+         "eind": 11921
+      },
+      {
+         "hp": 1194831,
+         "pl": 15800,
+         "eind": 11922
+      },
+      {
+         "hp": 1179711,
+         "pl": 15900,
+         "eind": 11923
+      },
+      {
+         "hp": 1021885,
+         "pl": 27300,
+         "eind": 11924
       }
    ],
    "75": [
@@ -313756,6 +315249,42 @@
       {
          "pl": 100,
          "eind": 11842
+      },
+      {
+         "pl": "<10",
+         "eind": 11857
+      },
+      {
+         "pl": 100,
+         "eind": 11873
+      },
+      {
+         "pl": "<10",
+         "eind": 11879
+      },
+      {
+         "pl": 100,
+         "eind": 11886
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11892
+      },
+      {
+         "pl": "<10",
+         "eind": 11903
+      },
+      {
+         "pl": 100,
+         "eind": 11916
+      },
+      {
+         "pl": "<10",
+         "eind": 11919
       }
    ],
    "112": [
@@ -371643,6 +373172,204 @@
       {
          "r": 5.5555553,
          "eind": 11806
+      },
+      {
+         "t": 23,
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 11853
+      },
+      {
+         "pl": 100,
+         "r": 0.0,
+         "eind": 11854
+      },
+      {
+         "pl": 3500,
+         "eind": 11855
+      },
+      {
+         "pl": 4600,
+         "eind": 11857
+      },
+      {
+         "pl": 4200,
+         "eind": 11859
+      },
+      {
+         "pl": 4000,
+         "eind": 11861
+      },
+      {
+         "pl": 4200,
+         "eind": 11863
+      },
+      {
+         "pl": 4700,
+         "eind": 11865
+      },
+      {
+         "pl": 4300,
+         "eind": 11867
+      },
+      {
+         "pl": 2100,
+         "eind": 11868
+      },
+      {
+         "pl": 1700,
+         "eind": 11869
+      },
+      {
+         "pl": 1800,
+         "eind": 11870
+      },
+      {
+         "pl": 2000,
+         "eind": 11871
+      },
+      {
+         "pl": 3200,
+         "eind": 11872
+      },
+      {
+         "pl": 3700,
+         "eind": 11873
+      },
+      {
+         "pl": 4100,
+         "eind": 11876
+      },
+      {
+         "pl": 3500,
+         "eind": 11878
+      },
+      {
+         "pl": 3100,
+         "eind": 11879
+      },
+      {
+         "pl": 2600,
+         "eind": 11881
+      },
+      {
+         "pl": 2700,
+         "eind": 11883
+      },
+      {
+         "pl": 2400,
+         "eind": 11885
+      },
+      {
+         "pl": 2600,
+         "eind": 11886
+      },
+      {
+         "pl": 1800,
+         "eind": 11887
+      },
+      {
+         "pl": 2000,
+         "eind": 11888
+      },
+      {
+         "pl": 2800,
+         "eind": 11889
+      },
+      {
+         "pl": 2300,
+         "eind": 11891
+      },
+      {
+         "pl": 3700,
+         "eind": 11892
+      },
+      {
+         "pl": 8700,
+         "adiv": "",
+         "desc": [],
+         "eind": 11894
+      },
+      {
+         "t": 49,
+         "eind": 11895
+      },
+      {
+         "pl": 9400,
+         "r": 5.5555553,
+         "eind": 11896
+      },
+      {
+         "pl": 5300,
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 11898
+      },
+      {
+         "pl": 2700,
+         "eind": 11899
+      },
+      {
+         "pl": 2600,
+         "eind": 11900
+      },
+      {
+         "pl": 2200,
+         "eind": 11902
+      },
+      {
+         "pl": 1000,
+         "eind": 11903
+      },
+      {
+         "pl": 700,
+         "eind": 11906
+      },
+      {
+         "pl": 800,
+         "eind": 11907
+      },
+      {
+         "pl": 1400,
+         "eind": 11908
+      },
+      {
+         "pl": 1600,
+         "eind": 11913
+      },
+      {
+         "pl": 1500,
+         "eind": 11918
+      },
+      {
+         "pl": 1200,
+         "eind": 11919
+      },
+      {
+         "pl": 500,
+         "eind": 11920
+      },
+      {
+         "pl": 300,
+         "eind": 11921
+      },
+      {
+         "pl": 500,
+         "eind": 11922
+      },
+      {
+         "pl": 700,
+         "eind": 11924
       }
    ],
    "114": [
@@ -390021,8 +391748,222 @@
          "eind": 11841
       },
       {
-         "pl": 600,
+         "pl": 500,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
          "eind": 11842
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11843
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11844
+      },
+      {
+         "pl": 1000,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            }
+         ],
+         "eind": 11845
+      },
+      {
+         "pl": 900,
+         "eind": 11847
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 11848
+      },
+      {
+         "pl": 800,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            }
+         ],
+         "eind": 11849
+      },
+      {
+         "pl": 700,
+         "eind": 11851
+      },
+      {
+         "pl": 600,
+         "eind": 11854
+      },
+      {
+         "pl": 400,
+         "eind": 11855
+      },
+      {
+         "pl": 300,
+         "eind": 11857
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11858
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "JET BRIGADE FACTORIES",
+               "desc": "Vertically enhanced Jet Brigade soldiers are produced here."
+            }
+         ],
+         "eind": 11859
+      },
+      {
+         "pl": 200,
+         "eind": 11861
+      },
+      {
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11872
+      },
+      {
+         "pl": 100,
+         "eind": 11885
+      },
+      {
+         "pl": 200,
+         "eind": 11886
+      },
+      {
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "pl": 200,
+         "eind": 11892
+      },
+      {
+         "pl": 400,
+         "eind": 11898
+      },
+      {
+         "pl": 300,
+         "eind": 11899
+      },
+      {
+         "pl": 400,
+         "eind": 11901
+      },
+      {
+         "pl": 300,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11908
+      },
+      {
+         "pl": 300,
+         "eind": 11916
+      },
+      {
+         "pl": 200,
+         "eind": 11918
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11922
+      },
+      {
+         "pl": "<10",
+         "eind": 11923
+      },
+      {
+         "pl": 100,
+         "eind": 11924
       }
    ],
    "202": [
@@ -390281,6 +392222,36 @@
       {
          "r": 19.444445,
          "eind": 11806
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11842
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11843
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11856
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11857
       }
    ],
    "204": [
@@ -395546,6 +397517,86 @@
       {
          "pl": 200,
          "eind": 11842
+      },
+      {
+         "pl": 300,
+         "eind": 11845
+      },
+      {
+         "pl": 400,
+         "eind": 11847
+      },
+      {
+         "pl": 300,
+         "eind": 11849
+      },
+      {
+         "pl": 100,
+         "eind": 11855
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11872
+      },
+      {
+         "pl": 200,
+         "eind": 11876
+      },
+      {
+         "pl": 100,
+         "eind": 11878
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11888
+      },
+      {
+         "pl": "<10",
+         "eind": 11891
+      },
+      {
+         "pl": 100,
+         "eind": 11892
+      },
+      {
+         "pl": 200,
+         "eind": 11898
+      },
+      {
+         "pl": 100,
+         "eind": 11902
+      },
+      {
+         "pl": "<10",
+         "eind": 11906
+      },
+      {
+         "pl": 100,
+         "eind": 11907
+      },
+      {
+         "pl": 200,
+         "eind": 11918
+      },
+      {
+         "pl": 100,
+         "eind": 11919
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11924
       }
    ],
    "248": [
@@ -424377,8 +426428,167 @@
          "eind": 11841
       },
       {
-         "pl": 500,
+         "pl": 400,
          "eind": 11842
+      },
+      {
+         "pl": 500,
+         "eind": 11843
+      },
+      {
+         "pl": 600,
+         "eind": 11845
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11846
+      },
+      {
+         "pl": 1000,
+         "adiv": "",
+         "desc": [],
+         "eind": 11847
+      },
+      {
+         "pl": 900,
+         "eind": 11849
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 11850
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11851
+      },
+      {
+         "pl": 400,
+         "eind": 11855
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11860
+      },
+      {
+         "pl": 300,
+         "adiv": "",
+         "desc": [],
+         "eind": 11861
+      },
+      {
+         "pl": 400,
+         "eind": 11865
+      },
+      {
+         "pl": 300,
+         "eind": 11867
+      },
+      {
+         "pl": 200,
+         "eind": 11868
+      },
+      {
+         "pl": 300,
+         "eind": 11872
+      },
+      {
+         "pl": 400,
+         "eind": 11873
+      },
+      {
+         "pl": 300,
+         "eind": 11881
+      },
+      {
+         "pl": 200,
+         "eind": 11886
+      },
+      {
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "pl": 200,
+         "eind": 11888
+      },
+      {
+         "pl": 300,
+         "eind": 11889
+      },
+      {
+         "pl": 200,
+         "eind": 11891
+      },
+      {
+         "pl": 400,
+         "eind": 11892
+      },
+      {
+         "pl": 500,
+         "eind": 11894
+      },
+      {
+         "pl": 400,
+         "eind": 11899
+      },
+      {
+         "pl": 500,
+         "eind": 11900
+      },
+      {
+         "pl": 400,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11907
+      },
+      {
+         "pl": 300,
+         "eind": 11908
+      },
+      {
+         "pl": 400,
+         "eind": 11913
+      },
+      {
+         "pl": 300,
+         "eind": 11919
+      },
+      {
+         "pl": 200,
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11921
+      },
+      {
+         "pl": 300,
+         "eind": 11924
       }
    ],
    "160": [
@@ -495210,6 +497420,128 @@
          "pl": "<10",
          "r": 2.7777777,
          "eind": 11806
+      },
+      {
+         "t": 21,
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11884
+      },
+      {
+         "pl": 4300,
+         "r": 0.0,
+         "eind": 11885
+      },
+      {
+         "pl": 7100,
+         "eind": 11886
+      },
+      {
+         "pl": 4800,
+         "eind": 11887
+      },
+      {
+         "pl": 6000,
+         "eind": 11888
+      },
+      {
+         "pl": 8300,
+         "eind": 11889
+      },
+      {
+         "pl": 7600,
+         "eind": 11891
+      },
+      {
+         "pl": 7900,
+         "eind": 11892
+      },
+      {
+         "pl": 8800,
+         "eind": 11894
+      },
+      {
+         "pl": 8700,
+         "eind": 11896
+      },
+      {
+         "pl": 8800,
+         "eind": 11898
+      },
+      {
+         "pl": 7500,
+         "t": 33,
+         "eind": 11899
+      },
+      {
+         "pl": 4500,
+         "r": 2.7777777,
+         "eind": 11900
+      },
+      {
+         "pl": 2800,
+         "eind": 11901
+      },
+      {
+         "pl": 2200,
+         "eind": 11902
+      },
+      {
+         "pl": 1300,
+         "eind": 11903
+      },
+      {
+         "pl": 1200,
+         "eind": 11906
+      },
+      {
+         "pl": 2700,
+         "eind": 11907
+      },
+      {
+         "pl": 2600,
+         "eind": 11908
+      },
+      {
+         "pl": 1800,
+         "eind": 11913
+      },
+      {
+         "pl": 1900,
+         "eind": 11916
+      },
+      {
+         "pl": 2500,
+         "eind": 11918
+      },
+      {
+         "pl": 2100,
+         "eind": 11919
+      },
+      {
+         "pl": 1400,
+         "eind": 11920
+      },
+      {
+         "pl": 1000,
+         "eind": 11921
+      },
+      {
+         "pl": 1200,
+         "eind": 11922
+      },
+      {
+         "pl": 1300,
+         "eind": 11923
+      },
+      {
+         "pl": 2800,
+         "eind": 11924
       }
    ],
    "172": [
@@ -526901,6 +529233,22 @@
       {
          "pl": "<10",
          "eind": 11816
+      },
+      {
+         "pl": 100,
+         "eind": 11865
+      },
+      {
+         "pl": "<10",
+         "eind": 11867
+      },
+      {
+         "pl": 100,
+         "eind": 11873
+      },
+      {
+         "pl": "<10",
+         "eind": 11874
       }
    ],
    "214": [
@@ -576893,6 +579241,194 @@
       {
          "pl": 1500,
          "eind": 11842
+      },
+      {
+         "pl": 2000,
+         "eind": 11845
+      },
+      {
+         "pl": 2200,
+         "eind": 11847
+      },
+      {
+         "pl": 2400,
+         "eind": 11851
+      },
+      {
+         "pl": 2300,
+         "eind": 11854
+      },
+      {
+         "pl": 2100,
+         "eind": 11855
+      },
+      {
+         "pl": 2300,
+         "eind": 11857
+      },
+      {
+         "pl": 2100,
+         "eind": 11859
+      },
+      {
+         "pl": 1900,
+         "eind": 11861
+      },
+      {
+         "pl": 2100,
+         "eind": 11863
+      },
+      {
+         "pl": 2500,
+         "eind": 11865
+      },
+      {
+         "pl": 2300,
+         "eind": 11867
+      },
+      {
+         "pl": 1800,
+         "eind": 11868
+      },
+      {
+         "pl": 1500,
+         "eind": 11869
+      },
+      {
+         "pl": 1600,
+         "eind": 11870
+      },
+      {
+         "pl": 2000,
+         "eind": 11871
+      },
+      {
+         "pl": 2900,
+         "eind": 11872
+      },
+      {
+         "pl": 3400,
+         "eind": 11873
+      },
+      {
+         "pl": 3300,
+         "eind": 11874
+      },
+      {
+         "pl": 3600,
+         "eind": 11876
+      },
+      {
+         "pl": 3100,
+         "eind": 11878
+      },
+      {
+         "pl": 2800,
+         "eind": 11879
+      },
+      {
+         "pl": 2400,
+         "eind": 11881
+      },
+      {
+         "pl": 2500,
+         "eind": 11883
+      },
+      {
+         "pl": 2200,
+         "eind": 11885
+      },
+      {
+         "pl": 2400,
+         "eind": 11886
+      },
+      {
+         "pl": 1400,
+         "eind": 11887
+      },
+      {
+         "pl": 1800,
+         "eind": 11888
+      },
+      {
+         "pl": 2300,
+         "eind": 11889
+      },
+      {
+         "pl": 2100,
+         "eind": 11891
+      },
+      {
+         "pl": 2700,
+         "eind": 11892
+      },
+      {
+         "pl": 2600,
+         "eind": 11894
+      },
+      {
+         "pl": 2500,
+         "eind": 11896
+      },
+      {
+         "pl": 2200,
+         "eind": 11898
+      },
+      {
+         "pl": 2400,
+         "eind": 11901
+      },
+      {
+         "pl": 2000,
+         "eind": 11902
+      },
+      {
+         "pl": 1100,
+         "eind": 11903
+      },
+      {
+         "pl": 800,
+         "eind": 11906
+      },
+      {
+         "pl": 1800,
+         "eind": 11907
+      },
+      {
+         "pl": 2200,
+         "eind": 11908
+      },
+      {
+         "pl": 2100,
+         "eind": 11913
+      },
+      {
+         "pl": 2500,
+         "eind": 11916
+      },
+      {
+         "pl": 2900,
+         "eind": 11918
+      },
+      {
+         "pl": 3100,
+         "eind": 11919
+      },
+      {
+         "pl": 1800,
+         "eind": 11920
+      },
+      {
+         "pl": 1200,
+         "eind": 11921
+      },
+      {
+         "pl": 1400,
+         "eind": 11922
+      },
+      {
+         "pl": 2800,
+         "eind": 11924
       }
    ],
    "152": [
@@ -603055,6 +605591,156 @@
       {
          "pl": 400,
          "eind": 11841
+      },
+      {
+         "pl": 500,
+         "eind": 11842
+      },
+      {
+         "pl": 400,
+         "eind": 11843
+      },
+      {
+         "pl": 500,
+         "eind": 11847
+      },
+      {
+         "pl": 600,
+         "eind": 11851
+      },
+      {
+         "pl": 500,
+         "eind": 11854
+      },
+      {
+         "pl": 400,
+         "eind": 11855
+      },
+      {
+         "pl": 300,
+         "eind": 11857
+      },
+      {
+         "pl": 400,
+         "eind": 11865
+      },
+      {
+         "pl": 300,
+         "eind": 11867
+      },
+      {
+         "pl": 200,
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11869
+      },
+      {
+         "pl": 200,
+         "eind": 11871
+      },
+      {
+         "pl": 300,
+         "eind": 11872
+      },
+      {
+         "pl": 400,
+         "eind": 11874
+      },
+      {
+         "pl": 300,
+         "eind": 11879
+      },
+      {
+         "pl": 200,
+         "eind": 11883
+      },
+      {
+         "pl": 400,
+         "eind": 11886
+      },
+      {
+         "pl": 200,
+         "eind": 11887
+      },
+      {
+         "pl": 300,
+         "eind": 11889
+      },
+      {
+         "pl": 500,
+         "eind": 11892
+      },
+      {
+         "pl": 700,
+         "eind": 11894
+      },
+      {
+         "pl": 800,
+         "eind": 11900
+      },
+      {
+         "pl": 900,
+         "eind": 11901
+      },
+      {
+         "pl": 700,
+         "eind": 11902
+      },
+      {
+         "pl": 300,
+         "eind": 11903
+      },
+      {
+         "pl": 700,
+         "eind": 11906
+      },
+      {
+         "pl": 1600,
+         "eind": 11907
+      },
+      {
+         "pl": 3300,
+         "eind": 11908
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11909
+      },
+      {
+         "pl": 3500,
+         "eind": 11913
+      },
+      {
+         "pl": 3900,
+         "eind": 11916
+      },
+      {
+         "pl": 2200,
+         "eind": 11919
+      },
+      {
+         "pl": 1200,
+         "eind": 11920
+      },
+      {
+         "pl": 800,
+         "eind": 11921
+      },
+      {
+         "pl": 1000,
+         "eind": 11922
+      },
+      {
+         "pl": 1800,
+         "eind": 11924
       }
    ],
    "198": [
@@ -620295,6 +622981,415 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "t": 23,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 11853
+      },
+      {
+         "pl": 200,
+         "r": 0.0,
+         "eind": 11854
+      },
+      {
+         "pl": 3400,
+         "eind": 11855
+      },
+      {
+         "pl": 4800,
+         "eind": 11857
+      },
+      {
+         "pl": 5000,
+         "eind": 11859
+      },
+      {
+         "pl": 4800,
+         "eind": 11861
+      },
+      {
+         "pl": 5500,
+         "eind": 11863
+      },
+      {
+         "pl": 6600,
+         "eind": 11865
+      },
+      {
+         "pl": 6000,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11867
+      },
+      {
+         "pl": 6900,
+         "eind": 11868
+      },
+      {
+         "pl": 6400,
+         "eind": 11869
+      },
+      {
+         "pl": 6500,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 999998
+            }
+         },
+         "eind": 11870
+      },
+      {
+         "pl": 8000,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 11871
+      },
+      {
+         "pl": 12800,
+         "eind": 11872
+      },
+      {
+         "pl": 14300,
+         "eind": 11873
+      },
+      {
+         "pl": 13300,
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 999997
+            }
+         },
+         "eind": 11874
+      },
+      {
+         "pl": 14100,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 11876
+      },
+      {
+         "pl": 13600,
+         "eind": 11878
+      },
+      {
+         "pl": 15200,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 999662
+            }
+         },
+         "eind": 11879
+      },
+      {
+         "pl": 13900,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 998230
+            }
+         },
+         "eind": 11881
+      },
+      {
+         "pl": 14000,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 997073
+            }
+         },
+         "eind": 11883
+      },
+      {
+         "pl": 13300,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 995892
+            }
+         },
+         "eind": 11885
+      },
+      {
+         "pl": 16300,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 992080
+            }
+         },
+         "eind": 11886
+      },
+      {
+         "pl": 15800,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 937606
+            }
+         },
+         "eind": 11887
+      },
+      {
+         "pl": 20100,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 905808
+            }
+         },
+         "eind": 11888
+      },
+      {
+         "pl": 25500,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 896193
+            }
+         },
+         "eind": 11889
+      },
+      {
+         "pl": 21900,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 891635
+            }
+         },
+         "eind": 11891
+      },
+      {
+         "pl": 31100,
+         "t": 16,
+         "regions": {
+            "TECHNOLOCKIA ALLATEED": {
+               "index": 198,
+               "name": "TECHNOLOCKIA ALLATEED",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 2.7777777,
+               "hp": 840643
+            }
+         },
+         "eind": 11892
+      },
+      {
+         "dss": "",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11893
+      },
+      {
+         "pl": 12000,
+         "r": 4.1666665,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11894
+      },
+      {
+         "pl": 7300,
+         "eind": 11896
+      },
+      {
+         "pl": 2000,
+         "eind": 11898
+      },
+      {
+         "pl": 1000,
+         "eind": 11899
+      },
+      {
+         "pl": 900,
+         "eind": 11900
+      },
+      {
+         "pl": 800,
+         "eind": 11901
+      },
+      {
+         "pl": 500,
+         "eind": 11902
+      },
+      {
+         "pl": 300,
+         "eind": 11903
+      },
+      {
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11904
+      },
+      {
+         "pl": 200,
+         "eind": 11906
+      },
+      {
+         "pl": 400,
+         "eind": 11907
+      },
+      {
+         "pl": 500,
+         "eind": 11908
+      },
+      {
+         "pl": 400,
+         "eind": 11916
+      },
+      {
+         "pl": 300,
+         "eind": 11918
+      },
+      {
+         "pl": 200,
+         "eind": 11919
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11922
+      },
+      {
+         "pl": 200,
+         "eind": 11924
       }
    ],
    "199": [
@@ -645325,6 +648420,166 @@
       {
          "pl": 600,
          "eind": 11842
+      },
+      {
+         "pl": 800,
+         "eind": 11845
+      },
+      {
+         "pl": 1000,
+         "eind": 11851
+      },
+      {
+         "pl": 1100,
+         "eind": 11854
+      },
+      {
+         "pl": 700,
+         "eind": 11855
+      },
+      {
+         "pl": 600,
+         "eind": 11857
+      },
+      {
+         "pl": 500,
+         "eind": 11861
+      },
+      {
+         "pl": 600,
+         "eind": 11863
+      },
+      {
+         "pl": 700,
+         "eind": 11865
+      },
+      {
+         "pl": 600,
+         "eind": 11867
+      },
+      {
+         "pl": 300,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11870
+      },
+      {
+         "pl": 300,
+         "eind": 11871
+      },
+      {
+         "pl": 500,
+         "eind": 11872
+      },
+      {
+         "pl": 600,
+         "eind": 11873
+      },
+      {
+         "pl": 500,
+         "eind": 11874
+      },
+      {
+         "pl": 700,
+         "eind": 11876
+      },
+      {
+         "pl": 500,
+         "eind": 11878
+      },
+      {
+         "pl": 400,
+         "eind": 11885
+      },
+      {
+         "pl": 600,
+         "eind": 11886
+      },
+      {
+         "pl": 300,
+         "eind": 11887
+      },
+      {
+         "pl": 400,
+         "eind": 11888
+      },
+      {
+         "pl": 500,
+         "eind": 11889
+      },
+      {
+         "pl": 400,
+         "eind": 11891
+      },
+      {
+         "pl": 800,
+         "eind": 11892
+      },
+      {
+         "pl": 1200,
+         "eind": 11894
+      },
+      {
+         "pl": 1300,
+         "eind": 11896
+      },
+      {
+         "pl": 1400,
+         "eind": 11898
+      },
+      {
+         "pl": 1500,
+         "eind": 11900
+      },
+      {
+         "pl": 1700,
+         "eind": 11901
+      },
+      {
+         "pl": 1400,
+         "eind": 11902
+      },
+      {
+         "pl": 600,
+         "eind": 11903
+      },
+      {
+         "pl": 400,
+         "eind": 11906
+      },
+      {
+         "pl": 800,
+         "eind": 11908
+      },
+      {
+         "pl": 900,
+         "eind": 11913
+      },
+      {
+         "pl": 1100,
+         "eind": 11916
+      },
+      {
+         "pl": 800,
+         "eind": 11919
+      },
+      {
+         "pl": 400,
+         "eind": 11920
+      },
+      {
+         "pl": 200,
+         "eind": 11921
+      },
+      {
+         "pl": 300,
+         "eind": 11922
+      },
+      {
+         "pl": 600,
+         "eind": 11924
       }
    ],
    "200": [
@@ -661590,6 +664845,236 @@
       {
          "pl": 2100,
          "eind": 11842
+      },
+      {
+         "pl": 2300,
+         "eind": 11845
+      },
+      {
+         "pl": 2400,
+         "eind": 11847
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11848
+      },
+      {
+         "pl": 2700,
+         "eind": 11851
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11852
+      },
+      {
+         "pl": 2500,
+         "eind": 11854
+      },
+      {
+         "pl": 1600,
+         "eind": 11855
+      },
+      {
+         "pl": 1500,
+         "eind": 11857
+      },
+      {
+         "pl": 1100,
+         "eind": 11859
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11862
+      },
+      {
+         "pl": 1000,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11863
+      },
+      {
+         "pl": 1300,
+         "eind": 11865
+      },
+      {
+         "pl": 1000,
+         "eind": 11867
+      },
+      {
+         "pl": 500,
+         "eind": 11868
+      },
+      {
+         "pl": 900,
+         "eind": 11872
+      },
+      {
+         "pl": 1100,
+         "eind": 11873
+      },
+      {
+         "pl": 1200,
+         "eind": 11874
+      },
+      {
+         "pl": 1300,
+         "eind": 11876
+      },
+      {
+         "pl": 1100,
+         "eind": 11878
+      },
+      {
+         "pl": 1000,
+         "eind": 11879
+      },
+      {
+         "pl": 800,
+         "eind": 11881
+      },
+      {
+         "pl": 900,
+         "eind": 11885
+      },
+      {
+         "pl": 500,
+         "eind": 11887
+      },
+      {
+         "pl": 600,
+         "eind": 11888
+      },
+      {
+         "pl": 700,
+         "eind": 11889
+      },
+      {
+         "pl": 1200,
+         "eind": 11892
+      },
+      {
+         "pl": 2300,
+         "eind": 11894
+      },
+      {
+         "pl": 2500,
+         "eind": 11896
+      },
+      {
+         "pl": 3300,
+         "eind": 11898
+      },
+      {
+         "pl": 3500,
+         "eind": 11899
+      },
+      {
+         "pl": 3700,
+         "eind": 11900
+      },
+      {
+         "pl": 4500,
+         "eind": 11901
+      },
+      {
+         "pl": 3800,
+         "eind": 11902
+      },
+      {
+         "pl": 2000,
+         "eind": 11903
+      },
+      {
+         "pl": 1300,
+         "eind": 11906
+      },
+      {
+         "pl": 1100,
+         "eind": 11907
+      },
+      {
+         "pl": 1300,
+         "eind": 11908
+      },
+      {
+         "pl": 1700,
+         "eind": 11913
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11917
+      },
+      {
+         "pl": 4200,
+         "dss": "",
+         "desc": [
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 11918
+      },
+      {
+         "pl": 1400,
+         "eind": 11919
+      },
+      {
+         "pl": 700,
+         "eind": 11920
+      },
+      {
+         "pl": 400,
+         "eind": 11921
+      },
+      {
+         "pl": 500,
+         "eind": 11922
+      },
+      {
+         "pl": 800,
+         "eind": 11924
       }
    ],
    "158": [
@@ -681539,6 +685024,114 @@
       {
          "pl": 400,
          "eind": 11842
+      },
+      {
+         "pl": 500,
+         "eind": 11845
+      },
+      {
+         "pl": 600,
+         "eind": 11847
+      },
+      {
+         "pl": 500,
+         "eind": 11849
+      },
+      {
+         "pl": 600,
+         "eind": 11851
+      },
+      {
+         "pl": 500,
+         "eind": 11854
+      },
+      {
+         "pl": 300,
+         "eind": 11855
+      },
+      {
+         "pl": 400,
+         "eind": 11857
+      },
+      {
+         "pl": 300,
+         "eind": 11859
+      },
+      {
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11872
+      },
+      {
+         "pl": 300,
+         "eind": 11873
+      },
+      {
+         "pl": 200,
+         "eind": 11874
+      },
+      {
+         "pl": 300,
+         "eind": 11876
+      },
+      {
+         "pl": 200,
+         "eind": 11881
+      },
+      {
+         "pl": 300,
+         "eind": 11886
+      },
+      {
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "pl": 200,
+         "eind": 11889
+      },
+      {
+         "pl": 400,
+         "eind": 11892
+      },
+      {
+         "pl": 500,
+         "eind": 11900
+      },
+      {
+         "pl": 600,
+         "eind": 11901
+      },
+      {
+         "pl": 500,
+         "eind": 11902
+      },
+      {
+         "pl": 200,
+         "eind": 11903
+      },
+      {
+         "pl": 300,
+         "eind": 11908
+      },
+      {
+         "pl": 400,
+         "eind": 11913
+      },
+      {
+         "pl": 200,
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11921
+      },
+      {
+         "pl": 300,
+         "eind": 11924
       }
    ],
    "240": [
@@ -706383,6 +709976,42 @@
       {
          "pl": 100,
          "eind": 11842
+      },
+      {
+         "pl": "<10",
+         "eind": 11855
+      },
+      {
+         "pl": 100,
+         "eind": 11865
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11892
+      },
+      {
+         "pl": "<10",
+         "eind": 11896
+      },
+      {
+         "pl": 100,
+         "eind": 11898
+      },
+      {
+         "pl": "<10",
+         "eind": 11899
+      },
+      {
+         "pl": 100,
+         "eind": 11900
+      },
+      {
+         "pl": "<10",
+         "eind": 11903
       }
    ],
    "266": [
@@ -721777,8 +725406,200 @@
          "eind": 11841
       },
       {
-         "pl": 1100,
+         "pl": 1200,
          "eind": 11842
+      },
+      {
+         "pl": 1100,
+         "eind": 11843
+      },
+      {
+         "pl": 1300,
+         "eind": 11845
+      },
+      {
+         "pl": 1400,
+         "eind": 11847
+      },
+      {
+         "pl": 1300,
+         "eind": 11849
+      },
+      {
+         "pl": 1400,
+         "eind": 11851
+      },
+      {
+         "pl": 1300,
+         "eind": 11854
+      },
+      {
+         "pl": 1200,
+         "eind": 11855
+      },
+      {
+         "pl": 1300,
+         "eind": 11857
+      },
+      {
+         "pl": 1000,
+         "eind": 11859
+      },
+      {
+         "pl": 900,
+         "eind": 11861
+      },
+      {
+         "pl": 1000,
+         "eind": 11863
+      },
+      {
+         "pl": 1300,
+         "eind": 11865
+      },
+      {
+         "pl": 900,
+         "eind": 11868
+      },
+      {
+         "pl": 800,
+         "eind": 11869
+      },
+      {
+         "pl": 900,
+         "eind": 11870
+      },
+      {
+         "pl": 1000,
+         "eind": 11871
+      },
+      {
+         "pl": 1700,
+         "eind": 11872
+      },
+      {
+         "pl": 1800,
+         "eind": 11873
+      },
+      {
+         "pl": 1700,
+         "eind": 11874
+      },
+      {
+         "pl": 1800,
+         "eind": 11876
+      },
+      {
+         "pl": 1600,
+         "eind": 11878
+      },
+      {
+         "pl": 1300,
+         "eind": 11879
+      },
+      {
+         "pl": 1200,
+         "eind": 11881
+      },
+      {
+         "pl": 1300,
+         "eind": 11883
+      },
+      {
+         "pl": 1100,
+         "eind": 11885
+      },
+      {
+         "pl": 900,
+         "eind": 11887
+      },
+      {
+         "pl": 1000,
+         "eind": 11888
+      },
+      {
+         "pl": 1300,
+         "eind": 11889
+      },
+      {
+         "pl": 1100,
+         "eind": 11891
+      },
+      {
+         "pl": 1300,
+         "eind": 11892
+      },
+      {
+         "pl": 1100,
+         "eind": 11894
+      },
+      {
+         "pl": 1200,
+         "eind": 11896
+      },
+      {
+         "pl": 1000,
+         "eind": 11898
+      },
+      {
+         "pl": 1200,
+         "eind": 11900
+      },
+      {
+         "pl": 1400,
+         "eind": 11901
+      },
+      {
+         "pl": 1100,
+         "eind": 11902
+      },
+      {
+         "pl": 600,
+         "eind": 11903
+      },
+      {
+         "pl": 500,
+         "eind": 11906
+      },
+      {
+         "pl": 900,
+         "eind": 11907
+      },
+      {
+         "pl": 1300,
+         "eind": 11908
+      },
+      {
+         "pl": 1100,
+         "eind": 11913
+      },
+      {
+         "pl": 1200,
+         "eind": 11916
+      },
+      {
+         "pl": 1400,
+         "eind": 11918
+      },
+      {
+         "pl": 1300,
+         "eind": 11919
+      },
+      {
+         "pl": 800,
+         "eind": 11920
+      },
+      {
+         "pl": 500,
+         "eind": 11921
+      },
+      {
+         "pl": 600,
+         "eind": 11922
+      },
+      {
+         "pl": 1400,
+         "eind": 11924
       }
    ],
    "201": [
@@ -725898,6 +729719,115 @@
       {
          "pl": 200,
          "eind": 11840
+      },
+      {
+         "pl": 300,
+         "eind": 11845
+      },
+      {
+         "pl": 200,
+         "eind": 11849
+      },
+      {
+         "pl": 100,
+         "eind": 11857
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            },
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11864
+      },
+      {
+         "pl": 200,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "COMMUNICATIONS ARRAY",
+               "desc": "The relay towers on this planet are important to Automaton communications."
+            }
+         ],
+         "eind": 11865
+      },
+      {
+         "pl": 100,
+         "eind": 11867
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11872
+      },
+      {
+         "pl": 200,
+         "eind": 11876
+      },
+      {
+         "pl": 100,
+         "eind": 11878
+      },
+      {
+         "pl": 200,
+         "eind": 11886
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11889
+      },
+      {
+         "pl": 200,
+         "eind": 11892
+      },
+      {
+         "pl": 300,
+         "eind": 11898
+      },
+      {
+         "pl": 200,
+         "eind": 11899
+      },
+      {
+         "pl": 300,
+         "eind": 11901
+      },
+      {
+         "pl": 200,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11908
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11922
       }
    ],
    "245": [
@@ -728788,6 +732718,22 @@
       {
          "pl": "<10",
          "eind": 11837
+      },
+      {
+         "pl": 100,
+         "eind": 11857
+      },
+      {
+         "pl": "<10",
+         "eind": 11859
+      },
+      {
+         "pl": 100,
+         "eind": 11863
+      },
+      {
+         "pl": "<10",
+         "eind": 11867
       }
    ],
    "246": [
@@ -738022,6 +741968,297 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11914
+      },
+      {
+         "t": 23,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 733
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11915
+      },
+      {
+         "pl": 3000,
+         "r": 0.0,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199993
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11916
+      },
+      {
+         "pl": 4200,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199799
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11918
+      },
+      {
+         "pl": 11000,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 95739
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11919
+      },
+      {
+         "pl": 6800,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 54313
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11920
+      },
+      {
+         "pl": 4500,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 24364
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11921
+      },
+      {
+         "pl": 5700,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 3549
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11922
+      },
+      {
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 1062
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11923
+      },
+      {
+         "pl": 10100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 188522
+            }
+         },
+         "eind": 11924
       }
    ],
    "247": [
@@ -743302,6 +747539,81 @@
          "pl": 300,
          "r": 5.5555553,
          "eind": 11841
+      },
+      {
+         "pl": 200,
+         "eind": 11855
+      },
+      {
+         "adiv": "FireBots",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11866
+      },
+      {
+         "pl": 100,
+         "eind": 11867
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11869
+      },
+      {
+         "pl": "<10",
+         "eind": 11870
+      },
+      {
+         "pl": 100,
+         "eind": 11872
+      },
+      {
+         "pl": "<10",
+         "eind": 11885
+      },
+      {
+         "pl": 100,
+         "eind": 11892
+      },
+      {
+         "pl": 200,
+         "eind": 11898
+      },
+      {
+         "pl": 100,
+         "eind": 11899
+      },
+      {
+         "pl": 200,
+         "eind": 11901
+      },
+      {
+         "pl": 100,
+         "eind": 11902
+      },
+      {
+         "pl": "<10",
+         "eind": 11903
+      },
+      {
+         "pl": 100,
+         "eind": 11907
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11913
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
       }
    ],
    "117": [
@@ -827840,6 +832152,22 @@
       {
          "pl": "<10",
          "eind": 11816
+      },
+      {
+         "pl": 100,
+         "eind": 11851
+      },
+      {
+         "pl": "<10",
+         "eind": 11854
+      },
+      {
+         "pl": 100,
+         "eind": 11876
+      },
+      {
+         "pl": "<10",
+         "eind": 11879
       }
    ],
    "91": [
@@ -834758,7 +839086,75 @@
       },
       {
          "pl": 100,
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "pl": 200,
+         "eind": 11845
+      },
+      {
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11872
+      },
+      {
+         "pl": 300,
+         "eind": 11876
+      },
+      {
+         "pl": 200,
+         "eind": 11878
+      },
+      {
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "pl": 200,
+         "eind": 11888
+      },
+      {
+         "pl": 300,
+         "eind": 11892
+      },
+      {
+         "pl": 200,
+         "eind": 11894
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": "<10",
+         "eind": 11906
+      },
+      {
+         "pl": 100,
+         "eind": 11907
+      },
+      {
+         "pl": 200,
+         "eind": 11908
+      },
+      {
+         "pl": 300,
+         "eind": 11918
+      },
+      {
+         "pl": 200,
+         "eind": 11919
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": 200,
+         "eind": 11924
       }
    ],
    "94": [
@@ -846236,8 +850632,239 @@
          "eind": 11841
       },
       {
-         "hp": 1445382,
+         "hp": 1445476,
          "eind": 11842
+      },
+      {
+         "hp": 1445382,
+         "eind": 11843
+      },
+      {
+         "hp": 1445288,
+         "pl": 200,
+         "eind": 11845
+      },
+      {
+         "hp": 1445168,
+         "eind": 11847
+      },
+      {
+         "hp": 1445116,
+         "eind": 11849
+      },
+      {
+         "hp": 1445072,
+         "eind": 11851
+      },
+      {
+         "hp": 1445053,
+         "eind": 11854
+      },
+      {
+         "hp": 1444969,
+         "pl": 100,
+         "eind": 11855
+      },
+      {
+         "hp": 1444920,
+         "eind": 11857
+      },
+      {
+         "hp": 1444830,
+         "eind": 11859
+      },
+      {
+         "hp": 1444722,
+         "eind": 11861
+      },
+      {
+         "hp": 1444617,
+         "eind": 11863
+      },
+      {
+         "hp": 1444513,
+         "pl": 200,
+         "eind": 11865
+      },
+      {
+         "hp": 1444283,
+         "eind": 11867
+      },
+      {
+         "hp": 1443804,
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "hp": 1443698,
+         "eind": 11869
+      },
+      {
+         "hp": 1443588,
+         "eind": 11870
+      },
+      {
+         "hp": 1443313,
+         "eind": 11871
+      },
+      {
+         "hp": 1443148,
+         "eind": 11872
+      },
+      {
+         "hp": 1442912,
+         "pl": 200,
+         "eind": 11873
+      },
+      {
+         "hp": 1442612,
+         "eind": 11874
+      },
+      {
+         "hp": 1442587,
+         "eind": 11876
+      },
+      {
+         "hp": 1442547,
+         "eind": 11878
+      },
+      {
+         "hp": 1442441,
+         "eind": 11879
+      },
+      {
+         "hp": 1442337,
+         "pl": 100,
+         "eind": 11881
+      },
+      {
+         "hp": 1442227,
+         "pl": 200,
+         "eind": 11883
+      },
+      {
+         "hp": 1442103,
+         "pl": 100,
+         "eind": 11885
+      },
+      {
+         "hp": 1441893,
+         "pl": 200,
+         "eind": 11886
+      },
+      {
+         "hp": 1441290,
+         "pl": 100,
+         "eind": 11887
+      },
+      {
+         "hp": 1440802,
+         "eind": 11888
+      },
+      {
+         "hp": 1440720,
+         "pl": 200,
+         "eind": 11889
+      },
+      {
+         "hp": 1440684,
+         "pl": 100,
+         "eind": 11891
+      },
+      {
+         "hp": 1440273,
+         "pl": 200,
+         "eind": 11892
+      },
+      {
+         "hp": 1440211,
+         "eind": 11894
+      },
+      {
+         "hp": 1440192,
+         "eind": 11896
+      },
+      {
+         "hp": 1440128,
+         "eind": 11898
+      },
+      {
+         "hp": 1440001,
+         "pl": 100,
+         "eind": 11899
+      },
+      {
+         "hp": 1439931,
+         "eind": 11900
+      },
+      {
+         "hp": 1439767,
+         "eind": 11901
+      },
+      {
+         "hp": 1439700,
+         "pl": 200,
+         "eind": 11902
+      },
+      {
+         "hp": 1439533,
+         "pl": "<10",
+         "eind": 11903
+      },
+      {
+         "hp": 1439415,
+         "eind": 11906
+      },
+      {
+         "hp": 1439116,
+         "eind": 11907
+      },
+      {
+         "hp": 1438999,
+         "pl": 100,
+         "eind": 11908
+      },
+      {
+         "hp": 1438872,
+         "pl": 200,
+         "eind": 11913
+      },
+      {
+         "hp": 1438797,
+         "eind": 11916
+      },
+      {
+         "hp": 1438747,
+         "pl": 300,
+         "eind": 11918
+      },
+      {
+         "hp": 1438159,
+         "pl": 200,
+         "eind": 11919
+      },
+      {
+         "hp": 1437671,
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "hp": 1437236,
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "hp": 1436939,
+         "pl": 100,
+         "eind": 11922
+      },
+      {
+         "hp": 1436926,
+         "eind": 11923
+      },
+      {
+         "hp": 1436560,
+         "eind": 11924
       }
    ],
    "59": [
@@ -882157,8 +886784,296 @@
          "eind": 11841
       },
       {
-         "hp": 1159235,
+         "hp": 1159838,
+         "pl": 1500,
          "eind": 11842
+      },
+      {
+         "hp": 1159235,
+         "pl": 1400,
+         "eind": 11843
+      },
+      {
+         "hp": 1158554,
+         "pl": 1800,
+         "eind": 11845
+      },
+      {
+         "hp": 1157897,
+         "pl": 2100,
+         "eind": 11847
+      },
+      {
+         "hp": 1157582,
+         "pl": 1900,
+         "eind": 11849
+      },
+      {
+         "hp": 1157258,
+         "pl": 2000,
+         "eind": 11851
+      },
+      {
+         "hp": 1157088,
+         "pl": 1900,
+         "eind": 11854
+      },
+      {
+         "hp": 1156596,
+         "pl": 1600,
+         "eind": 11855
+      },
+      {
+         "hp": 1156302,
+         "pl": 1700,
+         "eind": 11857
+      },
+      {
+         "hp": 1155803,
+         "pl": 1500,
+         "eind": 11859
+      },
+      {
+         "hp": 1155344,
+         "pl": 1400,
+         "eind": 11861
+      },
+      {
+         "hp": 1154878,
+         "pl": 1300,
+         "eind": 11863
+      },
+      {
+         "hp": 1154328,
+         "pl": 1700,
+         "eind": 11865
+      },
+      {
+         "hp": 1153168,
+         "pl": 1800,
+         "eind": 11867
+      },
+      {
+         "hp": 1150954,
+         "pl": 1000,
+         "eind": 11868
+      },
+      {
+         "hp": 1150454,
+         "pl": 900,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 399999
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11869
+      },
+      {
+         "hp": 1149849,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11870
+      },
+      {
+         "hp": 1148766,
+         "pl": 1000,
+         "eind": 11871
+      },
+      {
+         "hp": 1147648,
+         "pl": 1800,
+         "eind": 11872
+      },
+      {
+         "hp": 1146496,
+         "pl": 2000,
+         "eind": 11873
+      },
+      {
+         "hp": 1144504,
+         "pl": 1800,
+         "eind": 11874
+      },
+      {
+         "hp": 1144337,
+         "pl": 2000,
+         "eind": 11876
+      },
+      {
+         "hp": 1144174,
+         "pl": 1800,
+         "eind": 11878
+      },
+      {
+         "hp": 1143702,
+         "pl": 1600,
+         "eind": 11879
+      },
+      {
+         "hp": 1143214,
+         "pl": 1300,
+         "eind": 11881
+      },
+      {
+         "hp": 1142754,
+         "eind": 11883
+      },
+      {
+         "hp": 1142361,
+         "pl": 1100,
+         "eind": 11885
+      },
+      {
+         "hp": 1141586,
+         "pl": 1300,
+         "eind": 11886
+      },
+      {
+         "hp": 1138307,
+         "pl": 1000,
+         "eind": 11887
+      },
+      {
+         "hp": 1136635,
+         "eind": 11888
+      },
+      {
+         "hp": 1136241,
+         "pl": 1300,
+         "eind": 11889
+      },
+      {
+         "hp": 1136066,
+         "pl": 1000,
+         "eind": 11891
+      },
+      {
+         "hp": 1134373,
+         "eind": 11892
+      },
+      {
+         "hp": 1134183,
+         "eind": 11894
+      },
+      {
+         "hp": 1134128,
+         "pl": 900,
+         "eind": 11896
+      },
+      {
+         "hp": 1133957,
+         "eind": 11898
+      },
+      {
+         "hp": 1133515,
+         "pl": 700,
+         "eind": 11899
+      },
+      {
+         "hp": 1133246,
+         "eind": 11900
+      },
+      {
+         "hp": 1132659,
+         "pl": 900,
+         "eind": 11901
+      },
+      {
+         "hp": 1132336,
+         "pl": 700,
+         "eind": 11902
+      },
+      {
+         "hp": 1131697,
+         "pl": 400,
+         "eind": 11903
+      },
+      {
+         "hp": 1131238,
+         "pl": 300,
+         "eind": 11906
+      },
+      {
+         "hp": 1130409,
+         "pl": 400,
+         "eind": 11907
+      },
+      {
+         "hp": 1129920,
+         "pl": 1400,
+         "eind": 11908
+      },
+      {
+         "hp": 1129314,
+         "pl": 1200,
+         "eind": 11913
+      },
+      {
+         "hp": 1128991,
+         "pl": 1400,
+         "eind": 11916
+      },
+      {
+         "hp": 1128814,
+         "pl": 1500,
+         "eind": 11918
+      },
+      {
+         "hp": 1126345,
+         "pl": 1300,
+         "eind": 11919
+      },
+      {
+         "hp": 1124369,
+         "pl": 900,
+         "eind": 11920
+      },
+      {
+         "hp": 1122947,
+         "pl": 400,
+         "eind": 11921
+      },
+      {
+         "hp": 1122085,
+         "eind": 11922
+      },
+      {
+         "hp": 1121967,
+         "eind": 11923
+      },
+      {
+         "hp": 1120921,
+         "pl": 900,
+         "eind": 11924
       }
    ],
    "141": [
@@ -885630,8 +890545,223 @@
          "eind": 11841
       },
       {
-         "hp": 1709514,
+         "hp": 1709573,
          "eind": 11842
+      },
+      {
+         "hp": 1709514,
+         "eind": 11843
+      },
+      {
+         "hp": 1709437,
+         "eind": 11845
+      },
+      {
+         "hp": 1709356,
+         "eind": 11847
+      },
+      {
+         "hp": 1709322,
+         "eind": 11849
+      },
+      {
+         "hp": 1709267,
+         "eind": 11851
+      },
+      {
+         "hp": 1709254,
+         "eind": 11854
+      },
+      {
+         "hp": 1709196,
+         "eind": 11855
+      },
+      {
+         "hp": 1709165,
+         "eind": 11857
+      },
+      {
+         "hp": 1709117,
+         "eind": 11859
+      },
+      {
+         "hp": 1709055,
+         "eind": 11861
+      },
+      {
+         "hp": 1708968,
+         "eind": 11863
+      },
+      {
+         "hp": 1708891,
+         "eind": 11865
+      },
+      {
+         "hp": 1708706,
+         "eind": 11867
+      },
+      {
+         "hp": 1708308,
+         "eind": 11868
+      },
+      {
+         "hp": 1708145,
+         "pl": "<10",
+         "eind": 11869
+      },
+      {
+         "hp": 1708081,
+         "eind": 11870
+      },
+      {
+         "hp": 1707927,
+         "pl": 100,
+         "eind": 11871
+      },
+      {
+         "hp": 1707789,
+         "pl": 200,
+         "eind": 11872
+      },
+      {
+         "hp": 1707626,
+         "eind": 11873
+      },
+      {
+         "hp": 1707288,
+         "eind": 11874
+      },
+      {
+         "hp": 1707270,
+         "eind": 11876
+      },
+      {
+         "hp": 1707251,
+         "pl": 100,
+         "eind": 11878
+      },
+      {
+         "hp": 1707179,
+         "eind": 11879
+      },
+      {
+         "hp": 1707142,
+         "eind": 11881
+      },
+      {
+         "hp": 1707066,
+         "eind": 11883
+      },
+      {
+         "hp": 1706991,
+         "eind": 11885
+      },
+      {
+         "hp": 1706840,
+         "eind": 11886
+      },
+      {
+         "hp": 1706403,
+         "eind": 11887
+      },
+      {
+         "hp": 1706104,
+         "eind": 11888
+      },
+      {
+         "hp": 1706066,
+         "eind": 11889
+      },
+      {
+         "hp": 1706038,
+         "eind": 11891
+      },
+      {
+         "hp": 1705796,
+         "eind": 11892
+      },
+      {
+         "hp": 1705748,
+         "eind": 11894
+      },
+      {
+         "hp": 1705743,
+         "eind": 11896
+      },
+      {
+         "hp": 1705725,
+         "eind": 11898
+      },
+      {
+         "hp": 1705672,
+         "pl": "<10",
+         "eind": 11899
+      },
+      {
+         "hp": 1705621,
+         "eind": 11900
+      },
+      {
+         "hp": 1705508,
+         "eind": 11901
+      },
+      {
+         "hp": 1705464,
+         "eind": 11902
+      },
+      {
+         "hp": 1705370,
+         "eind": 11903
+      },
+      {
+         "hp": 1705254,
+         "eind": 11906
+      },
+      {
+         "hp": 1705142,
+         "eind": 11907
+      },
+      {
+         "hp": 1705074,
+         "pl": 100,
+         "eind": 11908
+      },
+      {
+         "hp": 1704995,
+         "eind": 11913
+      },
+      {
+         "hp": 1704938,
+         "eind": 11916
+      },
+      {
+         "hp": 1704924,
+         "eind": 11918
+      },
+      {
+         "hp": 1704591,
+         "eind": 11919
+      },
+      {
+         "hp": 1704346,
+         "pl": "<10",
+         "eind": 11920
+      },
+      {
+         "hp": 1704182,
+         "eind": 11921
+      },
+      {
+         "hp": 1704009,
+         "eind": 11922
+      },
+      {
+         "hp": 1704003,
+         "eind": 11923
+      },
+      {
+         "hp": 1703849,
+         "eind": 11924
       }
    ],
    "186": [
@@ -888102,6 +893232,74 @@
       {
          "pl": 100,
          "eind": 11841
+      },
+      {
+         "pl": "<10",
+         "eind": 11845
+      },
+      {
+         "pl": 100,
+         "eind": 11847
+      },
+      {
+         "pl": "<10",
+         "eind": 11861
+      },
+      {
+         "pl": 100,
+         "eind": 11865
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11872
+      },
+      {
+         "pl": "<10",
+         "eind": 11883
+      },
+      {
+         "pl": 100,
+         "eind": 11886
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11889
+      },
+      {
+         "pl": "<10",
+         "eind": 11891
+      },
+      {
+         "pl": 100,
+         "eind": 11894
+      },
+      {
+         "pl": "<10",
+         "eind": 11898
+      },
+      {
+         "pl": 100,
+         "eind": 11901
+      },
+      {
+         "pl": "<10",
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11918
+      },
+      {
+         "pl": "<10",
+         "eind": 11919
       }
    ],
    "184": [
@@ -893880,9 +899078,262 @@
          "eind": 11841
       },
       {
-         "hp": 1350747,
+         "hp": 1350887,
          "pl": 200,
          "eind": 11842
+      },
+      {
+         "hp": 1350747,
+         "eind": 11843
+      },
+      {
+         "hp": 1350593,
+         "pl": 300,
+         "eind": 11845
+      },
+      {
+         "hp": 1350391,
+         "eind": 11847
+      },
+      {
+         "hp": 1350312,
+         "eind": 11849
+      },
+      {
+         "hp": 1350245,
+         "eind": 11851
+      },
+      {
+         "hp": 1350198,
+         "eind": 11854
+      },
+      {
+         "hp": 1350065,
+         "pl": 200,
+         "eind": 11855
+      },
+      {
+         "hp": 1350003,
+         "eind": 11857
+      },
+      {
+         "hp": 1349857,
+         "eind": 11859
+      },
+      {
+         "hp": 1349732,
+         "eind": 11861
+      },
+      {
+         "hp": 1349557,
+         "eind": 11863
+      },
+      {
+         "hp": 1349418,
+         "eind": 11865
+      },
+      {
+         "hp": 1349137,
+         "eind": 11867
+      },
+      {
+         "hp": 1348716,
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "hp": 1348630,
+         "eind": 11869
+      },
+      {
+         "hp": 1348567,
+         "eind": 11870
+      },
+      {
+         "hp": 1348291,
+         "eind": 11871
+      },
+      {
+         "hp": 1348077,
+         "eind": 11872
+      },
+      {
+         "hp": 1347897,
+         "pl": 200,
+         "eind": 11873
+      },
+      {
+         "hp": 1347581,
+         "eind": 11874
+      },
+      {
+         "hp": 1347556,
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11876
+      },
+      {
+         "hp": 1347539,
+         "pl": 300,
+         "eind": 11878
+      },
+      {
+         "hp": 1347306,
+         "pl": 700,
+         "eind": 11879
+      },
+      {
+         "hp": 1346946,
+         "eind": 11881
+      },
+      {
+         "hp": 1346505,
+         "eind": 11883
+      },
+      {
+         "hp": 1346113,
+         "pl": 600,
+         "eind": 11885
+      },
+      {
+         "hp": 1345363,
+         "pl": 800,
+         "eind": 11886
+      },
+      {
+         "hp": 1341874,
+         "pl": 500,
+         "eind": 11887
+      },
+      {
+         "hp": 1340344,
+         "pl": 600,
+         "eind": 11888
+      },
+      {
+         "hp": 1339917,
+         "pl": 800,
+         "adiv": "",
+         "desc": [],
+         "eind": 11889
+      },
+      {
+         "hp": 1339715,
+         "pl": 400,
+         "eind": 11891
+      },
+      {
+         "hp": 1338939,
+         "pl": 200,
+         "eind": 11892
+      },
+      {
+         "hp": 1338824,
+         "eind": 11894
+      },
+      {
+         "hp": 1338799,
+         "pl": 100,
+         "eind": 11896
+      },
+      {
+         "hp": 1338699,
+         "eind": 11898
+      },
+      {
+         "hp": 1338554,
+         "eind": 11899
+      },
+      {
+         "hp": 1338429,
+         "pl": 200,
+         "eind": 11900
+      },
+      {
+         "hp": 1338139,
+         "pl": 100,
+         "eind": 11901
+      },
+      {
+         "hp": 1338031,
+         "eind": 11902
+      },
+      {
+         "hp": 1337813,
+         "pl": "<10",
+         "eind": 11903
+      },
+      {
+         "hp": 1337683,
+         "eind": 11906
+      },
+      {
+         "hp": 1337338,
+         "eind": 11907
+      },
+      {
+         "hp": 1337089,
+         "pl": 400,
+         "eind": 11908
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11912
+      },
+      {
+         "hp": 1336392,
+         "pl": 1500,
+         "eind": 11913
+      },
+      {
+         "hp": 1335556,
+         "pl": 1800,
+         "eind": 11916
+      },
+      {
+         "hp": 1334994,
+         "pl": 2100,
+         "eind": 11918
+      },
+      {
+         "hp": 1329060,
+         "pl": 2000,
+         "eind": 11919
+      },
+      {
+         "hp": 1324186,
+         "pl": 1000,
+         "eind": 11920
+      },
+      {
+         "hp": 1321605,
+         "pl": 500,
+         "eind": 11921
+      },
+      {
+         "hp": 1319758,
+         "pl": 600,
+         "eind": 11922
+      },
+      {
+         "hp": 1319497,
+         "eind": 11923
+      },
+      {
+         "hp": 1317568,
+         "pl": 900,
+         "eind": 11924
       }
    ],
    "185": [
@@ -902922,7 +908373,401 @@
       },
       {
          "pl": 400,
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "pl": 300,
+         "eind": 11855
+      },
+      {
+         "pl": 400,
+         "eind": 11857
+      },
+      {
+         "pl": 500,
+         "eind": 11865
+      },
+      {
+         "pl": 300,
+         "eind": 11867
+      },
+      {
+         "pl": 100,
+         "eind": 11868
+      },
+      {
+         "pl": 200,
+         "eind": 11872
+      },
+      {
+         "pl": 300,
+         "eind": 11876
+      },
+      {
+         "pl": 200,
+         "eind": 11878
+      },
+      {
+         "pl": 100,
+         "eind": 11881
+      },
+      {
+         "pl": 200,
+         "eind": 11883
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11888
+      },
+      {
+         "t": 25,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11889
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11890
+      },
+      {
+         "pl": 3600,
+         "r": 0.0,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199992
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11891
+      },
+      {
+         "pl": 10900,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 175278
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11892
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11893
+      },
+      {
+         "pl": 15900,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 170110
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11894
+      },
+      {
+         "pl": 16600,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 167586
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11896
+      },
+      {
+         "pl": 19500,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 156978
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11898
+      },
+      {
+         "pl": 19900,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 128510
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11899
+      },
+      {
+         "pl": 21500,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 107805
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11900
+      },
+      {
+         "pl": 25500,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 61951
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11901
+      },
+      {
+         "pl": 21700,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 1236
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11902
+      },
+      {
+         "pl": 10500,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11903
+      },
+      {
+         "pl": 8200,
+         "eind": 11906
+      },
+      {
+         "pl": 10000,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11907
+      },
+      {
+         "pl": 700,
+         "r": 8.333333,
+         "eind": 11908
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            }
+         ],
+         "eind": 11911
+      },
+      {
+         "pl": 600,
+         "eind": 11913
+      },
+      {
+         "pl": 700,
+         "eind": 11918
+      },
+      {
+         "pl": 500,
+         "eind": 11919
+      },
+      {
+         "pl": 200,
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11921
       }
    ],
    "229": [
@@ -903483,6 +909328,46 @@
       {
          "pl": 100,
          "eind": 11841
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11873
+      },
+      {
+         "pl": "<10",
+         "eind": 11885
+      },
+      {
+         "pl": 100,
+         "eind": 11886
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11894
+      },
+      {
+         "pl": "<10",
+         "eind": 11898
+      },
+      {
+         "pl": 200,
+         "eind": 11908
+      },
+      {
+         "pl": 100,
+         "eind": 11913
+      },
+      {
+         "pl": "<10",
+         "eind": 11920
       }
    ],
    "273": [
@@ -913345,6 +919230,62 @@
       {
          "pl": 100,
          "eind": 11840
+      },
+      {
+         "pl": 200,
+         "eind": 11851
+      },
+      {
+         "pl": 100,
+         "eind": 11855
+      },
+      {
+         "pl": "<10",
+         "eind": 11868
+      },
+      {
+         "pl": 100,
+         "eind": 11871
+      },
+      {
+         "pl": 200,
+         "eind": 11879
+      },
+      {
+         "pl": 100,
+         "eind": 11881
+      },
+      {
+         "pl": "<10",
+         "eind": 11887
+      },
+      {
+         "pl": 100,
+         "eind": 11888
+      },
+      {
+         "pl": "<10",
+         "eind": 11903
+      },
+      {
+         "pl": 300,
+         "eind": 11908
+      },
+      {
+         "pl": 200,
+         "eind": 11913
+      },
+      {
+         "pl": 100,
+         "eind": 11920
+      },
+      {
+         "pl": "<10",
+         "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11924
       }
    ],
    "144": [
@@ -961279,6 +967220,22 @@
       {
          "r": 6.9444447,
          "eind": 11806
+      },
+      {
+         "pl": 100,
+         "eind": 11842
+      },
+      {
+         "pl": "<10",
+         "eind": 11843
+      },
+      {
+         "pl": 100,
+         "eind": 11851
+      },
+      {
+         "pl": "<10",
+         "eind": 11854
       }
    ],
    "206": [
@@ -986146,6 +992103,19 @@
          "eind": 11841
       },
       {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 861296
+            }
+         },
+         "eind": 11842
+      },
+      {
          "pl": 400,
          "regions": {
             "GEMSTELLE GENERATOR": {
@@ -986157,7 +992127,695 @@
                "hp": 860983
             }
          },
-         "eind": 11842
+         "eind": 11843
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860768
+            }
+         },
+         "eind": 11845
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860526
+            }
+         },
+         "eind": 11847
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860422
+            }
+         },
+         "eind": 11849
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860311
+            }
+         },
+         "eind": 11851
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860256
+            }
+         },
+         "eind": 11854
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860125
+            }
+         },
+         "eind": 11855
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 860065
+            }
+         },
+         "eind": 11857
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 859960
+            }
+         },
+         "eind": 11859
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 859898
+            }
+         },
+         "eind": 11861
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 859817
+            }
+         },
+         "eind": 11863
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 859709
+            }
+         },
+         "eind": 11865
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 859496
+            }
+         },
+         "eind": 11867
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858952
+            }
+         },
+         "eind": 11868
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858863
+            }
+         },
+         "eind": 11869
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858758
+            }
+         },
+         "eind": 11870
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858581
+            }
+         },
+         "eind": 11871
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858306
+            }
+         },
+         "eind": 11872
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 858094
+            }
+         },
+         "eind": 11873
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857833
+            }
+         },
+         "eind": 11874
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857820
+            }
+         },
+         "eind": 11876
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857797
+            }
+         },
+         "eind": 11878
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857710
+            }
+         },
+         "eind": 11879
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857646
+            }
+         },
+         "eind": 11881
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857560
+            }
+         },
+         "eind": 11883
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857460
+            }
+         },
+         "eind": 11885
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 857311
+            }
+         },
+         "eind": 11886
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 856799
+            }
+         },
+         "eind": 11887
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 856471
+            }
+         },
+         "eind": 11888
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 856344
+            }
+         },
+         "eind": 11889
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 856300
+            }
+         },
+         "eind": 11891
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855881
+            }
+         },
+         "eind": 11892
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855797
+            }
+         },
+         "eind": 11894
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855771
+            }
+         },
+         "eind": 11896
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855671
+            }
+         },
+         "eind": 11898
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855465
+            }
+         },
+         "eind": 11899
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 855294
+            }
+         },
+         "eind": 11900
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 854991
+            }
+         },
+         "eind": 11901
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 854777
+            }
+         },
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 854396
+            }
+         },
+         "eind": 11903
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 854095
+            }
+         },
+         "eind": 11906
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 853580
+            }
+         },
+         "eind": 11907
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 853333
+            }
+         },
+         "eind": 11908
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 853082
+            }
+         },
+         "eind": 11913
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 852997
+            }
+         },
+         "eind": 11916
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 852951
+            }
+         },
+         "eind": 11918
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 852344
+            }
+         },
+         "eind": 11919
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 851779
+            }
+         },
+         "eind": 11920
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 851274
+            }
+         },
+         "eind": 11921
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 851035
+            }
+         },
+         "eind": 11922
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 851020
+            }
+         },
+         "eind": 11923
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 850597
+            }
+         },
+         "eind": 11924
       }
    ],
    "72": [
@@ -998039,6 +1004697,15 @@
       {
          "r": 1.3888888,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "eind": 11905
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11908
       }
    ],
    "111": [
@@ -1070968,8 +1077635,228 @@
          "eind": 11841
       },
       {
-         "hp": 815420,
+         "hp": 815589,
          "eind": 11842
+      },
+      {
+         "hp": 815420,
+         "eind": 11843
+      },
+      {
+         "hp": 815260,
+         "pl": 100,
+         "eind": 11845
+      },
+      {
+         "hp": 815062,
+         "eind": 11847
+      },
+      {
+         "hp": 814985,
+         "pl": "<10",
+         "eind": 11849
+      },
+      {
+         "hp": 814877,
+         "pl": 100,
+         "eind": 11851
+      },
+      {
+         "hp": 814824,
+         "eind": 11854
+      },
+      {
+         "hp": 814704,
+         "pl": "<10",
+         "eind": 11855
+      },
+      {
+         "hp": 814655,
+         "pl": 100,
+         "eind": 11857
+      },
+      {
+         "hp": 814466,
+         "eind": 11859
+      },
+      {
+         "hp": 814270,
+         "pl": "<10",
+         "eind": 11861
+      },
+      {
+         "hp": 814115,
+         "eind": 11863
+      },
+      {
+         "hp": 814025,
+         "eind": 11865
+      },
+      {
+         "hp": 813778,
+         "eind": 11867
+      },
+      {
+         "hp": 813413,
+         "eind": 11868
+      },
+      {
+         "hp": 813355,
+         "eind": 11869
+      },
+      {
+         "hp": 813210,
+         "eind": 11870
+      },
+      {
+         "hp": 812921,
+         "eind": 11871
+      },
+      {
+         "hp": 812725,
+         "eind": 11872
+      },
+      {
+         "hp": 812566,
+         "pl": 100,
+         "eind": 11873
+      },
+      {
+         "hp": 812272,
+         "eind": 11874
+      },
+      {
+         "hp": 812247,
+         "eind": 11876
+      },
+      {
+         "hp": 812226,
+         "eind": 11878
+      },
+      {
+         "hp": 812143,
+         "pl": "<10",
+         "eind": 11879
+      },
+      {
+         "hp": 812070,
+         "eind": 11881
+      },
+      {
+         "hp": 812011,
+         "eind": 11883
+      },
+      {
+         "hp": 811917,
+         "eind": 11885
+      },
+      {
+         "hp": 811744,
+         "eind": 11886
+      },
+      {
+         "hp": 811120,
+         "eind": 11887
+      },
+      {
+         "hp": 810889,
+         "eind": 11888
+      },
+      {
+         "hp": 810783,
+         "eind": 11889
+      },
+      {
+         "hp": 810753,
+         "eind": 11891
+      },
+      {
+         "hp": 810419,
+         "pl": 100,
+         "eind": 11892
+      },
+      {
+         "hp": 810355,
+         "eind": 11894
+      },
+      {
+         "hp": 810322,
+         "pl": "<10",
+         "eind": 11896
+      },
+      {
+         "hp": 810271,
+         "eind": 11898
+      },
+      {
+         "hp": 810144,
+         "eind": 11899
+      },
+      {
+         "hp": 810049,
+         "eind": 11900
+      },
+      {
+         "hp": 809915,
+         "eind": 11901
+      },
+      {
+         "hp": 809842,
+         "eind": 11902
+      },
+      {
+         "hp": 809668,
+         "eind": 11903
+      },
+      {
+         "hp": 809567,
+         "eind": 11906
+      },
+      {
+         "hp": 809377,
+         "eind": 11907
+      },
+      {
+         "hp": 809267,
+         "pl": 100,
+         "eind": 11908
+      },
+      {
+         "hp": 809116,
+         "eind": 11913
+      },
+      {
+         "hp": 809034,
+         "eind": 11916
+      },
+      {
+         "hp": 808982,
+         "eind": 11918
+      },
+      {
+         "hp": 808367,
+         "eind": 11919
+      },
+      {
+         "hp": 807867,
+         "pl": "<10",
+         "eind": 11920
+      },
+      {
+         "hp": 807467,
+         "eind": 11921
+      },
+      {
+         "hp": 807128,
+         "eind": 11922
+      },
+      {
+         "hp": 807108,
+         "eind": 11923
+      },
+      {
+         "hp": 806843,
+         "eind": 11924
       }
    ],
    "137": [
@@ -1093713,8 +1100600,216 @@
          "eind": 11841
       },
       {
-         "hp": 1744202,
+         "hp": 1744226,
          "eind": 11842
+      },
+      {
+         "hp": 1744202,
+         "eind": 11843
+      },
+      {
+         "hp": 1744161,
+         "eind": 11845
+      },
+      {
+         "hp": 1744135,
+         "eind": 11847
+      },
+      {
+         "hp": 1744125,
+         "eind": 11849
+      },
+      {
+         "hp": 1744117,
+         "eind": 11851
+      },
+      {
+         "hp": 1744108,
+         "eind": 11854
+      },
+      {
+         "hp": 1744073,
+         "eind": 11855
+      },
+      {
+         "hp": 1744061,
+         "eind": 11857
+      },
+      {
+         "hp": 1744033,
+         "eind": 11859
+      },
+      {
+         "hp": 1744014,
+         "eind": 11861
+      },
+      {
+         "hp": 1743990,
+         "eind": 11863
+      },
+      {
+         "hp": 1743971,
+         "eind": 11865
+      },
+      {
+         "hp": 1743914,
+         "eind": 11867
+      },
+      {
+         "hp": 1743785,
+         "eind": 11868
+      },
+      {
+         "hp": 1743759,
+         "eind": 11869
+      },
+      {
+         "hp": 1743726,
+         "eind": 11870
+      },
+      {
+         "hp": 1743687,
+         "eind": 11871
+      },
+      {
+         "hp": 1743638,
+         "eind": 11872
+      },
+      {
+         "hp": 1743589,
+         "eind": 11873
+      },
+      {
+         "hp": 1743484,
+         "eind": 11874
+      },
+      {
+         "hp": 1743474,
+         "eind": 11876
+      },
+      {
+         "hp": 1743465,
+         "eind": 11878
+      },
+      {
+         "hp": 1743424,
+         "eind": 11879
+      },
+      {
+         "hp": 1743397,
+         "eind": 11881
+      },
+      {
+         "hp": 1743377,
+         "eind": 11883
+      },
+      {
+         "hp": 1743347,
+         "eind": 11885
+      },
+      {
+         "hp": 1743268,
+         "eind": 11886
+      },
+      {
+         "hp": 1743022,
+         "eind": 11887
+      },
+      {
+         "hp": 1742903,
+         "eind": 11888
+      },
+      {
+         "hp": 1742875,
+         "eind": 11889
+      },
+      {
+         "hp": 1742858,
+         "eind": 11891
+      },
+      {
+         "hp": 1742687,
+         "eind": 11892
+      },
+      {
+         "hp": 1742674,
+         "eind": 11894
+      },
+      {
+         "hp": 1742670,
+         "eind": 11896
+      },
+      {
+         "hp": 1742653,
+         "eind": 11898
+      },
+      {
+         "hp": 1742601,
+         "eind": 11899
+      },
+      {
+         "hp": 1742558,
+         "eind": 11900
+      },
+      {
+         "hp": 1742509,
+         "eind": 11901
+      },
+      {
+         "hp": 1742488,
+         "eind": 11902
+      },
+      {
+         "hp": 1742451,
+         "eind": 11903
+      },
+      {
+         "hp": 1742427,
+         "eind": 11906
+      },
+      {
+         "hp": 1742371,
+         "eind": 11907
+      },
+      {
+         "hp": 1742343,
+         "eind": 11908
+      },
+      {
+         "hp": 1742303,
+         "eind": 11913
+      },
+      {
+         "hp": 1742288,
+         "eind": 11916
+      },
+      {
+         "hp": 1742281,
+         "eind": 11918
+      },
+      {
+         "hp": 1742177,
+         "eind": 11919
+      },
+      {
+         "hp": 1742018,
+         "eind": 11920
+      },
+      {
+         "hp": 1741903,
+         "eind": 11921
+      },
+      {
+         "hp": 1741847,
+         "eind": 11922
+      },
+      {
+         "hp": 1741842,
+         "eind": 11923
+      },
+      {
+         "hp": 1741794,
+         "eind": 11924
       }
    ],
    "177": [
@@ -1105114,6 +1112209,30 @@
       {
          "pl": "<10",
          "eind": 11835
+      },
+      {
+         "pl": 100,
+         "eind": 11851
+      },
+      {
+         "pl": "<10",
+         "eind": 11854
+      },
+      {
+         "pl": 100,
+         "eind": 11874
+      },
+      {
+         "pl": "<10",
+         "eind": 11881
+      },
+      {
+         "pl": 100,
+         "eind": 11916
+      },
+      {
+         "pl": "<10",
+         "eind": 11918
       }
    ],
    "225": [
@@ -1114483,6 +1121602,122 @@
       {
          "pl": 300,
          "eind": 11842
+      },
+      {
+         "pl": 400,
+         "eind": 11845
+      },
+      {
+         "pl": 500,
+         "eind": 11851
+      },
+      {
+         "pl": 400,
+         "eind": 11854
+      },
+      {
+         "pl": 300,
+         "eind": 11859
+      },
+      {
+         "pl": 400,
+         "eind": 11865
+      },
+      {
+         "pl": 200,
+         "eind": 11868
+      },
+      {
+         "pl": 400,
+         "eind": 11872
+      },
+      {
+         "pl": 500,
+         "eind": 11873
+      },
+      {
+         "pl": 400,
+         "eind": 11878
+      },
+      {
+         "pl": 300,
+         "eind": 11881
+      },
+      {
+         "pl": 400,
+         "eind": 11886
+      },
+      {
+         "pl": 200,
+         "eind": 11887
+      },
+      {
+         "pl": 400,
+         "eind": 11889
+      },
+      {
+         "pl": 200,
+         "eind": 11891
+      },
+      {
+         "pl": 400,
+         "eind": 11892
+      },
+      {
+         "pl": 300,
+         "eind": 11896
+      },
+      {
+         "pl": 200,
+         "eind": 11899
+      },
+      {
+         "pl": 300,
+         "eind": 11900
+      },
+      {
+         "pl": 400,
+         "eind": 11901
+      },
+      {
+         "pl": 300,
+         "eind": 11902
+      },
+      {
+         "pl": 100,
+         "eind": 11903
+      },
+      {
+         "pl": 200,
+         "eind": 11907
+      },
+      {
+         "pl": 500,
+         "eind": 11908
+      },
+      {
+         "pl": 400,
+         "eind": 11913
+      },
+      {
+         "pl": 500,
+         "eind": 11916
+      },
+      {
+         "pl": 600,
+         "eind": 11918
+      },
+      {
+         "pl": 300,
+         "eind": 11920
+      },
+      {
+         "pl": 100,
+         "eind": 11921
+      },
+      {
+         "pl": 300,
+         "eind": 11924
       }
    ],
    "232": [
