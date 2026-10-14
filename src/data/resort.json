@@ -18569,6 +18569,22 @@
       {
          "pl": 200,
          "eind": 11923
+      },
+      {
+         "pl": 100,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11931
+      },
+      {
+         "pl": 100,
+         "eind": 11932
+      },
+      {
+         "pl": 200,
+         "eind": 11933
       }
    ],
    "1": [
@@ -31421,6 +31437,54 @@
       {
          "hp": 1774515,
          "eind": 11924
+      },
+      {
+         "hp": 1774475,
+         "eind": 11926
+      },
+      {
+         "hp": 1774431,
+         "eind": 11927
+      },
+      {
+         "hp": 1774378,
+         "eind": 11928
+      },
+      {
+         "hp": 1774335,
+         "eind": 11929
+      },
+      {
+         "hp": 1774314,
+         "eind": 11930
+      },
+      {
+         "hp": 1774310,
+         "eind": 11931
+      },
+      {
+         "hp": 1774305,
+         "eind": 11933
+      },
+      {
+         "hp": 1774302,
+         "eind": 11935
+      },
+      {
+         "hp": 1774283,
+         "eind": 11937
+      },
+      {
+         "hp": 1774249,
+         "eind": 11938
+      },
+      {
+         "hp": 1774243,
+         "eind": 11939
+      },
+      {
+         "hp": 1774232,
+         "eind": 11941
       }
    ],
    "46": [
@@ -54342,6 +54406,18 @@
       {
          "pl": 100,
          "eind": 11924
+      },
+      {
+         "pl": "<10",
+         "eind": 11926
+      },
+      {
+         "pl": 100,
+         "eind": 11927
+      },
+      {
+         "pl": "<10",
+         "eind": 11929
       }
    ],
    "77": [
@@ -62836,6 +62912,26 @@
       {
          "pl": 900,
          "eind": 11924
+      },
+      {
+         "pl": 500,
+         "eind": 11927
+      },
+      {
+         "pl": 200,
+         "eind": 11929
+      },
+      {
+         "pl": 100,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11937
+      },
+      {
+         "pl": 300,
+         "eind": 11938
       }
    ],
    "80": [
@@ -76775,6 +76871,18 @@
       {
          "pl": 200,
          "eind": 11924
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11932
       }
    ],
    "271": [
@@ -160140,6 +160248,42 @@
       {
          "pl": 700,
          "eind": 11924
+      },
+      {
+         "pl": 800,
+         "eind": 11926
+      },
+      {
+         "pl": 600,
+         "eind": 11929
+      },
+      {
+         "pl": 300,
+         "eind": 11930
+      },
+      {
+         "pl": 500,
+         "eind": 11932
+      },
+      {
+         "pl": 600,
+         "eind": 11933
+      },
+      {
+         "pl": 700,
+         "eind": 11937
+      },
+      {
+         "pl": 1200,
+         "eind": 11938
+      },
+      {
+         "pl": 900,
+         "eind": 11939
+      },
+      {
+         "pl": 1000,
+         "eind": 11941
       }
    ],
    "213": [
@@ -168246,6 +168390,46 @@
       {
          "pl": 2300,
          "eind": 11924
+      },
+      {
+         "pl": 2700,
+         "eind": 11926
+      },
+      {
+         "pl": 2600,
+         "eind": 11927
+      },
+      {
+         "pl": 2500,
+         "eind": 11928
+      },
+      {
+         "pl": 1700,
+         "eind": 11929
+      },
+      {
+         "pl": 1300,
+         "eind": 11930
+      },
+      {
+         "pl": 1600,
+         "eind": 11932
+      },
+      {
+         "pl": 1800,
+         "eind": 11933
+      },
+      {
+         "pl": 1900,
+         "eind": 11937
+      },
+      {
+         "pl": 2900,
+         "eind": 11938
+      },
+      {
+         "pl": 2800,
+         "eind": 11939
       }
    ],
    "216": [
@@ -223174,6 +223358,67 @@
          "hp": 1021885,
          "pl": 27300,
          "eind": 11924
+      },
+      {
+         "hp": 889913,
+         "pl": 26600,
+         "eind": 11926
+      },
+      {
+         "hp": 673954,
+         "pl": 26300,
+         "eind": 11927
+      },
+      {
+         "hp": 467212,
+         "pl": 25900,
+         "eind": 11928
+      },
+      {
+         "hp": 208413,
+         "pl": 20600,
+         "eind": 11929
+      },
+      {
+         "hp": 16750,
+         "pl": 14600,
+         "eind": 11930
+      },
+      {
+         "hp": 1685,
+         "pl": 14100,
+         "t": 16,
+         "eind": 11931
+      },
+      {
+         "hp": 2000000,
+         "pl": 10400,
+         "r": 6.9444447,
+         "eind": 11932
+      },
+      {
+         "pl": 4400,
+         "eind": 11933
+      },
+      {
+         "pl": 2900,
+         "eind": 11935
+      },
+      {
+         "pl": 1200,
+         "eind": 11937
+      },
+      {
+         "pl": 1300,
+         "eind": 11938
+      },
+      {
+         "pl": 1200,
+         "eind": 11939
+      },
+      {
+         "pl": 1300,
+         "eind": 11941
       }
    ],
    "75": [
@@ -307527,6 +307772,81 @@
       {
          "r": 5.5555553,
          "eind": 11806
+      },
+      {
+         "adiv": "PredatorStrain",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            }
+         ],
+         "eind": 11934
+      },
+      {
+         "r": 0.0,
+         "t": 21,
+         "eind": 11935
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11936
+      },
+      {
+         "pl": 10400,
+         "eind": 11937
+      },
+      {
+         "pl": 18600,
+         "eind": 11938
+      },
+      {
+         "pl": 17400,
+         "eind": 11939
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11940
+      },
+      {
+         "pl": 21000,
+         "eind": 11941
       }
    ],
    "104": [
@@ -315285,6 +315605,18 @@
       {
          "pl": "<10",
          "eind": 11919
+      },
+      {
+         "pl": 100,
+         "eind": 11927
+      },
+      {
+         "pl": "<10",
+         "eind": 11929
+      },
+      {
+         "pl": 100,
+         "eind": 11938
       }
    ],
    "112": [
@@ -373370,6 +373702,50 @@
       {
          "pl": 700,
          "eind": 11924
+      },
+      {
+         "pl": 900,
+         "eind": 11926
+      },
+      {
+         "pl": 1300,
+         "eind": 11927
+      },
+      {
+         "pl": 1200,
+         "eind": 11928
+      },
+      {
+         "pl": 800,
+         "eind": 11929
+      },
+      {
+         "pl": 400,
+         "eind": 11930
+      },
+      {
+         "pl": 500,
+         "eind": 11933
+      },
+      {
+         "pl": 600,
+         "eind": 11935
+      },
+      {
+         "pl": 1100,
+         "eind": 11937
+      },
+      {
+         "pl": 1900,
+         "eind": 11938
+      },
+      {
+         "pl": 1700,
+         "eind": 11939
+      },
+      {
+         "pl": 2500,
+         "eind": 11941
       }
    ],
    "114": [
@@ -391964,6 +392340,30 @@
       {
          "pl": 100,
          "eind": 11924
+      },
+      {
+         "pl": 200,
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11932
+      },
+      {
+         "pl": 200,
+         "eind": 11938
+      },
+      {
+         "pl": 300,
+         "eind": 11941
       }
    ],
    "202": [
@@ -397597,6 +397997,26 @@
       {
          "pl": 100,
          "eind": 11924
+      },
+      {
+         "pl": 200,
+         "eind": 11928
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11937
+      },
+      {
+         "pl": 200,
+         "eind": 11941
       }
    ],
    "248": [
@@ -426589,6 +427009,42 @@
       {
          "pl": 300,
          "eind": 11924
+      },
+      {
+         "pl": 700,
+         "eind": 11926
+      },
+      {
+         "pl": 400,
+         "eind": 11929
+      },
+      {
+         "pl": 300,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11931
+      },
+      {
+         "pl": 300,
+         "eind": 11932
+      },
+      {
+         "pl": 500,
+         "eind": 11937
+      },
+      {
+         "pl": 700,
+         "eind": 11938
+      },
+      {
+         "pl": 800,
+         "eind": 11939
+      },
+      {
+         "pl": 900,
+         "eind": 11941
       }
    ],
    "160": [
@@ -497542,6 +497998,55 @@
       {
          "pl": 2800,
          "eind": 11924
+      },
+      {
+         "pl": 2100,
+         "eind": 11926
+      },
+      {
+         "pl": 1600,
+         "eind": 11927
+      },
+      {
+         "pl": 1400,
+         "eind": 11929
+      },
+      {
+         "pl": 1000,
+         "eind": 11930
+      },
+      {
+         "pl": 1800,
+         "eind": 11932
+      },
+      {
+         "hp": 999976,
+         "pl": 3100,
+         "adiv": "",
+         "desc": [],
+         "eind": 11933
+      },
+      {
+         "hp": 999908,
+         "pl": 3400,
+         "eind": 11935
+      },
+      {
+         "hp": 1000000,
+         "pl": 1500,
+         "eind": 11937
+      },
+      {
+         "pl": 2000,
+         "eind": 11938
+      },
+      {
+         "pl": 1800,
+         "eind": 11939
+      },
+      {
+         "pl": 1700,
+         "eind": 11941
       }
    ],
    "172": [
@@ -579429,6 +579934,58 @@
       {
          "pl": 2800,
          "eind": 11924
+      },
+      {
+         "pl": 2700,
+         "eind": 11926
+      },
+      {
+         "pl": 2900,
+         "eind": 11927
+      },
+      {
+         "pl": 3000,
+         "eind": 11928
+      },
+      {
+         "pl": 2300,
+         "eind": 11929
+      },
+      {
+         "pl": 1400,
+         "eind": 11930
+      },
+      {
+         "pl": 1500,
+         "eind": 11931
+      },
+      {
+         "pl": 2300,
+         "eind": 11932
+      },
+      {
+         "pl": 3600,
+         "eind": 11933
+      },
+      {
+         "pl": 3900,
+         "eind": 11935
+      },
+      {
+         "pl": 3000,
+         "eind": 11937
+      },
+      {
+         "pl": 4100,
+         "eind": 11938
+      },
+      {
+         "pl": 3900,
+         "eind": 11939
+      },
+      {
+         "pl": 3700,
+         "eind": 11941
       }
    ],
    "152": [
@@ -605741,6 +606298,44 @@
       {
          "pl": 1800,
          "eind": 11924
+      },
+      {
+         "pl": 2600,
+         "eind": 11926
+      },
+      {
+         "pl": 3000,
+         "eind": 11927
+      },
+      {
+         "pl": 3500,
+         "eind": 11928
+      },
+      {
+         "pl": 2300,
+         "eind": 11929
+      },
+      {
+         "pl": 1200,
+         "eind": 11930
+      },
+      {
+         "pl": 1600,
+         "eind": 11933
+      },
+      {
+         "pl": 1900,
+         "adiv": "",
+         "desc": [],
+         "eind": 11935
+      },
+      {
+         "pl": 1200,
+         "eind": 11937
+      },
+      {
+         "pl": 1400,
+         "eind": 11941
       }
    ],
    "198": [
@@ -623390,6 +623985,18 @@
       {
          "pl": 200,
          "eind": 11924
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11938
       }
    ],
    "199": [
@@ -648580,6 +649187,42 @@
       {
          "pl": 600,
          "eind": 11924
+      },
+      {
+         "pl": 800,
+         "eind": 11926
+      },
+      {
+         "pl": 1100,
+         "eind": 11927
+      },
+      {
+         "pl": 700,
+         "eind": 11929
+      },
+      {
+         "pl": 300,
+         "eind": 11930
+      },
+      {
+         "pl": 400,
+         "eind": 11932
+      },
+      {
+         "pl": 500,
+         "eind": 11935
+      },
+      {
+         "pl": 600,
+         "eind": 11937
+      },
+      {
+         "pl": 1000,
+         "eind": 11938
+      },
+      {
+         "pl": 1300,
+         "eind": 11941
       }
    ],
    "200": [
@@ -665075,6 +665718,46 @@
       {
          "pl": 800,
          "eind": 11924
+      },
+      {
+         "pl": 1100,
+         "eind": 11926
+      },
+      {
+         "pl": 1400,
+         "eind": 11927
+      },
+      {
+         "pl": 1600,
+         "eind": 11928
+      },
+      {
+         "pl": 1000,
+         "eind": 11929
+      },
+      {
+         "pl": 400,
+         "eind": 11930
+      },
+      {
+         "pl": 500,
+         "eind": 11933
+      },
+      {
+         "pl": 600,
+         "eind": 11935
+      },
+      {
+         "pl": 900,
+         "eind": 11937
+      },
+      {
+         "pl": 1700,
+         "eind": 11938
+      },
+      {
+         "pl": 2600,
+         "eind": 11941
       }
    ],
    "158": [
@@ -685132,6 +685815,42 @@
       {
          "pl": 300,
          "eind": 11924
+      },
+      {
+         "pl": 400,
+         "eind": 11927
+      },
+      {
+         "pl": 500,
+         "eind": 11928
+      },
+      {
+         "pl": 400,
+         "eind": 11929
+      },
+      {
+         "pl": 200,
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11932
+      },
+      {
+         "pl": 200,
+         "eind": 11933
+      },
+      {
+         "pl": 300,
+         "eind": 11937
+      },
+      {
+         "pl": 600,
+         "eind": 11938
+      },
+      {
+         "pl": 900,
+         "eind": 11941
       }
    ],
    "240": [
@@ -710012,6 +710731,18 @@
       {
          "pl": "<10",
          "eind": 11903
+      },
+      {
+         "pl": 100,
+         "eind": 11927
+      },
+      {
+         "pl": "<10",
+         "eind": 11928
+      },
+      {
+         "pl": 100,
+         "eind": 11939
       }
    ],
    "266": [
@@ -725600,6 +726331,38 @@
       {
          "pl": 1400,
          "eind": 11924
+      },
+      {
+         "pl": 1500,
+         "eind": 11927
+      },
+      {
+         "pl": 1400,
+         "eind": 11928
+      },
+      {
+         "pl": 1100,
+         "eind": 11929
+      },
+      {
+         "pl": 700,
+         "eind": 11930
+      },
+      {
+         "pl": 800,
+         "eind": 11932
+      },
+      {
+         "pl": 700,
+         "eind": 11935
+      },
+      {
+         "pl": 900,
+         "eind": 11937
+      },
+      {
+         "pl": 1400,
+         "eind": 11938
       }
    ],
    "201": [
@@ -729828,6 +730591,38 @@
       {
          "pl": 100,
          "eind": 11922
+      },
+      {
+         "pl": 200,
+         "eind": 11926
+      },
+      {
+         "pl": 300,
+         "eind": 11927
+      },
+      {
+         "pl": 200,
+         "eind": 11929
+      },
+      {
+         "pl": 100,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11937
+      },
+      {
+         "pl": 500,
+         "eind": 11938
+      },
+      {
+         "pl": 400,
+         "eind": 11939
+      },
+      {
+         "pl": 1100,
+         "eind": 11941
       }
    ],
    "245": [
@@ -742259,6 +743054,356 @@
             }
          },
          "eind": 11924
+      },
+      {
+         "pl": 13100,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 168661
+            }
+         },
+         "eind": 11926
+      },
+      {
+         "pl": 15500,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 124007
+            }
+         },
+         "eind": 11927
+      },
+      {
+         "pl": 16500,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 71979
+            }
+         },
+         "eind": 11928
+      },
+      {
+         "pl": 12400,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 2199
+            }
+         },
+         "eind": 11929
+      },
+      {
+         "pl": 7000,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11930
+      },
+      {
+         "pl": 6900,
+         "eind": 11931
+      },
+      {
+         "pl": 7800,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99989
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11932
+      },
+      {
+         "pl": 9700,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 98438
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11933
+      },
+      {
+         "pl": 10900,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 96373
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11935
+      },
+      {
+         "pl": 15200,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 53037
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11937
+      },
+      {
+         "pl": 21700,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 4437
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11938
+      },
+      {
+         "pl": 19600,
+         "t": 16,
+         "regions": {
+            "ONSEN": {
+               "index": 0,
+               "name": "ONSEN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GIRI": {
+               "index": 1,
+               "name": "GIRI",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "SAPPORO": {
+               "index": 2,
+               "name": "SAPPORO",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11939
+      },
+      {
+         "dss": "",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 11940
+      },
+      {
+         "pl": 10400,
+         "r": 4.1666665,
+         "eind": 11941
       }
    ],
    "247": [
@@ -747614,6 +748759,38 @@
       {
          "pl": "<10",
          "eind": 11921
+      },
+      {
+         "pl": 100,
+         "eind": 11926
+      },
+      {
+         "pl": 200,
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11931
+      },
+      {
+         "pl": 100,
+         "eind": 11935
+      },
+      {
+         "pl": 200,
+         "eind": 11938
+      },
+      {
+         "pl": 300,
+         "eind": 11939
+      },
+      {
+         "pl": 500,
+         "eind": 11941
       }
    ],
    "117": [
@@ -832168,6 +833345,22 @@
       {
          "pl": "<10",
          "eind": 11879
+      },
+      {
+         "pl": 100,
+         "eind": 11926
+      },
+      {
+         "pl": "<10",
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11928
+      },
+      {
+         "pl": "<10",
+         "eind": 11929
       }
    ],
    "91": [
@@ -839155,6 +840348,26 @@
       {
          "pl": 200,
          "eind": 11924
+      },
+      {
+         "pl": 300,
+         "eind": 11927
+      },
+      {
+         "pl": 200,
+         "eind": 11928
+      },
+      {
+         "pl": 100,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11938
+      },
+      {
+         "pl": 100,
+         "eind": 11941
       }
    ],
    "94": [
@@ -850865,6 +852078,99 @@
       {
          "hp": 1436560,
          "eind": 11924
+      },
+      {
+         "hp": 1436297,
+         "eind": 11926
+      },
+      {
+         "hp": 1435867,
+         "pl": 200,
+         "eind": 11927
+      },
+      {
+         "hp": 1435421,
+         "eind": 11928
+      },
+      {
+         "hp": 1434857,
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "hp": 1434494,
+         "eind": 11930
+      },
+      {
+         "hp": 1434443,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199997
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11931
+      },
+      {
+         "hp": 1434379,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11932
+      },
+      {
+         "hp": 1434144,
+         "eind": 11933
+      },
+      {
+         "hp": 1434047,
+         "eind": 11935
+      },
+      {
+         "hp": 1433551,
+         "eind": 11937
+      },
+      {
+         "hp": 1433197,
+         "pl": 200,
+         "eind": 11938
+      },
+      {
+         "hp": 1433062,
+         "pl": 100,
+         "eind": 11939
+      },
+      {
+         "hp": 1433005,
+         "pl": 200,
+         "eind": 11941
       }
    ],
    "59": [
@@ -887074,6 +888380,67 @@
          "hp": 1120921,
          "pl": 900,
          "eind": 11924
+      },
+      {
+         "hp": 1119875,
+         "pl": 1200,
+         "eind": 11926
+      },
+      {
+         "hp": 1117952,
+         "pl": 1300,
+         "eind": 11927
+      },
+      {
+         "hp": 1116323,
+         "eind": 11928
+      },
+      {
+         "hp": 1114045,
+         "pl": 1100,
+         "eind": 11929
+      },
+      {
+         "hp": 1112453,
+         "pl": 600,
+         "eind": 11930
+      },
+      {
+         "hp": 1112325,
+         "pl": 500,
+         "eind": 11931
+      },
+      {
+         "hp": 1112217,
+         "eind": 11932
+      },
+      {
+         "hp": 1112013,
+         "pl": 600,
+         "eind": 11933
+      },
+      {
+         "hp": 1111828,
+         "eind": 11935
+      },
+      {
+         "hp": 1110692,
+         "pl": 500,
+         "eind": 11937
+      },
+      {
+         "hp": 1109916,
+         "pl": 1000,
+         "eind": 11938
+      },
+      {
+         "hp": 1109499,
+         "pl": 1100,
+         "eind": 11939
+      },
+      {
+         "hp": 1109236,
+         "eind": 11941
       }
    ],
    "141": [
@@ -890762,6 +892129,60 @@
       {
          "hp": 1703849,
          "eind": 11924
+      },
+      {
+         "hp": 1703770,
+         "eind": 11926
+      },
+      {
+         "hp": 1703334,
+         "pl": 100,
+         "eind": 11927
+      },
+      {
+         "hp": 1703129,
+         "eind": 11928
+      },
+      {
+         "hp": 1702883,
+         "eind": 11929
+      },
+      {
+         "hp": 1702674,
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "hp": 1702662,
+         "eind": 11931
+      },
+      {
+         "hp": 1702659,
+         "eind": 11932
+      },
+      {
+         "hp": 1702634,
+         "eind": 11933
+      },
+      {
+         "hp": 1702629,
+         "eind": 11935
+      },
+      {
+         "hp": 1702528,
+         "eind": 11937
+      },
+      {
+         "hp": 1702447,
+         "eind": 11938
+      },
+      {
+         "hp": 1702407,
+         "eind": 11939
+      },
+      {
+         "hp": 1702384,
+         "eind": 11941
       }
    ],
    "186": [
@@ -893300,6 +894721,30 @@
       {
          "pl": "<10",
          "eind": 11919
+      },
+      {
+         "pl": 100,
+         "eind": 11926
+      },
+      {
+         "pl": "<10",
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11928
+      },
+      {
+         "pl": "<10",
+         "eind": 11929
+      },
+      {
+         "pl": 100,
+         "eind": 11938
+      },
+      {
+         "pl": "<10",
+         "eind": 11939
       }
    ],
    "184": [
@@ -899334,6 +900779,65 @@
          "hp": 1317568,
          "pl": 900,
          "eind": 11924
+      },
+      {
+         "hp": 1316156,
+         "eind": 11926
+      },
+      {
+         "hp": 1312905,
+         "pl": 1300,
+         "eind": 11927
+      },
+      {
+         "hp": 1309283,
+         "pl": 1500,
+         "eind": 11928
+      },
+      {
+         "hp": 1304440,
+         "pl": 1000,
+         "eind": 11929
+      },
+      {
+         "hp": 1301458,
+         "pl": 400,
+         "eind": 11930
+      },
+      {
+         "hp": 1301268,
+         "eind": 11931
+      },
+      {
+         "hp": 1301128,
+         "eind": 11932
+      },
+      {
+         "hp": 1300767,
+         "eind": 11933
+      },
+      {
+         "hp": 1300610,
+         "eind": 11935
+      },
+      {
+         "hp": 1298958,
+         "pl": 300,
+         "eind": 11937
+      },
+      {
+         "hp": 1297900,
+         "pl": 500,
+         "eind": 11938
+      },
+      {
+         "hp": 1297457,
+         "eind": 11939
+      },
+      {
+         "hp": 1297235,
+         "pl": 600,
+         "eind": 11941
       }
    ],
    "185": [
@@ -908768,6 +910272,34 @@
       {
          "pl": 100,
          "eind": 11921
+      },
+      {
+         "pl": 200,
+         "eind": 11926
+      },
+      {
+         "pl": 300,
+         "eind": 11928
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11938
+      },
+      {
+         "pl": "<10",
+         "eind": 11939
+      },
+      {
+         "pl": 100,
+         "eind": 11941
       }
    ],
    "229": [
@@ -919286,6 +920818,22 @@
       {
          "pl": 100,
          "eind": 11924
+      },
+      {
+         "pl": 200,
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11929
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
+      },
+      {
+         "pl": 100,
+         "eind": 11938
       }
    ],
    "144": [
@@ -967236,6 +968784,18 @@
       {
          "pl": "<10",
          "eind": 11854
+      },
+      {
+         "pl": 100,
+         "eind": 11926
+      },
+      {
+         "pl": "<10",
+         "eind": 11928
+      },
+      {
+         "pl": 100,
+         "eind": 11938
       }
    ],
    "206": [
@@ -992816,6 +994376,181 @@
             }
          },
          "eind": 11924
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 850199
+            }
+         },
+         "eind": 11926
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 849681
+            }
+         },
+         "eind": 11927
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 849157
+            }
+         },
+         "eind": 11928
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 848492
+            }
+         },
+         "eind": 11929
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847944
+            }
+         },
+         "eind": 11930
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847908
+            }
+         },
+         "eind": 11931
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847873
+            }
+         },
+         "eind": 11932
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847760
+            }
+         },
+         "eind": 11933
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847679
+            }
+         },
+         "eind": 11935
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 847180
+            }
+         },
+         "eind": 11937
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 846672
+            }
+         },
+         "eind": 11938
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 846502
+            }
+         },
+         "eind": 11939
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 846396
+            }
+         },
+         "eind": 11941
       }
    ],
    "72": [
@@ -1077857,6 +1079592,60 @@
       {
          "hp": 806843,
          "eind": 11924
+      },
+      {
+         "hp": 806629,
+         "eind": 11926
+      },
+      {
+         "hp": 806211,
+         "pl": 100,
+         "eind": 11927
+      },
+      {
+         "hp": 805765,
+         "eind": 11928
+      },
+      {
+         "hp": 805312,
+         "pl": "<10",
+         "eind": 11929
+      },
+      {
+         "hp": 804773,
+         "eind": 11930
+      },
+      {
+         "hp": 804744,
+         "eind": 11931
+      },
+      {
+         "hp": 804729,
+         "eind": 11932
+      },
+      {
+         "hp": 804668,
+         "eind": 11933
+      },
+      {
+         "hp": 804623,
+         "eind": 11935
+      },
+      {
+         "hp": 804297,
+         "eind": 11937
+      },
+      {
+         "hp": 804096,
+         "eind": 11938
+      },
+      {
+         "hp": 803995,
+         "eind": 11939
+      },
+      {
+         "hp": 803923,
+         "eind": 11941
       }
    ],
    "137": [
@@ -1100810,6 +1102599,58 @@
       {
          "hp": 1741794,
          "eind": 11924
+      },
+      {
+         "hp": 1741714,
+         "eind": 11926
+      },
+      {
+         "hp": 1741527,
+         "eind": 11927
+      },
+      {
+         "hp": 1741371,
+         "eind": 11928
+      },
+      {
+         "hp": 1741164,
+         "eind": 11929
+      },
+      {
+         "hp": 1741057,
+         "eind": 11930
+      },
+      {
+         "hp": 1741050,
+         "eind": 11931
+      },
+      {
+         "hp": 1741048,
+         "eind": 11932
+      },
+      {
+         "hp": 1741044,
+         "eind": 11933
+      },
+      {
+         "hp": 1741035,
+         "eind": 11935
+      },
+      {
+         "hp": 1740961,
+         "eind": 11937
+      },
+      {
+         "hp": 1740871,
+         "eind": 11938
+      },
+      {
+         "hp": 1740829,
+         "eind": 11939
+      },
+      {
+         "hp": 1740820,
+         "eind": 11941
       }
    ],
    "177": [
@@ -1112233,6 +1114074,14 @@
       {
          "pl": "<10",
          "eind": 11918
+      },
+      {
+         "pl": 100,
+         "eind": 11926
+      },
+      {
+         "pl": "<10",
+         "eind": 11930
       }
    ],
    "225": [
@@ -1121718,6 +1123567,18 @@
       {
          "pl": 300,
          "eind": 11924
+      },
+      {
+         "pl": 400,
+         "eind": 11927
+      },
+      {
+         "pl": 100,
+         "eind": 11930
+      },
+      {
+         "pl": 200,
+         "eind": 11938
       }
    ],
    "232": [

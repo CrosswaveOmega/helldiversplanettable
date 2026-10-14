@@ -19022,3 +19022,25 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-10-13 02:07  UTC)<br/>
 *Vega Bay* Region 1 GIRI Town has fallen to Human (2026-10-13 11:23  UTC)<br/>
 Major Order | [A3-10-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-3) EPIC PURGE-BIO-SAMPLE CULLING is won | Objective: Hold/Eliminate (2026-10-13 13:45  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' steadfast obedience, the chemical safety demonstration on SENGE 23 has concluded with the successful defense of the planet from further Illuminate interference. Additionally, a complete recalibration of SEAF aerosol payloads has resulted in Class A retirees happily reporting an immediate improvement to their well-deserved scenic views, and an abundance of pristine, pine-scented air. (2026-10-13 13:47  UTC)<br/>
+*Vega Bay* Region 2 SAPPORO Town has fallen to Human (2026-10-14 05:12  UTC)<br/>
+*Vega Bay* Region 0 ONSEN Settlement is besieged by Human (2026-10-14 08:43  UTC)<br/>
+*Fronteria* is liberated (2026-10-14 08:48  UTC)<br/>
+Umlaut sector is fully under Human control (2026-10-14 08:48  UTC)<br/>
+
+# Day: #980
+ Decay: 2.5 on Fronteria
+ (2026-10-14 09:00  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1B leaves *Gacrux* (2026-10-14 09:43  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1A deploys to *Fori Prime* (2026-10-14 09:44  UTC)<br/>
+*Fori Prime* of the Draco sector is attacked by Terminids (2026-10-14 09:45  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Charon Prime* (2026-10-14 09:45  UTC)<br/>
+ Decay: 0.0 on Fori Prime
+ (2026-10-14 09:45  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Fori Prime* (2026-10-14 09:47  UTC)<br/>
+*Vega Bay* Region 0 ONSEN Settlement has fallen to Human (2026-10-14 14:29  UTC)<br/>
+*Vega Bay* defense is won (2026-10-14 15:22  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco sector (2026-10-14 15:23  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Following Illuminate interference against Class A elder statespersons, High Command has authorized the AIR (Anti-Illuminate Restitution) initiative. For every Illuminate terminated during this order, this vital charitable fund will receive 0.004 Super Credits. Helldivers: hold SENGE 23, complete 1,250,000 operations and kill 1,000,000,000 Illuminate forces to restore peace of mind and full respiratory capacity to our most honored retirees. (2026-10-14 15:47  UTC)<br/>
+Major Order | [A3-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-5) EPIC PURGE-RESTITUTION HARVEST is issued | Objective: Hold/Eliminate (2026-10-14 15:47  UTC)<br/>
+ Decay: 1.5 on Vega Bay
+ (2026-10-14 15:47  UTC)<br/>
