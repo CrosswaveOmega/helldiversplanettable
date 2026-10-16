@@ -19040,7 +19040,11 @@ Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Fori Prime* (202
 *Vega Bay* Region 0 ONSEN Settlement has fallen to Human (2026-10-14 14:29  UTC)<br/>
 *Vega Bay* defense is won (2026-10-14 15:22  UTC)<br/>
 DSS deploys to *Fori Prime* of the Draco sector (2026-10-14 15:23  UTC)<br/>
-Dispatch: NEW MAJOR ORDER Following Illuminate interference against Class A elder statespersons, High Command has authorized the AIR (Anti-Illuminate Restitution) initiative. For every Illuminate terminated during this order, this vital charitable fund will receive 0.004 Super Credits. Helldivers: hold SENGE 23, complete 1,250,000 operations and kill 1,000,000,000 Illuminate forces to restore peace of mind and full respiratory capacity to our most honored retirees. (2026-10-14 15:47  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Following Illuminate interference against Class A elder statespersons, High Command has authorized the AIR (Anti-Illuminate Restitution) initiative. For every Illuminate terminated during this order, this vital charitable fund will receive 0.004 Super Credits. Helldivers: hold SENGE 23, complete 1,250,000 operations and kill 1,000,000,000 Illuminate forces to restore peace of mind and full respiratory capacity to our most honored retirees. (2026-10-14 15:47  UTC)<br/>
 Major Order | [A3-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-5) EPIC PURGE-RESTITUTION HARVEST is issued | Objective: Hold/Eliminate (2026-10-14 15:47  UTC)<br/>
  Decay: 1.5 on Vega Bay
  (2026-10-14 15:47  UTC)<br/>
+DSS deploys to *Hydrobius* of the Omega sector (2026-10-14 20:27  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-10-14 22:10  UTC)<br/>
+
+### Day: #981
