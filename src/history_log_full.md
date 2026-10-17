@@ -17235,6 +17235,7 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-07-12 23:11  UTC)<br/>
  (2026-07-13 09:00  UTC)<br/>
 *Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement is now present (2026-07-13 10:49  UTC)<br/>
 *Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement has fallen to Automaton (2026-07-13 10:49  UTC)<br/>
+*Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement is besieged by Human (2026-07-13 10:49  UTC)<br/>
  Region Decay: 1.0 on Marfark's TECHNOLOCKIA ALLATEED region
  (2026-07-13 10:49  UTC)<br/>
 Major Order | [A3-7-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-7-2) Celestial Fence-Containment is won | Objective: Hold (2026-07-13 14:04  UTC)<br/>
@@ -17303,7 +17304,6 @@ Dispatch: VOTING HAS BEGUN. Vote now to navigate the DSS to the next expected lo
  Decay: 1.5 on Marfark
  (2026-07-18 09:00  UTC)<br/>
 *Marfark* is liberated (2026-07-18 16:01  UTC)<br/>
-*Marfark* Region 0 TECHNOLOCKIA ALLATEED Settlement has fallen to Human (2026-07-18 16:01  UTC)<br/>
 *Martale* liberation campaign starts (2026-07-18 16:01  UTC)<br/>
 *Matar Bay* liberation campaign starts (2026-07-18 16:01  UTC)<br/>
 *Matar Bay* Region 0 PARRHESIA City is besieged by Humans (2026-07-18 16:01  UTC)<br/>
