@@ -19048,3 +19048,33 @@ DSS deploys to *Hydrobius* of the Omega sector (2026-10-14 20:27  UTC)<br/>
 DSS effect ORBITAL BLOCKADE starts (2026-10-14 22:10  UTC)<br/>
 
 ### Day: #981
+*Fori Prime* defense is failed (2026-10-15 09:46  UTC)<br/>
+*Fori Prime* liberation campaign starts (2026-10-15 09:46  UTC)<br/>
+ Decay: 2.0 on Fori Prime
+ (2026-10-15 09:46  UTC)<br/>
+*Hydrobius* Region 0 GENERATORSVILLE City has fallen to Human (2026-10-15 10:21  UTC)<br/>
+*Senge 23* of the Omega sector is attacked by Illuminates (2026-10-15 14:08  UTC)<br/>
+*Senge 23* Region 0 EXALT Town is besieged by Human (2026-10-15 14:08  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Hydrobius* (2026-10-15 14:28  UTC)<br/>
+ Decay: 0.0 on Senge 23
+ (2026-10-15 14:28  UTC)<br/>
+ Region Decay: 0.2 on Senge 23's EXALT region<br/> Region Decay: 0.1 on Senge 23's EAGLESTAR ETERNAL region
+ (2026-10-15 14:28  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Senge 23* (2026-10-15 14:29  UTC)<br/>
+Dispatch:MAJOR ORDER ADJUSTMENT. Ongoing analysis of current major order has identified a reprioritization of objectives. Helldivers are called to immediately assist SEAF in the defense of Senge-23 by culling huge swaths of illuminates. The target for mission operations is deprioritized. (2026-10-15 15:10  UTC)<br/>
+DSS deploys to *Senge 23* of the Omega sector (2026-10-15 20:27  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-10-15 22:10  UTC)<br/>
+*Senge 23* Region 0 EXALT Town has fallen to Human (2026-10-16 00:59  UTC)<br/>
+*Hydrobius* is liberated (2026-10-16 03:02  UTC)<br/>
+*Senge 23* Region 1 EAGLESTAR ETERNAL Settlement is besieged by Human (2026-10-16 05:54  UTC)<br/>
+
+### Day: #982
+*Senge 23* Region 1 EAGLESTAR ETERNAL Settlement has fallen to Human (2026-10-16 10:48  UTC)<br/>
+Dispatch: CONTROL CENTER ADVISORY. Upon completion of this Campaign, Helldivers will receive permanent access to the DSS Eagle Gas Storm Tactical Action. The technician responsible for mislabeling this performance incentive as a Stratagem in the Control Center has committed to thoroughly understanding the distinction between a Tactical Action and a Stratagem during an intensive re-education seminar, alongside their immediate family. (2026-10-16 12:04  UTC)<br/>
+*Senge 23* defense is won (2026-10-17 00:32  UTC)<br/>
+DSS deploys to *Siemnot* of the Xi Tauri sector (2026-10-17 00:32  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-10-17 01:48  UTC)<br/>
+ Decay: 3.0 on Senge 23
+ (2026-10-17 01:48  UTC)<br/>
+
+### Day: #983

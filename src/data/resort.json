@@ -18597,6 +18597,18 @@
       {
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "pl": 200,
+         "eind": 11948
+      },
+      {
+         "pl": 100,
+         "eind": 11953
+      },
+      {
+         "pl": 200,
+         "eind": 11962
       }
    ],
    "1": [
@@ -24328,6 +24340,14 @@
       {
          "r": 13.888889,
          "eind": 11806
+      },
+      {
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "176": [
@@ -31513,6 +31533,82 @@
       {
          "hp": 1773847,
          "eind": 11945
+      },
+      {
+         "hp": 1773837,
+         "eind": 11946
+      },
+      {
+         "hp": 1773820,
+         "eind": 11947
+      },
+      {
+         "hp": 1773796,
+         "eind": 11948
+      },
+      {
+         "hp": 1773754,
+         "eind": 11949
+      },
+      {
+         "hp": 1773748,
+         "eind": 11950
+      },
+      {
+         "hp": 1773740,
+         "eind": 11952
+      },
+      {
+         "hp": 1773670,
+         "eind": 11953
+      },
+      {
+         "hp": 1773641,
+         "eind": 11954
+      },
+      {
+         "hp": 1773585,
+         "eind": 11955
+      },
+      {
+         "hp": 1773563,
+         "eind": 11956
+      },
+      {
+         "hp": 1773529,
+         "eind": 11957
+      },
+      {
+         "hp": 1773528,
+         "eind": 11958
+      },
+      {
+         "hp": 1773463,
+         "eind": 11959
+      },
+      {
+         "hp": 1773444,
+         "eind": 11960
+      },
+      {
+         "hp": 1773413,
+         "eind": 11961
+      },
+      {
+         "hp": 1773404,
+         "eind": 11962
+      },
+      {
+         "hp": 1773226,
+         "eind": 11963
+      },
+      {
+         "hp": 1773199,
+         "eind": 11964
+      },
+      {
+         "hp": 1773058,
+         "eind": 11965
       }
    ],
    "46": [
@@ -62968,6 +63064,34 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11948
+      },
+      {
+         "pl": 200,
+         "eind": 11955
+      },
+      {
+         "pl": 100,
+         "eind": 11956
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11962
+      },
+      {
+         "pl": 200,
+         "eind": 11963
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "80": [
@@ -76923,6 +77047,30 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11949
+      },
+      {
+         "pl": "<10",
+         "eind": 11953
+      },
+      {
+         "pl": 100,
+         "eind": 11954
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11962
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "271": [
@@ -160340,6 +160488,58 @@
       {
          "pl": 400,
          "eind": 11945
+      },
+      {
+         "pl": 600,
+         "eind": 11948
+      },
+      {
+         "pl": 1100,
+         "eind": 11949
+      },
+      {
+         "pl": 1000,
+         "eind": 11952
+      },
+      {
+         "pl": 700,
+         "eind": 11953
+      },
+      {
+         "pl": 900,
+         "eind": 11955
+      },
+      {
+         "pl": 600,
+         "eind": 11957
+      },
+      {
+         "pl": 400,
+         "eind": 11959
+      },
+      {
+         "pl": 500,
+         "eind": 11960
+      },
+      {
+         "pl": 700,
+         "eind": 11961
+      },
+      {
+         "pl": 1100,
+         "eind": 11962
+      },
+      {
+         "pl": 1400,
+         "eind": 11963
+      },
+      {
+         "pl": 1500,
+         "eind": 11964
+      },
+      {
+         "pl": 800,
+         "eind": 11965
       }
    ],
    "213": [
@@ -168502,6 +168702,58 @@
       {
          "pl": 1000,
          "eind": 11945
+      },
+      {
+         "pl": 1200,
+         "eind": 11946
+      },
+      {
+         "pl": 1300,
+         "eind": 11947
+      },
+      {
+         "pl": 1600,
+         "eind": 11948
+      },
+      {
+         "pl": 2300,
+         "eind": 11949
+      },
+      {
+         "pl": 2200,
+         "eind": 11950
+      },
+      {
+         "pl": 1500,
+         "eind": 11957
+      },
+      {
+         "pl": 1400,
+         "eind": 11958
+      },
+      {
+         "pl": 1100,
+         "eind": 11959
+      },
+      {
+         "pl": 1600,
+         "eind": 11961
+      },
+      {
+         "pl": 2100,
+         "eind": 11962
+      },
+      {
+         "pl": 3100,
+         "eind": 11963
+      },
+      {
+         "pl": 3200,
+         "eind": 11964
+      },
+      {
+         "pl": 1800,
+         "eind": 11965
       }
    ],
    "216": [
@@ -223507,6 +223759,38 @@
       {
          "pl": 200,
          "eind": 11945
+      },
+      {
+         "pl": 300,
+         "eind": 11949
+      },
+      {
+         "pl": 200,
+         "eind": 11952
+      },
+      {
+         "pl": 300,
+         "eind": 11953
+      },
+      {
+         "pl": 400,
+         "eind": 11955
+      },
+      {
+         "pl": 300,
+         "eind": 11956
+      },
+      {
+         "pl": 100,
+         "eind": 11957
+      },
+      {
+         "pl": 200,
+         "eind": 11963
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "75": [
@@ -307966,6 +308250,95 @@
       {
          "pl": 4200,
          "eind": 11945
+      },
+      {
+         "pl": 4500,
+         "r": 5.5555553,
+         "t": 33,
+         "eind": 11946
+      },
+      {
+         "pl": 4900,
+         "eind": 11947
+      },
+      {
+         "pl": 6800,
+         "eind": 11948
+      },
+      {
+         "hp": 999936,
+         "pl": 9800,
+         "eind": 11949
+      },
+      {
+         "hp": 1000000,
+         "pl": 9400,
+         "eind": 11950
+      },
+      {
+         "pl": 9000,
+         "eind": 11952
+      },
+      {
+         "pl": 6700,
+         "eind": 11953
+      },
+      {
+         "pl": 6500,
+         "eind": 11954
+      },
+      {
+         "pl": 6600,
+         "eind": 11955
+      },
+      {
+         "pl": 7400,
+         "eind": 11956
+      },
+      {
+         "hp": 999997,
+         "pl": 5300,
+         "eind": 11957
+      },
+      {
+         "hp": 1000000,
+         "pl": 5100,
+         "eind": 11958
+      },
+      {
+         "hp": 999996,
+         "pl": 4500,
+         "eind": 11959
+      },
+      {
+         "hp": 1000000,
+         "pl": 4700,
+         "eind": 11960
+      },
+      {
+         "hp": 996926,
+         "pl": 8600,
+         "eind": 11961
+      },
+      {
+         "hp": 986418,
+         "pl": 12300,
+         "eind": 11962
+      },
+      {
+         "hp": 905283,
+         "pl": 14900,
+         "eind": 11963
+      },
+      {
+         "hp": 897261,
+         "pl": 19000,
+         "eind": 11964
+      },
+      {
+         "hp": 829169,
+         "pl": 11600,
+         "eind": 11965
       }
    ],
    "104": [
@@ -315744,6 +316117,22 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11954
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "112": [
@@ -373889,6 +374278,66 @@
       {
          "pl": 900,
          "eind": 11945
+      },
+      {
+         "pl": 600,
+         "eind": 11946
+      },
+      {
+         "pl": 700,
+         "eind": 11948
+      },
+      {
+         "pl": 1000,
+         "eind": 11949
+      },
+      {
+         "pl": 1100,
+         "eind": 11952
+      },
+      {
+         "pl": 1400,
+         "eind": 11953
+      },
+      {
+         "pl": 1200,
+         "eind": 11954
+      },
+      {
+         "pl": 1500,
+         "eind": 11955
+      },
+      {
+         "pl": 1600,
+         "eind": 11956
+      },
+      {
+         "pl": 900,
+         "eind": 11957
+      },
+      {
+         "pl": 800,
+         "eind": 11958
+      },
+      {
+         "pl": 500,
+         "eind": 11959
+      },
+      {
+         "pl": 600,
+         "eind": 11962
+      },
+      {
+         "pl": 1400,
+         "eind": 11963
+      },
+      {
+         "pl": 1800,
+         "eind": 11964
+      },
+      {
+         "pl": 1000,
+         "eind": 11965
       }
    ],
    "114": [
@@ -392523,6 +392972,76 @@
       {
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199991
+            }
+         },
+         "eind": 11946
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11947
+      },
+      {
+         "pl": 200,
+         "eind": 11949
+      },
+      {
+         "pl": 300,
+         "eind": 11953
+      },
+      {
+         "pl": 200,
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11959
+      },
+      {
+         "pl": 200,
+         "eind": 11962
+      },
+      {
+         "pl": 400,
+         "eind": 11963
+      },
+      {
+         "pl": 200,
+         "eind": 11965
       }
    ],
    "202": [
@@ -398184,6 +398703,42 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11946
+      },
+      {
+         "pl": "<10",
+         "eind": 11947
+      },
+      {
+         "pl": 100,
+         "eind": 11949
+      },
+      {
+         "pl": 200,
+         "eind": 11954
+      },
+      {
+         "pl": 300,
+         "eind": 11956
+      },
+      {
+         "pl": 100,
+         "eind": 11957
+      },
+      {
+         "pl": "<10",
+         "eind": 11959
+      },
+      {
+         "pl": 300,
+         "eind": 11963
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "248": [
@@ -427228,6 +427783,42 @@
       {
          "pl": 300,
          "eind": 11945
+      },
+      {
+         "pl": 500,
+         "eind": 11949
+      },
+      {
+         "pl": 700,
+         "eind": 11953
+      },
+      {
+         "pl": 600,
+         "eind": 11954
+      },
+      {
+         "pl": 800,
+         "eind": 11955
+      },
+      {
+         "pl": 700,
+         "eind": 11956
+      },
+      {
+         "pl": 300,
+         "eind": 11957
+      },
+      {
+         "pl": 800,
+         "eind": 11963
+      },
+      {
+         "pl": 900,
+         "eind": 11964
+      },
+      {
+         "pl": 400,
+         "eind": 11965
       }
    ],
    "160": [
@@ -498246,6 +498837,62 @@
       {
          "pl": 600,
          "eind": 11945
+      },
+      {
+         "pl": 700,
+         "eind": 11946
+      },
+      {
+         "pl": 900,
+         "eind": 11948
+      },
+      {
+         "pl": 1400,
+         "eind": 11949
+      },
+      {
+         "pl": 1500,
+         "eind": 11950
+      },
+      {
+         "pl": 1400,
+         "eind": 11952
+      },
+      {
+         "pl": 1200,
+         "eind": 11953
+      },
+      {
+         "pl": 1400,
+         "eind": 11955
+      },
+      {
+         "pl": 900,
+         "eind": 11957
+      },
+      {
+         "pl": 700,
+         "eind": 11959
+      },
+      {
+         "pl": 1200,
+         "eind": 11961
+      },
+      {
+         "pl": 1400,
+         "eind": 11962
+      },
+      {
+         "pl": 2200,
+         "eind": 11963
+      },
+      {
+         "pl": 2500,
+         "eind": 11964
+      },
+      {
+         "pl": 1100,
+         "eind": 11965
       }
    ],
    "172": [
@@ -580201,6 +580848,74 @@
       {
          "pl": 1600,
          "eind": 11945
+      },
+      {
+         "pl": 1800,
+         "eind": 11946
+      },
+      {
+         "pl": 2100,
+         "eind": 11947
+      },
+      {
+         "pl": 2900,
+         "eind": 11948
+      },
+      {
+         "pl": 4300,
+         "eind": 11949
+      },
+      {
+         "pl": 4100,
+         "eind": 11950
+      },
+      {
+         "pl": 3800,
+         "eind": 11952
+      },
+      {
+         "pl": 3000,
+         "eind": 11953
+      },
+      {
+         "pl": 2700,
+         "eind": 11954
+      },
+      {
+         "pl": 3400,
+         "eind": 11955
+      },
+      {
+         "pl": 3500,
+         "eind": 11956
+      },
+      {
+         "pl": 2400,
+         "eind": 11957
+      },
+      {
+         "pl": 2000,
+         "eind": 11959
+      },
+      {
+         "pl": 2900,
+         "eind": 11961
+      },
+      {
+         "pl": 3900,
+         "eind": 11962
+      },
+      {
+         "pl": 5300,
+         "eind": 11963
+      },
+      {
+         "pl": 6100,
+         "eind": 11964
+      },
+      {
+         "pl": 3400,
+         "eind": 11965
       }
    ],
    "152": [
@@ -606567,6 +607282,42 @@
       {
          "pl": 300,
          "eind": 11945
+      },
+      {
+         "pl": 500,
+         "eind": 11949
+      },
+      {
+         "pl": 600,
+         "eind": 11955
+      },
+      {
+         "pl": 500,
+         "eind": 11956
+      },
+      {
+         "pl": 400,
+         "eind": 11957
+      },
+      {
+         "pl": 200,
+         "eind": 11959
+      },
+      {
+         "pl": 300,
+         "eind": 11962
+      },
+      {
+         "pl": 500,
+         "eind": 11963
+      },
+      {
+         "pl": 700,
+         "eind": 11964
+      },
+      {
+         "pl": 300,
+         "eind": 11965
       }
    ],
    "198": [
@@ -624232,6 +624983,22 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11955
+      },
+      {
+         "pl": "<10",
+         "eind": 11956
+      },
+      {
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "199": [
@@ -649474,6 +650241,54 @@
       {
          "pl": 400,
          "eind": 11945
+      },
+      {
+         "pl": 300,
+         "eind": 11946
+      },
+      {
+         "pl": 500,
+         "eind": 11949
+      },
+      {
+         "pl": 600,
+         "eind": 11952
+      },
+      {
+         "pl": 700,
+         "eind": 11954
+      },
+      {
+         "pl": 900,
+         "eind": 11955
+      },
+      {
+         "pl": 800,
+         "eind": 11956
+      },
+      {
+         "pl": 500,
+         "eind": 11957
+      },
+      {
+         "pl": 400,
+         "eind": 11958
+      },
+      {
+         "pl": 300,
+         "eind": 11959
+      },
+      {
+         "pl": 800,
+         "eind": 11963
+      },
+      {
+         "pl": 900,
+         "eind": 11964
+      },
+      {
+         "pl": 400,
+         "eind": 11965
       }
    ],
    "200": [
@@ -666025,6 +666840,66 @@
       {
          "pl": 1200,
          "eind": 11945
+      },
+      {
+         "pl": 900,
+         "eind": 11946
+      },
+      {
+         "pl": 1500,
+         "eind": 11949
+      },
+      {
+         "pl": 1400,
+         "eind": 11952
+      },
+      {
+         "pl": 1700,
+         "eind": 11953
+      },
+      {
+         "pl": 1600,
+         "eind": 11954
+      },
+      {
+         "pl": 2000,
+         "eind": 11955
+      },
+      {
+         "pl": 2100,
+         "eind": 11956
+      },
+      {
+         "pl": 1300,
+         "eind": 11957
+      },
+      {
+         "pl": 1000,
+         "eind": 11959
+      },
+      {
+         "pl": 900,
+         "eind": 11960
+      },
+      {
+         "pl": 800,
+         "eind": 11961
+      },
+      {
+         "pl": 1000,
+         "eind": 11962
+      },
+      {
+         "pl": 2100,
+         "eind": 11963
+      },
+      {
+         "pl": 2400,
+         "eind": 11964
+      },
+      {
+         "pl": 1500,
+         "eind": 11965
       }
    ],
    "158": [
@@ -686134,6 +687009,50 @@
       {
          "pl": 200,
          "eind": 11945
+      },
+      {
+         "pl": 300,
+         "eind": 11949
+      },
+      {
+         "pl": 400,
+         "eind": 11953
+      },
+      {
+         "pl": 300,
+         "eind": 11954
+      },
+      {
+         "pl": 500,
+         "eind": 11955
+      },
+      {
+         "pl": 300,
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11959
+      },
+      {
+         "pl": 200,
+         "eind": 11960
+      },
+      {
+         "pl": 100,
+         "eind": 11961
+      },
+      {
+         "pl": 200,
+         "eind": 11962
+      },
+      {
+         "pl": 500,
+         "eind": 11963
+      },
+      {
+         "pl": 200,
+         "eind": 11965
       }
    ],
    "240": [
@@ -711030,6 +711949,22 @@
       {
          "pl": "<10",
          "eind": 11943
+      },
+      {
+         "pl": 100,
+         "eind": 11955
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "266": [
@@ -726666,6 +727601,62 @@
       {
          "pl": 400,
          "eind": 11945
+      },
+      {
+         "pl": 600,
+         "eind": 11947
+      },
+      {
+         "pl": 700,
+         "eind": 11948
+      },
+      {
+         "pl": 1200,
+         "eind": 11949
+      },
+      {
+         "pl": 1100,
+         "eind": 11952
+      },
+      {
+         "pl": 900,
+         "eind": 11953
+      },
+      {
+         "pl": 1000,
+         "eind": 11955
+      },
+      {
+         "pl": 1100,
+         "eind": 11956
+      },
+      {
+         "pl": 700,
+         "eind": 11957
+      },
+      {
+         "pl": 600,
+         "eind": 11959
+      },
+      {
+         "pl": 700,
+         "eind": 11961
+      },
+      {
+         "pl": 1000,
+         "eind": 11962
+      },
+      {
+         "pl": 1400,
+         "eind": 11963
+      },
+      {
+         "pl": 1700,
+         "eind": 11964
+      },
+      {
+         "pl": 1000,
+         "eind": 11965
       }
    ],
    "201": [
@@ -730934,6 +731925,30 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11947
+      },
+      {
+         "pl": "<10",
+         "eind": 11948
+      },
+      {
+         "pl": 100,
+         "eind": 11949
+      },
+      {
+         "pl": "<10",
+         "eind": 11959
+      },
+      {
+         "pl": 200,
+         "eind": 11963
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "245": [
@@ -743731,6 +744746,26 @@
       {
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "pl": 200,
+         "eind": 11946
+      },
+      {
+         "pl": 100,
+         "eind": 11953
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11962
+      },
+      {
+         "pl": "<10",
+         "eind": 11963
       }
    ],
    "247": [
@@ -749134,6 +750169,22 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11955
+      },
+      {
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "117": [
@@ -833712,6 +834763,22 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11949
+      },
+      {
+         "pl": "<10",
+         "eind": 11950
+      },
+      {
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "91": [
@@ -840731,6 +841798,38 @@
       {
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "pl": 200,
+         "eind": 11949
+      },
+      {
+         "pl": 300,
+         "eind": 11953
+      },
+      {
+         "pl": 200,
+         "eind": 11954
+      },
+      {
+         "pl": 300,
+         "eind": 11956
+      },
+      {
+         "pl": 200,
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11958
+      },
+      {
+         "pl": 300,
+         "eind": 11963
+      },
+      {
+         "pl": 200,
+         "eind": 11965
       }
    ],
    "94": [
@@ -852553,6 +853652,89 @@
          "hp": 1429796,
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "hp": 1429620,
+         "eind": 11946
+      },
+      {
+         "hp": 1429496,
+         "eind": 11947
+      },
+      {
+         "hp": 1429152,
+         "eind": 11948
+      },
+      {
+         "hp": 1428850,
+         "eind": 11949
+      },
+      {
+         "hp": 1428789,
+         "eind": 11950
+      },
+      {
+         "hp": 1428703,
+         "pl": 200,
+         "eind": 11952
+      },
+      {
+         "hp": 1427947,
+         "eind": 11953
+      },
+      {
+         "hp": 1427723,
+         "eind": 11954
+      },
+      {
+         "hp": 1427350,
+         "eind": 11955
+      },
+      {
+         "hp": 1427079,
+         "eind": 11956
+      },
+      {
+         "hp": 1426802,
+         "pl": 100,
+         "eind": 11957
+      },
+      {
+         "hp": 1426761,
+         "eind": 11958
+      },
+      {
+         "hp": 1426481,
+         "eind": 11959
+      },
+      {
+         "hp": 1426336,
+         "eind": 11960
+      },
+      {
+         "hp": 1426079,
+         "pl": "<10",
+         "eind": 11961
+      },
+      {
+         "hp": 1425894,
+         "pl": 100,
+         "eind": 11962
+      },
+      {
+         "hp": 1424585,
+         "pl": 200,
+         "eind": 11963
+      },
+      {
+         "hp": 1424405,
+         "pl": 300,
+         "eind": 11964
+      },
+      {
+         "hp": 1423061,
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "59": [
@@ -888861,6 +890043,115 @@
             }
          },
          "eind": 11945
+      },
+      {
+         "hp": 1091761,
+         "regions": {
+            "PERMACURIS": {
+               "index": 0,
+               "name": "PERMACURIS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "HANGAR 6": {
+               "index": 1,
+               "name": "HANGAR 6",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11946
+      },
+      {
+         "hp": 1091347,
+         "pl": 600,
+         "eind": 11947
+      },
+      {
+         "hp": 1090145,
+         "pl": 700,
+         "eind": 11948
+      },
+      {
+         "hp": 1088731,
+         "pl": 1300,
+         "eind": 11949
+      },
+      {
+         "hp": 1088546,
+         "pl": 1400,
+         "eind": 11950
+      },
+      {
+         "hp": 1087951,
+         "pl": 1200,
+         "eind": 11952
+      },
+      {
+         "hp": 1085321,
+         "pl": 900,
+         "eind": 11953
+      },
+      {
+         "hp": 1084405,
+         "eind": 11954
+      },
+      {
+         "hp": 1083262,
+         "pl": 1100,
+         "eind": 11955
+      },
+      {
+         "hp": 1082048,
+         "pl": 1400,
+         "eind": 11956
+      },
+      {
+         "hp": 1080370,
+         "pl": 900,
+         "eind": 11957
+      },
+      {
+         "hp": 1080209,
+         "eind": 11958
+      },
+      {
+         "hp": 1078850,
+         "pl": 500,
+         "eind": 11959
+      },
+      {
+         "hp": 1078206,
+         "eind": 11960
+      },
+      {
+         "hp": 1077301,
+         "pl": 400,
+         "eind": 11961
+      },
+      {
+         "hp": 1076832,
+         "pl": 600,
+         "eind": 11962
+      },
+      {
+         "hp": 1070431,
+         "pl": 1500,
+         "eind": 11963
+      },
+      {
+         "hp": 1069178,
+         "pl": 4000,
+         "eind": 11964
+      },
+      {
+         "hp": 1061599,
+         "pl": 1500,
+         "eind": 11965
       }
    ],
    "141": [
@@ -892621,6 +893912,87 @@
          "hp": 1700529,
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "hp": 1700482,
+         "eind": 11946
+      },
+      {
+         "hp": 1700466,
+         "eind": 11947
+      },
+      {
+         "hp": 1700313,
+         "eind": 11948
+      },
+      {
+         "hp": 1700157,
+         "eind": 11949
+      },
+      {
+         "hp": 1700144,
+         "eind": 11950
+      },
+      {
+         "hp": 1700109,
+         "eind": 11952
+      },
+      {
+         "hp": 1699715,
+         "eind": 11953
+      },
+      {
+         "hp": 1699655,
+         "eind": 11954
+      },
+      {
+         "hp": 1699516,
+         "pl": 100,
+         "eind": 11955
+      },
+      {
+         "hp": 1699352,
+         "eind": 11956
+      },
+      {
+         "hp": 1699196,
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "hp": 1699174,
+         "eind": 11958
+      },
+      {
+         "hp": 1699017,
+         "eind": 11959
+      },
+      {
+         "hp": 1698906,
+         "eind": 11960
+      },
+      {
+         "hp": 1698794,
+         "eind": 11961
+      },
+      {
+         "hp": 1698688,
+         "eind": 11962
+      },
+      {
+         "hp": 1698043,
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "hp": 1697934,
+         "pl": 200,
+         "eind": 11964
+      },
+      {
+         "hp": 1696930,
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "186": [
@@ -895191,6 +896563,26 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11953
+      },
+      {
+         "pl": "<10",
+         "eind": 11959
+      },
+      {
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "pl": 200,
+         "eind": 11964
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "184": [
@@ -901355,6 +902747,117 @@
             }
          },
          "eind": 11945
+      },
+      {
+         "hp": 1006714,
+         "pl": 13800,
+         "regions": {
+            "GENERATORSVILLE": {
+               "index": 0,
+               "name": "GENERATORSVILLE",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 14411
+            }
+         },
+         "eind": 11946
+      },
+      {
+         "hp": 997180,
+         "pl": 16000,
+         "regions": {
+            "GENERATORSVILLE": {
+               "index": 0,
+               "name": "GENERATORSVILLE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 1950
+            }
+         },
+         "eind": 11947
+      },
+      {
+         "hp": 339268,
+         "pl": 20000,
+         "regions": {
+            "GENERATORSVILLE": {
+               "index": 0,
+               "name": "GENERATORSVILLE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 11948
+      },
+      {
+         "hp": 244135,
+         "pl": 28000,
+         "eind": 11949
+      },
+      {
+         "hp": 232918,
+         "pl": 27500,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11950
+      },
+      {
+         "hp": 201476,
+         "pl": 23100,
+         "eind": 11952
+      },
+      {
+         "hp": 68362,
+         "pl": 14200,
+         "dss": "",
+         "desc": [],
+         "eind": 11953
+      },
+      {
+         "hp": 39668,
+         "pl": 7100,
+         "eind": 11954
+      },
+      {
+         "hp": 15277,
+         "pl": 6300,
+         "eind": 11955
+      },
+      {
+         "hp": 8,
+         "pl": 4500,
+         "t": 16,
+         "eind": 11956
+      },
+      {
+         "hp": 1400000,
+         "pl": 500,
+         "eind": 11957
+      },
+      {
+         "pl": 400,
+         "eind": 11958
+      },
+      {
+         "pl": 300,
+         "eind": 11959
+      },
+      {
+         "pl": 400,
+         "eind": 11961
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "185": [
@@ -910825,6 +912328,323 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "t": 25,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11949
+      },
+      {
+         "pl": 1100,
+         "r": 0.0,
+         "eind": 11950
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11951
+      },
+      {
+         "pl": 7300,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199073
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11952
+      },
+      {
+         "pl": 18000,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 125724
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11953
+      },
+      {
+         "pl": 25100,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 86260
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11954
+      },
+      {
+         "pl": 31400,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 6650
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11955
+      },
+      {
+         "pl": 33900,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11956
+      },
+      {
+         "pl": 21200,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11957
+      },
+      {
+         "pl": 20000,
+         "eind": 11958
+      },
+      {
+         "pl": 15300,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 71140
+            }
+         },
+         "eind": 11959
+      },
+      {
+         "pl": 14600,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 43717
+            }
+         },
+         "eind": 11960
+      },
+      {
+         "pl": 13200,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 456
+            }
+         },
+         "eind": 11961
+      },
+      {
+         "pl": 15800,
+         "regions": {
+            "EXALT": {
+               "index": 0,
+               "name": "EXALT",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "EAGLESTAR ETERNAL": {
+               "index": 1,
+               "name": "EAGLESTAR ETERNAL",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 11962
+      },
+      {
+         "pl": 29400,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "INVASION FLEET",
+               "desc": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+            },
+            {
+               "name": "APPROPRIATORS",
+               "desc": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11963
+      },
+      {
+         "pl": 4400,
+         "r": 8.333333,
+         "eind": 11964
+      },
+      {
+         "pl": 500,
+         "eind": 11965
       }
    ],
    "229": [
@@ -911437,6 +913257,38 @@
       {
          "pl": 100,
          "eind": 11945
+      },
+      {
+         "pl": "<10",
+         "eind": 11946
+      },
+      {
+         "pl": 100,
+         "eind": 11947
+      },
+      {
+         "pl": 200,
+         "eind": 11955
+      },
+      {
+         "pl": 100,
+         "eind": 11957
+      },
+      {
+         "pl": "<10",
+         "eind": 11959
+      },
+      {
+         "pl": 200,
+         "eind": 11963
+      },
+      {
+         "pl": 1300,
+         "eind": 11964
+      },
+      {
+         "pl": 200,
+         "eind": 11965
       }
    ],
    "273": [
@@ -921383,6 +923235,38 @@
       {
          "pl": 200,
          "eind": 11945
+      },
+      {
+         "pl": 300,
+         "eind": 11949
+      },
+      {
+         "pl": 200,
+         "eind": 11954
+      },
+      {
+         "pl": 300,
+         "eind": 11955
+      },
+      {
+         "pl": 200,
+         "eind": 11957
+      },
+      {
+         "pl": 100,
+         "eind": 11959
+      },
+      {
+         "pl": 400,
+         "eind": 11963
+      },
+      {
+         "pl": 2600,
+         "eind": 11964
+      },
+      {
+         "pl": 400,
+         "eind": 11965
       }
    ],
    "144": [
@@ -969349,6 +971233,22 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11954
+      },
+      {
+         "pl": "<10",
+         "eind": 11955
+      },
+      {
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "pl": "<10",
+         "eind": 11964
       }
    ],
    "206": [
@@ -995160,6 +997060,264 @@
             }
          },
          "eind": 11945
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 842909
+            }
+         },
+         "eind": 11946
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 842816
+            }
+         },
+         "eind": 11947
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 842482
+            }
+         },
+         "eind": 11948
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 841984
+            }
+         },
+         "eind": 11949
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 841932
+            }
+         },
+         "eind": 11950
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 841707
+            }
+         },
+         "eind": 11952
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 840820
+            }
+         },
+         "eind": 11953
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 840600
+            }
+         },
+         "eind": 11954
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 840266
+            }
+         },
+         "eind": 11955
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 839962
+            }
+         },
+         "eind": 11956
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 839464
+            }
+         },
+         "eind": 11957
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 839400
+            }
+         },
+         "eind": 11958
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 838936
+            }
+         },
+         "eind": 11959
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 838691
+            }
+         },
+         "eind": 11960
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 838319
+            }
+         },
+         "eind": 11961
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 838123
+            }
+         },
+         "eind": 11962
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 835535
+            }
+         },
+         "eind": 11963
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 835291
+            }
+         },
+         "eind": 11964
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 833374
+            }
+         },
+         "eind": 11965
       }
    ],
    "72": [
@@ -1080274,6 +1082432,89 @@
          "hp": 799374,
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "hp": 799283,
+         "eind": 11946
+      },
+      {
+         "hp": 799231,
+         "eind": 11947
+      },
+      {
+         "hp": 798773,
+         "eind": 11948
+      },
+      {
+         "hp": 798354,
+         "pl": 100,
+         "eind": 11949
+      },
+      {
+         "hp": 798318,
+         "eind": 11950
+      },
+      {
+         "hp": 798194,
+         "pl": "<10",
+         "eind": 11952
+      },
+      {
+         "hp": 797503,
+         "eind": 11953
+      },
+      {
+         "hp": 797328,
+         "pl": 100,
+         "eind": 11954
+      },
+      {
+         "hp": 796974,
+         "eind": 11955
+      },
+      {
+         "hp": 796613,
+         "eind": 11956
+      },
+      {
+         "hp": 796224,
+         "pl": "<10",
+         "eind": 11957
+      },
+      {
+         "hp": 796196,
+         "eind": 11958
+      },
+      {
+         "hp": 795826,
+         "eind": 11959
+      },
+      {
+         "hp": 795710,
+         "eind": 11960
+      },
+      {
+         "hp": 795386,
+         "eind": 11961
+      },
+      {
+         "hp": 795190,
+         "eind": 11962
+      },
+      {
+         "hp": 793539,
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "hp": 793169,
+         "pl": 300,
+         "eind": 11964
+      },
+      {
+         "hp": 790943,
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "137": [
@@ -1103295,6 +1105536,84 @@
       {
          "hp": 1739570,
          "eind": 11945
+      },
+      {
+         "hp": 1739482,
+         "eind": 11946
+      },
+      {
+         "hp": 1739418,
+         "eind": 11947
+      },
+      {
+         "hp": 1739255,
+         "eind": 11948
+      },
+      {
+         "hp": 1739093,
+         "eind": 11949
+      },
+      {
+         "hp": 1739067,
+         "eind": 11950
+      },
+      {
+         "hp": 1739017,
+         "eind": 11952
+      },
+      {
+         "hp": 1738702,
+         "eind": 11953
+      },
+      {
+         "hp": 1738621,
+         "eind": 11954
+      },
+      {
+         "hp": 1738410,
+         "eind": 11955
+      },
+      {
+         "hp": 1738290,
+         "eind": 11956
+      },
+      {
+         "hp": 1738111,
+         "eind": 11957
+      },
+      {
+         "hp": 1738081,
+         "eind": 11958
+      },
+      {
+         "hp": 1737919,
+         "eind": 11959
+      },
+      {
+         "hp": 1737858,
+         "eind": 11960
+      },
+      {
+         "hp": 1737720,
+         "eind": 11961
+      },
+      {
+         "hp": 1737610,
+         "eind": 11962
+      },
+      {
+         "hp": 1737003,
+         "eind": 11963
+      },
+      {
+         "hp": 1736907,
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "hp": 1736268,
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "177": [
@@ -1106898,6 +1109217,14 @@
          "pl": "<10",
          "r": 11.111111,
          "eind": 11806
+      },
+      {
+         "pl": 100,
+         "eind": 11964
+      },
+      {
+         "pl": "<10",
+         "eind": 11965
       }
    ],
    "183": [
@@ -1114738,6 +1117065,26 @@
       {
          "pl": "<10",
          "eind": 11945
+      },
+      {
+         "pl": 100,
+         "eind": 11948
+      },
+      {
+         "pl": "<10",
+         "eind": 11959
+      },
+      {
+         "pl": 100,
+         "eind": 11963
+      },
+      {
+         "pl": 200,
+         "eind": 11964
+      },
+      {
+         "pl": 100,
+         "eind": 11965
       }
    ],
    "225": [
@@ -1124247,6 +1126594,83 @@
       {
          "pl": 200,
          "eind": 11945
+      },
+      {
+         "pl": 300,
+         "eind": 11946
+      },
+      {
+         "pl": 400,
+         "eind": 11947
+      },
+      {
+         "pl": 700,
+         "eind": 11949
+      },
+      {
+         "pl": 800,
+         "eind": 11950
+      },
+      {
+         "pl": 700,
+         "eind": 11952
+      },
+      {
+         "pl": 900,
+         "eind": 11953
+      },
+      {
+         "pl": 1100,
+         "eind": 11954
+      },
+      {
+         "pl": 1300,
+         "eind": 11955
+      },
+      {
+         "pl": 1400,
+         "eind": 11956
+      },
+      {
+         "pl": 700,
+         "eind": 11957
+      },
+      {
+         "pl": 400,
+         "eind": 11959
+      },
+      {
+         "pl": 200,
+         "eind": 11961
+      },
+      {
+         "pl": 300,
+         "eind": 11962
+      },
+      {
+         "pl": 1800,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11963
+      },
+      {
+         "hp": 998776,
+         "pl": 19500,
+         "eind": 11964
+      },
+      {
+         "hp": 884967,
+         "pl": 14300,
+         "eind": 11965
       }
    ],
    "232": [
