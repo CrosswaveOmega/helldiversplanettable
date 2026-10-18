@@ -19078,3 +19078,6 @@ DSS effect EAGLE STORM starts (2026-10-17 01:48  UTC)<br/>
  (2026-10-17 01:48  UTC)<br/>
 
 ### Day: #983
+DSS effect EAGLE STORM ends (2026-10-18 01:49  UTC)<br/>
+
+### Day: #984
