@@ -19092,6 +19092,7 @@ Assault Division: DRAGONROACHES (Enemies) U1H deploys to *Esker* (2026-10-19 14:
 Assault Division: VOTE SNATCHERS (Enemies) U1G leaves *Alaraph* (2026-10-19 14:18  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Oasis* (2026-10-19 14:23  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Alamak VII* (2026-10-19 15:23  UTC)<br/>
-Major Order | [A3-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-5) EPIC PURGE-RESTITUTION HARVEST is won | Objective: Eliminate/Hold (2026-10-19 15:49  UTC)<br/>
+Major Order | [A3-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-5) EPIC PURGE-RESTITUTION HARVEST is won | Objective: Hold/Eliminate (2026-10-19 15:49  UTC)<br/>
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' philanthropic bravery and altruistic lethality, the AIR (Anti-Illuminate Restitution) initiative has been funded to its maximum level. Every revered Class A orbital retirement facility affected by recent Illuminate interference has now received a heavily subsidised upgrade to their respiratory fortification package. With regional real estate futures fully stabilized and all corporate liabilities mitigated, the Helldivers stand triumphant. (2026-10-19 15:51  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Alairt III* (2026-10-19 16:23  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Herthon Secundus* (2026-10-19 17:23  UTC)<br/>
