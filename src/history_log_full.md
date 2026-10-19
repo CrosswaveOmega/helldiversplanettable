@@ -19082,3 +19082,16 @@ DSS effect EAGLE STORM ends (2026-10-18 01:49  UTC)<br/>
 
 ### Day: #984
 DSS deploys to *Fori Prime* of the Draco sector (2026-10-18 16:29  UTC)<br/>
+*Fori Prime* is liberated (2026-10-19 07:45  UTC)<br/>
+DSS deploys to *Siemnot* of the Xi Tauri sector (2026-10-19 07:45  UTC)<br/>
+Draco sector is fully under Human control (2026-10-19 07:45  UTC)<br/>
+
+### Day: #985
+Assault Division: Spore Burst Strain (Enemies) U1F deploys to *Esker* (2026-10-19 14:18  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1H deploys to *Esker* (2026-10-19 14:18  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1G leaves *Alaraph* (2026-10-19 14:18  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Oasis* (2026-10-19 14:23  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Alamak VII* (2026-10-19 15:23  UTC)<br/>
+Major Order | [A3-10-5](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-5) EPIC PURGE-RESTITUTION HARVEST is won | Objective: Eliminate/Hold (2026-10-19 15:49  UTC)<br/>
+Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' philanthropic bravery and altruistic lethality, the AIR (Anti-Illuminate Restitution) initiative has been funded to its maximum level. Every revered Class A orbital retirement facility affected by recent Illuminate interference has now received a heavily subsidised upgrade to their respiratory fortification package. With regional real estate futures fully stabilized and all corporate liabilities mitigated, the Helldivers stand triumphant. (2026-10-19 15:51  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Alairt III* (2026-10-19 16:23  UTC)<br/>

@@ -18617,6 +18617,14 @@
       {
          "pl": 200,
          "eind": 11970
+      },
+      {
+         "pl": 100,
+         "eind": 11973
+      },
+      {
+         "pl": 200,
+         "eind": 11976
       }
    ],
    "1": [
@@ -31645,6 +31653,38 @@
       {
          "hp": 1772373,
          "eind": 11972
+      },
+      {
+         "hp": 1772218,
+         "eind": 11973
+      },
+      {
+         "hp": 1772054,
+         "eind": 11974
+      },
+      {
+         "hp": 1772025,
+         "eind": 11975
+      },
+      {
+         "hp": 1771984,
+         "eind": 11976
+      },
+      {
+         "hp": 1771732,
+         "eind": 11977
+      },
+      {
+         "hp": 1771704,
+         "eind": 11979
+      },
+      {
+         "hp": 1771695,
+         "eind": 11980
+      },
+      {
+         "hp": 1771687,
+         "eind": 11982
       }
    ],
    "46": [
@@ -63140,6 +63180,10 @@
       {
          "pl": 100,
          "eind": 11972
+      },
+      {
+         "pl": "<10",
+         "eind": 11973
       }
    ],
    "80": [
@@ -77131,6 +77175,10 @@
       {
          "pl": 100,
          "eind": 11972
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
       }
    ],
    "271": [
@@ -160628,6 +160676,38 @@
       {
          "pl": 1600,
          "eind": 11972
+      },
+      {
+         "pl": 1200,
+         "eind": 11973
+      },
+      {
+         "pl": 500,
+         "eind": 11974
+      },
+      {
+         "pl": 700,
+         "eind": 11975
+      },
+      {
+         "pl": 900,
+         "eind": 11976
+      },
+      {
+         "pl": 1700,
+         "eind": 11977
+      },
+      {
+         "pl": 1800,
+         "eind": 11979
+      },
+      {
+         "pl": 1600,
+         "eind": 11980
+      },
+      {
+         "pl": 1700,
+         "eind": 11982
       }
    ],
    "213": [
@@ -168866,6 +168946,40 @@
       {
          "pl": 3300,
          "eind": 11972
+      },
+      {
+         "pl": 2700,
+         "eind": 11973
+      },
+      {
+         "pl": 1200,
+         "eind": 11974
+      },
+      {
+         "hp": 999996,
+         "pl": 2700,
+         "eind": 11975
+      },
+      {
+         "hp": 1000000,
+         "pl": 2900,
+         "eind": 11976
+      },
+      {
+         "pl": 4600,
+         "eind": 11977
+      },
+      {
+         "pl": 5200,
+         "eind": 11979
+      },
+      {
+         "pl": 4800,
+         "eind": 11980
+      },
+      {
+         "pl": 5500,
+         "eind": 11982
       }
    ],
    "216": [
@@ -223911,6 +224025,10 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
       }
    ],
    "75": [
@@ -231065,6 +231183,20 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "adiv": "DragonRoach",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "eind": 11977
       }
    ],
    "122": [
@@ -308512,6 +308644,52 @@
             }
          ],
          "eind": 11972
+      },
+      {
+         "hp": 213475,
+         "pl": 29000,
+         "eind": 11973
+      },
+      {
+         "hp": 1000000,
+         "pl": 13600,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 11974
+      },
+      {
+         "pl": 1500,
+         "eind": 11975
+      },
+      {
+         "pl": 1000,
+         "eind": 11976
+      },
+      {
+         "pl": 1300,
+         "eind": 11979
+      },
+      {
+         "pl": 1200,
+         "eind": 11980
+      },
+      {
+         "pl": 1400,
+         "eind": 11982
       }
    ],
    "104": [
@@ -316318,6 +316496,18 @@
       {
          "pl": 100,
          "eind": 11970
+      },
+      {
+         "pl": 200,
+         "eind": 11973
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11979
       }
    ],
    "112": [
@@ -374551,6 +374741,30 @@
       {
          "pl": 3100,
          "eind": 11972
+      },
+      {
+         "pl": 900,
+         "eind": 11974
+      },
+      {
+         "pl": 1200,
+         "eind": 11976
+      },
+      {
+         "pl": 2000,
+         "eind": 11977
+      },
+      {
+         "pl": 2300,
+         "eind": 11979
+      },
+      {
+         "pl": 2200,
+         "eind": 11980
+      },
+      {
+         "pl": 2700,
+         "eind": 11982
       }
    ],
    "114": [
@@ -393279,6 +393493,69 @@
       {
          "pl": 700,
          "eind": 11972
+      },
+      {
+         "pl": 600,
+         "eind": 11973
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 11974
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 11975
+      },
+      {
+         "pl": 200,
+         "eind": 11976
+      },
+      {
+         "pl": 300,
+         "eind": 11977
+      },
+      {
+         "pl": 400,
+         "eind": 11979
+      },
+      {
+         "pl": 500,
+         "eind": 11982
       }
    ],
    "202": [
@@ -398996,6 +399273,22 @@
       {
          "pl": 400,
          "eind": 11972
+      },
+      {
+         "pl": 500,
+         "eind": 11973
+      },
+      {
+         "pl": 100,
+         "eind": 11974
+      },
+      {
+         "pl": 200,
+         "eind": 11977
+      },
+      {
+         "pl": 300,
+         "eind": 11982
       }
    ],
    "248": [
@@ -428104,6 +428397,38 @@
       {
          "pl": 1100,
          "eind": 11972
+      },
+      {
+         "pl": 1200,
+         "eind": 11973
+      },
+      {
+         "pl": 400,
+         "eind": 11974
+      },
+      {
+         "pl": 300,
+         "eind": 11975
+      },
+      {
+         "pl": 400,
+         "eind": 11976
+      },
+      {
+         "pl": 600,
+         "eind": 11977
+      },
+      {
+         "pl": 800,
+         "eind": 11979
+      },
+      {
+         "pl": 900,
+         "eind": 11980
+      },
+      {
+         "pl": 1000,
+         "eind": 11982
       }
    ],
    "160": [
@@ -499206,6 +499531,42 @@
       {
          "pl": 2000,
          "eind": 11972
+      },
+      {
+         "pl": 1600,
+         "eind": 11973
+      },
+      {
+         "pl": 600,
+         "eind": 11974
+      },
+      {
+         "hp": 999999,
+         "pl": 1900,
+         "eind": 11975
+      },
+      {
+         "hp": 999990,
+         "pl": 2400,
+         "eind": 11976
+      },
+      {
+         "hp": 999999,
+         "pl": 3500,
+         "eind": 11977
+      },
+      {
+         "hp": 1000000,
+         "pl": 3800,
+         "eind": 11979
+      },
+      {
+         "pl": 3400,
+         "eind": 11980
+      },
+      {
+         "pl": 3800,
+         "eind": 11982
       }
    ],
    "172": [
@@ -581257,6 +581618,43 @@
       {
          "pl": 5800,
          "eind": 11972
+      },
+      {
+         "pl": 4500,
+         "eind": 11973
+      },
+      {
+         "pl": 2200,
+         "eind": 11974
+      },
+      {
+         "pl": 6200,
+         "eind": 11975
+      },
+      {
+         "hp": 1999214,
+         "pl": 8300,
+         "eind": 11976
+      },
+      {
+         "hp": 1960221,
+         "pl": 17700,
+         "eind": 11977
+      },
+      {
+         "hp": 1949205,
+         "pl": 18900,
+         "eind": 11979
+      },
+      {
+         "hp": 1944879,
+         "pl": 16200,
+         "eind": 11980
+      },
+      {
+         "hp": 1941371,
+         "pl": 17400,
+         "eind": 11982
       }
    ],
    "152": [
@@ -607683,6 +608081,26 @@
       {
          "pl": 800,
          "eind": 11971
+      },
+      {
+         "pl": 300,
+         "eind": 11974
+      },
+      {
+         "pl": 600,
+         "eind": 11977
+      },
+      {
+         "pl": 700,
+         "eind": 11979
+      },
+      {
+         "pl": 600,
+         "eind": 11980
+      },
+      {
+         "pl": 800,
+         "eind": 11982
       }
    ],
    "198": [
@@ -650678,6 +651096,34 @@
       {
          "pl": 1500,
          "eind": 11972
+      },
+      {
+         "pl": 500,
+         "eind": 11974
+      },
+      {
+         "pl": 400,
+         "eind": 11975
+      },
+      {
+         "pl": 500,
+         "eind": 11976
+      },
+      {
+         "pl": 800,
+         "eind": 11977
+      },
+      {
+         "pl": 1000,
+         "eind": 11979
+      },
+      {
+         "pl": 900,
+         "eind": 11980
+      },
+      {
+         "pl": 1100,
+         "eind": 11982
       }
    ],
    "200": [
@@ -667317,6 +667763,34 @@
       {
          "pl": 4500,
          "eind": 11972
+      },
+      {
+         "pl": 1700,
+         "eind": 11974
+      },
+      {
+         "pl": 1800,
+         "eind": 11975
+      },
+      {
+         "pl": 2000,
+         "eind": 11976
+      },
+      {
+         "pl": 3100,
+         "eind": 11977
+      },
+      {
+         "pl": 3500,
+         "eind": 11979
+      },
+      {
+         "pl": 3200,
+         "eind": 11980
+      },
+      {
+         "pl": 3700,
+         "eind": 11982
       }
    ],
    "158": [
@@ -687494,6 +687968,22 @@
       {
          "pl": 1000,
          "eind": 11972
+      },
+      {
+         "pl": 300,
+         "eind": 11974
+      },
+      {
+         "pl": 500,
+         "eind": 11977
+      },
+      {
+         "pl": 600,
+         "eind": 11979
+      },
+      {
+         "pl": 800,
+         "eind": 11982
       }
    ],
    "240": [
@@ -712418,6 +712908,18 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11980
+      },
+      {
+         "pl": "<10",
+         "eind": 11982
       }
    ],
    "266": [
@@ -728134,6 +728636,38 @@
       {
          "pl": 1900,
          "eind": 11972
+      },
+      {
+         "pl": 1600,
+         "eind": 11973
+      },
+      {
+         "pl": 700,
+         "eind": 11974
+      },
+      {
+         "pl": 900,
+         "eind": 11975
+      },
+      {
+         "pl": 1100,
+         "eind": 11976
+      },
+      {
+         "pl": 1800,
+         "eind": 11977
+      },
+      {
+         "pl": 2200,
+         "eind": 11979
+      },
+      {
+         "pl": 1800,
+         "eind": 11980
+      },
+      {
+         "pl": 2100,
+         "eind": 11982
       }
    ],
    "201": [
@@ -732438,6 +732972,26 @@
       {
          "pl": 200,
          "eind": 11971
+      },
+      {
+         "pl": 300,
+         "eind": 11973
+      },
+      {
+         "pl": 100,
+         "eind": 11974
+      },
+      {
+         "pl": "<10",
+         "eind": 11975
+      },
+      {
+         "pl": 100,
+         "eind": 11976
+      },
+      {
+         "pl": 200,
+         "eind": 11982
       }
    ],
    "245": [
@@ -750686,6 +751240,10 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
       }
    ],
    "117": [
@@ -835292,6 +835850,14 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11982
       }
    ],
    "91": [
@@ -842367,6 +842933,22 @@
       {
          "pl": 300,
          "eind": 11972
+      },
+      {
+         "pl": 100,
+         "eind": 11974
+      },
+      {
+         "pl": 200,
+         "eind": 11977
+      },
+      {
+         "pl": 400,
+         "eind": 11979
+      },
+      {
+         "pl": 300,
+         "eind": 11980
       }
    ],
    "94": [
@@ -846320,6 +846902,21 @@
          "pl": "<10",
          "r": 0.0,
          "eind": 11806
+      },
+      {
+         "adiv": "TerrorTeam",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11978
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11979
       }
    ],
    "95": [
@@ -854307,6 +854904,42 @@
          "hp": 1417586,
          "pl": 200,
          "eind": 11972
+      },
+      {
+         "hp": 1416555,
+         "eind": 11973
+      },
+      {
+         "hp": 1415366,
+         "pl": 100,
+         "eind": 11974
+      },
+      {
+         "hp": 1415018,
+         "eind": 11975
+      },
+      {
+         "hp": 1414764,
+         "eind": 11976
+      },
+      {
+         "hp": 1413937,
+         "pl": 200,
+         "eind": 11977
+      },
+      {
+         "hp": 1413764,
+         "pl": 300,
+         "eind": 11979
+      },
+      {
+         "hp": 1413706,
+         "pl": 200,
+         "eind": 11980
+      },
+      {
+         "hp": 1413611,
+         "eind": 11982
       }
    ],
    "59": [
@@ -890759,6 +891392,45 @@
          "hp": 1030862,
          "pl": 1900,
          "eind": 11972
+      },
+      {
+         "hp": 1024881,
+         "pl": 2300,
+         "eind": 11973
+      },
+      {
+         "hp": 1018282,
+         "pl": 900,
+         "eind": 11974
+      },
+      {
+         "hp": 1017114,
+         "pl": 600,
+         "eind": 11975
+      },
+      {
+         "hp": 1016161,
+         "pl": 700,
+         "eind": 11976
+      },
+      {
+         "hp": 1012697,
+         "pl": 1200,
+         "eind": 11977
+      },
+      {
+         "hp": 1011940,
+         "pl": 700,
+         "eind": 11979
+      },
+      {
+         "hp": 1011624,
+         "pl": 500,
+         "eind": 11980
+      },
+      {
+         "hp": 1011360,
+         "eind": 11982
       }
    ],
    "141": [
@@ -894632,6 +895304,40 @@
       {
          "hp": 1692983,
          "eind": 11972
+      },
+      {
+         "hp": 1692062,
+         "eind": 11973
+      },
+      {
+         "hp": 1691102,
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "hp": 1690882,
+         "eind": 11975
+      },
+      {
+         "hp": 1690722,
+         "eind": 11976
+      },
+      {
+         "hp": 1690283,
+         "pl": 100,
+         "eind": 11977
+      },
+      {
+         "hp": 1690183,
+         "eind": 11979
+      },
+      {
+         "hp": 1690127,
+         "eind": 11980
+      },
+      {
+         "hp": 1690073,
+         "eind": 11982
       }
    ],
    "186": [
@@ -897242,6 +897948,14 @@
       {
          "pl": 200,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11977
       }
    ],
    "184": [
@@ -903533,6 +904247,14 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11982
       }
    ],
    "185": [
@@ -913340,6 +914062,14 @@
       {
          "pl": 300,
          "eind": 11972
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11976
       }
    ],
    "229": [
@@ -914008,6 +914738,22 @@
       {
          "pl": 400,
          "eind": 11971
+      },
+      {
+         "pl": 100,
+         "eind": 11974
+      },
+      {
+         "pl": "<10",
+         "eind": 11975
+      },
+      {
+         "pl": 100,
+         "eind": 11976
+      },
+      {
+         "pl": 200,
+         "eind": 11979
       }
    ],
    "273": [
@@ -924014,6 +924760,26 @@
       {
          "pl": 500,
          "eind": 11972
+      },
+      {
+         "pl": 700,
+         "eind": 11973
+      },
+      {
+         "pl": 200,
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11975
+      },
+      {
+         "pl": 200,
+         "eind": 11977
+      },
+      {
+         "pl": 300,
+         "eind": 11980
       }
    ],
    "144": [
@@ -972008,6 +972774,14 @@
       {
          "pl": 100,
          "eind": 11971
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11979
       }
    ],
    "206": [
@@ -998173,6 +998947,117 @@
             }
          },
          "eind": 11972
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 821316
+            }
+         },
+         "eind": 11973
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 818157
+            }
+         },
+         "eind": 11974
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 817617
+            }
+         },
+         "eind": 11975
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 817008
+            }
+         },
+         "eind": 11976
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 815060
+            }
+         },
+         "eind": 11977
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 814566
+            }
+         },
+         "eind": 11979
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 814254
+            }
+         },
+         "eind": 11980
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 813974
+            }
+         },
+         "eind": 11982
       }
    ],
    "72": [
@@ -1083401,6 +1084286,42 @@
          "hp": 783479,
          "pl": 200,
          "eind": 11972
+      },
+      {
+         "hp": 781710,
+         "eind": 11973
+      },
+      {
+         "hp": 780064,
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "hp": 779509,
+         "eind": 11975
+      },
+      {
+         "hp": 779279,
+         "eind": 11976
+      },
+      {
+         "hp": 778437,
+         "pl": 100,
+         "eind": 11977
+      },
+      {
+         "hp": 778246,
+         "eind": 11979
+      },
+      {
+         "hp": 778101,
+         "pl": 200,
+         "eind": 11980
+      },
+      {
+         "hp": 777899,
+         "pl": 400,
+         "eind": 11982
       }
    ],
    "137": [
@@ -1090603,6 +1091524,16 @@
       {
          "r": 0.00027777778,
          "eind": 11806
+      },
+      {
+         "adiv": "TerrorTeam",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11982
       }
    ],
    "139": [
@@ -1099755,6 +1100686,21 @@
       {
          "r": 0.00027777778,
          "eind": 11806
+      },
+      {
+         "adiv": "TerrorTeam",
+         "desc": [
+            {
+               "name": "VOTE SNATCHERS",
+               "desc": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+            }
+         ],
+         "eind": 11979
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 11982
       }
    ],
    "182": [
@@ -1106531,6 +1107477,40 @@
          "hp": 1733648,
          "pl": 100,
          "eind": 11972
+      },
+      {
+         "hp": 1733112,
+         "pl": "<10",
+         "eind": 11973
+      },
+      {
+         "hp": 1732482,
+         "eind": 11974
+      },
+      {
+         "hp": 1732335,
+         "eind": 11975
+      },
+      {
+         "hp": 1732225,
+         "eind": 11976
+      },
+      {
+         "hp": 1731715,
+         "eind": 11977
+      },
+      {
+         "hp": 1731631,
+         "eind": 11979
+      },
+      {
+         "hp": 1731591,
+         "eind": 11980
+      },
+      {
+         "hp": 1731526,
+         "pl": 100,
+         "eind": 11982
       }
    ],
    "177": [
@@ -1118022,6 +1119002,14 @@
       {
          "pl": 200,
          "eind": 11972
+      },
+      {
+         "pl": "<10",
+         "eind": 11974
+      },
+      {
+         "pl": 100,
+         "eind": 11977
       }
    ],
    "225": [
@@ -1127650,6 +1128638,57 @@
             }
          ],
          "eind": 11972
+      },
+      {
+         "hp": 473468,
+         "pl": 6100,
+         "eind": 11973
+      },
+      {
+         "hp": 500699,
+         "pl": 2000,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "MINDLESS MASSES",
+               "desc": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 11974
+      },
+      {
+         "hp": 500912,
+         "pl": 4700,
+         "eind": 11975
+      },
+      {
+         "hp": 495455,
+         "pl": 5500,
+         "eind": 11976
+      },
+      {
+         "hp": 480127,
+         "pl": 7300,
+         "eind": 11977
+      },
+      {
+         "hp": 478049,
+         "pl": 8600,
+         "eind": 11979
+      },
+      {
+         "hp": 476691,
+         "pl": 8100,
+         "eind": 11980
+      },
+      {
+         "hp": 475297,
+         "pl": 8300,
+         "eind": 11982
       }
    ],
    "232": [
