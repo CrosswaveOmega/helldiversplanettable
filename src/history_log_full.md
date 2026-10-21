@@ -19097,10 +19097,46 @@ Dispatch: MAJOR ORDER WON. Thanks to the Helldivers' philanthropic bravery and a
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Alairt III* (2026-10-19 16:23  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Herthon Secundus* (2026-10-19 17:23  UTC)<br/>
 Dispatch: STRATEGIC ALERT. The Automaton Incineration Corps has been reported on VINDEMITARIX PRIME. (2026-10-19 17:49  UTC)<br/>
-Assault Division: Incineration Corps (Enemies) U7W deploys to *Vindemitarix Prime* (2026-10-19 17:49  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1B deploys to *Vindemitarix Prime* (2026-10-19 17:49  UTC)<br/>
 Assault Division: VOTE SNATCHERS (Enemies) U1G deploys to *Zea Rugosia* (2026-10-19 18:23  UTC)<br/>
 Assault Division: INVASION FLEET (Enemies) U1G deploys to *Zea Rugosia* (2026-10-19 18:23  UTC)<br/>
-Assault Division: Incineration Corps (Enemies) U7Y deploys to *Mekbuda* (2026-10-19 18:50  UTC)<br/>
-Assault Division: Incineration Corps (Enemies) U7W deploys to *Aurora Bay* (2026-10-19 19:51  UTC)<br/>
-Assault Division: Incineration Corps (Enemies) U7Y deploys to *Choohe* (2026-10-19 20:51  UTC)<br/>
-Assault Division: Incineration Corps (Enemies) U7W deploys to *Matar Bay* (2026-10-19 21:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1D deploys to *Mekbuda* (2026-10-19 18:50  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1B deploys to *Aurora Bay* (2026-10-19 19:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1D deploys to *Choohe* (2026-10-19 20:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1B deploys to *Matar Bay* (2026-10-19 21:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1D deploys to *Martale* (2026-10-19 22:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1B deploys to *Charon Prime* (2026-10-19 23:51  UTC)<br/>
+Assault Division: Incineration Corps (Enemies) U1D deploys to *Choepessa IV* (2026-10-20 00:51  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1B deploys to *Fury* (2026-10-20 01:50  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1D deploys to *Ustotu* (2026-10-20 02:51  UTC)<br/>
+*Ustotu* of the Trigon sector is attacked by Automatons (2026-10-20 02:52  UTC)<br/>
+ Decay: 0.0 on Ustotu
+ (2026-10-20 04:00  UTC)<br/>
+DSS deploys to *Ustotu* of the Trigon sector (2026-10-20 08:30  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Fori Prime* (2026-10-20 08:36  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Partion* (2026-10-20 08:37  UTC)<br/>
+*Esker* liberation campaign starts (2026-10-20 08:39  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Senge 23* (2026-10-20 08:48  UTC)<br/>
+ Decay: 2.5 on Esker
+ (2026-10-20 08:48  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Alderidge Cove* (2026-10-20 08:49  UTC)<br/>
+*Zea Rugosia* Region 0 NEW COB Town has fallen to Illuminate (2026-10-20 08:50  UTC)<br/>
+*Zea Rugosia* Region 2 STARPASS City has fallen to Illuminate (2026-10-20 08:50  UTC)<br/>
+*Zea Rugosia* Region 2 STARPASS City is besieged by Human (2026-10-20 08:51  UTC)<br/>
+
+### Day: #986
+Dispatch: NEW MAJOR ORDER. To honor the fallen, the government has authorized the construction of The *Malevelon Creek* Memorial & Interrogation Center for Human Rights. However, enemy aggression threatens this project. Their occupation of *Super Earth* territories rich in rare metals, crude oil, and radioactive isotopes, among others, steals from the prosperity of all. This is an insult to the memory of our heroes. The Helldivers are ordered to liberate FURY, ESKER, and ZEA RUGOSIA. (2026-10-20 09:10  UTC)<br/>
+Major Order | [A3-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-6) MEMORIAM ETERNAL-HONOR THE FALLEN is issued | Objective: Liberate (2026-10-20 09:10  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Fronteria* (2026-10-20 09:37  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Luxuriant* (2026-10-20 09:39  UTC)<br/>
+DSS deploys to *Fury* of the Xzar sector (2026-10-20 16:30  UTC)<br/>
+*Ustotu* defense is failed (2026-10-21 02:52  UTC)<br/>
+*Ustotu* liberation campaign starts (2026-10-21 02:52  UTC)<br/>
+ Decay: 1.0 on Ustotu
+ (2026-10-21 04:00  UTC)<br/>
+
+### Day: #987
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Luxuriant* (2026-10-21 10:51  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Esker* (2026-10-21 10:52  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Alderidge Cove* (2026-10-21 13:32  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Fury* (2026-10-21 13:33  UTC)<br/>
