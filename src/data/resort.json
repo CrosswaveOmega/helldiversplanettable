@@ -18681,6 +18681,38 @@
       {
          "pl": 400,
          "eind": 12018
+      },
+      {
+         "pl": 300,
+         "eind": 12021
+      },
+      {
+         "pl": 100,
+         "eind": 12025
+      },
+      {
+         "pl": 200,
+         "eind": 12026
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": 200,
+         "eind": 12028
+      },
+      {
+         "pl": 300,
+         "eind": 12030
+      },
+      {
+         "pl": "<10",
+         "eind": 12031
+      },
+      {
+         "pl": 100,
+         "eind": 12032
       }
    ],
    "1": [
@@ -24565,6 +24597,110 @@
       {
          "pl": 2200,
          "eind": 12019
+      },
+      {
+         "pl": 2500,
+         "eind": 12021
+      },
+      {
+         "pl": 3200,
+         "eind": 12022
+      },
+      {
+         "pl": 2700,
+         "eind": 12023
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "NEW COB": {
+               "index": 0,
+               "name": "NEW COB",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "GENE": {
+               "index": 1,
+               "name": "GENE",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "STARPASS": {
+               "index": 2,
+               "name": "STARPASS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 12024
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "NEW COB": {
+               "index": 0,
+               "name": "NEW COB",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "GENE": {
+               "index": 1,
+               "name": "GENE",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "STARPASS": {
+               "index": 2,
+               "name": "STARPASS",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12025
+      },
+      {
+         "pl": 1200,
+         "eind": 12026
+      },
+      {
+         "pl": 1900,
+         "eind": 12027
+      },
+      {
+         "pl": 2300,
+         "eind": 12028
+      },
+      {
+         "pl": 2400,
+         "eind": 12029
+      },
+      {
+         "pl": 1800,
+         "eind": 12030
+      },
+      {
+         "pl": 1100,
+         "eind": 12031
+      },
+      {
+         "pl": 1300,
+         "eind": 12033
+      },
+      {
+         "pl": 1500,
+         "eind": 12034
       }
    ],
    "176": [
@@ -26393,6 +26529,22 @@
       {
          "pl": "<10",
          "eind": 12015
+      },
+      {
+         "pl": 100,
+         "eind": 12021
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12028
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "180": [
@@ -32020,6 +32172,66 @@
       {
          "hp": 1765778,
          "eind": 12019
+      },
+      {
+         "hp": 1765720,
+         "pl": 100,
+         "eind": 12021
+      },
+      {
+         "hp": 1764963,
+         "eind": 12022
+      },
+      {
+         "hp": 1764595,
+         "eind": 12023
+      },
+      {
+         "hp": 1764276,
+         "eind": 12024
+      },
+      {
+         "hp": 1763113,
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "hp": 1762940,
+         "eind": 12026
+      },
+      {
+         "hp": 1762003,
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "hp": 1761243,
+         "eind": 12028
+      },
+      {
+         "hp": 1760967,
+         "eind": 12029
+      },
+      {
+         "hp": 1760258,
+         "pl": "<10",
+         "eind": 12030
+      },
+      {
+         "hp": 1759796,
+         "eind": 12031
+      },
+      {
+         "hp": 1759770,
+         "eind": 12032
+      },
+      {
+         "hp": 1759527,
+         "eind": 12033
+      },
+      {
+         "hp": 1759472,
+         "eind": 12034
       }
    ],
    "46": [
@@ -161218,6 +161430,54 @@
       {
          "pl": 1600,
          "eind": 12019
+      },
+      {
+         "pl": 1800,
+         "eind": 12021
+      },
+      {
+         "pl": 1200,
+         "eind": 12022
+      },
+      {
+         "pl": 900,
+         "eind": 12023
+      },
+      {
+         "pl": 1000,
+         "eind": 12024
+      },
+      {
+         "pl": 600,
+         "eind": 12025
+      },
+      {
+         "pl": 1200,
+         "eind": 12027
+      },
+      {
+         "pl": 1000,
+         "eind": 12028
+      },
+      {
+         "pl": 800,
+         "eind": 12030
+      },
+      {
+         "pl": 600,
+         "eind": 12031
+      },
+      {
+         "pl": 700,
+         "eind": 12032
+      },
+      {
+         "pl": 1500,
+         "eind": 12033
+      },
+      {
+         "pl": 1600,
+         "eind": 12034
       }
    ],
    "213": [
@@ -169617,6 +169877,50 @@
       {
          "pl": 2400,
          "eind": 12019
+      },
+      {
+         "pl": 2600,
+         "eind": 12021
+      },
+      {
+         "pl": 2300,
+         "eind": 12023
+      },
+      {
+         "pl": 2000,
+         "eind": 12024
+      },
+      {
+         "pl": 1200,
+         "eind": 12025
+      },
+      {
+         "pl": 1000,
+         "eind": 12026
+      },
+      {
+         "pl": 2200,
+         "eind": 12027
+      },
+      {
+         "pl": 2100,
+         "eind": 12029
+      },
+      {
+         "pl": 1400,
+         "eind": 12030
+      },
+      {
+         "pl": 1200,
+         "eind": 12031
+      },
+      {
+         "pl": 2300,
+         "eind": 12033
+      },
+      {
+         "pl": 2400,
+         "eind": 12034
       }
    ],
    "216": [
@@ -231943,6 +232247,82 @@
          "hp": 999954,
          "pl": 16100,
          "eind": 12019
+      },
+      {
+         "hp": 1000000,
+         "pl": 17500,
+         "eind": 12021
+      },
+      {
+         "pl": 11900,
+         "eind": 12022
+      },
+      {
+         "hp": 999997,
+         "pl": 9400,
+         "eind": 12023
+      },
+      {
+         "hp": 1000000,
+         "pl": 9300,
+         "eind": 12024
+      },
+      {
+         "pl": 6000,
+         "eind": 12025
+      },
+      {
+         "pl": 6100,
+         "eind": 12026
+      },
+      {
+         "pl": 10800,
+         "eind": 12027
+      },
+      {
+         "pl": 8500,
+         "eind": 12028
+      },
+      {
+         "pl": 7500,
+         "eind": 12030
+      },
+      {
+         "pl": 6000,
+         "eind": 12031
+      },
+      {
+         "pl": 6100,
+         "eind": 12032
+      },
+      {
+         "hp": 999846,
+         "pl": 17300,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12033
+      },
+      {
+         "hp": 968976,
+         "pl": 25700,
+         "eind": 12034
       }
    ],
    "122": [
@@ -309518,6 +309898,22 @@
       {
          "pl": 100,
          "eind": 12015
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
+      },
+      {
+         "pl": 100,
+         "eind": 12034
       }
    ],
    "104": [
@@ -317442,6 +317838,107 @@
             }
          ],
          "eind": 12020
+      },
+      {
+         "hp": 1495323,
+         "pl": 34800,
+         "eind": 12021
+      },
+      {
+         "hp": 1329313,
+         "pl": 42400,
+         "eind": 12022
+      },
+      {
+         "hp": 1265459,
+         "pl": 36700,
+         "eind": 12023
+      },
+      {
+         "hp": 1200352,
+         "pl": 38400,
+         "eind": 12024
+      },
+      {
+         "hp": 948503,
+         "pl": 18500,
+         "eind": 12025
+      },
+      {
+         "hp": 920409,
+         "pl": 17800,
+         "eind": 12026
+      },
+      {
+         "hp": 723291,
+         "pl": 33000,
+         "eind": 12027
+      },
+      {
+         "hp": 526228,
+         "pl": 37800,
+         "eind": 12028
+      },
+      {
+         "hp": 457414,
+         "pl": 39400,
+         "eind": 12029
+      },
+      {
+         "hp": 254552,
+         "pl": 26000,
+         "eind": 12030
+      },
+      {
+         "hp": 173218,
+         "pl": 18400,
+         "eind": 12031
+      },
+      {
+         "hp": 153253,
+         "eind": 12032
+      },
+      {
+         "hp": 6105,
+         "pl": 21300,
+         "dss": "",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12033
+      },
+      {
+         "hp": 3868,
+         "pl": 20300,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 12034
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12035
       }
    ],
    "112": [
@@ -375775,6 +376272,38 @@
       {
          "pl": 200,
          "eind": 12018
+      },
+      {
+         "pl": 300,
+         "eind": 12022
+      },
+      {
+         "pl": 200,
+         "eind": 12023
+      },
+      {
+         "pl": 300,
+         "eind": 12024
+      },
+      {
+         "pl": 100,
+         "eind": 12025
+      },
+      {
+         "pl": 200,
+         "eind": 12027
+      },
+      {
+         "pl": 300,
+         "eind": 12029
+      },
+      {
+         "pl": 100,
+         "eind": 12030
+      },
+      {
+         "pl": 200,
+         "eind": 12034
       }
    ],
    "114": [
@@ -394706,6 +395235,22 @@
       {
          "pl": 100,
          "eind": 12018
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
+      },
+      {
+         "pl": 100,
+         "eind": 12034
       }
    ],
    "202": [
@@ -400483,6 +401028,22 @@
       {
          "pl": "<10",
          "eind": 12015
+      },
+      {
+         "pl": 100,
+         "eind": 12022
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12028
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "248": [
@@ -429691,6 +430252,42 @@
       {
          "pl": 300,
          "eind": 12018
+      },
+      {
+         "pl": 400,
+         "eind": 12021
+      },
+      {
+         "pl": 600,
+         "eind": 12022
+      },
+      {
+         "pl": 500,
+         "eind": 12023
+      },
+      {
+         "pl": 200,
+         "eind": 12025
+      },
+      {
+         "pl": 400,
+         "eind": 12027
+      },
+      {
+         "pl": 500,
+         "eind": 12028
+      },
+      {
+         "pl": 200,
+         "eind": 12030
+      },
+      {
+         "pl": 100,
+         "eind": 12032
+      },
+      {
+         "pl": 200,
+         "eind": 12033
       }
    ],
    "160": [
@@ -500936,6 +501533,50 @@
       {
          "pl": 1600,
          "eind": 12019
+      },
+      {
+         "pl": 1700,
+         "eind": 12021
+      },
+      {
+         "pl": 1400,
+         "eind": 12022
+      },
+      {
+         "pl": 1200,
+         "eind": 12023
+      },
+      {
+         "pl": 1300,
+         "eind": 12024
+      },
+      {
+         "pl": 600,
+         "eind": 12025
+      },
+      {
+         "pl": 1100,
+         "eind": 12027
+      },
+      {
+         "pl": 1200,
+         "eind": 12028
+      },
+      {
+         "pl": 1300,
+         "eind": 12029
+      },
+      {
+         "pl": 1000,
+         "eind": 12030
+      },
+      {
+         "pl": 600,
+         "eind": 12031
+      },
+      {
+         "pl": 1600,
+         "eind": 12033
       }
    ],
    "172": [
@@ -583165,6 +583806,54 @@
       {
          "pl": 8800,
          "eind": 12019
+      },
+      {
+         "pl": 9700,
+         "eind": 12021
+      },
+      {
+         "pl": 5500,
+         "eind": 12022
+      },
+      {
+         "pl": 4700,
+         "eind": 12023
+      },
+      {
+         "pl": 4600,
+         "eind": 12024
+      },
+      {
+         "pl": 3500,
+         "eind": 12025
+      },
+      {
+         "pl": 5800,
+         "eind": 12027
+      },
+      {
+         "pl": 4800,
+         "eind": 12028
+      },
+      {
+         "pl": 4700,
+         "eind": 12029
+      },
+      {
+         "pl": 4300,
+         "eind": 12030
+      },
+      {
+         "pl": 3800,
+         "eind": 12031
+      },
+      {
+         "pl": 7600,
+         "eind": 12033
+      },
+      {
+         "pl": 8100,
+         "eind": 12034
       }
    ],
    "152": [
@@ -609683,6 +610372,38 @@
       {
          "pl": 600,
          "eind": 12019
+      },
+      {
+         "pl": 700,
+         "eind": 12022
+      },
+      {
+         "pl": 600,
+         "eind": 12024
+      },
+      {
+         "pl": 200,
+         "eind": 12025
+      },
+      {
+         "pl": 500,
+         "eind": 12027
+      },
+      {
+         "pl": 600,
+         "eind": 12028
+      },
+      {
+         "pl": 400,
+         "eind": 12030
+      },
+      {
+         "pl": 200,
+         "eind": 12031
+      },
+      {
+         "pl": 400,
+         "eind": 12033
       }
    ],
    "198": [
@@ -652806,6 +653527,42 @@
       {
          "pl": 800,
          "eind": 12019
+      },
+      {
+         "pl": 1100,
+         "eind": 12022
+      },
+      {
+         "pl": 1200,
+         "eind": 12024
+      },
+      {
+         "pl": 400,
+         "eind": 12025
+      },
+      {
+         "pl": 700,
+         "eind": 12027
+      },
+      {
+         "pl": 1000,
+         "eind": 12028
+      },
+      {
+         "pl": 1200,
+         "eind": 12029
+      },
+      {
+         "pl": 600,
+         "eind": 12030
+      },
+      {
+         "pl": 300,
+         "eind": 12031
+      },
+      {
+         "pl": 400,
+         "eind": 12034
       }
    ],
    "200": [
@@ -669569,6 +670326,58 @@
       {
          "pl": 1200,
          "eind": 12019
+      },
+      {
+         "pl": 1300,
+         "eind": 12021
+      },
+      {
+         "pl": 1700,
+         "eind": 12022
+      },
+      {
+         "pl": 1400,
+         "eind": 12023
+      },
+      {
+         "pl": 1500,
+         "eind": 12024
+      },
+      {
+         "pl": 600,
+         "eind": 12025
+      },
+      {
+         "pl": 500,
+         "eind": 12026
+      },
+      {
+         "pl": 1100,
+         "eind": 12027
+      },
+      {
+         "pl": 1300,
+         "eind": 12028
+      },
+      {
+         "pl": 1400,
+         "eind": 12029
+      },
+      {
+         "pl": 800,
+         "eind": 12030
+      },
+      {
+         "pl": 500,
+         "eind": 12031
+      },
+      {
+         "pl": 600,
+         "eind": 12033
+      },
+      {
+         "pl": 800,
+         "eind": 12034
       }
    ],
    "158": [
@@ -689846,6 +690655,54 @@
       {
          "pl": 2000,
          "eind": 12019
+      },
+      {
+         "pl": 2300,
+         "eind": 12021
+      },
+      {
+         "pl": 2100,
+         "eind": 12022
+      },
+      {
+         "pl": 1900,
+         "eind": 12023
+      },
+      {
+         "pl": 2100,
+         "eind": 12024
+      },
+      {
+         "pl": 800,
+         "eind": 12025
+      },
+      {
+         "pl": 1500,
+         "eind": 12027
+      },
+      {
+         "pl": 1800,
+         "eind": 12028
+      },
+      {
+         "pl": 1900,
+         "eind": 12029
+      },
+      {
+         "pl": 1200,
+         "eind": 12030
+      },
+      {
+         "pl": 700,
+         "eind": 12031
+      },
+      {
+         "pl": 1000,
+         "eind": 12033
+      },
+      {
+         "pl": 1200,
+         "eind": 12034
       }
    ],
    "240": [
@@ -699125,6 +699982,50 @@
       {
          "pl": 800,
          "eind": 12019
+      },
+      {
+         "pl": 600,
+         "eind": 12022
+      },
+      {
+         "pl": 500,
+         "eind": 12023
+      },
+      {
+         "pl": 400,
+         "eind": 12024
+      },
+      {
+         "pl": 200,
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12026
+      },
+      {
+         "pl": 300,
+         "eind": 12027
+      },
+      {
+         "pl": 400,
+         "eind": 12028
+      },
+      {
+         "pl": 300,
+         "eind": 12029
+      },
+      {
+         "pl": 200,
+         "eind": 12030
+      },
+      {
+         "pl": 100,
+         "eind": 12031
+      },
+      {
+         "pl": 200,
+         "eind": 12033
       }
    ],
    "243": [
@@ -730745,6 +731646,42 @@
       {
          "pl": 800,
          "eind": 12019
+      },
+      {
+         "pl": 1000,
+         "eind": 12021
+      },
+      {
+         "pl": 900,
+         "eind": 12022
+      },
+      {
+         "pl": 800,
+         "eind": 12023
+      },
+      {
+         "pl": 400,
+         "eind": 12025
+      },
+      {
+         "pl": 800,
+         "eind": 12027
+      },
+      {
+         "pl": 600,
+         "eind": 12030
+      },
+      {
+         "pl": 400,
+         "eind": 12031
+      },
+      {
+         "pl": 800,
+         "eind": 12033
+      },
+      {
+         "pl": 900,
+         "eind": 12034
       }
    ],
    "201": [
@@ -735121,6 +736058,26 @@
       {
          "pl": 100,
          "eind": 12018
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": 200,
+         "eind": 12029
+      },
+      {
+         "pl": 100,
+         "eind": 12030
+      },
+      {
+         "pl": "<10",
+         "eind": 12031
       }
    ],
    "245": [
@@ -753401,6 +754358,22 @@
       {
          "pl": "<10",
          "eind": 12015
+      },
+      {
+         "pl": 100,
+         "eind": 12021
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "117": [
@@ -845158,6 +846131,22 @@
       {
          "pl": 100,
          "eind": 12018
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": "<10",
+         "eind": 12031
+      },
+      {
+         "pl": 100,
+         "eind": 12034
       }
    ],
    "94": [
@@ -857301,6 +858290,64 @@
       {
          "hp": 1407862,
          "eind": 12019
+      },
+      {
+         "hp": 1407839,
+         "eind": 12021
+      },
+      {
+         "hp": 1407433,
+         "eind": 12022
+      },
+      {
+         "hp": 1407248,
+         "eind": 12023
+      },
+      {
+         "hp": 1407103,
+         "eind": 12024
+      },
+      {
+         "hp": 1406560,
+         "eind": 12025
+      },
+      {
+         "hp": 1406485,
+         "eind": 12026
+      },
+      {
+         "hp": 1406059,
+         "eind": 12027
+      },
+      {
+         "hp": 1405760,
+         "pl": 100,
+         "eind": 12028
+      },
+      {
+         "hp": 1405603,
+         "pl": "<10",
+         "eind": 12029
+      },
+      {
+         "hp": 1405153,
+         "eind": 12030
+      },
+      {
+         "hp": 1405001,
+         "eind": 12031
+      },
+      {
+         "hp": 1404979,
+         "eind": 12032
+      },
+      {
+         "hp": 1404839,
+         "eind": 12033
+      },
+      {
+         "hp": 1404809,
+         "eind": 12034
       }
    ],
    "59": [
@@ -893910,6 +894957,66 @@
       {
          "hp": 1002422,
          "eind": 12019
+      },
+      {
+         "hp": 1002400,
+         "eind": 12021
+      },
+      {
+         "hp": 1002025,
+         "pl": 100,
+         "eind": 12022
+      },
+      {
+         "hp": 1001804,
+         "eind": 12023
+      },
+      {
+         "hp": 1001613,
+         "eind": 12024
+      },
+      {
+         "hp": 1000926,
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "hp": 1000880,
+         "eind": 12026
+      },
+      {
+         "hp": 1000337,
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "hp": 999885,
+         "eind": 12028
+      },
+      {
+         "hp": 999701,
+         "eind": 12029
+      },
+      {
+         "hp": 999322,
+         "pl": "<10",
+         "eind": 12030
+      },
+      {
+         "hp": 999185,
+         "eind": 12031
+      },
+      {
+         "hp": 999163,
+         "eind": 12032
+      },
+      {
+         "hp": 999012,
+         "eind": 12033
+      },
+      {
+         "hp": 998983,
+         "eind": 12034
       }
    ],
    "141": [
@@ -897930,6 +899037,62 @@
       {
          "hp": 1687650,
          "eind": 12019
+      },
+      {
+         "hp": 1687639,
+         "eind": 12021
+      },
+      {
+         "hp": 1687530,
+         "eind": 12022
+      },
+      {
+         "hp": 1687446,
+         "eind": 12023
+      },
+      {
+         "hp": 1687390,
+         "eind": 12024
+      },
+      {
+         "hp": 1687119,
+         "eind": 12025
+      },
+      {
+         "hp": 1687079,
+         "eind": 12026
+      },
+      {
+         "hp": 1686865,
+         "eind": 12027
+      },
+      {
+         "hp": 1686662,
+         "eind": 12028
+      },
+      {
+         "hp": 1686599,
+         "eind": 12029
+      },
+      {
+         "hp": 1686448,
+         "eind": 12030
+      },
+      {
+         "hp": 1686340,
+         "eind": 12031
+      },
+      {
+         "hp": 1686334,
+         "eind": 12032
+      },
+      {
+         "hp": 1686283,
+         "eind": 12033
+      },
+      {
+         "hp": 1686255,
+         "eind": 12034
       }
    ],
    "186": [
@@ -916768,6 +917931,14 @@
       {
          "pl": "<10",
          "eind": 12015
+      },
+      {
+         "pl": 100,
+         "eind": 12024
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
       }
    ],
    "229": [
@@ -927561,6 +928732,18 @@
          "adiv": "",
          "desc": [],
          "eind": 12019
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12029
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "144": [
@@ -931011,6 +932194,30 @@
       {
          "pl": "<10",
          "eind": 12014
+      },
+      {
+         "pl": 100,
+         "eind": 12021
+      },
+      {
+         "pl": "<10",
+         "eind": 12023
+      },
+      {
+         "pl": 100,
+         "eind": 12024
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12029
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "42": [
@@ -1002226,6 +1003433,195 @@
             }
          },
          "eind": 12019
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 805193
+            }
+         },
+         "eind": 12021
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 804853
+            }
+         },
+         "eind": 12022
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 804767
+            }
+         },
+         "eind": 12023
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 804588
+            }
+         },
+         "eind": 12024
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 804194
+            }
+         },
+         "eind": 12025
+      },
+      {
+         "pl": "<10",
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 804055
+            }
+         },
+         "eind": 12026
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 803526
+            }
+         },
+         "eind": 12027
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 803237
+            }
+         },
+         "eind": 12028
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 803171
+            }
+         },
+         "eind": 12029
+      },
+      {
+         "pl": 100,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 802836
+            }
+         },
+         "eind": 12030
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 802660
+            }
+         },
+         "eind": 12031
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 802641
+            }
+         },
+         "eind": 12032
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 802542
+            }
+         },
+         "eind": 12033
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.0,
+               "hp": 802506
+            }
+         },
+         "eind": 12034
       }
    ],
    "72": [
@@ -1087609,6 +1089005,69 @@
          "hp": 763064,
          "pl": 200,
          "eind": 12019
+      },
+      {
+         "hp": 762916,
+         "eind": 12021
+      },
+      {
+         "hp": 760963,
+         "pl": 300,
+         "eind": 12022
+      },
+      {
+         "hp": 760242,
+         "pl": 200,
+         "eind": 12023
+      },
+      {
+         "hp": 759525,
+         "eind": 12024
+      },
+      {
+         "hp": 757039,
+         "pl": 100,
+         "eind": 12025
+      },
+      {
+         "hp": 756704,
+         "eind": 12026
+      },
+      {
+         "hp": 754714,
+         "pl": 200,
+         "eind": 12027
+      },
+      {
+         "hp": 752744,
+         "pl": 300,
+         "eind": 12028
+      },
+      {
+         "hp": 752004,
+         "eind": 12029
+      },
+      {
+         "hp": 749986,
+         "pl": 200,
+         "eind": 12030
+      },
+      {
+         "hp": 749172,
+         "pl": 100,
+         "eind": 12031
+      },
+      {
+         "hp": 749108,
+         "eind": 12032
+      },
+      {
+         "hp": 748709,
+         "eind": 12033
+      },
+      {
+         "hp": 748573,
+         "eind": 12034
       }
    ],
    "137": [
@@ -1110914,6 +1112373,62 @@
       {
          "hp": 1726028,
          "eind": 12019
+      },
+      {
+         "hp": 1725984,
+         "eind": 12021
+      },
+      {
+         "hp": 1725386,
+         "eind": 12022
+      },
+      {
+         "hp": 1725215,
+         "eind": 12023
+      },
+      {
+         "hp": 1724980,
+         "eind": 12024
+      },
+      {
+         "hp": 1724308,
+         "eind": 12025
+      },
+      {
+         "hp": 1724233,
+         "eind": 12026
+      },
+      {
+         "hp": 1723497,
+         "eind": 12027
+      },
+      {
+         "hp": 1723059,
+         "eind": 12028
+      },
+      {
+         "hp": 1722857,
+         "eind": 12029
+      },
+      {
+         "hp": 1722246,
+         "eind": 12030
+      },
+      {
+         "hp": 1721939,
+         "eind": 12031
+      },
+      {
+         "hp": 1721924,
+         "eind": 12032
+      },
+      {
+         "hp": 1721773,
+         "eind": 12033
+      },
+      {
+         "hp": 1721726,
+         "eind": 12034
       }
    ],
    "177": [
@@ -1114541,6 +1116056,14 @@
       {
          "pl": "<10",
          "eind": 12015
+      },
+      {
+         "pl": 100,
+         "eind": 12024
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
       }
    ],
    "183": [
@@ -1122461,6 +1123984,18 @@
       {
          "pl": 100,
          "eind": 12018
+      },
+      {
+         "pl": "<10",
+         "eind": 12025
+      },
+      {
+         "pl": 100,
+         "eind": 12027
+      },
+      {
+         "pl": "<10",
+         "eind": 12030
       }
    ],
    "225": [
@@ -1132280,6 +1133815,58 @@
       {
          "hp": 701265,
          "eind": 12019
+      },
+      {
+         "hp": 705867,
+         "pl": 400,
+         "eind": 12021
+      },
+      {
+         "hp": 761543,
+         "eind": 12022
+      },
+      {
+         "hp": 780041,
+         "eind": 12023
+      },
+      {
+         "hp": 798208,
+         "eind": 12024
+      },
+      {
+         "hp": 872051,
+         "pl": 100,
+         "eind": 12025
+      },
+      {
+         "hp": 881265,
+         "eind": 12026
+      },
+      {
+         "hp": 946880,
+         "pl": 200,
+         "eind": 12027
+      },
+      {
+         "hp": 1000000,
+         "pl": 300,
+         "eind": 12028
+      },
+      {
+         "pl": 400,
+         "eind": 12029
+      },
+      {
+         "pl": 200,
+         "eind": 12030
+      },
+      {
+         "pl": 100,
+         "eind": 12031
+      },
+      {
+         "pl": 200,
+         "eind": 12033
       }
    ],
    "232": [

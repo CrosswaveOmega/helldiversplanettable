@@ -19140,3 +19140,11 @@ Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Luxuriant* (2026-10-
 Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Esker* (2026-10-21 10:52  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Alderidge Cove* (2026-10-21 13:32  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Fury* (2026-10-21 13:33  UTC)<br/>
+
+### Day: #988
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-10-23 08:47  UTC)<br/>
+
+### Day: #989
+DSS deploys to *Esker* of the Falstaff sector (2026-10-23 12:31  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Fury* (2026-10-23 13:35  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Fury* (2026-10-23 13:37  UTC)<br/>
