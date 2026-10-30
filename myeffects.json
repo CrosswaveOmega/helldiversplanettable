@@ -353,6 +353,12 @@
             "name": "INVASION FLEET",
             "description": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda.",
             "icon": "InvasionFleet"
+        },
+        "1431": {
+            "galacticEffectId": 1431,
+            "name": "CAUSTIC STRAIN",
+            "description": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death.",
+            "icon": "CAUSTIC STRAIN"
         }
     }
 }
