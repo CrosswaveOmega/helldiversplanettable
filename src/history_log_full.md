@@ -19148,3 +19148,99 @@ DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-10-23 08:47  UTC)<br/>
 DSS deploys to *Esker* of the Falstaff sector (2026-10-23 12:31  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Fury* (2026-10-23 13:35  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Fury* (2026-10-23 13:37  UTC)<br/>
+DSS deploys to *Fury* of the Xzar sector (2026-10-23 20:31  UTC)<br/>
+*Fury* is liberated (2026-10-23 21:07  UTC)<br/>
+DSS deploys to *Esker* of the Falstaff sector (2026-10-23 21:07  UTC)<br/>
+Xzar sector is fully under Human control (2026-10-23 21:07  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Fury* (2026-10-24 06:30  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N deploys to *Choepessa IV* (2026-10-24 06:32  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-10-24 08:47  UTC)<br/>
+
+# Day: #990
+Major Order | [A3-10-6](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-6) MEMORIAM ETERNAL-HONOR THE FALLEN is lost | Objective: Liberate (2026-10-24 09:10  UTC)<br/>
+Dispatch: MAJOR ORDER LOST Enemy aggression has denied the rightful return of certain territories to Freedom's embrace. The *Malevelon Creek* Memorial & Interrogation Center for Human Rights project is on rocky ground—a consequence that Democracy's enemies doubtlessly celebrate with glee. So long as our resources remain in enemy hands, our fallen heroes will suffer grave insult. (2026-10-24 09:12  UTC)<br/>
+Major Order | [A3-10-7](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-7) MEMORIAM ETERNAL-MAJOR ORDER is issued | Objective: Eradicate (2026-10-24 10:54  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. The Ministry of Truth is producing an inspirational education film called "Democratic Sniper." Proceeds from the film will go towards construction of the *Malevelon Creek* Memorial & Interrogation Center for Human Rights. Much of the film will consist of real battlefield footage. The Helldivers are ordered to kill 300,000,000 Terminids, 65,000,000 Illuminates, and 50,000,000 Automatons in order to ensure the availability of sufficiently high-quality footage. (2026-10-24 10:55  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION. To bolster war efforts, the HMG Emplacement Stratagem has been made freely available for all Helldiver deployments on the Terminid warfront, for the next 120 hours. (2026-10-24 11:11  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To bolster war efforts, the Orbital Railcannon Strike Stratagem has been made freely available for all Helldiver deployments on the Automaton warfront, for the next 120 hours. (2026-10-24 11:27  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To bolster war efforts, the Anti-Materiel Rifle Stratagem has been made freely available for all Helldiver deployments on the Illuminate warfront, for the next 120 hours. (2026-10-24 11:43  UTC)<br/>
+*Esker* is liberated (2026-10-24 20:03  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-10-24 20:03  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-10-25 07:36  UTC)<br/>
+Dispatch: ARSENAL BOOST. High Command has authorized high-volume use of the Orbital Railcannon Stratagem on the Automaton warfront. For operations on that warfront, the mandated waiting period between salvos has been lowered by 120 seconds for the next 72 hours. (2026-10-25 08:02  UTC)<br/>
+
+### Day: #991
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity has fallen to Human (2026-10-26 02:51  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-10-26 07:36  UTC)<br/>
+
+### Day: #992
+DSS effect EAGLE STORM starts (2026-10-26 13:06  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To bolster war efforts, the Gas Mines Stratagem has been made freely available for all Helldiver deployments on the Terminid warfront, for the next 48 hours. (2026-10-26 19:46  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Esker* (2026-10-26 19:48  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Luxuriant* (2026-10-26 19:49  UTC)<br/>
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-10-27 04:31  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION To bolster war efforts, the Shield Generator Relay Stratagem has been made freely available for all Helldiver deployments on the Illuminate warfront, for the next 48 hours. (2026-10-27 08:23  UTC)<br/>
+
+### Day: #993
+DSS effect EAGLE STORM ends (2026-10-27 13:06  UTC)<br/>
+Dispatch: SCAVENGER RAMPAGE Significantly higher Scavenger numbers have been observed on the Terminid warfront. (2026-10-27 14:44  UTC)<br/>
+*Bellatrix* of the Guang sector is attacked by Illuminates (2026-10-27 17:16  UTC)<br/>
+ Decay: 0.0 on Bellatrix
+ (2026-10-27 17:16  UTC)<br/>
+*Choepessa IV* Region 3 EVOLUTION PLATS Settlement is besieged by Human (2026-10-27 17:19  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Partion* (2026-10-27 17:20  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Omicron* (2026-10-27 17:22  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Luxuriant* (2026-10-27 17:25  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M deploys to *Bellatrix* (2026-10-27 17:26  UTC)<br/>
+ Region Decay: 1.0 on Choepessa IV's EVOLUTION PLATS region
+ (2026-10-27 18:00  UTC)<br/>
+DSS deploys to *Bellatrix* of the Guang sector (2026-10-28 00:31  UTC)<br/>
+
+### Day: #994
+*Nivel 43* of the Mirin sector instantly flips to Terminid control (2026-10-28 10:33  UTC)<br/>
+*Nivel 43* liberation campaign starts (2026-10-28 10:33  UTC)<br/>
+Major Order | [A3-10-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-8) Strategic Opportunity - Liberate *Nivel 43* is issued | Objective: Liberate (2026-10-28 10:37  UTC)<br/>
+Dispatch: NEW STRATEGIC OPPORTUNITY A Terminid outbreak has occurred on *Nivel 43*, likely due to the splintered remnants of the eco-fascistic terrorist network culled in the Counterdissident Hammer campaign. While the threat is assessed as very low, it presents an opportunity to capture vital footage of their wanton aggression. Helldivers must aid in this virtuously expedient cause and liberate *Nivel 43*. Securing the footage will reduce remaining major order requirement by 60%. (2026-10-28 10:39  UTC)<br/>
+Assault Division: Caustic Strain (Enemies) U7M deploys to *Nivel 43* (2026-10-28 10:51  UTC)<br/>
+DSS deploys to *Nivel 43* of the Mirin sector (2026-10-28 16:31  UTC)<br/>
+*Bellatrix* defense is failed (2026-10-28 17:16  UTC)<br/>
+*Bellatrix* liberation campaign starts (2026-10-28 17:16  UTC)<br/>
+ Decay: 0.5 on Bellatrix
+ (2026-10-28 17:16  UTC)<br/>
+Major Order | [A3-10-8](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-8) Strategic Opportunity - Liberate *Nivel 43* is won | Objective: Liberate (2026-10-28 18:55  UTC)<br/>
+*Nivel 43* is liberated (2026-10-28 18:56  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-10-28 18:57  UTC)<br/>
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. Helldivers have contained the outbreak on *Nivel 43*, securing essential footage for Democratic Sniper. Simultaneously, reports of new Terminid mutations have been investigated; the mutations were determined to be merely superficial changes, well within normal Terminid gene expression. The Ministry of Truth has deemed the filmed footage to be of masterfully evocative cinematic quality. As a result, the remaining major order requirements are reduced by 50%. (2026-10-28 18:57  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free availability of the Gas Mines Stratagem for forces on the Terminid front has now ended. (2026-10-28 19:49  UTC)<br/>
+DSS deploys to *Luxuriant* of the Jin Xi sector (2026-10-28 20:31  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free availability of the Shield Generator Pack Stratagem for forces on the Illuminate front has now ended. (2026-10-29 08:27  UTC)<br/>
+
+### Day: #995
+Assault Division: Caustic Strain (Enemies) U7M leaves *Nivel 43* (2026-10-29 10:43  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The efforts of the Helldivers to support the inspiration and education of our citizens was heartlessly stolen by our enemies. Limited footage of Helldivers defending Freedom was gathered; the decision was made by the studio to instead construct the footage digitally. The ballooning budget means that proceeds can no longer support the construction of the *Malevelon Creek* Memorial & Interrogation Center for Human Rights. (2026-10-29 10:56  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED. Free availability of the HMG Emplacement Stratagem for forces on the Terminid front has now ended. (2026-10-29 11:15  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free availability of the Orbital Railcannon Strike Stratagem for forces on the Automaton front has now ended. (2026-10-29 11:31  UTC)<br/>
+Dispatch: ARSENAL AUGMENTATION ENDED Free availability of the Anti-Materiel Rifle Stratagem for forces on the Illuminate front has now ended. (2026-10-29 11:45  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1D leaves *Ustotu* (2026-10-29 12:19  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1D deploys to *Varylia 5* (2026-10-29 12:20  UTC)<br/>
+*Varylia 5* of the Trigon sector is attacked by Automatons (2026-10-29 12:21  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City is besieged by Human (2026-10-29 12:21  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-10-29 12:31  UTC)<br/>
+ Decay: 0.0 on Varylia 5
+ (2026-10-29 12:31  UTC)<br/>
+ Region Decay: 0.4 on Varylia 5's SEQUIM region
+ (2026-10-29 12:31  UTC)<br/>
+Dispatch: SCAVENGER RAMPAGE UPDATE Scavenger numbers on Terminid warfront have returned to normal levels. (2026-10-29 14:43  UTC)<br/>
+DSS deploys to *Varylia 5* of the Trigon sector (2026-10-29 16:31  UTC)<br/>
+
+### Day: #996
+Assault Division: Cyborgs (Enemies) U7M deploys to *Mekbuda* (2026-10-30 15:13  UTC)<br/>
+Dispatch: NEW MAJOR ORDER Enemy aggression has made the construction of the *Malevelon Creek* Memorial & Interrogation Center for Human Rights impossible. The project has therefore been downscoped to solely consist of the Interrogation Center for Human Rights. To aid development of more effective digital interrogation techniques, the Helldivers are ordered to acquire 35,000,000 Automaton samples and kill 60,000,000 Cyborgs. (2026-10-30 16:03  UTC)<br/>
+Major Order | [A3-10-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-9) MEMORIAM ETERNAL-INTERROGATION ENHANCEMENT is issued | Objective: Eradicate (2026-10-30 16:12  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M deploys to *Mekbuda* (2026-10-30 16:13  UTC)<br/>
+Dispatch: SYSTEMS NOTIFICATION Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: -a fluttering *Super Earth* flag -a filled-out ballot -the inevitable destruction of Freedom's enemies (2026-10-30 16:22  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M deploys to *Choohe* (2026-10-30 17:13  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M deploys to *Matar Bay* (2026-10-30 18:14  UTC)<br/>
+*Varylia 5* Region 0 SEQUIM City has fallen to Human (2026-10-30 19:01  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M deploys to *Martale* (2026-10-30 19:14  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M deploys to *Charon Prime* (2026-10-30 20:14  UTC)<br/>
