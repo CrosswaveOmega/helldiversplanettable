@@ -19244,3 +19244,6 @@ Assault Division: Cyborgs (Enemies) U7M deploys to *Matar Bay* (2026-10-30 18:14
 *Varylia 5* Region 0 SEQUIM City has fallen to Human (2026-10-30 19:01  UTC)<br/>
 Assault Division: Cyborgs (Enemies) U7M deploys to *Martale* (2026-10-30 19:14  UTC)<br/>
 Assault Division: Cyborgs (Enemies) U7M deploys to *Charon Prime* (2026-10-30 20:14  UTC)<br/>
+Assault Division: Cyborgs (Enemies) U7M leaves *Charon Prime* (2026-10-30 21:13  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1E deploys to *Choepessa IV* (2026-10-30 21:14  UTC)<br/>
+*Zzaniah Prime* Region 0 GEMSTELLE GENERATOR Settlement owned by  Automaton was altered (2026-10-30 21:36  UTC)<br/>
