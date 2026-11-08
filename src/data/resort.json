@@ -18885,6 +18885,38 @@
       {
          "pl": 100,
          "eind": 12181
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12210
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12239
+      },
+      {
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12249
+      },
+      {
+         "pl": "<10",
+         "eind": 12263
+      },
+      {
+         "pl": 100,
+         "eind": 12264
       }
    ],
    "1": [
@@ -25197,6 +25229,74 @@
       {
          "pl": 100,
          "eind": 12186
+      },
+      {
+         "pl": "<10",
+         "eind": 12193
+      },
+      {
+         "pl": 100,
+         "eind": 12194
+      },
+      {
+         "pl": "<10",
+         "eind": 12195
+      },
+      {
+         "pl": 100,
+         "eind": 12221
+      },
+      {
+         "pl": "<10",
+         "eind": 12226
+      },
+      {
+         "pl": 100,
+         "eind": 12241
+      },
+      {
+         "pl": "<10",
+         "eind": 12242
+      },
+      {
+         "pl": 100,
+         "eind": 12245
+      },
+      {
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12248
+      },
+      {
+         "pl": 200,
+         "eind": 12257
+      },
+      {
+         "pl": 100,
+         "eind": 12258
+      },
+      {
+         "pl": 200,
+         "eind": 12259
+      },
+      {
+         "pl": 100,
+         "eind": 12261
+      },
+      {
+         "pl": 200,
+         "eind": 12262
+      },
+      {
+         "pl": 100,
+         "eind": 12264
+      },
+      {
+         "pl": 200,
+         "eind": 12266
       }
    ],
    "176": [
@@ -33269,6 +33369,222 @@
       {
          "hp": 1739679,
          "eind": 12187
+      },
+      {
+         "hp": 1739664,
+         "eind": 12192
+      },
+      {
+         "hp": 1739661,
+         "eind": 12193
+      },
+      {
+         "hp": 1739660,
+         "eind": 12194
+      },
+      {
+         "hp": 1739620,
+         "eind": 12195
+      },
+      {
+         "hp": 1739511,
+         "eind": 12196
+      },
+      {
+         "hp": 1739475,
+         "eind": 12197
+      },
+      {
+         "hp": 1739354,
+         "eind": 12198
+      },
+      {
+         "hp": 1739316,
+         "eind": 12199
+      },
+      {
+         "hp": 1739313,
+         "eind": 12200
+      },
+      {
+         "hp": 1739302,
+         "eind": 12201
+      },
+      {
+         "hp": 1739301,
+         "eind": 12203
+      },
+      {
+         "hp": 1739291,
+         "eind": 12212
+      },
+      {
+         "hp": 1739285,
+         "eind": 12214
+      },
+      {
+         "hp": 1739276,
+         "eind": 12216
+      },
+      {
+         "hp": 1739261,
+         "eind": 12220
+      },
+      {
+         "hp": 1739242,
+         "eind": 12221
+      },
+      {
+         "hp": 1739241,
+         "eind": 12226
+      },
+      {
+         "hp": 1739226,
+         "eind": 12229
+      },
+      {
+         "hp": 1739207,
+         "eind": 12230
+      },
+      {
+         "hp": 1739170,
+         "eind": 12231
+      },
+      {
+         "hp": 1739167,
+         "eind": 12232
+      },
+      {
+         "hp": 1739141,
+         "eind": 12233
+      },
+      {
+         "hp": 1739082,
+         "eind": 12234
+      },
+      {
+         "hp": 1739052,
+         "eind": 12235
+      },
+      {
+         "hp": 1738853,
+         "eind": 12236
+      },
+      {
+         "hp": 1738819,
+         "eind": 12237
+      },
+      {
+         "hp": 1738810,
+         "eind": 12238
+      },
+      {
+         "hp": 1738755,
+         "eind": 12239
+      },
+      {
+         "hp": 1738686,
+         "eind": 12241
+      },
+      {
+         "hp": 1738645,
+         "eind": 12242
+      },
+      {
+         "hp": 1738612,
+         "eind": 12243
+      },
+      {
+         "hp": 1738524,
+         "eind": 12244
+      },
+      {
+         "hp": 1738454,
+         "eind": 12245
+      },
+      {
+         "hp": 1738396,
+         "eind": 12246
+      },
+      {
+         "hp": 1738326,
+         "eind": 12247
+      },
+      {
+         "hp": 1738158,
+         "eind": 12248
+      },
+      {
+         "hp": 1738135,
+         "eind": 12249
+      },
+      {
+         "hp": 1738122,
+         "eind": 12250
+      },
+      {
+         "hp": 1738087,
+         "eind": 12251
+      },
+      {
+         "hp": 1738032,
+         "eind": 12252
+      },
+      {
+         "hp": 1737906,
+         "eind": 12253
+      },
+      {
+         "hp": 1737902,
+         "eind": 12254
+      },
+      {
+         "hp": 1737874,
+         "eind": 12255
+      },
+      {
+         "hp": 1737799,
+         "eind": 12256
+      },
+      {
+         "hp": 1737696,
+         "eind": 12257
+      },
+      {
+         "hp": 1737602,
+         "eind": 12258
+      },
+      {
+         "hp": 1737502,
+         "eind": 12259
+      },
+      {
+         "hp": 1737399,
+         "eind": 12260
+      },
+      {
+         "hp": 1737345,
+         "eind": 12261
+      },
+      {
+         "hp": 1737189,
+         "eind": 12262
+      },
+      {
+         "hp": 1737161,
+         "eind": 12263
+      },
+      {
+         "hp": 1737111,
+         "eind": 12264
+      },
+      {
+         "hp": 1737048,
+         "eind": 12266
+      },
+      {
+         "hp": 1737045,
+         "eind": 12268
       }
    ],
    "46": [
@@ -56202,6 +56518,16 @@
       {
          "pl": "<10",
          "eind": 11929
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "77": [
@@ -78803,6 +79129,20 @@
       {
          "pl": "<10",
          "eind": 12013
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "271": [
@@ -108165,6 +108505,16 @@
          "eind": 11497
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11499
+      },
+      {
          "gls": null,
          "eind": 11500
       },
@@ -108252,6 +108602,10 @@
          "adiv": "CAUSTIC STRAIN",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "CAUSTIC STRAIN",
                "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
             }
@@ -108268,6 +108622,10 @@
          "pl": 25700,
          "dss": "DSS Here",
          "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
             {
                "name": "CAUSTIC STRAIN",
                "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
@@ -108296,6 +108654,10 @@
       {
          "dss": "",
          "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
             {
                "name": "CAUSTIC STRAIN",
                "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
@@ -108330,7 +108692,12 @@
       },
       {
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "eind": 12104
       },
       {
@@ -108370,6 +108737,10 @@
          "adiv": "DragonRoach",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "DRAGONROACHES",
                "desc": "Terminid Dragonroaches menace the skies of this planet."
             }
@@ -108379,7 +108750,12 @@
       {
          "r": 0.0,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "eind": 12164
       },
       {
@@ -108455,11 +108831,172 @@
          "adiv": "CAUSTIC STRAIN",
          "desc": [
             {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
                "name": "CAUSTIC STRAIN",
                "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
             }
          ],
          "eind": 12187
+      },
+      {
+         "pl": 3400,
+         "eind": 12192
+      },
+      {
+         "pl": 3100,
+         "eind": 12193
+      },
+      {
+         "pl": 2900,
+         "r": 4.1666665,
+         "t": 33,
+         "eind": 12194
+      },
+      {
+         "pl": 900,
+         "eind": 12195
+      },
+      {
+         "pl": 700,
+         "eind": 12196
+      },
+      {
+         "pl": 600,
+         "eind": 12197
+      },
+      {
+         "pl": 700,
+         "eind": 12198
+      },
+      {
+         "pl": 300,
+         "eind": 12199
+      },
+      {
+         "pl": 500,
+         "eind": 12212
+      },
+      {
+         "pl": 600,
+         "eind": 12214
+      },
+      {
+         "pl": 800,
+         "eind": 12220
+      },
+      {
+         "pl": 600,
+         "eind": 12221
+      },
+      {
+         "pl": 500,
+         "eind": 12226
+      },
+      {
+         "pl": 400,
+         "eind": 12229
+      },
+      {
+         "pl": 500,
+         "eind": 12231
+      },
+      {
+         "pl": 400,
+         "eind": 12232
+      },
+      {
+         "pl": 500,
+         "eind": 12234
+      },
+      {
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "pl": 400,
+         "adiv": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 12239
+      },
+      {
+         "pl": 300,
+         "eind": 12241
+      },
+      {
+         "pl": 400,
+         "eind": 12244
+      },
+      {
+         "pl": 200,
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12247
+      },
+      {
+         "pl": 200,
+         "eind": 12248
+      },
+      {
+         "pl": 400,
+         "eind": 12249
+      },
+      {
+         "pl": 300,
+         "eind": 12250
+      },
+      {
+         "pl": 400,
+         "eind": 12253
+      },
+      {
+         "pl": 500,
+         "eind": 12254
+      },
+      {
+         "pl": 300,
+         "eind": 12255
+      },
+      {
+         "pl": 400,
+         "eind": 12256
+      },
+      {
+         "pl": 500,
+         "eind": 12257
+      },
+      {
+         "pl": 400,
+         "eind": 12258
+      },
+      {
+         "pl": 500,
+         "eind": 12259
+      },
+      {
+         "pl": 600,
+         "eind": 12260
+      },
+      {
+         "pl": 500,
+         "eind": 12261
+      },
+      {
+         "pl": 300,
+         "eind": 12262
+      },
+      {
+         "pl": 1200,
+         "eind": 12266
       }
    ],
    "212": [
@@ -163165,6 +163702,134 @@
       {
          "pl": 700,
          "eind": 12186
+      },
+      {
+         "pl": 500,
+         "eind": 12193
+      },
+      {
+         "pl": 400,
+         "eind": 12195
+      },
+      {
+         "pl": 200,
+         "eind": 12199
+      },
+      {
+         "pl": 300,
+         "eind": 12201
+      },
+      {
+         "pl": 400,
+         "eind": 12212
+      },
+      {
+         "pl": 500,
+         "eind": 12216
+      },
+      {
+         "pl": 400,
+         "eind": 12221
+      },
+      {
+         "pl": 300,
+         "eind": 12229
+      },
+      {
+         "pl": 400,
+         "eind": 12231
+      },
+      {
+         "pl": 300,
+         "eind": 12232
+      },
+      {
+         "pl": 400,
+         "eind": 12233
+      },
+      {
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "pl": 400,
+         "eind": 12239
+      },
+      {
+         "pl": 500,
+         "eind": 12241
+      },
+      {
+         "pl": 400,
+         "eind": 12242
+      },
+      {
+         "pl": 500,
+         "eind": 12245
+      },
+      {
+         "pl": 300,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12247
+      },
+      {
+         "pl": 400,
+         "eind": 12248
+      },
+      {
+         "pl": 700,
+         "eind": 12249
+      },
+      {
+         "pl": 500,
+         "eind": 12250
+      },
+      {
+         "pl": 400,
+         "eind": 12251
+      },
+      {
+         "pl": 500,
+         "eind": 12252
+      },
+      {
+         "pl": 600,
+         "eind": 12254
+      },
+      {
+         "pl": 400,
+         "eind": 12255
+      },
+      {
+         "pl": 600,
+         "eind": 12256
+      },
+      {
+         "pl": 900,
+         "eind": 12257
+      },
+      {
+         "pl": 500,
+         "eind": 12258
+      },
+      {
+         "pl": 600,
+         "eind": 12259
+      },
+      {
+         "pl": 700,
+         "eind": 12260
+      },
+      {
+         "pl": 500,
+         "eind": 12262
+      },
+      {
+         "pl": 1100,
+         "eind": 12266
       }
    ],
    "213": [
@@ -172010,6 +172675,146 @@
       {
          "pl": 700,
          "eind": 12187
+      },
+      {
+         "pl": 800,
+         "eind": 12192
+      },
+      {
+         "pl": 900,
+         "eind": 12196
+      },
+      {
+         "pl": 800,
+         "eind": 12197
+      },
+      {
+         "pl": 700,
+         "eind": 12198
+      },
+      {
+         "pl": 400,
+         "eind": 12199
+      },
+      {
+         "pl": 300,
+         "eind": 12200
+      },
+      {
+         "pl": 400,
+         "eind": 12203
+      },
+      {
+         "pl": 500,
+         "eind": 12212
+      },
+      {
+         "pl": 600,
+         "eind": 12220
+      },
+      {
+         "pl": 700,
+         "eind": 12230
+      },
+      {
+         "pl": 800,
+         "eind": 12234
+      },
+      {
+         "pl": 600,
+         "eind": 12235
+      },
+      {
+         "pl": 300,
+         "eind": 12236
+      },
+      {
+         "pl": 200,
+         "eind": 12237
+      },
+      {
+         "pl": 300,
+         "eind": 12238
+      },
+      {
+         "pl": 400,
+         "eind": 12239
+      },
+      {
+         "pl": 500,
+         "eind": 12241
+      },
+      {
+         "pl": 700,
+         "eind": 12242
+      },
+      {
+         "pl": 400,
+         "eind": 12246
+      },
+      {
+         "pl": 300,
+         "eind": 12247
+      },
+      {
+         "pl": 400,
+         "eind": 12248
+      },
+      {
+         "pl": 600,
+         "eind": 12249
+      },
+      {
+         "pl": 700,
+         "eind": 12250
+      },
+      {
+         "pl": 800,
+         "eind": 12252
+      },
+      {
+         "pl": 700,
+         "eind": 12253
+      },
+      {
+         "pl": 500,
+         "eind": 12255
+      },
+      {
+         "pl": 700,
+         "eind": 12256
+      },
+      {
+         "pl": 800,
+         "eind": 12257
+      },
+      {
+         "pl": 1000,
+         "eind": 12258
+      },
+      {
+         "pl": 1100,
+         "eind": 12259
+      },
+      {
+         "pl": 900,
+         "eind": 12260
+      },
+      {
+         "pl": 800,
+         "eind": 12261
+      },
+      {
+         "pl": 600,
+         "eind": 12262
+      },
+      {
+         "pl": 700,
+         "eind": 12264
+      },
+      {
+         "pl": 1400,
+         "eind": 12266
       }
    ],
    "216": [
@@ -202192,6 +202997,28 @@
       {
          "r": 1.3888888,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Xenoentomology Center",
+               "desc": "Those who study Terminid behavior, ecology and E-710 potential gather here for cross-disciplinary research."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "168": [
@@ -227093,6 +227920,196 @@
       {
          "pl": "<10",
          "eind": 12013
+      },
+      {
+         "t": 33,
+         "eind": 12212
+      },
+      {
+         "gls": 3,
+         "poi": "HIVE WORLD",
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "eind": 12213
+      },
+      {
+         "hp": 503366,
+         "r": 9.722222,
+         "eind": 12214
+      },
+      {
+         "hp": 520749,
+         "pl": 1300,
+         "eind": 12216
+      },
+      {
+         "hp": 545470,
+         "pl": 3600,
+         "eind": 12220
+      },
+      {
+         "hp": 583579,
+         "pl": 4100,
+         "eind": 12221
+      },
+      {
+         "hp": 598981,
+         "pl": 3900,
+         "eind": 12226
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12228
+      },
+      {
+         "hp": 629169,
+         "pl": 4900,
+         "eind": 12229
+      },
+      {
+         "hp": 664482,
+         "pl": 5800,
+         "eind": 12230
+      },
+      {
+         "hp": 718955,
+         "pl": 7300,
+         "eind": 12231
+      },
+      {
+         "hp": 773762,
+         "pl": 6900,
+         "eind": 12232
+      },
+      {
+         "hp": 834395,
+         "pl": 8400,
+         "eind": 12233
+      },
+      {
+         "hp": 762761,
+         "pl": 19500,
+         "r": -2.7777777,
+         "eind": 12234
+      },
+      {
+         "hp": 725424,
+         "pl": 16000,
+         "eind": 12235
+      },
+      {
+         "hp": 581304,
+         "pl": 5700,
+         "eind": 12236
+      },
+      {
+         "hp": 550125,
+         "pl": 4700,
+         "eind": 12237
+      },
+      {
+         "hp": 518289,
+         "pl": 4900,
+         "eind": 12238
+      },
+      {
+         "hp": 448422,
+         "pl": 6500,
+         "eind": 12239
+      },
+      {
+         "hp": 397648,
+         "pl": 8100,
+         "eind": 12241
+      },
+      {
+         "hp": 274919,
+         "pl": 11800,
+         "eind": 12242
+      },
+      {
+         "hp": 200822,
+         "pl": 13300,
+         "eind": 12243
+      },
+      {
+         "hp": 1966,
+         "pl": 12900,
+         "t": 16,
+         "eind": 12244
+      },
+      {
+         "hp": 2000000,
+         "pl": 700,
+         "r": 9.722222,
+         "eind": 12245
+      },
+      {
+         "pl": 300,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12247
+      },
+      {
+         "pl": 300,
+         "eind": 12248
+      },
+      {
+         "pl": 400,
+         "eind": 12251
+      },
+      {
+         "pl": 300,
+         "eind": 12252
+      },
+      {
+         "pl": 100,
+         "eind": 12253
+      },
+      {
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "pl": 100,
+         "eind": 12257
+      },
+      {
+         "pl": "<10",
+         "eind": 12261
       }
    ],
    "75": [
@@ -234597,6 +235614,96 @@
       {
          "pl": "<10",
          "eind": 12085
+      },
+      {
+         "desc": [],
+         "eind": 12221
+      },
+      {
+         "t": 21,
+         "adiv": "CAUSTIC STRAIN",
+         "desc": [
+            {
+               "name": "CAUSTIC STRAIN",
+               "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
+            }
+         ],
+         "eind": 12240
+      },
+      {
+         "pl": 1900,
+         "r": 0.0,
+         "eind": 12241
+      },
+      {
+         "pl": 1300,
+         "eind": 12242
+      },
+      {
+         "pl": 1500,
+         "eind": 12243
+      },
+      {
+         "pl": 2100,
+         "eind": 12245
+      },
+      {
+         "pl": 1400,
+         "eind": 12246
+      },
+      {
+         "pl": 1000,
+         "eind": 12247
+      },
+      {
+         "pl": 1600,
+         "t": 33,
+         "eind": 12248
+      },
+      {
+         "pl": 800,
+         "r": 6.9444447,
+         "eind": 12249
+      },
+      {
+         "pl": 600,
+         "eind": 12250
+      },
+      {
+         "pl": 500,
+         "eind": 12251
+      },
+      {
+         "pl": 700,
+         "eind": 12257
+      },
+      {
+         "pl": 500,
+         "eind": 12258
+      },
+      {
+         "pl": 600,
+         "eind": 12259
+      },
+      {
+         "pl": 500,
+         "eind": 12260
+      },
+      {
+         "pl": 400,
+         "eind": 12263
+      },
+      {
+         "pl": 500,
+         "eind": 12264
+      },
+      {
+         "pl": 2200,
+         "eind": 12266
+      },
+      {
+         "pl": 2300,
+         "eind": 12268
       }
    ],
    "122": [
@@ -256952,11 +258059,30 @@
          "eind": 11498
       },
       {
+         "poi": "TCSIcon",
+         "desc": [
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 11499
+      },
+      {
          "hp": 1000000,
          "pl": 21100,
          "gls": null,
          "adiv": "",
-         "desc": [],
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
          "eind": 11500
       },
       {
@@ -257120,6 +258246,20 @@
          "pl": "<10",
          "r": 8.333333,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "78": [
@@ -286467,6 +287607,324 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "t": 33,
+         "gls": 3,
+         "poi": "",
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 263752
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 12201
+      },
+      {
+         "poi": "HIVE WORLD",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            }
+         ],
+         "eind": 12202
+      },
+      {
+         "hp": 1211963,
+         "pl": 100,
+         "r": 9.722222,
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 12203
+      },
+      {
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 12204
+      },
+      {
+         "hp": 259462,
+         "pl": 300,
+         "eind": 12210
+      },
+      {
+         "hp": 318618,
+         "pl": 1500,
+         "eind": 12212
+      },
+      {
+         "hp": 326923,
+         "pl": 1800,
+         "eind": 12214
+      },
+      {
+         "hp": 343435,
+         "pl": 2800,
+         "eind": 12216
+      },
+      {
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 12217
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12219
+      },
+      {
+         "hp": 357782,
+         "pl": 19000,
+         "eind": 12220
+      },
+      {
+         "hp": 322693,
+         "pl": 26500,
+         "eind": 12221
+      },
+      {
+         "hp": 306311,
+         "pl": 24600,
+         "eind": 12226
+      },
+      {
+         "hp": 272251,
+         "pl": 23400,
+         "eind": 12229
+      },
+      {
+         "hp": 231270,
+         "pl": 24400,
+         "eind": 12230
+      },
+      {
+         "hp": 159626,
+         "pl": 30800,
+         "eind": 12231
+      },
+      {
+         "hp": 85435,
+         "pl": 27700,
+         "eind": 12232
+      },
+      {
+         "hp": 6968,
+         "pl": 26000,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "regions": {
+            "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II": {
+               "index": 1,
+               "name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 400000
+            },
+            "LIL'OME": {
+               "index": 78,
+               "name": "LIL'OME",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            }
+         },
+         "eind": 12233
+      },
+      {
+         "hp": 1500000,
+         "pl": 800,
+         "eind": 12234
+      },
+      {
+         "pl": 400,
+         "eind": 12235
+      },
+      {
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "pl": 300,
+         "eind": 12239
+      },
+      {
+         "pl": 500,
+         "eind": 12241
+      },
+      {
+         "pl": 400,
+         "eind": 12243
+      },
+      {
+         "pl": 100,
+         "eind": 12244
+      },
+      {
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12249
+      },
+      {
+         "pl": "<10",
+         "eind": 12253
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "169": [
@@ -312344,11 +313802,32 @@
          "pl": 1700,
          "r": 6.9444447,
          "gls": 3,
+         "poi": "HIVE WORLD",
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
          "eind": 12186
       },
       {
          "hp": 682757,
          "pl": 1600,
+         "adiv": "",
          "eind": 12187
       },
       {
@@ -312356,9 +313835,272 @@
             {
                "name": "TERMINID CONTROL SYSTEM+",
                "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
             }
          ],
          "eind": 12189
+      },
+      {
+         "t": 32,
+         "eind": 12190
+      },
+      {
+         "t": 33,
+         "eind": 12191
+      },
+      {
+         "hp": 690061,
+         "pl": 2300,
+         "r": 9.722222,
+         "eind": 12192
+      },
+      {
+         "hp": 705578,
+         "pl": 13700,
+         "eind": 12193
+      },
+      {
+         "hp": 712926,
+         "pl": 23100,
+         "eind": 12194
+      },
+      {
+         "hp": 697033,
+         "pl": 28300,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12195
+      },
+      {
+         "hp": 623696,
+         "pl": 38600,
+         "eind": 12196
+      },
+      {
+         "hp": 575041,
+         "pl": 36800,
+         "eind": 12197
+      },
+      {
+         "hp": 449072,
+         "pl": 44200,
+         "eind": 12198
+      },
+      {
+         "hp": 209869,
+         "pl": 19900,
+         "eind": 12199
+      },
+      {
+         "hp": 166809,
+         "pl": 18300,
+         "eind": 12200
+      },
+      {
+         "hp": 123765,
+         "pl": 19000,
+         "eind": 12201
+      },
+      {
+         "hp": 101844,
+         "pl": 19200,
+         "eind": 12203
+      },
+      {
+         "adiv": "HiveLord",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            }
+         ],
+         "eind": 12207
+      },
+      {
+         "hp": 92300,
+         "pl": 20000,
+         "r": 12.5,
+         "eind": 12210
+      },
+      {
+         "hp": 31893,
+         "pl": 26400,
+         "eind": 12212
+      },
+      {
+         "hp": 22306,
+         "pl": 27700,
+         "eind": 12214
+      },
+      {
+         "hp": 5460,
+         "eind": 12216
+      },
+      {
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            }
+         ],
+         "eind": 12219
+      },
+      {
+         "hp": 1000000,
+         "pl": 11700,
+         "eind": 12220
+      },
+      {
+         "pl": 1800,
+         "eind": 12221
+      },
+      {
+         "pl": 1400,
+         "eind": 12226
+      },
+      {
+         "pl": 1300,
+         "eind": 12230
+      },
+      {
+         "pl": 1400,
+         "eind": 12231
+      },
+      {
+         "pl": 1200,
+         "eind": 12232
+      },
+      {
+         "pl": 1400,
+         "eind": 12233
+      },
+      {
+         "pl": 1300,
+         "eind": 12234
+      },
+      {
+         "pl": 1000,
+         "eind": 12235
+      },
+      {
+         "pl": 300,
+         "eind": 12236
+      },
+      {
+         "pl": 200,
+         "eind": 12237
+      },
+      {
+         "pl": 400,
+         "eind": 12239
+      },
+      {
+         "pl": 300,
+         "eind": 12241
+      },
+      {
+         "pl": 400,
+         "eind": 12244
+      },
+      {
+         "pl": 300,
+         "eind": 12245
+      },
+      {
+         "pl": 100,
+         "eind": 12246
+      },
+      {
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "pl": 100,
+         "eind": 12256
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "104": [
@@ -379112,6 +380854,94 @@
       {
          "pl": 200,
          "eind": 12187
+      },
+      {
+         "pl": 300,
+         "eind": 12196
+      },
+      {
+         "pl": 400,
+         "eind": 12198
+      },
+      {
+         "pl": 100,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12212
+      },
+      {
+         "pl": 300,
+         "eind": 12230
+      },
+      {
+         "pl": 400,
+         "eind": 12234
+      },
+      {
+         "pl": 100,
+         "eind": 12236
+      },
+      {
+         "pl": 200,
+         "eind": 12241
+      },
+      {
+         "pl": 300,
+         "eind": 12242
+      },
+      {
+         "pl": 400,
+         "eind": 12244
+      },
+      {
+         "pl": 200,
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12247
+      },
+      {
+         "pl": 200,
+         "eind": 12248
+      },
+      {
+         "pl": 300,
+         "eind": 12250
+      },
+      {
+         "pl": 400,
+         "eind": 12251
+      },
+      {
+         "pl": 500,
+         "eind": 12252
+      },
+      {
+         "pl": 300,
+         "eind": 12255
+      },
+      {
+         "pl": 500,
+         "eind": 12258
+      },
+      {
+         "pl": 700,
+         "eind": 12259
+      },
+      {
+         "pl": 800,
+         "eind": 12261
+      },
+      {
+         "pl": 400,
+         "eind": 12262
+      },
+      {
+         "pl": 300,
+         "eind": 12263
       }
    ],
    "114": [
@@ -398390,6 +400220,117 @@
       {
          "pl": "<10",
          "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12192
+      },
+      {
+         "pl": "<10",
+         "eind": 12193
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12220
+      },
+      {
+         "pl": "<10",
+         "eind": 12221
+      },
+      {
+         "pl": 100,
+         "eind": 12231
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12242
+      },
+      {
+         "pl": "<10",
+         "eind": 12247
+      },
+      {
+         "pl": 100,
+         "eind": 12250
+      },
+      {
+         "pl": 200,
+         "eind": 12253
+      },
+      {
+         "pl": 100,
+         "eind": 12254
+      },
+      {
+         "pl": "<10",
+         "eind": 12256
+      },
+      {
+         "pl": 100,
+         "eind": 12257
+      },
+      {
+         "pl": 200,
+         "eind": 12259
+      },
+      {
+         "pl": 100,
+         "eind": 12262
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 12263
+      },
+      {
+         "pl": "<10",
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12264
       }
    ],
    "202": [
@@ -404310,6 +406251,46 @@
       {
          "pl": "<10",
          "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12198
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12235
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12245
+      },
+      {
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12252
+      },
+      {
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "pl": 100,
+         "eind": 12258
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
       }
    ],
    "248": [
@@ -433830,6 +435811,82 @@
       {
          "pl": 100,
          "eind": 12181
+      },
+      {
+         "pl": 200,
+         "eind": 12196
+      },
+      {
+         "pl": 300,
+         "eind": 12198
+      },
+      {
+         "pl": 100,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12221
+      },
+      {
+         "pl": 300,
+         "eind": 12231
+      },
+      {
+         "pl": 200,
+         "eind": 12232
+      },
+      {
+         "pl": 100,
+         "eind": 12236
+      },
+      {
+         "pl": "<10",
+         "eind": 12238
+      },
+      {
+         "pl": 100,
+         "eind": 12239
+      },
+      {
+         "pl": 200,
+         "eind": 12242
+      },
+      {
+         "pl": 300,
+         "eind": 12245
+      },
+      {
+         "pl": 100,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12250
+      },
+      {
+         "pl": 300,
+         "eind": 12251
+      },
+      {
+         "pl": 200,
+         "eind": 12255
+      },
+      {
+         "pl": 300,
+         "eind": 12257
+      },
+      {
+         "pl": 500,
+         "eind": 12259
+      },
+      {
+         "pl": 300,
+         "eind": 12260
+      },
+      {
+         "pl": 200,
+         "eind": 12262
       }
    ],
    "160": [
@@ -486049,6 +488106,623 @@
             }
          },
          "eind": 12187
+      },
+      {
+         "pl": 16000,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 60576
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 360896
+            }
+         },
+         "eind": 12192
+      },
+      {
+         "pl": 13800,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 53212
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 360043
+            }
+         },
+         "eind": 12193
+      },
+      {
+         "pl": 12700,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 45708
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 359591
+            }
+         },
+         "eind": 12194
+      },
+      {
+         "pl": 8500,
+         "dss": "",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 22062
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 360924
+            }
+         },
+         "eind": 12195
+      },
+      {
+         "pl": 4900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 3918
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 367381
+            }
+         },
+         "eind": 12196
+      },
+      {
+         "pl": 4500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 370855
+            }
+         },
+         "eind": 12197
+      },
+      {
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 369686
+            }
+         },
+         "eind": 12198
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 380020
+            }
+         },
+         "eind": 12199
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 381813
+            }
+         },
+         "eind": 12200
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 383675
+            }
+         },
+         "eind": 12201
+      },
+      {
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 384615
+            }
+         },
+         "eind": 12203
+      },
+      {
+         "gls": 3,
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "eind": 12207
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 385156
+            }
+         },
+         "eind": 12210
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 12211
+      },
+      {
+         "pl": 3400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 388638
+            }
+         },
+         "eind": 12212
+      },
+      {
+         "pl": 3600,
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 389126
+            }
+         },
+         "eind": 12214
+      },
+      {
+         "adiv": "RuptureStrain",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 12215
+      },
+      {
+         "pl": 3500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 390109
+            }
+         },
+         "eind": 12216
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 391387
+            }
+         },
+         "eind": 12220
+      },
+      {
+         "pl": 3700,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 393108
+            }
+         },
+         "eind": 12221
+      },
+      {
+         "pl": 3400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 393992
+            }
+         },
+         "eind": 12226
+      },
+      {
+         "pl": 3000,
+         "r": 2.7777777,
+         "t": 33,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12229
+      },
+      {
+         "pl": 1500,
+         "eind": 12230
+      },
+      {
+         "pl": 1400,
+         "eind": 12231
+      },
+      {
+         "pl": 1100,
+         "eind": 12232
+      },
+      {
+         "pl": 1200,
+         "eind": 12234
+      },
+      {
+         "pl": 1000,
+         "eind": 12235
+      },
+      {
+         "pl": 400,
+         "eind": 12236
+      },
+      {
+         "pl": 700,
+         "eind": 12239
+      },
+      {
+         "pl": 800,
+         "eind": 12241
+      },
+      {
+         "pl": 600,
+         "eind": 12242
+      },
+      {
+         "pl": 700,
+         "eind": 12245
+      },
+      {
+         "pl": 400,
+         "eind": 12246
+      },
+      {
+         "pl": 300,
+         "eind": 12247
+      },
+      {
+         "pl": 500,
+         "eind": 12248
+      },
+      {
+         "pl": 700,
+         "eind": 12249
+      },
+      {
+         "pl": 600,
+         "eind": 12251
+      },
+      {
+         "pl": 700,
+         "eind": 12252
+      },
+      {
+         "pl": 600,
+         "eind": 12254
+      },
+      {
+         "pl": 500,
+         "eind": 12255
+      },
+      {
+         "pl": 600,
+         "eind": 12256
+      },
+      {
+         "pl": 800,
+         "eind": 12257
+      },
+      {
+         "pl": 700,
+         "eind": 12260
+      },
+      {
+         "pl": 600,
+         "eind": 12262
+      },
+      {
+         "pl": 500,
+         "eind": 12263
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399998
+            }
+         },
+         "eind": 12266
+      },
+      {
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 399997
+            }
+         },
+         "eind": 12268
       }
    ],
    "171": [
@@ -505883,6 +508557,155 @@
       {
          "pl": 700,
          "eind": 12187
+      },
+      {
+         "pl": 900,
+         "eind": 12192
+      },
+      {
+         "pl": 800,
+         "eind": 12193
+      },
+      {
+         "pl": 600,
+         "eind": 12195
+      },
+      {
+         "pl": 800,
+         "eind": 12196
+      },
+      {
+         "pl": 400,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12200
+      },
+      {
+         "pl": 300,
+         "eind": 12201
+      },
+      {
+         "pl": 400,
+         "eind": 12212
+      },
+      {
+         "pl": 500,
+         "eind": 12220
+      },
+      {
+         "pl": 400,
+         "eind": 12221
+      },
+      {
+         "pl": 500,
+         "eind": 12229
+      },
+      {
+         "pl": 400,
+         "eind": 12230
+      },
+      {
+         "pl": 500,
+         "eind": 12231
+      },
+      {
+         "pl": 400,
+         "eind": 12233
+      },
+      {
+         "pl": 600,
+         "eind": 12234
+      },
+      {
+         "pl": 500,
+         "eind": 12235
+      },
+      {
+         "hp": 999994,
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "hp": 1000000,
+         "eind": 12237
+      },
+      {
+         "pl": 300,
+         "eind": 12241
+      },
+      {
+         "pl": 400,
+         "eind": 12244
+      },
+      {
+         "pl": 500,
+         "eind": 12245
+      },
+      {
+         "pl": 200,
+         "eind": 12246
+      },
+      {
+         "pl": 300,
+         "eind": 12249
+      },
+      {
+         "pl": 400,
+         "eind": 12250
+      },
+      {
+         "pl": 300,
+         "eind": 12251
+      },
+      {
+         "pl": 400,
+         "eind": 12252
+      },
+      {
+         "pl": 500,
+         "eind": 12253
+      },
+      {
+         "pl": 400,
+         "eind": 12254
+      },
+      {
+         "pl": 300,
+         "eind": 12255
+      },
+      {
+         "pl": 400,
+         "eind": 12257
+      },
+      {
+         "pl": 600,
+         "eind": 12259
+      },
+      {
+         "pl": 500,
+         "eind": 12260
+      },
+      {
+         "pl": 600,
+         "eind": 12261
+      },
+      {
+         "pl": 400,
+         "eind": 12262
+      },
+      {
+         "pl": 200,
+         "eind": 12263
+      },
+      {
+         "pl": 300,
+         "eind": 12264
+      },
+      {
+         "pl": 1600,
+         "eind": 12266
       }
    ],
    "172": [
@@ -588792,6 +591615,224 @@
          "hp": 1640490,
          "pl": 4900,
          "eind": 12187
+      },
+      {
+         "hp": 1642552,
+         "pl": 5100,
+         "eind": 12192
+      },
+      {
+         "hp": 1647267,
+         "pl": 4100,
+         "eind": 12193
+      },
+      {
+         "hp": 1652859,
+         "pl": 4000,
+         "eind": 12194
+      },
+      {
+         "hp": 1688553,
+         "pl": 2600,
+         "eind": 12195
+      },
+      {
+         "hp": 1751790,
+         "pl": 2800,
+         "eind": 12196
+      },
+      {
+         "hp": 1788781,
+         "pl": 2600,
+         "eind": 12197
+      },
+      {
+         "hp": 1877699,
+         "pl": 3000,
+         "eind": 12198
+      },
+      {
+         "hp": 1990144,
+         "pl": 1500,
+         "eind": 12199
+      },
+      {
+         "hp": 2000000,
+         "eind": 12200
+      },
+      {
+         "pl": 1600,
+         "eind": 12201
+      },
+      {
+         "pl": 1700,
+         "eind": 12203
+      },
+      {
+         "pl": 2500,
+         "eind": 12212
+      },
+      {
+         "pl": 2800,
+         "eind": 12214
+      },
+      {
+         "pl": 2700,
+         "eind": 12216
+      },
+      {
+         "pl": 3000,
+         "eind": 12220
+      },
+      {
+         "pl": 2600,
+         "eind": 12221
+      },
+      {
+         "pl": 2300,
+         "eind": 12226
+      },
+      {
+         "pl": 2100,
+         "eind": 12229
+      },
+      {
+         "pl": 2000,
+         "eind": 12230
+      },
+      {
+         "pl": 2400,
+         "eind": 12231
+      },
+      {
+         "pl": 2100,
+         "eind": 12232
+      },
+      {
+         "pl": 2200,
+         "eind": 12233
+      },
+      {
+         "pl": 2600,
+         "eind": 12234
+      },
+      {
+         "pl": 2300,
+         "eind": 12235
+      },
+      {
+         "pl": 1200,
+         "eind": 12236
+      },
+      {
+         "pl": 1100,
+         "eind": 12237
+      },
+      {
+         "pl": 1300,
+         "eind": 12238
+      },
+      {
+         "pl": 2200,
+         "eind": 12239
+      },
+      {
+         "pl": 2700,
+         "eind": 12241
+      },
+      {
+         "pl": 2100,
+         "eind": 12242
+      },
+      {
+         "pl": 2200,
+         "eind": 12244
+      },
+      {
+         "pl": 2500,
+         "eind": 12245
+      },
+      {
+         "pl": 1800,
+         "eind": 12246
+      },
+      {
+         "pl": 1300,
+         "eind": 12247
+      },
+      {
+         "pl": 2300,
+         "eind": 12248
+      },
+      {
+         "pl": 3500,
+         "eind": 12249
+      },
+      {
+         "pl": 3000,
+         "eind": 12250
+      },
+      {
+         "pl": 2500,
+         "eind": 12251
+      },
+      {
+         "pl": 2600,
+         "eind": 12252
+      },
+      {
+         "pl": 3100,
+         "eind": 12253
+      },
+      {
+         "pl": 3200,
+         "eind": 12254
+      },
+      {
+         "pl": 2700,
+         "eind": 12255
+      },
+      {
+         "pl": 3500,
+         "eind": 12256
+      },
+      {
+         "pl": 4600,
+         "eind": 12257
+      },
+      {
+         "pl": 3500,
+         "eind": 12258
+      },
+      {
+         "pl": 3800,
+         "eind": 12259
+      },
+      {
+         "pl": 3700,
+         "eind": 12260
+      },
+      {
+         "pl": 4100,
+         "eind": 12261
+      },
+      {
+         "pl": 3600,
+         "eind": 12262
+      },
+      {
+         "pl": 3200,
+         "eind": 12263
+      },
+      {
+         "hp": 1993546,
+         "pl": 17900,
+         "eind": 12266
+      },
+      {
+         "hp": 1990281,
+         "pl": 18500,
+         "eind": 12268
       }
    ],
    "152": [
@@ -615650,6 +618691,118 @@
       {
          "pl": 100,
          "eind": 12179
+      },
+      {
+         "pl": 200,
+         "eind": 12192
+      },
+      {
+         "pl": 100,
+         "eind": 12194
+      },
+      {
+         "pl": 200,
+         "eind": 12195
+      },
+      {
+         "pl": 300,
+         "eind": 12196
+      },
+      {
+         "pl": 100,
+         "eind": 12199
+      },
+      {
+         "pl": "<10",
+         "eind": 12201
+      },
+      {
+         "pl": 100,
+         "eind": 12203
+      },
+      {
+         "pl": 200,
+         "eind": 12214
+      },
+      {
+         "pl": 300,
+         "eind": 12231
+      },
+      {
+         "pl": 200,
+         "eind": 12232
+      },
+      {
+         "pl": 300,
+         "eind": 12234
+      },
+      {
+         "pl": 100,
+         "eind": 12236
+      },
+      {
+         "pl": 200,
+         "eind": 12241
+      },
+      {
+         "pl": 300,
+         "eind": 12244
+      },
+      {
+         "pl": 400,
+         "eind": 12245
+      },
+      {
+         "pl": 200,
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12247
+      },
+      {
+         "pl": 200,
+         "eind": 12248
+      },
+      {
+         "pl": 300,
+         "eind": 12249
+      },
+      {
+         "pl": 200,
+         "eind": 12250
+      },
+      {
+         "pl": 300,
+         "eind": 12251
+      },
+      {
+         "pl": 400,
+         "eind": 12253
+      },
+      {
+         "pl": 200,
+         "eind": 12255
+      },
+      {
+         "pl": 400,
+         "eind": 12257
+      },
+      {
+         "pl": 500,
+         "eind": 12259
+      },
+      {
+         "pl": 300,
+         "eind": 12262
+      },
+      {
+         "pl": 200,
+         "eind": 12263
+      },
+      {
+         "pl": 300,
+         "eind": 12266
       }
    ],
    "198": [
@@ -659141,6 +662294,150 @@
       {
          "pl": 300,
          "eind": 12186
+      },
+      {
+         "pl": 200,
+         "eind": 12194
+      },
+      {
+         "pl": 300,
+         "eind": 12195
+      },
+      {
+         "pl": 400,
+         "eind": 12196
+      },
+      {
+         "pl": 500,
+         "eind": 12198
+      },
+      {
+         "pl": 200,
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12200
+      },
+      {
+         "pl": 200,
+         "eind": 12201
+      },
+      {
+         "pl": 300,
+         "eind": 12220
+      },
+      {
+         "pl": 200,
+         "eind": 12226
+      },
+      {
+         "pl": 300,
+         "eind": 12229
+      },
+      {
+         "pl": 400,
+         "eind": 12231
+      },
+      {
+         "pl": 500,
+         "eind": 12232
+      },
+      {
+         "pl": 600,
+         "eind": 12234
+      },
+      {
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12238
+      },
+      {
+         "pl": 200,
+         "eind": 12239
+      },
+      {
+         "pl": 300,
+         "eind": 12241
+      },
+      {
+         "pl": 500,
+         "eind": 12243
+      },
+      {
+         "pl": 600,
+         "eind": 12245
+      },
+      {
+         "pl": 400,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12247
+      },
+      {
+         "pl": 300,
+         "eind": 12248
+      },
+      {
+         "pl": 400,
+         "eind": 12249
+      },
+      {
+         "pl": 600,
+         "eind": 12252
+      },
+      {
+         "pl": 700,
+         "eind": 12253
+      },
+      {
+         "pl": 600,
+         "eind": 12254
+      },
+      {
+         "pl": 400,
+         "eind": 12255
+      },
+      {
+         "pl": 500,
+         "eind": 12257
+      },
+      {
+         "pl": 700,
+         "eind": 12258
+      },
+      {
+         "pl": 900,
+         "eind": 12259
+      },
+      {
+         "pl": 800,
+         "eind": 12260
+      },
+      {
+         "pl": 900,
+         "eind": 12261
+      },
+      {
+         "pl": 500,
+         "eind": 12262
+      },
+      {
+         "pl": 400,
+         "eind": 12263
+      },
+      {
+         "pl": 300,
+         "eind": 12264
+      },
+      {
+         "pl": 400,
+         "eind": 12268
       }
    ],
    "200": [
@@ -676337,6 +679634,154 @@
       {
          "pl": 400,
          "eind": 12186
+      },
+      {
+         "pl": 300,
+         "eind": 12193
+      },
+      {
+         "pl": 400,
+         "eind": 12195
+      },
+      {
+         "pl": 700,
+         "eind": 12196
+      },
+      {
+         "pl": 600,
+         "eind": 12197
+      },
+      {
+         "pl": 800,
+         "eind": 12198
+      },
+      {
+         "pl": 300,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12203
+      },
+      {
+         "pl": 300,
+         "eind": 12210
+      },
+      {
+         "pl": 400,
+         "eind": 12216
+      },
+      {
+         "pl": 500,
+         "eind": 12220
+      },
+      {
+         "pl": 900,
+         "eind": 12231
+      },
+      {
+         "pl": 700,
+         "eind": 12232
+      },
+      {
+         "pl": 900,
+         "eind": 12234
+      },
+      {
+         "pl": 400,
+         "eind": 12236
+      },
+      {
+         "pl": 300,
+         "eind": 12237
+      },
+      {
+         "pl": 500,
+         "eind": 12241
+      },
+      {
+         "pl": 700,
+         "eind": 12242
+      },
+      {
+         "pl": 800,
+         "eind": 12243
+      },
+      {
+         "pl": 900,
+         "eind": 12244
+      },
+      {
+         "pl": 1200,
+         "eind": 12245
+      },
+      {
+         "pl": 600,
+         "eind": 12246
+      },
+      {
+         "pl": 300,
+         "eind": 12247
+      },
+      {
+         "pl": 400,
+         "eind": 12248
+      },
+      {
+         "pl": 700,
+         "eind": 12249
+      },
+      {
+         "pl": 1300,
+         "eind": 12252
+      },
+      {
+         "pl": 1500,
+         "eind": 12253
+      },
+      {
+         "pl": 800,
+         "eind": 12255
+      },
+      {
+         "pl": 700,
+         "eind": 12256
+      },
+      {
+         "pl": 900,
+         "eind": 12257
+      },
+      {
+         "pl": 1400,
+         "eind": 12258
+      },
+      {
+         "pl": 1800,
+         "eind": 12259
+      },
+      {
+         "pl": 1700,
+         "eind": 12260
+      },
+      {
+         "pl": 1800,
+         "eind": 12261
+      },
+      {
+         "pl": 1100,
+         "eind": 12262
+      },
+      {
+         "pl": 800,
+         "eind": 12263
+      },
+      {
+         "pl": 700,
+         "eind": 12264
+      },
+      {
+         "pl": 900,
+         "eind": 12266
       }
    ],
    "158": [
@@ -699090,6 +702535,1343 @@
          "hp": 2222025,
          "pl": 6200,
          "eind": 12187
+      },
+      {
+         "hp": 2229269,
+         "pl": 5700,
+         "eind": 12192
+      },
+      {
+         "hp": 2245821,
+         "pl": 3800,
+         "eind": 12193
+      },
+      {
+         "hp": 2264496,
+         "pl": 3600,
+         "eind": 12194
+      },
+      {
+         "hp": 2354263,
+         "pl": 2900,
+         "eind": 12195
+      },
+      {
+         "hp": 2493335,
+         "pl": 3300,
+         "eind": 12196
+      },
+      {
+         "hp": 2573499,
+         "eind": 12197
+      },
+      {
+         "hp": 2762849,
+         "pl": 3500,
+         "eind": 12198
+      },
+      {
+         "hp": 2986272,
+         "pl": 1600,
+         "eind": 12199
+      },
+      {
+         "hp": 3029012,
+         "pl": 1400,
+         "eind": 12200
+      },
+      {
+         "hp": 3071734,
+         "eind": 12201
+      },
+      {
+         "hp": 3093250,
+         "eind": 12203
+      },
+      {
+         "hp": 3103962,
+         "eind": 12210
+      },
+      {
+         "hp": 3178811,
+         "pl": 1600,
+         "eind": 12212
+      },
+      {
+         "hp": 3189586,
+         "pl": 1700,
+         "eind": 12214
+      },
+      {
+         "hp": 3200000,
+         "pl": 1800,
+         "eind": 12216
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 0
+            }
+         },
+         "eind": 12220
+      },
+      {
+         "pl": 2000,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 267477
+            }
+         },
+         "eind": 12221
+      },
+      {
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 274503
+            }
+         },
+         "eind": 12226
+      },
+      {
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 288584
+            }
+         },
+         "eind": 12229
+      },
+      {
+         "pl": 2100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 305860
+            }
+         },
+         "eind": 12230
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 333594
+            }
+         },
+         "eind": 12231
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 361305
+            }
+         },
+         "eind": 12232
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 392627
+            }
+         },
+         "eind": 12233
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 426435
+            }
+         },
+         "eind": 12234
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 439713
+            }
+         },
+         "eind": 12235
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 494003
+            }
+         },
+         "eind": 12236
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 506550
+            }
+         },
+         "eind": 12237
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 519262
+            }
+         },
+         "eind": 12238
+      },
+      {
+         "pl": 1400,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 548624
+            }
+         },
+         "eind": 12239
+      },
+      {
+         "pl": 1900,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 571923
+            }
+         },
+         "eind": 12241
+      },
+      {
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 624822
+            }
+         },
+         "eind": 12242
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 651031
+            }
+         },
+         "eind": 12243
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 719752
+            }
+         },
+         "eind": 12244
+      },
+      {
+         "pl": 2800,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 752428
+            }
+         },
+         "eind": 12245
+      },
+      {
+         "pl": 1900,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 787974
+            }
+         },
+         "eind": 12246
+      },
+      {
+         "pl": 1300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 819838
+            }
+         },
+         "eind": 12247
+      },
+      {
+         "pl": 1600,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 861648
+            }
+         },
+         "eind": 12248
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 884107
+            }
+         },
+         "eind": 12249
+      },
+      {
+         "pl": 2400,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 909449
+            }
+         },
+         "eind": 12250
+      },
+      {
+         "pl": 2500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 935380
+            }
+         },
+         "eind": 12251
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12252
+      },
+      {
+         "pl": 3100,
+         "eind": 12253
+      },
+      {
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 399999
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12254
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12255
+      },
+      {
+         "pl": 2200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 399988
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12256
+      },
+      {
+         "pl": 3300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12257
+      },
+      {
+         "pl": 3100,
+         "eind": 12258
+      },
+      {
+         "pl": 3500,
+         "eind": 12259
+      },
+      {
+         "pl": 3400,
+         "eind": 12260
+      },
+      {
+         "pl": 3700,
+         "eind": 12261
+      },
+      {
+         "pl": 2600,
+         "eind": 12262
+      },
+      {
+         "pl": 2300,
+         "eind": 12263
+      },
+      {
+         "pl": 2100,
+         "eind": 12264
+      },
+      {
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12265
+      },
+      {
+         "pl": 10200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 399745
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 999997
+            }
+         },
+         "eind": 12266
+      },
+      {
+         "pl": 10100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 399604
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 4.1666665,
+               "hp": 1000000
+            }
+         },
+         "eind": 12268
       }
    ],
    "240": [
@@ -708663,6 +713445,90 @@
       {
          "pl": 300,
          "eind": 12182
+      },
+      {
+         "pl": 200,
+         "eind": 12193
+      },
+      {
+         "pl": 100,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12221
+      },
+      {
+         "pl": 100,
+         "eind": 12236
+      },
+      {
+         "pl": "<10",
+         "eind": 12237
+      },
+      {
+         "pl": 100,
+         "eind": 12239
+      },
+      {
+         "pl": 200,
+         "eind": 12243
+      },
+      {
+         "pl": 100,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12249
+      },
+      {
+         "pl": 100,
+         "eind": 12250
+      },
+      {
+         "pl": 200,
+         "eind": 12251
+      },
+      {
+         "pl": 300,
+         "eind": 12252
+      },
+      {
+         "pl": 100,
+         "eind": 12255
+      },
+      {
+         "pl": 200,
+         "eind": 12256
+      },
+      {
+         "pl": 300,
+         "eind": 12258
+      },
+      {
+         "pl": 400,
+         "eind": 12259
+      },
+      {
+         "pl": 300,
+         "eind": 12260
+      },
+      {
+         "pl": 200,
+         "eind": 12262
+      },
+      {
+         "pl": 100,
+         "eind": 12263
+      },
+      {
+         "pl": 200,
+         "eind": 12264
+      },
+      {
+         "pl": 300,
+         "eind": 12266
       }
    ],
    "243": [
@@ -722559,6 +727425,19 @@
       {
          "pl": "<10",
          "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": "<10",
+         "eind": 12198
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 12223
       }
    ],
    "262": [
@@ -724884,6 +729763,86 @@
       {
          "pl": "<10",
          "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12192
+      },
+      {
+         "pl": "<10",
+         "eind": 12193
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": "<10",
+         "eind": 12197
+      },
+      {
+         "pl": 100,
+         "eind": 12198
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12231
+      },
+      {
+         "pl": "<10",
+         "eind": 12232
+      },
+      {
+         "pl": 100,
+         "eind": 12235
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12244
+      },
+      {
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "pl": 100,
+         "eind": 12253
+      },
+      {
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "pl": 100,
+         "eind": 12257
+      },
+      {
+         "pl": "<10",
+         "eind": 12258
+      },
+      {
+         "pl": 100,
+         "eind": 12259
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
+      },
+      {
+         "pl": 100,
+         "eind": 12266
+      },
+      {
+         "pl": "<10",
+         "eind": 12268
       }
    ],
    "266": [
@@ -741152,6 +746111,154 @@
       {
          "pl": 600,
          "eind": 12186
+      },
+      {
+         "pl": 700,
+         "eind": 12192
+      },
+      {
+         "pl": 500,
+         "eind": 12193
+      },
+      {
+         "pl": 400,
+         "eind": 12195
+      },
+      {
+         "pl": 500,
+         "eind": 12196
+      },
+      {
+         "pl": 400,
+         "eind": 12197
+      },
+      {
+         "pl": 300,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12200
+      },
+      {
+         "pl": 300,
+         "eind": 12214
+      },
+      {
+         "pl": 400,
+         "eind": 12220
+      },
+      {
+         "pl": 300,
+         "eind": 12229
+      },
+      {
+         "pl": 400,
+         "eind": 12231
+      },
+      {
+         "pl": 300,
+         "eind": 12232
+      },
+      {
+         "pl": 500,
+         "eind": 12234
+      },
+      {
+         "pl": 400,
+         "eind": 12235
+      },
+      {
+         "pl": 200,
+         "eind": 12236
+      },
+      {
+         "pl": 300,
+         "eind": 12239
+      },
+      {
+         "pl": 400,
+         "eind": 12241
+      },
+      {
+         "pl": 300,
+         "eind": 12242
+      },
+      {
+         "pl": 400,
+         "eind": 12244
+      },
+      {
+         "pl": 500,
+         "eind": 12245
+      },
+      {
+         "pl": 300,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12247
+      },
+      {
+         "pl": 400,
+         "eind": 12248
+      },
+      {
+         "pl": 500,
+         "eind": 12249
+      },
+      {
+         "pl": 400,
+         "eind": 12250
+      },
+      {
+         "pl": 300,
+         "eind": 12251
+      },
+      {
+         "pl": 400,
+         "eind": 12252
+      },
+      {
+         "pl": 500,
+         "eind": 12253
+      },
+      {
+         "pl": 400,
+         "eind": 12255
+      },
+      {
+         "pl": 500,
+         "eind": 12256
+      },
+      {
+         "pl": 600,
+         "eind": 12257
+      },
+      {
+         "pl": 500,
+         "eind": 12258
+      },
+      {
+         "pl": 600,
+         "eind": 12259
+      },
+      {
+         "pl": 400,
+         "eind": 12262
+      },
+      {
+         "pl": 300,
+         "eind": 12264
+      },
+      {
+         "pl": 1000,
+         "eind": 12266
+      },
+      {
+         "pl": 1100,
+         "eind": 12268
       }
    ],
    "201": [
@@ -745748,6 +750855,62 @@
       {
          "pl": "<10",
          "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12221
+      },
+      {
+         "pl": "<10",
+         "eind": 12229
+      },
+      {
+         "pl": 100,
+         "eind": 12231
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12242
+      },
+      {
+         "pl": "<10",
+         "eind": 12247
+      },
+      {
+         "pl": 100,
+         "eind": 12250
+      },
+      {
+         "pl": 200,
+         "eind": 12254
+      },
+      {
+         "pl": 100,
+         "eind": 12255
+      },
+      {
+         "pl": 200,
+         "eind": 12259
+      },
+      {
+         "pl": 100,
+         "eind": 12262
+      },
+      {
+         "pl": "<10",
+         "eind": 12268
       }
    ],
    "245": [
@@ -748654,6 +753817,11 @@
       {
          "pl": "<10",
          "eind": 11867
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 12224
       }
    ],
    "246": [
@@ -764124,6 +769292,14 @@
       {
          "pl": "<10",
          "eind": 12155
+      },
+      {
+         "pl": 100,
+         "eind": 12260
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
       }
    ],
    "117": [
@@ -848918,6 +854094,26 @@
       {
          "pl": 100,
          "eind": 12187
+      },
+      {
+         "pl": "<10",
+         "eind": 12192
+      },
+      {
+         "pl": 100,
+         "eind": 12193
+      },
+      {
+         "pl": "<10",
+         "eind": 12194
+      },
+      {
+         "pl": 100,
+         "eind": 12259
+      },
+      {
+         "pl": "<10",
+         "eind": 12260
       }
    ],
    "91": [
@@ -857317,6 +862513,86 @@
       {
          "pl": 500,
          "eind": 12182
+      },
+      {
+         "pl": 300,
+         "eind": 12193
+      },
+      {
+         "pl": 200,
+         "eind": 12195
+      },
+      {
+         "pl": 300,
+         "eind": 12196
+      },
+      {
+         "pl": 100,
+         "eind": 12199
+      },
+      {
+         "pl": 200,
+         "eind": 12220
+      },
+      {
+         "pl": 100,
+         "eind": 12226
+      },
+      {
+         "pl": 200,
+         "eind": 12229
+      },
+      {
+         "pl": 100,
+         "eind": 12236
+      },
+      {
+         "pl": "<10",
+         "eind": 12237
+      },
+      {
+         "pl": 100,
+         "eind": 12238
+      },
+      {
+         "pl": 200,
+         "eind": 12241
+      },
+      {
+         "pl": 300,
+         "eind": 12245
+      },
+      {
+         "pl": 100,
+         "eind": 12246
+      },
+      {
+         "pl": 200,
+         "eind": 12249
+      },
+      {
+         "pl": 300,
+         "eind": 12253
+      },
+      {
+         "pl": 100,
+         "eind": 12255
+      },
+      {
+         "pl": 300,
+         "eind": 12257
+      },
+      {
+         "pl": 200,
+         "eind": 12262
+      },
+      {
+         "pl": 100,
+         "eind": 12264
+      },
+      {
+         "pl": 300,
+         "eind": 12266
       }
    ],
    "94": [
@@ -870934,6 +876210,789 @@
             }
          },
          "eind": 12187
+      },
+      {
+         "hp": 1162026,
+         "pl": 600,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 129648
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12192
+      },
+      {
+         "hp": 1161732,
+         "pl": 400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 130227
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12193
+      },
+      {
+         "hp": 1161482,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 130954
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12194
+      },
+      {
+         "hp": 1160835,
+         "pl": 300,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 134307
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12195
+      },
+      {
+         "hp": 1159715,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 139473
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12196
+      },
+      {
+         "hp": 1159148,
+         "pl": 400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 142454
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12197
+      },
+      {
+         "hp": 1157871,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 149219
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12198
+      },
+      {
+         "hp": 1157215,
+         "pl": 100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 157960
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12199
+      },
+      {
+         "hp": 1157079,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 159653
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12200
+      },
+      {
+         "hp": 1156911,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 161341
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12201
+      },
+      {
+         "hp": 1156849,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 162167
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12203
+      },
+      {
+         "hp": 1156833,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 162599
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12210
+      },
+      {
+         "hp": 1156658,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 165580
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12212
+      },
+      {
+         "hp": 1156650,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 166002
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12214
+      },
+      {
+         "hp": 1156610,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 166864
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12216
+      },
+      {
+         "hp": 1156527,
+         "pl": 200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 168121
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12220
+      },
+      {
+         "hp": 1156376,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 170245
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12221
+      },
+      {
+         "hp": 1156326,
+         "pl": 100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 171092
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12226
+      },
+      {
+         "hp": 1156256,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 172807
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12229
+      },
+      {
+         "hp": 1156149,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 174934
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12230
+      },
+      {
+         "hp": 1155912,
+         "pl": 200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 178358
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12231
+      },
+      {
+         "hp": 1155705,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 181757
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12232
+      },
+      {
+         "hp": 1155435,
+         "pl": 300,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 185510
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12233
+      },
+      {
+         "hp": 1155008,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 189581
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12234
+      },
+      {
+         "hp": 1154826,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 191177
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12235
+      },
+      {
+         "hp": 1153710,
+         "pl": 100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 197796
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12236
+      },
+      {
+         "hp": 1153498,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199372
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12237
+      },
+      {
+         "hp": 1153239,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12238
+      },
+      {
+         "hp": 1152761,
+         "eind": 12239
+      },
+      {
+         "hp": 1152443,
+         "eind": 12241
+      },
+      {
+         "hp": 1151581,
+         "pl": 200,
+         "eind": 12242
+      },
+      {
+         "hp": 1151203,
+         "eind": 12243
+      },
+      {
+         "hp": 1149883,
+         "eind": 12244
+      },
+      {
+         "hp": 1149332,
+         "eind": 12245
+      },
+      {
+         "hp": 1148639,
+         "eind": 12246
+      },
+      {
+         "hp": 1148038,
+         "pl": 100,
+         "eind": 12247
+      },
+      {
+         "hp": 1147232,
+         "eind": 12248
+      },
+      {
+         "hp": 1146868,
+         "eind": 12249
+      },
+      {
+         "hp": 1146476,
+         "pl": 200,
+         "eind": 12250
+      },
+      {
+         "hp": 1146038,
+         "eind": 12251
+      },
+      {
+         "hp": 1144323,
+         "pl": 300,
+         "eind": 12252
+      },
+      {
+         "hp": 1142965,
+         "eind": 12253
+      },
+      {
+         "hp": 1142719,
+         "eind": 12254
+      },
+      {
+         "hp": 1141801,
+         "pl": 200,
+         "eind": 12255
+      },
+      {
+         "hp": 1140546,
+         "eind": 12256
+      },
+      {
+         "hp": 1139910,
+         "eind": 12257
+      },
+      {
+         "hp": 1138781,
+         "pl": 500,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199999
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12258
+      },
+      {
+         "hp": 1137221,
+         "pl": 600,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12259
+      },
+      {
+         "hp": 1135790,
+         "pl": 500,
+         "eind": 12260
+      },
+      {
+         "hp": 1134972,
+         "pl": 600,
+         "eind": 12261
+      },
+      {
+         "hp": 1133225,
+         "pl": 400,
+         "eind": 12262
+      },
+      {
+         "hp": 1132803,
+         "pl": 200,
+         "eind": 12263
+      },
+      {
+         "hp": 1131788,
+         "pl": 300,
+         "eind": 12264
+      },
+      {
+         "hp": 1130942,
+         "pl": 600,
+         "eind": 12266
+      },
+      {
+         "hp": 1130773,
+         "eind": 12268
       }
    ],
    "59": [
@@ -891477,6 +897536,20 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "218": [
@@ -898062,6 +904135,24 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "219": [
@@ -908147,6 +914238,228 @@
       {
          "hp": 947169,
          "eind": 12187
+      },
+      {
+         "hp": 947130,
+         "eind": 12192
+      },
+      {
+         "hp": 947063,
+         "eind": 12193
+      },
+      {
+         "hp": 947025,
+         "eind": 12194
+      },
+      {
+         "hp": 946864,
+         "eind": 12195
+      },
+      {
+         "hp": 946561,
+         "eind": 12196
+      },
+      {
+         "hp": 946347,
+         "eind": 12197
+      },
+      {
+         "hp": 945950,
+         "eind": 12198
+      },
+      {
+         "hp": 945807,
+         "eind": 12199
+      },
+      {
+         "hp": 945779,
+         "eind": 12200
+      },
+      {
+         "hp": 945736,
+         "eind": 12201
+      },
+      {
+         "hp": 945724,
+         "eind": 12203
+      },
+      {
+         "hp": 945722,
+         "eind": 12210
+      },
+      {
+         "hp": 945673,
+         "eind": 12212
+      },
+      {
+         "hp": 945662,
+         "eind": 12214
+      },
+      {
+         "hp": 945640,
+         "eind": 12216
+      },
+      {
+         "hp": 945606,
+         "eind": 12220
+      },
+      {
+         "hp": 945551,
+         "eind": 12221
+      },
+      {
+         "hp": 945539,
+         "eind": 12226
+      },
+      {
+         "hp": 945515,
+         "eind": 12229
+      },
+      {
+         "hp": 945485,
+         "eind": 12230
+      },
+      {
+         "hp": 945412,
+         "eind": 12231
+      },
+      {
+         "hp": 945341,
+         "eind": 12232
+      },
+      {
+         "hp": 945255,
+         "eind": 12233
+      },
+      {
+         "hp": 945166,
+         "eind": 12234
+      },
+      {
+         "hp": 945114,
+         "eind": 12235
+      },
+      {
+         "hp": 944824,
+         "eind": 12236
+      },
+      {
+         "hp": 944763,
+         "eind": 12237
+      },
+      {
+         "hp": 944664,
+         "eind": 12238
+      },
+      {
+         "hp": 944470,
+         "eind": 12239
+      },
+      {
+         "hp": 944408,
+         "eind": 12241
+      },
+      {
+         "hp": 944220,
+         "eind": 12242
+      },
+      {
+         "hp": 944101,
+         "eind": 12243
+      },
+      {
+         "hp": 943781,
+         "eind": 12244
+      },
+      {
+         "hp": 943623,
+         "eind": 12245
+      },
+      {
+         "hp": 943466,
+         "eind": 12246
+      },
+      {
+         "hp": 943303,
+         "eind": 12247
+      },
+      {
+         "hp": 943067,
+         "eind": 12248
+      },
+      {
+         "hp": 942971,
+         "eind": 12249
+      },
+      {
+         "hp": 942884,
+         "eind": 12250
+      },
+      {
+         "hp": 942735,
+         "eind": 12251
+      },
+      {
+         "hp": 942193,
+         "eind": 12252
+      },
+      {
+         "hp": 941752,
+         "eind": 12253
+      },
+      {
+         "hp": 941708,
+         "eind": 12254
+      },
+      {
+         "hp": 941547,
+         "eind": 12255
+      },
+      {
+         "hp": 941268,
+         "eind": 12256
+      },
+      {
+         "hp": 941079,
+         "eind": 12257
+      },
+      {
+         "hp": 940724,
+         "eind": 12258
+      },
+      {
+         "hp": 940264,
+         "pl": 100,
+         "eind": 12259
+      },
+      {
+         "hp": 939754,
+         "eind": 12260
+      },
+      {
+         "hp": 939562,
+         "pl": "<10",
+         "eind": 12261
+      },
+      {
+         "hp": 939325,
+         "eind": 12262
+      },
+      {
+         "hp": 939221,
+         "eind": 12263
+      },
+      {
+         "hp": 939058,
+         "eind": 12264
+      },
+      {
+         "hp": 938800,
+         "eind": 12266
+      },
+      {
+         "hp": 938771,
+         "eind": 12268
       }
    ],
    "141": [
@@ -912728,6 +919041,222 @@
       {
          "hp": 1667446,
          "eind": 12187
+      },
+      {
+         "hp": 1667433,
+         "eind": 12192
+      },
+      {
+         "hp": 1667420,
+         "eind": 12193
+      },
+      {
+         "hp": 1667403,
+         "eind": 12194
+      },
+      {
+         "hp": 1667348,
+         "eind": 12195
+      },
+      {
+         "hp": 1667223,
+         "eind": 12196
+      },
+      {
+         "hp": 1667190,
+         "eind": 12197
+      },
+      {
+         "hp": 1667048,
+         "eind": 12198
+      },
+      {
+         "hp": 1666962,
+         "eind": 12199
+      },
+      {
+         "hp": 1666951,
+         "eind": 12200
+      },
+      {
+         "hp": 1666937,
+         "eind": 12201
+      },
+      {
+         "hp": 1666931,
+         "eind": 12203
+      },
+      {
+         "hp": 1666922,
+         "eind": 12210
+      },
+      {
+         "hp": 1666896,
+         "eind": 12212
+      },
+      {
+         "hp": 1666894,
+         "eind": 12216
+      },
+      {
+         "hp": 1666871,
+         "eind": 12220
+      },
+      {
+         "hp": 1666860,
+         "eind": 12221
+      },
+      {
+         "hp": 1666858,
+         "eind": 12226
+      },
+      {
+         "hp": 1666848,
+         "eind": 12229
+      },
+      {
+         "hp": 1666834,
+         "eind": 12230
+      },
+      {
+         "hp": 1666811,
+         "eind": 12231
+      },
+      {
+         "hp": 1666788,
+         "eind": 12232
+      },
+      {
+         "hp": 1666749,
+         "eind": 12233
+      },
+      {
+         "hp": 1666707,
+         "eind": 12234
+      },
+      {
+         "hp": 1666680,
+         "eind": 12235
+      },
+      {
+         "hp": 1666403,
+         "eind": 12236
+      },
+      {
+         "hp": 1666343,
+         "eind": 12237
+      },
+      {
+         "hp": 1666329,
+         "eind": 12238
+      },
+      {
+         "hp": 1666256,
+         "eind": 12239
+      },
+      {
+         "hp": 1666215,
+         "eind": 12241
+      },
+      {
+         "hp": 1666127,
+         "eind": 12242
+      },
+      {
+         "hp": 1666086,
+         "eind": 12243
+      },
+      {
+         "hp": 1665957,
+         "eind": 12244
+      },
+      {
+         "hp": 1665901,
+         "eind": 12245
+      },
+      {
+         "hp": 1665822,
+         "eind": 12246
+      },
+      {
+         "hp": 1665682,
+         "eind": 12247
+      },
+      {
+         "hp": 1665608,
+         "eind": 12248
+      },
+      {
+         "hp": 1665578,
+         "eind": 12249
+      },
+      {
+         "hp": 1665526,
+         "eind": 12250
+      },
+      {
+         "hp": 1665483,
+         "eind": 12251
+      },
+      {
+         "hp": 1665308,
+         "eind": 12252
+      },
+      {
+         "hp": 1665120,
+         "eind": 12253
+      },
+      {
+         "hp": 1665095,
+         "eind": 12254
+      },
+      {
+         "hp": 1665048,
+         "eind": 12255
+      },
+      {
+         "hp": 1665000,
+         "eind": 12256
+      },
+      {
+         "hp": 1664928,
+         "eind": 12257
+      },
+      {
+         "hp": 1664848,
+         "eind": 12258
+      },
+      {
+         "hp": 1664755,
+         "eind": 12259
+      },
+      {
+         "hp": 1664600,
+         "eind": 12260
+      },
+      {
+         "hp": 1664556,
+         "eind": 12261
+      },
+      {
+         "hp": 1664450,
+         "eind": 12262
+      },
+      {
+         "hp": 1664433,
+         "eind": 12263
+      },
+      {
+         "hp": 1664389,
+         "eind": 12264
+      },
+      {
+         "hp": 1664358,
+         "eind": 12266
+      },
+      {
+         "hp": 1664356,
+         "eind": 12268
       }
    ],
    "186": [
@@ -942731,6 +949260,22 @@
       {
          "pl": "<10",
          "eind": 12181
+      },
+      {
+         "pl": 100,
+         "eind": 12254
+      },
+      {
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "pl": 100,
+         "eind": 12261
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
       }
    ],
    "144": [
@@ -943613,6 +950158,19 @@
       {
          "pl": 100,
          "eind": 12181
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "r": 4.1666665,
+         "eind": 12226
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 12227
       }
    ],
    "145": [
@@ -946643,6 +953201,38 @@
       {
          "pl": "<10",
          "eind": 12175
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": "<10",
+         "eind": 12197
+      },
+      {
+         "pl": 100,
+         "eind": 12251
+      },
+      {
+         "pl": "<10",
+         "eind": 12253
+      },
+      {
+         "pl": 100,
+         "eind": 12256
+      },
+      {
+         "pl": "<10",
+         "eind": 12262
+      },
+      {
+         "pl": 100,
+         "eind": 12266
+      },
+      {
+         "pl": "<10",
+         "eind": 12268
       }
    ],
    "42": [
@@ -1008554,6 +1015144,157 @@
             }
          },
          "eind": 12187
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12192
+      },
+      {
+         "pl": 600,
+         "t": 49,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12193
+      },
+      {
+         "pl": 400,
+         "r": 4.1666665,
+         "eind": 12194
+      },
+      {
+         "pl": 200,
+         "eind": 12195
+      },
+      {
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "pl": 200,
+         "eind": 12198
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 99997
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12201
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12203
+      },
+      {
+         "pl": 100,
+         "eind": 12212
+      },
+      {
+         "pl": "<10",
+         "eind": 12229
+      },
+      {
+         "pl": 100,
+         "eind": 12230
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12239
+      },
+      {
+         "pl": "<10",
+         "eind": 12241
+      },
+      {
+         "pl": 100,
+         "eind": 12242
+      },
+      {
+         "pl": "<10",
+         "eind": 12247
+      },
+      {
+         "pl": 100,
+         "eind": 12248
+      },
+      {
+         "pl": "<10",
+         "eind": 12263
+      },
+      {
+         "pl": 100,
+         "eind": 12266
       }
    ],
    "252": [
@@ -1019801,6 +1026542,24 @@
       {
          "pl": 100,
          "eind": 12187
+      },
+      {
+         "t": 48,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 12193
+      },
+      {
+         "pl": "<10",
+         "eind": 12194
       }
    ],
    "72": [
@@ -1061804,6 +1068563,325 @@
       {
          "r": 1.3888888,
          "eind": 11806
+      },
+      {
+         "t": 33,
+         "poi": "",
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12205
+      },
+      {
+         "gls": 3,
+         "poi": "HIVE WORLD",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            }
+         ],
+         "eind": 12206
+      },
+      {
+         "hp": 351555,
+         "r": 9.722222,
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "eind": 12210
+      },
+      {
+         "hp": 412242,
+         "pl": 100,
+         "eind": 12212
+      },
+      {
+         "hp": 420939,
+         "eind": 12214
+      },
+      {
+         "hp": 438340,
+         "pl": 200,
+         "eind": 12216
+      },
+      {
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12218
+      },
+      {
+         "hp": 464373,
+         "pl": 600,
+         "eind": 12220
+      },
+      {
+         "hp": 507191,
+         "pl": 700,
+         "eind": 12221
+      },
+      {
+         "hp": 524256,
+         "eind": 12226
+      },
+      {
+         "hp": 558570,
+         "pl": 800,
+         "eind": 12229
+      },
+      {
+         "hp": 600727,
+         "pl": 900,
+         "eind": 12230
+      },
+      {
+         "hp": 669004,
+         "pl": 1200,
+         "eind": 12231
+      },
+      {
+         "hp": 736903,
+         "pl": 1100,
+         "eind": 12232
+      },
+      {
+         "hp": 812892,
+         "pl": 1400,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12233
+      },
+      {
+         "hp": 822786,
+         "pl": 22000,
+         "eind": 12234
+      },
+      {
+         "hp": 827101,
+         "pl": 21800,
+         "eind": 12235
+      },
+      {
+         "hp": 822013,
+         "pl": 11600,
+         "eind": 12236
+      },
+      {
+         "hp": 818106,
+         "pl": 10100,
+         "eind": 12237
+      },
+      {
+         "hp": 813063,
+         "pl": 10500,
+         "eind": 12238
+      },
+      {
+         "hp": 799597,
+         "pl": 16200,
+         "eind": 12239
+      },
+      {
+         "hp": 786902,
+         "pl": 21300,
+         "eind": 12241
+      },
+      {
+         "hp": 772660,
+         "pl": 18600,
+         "eind": 12242
+      },
+      {
+         "hp": 772220,
+         "pl": 19900,
+         "eind": 12243
+      },
+      {
+         "hp": 772152,
+         "pl": 23700,
+         "eind": 12244
+      },
+      {
+         "hp": 732910,
+         "pl": 37400,
+         "eind": 12245
+      },
+      {
+         "hp": 678104,
+         "pl": 22200,
+         "eind": 12246
+      },
+      {
+         "hp": 628878,
+         "pl": 15300,
+         "eind": 12247
+      },
+      {
+         "hp": 556075,
+         "pl": 22200,
+         "eind": 12248
+      },
+      {
+         "hp": 512712,
+         "pl": 29900,
+         "eind": 12249
+      },
+      {
+         "hp": 465177,
+         "pl": 30400,
+         "eind": 12250
+      },
+      {
+         "hp": 414518,
+         "pl": 31100,
+         "r": 6.9444447,
+         "eind": 12251
+      },
+      {
+         "hp": 200122,
+         "pl": 34700,
+         "eind": 12252
+      },
+      {
+         "hp": 1180,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "regions": {
+            "BUJU": {
+               "index": 128,
+               "name": "BUJU",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12253
+      },
+      {
+         "hp": 1400000,
+         "pl": 7600,
+         "eind": 12254
+      },
+      {
+         "pl": 800,
+         "eind": 12255
+      },
+      {
+         "pl": 900,
+         "eind": 12256
+      },
+      {
+         "pl": 1200,
+         "eind": 12257
+      },
+      {
+         "pl": 1000,
+         "eind": 12258
+      },
+      {
+         "pl": 900,
+         "eind": 12259
+      },
+      {
+         "pl": 800,
+         "eind": 12260
+      },
+      {
+         "pl": 700,
+         "eind": 12261
+      },
+      {
+         "pl": 200,
+         "eind": 12262
+      },
+      {
+         "pl": 300,
+         "eind": 12266
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "130": [
@@ -1068455,6 +1075533,462 @@
       {
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "t": 33,
+         "poi": "",
+         "regions": {
+            "CURRENCY": {
+               "index": 0,
+               "name": "CURRENCY",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.5555556,
+               "hp": 194626
+            },
+            "NEW NEWTONVILLE": {
+               "index": 1,
+               "name": "NEW NEWTONVILLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "OL' OLDHAM": {
+               "index": 2,
+               "name": "OL' OLDHAM",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12208
+      },
+      {
+         "gls": 3,
+         "poi": "HIVE WORLD",
+         "adiv": "NOXIOUS STRAIN",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "eind": 12209
+      },
+      {
+         "hp": 502452,
+         "r": 9.722222,
+         "regions": {
+            "CURRENCY": {
+               "index": 0,
+               "name": "CURRENCY",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "NEW NEWTONVILLE": {
+               "index": 1,
+               "name": "NEW NEWTONVILLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "OL' OLDHAM": {
+               "index": 2,
+               "name": "OL' OLDHAM",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12210
+      },
+      {
+         "hp": 562916,
+         "pl": 300,
+         "eind": 12212
+      },
+      {
+         "hp": 571558,
+         "eind": 12214
+      },
+      {
+         "hp": 588857,
+         "pl": 700,
+         "regions": {
+            "CURRENCY": {
+               "index": 0,
+               "name": "CURRENCY",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "NEW NEWTONVILLE": {
+               "index": 1,
+               "name": "NEW NEWTONVILLE",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "OL' OLDHAM": {
+               "index": 2,
+               "name": "OL' OLDHAM",
+               "desc": "Nothing of note.",
+               "t": 35,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12216
+      },
+      {
+         "regions": {
+            "CURRENCY": {
+               "index": 0,
+               "name": "CURRENCY",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "NEW NEWTONVILLE": {
+               "index": 1,
+               "name": "NEW NEWTONVILLE",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "OL' OLDHAM": {
+               "index": 2,
+               "name": "OL' OLDHAM",
+               "desc": "Nothing of note.",
+               "t": 32,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12217
+      },
+      {
+         "hp": 614340,
+         "pl": 1600,
+         "eind": 12220
+      },
+      {
+         "hp": 655697,
+         "pl": 1700,
+         "eind": 12221
+      },
+      {
+         "hp": 672416,
+         "pl": 1500,
+         "eind": 12226
+      },
+      {
+         "hp": 705830,
+         "eind": 12229
+      },
+      {
+         "hp": 747232,
+         "pl": 1400,
+         "eind": 12230
+      },
+      {
+         "hp": 814209,
+         "pl": 1800,
+         "eind": 12231
+      },
+      {
+         "hp": 881221,
+         "pl": 1500,
+         "eind": 12232
+      },
+      {
+         "hp": 956418,
+         "eind": 12233
+      },
+      {
+         "hp": 1036564,
+         "pl": 3100,
+         "eind": 12234
+      },
+      {
+         "hp": 1067822,
+         "pl": 3200,
+         "eind": 12235
+      },
+      {
+         "hp": 1197618,
+         "pl": 1400,
+         "eind": 12236
+      },
+      {
+         "hp": 1228327,
+         "pl": 1100,
+         "eind": 12237
+      },
+      {
+         "hp": 1259058,
+         "eind": 12238
+      },
+      {
+         "hp": 1327859,
+         "pl": 1600,
+         "eind": 12239
+      },
+      {
+         "hp": 1381561,
+         "pl": 2100,
+         "eind": 12241
+      },
+      {
+         "hp": 1505068,
+         "eind": 12242
+      },
+      {
+         "hp": 1567215,
+         "pl": 2200,
+         "eind": 12243
+      },
+      {
+         "hp": 1730077,
+         "pl": 2600,
+         "eind": 12244
+      },
+      {
+         "hp": 1803948,
+         "pl": 4000,
+         "eind": 12245
+      },
+      {
+         "hp": 1884075,
+         "pl": 2300,
+         "eind": 12246
+      },
+      {
+         "hp": 1958330,
+         "pl": 1300,
+         "eind": 12247
+      },
+      {
+         "hp": 2000000,
+         "pl": 1800,
+         "eind": 12248
+      },
+      {
+         "pl": 2600,
+         "eind": 12249
+      },
+      {
+         "pl": 2800,
+         "eind": 12250
+      },
+      {
+         "pl": 3000,
+         "eind": 12252
+      },
+      {
+         "pl": 6100,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "eind": 12253
+      },
+      {
+         "hp": 1972449,
+         "pl": 27900,
+         "r": -2.7777777,
+         "eind": 12254
+      },
+      {
+         "hp": 1818225,
+         "pl": 24200,
+         "eind": 12255
+      },
+      {
+         "hp": 1615746,
+         "pl": 28100,
+         "eind": 12256
+      },
+      {
+         "hp": 1475138,
+         "pl": 36200,
+         "eind": 12257
+      },
+      {
+         "hp": 1200148,
+         "pl": 37000,
+         "eind": 12258
+      },
+      {
+         "hp": 918254,
+         "pl": 42300,
+         "eind": 12259
+      },
+      {
+         "hp": 639676,
+         "pl": 38900,
+         "eind": 12260
+      },
+      {
+         "hp": 497578,
+         "pl": 39900,
+         "eind": 12261
+      },
+      {
+         "hp": 224307,
+         "pl": 28300,
+         "eind": 12262
+      },
+      {
+         "hp": 156568,
+         "pl": 24900,
+         "eind": 12263
+      },
+      {
+         "hp": 2000000,
+         "pl": 26200,
+         "r": 9.722222,
+         "t": 16,
+         "regions": {
+            "CURRENCY": {
+               "index": 0,
+               "name": "CURRENCY",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "NEW NEWTONVILLE": {
+               "index": 1,
+               "name": "NEW NEWTONVILLE",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "OL' OLDHAM": {
+               "index": 2,
+               "name": "OL' OLDHAM",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12264
+      },
+      {
+         "dss": "",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            }
+         ],
+         "eind": 12265
+      },
+      {
+         "pl": 3000,
+         "eind": 12266
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "FACTORY HUB",
+               "desc": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+            },
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "PREDATOR STRAIN",
+               "desc": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            },
+            {
+               "name": "HIVE WORLD",
+               "desc": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+            },
+            {
+               "name": "NOXIOUS STRAIN (Enemies)",
+               "desc": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+            },
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
+      },
+      {
+         "pl": 2700,
+         "eind": 12268
       }
    ],
    "131": [
@@ -1095209,6 +1102743,16 @@
       {
          "r": 1.3888888,
          "eind": 11806
+      },
+      {
+         "adiv": "SEAFPresence",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            }
+         ],
+         "eind": 12267
       }
    ],
    "84": [
@@ -1105811,6 +1113355,244 @@
       {
          "hp": 570050,
          "eind": 12187
+      },
+      {
+         "hp": 569981,
+         "eind": 12192
+      },
+      {
+         "hp": 569864,
+         "eind": 12193
+      },
+      {
+         "hp": 569722,
+         "eind": 12194
+      },
+      {
+         "hp": 569413,
+         "pl": "<10",
+         "eind": 12195
+      },
+      {
+         "hp": 568647,
+         "pl": 100,
+         "eind": 12196
+      },
+      {
+         "hp": 568138,
+         "eind": 12197
+      },
+      {
+         "hp": 567117,
+         "eind": 12198
+      },
+      {
+         "hp": 566667,
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "hp": 566580,
+         "eind": 12200
+      },
+      {
+         "hp": 566499,
+         "eind": 12201
+      },
+      {
+         "hp": 566454,
+         "eind": 12203
+      },
+      {
+         "hp": 566397,
+         "eind": 12210
+      },
+      {
+         "hp": 566258,
+         "eind": 12212
+      },
+      {
+         "hp": 566251,
+         "eind": 12214
+      },
+      {
+         "hp": 566204,
+         "eind": 12216
+      },
+      {
+         "hp": 566152,
+         "eind": 12220
+      },
+      {
+         "hp": 566061,
+         "eind": 12221
+      },
+      {
+         "hp": 566027,
+         "eind": 12226
+      },
+      {
+         "hp": 565928,
+         "eind": 12229
+      },
+      {
+         "hp": 565831,
+         "eind": 12230
+      },
+      {
+         "hp": 565626,
+         "eind": 12231
+      },
+      {
+         "hp": 565474,
+         "pl": 100,
+         "eind": 12232
+      },
+      {
+         "hp": 565279,
+         "eind": 12233
+      },
+      {
+         "hp": 564996,
+         "eind": 12234
+      },
+      {
+         "hp": 564833,
+         "eind": 12235
+      },
+      {
+         "hp": 563947,
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "hp": 563732,
+         "eind": 12237
+      },
+      {
+         "hp": 563472,
+         "eind": 12238
+      },
+      {
+         "hp": 563043,
+         "eind": 12239
+      },
+      {
+         "hp": 562865,
+         "eind": 12241
+      },
+      {
+         "hp": 562275,
+         "eind": 12242
+      },
+      {
+         "hp": 562062,
+         "eind": 12243
+      },
+      {
+         "hp": 561098,
+         "eind": 12244
+      },
+      {
+         "hp": 560683,
+         "pl": 100,
+         "eind": 12245
+      },
+      {
+         "hp": 560087,
+         "pl": "<10",
+         "eind": 12246
+      },
+      {
+         "hp": 559668,
+         "eind": 12247
+      },
+      {
+         "hp": 559022,
+         "eind": 12248
+      },
+      {
+         "hp": 558782,
+         "pl": 100,
+         "eind": 12249
+      },
+      {
+         "hp": 558496,
+         "pl": "<10",
+         "eind": 12250
+      },
+      {
+         "hp": 558138,
+         "pl": 100,
+         "eind": 12251
+      },
+      {
+         "hp": 556746,
+         "eind": 12252
+      },
+      {
+         "hp": 555522,
+         "eind": 12253
+      },
+      {
+         "hp": 555251,
+         "eind": 12254
+      },
+      {
+         "hp": 554698,
+         "pl": "<10",
+         "eind": 12255
+      },
+      {
+         "hp": 554028,
+         "eind": 12256
+      },
+      {
+         "hp": 553647,
+         "pl": 100,
+         "eind": 12257
+      },
+      {
+         "hp": 552611,
+         "eind": 12258
+      },
+      {
+         "hp": 551493,
+         "pl": 200,
+         "eind": 12259
+      },
+      {
+         "hp": 550393,
+         "pl": 100,
+         "eind": 12260
+      },
+      {
+         "hp": 549762,
+         "pl": 200,
+         "eind": 12261
+      },
+      {
+         "hp": 548704,
+         "pl": 100,
+         "eind": 12262
+      },
+      {
+         "hp": 548490,
+         "eind": 12263
+      },
+      {
+         "hp": 548051,
+         "pl": "<10",
+         "eind": 12264
+      },
+      {
+         "hp": 547631,
+         "pl": 100,
+         "eind": 12266
+      },
+      {
+         "hp": 547544,
+         "eind": 12268
       }
    ],
    "137": [
@@ -1129689,6 +1137471,226 @@
       {
          "hp": 1680592,
          "eind": 12187
+      },
+      {
+         "hp": 1680577,
+         "eind": 12192
+      },
+      {
+         "hp": 1680537,
+         "eind": 12193
+      },
+      {
+         "hp": 1680511,
+         "eind": 12194
+      },
+      {
+         "hp": 1680402,
+         "eind": 12195
+      },
+      {
+         "hp": 1680205,
+         "eind": 12196
+      },
+      {
+         "hp": 1680074,
+         "eind": 12197
+      },
+      {
+         "hp": 1679744,
+         "eind": 12198
+      },
+      {
+         "hp": 1679580,
+         "eind": 12199
+      },
+      {
+         "hp": 1679535,
+         "eind": 12200
+      },
+      {
+         "hp": 1679506,
+         "eind": 12201
+      },
+      {
+         "hp": 1679490,
+         "eind": 12203
+      },
+      {
+         "hp": 1679487,
+         "eind": 12210
+      },
+      {
+         "hp": 1679414,
+         "eind": 12212
+      },
+      {
+         "hp": 1679409,
+         "eind": 12214
+      },
+      {
+         "hp": 1679393,
+         "eind": 12216
+      },
+      {
+         "hp": 1679378,
+         "eind": 12220
+      },
+      {
+         "hp": 1679352,
+         "eind": 12221
+      },
+      {
+         "hp": 1679339,
+         "eind": 12226
+      },
+      {
+         "hp": 1679320,
+         "eind": 12229
+      },
+      {
+         "hp": 1679276,
+         "eind": 12230
+      },
+      {
+         "hp": 1679182,
+         "eind": 12231
+      },
+      {
+         "hp": 1679129,
+         "eind": 12232
+      },
+      {
+         "hp": 1679039,
+         "eind": 12233
+      },
+      {
+         "hp": 1678893,
+         "eind": 12234
+      },
+      {
+         "hp": 1678838,
+         "eind": 12235
+      },
+      {
+         "hp": 1678599,
+         "eind": 12236
+      },
+      {
+         "hp": 1678422,
+         "eind": 12237
+      },
+      {
+         "hp": 1678318,
+         "eind": 12238
+      },
+      {
+         "hp": 1678169,
+         "eind": 12239
+      },
+      {
+         "hp": 1678075,
+         "eind": 12241
+      },
+      {
+         "hp": 1677894,
+         "eind": 12242
+      },
+      {
+         "hp": 1677798,
+         "eind": 12243
+      },
+      {
+         "hp": 1677485,
+         "eind": 12244
+      },
+      {
+         "hp": 1677273,
+         "eind": 12245
+      },
+      {
+         "hp": 1677113,
+         "eind": 12246
+      },
+      {
+         "hp": 1676970,
+         "eind": 12247
+      },
+      {
+         "hp": 1676658,
+         "eind": 12248
+      },
+      {
+         "hp": 1676583,
+         "eind": 12249
+      },
+      {
+         "hp": 1676465,
+         "eind": 12250
+      },
+      {
+         "hp": 1676322,
+         "eind": 12251
+      },
+      {
+         "hp": 1675893,
+         "eind": 12252
+      },
+      {
+         "hp": 1675514,
+         "eind": 12253
+      },
+      {
+         "hp": 1675469,
+         "eind": 12254
+      },
+      {
+         "hp": 1675338,
+         "eind": 12255
+      },
+      {
+         "hp": 1675167,
+         "eind": 12256
+      },
+      {
+         "hp": 1675081,
+         "eind": 12257
+      },
+      {
+         "hp": 1674885,
+         "eind": 12258
+      },
+      {
+         "hp": 1674658,
+         "eind": 12259
+      },
+      {
+         "hp": 1674479,
+         "eind": 12260
+      },
+      {
+         "hp": 1674312,
+         "eind": 12261
+      },
+      {
+         "hp": 1674115,
+         "eind": 12262
+      },
+      {
+         "hp": 1674054,
+         "eind": 12263
+      },
+      {
+         "hp": 1673949,
+         "eind": 12264
+      },
+      {
+         "hp": 1673896,
+         "eind": 12266
+      },
+      {
+         "hp": 1673884,
+         "eind": 12268
       }
    ],
    "177": [
@@ -1141468,6 +1149470,18 @@
       {
          "pl": 100,
          "eind": 12187
+      },
+      {
+         "pl": "<10",
+         "eind": 12192
+      },
+      {
+         "pl": 100,
+         "eind": 12259
+      },
+      {
+         "pl": "<10",
+         "eind": 12260
       }
    ],
    "225": [
@@ -1151575,6 +1159589,70 @@
       {
          "pl": 200,
          "eind": 12182
+      },
+      {
+         "pl": 100,
+         "eind": 12192
+      },
+      {
+         "pl": 200,
+         "eind": 12198
+      },
+      {
+         "pl": "<10",
+         "eind": 12199
+      },
+      {
+         "pl": 100,
+         "eind": 12233
+      },
+      {
+         "pl": "<10",
+         "eind": 12236
+      },
+      {
+         "pl": 100,
+         "eind": 12244
+      },
+      {
+         "pl": "<10",
+         "eind": 12247
+      },
+      {
+         "pl": 100,
+         "eind": 12249
+      },
+      {
+         "pl": 200,
+         "eind": 12253
+      },
+      {
+         "pl": 100,
+         "eind": 12254
+      },
+      {
+         "pl": "<10",
+         "eind": 12256
+      },
+      {
+         "pl": 100,
+         "eind": 12257
+      },
+      {
+         "pl": 200,
+         "eind": 12260
+      },
+      {
+         "pl": 100,
+         "eind": 12262
+      },
+      {
+         "pl": "<10",
+         "eind": 12264
+      },
+      {
+         "pl": 100,
+         "eind": 12266
       }
    ],
    "232": [

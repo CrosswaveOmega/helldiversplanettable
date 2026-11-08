@@ -18452,7 +18452,8 @@ DSS effect ORBITAL BLOCKADE ends (2026-09-07 04:59  UTC)<br/>
 DSS deploys to *Heeth* of the Orion sector (2026-09-07 05:18  UTC)<br/>
 Major Order | [A3-9-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-9-2) Counterdissident Hammer-BARRIER ENHANCEMENT is won | Objective: Liberate (2026-09-07 08:10  UTC)<br/>
 *Bore Rock* is liberated (2026-09-07 08:11  UTC)<br/>
-*Nivel 43* has a new effect: TERMINID CONTROL SYSTEM+ POI (2026-09-07 08:12  UTC)<br/>
+*Bore Rock* is established as a  TERMINID CONTROL SYSTEM+ POI (2026-09-07 08:12  UTC)<br/>
+*Nivel 43*  is established as a TERMINID CONTROL SYSTEM+ POI (2026-09-07 08:12  UTC)<br/>
 Dispatch: CAMPAIGN WON. TCS+ nodes are under construction on BORE ROCK and NIVEL 43 following their liberation by the Helldivers. The containment of the Terminids has never been more guaranteed. The dissident network responsible for these sabotages, which existed, has been dismantled. (2026-09-07 08:12  UTC)<br/>
 *Bore Rock* is no longer enveloped by The Gloom. (2026-09-07 08:20  UTC)<br/>
 Assault Division: Spore Burst Strain U1A leaves *Bore Rock* (2026-09-07 08:20  UTC)<br/>
@@ -19321,10 +19322,165 @@ DSS deploys to *Acamar IV* of the Jin Xi sector (2026-11-03 12:33  UTC)<br/>
 Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Omicron* (2026-11-03 12:37  UTC)<br/>
 *Gacrux* is lightly enveloped by the Gloom (2026-11-03 12:41  UTC)<br/>
 *Fori Prime* is heavily enveloped by the Gloom (2026-11-03 12:59  UTC)<br/>
+*Fori Prime* is established as a HIVE WORLD POI (2026-11-03 12:59  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1A deploys to *Fori Prime* (2026-11-03 12:59  UTC)<br/>
  Decay: 2.5 on Fori Prime
  (2026-11-03 12:59  UTC)<br/>
 Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Nivel 43* (2026-11-03 13:00  UTC)<br/>
 Dispatch: NEW MAJOR ORDER. Seditious and entirely false rumours regarding TCS+ malfunctions are spreading across civilian channels, resulting in unfounded economic panic. SEAF Intelligence confirms: there is zero actionable peril to fully insured citizens. To restore public confidence, the Helldivers are ordered to eliminate 700,000,000 Terminids. To aid in swiftly safeguarding Federal prosperity, High Command has authorized and subsidized fleetwide availability of the INCINERATOR FRV Stratagem. (2026-11-03 13:01  UTC)<br/>
 Major Order | [A3-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-1) SERENE GUARDIAN-ASSURANCE is issued | Objective: Eliminate (2026-11-03 13:01  UTC)<br/>
 Assault Division: Spore Burst Strain (Enemies) U1A leaves *Fori Prime* (2026-11-03 13:02  UTC)<br/>
-*Nivel 43* has a new effect: CAUSTIC STRAIN-A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death. (2026-11-03 13:10  UTC)<br/>
+*Fori Prime* liberation campaign ends (2026-11-03 13:11  UTC)<br/>
+*Fori Prime* liberation campaign starts (2026-11-03 13:12  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED The Gloom is spreading at an unprecedented pace. GACRUX is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. Worse, there are indications of new Hive Worlds forming, corrupting biomes formerly resistant to severe infestation. This may represent a novel strain of Gloom spores, adapted to more extreme conditions. (2026-11-03 13:17  UTC)<br/>
+ Decay: 3.5 on Fori Prime
+ (2026-11-03 13:17  UTC)<br/>
+*Mintoria* defense is failed (2026-11-03 13:57  UTC)<br/>
+*Mintoria* liberation campaign starts (2026-11-03 13:57  UTC)<br/>
+*Zzaniah Prime* liberation campaign ends (2026-11-03 13:57  UTC)<br/>
+*Nivel 43* defense is failed (2026-11-03 14:15  UTC)<br/>
+*Nivel 43* liberation campaign starts (2026-11-03 14:15  UTC)<br/>
+ Decay: 1.5 on Mintoria, Nivel 43
+ (2026-11-03 14:15  UTC)<br/>
+DSS deploys to *Fori Prime* of the Draco sector (2026-11-03 16:33  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION starts (2026-11-04 02:51  UTC)<br/>
+
+### Day: #1001
+*Crimsica* is heavily enveloped by the Gloom (2026-11-04 10:11  UTC)<br/>
+*Crimsica* is no longer marked as a TERMINID CONTROL SYSTEM+ POI (2026-11-04 10:11  UTC)<br/>
+*Crimsica* of the Draco sector instantly flips to Terminid control (2026-11-04 10:11  UTC)<br/>
+*Crimsica* liberation campaign starts (2026-11-04 10:11  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement is besieged by Human (2026-11-04 10:11  UTC)<br/>
+*Crimsica* is established as a HIVE WORLD POI (2026-11-04 10:12  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1B deploys to *Crimsica* (2026-11-04 10:31  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1B deploys to *Crimsica* (2026-11-04 10:31  UTC)<br/>
+ Decay: 3.5 on Crimsica
+ (2026-11-04 10:31  UTC)<br/>
+ Region Decay: 0.1 on Crimsica's LIL'OME region<br/> Region Decay: 0.1 on Crimsica's LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II region
+ (2026-11-04 10:31  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City is besieged by Human (2026-11-04 10:32  UTC)<br/>
+*Darius II* is no longer marked as a TERMINID CONTROL SYSTEM+ POI (2026-11-04 10:33  UTC)<br/>
+*Darius II* of the Borgus sector instantly flips to Terminid control (2026-11-04 10:33  UTC)<br/>
+*Darius II* liberation campaign starts (2026-11-04 10:33  UTC)<br/>
+*Darius II* Region 0 BUJU City is besieged by Human (2026-11-04 10:33  UTC)<br/>
+*Darius II* is established as a HIVE WORLD POI (2026-11-04 10:34  UTC)<br/>
+*Darius II* is heavily enveloped by the Gloom (2026-11-04 10:34  UTC)<br/>
+*Acamar IV* is heavily enveloped by the Gloom (2026-11-04 10:36  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1C deploys to *Acamar IV* (2026-11-04 10:36  UTC)<br/>
+Assault Division: HIVE LORDS (Enemies) U1C deploys to *Fori Prime* (2026-11-04 10:36  UTC)<br/>
+*Achernar Secundus* is no longer marked as a TERMINID CONTROL SYSTEM+ POI (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* of the Borgus sector instantly flips to Terminid control (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* liberation campaign starts (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town is besieged by Human (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* Region 1 NEW NEWTONVILLE City is besieged by Human (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City is besieged by Human (2026-11-04 10:42  UTC)<br/>
+Dispatch: Xenoentomology Center Restructuring The Chief of Terminid Epidemiology has been stripped of their rank and detained for trial. A tribunal of trusted experts will ascertain whether the former Chief's incompetence in failing to predict the Terminids' recent unprovoked mutations and attacks constitutes criminality –or treason. Their replacement is expected to be named upon the trial's conclusion. (2026-11-04 10:42  UTC)<br/>
+*Achernar Secundus* is established as a HIVE WORLD POI (2026-11-04 10:43  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1D deploys to *Achernar Secundus* (2026-11-04 10:43  UTC)<br/>
+*Achernar Secundus* is established as a HIVE WORLD POI (2026-11-04 10:43  UTC)<br/>
+*Achernar Secundus* is heavily enveloped by the Gloom (2026-11-04 10:43  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1E deploys to *Darius II* (2026-11-04 10:47  UTC)<br/>
+ Decay: 3.5 on Darius II, Achernar Secundus<br/> Decay: 4.5 on Fori Prime
+ (2026-11-04 10:47  UTC)<br/>
+ Region Decay: 0.4 on Darius II's BUJU region<br/> Region Decay: 0.2 on Achernar Secundus's CURRENCY region<br/> Region Decay: 0.4 on Achernar Secundus's NEW NEWTONVILLE region<br/> Region Decay: 0.4 on Achernar Secundus's OL' OLDHAM region
+ (2026-11-04 10:47  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1C leaves *Acamar IV* (2026-11-04 10:51  UTC)<br/>
+*Fronteria* of the Umlaut sector instantly flips to Terminid control (2026-11-04 12:40  UTC)<br/>
+*Fronteria* liberation campaign starts (2026-11-04 12:40  UTC)<br/>
+*Fronteria* is no longer marked as a TERMINID CONTROL SYSTEM+ POI (2026-11-04 12:41  UTC)<br/>
+*Fronteria* is heavily enveloped by the Gloom (2026-11-04 12:41  UTC)<br/>
+*Fronteria* is established as a HIVE WORLD POI (2026-11-04 12:41  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1C deploys to *Fronteria* (2026-11-04 12:41  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B leaves *Acamar IV* (2026-11-04 12:49  UTC)<br/>
+ Decay: 3.5 on Fronteria
+ (2026-11-04 12:49  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B deploys to *Acamar IV* (2026-11-04 12:51  UTC)<br/>
+Dispatch: NEW STRATEGIC DIRECTIVE. Incongruously, increases in TCS+ breaches continue to be reported. While these reports will almost certainly be attributed to departmental cost-cutting during routine rewiring of multiple TCS+ sections, Helldivers with surplus operational capacity are invited to verify their veracity, should they choose. Helldivers: investigate and, if warranted, hold FRONTERIA, CRIMSICA, DARIUS II and ACHERNAR SECUNDUS. (2026-11-04 12:51  UTC)<br/>
+Major Order | [A3-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-2) STRATEGIC DIRECTIVE HOLD PLANETS is issued | Objective: HOLD (2026-11-04 12:51  UTC)<br/>
+*Achernar Secundus* Region 0 CURRENCY Town siege has ended (2026-11-04 13:19  UTC)<br/>
+*Crimsica* Region 0 LIL'OME Settlement siege has ended (2026-11-04 13:20  UTC)<br/>
+*Crimsica* Region 1 LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II City siege has ended (2026-11-04 13:20  UTC)<br/>
+*Achernar Secundus* Region 1 NEW NEWTONVILLE City siege has ended (2026-11-04 13:20  UTC)<br/>
+*Achernar Secundus* Region 2 OL' OLDHAM City siege has ended (2026-11-04 13:20  UTC)<br/>
+*Darius II* Region 0 BUJU City siege has ended (2026-11-04 13:21  UTC)<br/>
+*Fori Prime* is liberated (2026-11-04 13:27  UTC)<br/>
+DSS deploys to *Crimsica* of the Draco sector (2026-11-04 13:27  UTC)<br/>
+*Choepessa IV* Region 1 KALASATAMA City is besieged by Human (2026-11-04 14:01  UTC)<br/>
+*Choepessa IV* Region 2 YDINKESKUSTA MegaCity has fallen to Automaton (2026-11-04 14:01  UTC)<br/>
+*Choepessa IV* Region 3 EVOLUTION PLATS Settlement is besieged by Human (2026-11-04 14:01  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1F leaves *Esker* (2026-11-04 15:24  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1H leaves *Esker* (2026-11-04 15:24  UTC)<br/>
+ Region Decay: 1.5 on Choepessa IV's EVOLUTION PLATS region
+ (2026-11-04 15:24  UTC)<br/>
+*Esker* is enveloped by the Gloom (2026-11-04 15:26  UTC)<br/>
+Assault Division: APPROPRIATORS (Enemies) U1C leaves *Ain-5* (2026-11-04 15:27  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1D leaves *Varylia 5* (2026-11-04 15:27  UTC)<br/>
+Assault Division: THE INCINERATION CORPS (Enemies) U1A leaves *Wasat* (2026-11-04 15:28  UTC)<br/>
+Assault Division: MINDLESS MASSES (Enemies) U1B leaves *Basquine VIII* (2026-11-04 15:29  UTC)<br/>
+Assault Division: VOTE SNATCHERS (Enemies) U1H leaves *Karlia* (2026-11-04 15:54  UTC)<br/>
+ Decay: 1.5 on Bellatrix
+ (2026-11-04 15:54  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1M leaves *Bellatrix* (2026-11-04 15:55  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L deploys to *Fronteria* (2026-11-04 15:56  UTC)<br/>
+*Acamar IV* defense is failed (2026-11-04 16:45  UTC)<br/>
+*Acamar IV* liberation campaign starts (2026-11-04 16:45  UTC)<br/>
+ Decay: 1.0 on Acamar IV
+ (2026-11-04 16:45  UTC)<br/>
+*Crimsica* is liberated (2026-11-05 00:29  UTC)<br/>
+DSS deploys to *Darius II* of the Borgus sector (2026-11-05 00:29  UTC)<br/>
+Draco sector is fully under Human control (2026-11-05 00:29  UTC)<br/>
+DSS effect HEAVY ORDNANCE DISTRIBUTION ends (2026-11-05 02:51  UTC)<br/>
+ Decay: -1.0 on Fronteria
+ (2026-11-05 02:51  UTC)<br/>
+DSS effect ORBITAL BLOCKADE starts (2026-11-05 03:46  UTC)<br/>
+
+### Day: #1002
+Assault Division: CAUSTIC STRAIN (Enemies) U1A leaves *Nivel 43* (2026-11-05 12:17  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Esker* (2026-11-05 12:19  UTC)<br/>
+*Esker* of the Falstaff sector is attacked by Terminids (2026-11-05 12:19  UTC)<br/>
+ Decay: 0.0 on Esker
+ (2026-11-05 14:00  UTC)<br/>
+*Fronteria* is liberated (2026-11-06 01:19  UTC)<br/>
+Umlaut sector is fully under Human control (2026-11-06 01:19  UTC)<br/>
+DSS effect ORBITAL BLOCKADE ends (2026-11-06 03:46  UTC)<br/>
+ Decay: 3.5 on Fronteria
+ (2026-11-06 03:46  UTC)<br/>
+DSS effect EAGLE STORM starts (2026-11-06 06:32  UTC)<br/>
+
+### Day: #1003
+*Esker* defense is failed (2026-11-06 12:20  UTC)<br/>
+*Esker* liberation campaign starts (2026-11-06 12:20  UTC)<br/>
+ Decay: 2.5 on Esker
+ (2026-11-06 14:00  UTC)<br/>
+ Decay: 2.5 on Darius II
+ (2026-11-06 18:00  UTC)<br/>
+*Darius II* is liberated (2026-11-07 05:34  UTC)<br/>
+DSS deploys to *Achernar Secundus* of the Borgus sector (2026-11-07 05:34  UTC)<br/>
+DSS effect EAGLE STORM ends (2026-11-07 06:33  UTC)<br/>
+ Decay: -1.0 on Achernar Secundus
+ (2026-11-07 06:33  UTC)<br/>
+
+### Day: #1004
+
+### Day: #1005
+*Achernar Secundus* is liberated (2026-11-08 11:15  UTC)<br/>
+Borgus sector is fully under Human control (2026-11-08 11:15  UTC)<br/>
+ Decay: 3.5 on Achernar Secundus
+ (2026-11-08 11:15  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-11-08 11:16  UTC)<br/>
+Major Order | [A3-11-2](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-2) STRATEGIC DIRECTIVE HOLD PLANETS  is won | Objective: HOLD (2026-11-08 12:51  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7Q deploys to *Brilliance* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7R deploys to *Terrek* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7S deploys to *Bore Rock* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7T deploys to *Erata Prime* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7U deploys to *Fori Prime* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7V deploys to *Crimsica* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7W deploys to *Turing* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7X deploys to *Achird III* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7Y deploys to *Darius II* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U7Z deploys to *Achernar Secundus* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U8A deploys to *Grand Errant* (2026-11-08 12:53  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U8B deploys to *Pherkad Secundus* (2026-11-08 12:53  UTC)<br/>
+Dispatch: STRATEGIC DIRECTIVE COMPLETED The Helldivers successfully held CRIMSICA, FRONTERIA, DARIUS II and ACHERNAR SECUNDUS and in doing so, confirmed which of the reported TCS+ breaches were truly legitimate. To ensure all sections of TCS+ system safely report a return to maximal efficiency, High Command has directed additional SEAF mobilizations—the most capable pest control in the known galaxy—to wall off affected planets for the remainder of this campaign. (2026-11-08 12:53  UTC)<br/>
+Dispatch: MAJOR ORDER WON The Helldivers successfully eliminated the mandated quota of Terminids with their judicious use of the INCINERATOR FRV Stratagem, delivering a crushing blow to alien insolence, and silencing equally dangerous rumours of TCS+ malfunctions. Coupled with the assurance that any anomalous readings along the perimeter will be suitably scrutinized, domestic markets immediately responded with patriotic vigor, reaffirming the infallibility of *Super Earth*, economic or otherwise. (2026-11-08 13:01  UTC)<br/>
+Major Order | [A3-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-1) SERENE GUARDIAN-ASSURANCE is Won | Objective: Eliminate (2026-11-08 13:01  UTC)<br/>
