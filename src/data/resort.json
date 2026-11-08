@@ -18817,6 +18817,74 @@
       {
          "pl": 200,
          "eind": 12124
+      },
+      {
+         "pl": 100,
+         "eind": 12129
+      },
+      {
+         "pl": 200,
+         "eind": 12130
+      },
+      {
+         "pl": 100,
+         "eind": 12131
+      },
+      {
+         "pl": 200,
+         "eind": 12135
+      },
+      {
+         "pl": 100,
+         "eind": 12136
+      },
+      {
+         "pl": 200,
+         "eind": 12138
+      },
+      {
+         "pl": 100,
+         "eind": 12139
+      },
+      {
+         "pl": 200,
+         "eind": 12140
+      },
+      {
+         "pl": 100,
+         "eind": 12141
+      },
+      {
+         "pl": 200,
+         "eind": 12142
+      },
+      {
+         "pl": 100,
+         "eind": 12145
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "pl": "<10",
+         "eind": 12161
+      },
+      {
+         "pl": 100,
+         "eind": 12162
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12181
       }
    ],
    "1": [
@@ -25025,6 +25093,110 @@
       {
          "pl": 100,
          "eind": 12123
+      },
+      {
+         "pl": 200,
+         "eind": 12134
+      },
+      {
+         "pl": 100,
+         "eind": 12142
+      },
+      {
+         "pl": 200,
+         "eind": 12143
+      },
+      {
+         "pl": 100,
+         "eind": 12144
+      },
+      {
+         "pl": 200,
+         "eind": 12145
+      },
+      {
+         "pl": 100,
+         "eind": 12146
+      },
+      {
+         "pl": 200,
+         "eind": 12148
+      },
+      {
+         "pl": 300,
+         "eind": 12151
+      },
+      {
+         "pl": 200,
+         "eind": 12152
+      },
+      {
+         "pl": 100,
+         "eind": 12153
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12157
+      },
+      {
+         "pl": "<10",
+         "eind": 12158
+      },
+      {
+         "pl": 200,
+         "eind": 12159
+      },
+      {
+         "pl": 300,
+         "eind": 12162
+      },
+      {
+         "pl": 200,
+         "eind": 12167
+      },
+      {
+         "pl": 300,
+         "eind": 12169
+      },
+      {
+         "pl": 200,
+         "eind": 12171
+      },
+      {
+         "pl": 300,
+         "eind": 12173
+      },
+      {
+         "pl": 200,
+         "eind": 12175
+      },
+      {
+         "pl": 300,
+         "eind": 12176
+      },
+      {
+         "pl": 400,
+         "eind": 12177
+      },
+      {
+         "pl": 200,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "pl": "<10",
+         "eind": 12181
+      },
+      {
+         "pl": 100,
+         "eind": 12186
       }
    ],
    "176": [
@@ -26901,6 +27073,14 @@
       {
          "pl": "<10",
          "eind": 12054
+      },
+      {
+         "pl": 100,
+         "eind": 12176
+      },
+      {
+         "pl": "<10",
+         "eind": 12177
       }
    ],
    "180": [
@@ -32883,8 +33063,212 @@
          "eind": 12127
       },
       {
-         "hp": 1745595,
+         "hp": 1745584,
          "eind": 12129
+      },
+      {
+         "hp": 1745549,
+         "eind": 12130
+      },
+      {
+         "hp": 1745401,
+         "eind": 12131
+      },
+      {
+         "hp": 1745379,
+         "eind": 12132
+      },
+      {
+         "hp": 1745348,
+         "eind": 12133
+      },
+      {
+         "hp": 1745332,
+         "eind": 12134
+      },
+      {
+         "hp": 1745325,
+         "eind": 12135
+      },
+      {
+         "hp": 1745320,
+         "eind": 12136
+      },
+      {
+         "hp": 1745315,
+         "eind": 12137
+      },
+      {
+         "hp": 1745314,
+         "eind": 12138
+      },
+      {
+         "hp": 1745308,
+         "eind": 12139
+      },
+      {
+         "hp": 1745307,
+         "eind": 12140
+      },
+      {
+         "hp": 1745305,
+         "eind": 12141
+      },
+      {
+         "hp": 1745303,
+         "eind": 12142
+      },
+      {
+         "hp": 1745302,
+         "eind": 12143
+      },
+      {
+         "hp": 1745284,
+         "eind": 12144
+      },
+      {
+         "hp": 1745231,
+         "eind": 12145
+      },
+      {
+         "hp": 1744979,
+         "eind": 12146
+      },
+      {
+         "hp": 1744957,
+         "eind": 12147
+      },
+      {
+         "hp": 1744806,
+         "eind": 12148
+      },
+      {
+         "hp": 1744804,
+         "eind": 12151
+      },
+      {
+         "hp": 1744734,
+         "eind": 12152
+      },
+      {
+         "hp": 1744687,
+         "eind": 12153
+      },
+      {
+         "hp": 1744601,
+         "eind": 12154
+      },
+      {
+         "hp": 1744577,
+         "eind": 12155
+      },
+      {
+         "hp": 1744495,
+         "eind": 12156
+      },
+      {
+         "hp": 1744462,
+         "eind": 12157
+      },
+      {
+         "hp": 1744433,
+         "eind": 12158
+      },
+      {
+         "hp": 1743879,
+         "eind": 12159
+      },
+      {
+         "hp": 1743822,
+         "eind": 12161
+      },
+      {
+         "hp": 1743762,
+         "eind": 12162
+      },
+      {
+         "hp": 1743523,
+         "eind": 12163
+      },
+      {
+         "hp": 1743485,
+         "eind": 12164
+      },
+      {
+         "hp": 1743254,
+         "eind": 12165
+      },
+      {
+         "hp": 1743146,
+         "eind": 12167
+      },
+      {
+         "hp": 1743062,
+         "eind": 12168
+      },
+      {
+         "hp": 1742999,
+         "eind": 12169
+      },
+      {
+         "hp": 1742952,
+         "eind": 12171
+      },
+      {
+         "hp": 1742722,
+         "pl": 100,
+         "eind": 12172
+      },
+      {
+         "hp": 1742312,
+         "pl": "<10",
+         "eind": 12173
+      },
+      {
+         "hp": 1741966,
+         "eind": 12174
+      },
+      {
+         "hp": 1741531,
+         "eind": 12175
+      },
+      {
+         "hp": 1741152,
+         "pl": 100,
+         "eind": 12176
+      },
+      {
+         "hp": 1740751,
+         "pl": "<10",
+         "eind": 12177
+      },
+      {
+         "hp": 1740495,
+         "eind": 12178
+      },
+      {
+         "hp": 1740274,
+         "eind": 12179
+      },
+      {
+         "hp": 1740083,
+         "eind": 12180
+      },
+      {
+         "hp": 1739813,
+         "eind": 12181
+      },
+      {
+         "hp": 1739696,
+         "eind": 12182
+      },
+      {
+         "hp": 1739681,
+         "eind": 12186
+      },
+      {
+         "hp": 1739679,
+         "eind": 12187
       }
    ],
    "46": [
@@ -107980,6 +108364,102 @@
       {
          "pl": "<10",
          "eind": 12126
+      },
+      {
+         "t": 21,
+         "adiv": "DragonRoach",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "eind": 12163
+      },
+      {
+         "r": 0.0,
+         "adiv": "",
+         "desc": [],
+         "eind": 12164
+      },
+      {
+         "pl": 4200,
+         "eind": 12165
+      },
+      {
+         "pl": 4300,
+         "eind": 12167
+      },
+      {
+         "pl": 4200,
+         "eind": 12168
+      },
+      {
+         "pl": 4900,
+         "eind": 12169
+      },
+      {
+         "pl": 5000,
+         "eind": 12171
+      },
+      {
+         "pl": 4600,
+         "eind": 12172
+      },
+      {
+         "pl": 4300,
+         "eind": 12173
+      },
+      {
+         "pl": 3900,
+         "eind": 12174
+      },
+      {
+         "pl": 3600,
+         "eind": 12175
+      },
+      {
+         "pl": 4200,
+         "eind": 12176
+      },
+      {
+         "pl": 4000,
+         "eind": 12177
+      },
+      {
+         "pl": 2800,
+         "eind": 12178
+      },
+      {
+         "pl": 2100,
+         "eind": 12179
+      },
+      {
+         "pl": 1700,
+         "eind": 12180
+      },
+      {
+         "pl": 2400,
+         "eind": 12181
+      },
+      {
+         "pl": 3000,
+         "eind": 12182
+      },
+      {
+         "pl": 3200,
+         "eind": 12186
+      },
+      {
+         "pl": 3000,
+         "adiv": "CAUSTIC STRAIN",
+         "desc": [
+            {
+               "name": "CAUSTIC STRAIN",
+               "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
+            }
+         ],
+         "eind": 12187
       }
    ],
    "212": [
@@ -162547,8 +163027,144 @@
          "eind": 12127
       },
       {
-         "pl": 1500,
+         "pl": 1400,
          "eind": 12129
+      },
+      {
+         "pl": 900,
+         "eind": 12131
+      },
+      {
+         "pl": 800,
+         "eind": 12132
+      },
+      {
+         "pl": 1000,
+         "eind": 12133
+      },
+      {
+         "pl": 1800,
+         "eind": 12134
+      },
+      {
+         "pl": 1700,
+         "eind": 12136
+      },
+      {
+         "pl": 1600,
+         "eind": 12137
+      },
+      {
+         "pl": 1400,
+         "eind": 12139
+      },
+      {
+         "pl": 1600,
+         "eind": 12140
+      },
+      {
+         "pl": 1500,
+         "eind": 12141
+      },
+      {
+         "pl": 1400,
+         "eind": 12142
+      },
+      {
+         "pl": 1300,
+         "eind": 12144
+      },
+      {
+         "pl": 1200,
+         "eind": 12145
+      },
+      {
+         "pl": 1000,
+         "eind": 12147
+      },
+      {
+         "pl": 2000,
+         "eind": 12148
+      },
+      {
+         "pl": 1900,
+         "eind": 12151
+      },
+      {
+         "pl": 1300,
+         "eind": 12152
+      },
+      {
+         "pl": 1400,
+         "eind": 12153
+      },
+      {
+         "pl": 1100,
+         "eind": 12154
+      },
+      {
+         "pl": 1200,
+         "eind": 12155
+      },
+      {
+         "pl": 600,
+         "eind": 12156
+      },
+      {
+         "pl": 500,
+         "eind": 12157
+      },
+      {
+         "pl": 800,
+         "eind": 12159
+      },
+      {
+         "pl": 900,
+         "eind": 12161
+      },
+      {
+         "pl": 1000,
+         "eind": 12163
+      },
+      {
+         "pl": 700,
+         "eind": 12165
+      },
+      {
+         "pl": 600,
+         "eind": 12167
+      },
+      {
+         "pl": 500,
+         "eind": 12171
+      },
+      {
+         "pl": 400,
+         "eind": 12172
+      },
+      {
+         "pl": 500,
+         "eind": 12173
+      },
+      {
+         "pl": 400,
+         "eind": 12174
+      },
+      {
+         "pl": 500,
+         "eind": 12176
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 600,
+         "eind": 12182
+      },
+      {
+         "pl": 700,
+         "eind": 12186
       }
    ],
    "213": [
@@ -171260,8 +171876,140 @@
          "eind": 12127
       },
       {
-         "pl": 2800,
+         "pl": 2600,
          "eind": 12129
+      },
+      {
+         "pl": 1500,
+         "eind": 12131
+      },
+      {
+         "pl": 1200,
+         "eind": 12132
+      },
+      {
+         "pl": 1600,
+         "eind": 12133
+      },
+      {
+         "pl": 2200,
+         "eind": 12134
+      },
+      {
+         "pl": 2300,
+         "eind": 12135
+      },
+      {
+         "pl": 2400,
+         "eind": 12138
+      },
+      {
+         "pl": 2300,
+         "eind": 12139
+      },
+      {
+         "pl": 2500,
+         "eind": 12140
+      },
+      {
+         "pl": 2400,
+         "eind": 12142
+      },
+      {
+         "pl": 2600,
+         "eind": 12143
+      },
+      {
+         "pl": 2200,
+         "eind": 12144
+      },
+      {
+         "pl": 2100,
+         "eind": 12145
+      },
+      {
+         "pl": 1500,
+         "eind": 12146
+      },
+      {
+         "pl": 1400,
+         "eind": 12147
+      },
+      {
+         "pl": 2300,
+         "eind": 12148
+      },
+      {
+         "pl": 2500,
+         "eind": 12152
+      },
+      {
+         "pl": 1900,
+         "eind": 12154
+      },
+      {
+         "pl": 1100,
+         "eind": 12156
+      },
+      {
+         "pl": 800,
+         "eind": 12157
+      },
+      {
+         "pl": 1000,
+         "eind": 12159
+      },
+      {
+         "pl": 1100,
+         "eind": 12161
+      },
+      {
+         "pl": 1000,
+         "eind": 12168
+      },
+      {
+         "pl": 900,
+         "eind": 12171
+      },
+      {
+         "pl": 1000,
+         "eind": 12173
+      },
+      {
+         "pl": 900,
+         "eind": 12174
+      },
+      {
+         "pl": 800,
+         "eind": 12177
+      },
+      {
+         "pl": 600,
+         "eind": 12178
+      },
+      {
+         "pl": 400,
+         "eind": 12179
+      },
+      {
+         "pl": 300,
+         "eind": 12180
+      },
+      {
+         "pl": 600,
+         "eind": 12181
+      },
+      {
+         "pl": 700,
+         "eind": 12182
+      },
+      {
+         "pl": 800,
+         "eind": 12186
+      },
+      {
+         "pl": 700,
+         "eind": 12187
       }
    ],
    "216": [
@@ -311460,6 +312208,157 @@
       {
          "pl": "<10",
          "eind": 12058
+      },
+      {
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "CAUSTIC STRAIN",
+               "desc": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
+            }
+         ],
+         "eind": 12159
+      },
+      {
+         "t": 33,
+         "eind": 12160
+      },
+      {
+         "hp": 251430,
+         "eind": 12161
+      },
+      {
+         "hp": 256292,
+         "pl": 700,
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            },
+            {
+               "name": "SPORE BURST STRAIN",
+               "desc": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+            }
+         ],
+         "eind": 12162
+      },
+      {
+         "hp": 280386,
+         "pl": 3000,
+         "eind": 12163
+      },
+      {
+         "hp": 283859,
+         "pl": 3100,
+         "eind": 12164
+      },
+      {
+         "hp": 302689,
+         "pl": 1900,
+         "eind": 12165
+      },
+      {
+         "hp": 311066,
+         "pl": 1600,
+         "eind": 12167
+      },
+      {
+         "hp": 315334,
+         "pl": 1500,
+         "eind": 12168
+      },
+      {
+         "hp": 319500,
+         "pl": 1400,
+         "eind": 12169
+      },
+      {
+         "hp": 323760,
+         "pl": 1300,
+         "eind": 12171
+      },
+      {
+         "hp": 345107,
+         "pl": 1200,
+         "eind": 12172
+      },
+      {
+         "hp": 380631,
+         "pl": 1100,
+         "eind": 12173
+      },
+      {
+         "hp": 412030,
+         "eind": 12174
+      },
+      {
+         "hp": 452695,
+         "pl": 900,
+         "eind": 12175
+      },
+      {
+         "hp": 484569,
+         "pl": 1000,
+         "eind": 12176
+      },
+      {
+         "hp": 525591,
+         "pl": 1100,
+         "eind": 12177
+      },
+      {
+         "hp": 561354,
+         "pl": 900,
+         "eind": 12178
+      },
+      {
+         "hp": 588002,
+         "pl": 800,
+         "eind": 12179
+      },
+      {
+         "hp": 614023,
+         "pl": 700,
+         "gls": 1,
+         "eind": 12180
+      },
+      {
+         "hp": 648129,
+         "pl": 900,
+         "eind": 12181
+      },
+      {
+         "hp": 672595,
+         "pl": 1500,
+         "eind": 12182
+      },
+      {
+         "gls": 2,
+         "eind": 12183
+      },
+      {
+         "hp": 677492,
+         "pl": 1700,
+         "r": 6.9444447,
+         "gls": 3,
+         "eind": 12186
+      },
+      {
+         "hp": 682757,
+         "pl": 1600,
+         "eind": 12187
+      },
+      {
+         "desc": [
+            {
+               "name": "TERMINID CONTROL SYSTEM+",
+               "desc": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+            }
+         ],
+         "eind": 12189
       }
    ],
    "104": [
@@ -378131,6 +379030,88 @@
       {
          "pl": 400,
          "eind": 12124
+      },
+      {
+         "pl": 200,
+         "eind": 12131
+      },
+      {
+         "pl": 300,
+         "eind": 12133
+      },
+      {
+         "pl": 500,
+         "adiv": "",
+         "desc": [],
+         "eind": 12134
+      },
+      {
+         "pl": 600,
+         "eind": 12136
+      },
+      {
+         "pl": 500,
+         "eind": 12137
+      },
+      {
+         "pl": 600,
+         "eind": 12138
+      },
+      {
+         "pl": 500,
+         "eind": 12139
+      },
+      {
+         "pl": 600,
+         "eind": 12140
+      },
+      {
+         "pl": 300,
+         "eind": 12146
+      },
+      {
+         "pl": 500,
+         "eind": 12148
+      },
+      {
+         "pl": 700,
+         "eind": 12152
+      },
+      {
+         "pl": 500,
+         "eind": 12154
+      },
+      {
+         "pl": 600,
+         "eind": 12155
+      },
+      {
+         "pl": 300,
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12157
+      },
+      {
+         "pl": 200,
+         "eind": 12163
+      },
+      {
+         "pl": 300,
+         "eind": 12173
+      },
+      {
+         "pl": 200,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "pl": 200,
+         "eind": 12187
       }
    ],
    "114": [
@@ -397315,6 +398296,100 @@
       {
          "pl": 100,
          "eind": 12126
+      },
+      {
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "pl": 100,
+         "eind": 12133
+      },
+      {
+         "pl": 200,
+         "eind": 12138
+      },
+      {
+         "pl": 100,
+         "eind": 12142
+      },
+      {
+         "pl": 200,
+         "eind": 12143
+      },
+      {
+         "pl": 100,
+         "eind": 12145
+      },
+      {
+         "pl": "<10",
+         "eind": 12147
+      },
+      {
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12167
+      },
+      {
+         "pl": "<10",
+         "eind": 12168
+      },
+      {
+         "pl": 100,
+         "eind": 12173
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 12174
+      },
+      {
+         "regions": {
+            "BATU BELIG": {
+               "index": 0,
+               "name": "BATU BELIG",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "EAGLEMOUNT": {
+               "index": 1,
+               "name": "EAGLEMOUNT",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12175
+      },
+      {
+         "pl": "<10",
+         "eind": 12178
       }
    ],
    "202": [
@@ -403207,6 +404282,34 @@
       {
          "pl": 100,
          "eind": 12126
+      },
+      {
+         "pl": "<10",
+         "eind": 12129
+      },
+      {
+         "pl": 100,
+         "eind": 12134
+      },
+      {
+         "pl": "<10",
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12152
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12176
+      },
+      {
+         "pl": "<10",
+         "eind": 12178
       }
    ],
    "248": [
@@ -432639,6 +433742,94 @@
       {
          "pl": 400,
          "eind": 12126
+      },
+      {
+         "pl": 300,
+         "eind": 12129
+      },
+      {
+         "pl": 100,
+         "eind": 12131
+      },
+      {
+         "pl": 200,
+         "eind": 12133
+      },
+      {
+         "pl": 300,
+         "eind": 12134
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 12135
+      },
+      {
+         "pl": 400,
+         "adiv": "",
+         "desc": [],
+         "eind": 12136
+      },
+      {
+         "pl": 300,
+         "eind": 12137
+      },
+      {
+         "pl": 400,
+         "eind": 12138
+      },
+      {
+         "pl": 300,
+         "eind": 12139
+      },
+      {
+         "pl": 400,
+         "eind": 12140
+      },
+      {
+         "pl": 200,
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12147
+      },
+      {
+         "pl": 300,
+         "eind": 12148
+      },
+      {
+         "pl": 400,
+         "eind": 12152
+      },
+      {
+         "pl": 300,
+         "eind": 12154
+      },
+      {
+         "pl": 100,
+         "eind": 12156
+      },
+      {
+         "pl": 200,
+         "eind": 12165
+      },
+      {
+         "pl": 100,
+         "eind": 12178
+      },
+      {
+         "pl": "<10",
+         "eind": 12180
+      },
+      {
+         "pl": 100,
+         "eind": 12181
       }
    ],
    "160": [
@@ -484521,6 +485712,343 @@
       {
          "r": 2.7777777,
          "eind": 11806
+      },
+      {
+         "adiv": "RuptureStrain",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 12170
+      },
+      {
+         "r": 0.0,
+         "t": 21,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12171
+      },
+      {
+         "pl": 3900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 399969
+            }
+         },
+         "eind": 12172
+      },
+      {
+         "pl": 6300,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 398781
+            }
+         },
+         "eind": 12173
+      },
+      {
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 395512
+            }
+         },
+         "eind": 12174
+      },
+      {
+         "pl": 5900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 390998
+            }
+         },
+         "eind": 12175
+      },
+      {
+         "pl": 7500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 386935
+            }
+         },
+         "eind": 12176
+      },
+      {
+         "pl": 7400,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 381188
+            }
+         },
+         "eind": 12177
+      },
+      {
+         "pl": 5900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 375501
+            }
+         },
+         "eind": 12178
+      },
+      {
+         "pl": 4700,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 369865
+            }
+         },
+         "eind": 12179
+      },
+      {
+         "gls": 1,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 98367
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 365281
+            }
+         },
+         "eind": 12180
+      },
+      {
+         "pl": 7500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 85776
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 363337
+            }
+         },
+         "eind": 12181
+      },
+      {
+         "pl": 11100,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            },
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 69839
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 361599
+            }
+         },
+         "eind": 12182
+      },
+      {
+         "pl": 12900,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 67017
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 361570
+            }
+         },
+         "eind": 12186
+      },
+      {
+         "pl": 13500,
+         "regions": {
+            "DEMOCRACY ALWAYS": {
+               "index": 0,
+               "name": "DEMOCRACY ALWAYS",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 63836
+            },
+            "ERIDANI": {
+               "index": 1,
+               "name": "ERIDANI",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 1.1111112,
+               "hp": 361221
+            }
+         },
+         "eind": 12187
       }
    ],
    "171": [
@@ -504185,8 +505713,176 @@
       },
       {
          "hp": 1000000,
-         "pl": 3000,
+         "pl": 2800,
          "eind": 12129
+      },
+      {
+         "pl": 1300,
+         "eind": 12131
+      },
+      {
+         "pl": 1000,
+         "eind": 12132
+      },
+      {
+         "pl": 1300,
+         "eind": 12133
+      },
+      {
+         "pl": 1900,
+         "eind": 12134
+      },
+      {
+         "pl": 1800,
+         "eind": 12137
+      },
+      {
+         "pl": 2000,
+         "eind": 12138
+      },
+      {
+         "pl": 1700,
+         "eind": 12139
+      },
+      {
+         "pl": 1900,
+         "eind": 12140
+      },
+      {
+         "pl": 1800,
+         "eind": 12141
+      },
+      {
+         "pl": 2000,
+         "eind": 12143
+      },
+      {
+         "pl": 1700,
+         "eind": 12144
+      },
+      {
+         "pl": 1200,
+         "eind": 12146
+      },
+      {
+         "pl": 1100,
+         "eind": 12147
+      },
+      {
+         "pl": 2000,
+         "eind": 12148
+      },
+      {
+         "pl": 1900,
+         "eind": 12151
+      },
+      {
+         "pl": 2100,
+         "eind": 12153
+      },
+      {
+         "pl": 1800,
+         "eind": 12154
+      },
+      {
+         "pl": 900,
+         "eind": 12156
+      },
+      {
+         "pl": 700,
+         "eind": 12157
+      },
+      {
+         "pl": 600,
+         "eind": 12158
+      },
+      {
+         "pl": 700,
+         "eind": 12159
+      },
+      {
+         "pl": 800,
+         "eind": 12163
+      },
+      {
+         "pl": 900,
+         "eind": 12164
+      },
+      {
+         "pl": 700,
+         "eind": 12165
+      },
+      {
+         "adiv": "RuptureStrain",
+         "desc": [
+            {
+               "name": "RUPTURE STRAIN",
+               "desc": "A deadly strain of ground-bursting Terminids is present on this planet."
+            }
+         ],
+         "eind": 12166
+      },
+      {
+         "pl": 600,
+         "eind": 12167
+      },
+      {
+         "pl": 700,
+         "adiv": "",
+         "desc": [],
+         "eind": 12169
+      },
+      {
+         "pl": 600,
+         "eind": 12171
+      },
+      {
+         "pl": 700,
+         "eind": 12173
+      },
+      {
+         "pl": 800,
+         "eind": 12174
+      },
+      {
+         "pl": 700,
+         "eind": 12175
+      },
+      {
+         "pl": 800,
+         "eind": 12176
+      },
+      {
+         "pl": 600,
+         "eind": 12178
+      },
+      {
+         "pl": 400,
+         "eind": 12179
+      },
+      {
+         "pl": 300,
+         "eind": 12180
+      },
+      {
+         "pl": 400,
+         "eind": 12181
+      },
+      {
+         "pl": 700,
+         "eind": 12182
+      },
+      {
+         "gls": 1,
+         "eind": 12185
+      },
+      {
+         "pl": 800,
+         "eind": 12186
+      },
+      {
+         "pl": 700,
+         "eind": 12187
       }
    ],
    "172": [
@@ -586843,9 +588539,259 @@
          "eind": 12127
       },
       {
-         "hp": 964140,
-         "pl": 15100,
+         "hp": 962984,
+         "pl": 13700,
          "eind": 12129
+      },
+      {
+         "hp": 960524,
+         "pl": 13900,
+         "eind": 12130
+      },
+      {
+         "hp": 942154,
+         "pl": 9100,
+         "eind": 12131
+      },
+      {
+         "hp": 943102,
+         "pl": 7200,
+         "eind": 12132
+      },
+      {
+         "hp": 948446,
+         "pl": 9000,
+         "eind": 12133
+      },
+      {
+         "hp": 953358,
+         "pl": 13600,
+         "eind": 12134
+      },
+      {
+         "hp": 954053,
+         "pl": 13800,
+         "eind": 12135
+      },
+      {
+         "hp": 954921,
+         "pl": 13600,
+         "eind": 12136
+      },
+      {
+         "hp": 955829,
+         "pl": 12700,
+         "eind": 12137
+      },
+      {
+         "hp": 956910,
+         "pl": 13200,
+         "eind": 12138
+      },
+      {
+         "hp": 958338,
+         "pl": 11800,
+         "eind": 12139
+      },
+      {
+         "hp": 959663,
+         "pl": 12900,
+         "eind": 12140
+      },
+      {
+         "hp": 961258,
+         "pl": 12500,
+         "eind": 12141
+      },
+      {
+         "hp": 962951,
+         "pl": 11800,
+         "eind": 12142
+      },
+      {
+         "hp": 964811,
+         "pl": 12300,
+         "eind": 12143
+      },
+      {
+         "hp": 974567,
+         "pl": 10300,
+         "eind": 12144
+      },
+      {
+         "hp": 1013267,
+         "pl": 9300,
+         "eind": 12145
+      },
+      {
+         "hp": 1092155,
+         "pl": 9600,
+         "eind": 12146
+      },
+      {
+         "hp": 1094620,
+         "pl": 8300,
+         "eind": 12147
+      },
+      {
+         "hp": 1104230,
+         "pl": 14600,
+         "eind": 12148
+      },
+      {
+         "hp": 1104863,
+         "pl": 13900,
+         "eind": 12151
+      },
+      {
+         "hp": 1130283,
+         "pl": 10600,
+         "eind": 12152
+      },
+      {
+         "hp": 1150753,
+         "pl": 10700,
+         "eind": 12153
+      },
+      {
+         "hp": 1210294,
+         "pl": 8700,
+         "eind": 12154
+      },
+      {
+         "hp": 1221592,
+         "pl": 9100,
+         "eind": 12155
+      },
+      {
+         "hp": 1260777,
+         "pl": 5700,
+         "eind": 12156
+      },
+      {
+         "hp": 1275929,
+         "pl": 4800,
+         "eind": 12157
+      },
+      {
+         "hp": 1280198,
+         "pl": 4900,
+         "eind": 12158
+      },
+      {
+         "hp": 1296323,
+         "pl": 6400,
+         "eind": 12159
+      },
+      {
+         "hp": 1297672,
+         "pl": 6500,
+         "eind": 12161
+      },
+      {
+         "hp": 1298822,
+         "pl": 7000,
+         "eind": 12162
+      },
+      {
+         "hp": 1306558,
+         "pl": 7900,
+         "eind": 12163
+      },
+      {
+         "hp": 1308225,
+         "pl": 8100,
+         "eind": 12164
+      },
+      {
+         "hp": 1319106,
+         "pl": 6100,
+         "eind": 12165
+      },
+      {
+         "hp": 1325335,
+         "pl": 5100,
+         "eind": 12167
+      },
+      {
+         "hp": 1328505,
+         "pl": 4700,
+         "eind": 12168
+      },
+      {
+         "hp": 1332062,
+         "pl": 4900,
+         "eind": 12169
+      },
+      {
+         "hp": 1335538,
+         "pl": 4300,
+         "eind": 12171
+      },
+      {
+         "hp": 1353332,
+         "pl": 3900,
+         "eind": 12172
+      },
+      {
+         "hp": 1385077,
+         "pl": 4100,
+         "eind": 12173
+      },
+      {
+         "hp": 1414885,
+         "pl": 3800,
+         "eind": 12174
+      },
+      {
+         "hp": 1453410,
+         "pl": 3400,
+         "eind": 12175
+      },
+      {
+         "hp": 1483677,
+         "pl": 4100,
+         "eind": 12176
+      },
+      {
+         "hp": 1522610,
+         "pl": 4000,
+         "eind": 12177
+      },
+      {
+         "hp": 1556617,
+         "pl": 2900,
+         "eind": 12178
+      },
+      {
+         "hp": 1581069,
+         "pl": 2300,
+         "eind": 12179
+      },
+      {
+         "hp": 1602991,
+         "pl": 2200,
+         "eind": 12180
+      },
+      {
+         "hp": 1625443,
+         "pl": 3200,
+         "eind": 12181
+      },
+      {
+         "hp": 1637049,
+         "pl": 4700,
+         "eind": 12182
+      },
+      {
+         "hp": 1638767,
+         "pl": 5200,
+         "eind": 12186
+      },
+      {
+         "hp": 1640490,
+         "pl": 4900,
+         "eind": 12187
       }
    ],
    "152": [
@@ -613599,8 +615545,111 @@
          "eind": 12127
       },
       {
-         "pl": 2400,
+         "pl": 1200,
          "eind": 12129
+      },
+      {
+         "pl": 300,
+         "eind": 12130
+      },
+      {
+         "pl": 200,
+         "eind": 12131
+      },
+      {
+         "pl": 300,
+         "eind": 12133
+      },
+      {
+         "pl": 500,
+         "eind": 12134
+      },
+      {
+         "pl": 600,
+         "eind": 12135
+      },
+      {
+         "pl": 500,
+         "eind": 12137
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 12141
+      },
+      {
+         "adiv": "",
+         "desc": [],
+         "eind": 12142
+      },
+      {
+         "pl": 600,
+         "eind": 12143
+      },
+      {
+         "pl": 500,
+         "eind": 12144
+      },
+      {
+         "pl": 300,
+         "eind": 12146
+      },
+      {
+         "pl": 200,
+         "eind": 12147
+      },
+      {
+         "pl": 500,
+         "eind": 12148
+      },
+      {
+         "pl": 600,
+         "eind": 12153
+      },
+      {
+         "pl": 500,
+         "eind": 12154
+      },
+      {
+         "pl": 400,
+         "eind": 12155
+      },
+      {
+         "pl": 200,
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12157
+      },
+      {
+         "pl": 200,
+         "eind": 12162
+      },
+      {
+         "pl": 300,
+         "eind": 12173
+      },
+      {
+         "pl": 200,
+         "eind": 12174
+      },
+      {
+         "pl": 300,
+         "eind": 12176
+      },
+      {
+         "pl": 200,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
       }
    ],
    "198": [
@@ -656958,8 +659007,140 @@
          "eind": 12127
       },
       {
-         "pl": 900,
+         "pl": 600,
          "eind": 12129
+      },
+      {
+         "pl": 500,
+         "eind": 12130
+      },
+      {
+         "pl": 200,
+         "eind": 12131
+      },
+      {
+         "pl": 300,
+         "eind": 12133
+      },
+      {
+         "pl": 700,
+         "eind": 12134
+      },
+      {
+         "pl": 600,
+         "eind": 12137
+      },
+      {
+         "pl": 700,
+         "eind": 12138
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 12139
+      },
+      {
+         "pl": 800,
+         "adiv": "",
+         "desc": [],
+         "eind": 12140
+      },
+      {
+         "pl": 700,
+         "eind": 12142
+      },
+      {
+         "pl": 800,
+         "eind": 12143
+      },
+      {
+         "pl": 700,
+         "eind": 12144
+      },
+      {
+         "pl": 400,
+         "eind": 12146
+      },
+      {
+         "pl": 300,
+         "eind": 12147
+      },
+      {
+         "pl": 700,
+         "eind": 12148
+      },
+      {
+         "pl": 600,
+         "eind": 12152
+      },
+      {
+         "pl": 700,
+         "eind": 12153
+      },
+      {
+         "pl": 300,
+         "eind": 12156
+      },
+      {
+         "pl": 200,
+         "eind": 12157
+      },
+      {
+         "pl": 100,
+         "eind": 12158
+      },
+      {
+         "pl": 200,
+         "eind": 12159
+      },
+      {
+         "pl": 300,
+         "eind": 12163
+      },
+      {
+         "pl": 200,
+         "eind": 12165
+      },
+      {
+         "pl": 300,
+         "eind": 12169
+      },
+      {
+         "pl": 200,
+         "eind": 12171
+      },
+      {
+         "pl": 300,
+         "eind": 12173
+      },
+      {
+         "pl": 400,
+         "eind": 12174
+      },
+      {
+         "pl": 500,
+         "eind": 12176
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "pl": 200,
+         "eind": 12181
+      },
+      {
+         "pl": 300,
+         "eind": 12186
       }
    ],
    "200": [
@@ -674018,8 +676199,144 @@
          "eind": 12127
       },
       {
-         "pl": 800,
+         "pl": 700,
          "eind": 12129
+      },
+      {
+         "pl": 300,
+         "eind": 12131
+      },
+      {
+         "pl": 600,
+         "eind": 12133
+      },
+      {
+         "pl": 1000,
+         "eind": 12134
+      },
+      {
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 12137
+      },
+      {
+         "pl": 1100,
+         "adiv": "",
+         "desc": [],
+         "eind": 12138
+      },
+      {
+         "pl": 900,
+         "eind": 12139
+      },
+      {
+         "pl": 1100,
+         "eind": 12140
+      },
+      {
+         "pl": 1200,
+         "eind": 12142
+      },
+      {
+         "pl": 1300,
+         "eind": 12143
+      },
+      {
+         "pl": 1200,
+         "eind": 12144
+      },
+      {
+         "pl": 1100,
+         "eind": 12145
+      },
+      {
+         "pl": 600,
+         "eind": 12146
+      },
+      {
+         "pl": 500,
+         "eind": 12147
+      },
+      {
+         "pl": 1000,
+         "eind": 12148
+      },
+      {
+         "pl": 1100,
+         "eind": 12151
+      },
+      {
+         "pl": 1200,
+         "eind": 12153
+      },
+      {
+         "pl": 1000,
+         "eind": 12154
+      },
+      {
+         "pl": 500,
+         "eind": 12156
+      },
+      {
+         "pl": 300,
+         "eind": 12157
+      },
+      {
+         "pl": 200,
+         "eind": 12159
+      },
+      {
+         "pl": 300,
+         "eind": 12162
+      },
+      {
+         "pl": 400,
+         "eind": 12165
+      },
+      {
+         "pl": 600,
+         "eind": 12173
+      },
+      {
+         "pl": 700,
+         "eind": 12174
+      },
+      {
+         "pl": 600,
+         "eind": 12175
+      },
+      {
+         "pl": 900,
+         "eind": 12176
+      },
+      {
+         "pl": 700,
+         "eind": 12177
+      },
+      {
+         "pl": 500,
+         "eind": 12178
+      },
+      {
+         "pl": 300,
+         "eind": 12179
+      },
+      {
+         "pl": 200,
+         "eind": 12180
+      },
+      {
+         "pl": 300,
+         "eind": 12181
+      },
+      {
+         "pl": 400,
+         "eind": 12186
       }
    ],
    "158": [
@@ -695653,9 +697970,1126 @@
          "eind": 12128
       },
       {
-         "hp": 1966484,
-         "pl": 7400,
+         "hp": 1980209,
+         "pl": 9100,
+         "r": 9.722222,
          "eind": 12129
+      },
+      {
+         "hp": 2034385,
+         "pl": 12500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 999861
+            }
+         },
+         "eind": 12130
+      },
+      {
+         "hp": 2270960,
+         "pl": 6900,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 997444
+            }
+         },
+         "eind": 12131
+      },
+      {
+         "hp": 2303047,
+         "pl": 7500,
+         "dss": "DSS Here",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            }
+         ],
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 998212
+            }
+         },
+         "eind": 12132
+      },
+      {
+         "hp": 2335646,
+         "pl": 25200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 976178
+            }
+         },
+         "eind": 12133
+      },
+      {
+         "hp": 2367548,
+         "pl": 38000,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 916075
+            }
+         },
+         "eind": 12134
+      },
+      {
+         "hp": 2370711,
+         "pl": 39100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 910209
+            }
+         },
+         "eind": 12135
+      },
+      {
+         "hp": 2373872,
+         "pl": 39800,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 904134
+            }
+         },
+         "eind": 12136
+      },
+      {
+         "hp": 2377272,
+         "pl": 38200,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 898048
+            }
+         },
+         "eind": 12137
+      },
+      {
+         "hp": 2380617,
+         "pl": 40300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 891795
+            }
+         },
+         "eind": 12138
+      },
+      {
+         "hp": 2384149,
+         "pl": 37000,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 885967
+            }
+         },
+         "eind": 12139
+      },
+      {
+         "hp": 2387527,
+         "pl": 41600,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 879819
+            }
+         },
+         "eind": 12140
+      },
+      {
+         "hp": 2390871,
+         "pl": 41100,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 873432
+            }
+         },
+         "eind": 12141
+      },
+      {
+         "hp": 2394176,
+         "pl": 39700,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 867331
+            }
+         },
+         "eind": 12142
+      },
+      {
+         "hp": 2397619,
+         "pl": 42300,
+         "adiv": "JetBrigade",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "DSS",
+               "desc": "A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 861292
+            }
+         },
+         "eind": 12143
+      },
+      {
+         "hp": 2419804,
+         "pl": 38500,
+         "r": 12.5,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 830124
+            }
+         },
+         "eind": 12144
+      },
+      {
+         "hp": 2510221,
+         "pl": 36300,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 721679
+            }
+         },
+         "eind": 12145
+      },
+      {
+         "hp": 2745254,
+         "pl": 23500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 453569
+            }
+         },
+         "eind": 12146
+      },
+      {
+         "hp": 2771223,
+         "pl": 20600,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 430280
+            }
+         },
+         "eind": 12147
+      },
+      {
+         "hp": 2886038,
+         "pl": 35700,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 318966
+            }
+         },
+         "eind": 12148
+      },
+      {
+         "hp": 2892208,
+         "pl": 34800,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 312795
+            }
+         },
+         "eind": 12151
+      },
+      {
+         "hp": 2993773,
+         "pl": 36500,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 215935
+            }
+         },
+         "eind": 12152
+      },
+      {
+         "hp": 3041887,
+         "pl": 42400,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 51,
+               "r": 2.7777777,
+               "hp": 158678
+            }
+         },
+         "eind": 12153
+      },
+      {
+         "hp": 3164722,
+         "pl": 37000,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 5083
+            }
+         },
+         "eind": 12154
+      },
+      {
+         "hp": 1684165,
+         "pl": 38000,
+         "regions": {
+            "HILJAISUUS": {
+               "index": 0,
+               "name": "HILJAISUUS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 0.5555556,
+               "hp": 200000
+            },
+            "KALASATAMA": {
+               "index": 1,
+               "name": "KALASATAMA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "YDINKESKUSTA": {
+               "index": 2,
+               "name": "YDINKESKUSTA",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 1.6666666,
+               "hp": 600000
+            },
+            "EVOLUTION PLATS": {
+               "index": 3,
+               "name": "EVOLUTION PLATS",
+               "desc": "Nothing of note.",
+               "t": 48,
+               "r": 2.7777777,
+               "hp": 0
+            }
+         },
+         "eind": 12155
+      },
+      {
+         "hp": 1660392,
+         "pl": 21600,
+         "eind": 12156
+      },
+      {
+         "hp": 1648896,
+         "pl": 14800,
+         "eind": 12157
+      },
+      {
+         "hp": 1644026,
+         "pl": 13600,
+         "eind": 12158
+      },
+      {
+         "hp": 1658607,
+         "pl": 14000,
+         "eind": 12159
+      },
+      {
+         "hp": 1661130,
+         "pl": 13900,
+         "eind": 12161
+      },
+      {
+         "hp": 1663649,
+         "pl": 15100,
+         "eind": 12162
+      },
+      {
+         "hp": 1682403,
+         "pl": 16700,
+         "eind": 12163
+      },
+      {
+         "hp": 1685484,
+         "pl": 17200,
+         "eind": 12164
+      },
+      {
+         "hp": 1703501,
+         "pl": 17700,
+         "eind": 12165
+      },
+      {
+         "hp": 1710576,
+         "pl": 17200,
+         "eind": 12167
+      },
+      {
+         "hp": 1714010,
+         "pl": 16400,
+         "eind": 12168
+      },
+      {
+         "hp": 1717702,
+         "pl": 15500,
+         "eind": 12169
+      },
+      {
+         "hp": 1722132,
+         "pl": 13200,
+         "eind": 12171
+      },
+      {
+         "hp": 1747281,
+         "pl": 12100,
+         "eind": 12172
+      },
+      {
+         "hp": 1796720,
+         "pl": 13100,
+         "eind": 12173
+      },
+      {
+         "hp": 1840898,
+         "pl": 12600,
+         "eind": 12174
+      },
+      {
+         "hp": 1897117,
+         "pl": 12300,
+         "eind": 12175
+      },
+      {
+         "hp": 1939834,
+         "pl": 14300,
+         "eind": 12176
+      },
+      {
+         "hp": 1993842,
+         "pl": 13500,
+         "eind": 12177
+      },
+      {
+         "hp": 2042150,
+         "pl": 9400,
+         "eind": 12178
+      },
+      {
+         "hp": 2079335,
+         "pl": 6600,
+         "eind": 12179
+      },
+      {
+         "hp": 2118141,
+         "pl": 5400,
+         "eind": 12180
+      },
+      {
+         "hp": 2167626,
+         "pl": 5600,
+         "eind": 12181
+      },
+      {
+         "hp": 2207700,
+         "pl": 6600,
+         "dss": "",
+         "desc": [
+            {
+               "name": "Heavy SEAF Presence",
+               "desc": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            },
+            {
+               "name": "THE JET BRIGADE",
+               "desc": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
+            }
+         ],
+         "eind": 12182
+      },
+      {
+         "hp": 2214851,
+         "pl": 6800,
+         "eind": 12186
+      },
+      {
+         "hp": 2222025,
+         "pl": 6200,
+         "eind": 12187
       }
    ],
    "240": [
@@ -705129,6 +708563,106 @@
       {
          "pl": 600,
          "eind": 12126
+      },
+      {
+         "pl": 300,
+         "eind": 12131
+      },
+      {
+         "pl": 500,
+         "eind": 12133
+      },
+      {
+         "pl": 800,
+         "eind": 12134
+      },
+      {
+         "pl": 900,
+         "eind": 12140
+      },
+      {
+         "pl": 800,
+         "eind": 12144
+      },
+      {
+         "pl": 900,
+         "eind": 12145
+      },
+      {
+         "pl": 500,
+         "eind": 12146
+      },
+      {
+         "pl": 900,
+         "eind": 12148
+      },
+      {
+         "pl": 800,
+         "eind": 12151
+      },
+      {
+         "pl": 1100,
+         "eind": 12152
+      },
+      {
+         "pl": 800,
+         "eind": 12154
+      },
+      {
+         "pl": 900,
+         "eind": 12155
+      },
+      {
+         "pl": 400,
+         "eind": 12156
+      },
+      {
+         "pl": 300,
+         "eind": 12157
+      },
+      {
+         "pl": 200,
+         "eind": 12158
+      },
+      {
+         "pl": 300,
+         "eind": 12164
+      },
+      {
+         "pl": 400,
+         "eind": 12165
+      },
+      {
+         "pl": 300,
+         "eind": 12172
+      },
+      {
+         "pl": 500,
+         "eind": 12173
+      },
+      {
+         "pl": 400,
+         "eind": 12175
+      },
+      {
+         "pl": 500,
+         "eind": 12176
+      },
+      {
+         "pl": 400,
+         "eind": 12177
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 200,
+         "eind": 12179
+      },
+      {
+         "pl": 300,
+         "eind": 12182
       }
    ],
    "243": [
@@ -718930,8 +722464,101 @@
          "eind": 12127
       },
       {
-         "pl": 25400,
+         "pl": 22700,
          "eind": 12129
+      },
+      {
+         "pl": 22400,
+         "eind": 12130
+      },
+      {
+         "pl": 14700,
+         "eind": 12131
+      },
+      {
+         "pl": 15400,
+         "t": 16,
+         "dss": "",
+         "desc": [
+            {
+               "name": "THE INCINERATION CORPS",
+               "desc": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            }
+         ],
+         "eind": 12132
+      },
+      {
+         "pl": 1200,
+         "r": 2.7777777,
+         "eind": 12133
+      },
+      {
+         "pl": 900,
+         "eind": 12134
+      },
+      {
+         "pl": 1000,
+         "eind": 12135
+      },
+      {
+         "pl": 900,
+         "eind": 12137
+      },
+      {
+         "pl": 1100,
+         "eind": 12138
+      },
+      {
+         "pl": 900,
+         "eind": 12139
+      },
+      {
+         "pl": 1000,
+         "eind": 12140
+      },
+      {
+         "pl": 700,
+         "eind": 12144
+      },
+      {
+         "pl": 600,
+         "eind": 12145
+      },
+      {
+         "pl": 200,
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12147
+      },
+      {
+         "pl": 200,
+         "eind": 12148
+      },
+      {
+         "pl": 100,
+         "eind": 12156
+      },
+      {
+         "pl": "<10",
+         "eind": 12157
+      },
+      {
+         "pl": 100,
+         "eind": 12167
+      },
+      {
+         "pl": "<10",
+         "eind": 12168
+      },
+      {
+         "pl": 100,
+         "eind": 12169
+      },
+      {
+         "pl": "<10",
+         "eind": 12178
       }
    ],
    "262": [
@@ -721197,6 +724824,66 @@
       {
          "pl": 200,
          "eind": 12126
+      },
+      {
+         "pl": 100,
+         "eind": 12131
+      },
+      {
+         "pl": 300,
+         "eind": 12134
+      },
+      {
+         "pl": 400,
+         "eind": 12141
+      },
+      {
+         "pl": 300,
+         "eind": 12142
+      },
+      {
+         "pl": 200,
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12147
+      },
+      {
+         "pl": 300,
+         "eind": 12148
+      },
+      {
+         "pl": 400,
+         "eind": 12153
+      },
+      {
+         "pl": 300,
+         "eind": 12154
+      },
+      {
+         "pl": 100,
+         "eind": 12156
+      },
+      {
+         "pl": 200,
+         "eind": 12173
+      },
+      {
+         "pl": 100,
+         "eind": 12174
+      },
+      {
+         "pl": 200,
+         "eind": 12176
+      },
+      {
+         "pl": 100,
+         "eind": 12178
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
       }
    ],
    "266": [
@@ -737307,6 +740994,164 @@
       {
          "pl": 2000,
          "eind": 12127
+      },
+      {
+         "pl": 1800,
+         "eind": 12129
+      },
+      {
+         "pl": 1700,
+         "eind": 12130
+      },
+      {
+         "pl": 1100,
+         "eind": 12131
+      },
+      {
+         "pl": 900,
+         "eind": 12132
+      },
+      {
+         "pl": 1100,
+         "eind": 12133
+      },
+      {
+         "pl": 1800,
+         "eind": 12134
+      },
+      {
+         "pl": 1900,
+         "eind": 12135
+      },
+      {
+         "pl": 1800,
+         "eind": 12137
+      },
+      {
+         "pl": 1900,
+         "eind": 12138
+      },
+      {
+         "pl": 1700,
+         "eind": 12139
+      },
+      {
+         "pl": 1900,
+         "eind": 12140
+      },
+      {
+         "pl": 1800,
+         "eind": 12141
+      },
+      {
+         "pl": 1900,
+         "eind": 12143
+      },
+      {
+         "pl": 1500,
+         "eind": 12144
+      },
+      {
+         "pl": 1400,
+         "eind": 12145
+      },
+      {
+         "pl": 1300,
+         "eind": 12146
+      },
+      {
+         "pl": 1100,
+         "eind": 12147
+      },
+      {
+         "pl": 1900,
+         "eind": 12148
+      },
+      {
+         "pl": 1600,
+         "eind": 12152
+      },
+      {
+         "pl": 1800,
+         "eind": 12153
+      },
+      {
+         "pl": 1500,
+         "eind": 12154
+      },
+      {
+         "pl": 1600,
+         "eind": 12155
+      },
+      {
+         "pl": 800,
+         "eind": 12156
+      },
+      {
+         "pl": 600,
+         "eind": 12157
+      },
+      {
+         "pl": 800,
+         "eind": 12159
+      },
+      {
+         "pl": 900,
+         "eind": 12164
+      },
+      {
+         "pl": 700,
+         "eind": 12165
+      },
+      {
+         "pl": 600,
+         "eind": 12171
+      },
+      {
+         "pl": 700,
+         "eind": 12172
+      },
+      {
+         "pl": 800,
+         "eind": 12173
+      },
+      {
+         "pl": 900,
+         "eind": 12176
+      },
+      {
+         "pl": 600,
+         "eind": 12178
+      },
+      {
+         "pl": 500,
+         "eind": 12179
+      },
+      {
+         "pl": 400,
+         "eind": 12180
+      },
+      {
+         "pl": 500,
+         "eind": 12181
+      },
+      {
+         "adiv": "",
+         "desc": [
+            {
+               "name": "HIVE LORDS",
+               "desc": "Terminid Hive Lords have been detected on this planet."
+            },
+            {
+               "name": "DRAGONROACHES",
+               "desc": "Terminid Dragonroaches menace the skies of this planet."
+            }
+         ],
+         "eind": 12184
+      },
+      {
+         "pl": 600,
+         "eind": 12186
       }
    ],
    "201": [
@@ -741843,6 +745688,66 @@
       {
          "pl": 100,
          "eind": 12122
+      },
+      {
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "pl": 100,
+         "eind": 12133
+      },
+      {
+         "pl": 200,
+         "eind": 12135
+      },
+      {
+         "pl": 100,
+         "eind": 12139
+      },
+      {
+         "pl": 200,
+         "eind": 12140
+      },
+      {
+         "pl": 100,
+         "eind": 12146
+      },
+      {
+         "pl": 200,
+         "eind": 12148
+      },
+      {
+         "pl": 100,
+         "eind": 12151
+      },
+      {
+         "pl": 200,
+         "eind": 12152
+      },
+      {
+         "pl": 100,
+         "eind": 12155
+      },
+      {
+         "pl": "<10",
+         "eind": 12157
+      },
+      {
+         "pl": 100,
+         "eind": 12163
+      },
+      {
+         "pl": "<10",
+         "eind": 12165
+      },
+      {
+         "pl": 100,
+         "eind": 12172
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
       }
    ],
    "245": [
@@ -760203,6 +764108,22 @@
       {
          "pl": "<10",
          "eind": 12116
+      },
+      {
+         "pl": 100,
+         "eind": 12145
+      },
+      {
+         "pl": "<10",
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12153
+      },
+      {
+         "pl": "<10",
+         "eind": 12155
       }
    ],
    "117": [
@@ -844929,6 +848850,74 @@
       {
          "pl": "<10",
          "eind": 12102
+      },
+      {
+         "pl": 100,
+         "eind": 12140
+      },
+      {
+         "pl": "<10",
+         "eind": 12141
+      },
+      {
+         "pl": 100,
+         "eind": 12143
+      },
+      {
+         "pl": "<10",
+         "eind": 12144
+      },
+      {
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "pl": "<10",
+         "eind": 12155
+      },
+      {
+         "pl": 200,
+         "eind": 12159
+      },
+      {
+         "pl": 300,
+         "eind": 12163
+      },
+      {
+         "pl": 400,
+         "eind": 12169
+      },
+      {
+         "pl": 600,
+         "eind": 12172
+      },
+      {
+         "pl": 700,
+         "eind": 12173
+      },
+      {
+         "pl": 600,
+         "eind": 12174
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 200,
+         "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12180
+      },
+      {
+         "pl": "<10",
+         "eind": 12181
+      },
+      {
+         "pl": 100,
+         "eind": 12187
       }
    ],
    "91": [
@@ -852792,6 +856781,542 @@
       {
          "pl": 400,
          "eind": 12127
+      },
+      {
+         "pl": 200,
+         "eind": 12131
+      },
+      {
+         "pl": 400,
+         "eind": 12134
+      },
+      {
+         "pl": 500,
+         "eind": 12136
+      },
+      {
+         "pl": 400,
+         "eind": 12137
+      },
+      {
+         "pl": 500,
+         "eind": 12140
+      },
+      {
+         "pl": 600,
+         "eind": 12143
+      },
+      {
+         "pl": 500,
+         "eind": 12144
+      },
+      {
+         "pl": 300,
+         "eind": 12146
+      },
+      {
+         "pl": 400,
+         "eind": 12148
+      },
+      {
+         "pl": 600,
+         "eind": 12152
+      },
+      {
+         "pl": 500,
+         "eind": 12154
+      },
+      {
+         "pl": 200,
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12157
+      },
+      {
+         "hp": 2099999,
+         "pl": 3600,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399828
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12159
+      },
+      {
+         "hp": 2099994,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399862
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12161
+      },
+      {
+         "hp": 2099989,
+         "pl": 3900,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399778
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12162
+      },
+      {
+         "hp": 2100000,
+         "pl": 4600,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399257
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12163
+      },
+      {
+         "hp": 2099992,
+         "pl": 4700,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399276
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12164
+      },
+      {
+         "hp": 2100000,
+         "pl": 4400,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399258
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12165
+      },
+      {
+         "pl": 4200,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399514
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12167
+      },
+      {
+         "pl": 4100,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399473
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12168
+      },
+      {
+         "pl": 4600,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399490
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12169
+      },
+      {
+         "hp": 2099998,
+         "pl": 4500,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399530
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12171
+      },
+      {
+         "hp": 2099995,
+         "pl": 5500,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 398720
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12172
+      },
+      {
+         "hp": 2099991,
+         "pl": 5600,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 397829
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12173
+      },
+      {
+         "hp": 2099998,
+         "pl": 4800,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 397585
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12174
+      },
+      {
+         "hp": 2100000,
+         "pl": 2800,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 399686
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12175
+      },
+      {
+         "pl": 2900,
+         "regions": {
+            "GRAFSART": {
+               "index": 0,
+               "name": "GRAFSART",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            },
+            "GRAFSWALLIT": {
+               "index": 1,
+               "name": "GRAFSWALLIT",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GRAFSEAD": {
+               "index": 2,
+               "name": "GRAFSEAD",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.6666666,
+               "hp": 600000
+            }
+         },
+         "eind": 12176
+      },
+      {
+         "pl": 2300,
+         "eind": 12177
+      },
+      {
+         "pl": 1500,
+         "eind": 12178
+      },
+      {
+         "pl": 1000,
+         "eind": 12179
+      },
+      {
+         "pl": 600,
+         "eind": 12180
+      },
+      {
+         "pl": 300,
+         "eind": 12181
+      },
+      {
+         "pl": 500,
+         "eind": 12182
       }
    ],
    "94": [
@@ -865766,9 +870291,649 @@
          "eind": 12127
       },
       {
-         "hp": 1282180,
-         "pl": 300,
+         "hp": 1282104,
          "eind": 12129
+      },
+      {
+         "hp": 1281798,
+         "eind": 12130
+      },
+      {
+         "hp": 1280438,
+         "pl": 100,
+         "eind": 12131
+      },
+      {
+         "hp": 1280253,
+         "eind": 12132
+      },
+      {
+         "hp": 1279895,
+         "eind": 12133
+      },
+      {
+         "hp": 1279593,
+         "pl": 200,
+         "eind": 12134
+      },
+      {
+         "hp": 1279562,
+         "pl": 300,
+         "eind": 12135
+      },
+      {
+         "hp": 1279512,
+         "eind": 12136
+      },
+      {
+         "hp": 1279476,
+         "eind": 12137
+      },
+      {
+         "hp": 1279416,
+         "eind": 12138
+      },
+      {
+         "hp": 1279351,
+         "eind": 12139
+      },
+      {
+         "hp": 1279309,
+         "eind": 12140
+      },
+      {
+         "hp": 1279269,
+         "eind": 12141
+      },
+      {
+         "hp": 1279205,
+         "eind": 12142
+      },
+      {
+         "hp": 1279170,
+         "eind": 12143
+      },
+      {
+         "hp": 1278915,
+         "pl": 400,
+         "eind": 12144
+      },
+      {
+         "hp": 1278109,
+         "eind": 12145
+      },
+      {
+         "hp": 1276094,
+         "pl": 200,
+         "eind": 12146
+      },
+      {
+         "hp": 1275825,
+         "eind": 12147
+      },
+      {
+         "hp": 1274867,
+         "eind": 12148
+      },
+      {
+         "hp": 1274841,
+         "eind": 12151
+      },
+      {
+         "hp": 1274023,
+         "pl": 300,
+         "eind": 12152
+      },
+      {
+         "hp": 1273605,
+         "pl": 400,
+         "eind": 12153
+      },
+      {
+         "hp": 1272538,
+         "pl": 300,
+         "eind": 12154
+      },
+      {
+         "hp": 1272363,
+         "eind": 12155
+      },
+      {
+         "hp": 1271554,
+         "pl": 200,
+         "eind": 12156
+      },
+      {
+         "hp": 1271080,
+         "pl": 100,
+         "eind": 12157
+      },
+      {
+         "hp": 1270785,
+         "eind": 12158
+      },
+      {
+         "hp": 1264696,
+         "pl": 1400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 199069
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12159
+      },
+      {
+         "hp": 1264049,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198937
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12161
+      },
+      {
+         "hp": 1263339,
+         "pl": 1500,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198796
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12162
+      },
+      {
+         "hp": 1259311,
+         "pl": 1700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198475
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12163
+      },
+      {
+         "hp": 1258652,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198497
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12164
+      },
+      {
+         "hp": 1255875,
+         "pl": 2000,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198386
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12165
+      },
+      {
+         "hp": 1254648,
+         "pl": 1900,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198252
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12167
+      },
+      {
+         "hp": 1254081,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198187
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12168
+      },
+      {
+         "hp": 1253404,
+         "pl": 2400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 198064
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12169
+      },
+      {
+         "hp": 1252721,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 197946
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12171
+      },
+      {
+         "hp": 1248365,
+         "pl": 3400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 196280
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12172
+      },
+      {
+         "hp": 1239770,
+         "pl": 4400,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 192330
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12173
+      },
+      {
+         "hp": 1232285,
+         "pl": 4600,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 187798
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12174
+      },
+      {
+         "hp": 1220940,
+         "pl": 6200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 179325
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12175
+      },
+      {
+         "hp": 1210174,
+         "pl": 8100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 169528
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12176
+      },
+      {
+         "hp": 1196495,
+         "pl": 7200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 155623
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12177
+      },
+      {
+         "hp": 1186267,
+         "pl": 4700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 145109
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12178
+      },
+      {
+         "hp": 1178664,
+         "pl": 3200,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 137889
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12179
+      },
+      {
+         "hp": 1171008,
+         "pl": 2100,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 131248
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12180
+      },
+      {
+         "hp": 1164704,
+         "pl": 900,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 128304
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12181
+      },
+      {
+         "hp": 1162766,
+         "pl": 700,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 128979
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12182
+      },
+      {
+         "hp": 1162456,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 129229
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12186
+      },
+      {
+         "hp": 1162249,
+         "regions": {
+            "MALLSTRIP NODES": {
+               "index": 0,
+               "name": "MALLSTRIP NODES",
+               "desc": "Nothing of note.",
+               "t": 67,
+               "r": 0.5555556,
+               "hp": 129347
+            },
+            "BIRTH": {
+               "index": 1,
+               "name": "BIRTH",
+               "desc": "Nothing of note.",
+               "t": 64,
+               "r": 1.1111112,
+               "hp": 400000
+            }
+         },
+         "eind": 12187
       }
    ],
    "59": [
@@ -902757,9 +907922,231 @@
          "eind": 12127
       },
       {
-         "hp": 963580,
+         "hp": 963553,
          "pl": "<10",
          "eind": 12129
+      },
+      {
+         "hp": 963468,
+         "eind": 12130
+      },
+      {
+         "hp": 962921,
+         "eind": 12131
+      },
+      {
+         "hp": 962801,
+         "eind": 12132
+      },
+      {
+         "hp": 962694,
+         "eind": 12133
+      },
+      {
+         "hp": 962480,
+         "eind": 12134
+      },
+      {
+         "hp": 962449,
+         "pl": 100,
+         "eind": 12135
+      },
+      {
+         "hp": 962431,
+         "eind": 12136
+      },
+      {
+         "hp": 962406,
+         "pl": "<10",
+         "eind": 12137
+      },
+      {
+         "hp": 962389,
+         "pl": 100,
+         "eind": 12138
+      },
+      {
+         "hp": 962378,
+         "eind": 12139
+      },
+      {
+         "hp": 962363,
+         "pl": "<10",
+         "eind": 12140
+      },
+      {
+         "hp": 962351,
+         "eind": 12141
+      },
+      {
+         "hp": 962345,
+         "eind": 12142
+      },
+      {
+         "hp": 962321,
+         "pl": 100,
+         "eind": 12143
+      },
+      {
+         "hp": 962239,
+         "pl": "<10",
+         "eind": 12144
+      },
+      {
+         "hp": 961887,
+         "pl": 100,
+         "eind": 12145
+      },
+      {
+         "hp": 961078,
+         "pl": "<10",
+         "eind": 12146
+      },
+      {
+         "hp": 960989,
+         "eind": 12147
+      },
+      {
+         "hp": 960614,
+         "eind": 12148
+      },
+      {
+         "hp": 960596,
+         "eind": 12151
+      },
+      {
+         "hp": 960371,
+         "pl": 100,
+         "eind": 12152
+      },
+      {
+         "hp": 960227,
+         "eind": 12153
+      },
+      {
+         "hp": 959829,
+         "pl": "<10",
+         "eind": 12154
+      },
+      {
+         "hp": 959754,
+         "pl": 100,
+         "eind": 12155
+      },
+      {
+         "hp": 959465,
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "hp": 959263,
+         "eind": 12157
+      },
+      {
+         "hp": 959147,
+         "eind": 12158
+      },
+      {
+         "hp": 958012,
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "hp": 957923,
+         "eind": 12161
+      },
+      {
+         "hp": 957805,
+         "eind": 12162
+      },
+      {
+         "hp": 957139,
+         "pl": 200,
+         "eind": 12163
+      },
+      {
+         "hp": 957034,
+         "eind": 12164
+      },
+      {
+         "hp": 956467,
+         "eind": 12165
+      },
+      {
+         "hp": 956247,
+         "eind": 12167
+      },
+      {
+         "hp": 956169,
+         "eind": 12168
+      },
+      {
+         "hp": 956084,
+         "eind": 12169
+      },
+      {
+         "hp": 955980,
+         "pl": 300,
+         "eind": 12171
+      },
+      {
+         "hp": 955333,
+         "eind": 12172
+      },
+      {
+         "hp": 954147,
+         "pl": 400,
+         "eind": 12173
+      },
+      {
+         "hp": 953254,
+         "pl": 300,
+         "eind": 12174
+      },
+      {
+         "hp": 952174,
+         "eind": 12175
+      },
+      {
+         "hp": 951221,
+         "pl": 400,
+         "eind": 12176
+      },
+      {
+         "hp": 950134,
+         "pl": 300,
+         "eind": 12177
+      },
+      {
+         "hp": 949152,
+         "pl": 200,
+         "eind": 12178
+      },
+      {
+         "hp": 948472,
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "hp": 947868,
+         "eind": 12180
+      },
+      {
+         "hp": 947474,
+         "pl": "<10",
+         "eind": 12181
+      },
+      {
+         "hp": 947254,
+         "eind": 12182
+      },
+      {
+         "hp": 947228,
+         "eind": 12186
+      },
+      {
+         "hp": 947169,
+         "eind": 12187
       }
    ],
    "141": [
@@ -907141,8 +912528,206 @@
          "eind": 12127
       },
       {
-         "hp": 1673803,
+         "hp": 1673788,
          "eind": 12129
+      },
+      {
+         "hp": 1673756,
+         "eind": 12130
+      },
+      {
+         "hp": 1673577,
+         "eind": 12131
+      },
+      {
+         "hp": 1673494,
+         "eind": 12132
+      },
+      {
+         "hp": 1673446,
+         "eind": 12133
+      },
+      {
+         "hp": 1673416,
+         "eind": 12134
+      },
+      {
+         "hp": 1673412,
+         "eind": 12135
+      },
+      {
+         "hp": 1673406,
+         "eind": 12136
+      },
+      {
+         "hp": 1673399,
+         "eind": 12137
+      },
+      {
+         "hp": 1673393,
+         "eind": 12138
+      },
+      {
+         "hp": 1673391,
+         "eind": 12139
+      },
+      {
+         "hp": 1673385,
+         "eind": 12140
+      },
+      {
+         "hp": 1673384,
+         "eind": 12141
+      },
+      {
+         "hp": 1673382,
+         "eind": 12142
+      },
+      {
+         "hp": 1673339,
+         "eind": 12144
+      },
+      {
+         "hp": 1673237,
+         "eind": 12145
+      },
+      {
+         "hp": 1672938,
+         "eind": 12146
+      },
+      {
+         "hp": 1672915,
+         "eind": 12147
+      },
+      {
+         "hp": 1672833,
+         "eind": 12148
+      },
+      {
+         "hp": 1672830,
+         "eind": 12151
+      },
+      {
+         "hp": 1672712,
+         "eind": 12152
+      },
+      {
+         "hp": 1672647,
+         "eind": 12153
+      },
+      {
+         "hp": 1672507,
+         "eind": 12154
+      },
+      {
+         "hp": 1672498,
+         "eind": 12155
+      },
+      {
+         "hp": 1672383,
+         "eind": 12156
+      },
+      {
+         "hp": 1672304,
+         "eind": 12157
+      },
+      {
+         "hp": 1672278,
+         "eind": 12158
+      },
+      {
+         "hp": 1671786,
+         "eind": 12159
+      },
+      {
+         "hp": 1671759,
+         "eind": 12161
+      },
+      {
+         "hp": 1671703,
+         "eind": 12162
+      },
+      {
+         "hp": 1671520,
+         "eind": 12163
+      },
+      {
+         "hp": 1671482,
+         "pl": 100,
+         "eind": 12164
+      },
+      {
+         "hp": 1671276,
+         "eind": 12165
+      },
+      {
+         "hp": 1671202,
+         "eind": 12167
+      },
+      {
+         "hp": 1671150,
+         "eind": 12168
+      },
+      {
+         "hp": 1671092,
+         "eind": 12169
+      },
+      {
+         "hp": 1671020,
+         "eind": 12171
+      },
+      {
+         "hp": 1670729,
+         "eind": 12172
+      },
+      {
+         "hp": 1670307,
+         "eind": 12173
+      },
+      {
+         "hp": 1670026,
+         "eind": 12174
+      },
+      {
+         "hp": 1669524,
+         "eind": 12175
+      },
+      {
+         "hp": 1669162,
+         "eind": 12176
+      },
+      {
+         "hp": 1668754,
+         "eind": 12177
+      },
+      {
+         "hp": 1668376,
+         "eind": 12178
+      },
+      {
+         "hp": 1668171,
+         "pl": "<10",
+         "eind": 12179
+      },
+      {
+         "hp": 1667943,
+         "eind": 12180
+      },
+      {
+         "hp": 1667636,
+         "eind": 12181
+      },
+      {
+         "hp": 1667533,
+         "eind": 12182
+      },
+      {
+         "hp": 1667476,
+         "eind": 12186
+      },
+      {
+         "hp": 1667446,
+         "eind": 12187
       }
    ],
    "186": [
@@ -909841,6 +915426,38 @@
       {
          "pl": "<10",
          "eind": 12100
+      },
+      {
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "pl": "<10",
+         "eind": 12161
+      },
+      {
+         "pl": 100,
+         "eind": 12162
+      },
+      {
+         "pl": 200,
+         "eind": 12173
+      },
+      {
+         "pl": 100,
+         "eind": 12174
+      },
+      {
+         "pl": 200,
+         "eind": 12176
+      },
+      {
+         "pl": 100,
+         "eind": 12177
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
       }
    ],
    "184": [
@@ -926765,6 +932382,14 @@
       {
          "pl": "<10",
          "eind": 12054
+      },
+      {
+         "pl": 100,
+         "eind": 12177
+      },
+      {
+         "pl": "<10",
+         "eind": 12178
       }
    ],
    "273": [
@@ -937006,6 +942631,106 @@
       {
          "pl": "<10",
          "eind": 12116
+      },
+      {
+         "pl": 100,
+         "eind": 12130
+      },
+      {
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "pl": 100,
+         "eind": 12135
+      },
+      {
+         "pl": "<10",
+         "eind": 12136
+      },
+      {
+         "pl": 100,
+         "eind": 12138
+      },
+      {
+         "pl": "<10",
+         "eind": 12140
+      },
+      {
+         "pl": 100,
+         "eind": 12141
+      },
+      {
+         "pl": "<10",
+         "eind": 12142
+      },
+      {
+         "pl": 100,
+         "eind": 12143
+      },
+      {
+         "pl": "<10",
+         "eind": 12145
+      },
+      {
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "pl": "<10",
+         "eind": 12155
+      },
+      {
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "pl": 200,
+         "eind": 12163
+      },
+      {
+         "pl": 300,
+         "eind": 12165
+      },
+      {
+         "pl": 200,
+         "eind": 12167
+      },
+      {
+         "pl": 300,
+         "eind": 12168
+      },
+      {
+         "pl": 400,
+         "eind": 12173
+      },
+      {
+         "pl": 300,
+         "eind": 12174
+      },
+      {
+         "pl": 400,
+         "eind": 12175
+      },
+      {
+         "pl": 500,
+         "eind": 12176
+      },
+      {
+         "pl": 400,
+         "eind": 12177
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "pl": "<10",
+         "eind": 12181
       }
    ],
    "144": [
@@ -937793,6 +943518,101 @@
       {
          "pl": 300,
          "eind": 12127
+      },
+      {
+         "pl": 200,
+         "eind": 12129
+      },
+      {
+         "pl": 300,
+         "eind": 12130
+      },
+      {
+         "pl": 100,
+         "eind": 12131
+      },
+      {
+         "pl": 200,
+         "eind": 12134
+      },
+      {
+         "pl": 100,
+         "eind": 12146
+      },
+      {
+         "pl": 200,
+         "eind": 12148
+      },
+      {
+         "hp": 999995,
+         "pl": 100,
+         "eind": 12156
+      },
+      {
+         "hp": 1000000,
+         "pl": "<10",
+         "eind": 12157
+      },
+      {
+         "pl": 500,
+         "eind": 12159
+      },
+      {
+         "pl": 600,
+         "eind": 12163
+      },
+      {
+         "hp": 999996,
+         "pl": 700,
+         "eind": 12169
+      },
+      {
+         "hp": 1000000,
+         "eind": 12171
+      },
+      {
+         "pl": 800,
+         "eind": 12172
+      },
+      {
+         "hp": 999996,
+         "pl": 1000,
+         "eind": 12173
+      },
+      {
+         "hp": 1000000,
+         "eind": 12174
+      },
+      {
+         "hp": 999980,
+         "eind": 12175
+      },
+      {
+         "hp": 1000000,
+         "pl": 1200,
+         "eind": 12176
+      },
+      {
+         "pl": 1100,
+         "eind": 12177
+      },
+      {
+         "pl": 600,
+         "eind": 12178
+      },
+      {
+         "hp": 999999,
+         "pl": 400,
+         "eind": 12179
+      },
+      {
+         "hp": 1000000,
+         "pl": 200,
+         "eind": 12180
+      },
+      {
+         "pl": 100,
+         "eind": 12181
       }
    ],
    "145": [
@@ -940779,6 +946599,50 @@
       {
          "pl": 100,
          "eind": 12124
+      },
+      {
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "pl": 100,
+         "eind": 12134
+      },
+      {
+         "pl": "<10",
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12165
+      },
+      {
+         "pl": "<10",
+         "eind": 12167
+      },
+      {
+         "pl": 100,
+         "eind": 12169
+      },
+      {
+         "pl": "<10",
+         "eind": 12171
+      },
+      {
+         "pl": 100,
+         "eind": 12172
+      },
+      {
+         "pl": "<10",
+         "eind": 12175
       }
    ],
    "42": [
@@ -1002184,6 +1008048,512 @@
          "pl": "<10",
          "r": 4.1666665,
          "eind": 11806
+      },
+      {
+         "adiv": "Cyborgs",
+         "desc": [
+            {
+               "name": "ULTRAMAFIC MINE",
+               "desc": "A mine extracting platinum from deep-seated deposits of igneous rock."
+            },
+            {
+               "name": "CYBORGS",
+               "desc": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            }
+         ],
+         "eind": 12149
+      },
+      {
+         "t": 23,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12150
+      },
+      {
+         "pl": 200,
+         "r": 0.0,
+         "eind": 12151
+      },
+      {
+         "pl": 2700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 12152
+      },
+      {
+         "pl": 2600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12153
+      },
+      {
+         "pl": 2200,
+         "eind": 12154
+      },
+      {
+         "pl": 2300,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 12155
+      },
+      {
+         "pl": 1100,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 12156
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199987
+            }
+         },
+         "eind": 12157
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199994
+            }
+         },
+         "eind": 12158
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12159
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199999
+            }
+         },
+         "eind": 12161
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12162
+      },
+      {
+         "pl": 1000,
+         "eind": 12163
+      },
+      {
+         "pl": 1100,
+         "eind": 12164
+      },
+      {
+         "pl": 1200,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 12165
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12167
+      },
+      {
+         "pl": 900,
+         "eind": 12171
+      },
+      {
+         "pl": 800,
+         "eind": 12172
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199998
+            }
+         },
+         "eind": 12173
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 199997
+            }
+         },
+         "eind": 12174
+      },
+      {
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 16,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12175
+      },
+      {
+         "pl": 1000,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12176
+      },
+      {
+         "pl": 700,
+         "eind": 12178
+      },
+      {
+         "pl": 400,
+         "eind": 12179
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99998
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12180
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 100000
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12181
+      },
+      {
+         "pl": 600,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99996
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12182
+      },
+      {
+         "pl": 700,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99997
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12186
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "SEORAKSAN": {
+               "index": 0,
+               "name": "SEORAKSAN",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.2777778,
+               "hp": 99993
+            },
+            "GYEONGSEONG": {
+               "index": 1,
+               "name": "GYEONGSEONG",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 0.5555556,
+               "hp": 200000
+            }
+         },
+         "eind": 12187
       }
    ],
    "252": [
@@ -1013161,18 +1019531,276 @@
          "eind": 12127
       },
       {
-         "pl": 2200,
+         "pl": 1700,
          "regions": {
             "GEMSTELLE GENERATOR": {
                "index": 0,
                "name": "GEMSTELLE GENERATOR",
                "desc": "Nothing of note.",
                "t": 19,
-               "r": 0.0,
-               "hp": 776392
+               "r": 2.7777777,
+               "hp": 779734
             }
          },
          "eind": 12129
+      },
+      {
+         "pl": 800,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 797448
+            }
+         },
+         "eind": 12130
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 882453
+            }
+         },
+         "eind": 12131
+      },
+      {
+         "pl": 200,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 894284
+            }
+         },
+         "eind": 12132
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 910709
+            }
+         },
+         "eind": 12133
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 934566
+            }
+         },
+         "eind": 12134
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 936947
+            }
+         },
+         "eind": 12135
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 939340
+            }
+         },
+         "eind": 12136
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 941754
+            }
+         },
+         "eind": 12137
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 944134
+            }
+         },
+         "eind": 12138
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 946527
+            }
+         },
+         "eind": 12139
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 948924
+            }
+         },
+         "eind": 12140
+      },
+      {
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 951306
+            }
+         },
+         "eind": 12141
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 953726
+            }
+         },
+         "eind": 12142
+      },
+      {
+         "pl": 500,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 956125
+            }
+         },
+         "eind": 12143
+      },
+      {
+         "pl": 400,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 967960
+            }
+         },
+         "eind": 12144
+      },
+      {
+         "pl": 300,
+         "regions": {
+            "GEMSTELLE GENERATOR": {
+               "index": 0,
+               "name": "GEMSTELLE GENERATOR",
+               "desc": "Nothing of note.",
+               "t": 19,
+               "r": 2.7777777,
+               "hp": 1000000
+            }
+         },
+         "eind": 12145
+      },
+      {
+         "pl": 200,
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12147
+      },
+      {
+         "pl": 300,
+         "eind": 12148
+      },
+      {
+         "pl": 200,
+         "eind": 12151
+      },
+      {
+         "pl": 100,
+         "eind": 12154
+      },
+      {
+         "pl": "<10",
+         "eind": 12157
+      },
+      {
+         "pl": 100,
+         "eind": 12164
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12187
       }
    ],
    "72": [
@@ -1098959,8 +1105587,230 @@
          "eind": 12127
       },
       {
-         "hp": 620464,
+         "hp": 620401,
          "eind": 12129
+      },
+      {
+         "hp": 620121,
+         "eind": 12130
+      },
+      {
+         "hp": 618780,
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "hp": 618593,
+         "eind": 12132
+      },
+      {
+         "hp": 618312,
+         "eind": 12133
+      },
+      {
+         "hp": 617938,
+         "pl": 100,
+         "eind": 12134
+      },
+      {
+         "hp": 617891,
+         "eind": 12135
+      },
+      {
+         "hp": 617868,
+         "eind": 12136
+      },
+      {
+         "hp": 617841,
+         "eind": 12137
+      },
+      {
+         "hp": 617814,
+         "eind": 12138
+      },
+      {
+         "hp": 617789,
+         "eind": 12139
+      },
+      {
+         "hp": 617753,
+         "eind": 12140
+      },
+      {
+         "hp": 617719,
+         "eind": 12141
+      },
+      {
+         "hp": 617669,
+         "eind": 12142
+      },
+      {
+         "hp": 617641,
+         "eind": 12143
+      },
+      {
+         "hp": 617445,
+         "eind": 12144
+      },
+      {
+         "hp": 616638,
+         "eind": 12145
+      },
+      {
+         "hp": 614518,
+         "eind": 12146
+      },
+      {
+         "hp": 614344,
+         "pl": "<10",
+         "eind": 12147
+      },
+      {
+         "hp": 613543,
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "hp": 613496,
+         "eind": 12151
+      },
+      {
+         "hp": 612805,
+         "eind": 12152
+      },
+      {
+         "hp": 612363,
+         "pl": 200,
+         "eind": 12153
+      },
+      {
+         "hp": 611494,
+         "pl": 100,
+         "eind": 12154
+      },
+      {
+         "hp": 611349,
+         "eind": 12155
+      },
+      {
+         "hp": 610414,
+         "eind": 12156
+      },
+      {
+         "hp": 609926,
+         "pl": "<10",
+         "eind": 12157
+      },
+      {
+         "hp": 609727,
+         "eind": 12158
+      },
+      {
+         "hp": 606925,
+         "pl": 300,
+         "eind": 12159
+      },
+      {
+         "hp": 606603,
+         "eind": 12161
+      },
+      {
+         "hp": 606349,
+         "eind": 12162
+      },
+      {
+         "hp": 604569,
+         "pl": 400,
+         "eind": 12163
+      },
+      {
+         "hp": 604214,
+         "pl": 500,
+         "eind": 12164
+      },
+      {
+         "hp": 602727,
+         "eind": 12165
+      },
+      {
+         "hp": 602127,
+         "pl": 400,
+         "eind": 12167
+      },
+      {
+         "hp": 601799,
+         "pl": 500,
+         "eind": 12168
+      },
+      {
+         "hp": 601450,
+         "eind": 12169
+      },
+      {
+         "hp": 601145,
+         "pl": 600,
+         "eind": 12171
+      },
+      {
+         "hp": 599113,
+         "pl": 700,
+         "eind": 12172
+      },
+      {
+         "hp": 595451,
+         "pl": 900,
+         "eind": 12173
+      },
+      {
+         "hp": 592034,
+         "eind": 12174
+      },
+      {
+         "hp": 587891,
+         "pl": 800,
+         "eind": 12175
+      },
+      {
+         "hp": 584377,
+         "pl": 1200,
+         "eind": 12176
+      },
+      {
+         "hp": 579839,
+         "pl": 1000,
+         "eind": 12177
+      },
+      {
+         "hp": 576533,
+         "pl": 500,
+         "eind": 12178
+      },
+      {
+         "hp": 574466,
+         "pl": 300,
+         "eind": 12179
+      },
+      {
+         "hp": 572595,
+         "pl": 200,
+         "eind": 12180
+      },
+      {
+         "hp": 571010,
+         "pl": 100,
+         "eind": 12181
+      },
+      {
+         "hp": 570290,
+         "eind": 12182
+      },
+      {
+         "hp": 570141,
+         "eind": 12186
+      },
+      {
+         "hp": 570050,
+         "eind": 12187
       }
    ],
    "137": [
@@ -1122629,8 +1129479,216 @@
          "eind": 12127
       },
       {
-         "hp": 1695424,
+         "hp": 1695391,
          "eind": 12129
+      },
+      {
+         "hp": 1695322,
+         "eind": 12130
+      },
+      {
+         "hp": 1694940,
+         "eind": 12131
+      },
+      {
+         "hp": 1694892,
+         "eind": 12132
+      },
+      {
+         "hp": 1694805,
+         "eind": 12133
+      },
+      {
+         "hp": 1694717,
+         "eind": 12134
+      },
+      {
+         "hp": 1694710,
+         "eind": 12135
+      },
+      {
+         "hp": 1694698,
+         "eind": 12136
+      },
+      {
+         "hp": 1694690,
+         "eind": 12137
+      },
+      {
+         "hp": 1694682,
+         "eind": 12138
+      },
+      {
+         "hp": 1694675,
+         "eind": 12139
+      },
+      {
+         "hp": 1694662,
+         "pl": 100,
+         "eind": 12140
+      },
+      {
+         "hp": 1694648,
+         "pl": "<10",
+         "eind": 12141
+      },
+      {
+         "hp": 1694635,
+         "eind": 12142
+      },
+      {
+         "hp": 1694627,
+         "eind": 12143
+      },
+      {
+         "hp": 1694558,
+         "eind": 12144
+      },
+      {
+         "hp": 1694217,
+         "eind": 12145
+      },
+      {
+         "hp": 1693601,
+         "eind": 12146
+      },
+      {
+         "hp": 1693522,
+         "eind": 12147
+      },
+      {
+         "hp": 1693274,
+         "eind": 12148
+      },
+      {
+         "hp": 1693258,
+         "eind": 12151
+      },
+      {
+         "hp": 1693089,
+         "eind": 12152
+      },
+      {
+         "hp": 1692970,
+         "eind": 12153
+      },
+      {
+         "hp": 1692707,
+         "eind": 12154
+      },
+      {
+         "hp": 1692651,
+         "eind": 12155
+      },
+      {
+         "hp": 1692392,
+         "eind": 12156
+      },
+      {
+         "hp": 1692245,
+         "eind": 12157
+      },
+      {
+         "hp": 1692219,
+         "eind": 12158
+      },
+      {
+         "hp": 1690999,
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "hp": 1690854,
+         "pl": "<10",
+         "eind": 12161
+      },
+      {
+         "hp": 1690734,
+         "pl": 100,
+         "eind": 12162
+      },
+      {
+         "hp": 1690018,
+         "eind": 12163
+      },
+      {
+         "hp": 1689914,
+         "eind": 12164
+      },
+      {
+         "hp": 1689370,
+         "eind": 12165
+      },
+      {
+         "hp": 1689109,
+         "eind": 12167
+      },
+      {
+         "hp": 1688949,
+         "eind": 12168
+      },
+      {
+         "hp": 1688810,
+         "eind": 12169
+      },
+      {
+         "hp": 1688707,
+         "eind": 12171
+      },
+      {
+         "hp": 1688074,
+         "eind": 12172
+      },
+      {
+         "hp": 1687007,
+         "pl": 200,
+         "eind": 12173
+      },
+      {
+         "hp": 1686182,
+         "eind": 12174
+      },
+      {
+         "hp": 1684841,
+         "eind": 12175
+      },
+      {
+         "hp": 1683833,
+         "eind": 12176
+      },
+      {
+         "hp": 1682843,
+         "eind": 12177
+      },
+      {
+         "hp": 1682077,
+         "pl": 100,
+         "eind": 12178
+      },
+      {
+         "hp": 1681489,
+         "pl": "<10",
+         "eind": 12179
+      },
+      {
+         "hp": 1681058,
+         "eind": 12180
+      },
+      {
+         "hp": 1680724,
+         "eind": 12181
+      },
+      {
+         "hp": 1680640,
+         "eind": 12182
+      },
+      {
+         "hp": 1680627,
+         "eind": 12186
+      },
+      {
+         "hp": 1680592,
+         "eind": 12187
       }
    ],
    "177": [
@@ -1126310,6 +1133368,14 @@
       {
          "pl": "<10",
          "eind": 12100
+      },
+      {
+         "pl": 100,
+         "eind": 12172
+      },
+      {
+         "pl": "<10",
+         "eind": 12179
       }
    ],
    "183": [
@@ -1134350,6 +1141416,58 @@
       {
          "pl": "<10",
          "eind": 12116
+      },
+      {
+         "pl": 100,
+         "eind": 12134
+      },
+      {
+         "pl": "<10",
+         "eind": 12146
+      },
+      {
+         "pl": 100,
+         "eind": 12148
+      },
+      {
+         "pl": "<10",
+         "eind": 12156
+      },
+      {
+         "pl": 100,
+         "eind": 12159
+      },
+      {
+         "pl": 200,
+         "eind": 12163
+      },
+      {
+         "pl": 300,
+         "eind": 12172
+      },
+      {
+         "pl": 200,
+         "eind": 12174
+      },
+      {
+         "pl": 300,
+         "eind": 12176
+      },
+      {
+         "pl": 200,
+         "eind": 12178
+      },
+      {
+         "pl": 100,
+         "eind": 12179
+      },
+      {
+         "pl": "<10",
+         "eind": 12180
+      },
+      {
+         "pl": 100,
+         "eind": 12187
       }
    ],
    "225": [
@@ -1144373,6 +1151491,90 @@
       {
          "pl": 100,
          "eind": 12122
+      },
+      {
+         "pl": "<10",
+         "eind": 12131
+      },
+      {
+         "pl": 100,
+         "eind": 12133
+      },
+      {
+         "pl": 200,
+         "eind": 12135
+      },
+      {
+         "pl": 100,
+         "eind": 12136
+      },
+      {
+         "pl": 200,
+         "eind": 12139
+      },
+      {
+         "pl": 100,
+         "eind": 12145
+      },
+      {
+         "pl": 200,
+         "eind": 12148
+      },
+      {
+         "pl": 100,
+         "eind": 12152
+      },
+      {
+         "pl": 200,
+         "eind": 12153
+      },
+      {
+         "pl": 100,
+         "eind": 12156
+      },
+      {
+         "pl": "<10",
+         "eind": 12158
+      },
+      {
+         "pl": 200,
+         "eind": 12159
+      },
+      {
+         "pl": 300,
+         "eind": 12169
+      },
+      {
+         "pl": 500,
+         "eind": 12173
+      },
+      {
+         "pl": 400,
+         "eind": 12174
+      },
+      {
+         "pl": 700,
+         "eind": 12176
+      },
+      {
+         "pl": 600,
+         "eind": 12177
+      },
+      {
+         "pl": 300,
+         "eind": 12178
+      },
+      {
+         "pl": 200,
+         "eind": 12179
+      },
+      {
+         "pl": 100,
+         "eind": 12180
+      },
+      {
+         "pl": 200,
+         "eind": 12182
       }
    ],
    "232": [

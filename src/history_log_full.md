@@ -19246,4 +19246,85 @@ Assault Division: Cyborgs (Enemies) U7M deploys to *Martale* (2026-10-30 19:14  
 Assault Division: Cyborgs (Enemies) U7M deploys to *Charon Prime* (2026-10-30 20:14  UTC)<br/>
 Assault Division: Cyborgs (Enemies) U7M leaves *Charon Prime* (2026-10-30 21:13  UTC)<br/>
 Assault Division: CYBORGS (Enemies) U1E deploys to *Choepessa IV* (2026-10-30 21:14  UTC)<br/>
-*Zzaniah Prime* Region 0 GEMSTELLE GENERATOR Settlement owned by  Automaton was altered (2026-10-30 21:36  UTC)<br/>
+ Region Decay: 1.0 on Zzaniah Prime's GEMSTELLE GENERATOR region
+ (2026-10-30 22:00  UTC)<br/>
+ Region Decay: 1.0 on Zzaniah Prime's GEMSTELLE GENERATOR region
+ (2026-10-30 22:00  UTC)<br/>
+
+### Day: #997
+*Varylia 5* defense is won (2026-10-31 10:26  UTC)<br/>
+DSS deploys to *Choepessa IV* of the Trigon sector (2026-10-31 10:26  UTC)<br/>
+ Decay: 1.0 on Varylia 5
+ (2026-10-31 12:00  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B leaves *Menkent* (2026-10-31 14:44  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Choohe* (2026-10-31 14:46  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Choohe* (2026-10-31 15:14  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Matar Bay* (2026-10-31 15:16  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Matar Bay* (2026-10-31 15:44  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Martale* (2026-10-31 15:46  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Martale* (2026-10-31 16:14  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q deploys to *Charon Prime* (2026-10-31 16:16  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U7Q leaves *Charon Prime* (2026-10-31 16:44  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1A deploys to *Choepessa IV* (2026-10-31 16:46  UTC)<br/>
+Assault Division: THE JET BRIGADE (Enemies) U1B deploys to *Choepessa IV* (2026-10-31 16:46  UTC)<br/>
+ Decay: 4.5 on Choepessa IV
+ (2026-10-31 18:00  UTC)<br/>
+
+### Day: #998
+Assault Division: CYBORGS (Enemies) U1D leaves *Zzaniah Prime* (2026-11-01 13:55  UTC)<br/>
+Assault Division: CYBORGS (Enemies) U1C deploys to *Mintoria* (2026-11-01 13:56  UTC)<br/>
+*Mintoria* of the Gellert sector is attacked by Automatons (2026-11-01 13:57  UTC)<br/>
+*Mintoria* Region 1 GYEONGSEONG Town is besieged by Human (2026-11-01 13:57  UTC)<br/>
+ Region Decay: 0.1 on Mintoria's SEORAKSAN region<br/> Region Decay: 0.2 on Mintoria's GYEONGSEONG region
+ (2026-11-01 14:00  UTC)<br/>
+ Region Decay: 0.1 on Mintoria's SEORAKSAN region<br/> Region Decay: 0.2 on Mintoria's GYEONGSEONG region
+ (2026-11-01 14:00  UTC)<br/>
+Dispatch: STRATAGEM GRANTED. The Orbital Laser Stratagem has been authorized for immediate use on *Choepessa IV*, for the next 24 hours. (2026-11-01 18:09  UTC)<br/>
+*Choepessa IV* Region 3 EVOLUTION PLATS Settlement siege has ended (2026-11-02 01:10  UTC)<br/>
+
+### Day: #999
+Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Fori Prime* (2026-11-02 12:11  UTC)<br/>
+Assault Division: PREDATOR STRAIN (Enemies) U1A leaves *Fori Prime* (2026-11-02 12:11  UTC)<br/>
+*Fori Prime* of the Draco sector instantly flips to Terminid control (2026-11-02 12:12  UTC)<br/>
+*Fori Prime* liberation campaign starts (2026-11-02 12:12  UTC)<br/>
+Dispatch: MINOR TERMINID OUTBREAK. A minor Terminid outbreak has occurred on FORI PRIME, likely merely the result of recent system updates to the TCS+ firmware. While the outbreak is minor and will be contained in due time, Helldivers are welcome to aid in the containment, should they so choose, but the threat is assessed as very low and barely worth attention. (2026-11-02 12:15  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A deploys to *Fori Prime* (2026-11-02 12:37  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A leaves *Fori Prime* (2026-11-02 12:37  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1I deploys to *Nivel 43* (2026-11-02 14:14  UTC)<br/>
+*Nivel 43* of the Mirin sector is attacked by Terminids (2026-11-02 14:14  UTC)<br/>
+Assault Division: DRAGONROACHES (Enemies) U1I leaves *Nivel 43* (2026-11-02 14:15  UTC)<br/>
+ Decay: 0.0 on Nivel 43
+ (2026-11-02 14:15  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B leaves *Partion* (2026-11-02 15:40  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B deploys to *Gacrux* (2026-11-02 15:41  UTC)<br/>
+Major Order | [A3-10-9](https://helldivers.wiki.gg/wiki/Major_Orders#A3-10-9) MEMORIAM ETERNAL-INTERROGATION ENHANCEMENT is failed | Objective: Gather/Eliminate (2026-11-02 16:13  UTC)<br/>
+Dispatch: MAJOR ORDER FAILED. The naked hatred of our enemies has made the construction of the *Malevelon Creek* Interrogation Center for Human Rights impossible. Funding issues have unfortunately forced the Records Department to erase the bottom 10% of fallen heroes from their records, affecting all soldiers with last names beginning with Y and Z. (2026-11-02 16:15  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B leaves *Gacrux* (2026-11-02 16:42  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B deploys to *Acamar IV* (2026-11-02 16:44  UTC)<br/>
+*Acamar IV* of the Jin Xi sector is attacked by Terminids (2026-11-02 16:45  UTC)<br/>
+*Acamar IV* Region 1 ERIDANI City is besieged by Human (2026-11-02 16:45  UTC)<br/>
+ Decay: 0.0 on Acamar IV
+ (2026-11-02 16:45  UTC)<br/>
+ Region Decay: 0.1 on Acamar IV's DEMOCRACY ALWAYS region<br/> Region Decay: 0.4 on Acamar IV's ERIDANI region
+ (2026-11-02 16:45  UTC)<br/>
+Dispatch: STRATEGIC UPDATE. Orbital Laser Stratagem availability has now ended. (2026-11-02 18:10  UTC)<br/>
+Dispatch: MISINFORMATION ALERT. Helldivers are to be aware of recent falsified reports fraudulently claiming that Termicide 2.0 exposure has increased the spread of the Gloom. The Ministry of Truth is investigating the source of this blatant attempt to deceive our citizens with outlandish lies. In the meantime, all personnel are ordered to report any credulous discussion of these rumors. (2026-11-02 21:49  UTC)<br/>
+*Mintoria* Region 0 SEORAKSAN Settlement is besieged by Human (2026-11-03 01:45  UTC)<br/>
+*Acamar IV* Region 0 DEMOCRACY ALWAYS Settlement is besieged by Human (2026-11-03 07:42  UTC)<br/>
+*Fori Prime* is lightly enveloped by the Gloom (2026-11-03 09:00  UTC)<br/>
+*Acamar IV* lightly enveloped by the Gloom (2026-11-03 09:00  UTC)<br/>
+
+# Day: #1000
+*Nivel 43* has a new effect: Light Gloom-This world is lightly obscured by a gloom cloud. (2026-11-03 11:02  UTC)<br/>
+DSS deploys to *Acamar IV* of the Jin Xi sector (2026-11-03 12:33  UTC)<br/>
+*Fori Prime* is moderately enveloped by the Gloom (2026-11-03 12:36  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1L leaves *Omicron* (2026-11-03 12:37  UTC)<br/>
+*Gacrux* is lightly enveloped by the Gloom (2026-11-03 12:41  UTC)<br/>
+*Fori Prime* is heavily enveloped by the Gloom (2026-11-03 12:59  UTC)<br/>
+ Decay: 2.5 on Fori Prime
+ (2026-11-03 12:59  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Nivel 43* (2026-11-03 13:00  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. Seditious and entirely false rumours regarding TCS+ malfunctions are spreading across civilian channels, resulting in unfounded economic panic. SEAF Intelligence confirms: there is zero actionable peril to fully insured citizens. To restore public confidence, the Helldivers are ordered to eliminate 700,000,000 Terminids. To aid in swiftly safeguarding Federal prosperity, High Command has authorized and subsidized fleetwide availability of the INCINERATOR FRV Stratagem. (2026-11-03 13:01  UTC)<br/>
+Major Order | [A3-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-1) SERENE GUARDIAN-ASSURANCE is issued | Objective: Eliminate (2026-11-03 13:01  UTC)<br/>
+Assault Division: Spore Burst Strain (Enemies) U1A leaves *Fori Prime* (2026-11-03 13:02  UTC)<br/>
+*Nivel 43* has a new effect: CAUSTIC STRAIN-A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death. (2026-11-03 13:10  UTC)<br/>
