@@ -19391,6 +19391,7 @@ Assault Division: NOXIOUS STRAIN (Enemies) U1C leaves *Acamar IV* (2026-11-04 10
 *Fronteria* is heavily enveloped by the Gloom (2026-11-04 12:41  UTC)<br/>
 *Fronteria* is established as a HIVE WORLD POI (2026-11-04 12:41  UTC)<br/>
 Assault Division: NOXIOUS STRAIN (Enemies) U1C deploys to *Fronteria* (2026-11-04 12:41  UTC)<br/>
+*Grand Errant* is no longer marked as a TERMINID CONTROL SYSTEM+ POI (2026-11-04 12:41  UTC)<br/>
 Assault Division: RUPTURE STRAIN (ENEMIES) U1B leaves *Acamar IV* (2026-11-04 12:49  UTC)<br/>
  Decay: 3.5 on Fronteria
  (2026-11-04 12:49  UTC)<br/>
@@ -19483,4 +19484,98 @@ Assault Division: Heavy SEAF Presence (Enemies) U8A deploys to *Grand Errant* (2
 Assault Division: Heavy SEAF Presence (Enemies) U8B deploys to *Pherkad Secundus* (2026-11-08 12:53  UTC)<br/>
 Dispatch: STRATEGIC DIRECTIVE COMPLETED The Helldivers successfully held CRIMSICA, FRONTERIA, DARIUS II and ACHERNAR SECUNDUS and in doing so, confirmed which of the reported TCS+ breaches were truly legitimate. To ensure all sections of TCS+ system safely report a return to maximal efficiency, High Command has directed additional SEAF mobilizations—the most capable pest control in the known galaxy—to wall off affected planets for the remainder of this campaign. (2026-11-08 12:53  UTC)<br/>
 Dispatch: MAJOR ORDER WON The Helldivers successfully eliminated the mandated quota of Terminids with their judicious use of the INCINERATOR FRV Stratagem, delivering a crushing blow to alien insolence, and silencing equally dangerous rumours of TCS+ malfunctions. Coupled with the assurance that any anomalous readings along the perimeter will be suitably scrutinized, domestic markets immediately responded with patriotic vigor, reaffirming the infallibility of *Super Earth*, economic or otherwise. (2026-11-08 13:01  UTC)<br/>
-Major Order | [A3-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-1) SERENE GUARDIAN-ASSURANCE is Won | Objective: Eliminate (2026-11-08 13:01  UTC)<br/>
+Major Order | [A3-11-1](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-1) SERENE GUARDIAN-ASSURANCE is won | Objective: Eliminate (2026-11-08 13:01  UTC)<br/>
+
+### Day: #1006
+Assault Division: CAUSTIC STRAIN (Enemies) U1A leaves *Esker* (2026-11-09 10:13  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Bore Rock* (2026-11-09 10:14  UTC)<br/>
+*Bore Rock* of the Falstaff sector is attacked by Terminids (2026-11-09 10:15  UTC)<br/>
+ Decay: 0.0 on Bore Rock
+ (2026-11-09 10:15  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1F deploys to *Zagon Prime* (2026-11-09 10:16  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B leaves *Acamar IV* (2026-11-09 10:45  UTC)<br/>
+ Decay: 0.0 on Turing
+ (2026-11-09 10:45  UTC)<br/>
+ Region Decay: 0.4 on Turing's CHATOYANT region<br/> Region Decay: 0.2 on Turing's CARBONDALE region<br/> Region Decay: 0.4 on Turing's PERIWINKLE MILLS region
+ (2026-11-09 10:45  UTC)<br/>
+Assault Division: RUPTURE STRAIN (ENEMIES) U1B deploys to *Turing* (2026-11-09 10:46  UTC)<br/>
+*Turing* of the Umlaut sector is attacked by Terminids (2026-11-09 10:46  UTC)<br/>
+*Turing* Region 1 CARBONDALE Town is besieged by Human (2026-11-09 10:46  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1F leaves *Zagon Prime* (2026-11-09 11:02  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1F deploys to *Nivel 43* (2026-11-09 11:04  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1F leaves *Nivel 43* (2026-11-09 12:10  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1F deploys to *Erata Prime* (2026-11-09 12:11  UTC)<br/>
+*Erata Prime* of the Umlaut sector is attacked by Terminids (2026-11-09 12:12  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town is besieged by Human (2026-11-09 12:12  UTC)<br/>
+Major Order | [A3-11-3](https://helldivers.wiki.gg/wiki/Major_Orders#A3-11-3) SERENE GUARDIAN-CONTAINMENT is issued | Objective: Defend (2026-11-09 13:26  UTC)<br/>
+ Decay: 0.0 on Erata Prime
+ (2026-11-09 13:26  UTC)<br/>
+ Region Decay: 0.2 on Erata Prime's NEW DA NANG region<br/> Region Decay: 0.1 on Erata Prime's PHAM'S SITE region<br/> Region Decay: 0.2 on Erata Prime's OLD CHEMLAND region
+ (2026-11-09 13:26  UTC)<br/>
+Dispatch: NEW MAJOR ORDER. In an unprovoked, unforeseeable assault illustrative of their depravity, a newly mutated strain of Terminids have launched a wave of attacks across multiple TCS+ sectors, threatening to smother innocent colonies in a sea of fascist insect tyranny. The Helldivers must successfully defend against 7 Termind attacks to halt this tyrannical onslaught and restore order. (2026-11-09 13:27  UTC)<br/>
+DSS deploys to *Turing* of the Umlaut sector (2026-11-09 16:34  UTC)<br/>
+*Turing* Region 1 CARBONDALE Town has fallen to Human (2026-11-09 19:26  UTC)<br/>
+*Turing* Region 0 CHATOYANT City is besieged by Human (2026-11-10 06:39  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town is besieged by Human (2026-11-10 07:39  UTC)<br/>
+
+### Day: #1007
+*Esker* liberation campaign ends (2026-11-10 10:15  UTC)<br/>
+ Decay: 3.0 on Bore Rock
+ (2026-11-10 10:15  UTC)<br/>
+*Bore Rock* defense is failed (2026-11-10 10:16  UTC)<br/>
+*Bore Rock* liberation campaign starts (2026-11-10 10:16  UTC)<br/>
+Falstaff sector is fully under Terminid control (2026-11-10 10:16  UTC)<br/>
+*Turing* defense is won (2026-11-10 12:47  UTC)<br/>
+Assault Division: Heavy SEAF Presence (Enemies) U1N leaves *Choepessa IV* (2026-11-10 14:32  UTC)<br/>
+ Decay: 0.5 on Turing
+ (2026-11-10 14:32  UTC)<br/>
+*Erata Prime* Region 0 NEW DA NANG Town has fallen to Human (2026-11-10 15:16  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A leaves *Bore Rock* (2026-11-10 19:58  UTC)<br/>
+Assault Division: CAUSTIC STRAIN (Enemies) U1A deploys to *Brilliance* (2026-11-10 19:59  UTC)<br/>
+*Brilliance* of the Orion sector is attacked by Terminids (2026-11-10 20:00  UTC)<br/>
+*Terrek* of the Orion sector is attacked by Terminids (2026-11-10 20:00  UTC)<br/>
+ Decay: 0.0 on Terrek, Brilliance
+ (2026-11-10 20:00  UTC)<br/>
+*Erata Prime* Region 2 OLD CHEMLAND Town has fallen to Human (2026-11-10 20:51  UTC)<br/>
+ Decay: 1.0 on Bore Rock
+ (2026-11-10 20:51  UTC)<br/>
+*Erata Prime* Region 1 PHAM'S SITE Settlement is besieged by Human (2026-11-10 22:34  UTC)<br/>
+*Erata Prime* defense is won (2026-11-11 02:26  UTC)<br/>
+DSS deploys to *Bore Rock* of the Falstaff sector (2026-11-11 02:26  UTC)<br/>
+ Decay: 1.5 on Erata Prime
+ (2026-11-11 04:00  UTC)<br/>
+
+### Day: #1008
+DSS deploys to *Terrek* of the Orion sector (2026-11-11 12:34  UTC)<br/>
+*Grand Errant* is lightly enveloped by the Gloom (2026-11-11 15:39  UTC)<br/>
+*Grand Errant* is established as a HIVE WORLD POI (2026-11-11 15:39  UTC)<br/>
+*Grand Errant* of the Farsight sector instantly flips to Terminid control (2026-11-11 15:39  UTC)<br/>
+*Grand Errant* liberation campaign starts (2026-11-11 15:39  UTC)<br/>
+*Acrux IX* of the Ursa sector is attacked by Terminids (2026-11-11 15:42  UTC)<br/>
+*Gemma* of the Ursa sector is attacked by Terminids (2026-11-11 15:43  UTC)<br/>
+*Polaris Prime* of the Farsight sector is attacked by Terminids (2026-11-11 15:45  UTC)<br/>
+*Polaris Prime* Region 1 MOGO PLAINS Town is besieged by Human (2026-11-11 15:45  UTC)<br/>
+ Decay: 0.0 on Acrux IX, Gemma, Polaris Prime<br/> Decay: -1.0 on Grand Errant
+ (2026-11-11 15:45  UTC)<br/>
+ Region Decay: 0.4 on Polaris Prime's VILHELMINA DOROTHEA FREDRIKA region<br/> Region Decay: 0.2 on Polaris Prime's MOGO PLAINS region<br/> Region Decay: 0.4 on Polaris Prime's KALASATAMA PORT region
+ (2026-11-11 15:45  UTC)<br/>
+Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading at an unprecedented pace. GRAND ERRANT is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. (2026-11-11 15:48  UTC)<br/>
+Assault Division: NOXIOUS STRAIN (Enemies) U1G deploys to *Grand Errant* (2026-11-11 16:06  UTC)<br/>
+Dispatch: STRATEGIC ADVISORY. All Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately. In the current operational context, liberating GRAND ERRANT would end the current TERMINID attacks upon ACRUX IX, GEMMA and POLARIS PRIME. (2026-11-11 16:11  UTC)<br/>
+*Terrek* defense is won (2026-11-11 16:25  UTC)<br/>
+DSS deploys to *Brilliance* of the Orion sector (2026-11-11 16:25  UTC)<br/>
+ Decay: 1.0 on Grand Errant
+ (2026-11-11 16:25  UTC)<br/>
+DSS deploys to *Grand Errant* of the Farsight sector (2026-11-11 16:34  UTC)<br/>
+ Decay: 1.0 on Terrek
+ (2026-11-11 16:34  UTC)<br/>
+*Grand Errant* is liberated (2026-11-12 00:25  UTC)<br/>
+↳ *Acrux IX* defense is won (2026-11-12 00:25  UTC)<br/>
+↳ *Gemma* defense is won (2026-11-12 00:25  UTC)<br/>
+↳ *Polaris Prime* defense is won (2026-11-12 00:25  UTC)<br/>
+↳ DSS deploys to *Brilliance* of the Orion sector (2026-11-12 00:25  UTC)<br/>
+↳ Farsight sector is fully under Human control (2026-11-12 00:25  UTC)<br/>
+ Decay: 1.5 on Acrux IX, Gemma, Polaris Prime
+ (2026-11-12 02:00  UTC)<br/>
+
+### Day: #1009
